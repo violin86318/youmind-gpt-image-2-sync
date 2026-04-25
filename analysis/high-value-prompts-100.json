@@ -1,0 +1,3543 @@
+[
+  {
+    "rank": 1,
+    "id": "14869",
+    "title": "Apple 风格极简演示文稿封面",
+    "description": "此提示词可生成一张时尚的 Apple 风格演示文稿标题 Slides，采用编辑级排版和悬浮黑色玻璃质感产品对象，非常适合 Keynote 封面、融资方案演示（Pitch Decks）及设计系统展示。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14869",
+    "sourceLink": "https://x.com/Russell3402/status/2046806087903625331#reversed-0",
+    "promptLength": 2080,
+    "promptExcerpt": "Create a premium minimalist keynote-style presentation cover slide in an Apple-inspired industrial design aesthetic. Use a wide 16:9 layout with a deep matte black upper background and a pale concrete-gray lower platform occupying the bottom quarter of the frame. Place a large photorealistic floating rectangular slab in the right-center foreground, resemblin",
+    "workType": "海报/封面",
+    "subjectType": "产品",
+    "compositionPatterns": [
+      "grid",
+      "vertical",
+      "horizontal"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "photorealistic",
+      "cinematic",
+      "editorial",
+      "minimalist",
+      "luxury",
+      "premium"
+    ],
+    "lightingCamera": [
+      "studio lighting"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字；包含标注/说明；文字是主视觉",
+    "templateId": "T05",
+    "templateName": "电影/专辑封面",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "元素位置与数量控制",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 97,
+    "whySelected": "得分 97；构图: grid, vertical, horizontal；风格: realistic, photorealistic, cinematic, editorial, minimalist, luxury, premium；要求精确文字；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 2,
+    "id": "15446",
+    "title": "日系机甲少女手办广告海报",
+    "description": "一个精美的产品海报提示词，用于生成虚构的动漫机甲女高中生塑料模型套件广告，包含一个主视觉形象和五个标注细节面板。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15446",
+    "sourceLink": "https://x.com/munou_ac/status/2047110000339030405#reversed-2",
+    "promptLength": 3198,
+    "promptExcerpt": "Create a premium Japanese plastic model kit product-poster layout on a clean white studio background with subtle gray gradients and a glossy floor reflection. The main subject is a highly detailed anime mecha schoolgirl figure posed dynamically in the center-left, in a wide combat stance, holding a katana horizontally across the frame with one robotic hand g",
+    "workType": "人物/角色",
+    "subjectType": "产品",
+    "compositionPatterns": [
+      "centered",
+      "close-up",
+      "poster layout",
+      "vertical",
+      "horizontal"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "editorial",
+      "anime",
+      "sci-fi",
+      "premium",
+      "studio"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "要求精确文字；包含标注/说明；文字是主视觉",
+    "templateId": "T02",
+    "templateName": "全身角色设定",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "手部/比例/面部一致性",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 96,
+    "whySelected": "得分 96；构图: centered, close-up, poster layout, vertical, horizontal；风格: realistic, editorial, anime, sci-fi, premium, studio；要求精确文字；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 3,
+    "id": "15607",
+    "title": "电影时代排版网格",
+    "description": "这是一件精致的 2x2 工作室渲染排版艺术作品，展示了四个由不同电影时代的电影制作设备构成的字母和数字，非常适合用于编辑、海报或概念视觉设计。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15607",
+    "sourceLink": "https://x.com/Gdgtify/status/2047677943611297889#reversed-1",
+    "promptLength": 2992,
+    "promptExcerpt": "Create a clean 2x2 grid on a pure white studio background featuring 4 large 3D typographic sculptures, each a single character built entirely from filmmaking equipment from a different era. The four glyphs are exactly 4 characters: top-left letter A, top-right number 5, bottom-left letter X, bottom-right number 9. Each character should be front-facing, cente",
+    "workType": "人物/角色",
+    "subjectType": "产品",
+    "compositionPatterns": [
+      "centered",
+      "grid",
+      "2x2",
+      "front-facing"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "photorealistic",
+      "3d",
+      "vintage",
+      "studio"
+    ],
+    "lightingCamera": [
+      "studio lighting",
+      "lens",
+      "camera"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字；要求可读；文字是主视觉",
+    "templateId": "T02",
+    "templateName": "全身角色设定",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "手部/比例/面部一致性",
+      "元素位置与数量控制",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 96,
+    "whySelected": "得分 96；构图: centered, grid, 2x2, front-facing；风格: realistic, photorealistic, 3d, vintage, studio；要求精确文字；要求可读；文字是主视觉"
+  },
+  {
+    "rank": 4,
+    "id": "15090",
+    "title": "动漫女主角宣传海报",
+    "description": "一张高端日式动漫主视觉海报，主角为银发女剑士，背景为奇幻科幻城市，包含完整的游戏、动漫或轻小说宣传文案布局。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15090",
+    "sourceLink": "https://x.com/8co28/status/2046978759946072262#reversed-0",
+    "promptLength": 2417,
+    "promptExcerpt": "A polished anime-style vertical key visual poster for a futuristic fantasy action series. Center the composition on a full-body young heroine in a confident three-quarter back pose, looking over her shoulder, with her face partially obscured by angle and hair. She has long flowing silver-white hair blowing dramatically in the wind, pale skin, and cool violet",
+    "workType": "人物/角色",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "close-up",
+      "full-body",
+      "poster layout",
+      "layered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "anime",
+      "sci-fi",
+      "fantasy",
+      "premium"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "文字是主视觉",
+    "templateId": "T02",
+    "templateName": "全身角色设定",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "手部/比例/面部一致性"
+    ],
+    "score": 95,
+    "whySelected": "得分 95；构图: close-up, full-body, poster layout, layered, vertical；风格: anime, sci-fi, fantasy, premium；文字是主视觉"
+  },
+  {
+    "rank": 5,
+    "id": "15041",
+    "title": "电影感武士风格代理商落地页",
+    "description": "此内容为创意工作室生成一个高端暗黑风格的网页落地页首屏，非常适合展示大胆的品牌设计、网页设计或代理商概念作品。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15041",
+    "sourceLink": "https://x.com/sgviera/status/2046781661635809624#reversed-0",
+    "promptLength": 2154,
+    "promptExcerpt": "A cinematic dark landing page mockup for a Japanese-inspired creative agency called {argument name=\"studio name\" default=\"AKAI STUDIO\"}, shown inside a modern desktop browser window. The page uses a dramatic black-to-deep-red gradient background with a moody sunset glow, scattered small white dust or ash particles, and a widescreen hero layout. On the right ",
+    "workType": "人物/角色",
+    "subjectType": "文字符号",
+    "compositionPatterns": [
+      "centered",
+      "full-body",
+      "layered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "cinematic",
+      "luxury",
+      "premium",
+      "studio"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "要求精确文字；包含标注/说明；文字是主视觉",
+    "templateId": "T02",
+    "templateName": "全身角色设定",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "手部/比例/面部一致性",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 95,
+    "whySelected": "得分 95；构图: centered, full-body, layered, vertical；风格: realistic, cinematic, luxury, premium, studio；要求精确文字；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 6,
+    "id": "15798",
+    "title": "奇幻精灵游侠集换式卡牌",
+    "description": "此提示词可生成一张精致的奇幻收藏卡牌，画面包含精灵游侠及清晰的规则文本，非常适合定制集换式卡牌游戏原型及概念艺术创作。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15798",
+    "sourceLink": "https://x.com/Artedeingenio/status/2047601145569235279#reversed-0",
+    "promptLength": 2445,
+    "promptExcerpt": "A highly detailed fantasy trading card in a premium collectible card game style, vertical layout with an ornate antique gold frame, dark emerald-green enamel panels, and intricate vine-and-leaf embellishments. The card title at the top reads {argument name=\"character name\" default=\"AELION\"} in large elegant serif capitals, with the subtitle \"ELF OF THE GREEN",
+    "workType": "插画/漫画",
+    "subjectType": "产品",
+    "compositionPatterns": [
+      "centered",
+      "layered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "cinematic",
+      "fantasy",
+      "premium"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "要求精确文字；要求可读；文字是主视觉",
+    "templateId": "T03",
+    "templateName": "动作漫画/动漫场景",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 95,
+    "whySelected": "得分 95；构图: centered, layered, vertical；风格: realistic, cinematic, fantasy, premium；要求精确文字；要求可读；文字是主视觉"
+  },
+  {
+    "rank": 7,
+    "id": "15077",
+    "title": "史诗级 FC Barcelona 传承海报",
+    "description": "此提示词可生成一张电影质感的足球致敬海报，将历史文化偶像与 FC Barcelona 品牌元素融合，适用于高端粉丝艺术、社交媒体发帖或极具冲击力的体育海报打印。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15077",
+    "sourceLink": "https://x.com/cneuralnetwork/status/2047024136875393501#reversed-0",
+    "promptLength": 2655,
+    "promptExcerpt": "Create a dramatic vertical football tribute poster in a dark cinematic mixed-media style, combining fine-art portraiture, sports branding, textured grunge painting, and premium editorial typography. The central subject is a waist-up portrait of {argument name=\"historical figure\" default=\"Rabindranath Tagore\"} reimagined as an FC Barcelona icon, facing slight",
+    "workType": "海报/封面",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "centered",
+      "poster layout",
+      "layered",
+      "vertical",
+      "horizontal"
+    ],
+    "styleKeywords": [
+      "cinematic",
+      "editorial",
+      "luxury",
+      "premium"
+    ],
+    "lightingCamera": [
+      "rim light",
+      "high contrast"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字；文字是主视觉",
+    "templateId": "T04",
+    "templateName": "编辑感海报主视觉",
+    "failureRisks": [
+      "文字可读性/准确拼写"
+    ],
+    "score": 95,
+    "whySelected": "得分 95；构图: centered, poster layout, layered, vertical, horizontal；风格: cinematic, editorial, luxury, premium；要求精确文字；文字是主视觉"
+  },
+  {
+    "rank": 8,
+    "id": "15668",
+    "title": "北欧奢华旅行海报",
+    "description": "此提示词可生成精美的高端旅游海报，展示四个北欧目的地和五种区域美食，非常适合旅游营销或编辑封面设计。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15668",
+    "sourceLink": "https://x.com/Redit007/status/2047524171987775961#reversed-3",
+    "promptLength": 2660,
+    "promptExcerpt": "Create an elegant luxury travel poster for {argument name=\"region name\" default=\"NORTHERN EUROPE\"}, designed like a premium tourism campaign brochure cover. Use a wide symmetrical layout with a thin gold decorative border and refined editorial typography. At the top center, place a small compass-star icon above the word DISCOVER, then a very large serif head",
+    "workType": "海报/封面",
+    "subjectType": "文字符号",
+    "compositionPatterns": [
+      "symmetrical",
+      "vertical",
+      "horizontal"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "photorealistic",
+      "cinematic",
+      "editorial",
+      "luxury",
+      "premium"
+    ],
+    "lightingCamera": [
+      "golden hour",
+      "camera"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字；包含标注/说明；文字是主视觉",
+    "templateId": "T04",
+    "templateName": "编辑感海报主视觉",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 94,
+    "whySelected": "得分 94；构图: symmetrical, vertical, horizontal；风格: realistic, photorealistic, cinematic, editorial, luxury, premium；要求精确文字；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 9,
+    "id": "15039",
+    "title": "复古快餐品牌项目",
+    "description": "此提示词可将参考食物照片转化为完整的餐厅品牌展示项目，用于呈现 Logo、配色、排版、摄影风格及品牌应用。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15039",
+    "sourceLink": "https://x.com/fmontes/status/2046945040958677259#reversed-1",
+    "promptLength": 1961,
+    "promptExcerpt": "Using REFERENCE_0 as the hero food photo, transform it into a polished one-page restaurant branding board for a fried chicken and waffle-fries concept named {argument name=\"brand name\" default=\"Can Dende\"}. Keep the yellow-table food photography as the visual anchor, but redesign the output as a clean square brand guideline sheet on a warm off-white backgrou",
+    "workType": "字体/Logo",
+    "subjectType": "文字符号",
+    "compositionPatterns": [
+      "close-up",
+      "grid",
+      "2x2"
+    ],
+    "styleKeywords": [
+      "editorial",
+      "vintage",
+      "retro",
+      "premium",
+      "hand-drawn"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "要求精确文字；要求可读；包含标注/说明；文字是主视觉",
+    "templateId": "T15",
+    "templateName": "Logo/字体实验",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "元素位置与数量控制"
+    ],
+    "score": 94,
+    "whySelected": "得分 94；构图: close-up, grid, 2x2；风格: editorial, vintage, retro, premium, hand-drawn；要求精确文字；要求可读；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 10,
+    "id": "14842",
+    "title": "尤文图斯电影感球员海报",
+    "description": "一款高端黑金配色足球海报，通过分层肖像与动态姿势展示尤文图斯球员，非常适合俱乐部主题的运动员剪辑及社交媒体体育图形设计。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14842",
+    "sourceLink": "https://x.com/trexy1897/status/2046994539680788511#reversed-0",
+    "promptLength": 2234,
+    "promptExcerpt": "Create a dramatic luxury sports poster for {argument name=\"player name\" default=\"Bernardo Silva\"} as a Juventus football star, in a dark cinematic black-and-gold editorial style. Vertical composition, high contrast, moody stadium atmosphere, premium poster design with layered photomontage. The background is a massive waving Juventus flag filling the upper ha",
+    "workType": "海报/封面",
+    "subjectType": "文字符号",
+    "compositionPatterns": [
+      "centered",
+      "close-up",
+      "full-body",
+      "layered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "cinematic",
+      "editorial",
+      "luxury",
+      "premium"
+    ],
+    "lightingCamera": [
+      "rim light",
+      "high contrast"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字；文字是主视觉",
+    "templateId": "T04",
+    "templateName": "编辑感海报主视觉",
+    "failureRisks": [
+      "文字可读性/准确拼写"
+    ],
+    "score": 93,
+    "whySelected": "得分 93；构图: centered, close-up, full-body, layered, vertical；风格: cinematic, editorial, luxury, premium；要求精确文字；文字是主视觉"
+  },
+  {
+    "rank": 11,
+    "id": "14598",
+    "title": "《Dark Space Emperor》电影海报",
+    "description": "一张电影级科幻海报，展示了星舰舰桥上一位身披重甲的外星统治者，非常适合作为太空歌剧大片的关键视觉图和电影宣传素材。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14598",
+    "sourceLink": "https://x.com/ZefredAi/status/2046707660137873639#reversed-0",
+    "promptLength": 2403,
+    "promptExcerpt": "A dark epic sci-fi movie poster for {argument name=\"film title\" default=\"EMPIRE OF THE VOID\"}, in a highly cinematic photorealistic space-opera style. Centered composition with a tall alien emperor standing behind a massive circular command table, viewed from slightly below to make the figure feel imposing and godlike. The emperor wears ornate black and gunm",
+    "workType": "海报/封面",
+    "subjectType": "产品",
+    "compositionPatterns": [
+      "centered",
+      "symmetrical",
+      "layered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "photorealistic",
+      "cinematic",
+      "sci-fi",
+      "premium"
+    ],
+    "lightingCamera": [
+      "rim light",
+      "high contrast"
+    ],
+    "containsText": true,
+    "textRequirement": "文字是主视觉",
+    "templateId": "T05",
+    "templateName": "电影/专辑封面",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 93,
+    "whySelected": "得分 93；构图: centered, symmetrical, layered, vertical；风格: realistic, photorealistic, cinematic, sci-fi, premium；文字是主视觉"
+  },
+  {
+    "rank": 12,
+    "id": "15639",
+    "title": "极简主义精华液产品拼图",
+    "description": "一套整洁的 3x3 商业护肤品拼图，从多个摄影棚角度展示烟酰胺精华液瓶身，适用于美妆广告、电子商务或社交媒体品牌推广。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15639",
+    "sourceLink": "https://x.com/Taaruk_/status/2047505334651249135#reversed-0",
+    "promptLength": 2638,
+    "promptExcerpt": "{\"type\":\"skincare product photo collage\",\"subject\":{\"product\":\"dark amber glass dropper bottle of {argument name=\\\"product name\\\" default=\\\"Niacinamide 10% Face Serum\\\"}\",\"brand\":\"{argument name=\\\"brand name\\\" default=\\\"Minimalist\\\"}\",\"category\":\"facial serum\",\"label\":{\"style\":\"minimal white rectangular label with clean black sans-serif typography and a thin",
+    "workType": "产品/电商",
+    "subjectType": "产品",
+    "compositionPatterns": [
+      "centered",
+      "close-up",
+      "top-down",
+      "grid",
+      "front-facing"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "editorial",
+      "minimalist",
+      "premium",
+      "studio"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "包含标注/说明；文字是主视觉",
+    "templateId": "T06",
+    "templateName": "产品英雄图",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "元素位置与数量控制",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 93,
+    "whySelected": "得分 93；构图: centered, close-up, top-down, grid, front-facing；风格: realistic, editorial, minimalist, premium, studio；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 13,
+    "id": "15014",
+    "title": "极简主义 9 宫格时尚拼贴",
+    "description": "一个照片级真实的 3x3 时尚 Lookbook 提示词，用于生成中性色调的服装拼贴，风格类似于钉在墙上的编辑部服装卡片。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15014",
+    "sourceLink": "https://x.com/stwk26/status/2046814681957118114#reversed-0",
+    "promptLength": 3577,
+    "promptExcerpt": "{\"type\":\"fashion lookbook collage\",\"subject\":{\"gender_presentation\":\"young woman\",\"face_visibility\":\"face intentionally blurred and indistinct in every photo\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"light brown\\\"}\",\"style\":\"straight shoulder-length hair with a center or slight side part\"},\"body_type\":\"slim\",\"aesthetic\":\"soft neutral Korean s",
+    "workType": "人物/角色",
+    "subjectType": "服饰",
+    "compositionPatterns": [
+      "centered",
+      "full-body",
+      "grid",
+      "layered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "photorealistic",
+      "editorial",
+      "minimalist",
+      "studio"
+    ],
+    "lightingCamera": [
+      "studio lighting",
+      "camera"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字；包含标注/说明",
+    "templateId": "T02",
+    "templateName": "全身角色设定",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "手部/比例/面部一致性",
+      "元素位置与数量控制",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 92,
+    "whySelected": "得分 92；构图: centered, full-body, grid, layered, vertical；风格: realistic, photorealistic, editorial, minimalist, studio；要求精确文字；包含标注/说明"
+  },
+  {
+    "rank": 14,
+    "id": "15467",
+    "title": "日式视频制作海报",
+    "description": "一张极简风格的日式企业宣传海报，展示四项视频制作服务，适用于代理商品牌推广、服务概览以及招聘或公关材料。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15467",
+    "sourceLink": "https://x.com/kantamizutamari/status/2047247285944508520#reversed-3",
+    "promptLength": 2980,
+    "promptExcerpt": "Create a clean, premium Japanese corporate poster for a {argument name=\"company name\" default=\"Arks\"} video production company, in a minimalist editorial layout on an off-white background with lots of negative space. Portrait orientation, A4-like poster proportions. At the very top left, place an oversized bold black sans-serif logotype reading {argument nam",
+    "workType": "海报/封面",
+    "subjectType": "界面",
+    "compositionPatterns": [
+      "close-up",
+      "grid",
+      "2x2",
+      "vertical",
+      "horizontal"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "cinematic",
+      "editorial",
+      "minimalist",
+      "premium",
+      "studio"
+    ],
+    "lightingCamera": [
+      "overcast",
+      "shallow depth",
+      "depth of field",
+      "camera"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字；包含标注/说明；文字是主视觉",
+    "templateId": "T04",
+    "templateName": "编辑感海报主视觉",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "元素位置与数量控制",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 92,
+    "whySelected": "得分 92；构图: close-up, grid, 2x2, vertical, horizontal；风格: realistic, cinematic, editorial, minimalist, premium, studio；要求精确文字；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 15,
+    "id": "15797",
+    "title": "情感动漫电影横幅",
+    "description": "一款电影级动漫风格的日本电影预告横幅，包含一位紫发少女、戏剧性的日落光影以及六个嵌入式剧情场景，非常适合用于电影海报或宣传主视觉生成。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15797",
+    "sourceLink": "https://x.com/tegnike/status/2047749773923438910#reversed-2",
+    "promptLength": 2626,
+    "promptExcerpt": "Create an emotional Japanese movie teaser banner in anime key visual style, widescreen 16:9, at sunset over a city. The main focus is a close-up portrait of {argument name=\"character name\" default=\"AIニケちゃん\"}, a teenage anime girl with long indigo-purple hair in a high ponytail, loose strands blowing in the wind, golden-brown eyes full of quiet emotion, and a",
+    "workType": "人物/角色",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "close-up",
+      "poster layout",
+      "layered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "cinematic",
+      "anime",
+      "sci-fi"
+    ],
+    "lightingCamera": [
+      "rim light",
+      "lens"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字；文字是主视觉",
+    "templateId": "T01",
+    "templateName": "电影感人物肖像",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "手部/比例/面部一致性"
+    ],
+    "score": 91,
+    "whySelected": "得分 91；构图: close-up, poster layout, layered, vertical；风格: cinematic, anime, sci-fi；要求精确文字；文字是主视觉"
+  },
+  {
+    "rank": 16,
+    "id": "15386",
+    "title": "动漫风航空学生优惠海报",
+    "description": "一张炫酷的动漫风格日本航空广告海报，专为青年旅行促销设计，非常适合通过时尚角色和飞机背景来重现品牌活动视觉效果。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15386",
+    "sourceLink": "https://x.com/hironakaiori/status/2047307850096230492#reversed-0",
+    "promptLength": 2303,
+    "promptExcerpt": "A vibrant Japanese airline advertisement poster in glossy anime style, vertical composition, featuring a stylish young female idol-inspired traveler standing in the foreground at an airport apron with a pink-and-white passenger airplane behind her. The plane is branded {argument name=\"brand name\" default=\"peach\"} in large lowercase letters on the fuselage an",
+    "workType": "海报/封面",
+    "subjectType": "文字符号",
+    "compositionPatterns": [
+      "centered",
+      "symmetrical",
+      "callout",
+      "layered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "anime",
+      "premium"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "要求精确文字；包含标注/说明；文字是主视觉",
+    "templateId": "T04",
+    "templateName": "编辑感海报主视觉",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "元素位置与数量控制"
+    ],
+    "score": 91,
+    "whySelected": "得分 91；构图: centered, symmetrical, callout, layered, vertical；风格: anime, premium；要求精确文字；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 17,
+    "id": "15772",
+    "title": "动漫春季旅行电影海报",
+    "description": "此提示词可生成一张电影感动漫风格的海报，包含中心女主角、旅行场景拼贴背景，以及用于宣传或概念艺术创作的优雅电影节海报排版。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15772",
+    "sourceLink": "https://x.com/Design4p0/status/2047531978346398002#reversed-1",
+    "promptLength": 2228,
+    "promptExcerpt": "A polished anime-style international film poster with a cinematic, slightly painterly look and soft natural lighting. Center the composition on a young woman shown from mid-thigh up, standing in a relaxed pose with one hand in the pocket of an oversized navy zip hoodie. The hoodie has two yellow athletic stripes running down each sleeve, a loose hood, and a ",
+    "workType": "海报/封面",
+    "subjectType": "文字符号",
+    "compositionPatterns": [
+      "centered"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "cinematic",
+      "anime",
+      "premium",
+      "studio"
+    ],
+    "lightingCamera": [
+      "natural light"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字；文字是主视觉",
+    "templateId": "T05",
+    "templateName": "电影/专辑封面",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 91,
+    "whySelected": "得分 91；构图: centered；风格: realistic, cinematic, anime, premium, studio；要求精确文字；文字是主视觉"
+  },
+  {
+    "rank": 18,
+    "id": "15096",
+    "title": "温馨企鹅奇幻电影海报",
+    "description": "此提示词可生成一张充满情感的日系风格虚构电影海报，画面主体为夕阳下被举起的毛绒企鹅吉祥物，非常适合用于恶搞电影主视觉图及社交媒体病毒式传播素材。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15096",
+    "sourceLink": "https://x.com/AIStudioTokyo/status/2046808396532441142#reversed-0",
+    "promptLength": 1840,
+    "promptExcerpt": "A heartwarming fictional movie poster in a soft cinematic Japanese drama style, photographed at golden hour with dreamy backlight and gentle lens glow. A person seen from behind and slightly below, wearing a cozy cream knit sweater, lifts a plush penguin toy high toward a bright sunset sky. The plush is centered and fills much of the frame: black fuzzy body,",
+    "workType": "海报/封面",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "centered",
+      "poster layout",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "cinematic",
+      "anime",
+      "fantasy",
+      "premium",
+      "studio"
+    ],
+    "lightingCamera": [
+      "backlight",
+      "neon",
+      "golden hour",
+      "shallow depth",
+      "depth of field",
+      "lens"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字；文字是主视觉",
+    "templateId": "T05",
+    "templateName": "电影/专辑封面",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 91,
+    "whySelected": "得分 91；构图: centered, poster layout, vertical；风格: realistic, cinematic, anime, fantasy, premium, studio；要求精确文字；文字是主视觉"
+  },
+  {
+    "rank": 19,
+    "id": "15731",
+    "title": "优雅都市时尚杂志封面",
+    "description": "此提示词可生成一张写实的奢华时尚杂志封面，展现一位时髦女性漫步在夕阳下的商务区，非常适合用于编辑、品牌推广及封面设计构思。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15731",
+    "sourceLink": "https://x.com/JiroJohn558192/status/2047588855755206837#reversed-3",
+    "promptLength": 2434,
+    "promptExcerpt": "Create a high-fashion magazine cover photo in a polished editorial style, vertical portrait orientation, showing a beautiful young adult woman walking confidently toward the camera in the middle of a modern financial district at sunset. She is centered full-body, photographed at street level with cinematic depth of field, framed by tall glass office towers o",
+    "workType": "海报/封面",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "centered",
+      "full-body",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "cinematic",
+      "editorial",
+      "premium"
+    ],
+    "lightingCamera": [
+      "depth of field",
+      "camera"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字；文字是主视觉",
+    "templateId": "T05",
+    "templateName": "电影/专辑封面",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 90,
+    "whySelected": "得分 90；构图: centered, full-body, vertical；风格: realistic, cinematic, editorial, premium；要求精确文字；文字是主视觉"
+  },
+  {
+    "rank": 20,
+    "id": "14521",
+    "title": "优雅芭蕾舞学校宣传网格图",
+    "description": "一款精致的四格日本芭蕾舞学校宣传横幅，适用于社交媒体、落地页或针对成人初学者的工作室推广。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14521",
+    "sourceLink": "https://x.com/Mocha45389036/status/2046596110731669529#reversed-0",
+    "promptLength": 3691,
+    "promptExcerpt": "{\"type\":\"luxury ballet school promotional banner collage\",\"brand\":{\"name\":\"Étoile Ballet\",\"subtitle\":\"大人のバレエ教室\"},\"style\":{\"mood\":\"elegant, soft, feminine, aspirational, clean Japanese lifestyle advertising\",\"color_palette\":[\"warm ivory\",\"soft beige\",\"dusty mauve\",\"muted blush pink\",\"charcoal black\"],\"lighting\":\"bright natural window light with soft diffusion",
+    "workType": "综合视觉",
+    "subjectType": "文字符号",
+    "compositionPatterns": [
+      "close-up",
+      "full-body",
+      "grid",
+      "2x2",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "cinematic",
+      "editorial",
+      "luxury",
+      "premium",
+      "studio"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "要求精确文字；包含标注/说明；文字是主视觉",
+    "templateId": "T17",
+    "templateName": "2x2 对比/系列图",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "元素位置与数量控制"
+    ],
+    "score": 90,
+    "whySelected": "得分 90；构图: close-up, full-body, grid, 2x2, vertical；风格: cinematic, editorial, luxury, premium, studio；要求精确文字；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 21,
+    "id": "15536",
+    "title": "商业产品信息图",
+    "description": "一份用于制作高端产品信息图的详细提示词，包含超大时尚单品及具有参考面部一致性的模特。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15536",
+    "sourceLink": "https://x.com/j_smeaton99/status/2047703664303931407",
+    "promptLength": 1575,
+    "promptExcerpt": "A high-end infographic-style visual featuring an oversized {argument name=\"product\" default=\"Puma sneaker\"} placed beside a {argument name=\"subject description\" default=\"young woman\"}. The shoe is scaled to be nearly the same size as her entire seated body, emphasizing dramatic proportion. The woman sits casually leaning against the shoe, one arm resting on ",
+    "workType": "产品/电商",
+    "subjectType": "产品",
+    "compositionPatterns": [
+      "annotations",
+      "callout"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "photorealistic",
+      "editorial",
+      "premium",
+      "studio"
+    ],
+    "lightingCamera": [
+      "studio lighting",
+      "depth of field",
+      "lens"
+    ],
+    "containsText": true,
+    "textRequirement": "包含标注/说明；文字是主视觉",
+    "templateId": "T06",
+    "templateName": "产品英雄图",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "元素位置与数量控制",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 88,
+    "whySelected": "得分 88；构图: annotations, callout；风格: realistic, photorealistic, editorial, premium, studio；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 22,
+    "id": "15448",
+    "title": "尤文图斯 Yamal 转会海报",
+    "description": "一张极具张力的竖版体育海报，展示了身穿尤文图斯球衣的年轻足球运动员，专为转会官宣、粉丝创作及社交媒体病毒式传播图形设计。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15448",
+    "sourceLink": "https://x.com/MiskinTV_/status/2047258567124861108#reversed-0",
+    "promptLength": 2763,
+    "promptExcerpt": "Create a dramatic vertical football poster for {argument name=\"player name\" default=\"Yamal\"} in a Juventus transfer-announcement style, ultra-detailed, high-contrast, black-and-white with metallic gold accents, gritty premium sports graphic design. The composition has 2 visible portraits of the same young male footballer with dark brown skin and short tight ",
+    "workType": "海报/封面",
+    "subjectType": "文字符号",
+    "compositionPatterns": [
+      "full-body",
+      "layered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "cinematic",
+      "editorial",
+      "premium"
+    ],
+    "lightingCamera": [
+      "rim light"
+    ],
+    "containsText": true,
+    "textRequirement": "文字是主视觉",
+    "templateId": "T14",
+    "templateName": "杂志编辑版式",
+    "failureRisks": [
+      "文字可读性/准确拼写"
+    ],
+    "score": 88,
+    "whySelected": "得分 88；构图: full-body, layered, vertical；风格: cinematic, editorial, premium；文字是主视觉"
+  },
+  {
+    "rank": 23,
+    "id": "14177",
+    "title": "Pet Brand Identity System Board",
+    "description": "A polished corporate brand guideline board for a pet industry logo, useful for generating logo presentation sheets, branding case studies, and identity system mockups.",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14177",
+    "sourceLink": "https://x.com/yyyole/status/2046469645155303730#reversed-1",
+    "promptLength": 3574,
+    "promptExcerpt": "{\"type\":\"brand identity system board\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"狗东西\\\"}\",\"english_mark\":\"{argument name=\\\"logo letters\\\" default=\\\"GDX\\\"}\",\"industry\":\"{argument name=\\\"industry\\\" default=\\\"宠物行业\\\"}\",\"date\":\"{argument name=\\\"date\\\" default=\\\"2024.05\\\"}\",\"tagline\":\"爱它・懂它・陪伴它\"},\"style\":{\"overall\":\"minimalist premium corporate presen",
+    "workType": "产品/电商",
+    "subjectType": "界面",
+    "compositionPatterns": [
+      "centered",
+      "close-up",
+      "grid",
+      "front-facing",
+      "vertical",
+      "horizontal"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "editorial",
+      "3d",
+      "minimalist",
+      "premium"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "包含标注/说明；文字是主视觉",
+    "templateId": "T06",
+    "templateName": "产品英雄图",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "元素位置与数量控制",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 87,
+    "whySelected": "得分 87；构图: centered, close-up, grid, front-facing, vertical, horizontal；风格: realistic, editorial, 3d, minimalist, premium；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 24,
+    "id": "14576",
+    "title": "Audi S4 宣传海报",
+    "description": "一张高端垂直汽车广告海报，展示了一辆银色 Audi S4，配有嵌入式细节照片、品牌标识、功能图标以及精美的宣传册风格布局，适用于汽车营销。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14576",
+    "sourceLink": "https://x.com/cooldude6688/status/2046415445645791361#reversed-1",
+    "promptLength": 2709,
+    "promptExcerpt": "{\"type\":\"automotive promotional poster\",\"brand\":\"Audi\",\"model\":\"{argument name=\\\"car model\\\" default=\\\"S4\\\"}\",\"trim_text\":\"S4 QUATTRO\",\"orientation\":\"vertical portrait poster\",\"style\":\"premium modern dealership ad, sleek metallic aesthetic, clean typography, studio-lit product showcase\",\"color_palette\":{\"primary_background\":\"dark gray to light gray gradient\"",
+    "workType": "产品/电商",
+    "subjectType": "文字符号",
+    "compositionPatterns": [
+      "centered",
+      "close-up",
+      "hero shot",
+      "front-facing",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "photorealistic",
+      "luxury",
+      "premium",
+      "studio"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "包含标注/说明；文字是主视觉",
+    "templateId": "T06",
+    "templateName": "产品英雄图",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 87,
+    "whySelected": "得分 87；构图: centered, close-up, hero shot, front-facing, vertical；风格: realistic, photorealistic, luxury, premium, studio；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 25,
+    "id": "15517",
+    "title": "工业设计展示页",
+    "description": "一个用于工业设计展示页的复杂布局提示词，通过网格系统从多个角度展示产品。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15517",
+    "sourceLink": "https://x.com/ShamsAmin56/status/2047627860752621647",
+    "promptLength": 1200,
+    "promptExcerpt": "Core Subject: [{argument name=\"reference\" default=\"use the uploaded image\"}, keep the details, typography and structure locked 100%] Layout & Composition: A {argument name=\"presentation type\" default=\"professional industrial design presentation sheet\"}. The image should be organized into a clean grid system. Top Row: A 3x3 layout showing top-down flat lay vi",
+    "workType": "产品/电商",
+    "subjectType": "产品",
+    "compositionPatterns": [
+      "close-up",
+      "top-down",
+      "grid",
+      "hero shot"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "minimalist",
+      "studio"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "文字是主视觉",
+    "templateId": "T06",
+    "templateName": "产品英雄图",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "元素位置与数量控制",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 87,
+    "whySelected": "得分 87；构图: close-up, top-down, grid, hero shot；风格: realistic, minimalist, studio；文字是主视觉"
+  },
+  {
+    "rank": 26,
+    "id": "15026",
+    "title": "奢华出版与品牌推广编辑排版",
+    "description": "此提示词旨在生成高端日式杂志风格的双页宣传排版，适用于出版与品牌服务，是宣传册、公关视觉图及企业营销的理想选择。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15026",
+    "sourceLink": "https://x.com/PB_JPN/status/2047221797293261204#reversed-0",
+    "promptLength": 2912,
+    "promptExcerpt": "Create a luxurious Japanese magazine-style PR editorial spread for a publishing and branding service, designed as a two-page brochure layout. The left half is a dark, cinematic portrait scene in a sophisticated office lounge: a seated Japanese businessman in a navy bespoke suit, white shirt, dark tie, white pocket square, and wristwatch sits in a leather cha",
+    "workType": "海报/封面",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "centered",
+      "close-up",
+      "vertical",
+      "horizontal"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "photorealistic",
+      "cinematic",
+      "editorial",
+      "minimalist",
+      "luxury",
+      "premium"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "要求精确文字；包含标注/说明；文字是主视觉",
+    "templateId": "T14",
+    "templateName": "杂志编辑版式",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 86,
+    "whySelected": "得分 86；构图: centered, close-up, vertical, horizontal；风格: realistic, photorealistic, cinematic, editorial, minimalist, luxury, premium；要求精确文字；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 27,
+    "id": "15743",
+    "title": "粉色动漫 Natsuki 横幅",
+    "description": "此提示词可生成精致的宽幅动漫角色横幅，采用粉色浪漫剪贴簿美学，非常适合作为缩略图、页眉或风格化粉丝主题品牌设计。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15743",
+    "sourceLink": "https://x.com/mirochill/status/2047639852485620070#reversed-0",
+    "promptLength": 1796,
+    "promptExcerpt": "A glossy pastel pink anime banner in a wide cinematic layout, themed around cute romance and sweets. Place a confident teenage anime girl on the right side, shown from about thigh-up, with short fluffy bob hair in {argument name=\"hair color\" default=\"soft pink\"}, large pink-magenta eyes, a small gentle smile, and arms crossed. She wears a Japanese school uni",
+    "workType": "人物/角色",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "grid",
+      "layered"
+    ],
+    "styleKeywords": [
+      "cinematic",
+      "anime",
+      "3d"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "要求精确文字",
+    "templateId": "T01",
+    "templateName": "电影感人物肖像",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "手部/比例/面部一致性",
+      "元素位置与数量控制"
+    ],
+    "score": 85,
+    "whySelected": "得分 85；构图: grid, layered；风格: cinematic, anime, 3d；要求精确文字"
+  },
+  {
+    "rank": 28,
+    "id": "14891",
+    "title": "中文直播宿舍自拍 UI",
+    "description": "此提示词可生成一张逼真的竖屏截图，展示了一位年轻女主播在宿舍内的直播场景，并带有完整的中文直播 App 界面覆盖层，适用于社交媒体样机或 UI 真实感演示。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14891",
+    "sourceLink": "https://x.com/Kejijun6666/status/2046781881409270011#reversed-0",
+    "promptLength": 2472,
+    "promptExcerpt": "A realistic vertical smartphone screenshot of a Chinese livestream interface showing a young woman streamer seated in a cozy dorm room bedroom, front-facing medium close-up selfie composition from chest to head. Her face is intentionally obscured by a large soft rectangular blur centered over the face. She has dark messy black-brown hair in a loose high bun ",
+    "workType": "UI/界面",
+    "subjectType": "界面",
+    "compositionPatterns": [
+      "centered",
+      "close-up",
+      "front-facing",
+      "layered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "photorealistic"
+    ],
+    "lightingCamera": [
+      "camera"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字；包含标注/说明",
+    "templateId": "T08",
+    "templateName": "电商直播/UI 样机",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 85,
+    "whySelected": "得分 85；构图: centered, close-up, front-facing, layered, vertical；风格: realistic, photorealistic；要求精确文字；包含标注/说明"
+  },
+  {
+    "rank": 29,
+    "id": "14888",
+    "title": "GPT IMAGE 2 中文提示词文档",
+    "description": "此内容用于生成一张简洁的深色 UI 风格截图，展示详细的中文提示词文档，适用于关于复杂图像生成指令的社交媒体帖子或演示。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14888",
+    "sourceLink": "https://x.com/zhubaining001/status/2046954876815671740#reversed-0",
+    "promptLength": 2157,
+    "promptExcerpt": "A clean screenshot-like image showing a dark charcoal rounded-rectangle panel filled with dense simplified Chinese prompt text in white sans-serif font, presented as a text document or note on a flat dark background. The composition is a single full-frame panel with generous padding and subtle shadow, like a modern UI card. At the top is a sentence describin",
+    "workType": "海报/封面",
+    "subjectType": "界面",
+    "compositionPatterns": [],
+    "styleKeywords": [
+      "realistic",
+      "editorial",
+      "premium"
+    ],
+    "lightingCamera": [
+      "natural light",
+      "high contrast"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字；要求可读；包含标注/说明；文字是主视觉",
+    "templateId": "T14",
+    "templateName": "杂志编辑版式",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 85,
+    "whySelected": "得分 85；风格: realistic, editorial, premium；要求精确文字；要求可读；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 30,
+    "id": "15254",
+    "title": "奢华双语品鉴菜单摄影",
+    "description": "一张写实的俯拍照片，展示了优雅的法日式高级餐饮菜单，非常适合用于展示 AI 生成的编辑类菜单设计系统。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15254",
+    "sourceLink": "https://x.com/JohnnyWang8802/status/2047258370059726932#reversed-0",
+    "promptLength": 2884,
+    "promptExcerpt": "A photorealistic top-down product-style photograph of a single luxury tasting menu printed on bright white textured paper and placed on a dark walnut wooden tabletop, with soft warm ambient lighting and gentle natural shadows. The sheet is portrait orientation, slightly rotated clockwise, occupying most of the frame with clean margins around it. The design i",
+    "workType": "摄影/真实场景",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "centered",
+      "top-down",
+      "grid",
+      "vertical",
+      "horizontal"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "photorealistic",
+      "editorial",
+      "luxury",
+      "hand-drawn"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "要求精确文字；要求可读；包含标注/说明；文字是主视觉",
+    "templateId": "T19",
+    "templateName": "复古真实摄影",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "元素位置与数量控制",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 85,
+    "whySelected": "得分 85；构图: centered, top-down, grid, vertical, horizontal；风格: realistic, photorealistic, editorial, luxury, hand-drawn；要求精确文字；要求可读；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 31,
+    "id": "15435",
+    "title": "银行内电影质感的红色劫匪团队",
+    "description": "此提示词可生成一张电影海报风格的戏剧性图像，画面展示了五名身穿红色连体衣的蒙面劫匪站在宏伟的古老银行内，非常适合惊悚片宣传及犯罪剧风格的视觉创作。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15435",
+    "sourceLink": "https://x.com/paulai_/status/2047415757105967575#reversed-1",
+    "promptLength": 1598,
+    "promptExcerpt": "A cinematic, gritty heist-team group portrait inspired by a Spanish crime thriller, showing exactly 5 robbers standing shoulder to shoulder in a grand historic bank interior. The scene is framed symmetrically in a low-angle medium full-body shot, with the tallest figure centered in front as the leader and 2 teammates on each side. All 5 wear identical deep r",
+    "workType": "人物/角色",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "centered",
+      "symmetrical",
+      "full-body"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "cinematic"
+    ],
+    "lightingCamera": [
+      "rim light",
+      "backlight",
+      "camera"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字；文字是主视觉",
+    "templateId": "T01",
+    "templateName": "电影感人物肖像",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "手部/比例/面部一致性",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 84,
+    "whySelected": "得分 84；构图: centered, symmetrical, full-body；风格: realistic, cinematic；要求精确文字；文字是主视觉"
+  },
+  {
+    "rank": 32,
+    "id": "15391",
+    "title": "未来感 AI 体育海报",
+    "description": "此提示词可生成一张科技领袖化身为足球巨星的时尚竖版电影感海报，非常适合社交媒体发布、宣传艺术图或 AI 主题的营销视觉素材。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15391",
+    "sourceLink": "https://x.com/mirochill/status/2047279256397341058#reversed-0",
+    "promptLength": 1627,
+    "promptExcerpt": "A cinematic vertical poster of {argument name=\"subject name\" default=\"Sam Altman\"} styled like a futuristic football superstar campaign image, waist-up portrait, centered, arms crossed, wearing a plain dark navy or black crewneck sweater, confident and calm posture, looking slightly off-camera. Place him inside a dramatic high-tech stadium or arena at night ",
+    "workType": "UI/界面",
+    "subjectType": "界面",
+    "compositionPatterns": [
+      "centered",
+      "vertical",
+      "horizontal"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "photorealistic",
+      "cinematic",
+      "sci-fi",
+      "premium"
+    ],
+    "lightingCamera": [
+      "lens",
+      "camera"
+    ],
+    "containsText": true,
+    "textRequirement": "包含文字或排版元素",
+    "templateId": "T09",
+    "templateName": "SaaS 仪表盘",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 84,
+    "whySelected": "得分 84；构图: centered, vertical, horizontal；风格: realistic, photorealistic, cinematic, sci-fi, premium；包含文字或排版元素"
+  },
+  {
+    "rank": 33,
+    "id": "15762",
+    "title": "维多利亚风格动物象棋对弈",
+    "description": "一幅照片级逼真、幽默而优雅的肖像画，描绘了一只穿着西装的哈巴狗和一只黑猩猩在光线充足的复古书房中下象棋，非常适合超现实主义编辑或角色驱动的概念艺术。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15762",
+    "sourceLink": "https://x.com/sandor_bal6746/status/2047750040303681781#reversed-0",
+    "promptLength": 1525,
+    "promptExcerpt": "A highly detailed cinematic portrait of an anthropomorphic {argument name=\"dog breed\" default=\"pug\"} and a chimpanzee sitting across from each other playing chess in a dim, old-world Victorian study. The dog is on the left, shown from the waist up, wearing a brown tweed suit jacket, white shirt, and bow tie, with a single round monocle and chain over one eye",
+    "workType": "人物/角色",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "centered",
+      "symmetrical"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "photorealistic",
+      "cinematic"
+    ],
+    "lightingCamera": [
+      "shallow depth",
+      "depth of field",
+      "camera"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字",
+    "templateId": "T01",
+    "templateName": "电影感人物肖像",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "手部/比例/面部一致性",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 83,
+    "whySelected": "得分 83；构图: centered, symmetrical；风格: realistic, photorealistic, cinematic；要求精确文字"
+  },
+  {
+    "rank": 34,
+    "id": "15397",
+    "title": "摩洛哥餐厅品牌项目",
+    "description": "此提示词可将单张美食照片转化为完整的摩洛哥餐厅视觉识别演示，适用于品牌推广、方案演示或代理商风格的样机展示。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15397",
+    "sourceLink": "https://x.com/SitgesFranck/status/2047165798595141875#reversed-1",
+    "promptLength": 2050,
+    "promptExcerpt": "Using the provided reference image of the couscous dish as the hero food photo, transform it into a polished one-page brand identity board for a Moroccan restaurant named {argument name=\"restaurant name\" default=\"La Casbah\"}. Keep the dish itself recognizable, but integrate it as the main visual in the top-right hero area and build a complete premium brandin",
+    "workType": "UI/界面",
+    "subjectType": "文字符号",
+    "compositionPatterns": [
+      "centered",
+      "grid"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "editorial",
+      "minimalist",
+      "luxury",
+      "premium"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "要求精确文字；包含标注/说明；文字是主视觉",
+    "templateId": "T08",
+    "templateName": "电商直播/UI 样机",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "元素位置与数量控制",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 83,
+    "whySelected": "得分 83；构图: centered, grid；风格: realistic, editorial, minimalist, luxury, premium；要求精确文字；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 35,
+    "id": "14866",
+    "title": "McLaren GT3X 技术蓝图海报",
+    "description": "一张高度精细的汽车概念蓝图海报，展示了 McLaren 720S GT3X 的正投影图、工程标注、组件图解以及逼真的渲染图，适用于高端车辆设计演示。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14866",
+    "sourceLink": "https://x.com/Ambani_Wessley/status/2046799050994053618#reversed-1",
+    "promptLength": 3113,
+    "promptExcerpt": "{\"type\":\"automotive technical blueprint poster\",\"subject\":{\"vehicle\":\"{argument name=\\\"car model\\\" default=\\\"McLaren 720S GT3X\\\"}\",\"category\":\"track weapon concept supercar\",\"brand\":\"McLaren\",\"primary render\":{\"view\":\"front three-quarter low angle hero shot\",\"finish\":\"glossy dark metallic blue-gray body with exposed carbon fiber aero parts\",\"accent color\":\"{",
+    "workType": "信息图/图解",
+    "subjectType": "信息结构",
+    "compositionPatterns": [
+      "symmetrical",
+      "grid",
+      "hero shot",
+      "annotations",
+      "callout",
+      "vertical",
+      "horizontal"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "premium",
+      "hand-drawn"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "包含标注/说明；文字是主视觉",
+    "templateId": "T11",
+    "templateName": "百科信息图卡",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "元素位置与数量控制",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 83,
+    "whySelected": "得分 83；构图: symmetrical, grid, hero shot, annotations, callout, vertical, horizontal；风格: realistic, premium, hand-drawn；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 36,
+    "id": "15684",
+    "title": "日式时尚杂志封面：鲤鱼旗主题礼服",
+    "description": "此提示词可生成一张精致的日式杂志封面，展示两名身着淡雅鲤鱼旗风格高定礼服的女性，非常适合时尚编辑、季节性宣传活动或杂志样刊设计。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15684",
+    "sourceLink": "https://x.com/HelpMe_TellMe11/status/2047667223465234647#reversed-0",
+    "promptLength": 2584,
+    "promptExcerpt": "A fashion magazine cover styled like a luxurious Japanese women's magazine, photographed in soft natural daylight against a pale blue sky with a faint city skyline blurred in the background. The masthead is huge and elegant across the top, reading {argument name=\"magazine title\" default=\"Lumiére\"} in oversized soft pink serif lettering, with small Japanese c",
+    "workType": "海报/封面",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "callout",
+      "layered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "editorial",
+      "premium"
+    ],
+    "lightingCamera": [
+      "camera"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字；包含标注/说明",
+    "templateId": "T14",
+    "templateName": "杂志编辑版式",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "元素位置与数量控制"
+    ],
+    "score": 83,
+    "whySelected": "得分 83；构图: callout, layered, vertical；风格: editorial, premium；要求精确文字；包含标注/说明"
+  },
+  {
+    "rank": 37,
+    "id": "15034",
+    "title": "动漫角色蓝图设计稿",
+    "description": "一份技术蓝图风格的角色设计稿，展示了一个年轻动漫风格男性头部的多个视角，包含测量数据、注释以及纹身细节，适用于概念艺术或模型参考。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15034",
+    "sourceLink": "https://x.com/Cheetah_x0/status/2047079352345440535#reversed-0",
+    "promptLength": 2381,
+    "promptExcerpt": "{\"type\":\"character design blueprint sheet\",\"style\":\"technical concept art, black blueprint background with faint square grid, thin white line art, minimalist monochrome drafting aesthetic\",\"subject\":{\"category\":\"anime-inspired male character head turnaround\",\"name\":\"{argument name=\\\"character name\\\" default=\\\"MALE_01\\\"}\",\"gender_presentation\":\"male\",\"age_app",
+    "workType": "人物/角色",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "close-up",
+      "grid",
+      "layered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "anime",
+      "minimalist"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "包含标注/说明；文字是主视觉",
+    "templateId": "T01",
+    "templateName": "电影感人物肖像",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "手部/比例/面部一致性",
+      "元素位置与数量控制"
+    ],
+    "score": 82,
+    "whySelected": "得分 82；构图: close-up, grid, layered, vertical；风格: anime, minimalist；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 38,
+    "id": "15374",
+    "title": "动漫 RPG 剑术攻击项目",
+    "description": "一套 9 格动作游戏项目，展示了一位优雅的白发女剑士在月光下的日本寺庙庭院中施展发光武士刀连招，适用于电影感游戏概念艺术和 UI 集成战斗模拟。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15374",
+    "sourceLink": "https://x.com/noriyang_crypt/status/2047347771381092436#reversed-0",
+    "promptLength": 3853,
+    "promptExcerpt": "{\"type\":\"anime action game storyboard sheet\",\"style\":\"high-end Japanese action RPG cinematic storyboard, polished 3D anime rendering, dramatic blue night lighting, glowing sword effects, sakura petals, motion blur, fantasy samurai atmosphere\",\"subject\":{\"character\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"シャルロット\\\"}\",\"gender_presentation\":\"young w",
+    "workType": "插画/漫画",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "centered",
+      "close-up",
+      "full-body",
+      "top-down",
+      "grid",
+      "layered",
+      "horizontal"
+    ],
+    "styleKeywords": [
+      "cinematic",
+      "anime",
+      "3d",
+      "fantasy"
+    ],
+    "lightingCamera": [
+      "camera"
+    ],
+    "containsText": true,
+    "textRequirement": "包含文字或排版元素",
+    "templateId": "T03",
+    "templateName": "动作漫画/动漫场景",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "元素位置与数量控制"
+    ],
+    "score": 82,
+    "whySelected": "得分 82；构图: centered, close-up, full-body, top-down, grid, layered, horizontal；风格: cinematic, anime, 3d, fantasy；包含文字或排版元素"
+  },
+  {
+    "rank": 39,
+    "id": "15683",
+    "title": "科幻灯塔结构解析图",
+    "description": "此提示词可生成一张高密度的未来主义中国风信息图海报，展示一座带有剖面结构的巨型浮空堡垒，非常适合概念艺术展示和世界观构建图纸。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15683",
+    "sourceLink": "https://x.com/hugecoolcn/status/2047620553012593044#reversed-0",
+    "promptLength": 3724,
+    "promptExcerpt": "{\"type\":\"sci-fi technical infographic poster\",\"subject\":\"massive floating fortress megastructure shown in a front-facing cutaway view\",\"style\":\"ultra-detailed hard-surface science fiction concept art, cinematic industrial realism, blueprint-inspired HUD overlay, atmospheric volumetric clouds, dark steel textures, subtle orange and blue internal lighting, hig",
+    "workType": "信息图/图解",
+    "subjectType": "信息结构",
+    "compositionPatterns": [
+      "centered",
+      "symmetrical",
+      "full-body",
+      "cutaway",
+      "front-facing",
+      "annotations",
+      "callout"
+    ],
+    "styleKeywords": [
+      "cinematic",
+      "sci-fi"
+    ],
+    "lightingCamera": [
+      "overcast",
+      "volumetric",
+      "camera"
+    ],
+    "containsText": true,
+    "textRequirement": "包含标注/说明",
+    "templateId": "T11",
+    "templateName": "百科信息图卡",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "元素位置与数量控制"
+    ],
+    "score": 82,
+    "whySelected": "得分 82；构图: centered, symmetrical, full-body, cutaway, front-facing, annotations, callout；风格: cinematic, sci-fi；包含标注/说明"
+  },
+  {
+    "rank": 40,
+    "id": "14870",
+    "title": "Thoughtful Systems 演示封面",
+    "description": "一款适用于 AI 或产品设计演示的温暖编辑风格幻灯片封面，采用羊皮纸纹理、衬线字体和赤陶色调的拼贴卡片设计。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14870",
+    "sourceLink": "https://x.com/Russell3402/status/2046806087903625331#reversed-1",
+    "promptLength": 2602,
+    "promptExcerpt": "Create a refined editorial presentation cover slide in a warm, Claude-inspired design system. Use a landscape 16:9 composition with a parchment-paper background, subtle paper grain, soft shadows, and layered torn-paper collage elements. The overall palette should be warm ivory, cream, sand, charcoal, muted black, and terracotta accent. On the left half, plac",
+    "workType": "信息图/图解",
+    "subjectType": "界面",
+    "compositionPatterns": [
+      "layered",
+      "vertical",
+      "horizontal"
+    ],
+    "styleKeywords": [
+      "editorial",
+      "luxury",
+      "hand-drawn"
+    ],
+    "lightingCamera": [
+      "natural light"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字；包含标注/说明",
+    "templateId": "T12",
+    "templateName": "流程图/步骤图",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度"
+    ],
+    "score": 82,
+    "whySelected": "得分 82；构图: layered, vertical, horizontal；风格: editorial, luxury, hand-drawn；要求精确文字；包含标注/说明"
+  },
+  {
+    "rank": 41,
+    "id": "15339",
+    "title": "动漫时尚杂志封面",
+    "description": "一张光泽感十足的动漫风格日本时尚杂志封面，展现了两位时尚女孩，配有层叠的编辑排版，呈现出充满活力的夏季街头时尚美学。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15339",
+    "sourceLink": "https://x.com/ktmnk_ikuu/status/2047478203548311643#reversed-0",
+    "promptLength": 2410,
+    "promptExcerpt": "A stylized Japanese fashion magazine cover titled MODE TOKYO, designed like a glossy contemporary women's style publication. The composition is a high-angle, dynamic street-fashion anime illustration of 2 girls looking up toward the viewer from beside a brick wall with colorful graffiti and dramatic sunlight. The girl on the right has {argument name=\"hair co",
+    "workType": "海报/封面",
+    "subjectType": "服饰",
+    "compositionPatterns": [
+      "layered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "editorial",
+      "anime",
+      "premium"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "要求精确文字；包含标注/说明；文字是主视觉",
+    "templateId": "T14",
+    "templateName": "杂志编辑版式",
+    "failureRisks": [
+      "文字可读性/准确拼写"
+    ],
+    "score": 82,
+    "whySelected": "得分 82；构图: layered, vertical；风格: editorial, anime, premium；要求精确文字；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 42,
+    "id": "14539",
+    "title": "日式居酒屋 Highball 海报",
+    "description": "此内容用于生成一张照片级逼真的日式居酒屋宣传海报，画面包含一位手持 Highball 的女性、醒目的价格文字以及四道特色菜品，适用于餐厅广告或夜生活主题的视觉设计。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14539",
+    "sourceLink": "https://x.com/SakuraRenge/status/2046612071719342322#reversed-1",
+    "promptLength": 2640,
+    "promptExcerpt": "A photorealistic Japanese izakaya advertisement poster in a warm, cinematic night-time mood, designed like a street-front restaurant flyer. The composition is vertical and densely layered. On the right side, a young Japanese woman with long straight dark brown to black hair, wearing a fitted black ribbed turtleneck sweater, stands from the waist up and holds",
+    "workType": "字体/Logo",
+    "subjectType": "文字符号",
+    "compositionPatterns": [
+      "layered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "photorealistic",
+      "cinematic"
+    ],
+    "lightingCamera": [
+      "shallow depth",
+      "depth of field",
+      "camera"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字；包含标注/说明；文字是主视觉",
+    "templateId": "T15",
+    "templateName": "Logo/字体实验",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 82,
+    "whySelected": "得分 82；构图: layered, vertical；风格: realistic, photorealistic, cinematic；要求精确文字；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 43,
+    "id": "14639",
+    "title": "8 格 GPT-Image-2 漫画宣传页",
+    "description": "此提示词用于生成一张葡萄牙语黑白漫画风格的 8 格漫画页，旨在以社交媒体友好的宣传格式发布并介绍 GPT-Image-2。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14639",
+    "sourceLink": "https://x.com/diogosantosbr/status/2046727812921413837#reversed-0",
+    "promptLength": 7093,
+    "promptExcerpt": "{\"type\":\"8-panel manga-style promotional comic page\",\"theme\":\"launch announcement for GPT-Image-2\",\"language\":\"Portuguese\",\"style\":{\"rendering\":\"black-and-white manga with screentone shading, speed lines, glossy highlights, bold inked outlines, clean digital comic finish\",\"mood\":\"exciting, informative, optimistic, tech-forward\",\"page_format\":\"single page div",
+    "workType": "综合视觉",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "close-up",
+      "grid",
+      "2x2",
+      "hero shot"
+    ],
+    "styleKeywords": [
+      "editorial",
+      "anime",
+      "manga"
+    ],
+    "lightingCamera": [
+      "camera"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字；要求可读；包含标注/说明；文字是主视觉",
+    "templateId": "T17",
+    "templateName": "2x2 对比/系列图",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "元素位置与数量控制"
+    ],
+    "score": 82,
+    "whySelected": "得分 82；构图: close-up, grid, 2x2, hero shot；风格: editorial, anime, manga；要求精确文字；要求可读；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 44,
+    "id": "15608",
+    "title": "电影时代排版网格",
+    "description": "一个精致的 2x2 工作室渲染图，展示了四个由特定时代电影设备雕刻而成的字母，非常适合编辑图形或电影历史的视觉对比。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15608",
+    "sourceLink": "https://x.com/Gdgtify/status/2047677943611297889#reversed-0",
+    "promptLength": 2683,
+    "promptExcerpt": "Create a clean 2x2 grid of four front-facing 3D typographic sculptures on a light gray seamless studio background, separated by thin white dividers. Each quadrant features a single giant letter built entirely from dense, realistic filmmaking equipment and on-set props from a different cinematic era, with the letterform chaotic but clearly legible. Use high-e",
+    "workType": "综合视觉",
+    "subjectType": "产品",
+    "compositionPatterns": [
+      "grid",
+      "2x2",
+      "front-facing"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "cinematic",
+      "3d",
+      "vintage",
+      "studio"
+    ],
+    "lightingCamera": [
+      "studio lighting",
+      "lens",
+      "camera"
+    ],
+    "containsText": true,
+    "textRequirement": "要求可读；包含标注/说明；文字是主视觉",
+    "templateId": "T17",
+    "templateName": "2x2 对比/系列图",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "元素位置与数量控制",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 82,
+    "whySelected": "得分 82；构图: grid, 2x2, front-facing；风格: realistic, cinematic, 3d, vintage, studio；要求可读；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 45,
+    "id": "14556",
+    "title": "机器人画家拼贴广告",
+    "description": "一张精致的 2x2 拼贴宣传图，展示了一个可爱的机器人正在绘制四幅不同的艺术作品，非常适合 AI 图像工具发布及社交媒体横幅使用。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14556",
+    "sourceLink": "https://x.com/01net/status/2046856808921248120#reversed-0",
+    "promptLength": 2057,
+    "promptExcerpt": "{\"type\":\"promotional collage poster\",\"subject\":{\"main\":\"cute futuristic humanoid robot painting on canvas\",\"design\":{\"body\":\"glossy white and silver rounded robot with black joint details\",\"eyes\":\"large glowing neon-blue circular eyes\",\"expression\":\"gentle friendly smile\",\"scale\":\"small seated tabletop robot\"}},\"layout\":{\"format\":\"2x2 grid collage\",\"count\":4",
+    "workType": "综合视觉",
+    "subjectType": "空间",
+    "compositionPatterns": [
+      "grid",
+      "2x2"
+    ],
+    "styleKeywords": [
+      "3d",
+      "studio"
+    ],
+    "lightingCamera": [
+      "neon",
+      "camera"
+    ],
+    "containsText": true,
+    "textRequirement": "包含标注/说明",
+    "templateId": "T17",
+    "templateName": "2x2 对比/系列图",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "元素位置与数量控制"
+    ],
+    "score": 82,
+    "whySelected": "得分 82；构图: grid, 2x2；风格: 3d, studio；包含标注/说明"
+  },
+  {
+    "rank": 46,
+    "id": "14821",
+    "title": "伊斯坦布尔的复古游轮",
+    "description": "此提示词可生成一张怀旧胶片风格的旅行摄影作品，展现游轮驶向伊斯坦布尔水岸的场景，非常适合用于复古明信片、编辑内容或社交媒体美学图片。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14821",
+    "sourceLink": "https://x.com/miilesus/status/2047036657509998595#reversed-2",
+    "promptLength": 1317,
+    "promptExcerpt": "A front-facing photograph of a massive white cruise ship centered in the frame on the water in Istanbul, seen from a low distance across a narrow harbor channel, with the ship moving slowly toward the camera. The bow has a bold stylized lips graphic painted in red and black, creating a playful viral Instagram-filter feel. Behind and around the ship is a dens",
+    "workType": "摄影/真实场景",
+    "subjectType": "界面",
+    "compositionPatterns": [
+      "centered",
+      "symmetrical",
+      "front-facing",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "cinematic",
+      "vintage"
+    ],
+    "lightingCamera": [
+      "camera"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字",
+    "templateId": "T19",
+    "templateName": "复古真实摄影",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 82,
+    "whySelected": "得分 82；构图: centered, symmetrical, front-facing, vertical；风格: realistic, cinematic, vintage；要求精确文字"
+  },
+  {
+    "rank": 47,
+    "id": "15662",
+    "title": "AI 广州美食地图对比",
+    "description": "一张社交媒体风格的对比海报，展示了两个并排的 AI 生成广州美食地图插画及中文提示词框，适用于评估图像模型输出效果。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15662",
+    "sourceLink": "https://x.com/one_tumi/status/2047661283055649090#reversed-1",
+    "promptLength": 2219,
+    "promptExcerpt": "A comparison graphic on a black background with a faint gray square grid, designed like a social media test result poster. At the top are 2 large side-by-side titles in bold sans serif text: “GPT image 2” above the left image and “Nano Banana” above the right image. Below them are 2 vertically oriented illustrated posters placed next to each other with a sma",
+    "workType": "信息图/图解",
+    "subjectType": "信息结构",
+    "compositionPatterns": [
+      "centered",
+      "grid",
+      "annotations",
+      "callout",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "vintage",
+      "watercolor",
+      "hand-drawn"
+    ],
+    "lightingCamera": [
+      "high contrast"
+    ],
+    "containsText": true,
+    "textRequirement": "包含标注/说明；文字是主视觉",
+    "templateId": "T11",
+    "templateName": "百科信息图卡",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "元素位置与数量控制"
+    ],
+    "score": 81,
+    "whySelected": "得分 81；构图: centered, grid, annotations, callout, vertical；风格: vintage, watercolor, hand-drawn；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 48,
+    "id": "14444",
+    "title": "成都手绘美食地图 UI",
+    "description": "此提示词可生成类似截图的 AI 聊天界面，展示一张趣味十足的成都手绘美食地图，适用于重现 gpt-image-2 输出的社交媒体演示效果。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14444",
+    "sourceLink": "https://x.com/cheerselflin/status/2046493268586991633#reversed-0",
+    "promptLength": 2571,
+    "promptExcerpt": "A screenshot-style composition of an AI image generation chat interface on a light gray app background, centered inside a rounded white panel with a soft drop shadow. Near the top is a large pale mint-green chat bubble containing a long Chinese prompt in black sans-serif text, describing a hand-drawn food map of Chengdu. Beneath it, aligned slightly left of ",
+    "workType": "信息图/图解",
+    "subjectType": "界面",
+    "compositionPatterns": [
+      "centered",
+      "annotations"
+    ],
+    "styleKeywords": [
+      "vintage",
+      "watercolor",
+      "hand-drawn"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "要求精确文字；包含标注/说明",
+    "templateId": "T13",
+    "templateName": "地图/空间导览",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度"
+    ],
+    "score": 81,
+    "whySelected": "得分 81；构图: centered, annotations；风格: vintage, watercolor, hand-drawn；要求精确文字；包含标注/说明"
+  },
+  {
+    "rank": 49,
+    "id": "14674",
+    "title": "超现实露台肖像：乌鸦与小狗",
+    "description": "此提示词可生成一张照片级逼真、略带诡异感的肖像，画面中一人怀抱小狗，头顶停驻一只黑鸟，非常适合编辑风格的超现实摄影。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14674",
+    "sourceLink": "https://x.com/levelsio/status/2046735438128333096#reversed-1",
+    "promptLength": 1861,
+    "promptExcerpt": "A slightly surreal but photorealistic portrait of a seated person in a quiet courtyard or patio, centered in frame, wearing a fitted white long-sleeve turtleneck top with delicate pink floral prints and a printed illustration of a girl on the chest, paired with loose cream floral pants. The person sits on a simple white metal chair and holds a small fluffy p",
+    "workType": "摄影/真实场景",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "centered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "photorealistic",
+      "editorial",
+      "vintage"
+    ],
+    "lightingCamera": [
+      "overcast",
+      "shallow depth",
+      "depth of field"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字",
+    "templateId": "T19",
+    "templateName": "复古真实摄影",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 81,
+    "whySelected": "得分 81；构图: centered, vertical；风格: realistic, photorealistic, editorial, vintage；要求精确文字"
+  },
+  {
+    "rank": 50,
+    "id": "14165",
+    "title": "Vintage Pomegranate Growth Atlas",
+    "description": "This prompt generates a tall museum-style botanical infographic poster showing the full life cycle, anatomy, and growth systems of a pomegranate plant for educational or decorative science-art use.",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14165",
+    "sourceLink": "https://x.com/hx831126/status/2046448092871041500#reversed-1",
+    "promptLength": 3747,
+    "promptExcerpt": "Create a highly detailed vintage scientific botanical infographic poster on warm ivory paper, styled like a 19th-century natural history atlas plate with modern clean layout refinement. The main subject is a full pomegranate plant, labeled {argument name=\"plant name\" default=\"石榴\"} / {argument name=\"latin name\" default=\"Punica granatum\"}, shown centered from ",
+    "workType": "信息图/图解",
+    "subjectType": "信息结构",
+    "compositionPatterns": [
+      "centered",
+      "cutaway",
+      "callout",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "vintage",
+      "watercolor"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "要求精确文字；包含标注/说明；文字是主视觉",
+    "templateId": "T07",
+    "templateName": "爆炸视图/结构图解",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "元素位置与数量控制",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 80,
+    "whySelected": "得分 80；构图: centered, cutaway, callout, vertical；风格: realistic, vintage, watercolor；要求精确文字；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 51,
+    "id": "15597",
+    "title": "八种视觉语法下的苹果",
+    "description": "一张正方形的对比艺术图像，展示了一个苹果在八种不同风格下的呈现，中心留白，非常适合演示单帧画面中的多风格图像生成。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15597",
+    "sourceLink": "https://x.com/JohnnyWang8802/status/2047721399364788641#reversed-0",
+    "promptLength": 4219,
+    "promptExcerpt": "{\"type\":\"multi-style comparative art grid\",\"subject\":\"single apple interpreted through eight different visual systems in one image\",\"composition\":{\"format\":\"square 3x3 grid\",\"canvas\":\"large square canvas\",\"background\":\"each cell uses its own appropriate background except the center cell, which is intentionally left blank\",\"center_cell\":{\"position\":\"middle ce",
+    "workType": "信息图/图解",
+    "subjectType": "界面",
+    "compositionPatterns": [
+      "centered",
+      "close-up",
+      "grid",
+      "horizontal"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "vintage",
+      "watercolor",
+      "oil painting"
+    ],
+    "lightingCamera": [
+      "high contrast",
+      "shallow depth",
+      "depth of field"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字；要求可读；包含标注/说明",
+    "templateId": "T11",
+    "templateName": "百科信息图卡",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "元素位置与数量控制",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 80,
+    "whySelected": "得分 80；构图: centered, close-up, grid, horizontal；风格: realistic, vintage, watercolor, oil painting；要求精确文字；要求可读；包含标注/说明"
+  },
+  {
+    "rank": 52,
+    "id": "15421",
+    "title": "植物生长图谱海报",
+    "description": "一张详尽的复古风格科学海报，展示了石榴植物的完整生命周期和解剖结构，非常适合用于植物学教育信息图表和自然历史印刷品。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15421",
+    "sourceLink": "https://x.com/CellNextIA/status/2047410967680548998#reversed-1",
+    "promptLength": 3777,
+    "promptExcerpt": "{\"type\":\"botanical scientific infographic poster\",\"style\":\"highly detailed antique botanical atlas plate, watercolor and ink natural history illustration, ivory paper background, elegant educational poster design, fine line annotations, soft sepia labeling, museum-quality print\",\"subject\":{\"primary\":\"{argument name=\\\"plant species\\\" default=\\\"pomegranate\\\"} ",
+    "workType": "信息图/图解",
+    "subjectType": "信息结构",
+    "compositionPatterns": [
+      "close-up",
+      "cutaway",
+      "annotations",
+      "callout",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "watercolor",
+      "studio"
+    ],
+    "lightingCamera": [
+      "camera"
+    ],
+    "containsText": true,
+    "textRequirement": "包含标注/说明",
+    "templateId": "T11",
+    "templateName": "百科信息图卡",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "元素位置与数量控制",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 80,
+    "whySelected": "得分 80；构图: close-up, cutaway, annotations, callout, vertical；风格: realistic, watercolor, studio；包含标注/说明"
+  },
+  {
+    "rank": 53,
+    "id": "15695",
+    "title": "东京浪漫情侣照片拼贴",
+    "description": "生成一组 12 格怀旧风格的东京情侣亲密抓拍拼贴，非常适合用于项目、社交媒体美学视觉图或浪漫生活方式影像。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15695",
+    "sourceLink": "https://x.com/iX00AI/status/2047511290344829316#reversed-0",
+    "promptLength": 2133,
+    "promptExcerpt": "A moody 4-by-3 photo collage made of 12 candid smartphone-style snapshots of a young couple during summer nights in Tokyo, shot with a nostalgic film look, soft grain, muted colors, slight blur, low contrast, dim ambient street lighting, and intimate casual framing. The overall tone is romantic, youthful, private, and documentary-like, with a warm gray-brown",
+    "workType": "摄影/真实场景",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "close-up",
+      "grid"
+    ],
+    "styleKeywords": [
+      "documentary"
+    ],
+    "lightingCamera": [
+      "low contrast"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字",
+    "templateId": "T19",
+    "templateName": "复古真实摄影",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "元素位置与数量控制"
+    ],
+    "score": 80,
+    "whySelected": "得分 80；构图: close-up, grid；风格: documentary；要求精确文字"
+  },
+  {
+    "rank": 54,
+    "id": "14554",
+    "title": "复古风韩式紫菜包饭食谱海报",
+    "description": "此提示词可生成一张复古风格的韩式紫菜包饭食谱信息图海报，适用于美食营销、餐厅装饰或文化烹饪视觉展示。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14554",
+    "sourceLink": "https://x.com/polloai_kr/status/2046778808221733337#reversed-1",
+    "promptLength": 3180,
+    "promptExcerpt": "Create a vintage Korean food poster infographic on aged beige parchment paper with worn texture, darkened edges, subtle stains, and an ornate traditional frame in muted green. The design is a single vertically stacked poster with 4 clearly separated sections and all text rendered sharply in Korean and English calligraphy. At the top, place a large ribbon ban",
+    "workType": "字体/Logo",
+    "subjectType": "文字符号",
+    "compositionPatterns": [
+      "vertical",
+      "horizontal"
+    ],
+    "styleKeywords": [
+      "vintage",
+      "watercolor",
+      "hand-drawn"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "要求精确文字；要求可读；包含标注/说明；文字是主视觉",
+    "templateId": "T15",
+    "templateName": "Logo/字体实验",
+    "failureRisks": [
+      "文字可读性/准确拼写"
+    ],
+    "score": 79,
+    "whySelected": "得分 79；构图: vertical, horizontal；风格: vintage, watercolor, hand-drawn；要求精确文字；要求可读；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 55,
+    "id": "14664",
+    "title": "Neon Lip Balm 新品发布广告",
+    "description": "一款充满未来感的活力美妆广告海报，适用于发光润唇膏，非常适合社交媒体营销活动、产品发布以及可编辑的 Canva 风格促销设计。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14664",
+    "sourceLink": "https://x.com/canva/status/2046665346161988062#reversed-0",
+    "promptLength": 2529,
+    "promptExcerpt": "Create a glossy, hyper-saturated social media ad poster for a futuristic beauty product launch, designed like a Canva marketing graphic. The composition is a single widescreen promotional banner centered on a cyan-to-purple gradient background, with rounded corners and a vivid neon pink color palette. Inside the banner, show a young woman from the chest up i",
+    "workType": "图标/贴纸",
+    "subjectType": "界面",
+    "compositionPatterns": [
+      "centered",
+      "callout",
+      "layered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "sci-fi"
+    ],
+    "lightingCamera": [
+      "rim light",
+      "neon",
+      "lens",
+      "camera"
+    ],
+    "containsText": true,
+    "textRequirement": "包含标注/说明",
+    "templateId": "T16",
+    "templateName": "图标/贴纸套组",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "元素位置与数量控制"
+    ],
+    "score": 79,
+    "whySelected": "得分 79；构图: centered, callout, layered, vertical；风格: sci-fi；包含标注/说明"
+  },
+  {
+    "rank": 56,
+    "id": "15671",
+    "title": "AI 图像功能宣传网格",
+    "description": "一个四格宣传信息图，展示了精准的日语文本渲染、一致的动漫角色生成、现成的社交媒体广告创作以及用于营销的多语言设计变体。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15671",
+    "sourceLink": "https://x.com/nakaaki04/status/2047503575996309918#reversed-0",
+    "promptLength": 3294,
+    "promptExcerpt": "{\"type\":\"AI capability comparison poster collage\",\"style\":\"clean promotional infographic, premium tech marketing visual, dark navy background with thin white panel dividers, square 2x2 grid layout\",\"theme\":\"showcase advanced image generation capabilities for text rendering, character consistency, social media creative generation, and multilingual support\",\"l",
+    "workType": "综合视觉",
+    "subjectType": "产品",
+    "compositionPatterns": [
+      "centered",
+      "full-body",
+      "grid",
+      "2x2",
+      "layered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "anime",
+      "premium",
+      "studio"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "要求可读；包含标注/说明；文字是主视觉",
+    "templateId": "T17",
+    "templateName": "2x2 对比/系列图",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "元素位置与数量控制"
+    ],
+    "score": 79,
+    "whySelected": "得分 79；构图: centered, full-body, grid, 2x2, layered, vertical；风格: anime, premium, studio；要求可读；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 57,
+    "id": "14581",
+    "title": "Apple macOS 重新设计宣传样机",
+    "description": "一款适用于 Keynote Slides、产品营销或 UI 概念演示的 Apple 风格 macOS 桌面主视觉图。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14581",
+    "sourceLink": "https://x.com/m0nle0z/status/2046628218107826449#reversed-0",
+    "promptLength": 2852,
+    "promptExcerpt": "A polished Apple-style macOS promotional desktop mockup shown as a full-screen screenshot, with a soft pastel dawn wallpaper of layered purple-blue rolling hills under a pale peach and lavender sky. Centered near the top is a large minimalist headline reading \"macOS\" with the subheadline \"Redesigned.\" and a smaller line below that says \"More clarity. More fo",
+    "workType": "UI/界面",
+    "subjectType": "界面",
+    "compositionPatterns": [
+      "centered",
+      "grid",
+      "layered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "minimalist",
+      "premium"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "包含标注/说明；文字是主视觉",
+    "templateId": "T08",
+    "templateName": "电商直播/UI 样机",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "元素位置与数量控制",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 78,
+    "whySelected": "得分 78；构图: centered, grid, layered, vertical；风格: realistic, minimalist, premium；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 58,
+    "id": "14883",
+    "title": "复古北京旅行剪贴簿海报",
+    "description": "此提示词可生成一张温暖的手绘北京旅行指南海报，采用剪贴簿信息图风格，非常适合旅游艺术品、城市教育海报或社交媒体旅行视觉内容。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14883",
+    "sourceLink": "https://x.com/jaredliu_bravo/status/2046784330014618108#reversed-0",
+    "promptLength": 3885,
+    "promptExcerpt": "Create a charming hand-drawn vintage travel scrapbook poster about {argument name=\"city name\" default=\"北京\"}, designed as a Chinese-language illustrated tourist guide page on warm aged paper lying on a wooden tabletop. The composition is a single vertical poster with a slightly worn notebook-page look, soft stains, folded corners, tape marks, stamp-like ink s",
+    "workType": "信息图/图解",
+    "subjectType": "文字符号",
+    "compositionPatterns": [
+      "callout",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "vintage",
+      "retro",
+      "watercolor",
+      "hand-drawn"
+    ],
+    "lightingCamera": [
+      "camera"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字；要求可读；包含标注/说明；文字是主视觉",
+    "templateId": "T13",
+    "templateName": "地图/空间导览",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "元素位置与数量控制"
+    ],
+    "score": 78,
+    "whySelected": "得分 78；构图: callout, vertical；风格: vintage, retro, watercolor, hand-drawn；要求精确文字；要求可读；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 59,
+    "id": "14564",
+    "title": "复古法式可丽饼食谱海报",
+    "description": "一张插画风格浓郁的古董风法式食谱海报，展示了黄油可丽饼、配料及六个烹饪步骤，非常适合作为美食主题的编辑艺术作品或厨房装饰画。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14564",
+    "sourceLink": "https://x.com/PolloAIFR/status/2046774203920113932#reversed-1",
+    "promptLength": 3633,
+    "promptExcerpt": "{\"type\":\"vintage French recipe poster\",\"subject\":\"ornate illustrated food infographic for classic butter crepes\",\"style\":{\"era\":\"Belle Époque / antique cookbook poster\",\"medium\":\"hand-painted watercolor and ink illustration on aged parchment\",\"mood\":\"warm, nostalgic, artisanal, rustic French countryside\",\"palette\":[\"sepia parchment\",\"cream\",\"butter yellow\",\"",
+    "workType": "字体/Logo",
+    "subjectType": "文字符号",
+    "compositionPatterns": [
+      "grid",
+      "poster layout",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "vintage",
+      "watercolor"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "要求可读；包含标注/说明；文字是主视觉",
+    "templateId": "T15",
+    "templateName": "Logo/字体实验",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "元素位置与数量控制"
+    ],
+    "score": 78,
+    "whySelected": "得分 78；构图: grid, poster layout, vertical；风格: vintage, watercolor；要求可读；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 60,
+    "id": "14991",
+    "title": "日本生态社区宣传海报",
+    "description": "此提示词可生成精美的日式可持续发展或社区项目宣传海报，适用于传单、活动视觉设计及非营利组织品牌推广。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14991",
+    "sourceLink": "https://x.com/mitsu_low/status/2046775043582316604#reversed-0",
+    "promptLength": 3410,
+    "promptExcerpt": "A polished Japanese promotional poster for a community and sustainability project called {argument name=\"project name\" default=\"セカイムラ\"}, designed like a premium eco-lifestyle campaign flyer. Vertical layout, clean and elegant, with a soft cream paper background and a luminous, aspirational mood. The top half is dominated by a giant translucent globe centered",
+    "workType": "字体/Logo",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "centered",
+      "vertical",
+      "horizontal"
+    ],
+    "styleKeywords": [
+      "cinematic",
+      "premium"
+    ],
+    "lightingCamera": [
+      "depth of field"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字；包含标注/说明；文字是主视觉",
+    "templateId": "T15",
+    "templateName": "Logo/字体实验",
+    "failureRisks": [
+      "文字可读性/准确拼写"
+    ],
+    "score": 78,
+    "whySelected": "得分 78；构图: centered, vertical, horizontal；风格: cinematic, premium；要求精确文字；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 61,
+    "id": "15520",
+    "title": "黑白艺术肖像",
+    "description": "一个电影感的单色肖像提示词，捕捉了复古背景下高对比度光影中沉思男性的神态。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15520",
+    "sourceLink": "https://x.com/Professor_134/status/2047658499266806001",
+    "promptLength": 2122,
+    "promptExcerpt": "A cinematic, black-and-white portrait of a {argument name=\"subject\" default=\"young man\"} sitting on a {argument name=\"furniture\" default=\"wooden chair\"} in a vintage indoor setting. He is positioned sideways, leaning forward slightly, resting his head gently on his folded arms placed over the backrest of the chair. His posture is relaxed but heavy, conveying",
+    "workType": "摄影/真实场景",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "layered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "cinematic",
+      "vintage"
+    ],
+    "lightingCamera": [
+      "natural light",
+      "depth of field",
+      "lens",
+      "camera"
+    ],
+    "containsText": true,
+    "textRequirement": "要求可读",
+    "templateId": "T19",
+    "templateName": "复古真实摄影",
+    "failureRisks": [
+      "文字可读性/准确拼写"
+    ],
+    "score": 78,
+    "whySelected": "得分 78；构图: layered, vertical；风格: cinematic, vintage；要求可读"
+  },
+  {
+    "rank": 62,
+    "id": "15285",
+    "title": "长城旅行拼图",
+    "description": "一张正方形的多图拼图，从风景、建筑和日落等视角展示中国长城，非常适合旅行帖文或目的地宣传。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15285",
+    "sourceLink": "https://x.com/followin_io_zh/status/2047206582682017799#reversed-1",
+    "promptLength": 2507,
+    "promptExcerpt": "{\"type\":\"travel photo collage\",\"subject\":\"The Great Wall of China\",\"style\":\"high-resolution realistic travel photography, crisp daylight clarity, vivid natural colors, editorial tourism brochure look\",\"composition\":{\"format\":\"square collage\",\"grid\":{\"columns\":3,\"rows\":3,\"count\":8},\"borders\":\"thin white dividers between all images\",\"image_count\":8},\"scenes\":[",
+    "workType": "海报/封面",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "close-up",
+      "grid",
+      "layered"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "editorial"
+    ],
+    "lightingCamera": [
+      "camera"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字",
+    "templateId": "T20",
+    "templateName": "文化节日/地域视觉",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "元素位置与数量控制",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 78,
+    "whySelected": "得分 78；构图: close-up, grid, layered；风格: realistic, editorial；要求精确文字"
+  },
+  {
+    "rank": 63,
+    "id": "15000",
+    "title": "科幻机甲蓝图机库",
+    "description": "此提示词可生成电影级写实场景，描绘工程师在工业机器人机库内研究巨型全息机甲蓝图的画面，非常适合概念艺术创作与科幻世界观构建。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15000",
+    "sourceLink": "https://x.com/adriwtm/status/2046840258877370683#reversed-0",
+    "promptLength": 1807,
+    "promptExcerpt": "A cinematic ultra-detailed sci-fi mech hangar interior at night, shown in a wide-angle view from slightly above a massive horizontal holographic planning table. The glowing blue tabletop dominates the foreground and center, displaying an intricate engineering blueprint for a humanoid combat robot labeled {argument name=\"mech name\" default=\"ARGONAUT\"}. The bl",
+    "workType": "信息图/图解",
+    "subjectType": "信息结构",
+    "compositionPatterns": [
+      "full-body",
+      "callout",
+      "horizontal"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "photorealistic",
+      "cinematic",
+      "sci-fi"
+    ],
+    "lightingCamera": [
+      "volumetric",
+      "high contrast"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字；包含标注/说明",
+    "templateId": "T07",
+    "templateName": "爆炸视图/结构图解",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "元素位置与数量控制",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 76,
+    "whySelected": "得分 76；构图: full-body, callout, horizontal；风格: realistic, photorealistic, cinematic, sci-fi；要求精确文字；包含标注/说明"
+  },
+  {
+    "rank": 64,
+    "id": "14627",
+    "title": "高端未来感 AI 工作空间",
+    "description": "一张电影质感的奢华 AI 指挥台概念图，配有全息界面，非常适合用于展示下一代软件、创意工具或科技产品营销。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14627",
+    "sourceLink": "https://x.com/NexAIverse/status/2046684302000230608#reversed-0",
+    "promptLength": 3005,
+    "promptExcerpt": "A cinematic futuristic control-room workspace in a dark premium tech aesthetic, viewed from behind a single person seated at a sleek desk, centered in the foreground, facing a wall of floating transparent holographic interface panels. The scene is illuminated by electric blue and cyan light on a nearly black background, with a brilliant glowing AI core or ne",
+    "workType": "UI/界面",
+    "subjectType": "界面",
+    "compositionPatterns": [
+      "centered",
+      "symmetrical",
+      "grid",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "cinematic",
+      "3d",
+      "sci-fi",
+      "premium"
+    ],
+    "lightingCamera": [
+      "neon",
+      "volumetric"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字；文字是主视觉",
+    "templateId": "T09",
+    "templateName": "SaaS 仪表盘",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "元素位置与数量控制"
+    ],
+    "score": 76,
+    "whySelected": "得分 76；构图: centered, symmetrical, grid, vertical；风格: cinematic, 3d, sci-fi, premium；要求精确文字；文字是主视觉"
+  },
+  {
+    "rank": 65,
+    "id": "15799",
+    "title": "暗黑奇幻兽人战争领袖 TCG 卡牌",
+    "description": "一张细节丰富的定制奇幻集换式卡牌，主角为兽人战争领袖，适用于生成具有清晰属性和技能、可打印的 TCG 卡牌概念。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15799",
+    "sourceLink": "https://x.com/Artedeingenio/status/2047601145569235279#reversed-1",
+    "promptLength": 2259,
+    "promptExcerpt": "Create a single high-detail fantasy trading card in a dark Warhammer-inspired style, full portrait orientation, with an ornate aged metal-and-red leather frame, distressed gold trim, and readable printed card text. The card title at the top reads {argument name=\"character name\" default=\"GROKTHAR\"} in large serif capitals, with the subtitle \"Orc Warchief\" cen",
+    "workType": "插画/漫画",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "centered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "fantasy"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "要求精确文字；要求可读；文字是主视觉",
+    "templateId": "T03",
+    "templateName": "动作漫画/动漫场景",
+    "failureRisks": [
+      "文字可读性/准确拼写"
+    ],
+    "score": 75,
+    "whySelected": "得分 75；构图: centered, vertical；风格: fantasy；要求精确文字；要求可读；文字是主视觉"
+  },
+  {
+    "rank": 66,
+    "id": "14565",
+    "title": "蒸汽朋克风格 ElectroVid 首页设计稿",
+    "description": "一份详尽的蒸汽朋克风格视频平台首页设计稿，用于创作复古未来主义网页 UI 概念、海报或关于 AI 图像文本渲染的社交媒体视觉素材。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14565",
+    "sourceLink": "https://x.com/PolloAIFR/status/2046774203920113932#reversed-0",
+    "promptLength": 3688,
+    "promptExcerpt": "A highly detailed full-screen steampunk video-streaming website interface in a dark bronze, brass, and sepia color palette, designed like an antique Victorian industrial dashboard. The page is framed by ornate metal borders, rivets, pipes, gears, pressure gauges, and glowing Edison bulbs, with rich engraved textures and warm low-key lighting. At the top left",
+    "workType": "UI/界面",
+    "subjectType": "界面",
+    "compositionPatterns": [
+      "centered",
+      "symmetrical",
+      "horizontal"
+    ],
+    "styleKeywords": [
+      "cinematic",
+      "vintage"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "要求精确文字；要求可读；包含标注/说明；文字是主视觉",
+    "templateId": "T09",
+    "templateName": "SaaS 仪表盘",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度"
+    ],
+    "score": 75,
+    "whySelected": "得分 75；构图: centered, symmetrical, horizontal；风格: cinematic, vintage；要求精确文字；要求可读；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 67,
+    "id": "15333",
+    "title": "可爱的日系浪漫喜剧电影海报",
+    "description": "一张闪闪发光的日系吉祥物女主浪漫喜剧电影海报，非常适合恶搞电影宣传、角色品牌推广或社交媒体主视觉图。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15333",
+    "sourceLink": "https://x.com/pandaken_ken/status/2047153624896483697#reversed-0",
+    "promptLength": 2702,
+    "promptExcerpt": "A flashy Japanese romantic comedy movie poster in a cute-but-dramatic pop anime mascot style, designed like a theatrical film teaser. Center the composition on a full-body cartoon bunny girl mascot named {argument name=\"character name\" default=\"パン子\"}, with a large white face, black body and one black ear, one bright red ear, thick black outline, half-lidded ",
+    "workType": "图标/贴纸",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "close-up",
+      "full-body",
+      "poster layout",
+      "layered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "anime"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "包含标注/说明；文字是主视觉",
+    "templateId": "T16",
+    "templateName": "图标/贴纸套组",
+    "failureRisks": [
+      "文字可读性/准确拼写"
+    ],
+    "score": 75,
+    "whySelected": "得分 75；构图: close-up, full-body, poster layout, layered, vertical；风格: anime；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 68,
+    "id": "14956",
+    "title": "特摄英雄参考图集",
+    "description": "一份详尽的日式原创甲虫主题装甲英雄概念图集，适用于生成虚构角色档案、变身装备页面及载具设计展示。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14956",
+    "sourceLink": "https://x.com/Maxwald_MHN/status/2046944515018445295#reversed-0",
+    "promptLength": 3689,
+    "promptExcerpt": "{\"type\":\"Japanese tokusatsu hero design reference sheet\",\"style\":\"high-end industrial concept art, premium sci-fi character dossier, clean white studio presentation board, realistic CG rendering with sharp mechanical detailing and glossy metallic surfaces\",\"subject\":{\"franchise\":\"original fictional tokusatsu hero\",\"character name\":\"{argument name=\\\"character",
+    "workType": "信息图/图解",
+    "subjectType": "产品",
+    "compositionPatterns": [
+      "close-up",
+      "callout",
+      "layered"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "photorealistic",
+      "sci-fi",
+      "premium",
+      "studio"
+    ],
+    "lightingCamera": [
+      "lens"
+    ],
+    "containsText": true,
+    "textRequirement": "包含标注/说明；文字是主视觉",
+    "templateId": "T07",
+    "templateName": "爆炸视图/结构图解",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "元素位置与数量控制",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 74,
+    "whySelected": "得分 74；构图: close-up, callout, layered；风格: realistic, photorealistic, sci-fi, premium, studio；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 69,
+    "id": "15110",
+    "title": "隐藏的刻字米粒",
+    "description": "此提示词可生成一张逼真的米堆特写，并配有放大展示的刻字米粒，适用于彩蛋视觉效果或 AI 演示图像。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15110",
+    "sourceLink": "https://x.com/BoyuanChen0/status/2047079274679783688#reversed-0",
+    "promptLength": 1341,
+    "promptExcerpt": "A photorealistic close-up tabletop scene showing a large mound of uncooked long-grain white rice poured onto a warm brown wooden surface, filling almost the entire frame. The camera is slightly elevated and angled toward the pile so the rice forms a broad dome centered in the image, with thousands of individual grains sharply visible and softly lit by warm i",
+    "workType": "信息图/图解",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "centered",
+      "close-up",
+      "callout",
+      "horizontal"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "photorealistic"
+    ],
+    "lightingCamera": [
+      "camera"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字；要求可读；包含标注/说明",
+    "templateId": "T07",
+    "templateName": "爆炸视图/结构图解",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "元素位置与数量控制",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 74,
+    "whySelected": "得分 74；构图: centered, close-up, callout, horizontal；风格: realistic, photorealistic；要求精确文字；要求可读；包含标注/说明"
+  },
+  {
+    "rank": 70,
+    "id": "15612",
+    "title": "复古中国美食地图海报",
+    "description": "此提示词可生成一张插画风格浓郁的水彩旅游地图海报，包含各地特色菜肴、风景地标及标注路线，适用于目的地美食推广与文化旅游设计。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15612",
+    "sourceLink": "https://x.com/ppmmzzcom/status/2047945186014331244#reversed-0",
+    "promptLength": 2187,
+    "promptExcerpt": "A hand-painted vintage Chinese tourist food map poster in watercolor and ink wash style, shown from a bird’s-eye view over a misty mountainous county landscape. The composition is a stylized illustrated map of {argument name=\"place name\" default=\"缙云\"}, with pale rice-paper texture, soft beige background, green-gray mountains, winding rivers, country roads, o",
+    "workType": "信息图/图解",
+    "subjectType": "信息结构",
+    "compositionPatterns": [],
+    "styleKeywords": [
+      "realistic",
+      "vintage",
+      "watercolor",
+      "premium",
+      "ink wash"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "要求精确文字；包含标注/说明",
+    "templateId": "T13",
+    "templateName": "地图/空间导览",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 74,
+    "whySelected": "得分 74；风格: realistic, vintage, watercolor, premium, ink wash；要求精确文字；包含标注/说明"
+  },
+  {
+    "rank": 71,
+    "id": "15059",
+    "title": "Mirassol FC 球员签约官宣海报",
+    "description": "一张为 Mirassol FC 设计的极具张力的垂直足球转会海报，非常适合俱乐部官宣、运动员宣传艺术以及社交媒体体育图形设计。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15059",
+    "sourceLink": "https://x.com/JonSold3ra/status/2047028103340249243#reversed-0",
+    "promptLength": 2643,
+    "promptExcerpt": "Create a dramatic Brazilian football club signing announcement poster in a vertical 2:3 layout, with a gritty high-contrast sports-marketing aesthetic in yellow, dark green, black, and gold. The main subject is a muscular tattooed male footballer wearing a bright yellow Mirassol FC home jersey, shown as a large centered half-body portrait from chest up, faci",
+    "workType": "图标/贴纸",
+    "subjectType": "文字符号",
+    "compositionPatterns": [
+      "centered",
+      "callout",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "cinematic",
+      "premium"
+    ],
+    "lightingCamera": [
+      "rim light"
+    ],
+    "containsText": true,
+    "textRequirement": "包含标注/说明；文字是主视觉",
+    "templateId": "T16",
+    "templateName": "图标/贴纸套组",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "元素位置与数量控制"
+    ],
+    "score": 74,
+    "whySelected": "得分 74；构图: centered, callout, vertical；风格: cinematic, premium；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 72,
+    "id": "15441",
+    "title": "桃园结义电影感场景",
+    "description": "此提示词可生成一幅桃花树下极具电影感的“三国”结义仪式画面，非常适合历史插画、概念艺术或戏剧性文学场景的重现。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15441",
+    "sourceLink": "https://x.com/Saccc_c/status/2047211498838352177#reversed-1",
+    "promptLength": 1758,
+    "promptExcerpt": "A cinematic historical scene from Romance of the Three Kingdoms showing the {argument name=\"scene name\" default=\"Peach Garden Oath\"}. Three ancient Chinese men stand side by side behind a ceremonial altar table in a blooming orchard of pink peach blossoms, each holding a respectful fist-and-palm salute at chest height. The man on the left is broad and heavil",
+    "workType": "海报/封面",
+    "subjectType": "产品",
+    "compositionPatterns": [
+      "centered",
+      "symmetrical",
+      "layered"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "cinematic"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "要求精确文字",
+    "templateId": "T20",
+    "templateName": "文化节日/地域视觉",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 74,
+    "whySelected": "得分 74；构图: centered, symmetrical, layered；风格: realistic, cinematic；要求精确文字"
+  },
+  {
+    "rank": 73,
+    "id": "15800",
+    "title": "奇幻法师集换式卡牌",
+    "description": "此提示词可生成一张精致的奇幻角色集换式卡牌，适用于人类法师角色，适合用于自定义卡牌游戏概念设计和样机制作。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15800",
+    "sourceLink": "https://x.com/Artedeingenio/status/2047601145569235279#reversed-2",
+    "promptLength": 2932,
+    "promptExcerpt": "A single vertically oriented fantasy trading card in a richly ornamented high-fantasy style, designed like a premium collectible TCG card with fully legible printed text and icons. The card has an elaborate dark navy and antique gold frame with filigree corners, embossed metallic trim, and a painterly realistic illustration in the center. At the top center, ",
+    "workType": "插画/漫画",
+    "subjectType": "产品",
+    "compositionPatterns": [
+      "centered",
+      "layered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "cinematic",
+      "fantasy",
+      "premium"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "要求精确文字；要求可读；文字是主视觉",
+    "templateId": "T03",
+    "templateName": "动作漫画/动漫场景",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 73,
+    "whySelected": "得分 73；构图: centered, layered, vertical；风格: realistic, cinematic, fantasy, premium；要求精确文字；要求可读；文字是主视觉"
+  },
+  {
+    "rank": 74,
+    "id": "14432",
+    "title": "动漫武士游戏广告海报",
+    "description": "一款华丽的竖版手游广告，展示了两名身穿西装的剑客、一个巨大的武士机甲、游戏 UI、二维码以及用于应用推广的应用商店下载提示。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14432",
+    "sourceLink": "https://x.com/HarunagaMutsuki/status/2046876482224746543#reversed-0",
+    "promptLength": 2259,
+    "promptExcerpt": "Create a high-impact vertical mobile game advertisement poster in glossy anime action style, with a dramatic cyber-samurai fantasy aesthetic and dense, premium gacha-RPG promotional composition. The main scene shows 2 young adult male fighters in modern black business suits crouching aggressively in the foreground, each drawing a katana toward the viewer. Bo",
+    "workType": "插画/漫画",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "centered",
+      "layered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "cinematic",
+      "anime",
+      "fantasy",
+      "premium"
+    ],
+    "lightingCamera": [
+      "neon"
+    ],
+    "containsText": true,
+    "textRequirement": "包含文字或排版元素",
+    "templateId": "T03",
+    "templateName": "动作漫画/动漫场景",
+    "failureRisks": [
+      "文字可读性/准确拼写"
+    ],
+    "score": 73,
+    "whySelected": "得分 73；构图: centered, layered, vertical；风格: cinematic, anime, fantasy, premium；包含文字或排版元素"
+  },
+  {
+    "rank": 75,
+    "id": "13460",
+    "title": "VR 头显爆炸视图海报",
+    "description": "生成一张高科技 VR 头显爆炸视图，包含详细的组件标注和宣传文案。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=13460",
+    "sourceLink": "https://x.com/wory37303852/status/2045925660401795478#reversed-0",
+    "promptLength": 1463,
+    "promptExcerpt": "{ \"type\": \"exploded view product diagram poster\", \"subject\": \"VR headset\", \"style\": \"clean high-tech 3D render, studio lighting, glowing accents\", \"background\": \"{argument name=\\\"background color\\\" default=\\\"soft purple and blue gradient\\\"}\", \"header\": { \"logo\": \"∞ {argument name=\\\"product name\\\" default=\\\"Meta Quest 3\\\"}\", \"subtitle\": \"{argument name=\\\"main",
+    "workType": "信息图/图解",
+    "subjectType": "产品",
+    "compositionPatterns": [
+      "exploded view",
+      "callout",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "3d",
+      "studio"
+    ],
+    "lightingCamera": [
+      "studio lighting",
+      "lens",
+      "camera"
+    ],
+    "containsText": true,
+    "textRequirement": "包含标注/说明；文字是主视觉",
+    "templateId": "T07",
+    "templateName": "爆炸视图/结构图解",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "元素位置与数量控制"
+    ],
+    "score": 73,
+    "whySelected": "得分 73；构图: exploded view, callout, vertical；风格: 3d, studio；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 76,
+    "id": "15389",
+    "title": "未来感董事会分析会议",
+    "description": "此提示词可生成一张精致的广角企业会议场景图，以巨大的未来感数据看板为中心，非常适合用于商业、AI、金融或数字化转型相关的视觉内容。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15389",
+    "sourceLink": "https://x.com/Blog_Nico/status/2047389340024615365#reversed-0",
+    "promptLength": 2045,
+    "promptExcerpt": "A wide cinematic corporate boardroom scene in a bright modern glass-walled office with floor-to-ceiling windows and a panoramic city skyline faintly visible outside. Around {argument name=\"number of attendees\" default=\"22\"} business professionals of mixed genders and ethnicities sit in a large U-shaped arrangement of light wood conference tables, each person",
+    "workType": "UI/界面",
+    "subjectType": "界面",
+    "compositionPatterns": [
+      "centered",
+      "vertical",
+      "horizontal"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "photorealistic",
+      "cinematic",
+      "editorial"
+    ],
+    "lightingCamera": [
+      "lens"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字",
+    "templateId": "T09",
+    "templateName": "SaaS 仪表盘",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 73,
+    "whySelected": "得分 73；构图: centered, vertical, horizontal；风格: realistic, photorealistic, cinematic, editorial；要求精确文字"
+  },
+  {
+    "rank": 77,
+    "id": "14892",
+    "title": "中国宿舍直播截图",
+    "description": "该提示词可生成一张照片级逼真的手机直播 App 截图，展示一位女大学生在宿舍进行直播的场景，适用于社交媒体 UI 模型和真实的 AI 生活方式场景。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14892",
+    "sourceLink": "https://x.com/Kejijun6666/status/2046781881409270011#reversed-1",
+    "promptLength": 2522,
+    "promptExcerpt": "A highly realistic vertical smartphone screenshot of a Chinese livestream app showing a cozy college dorm room streamer scene. The interface should look like a real iPhone screen capture with status bar at the top, including Chinese carrier text, time 9:16, and battery around 67%. In the upper left, show a circular cartoon avatar and a livestream info badge ",
+    "workType": "UI/界面",
+    "subjectType": "界面",
+    "compositionPatterns": [
+      "vertical"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "photorealistic"
+    ],
+    "lightingCamera": [
+      "camera"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字；包含标注/说明",
+    "templateId": "T10",
+    "templateName": "移动 App 截图",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 73,
+    "whySelected": "得分 73；构图: vertical；风格: realistic, photorealistic；要求精确文字；包含标注/说明"
+  },
+  {
+    "rank": 78,
+    "id": "15029",
+    "title": "极简男性头像 Logo 网格",
+    "description": "一份简洁的矢量设计图，展示了 20 种男性头像和眼镜 Logo 图标变体，适用于品牌探索或身份识别概念项目。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15029",
+    "sourceLink": "https://x.com/fmontes/status/2046946960720998553#reversed-1",
+    "promptLength": 3654,
+    "promptExcerpt": "{\"type\":\"minimal vector logo sheet\",\"subject\":\"professional head-and-shoulders male avatar icon set\",\"style\":{\"design\":\"flat geometric vector, clean corporate branding, simplified facial features, mostly bald or closely shaved men, some with glasses or facial hair, no gradients except subtle metallic-looking center masks, crisp outlines, symmetrical composit",
+    "workType": "图标/贴纸",
+    "subjectType": "文字符号",
+    "compositionPatterns": [
+      "centered",
+      "symmetrical",
+      "grid",
+      "vertical",
+      "horizontal"
+    ],
+    "styleKeywords": [],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "禁止额外文字；文字是主视觉",
+    "templateId": "T16",
+    "templateName": "图标/贴纸套组",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "元素位置与数量控制"
+    ],
+    "score": 73,
+    "whySelected": "得分 73；构图: centered, symmetrical, grid, vertical, horizontal；禁止额外文字；文字是主视觉"
+  },
+  {
+    "rank": 79,
+    "id": "14497",
+    "title": "日本 X 变现缩略图",
+    "description": "一款专为 X 变现入门指南设计的日式动漫风格 YouTube 缩略图，非常适合社交媒体增长、收入策略及在线业务视频封面使用。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14497",
+    "sourceLink": "https://x.com/mido_lucci/status/2046546991006802057#reversed-1",
+    "promptLength": 2462,
+    "promptExcerpt": "Create a bold Japanese YouTube thumbnail in a flashy anime-business style, 16:9 landscape, packed composition, high contrast, glossy text effects, neon green and gold color scheme, dramatic lighting, spark particles, lens flares, and intense depth of field. The scene shows a blurred workstation and social media analytics dashboard in the background, with ris",
+    "workType": "UI/界面",
+    "subjectType": "文字符号",
+    "compositionPatterns": [
+      "layered"
+    ],
+    "styleKeywords": [
+      "anime",
+      "3d"
+    ],
+    "lightingCamera": [
+      "dramatic lighting",
+      "neon",
+      "high contrast",
+      "depth of field",
+      "lens"
+    ],
+    "containsText": true,
+    "textRequirement": "包含标注/说明；文字是主视觉",
+    "templateId": "T09",
+    "templateName": "SaaS 仪表盘",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度"
+    ],
+    "score": 72,
+    "whySelected": "得分 72；构图: layered；风格: anime, 3d；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 80,
+    "id": "14173",
+    "title": "Cultural Garment Infographic",
+    "description": "Generates a highly detailed, multi-section educational infographic detailing the components, materials, and history of traditional garments.",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14173",
+    "sourceLink": "https://x.com/llinze521/status/2046199980059418936#reversed-0",
+    "promptLength": 1938,
+    "promptExcerpt": "{\"type\": \"comprehensive cultural infographic and visual guide\", \"subject\": {\"description\": \"{argument name=\\\"subject description\\\" default=\\\"young Chinese woman with elegant traditional updo\\\"}\", \"garment\": \"traditional Hanfu, specifically a Quju Shenyi\", \"colors\": \"{argument name=\\\"garment color\\\" default=\\\"beige and maroon\\\"}\", \"pose\": \"standing full-body,",
+    "workType": "海报/封面",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "close-up",
+      "full-body"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "photorealistic",
+      "vintage"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "包含标注/说明",
+    "templateId": "T20",
+    "templateName": "文化节日/地域视觉",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 72,
+    "whySelected": "得分 72；构图: close-up, full-body；风格: realistic, photorealistic, vintage；包含标注/说明"
+  },
+  {
+    "rank": 81,
+    "id": "14403",
+    "title": "日本绿色科技宣传拼贴画",
+    "description": "这是一张精致的方形日本营销拼贴画，展示了四项生态数字服务，非常适合用于重现企业宣传册、社交媒体帖子或可持续技术演示的视觉效果。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14403",
+    "sourceLink": "https://x.com/mochisw/status/2046570968257294410#reversed-0",
+    "promptLength": 2778,
+    "promptExcerpt": "{\"type\":\"Japanese promotional 2x2 brochure collage for green-tech digital services\",\"style\":\"clean corporate advertising, modern eco-friendly branding, soft natural lighting, realistic photocomposite with minimal AI artifacts, white and green color palette, polished Japanese typography, square layout\",\"canvas\":{\"aspect_ratio\":\"1:1\",\"size\":\"1536x1536\"},\"layou",
+    "workType": "UI/界面",
+    "subjectType": "界面",
+    "compositionPatterns": [
+      "close-up",
+      "grid",
+      "2x2"
+    ],
+    "styleKeywords": [
+      "realistic"
+    ],
+    "lightingCamera": [
+      "natural light"
+    ],
+    "containsText": true,
+    "textRequirement": "包含标注/说明；文字是主视觉",
+    "templateId": "T08",
+    "templateName": "电商直播/UI 样机",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "元素位置与数量控制",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 71,
+    "whySelected": "得分 71；构图: close-up, grid, 2x2；风格: realistic；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 82,
+    "id": "15795",
+    "title": "印尼学校营养计划落地页",
+    "description": "一个为印尼 MBG 学校营养计划设计的精美桌面端网站首屏模型，适用于政府、公民科技或前端设计展示。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15795",
+    "sourceLink": "https://x.com/F2aldi/status/2047509065040077286#reversed-0",
+    "promptLength": 2701,
+    "promptExcerpt": "Create a modern government program landing page UI mockup for Indonesia in a clean, professional web design style, desktop widescreen aspect ratio. The page uses a white background with bold red accents, soft rounded corners, subtle gray dividers, and a polished frontend-dribbble presentation look. At the very top, build a horizontal navigation bar with 6 vi",
+    "workType": "UI/界面",
+    "subjectType": "界面",
+    "compositionPatterns": [
+      "centered",
+      "vertical",
+      "horizontal"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "documentary"
+    ],
+    "lightingCamera": [
+      "shallow depth",
+      "depth of field"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字；包含标注/说明；文字是主视觉",
+    "templateId": "T08",
+    "templateName": "电商直播/UI 样机",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 71,
+    "whySelected": "得分 71；构图: centered, vertical, horizontal；风格: realistic, documentary；要求精确文字；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 83,
+    "id": "14437",
+    "title": "梦幻山水女子剪影",
+    "description": "此提示词可生成一幅充满诗意的竖构图奇幻艺术作品，将女性侧影与中国山水画元素巧妙融合，非常适合用于海报、书籍封面及优雅的墙面装饰艺术。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14437",
+    "sourceLink": "https://x.com/eternityspring/status/2046885457800450412#reversed-0",
+    "promptLength": 1711,
+    "promptExcerpt": "A dreamlike vertical Chinese ink-and-wash fantasy illustration of a woman's side-profile silhouette merged with a vast shanshui landscape, with the facial area obscured by a plain soft-edged rectangular block in {argument name=\"overlay color\" default=\"warm taupe beige\"}. Her long flowing dark hair turns into swirling brushstroke ribbons, mountain ridges, mis",
+    "workType": "海报/封面",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "layered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "cinematic",
+      "fantasy",
+      "watercolor",
+      "premium"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "包含文字或排版元素",
+    "templateId": "T20",
+    "templateName": "文化节日/地域视觉",
+    "failureRisks": [
+      "文字可读性/准确拼写"
+    ],
+    "score": 71,
+    "whySelected": "得分 71；构图: layered, vertical；风格: cinematic, fantasy, watercolor, premium；包含文字或排版元素"
+  },
+  {
+    "rank": 84,
+    "id": "14126",
+    "title": "Oriental Aesthetics Ink Wash Poster",
+    "description": "A prompt for a minimalist New Chinese style ink wash landscape poster featuring misty mountains, a mirror-like lake, and a small boat with a red-clothed figure.",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14126",
+    "sourceLink": "https://x.com/liyue_ai/status/2046215276249993720",
+    "promptLength": 687,
+    "promptExcerpt": "新中式水墨山水海报，竖版9:16构图，东方极简美学风格， 大面积留白，整体色调为春日清晨氛围（青绿色、雾蓝、淡灰、浅墨），低饱和、清透柔和，高级质感。 画面主体为奇峻巍峨的群山，从中间平静湖面的两侧拔地而起，占据左右两侧画面， 山体以水墨晕染表现，浓淡干湿变化丰富，局部融入淡青绿色渲染，体现春意生机。 山峰被湿润轻柔的晨雾包裹，雾气层层递进，与浅青蓝天空自然融合，形成空气透视与空间纵深。 湖面如镜面般平静，呈现微青绿色调，倒映山体与天空，反射略带柔焦与雾化扩散效果，增强春日湿润与梦幻氛围。 中景一艘带弧形篷顶的小木舟缓慢漂浮，船桨轻触水面形成细腻涟漪，水纹自然扩散，整体保持极静状态。 船上为一位红衣渔女，体量较小（远景比例），人物简化处理为水墨剪影 + 轻微设色， 身着低饱和朱砂红传统服饰（非鲜艳红），颜色略被",
+    "workType": "海报/封面",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "centered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "cinematic",
+      "minimalist",
+      "ink wash"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "包含文字或排版元素",
+    "templateId": "T20",
+    "templateName": "文化节日/地域视觉",
+    "failureRisks": [
+      "文字可读性/准确拼写"
+    ],
+    "score": 71,
+    "whySelected": "得分 71；构图: centered, vertical；风格: cinematic, minimalist, ink wash；包含文字或排版元素"
+  },
+  {
+    "rank": 85,
+    "id": "14540",
+    "title": "AI Thinking App 截图",
+    "description": "一张纵向手机聊天应用截图，展示了日语提示词及生成的宇宙数据视觉艺术作品，适用于演示真实界面中的 AI 图像生成效果。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14540",
+    "sourceLink": "https://x.com/Masimo_Blue/status/2046617819803201838#reversed-0",
+    "promptLength": 1557,
+    "promptExcerpt": "A smartphone chat app screenshot in portrait orientation, minimal iOS-style interface on a white background. At the top is a navigation bar with a hamburger menu icon on the left, the blue title “Thinking” near the top center-left with a right chevron, and 2 icons on the right: a compose/edit square icon and a horizontal three-dots menu icon. Below it is a l",
+    "workType": "UI/界面",
+    "subjectType": "界面",
+    "compositionPatterns": [
+      "grid",
+      "horizontal"
+    ],
+    "styleKeywords": [
+      "realistic"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "文字是主视觉",
+    "templateId": "T10",
+    "templateName": "移动 App 截图",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "元素位置与数量控制",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 70,
+    "whySelected": "得分 70；构图: grid, horizontal；风格: realistic；文字是主视觉"
+  },
+  {
+    "rank": 86,
+    "id": "14993",
+    "title": "可爱猫咪贴纸集",
+    "description": "此提示词可生成包含 25 种姿态的可爱白色猫咪贴纸集，适用于聊天贴纸、表情包及吉祥物表情系列。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14993",
+    "sourceLink": "https://x.com/webdesigner_go/status/2046804776684577086#reversed-1",
+    "promptLength": 2495,
+    "promptExcerpt": "{\"type\":\"cute sticker sheet illustration\",\"style\":\"simple hand-drawn kawaii cat doodles, thick black outlines, minimal flat colors, white cat character, clean light gray background, LINE sticker style, playful and expressive\",\"subject\":{\"character\":\"a chubby white cartoon cat with tiny dot eyes, small smiling mouth, triangular ears, rounded body, short limbs",
+    "workType": "图标/贴纸",
+    "subjectType": "产品",
+    "compositionPatterns": [
+      "grid",
+      "horizontal"
+    ],
+    "styleKeywords": [
+      "hand-drawn"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "禁止额外文字；包含标注/说明；文字是主视觉",
+    "templateId": "T16",
+    "templateName": "图标/贴纸套组",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "元素位置与数量控制"
+    ],
+    "score": 70,
+    "whySelected": "得分 70；构图: grid, horizontal；风格: hand-drawn；禁止额外文字；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 87,
+    "id": "14255",
+    "title": "Vintage 3D Miniature City Map",
+    "description": "Generates a highly detailed, isometric 3D miniature map of a coastal city on a vintage parchment background, complete with labeled landmarks and traditional typography.",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14255",
+    "sourceLink": "https://x.com/A9Quant/status/2046197741685260384#reversed-0",
+    "promptLength": 1560,
+    "promptExcerpt": "{ \"type\": \"isometric 3D map illustration\", \"style\": \"vintage cartography mixed with highly detailed miniature diorama, warm lighting, tilt-shift effect\", \"background\": \"aged parchment paper with faint contour lines and map grids\", \"title_section\": { \"position\": \"top-left\", \"main_text\": \"{argument name=\\\"city name\\\" default=\\\"汕頭\\\"}\", \"subtitle_english\": \"{arg",
+    "workType": "空间/场景",
+    "subjectType": "信息结构",
+    "compositionPatterns": [
+      "isometric",
+      "grid",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "3d",
+      "vintage",
+      "isometric"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "包含标注/说明；文字是主视觉",
+    "templateId": "T18",
+    "templateName": "等距 3D 空间",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "元素位置与数量控制"
+    ],
+    "score": 69,
+    "whySelected": "得分 69；构图: isometric, grid, vertical；风格: 3d, vintage, isometric；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 88,
+    "id": "14480",
+    "title": "ChatGPT 应用展示微信朋友圈截图",
+    "description": "一张逼真的中文 ChatGPT 移动端应用截图，展示了生成的微信朋友圈模拟界面，适用于社交媒体 UI 演示及 AI 图像生成展示。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14480",
+    "sourceLink": "https://x.com/freeLifeFFF/status/2046574910106144874#reversed-0",
+    "promptLength": 2312,
+    "promptExcerpt": "A realistic dark-mode smartphone screenshot of the ChatGPT mobile app in Chinese, shown full screen on a black background with an iPhone-style status bar. The top status bar shows the time 20:57 on the left, small cellular signal, Wi‑Fi, and battery icons on the right, with the battery reading 61. Below it is the ChatGPT conversation header with a left menu ",
+    "workType": "UI/界面",
+    "subjectType": "界面",
+    "compositionPatterns": [
+      "horizontal"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "photorealistic"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "要求精确文字；文字是主视觉",
+    "templateId": "T10",
+    "templateName": "移动 App 截图",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 68,
+    "whySelected": "得分 68；构图: horizontal；风格: realistic, photorealistic；要求精确文字；文字是主视觉"
+  },
+  {
+    "rank": 89,
+    "id": "13883",
+    "title": "Chalkboard AI 产品信息图",
+    "description": "为软件发布生成一份高度详细、包含 10 个板块的黑板风格信息图，内含图表、矩阵和表格。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=13883",
+    "sourceLink": "https://x.com/lpxwd/status/2044987195170378078#reversed-1",
+    "promptLength": 2418,
+    "promptExcerpt": "{ \"type\": \"chalkboard style infographic\", \"style\": \"dark slate background, white text, hand-drawn accents, clean typography\", \"colors\": { \"background\": \"dark slate grey\", \"text\": \"white\", \"accents\": [\"{argument name=\\\"accent color 1\\\" default=\\\"orange\\\"}\", \"{argument name=\\\"accent color 2\\\" default=\\\"light blue\\\"}\", \"yellow\", \"pink\"] }, \"header\": { \"badge\": ",
+    "workType": "信息图/图解",
+    "subjectType": "信息结构",
+    "compositionPatterns": [
+      "grid",
+      "2x2",
+      "vertical",
+      "horizontal"
+    ],
+    "styleKeywords": [
+      "hand-drawn"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "文字是主视觉",
+    "templateId": "T12",
+    "templateName": "流程图/步骤图",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "元素位置与数量控制"
+    ],
+    "score": 68,
+    "whySelected": "得分 68；构图: grid, 2x2, vertical, horizontal；风格: hand-drawn；文字是主视觉"
+  },
+  {
+    "rank": 90,
+    "id": "15638",
+    "title": "静安寺站 2 号线入口",
+    "description": "此提示词可生成一张写实风格的手机摄影照片，展示通勤者进入上海地铁 2 号线静安寺站的场景，适用于交通、城市写实或基于地点的场景生成。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15638",
+    "sourceLink": "https://x.com/oran9echen_/status/2047553456635072679#reversed-1",
+    "promptLength": 1788,
+    "promptExcerpt": "A realistic documentary-style photo of the entrance area inside {argument name=\"station name\" default=\"Jing'an Temple Station\"} on {argument name=\"subway line\" default=\"Line 2\"} in Shanghai Metro, viewed from a passenger's eye level while walking toward the fare gates. The scene is a wide indoor station concourse with a modern ceiling made of dark brown curv",
+    "workType": "信息图/图解",
+    "subjectType": "文字符号",
+    "compositionPatterns": [
+      "centered"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "documentary"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "要求精确文字",
+    "templateId": "T13",
+    "templateName": "地图/空间导览",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 68,
+    "whySelected": "得分 68；构图: centered；风格: realistic, documentary；要求精确文字"
+  },
+  {
+    "rank": 91,
+    "id": "14400",
+    "title": "GTA 风格海滩俱乐部游戏截图",
+    "description": "一张逼真的次世代开放世界游戏截图，展示了位于热闹奢华海滩俱乐部的可玩角色，非常适合制作 GTA 风格的宣传视觉图或社交媒体对比图。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14400",
+    "sourceLink": "https://x.com/estebandiba/status/2046564959899815946#reversed-1",
+    "promptLength": 1727,
+    "promptExcerpt": "Create a hyper-realistic open-world crime video game screenshot in the style of a modern Miami-inspired beach club mission scene, captured in bright midday sunlight with a clear blue sky. Show a third-person gameplay-like composition with {argument name=\"character description\" default=\"a young adult man with short dark hair, light skin, wearing a plain black",
+    "workType": "信息图/图解",
+    "subjectType": "人物",
+    "compositionPatterns": [],
+    "styleKeywords": [
+      "realistic",
+      "cinematic",
+      "luxury"
+    ],
+    "lightingCamera": [
+      "neon",
+      "camera"
+    ],
+    "containsText": true,
+    "textRequirement": "要求精确文字；包含标注/说明",
+    "templateId": "T13",
+    "templateName": "地图/空间导览",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 67,
+    "whySelected": "得分 67；风格: realistic, cinematic, luxury；要求精确文字；包含标注/说明"
+  },
+  {
+    "rank": 92,
+    "id": "15328",
+    "title": "温馨动漫风 ASMR 耳部按摩少女",
+    "description": "此提示词可生成一张柔和浪漫的动漫缩略图风格插画，画面中是一位佩戴双耳麦克风的少女，配有发光的日文 ASMR 文字，非常适合直播、视频封面或社交媒体宣传视觉图。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15328",
+    "sourceLink": "https://x.com/Shion_yamabuki/status/2047232198382964969#reversed-0",
+    "promptLength": 1583,
+    "promptExcerpt": "A soft, dreamy anime illustration of a cute young woman doing ASMR in a cozy bedroom at night, seated close to the viewer with her knees pulled up and a black 3Dio-style binaural microphone centered in front of her. She has {argument name=\"hair color\" default=\"deep violet\"} hair in a loose messy updo with wispy bangs framing her face, large sparkling {argume",
+    "workType": "空间/场景",
+    "subjectType": "产品",
+    "compositionPatterns": [
+      "centered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "anime",
+      "3d"
+    ],
+    "lightingCamera": [
+      "neon",
+      "shallow depth",
+      "depth of field"
+    ],
+    "containsText": true,
+    "textRequirement": "包含文字或排版元素",
+    "templateId": "T18",
+    "templateName": "等距 3D 空间",
+    "failureRisks": [
+      "文字可读性/准确拼写"
+    ],
+    "score": 67,
+    "whySelected": "得分 67；构图: centered, vertical；风格: anime, 3d；包含文字或排版元素"
+  },
+  {
+    "rank": 93,
+    "id": "14661",
+    "title": "带有广告设计网格的 AI 聊天截图",
+    "description": "此内容生成一张逼真的深色模式移动端聊天截图，展示了两个日语 AI 提示词以及两组 2x2 的精美广告设计变体，适用于展示生成式设计能力。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14661",
+    "sourceLink": "https://x.com/issay_12/status/2046459431681224820#reversed-0",
+    "promptLength": 3178,
+    "promptExcerpt": "A dark-mode mobile chat interface screenshot showing two separate Japanese prompt-and-result exchanges about AI-generated ad design. The background is nearly black. There are 2 large rounded light-gray chat bubbles aligned to the right, each containing Japanese text. The first bubble says: 「日本語の幼稚園の広告画像を、トンマナ違いで4種類並べて画像生成して。プロデザイナーが作ったトレンドのデザインで。アスペクト比は16:9」",
+    "workType": "UI/界面",
+    "subjectType": "界面",
+    "compositionPatterns": [
+      "close-up",
+      "grid",
+      "2x2",
+      "callout"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "luxury",
+      "premium"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "包含标注/说明；文字是主视觉",
+    "templateId": "T10",
+    "templateName": "移动 App 截图",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "元素位置与数量控制",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 66,
+    "whySelected": "得分 66；构图: close-up, grid, 2x2, callout；风格: realistic, luxury, premium；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 94,
+    "id": "14542",
+    "title": "带有宇宙艺术风格的 AI 聊天截图",
+    "description": "此提示词可生成一张逼真的移动端应用截图，展示 AI 图像生成结果，适用于模型展示、社交媒体贴文或呈现震撼视觉艺术的界面演示。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14542",
+    "sourceLink": "https://x.com/Masimo_Blue/status/2046617819803201838#reversed-1",
+    "promptLength": 1863,
+    "promptExcerpt": "A vertical smartphone screenshot of an AI chat app interface in light mode, showing the moment an image has just been generated. At the very top is a simple mobile app header with a hamburger menu icon on the left, the blue title “Thinking” with a right chevron beside it, and on the right a compose icon and a three-dot menu. Below that is the bottom portion ",
+    "workType": "UI/界面",
+    "subjectType": "界面",
+    "compositionPatterns": [
+      "centered",
+      "layered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "watercolor",
+      "oil painting"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "包含文字或排版元素",
+    "templateId": "T10",
+    "templateName": "移动 App 截图",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度"
+    ],
+    "score": 66,
+    "whySelected": "得分 66；构图: centered, layered, vertical；风格: watercolor, oil painting；包含文字或排版元素"
+  },
+  {
+    "rank": 95,
+    "id": "15292",
+    "title": "Scrapbook Byte-level BPE 原理解析",
+    "description": "此提示词旨在生成一张宽幅手绘风格的教育信息图，通过可爱的吉祥物角色，以亲切的中文科普风格解释 byte-level BPE 分词原理。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=15292",
+    "sourceLink": "https://x.com/coder_left/status/2047133651318755587#reversed-3",
+    "promptLength": 2232,
+    "promptExcerpt": "A cute horizontal educational infographic in a hand-drawn scrapbook style on a pastel desk-and-paper collage background, explaining Chinese word segmentation with byte-level BPE. The scene is divided into 3 clearly separated instructional sections arranged from left to right across a wide banner. On the far left stands a chibi Shiba Inu mascot, {argument nam",
+    "workType": "信息图/图解",
+    "subjectType": "产品",
+    "compositionPatterns": [
+      "horizontal"
+    ],
+    "styleKeywords": [
+      "hand-drawn"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "要求精确文字；包含标注/说明",
+    "templateId": "T12",
+    "templateName": "流程图/步骤图",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度"
+    ],
+    "score": 66,
+    "whySelected": "得分 66；构图: horizontal；风格: hand-drawn；要求精确文字；包含标注/说明"
+  },
+  {
+    "rank": 96,
+    "id": "14934",
+    "title": "日本法律与税务服务 LP 首屏设计",
+    "description": "一个为虚构法律与税务事务所设计的优质日本落地页首屏横幅，用于宣传四个服务领域，通过强有力的视觉效果建立信任，并包含咨询行动号召（CTA）。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14934",
+    "sourceLink": "https://x.com/takeshibengo/status/2047061602315460747#reversed-0",
+    "promptLength": 3098,
+    "promptExcerpt": "Create a polished Japanese landing-page hero banner for a fictional combined law firm and tax accountant office, with a clean corporate style, high trust, soft daylight, and a white background with faint modern city buildings on the far right. Use a wide horizontal web header layout. At the very top, place a large navy Japanese headline reading {argument nam",
+    "workType": "空间/场景",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "vertical",
+      "horizontal"
+    ],
+    "styleKeywords": [
+      "premium"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "要求精确文字；文字是主视觉",
+    "templateId": "T18",
+    "templateName": "等距 3D 空间",
+    "failureRisks": [
+      "文字可读性/准确拼写"
+    ],
+    "score": 66,
+    "whySelected": "得分 66；构图: vertical, horizontal；风格: premium；要求精确文字；文字是主视觉"
+  },
+  {
+    "rank": 97,
+    "id": "14686",
+    "title": "忧郁风格遮挡室内自拍肖像",
+    "description": "此提示词可生成一张年轻男子身着深色开领衬衫、在窗边拍摄的写实风格时尚自拍，适用于制作逼真的社交媒体肖像照。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14686",
+    "sourceLink": "https://x.com/MathMedix/status/2046802557872562478#reversed-0",
+    "promptLength": 1504,
+    "promptExcerpt": "A realistic indoor selfie-style portrait of a young East Asian man from the chest up, seated near a large modern window in a high-rise apartment or hotel room during soft daylight. He has {argument name=\"hair color\" default=\"black\"} hair, thick and slightly tousled with a center part and soft volume over the forehead and sides. His build appears slim, with a",
+    "workType": "空间/场景",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "centered",
+      "vertical"
+    ],
+    "styleKeywords": [
+      "realistic",
+      "photorealistic"
+    ],
+    "lightingCamera": [
+      "shallow depth",
+      "depth of field",
+      "camera"
+    ],
+    "containsText": true,
+    "textRequirement": "包含文字或排版元素",
+    "templateId": "T18",
+    "templateName": "等距 3D 空间",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "过度真实导致细节瑕疵显眼"
+    ],
+    "score": 66,
+    "whySelected": "得分 66；构图: centered, vertical；风格: realistic, photorealistic；包含文字或排版元素"
+  },
+  {
+    "rank": 98,
+    "id": "14185",
+    "title": "Magical Sleep Website Mockup",
+    "description": "Generates a highly detailed website landing page mockup featuring a surreal hero image and structured UI elements.",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14185",
+    "sourceLink": "https://x.com/masapark95/status/2046189362933858580#reversed-3",
+    "promptLength": 2238,
+    "promptExcerpt": "{ \"type\": \"website landing page mockup\", \"theme\": \"magical realism, cozy night, fantasy\", \"color_palette\": [\"deep navy blue\", \"warm gold\", \"glowing amber\"], \"header\": { \"logo\": \"{argument name=\\\"brand name\\\" default=\\\"BiblioSleep\\\"} with crescent moon and open book icon\", \"navigation_links\": { \"count\": 6, \"labels\": [\"コンセプト\", \"体験の仕組み\", \"キルトのこだわり\", \"体験一覧\", \"ユー",
+    "workType": "空间/场景",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "horizontal"
+    ],
+    "styleKeywords": [
+      "fantasy"
+    ],
+    "lightingCamera": [
+      "volumetric"
+    ],
+    "containsText": true,
+    "textRequirement": "包含标注/说明；文字是主视觉",
+    "templateId": "T18",
+    "templateName": "等距 3D 空间",
+    "failureRisks": [
+      "文字可读性/准确拼写"
+    ],
+    "score": 65,
+    "whySelected": "得分 65；构图: horizontal；风格: fantasy；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 99,
+    "id": "13611",
+    "title": "动漫艺术创作流程信息图",
+    "description": "生成一份全面的数字艺术分步教程图表，包含制作过程缩略图、色卡以及详细的局部特写。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=13611",
+    "sourceLink": "https://x.com/Art55_Japan/status/2043503443353231666#reversed-0",
+    "promptLength": 2550,
+    "promptExcerpt": "{ \"type\": \"digital art production process infographic\", \"header\": { \"title\": \"{argument name=\\\"main title\\\" default=\\\"真夏の少女\\\"}\", \"subtitle\": \"青い空、きらめく光。その一瞬が、永遠の思い出になる。\", \"process_label\": \"{argument name=\\\"process title\\\" default=\\\"制作工程\\\"}\" }, \"centerpiece\": { \"description\": \"Large high-quality anime illustration of {argument name=\\\"character appearance\\\" de",
+    "workType": "信息图/图解",
+    "subjectType": "人物",
+    "compositionPatterns": [
+      "close-up"
+    ],
+    "styleKeywords": [
+      "anime",
+      "studio"
+    ],
+    "lightingCamera": [
+      "lens"
+    ],
+    "containsText": true,
+    "textRequirement": "包含标注/说明；文字是主视觉",
+    "templateId": "T12",
+    "templateName": "流程图/步骤图",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度"
+    ],
+    "score": 61,
+    "whySelected": "得分 61；构图: close-up；风格: anime, studio；包含标注/说明；文字是主视觉"
+  },
+  {
+    "rank": 100,
+    "id": "14048",
+    "title": "复杂信息图表说明表",
+    "description": "生成高度详细、包含多个部分的信息图表，内含图表、流程图和矢量插图。",
+    "detailUrl": "https://youmind.com/zh-CN/gpt-image-2-prompts?id=14048",
+    "sourceLink": "https://x.com/fal48/status/2045422033065144465#reversed-0",
+    "promptLength": 2475,
+    "promptExcerpt": "{ \"type\": \"comprehensive infographic explainer sheet\", \"style\": \"{argument name=\\\"illustration style\\\" default=\\\"flat vector anime style\\\"}\", \"color_palette\": \"{argument name=\\\"color palette\\\" default=\\\"beige background with dark brown, red, and blue accents\\\"}\", \"layout\": { \"header\": { \"tag\": \"中国ドラマ『狂飆』理解ガイド\", \"main_title\": \"{argument name=\\\"main title\\\" de",
+    "workType": "信息图/图解",
+    "subjectType": "信息结构",
+    "compositionPatterns": [
+      "grid"
+    ],
+    "styleKeywords": [
+      "anime"
+    ],
+    "lightingCamera": [],
+    "containsText": true,
+    "textRequirement": "包含标注/说明",
+    "templateId": "T12",
+    "templateName": "流程图/步骤图",
+    "failureRisks": [
+      "文字可读性/准确拼写",
+      "结构化布局精度",
+      "元素位置与数量控制"
+    ],
+    "score": 59,
+    "whySelected": "得分 59；构图: grid；风格: anime；包含标注/说明"
+  }
+]

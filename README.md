@@ -14,6 +14,14 @@ npm run build:site
 npm run serve:site
 ```
 
+生成 GPT Image 2 提示词分析报告：
+
+```bash
+npm run analyze:framework
+```
+
+产物会写入 `analysis/`，包括 100 条高价值样本、数据摘要和 20 个创作模板。
+
 如果要新建飞书多维表格：
 
 ```bash
@@ -35,6 +43,12 @@ npm run sync:lark
 
 ```bash
 npm run sync:lark:local-auth
+```
+
+把 100 条高价值样本的分析标签写回飞书：
+
+```bash
+npm run sync:analysis:lark
 ```
 
 ## GitHub Actions

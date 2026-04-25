@@ -4,9 +4,11 @@
   "type": "module",
   "scripts": {
     "fetch": "node scripts/fetch-prompts.mjs",
+    "analyze:framework": "node scripts/analyze-prompt-framework.mjs",
     "bootstrap:lark": "node scripts/bootstrap-feishu-via-lark.mjs",
     "ensure:lark": "node scripts/ensure-feishu-fields-lark.mjs",
     "sync:lark": "node scripts/sync-feishu-lark.mjs",
+    "sync:analysis:lark": "node scripts/sync-analysis-feishu-lark.mjs",
     "sync:lark:local-auth": "bash scripts/run-sync-lark-local.sh",
     "sync:api": "node scripts/sync-feishu-api.mjs",
     "setup:runner": "bash scripts/setup-self-hosted-runner.sh",
