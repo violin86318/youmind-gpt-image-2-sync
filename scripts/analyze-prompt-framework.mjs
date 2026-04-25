@@ -4,6 +4,8 @@ import path from "path";
 const ROOT = process.cwd();
 const DATA_PATH = path.join(ROOT, "site/data/prompts.json");
 const OUT_DIR = path.join(ROOT, "analysis");
+const STABLE_RUN = process.argv.includes("--stable");
+const RUN_GENERATED_AT = STABLE_RUN ? "stable" : new Date().toISOString();
 
 const OFFICIAL_SOURCES = [
   {
@@ -521,6 +523,113 @@ function analyzePrompt(prompt) {
   };
 }
 
+function qualityTier(score) {
+  if (score >= 75) {
+    return {
+      key: "production",
+      label: "生产级"
+    };
+  }
+
+  if (score >= 50) {
+    return {
+      key: "standard",
+      label: "标准型"
+    };
+  }
+
+  return {
+    key: "inspiration",
+    label: "灵感型"
+  };
+}
+
+function listStructureModules(analysis) {
+  const modules = [];
+
+  if (analysis.subjectType !== "综合主体") modules.push("主体");
+  if (analysis.compositionPatterns.length > 0) modules.push("构图");
+  if (analysis.styleKeywords.length > 0) modules.push("风格");
+  if (analysis.lightingCamera.length > 0) modules.push("光线/镜头");
+  if (analysis.containsText) modules.push("文字");
+  if (analysis.failureRisks.length > 0) modules.push("约束");
+
+  return modules;
+}
+
+function buildCopyTemplate(analysis) {
+  return `Create a ${analysis.workType} image for [用途/受众].
+
+Main subject:
+[主体]，[数量/状态/动作]，[关键外观/材质/身份]。
+
+Scene:
+[地点/环境]，[时间/天气/时代]，[背景元素]。
+
+Composition:
+${analysis.compositionPatterns.length ? `[参考构图: ${analysis.compositionPatterns.join(", ")}]` : "[景别/角度/版式层级/主体位置]"}。
+
+Visual style:
+${analysis.styleKeywords.length ? `[参考风格: ${analysis.styleKeywords.join(", ")}]` : "[媒介/渲染方式/审美方向/色彩系统]"}。
+
+Lighting and camera:
+${analysis.lightingCamera.length ? `[参考光线镜头: ${analysis.lightingCamera.join(", ")}]` : "[光线/镜头/景深/质感]"}。
+
+Text requirements:
+${analysis.containsText ? analysis.textRequirement : "[是否含文字/精确文字/可读性要求]"}。
+
+Quality constraints:
+clean, coherent, polished, readable hierarchy, no random text, no visual clutter.`;
+}
+
+function buildBreakdown(prompt, analysis, selectedEntry) {
+  const modules = listStructureModules(analysis);
+  const quality = qualityTier(analysis.score);
+
+  return {
+    creativeCore: `${prompt.title || "Untitled"}：${prompt.description || analysis.workType}`,
+    subject: analysis.subjectType,
+    scene: analysis.workType,
+    composition: analysis.compositionPatterns,
+    style: analysis.styleKeywords,
+    lightingCamera: analysis.lightingCamera,
+    text: analysis.textRequirement,
+    constraints: analysis.failureRisks,
+    modules,
+    qualityTier: quality.key,
+    qualityLabel: quality.label,
+    bestUse: TEMPLATE_DEFINITIONS.find((template) => template.id === analysis.templateId)?.use || "",
+    whySelected: selectedEntry?.whySelected || ""
+  };
+}
+
+function buildAnalysisRecord(prompt, selectedEntry = null) {
+  const analysis = analyzePrompt(prompt);
+  const quality = qualityTier(analysis.score);
+
+  return {
+    id: String(prompt.id),
+    selected: Boolean(selectedEntry),
+    rank: selectedEntry?.rank || null,
+    score: analysis.score,
+    qualityTier: quality.key,
+    qualityLabel: quality.label,
+    workType: analysis.workType,
+    subjectType: analysis.subjectType,
+    templateId: analysis.templateId,
+    templateName: analysis.templateName,
+    compositionPatterns: analysis.compositionPatterns,
+    styleKeywords: analysis.styleKeywords,
+    lightingCamera: analysis.lightingCamera,
+    containsText: analysis.containsText,
+    textRequirement: analysis.textRequirement,
+    failureRisks: analysis.failureRisks,
+    modules: listStructureModules(analysis),
+    breakdown: buildBreakdown(prompt, analysis, selectedEntry),
+    copyTemplate: buildCopyTemplate(analysis)
+  };
+}
+
 function selectHighValuePrompts(prompts) {
   const analyzed = prompts.map((prompt) => ({
     id: String(prompt.id),
@@ -672,7 +781,7 @@ function writeResearchNotes(data, summary, selected) {
 
   const content = `# GPT Image 2 提示词调研与样本分析
 
-生成时间：${new Date().toISOString()}
+生成时间：${RUN_GENERATED_AT}
 
 ## 调研结论
 
@@ -820,18 +929,135 @@ function writeSelectedJson(filePath, selected) {
   fs.writeFileSync(filePath, `${JSON.stringify(selected, null, 2)}\n`);
 }
 
+function writePromptListReport(filePath, title, rows) {
+  const content = `# ${title}
+
+${rows
+  .slice(0, 60)
+  .map(
+    (row) => `## #${row.id} ${row.title}
+
+- 模板：${row.templateId} ${row.templateName}
+- 类型：${row.workType} / ${row.subjectType}
+- 质量：${row.qualityLabel} ${row.score}
+- 构图：${(row.compositionPatterns || []).join(", ") || "未明确"}
+- 风格：${(row.styleKeywords || []).join(", ") || "未明确"}
+- 风险：${(row.failureRisks || []).join("；") || "无"}
+- 链接：${row.detailUrl || ""}
+`
+  )
+  .join("\n")}
+`;
+
+  fs.writeFileSync(filePath, content);
+}
+
+function countTerms(rows, getter) {
+  const counts = {};
+
+  for (const row of rows) {
+    for (const item of getter(row) || []) {
+      counts[item] = (counts[item] || 0) + 1;
+    }
+  }
+
+  return Object.entries(counts).sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+}
+
+function writeLibraryReport(filePath, rows) {
+  const styleCounts = countTerms(rows, (row) => row.styleKeywords);
+  const compositionCounts = countTerms(rows, (row) => row.compositionPatterns);
+  const lightingCounts = countTerms(rows, (row) => row.lightingCamera);
+  const riskCounts = countTerms(rows, (row) => row.failureRisks);
+  const table = (items) => items.slice(0, 40).map(([term, count]) => `| ${term} | ${count} |`).join("\n");
+  const content = `# GPT Image 2 视觉语言与约束库
+
+## 风格词
+
+| 词汇 | 数量 |
+| --- | ---: |
+${table(styleCounts)}
+
+## 构图词
+
+| 词汇 | 数量 |
+| --- | ---: |
+${table(compositionCounts)}
+
+## 光线镜头词
+
+| 词汇 | 数量 |
+| --- | ---: |
+${table(lightingCounts)}
+
+## 失败风险
+
+| 风险 | 数量 |
+| --- | ---: |
+${table(riskCounts)}
+`;
+
+  fs.writeFileSync(filePath, content);
+}
+
+function writeTopicReports(prompts, analysisPayload) {
+  const reportsDir = path.join(OUT_DIR, "reports");
+  ensureDir(reportsDir);
+
+  const promptsById = new Map(prompts.map((prompt) => [String(prompt.id), prompt]));
+  const rows = analysisPayload.prompts
+    .map((row) => ({
+      ...row,
+      title: promptsById.get(row.id)?.title || "",
+      detailUrl: promptsById.get(row.id)?.detailUrl || "",
+      hasReferenceImages: (promptsById.get(row.id)?.referenceImages || []).length > 0
+    }))
+    .sort((left, right) => right.score - left.score || String(left.id).localeCompare(String(right.id)));
+
+  writePromptListReport(
+    path.join(reportsDir, "production-grade-prompts.md"),
+    "生产级提示词样本",
+    rows.filter((row) => row.qualityTier === "production")
+  );
+  writePromptListReport(
+    path.join(reportsDir, "text-typography-prompts.md"),
+    "文字与排版提示词样本",
+    rows.filter((row) => row.containsText)
+  );
+  writePromptListReport(
+    path.join(reportsDir, "reference-image-prompts.md"),
+    "参考图提示词样本",
+    rows.filter((row) => row.hasReferenceImages)
+  );
+  writePromptListReport(
+    path.join(reportsDir, "ui-product-prompts.md"),
+    "UI 与产品提示词样本",
+    rows.filter((row) => ["UI/界面", "产品/电商"].includes(row.workType))
+  );
+  writeLibraryReport(path.join(reportsDir, "visual-language-library.md"), rows);
+}
+
 function main() {
   ensureDir(OUT_DIR);
   const data = loadData();
   const prompts = data.prompts || [];
   const summary = summarizeDataset(prompts);
   const selected = selectHighValuePrompts(prompts);
+  const selectedById = new Map(selected.map((row) => [String(row.id), row]));
+  const promptAnalysis = {
+    generatedAt: RUN_GENERATED_AT,
+    stable: STABLE_RUN,
+    count: prompts.length,
+    prompts: prompts.map((prompt) => buildAnalysisRecord(prompt, selectedById.get(String(prompt.id))))
+  };
 
   writeResearchNotes(data, summary, selected);
   writeTemplateFramework(selected);
+  writeSelectedJson(path.join(OUT_DIR, "prompt-analysis.json"), promptAnalysis);
   writeSelectedJson(path.join(OUT_DIR, "high-value-prompts-100.json"), selected);
   writeCsv(path.join(OUT_DIR, "high-value-prompts-100.csv"), selected);
   fs.writeFileSync(path.join(OUT_DIR, "dataset-summary.json"), `${JSON.stringify(summary, null, 2)}\n`);
+  writeTopicReports(prompts, promptAnalysis);
 
   console.log(
     JSON.stringify(
@@ -841,9 +1067,11 @@ function main() {
         files: [
           "analysis/gpt-image-2-prompt-research.md",
           "analysis/gpt-image-2-template-framework.md",
+          "analysis/prompt-analysis.json",
           "analysis/high-value-prompts-100.json",
           "analysis/high-value-prompts-100.csv",
-          "analysis/dataset-summary.json"
+          "analysis/dataset-summary.json",
+          "analysis/reports/*.md"
         ]
       },
       null,

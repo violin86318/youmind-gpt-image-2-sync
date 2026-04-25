@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "fetch": "node scripts/fetch-prompts.mjs",
-    "analyze:framework": "node scripts/analyze-prompt-framework.mjs",
+    "analyze:framework": "node scripts/analyze-prompt-framework.mjs --stable",
     "bootstrap:lark": "node scripts/bootstrap-feishu-via-lark.mjs",
     "ensure:lark": "node scripts/ensure-feishu-fields-lark.mjs",
     "sync:lark": "node scripts/sync-feishu-lark.mjs",

@@ -3,7 +3,9 @@ const state = {
   filtered: [],
   featuredOnly: false,
   query: "",
-  category: "",
+  workType: "",
+  template: "",
+  quality: "",
   modalPromptMode: "translated",
   activePrompt: null
 };
@@ -14,7 +16,9 @@ const elements = {
   sync: document.querySelector("#stat-sync"),
   source: document.querySelector("#stat-source"),
   search: document.querySelector("#search-input"),
-  category: document.querySelector("#category-select"),
+  workType: document.querySelector("#worktype-select"),
+  template: document.querySelector("#template-select"),
+  quality: document.querySelector("#quality-select"),
   clear: document.querySelector("#clear-search"),
   toggleFeatured: document.querySelector("#toggle-featured"),
   resultsCount: document.querySelector("#results-count"),
@@ -29,11 +33,14 @@ const elements = {
   modalDescription: document.querySelector("#modal-description"),
   modalYoumind: document.querySelector("#modal-youmind"),
   modalSource: document.querySelector("#modal-source"),
+  modalAnalysis: document.querySelector("#modal-analysis"),
   modalPrompt: document.querySelector("#modal-prompt"),
   tabTranslated: document.querySelector("#tab-translated"),
   tabOriginal: document.querySelector("#tab-original"),
   closeModal: document.querySelector("#close-modal"),
-  copyPrompt: document.querySelector("#copy-prompt")
+  copyPrompt: document.querySelector("#copy-prompt"),
+  copyTemplate: document.querySelector("#copy-template"),
+  copyBreakdown: document.querySelector("#copy-breakdown")
 };
 
 function escapeHtml(value = "") {
@@ -77,6 +84,47 @@ function getActivePromptText() {
     : state.activePrompt.prompt || state.activePrompt.translatedPrompt || "";
 }
 
+function getAnalysis(prompt) {
+  return prompt.analysis || null;
+}
+
+function listText(items) {
+  return (items || []).filter(Boolean).join(", ");
+}
+
+function getTemplateCopy(prompt) {
+  const analysis = getAnalysis(prompt);
+  return analysis?.copyTemplate || getDisplayPromptText(prompt);
+}
+
+function getBreakdownCopy(prompt) {
+  const analysis = getAnalysis(prompt);
+
+  if (!analysis?.breakdown) {
+    return [
+      `标题：${prompt.title || ""}`,
+      `描述：${prompt.description || ""}`,
+      `提示词：${getDisplayPromptText(prompt)}`
+    ].join("\n");
+  }
+
+  const breakdown = analysis.breakdown;
+  return [
+    `标题：${prompt.title || ""}`,
+    `模板：${analysis.templateId} ${analysis.templateName}`,
+    `质量：${analysis.qualityLabel} / ${analysis.score}`,
+    `创意内核：${breakdown.creativeCore || ""}`,
+    `主体：${breakdown.subject || ""}`,
+    `场景/类型：${breakdown.scene || ""}`,
+    `构图：${listText(breakdown.composition) || "未明确"}`,
+    `风格：${listText(breakdown.style) || "未明确"}`,
+    `光线镜头：${listText(breakdown.lightingCamera) || "未明确"}`,
+    `文字要求：${breakdown.text || "无明确文字要求"}`,
+    `风险/约束：${listText(breakdown.constraints) || "无"}`,
+    `适合用途：${breakdown.bestUse || ""}`
+  ].join("\n");
+}
+
 function getSearchText(prompt) {
   return [
     prompt.id,
@@ -85,6 +133,14 @@ function getSearchText(prompt) {
     prompt.authorName,
     prompt.sourcePlatform,
     ...(prompt.categories || []),
+    prompt.analysis?.workType,
+    prompt.analysis?.subjectType,
+    prompt.analysis?.templateName,
+    prompt.analysis?.qualityLabel,
+    ...(prompt.analysis?.compositionPatterns || []),
+    ...(prompt.analysis?.styleKeywords || []),
+    ...(prompt.analysis?.lightingCamera || []),
+    ...(prompt.analysis?.modules || []),
     prompt.prompt,
     prompt.translatedPrompt
   ]
@@ -131,11 +187,21 @@ function applyFilters() {
   const normalizedQuery = state.query.trim().toLowerCase();
 
   state.filtered = state.prompts.filter((prompt) => {
-    if (state.featuredOnly && !prompt.featured) {
+    const analysis = getAnalysis(prompt);
+
+    if (state.featuredOnly && !analysis?.selected) {
       return false;
     }
 
-    if (state.category && !(prompt.categories || []).includes(state.category)) {
+    if (state.workType && analysis?.workType !== state.workType) {
+      return false;
+    }
+
+    if (state.template && `${analysis?.templateId} ${analysis?.templateName}` !== state.template) {
+      return false;
+    }
+
+    if (state.quality && analysis?.qualityLabel !== state.quality) {
       return false;
     }
 
@@ -149,17 +215,69 @@ function applyFilters() {
   renderCards();
 }
 
-function renderCategoryOptions() {
-  const categories = [...new Set(state.prompts.flatMap((prompt) => prompt.categories || []))]
-    .filter(Boolean)
-    .sort((left, right) => left.localeCompare(right, "zh-CN"));
+function addSelectOptions(select, values) {
+  const current = select.value;
+  select.querySelectorAll("option:not(:first-child)").forEach((option) => option.remove());
 
-  for (const category of categories) {
+  for (const category of values) {
     const option = document.createElement("option");
     option.value = category;
     option.textContent = category;
-    elements.category.appendChild(option);
+    select.appendChild(option);
   }
+
+  select.value = values.includes(current) ? current : "";
+}
+
+function renderFilterOptions() {
+  const analyses = state.prompts.map(getAnalysis).filter(Boolean);
+  const workTypes = [...new Set(analyses.map((analysis) => analysis.workType))]
+    .filter(Boolean)
+    .sort((left, right) => left.localeCompare(right, "zh-CN"));
+  const templates = [...new Set(analyses.map((analysis) => `${analysis.templateId} ${analysis.templateName}`))]
+    .filter(Boolean)
+    .sort((left, right) => left.localeCompare(right, "zh-CN"));
+  const qualities = ["生产级", "标准型", "灵感型"].filter((quality) =>
+    analyses.some((analysis) => analysis.qualityLabel === quality)
+  );
+
+  addSelectOptions(elements.workType, workTypes);
+  addSelectOptions(elements.template, templates);
+  addSelectOptions(elements.quality, qualities);
+}
+
+function renderChips(items, className = "") {
+  return (items || [])
+    .filter(Boolean)
+    .slice(0, 6)
+    .map((item) => `<span class="chip ${className}">${escapeHtml(item)}</span>`)
+    .join("");
+}
+
+function renderAnalysisSummary(prompt) {
+  const analysis = getAnalysis(prompt);
+
+  if (!analysis) {
+    return "";
+  }
+
+  return `
+    <div class="analysis-summary">
+      <div class="score-block">
+        <strong>${escapeHtml(String(analysis.score || 0))}</strong>
+        <span>${escapeHtml(analysis.qualityLabel || "")}</span>
+      </div>
+      <div class="analysis-lines">
+        <p>${escapeHtml(analysis.templateId)} · ${escapeHtml(analysis.templateName)}</p>
+        <div class="chip-row">
+          ${analysis.selected ? `<span class="chip accent">Top ${escapeHtml(String(analysis.rank))}</span>` : ""}
+          <span class="chip">${escapeHtml(analysis.workType || "")}</span>
+          ${renderChips(analysis.compositionPatterns)}
+          ${renderChips(analysis.styleKeywords)}
+        </div>
+      </div>
+    </div>
+  `;
 }
 
 function renderCards() {
@@ -178,6 +296,7 @@ function renderCards() {
   for (const prompt of state.filtered) {
     const image = getPreviewImage(prompt);
     const promptText = getDisplayPromptText(prompt);
+    const analysis = getAnalysis(prompt);
     const article = document.createElement("article");
     article.className = "prompt-card";
     article.innerHTML = `
@@ -196,13 +315,21 @@ function renderCards() {
           )}</p>
           <h2>${escapeHtml(prompt.title)}</h2>
           <p>${escapeHtml(prompt.description || "")}</p>
+          ${renderAnalysisSummary(prompt)}
         </div>
       </button>
       ${
         promptText
           ? `<div class="card-prompt">
               <pre>${escapeHtml(promptText)}</pre>
-              <button class="copy-button card-copy" type="button" data-id="${escapeHtml(prompt.id)}">Copy</button>
+              <div class="card-copy-row">
+                <button class="copy-button card-copy" type="button" data-id="${escapeHtml(prompt.id)}">Prompt</button>
+                ${
+                  analysis?.copyTemplate
+                    ? `<button class="copy-button card-template-copy" type="button" data-id="${escapeHtml(prompt.id)}">Template</button>`
+                    : ""
+                }
+              </div>
             </div>`
           : ""
       }
@@ -212,6 +339,11 @@ function renderCards() {
     article.querySelector(".card-copy")?.addEventListener("click", async (event) => {
       event.stopPropagation();
       await writeClipboardText(promptText);
+      showCopied(event.currentTarget);
+    });
+    article.querySelector(".card-template-copy")?.addEventListener("click", async (event) => {
+      event.stopPropagation();
+      await writeClipboardText(getTemplateCopy(prompt));
       showCopied(event.currentTarget);
     });
 
@@ -260,6 +392,46 @@ function renderPromptTabs() {
   elements.tabOriginal.classList.toggle("active", state.modalPromptMode === "original");
 }
 
+function renderModalAnalysis(prompt) {
+  const analysis = getAnalysis(prompt);
+
+  if (!analysis) {
+    elements.modalAnalysis.innerHTML = "";
+    elements.modalAnalysis.classList.add("hidden");
+    return;
+  }
+
+  const breakdown = analysis.breakdown || {};
+  elements.modalAnalysis.classList.remove("hidden");
+  elements.modalAnalysis.innerHTML = `
+    <div class="analysis-head">
+      <div class="score-block large">
+        <strong>${escapeHtml(String(analysis.score || 0))}</strong>
+        <span>${escapeHtml(analysis.qualityLabel || "")}</span>
+      </div>
+      <div>
+        <p>${escapeHtml(analysis.templateId)} · ${escapeHtml(analysis.templateName)}</p>
+        <div class="chip-row">
+          ${analysis.selected ? `<span class="chip accent">Top ${escapeHtml(String(analysis.rank))}</span>` : ""}
+          <span class="chip">${escapeHtml(analysis.workType || "")}</span>
+          <span class="chip">${escapeHtml(analysis.subjectType || "")}</span>
+          ${renderChips(analysis.modules, "soft")}
+        </div>
+      </div>
+    </div>
+    <dl class="breakdown-grid">
+      <div><dt>创意内核</dt><dd>${escapeHtml(breakdown.creativeCore || "")}</dd></div>
+      <div><dt>构图</dt><dd>${escapeHtml(listText(analysis.compositionPatterns) || "未明确")}</dd></div>
+      <div><dt>风格</dt><dd>${escapeHtml(listText(analysis.styleKeywords) || "未明确")}</dd></div>
+      <div><dt>光线镜头</dt><dd>${escapeHtml(listText(analysis.lightingCamera) || "未明确")}</dd></div>
+      <div><dt>文字要求</dt><dd>${escapeHtml(analysis.textRequirement || "无明确文字要求")}</dd></div>
+      <div><dt>失败风险</dt><dd>${escapeHtml(listText(analysis.failureRisks) || "无")}</dd></div>
+      <div><dt>适合用途</dt><dd>${escapeHtml(breakdown.bestUse || "")}</dd></div>
+      <div><dt>入选理由</dt><dd>${escapeHtml(breakdown.whySelected || "非 Top 100 样本，但已完成结构分析。")}</dd></div>
+    </dl>
+  `;
+}
+
 function openModal(promptId) {
   const prompt = state.prompts.find((item) => String(item.id) === String(promptId));
 
@@ -275,6 +447,7 @@ function openModal(promptId) {
   elements.modalDate.textContent = formatDate(prompt.sourcePublishedAt);
   elements.modalTitle.textContent = prompt.title || "";
   elements.modalDescription.textContent = prompt.description || "";
+  renderModalAnalysis(prompt);
   elements.modalYoumind.href = prompt.detailUrl || "#";
   elements.modalSource.href = prompt.sourceLink || "#";
   elements.modalSource.classList.toggle("disabled", !prompt.sourceLink);
@@ -292,8 +465,18 @@ function bindEvents() {
     applyFilters();
   });
 
-  elements.category.addEventListener("change", (event) => {
-    state.category = event.target.value;
+  elements.workType.addEventListener("change", (event) => {
+    state.workType = event.target.value;
+    applyFilters();
+  });
+
+  elements.template.addEventListener("change", (event) => {
+    state.template = event.target.value;
+    applyFilters();
+  });
+
+  elements.quality.addEventListener("change", (event) => {
+    state.quality = event.target.value;
     applyFilters();
   });
 
@@ -305,10 +488,14 @@ function bindEvents() {
 
   elements.clear.addEventListener("click", () => {
     state.query = "";
-    state.category = "";
+    state.workType = "";
+    state.template = "";
+    state.quality = "";
     state.featuredOnly = false;
     elements.search.value = "";
-    elements.category.value = "";
+    elements.workType.value = "";
+    elements.template.value = "";
+    elements.quality.value = "";
     elements.toggleFeatured.classList.remove("active");
     applyFilters();
   });
@@ -334,6 +521,16 @@ function bindEvents() {
     await writeClipboardText(getActivePromptText());
     showCopied(elements.copyPrompt);
   });
+
+  elements.copyTemplate.addEventListener("click", async () => {
+    await writeClipboardText(getTemplateCopy(state.activePrompt));
+    showCopied(elements.copyTemplate);
+  });
+
+  elements.copyBreakdown.addEventListener("click", async () => {
+    await writeClipboardText(getBreakdownCopy(state.activePrompt));
+    showCopied(elements.copyBreakdown);
+  });
 }
 
 async function init() {
@@ -355,10 +552,10 @@ async function init() {
   state.prompts = prompts;
   state.filtered = prompts;
   elements.total.textContent = String(payload.total ?? prompts.length);
-  elements.featured.textContent = String(prompts.filter((prompt) => prompt.featured).length);
+  elements.featured.textContent = String(payload.analysis?.selectedCount ?? prompts.filter((prompt) => prompt.featured).length);
   elements.source.textContent = payload.dataSourceLabel || payload.dataSource || "Unknown";
   elements.sync.textContent = formatDate(payload.generatedAt);
-  renderCategoryOptions();
+  renderFilterOptions();
   renderCards();
 }
 

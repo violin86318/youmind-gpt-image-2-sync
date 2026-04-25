@@ -128,7 +128,7 @@ h1 {
   top: 12px;
   z-index: 20;
   display: grid;
-  grid-template-columns: minmax(220px, 1fr) minmax(180px, 260px) auto auto;
+  grid-template-columns: minmax(240px, 1.2fr) repeat(3, minmax(150px, 220px)) auto auto;
   gap: 12px;
   align-items: end;
   padding: 14px;
@@ -261,6 +261,85 @@ select:focus {
   line-height: 1.45;
 }
 
+.analysis-summary {
+  display: grid;
+  grid-template-columns: 58px 1fr;
+  gap: 10px;
+  align-items: start;
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 2px solid var(--line);
+}
+
+.score-block {
+  display: grid;
+  place-items: center;
+  min-width: 52px;
+  min-height: 52px;
+  border: 2px solid var(--line);
+  background: var(--yellow);
+  text-align: center;
+}
+
+.score-block strong {
+  font-size: 1.15rem;
+  line-height: 1;
+}
+
+.score-block span {
+  font-size: 10px;
+  font-weight: 900;
+}
+
+.score-block.large {
+  min-width: 70px;
+  min-height: 70px;
+}
+
+.score-block.large strong {
+  font-size: 1.6rem;
+}
+
+.analysis-lines {
+  min-width: 0;
+}
+
+.analysis-lines p,
+.analysis-head p {
+  margin: 0 0 8px;
+  font-size: 12px;
+  font-weight: 900;
+  line-height: 1.35;
+}
+
+.chip-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  max-width: 100%;
+  min-height: 24px;
+  padding: 2px 7px;
+  border: 2px solid var(--line);
+  background: #ffffff;
+  font-size: 11px;
+  font-weight: 900;
+  line-height: 1.15;
+}
+
+.chip.accent {
+  background: var(--green);
+  color: #ffffff;
+}
+
+.chip.soft {
+  background: #eef2f3;
+}
+
 .badge {
   display: inline-flex;
   align-items: center;
@@ -293,10 +372,17 @@ select:focus {
   font: 12px/1.55 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
 }
 
-.card-copy {
+.card-copy-row {
   position: absolute;
   right: 8px;
   bottom: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  justify-content: flex-end;
+}
+
+.card-copy-row .copy-button {
   min-height: 32px;
   background: var(--paper);
 }
@@ -388,6 +474,52 @@ select:focus {
   align-items: center;
 }
 
+.analysis-panel {
+  margin: 18px 0;
+  padding: 14px;
+  border: 3px solid var(--line);
+  background: #f8f8f8;
+}
+
+.analysis-head {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 12px;
+  align-items: start;
+  padding-bottom: 14px;
+  border-bottom: 2px solid var(--line);
+}
+
+.breakdown-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin: 14px 0 0;
+}
+
+.breakdown-grid div {
+  min-width: 0;
+  padding: 10px;
+  border: 2px solid var(--line);
+  background: #ffffff;
+}
+
+.breakdown-grid dt {
+  margin-bottom: 6px;
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.breakdown-grid dd {
+  margin: 0;
+  overflow-wrap: anywhere;
+  font-size: 13px;
+  line-height: 1.55;
+}
+
 .pill {
   display: inline-flex;
   align-items: center;
@@ -466,6 +598,10 @@ select:focus {
 
   .search {
     grid-column: 1 / -1;
+  }
+
+  .breakdown-grid {
+    grid-template-columns: 1fr;
   }
 
   .modal-media {

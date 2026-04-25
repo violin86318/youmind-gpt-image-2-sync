@@ -23,7 +23,7 @@
             <strong id="stat-total">-</strong>
           </div>
           <div>
-            <span>Featured</span>
+            <span>Selected</span>
             <strong id="stat-featured">-</strong>
           </div>
           <div>
@@ -40,15 +40,27 @@
       <section class="controls" aria-label="筛选">
         <label class="search">
           <span>Search</span>
-          <input id="search-input" type="search" placeholder="标题 / 作者 / 分类 / 提示词" />
+          <input id="search-input" type="search" placeholder="标题 / 模板 / 标签 / 提示词" />
         </label>
         <label class="select-wrap">
-          <span>Category</span>
-          <select id="category-select">
+          <span>Type</span>
+          <select id="worktype-select">
             <option value="">All</option>
           </select>
         </label>
-        <button id="toggle-featured" class="tool-button" type="button">Featured</button>
+        <label class="select-wrap">
+          <span>Template</span>
+          <select id="template-select">
+            <option value="">All</option>
+          </select>
+        </label>
+        <label class="select-wrap">
+          <span>Quality</span>
+          <select id="quality-select">
+            <option value="">All</option>
+          </select>
+        </label>
+        <button id="toggle-featured" class="tool-button" type="button">Top 100</button>
         <button id="clear-search" class="tool-button secondary" type="button">Clear</button>
       </section>
 
@@ -74,9 +86,12 @@
           </div>
           <h2 id="modal-title"></h2>
           <p id="modal-description" class="description"></p>
+          <div id="modal-analysis" class="analysis-panel"></div>
           <div class="actions">
             <a id="modal-youmind" class="link-button" target="_blank" rel="noreferrer">YouMind</a>
             <a id="modal-source" class="link-button secondary" target="_blank" rel="noreferrer">Source</a>
+            <button id="copy-template" class="copy-button" type="button">Copy Template</button>
+            <button id="copy-breakdown" class="copy-button" type="button">Copy Breakdown</button>
           </div>
           <div class="tabs">
             <button id="tab-translated" class="tab active" type="button">中文</button>

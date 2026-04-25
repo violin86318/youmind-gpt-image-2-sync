@@ -21,6 +21,15 @@ npm run analyze:framework
 ```
 
 产物会写入 `analysis/`，包括 100 条高价值样本、数据摘要和 20 个创作模板。
+站点构建会把 `analysis/prompt-analysis.json` 合入 `site/data/prompts.json`，用于筛选、卡片评分和创作拆解展示。
+
+专题报告在 `analysis/reports/`：
+
+- `production-grade-prompts.md`
+- `text-typography-prompts.md`
+- `reference-image-prompts.md`
+- `ui-product-prompts.md`
+- `visual-language-library.md`
 
 如果要新建飞书多维表格：
 

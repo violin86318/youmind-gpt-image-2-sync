@@ -1,5 +1,5 @@
 import path from "path";
-import { DATA_DIR, readJsonIfExists, resolveSyncTarget } from "./config.mjs";
+import { DATA_DIR, ROOT, readJsonIfExists, resolveSyncTarget } from "./config.mjs";
 import { FIELD_ORDER } from "./schema.mjs";
 import { runLarkCliJson } from "./lark-cli.mjs";
 import { loadOrFetchPromptPayload } from "./prompt-source.mjs";
@@ -12,6 +12,20 @@ import {
 
 function getSnapshotPath(locale) {
   return path.join(DATA_DIR, `prompts.${locale}.json`);
+}
+
+function getPromptAnalysisPath() {
+  return path.join(ROOT, "analysis", "prompt-analysis.json");
+}
+
+function loadPromptAnalysisById() {
+  const payload = readJsonIfExists(getPromptAnalysisPath());
+
+  if (!payload || !Array.isArray(payload.prompts)) {
+    return new Map();
+  }
+
+  return new Map(payload.prompts.map((entry) => [String(entry.id), entry]));
 }
 
 function isSnapshotPayload(payload, { locale, model }) {
@@ -45,7 +59,8 @@ function sanitizeSitePrompt(prompt) {
     sourcePlatform: prompt.sourcePlatform || "",
     likes: Number.isFinite(Number(prompt.likes)) ? Number(prompt.likes) : 0,
     resultsCount: Number.isFinite(Number(prompt.resultsCount)) ? Number(prompt.resultsCount) : 0,
-    needReferenceImages: Boolean(prompt.needReferenceImages)
+    needReferenceImages: Boolean(prompt.needReferenceImages),
+    analysis: prompt.analysis && typeof prompt.analysis === "object" ? prompt.analysis : null
   };
 }
 
@@ -72,16 +87,27 @@ function buildSitePayload({
   fallbackReason = "",
   validation = null
 }) {
+  const analysisById = loadPromptAnalysisById();
+  const promptsWithAnalysis = prompts.map((prompt) => ({
+    ...prompt,
+    analysis: analysisById.get(String(prompt.id)) || prompt.analysis || null
+  }));
+
   return {
     generatedAt,
     locale,
     model,
-    total: prompts.length,
+    total: promptsWithAnalysis.length,
     dataSource,
     dataSourceLabel,
     fallbackReason,
     validation,
-    prompts: prompts.map(sanitizeSitePrompt)
+    analysis: {
+      available: analysisById.size > 0,
+      analyzedCount: analysisById.size,
+      selectedCount: [...analysisById.values()].filter((entry) => entry.selected).length
+    },
+    prompts: promptsWithAnalysis.map(sanitizeSitePrompt)
   };
 }
 
