@@ -1,0 +1,33 @@
+.DS_Store
+.env
+.env.local
+.gpt-image-2.local.json
+node_modules
+*.log
+*.png
+__pycache__
+*.pyc
+
+# Existing generated/local artifacts
+.cache
+reference_images
+generated_prompt_tests
+youmind-clone-starter
+feishu_import.progress.json
+youmind_gpt_image_2_prompts.csv
+youmind_gpt_image_2_prompts.json
+youmind_gpt_image_2_prompts.progress.json
+YouMind-类GitHub内容站拆解与从零搭建手册.md
+
+# Local prompt/image-generation experiments
+scripts/automation_lock.py
+scripts/download_reference_images.py
+scripts/feishu_generation_sync.py
+scripts/flush_pending_feishu_sync.py
+scripts/youmind_prompt_tools.py
+
+youmind-clone-starter/.next
+youmind-clone-starter/node_modules
+youmind-clone-starter/prompt-lab.db
+youmind-clone-starter/prompt-lab.db-shm
+youmind-clone-starter/prompt-lab.db-wal

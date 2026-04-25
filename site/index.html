@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>YouMind GPT Image 2 Archive</title>
+    <meta
+      name="description"
+      content="GPT Image 2 prompts archive generated from YouMind public data and Feishu Base sync."
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">YouMind Public Sync</p>
+          <h1>GPT Image 2 Prompt Archive</h1>
+        </div>
+        <div class="stats" aria-label="同步统计">
+          <div>
+            <span>Prompts</span>
+            <strong id="stat-total">-</strong>
+          </div>
+          <div>
+            <span>Featured</span>
+            <strong id="stat-featured">-</strong>
+          </div>
+          <div>
+            <span>Source</span>
+            <strong id="stat-source">-</strong>
+          </div>
+          <div>
+            <span>Updated</span>
+            <strong id="stat-sync">-</strong>
+          </div>
+        </div>
+      </header>
+
+      <section class="controls" aria-label="筛选">
+        <label class="search">
+          <span>Search</span>
+          <input id="search-input" type="search" placeholder="标题 / 作者 / 分类 / 提示词" />
+        </label>
+        <label class="select-wrap">
+          <span>Category</span>
+          <select id="category-select">
+            <option value="">All</option>
+          </select>
+        </label>
+        <button id="toggle-featured" class="tool-button" type="button">Featured</button>
+        <button id="clear-search" class="tool-button secondary" type="button">Clear</button>
+      </section>
+
+      <section class="result-line">
+        <p id="results-count">加载中...</p>
+      </section>
+
+      <section id="cards" class="card-grid" aria-live="polite"></section>
+      <section id="empty-state" class="empty-state hidden">
+        <h2>没有匹配结果</h2>
+      </section>
+    </main>
+
+    <dialog id="detail-modal" class="modal">
+      <div class="modal-shell">
+        <button id="close-modal" class="icon-close" type="button" aria-label="Close">×</button>
+        <div id="modal-media" class="modal-media"></div>
+        <div class="modal-body">
+          <div class="modal-meta">
+            <span id="modal-badge" class="badge hidden">FEATURED</span>
+            <span id="modal-language" class="pill"></span>
+            <span id="modal-date" class="pill"></span>
+          </div>
+          <h2 id="modal-title"></h2>
+          <p id="modal-description" class="description"></p>
+          <div class="actions">
+            <a id="modal-youmind" class="link-button" target="_blank" rel="noreferrer">YouMind</a>
+            <a id="modal-source" class="link-button secondary" target="_blank" rel="noreferrer">Source</a>
+          </div>
+          <div class="tabs">
+            <button id="tab-translated" class="tab active" type="button">中文</button>
+            <button id="tab-original" class="tab" type="button">原文</button>
+          </div>
+          <div class="prompt-panel">
+            <button id="copy-prompt" class="copy-button" type="button">Copy</button>
+            <pre id="modal-prompt"></pre>
+          </div>
+        </div>
+      </div>
+    </dialog>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
