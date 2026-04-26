@@ -64,16 +64,28 @@
         <button id="clear-search" class="tool-button secondary" type="button">Clear</button>
       </section>
 
-      <details id="builder-panel" class="builder-section" open>
+      <details id="builder-panel" class="builder-section">
         <summary class="builder-summary">
           <div>
             <p class="eyebrow">Prompt Builder</p>
-            <h2>GPT Image 2 创作工作台</h2>
+            <h2>GPT Image 2 生图工作台</h2>
           </div>
-          <strong id="builder-score">-</strong>
+          <div class="builder-summary-meta">
+            <span id="builder-source-label">自定义</span>
+            <strong id="builder-score">-</strong>
+            <span class="builder-toggle-label" aria-hidden="true"></span>
+          </div>
         </summary>
         <div class="builder-content">
           <div class="builder-form">
+            <label class="select-wrap">
+              <span>Output</span>
+              <select id="builder-mode">
+                <option value="structured">结构化改写</option>
+                <option value="original">原提示词</option>
+                <option value="template">生产模板</option>
+              </select>
+            </label>
             <label class="select-wrap">
               <span>Template</span>
               <select id="builder-template">
@@ -124,6 +136,10 @@
               <input id="builder-text" type="text" placeholder="精确文字、标题层级或 no extra text" />
             </label>
             <label class="field-wrap wide">
+              <span>Reference/Edit</span>
+              <input id="builder-reference" type="text" placeholder="参考图角色一致性、局部编辑、保留/改变的内容" />
+            </label>
+            <label class="field-wrap wide">
               <span>Constraints</span>
               <input id="builder-constraints" type="text" value="clean, coherent, polished, readable hierarchy, no random text, no visual clutter" />
             </label>
@@ -139,12 +155,49 @@
         </div>
       </details>
 
-      <section class="report-strip" aria-label="专题报告">
-        <a href="./reports/production-grade-prompts.md" target="_blank" rel="noreferrer">生产级样本</a>
-        <a href="./reports/text-typography-prompts.md" target="_blank" rel="noreferrer">文字排版</a>
-        <a href="./reports/reference-image-prompts.md" target="_blank" rel="noreferrer">参考图</a>
-        <a href="./reports/ui-product-prompts.md" target="_blank" rel="noreferrer">UI/产品</a>
-        <a href="./reports/visual-language-library.md" target="_blank" rel="noreferrer">视觉语言库</a>
+      <section class="report-hub" aria-label="专题分类">
+        <div class="report-head">
+          <div>
+            <p class="eyebrow">Curated Reports</p>
+            <h2>专题分类</h2>
+            <p>点击分类会筛选下方提示词；Markdown 是明确的离线报告下载入口。</p>
+          </div>
+          <button id="clear-report-filter" class="tool-button secondary" type="button">全部提示词</button>
+        </div>
+        <div class="report-strip">
+          <button class="report-card" type="button" data-report="production">
+            <strong>生产级样本</strong>
+            <span>高分成品提示词</span>
+            <small data-report-count>0 条</small>
+          </button>
+          <button class="report-card" type="button" data-report="text">
+            <strong>文字排版</strong>
+            <span>含字形与可读性约束</span>
+            <small data-report-count>0 条</small>
+          </button>
+          <button class="report-card" type="button" data-report="reference">
+            <strong>参考图</strong>
+            <span>需要图像输入或一致性</span>
+            <small data-report-count>0 条</small>
+          </button>
+          <button class="report-card" type="button" data-report="ui">
+            <strong>UI/产品</strong>
+            <span>界面、产品与电商视觉</span>
+            <small data-report-count>0 条</small>
+          </button>
+          <button class="report-card" type="button" data-report="visual">
+            <strong>视觉语言库</strong>
+            <span>风格、构图、光线词汇</span>
+            <small data-report-count>0 条</small>
+          </button>
+        </div>
+        <div id="report-note" class="report-note hidden" aria-live="polite">
+          <div>
+            <strong id="report-note-title"></strong>
+            <p id="report-note-description"></p>
+          </div>
+          <a id="report-download" class="report-download" href="#" download>下载 Markdown</a>
+        </div>
       </section>
 
       <section class="result-line">

@@ -6,9 +6,69 @@ const state = {
   workType: "",
   template: "",
   quality: "",
+  activeReport: "",
   builderReady: false,
+  builderPromptId: null,
   modalPromptMode: "translated",
   activePrompt: null
+};
+
+const REPORT_FILTERS = {
+  production: {
+    label: "生产级样本",
+    description: "筛选质量评估为生产级的提示词，适合直接复用或作为高标准模板拆解。",
+    href: "./reports/production-grade-prompts.md",
+    matches: (prompt) => getAnalysis(prompt)?.qualityLabel === "生产级"
+  },
+  text: {
+    label: "文字排版",
+    description: "筛选包含文字、标题、标注、UI 文案或排版可读性要求的提示词。",
+    href: "./reports/text-typography-prompts.md",
+    matches: (prompt) => {
+      const analysis = getAnalysis(prompt);
+      const textRequirement = analysis?.textRequirement || "";
+      return Boolean(
+        analysis?.containsText ||
+          (textRequirement && !/无明确|none/i.test(textRequirement))
+      );
+    }
+  },
+  reference: {
+    label: "参考图",
+    description: "筛选需要参考图、局部编辑、角色一致性或图像输入辅助的提示词。",
+    href: "./reports/reference-image-prompts.md",
+    matches: (prompt) =>
+      Boolean(
+        prompt.needReferenceImages ||
+          prompt.referenceImages?.length ||
+          /参考图|局部编辑|一致性|reference image|image input/i.test(getReportSummaryText(prompt))
+      )
+  },
+  ui: {
+    label: "UI/产品",
+    description: "筛选 UI、产品、电商、SaaS 仪表盘和移动 App 截图相关提示词。",
+    href: "./reports/ui-product-prompts.md",
+    matches: (prompt) => {
+      const analysis = getAnalysis(prompt);
+      return Boolean(
+        ["UI/界面", "产品/电商"].includes(analysis?.workType) ||
+          ["SaaS 仪表盘", "移动 App 截图", "电商直播/UI 样机", "产品英雄图"].includes(analysis?.templateName)
+      );
+    }
+  },
+  visual: {
+    label: "视觉语言库",
+    description: "筛选具备明确风格、构图或光线镜头语言的提示词；词库报告可单独下载。",
+    href: "./reports/visual-language-library.md",
+    matches: (prompt) => {
+      const analysis = getAnalysis(prompt);
+      const visualTermCount =
+        (analysis?.styleKeywords?.length || 0) +
+        (analysis?.compositionPatterns?.length || 0) +
+        (analysis?.lightingCamera?.length || 0);
+      return visualTermCount >= 3;
+    }
+  }
 };
 
 const elements = {
@@ -22,6 +82,8 @@ const elements = {
   quality: document.querySelector("#quality-select"),
   clear: document.querySelector("#clear-search"),
   toggleFeatured: document.querySelector("#toggle-featured"),
+  builderPanel: document.querySelector("#builder-panel"),
+  builderMode: document.querySelector("#builder-mode"),
   builderTemplate: document.querySelector("#builder-template"),
   builderWorkType: document.querySelector("#builder-worktype"),
   builderAspect: document.querySelector("#builder-aspect"),
@@ -32,12 +94,20 @@ const elements = {
   builderStyle: document.querySelector("#builder-style"),
   builderLighting: document.querySelector("#builder-lighting"),
   builderText: document.querySelector("#builder-text"),
+  builderReference: document.querySelector("#builder-reference"),
   builderConstraints: document.querySelector("#builder-constraints"),
   builderOutput: document.querySelector("#builder-output"),
   builderScore: document.querySelector("#builder-score"),
+  builderSourceLabel: document.querySelector("#builder-source-label"),
   copyBuilder: document.querySelector("#copy-builder"),
   filterBuilder: document.querySelector("#filter-builder"),
   resetBuilder: document.querySelector("#reset-builder"),
+  reportButtons: document.querySelectorAll(".report-card"),
+  clearReportFilter: document.querySelector("#clear-report-filter"),
+  reportNote: document.querySelector("#report-note"),
+  reportNoteTitle: document.querySelector("#report-note-title"),
+  reportNoteDescription: document.querySelector("#report-note-description"),
+  reportDownload: document.querySelector("#report-download"),
   resultsCount: document.querySelector("#results-count"),
   cards: document.querySelector("#cards"),
   empty: document.querySelector("#empty-state"),
@@ -171,6 +241,23 @@ function getSearchText(prompt) {
     .toLowerCase();
 }
 
+function getReportSummaryText(prompt) {
+  const analysis = getAnalysis(prompt);
+  return [
+    prompt.title,
+    prompt.description,
+    ...(prompt.categories || []),
+    analysis?.workType,
+    analysis?.subjectType,
+    analysis?.templateName,
+    analysis?.textRequirement,
+    analysis?.breakdown?.creativeCore,
+    analysis?.breakdown?.bestUse
+  ]
+    .filter(Boolean)
+    .join("\n");
+}
+
 function getPreviewImage(prompt) {
   return prompt.thumbnailUrl || prompt.mediaThumbnails?.[0] || prompt.media?.[0] || "";
 }
@@ -197,13 +284,62 @@ async function writeClipboardText(text) {
 }
 
 function showCopied(button) {
-  const original = button.dataset.label || button.textContent || "Copy";
+  showTemporaryLabel(button, "Copied");
+}
+
+function showTemporaryLabel(button, label) {
+  const original = button.dataset.label || button.textContent || label;
   button.dataset.label = original;
-  button.textContent = "Copied";
+  button.textContent = label;
   window.clearTimeout(button.copyResetTimer);
   button.copyResetTimer = window.setTimeout(() => {
     button.textContent = original;
   }, 1200);
+}
+
+function isFeaturedPrompt(prompt) {
+  return Boolean(getAnalysis(prompt)?.selected || prompt.featured);
+}
+
+function getActiveReport() {
+  return state.activeReport ? REPORT_FILTERS[state.activeReport] : null;
+}
+
+function updateReportUi() {
+  const activeReport = getActiveReport();
+
+  elements.reportButtons.forEach((button) => {
+    const reportId = button.dataset.report;
+    const report = REPORT_FILTERS[reportId];
+    const count = report ? state.prompts.filter(report.matches).length : 0;
+    const countLabel = button.querySelector("[data-report-count]");
+
+    button.classList.toggle("active", reportId === state.activeReport);
+    button.setAttribute("aria-pressed", reportId === state.activeReport ? "true" : "false");
+
+    if (countLabel) {
+      countLabel.textContent = `${count} 条`;
+    }
+  });
+
+  elements.clearReportFilter.classList.toggle("active", !state.activeReport);
+
+  if (!activeReport) {
+    elements.reportNote.classList.add("hidden");
+    elements.reportDownload.href = "#";
+    return;
+  }
+
+  elements.reportNote.classList.remove("hidden");
+  elements.reportNoteTitle.textContent = activeReport.label;
+  elements.reportNoteDescription.textContent = activeReport.description;
+  elements.reportDownload.href = activeReport.href;
+}
+
+function setReportFilter(reportId) {
+  state.activeReport = state.activeReport === reportId ? "" : reportId;
+  updateReportUi();
+  applyFilters();
 }
 
 function applyFilters() {
@@ -215,8 +351,13 @@ function applyFilters() {
 
   state.filtered = state.prompts.filter((prompt) => {
     const analysis = getAnalysis(prompt);
+    const activeReport = getActiveReport();
 
-    if (state.featuredOnly && !analysis?.selected) {
+    if (activeReport && !activeReport.matches(prompt)) {
+      return false;
+    }
+
+    if (state.featuredOnly && !isFeaturedPrompt(prompt)) {
       return false;
     }
 
@@ -243,14 +384,31 @@ function applyFilters() {
   renderCards();
 }
 
-function addSelectOptions(select, values) {
+function countValues(items, getValue) {
+  const counts = new Map();
+
+  for (const item of items) {
+    const value = getValue(item);
+
+    if (!value) {
+      continue;
+    }
+
+    counts.set(value, (counts.get(value) || 0) + 1);
+  }
+
+  return counts;
+}
+
+function addSelectOptions(select, values, counts = new Map()) {
   const current = select.value;
   select.querySelectorAll("option:not(:first-child)").forEach((option) => option.remove());
 
   for (const category of values) {
     const option = document.createElement("option");
     option.value = category;
-    option.textContent = category;
+    const count = counts.get(category);
+    option.textContent = Number.isFinite(count) ? `${category} (${count})` : category;
     select.appendChild(option);
   }
 
@@ -259,6 +417,11 @@ function addSelectOptions(select, values) {
 
 function renderFilterOptions() {
   const analyses = state.prompts.map(getAnalysis).filter(Boolean);
+  const workTypeCounts = countValues(analyses, (analysis) => analysis.workType);
+  const templateCounts = countValues(analyses, (analysis) =>
+    analysis.templateId && analysis.templateName ? `${analysis.templateId} ${analysis.templateName}` : ""
+  );
+  const qualityCounts = countValues(analyses, (analysis) => analysis.qualityLabel);
   const workTypes = [...new Set(analyses.map((analysis) => analysis.workType))]
     .filter(Boolean)
     .sort((left, right) => left.localeCompare(right, "zh-CN"));
@@ -269,25 +432,27 @@ function renderFilterOptions() {
     analyses.some((analysis) => analysis.qualityLabel === quality)
   );
 
-  addSelectOptions(elements.workType, workTypes);
-  addSelectOptions(elements.template, templates);
-  addSelectOptions(elements.quality, qualities);
-  addSelectOptions(elements.builderWorkType, workTypes);
-  addSelectOptions(elements.builderTemplate, templates);
+  addSelectOptions(elements.workType, workTypes, workTypeCounts);
+  addSelectOptions(elements.template, templates, templateCounts);
+  addSelectOptions(elements.quality, qualities, qualityCounts);
+  addSelectOptions(elements.builderWorkType, workTypes, workTypeCounts);
+  addSelectOptions(elements.builderTemplate, templates, templateCounts);
 }
 
 function getBuilderValues() {
   return {
+    mode: elements.builderMode.value,
     template: elements.builderTemplate.value,
     workType: elements.builderWorkType.value || "GPT Image 2 image",
     aspect: elements.builderAspect.value,
     purpose: elements.builderPurpose.value.trim() || "[用途/受众]",
     subject: elements.builderSubject.value.trim() || "[主体、数量、身份、动作]",
     scene: elements.builderScene.value.trim() || "[地点、时间、空间结构、背景元素]",
-    composition: elements.builderComposition.value.trim() || "[景别、角度、版式层级、主体位置]",
-    style: elements.builderStyle.value.trim() || "[媒介、审美方向、色彩系统、材质]",
-    lighting: elements.builderLighting.value.trim() || "[光线、镜头、景深、质感]",
-    text: elements.builderText.value.trim() || "[是否含文字、精确文字、文字位置、可读性要求]",
+    composition: elements.builderComposition.value.trim() || "[画幅内布局、主体位置、景别、留白、层级]",
+    style: elements.builderStyle.value.trim() || "[视觉语言、媒介、材质、色彩系统]",
+    lighting: elements.builderLighting.value.trim() || "[光线方向、镜头质感、景深、渲染/摄影细节]",
+    text: elements.builderText.value.trim() || "[是否含文字、精确文字、字体、字号、位置、可读性]",
+    reference: elements.builderReference.value.trim() || "[参考图、编辑区域、需要保留/改变的内容]",
     constraints:
       elements.builderConstraints.value.trim() ||
       "clean, coherent, polished, readable hierarchy, no random text, no visual clutter"
@@ -299,30 +464,33 @@ function getSelectedTemplateName(templateValue) {
 }
 
 function buildPromptFromBuilder(values) {
-  return `Create a ${values.workType} for ${values.purpose}.
+  return `Generate a ${values.workType} image for ${values.purpose}. Aspect ratio: ${values.aspect}.
 
-Template:
+Template and intent:
 ${getSelectedTemplateName(values.template)}.
 
-Main subject:
+Subject:
 ${values.subject}.
 
-Scene:
+Scene and background:
 ${values.scene}.
 
-Composition:
-${values.composition}. Output aspect ratio: ${values.aspect}.
+Composition and layout:
+${values.composition}.
 
-Visual style:
+Visual style, materials, and color:
 ${values.style}.
 
-Lighting and camera:
+Lighting, camera, and rendering:
 ${values.lighting}.
 
-Text requirements:
+Text in the image:
 ${values.text}.
 
-Quality constraints:
+Reference or edit instructions:
+${values.reference}.
+
+Constraints:
 ${values.constraints}.`;
 }
 
@@ -337,6 +505,7 @@ function scoreBuilderValues(values) {
     values.style,
     values.lighting,
     values.text,
+    values.reference,
     values.constraints
   ].filter((value) => value && !/^\[.+\]$/.test(value));
   const score = Math.min(100, 28 + fields.length * 8 + (values.template ? 8 : 0));
@@ -345,14 +514,50 @@ function scoreBuilderValues(values) {
   return { score, label };
 }
 
+function getBuilderPrompt() {
+  return state.builderPromptId ? findPromptById(state.builderPromptId) : null;
+}
+
+function getBuilderOutputText(values, prompt) {
+  if (values.mode === "original" && prompt) {
+    return getDisplayPromptText(prompt);
+  }
+
+  if (values.mode === "template" && prompt) {
+    return getTemplateCopy(prompt);
+  }
+
+  return buildPromptFromBuilder(values);
+}
+
+function updateBuilderSourceLabel(prompt) {
+  elements.builderSourceLabel.textContent = prompt ? prompt.title || `#${prompt.id}` : "自定义";
+}
+
 function updateBuilderOutput() {
   if (!elements.builderOutput) {
     return;
   }
 
   const values = getBuilderValues();
+  const prompt = getBuilderPrompt();
   const result = scoreBuilderValues(values);
-  elements.builderOutput.textContent = buildPromptFromBuilder(values);
+  elements.builderOutput.textContent = getBuilderOutputText(values, prompt);
+  updateBuilderSourceLabel(prompt);
+
+  if (values.mode === "original" && prompt) {
+    const analysis = getAnalysis(prompt);
+    elements.builderScore.textContent = analysis
+      ? `原提示词 ${analysis.qualityLabel} ${analysis.score}/100`
+      : "原提示词";
+    return;
+  }
+
+  if (values.mode === "template" && prompt) {
+    elements.builderScore.textContent = "生产模板";
+    return;
+  }
+
   elements.builderScore.textContent = `${result.label} ${result.score}/100`;
 }
 
@@ -364,21 +569,28 @@ function fillBuilderFromPrompt(promptId) {
     return;
   }
 
+  state.builderPromptId = String(prompt.id);
+  elements.builderMode.value = "original";
   elements.builderTemplate.value = `${analysis.templateId} ${analysis.templateName}`;
   elements.builderWorkType.value = analysis.workType || "";
   elements.builderPurpose.value = analysis.breakdown?.bestUse || prompt.description || "";
-  elements.builderSubject.value = [analysis.subjectType, prompt.title].filter(Boolean).join("：");
-  elements.builderScene.value = analysis.breakdown?.scene || analysis.workType || "";
+  elements.builderSubject.value = analysis.breakdown?.subject || [analysis.subjectType, prompt.title].filter(Boolean).join("：");
+  elements.builderScene.value = analysis.breakdown?.scene || prompt.description || analysis.workType || "";
   elements.builderComposition.value = listText(analysis.compositionPatterns);
   elements.builderStyle.value = listText(analysis.styleKeywords);
   elements.builderLighting.value = listText(analysis.lightingCamera);
   elements.builderText.value = analysis.textRequirement || "";
+  elements.builderReference.value = prompt.needReferenceImages
+    ? "Use the provided reference image(s) to preserve identity, composition, and visual details."
+    : "";
   elements.builderConstraints.value = listText(analysis.failureRisks) || elements.builderConstraints.value;
   updateBuilderOutput();
-  document.querySelector("#builder-panel")?.setAttribute("open", "");
+  elements.builderPanel?.setAttribute("open", "");
 }
 
 function resetBuilder() {
+  state.builderPromptId = null;
+  elements.builderMode.value = "structured";
   elements.builderTemplate.value = "";
   elements.builderWorkType.value = "";
   elements.builderAspect.value = "1:1 square";
@@ -389,6 +601,7 @@ function resetBuilder() {
   elements.builderStyle.value = "";
   elements.builderLighting.value = "";
   elements.builderText.value = "";
+  elements.builderReference.value = "";
   elements.builderConstraints.value =
     "clean, coherent, polished, readable hierarchy, no random text, no visual clutter";
   updateBuilderOutput();
@@ -429,7 +642,10 @@ function renderAnalysisSummary(prompt) {
 }
 
 function renderCards() {
-  elements.resultsCount.textContent = `${state.filtered.length} / ${state.prompts.length}`;
+  const activeReport = getActiveReport();
+  elements.resultsCount.textContent = activeReport
+    ? `${activeReport.label}：${state.filtered.length} / ${state.prompts.length}`
+    : `${state.filtered.length} / ${state.prompts.length}`;
   elements.cards.innerHTML = "";
 
   if (state.filtered.length === 0) {
@@ -455,7 +671,7 @@ function renderCards() {
               ? `<img src="${escapeHtml(image)}" alt="${escapeHtml(prompt.title)}" loading="lazy" />`
               : `<div class="placeholder"></div>`
           }
-          ${prompt.featured ? `<span class="badge card-badge">FEATURED</span>` : ""}
+          ${isFeaturedPrompt(prompt) ? `<span class="badge card-badge">TOP</span>` : ""}
         </div>
         <div class="card-body">
           <p class="card-meta">${escapeHtml(prompt.authorName || "Unknown")} · ${escapeHtml(
@@ -466,6 +682,13 @@ function renderCards() {
           ${renderAnalysisSummary(prompt)}
         </div>
       </button>
+      ${
+        analysis
+          ? `<div class="card-actions">
+              <button class="copy-button card-builder" type="button" data-id="${escapeHtml(prompt.id)}">Builder</button>
+            </div>`
+          : ""
+      }
       ${
         promptText
           ? `<div class="card-prompt">
@@ -484,6 +707,11 @@ function renderCards() {
     `;
 
     article.querySelector(".card-button").addEventListener("click", () => openModal(prompt.id));
+    article.querySelector(".card-builder")?.addEventListener("click", (event) => {
+      event.stopPropagation();
+      fillBuilderFromPrompt(event.currentTarget.dataset.id);
+      showTemporaryLabel(event.currentTarget, "Added");
+    });
     article.querySelector(".card-copy")?.addEventListener("click", async (event) => {
       event.stopPropagation();
       await writeClipboardText(promptText);
@@ -501,23 +729,40 @@ function renderCards() {
   elements.cards.appendChild(fragment);
 }
 
+function applyMediaAspect(element, width, height) {
+  if (!element || !Number.isFinite(width) || !Number.isFinite(height) || width <= 0 || height <= 0) {
+    return;
+  }
+
+  const ratio = width / height;
+  element.style.setProperty("--media-aspect-ratio", `${width} / ${height}`);
+  element.classList.toggle("is-portrait", ratio < 0.85);
+  element.classList.toggle("is-square", ratio >= 0.85 && ratio <= 1.15);
+}
+
 function renderModalMedia(prompt) {
   const images = prompt.media?.length ? prompt.media : prompt.mediaThumbnails || [];
 
   if (!images.length) {
-    elements.modalMedia.innerHTML = `<div class="modal-placeholder"></div>`;
+    elements.modalMedia.innerHTML = `<div class="modal-placeholder">No preview</div>`;
     return;
   }
 
   elements.modalMedia.innerHTML = `
-    <img src="${escapeHtml(images[0])}" alt="${escapeHtml(prompt.title)}" />
+    <div class="modal-media-shell">
+      <div class="modal-media-stage">
+        <img src="${escapeHtml(images[0])}" alt="${escapeHtml(prompt.title)}" />
+      </div>
+    </div>
     ${
       images.length > 1
         ? `<div class="image-strip">${images
             .slice(0, 6)
             .map(
               (image, index) =>
-                `<button type="button" data-src="${escapeHtml(image)}" aria-label="Image ${index + 1}">
+                `<button type="button" data-src="${escapeHtml(image)}" aria-label="Image ${index + 1}" ${
+                  index === 0 ? `class="active"` : ""
+                }>
                   <img src="${escapeHtml(image)}" alt="" loading="lazy" />
                 </button>`
             )
@@ -526,10 +771,17 @@ function renderModalMedia(prompt) {
     }
   `;
 
-  const mainImage = elements.modalMedia.querySelector(":scope > img");
+  const stage = elements.modalMedia.querySelector(".modal-media-stage");
+  const mainImage = elements.modalMedia.querySelector(".modal-media-stage img");
+  mainImage.addEventListener("load", () => {
+    applyMediaAspect(stage, mainImage.naturalWidth, mainImage.naturalHeight);
+  });
   elements.modalMedia.querySelectorAll(".image-strip button").forEach((button) => {
     button.addEventListener("click", () => {
       mainImage.src = button.dataset.src;
+      button.parentElement
+        .querySelectorAll("button")
+        .forEach((item) => item.classList.toggle("active", item === button));
     });
   });
 }
@@ -626,7 +878,10 @@ function openModal(promptId) {
   state.activePrompt = prompt;
   state.modalPromptMode = prompt.translatedPrompt ? "translated" : "original";
   renderModalMedia(prompt);
-  elements.modalBadge.classList.toggle("hidden", !prompt.featured);
+  elements.modalBadge.classList.toggle("hidden", !isFeaturedPrompt(prompt));
+  elements.modalBadge.textContent = getAnalysis(prompt)?.selected
+    ? `TOP ${getAnalysis(prompt)?.rank || ""}`.trim()
+    : "FEATURED";
   elements.modalLanguage.textContent = prompt.language || "unknown";
   elements.modalDate.textContent = formatDate(prompt.sourcePublishedAt);
   elements.modalTitle.textContent = prompt.title || "";
@@ -679,11 +934,25 @@ function bindEvents() {
     state.template = "";
     state.quality = "";
     state.featuredOnly = false;
+    state.activeReport = "";
     elements.search.value = "";
     elements.workType.value = "";
     elements.template.value = "";
     elements.quality.value = "";
     elements.toggleFeatured.classList.remove("active");
+    updateReportUi();
+    applyFilters();
+  });
+
+  elements.reportButtons.forEach((button) => {
+    button.addEventListener("click", () => {
+      setReportFilter(button.dataset.report);
+    });
+  });
+
+  elements.clearReportFilter.addEventListener("click", () => {
+    state.activeReport = "";
+    updateReportUi();
     applyFilters();
   });
 
@@ -720,6 +989,7 @@ function bindEvents() {
   });
 
   [
+    elements.builderMode,
     elements.builderTemplate,
     elements.builderWorkType,
     elements.builderAspect,
@@ -730,6 +1000,7 @@ function bindEvents() {
     elements.builderStyle,
     elements.builderLighting,
     elements.builderText,
+    elements.builderReference,
     elements.builderConstraints
   ].forEach((element) => {
     element.addEventListener("input", updateBuilderOutput);
@@ -749,7 +1020,8 @@ function bindEvents() {
       values.composition,
       values.style,
       values.lighting,
-      values.text
+      values.text,
+      values.reference
     ].filter((value) => value && !/^\[.+\]$/.test(value));
     state.workType = elements.builderWorkType.value;
     state.template = elements.builderTemplate.value;
@@ -765,6 +1037,7 @@ function bindEvents() {
   elements.useBuilder.addEventListener("click", () => {
     if (state.activePrompt) {
       fillBuilderFromPrompt(state.activePrompt.id);
+      closeModal();
     }
   });
 }
@@ -788,10 +1061,13 @@ async function init() {
   state.prompts = prompts;
   state.filtered = prompts;
   elements.total.textContent = String(payload.total ?? prompts.length);
-  elements.featured.textContent = String(payload.analysis?.selectedCount ?? prompts.filter((prompt) => prompt.featured).length);
+  elements.featured.textContent = String(
+    payload.analysis?.selectedCount ?? prompts.filter((prompt) => isFeaturedPrompt(prompt)).length
+  );
   elements.source.textContent = payload.dataSourceLabel || payload.dataSource || "Unknown";
   elements.sync.textContent = formatDate(payload.generatedAt);
   renderFilterOptions();
+  updateReportUi();
   resetBuilder();
   renderCards();
 }
