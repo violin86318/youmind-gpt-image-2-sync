@@ -265,7 +265,7 @@ select {
 
 .builder-form {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 12px;
 }
 
@@ -275,7 +275,7 @@ select {
 
 .builder-output-panel {
   display: grid;
-  grid-template-rows: auto 1fr;
+  grid-template-rows: auto auto minmax(0, 1fr);
   gap: 10px;
   min-width: 0;
 }
@@ -284,6 +284,17 @@ select {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
+}
+
+.builder-mode-help {
+  margin: 0;
+  padding: 10px 12px;
+  border: 2px solid var(--line);
+  background: #eef2f3;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+  line-height: 1.45;
 }
 
 #builder-output {

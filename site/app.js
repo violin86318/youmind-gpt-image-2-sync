@@ -71,6 +71,102 @@ const REPORT_FILTERS = {
   }
 };
 
+const BUILDER_MODE_HELP = {
+  original: "原提示词是卡片收录的内容本体，适合对照、复制和回溯来源。",
+  structured: "生图改写器会保留原提示词的具体细节，并叠加画幅、构图、文字、参考图和失败风险约束，作为可直接用于生图的成品提示词。",
+  template: "复用模板会把当前提示词拆成可替换变量，适合迁移到新主题，而不是直接当作最终提示词。"
+};
+
+const TEMPLATE_IMAGE_RULES = {
+  T01: [
+    "Prioritize face coherence, expression, wardrobe texture, and a controlled portrait crop.",
+    "Avoid distorted facial features, random background text, and mismatched lighting on the face."
+  ],
+  T02: [
+    "Keep the full-body silhouette readable from head to toe, including costume layers and props.",
+    "Use a simple background so the character design remains reusable."
+  ],
+  T03: [
+    "Make the action readable at first glance with strong pose rhythm, diagonal energy, and clear impact direction.",
+    "Do not let effects obscure anatomy, weapons, faces, or the main interaction."
+  ],
+  T04: [
+    "Treat the image as an editorial key visual with a deliberate title area and clear information hierarchy.",
+    "Reserve clean negative space for text instead of scattering labels across the composition."
+  ],
+  T05: [
+    "Keep cover typography dominant, legible, and limited to the requested title and supporting words.",
+    "Use one strong central symbol or character instead of several competing focal points."
+  ],
+  T06: [
+    "Show the product clearly with sharp material details, controlled reflections, and commercial lighting.",
+    "Avoid unwanted labels, fake brand marks, warped packaging, and clutter around the product."
+  ],
+  T07: [
+    "Align parts, callouts, and labels with precise spacing so the technical structure remains understandable.",
+    "Keep every label short, readable, and attached to the correct component."
+  ],
+  T08: [
+    "Keep the interface dense but organized, with realistic module spacing and legible UI text.",
+    "Avoid decorative screens that ignore actual product hierarchy or touch targets."
+  ],
+  T09: [
+    "Use realistic data density, compact spacing, aligned cards, and clear dashboard navigation.",
+    "Avoid oversized hero composition; this should read as a usable B2B interface."
+  ],
+  T10: [
+    "Render the phone UI as a polished app screenshot with clear component states and short readable labels.",
+    "Avoid tiny unreadable text, inconsistent spacing, and impossible mobile controls."
+  ],
+  T11: [
+    "Structure the infographic around a central object, labeled sections, concise facts, and clean dividers.",
+    "Keep labels minimal and readable; do not overload the image with paragraph-length text."
+  ],
+  T12: [
+    "Make each process step distinct with numbered nodes, arrows, icons, and an obvious reading order.",
+    "Avoid ambiguous connector lines or decorative flow that breaks comprehension."
+  ],
+  T13: [
+    "Use top-down spatial hierarchy, clear routes or regions, readable labels, and consistent landmark icons.",
+    "Do not let decorative texture overpower the map structure."
+  ],
+  T14: [
+    "Use magazine-like grid discipline, strong editorial photography or illustration, and deliberate column rhythm.",
+    "Keep publication text readable and aligned to the grid."
+  ],
+  T15: [
+    "Prioritize exact letterforms, clean vector-like edges, and a controlled brand presentation board.",
+    "Avoid misspelled logo text, random letters, and ornamental clutter."
+  ],
+  T16: [
+    "Keep repeated icons or stickers consistent in stroke, perspective, palette, and size logic.",
+    "Avoid mixing unrelated rendering styles inside the same set."
+  ],
+  T17: [
+    "Use a stable 2x2 comparison grid with matched scale, camera angle, and spacing.",
+    "Make differences intentional and easy to compare."
+  ],
+  T18: [
+    "Use isometric depth, clean object separation, and consistent scale relationships.",
+    "Avoid ambiguous perspective or objects floating without spatial anchors."
+  ],
+  T19: [
+    "Respect natural photographic lighting, lens behavior, texture, and believable physical context.",
+    "Avoid overprocessed fantasy lighting unless the source prompt explicitly asks for it."
+  ],
+  T20: [
+    "Lean into culturally specific motifs with respectful detail, accurate materials, and clear festive hierarchy.",
+    "Avoid generic decorative symbols that weaken the regional identity."
+  ]
+};
+
+const DEFAULT_IMAGE_CONSTRAINTS = [
+  "clean, coherent, polished final image",
+  "clear focal point and readable visual hierarchy",
+  "no random text, watermark, signature, UI chrome, or extra captions",
+  "avoid malformed hands, distorted faces, duplicated limbs, warped products, and inconsistent perspective"
+];
+
 const elements = {
   total: document.querySelector("#stat-total"),
   featured: document.querySelector("#stat-featured"),
@@ -99,6 +195,7 @@ const elements = {
   builderOutput: document.querySelector("#builder-output"),
   builderScore: document.querySelector("#builder-score"),
   builderSourceLabel: document.querySelector("#builder-source-label"),
+  builderModeHelp: document.querySelector("#builder-mode-help"),
   copyBuilder: document.querySelector("#copy-builder"),
   filterBuilder: document.querySelector("#filter-builder"),
   resetBuilder: document.querySelector("#reset-builder"),
@@ -459,39 +556,192 @@ function getBuilderValues() {
   };
 }
 
-function getSelectedTemplateName(templateValue) {
-  return templateValue || "自定义模板";
+function isPlaceholderValue(value) {
+  const text = String(value || "").trim();
+  return !text || /^\[.+\]$/.test(text) || text === "选择模板";
 }
 
-function buildPromptFromBuilder(values) {
-  return `Generate a ${values.workType} image for ${values.purpose}. Aspect ratio: ${values.aspect}.
+function cleanBuilderValue(value) {
+  return isPlaceholderValue(value) ? "" : String(value).trim();
+}
 
-Template and intent:
-${getSelectedTemplateName(values.template)}.
+function firstMeaningfulValue(...values) {
+  return values.map(cleanBuilderValue).find(Boolean) || "";
+}
+
+function listOrText(value) {
+  return Array.isArray(value) ? listText(value) : cleanBuilderValue(value);
+}
+
+function getTemplateId(templateValue, analysis) {
+  return analysis?.templateId || String(templateValue || "").split(/\s+/)[0] || "";
+}
+
+function getTemplateRules(templateId) {
+  return TEMPLATE_IMAGE_RULES[templateId] || [
+    "Keep the image focused on one clear creative objective with coherent subject, style, lighting, and layout.",
+    "Use the prompt's explicit details as constraints; do not invent unrelated objects, text, brands, or UI."
+  ];
+}
+
+function getPromptBrief(values, prompt) {
+  const analysis = prompt ? getAnalysis(prompt) : null;
+  const breakdown = analysis?.breakdown || {};
+  const workTypeValue = values.workType === "GPT Image 2 image" ? "" : values.workType;
+  const template = firstMeaningfulValue(
+    values.template,
+    analysis?.templateId && analysis?.templateName ? `${analysis.templateId} ${analysis.templateName}` : ""
+  );
+  const sourcePrompt = prompt ? getDisplayPromptText(prompt).trim() : "";
+
+  return {
+    analysis,
+    breakdown,
+    sourcePrompt,
+    sourceTitle: prompt?.title || "自定义提示词",
+    template,
+    templateId: getTemplateId(template, analysis),
+    workType: firstMeaningfulValue(workTypeValue, analysis?.workType, "finished image"),
+    aspect: firstMeaningfulValue(values.aspect, "1:1 square"),
+    purpose: firstMeaningfulValue(values.purpose, breakdown.bestUse, prompt?.description, "image generation"),
+    subject: firstMeaningfulValue(values.subject, breakdown.subject, analysis?.subjectType, prompt?.title, "main subject"),
+    scene: firstMeaningfulValue(values.scene, breakdown.scene, prompt?.description, "appropriate scene and background"),
+    composition: firstMeaningfulValue(
+      values.composition,
+      listOrText(analysis?.compositionPatterns),
+      listOrText(breakdown.composition),
+      "clear composition with deliberate focal hierarchy"
+    ),
+    style: firstMeaningfulValue(
+      values.style,
+      listOrText(analysis?.styleKeywords),
+      listOrText(breakdown.style),
+      "coherent visual style, materials, and color system"
+    ),
+    lighting: firstMeaningfulValue(
+      values.lighting,
+      listOrText(analysis?.lightingCamera),
+      listOrText(breakdown.lightingCamera),
+      "controlled lighting, camera perspective, depth, and texture"
+    ),
+    text: firstMeaningfulValue(values.text, analysis?.textRequirement, breakdown.text, "No extra text unless explicitly requested."),
+    reference: firstMeaningfulValue(
+      values.reference,
+      prompt?.needReferenceImages
+        ? "Use provided reference image(s) to preserve identity, composition, and important visual details."
+        : ""
+    ),
+    constraints: firstMeaningfulValue(values.constraints, listOrText(analysis?.failureRisks), DEFAULT_IMAGE_CONSTRAINTS.join(", "))
+  };
+}
+
+function getTextHandlingRule(brief) {
+  const text = brief.text || "";
+
+  if (/无明确|no extra text|unless explicitly requested/i.test(text)) {
+    return "Do not add random text, watermarks, signatures, captions, labels, or UI chrome.";
+  }
+
+  if (/精确|exact|limited to|only/i.test(text)) {
+    return "Render only the exact requested words. Preserve spelling, punctuation, language, placement, and hierarchy.";
+  }
+
+  if (/主视觉|typography|字体|标题|排版/i.test(text)) {
+    return "Treat typography as a visual object: readable, aligned, intentionally styled, and limited to the requested hierarchy.";
+  }
+
+  return "Keep any text short, legible, aligned to the layout, and directly relevant to the source prompt.";
+}
+
+function buildPromptFromBuilder(values, prompt = null) {
+  const brief = getPromptBrief(values, prompt);
+  const rules = getTemplateRules(brief.templateId);
+  const sourceBlock = brief.sourcePrompt
+    ? `Source prompt to preserve:
+${brief.sourcePrompt}`
+    : "Source prompt to preserve:\nNo source prompt selected. Use the structured production brief as the source of truth.";
+
+  return `Generate one finished ${brief.workType} image for this use case: ${brief.purpose}.
+Aspect ratio: ${brief.aspect}.
+
+Use the source prompt as the content authority. Preserve its named subjects, exact text strings, numbers, layout relationships, visual motifs, and domain-specific details. If a workbench field conflicts with the source prompt, treat the workbench field as the intentional override.
+
+${sourceBlock}
+
+Production brief:
+- Template logic: ${brief.template || "custom GPT Image 2 image prompt"}.
+- Subject: ${brief.subject}.
+- Scene/background: ${brief.scene}.
+- Composition/layout: ${brief.composition}.
+- Visual style/materials/color: ${brief.style}.
+- Lighting/camera/rendering: ${brief.lighting}.
+- Text handling: ${brief.text}. ${getTextHandlingRule(brief)}
+- Reference/edit handling: ${brief.reference || "No reference image required. Keep identity, layout, and visual continuity internally consistent."}
+
+Image model instructions:
+- ${rules.join("\n- ")}
+- Make the final image feel intentional, finished, and ready to use, not like a rough concept sketch.
+- Preserve all source-specific details unless they conflict with an explicit workbench override.
+
+Quality constraints:
+- ${DEFAULT_IMAGE_CONSTRAINTS.join("\n- ")}
+- Additional source risks to avoid: ${brief.constraints}.`;
+}
+
+function buildReusableTemplate(values, prompt = null) {
+  const brief = getPromptBrief(values, prompt);
+  const rules = getTemplateRules(brief.templateId);
+
+  return `Reusable GPT Image 2 template based on: ${brief.sourceTitle}
+
+How to use:
+Replace the {variables}, keep the structure, and only delete constraints that are irrelevant to the new image.
+
+Prompt template:
+Generate one finished {work_type} image for {purpose}.
+Aspect ratio: {aspect_ratio}.
+
+Creative intent:
+{one-sentence creative core and intended use}
 
 Subject:
-${values.subject}.
+{main subject}, {quantity/state/action}, {identity/material/wardrobe/product details}.
 
-Scene and background:
-${values.scene}.
+Scene/background:
+{place/environment}, {time/weather/era}, {background elements that support the subject}.
 
-Composition and layout:
-${values.composition}.
+Composition/layout:
+{camera angle or layout system}, {subject placement}, {negative space}, {visual hierarchy}, {supporting elements}.
 
-Visual style, materials, and color:
-${values.style}.
+Visual style/materials/color:
+{medium/rendering style}, {aesthetic direction}, {material textures}, {color palette}.
 
-Lighting, camera, and rendering:
-${values.lighting}.
+Lighting/camera/rendering:
+{light direction and quality}, {lens or perspective}, {depth of field}, {finish/detail level}.
 
-Text in the image:
-${values.text}.
+Text in image:
+{exact words if needed}. Keep typography readable, intentionally placed, and limited to the requested copy.
 
-Reference or edit instructions:
-${values.reference}.
+Reference/edit instructions:
+{reference image identity rules, edit mask intent, elements to preserve, elements to change}.
 
-Constraints:
-${values.constraints}.`;
+Quality constraints:
+${DEFAULT_IMAGE_CONSTRAINTS.map((item) => `- ${item}`).join("\n")}
+- Add template-specific guardrails: ${rules.join(" ")}
+
+Example values from the selected prompt:
+- {work_type}: ${brief.workType}
+- {purpose}: ${brief.purpose}
+- {aspect_ratio}: ${brief.aspect}
+- {template_logic}: ${brief.template || "custom image prompt"}
+- {subject}: ${brief.subject}
+- {scene/background}: ${brief.scene}
+- {composition/layout}: ${brief.composition}
+- {visual_style}: ${brief.style}
+- {lighting_camera}: ${brief.lighting}
+- {text_in_image}: ${brief.text}
+- {reference_edit}: ${brief.reference || "none"}
+- {extra_constraints}: ${brief.constraints}`;
 }
 
 function scoreBuilderValues(values) {
@@ -523,11 +773,19 @@ function getBuilderOutputText(values, prompt) {
     return getDisplayPromptText(prompt);
   }
 
-  if (values.mode === "template" && prompt) {
-    return getTemplateCopy(prompt);
+  if (values.mode === "original") {
+    return "先从任意提示词卡片点击 Builder，才能查看原提示词。当前没有绑定来源提示词。";
   }
 
-  return buildPromptFromBuilder(values);
+  if (values.mode === "template" && prompt) {
+    return buildReusableTemplate(values, prompt);
+  }
+
+  if (values.mode === "template") {
+    return buildReusableTemplate(values);
+  }
+
+  return buildPromptFromBuilder(values, prompt);
 }
 
 function updateBuilderSourceLabel(prompt) {
@@ -543,6 +801,7 @@ function updateBuilderOutput() {
   const prompt = getBuilderPrompt();
   const result = scoreBuilderValues(values);
   elements.builderOutput.textContent = getBuilderOutputText(values, prompt);
+  elements.builderModeHelp.textContent = BUILDER_MODE_HELP[values.mode] || "";
   updateBuilderSourceLabel(prompt);
 
   if (values.mode === "original" && prompt) {
@@ -553,12 +812,22 @@ function updateBuilderOutput() {
     return;
   }
 
-  if (values.mode === "template" && prompt) {
-    elements.builderScore.textContent = "生产模板";
+  if (values.mode === "original") {
+    elements.builderScore.textContent = "原提示词";
     return;
   }
 
-  elements.builderScore.textContent = `${result.label} ${result.score}/100`;
+  if (values.mode === "template" && prompt) {
+    elements.builderScore.textContent = "复用模板";
+    return;
+  }
+
+  if (values.mode === "template") {
+    elements.builderScore.textContent = "复用模板";
+    return;
+  }
+
+  elements.builderScore.textContent = `生图改写 ${result.label} ${result.score}/100`;
 }
 
 function fillBuilderFromPrompt(promptId) {

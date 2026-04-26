@@ -79,11 +79,11 @@
         <div class="builder-content">
           <div class="builder-form">
             <label class="select-wrap">
-              <span>Output</span>
+              <span>输出模式</span>
               <select id="builder-mode">
-                <option value="structured">结构化改写</option>
                 <option value="original">原提示词</option>
-                <option value="template">生产模板</option>
+                <option value="structured">生图改写器</option>
+                <option value="template">复用模板</option>
               </select>
             </label>
             <label class="select-wrap">
@@ -146,10 +146,11 @@
           </div>
           <div class="builder-output-panel">
             <div class="builder-actions">
-              <button id="copy-builder" class="tool-button" type="button">Copy Builder</button>
-              <button id="filter-builder" class="tool-button secondary" type="button">Filter Similar</button>
-              <button id="reset-builder" class="tool-button secondary" type="button">Reset</button>
+              <button id="copy-builder" class="tool-button" type="button">复制当前输出</button>
+              <button id="filter-builder" class="tool-button secondary" type="button">筛选相似</button>
+              <button id="reset-builder" class="tool-button secondary" type="button">重置</button>
             </div>
+            <p id="builder-mode-help" class="builder-mode-help"></p>
             <pre id="builder-output"></pre>
           </div>
         </div>
