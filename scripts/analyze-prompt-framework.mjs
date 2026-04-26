@@ -630,6 +630,56 @@ function buildAnalysisRecord(prompt, selectedEntry = null) {
   };
 }
 
+function intersectionCount(left = [], right = []) {
+  const rightSet = new Set(right);
+  return left.filter((item) => rightSet.has(item)).length;
+}
+
+function similarityScore(left, right, promptLengths) {
+  if (left.id === right.id) {
+    return -Infinity;
+  }
+
+  const leftLength = promptLengths.get(left.id) || 0;
+  const rightLength = promptLengths.get(right.id) || 0;
+  const lengthDistance = Math.abs(leftLength - rightLength);
+  const lengthScore = Math.max(0, 6 - Math.floor(lengthDistance / 420));
+
+  return (
+    (left.templateId === right.templateId ? 18 : 0) +
+    (left.workType === right.workType ? 12 : 0) +
+    (left.subjectType === right.subjectType ? 7 : 0) +
+    (left.qualityTier === right.qualityTier ? 4 : 0) +
+    intersectionCount(left.compositionPatterns, right.compositionPatterns) * 5 +
+    intersectionCount(left.styleKeywords, right.styleKeywords) * 4 +
+    intersectionCount(left.lightingCamera, right.lightingCamera) * 3 +
+    intersectionCount(left.modules, right.modules) * 2 +
+    (left.containsText === right.containsText ? 2 : 0) +
+    lengthScore +
+    (right.selected ? 2 : 0)
+  );
+}
+
+function attachSimilarPromptIds(records, prompts) {
+  const promptLengths = new Map(
+    prompts.map((prompt) => [String(prompt.id), (prompt.prompt || prompt.translatedPrompt || "").length])
+  );
+
+  for (const record of records) {
+    record.similarPromptIds = records
+      .map((candidate) => ({
+        id: candidate.id,
+        score: similarityScore(record, candidate, promptLengths)
+      }))
+      .filter((candidate) => candidate.score > 0)
+      .sort((left, right) => right.score - left.score || String(left.id).localeCompare(String(right.id)))
+      .slice(0, 6)
+      .map((candidate) => candidate.id);
+  }
+
+  return records;
+}
+
 function selectHighValuePrompts(prompts) {
   const analyzed = prompts.map((prompt) => ({
     id: String(prompt.id),
@@ -1044,11 +1094,15 @@ function main() {
   const summary = summarizeDataset(prompts);
   const selected = selectHighValuePrompts(prompts);
   const selectedById = new Map(selected.map((row) => [String(row.id), row]));
+  const analysisRecords = attachSimilarPromptIds(
+    prompts.map((prompt) => buildAnalysisRecord(prompt, selectedById.get(String(prompt.id)))),
+    prompts
+  );
   const promptAnalysis = {
     generatedAt: RUN_GENERATED_AT,
     stable: STABLE_RUN,
     count: prompts.length,
-    prompts: prompts.map((prompt) => buildAnalysisRecord(prompt, selectedById.get(String(prompt.id))))
+    prompts: analysisRecords
   };
 
   writeResearchNotes(data, summary, selected);

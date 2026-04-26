@@ -64,6 +64,89 @@
         <button id="clear-search" class="tool-button secondary" type="button">Clear</button>
       </section>
 
+      <details id="builder-panel" class="builder-section" open>
+        <summary class="builder-summary">
+          <div>
+            <p class="eyebrow">Prompt Builder</p>
+            <h2>GPT Image 2 创作工作台</h2>
+          </div>
+          <strong id="builder-score">-</strong>
+        </summary>
+        <div class="builder-content">
+          <div class="builder-form">
+            <label class="select-wrap">
+              <span>Template</span>
+              <select id="builder-template">
+                <option value="">选择模板</option>
+              </select>
+            </label>
+            <label class="select-wrap">
+              <span>Type</span>
+              <select id="builder-worktype">
+                <option value="">选择类型</option>
+              </select>
+            </label>
+            <label class="select-wrap">
+              <span>Aspect</span>
+              <select id="builder-aspect">
+                <option>1:1 square</option>
+                <option>16:9 wide</option>
+                <option>9:16 vertical</option>
+                <option>4:5 social poster</option>
+              </select>
+            </label>
+            <label class="field-wrap">
+              <span>Purpose</span>
+              <input id="builder-purpose" type="text" placeholder="例如：品牌首屏、社媒海报、产品封面" />
+            </label>
+            <label class="field-wrap">
+              <span>Subject</span>
+              <input id="builder-subject" type="text" placeholder="主体、数量、身份、材质或动作" />
+            </label>
+            <label class="field-wrap">
+              <span>Scene</span>
+              <input id="builder-scene" type="text" placeholder="地点、时间、空间结构、背景元素" />
+            </label>
+            <label class="field-wrap">
+              <span>Composition</span>
+              <input id="builder-composition" type="text" placeholder="centered, grid, close-up, exploded view..." />
+            </label>
+            <label class="field-wrap">
+              <span>Style</span>
+              <input id="builder-style" type="text" placeholder="cinematic, editorial, realistic, minimalist..." />
+            </label>
+            <label class="field-wrap">
+              <span>Lighting</span>
+              <input id="builder-lighting" type="text" placeholder="studio lighting, rim light, shallow depth..." />
+            </label>
+            <label class="field-wrap">
+              <span>Text</span>
+              <input id="builder-text" type="text" placeholder="精确文字、标题层级或 no extra text" />
+            </label>
+            <label class="field-wrap wide">
+              <span>Constraints</span>
+              <input id="builder-constraints" type="text" value="clean, coherent, polished, readable hierarchy, no random text, no visual clutter" />
+            </label>
+          </div>
+          <div class="builder-output-panel">
+            <div class="builder-actions">
+              <button id="copy-builder" class="tool-button" type="button">Copy Builder</button>
+              <button id="filter-builder" class="tool-button secondary" type="button">Filter Similar</button>
+              <button id="reset-builder" class="tool-button secondary" type="button">Reset</button>
+            </div>
+            <pre id="builder-output"></pre>
+          </div>
+        </div>
+      </details>
+
+      <section class="report-strip" aria-label="专题报告">
+        <a href="./reports/production-grade-prompts.md" target="_blank" rel="noreferrer">生产级样本</a>
+        <a href="./reports/text-typography-prompts.md" target="_blank" rel="noreferrer">文字排版</a>
+        <a href="./reports/reference-image-prompts.md" target="_blank" rel="noreferrer">参考图</a>
+        <a href="./reports/ui-product-prompts.md" target="_blank" rel="noreferrer">UI/产品</a>
+        <a href="./reports/visual-language-library.md" target="_blank" rel="noreferrer">视觉语言库</a>
+      </section>
+
       <section class="result-line">
         <p id="results-count">加载中...</p>
       </section>
@@ -92,6 +175,7 @@
             <a id="modal-source" class="link-button secondary" target="_blank" rel="noreferrer">Source</a>
             <button id="copy-template" class="copy-button" type="button">Copy Template</button>
             <button id="copy-breakdown" class="copy-button" type="button">Copy Breakdown</button>
+            <button id="use-builder" class="copy-button" type="button">Use Builder</button>
           </div>
           <div class="tabs">
             <button id="tab-translated" class="tab active" type="button">中文</button>
@@ -101,6 +185,7 @@
             <button id="copy-prompt" class="copy-button" type="button">Copy</button>
             <pre id="modal-prompt"></pre>
           </div>
+          <div id="modal-related" class="modal-related"></div>
         </div>
       </div>
     </dialog>

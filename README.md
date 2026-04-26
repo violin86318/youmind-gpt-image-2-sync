@@ -22,6 +22,7 @@ npm run analyze:framework
 
 产物会写入 `analysis/`，包括 100 条高价值样本、数据摘要和 20 个创作模板。
 站点构建会把 `analysis/prompt-analysis.json` 合入 `site/data/prompts.json`，用于筛选、卡片评分和创作拆解展示。
+同时会把 `analysis/reports/` 下的专题报告复制到 `site/reports/`，方便 GitHub Pages 直接访问。
 
 专题报告在 `analysis/reports/`：
 
@@ -30,6 +31,13 @@ npm run analyze:framework
 - `reference-image-prompts.md`
 - `ui-product-prompts.md`
 - `visual-language-library.md`
+
+站点能力：
+
+- 按作品类型、模板、质量层级和 Top 100 样本筛选
+- 查看每条提示词的创作拆解、质量评分和相似提示词
+- 用 Prompt Builder 根据模板、主体、场景、构图、风格、光线和文字要求生成新提示词
+- 从任意提示词一键带入 Builder，快速改造成同结构创作模板
 
 如果要新建飞书多维表格：
 
