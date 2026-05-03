@@ -1,0 +1,43 @@
+{
+  "id": "13773",
+  "prompt": "{\n  \"type\": \"photorealistic printed examination paper\",\n  \"style\": \"black text on slightly crumpled off-white paper, authentic document photography\",\n  \"header\": {\n    \"main_title\": \"{argument name=\\\"exam title\\\" default=\\\"玉林市 2024 年春季期高一期末教学质量监测试卷\\\"}\",\n    \"subject\": \"{argument name=\\\"subject name\\\" default=\\\"数 学 试 卷\\\"}\",\n    \"details\": \"{argument name=\\\"score and time\\\" default=\\\"本试卷满分 150 分，考试时间 120 分钟。\\\"}\"\n  },\n  \"layout\": {\n    \"instructions\": {\n      \"title\": \"注意事项:\",\n      \"point_count\": 3,\n      \"content\": \"Standard exam rules regarding answer sheets, 2B pencils, and submission.\"\n    },\n    \"main_section\": {\n      \"heading\": \"{argument name=\\\"section title\\\" default=\\\"一、选择题: 本题共 8 小题，每小题 5 分，共 40 分。在每小题给出的四个选项中，只有一项是符合题目要求的。\\\"}\",\n      \"question_count\": 8,\n      \"format\": \"Numbered list from 1 to 8, each with mathematical formulas and 4 multiple-choice options (A, B, C, D).\",\n      \"topics\": [\n        \"Sets intersection\",\n        \"Complex numbers\",\n        \"Monotonically increasing functions\",\n        \"Necessary and sufficient conditions\",\n        \"Vectors and trigonometry\",\n        \"Solid geometry\",\n        \"Cone lateral surface area\",\n        \"Trigonometric function graph\"\n      ],\n      \"diagrams\": {\n        \"count\": 2,\n        \"descriptions\": [\n          \"A 3D line drawing of a cube with internal dashed lines located next to question 6.\",\n          \"A 2D Cartesian coordinate graph showing a partial sine wave curve located next to question 8.\"\n        ]\n      }\n    },\n    \"footer\": \"{argument name=\\\"footer text\\\" default=\\\"高一数学试卷 第 1 页 (共 4 页)\\\"}\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"照片级逼真的印刷试卷\",\n  \"style\": \"米白色微皱纸张上的黑色文字，真实的文档摄影效果\",\n  \"header\": {\n    \"main_title\": \"{argument name=\\\"exam title\\\" default=\\\"玉林市 2024 年春季期高一期末教学质量监测试卷\\\"}\",\n    \"subject\": \"{argument name=\\\"subject name\\\" default=\\\"数 学 试 卷\\\"}\",\n    \"details\": \"{argument name=\\\"score and time\\\" default=\\\"本试卷满分 150 分，考试时间 120 分钟。\\\"}\"\n  },\n  \"layout\": {\n    \"instructions\": {\n      \"title\": \"注意事项:\",\n      \"point_count\": 3,\n      \"content\": \"关于答题卡、2B 铅笔和交卷的标准考试规则。\"\n    },\n    \"main_section\": {\n      \"heading\": \"{argument name=\\\"section title\\\" default=\\\"一、选择题: 本题共 8 小题，每小题 5 分，共 40 分。在每小题给出的四个选项中，只有一项是符合题目要求的。\\\"}\",\n      \"question_count\": 8,\n      \"format\": \"从 1 到 8 的编号列表，每题包含数学公式和 4 个选项 (A, B, C, D)。\",\n      \"topics\": [\n        \"集合交集\",\n        \"复数\",\n        \"单调递增函数\",\n        \"充要条件\",\n        \"向量与三角函数\",\n        \"立体几何\",\n        \"圆锥侧面积\",\n        \"三角函数图像\"\n      ],\n      \"diagrams\": {\n        \"count\": 2,\n        \"descriptions\": [\n          \"位于第 6 题旁边的立方体 3D 线框图，带有内部虚线。\",\n          \"位于第 8 题旁边的二维笛卡尔坐标系图，显示部分正弦波曲线。\"\n        ]\n      }\n    },\n    \"footer\": \"{argument name=\\\"footer text\\\" default=\\\"高一数学试卷 第 1 页 (共 4 页)\\\"}\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "照片级逼真的中文数学试卷：生成一份高度逼真、结构严谨的中文高中数学试卷，包含选择题、数学公式和几何图形。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "3d"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, 3d]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13731",
+      "14398",
+      "15410",
+      "14831",
+      "15013",
+      "15778"
+    ]
+  }
+}

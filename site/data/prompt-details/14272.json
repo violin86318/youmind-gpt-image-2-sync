@@ -1,0 +1,41 @@
+{
+  "id": "14272",
+  "prompt": "A vintage travel poster illustration of {argument name=\"location setting\" default=\"Erhai Lake and Cangshan mountains\"} in a vibrant, mid-century lithograph style. In the foreground, one classic cream-colored vintage car drives away along a winding paved coastal road, framed by bright pink bougainvillea flowers in the top right and bottom right corners. To the right of the road, traditional Chinese buildings with white walls and dark tiled roofs nestle against the hillside, one bearing the Chinese characters \"大理\" and a red seal. To the left, a deep blue lake features three small wooden boats and three flying seagulls, bordered by a low stone wall. In the background, majestic towering mountains rise under a bright blue sky dotted with fluffy white clouds. In the top left corner, retro typography reads \"{argument name=\"main headline\" default=\"DALI\"}\" in large bold cream serif letters, followed by \"{argument name=\"subheading 1\" default=\"YUNNAN, CHINA\"}\" in teal sans-serif, \"{argument name=\"subheading 2\" default=\"Erhai Lake\"}\" in yellow cursive script, and \"{argument name=\"chinese text\" default=\"云南·大理\"}\" in small teal Chinese characters.",
+  "translatedPrompt": "A vintage travel poster illustration of {argument name=\"location setting\" default=\"Erhai Lake and Cangshan mountains\"} in a vibrant, mid-century lithograph style. In the foreground, one classic cream-colored vintage car drives away along a winding paved coastal road, framed by bright pink bougainvillea flowers in the top right and bottom right corners. To the right of the road, traditional Chinese buildings with white walls and dark tiled roofs nestle against the hillside, one bearing the Chinese characters \"大理\" and a red seal. To the left, a deep blue lake features three small wooden boats and three flying seagulls, bordered by a low stone wall. In the background, majestic towering mountains rise under a bright blue sky dotted with fluffy white clouds. In the top left corner, retro typography reads \"{argument name=\"main headline\" default=\"DALI\"}\" in large bold cream serif letters, followed by \"{argument name=\"subheading 1\" default=\"YUNNAN, CHINA\"}\" in teal sans-serif, \"{argument name=\"subheading 2\" default=\"Erhai Lake\"}\" in yellow cursive script, and \"{argument name=\"chinese text\" default=\"云南·大理\"}\" in small teal Chinese characters.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Vintage Travel Poster Illustration：Generates a retro-style travel poster featuring a scenic coastal road, a vintage car, and customizable typography.",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "vintage",
+        "retro"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: vintage, retro]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13647",
+      "14844",
+      "13442",
+      "14225",
+      "15450",
+      "15525"
+    ]
+  }
+}

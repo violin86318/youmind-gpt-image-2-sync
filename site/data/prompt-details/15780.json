@@ -1,0 +1,48 @@
+{
+  "id": "15780",
+  "prompt": "A candid documentary-style photograph of a {argument name=\"country\" default=\"Spain\"} family having lunch in a modest 1990s home kitchen, shot vertically with warm natural light and realistic lived-in detail. Four people sit around a small square table: an adult man in the left foreground seen mostly from the back and side, a middle-aged woman centered on the far side of the table serving food with a spoon, a teenage boy on the right side of the table, and a young girl in the right foreground with a ponytail, seen from behind in three-quarter view. The mood is intimate, ordinary, nostalgic, and unmistakably real, like a family snapshot rather than a staged commercial image. The table is covered with a blue-and-white plaid tablecloth and set with a rustic home-cooked meal: 1 black pan of stew or braised meat in the center, 1 wooden bowl filled with several pieces of bread, 2 small glass carafes containing dark red wine, multiple plates with food, cutlery, drinking glasses, and torn pieces of bread. The kitchen background should feel authentic and slightly worn: cream walls, a band of small patterned ceramic tiles across the middle of the wall, an open window on the left letting in soft daylight, 1 small potted plant on the windowsill, 1 wooden wall shelf holding jars and kitchen containers, 1 vintage wall calendar reading {argument name=\"month on calendar\" default=\"AGOSTO\"}, and dark wooden furniture on the right. Use soft film-like grain, muted colors, slight haze, gentle contrast, and natural imperfections typical of a 1990s analog photo. Composition should feel casually observed from a standing height near the table, with partial occlusion by the father and daughter in the foreground, no polished styling, no stock-photo cleanliness, just everyday family life in {argument name=\"decade\" default=\"the 1990s\"}.",
+  "translatedPrompt": "一张纪实风格的抓拍照片，展现了 {argument name=\"country\" default=\"西班牙\"} 一个家庭在 20 世纪 90 年代朴素的家庭厨房中吃午餐的场景。采用竖构图，光线温暖自然，细节真实且充满生活气息。四个人围坐在一个小方桌旁：左前方是一名主要从背面和侧面拍摄的成年男性；桌子对面中间是一名中年女性，正用勺子盛菜；桌子右侧是一名十几岁的男孩；右前方是一名扎着马尾辫的小女孩，以四分之三侧背影呈现。氛围亲密、平凡、怀旧且极其真实，就像家庭快照而非摆拍的商业图片。桌上铺着蓝白格纹桌布，摆放着质朴的家常菜：中间有一口装有炖菜或焖肉的黑色平底锅，一个装有几块面包的木碗，两个装有深红色葡萄酒的小玻璃瓶，以及多个盛有食物的盘子、餐具、水杯和撕碎的面包。厨房背景应显得真实且略显陈旧：奶油色的墙壁，墙面中间有一条带花纹的小瓷砖带，左侧开着的窗户透进柔和的日光，窗台上有一盆小植物，墙上的木架上放着罐子和厨房容器，墙上挂着一张写有 {argument name=\"month on calendar\" default=\"8 月\"} 的复古挂历，右侧是深色木质家具。使用柔和的胶片质感颗粒、柔和的色彩、轻微的雾感、柔和的对比度以及 20 世纪 90 年代胶片照片中常见的自然瑕疵。构图应呈现出在桌旁站立高度随意观察的视角，前景中的父亲和女儿部分遮挡了视线，没有精致的造型，没有图库照片般的整洁感，只有 {argument name=\"decade\" default=\"20 世纪 90 年代\"} 的日常家庭生活。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "20 世纪 90 年代西班牙家庭午餐：此提示词可生成 20 世纪 90 年代西班牙朴素厨房中怀旧的家庭午餐场景，非常适合纪录片风格的生活方式摄影。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "vintage",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "natural light"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: realistic, vintage, documentary]。\n\nLighting and camera:\n[参考光线镜头: natural light]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15705",
+      "14819",
+      "15602",
+      "14667",
+      "14674",
+      "15313"
+    ]
+  }
+}

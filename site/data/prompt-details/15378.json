@@ -1,0 +1,45 @@
+{
+  "id": "15378",
+  "prompt": "{\"type\":\"anime character profile sheet poster\",\"style\":\"clean polished Japanese anime illustration with pastel lavender design accents, white background, decorative filigree border, elegant school-idol reference sheet layout, high readability Japanese typography, soft shading, glossy eyes, refined line art\",\"subject\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"小原 鞠莉\\\"}\",\"romanized_name\":\"Ohara Mari\",\"series_style\":\"school idol anime character sheet\",\"character\":{\"gender\":\"female\",\"age_appearance\":\"high school girl, older teen\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"golden blonde\\\"}\",\"style\":\"long wavy hair with a loose side braid and curled strands, small ahoge, half-up twin bun feel at the top in the full-body view\"},\"expression\":\"bright, confident, adventurous\",\"outfit\":{\"count\":6,\"pieces\":[\"cream sailor-style school blazer\",\"teal bow at the chest\",\"gray sailor collar with navy trim\",\"gray pleated skirt with white stripe near the hem\",\"dark knee-high socks\",\"brown loafers\"]}}},\"layout\":{\"orientation\":\"portrait\",\"sections\":[{\"title\":\"プロフィール\",\"position\":\"upper right\",\"count\":12,\"labels\":[\"名前\",\"学年\",\"誕生日\",\"血液型\",\"身長\",\"スリーサイズ\",\"利き手\",\"所属\",\"役割\",\"イメージカラー\",\"特技\",\"好きな食べ物\"]},{\"title\":\"表情集\",\"position\":\"middle right\",\"count\":4,\"labels\":[\"ウィンク\",\"微笑み\",\"わくわく\",\"ドヤっ\"]},{\"title\":\"キャラクター紹介\",\"position\":\"lower left\",\"count\":1,\"labels\":[\"character introduction text block\"]},{\"title\":\"性格・特徴\",\"position\":\"lower left below introduction\",\"count\":6,\"labels\":[\"bright and sociable\",\"curious and impulsive\",\"has her own opinions\",\"emotionally expressive\",\"good at taking care of others\",\"often teased for being innocent\"]},{\"title\":\"好きなこと\",\"position\":\"bottom left\",\"count\":5,\"labels\":[\"going to the beach\",\"dancing\",\"experiencing foreign culture\",\"fun exciting events\",\"chatting with friends\"]},{\"title\":\"苦手なこと\",\"position\":\"bottom center-left\",\"count\":5,\"labels\":[\"being bound by detailed rules\",\"staying still\",\"very cold places\",\"boring atmosphere\",\"being seriously scolded\"]},{\"title\":\"パラメータ\",\"position\":\"lower right\",\"count\":6,\"labels\":[\"表現力・パフォーマンス 95\",\"コミュニケーション力 90\",\"好奇心・行動力 95\",\"体力・運動能力 70\",\"知性・学力 65\",\"優しさ・思いやり 85\"]}],\"main_images\":{\"count\":2,\"items\":[\"large waist-up portrait on the left, leaning on a balcony railing outdoors with blue sky, distant green mountains, and sparkling highlights\",\"full-body standing pose on the upper right with one hand on hip and one hand raised behind the head\"]},\"footer\":{\"count\":1,\"text\":\"Let’s enjoy! 毎日が最高のAdventure♡\"}},\"text_details\":{\"headline_quote\":\"「人生って、冒険よね！ ワクワクすること、探しに行こ♡」\",\"profile_values\":{\"名前\":\"{argument name=\\\"profile name text\\\" default=\\\"小原 鞠莉 (おはら まり)\\\"}\",\"学年\":\"高校3年生\",\"誕生日\":\"6月13日\",\"血液型\":\"AB型\",\"身長\":\"163cm\",\"スリーサイズ\":\"B・87 W・60 H・84\",\"利き手\":\"右\",\"所属\":\"μ’s（ミューズ）\",\"役割\":\"サブリーダー\",\"イメージカラー\":\"紫\",\"特技\":\"英会話、ダンス\",\"好きな食べ物\":\"パイナップル、グラタン\"}},\"color_palette\":{\"count\":5,\"colors\":[\"lavender purple\",\"white\",\"golden blonde\",\"teal green\",\"soft gray\"]},\"composition\":\"balanced magazine-style character dossier with ornate purple frames, large bold kanji name at top left, romanized name beneath, text-heavy profile card to the right, expression thumbnails centered right, stats radar chart in the lower right, and decorative anchor icon in the bottom-right corner\",\"quality\":\"high-resolution, crisp print-ready layout, neat alignment, elegant and cute idol aesthetic\"}",
+  "translatedPrompt": "{\"type\":\"动漫角色资料卡海报\",\"style\":\"干净精致的日系动漫插画，带有淡紫色设计点缀，白色背景，装饰性花丝边框，优雅的校园偶像参考表布局，高可读性的日文排版，柔和阴影，光泽感双眼，精细线条\",\"subject\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"小原 鞠莉\\\"}\",\"romanized_name\":\"Ohara Mari\",\"series_style\":\"校园偶像动漫角色表\",\"character\":{\"gender\":\"女\",\"age_appearance\":\"高中女生，大龄少女\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"金黄色\\\"}\",\"style\":\"长波浪卷发，带有松散的侧编发和卷曲发丝，小呆毛，全身图中顶部有半扎双丸子感\"},\"expression\":\"明亮、自信、充满冒险精神\",\"outfit\":{\"count\":6,\"pieces\":[\"米色水手风校服西装\",\"胸前青色蝴蝶结\",\"灰色水手领，带有海军蓝饰边\",\"灰色百褶裙，下摆处有白色条纹\",\"深色过膝袜\",\"棕色乐福鞋\"]}}},\"layout\":{\"orientation\":\"纵向\",\"sections\":[{\"title\":\"プロフィール\",\"position\":\"右上\",\"count\":12,\"labels\":[\"名前\",\"学年\",\"誕生日\",\"血液型\",\"身長\",\"スリーサイズ\",\"利き手\",\"所属\",\"役割\",\"イメージカラー\",\"特技\",\"好きな食べ物\"]},{\"title\":\"表情集\",\"position\":\"中右\",\"count\":4,\"labels\":[\"眨眼\",\"微笑\",\"兴奋\",\"得意\"]},{\"title\":\"キャラクター紹介\",\"position\":\"左下\",\"count\":1,\"labels\":[\"角色介绍文本框\"]},{\"title\":\"性格・特徴\",\"position\":\"左下（介绍下方）\",\"count\":6,\"labels\":[\"开朗且善于社交\",\"好奇心强且冲动\",\"有主见\",\"情感表达丰富\",\"擅长照顾他人\",\"常因天真烂漫而被调侃\"]},{\"title\":\"好きなこと\",\"position\":\"左下底端\",\"count\":5,\"labels\":[\"去海边\",\"跳舞\",\"体验异国文化\",\"有趣刺激的活动\",\"与朋友聊天\"]},{\"title\":\"苦手なこと\",\"position\":\"中下偏左\",\"count\":5,\"labels\":[\"被繁琐的规则束缚\",\"静止不动\",\"极寒之地\",\"沉闷的氛围\",\"被严厉责骂\"]},{\"title\":\"パラメータ\",\"position\":\"右下\",\"count\":6,\"labels\":[\"表现力・表演 95\",\"沟通能力 90\",\"好奇心・行动力 95\",\"体力・运动能力 70\",\"智力・学力 65\",\"温柔・体贴 85\"]}],\"main_images\":{\"count\":2,\"items\":[\"左侧大尺寸半身肖像，倚靠在户外的阳台栏杆上，背景为蓝天、远处的青山和闪烁的光斑\",\"右上侧全身站立姿势，一手叉腰，另一只手抬起放在脑后\"]},\"footer\":{\"count\":1,\"text\":\"Let’s enjoy! 每一天都是最棒的 Adventure♡\"}},\"text_details\":{\"headline_quote\":\"「人生って、冒険よね！ ワクワクすること、探しに行こ♡」\",\"profile_values\":{\"名前\":\"{argument name=\\\"profile name text\\\" default=\\\"小原 鞠莉 (おはら まり)\\\"}\",\"学年\":\"高中三年级\",\"誕生日\":\"6月13日\",\"血液型\":\"AB型\",\"身長\":\"163cm\",\"スリーサイズ\":\"B・87 W・60 H・84\",\"利き手\":\"右\",\"所属\":\"μ’s（缪斯）\",\"役割\":\"副队长\",\"イメージカラー\":\"紫\",\"特技\":\"英语会话、舞蹈\",\"好きな食べ物\":\"菠萝、焗烤料理\"}},\"color_palette\":{\"count\":5,\"colors\":[\"薰衣草紫\",\"白色\",\"金黄色\",\"青绿色\",\"柔灰色\"]},\"composition\":\"平衡的杂志风格角色档案，带有华丽的紫色边框，左上角有醒目的大号汉字名字，下方附带罗马音，右侧为文字密集的资料卡，中右侧为表情缩略图，右下角为能力雷达图，右下角配有装饰性锚点图标\",\"quality\":\"高分辨率，清晰的印刷级布局，整齐的对齐，优雅可爱的偶像美学\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫角色资料卡：生成一张精致的日系动漫风格角色参考海报，包含肖像、个人资料、表情集、性格说明以及能力雷达图，适用于角色展示或粉丝向资料页面。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "full-body"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, full-body]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14607",
+      "15332",
+      "14825",
+      "14927",
+      "15340",
+      "14509"
+    ]
+  }
+}

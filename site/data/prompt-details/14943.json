@@ -1,0 +1,51 @@
+{
+  "id": "14943",
+  "prompt": "{\"type\":\"apparel turnarounds reference sheet\",\"subject\":{\"model\":\"young child\",\"gender_presentation\":\"girl\",\"face\":\"intentionally anonymized with a soft rectangular blur over the face in the front and side views\",\"hair\":\"long wavy light brown to dark blonde hair extending below the hood\",\"pose_count\":3},\"garment\":{\"type\":\"one-piece hooded fleece pajama kigurumi\",\"theme\":\"cow\",\"primary_colors\":[\"white\",\"pastel pink\"],\"material\":\"thick fluffy sherpa or plush fleece texture\",\"closure\":\"front zipper\",\"fit\":\"loose cozy full-length fit with cuffed wrists and ankles\",\"details\":{\"hood_features_count\":4,\"hood_features\":[\"2 small horns\",\"2 rounded ears\"],\"front_dangling_poms_count\":2,\"front_dangling_poms\":\"two pom-pom drawstring ends at chest height\",\"back_features_count\":1,\"back_features\":[\"small stuffed tail\"],\"pattern\":\"irregular pink cow spots over a white base\",\"trim\":\"solid pink cuffs and hood edge\"}},\"layout\":{\"background\":\"clean studio interior with a light gray wall and warm medium-tone wooden floor\",\"composition\":\"three evenly spaced vertical panels showing full-body views of the same child wearing the onesie\",\"sections\":[{\"title\":\"正面図\",\"position\":\"left\",\"count\":1,\"labels\":[\"front view\"]},{\"title\":\"側面図\",\"position\":\"center\",\"count\":1,\"labels\":[\"side view\"]},{\"title\":\"背面図\",\"position\":\"right\",\"count\":1,\"labels\":[\"back view\"]}],\"panel_style\":\"catalog-style reference sheet with thin white spacing between panels and centered headings above each panel\",\"camera\":\"straight-on eye-level full-body framing\",\"lighting\":\"soft even studio lighting with minimal shadows\"},\"style\":\"high-resolution realistic product photography, neutral documentation style, clear garment construction visibility, designed like a clothing three-view reference image for e-commerce or design review\",\"customization\":{\"garment color\":\"{argument name=\\\"garment color\\\" default=\\\"pastel pink and white\\\"}\",\"animal theme\":\"{argument name=\\\"animal theme\\\" default=\\\"cow\\\"}\",\"model age\":\"{argument name=\\\"model age\\\" default=\\\"young child\\\"}\",\"headline left\":\"{argument name=\\\"headline left\\\" default=\\\"正面図\\\"}\",\"headline center\":\"{argument name=\\\"headline center\\\" default=\\\"側面図\\\"}\"}}",
+  "translatedPrompt": "{\"type\":\"服装三视图参考图\",\"subject\":{\"model\":\"幼童\",\"gender_presentation\":\"女童\",\"face\":\"正面和侧面视图中面部经过刻意模糊处理，呈现柔和的矩形模糊效果\",\"hair\":\"长波浪浅棕色至深金色头发，垂至兜帽下方\",\"pose_count\":3},\"garment\":{\"type\":\"连体带帽抓绒睡衣（Kigurumi）\",\"theme\":\"奶牛\",\"primary_colors\":[\"白色\",\"柔粉色\"],\"material\":\"厚实蓬松的羊羔绒或毛绒质感\",\"closure\":\"前拉链\",\"fit\":\"宽松舒适的全长版型，袖口和裤脚有收口\",\"details\":{\"hood_features_count\":4,\"hood_features\":[\"2 只小角\",\"2 只圆耳\"],\"front_dangling_poms_count\":2,\"front_dangling_poms\":\"胸部位置有两个毛球抽绳末端\",\"back_features_count\":1,\"back_features\":[\"小尾巴\"],\"pattern\":\"白色底色上带有不规则粉色奶牛斑点\",\"trim\":\"纯粉色袖口和兜帽边缘\"}},\"layout\":{\"background\":\"干净的摄影棚内景，浅灰色墙壁和暖色调中性木地板\",\"composition\":\"三个均匀分布的垂直面板，展示同一名穿着连体衣的儿童的全身视图\",\"sections\":[{\"title\":\"正面图\",\"position\":\"左\",\"count\":1,\"labels\":[\"正面视图\"]},{\"title\":\"侧面图\",\"position\":\"中\",\"count\":1,\"labels\":[\"侧面视图\"]},{\"title\":\"背面图\",\"position\":\"右\",\"count\":1,\"labels\":[\"背面视图\"]}],\"panel_style\":\"目录风格参考图，面板间有细白边，每个面板上方有居中标题\",\"camera\":\"平视全身构图\",\"lighting\":\"柔和均匀的摄影棚灯光，阴影极少\"},\"style\":\"高分辨率写实产品摄影，中性文档风格，服装结构清晰可见，专为电商或设计评审打造的服装三视图参考图\",\"customization\":{\"garment color\":\"{argument name=\\\"garment color\\\" default=\\\"柔粉色和白色\\\"}\",\"animal theme\":\"{argument name=\\\"animal theme\\\" default=\\\"奶牛\\\"}\",\"model age\":\"{argument name=\\\"model age\\\" default=\\\"幼童\\\"}\",\"headline left\":\"{argument name=\\\"headline left\\\" default=\\\"正面图\\\"}\",\"headline center\":\"{argument name=\\\"headline center\\\" default=\\\"侧面图\\\"}\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "儿童奶牛连体衣三视图：此提示词可生成一张逼真的摄影棚参考图，展示一名身穿粉白配色奶牛主题抓绒连体衣的儿童的正面、侧面和背面视图，适用于服装设计、产品目录展示或 AI 服装一致性测试。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [
+        "centered",
+        "full-body",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting",
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, full-body, vertical]。\n\nVisual style:\n[参考风格: realistic, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting, camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15600",
+      "14889",
+      "15776",
+      "14812",
+      "14878",
+      "15447"
+    ]
+  }
+}

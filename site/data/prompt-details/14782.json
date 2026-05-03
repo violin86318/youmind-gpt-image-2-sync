@@ -1,0 +1,37 @@
+{
+  "id": "14782",
+  "prompt": "一张干净的英语学习信息图海报，标题为“{argument name=\"标题\" default=\"20种常见蔬菜\"}”，\n采用整齐的网格布局（4x5），每个卡片展示一种蔬菜。\n\n每个卡片包含：\n- 写实风格的蔬菜图片\n- 英文名称（加粗）\n- 英式或美式音标（IPA）\n- 简短英文描述\n\n整体风格：\n极简设计，白色背景，柔和的绿色和浅色系配色，\n卡片式UI设计，圆角边框，排版整齐，视觉平衡，\n适合英语初学者学习，类似课堂教学海报\n\n适合社交媒体传播，高分辨率，4K，信息图风格\n\n尺寸：1080×1350",
+  "translatedPrompt": "一张简洁的英语学习信息图海报，标题为“{argument name=\"title\" default=\"20 种常见蔬菜\"}”，采用整洁的网格布局（4x5），每张卡片展示一种蔬菜。每张卡片包含：蔬菜的写实照片、英文名称（加粗）、英式或美式音标（IPA）以及简短的英文描述。整体风格：极简设计，白色背景，柔和的绿色与浅色调配色，圆角卡片式 UI，排版整洁，视觉平衡。适合英语初学者，类似于课堂教学海报。非常适合社交媒体分享，高分辨率，4K，信息图风格。尺寸：1080x1350。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "语言学习信息图海报：一个用于创建简洁、教育类网格布局信息图的详细模板，适用于词汇学习和社交媒体分享。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13984",
+      "14328",
+      "14379",
+      "14387",
+      "13662",
+      "13730"
+    ]
+  }
+}

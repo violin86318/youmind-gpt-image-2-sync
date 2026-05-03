@@ -1,0 +1,44 @@
+{
+  "id": "14178",
+  "prompt": "A highly detailed anime-style light novel cover illustration. In the foreground, a beautiful young woman with {argument name=\"female hair color\" default=\"long silver hair\"} and large blue eyes wears an intricate white lace dress and a silver floral tiara with white roses, reaching her hand forward with a gentle, longing smile. Behind her, a young man with black hair wearing an {argument name=\"male outfit\" default=\"ornate black coat with red accents and silver chains\"} stands facing away, looking back over his shoulder melancholically. They are on a balcony overlooking a {argument name=\"background setting\" default=\"gothic fantasy castle city at dusk\"}, with white petals scattering in the wind. The image features prominent, elegant Japanese typography. The large main title reads \"{argument name=\"main title\" default=\"善人をやめた悪役貴公子は、白薔薇の聖女を遠ざける\"}\" in stylized fonts with gold and blue gradients. A vertical catchphrase on the left reads \"{argument name=\"left catchphrase\" default=\"世界を守るため、俺はもっと悪になる。\"}\" and another on the right reads \"世界を敵に回しても、あなたの隣にいたい。\". Additional text at the bottom includes author credits and a publisher logo. The overall mood is dramatic and romantic with dynamic lighting.",
+  "translatedPrompt": "A highly detailed anime-style light novel cover illustration. In the foreground, a beautiful young woman with {argument name=\"female hair color\" default=\"long silver hair\"} and large blue eyes wears an intricate white lace dress and a silver floral tiara with white roses, reaching her hand forward with a gentle, longing smile. Behind her, a young man with black hair wearing an {argument name=\"male outfit\" default=\"ornate black coat with red accents and silver chains\"} stands facing away, looking back over his shoulder melancholically. They are on a balcony overlooking a {argument name=\"background setting\" default=\"gothic fantasy castle city at dusk\"}, with white petals scattering in the wind. The image features prominent, elegant Japanese typography. The large main title reads \"{argument name=\"main title\" default=\"善人をやめた悪役貴公子は、白薔薇の聖女を遠ざける\"}\" in stylized fonts with gold and blue gradients. A vertical catchphrase on the left reads \"{argument name=\"left catchphrase\" default=\"世界を守るため、俺はもっと悪になる。\"}\" and another on the right reads \"世界を敵に回しても、あなたの隣にいたい。\". Additional text at the bottom includes author credits and a publisher logo. The overall mood is dramatic and romantic with dynamic lighting.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Anime Light Novel Cover Illustration：Generates a dramatic, high-quality anime-style light novel cover featuring two characters, a fantasy background, and elegant Japanese typography.",
+      "subject": "人物",
+      "scene": "字体/Logo",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: anime, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13943",
+      "14021",
+      "14267",
+      "13663",
+      "13891",
+      "14266"
+    ]
+  }
+}

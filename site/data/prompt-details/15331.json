@@ -1,0 +1,47 @@
+{
+  "id": "15331",
+  "prompt": "A full-body anime fantasy warrior girl standing alone on a plain light gray background, clean character illustration with soft painterly rendering and crisp line art. She is a slender young woman with long straight {argument name=\"hair color\" default=\"platinum blonde\"} hair, center-parted with long face-framing strands and a small tied section at the back, light {argument name=\"eye color\" default=\"amber-brown\"} eyes, fair skin, and a calm slightly serious expression. Her pose is dynamic and confident: legs apart in a stable stance, one arm raised over her head gripping a long spear shaft behind her shoulders, the other hand holding the spear lower near her side so the ornate spear extends diagonally across the composition. The weapon is 1 elaborate dark metallic spear with a long narrow blade, cross-shaped barbs, engraved gothic details, and a sharp butt spike. Her outfit is a refined dark fantasy battle costume with exactly 6 visible main pieces: 1 black steel armored right arm gauntlet with engraved plating, 1 fitted black-and-bronze corset breastplate, 1 white high-neck blouse with sheer long sleeves, 1 short asymmetrical white skirt with flowing split overskirt panels, 1 pair of black thigh-high armored boots with silver filigree knee and ankle accents, and 1 brown belt set with straps including a right-thigh garter strap. Add subtle silver ornamentation at the collar and armor edges, elegant leather textures, polished metal highlights, and gently wind-swept fabric. Keep the palette muted and sophisticated in ivory, charcoal, bronze, and silver. The style should feel like premium Japanese RPG character concept art, highly detailed, graceful, slightly gothic, isolated full figure, no extra props, no scenery, only a faint soft ground shadow beneath her feet.",
+  "translatedPrompt": "一幅动漫奇幻女战士的全身插画，人物独自站立在纯浅灰色背景前，画面干净，采用柔和的绘画渲染风格与清晰的线条勾勒。她是一位身材苗条的年轻女性，留着一头长直发，{argument name=\"hair color\" default=\"白金色\"}，中分刘海修饰脸型，后方扎有一小束头发；拥有明亮的 {argument name=\"eye color\" default=\"琥珀棕色\"} 双眸，肤色白皙，神情沉稳且略带严肃。她的姿势充满动感与自信：双腿分开呈稳固站姿，一只手臂举过头顶，握住肩后的一柄长枪，另一只手在身侧下方握住枪身，使华丽的长枪在构图中呈对角线延伸。武器为 1 把精致的深色金属长枪，配有细长的枪刃、十字形倒钩、哥特风格雕刻细节以及锋利的枪尾。她的服装为精致的暗黑奇幻战斗装，包含 6 个清晰可见的主要部件：1 只带有雕刻甲片的黑色钢制右臂护手，1 件合身的黑铜色紧身胸甲，1 件白色高领衬衫配透明长袖，1 条不对称的白色短裙配飘逸的开叉裙摆，1 双带有银色花丝膝部和踝部装饰的黑色过膝战靴，以及 1 条包含大腿绑带的棕色腰带组合。领口和盔甲边缘饰有精致的银色纹饰，皮革质感细腻，金属高光处理考究，布料呈现出微风吹拂的动感。色调采用象牙白、炭黑、青铜色和银色，整体风格低调而高级。画面应呈现出高端日本 RPG 角色概念艺术的质感，细节丰富，姿态优雅，略带哥特风，全身人物独立呈现，无额外道具，无背景，仅在脚下有淡淡的柔和地面阴影。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "优雅动漫女枪兵全身像：一幅精致的动漫女枪兵全身奇幻角色插画，适用于 RPG 概念艺术、角色设定图或宣传海报。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "symmetrical",
+        "full-body"
+      ],
+      "style": [
+        "anime",
+        "fantasy",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: symmetrical, full-body]。\n\nVisual style:\n[参考风格: anime, fantasy, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15090",
+      "15091",
+      "14980",
+      "14413",
+      "14823",
+      "14927"
+    ]
+  }
+}

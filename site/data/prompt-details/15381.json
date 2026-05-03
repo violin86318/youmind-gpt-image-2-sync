@@ -1,0 +1,51 @@
+{
+  "id": "15381",
+  "prompt": "A dense surreal collage poster blending retro Japanese street culture, dystopian futurism, environmental collapse, and cosmic dream imagery in one vertically stacked composition. The image should feel like layered mixed-media street art made from torn posters, ink illustration, manga textures, watercolor washes, newspaper print, spray paint, and graphic design fragments. The overall palette combines deep midnight blues, black, cream paper tones, neon magenta, crimson red, cherry blossom pink, and industrial gray. In the upper left, show a large red sun behind Mount Fuji with cherry blossom branches crossing the corner, and a small airplane in the sky. Along the left side and lower left, depict a crowded Tokyo-like city street packed with pedestrians, glowing signs, dense buildings, and a tall cylindrical building with a smiley face near the top and a vertical sign reading AI IS WATCHING YOU. Include stylized Japanese-style signage on nearby buildings. Add a giant wave motif and a pagoda integrated into the urban scene. In the upper center, place a dark industrial skyline with multiple smokestacks releasing massive black clouds, transitioning into a giant astronaut floating forward with one hand reaching out. In the upper right, transform the sky into outer space with stars, a swirling purple-and-blue nebula, and a black hole. Beneath that, create a futuristic eco-city of sleek skyscrapers mixed with lush trees, cliffs, and cascading waterfalls. Add a glowing neon sign on the far right that reads DREAMING IS FREE. Near the astronaut, place a torn poster with the text THE FUTURE IS UNWRITTEN in large type and below it But we are the authors in smaller type. Across the center, layer floral elements including cherry blossoms and large roses around a partially obscured central human portrait to give the sense of fragmented identity. In the lower center, show a person from behind wearing a dark hooded jacket with graffiti-style text reading QUESTION EVERYTHING. Around them, include additional cutout portrait fragments, a Mondrian-inspired geometric block of red, blue, yellow, white, and black rectangles, a classical marble bust fragment, a white dove in flight, a small protest sign that reads EQUALITY ≠ EQUITY, and a seated figure looking toward the futuristic landscape. In the lower left corner, include part of a noir-style person in a dark hat and coat, and in the lower right, part of a manga-style female face in profile. Scatter graffiti, torn edges, ink splatters, layered paper textures, and poster remnants throughout. The composition should be extremely busy, cinematic, and thought-provoking, balancing hope and anxiety, tradition and technology, nature and urban overload, in the style of a high-detail contemporary collage mural.",
+  "translatedPrompt": "一张密集的超现实拼贴海报，将复古日本街头文化、反乌托邦未来主义、环境崩溃和宇宙梦境意象融合在垂直堆叠的构图中。画面应呈现出层叠的混合媒介街头艺术感，由撕裂的海报、水墨插画、漫画纹理、水彩晕染、报纸印刷、喷漆和平面设计碎片构成。整体色调结合了深午夜蓝、黑色、奶油纸色、霓虹洋红色、深红色、樱花粉和工业灰。左上角展示一轮巨大的红日映衬着富士山，樱花枝横跨角落，天空中有一架小型飞机。左侧及左下方描绘一条拥挤的东京风格街道，挤满了行人、发光的招牌、密集的建筑，以及一座顶部带有笑脸、垂直招牌写着“AI IS WATCHING YOU”的高耸圆柱形建筑。在附近的建筑上加入风格化的日式招牌。在城市场景中融入巨大的波浪图案和一座宝塔。上部中心放置一个黑暗的工业天际线，多个烟囱释放出巨大的黑烟，并过渡到一个向前漂浮、单手伸出的巨大宇航员。右上角将天空转化为外太空，点缀着星星、旋转的紫蓝色星云和一个黑洞。下方创造一个未来派的生态城市，由光滑的摩天大楼与茂密的树木、悬崖和层叠的瀑布混合而成。在最右侧添加一个发光的霓虹灯牌，上面写着“DREAMING IS FREE”。在宇航员附近，放置一张撕裂的海报，上面用大号字体写着“THE FUTURE IS UNWRITTEN”，下方用较小字体写着“But we are the authors”。在中心区域，层叠樱花和大型玫瑰等花卉元素，环绕着一个部分被遮挡的中央人像，营造出碎片化身份的感觉。下部中心展示一个身穿深色连帽夹克、背对观众的人，衣服上有涂鸦风格的文字“QUESTION EVERYTHING”。在他们周围，加入额外的剪纸肖像碎片、一个受蒙德里安启发的红、蓝、黄、白、黑矩形几何块、一个古典大理石半身像碎片、一只飞翔的白鸽、一个写着“EQUALITY ≠ EQUITY”的小型抗议标语，以及一个看向未来景观的坐姿人物。左下角包含一个戴着深色帽子和外套的黑色电影风格人物，右下角则是一个漫画风格的女性侧脸。画面中散布着涂鸦、撕裂的边缘、墨水溅痕、层叠的纸张纹理和海报残片。整个构图极其繁复、具有电影感且引人深思，在细节丰富的高级当代拼贴壁画风格中，平衡了希望与焦虑、传统与科技、自然与城市过载。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "超现实未来主义日式拼贴海报：一份内容丰富的混合媒介海报提示词，旨在生成一张融合了东京街头生活、太空时代象征、抗议艺术和生态未来主义城市景观的密集编辑风格拼贴画。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "manga",
+        "retro",
+        "watercolor"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical]。\n\nVisual style:\n[参考风格: cinematic, manga, retro, watercolor]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15706",
+      "14485",
+      "15797",
+      "15003",
+      "15252",
+      "15650"
+    ]
+  }
+}

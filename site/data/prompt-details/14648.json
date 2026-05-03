@@ -1,0 +1,56 @@
+{
+  "id": "14648",
+  "prompt": "Create a cinematic Japanese naval comparison poster in a highly detailed, photorealistic concept-art style with a warm amber sunset palette, dramatic clouds, glowing backlight, and a premium movie-poster plus technical-reference-sheet layout. The composition is vertically stacked in 2 main zones. In the top hero zone, show 2 large semi-transparent officer portraits facing inward, one on the left in an older imperial-era naval uniform and one on the right in a modern maritime self-defense force style dress uniform, both wearing peaked caps and formal dark coats, with a blazing sunset sky behind them. Centered between them, place a large serif English title reading {argument name=\"headline text\" default=\"Fog of Two Eras\"}, with a smaller Japanese subtitle beneath it reading ふたつの時代の霧, and 2 lines of Japanese tagline text above the title. Below the title, on the ocean at golden hour, show 2 warships moving forward on slightly converging paths: on the left, a massive World War II-era battleship with many large gun turrets, tower superstructure, weathered dark hull, and white bow spray; on the right, a modern gray guided-missile destroyer with hull number 115 visible on the bow, sleek radar-equipped superstructure, and foamy wake. Add exactly 4 helicopters in the sky, 2 on the left side and 2 on the right side, plus a suspension bridge and distant modern city skyline on the horizon. In the lower reference-sheet zone, split the page into 2 vertical panels, left for the historical ship and right for the modern ship, each panel styled like a parchment-toned military specification board with dark blue and dark red header bars, fine dividing lines, inset image boxes, and Japanese labels. The left panel should present exactly 1 large perspective render of the battleship, 3 orthographic ship views beneath it, 5 small labeled equipment/detail thumbnails in a row, 4 small head-and-shoulders uniform portraits, 4 full-body character turnaround views of a male naval officer, and 1 bottom scale silhouette of the ship beside a human figure with a 20m marker. The right panel should present exactly 1 large perspective render of the modern destroyer, 3 orthographic ship views beneath it, 6 small labeled equipment/detail thumbnails arranged around the ship references, 4 small head-and-shoulders uniform portraits, 4 full-body character lineup views including a central female officer in white cap and dark uniform, and 1 bottom scale silhouette of the ship beside a human figure with a 20m marker. Use visible Japanese headers and labels throughout, including a left historical title area and a right title area naming the ship as 護衛艦 あさつ (DDG-115). Make the whole image feel like a museum exhibition poster, military design sheet, and prestige historical sci-fi drama key art combined, with ultra-sharp detail, realistic metal textures, ocean reflections, aged paper panels, symmetrical balance, and polished editorial typography.",
+  "translatedPrompt": "创作一张电影质感的日式海军对比海报，采用高度精细的写实概念艺术风格，色调为温暖的琥珀色夕阳，配以戏剧性的云层、发光的背光，以及高级电影海报与技术参考表结合的布局。构图在垂直方向上分为 2 个主要区域。在顶部的英雄区，展示 2 幅向内侧身的大型半透明军官肖像，左侧为旧帝国时代海军制服，右侧为现代海上自卫队风格礼服，两人均佩戴大檐帽并身着深色礼服大衣，背景为绚烂的夕阳天空。在两人中间居中放置一个大型衬线体英文标题 {argument name=\"headline text\" default=\"Fog of Two Eras\"}，下方配有较小的日文副标题“ふたつの時代の霧”，标题上方有 2 行日文标语。在标题下方，于黄金时刻的海面上，展示 2 艘正向前航行的军舰，航向略微汇合：左侧是一艘巨大的二战时期战列舰，拥有许多大型炮塔、塔式上层建筑、风化的深色船体和白色的舰首浪花；右侧是一艘现代灰色导弹驱逐舰，舰首可见舷号 115，拥有流线型雷达上层建筑和泡沫状航迹。在天空中添加 4 架直升机，左右两侧各 2 架，地平线上方添加一座悬索桥和遥远的现代城市天际线。在下方的参考表区域，将页面分为 2 个垂直面板，左侧为历史舰船，右侧为现代舰船，每个面板设计成羊皮纸质感的军事规格项目，配有深蓝色和深红色的标题栏、精细的分割线、嵌入式图像框和日文标签。左侧面板应呈现 1 张战列舰的大型透视渲染图、下方 3 张正投影舰船视图、一行 5 个带标签的小型装备/细节缩略图、4 张小型头像制服肖像、4 张男性海军军官全身转体视图，以及底部 1 个舰船与人物对比的比例剪影（带 20 米标记）。右侧面板应呈现 1 张现代驱逐舰的大型透视渲染图、下方 3 张正投影舰船视图、环绕舰船参考图排列的 6 个带标签的小型装备/细节缩略图、4 张小型头像制服肖像、4 张全身角色阵容视图（包括一名戴白帽、穿深色制服的女性军官），以及底部 1 个舰船与人物对比的比例剪影（带 20 米标记）。通篇使用醒目的日文标题和标签，包括左侧的历史标题区和右侧将舰船命名为“护卫舰 あさつ (DDG-115)”的标题区。使整张图像呈现出博物馆展览海报、军事设计图纸与精品历史科幻剧关键视觉图相结合的质感，具备超清晰的细节、逼真的金属纹理、海洋反射、陈旧的纸张面板、对称的平衡感以及精致的排版。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "双时代海军对比海报：一张电影质感的日式军事风格海报，对比了二战战列舰与现代驱逐舰，非常适合作为演示封面、历史视觉素材或戏剧性的概念关键视觉图。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "full-body",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "editorial",
+        "sci-fi",
+        "premium"
+      ],
+      "lightingCamera": [
+        "backlight",
+        "golden hour"
+      ],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, full-body, vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, editorial, sci-fi, premium]。\n\nLighting and camera:\n[参考光线镜头: backlight, golden hour]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15400",
+      "15668",
+      "14518",
+      "15729",
+      "14813",
+      "14850"
+    ]
+  }
+}

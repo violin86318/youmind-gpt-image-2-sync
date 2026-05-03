@@ -1,0 +1,45 @@
+{
+  "id": "14681",
+  "prompt": "Create a sleek Japanese corporate training banner in a wide horizontal web-ad format with a dark navy-to-deep-blue gradient background, subtle glowing network nodes and connecting lines across the upper and middle area, and a high-tech AI/business atmosphere. Place a confident businessman on the right side from waist-up, wearing a dark navy suit, white dress shirt, and blue striped tie, arms crossed, facing forward; crop him partially at the top and right edge. On the left, create a strong typographic hierarchy with a small cyan headline at the top reading {argument name=\"headline text\" default=\"AIを活用した開発スキルを、最短で習得\"}, then an oversized bold white main title reading {argument name=\"main title\" default=\"ClaudeCode研修\"}. Along the lower-left area, place exactly 3 rounded rectangular feature boxes outlined in bright cyan with dark interiors and cyan icons: box 1 shows a terminal/code icon and the text \"Claude Codeの基本と応用\", box 2 shows a rocket icon and the text \"開発スピードを飛躍的に向上\", box 3 shows a two-person/team icon and the text \"現場ですぐに活かせるスキル\". On the far right, overlay a large cyan angled polygon callout panel with bold dark text in 2 lines reading {argument name=\"callout text\" default=\"明日からの開発が\\n変わる体験を。\"}. Use crisp modern sans-serif Japanese typography, strong contrast, polished marketing design, clean spacing, luminous cyan accents, and a premium AI seminar advertisement look.",
+  "translatedPrompt": "创建一个精致的日语企业培训横幅，采用宽幅横向网页广告格式，背景为深海军蓝至深蓝色的渐变，上方和中部点缀着微弱发光的网络节点与连接线，营造出高科技 AI 与商务氛围。在右侧放置一位自信的商务人士半身像，身穿深海军蓝西装、白色衬衫，系蓝色条纹领带，双臂交叉，面向前方；顶部和右边缘进行部分裁剪。在左侧建立强有力的排版层级，顶部放置一个小型的青色标题，内容为 {argument name=\"headline text\" default=\"AIを活用した開発スキルを、最短で習得\"}，随后是一个超大号的加粗白色主标题，内容为 {argument name=\"main title\" default=\"ClaudeCode研修\"}。在左下方区域，放置 3 个圆角矩形功能框，框线为亮青色，内部为深色，并配有青色图标：第 1 个框显示终端/代码图标及文字“Claude Codeの基本と応用”，第 2 个框显示火箭图标及文字“開発スピードを飛躍的に向上”，第 3 个框显示双人/团队图标及文字“現場ですぐに活かせるスキル”。在最右侧，叠加一个大型青色倾斜多边形标注面板，内含两行加粗深色文字，内容为 {argument name=\"callout text\" default=\"明日からの開発が\\n変わる体験を。\"}。使用清晰现代的无衬线日语字体，强调高对比度、精致的营销设计、整洁的间距、明亮的青色点缀，以及高端 AI 研讨会广告的视觉效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日语 AI 培训横幅：此提示词用于生成精美的宽幅日语企业横幅，适用于 AI 驱动的编程培训课程，适合广告、落地页及宣传视觉设计。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "callout",
+        "horizontal"
+      ],
+      "style": [
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: callout, horizontal]。\n\nVisual style:\n[参考风格: premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13457",
+      "14828",
+      "14835",
+      "14854",
+      "14962",
+      "15077"
+    ]
+  }
+}

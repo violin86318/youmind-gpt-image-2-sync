@@ -1,0 +1,45 @@
+{
+  "id": "14962",
+  "prompt": "Using the provided reference image, transform the portrait into a luxury lipstick advertisement while keeping the same girl, hairstyle, outfit, accessories, and elegant anime illustration style. Change the framing to a polished beauty-campaign composition with a dark crimson-to-black glamorous background, glossy lighting, and premium cosmetic brand aesthetics. Add a lipstick product in her raised hand on the right side, and add a large foreground product shot at the bottom left showing 1 opened lipstick tube and 1 separate cap on a reflective surface with a splash of deep red gloss. Add Japanese ad typography and layout elements: top left a small boxed label reading \"新発売\", a very large headline \"ROUGE\", a vertical text block reading \"視線を奪う、ひと塗り。\", followed by 3 smaller lines \"鮮やかな発色。\", \"上品なツヤ。\", \"忘れられない印象へ。\", then \"2026 SPRING NEW COLOR\" and a badge reading \"全6色\" with 6 lipstick swatches beside it. Add a top-right luxury logo with the letters \"GB\" and the brand name \"GUFU BEAUTY\". Add a bottom-right campaign block with a large \"NEW\" and the line \"うるおい続く、密着ルージュ\". Use rich ruby reds, gold accents, glossy highlights, soft sparkles, and a high-end magazine cosmetic poster finish.",
+  "translatedPrompt": "使用提供的参考图像，将肖像转换为奢华口红广告，同时保留原有的女孩形象、发型、服装、配饰及优雅的动漫插画风格。将构图调整为精致的美妆广告风格，背景采用深绯红至黑色的华丽色调，搭配光泽感灯光及高端化妆品品牌美学。在右侧抬起的手中添加一支口红产品，并在左下角添加一张大型前景产品特写，展示一支打开的口红管和一只单独的盖子，放置在带有深红色光泽飞溅效果的反射面上。添加日文广告排版及布局元素：左上角添加一个写有“新発売”的小方框标签，一个超大的标题“ROUGE”，一个竖排文本块写着“視線を奪う、ひと塗り。”，随后是 3 行较小的文字：“鮮やかな発色。”、“上品なツヤ。”、“忘れられない印象へ。”，接着是“2026 SPRING NEW COLOR”以及一个写有“全6色”的徽章，旁边附带 6 个口红试色块。右上角添加一个带有字母“GB”及品牌名称“GUFU BEAUTY”的奢华标志。右下角添加一个广告宣传块，包含一个大号的“NEW”字样及文案“うるおい続く、密着ルージュ”。整体采用浓郁的红宝石色、金色点缀、光泽高光、柔和闪光，呈现高端杂志美妆海报的质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奢华口红广告视觉转换：此提示词可将人物肖像参考图转换为高端日系口红广告海报，适用于美妆广告样机制作及化妆品品牌视觉设计。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: anime, luxury, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14462",
+      "14421",
+      "14593",
+      "14638",
+      "14828",
+      "15627"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "13593",
+  "prompt": "A vibrant, high-contrast Y2K fashion photography shot of two young East Asian adults. In the foreground, a young woman smiles softly at the camera, wearing a {argument name=\"female headwear\" default=\"fuzzy pink bucket hat\"}, a pastel patchwork crop top, a white pleated mini skirt, and a beaded necklace, while holding a white smartphone. Her long dark hair is blowing slightly. Behind her to the right, a young man laughs excitedly with his mouth open, wearing a {argument name=\"male headwear\" default=\"backward orange baseball cap\"}, a bright blue windbreaker over a green t-shirt, light khaki pants, and a silver chain. He is holding two black smartphones, one in each hand, with one raised high in the air. The image features bright flash lighting, a slight wide-angle lens distortion, and a smooth gradient background transitioning from {argument name=\"background color\" default=\"hot pink\"} to white.",
+  "translatedPrompt": "一张充满活力、高对比度的 Y2K 时尚摄影作品，主角为两位年轻的东亚成年人。前景中，一位年轻女性对着镜头温柔微笑，头戴 {argument name=\"female headwear\" default=\"毛绒粉色渔夫帽\"}，身穿柔和色调的拼接短款上衣、白色百褶短裙，并佩戴串珠项链，手中拿着一部白色智能手机。她的一头深色长发随风轻拂。在她右后方，一位年轻男性正兴奋地大笑，嘴巴微张，头戴 {argument name=\"male headwear\" default=\"反戴橙色棒球帽\"}，身穿绿色 T 恤外搭亮蓝色防风外套，下身穿着浅卡其色长裤，并佩戴银色链条。他双手各持一部黑色智能手机，其中一只手高高举起。画面采用明亮的闪光灯照明，带有轻微的广角镜头畸变，背景为从 {argument name=\"background color\" default=\"亮粉色\"} 过渡到白色的平滑渐变。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Y2K 复古科技风青年肖像：生成一张充满活力的广角时尚肖像，展现两位手持智能手机的年轻人，呈现怀旧的 Y2K 美学风格。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "lens",
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体",
+        "光线/镜头"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: lens, camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13590",
+      "13750",
+      "13650",
+      "13806",
+      "14012",
+      "15520"
+    ]
+  }
+}

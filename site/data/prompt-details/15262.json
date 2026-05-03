@@ -1,0 +1,54 @@
+{
+  "id": "15262",
+  "prompt": "{\"type\":\"fashion merch campaign collage\",\"brand\":\"{argument name=\\\"brand name\\\" default=\\\"curated.supply\\\"}\",\"style\":\"gritty editorial streetwear lookbook, flash photography, candid nightlife snapshots, muted film tones, slightly grainy, realistic apparel mockup photography\",\"layout\":{\"grid\":{\"columns\":4,\"rows\":2,\"count\":8},\"sections\":[{\"position\":\"top-left\",\"count\":1,\"subject\":\"rear three-quarter view of a person in a light beige or off-white T-shirt and black cap\",\"garment_graphic\":\"small starburst symbol centered high on the back, with 3 lines of text below reading 'Discover well-designed, carefully curated products.' and brand name near the lower back\"},{\"position\":\"top-center-left\",\"count\":1,\"subject\":\"front view of a person in a black T-shirt holding a silver aluminum hard case on their head with both hands\",\"garment_graphic\":\"small brand wordmark centered on chest reading '{argument name=\\\"chest logo text\\\" default=\\\"curated.supply\\\"}'\"},{\"position\":\"top-center-right\",\"count\":1,\"subject\":\"cropped torso shot of a person in a white T-shirt with a black shoulder strap, carrying a large orange-red book or magazine\",\"prop_text\":\"{argument name=\\\"book cover text\\\" default=\\\"dieter rams\\\"}\",\"garment_graphic\":\"small chest wordmark reading brand name\"},{\"position\":\"top-right\",\"count\":1,\"subject\":\"back view of a person in a dark charcoal or black hoodie standing at a wall or door intercom at night\",\"garment_graphic\":\"large rectangular back print with 4 illustrated objects: a kettle, a camera or stereo-like device, a bottle or glass vessel, and small text including brand name and the phrase 'Discover well-designed, carefully curated products.'\"},{\"position\":\"bottom-left\",\"count\":1,\"subject\":\"black canvas tote bag carried by hand, filled with items including a silver bottle or thermos and an orange-red printed book\",\"bag_graphic\":\"brand name in white, tagline 'Discover well-designed, carefully curated products.' and a starburst symbol near the bottom\"},{\"position\":\"bottom-center-left\",\"count\":1,\"subject\":\"cropped torso of a person in a white T-shirt pouring from a matte black gooseneck kettle into a small round glass on a table\",\"garment_graphic\":\"small chest text reading '{argument name=\\\"alternate chest text\\\" default=\\\"curated.\\\"}'\"},{\"position\":\"bottom-center-right\",\"count\":1,\"subject\":\"back view of a person in a white T-shirt in front of shelves or books\",\"garment_graphic\":\"large back collage print with exactly 6 design elements: 1 black kettle silhouette, 1 retro camera or speaker graphic, 1 vertical metallic lighter-like object, 1 red-orange book cover with the text 'dieter rams', 1 textured dark vase or vessel, and 1 silver ribbed suitcase; beneath them are 2 lines of small text reading 'Discover well-designed, carefully curated products.' and brand name near the bottom hem\"},{\"position\":\"bottom-right\",\"count\":1,\"subject\":\"seated person in a black T-shirt drinking from a clear glass, face partially obscured\",\"garment_graphic\":\"small centered chest print with starburst symbol above the brand wordmark\"}]},\"environment\":\"dim industrial interior and nighttime urban setting, concrete walls, dark doorway, metal stairs, shelves and books, casual lifestyle setting\",\"wardrobe\":[\"white T-shirt\",\"black T-shirt\",\"black hoodie\",\"black canvas tote bag\",\"black cap\"],\"props\":[\"silver aluminum hard case\",\"orange-red Dieter Rams book\",\"matte black gooseneck kettle\",\"small round glass cup\",\"silver bottle or thermos\"],\"composition\":\"clean 8-panel campaign board with thin black dividers, each image framed like a candid editorial product shot, focus on premium minimalist merchandise and printed graphics\"}",
+  "translatedPrompt": "{\"type\":\"时尚周边营销活动拼贴画\",\"brand\":\"{argument name=\\\"brand name\\\" default=\\\"curated.supply\\\"}\",\"style\":\"粗粝的编辑风格街头服饰 Lookbook，闪光灯摄影，随性的夜生活抓拍，柔和的胶片色调，轻微颗粒感，写实的服饰样机摄影\",\"layout\":{\"grid\":{\"columns\":4,\"rows\":2,\"count\":8},\"sections\":[{\"position\":\"top-left\",\"count\":1,\"subject\":\"身穿米白色或灰白色 T 恤和黑色鸭舌帽的人的后侧方视角\",\"garment_graphic\":\"背部上方中心有一个小型星爆符号，下方有 3 行文字，内容为 'Discover well-designed, carefully curated products.'，下背部附近印有品牌名称\"},{\"position\":\"top-center-left\",\"count\":1,\"subject\":\"身穿黑色 T 恤的人的正面视角，双手将一个银色铝制硬壳箱举在头顶\",\"garment_graphic\":\"胸前中心印有小型品牌字标，内容为 '{argument name=\\\"chest logo text\\\" default=\\\"curated.supply\\\"}'\"},{\"position\":\"top-center-right\",\"count\":1,\"subject\":\"身穿白色 T 恤、背着黑色肩带的人的躯干特写，手里拿着一本橙红色的大书或杂志\",\"prop_text\":\"{argument name=\\\"book cover text\\\" default=\\\"dieter rams\\\"}\",\"garment_graphic\":\"胸前印有小型品牌字标\"},{\"position\":\"top-right\",\"count\":1,\"subject\":\"身穿深炭灰色或黑色连帽衫的人的背影，夜晚站在墙边或门禁对讲机旁\",\"garment_graphic\":\"背部印有大型矩形图案，包含 4 个插图对象：一个水壶、一个相机或类似音响的设备、一个瓶子或玻璃容器，以及包括品牌名称和 'Discover well-designed, carefully curated products.' 短语在内的小字\"},{\"position\":\"bottom-left\",\"count\":1,\"subject\":\"手提黑色帆布托特包，包内装有银色瓶子或保温杯以及一本橙红色印刷书籍\",\"bag_graphic\":\"白色品牌名称，标语 'Discover well-designed, carefully curated products.' 以及底部附近的星爆符号\"},{\"position\":\"bottom-center-left\",\"count\":1,\"subject\":\"身穿白色 T 恤的人的躯干特写，正从哑光黑色鹅颈壶中向桌上的小圆玻璃杯倒水\",\"garment_graphic\":\"胸前印有小型文字，内容为 '{argument name=\\\"alternate chest text\\\" default=\\\"curated.\\\"}'\"},{\"position\":\"bottom-center-right\",\"count\":1,\"subject\":\"身穿白色 T 恤的人在书架或书籍前的背影\",\"garment_graphic\":\"背部印有大型拼贴图案，包含 6 个设计元素：1 个黑色水壶剪影、1 个复古相机或音箱图形、1 个垂直金属打火机状物体、1 本印有 'dieter rams' 字样的橙红色书封、1 个有质感的深色花瓶或容器，以及 1 个银色罗纹行李箱；下方有 2 行小字，内容为 'Discover well-designed, carefully curated products.'，下摆附近印有品牌名称\"},{\"position\":\"bottom-right\",\"count\":1,\"subject\":\"身穿黑色 T 恤的人坐着喝玻璃杯里的水，面部部分遮挡\",\"garment_graphic\":\"胸前中心印有小型图案，星爆符号位于品牌字标上方\"}]},\"environment\":\"昏暗的工业室内和夜间城市背景，混凝土墙面，深色门廊，金属楼梯，书架和书籍，休闲生活方式场景\",\"wardrobe\":[\"白色 T 恤\",\"黑色 T 恤\",\"黑色连帽衫\",\"黑色帆布托特包\",\"黑色鸭舌帽\"],\"props\":[\"银色铝制硬壳箱\",\"橙红色 Dieter Rams 书籍\",\"哑光黑色鹅颈壶\",\"小圆玻璃杯\",\"银色瓶子或保温杯\"],\"composition\":\"整洁的 8 面板营销项目，带有细黑色分隔线，每张图片都像随性的编辑风格产品照，聚焦于优质的极简主义周边商品和印刷图形\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "街头服饰周边 Lookbook 网格：一个充满质感的 8 面板编辑风格拼贴画，展示了极简主义品牌服饰和配饰，非常适合用于重现时尚周边营销活动或产品发布视觉效果。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [
+        "centered",
+        "grid",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "editorial",
+        "minimalist",
+        "retro",
+        "premium"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, grid, vertical]。\n\nVisual style:\n[参考风格: realistic, editorial, minimalist, retro, premium]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15264",
+      "14177",
+      "14889",
+      "15639",
+      "14933",
+      "15688"
+    ]
+  }
+}

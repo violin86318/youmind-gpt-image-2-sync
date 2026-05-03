@@ -1,0 +1,39 @@
+{
+  "id": "13825",
+  "prompt": "Using REFERENCE_0, transform the image's aesthetic to a highly detailed, ornate fantasy style. Change the entire color palette from warm reds and blacks to {argument name=\"color palette\" default=\"pastel pink, white, and silver\"}. Convert the character's dark clothing into a lavish white garment featuring {argument name=\"clothing details\" default=\"pink floral embroidery and heavy silver filigree\"}. Replace her hair accessories with elaborate pink roses, white pearls, and silver ornaments. In the background, transform the 3 prominent hanging lanterns into {argument name=\"lantern style\" default=\"white and pink ornate lanterns with tassels\"}. Cover the surrounding street and buildings with {argument name=\"environment details\" default=\"white and pink blossoms and intricate silver architectural elements\"}. Adjust the lighting to a {argument name=\"lighting\" default=\"bright, soft, ethereal daylight\"}. Preserve the character's original pose, facial expression, and the overall structural composition of the scene.",
+  "translatedPrompt": "使用 REFERENCE_0，将图像的美学风格转换为高度细腻的华丽奇幻风格。将整体色调从暖红色和黑色更改为 {argument name=\"color palette\" default=\"柔粉色、白色和银色\"}。将角色的深色服装转换为带有 {argument name=\"clothing details\" default=\"粉色花卉刺绣和厚重银色金银丝细工\"} 的奢华白色服饰。将其发饰替换为精致的粉色玫瑰、白色珍珠和银色装饰品。在背景中，将 3 个显眼的悬挂灯笼转换为 {argument name=\"lantern style\" default=\"带有流苏的白色和粉色华丽灯笼\"}。用 {argument name=\"environment details\" default=\"白色和粉色花朵以及复杂的银色建筑元素\"} 覆盖周围的街道和建筑物。将光照调整为 {argument name=\"lighting\" default=\"明亮、柔和、空灵的日光\"}。保留角色原本的姿势、面部表情以及场景的整体结构构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "柔粉与银色华丽风格迁移：将参考图像转换为具有柔粉色、白色和银色调的、高度细腻且空灵的奇幻美学风格。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14034",
+      "15816",
+      "13933",
+      "14124",
+      "14587",
+      "14927"
+    ]
+  }
+}

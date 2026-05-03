@@ -1,0 +1,39 @@
+{
+  "id": "13829",
+  "prompt": "Using the provided reference image, transform the scene by applying an intensely glowing, {argument name=\"lighting color\" default=\"golden and orange\"} lighting effect. Add dynamic, swirling {argument name=\"magical element\" default=\"luminous ribbons and energy trails\"} wrapping around the character and flowing through the foreground and background. Make the character's hair blow dynamically in the wind and fill the air with sparkling light particles. Preserve the original character design, pose, and lantern street setting, but elevate the overall look to a {argument name=\"aesthetic style\" default=\"radiant, magical anime\"} aesthetic.",
+  "translatedPrompt": "使用提供的参考图像，通过应用强烈的 {argument name=\"lighting color\" default=\"金色和橙色\"} 灯光效果来转换场景。添加动态的、旋转的 {argument name=\"magical element\" default=\"发光丝带和能量轨迹\"}，使其环绕在角色周围，并穿梭于前景和背景之中。让角色的头发在风中动态飘动，并用闪烁的光粒子填满空气。在保留原始角色设计、姿势和灯笼街道背景的同时，将整体视觉效果提升至 {argument name=\"aesthetic style\" default=\"光芒四射的魔法动漫\"} 美学风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "梦幻发光丝带风格转换：将普通的动漫插画转换为充满动感、光芒四射的魔法场景，并加入旋转的能量丝带和强烈的灯光效果。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13595",
+      "13616",
+      "13618",
+      "13635",
+      "13654",
+      "13672"
+    ]
+  }
+}

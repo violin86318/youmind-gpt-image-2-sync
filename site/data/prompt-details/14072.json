@@ -1,0 +1,38 @@
+{
+  "id": "14072",
+  "prompt": "{\n  \"type\": \"battle royale lobby UI\",\n  \"characters\": [\n    {\n      \"name\": \"{argument name=\\\"left character name\\\" default=\\\"SamAltman\\\"}\",\n      \"outfit\": \"tactical green shirt, khaki pants\",\n      \"pose\": \"dancing with crossed arms on blue platform\",\n      \"ui\": \"Level 87, OpenAI icon, Not Ready\"\n    },\n    {\n      \"name\": \"{argument name=\\\"center character name\\\" default=\\\"DarioAmodei\\\"}\",\n      \"outfit\": \"brown jacket with AI text, glasses, jeans\",\n      \"pose\": \"dancing with crossed arms on blue platform\",\n      \"ui\": \"Level 92, AI shield icon, Not Ready\"\n    },\n    {\n      \"name\": \"{argument name=\\\"right character name\\\" default=\\\"ElonMusk\\\"}\",\n      \"outfit\": \"red and black futuristic armor\",\n      \"pose\": \"dancing with crossed arms on blue platform\",\n      \"ui\": \"Level 114, X icon, Not Ready\"\n    }\n  ],\n  \"background\": \"stylized landscape, flying battle bus, purple llama piñata\",\n  \"ui\": {\n    \"top_nav\": [\"PLAY\", \"LOCKER\", \"SHOP\", \"BATTLE PASS\", \"QUESTS\", \"COMPETE\", \"CAREER\"],\n    \"left_panel\": {\n      \"title\": \"{argument name=\\\"season text\\\" default=\\\"CHAPTER 5 SEASON 2\\\"}\",\n      \"stats\": \"LVL 127, BATTLE PASS TIER 100\",\n      \"daily_quests\": 3\n    },\n    \"bottom_right\": {\n      \"mode\": \"{argument name=\\\"game mode\\\" default=\\\"ZERO BUILD\\\"}\",\n      \"status\": \"RANKED: OFF, TRIO - NO FILL\",\n      \"button\": \"READY!\"\n    },\n    \"bottom_bar\": {\n      \"party_channels\": 3,\n      \"prompts\": [\"HOLD TO CHAT\", \"EMOTE\", \"SQUAD FORMATION\"]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"大逃杀游戏大厅 UI\",\n  \"characters\": [\n    {\n      \"name\": \"{argument name=\\\"left character name\\\" default=\\\"SamAltman\\\"}\",\n      \"outfit\": \"绿色战术衬衫，卡其色长裤\",\n      \"pose\": \"在蓝色平台上交叉双臂跳舞\",\n      \"ui\": \"等级 87，OpenAI 图标，未准备\"\n    },\n    {\n      \"name\": \"{argument name=\\\"center character name\\\" default=\\\"DarioAmodei\\\"}\",\n      \"outfit\": \"印有 AI 字样的棕色夹克，眼镜，牛仔裤\",\n      \"pose\": \"在蓝色平台上交叉双臂跳舞\",\n      \"ui\": \"等级 92，AI 盾牌图标，未准备\"\n    },\n    {\n      \"name\": \"{argument name=\\\"right character name\\\" default=\\\"ElonMusk\\\"}\",\n      \"outfit\": \"红黑配色未来感盔甲\",\n      \"pose\": \"在蓝色平台上交叉双臂跳舞\",\n      \"ui\": \"等级 114，X 图标，未准备\"\n    }\n  ],\n  \"background\": \"风格化景观，飞行战斗巴士，紫色羊驼皮纳塔\",\n  \"ui\": {\n    \"top_nav\": [\"开始游戏\", \"储物柜\", \"商店\", \"战斗通行证\", \"任务\", \"竞技\", \"生涯\"],\n    \"left_panel\": {\n      \"title\": \"{argument name=\\\"season text\\\" default=\\\"第 5 章第 2 赛季\\\"}\",\n      \"stats\": \"等级 127，战斗通行证 100 级\",\n      \"daily_quests\": 3\n    },\n    \"bottom_right\": {\n      \"mode\": \"{argument name=\\\"game mode\\\" default=\\\"零建筑模式\\\"}\",\n      \"status\": \"排位赛：关闭，三人组 - 不补位\",\n      \"button\": \"准备就绪！\"\n    },\n    \"bottom_bar\": {\n      \"party_channels\": 3,\n      \"prompts\": [\"按住以聊天\", \"表情动作\", \"小队组建\"]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "科技界 CEO 大逃杀游戏大厅：生成一个风格化的游戏大厅 UI，展示三位身着战术装备、正在同步跳舞的可定制科技界人物。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13467",
+      "13596",
+      "13927",
+      "13953",
+      "14217",
+      "14728"
+    ]
+  }
+}

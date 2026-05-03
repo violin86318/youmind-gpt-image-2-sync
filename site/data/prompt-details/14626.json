@@ -1,0 +1,47 @@
+{
+  "id": "14626",
+  "prompt": "A minimalist, elegant vintage book cover design on warm ivory textured paper for {argument name=\"book title\" default=\"La Ciudad de Dios\"}. Center the title near the top in large classical serif typography, dark navy blue, with refined spacing and a literary feel. Directly below it, place 1 small eight-point star in gold. In the upper middle, illustrate a heavenly walled city floating on clouds, drawn as delicate gold line art: a symmetrical sacred city with 1 central domed cathedral, many clustered towers, spires, walls, and gates, surrounded by soft clouds, with radiant sunburst lines spreading outward behind it. From the central gate of the celestial city, send down 1 vertical column of thin golden light beams toward the lower half of the cover. In the bottom third, depict an earthly ancient Roman landscape in fine blue-gray ink line art: 5 main architectural ruins and monuments arranged horizontally, including a long arcade on the left, a classical temple with columns near left-center, a domed building in the middle, a bell tower and surrounding ruins near right-center, and a colosseum-like ruin on the far right, plus a broken fallen column drum in the right foreground and sparse shrubs and ground texture. Keep the composition airy, symmetrical, and contemplative, with abundant negative space between heaven and earth. Place the author name {argument name=\"author name\" default=\"SAN AGUSTÍN DE HIPONA\"} centered at the bottom in spaced small caps serif, dark navy blue. Use only 3 visible text elements total: the title, the author name, and no subtitle. Palette limited to ivory, gold, and dark navy blue, with precise engraved linework and a sacred, timeless, classical theological mood.",
+  "translatedPrompt": "一款极简、优雅的复古书籍封面设计，采用暖象牙色纹理纸张，适用于 {argument name=\"book title\" default=\"La Ciudad de Dios\"}。将书名置于顶部中央，使用大型古典衬线字体，深海军蓝色，字间距考究，富有文学气息。在书名正下方放置 1 枚八角星，金色。在中上部，绘制一座漂浮在云端的圣洁城池，采用精致的金色线条艺术：一座对称的神圣之城，包含 1 座中央圆顶大教堂、多座簇拥的塔楼、尖顶、城墙和城门，四周环绕着柔和的云朵，背后散发出向外扩散的放射状太阳光芒。从天国的中央城门处，向下投射 1 道垂直的细长金光柱，直达封面下半部分。在底部三分之一处，用细腻的蓝灰色墨水线条描绘一幅古罗马大地景观：水平排列 5 处主要建筑遗迹和纪念碑，包括左侧的长拱廊、左中部的古典立柱神庙、中间的圆顶建筑、右中部的钟楼及周边遗迹，以及最右侧类似斗兽场的废墟，外加右侧前景中一根断裂的柱鼓和零星的灌木与地面纹理。保持构图空灵、对称且引人深思，在天与地之间留出充足的负空间。将作者名 {argument name=\"author name\" default=\"SAN AGUSTÍN DE HIPONA\"} 居中置于底部，使用间距适中的小型大写衬线字体，深海军蓝色。全图仅包含 3 处可见文本元素：书名、作者名，无副标题。配色仅限象牙白、金色和深海军蓝，呈现出精准的雕版线条感以及神圣、永恒、古典的神学氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "《上帝之城》古典风格封面：此提示词可生成一款精致的文学书籍封面，上方为罗马遗迹之上的天国金色线条艺术，非常适合经典神学、哲学或历史类著作。",
+      "subject": "空间",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "minimalist",
+        "vintage"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, vertical, horizontal]。\n\nVisual style:\n[参考风格: minimalist, vintage]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14625",
+      "14975",
+      "15320",
+      "15609",
+      "15411",
+      "15061"
+    ]
+  }
+}

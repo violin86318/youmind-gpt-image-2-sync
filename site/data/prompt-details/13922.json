@@ -1,0 +1,45 @@
+{
+  "id": "13922",
+  "prompt": "{\n  \"type\": \"technical reference sheet\",\n  \"subject\": {\n    \"design\": \"{argument name=\\\"aircraft type\\\" default=\\\"futuristic VTOL transport aircraft\\\"}\",\n    \"features\": \"4 ducted fans integrated into a blended wing body\",\n    \"colors\": [\"{argument name=\\\"primary color\\\" default=\\\"white\\\"}\", \"{argument name=\\\"secondary color\\\" default=\\\"black\\\"}\"]\n  },\n  \"style\": \"sci-fi concept art, schematic layout, detailed annotations\",\n  \"layout\": {\n    \"background\": \"{argument name=\\\"background color\\\" default=\\\"dark grey\\\"}\",\n    \"header\": {\n      \"title\": \"{argument name=\\\"main title\\\" default=\\\"4基ダクテッドファンVTOL輸送機 ファン配置図\\\"}\",\n      \"subtitle\": \"ステージキューブ 第55中隊 輸送機 (想定)\"\n    },\n    \"columns\": [\n      {\n        \"position\": \"left\",\n        \"sections\": [\n          {\n            \"title\": \"■ 三面図\",\n            \"description\": \"Orthographic projections\",\n            \"view_count\": 3,\n            \"view_labels\": [\"側面\", \"上面\", \"正面\"],\n            \"annotations\": \"Blue lines pointing to cockpit, cabin, and fans\"\n          },\n          {\n            \"title\": \"■ ファン配置のポイント\",\n            \"description\": \"Text box with bullet points\",\n            \"bullet_count\": 4\n          },\n          {\n            \"title\": \"■ 想定スペック\",\n            \"description\": \"Text box with specifications\",\n            \"line_count\": 6\n          }\n        ]\n      },\n      {\n        \"position\": \"right\",\n        \"sections\": [\n          {\n            \"title\": \"■ 上面詳細（ファン配置・気流）\",\n            \"description\": \"Large top-down view\",\n            \"visual_elements\": {\n              \"blue_arrows\": 4,\n              \"orange_arrows\": 2,\n              \"center_of_gravity_marker\": 1\n            },\n            \"legend\": {\n              \"item_count\": 3,\n              \"description\": \"Explains arrow colors and markers\"\n            }\n          },\n          {\n            \"title\": \"■ 斜め後方からのイメージ\",\n            \"description\": \"3/4 rear perspective view of the aircraft\"\n          }\n        ]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"技术参考表\",\n  \"subject\": {\n    \"design\": \"{argument name=\\\"aircraft type\\\" default=\\\"未来派 VTOL 运输机\\\"}\",\n    \"features\": \"集成在翼身融合体中的 4 个涵道风扇\",\n    \"colors\": [\"{argument name=\\\"primary color\\\" default=\\\"白色\\\"}\", \"{argument name=\\\"secondary color\\\" default=\\\"黑色\\\"}\"]\n  },\n  \"style\": \"科幻概念艺术，示意图布局，详细注释\",\n  \"layout\": {\n    \"background\": \"{argument name=\\\"background color\\\" default=\\\"深灰色\\\"}\",\n    \"header\": {\n      \"title\": \"{argument name=\\\"main title\\\" default=\\\"4 涵道风扇 VTOL 运输机布局图\\\"}\",\n      \"subtitle\": \"Stage Cube 第 55 中队运输机（假设）\"\n    },\n    \"columns\": [\n      {\n        \"position\": \"left\",\n        \"sections\": [\n          {\n            \"title\": \"■ 三视图\",\n            \"description\": \"正投影\",\n            \"view_count\": 3,\n            \"view_labels\": [\"侧面\", \"上面\", \"正面\"],\n            \"annotations\": \"指向驾驶舱、机舱和风扇的蓝色线条\"\n          },\n          {\n            \"title\": \"■ 风扇配置要点\",\n            \"description\": \"带有项目符号的文本框\",\n            \"bullet_count\": 4\n          },\n          {\n            \"title\": \"■ 假设规格\",\n            \"description\": \"带有规格说明的文本框\",\n            \"line_count\": 6\n          }\n        ]\n      },\n      {\n        \"position\": \"right\",\n        \"sections\": [\n          {\n            \"title\": \"■ 顶部细节（风扇配置与气流）\",\n            \"description\": \"大型俯视图\",\n            \"visual_elements\": {\n              \"blue_arrows\": 4,\n              \"orange_arrows\": 2,\n              \"center_of_gravity_marker\": 1\n            },\n            \"legend\": {\n              \"item_count\": 3,\n              \"description\": \"解释箭头颜色和标记\"\n            }\n          },\n          {\n            \"title\": \"■ 后方斜向视角图\",\n            \"description\": \"飞行器 3/4 后方透视图\"\n          }\n        ]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "科幻 VTOL 飞行器技术规格表：为科幻飞行器生成一份高度详细的多面板技术参考表，包含正投影视图、注释和规格说明。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "top-down",
+        "annotations"
+      ],
+      "style": [
+        "sci-fi"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: top-down, annotations]。\n\nVisual style:\n[参考风格: sci-fi]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13694",
+      "13838",
+      "13656",
+      "13688",
+      "15662",
+      "15683"
+    ]
+  }
+}

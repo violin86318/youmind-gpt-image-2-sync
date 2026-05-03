@@ -1,0 +1,44 @@
+{
+  "id": "15511",
+  "prompt": "In a vertical reverie elongated into a 9:16 frame, a vision of sublime aesthetic grace unfolds where light and shadow softly embrace the sleek contours of a magnificent {argument name=\"instrument\" default=\"Steinway & Sons black grand piano\"}. Seated at the keys, a woman of mesmerizing elegance commands the scene, her lithe and delicate figure draped in the beautiful contrast of a {argument name=\"top\" default=\"bright Chocolatey sleeveless tank top\"} and a {argument name=\"skirt\" default=\"tailored Pink tight short latex skirt\"}. Her flawless profile reveals striking, high-arched cheekbones and her face watching in camera with an expression of serene focus, radiating the dewy freshness of her twenties and the transcendent allure of high fashion. A large, vibrant red rose is tucked into her cascading, waist-length dark blonde short hair, a vivid burst of color that softly mirrors her luminous, fair complexion and the gentle warmth of the surrounding light. Her hands, poised with natural grace, rest upon the contrasting ivory and ebony keys, suspended in a moment of quiet musical devotion. Behind this portrait of harmonious beauty, soft, dusky pink curtains fall in textured, rhythmic folds, while a lush, verdant floral arrangement blooms quietly in the lower corner, completing a seamless tapestry of visual poetry that elevates the visible world to a state of ethereal perfection.",
+  "translatedPrompt": "在 9:16 的纵向画幅中，展现出一幅极致优雅的画面：光影轻柔地包裹着那架宏伟的 {argument name=\"instrument\" default=\"Steinway & Sons 黑色三角钢琴\"}，勾勒出其流畅的轮廓。一位魅力十足的女性端坐在琴键前，她身姿轻盈曼妙，身着对比鲜明的 {argument name=\"top\" default=\"亮巧克力色无袖背心\"} 和 {argument name=\"skirt\" default=\"定制粉色紧身短款乳胶裙\"}。她完美的侧脸轮廓分明，高耸的颧骨格外引人注目；她正视镜头，神情专注而宁静，散发着二十岁特有的水润清新感与高级时装的超凡魅力。她那垂至腰间的深金色短发中别着一朵硕大鲜艳的红玫瑰，那一抹亮色与她明亮白皙的肤色以及周围柔和的暖光交相辉映。她的双手以自然的姿态轻放在黑白琴键上，仿佛沉浸在静谧的音乐世界中。在这幅和谐唯美的肖像背景中，柔和的暗粉色窗帘呈现出富有质感的褶皱，角落里一簇郁郁葱葱的鲜花静静绽放，共同编织出一幅视觉诗篇，将现实世界升华为一种空灵的完美境界。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "空灵的钢琴演奏：一个优雅的提示词，用于创作一张女性演奏 Steinway 三角钢琴的高级时装肖像，强调光影与质感。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14822",
+      "13818",
+      "14628",
+      "14630",
+      "14679",
+      "14910"
+    ]
+  }
+}

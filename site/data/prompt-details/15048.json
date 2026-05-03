@@ -1,0 +1,47 @@
+{
+  "id": "15048",
+  "prompt": "An ultra-wide 360-degree equirectangular panoramic view of a futuristic contemporary art gallery exhibition about artificial intelligence, designed for immersive VR viewing. The scene is inside a vast dark-ceilinged museum hall with exposed rigging, many small spotlights, polished reflective concrete floors, and curved white exhibition walls wrapping continuously across the panorama. The environment is filled with {argument name=\"visitor count\" default=\"about 25\"} adult visitors in smart casual and business attire, standing in small conversational groups and scattered around the room, with subtle face blur or indistinct facial detail. At the exact center of the panorama is a circular installation platform containing a tall translucent holographic human figure made of white glowing particles and vertical strands of light, suspended beneath a large circular ceiling ring. On the left side, show a white robotic arm sculpture on a round pedestal in front of a giant wall artwork depicting a luminous side-profile human head composed of particles and constellation-like dots. Across the walls, include 6 visible AI-themed artworks total: 1 giant particle head mural, 3 framed cosmic nebula or galaxy images, 1 large monochrome abstract painting, and 1 tall colorful starfield-like digital piece in the far right background. On the right foreground, place a large transparent cube installation containing a swirling spiral galaxy projection in blue, violet, and white. Also include 2 small white service robots near the center-right area of the floor. Lighting is cinematic and cool-toned, with blue, purple, and white glows from the installations contrasting against the dark ceiling and neutral gallery architecture. The mood is sleek, high-end, intellectual, and techno-cultural, like an AI biennale or premium digital art fair. Render photorealistically with crisp architectural detail, realistic reflections, natural human scale, and full seamless 360 panorama distortion appropriate for an equirectangular image.",
+  "translatedPrompt": "一张超宽 360 度等距柱状全景图，展示了关于人工智能的未来主义当代艺术画廊展览，专为沉浸式 VR 观看而设计。场景位于一个巨大的深色天花板博物馆大厅内，配有外露的索具、许多小型聚光灯、抛光的反光混凝土地板，以及在全景中连续环绕的弧形白色展览墙。环境中充满了 {argument name=\"visitor count\" default=\"约 25 位\"} 身着商务休闲装的成年访客，他们三五成群地站在房间各处，面部细节模糊或不清晰。全景图的正中央是一个圆形装置平台，上面有一个由白色发光粒子和垂直光束组成的高大半透明全息人形，悬挂在一个巨大的圆形天花板环下方。在左侧，展示一个位于圆形底座上的白色机械臂雕塑，背景是一幅巨大的墙面艺术品，描绘了一个由粒子和星座般的点组成的侧面人头。在墙面上，总共包含 6 幅可见的 AI 主题艺术品：1 幅巨大的粒子人头壁画、3 幅装裱的宇宙星云或星系图像、1 幅大型单色抽象画，以及远景右侧 1 幅高大的彩色星空感数字作品。在右侧前景中，放置一个大型透明立方体装置，内部包含蓝色、紫色和白色的螺旋星系投影。此外，在地面中右侧区域放置 2 个小型白色服务机器人。灯光具有电影质感且色调偏冷，装置发出的蓝色、紫色和白色光芒与深色天花板及中性的画廊建筑形成对比。氛围时尚、高端、知性且具有科技文化感，如同 AI 双年展或高端数字艺术博览会。以照片级真实感渲染，具有清晰的建筑细节、逼真的反射、自然的比例，以及适用于等距柱状投影图像的完整无缝 360 度全景畸变。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "360 度 AI 艺术画廊全景图：一张具有照片级真实感的 360 度沉浸式博物馆全景图，展示了以 AI 为主题的未来主义展览，非常适合 VR 场景、虚拟导览或概念可视化。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15045",
+      "14574",
+      "14598",
+      "14869",
+      "14588",
+      "14713"
+    ]
+  }
+}

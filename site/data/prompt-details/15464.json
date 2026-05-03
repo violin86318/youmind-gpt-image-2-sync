@@ -1,0 +1,55 @@
+{
+  "id": "15464",
+  "prompt": "{\"type\":\"cinematic Japanese promotional poster\",\"brand\":{\"name\":\"{argument name=\\\"company name\\\" default=\\\"Arks\\\"}\",\"industry\":\"video production company\",\"website\":\"{argument name=\\\"website\\\" default=\\\"arks-vp.com\\\"}\",\"tagline_english\":[\"CREATE.\",\"CONNECT.\",\"LEAVE A MARK.\"],\"small_header\":\"VIDEO PRODUCTION COMPANY\"},\"style\":{\"overall\":\"premium, high-contrast, cinematic, realistic advertising poster with polished typography integration\",\"color_palette\":[\"deep black\",\"cool blue\",\"white\",\"vivid red accent\"],\"lighting\":\"moody backlight, soft glow, bokeh, screen light reflections, dramatic contrast\",\"texture\":\"photo-real background with layered translucent digital UI panels and brushstroke graphic accents\"},\"canvas\":{\"orientation\":\"vertical poster\",\"aspect_ratio\":\"2:3\"},\"layout\":{\"sections\":[{\"title\":\"top-left brand block\",\"position\":\"upper left\",\"count\":4,\"labels\":[\"small red horizontal bar\",\"VIDEO PRODUCTION COMPANY\",\"Arks\",\"映像は、未来をつくる。\"]},{\"title\":\"main headline area\",\"position\":\"center-left to center\",\"count\":2,\"labels\":[\"映像で\",\"人を動かせ。\"]},{\"title\":\"service panels\",\"position\":\"bottom middle\",\"count\":4,\"labels\":[\"01 SNS運用\",\"02 ショートドラマ\",\"03 MV制作\",\"04 AI映像\"]},{\"title\":\"bottom brand block\",\"position\":\"lower right\",\"count\":4,\"labels\":[\"Arks\",\"CREATE.\",\"CONNECT.\",\"LEAVE A MARK.\"]},{\"title\":\"footer text\",\"position\":\"lower left\",\"count\":3,\"labels\":[\"企画・撮影・編集・運用まで、ワンストップで支援。\",\"映像の力で、あなたの想いをカタチにする。\",\"arks-vp.com\"]}],\"composition\":\"large hero portrait filling the upper half, oversized Japanese calligraphy headline across the center, four vertical service cards aligned across the lower half, brand logo repeated in upper left and lower right\"},\"hero_image\":{\"subject\":\"close-up of a young person with dark hair partially covering the face, face mostly obscured in shadow\",\"framing\":\"extreme close portrait from shoulders up\",\"emotion\":\"mysterious, intense, aspirational\",\"lighting\":\"rim light from behind with cool blue highlights and warm edge flare\",\"background\":\"dark urban cinematic blur with floating social media and video interface elements\"},\"digital_elements\":{\"count\":8,\"items\":[\"floating smartphone-style video feed with heart count 2.3K\",\"vertical short-video interface panel with engagement icons and 12.5K count\",\"small floating photo card\",\"Instagram-style icon\",\"chat/message app icon\",\"TikTok-style icon\",\"YouTube-style play icon\",\"analytics dashboard screen on right edge\"]},\"headline\":{\"text\":\"{argument name=\\\"main headline\\\" default=\\\"映像で人を動かせ。\\\"}\",\"language\":\"Japanese\",\"style\":\"very large bold white brush-calligraphy style Mincho lettering with rough textured edges\",\"accent\":\"wide red paint brushstroke behind the lower line\"},\"services\":[{\"number\":\"01\",\"title\":\"SNS運用\",\"description\":\"戦略設計から運用まで、成果にこだわるSNS。\",\"image\":\"hand holding a smartphone showing analytics charts and dashboard\"},{\"number\":\"02\",\"title\":\"ショートドラマ\",\"description\":\"共感を生むストーリーで、心を動かす。\",\"image\":\"two young people standing side by side in a cinematic city setting at dusk\"},{\"number\":\"03\",\"title\":\"MV制作\",\"description\":\"アーティストの世界観を、映像で最大化する。\",\"image\":\"guitarist performing on a smoky stage with dramatic spotlights\"},{\"number\":\"04\",\"title\":\"AI映像\",\"description\":\"最新技術で、映像の可能性を拡張する。\",\"image\":\"solitary person facing a surreal rocky seascape and a large analytics interface screen\"}],\"typography\":{\"mix\":\"bold modern sans-serif for English branding and numbers, elegant Japanese Mincho for body copy, expressive brush-calligraphy for headline\",\"alignment\":\"mostly left-aligned with strong poster-grid structure\"},\"rendering_notes\":\"Make it look like a real agency PR poster for a cutting-edge Japanese video production company. Integrate Japanese text cleanly and accurately. Preserve strong readability despite the busy cinematic collage. Use realistic photography, layered ad design, premium composition, and convincing social-media-era visual storytelling.\"}",
+  "translatedPrompt": "{\"type\":\"电影感日式宣传海报\",\"brand\":{\"name\":\"{argument name=\\\"company name\\\" default=\\\"Arks\\\"}\",\"industry\":\"视频制作公司\",\"website\":\"{argument name=\\\"website\\\" default=\\\"arks-vp.com\\\"}\",\"tagline_english\":[\"CREATE.\",\"CONNECT.\",\"LEAVE A MARK.\"],\"small_header\":\"视频制作公司\"},\"style\":{\"overall\":\"优质、高对比度、电影感、写实风格广告海报，融合精致的排版设计\",\"color_palette\":[\"深黑色\",\"冷蓝色\",\"白色\",\"鲜红色点缀\"],\"lighting\":\"情绪化背光、柔光、焦外成像、屏幕光反射、戏剧性对比\",\"texture\":\"照片级真实背景，叠加半透明数字 UI 面板和笔触图形元素\"},\"canvas\":{\"orientation\":\"竖版海报\",\"aspect_ratio\":\"2:3\"},\"layout\":{\"sections\":[{\"title\":\"左上角品牌区\",\"position\":\"左上\",\"count\":4,\"labels\":[\"小红色横条\",\"视频制作公司\",\"Arks\",\"映像は、未来をつくる。\"]},{\"title\":\"主标题区\",\"position\":\"中左至中心\",\"count\":2,\"labels\":[\"映像で\",\"人を動かせ。\"]},{\"title\":\"服务面板\",\"position\":\"底部中间\",\"count\":4,\"labels\":[\"01 SNS 运营\",\"02 短剧制作\",\"03 MV 制作\",\"04 AI 视频\"]},{\"title\":\"底部品牌区\",\"position\":\"右下\",\"count\":4,\"labels\":[\"Arks\",\"CREATE.\",\"CONNECT.\",\"LEAVE A MARK.\"]},{\"title\":\"页脚文字\",\"position\":\"左下\",\"count\":3,\"labels\":[\"从策划、拍摄、剪辑到运营，提供一站式支持。\",\"用影像的力量，将你的想法化为现实。\",\"arks-vp.com\"]}],\"composition\":\"上半部分为大型人物特写，中心为超大日式书法标题，下半部分横向排列四张垂直服务卡片，品牌 Logo 重复出现在左上角和右下角\"},\"hero_image\":{\"subject\":\"一名年轻人的特写，深色头发遮住部分面部，脸部大部分隐藏在阴影中\",\"framing\":\"从肩部以上的极端特写\",\"emotion\":\"神秘、强烈、进取\",\"lighting\":\"背部轮廓光，带有冷蓝色高光和温暖的边缘光晕\",\"background\":\"深色城市电影感模糊背景，带有浮动的社交媒体和视频界面元素\"},\"digital_elements\":{\"count\":8,\"items\":[\"浮动智能手机风格视频流，点赞数 2.3K\",\"垂直短视频界面面板，带有互动图标和 12.5K 计数\",\"小型浮动照片卡片\",\"Instagram 风格图标\",\"聊天/消息应用图标\",\"TikTok 风格图标\",\"YouTube 风格播放图标\",\"右侧边缘的分析仪表盘屏幕\"]},\"headline\":{\"text\":\"{argument name=\\\"main headline\\\" default=\\\"映像で人を動かせ。\\\"}\",\"language\":\"日语\",\"style\":\"超大号加粗白色毛笔书法风格明朝体，边缘带有粗糙纹理\",\"accent\":\"下行文字后方有宽大的红色毛笔笔触\"},\"services\":[{\"number\":\"01\",\"title\":\"SNS 运营\",\"description\":\"从策略设计到运营，专注于成果的 SNS 服务。\",\"image\":\"手持智能手机，显示分析图表和仪表盘\"},{\"number\":\"02\",\"title\":\"短剧制作\",\"description\":\"用引发共鸣的故事，触动人心。\",\"image\":\"两名年轻人在黄昏的电影感城市背景中并肩站立\"},{\"number\":\"03\",\"title\":\"MV 制作\",\"description\":\"通过影像最大化艺术家的世界观。\",\"image\":\"吉他手在烟雾缭绕的舞台上表演，配以戏剧性的聚光灯\"},{\"number\":\"04\",\"title\":\"AI 视频\",\"description\":\"利用最新技术，扩展影像的可能性。\",\"image\":\"独自一人面对超现实的岩石海景和大型分析界面屏幕\"}],\"typography\":{\"mix\":\"品牌英文和数字使用加粗现代无衬线字体，正文使用优雅的日式明朝体，标题使用表现力强的毛笔书法字体\",\"alignment\":\"主要左对齐，具有强烈的海报网格结构\"},\"rendering_notes\":\"使其看起来像是一家尖端日本视频制作公司的真实代理商宣传海报。准确且整洁地整合日语文字。尽管是繁忙的电影感拼贴画，仍需保持良好的可读性。使用写实摄影、分层广告设计、优质构图以及令人信服的社交媒体时代视觉叙事。\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影感日式代理商海报：一张为视频制作公司设计的优质日式宣传海报，适用于品牌推广、招聘或服务广告，具有电影质感的影像和简洁的文字排版。",
+      "subject": "界面",
+      "scene": "字体/Logo",
+      "composition": [
+        "close-up",
+        "grid",
+        "layered",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "premium"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "backlight"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, grid, layered, vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, cinematic, premium]。\n\nLighting and camera:\n[参考光线镜头: rim light, backlight]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14966",
+      "15451",
+      "15052",
+      "14937",
+      "14991",
+      "14539"
+    ]
+  }
+}

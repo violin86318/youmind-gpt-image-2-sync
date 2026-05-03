@@ -1,0 +1,50 @@
+{
+  "id": "13961",
+  "prompt": "A photorealistic close-up portrait of a {argument name=\"bird species\" default=\"white cockatoo\"} featuring a highly unusual, human-like {argument name=\"hairstyle\" default=\"blonde comb-over hairstyle swept to the side\"}. The bird has pristine white feathers with subtle yellow tinting around the face and neck, a dark grey beak, and a sharp, clear dark eye. The lighting is soft and natural, highlighting the fine details of the feathers and the surreal, wispy texture of the blonde hair. The background is a {argument name=\"background\" default=\"soft, out-of-focus natural environment with muted greens and greys\"}, creating a shallow depth of field that keeps the focus entirely on the bird's humorous appearance.",
+  "translatedPrompt": "一张写实风格的 {argument name=\"bird species\" default=\"白凤头鹦鹉\"} 特写肖像，它留着一种非常独特且类似人类的 {argument name=\"hairstyle\" default=\"向一侧梳理的金色侧分发型\"}。这只鸟拥有洁白的羽毛，面部和颈部带有淡淡的黄色，喙部呈深灰色，眼睛明亮且清晰。光线柔和自然，突显了羽毛的细腻质感以及金色头发那种超现实的蓬松纹理。背景是 {argument name=\"background\" default=\"柔和且失焦的自然环境，色调为柔和的绿色和灰色\"}，浅景深效果使视觉焦点完全集中在鸟儿滑稽的外观上。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "梳着侧分头的凤头鹦鹉：生成一张具有幽默感、留着人类发型的鸟类写实肖像。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14568",
+      "15463",
+      "15706",
+      "13960",
+      "13874",
+      "15762"
+    ]
+  }
+}

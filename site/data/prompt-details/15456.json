@@ -1,0 +1,51 @@
+{
+  "id": "15456",
+  "prompt": "A stylized cinematic poster for a creative coding event, designed like a Disney-Pixar-inspired animated movie one-sheet. Vertical composition, warm cozy interior at night with a large loft window on the left showing a city skyline at sunset, exposed brick walls, and a neon-lit creative studio atmosphere. At the top center, big glossy dimensional typography reads \"Disney•PIXAR\" above the main title \"The AI Web Design Sprint\" in huge bold white 3D letters. Directly underneath, smaller bright text reads \"BUILD FAST. BREAK RULES. SHARE LOUD.\" In the center foreground, 2 adult men sit side by side at a wooden table with a laptop between them, casual startup-founder vibe, one in a dark hoodie and one in a light sweatshirt and baseball cap, both facing camera in a friendly promotional pose. Their faces should be generic and unobtrusive, with the emphasis on the event-poster composition rather than portrait realism. The laptop lid has 3 visible stickers: a purple code-brackets sticker, a black sticker with a white burst symbol, and a rectangular slogan sticker reading \"BUILD FAST. BREAK RULES. SHARE LOUD.\" Around the scene, include 4 whimsical animated mascot elements: a small hovering robot drone lamp in the upper left with glowing blue eyes and a cone of warm light shining downward; a smiling cartoon sun icon in the upper right; a tiny red pixel character floating nearby; and a glowing blue cat-like digital mascot standing on the table in front of the laptop. On the right side, a vertical monitor displays a dark coding interface with readable text including \"// Welcome back, Julian!\", \"Opus 4.6\", \"Minimal Playground\", \"Agency 976\", \"Cyberpunk Cafe\", \"Surfers (late set)\", and a checklist titled \"Sprint Plan\" with 4 items: \"DISCOVER\", \"IDEATE\", \"BUILD\", \"SHIP\". On the left side, a hand-lettered paper signboard contains 4 notices pinned together: \"4 NIGHTS OF CHAOS & CODE\", \"DOORS 7PM\", \"SHOW 8PM\", and \"$10 ADV / $12 DOS\". In the lower left foreground, a white coffee mug reads \"THE SOUTH SIDE DIY 218 W. 31ST ST. CHICAGO, IL\" with a small skull icon. In the lower right foreground, a terracotta plant pot with green leaves reads \"CREATIVE COLLISION\". At the bottom center, large bold text reads \"APRIL 27–30\" and below it \"LIVE. ONLY ON THE WEB.\" Add a tiny line of faux credits along the bottom edge in classic movie-poster style, referencing names like Julian Lopez and Harvey Specter, projects such as Minimal Playground, Agency 976, Cyberpunk Cafe, and Surfers, and a playful production credit. Use dramatic warm-orange and cool-blue lighting, polished animated-film rendering, soft depth of field, glossy surfaces, rich contrast, highly detailed poster design, charming tech startup energy, and a premium event-advertisement finish.",
+  "translatedPrompt": "一张充满电影感的创意编程活动海报，采用迪士尼-皮克斯（Disney-Pixar）动画电影海报风格设计。采用竖构图，展现了一个温馨的夜晚室内场景，左侧巨大的阁楼窗户映出日落时的城市天际线，背景为裸露的砖墙，营造出霓虹灯点缀的创意工作室氛围。顶部中央，醒目的光泽感立体排版显示“Disney•PIXAR”，下方是巨大的白色 3D 粗体主标题“The AI Web Design Sprint”。正下方是较小的明亮文字：“BUILD FAST. BREAK RULES. SHARE LOUD.”。画面中央前景处，两名成年男子并排坐在木桌旁，中间放着一台笔记本电脑，呈现出休闲的初创公司创始人氛围；一人穿着深色连帽衫，另一人穿着浅色卫衣并戴着棒球帽，两人都面向镜头，姿态友好且具有宣传感。他们的面部应处理得通用且不突兀，重点在于活动海报的构图而非肖像写实感。笔记本电脑盖上有 3 个可见贴纸：一个紫色代码括号贴纸，一个带有白色爆炸符号的黑色贴纸，以及一个写有“BUILD FAST. BREAK RULES. SHARE LOUD.”的长方形标语贴纸。场景周围包含 4 个奇幻的动画吉祥物元素：左上方是一个悬浮的机器人无人机灯，带有发光的蓝色眼睛，向下投射出一束暖光；右上角是一个微笑的卡通太阳图标；附近漂浮着一个小小的红色像素角色；桌上笔记本电脑前站着一个发光的蓝色猫形数字吉祥物。右侧的竖屏显示器上呈现出深色代码界面，文字清晰可见，包括“// Welcome back, Julian!”、“Opus 4.6”、“Minimal Playground”、“Agency 976”、“Cyberpunk Cafe”、“Surfers (late set)”，以及一个标题为“Sprint Plan”的清单，包含 4 个项目：“DISCOVER”、“IDEATE”、“BUILD”、“SHIP”。左侧，一个手写纸质告示牌上钉着 4 条通知：“4 NIGHTS OF CHAOS & CODE”、“DOORS 7PM”、“SHOW 8PM”以及“$10 ADV / $12 DOS”。左下角前景处，一个白色咖啡杯上写着“THE SOUTH SIDE DIY 218 W. 31ST ST. CHICAGO, IL”并配有一个小骷髅图标。右下角前景处，一个陶土花盆里种着绿叶植物，上面写着“CREATIVE COLLISION”。底部中央，醒目的粗体文字写着“APRIL 27–30”，下方是“LIVE. ONLY ON THE WEB.”。底部边缘添加一行仿电影海报风格的微小制作人员名单，引用 Julian Lopez 和 Harvey Specter 等名字，以及 Minimal Playground、Agency 976、Cyberpunk Cafe 和 Surfers 等项目，并附带俏皮的制作职衔。运用戏剧性的暖橙色与冷蓝色灯光、精致的动画电影渲染、柔和的景深、光泽表面、丰富的对比度、高度精细的海报设计，展现出迷人的科技初创公司活力，并呈现出高端活动广告的质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "皮克斯风格 AI Web 设计冲刺活动海报：一张电影动画风格的 Web 设计冲刺活动海报，非常适合用于推广黑客马拉松、创意编程聚会或初创公司工作坊。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "3d",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "neon",
+        "depth of field",
+        "camera"
+      ],
+      "text": "要求可读；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: cinematic, 3d, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: neon, depth of field, camera]。\n\nText requirements:\n要求可读；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14469",
+      "14806",
+      "14808",
+      "14932",
+      "14588",
+      "15096"
+    ]
+  }
+}

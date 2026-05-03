@@ -1,0 +1,48 @@
+{
+  "id": "14435",
+  "prompt": "Using the provided reference photo, transform the person into a flashy Chinese livestream screenshot while keeping the same head position, crop, hairstyle, and overall identity. Replace the outdoor umbrella-and-street background with a dramatic night city skyline scene filled with fireworks, and add a large rocket launch on the right side. Change the clothing to a dark business blazer over a light blue dress shirt to make the subject look like a high-value livestream VIP guest. Overlay a polished live-stream app interface in Chinese: top left profile area with the name \"王树芝兰\", a red \"关注\" button, and the line \"12.8万本场浪费\"; top left ranking tag \"🔥小时榜第1名\"; top center a glowing neon celebratory headline in 2 lines reading \"感谢榜一大哥\" and \"的大火箭嘉年华\" with heart and sparkle decorations; top right 4 small circular viewer avatars, the count \"1.3万\", a close \"×\" icon, and the label \"更多直播\". On the left side add 2 gift notification cards: \"神秘大哥 送 大火箭 x1\" and \"可乐加冰 送 嘉年华 x1\". Below that add 5 stacked chat bubbles with exact visible usernames and messages: 1) \"榜1 神秘大哥：大火箭送给最棒的主播！\" followed by 6 party popper emojis, 2) \"小美：哇！嘉年华太震撼了！😍😍😍\", 3) \"阳光男孩：主播真棒，支持支持！👍👍👍\", 4) \"快乐星球：666666，太厉害了！\", 5) \"路人甲：大哥威武！主播加油！\". Add a bottom translucent comment bar with \"说点什么...\". Add 5 bottom action icons: smiley, colorful swirl, heart, gift box, and three dots. Add a vertical stream of 4 floating heart reactions on the lower right. Make the composite look like a convincing, high-end social app livestream screenshot with smooth Chinese typography, vivid neon colors, realistic UI integration, and festive viral spectacle.",
+  "translatedPrompt": "使用提供的参考照片，将人物转换为炫酷的中文直播间截图，同时保持头部位置、裁剪比例、发型和整体特征不变。将室外的遮阳伞和街道背景替换为充满烟花的夜间城市天际线，并在右侧添加大型火箭升空特效。将服装更换为深色商务西装外套搭配浅蓝色衬衫，使主体看起来像高价值的直播间 VIP 嘉宾。叠加一个精致的中文直播 App 界面：左上角个人资料区显示名称“王树芝兰”、红色“关注”按钮以及“12.8万本场浪费”字样；左上角显示排名标签“🔥小时榜第1名”；顶部中央显示两行霓虹灯风格的庆祝标题，内容为“感谢榜一大哥”和“的大火箭嘉年华”，并配有爱心和闪光装饰；右上角显示 4 个小型圆形观众头像、人数“1.3万”、关闭“×”图标以及“更多直播”标签。在左侧添加 2 张礼物通知卡片：“神秘大哥 送 大火箭 x1”和“可乐加冰 送 嘉年华 x1”。下方添加 5 条堆叠的聊天气泡，显示具体的用户名和消息：1) “榜1 神秘大哥：大火箭送给最棒的主播！”后跟 6 个礼花表情，2) “小美：哇！嘉年华太震撼了！😍😍😍”，3) “阳光男孩：主播真棒，支持支持！👍👍👍”，4) “快乐星球：666666，太厉害了！”，5) “路人甲：大哥威武！主播加油！”。底部添加半透明的评论栏，显示“说点什么...”。添加 5 个底部操作图标：笑脸、彩色漩涡、爱心、礼盒和三个点。在右下角添加一串 4 个垂直漂浮的爱心点赞特效。使合成图像看起来像一张逼真的高端社交 App 直播截图，具备流畅的中文排版、鲜艳的霓虹色彩、真实的 UI 集成以及节庆般的病毒式视觉效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "中文直播间火箭嘉年华效果图：此提示词可将人像参考图转换为极具视觉冲击力的中文直播间截图，包含庆祝 UI 叠加层、烟花、礼物特效以及火箭升空场景，适用于社交媒体样机或病毒式传播的演示图。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14008",
+      "14984",
+      "15795",
+      "14623",
+      "14649",
+      "14891"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "13649",
+  "prompt": "An anime manhwa style illustration of a heavily built, chubby man with a thick neck and a double chin, looking down at the viewer with an intense, arrogant expression. He has messy {argument name=\"hair color\" default=\"black\"} hair and glowing {argument name=\"eye color\" default=\"piercing blue\"} eyes. He is wearing a crisp white dress shirt under a {argument name=\"suit color\" default=\"black\"} suit jacket, and his right hand is reaching up to adjust his black tie. The lighting is dramatic with sharp shadows, set against a solid {argument name=\"background color\" default=\"vibrant blue\"} gradient background.",
+  "translatedPrompt": "动漫韩漫风格的低角度肖像，描绘了一名脖子粗壮、有双下巴、神情傲慢俯视的魁梧肌肉男。他留着凌乱的 {argument name=\"hair color\" default=\"深蓝色\"} 头发，有着 {argument name=\"eye color\" default=\"发光的浅蓝色\"} 眼睛，身穿 {argument name=\"suit color\" default=\"黑色\"} 西装配白色衬衫。一只手正在整理他的黑色领带。{argument name=\"background color\" default=\"纯色渐变蓝\"} 背景，戏剧性光影，线条清晰。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "韩漫风格老板肖像：生成一张低角度的动漫或网漫风格肖像，描绘一名身穿西装、正在整理领带的魁梧男子。",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14263",
+      "14275",
+      "13667",
+      "13676",
+      "13732",
+      "14397"
+    ]
+  }
+}

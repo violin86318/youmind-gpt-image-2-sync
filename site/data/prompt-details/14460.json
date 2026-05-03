@@ -1,0 +1,47 @@
+{
+  "id": "14460",
+  "prompt": "A vertical anime-inspired wedding key visual poster that blends live-action cosplay-style newlyweds in the foreground with illustrated anime girls surrounding them, set in front of a sunlit stone church under a brilliant deep blue sky. In the center foreground, a bride and groom pose for a dramatic selfie-like shot with their arms reaching toward the viewer. The groom is a youthful androgynous character with {argument name=\"hair color\" default=\"light brown\"} shaggy short hair, wearing a crisp white wedding suit, white shirt, and white tie, smiling and making a playful hand sign near his face. The bride has {argument name=\"hair color\" default=\"dark purple-black\"} hair in short twin tails and wears an ornate white wedding dress with layered lace, veil, pearl choker, long white gloves, and holds a bouquet of white roses. Behind them rises a beautiful European-style church with a tall steeple, floral garlands over the entrance, stained glass, and warm sunlight bursting from the left side, creating lens flare and sparkling highlights. The sky is filled with fluffy white clouds, flying white birds, a faint rainbow streak, and drifting pink flower petals. Around the edges are 6 anime schoolgirl portraits in dark school uniforms with red or yellow ribbon bows, each showing a different emotional expression: top left brown-haired girl reaching forward, upper left purple-haired girl with an eyepatch looking flustered, lower left pink-haired cheerful girl, top right brown-haired girl extending a gloved hand, mid-right dark-haired boy in school uniform, lower right brown-haired shy girl, and bottom right small blonde girl with an excited open-mouth expression. Add ornate decorative corner filigree framing the poster. Include vertical Japanese tagline text on the upper right reading {argument name=\"tagline text\" default=\"さあ、契約の時間だ— 私たちの永遠を誓おう\"}. Place a large colorful Japanese title across the bottom center reading {argument name=\"title text\" default=\"中二病でも恋がしたい！\"} in bold blue and pink outlined typography, with a small romanized subtitle beneath it reading \"Chu-2 byo demo KOI ga shitai!\" and small credits near the bottom reading {argument name=\"credit text\" default=\"富樫勇太　小鳥遊六花\"}. Overall look: dazzling, romantic, sentimental, nostalgic anime movie poster, ultra-detailed, glossy lighting, magical sparkle effects, vivid colors, polished promotional composition.",
+  "translatedPrompt": "一张垂直的动漫风格婚礼主视觉海报，将前景中真人 Cosplay 风格的新婚夫妇与环绕他们的动漫少女插画融为一体，背景是明媚阳光下的石砌教堂，天空呈现出绚丽的深蓝色。画面中心前景，新郎和新娘摆出类似戏剧性自拍的姿势，手臂向观众伸展。新郎是一位年轻的中性化角色，留着 {argument name=\"hair color\" default=\"浅棕色\"} 的凌乱短发，身穿干练的白色婚礼西装、白衬衫和白色领带，面带微笑，在脸旁做出俏皮的手势。新娘留着 {argument name=\"hair color\" default=\"深紫黑色\"} 的短双马尾，身穿华丽的白色婚纱，配有层叠蕾丝、头纱、珍珠项圈和白色长手套，手中捧着一束白玫瑰。他们身后矗立着一座美丽的欧式教堂，高耸的尖塔、入口处挂着花环、彩色玻璃窗，温暖的阳光从左侧迸发，营造出镜头光晕和闪烁的亮光。天空中飘浮着蓬松的白云，飞翔的白鸽，隐约的彩虹条纹，以及飘落的粉色花瓣。边缘处环绕着 6 位身穿深色校服、系着红或黄色蝴蝶结的动漫女学生肖像，每位都展现出不同的表情：左上角棕发女孩向前伸手，左中紫色头发戴眼罩的女孩显得局促不安，左下角粉色头发的开朗女孩，右上角棕发女孩伸出一只戴手套的手，中右侧身穿校服的黑发男孩，右下角棕发害羞女孩，以及最右下角张嘴兴奋的小金发女孩。海报四周添加华丽的装饰性边角花纹。右上角包含垂直的日语标语，文字为 {argument name=\"tagline text\" default=\"さあ、契約の時間だ— 私たちの永遠を誓おう\"}。底部中心放置一个醒目且色彩丰富的日语标题 {argument name=\"title text\" default=\"中二病でも恋がしたい！\"}，采用粗体蓝色和粉色描边字体，下方附有小型罗马音副标题 \"Chu-2 byo demo KOI ga shitai!\" 以及底部的制作人员名单 {argument name=\"credit text\" default=\"富樫勇太　小鳥遊六花\"}。整体观感：耀眼、浪漫、感性、怀旧的动漫电影海报，超高细节，光泽感光效，魔法闪光特效，色彩鲜艳，精致的宣传构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "教堂前的动漫风婚礼海报：一张极具戏剧性的动漫风格婚礼海报，描绘了新郎新娘在鲜花装饰的教堂前的场景，非常适合重现浪漫轻小说或动漫宣传视觉图。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [
+        "lens"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[参考光线镜头: lens]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14593",
+      "14499",
+      "15740",
+      "14505",
+      "14514",
+      "14915"
+    ]
+  }
+}

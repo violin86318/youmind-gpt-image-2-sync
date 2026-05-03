@@ -1,0 +1,46 @@
+{
+  "id": "14007",
+  "prompt": "{\n  \"type\": \"anime character reference sheet\",\n  \"theme\": \"fantasy star knight, dark blue background, gold borders\",\n  \"character\": {\n    \"name\": \"{argument name=\\\"character name\\\" default=\\\"シリウス / SIRIUS\\\"}\",\n    \"title\": \"{argument name=\\\"character title\\\" default=\\\"星剣の継承者\\\"}\",\n    \"appearance\": \"female knight, silver hair, blue eyes with star pupils\",\n    \"attire\": \"white dress, dark blue starry cape, silver armor\",\n    \"pose\": \"standing, holding glowing blue starry sword\"\n  },\n  \"layout\": {\n    \"centerpiece\": \"full-body portrait\",\n    \"sections\": [\n      {\n        \"title\": \"Profile\",\n        \"position\": \"top-left\",\n        \"elements\": [\n          \"NAME: {argument name=\\\"character name\\\" default=\\\"シリウス / SIRIUS\\\"}\",\n          \"TITLE: {argument name=\\\"character title\\\" default=\\\"星剣の継承者\\\"}\",\n          \"PROFILE: 星に選ばれた、最後の継承者。\",\n          \"WEAPON: {argument name=\\\"weapon name\\\" default=\\\"星剣レガリア\\\"}\",\n          \"KINGDOM: {argument name=\\\"kingdom name\\\" default=\\\"白亜の天文王国\\\"}\",\n          \"KEYWORDS: 継承、星命、王都、加護、宿命、静謐、気品\"\n        ]\n      },\n      {\n        \"title\": \"CHARACTER DESIGN\",\n        \"position\": \"top-right\",\n        \"count\": 6,\n        \"labels\": [\"face\", \"eye\", \"hair\", \"胸元装飾\", \"手甲ディテール\", \"脚部装甲\"]\n      },\n      {\n        \"title\": \"TURNAROUND\",\n        \"position\": \"mid-left\",\n        \"count\": 3,\n        \"labels\": [\"FRONT\", \"SIDE\", \"BACK\"]\n      },\n      {\n        \"title\": \"WEAPON: {argument name=\\\"weapon name\\\" default=\\\"星剣レガリア\\\"}\",\n        \"position\": \"bottom-left\",\n        \"count\": 4,\n        \"description\": \"1 main sword, 3 close-ups\"\n      },\n      {\n        \"title\": \"COSTUME DETAIL\",\n        \"position\": \"bottom-mid-left\",\n        \"count\": 4,\n        \"labels\": [\"外套の刺繍\", \"インナー生地\", \"金属装飾\", \"ベルト意匠\"]\n      },\n      {\n        \"title\": \"ORNAMENT PATTERN\",\n        \"position\": \"bottom-center\",\n        \"count\": 4,\n        \"labels\": [\"王家紋章・星図意匠\"]\n      },\n      {\n        \"title\": \"COLOR PALETTE\",\n        \"position\": \"mid-right\",\n        \"count\": 12,\n        \"labels\": [\"MAIN COLOR\", \"ACCENT COLOR\", \"MATERIAL TEXTURE\"]\n      },\n      {\n        \"title\": \"KINGDOM: {argument name=\\\"kingdom name\\\" default=\\\"白亜の天文王国\\\"}\",\n        \"position\": \"bottom-left\",\n        \"count\": 1,\n        \"description\": \"castle landscape\"\n      },\n      {\n        \"title\": \"WORLD VIEW\",\n        \"position\": \"bottom-mid-right\",\n        \"count\": 3,\n        \"labels\": [\"天文塔\", \"星見台\", \"継承儀礼の間\"]\n      },\n      {\n        \"title\": \"KINGDOM EMBLEM\",\n        \"position\": \"bottom-right\",\n        \"count\": 1,\n        \"labels\": [\"王国紋章\"]\n      }\n    ],\n    \"header\": \"願いは、星に選ばれた。\",\n    \"footer\": \"COPY: 星が堕ちる夜、王都の継承が始まる。\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"动漫角色参考图\",\n  \"theme\": \"奇幻星辰骑士，深蓝色背景，金色边框\",\n  \"character\": {\n    \"name\": \"{argument name=\\\"character name\\\" default=\\\"シリウス / SIRIUS\\\"}\",\n    \"title\": \"{argument name=\\\"character title\\\" default=\\\"星剣の継承者\\\"}\",\n    \"appearance\": \"女性骑士，银色长发，蓝色星瞳\",\n    \"attire\": \"白色礼裙，深蓝色星空斗篷，银色铠甲\",\n    \"pose\": \"站姿，手持发光的蓝色星辰之剑\"\n  },\n  \"layout\": {\n    \"centerpiece\": \"全身肖像\",\n    \"sections\": [\n      {\n        \"title\": \"个人资料\",\n        \"position\": \"top-left\",\n        \"elements\": [\n          \"姓名: {argument name=\\\"character name\\\" default=\\\"シリウス / SIRIUS\\\"}\",\n          \"称号: {argument name=\\\"character title\\\" default=\\\"星剣の継承者\\\"}\",\n          \"简介: 星辰选中的最后一位继承者。\",\n          \"武器: {argument name=\\\"weapon name\\\" default=\\\"星剣レガリア\\\"}\",\n          \"王国: {argument name=\\\"kingdom name\\\" default=\\\"白亜の天文王国\\\"}\",\n          \"关键词: 继承、星命、王都、加护、宿命、静谧、高贵\"\n        ]\n      },\n      {\n        \"title\": \"角色设计\",\n        \"position\": \"top-right\",\n        \"count\": 6,\n        \"labels\": [\"面部\", \"眼睛\", \"发型\", \"胸前装饰\", \"手甲细节\", \"腿部装甲\"]\n      },\n      {\n        \"title\": \"三视图\",\n        \"position\": \"mid-left\",\n        \"count\": 3,\n        \"labels\": [\"正面\", \"侧面\", \"背面\"]\n      },\n      {\n        \"title\": \"武器: {argument name=\\\"weapon name\\\" default=\\\"星剣レガリア\\\"}\",\n        \"position\": \"bottom-left\",\n        \"count\": 4,\n        \"description\": \"1 把主剑，3 个特写镜头\"\n      },\n      {\n        \"title\": \"服装细节\",\n        \"position\": \"bottom-mid-left\",\n        \"count\": 4,\n        \"labels\": [\"斗篷刺绣\", \"内衬面料\", \"金属装饰\", \"腰带设计\"]\n      },\n      {\n        \"title\": \"装饰纹样\",\n        \"position\": \"bottom-center\",\n        \"count\": 4,\n        \"labels\": [\"王室纹章・星图设计\"]\n      },\n      {\n        \"title\": \"配色方案\",\n        \"position\": \"mid-right\",\n        \"count\": 12,\n        \"labels\": [\"主色调\", \"点缀色\", \"材质纹理\"]\n      },\n      {\n        \"title\": \"王国: {argument name=\\\"kingdom name\\\" default=\\\"白亜の天文王国\\\"}\",\n        \"position\": \"bottom-left\",\n        \"count\": 1,\n        \"description\": \"城堡景观\"\n      },\n      {\n        \"title\": \"世界观\",\n        \"position\": \"bottom-mid-right\",\n        \"count\": 3,\n        \"labels\": [\"天文塔\", \"观星台\", \"继承仪式大厅\"]\n      },\n      {\n        \"title\": \"王国纹章\",\n        \"position\": \"bottom-right\",\n        \"count\": 1,\n        \"labels\": [\"王国纹章\"]\n      }\n    ],\n    \"header\": \"愿望，被星辰所选中。\",\n    \"footer\": \"文案: 星辰陨落之夜，王都的继承仪式正式开启。\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奇幻骑士概念设计图：生成包含背景故事、三视图和材质标注的高细节动漫角色参考图。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "full-body"
+      ],
+      "style": [
+        "anime",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, full-body]。\n\nVisual style:\n[参考风格: anime, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15732",
+      "15090",
+      "14404",
+      "14250",
+      "14620",
+      "13736"
+    ]
+  }
+}

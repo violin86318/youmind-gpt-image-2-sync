@@ -1,0 +1,41 @@
+{
+  "id": "15356",
+  "prompt": "A brightly lit Japanese TV variety show studio screenshot in a cheerful pastel idol-program style, framed as a medium-wide group shot of {argument name=\"group size\" default=\"5\"} young women standing close together, with the center performer slightly forward and the others partially visible around her. Their faces are intentionally obscured by soft rectangular blur mosaics, as if anonymized for a social media post, but their hairstyles, outfits, body positions, and the set remain clear. They wear coordinated feminine stage uniforms in dusty pink and beige with white ribbon bows at the collar, floral lace trim on the shoulders and chest, puff sleeves, gold buttons, and small black lavalier microphones clipped near the neckline. The center woman has a shoulder-length light brown bob with side-swept bangs; two taller women in the back and right have long dark brown wavy hair; only the tops of two more members are visible at the lower left and lower right corners. The studio background is colorful and busy: a cream-and-pastel brick wall, stylized tree cutouts near the top left, a decorative pink ornate frame around a glowing purple LED panel with white flower icons on the left, and geometric pastel wall panels on the right. Add bold Japanese TV captions with crisp, readable text. In the top left, place a yellow-and-black construction-sign style box with diagonal hazard stripes reading \"乃木坂工事中\" and smaller roman text \"nogizaka under construction\". In the top right, place a black rectangle with yellow hazard-stripe border containing two lines of Japanese text: \"イントロ中のアドリブ曲紹介\" and \"ピッタリ歌い出しまで埋めろ!\". Across the lower center, add a huge playful headline in thick rounded Japanese lettering reading {argument name=\"main caption\" default=\"1つ この曲を\"}, colored bright yellow with orange shading, a white inner border, thick pink outline, and sparkly star accents integrated into the phrase. The composition should feel like a genuine paused television broadcast, colorful, polished, and highly legible, with a 16:9 aspect ratio and the visual emphasis on the large bottom caption and the center performer.",
+  "translatedPrompt": "一张明亮的日本电视综艺节目演播室截图，采用欢快的柔和色调偶像节目风格，构图为中景广角群像，展示了 {argument name=\"group size\" default=\"5\"} 位年轻女性紧密站在一起，中心表演者略微靠前，其他人围绕在她周围部分可见。她们的面部被柔和的矩形马赛克故意遮挡，如同社交媒体帖子的匿名处理，但她们的发型、服装、身体姿态和场景保持清晰。她们穿着协调的女性化舞台制服，色调为灰粉色和米色，领口带有白色蝴蝶结，肩部和胸部饰有花朵蕾丝，泡泡袖，金色纽扣，领口附近别着小型黑色领夹麦克风。中心女性留着齐肩浅棕色波波头，带有侧分刘海；后方和右侧两位较高的女性留着深棕色长卷发；左下角和右下角仅可见另外两名成员的头部。演播室背景色彩丰富且繁杂：米色和柔和色调的砖墙，左上角有风格化的树木剪裁，左侧是一个发光的紫色 LED 面板，周围环绕着装饰性的粉色华丽边框，并带有白色花朵图标，右侧是几何形状的柔和色调墙板。添加醒目的日语电视字幕，文字清晰易读。在左上角，放置一个黄黑相间的施工标志风格方框，带有斜向危险条纹，文字为“乃木坂工事中”，下方有较小的罗马字“nogizaka under construction”。在右上角，放置一个带有黄色危险条纹边框的黑色矩形，包含两行日语文本：“イントロ中のアドリブ曲紹介”和“ピッタリ歌い出しまで埋めろ!”。在下方中央，添加一个巨大的趣味标题，采用粗圆体日语字形，内容为 {argument name=\"main caption\" default=\"1つ この曲を\"}，颜色为亮黄色，带有橙色阴影、白色内边框、粗粉色轮廓，短语中融入了闪亮的星星装饰。整体构图应呈现出真实的电视广播暂停画面感，色彩丰富、精致且高度清晰，采用 16:9 宽高比，视觉重点在于底部的大号标题和中心表演者。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日本偶像电视节目截图：一张色彩鲜艳的虚构电视综艺节目截图，包含匿名偶像成员和清晰的日语屏幕字幕，适用于测试文本渲染和广播风格布局。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14620",
+      "14945",
+      "14422",
+      "14475",
+      "15407",
+      "14668"
+    ]
+  }
+}

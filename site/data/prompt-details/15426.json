@@ -1,0 +1,48 @@
+{
+  "id": "15426",
+  "prompt": "{\"type\":\"social media screenshot styled fashion color-analysis infographic\",\"platform\":\"X / Twitter dark mode post\",\"post\":{\"author\":{\"display_name\":\"{argument name=\\\"profile name\\\" default=\\\"claire vo\\\"}\",\"handle\":\"{argument name=\\\"handle\\\" default=\\\"@clairevo\\\"}\",\"verified\":true,\"avatar\":\"circular female profile photo, partially obscured face\"},\"headline_text\":\"🚨 LADIES 🚨 A SELFIE + CHATGPT IMAGE GEN 2.0 + V BOARD HAS ACHIEVED AGI (Artificial Girl Intelligence)\",\"footer_note\":\"✨ Made with AI\"},\"main_card\":{\"type\":\"color analysis board\",\"theme\":\"luxury feminine dark editorial board on black background with thin rounded white border\",\"title\":\"COLOR ANALYSIS DARK WINTER\",\"subtitle\":\"Deep • Cool • Clear • High Contrast\",\"subject\":{\"gender_presentation\":\"female\",\"portrait_count\":3,\"face_visibility\":\"faces softly blurred / anonymized\",\"hair\":\"long dark brown wavy hair, center part\",\"top\":\"light gray or charcoal fitted top\",\"jewelry\":\"layered delicate necklaces in one portrait\"},\"layout\":{\"sections\":[{\"title\":\"YOUR BEST COLORS\",\"position\":\"top right\",\"count\":4,\"groups\":[{\"label\":\"NEUTRALS\",\"count\":7,\"items\":[\"Black\",\"Charcoal\",\"Graphite\",\"Navy\",\"Cool Taupe\",\"Silver Gray\",\"Optic White\"]},{\"label\":\"JEWEL TONES\",\"count\":7,\"items\":[\"Emerald\",\"Sapphire\",\"Amethyst\",\"Royal Purple\",\"Ruby Red\",\"Fuchsia\",\"Magenta\"]},{\"label\":\"ICY BRIGHTS\",\"count\":7,\"items\":[\"Cobalt Blue\",\"Icy Pink\",\"Electric Purple\",\"Cherry Pink\",\"True Red\",\"Ice Blue\",\"Jade\"]},{\"label\":\"ACCENT METALS\",\"count\":4,\"items\":[\"Silver\",\"White Gold\",\"Platinum\",\"Gunmetal\"]}]},{\"title\":\"YOUR FEATURES\",\"position\":\"left upper-middle\",\"count\":4,\"items\":[\"Contrast: High\",\"Undertone: Cool\",\"Value: Deep\",\"Clarity: Clear\"]},{\"title\":\"HAIR GUIDANCE\",\"position\":\"left middle\",\"count\":3,\"items\":[\"Deep Espresso\",\"Blue Black\",\"Cool Dark Brown\"]},{\"title\":\"MAKEUP GUIDE\",\"position\":\"center middle\",\"count\":4,\"groups\":[{\"label\":\"FOUNDATION\",\"items\":[\"Cool undertones that match your skin\"]},{\"label\":\"EYESHADOW\",\"items\":[\"Cool, smoky, high contrast\"]},{\"label\":\"BLUSH\",\"count\":4,\"items\":[\"cool berry\",\"plum\",\"soft rose\",\"mauve berry\"]},{\"label\":\"LIP COLORS\",\"count\":7,\"items\":[\"deep berry\",\"blue red\",\"wine\",\"fuchsia\",\"magenta\",\"plum\",\"raspberry\"]}]},{\"title\":\"STYLE MOOD BOARD\",\"position\":\"bottom left\",\"count\":1,\"description\":\"collage of dark winter fashion references including denim, leather boots, leopard print, celestial motifs, dark feminine outfits, concert or nightlife imagery\"},{\"title\":\"OUTFIT INSPIRATION\",\"position\":\"bottom center-right\",\"count\":4,\"items\":[\"graphic tee with dark overalls and boots\",\"plaid green skirt outfit with boots and monochrome layers\",\"long patterned dress with dark leather outerwear and accessories\",\"graphic tee with leopard pants and black accessories\"]},{\"title\":\"PRINTS THAT WORK\",\"position\":\"bottom lower-middle\",\"count\":6,\"items\":[\"Animal Print (High Contrast)\",\"Plaid (Cool Tones)\",\"Floral\",\"Stripes\",\"Graphic\",\"Abstract\"]},{\"title\":\"COLORS TO AVOID\",\"position\":\"bottom left lower\",\"count\":8,\"items\":[\"Mustard\",\"Camel\",\"Rust\",\"Peach\",\"Olive\",\"Warm Beige\",\"Tan\",\"Gold\"]},{\"title\":\"FINAL TIPS\",\"position\":\"bottom row\",\"count\":4,\"items\":[\"Wear contrast\",\"Use color intentionally\",\"Mix edgy pieces with feminine elements\",\"Own your style and express your creativity with confidence\"]}],\"centerpiece\":\"large infographic board combining portrait photography, swatches, makeup circles, fashion collage, outfit flat-lays, and style tips\"},\"visual_style\":{\"aspect_ratio\":\"portrait smartphone screenshot\",\"lighting\":\"clean studio-like collage lighting\",\"color_palette\":\"black, white, silver, cool neutrals, jewel tones, icy brights\",\"typography\":\"elegant serif headings with small sans-serif body text\",\"composition\":\"tweet header at top, single large infographic image below filling most of the post\"}}",
+  "translatedPrompt": "{\"type\":\"社交媒体截图风格时尚色彩分析信息图\",\"platform\":\"X / Twitter 深色模式帖子\",\"post\":{\"author\":{\"display_name\":\"{argument name=\\\"profile name\\\" default=\\\"claire vo\\\"}\",\"handle\":\"{argument name=\\\"handle\\\" default=\\\"@clairevo\\\"}\",\"verified\":true,\"avatar\":\"圆形女性头像，面部部分遮挡\"},\"headline_text\":\"🚨 女士们注意 🚨 自拍 + ChatGPT 图像生成 2.0 + V 项目 已经实现了 AGI（人工少女智能）\",\"footer_note\":\"✨ 由 AI 制作\"},\"main_card\":{\"type\":\"色彩分析项目\",\"theme\":\"黑色背景上的奢华女性化深色编辑项目，带有细圆角白色边框\",\"title\":\"深冬型色彩分析\",\"subtitle\":\"深色 • 冷色 • 清晰 • 高对比度\",\"subject\":{\"gender_presentation\":\"女性\",\"portrait_count\":3,\"face_visibility\":\"面部柔焦 / 匿名化处理\",\"hair\":\"长款深棕色波浪卷发，中分\",\"top\":\"浅灰色或炭灰色修身上衣\",\"jewelry\":\"其中一张肖像中佩戴层叠的精致项链\"},\"layout\":{\"sections\":[{\"title\":\"你的最佳色彩\",\"position\":\"右上角\",\"count\":4,\"groups\":[{\"label\":\"中性色\",\"count\":7,\"items\":[\"黑色\",\"炭灰色\",\"石墨色\",\"海军蓝\",\"冷灰褐色\",\"银灰色\",\"亮白色\"]},{\"label\":\"宝石色\",\"count\":7,\"items\":[\"祖母绿\",\"蓝宝石色\",\"紫水晶色\",\"皇家紫\",\"宝石红\",\"紫红色\",\"洋红色\"]},{\"label\":\"冰亮色\",\"count\":7,\"items\":[\"钴蓝色\",\"冰粉色\",\"电光紫\",\"樱桃粉\",\"正红色\",\"冰蓝色\",\"玉石色\"]},{\"label\":\"点缀金属色\",\"count\":4,\"items\":[\"银色\",\"白金\",\"铂金\",\"枪灰色\"]}]},{\"title\":\"你的特征\",\"position\":\"左上中部\",\"count\":4,\"items\":[\"对比度：高\",\"底色：冷色\",\"明度：深色\",\"清晰度：清晰\"]},{\"title\":\"发色建议\",\"position\":\"左中部\",\"count\":3,\"items\":[\"深浓缩咖啡色\",\"蓝黑色\",\"冷深棕色\"]},{\"title\":\"妆容指南\",\"position\":\"中心中部\",\"count\":4,\"groups\":[{\"label\":\"粉底\",\"items\":[\"与肤色匹配的冷色调\"]},{\"label\":\"眼影\",\"items\":[\"冷色、烟熏、高对比度\"]},{\"label\":\"腮红\",\"count\":4,\"items\":[\"冷浆果色\",\"李子色\",\"柔玫瑰色\",\"紫浆果色\"]},{\"label\":\"唇色\",\"count\":7,\"items\":[\"深浆果色\",\"蓝红色\",\"酒红色\",\"紫红色\",\"洋红色\",\"李子色\",\"覆盆子色\"]}]},{\"title\":\"风格情绪板\",\"position\":\"左下角\",\"count\":1,\"description\":\"深冬型时尚参考拼贴画，包括牛仔、皮靴、豹纹、天体图案、深色女性化穿搭、音乐会或夜生活意象\"},{\"title\":\"穿搭灵感\",\"position\":\"右下中部\",\"count\":4,\"items\":[\"印花 T 恤搭配深色背带裤和靴子\",\"格纹绿裙装搭配靴子和单色叠穿\",\"长款印花连衣裙搭配深色皮质外套和配饰\",\"印花 T 恤搭配豹纹裤和黑色配饰\"]},{\"title\":\"适合的印花\",\"position\":\"左下中部\",\"count\":6,\"items\":[\"动物纹（高对比度）\",\"格纹（冷色调）\",\"花卉\",\"条纹\",\"图形\",\"抽象\"]},{\"title\":\"应避免的色彩\",\"position\":\"左下底部\",\"count\":8,\"items\":[\"芥末黄\",\"驼色\",\"铁锈红\",\"桃色\",\"橄榄绿\",\"暖米色\",\"棕褐色\",\"金色\"]},{\"title\":\"最终建议\",\"position\":\"底部行\",\"count\":4,\"items\":[\"穿出对比感\",\"有意识地运用色彩\",\"将前卫单品与女性化元素混搭\",\"展现你的风格，自信地表达你的创造力\"]}],\"centerpiece\":\"大型信息图项目，结合了肖像摄影、色卡、妆容圆圈、时尚拼贴、穿搭平铺图和风格建议\"},\"visual_style\":{\"aspect_ratio\":\"竖屏智能手机截图\",\"lighting\":\"干净的摄影棚风格拼贴光效\",\"color_palette\":\"黑色、白色、银色、冷中性色、宝石色、冰亮色\",\"typography\":\"优雅的衬线标题搭配小型无衬线正文\",\"composition\":\"顶部为推文标题，下方为占据大部分版面的大型信息图图片\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "深冬型色彩分析推文：一条深色模式社交媒体帖子，展示了一张详尽的深冬型个人色彩分析项目，适用于重现 AI 生成的时尚与美妆信息图截图。",
+      "subject": "服饰",
+      "scene": "海报/封面",
+      "composition": [
+        "layered"
+      ],
+      "style": [
+        "editorial",
+        "luxury",
+        "studio"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered]。\n\nVisual style:\n[参考风格: editorial, luxury, studio]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15444",
+      "14169",
+      "15077",
+      "15088",
+      "15400",
+      "14824"
+    ]
+  }
+}

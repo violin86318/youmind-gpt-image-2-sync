@@ -1,0 +1,53 @@
+{
+  "id": "14486",
+  "prompt": "A cinematic third-person action RPG gameplay screenshot set in {argument name=\"city setting\" default=\"Macau\"} in {argument name=\"year\" default=\"1995\"}, viewed from behind a lone male protagonist walking down the center of a crowded wet street at night. The scene is dense with neon signage in Chinese characters, casino signs, jewelry shops, banks, and old mid-rise buildings packed tightly on both sides, with a glowing landmark tower in the distance shaped like a giant illuminated lotus or stylized casino facade. The main character is centered in the frame, wearing a dark leather jacket and jeans, seen from the back, holding a glowing blue energy sword in his right hand and a second short weapon or baton in the left. The street is lined with 6 clearly visible cars, including vintage sedans and 2 taxi cabs, while many pedestrians stand on sidewalks and spill into the street, creating a busy urban nightlife atmosphere. The pavement is rain-slick and highly reflective, mirroring the red, blue, gold, and green neon lights for a moody cyberpunk-meets-1990s crime-drama look. Add a complete in-game HUD overlay: top left has a circular character portrait, the player name {argument name=\"player name\" default=\"Mayar\"}, a red health bar reading 1230 / 1930, a blue energy bar reading 508 / 1160, and a small green status icon; top right has a circular minimap and the location text {argument name=\"location label\" default=\"MACAU CHRONICLES: 1995\"}; bottom left has a semi-transparent chat box with multiple lines of player chat text; bottom right has 6 numbered ability icons in a hotbar, with blue sword-slash skills, a silhouette movement skill, a hand-power icon, a golden weapon skill, and a glowing ultimate icon. Highly detailed, photorealistic game-engine rendering, centered composition, dramatic atmospheric lighting, realistic crowd scale, immersive AAA open-world RPG interface, nostalgic 1990s East Asian street mood with subtle sci-fi fantasy elements.",
+  "translatedPrompt": "一张电影级第三人称动作 RPG 游戏截图，背景设定在 {argument name=\"city setting\" default=\"澳门\"} 的 {argument name=\"year\" default=\"1995\"} 年，视角位于一名孤独的男性主角身后，他正走在夜晚拥挤且潮湿的街道中央。场景中布满了汉字霓虹招牌、赌场标志、珠宝店、银行以及两侧紧密排列的老式中高层建筑，远处有一座发光的标志性塔楼，形状像巨大的发光莲花或风格化的赌场外立面。主角位于画面中心，身穿深色皮夹克和牛仔裤，背对镜头，右手握着一把发着蓝光的能量剑，左手拿着第二件短武器或警棍。街道两旁停放着 6 辆清晰可见的汽车，包括老式轿车和 2 辆出租车，许多行人站在人行道上并涌入街道，营造出繁忙的城市夜生活氛围。路面因雨水而湿滑且具有高度反射性，映照出红色、蓝色、金色和绿色的霓虹灯光，呈现出一种赛博朋克与 20 世纪 90 年代犯罪剧相结合的氛围。添加完整的游戏内 HUD 叠加层：左上角有一个圆形角色头像、玩家名称 {argument name=\"player name\" default=\"Mayar\"}、显示为 1230 / 1930 的红色生命值条、显示为 508 / 1160 的蓝色能量条以及一个小型的绿色状态图标；右上角有一个圆形小地图和位置文本 {argument name=\"location label\" default=\"MACAU CHRONICLES: 1995\"}；左下角有一个半透明的聊天框，包含多行玩家聊天文本；右下角有一个包含 6 个编号技能图标的快捷栏，其中包括蓝色剑斩技能、轮廓移动技能、手部力量图标、金色武器技能和一个发光的终极技能图标。高度精细、照片级真实感的游戏引擎渲染，居中构图，戏剧性的环境光效，真实的人群比例，沉浸式 AAA 开放世界 RPG 界面，怀旧的 20 世纪 90 年代东亚街头氛围，融合了微妙的科幻奇幻元素。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "霓虹澳门 RPG 街头战斗 HUD：此提示词可生成一张电影级 AAA 风格的游戏截图，展示了一位手持长剑的主角置身于 20 世纪 90 年代霓虹闪烁的澳门街头，非常适合用于游戏概念艺术、UI 模型或动作 RPG 宣传视觉图。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "vintage",
+        "sci-fi",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, vintage, sci-fi, fantasy]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15706",
+      "14420",
+      "15704",
+      "14568",
+      "14485",
+      "14619"
+    ]
+  }
+}

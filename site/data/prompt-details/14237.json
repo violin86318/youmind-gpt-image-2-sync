@@ -1,0 +1,46 @@
+{
+  "id": "14237",
+  "prompt": "{\n  \"type\": \"travel advertisement web banner\",\n  \"background\": {\n    \"scene\": \"{argument name=\\\"destination scene\\\" default=\\\"picturesque European cobblestone town square with a cafe, fountain, and church tower\\\"}\",\n    \"lighting\": \"bright sunny day, warm sunlight\",\n    \"details\": \"cafe tables with chairs, vibrant flowers on balconies, distant mountains, clear blue sky with fluffy clouds\",\n    \"props\": \"round 'Caffè' sign on right building, wooden menu board listing 'Menu / Pasta / Insalata / Dolce / Vino'\"\n  },\n  \"overlay_elements\": {\n    \"graphics\": \"postmark stamp on mid-left, dashed airplane flight path above text, decorative flourishes\",\n    \"typography\": {\n      \"catchphrase\": {\n        \"text\": \"{argument name=\\\"catchphrase\\\" default=\\\"知らない街が、待っている。\\\"}\",\n        \"style\": \"small serif, curved along a line with an airplane icon\"\n      },\n      \"main_headline\": {\n        \"text\": \"{argument name=\\\"main headline\\\" default=\\\"次の休日は、街歩きへ。\\\"}\",\n        \"style\": \"large elegant serif, mixed colors of brown, blue, and pink\"\n      },\n      \"subtitle\": {\n        \"text\": \"{argument name=\\\"subtitle\\\" default=\\\"石畳を歩けば、心まで軽くなる。\\\"}\",\n        \"style\": \"medium serif, flanked by vintage decorative lines\"\n      }\n    },\n    \"call_to_action\": {\n      \"button_text\": \"{argument name=\\\"button text\\\" default=\\\"旅先を探す >\\\"}\",\n      \"style\": \"red pill-shaped button with gold double-line border, centered below text\"\n    }\n  },\n  \"layout\": {\n    \"bottom_navigation_bar\": {\n      \"style\": \"white banner with rounded top corners\",\n      \"count\": 3,\n      \"items\": [\n        { \"icon\": \"camera\", \"label\": \"フォトジェニック\" },\n        { \"icon\": \"fork and spoon\", \"label\": \"グルメ散策\" },\n        { \"icon\": \"suitcase\", \"label\": \"気軽な海外旅\" }\n      ]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"travel advertisement web banner\",\n  \"background\": {\n    \"scene\": \"{argument name=\\\"destination scene\\\" default=\\\"picturesque European cobblestone town square with a cafe, fountain, and church tower\\\"}\",\n    \"lighting\": \"bright sunny day, warm sunlight\",\n    \"details\": \"cafe tables with chairs, vibrant flowers on balconies, distant mountains, clear blue sky with fluffy clouds\",\n    \"props\": \"round 'Caffè' sign on right building, wooden menu board listing 'Menu / Pasta / Insalata / Dolce / Vino'\"\n  },\n  \"overlay_elements\": {\n    \"graphics\": \"postmark stamp on mid-left, dashed airplane flight path above text, decorative flourishes\",\n    \"typography\": {\n      \"catchphrase\": {\n        \"text\": \"{argument name=\\\"catchphrase\\\" default=\\\"知らない街が、待っている。\\\"}\",\n        \"style\": \"small serif, curved along a line with an airplane icon\"\n      },\n      \"main_headline\": {\n        \"text\": \"{argument name=\\\"main headline\\\" default=\\\"次の休日は、街歩きへ。\\\"}\",\n        \"style\": \"large elegant serif, mixed colors of brown, blue, and pink\"\n      },\n      \"subtitle\": {\n        \"text\": \"{argument name=\\\"subtitle\\\" default=\\\"石畳を歩けば、心まで軽くなる。\\\"}\",\n        \"style\": \"medium serif, flanked by vintage decorative lines\"\n      }\n    },\n    \"call_to_action\": {\n      \"button_text\": \"{argument name=\\\"button text\\\" default=\\\"旅先を探す >\\\"}\",\n      \"style\": \"red pill-shaped button with gold double-line border, centered below text\"\n    }\n  },\n  \"layout\": {\n    \"bottom_navigation_bar\": {\n      \"style\": \"white banner with rounded top corners\",\n      \"count\": 3,\n      \"items\": [\n        { \"icon\": \"camera\", \"label\": \"フォトジェニック\" },\n        { \"icon\": \"fork and spoon\", \"label\": \"グルメ散策\" },\n        { \"icon\": \"suitcase\", \"label\": \"気軽な海外旅\" }\n      ]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "European Travel Advertisement Banner：Generates a travel agency web banner featuring a scenic European town, promotional typography, and a feature navigation bar.",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "vintage"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: vintage]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14833",
+      "14232",
+      "14907",
+      "15070",
+      "15114",
+      "14558"
+    ]
+  }
+}

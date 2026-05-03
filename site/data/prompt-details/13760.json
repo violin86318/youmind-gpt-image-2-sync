@@ -1,0 +1,41 @@
+{
+  "id": "13760",
+  "prompt": "A realistic, slightly grainy, low-lighting mugshot of a young woman with long, messy black hair, prominent cheekbones, and full lips. She has a small tattoo near her right eye and extensive, intricate mandala-style tattoos covering her neck, chest, and both hands/arms. She is wearing a simple black sleeveless top. She is holding up a rectangular white placard with blurred-out text, held with both hands showing long, manicured nails. The background is a plain white cinderblock wall with a height chart on the right side, showing numbers like 150, 160, and 170 in black stencil font. The overall aesthetic is gritty and raw, resembling a genuine police booking photograph.",
+  "translatedPrompt": "一张写实、略带颗粒感且光线昏暗的入案照，主角是一位留着凌乱长黑发、颧骨突出、嘴唇丰满的年轻女性。她的右眼附近有一个小纹身，颈部、胸部以及双手和手臂上覆盖着复杂精美的曼陀罗风格纹身。她身穿简单的黑色无袖上衣，双手举着一块文字模糊的白色长方形身份牌，指甲修剪整齐。背景是一面普通的白色水泥砖墙，右侧带有身高测量标尺，以黑色模板字体显示着 150、160 和 170 等数字。整体美学风格粗粝且真实，宛如一张真实的警方入案照片。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "纹身女性写实风格入案照：生成一张写实的、带有粗粝感的入案照，画面中一位满身纹身的女性手持模糊的身份牌，背景为身高测量墙。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14494",
+      "13604",
+      "13650",
+      "13806",
+      "14012",
+      "14145"
+    ]
+  }
+}

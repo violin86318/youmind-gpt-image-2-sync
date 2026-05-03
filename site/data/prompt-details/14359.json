@@ -1,0 +1,36 @@
+{
+  "id": "14359",
+  "prompt": "{argument name=\"サービス名\" default=\"OpenClaw\"}の情報を調べて{argument name=\"店舗名\" default=\"ドンキ\"}の広告ポップ風に実際の{argument name=\"店舗名\" default=\"ドンキ\"}に貼っているような感じで画像生成してください",
+  "translatedPrompt": "研究关于 {argument name=\"service name\" default=\"OpenClaw\"} 的信息，并生成一张 {argument name=\"store name\" default=\"Don Quijote\"} 风格的广告海报，效果要如同真实张贴在 {argument name=\"store name\" default=\"Don Quijote\"} 店内一样。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "为 OpenClaw 设计“唐吉诃德”风格的店内广告：一个上下文提示词，指导 AI 研究特定服务并设计一款“唐吉诃德”风格的店内促销海报。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13485",
+      "13644",
+      "13869",
+      "13873",
+      "14307",
+      "14317"
+    ]
+  }
+}

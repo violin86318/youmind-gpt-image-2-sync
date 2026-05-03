@@ -1,0 +1,51 @@
+{
+  "id": "14574",
+  "prompt": "A gritty, high-contrast cinematic action movie poster in a vertical one-sheet layout for a revenge thriller titled {argument name=\"movie title\" default=\"DEADLINE VENGEANCE\"}. The composition is dominated by a large foreground figure of a tough middle-aged man with short dark hair, rugged stubble, and a black leather or tactical jacket, aiming a semi-automatic handgun directly at the viewer from the left side of the frame with strong foreshortening so the gun appears oversized and close to camera. His face is partially obscured in shadow for a mysterious, menacing look. Behind him is a dark modern city skyline at night under stormy clouds, with 1 helicopter in the upper right sky and 1 massive fireball explosion on the right side near the buildings, sending smoke, sparks, and debris into the air. Across the very top, small red uppercase text reads {argument name=\"top tagline\" default=\"REVENGE IS HIS MISSION\"}. On the left-center area, add a stacked white uppercase tagline in 4 lines: {argument name=\"left tagline\" default=\"THE PAST TOOK EVERYTHING. HE'LL TAKE EVERYTHING BACK.\"}, styled as 2 short blocks separated by thin red accent lines. Place the main title huge across the lower middle, with 2 words: the first word in enormous distressed metallic-white block letters, and the second word in slightly smaller bold red uppercase letters. In the bottom third, show 1 lone male figure from behind standing in the middle of a wet reflective street, holding a pistol, facing the burning city. Surround him with 4 police vehicles total, 2 on the left and 2 on the right, with flashing lights, plus 2 additional helicopters in the distant sky near the horizon, making 3 helicopters total in the full poster. Include flames along both lower corners, wreckage, smoke, embers, and silhouettes of several armed figures in the distance. At the bottom center, add red uppercase release text {argument name=\"release text\" default=\"COMING SOON\"} with smaller white text underneath reading {argument name=\"format line\" default=\"EXPERIENCE IT IN IMAX\"}. Add a dense strip of tiny fake production credits and a film rating box at the very bottom. Color palette: black, charcoal, steel gray, orange fire, and deep crimson. Style: polished Hollywood blockbuster key art, dramatic rim lighting, photorealistic, ultra-detailed, intense contrast, anamorphic action lighting, smoky atmosphere, explosive urban chaos, premium theatrical poster design.",
+  "translatedPrompt": "一张高对比度、电影质感的复仇惊悚片竖版海报，标题为 {argument name=\"movie title\" default=\"DEADLINE VENGEANCE\"}。构图主体是一位身处前景的硬汉，中年男性，短黑发，留着粗犷的胡茬，身穿黑色皮夹克或战术夹克。他从画面左侧直接向观众瞄准一把半自动手枪，通过强烈的透视效果使枪支看起来巨大且靠近镜头。他的面部部分隐藏在阴影中，营造出神秘而危险的氛围。背景是夜间黑暗的现代城市天际线，上方笼罩着风暴云，右上角天空有 1 架直升机，右侧建筑物附近有 1 团巨大的火球爆炸，烟雾、火花和碎片四散。海报最上方，有一行红色小号大写文字：{argument name=\"top tagline\" default=\"REVENGE IS HIS MISSION\"}。在左中区域，添加 4 行堆叠的白色大写标语：{argument name=\"left tagline\" default=\"THE PAST TOOK EVERYTHING. HE'LL TAKE EVERYTHING BACK.\"}，样式为由细红线分隔的 2 个短块。主标题横跨中下部，分为 2 个单词：第一个单词采用巨大的做旧金属白色块状字体，第二个单词采用稍小一些的粗体红色大写字母。在海报下三分之一处，展示 1 个孤独的男性背影，他站在湿漉漉的反光街道中央，手持手枪，面对着燃烧的城市。他周围共有 4 辆警车，左右各 2 辆，闪烁着警灯；远方地平线附近还有 2 架直升机，使整张海报中共有 3 架直升机。下方的两个角落点缀着火焰、残骸、烟雾、余烬以及远处几个武装人员的剪影。底部中央添加红色的发行文字 {argument name=\"release text\" default=\"COMING SOON\"}，下方配有较小的白色文字 {argument name=\"format line\" default=\"EXPERIENCE IT IN IMAX\"}。最底部添加一行密集的虚构制作人员名单和电影分级框。配色方案：黑色、炭灰色、钢灰色、橙色火焰和深红色。风格：精致的好莱坞大片主视觉，戏剧性的轮廓光，照片级真实感，超高细节，强烈的对比度，变形宽银幕动作照明，烟雾缭绕的氛围，爆炸性的城市混乱，高级院线海报设计。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复仇动作电影海报：一张好莱坞风格的复仇惊悚片海报，包含持枪主角、燃烧的城市混乱场景、醒目的标题排版以及用于宣传主视觉的演职员表。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "premium"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, premium]。\n\nLighting and camera:\n[参考光线镜头: rim light, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14598",
+      "14869",
+      "15647",
+      "15043",
+      "15731",
+      "15048"
+    ]
+  }
+}

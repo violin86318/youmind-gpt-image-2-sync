@@ -1,0 +1,45 @@
+{
+  "id": "13736",
+  "prompt": "{\n  \"type\": \"character design document\",\n  \"header\": \"CHARACTER DESIGN DOCUMENT: {argument name=\\\"character name\\\" default=\\\"SHIBUYA SHION\\\"}\",\n  \"character\": {\n    \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"black bob with purple highlights\\\"}\",\n    \"eyes\": \"purple\",\n    \"outfit\": \"{argument name=\\\"hoodie color\\\" default=\\\"lavender\\\"} oversized hoodie, distressed denim shorts, black high-top canvas sneakers, black backpack\",\n    \"pose\": \"standing, making a peace sign near face, one hand in hoodie pocket\"\n  },\n  \"layout\": {\n    \"centerpiece\": \"full-body anime illustration of the character\",\n    \"top_right\": \"back view of the character in flat color/line art\",\n    \"left_panels\": {\n      \"count\": 3,\n      \"descriptions\": [\n        \"close-up portrait of the character's face\",\n        \"close-up of the black backpack\",\n        \"close-up of the black high-top sneaker\"\n      ]\n    },\n    \"text_blocks\": [\n      {\n        \"position\": \"bottom left\",\n        \"content\": [\n          \"NAME: {argument name=\\\"character name\\\" default=\\\"SHIBUYA SHION\\\"}\",\n          \"PROFILE: {argument name=\\\"profile description\\\" default=\\\"URBAN EXPLORER / GRAPHIC ARTIST\\\"}\",\n          \"AGE: 20\"\n        ]\n      },\n      {\n        \"position\": \"bottom center footer\",\n        \"content\": [\n          \"PROJECT: {argument name=\\\"project name\\\" default=\\\"SHIBUYA ARTIST\\\"}\",\n          \"DATE: DEC 2025\"\n        ]\n      }\n    ],\n    \"swatches\": {\n      \"color_palette\": {\n        \"count\": 5,\n        \"labels\": [\n          \"HAIR: Deep Purple/Black\",\n          \"EYES: Purple\",\n          \"HOODIE: Lavender Purple\",\n          \"DENIM: Stone-washed Blue\",\n          \"SHOES: Black/White Canvas\"\n        ]\n      },\n      \"material_textures\": {\n        \"count\": 5,\n        \"labels\": [\n          \"HOODIE FABRIC (Loopback Cotton)\",\n          \"HOODIE FABRIC (Loopback Cotton)\",\n          \"DENIM (Selvedge Denim)\",\n          \"BACKPACK CANVAS (Nylon)\",\n          \"METAL (Gunmetal Zippers)\"\n        ]\n      }\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"角色设计文档\",\n  \"header\": \"角色设计文档：{argument name=\\\"character name\\\" default=\\\"SHIBUYA SHION\\\"}\",\n  \"character\": {\n    \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"黑色波波头，带有紫色挑染\\\"}\",\n    \"eyes\": \"紫色\",\n    \"outfit\": \"{argument name=\\\"hoodie color\\\" default=\\\"淡紫色\\\"} 超大款连帽衫，做旧牛仔短裤，黑色高帮帆布鞋，黑色双肩包\",\n    \"pose\": \"站姿，脸旁比出剪刀手，一只手插在连帽衫口袋里\"\n  },\n  \"layout\": {\n    \"centerpiece\": \"角色全身动漫插画\",\n    \"top_right\": \"角色背面平涂/线稿视图\",\n    \"left_panels\": {\n      \"count\": 3,\n      \"descriptions\": [\n        \"角色面部特写\",\n        \"黑色双肩包特写\",\n        \"黑色高帮帆布鞋特写\"\n      ]\n    },\n    \"text_blocks\": [\n      {\n        \"position\": \"左下角\",\n        \"content\": [\n          \"姓名：{argument name=\\\"character name\\\" default=\\\"SHIBUYA SHION\\\"}\",\n          \"简介：{argument name=\\\"profile description\\\" default=\\\"城市探索者 / 平面设计师\\\"}\",\n          \"年龄：20\"\n        ]\n      },\n      {\n        \"position\": \"底部中心页脚\",\n        \"content\": [\n          \"项目：{argument name=\\\"project name\\\" default=\\\"SHIBUYA ARTIST\\\"}\",\n          \"日期：2025 年 12 月\"\n        ]\n      }\n    ],\n    \"swatches\": {\n      \"color_palette\": {\n        \"count\": 5,\n        \"labels\": [\n          \"发色：深紫/黑色\",\n          \"眼色：紫色\",\n          \"连帽衫：淡紫色\",\n          \"牛仔：石磨蓝\",\n          \"鞋子：黑/白帆布\"\n        ]\n      },\n      \"material_textures\": {\n        \"count\": 5,\n        \"labels\": [\n          \"连帽衫面料（毛圈棉）\",\n          \"连帽衫面料（毛圈棉）\",\n          \"牛仔布（赤耳丹宁）\",\n          \"双肩包帆布（尼龙）\",\n          \"金属（枪灰色拉链）\"\n        ]\n      }\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫角色设计文档：生成一份全面的角色参考表，包含全身姿势、细节展示面板、配色方案及材质样本。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "full-body"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, full-body]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13807",
+      "13948",
+      "14007",
+      "14250",
+      "14620",
+      "15675"
+    ]
+  }
+}

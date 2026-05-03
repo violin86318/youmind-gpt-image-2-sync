@@ -1,0 +1,46 @@
+{
+  "id": "14546",
+  "prompt": "A dynamic anime-style low-angle illustration of two young women in rabbit-themed bodysuits, viewed from below as if the camera is tilted upward and they are looking slightly down toward the viewer. The left girl has {argument name=\"hair color\" default=\"blonde\"} hair in short twin pigtails with curled ends, large red bunny ears, and a glossy bright red high-cut bodysuit with puff sleeves, long opera gloves, a sweetheart-shaped chest panel, and 4 round silver button-like discs on the front. The right girl has long straight brown hair, pale bunny ears, and a glossy white and pale pink version of the same bodysuit design, also with puff sleeves, long gloves, sweetheart chest panel, and 4 round silver discs. Both have slim builds, long legs, expressive wide anime eyes, and mildly surprised, curious expressions as they glance toward each other and slightly toward the viewer. Their hands hang loosely at their sides, almost touching in the center. Place them in front of a vast ruined cathedral or decayed grand stone building with broken arches, skeletal metal framework, shattered windows, and crumbling debris, rendered as a soft-painted anime background. Use a dramatic Dutch angle and strong perspective so the architecture leans with the camera tilt and the characters feel towering and close to the lens. Bright blue sky with large white clouds behind the ruins. Clean cel shading on the characters, painterly detailed background, crisp line art, vibrant but slightly weathered color palette, cinematic composition. Add 3 text elements in the upper right area as graphic design overlay: small uppercase text \"ARINKO AGENTS\", large bold Japanese text \"平和島\", and a large white handwritten signature-like script overlapping the background.",
+  "translatedPrompt": "一张充满动感的动漫风格低角度插画，画面中两名年轻女性身着兔主题连体衣，视角从下方仰视，仿佛摄像机向上倾斜，而她们正微微低头看向观众。左侧女孩留着 {argument name=\"hair color\" default=\"blonde\"} 的短双马尾，发尾卷曲，戴着巨大的红色兔耳朵，身穿亮面鲜红色高叉连体衣，配有泡泡袖、长款歌剧手套、心形胸前拼接设计，正面饰有 4 枚圆形银色纽扣状圆盘。右侧女孩留着长直棕发，戴着浅色兔耳朵，身穿同款设计的亮面白色与浅粉色连体衣，同样配有泡泡袖、长手套、心形胸前拼接设计和 4 枚圆形银色圆盘。两人身材苗条，双腿修长，拥有富有表现力的动漫大眼，神情略带惊讶与好奇，目光交汇并微微看向观众。她们的手自然垂在身体两侧，在中心位置几乎相触。将她们置于一座广阔的废墟大教堂或破败的宏伟石建筑前，背景包含破碎的拱门、骨架般的金属框架、破碎的窗户和坍塌的瓦砾，渲染为柔和的动漫背景风格。采用戏剧性的荷兰式倾斜角（Dutch angle）和强烈的透视效果，使建筑随镜头倾斜，让角色显得高大且贴近镜头。废墟后方是湛蓝的天空和巨大的白云。角色采用干净的赛璐珞阴影，背景细节丰富且具有绘画感，线条清晰，色彩鲜艳但略带风化感，构图极具电影感。在右上角添加 3 个文本元素作为平面设计叠加：小号大写字母文本“ARINKO AGENTS”、大号粗体日文“平和島”，以及一个覆盖在背景上的大型白色手写签名式字体。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "废墟中的低角度动漫兔女郎：此提示词可生成一张以废墟大教堂为背景、两名身着兔女郎装束女孩的倾斜低角度动漫海报，适用于重现具有戏剧性透视效果的风格化角色与背景构图。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "anime"
+      ],
+      "lightingCamera": [
+        "lens",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, anime]。\n\nLighting and camera:\n[参考光线镜头: lens, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14960",
+      "14491",
+      "14524",
+      "15371",
+      "15610",
+      "15733"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "14880",
+  "prompt": "A minimalist clean poster on a warm light beige studio background with a subtle wall-to-table horizon line, lots of negative space, and soft diffused lighting. Center-right stands a full-body vintage silent-film comedian resembling {argument name=\"character type\" default=\"Charlie Chaplin\"}, wearing a black bowler hat, dark worn suit, vest, white shirt, tie, oversized trousers, and old leather shoes, holding a thin curved cane in one hand and smiling gently. His other arm is extended in a presentation gesture toward a large green jar of {argument name=\"product name\" default=\"anti-itch cream\"} placed in the foreground at center. The jar has a white screw cap, translucent green body, and a bright yellow-green label with Chinese medicine-style packaging details, including small Chinese characters and the English text {argument name=\"label text\" default=\"ANTI-ITCH CREAM\"}. A realistic human hand rises from below to support the jar from underneath, making the product the visual focal point. Add fresh green mint leaves around the base of the jar and near the character’s feet for a natural herbal cue. Composition should feel like a modern advertising poster: product large and centered, character slightly behind and to the right, clean cutout look, soft shadows, crisp edges, muted neutral palette with the green jar as the main color accent. No headline, no extra layout elements, no clutter, no border. Include a tiny four-point sparkle icon in the lower right corner. Aspect ratio vertical poster, polished commercial photomontage style.",
+  "translatedPrompt": "一张极简风格的干净海报，背景为暖浅米色摄影棚背景，带有微妙的墙面与桌面水平线，留白充足，光线柔和漫射。画面中右侧站着一位全身复古默片喜剧演员，外形酷似 {argument name=\"character type\" default=\"Charlie Chaplin\"}，头戴黑色圆顶硬礼帽，身穿深色磨损西装、马甲、白衬衫、领带，穿着超大号长裤和旧皮鞋，一手拿着细长的弯曲手杖，面带温和微笑。他的另一只手臂伸出，做出展示姿势，指向位于画面中央前景处的一大罐 {argument name=\"product name\" default=\"anti-itch cream\"}。该罐子配有白色旋盖，半透明绿色罐身，贴有亮黄绿色标签，标签上印有中药风格的包装细节，包括小号中文字符和英文字符 {argument name=\"label text\" default=\"ANTI-ITCH CREAM\"}。一只写实的人手从下方伸出托住罐子底部，使产品成为视觉焦点。在罐子底部和角色脚边添加新鲜的薄荷叶，以体现天然草本元素。构图应呈现现代广告海报感：产品居中且放大，角色位于其后方稍靠右侧，呈现干净的抠图效果，阴影柔和，边缘清晰，整体采用柔和的中性色调，以绿色罐子作为主要色彩点缀。无标题，无额外排版元素，无杂乱内容，无边框。在右下角添加一个微小的四角星图标。纵向海报比例，精致的商业照片合成风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "极简风止痒膏海报：该提示词用于生成一张干净的极简主义产品海报，画面中一位类似卓别林的复古角色正在展示一罐大型草本止痒膏，适用于广告或社交媒体样机展示。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "full-body",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "minimalist",
+        "vintage",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, full-body, vertical]。\n\nVisual style:\n[参考风格: realistic, minimalist, vintage, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15014",
+      "15041",
+      "15446",
+      "15607",
+      "14640",
+      "15084"
+    ]
+  }
+}

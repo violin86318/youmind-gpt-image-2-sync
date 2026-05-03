@@ -1,0 +1,55 @@
+{
+  "id": "15647",
+  "prompt": "A clean neumorphic mobile dashboard UI mockup shown straight-on, centered on a soft light gray background, inside a white rounded smartphone frame with subtle embossed shadows and glossy soft highlights. The interface uses a minimalist white-on-white design with teal green and warm orange accent colors. At the very top of the phone, include a small circular menu button on the left, a centered speaker slit and front camera dot, and status icons on the right showing Wi‑Fi, signal, 100%, and battery. The main layout contains 12 distinct UI modules: 1 large time card at upper left showing “AM”, “10:24”, and “Friday, May 24” with three tiny pagination dots beneath; 1 weather card at upper right showing a soft 3D partly cloudy sun icon, “24°”, “Partly Cloudy”, and “New York”; 4 small circular action buttons in one row under the time card, showing a grid icon, heart, bell, and gear, with the grid button filled in dark teal; 1 slim horizontal slider card to the right of those buttons with a droplet icon, “40%”, and a teal progress bar; 1 large circular volume control occupying the left middle area, with a thick beveled silver knob, a surrounding tick-mark ring split into teal on the left and orange on the right, a short orange indicator line near the upper right, tiny speaker icons on both sides, and a pill label reading “VOLUME”; 1 music player card on the right middle with square album art in dark teal waves, the title “Ocean Drive”, subtitle “Miami Nights”, a thin orange playback progress line with times “1:45” and “3:48”, and three circular transport controls for previous, play, and next, with the play button filled teal; 3 small rounded buttons in a row beneath the music player, showing an equalizer icon filled teal, a broadcast icon, and sliders icon; 1 compass card at lower left with small circular buttons in the top corners, heading text “320° NW” above, and a detailed analog compass with N, E, S, W letters and a teal-and-orange needle pointing northwest; 1 equalizer card at lower right with four vertical sliders, scale markings “+12”, “0”, “-12”, and bottom frequency labels “60”, “250”, “1K”, “4K”, “16K”, using orange slider stems and white knobs; and 5 bottom dock controls: an orange circular power button, a small Bluetooth button, a central pill waveform panel, a crescent moon button, and a sun brightness button. Use soft ambient shadows, gentle inner embossing, rounded corners, precise spacing, and a premium futuristic smart-home or control-center aesthetic inspired by high-end dribbble neumorphism, ultra-detailed, crisp vector UI, realistic depth, polished product presentation.",
+  "translatedPrompt": "一个简洁的拟态风格移动端仪表盘 UI 模型，采用正视视角，居中置于柔和的浅灰色背景之上，嵌入在一个带有细腻浮雕阴影和光泽柔和高光的白色圆角智能手机边框内。界面采用极简的白底白设计，辅以青绿色和暖橙色的点缀。手机顶部左侧设有一个小型圆形菜单按钮，中间为扬声器缝隙和前置摄像头圆点，右侧为显示 Wi-Fi、信号、100% 电量及电池状态的图标。主布局包含 12 个独特的 UI 模块：左上角为一个大型时间卡片，显示“AM”、“10:24”及“5 月 24 日，星期五”，下方带有三个微型分页圆点；右上角为一个天气卡片，显示柔和的 3D 多云转晴图标、“24°”、“局部多云”及“纽约”；时间卡片下方一行排列着 4 个小型圆形操作按钮，分别为网格图标、心形、铃铛和齿轮，其中网格按钮填充为深青色；按钮右侧为一个细长的水平滑块卡片，带有水滴图标、“40%”及青色进度条；左侧中部为一个大型圆形音量控制器，配有厚实的斜面银色旋钮、周围环绕的刻度环（左侧为青色，右侧为橙色）、右上角附近的短橙色指示线、两侧的小型扬声器图标，以及一个写有“VOLUME”的胶囊状标签；右侧中部为一个音乐播放器卡片，带有深青色波浪纹的方形专辑封面，标题为“Ocean Drive”，副标题为“Miami Nights”，一条橙色的细播放进度条显示时间“1:45”和“3:48”，以及三个用于上一曲、播放、下一曲的圆形传输控制按钮，其中播放按钮填充为青色；音乐播放器下方一行排列着 3 个小型圆角按钮，分别为填充青色的均衡器图标、广播图标和滑块图标；左下角为一个指南针卡片，顶部角落设有小型圆形按钮，上方显示航向文本“320° NW”，以及一个带有 N、E、S、W 字母和指向西北方向的青橙双色指针的精细模拟指南针；右下角为一个均衡器卡片，带有四个垂直滑块、刻度标记“+12”、“0”、“-12”以及底部的频率标签“60”、“250”、“1K”、“4K”、“16K”，使用橙色滑块杆和白色旋钮；底部停靠栏包含 5 个控制按钮：一个橙色圆形电源按钮、一个小型蓝牙按钮、一个中央胶囊状波形面板、一个新月按钮和一个太阳亮度按钮。运用柔和的环境阴影、细腻的内部浮雕、圆角设计、精确的间距，打造出受高端 Dribbble 拟态风格启发、超精细、清晰的矢量 UI、具有真实深度感和精致产品质感的未来主义智能家居或控制中心美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "拟态风格智能仪表盘 UI：此提示词可生成精致的拟态风格智能手机控制仪表盘模型，适用于 App 设计展示、UI 概念艺术及高端界面演示。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "grid",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "3d",
+        "minimalist",
+        "premium"
+      ],
+      "lightingCamera": [
+        "soft light",
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, grid, vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, 3d, minimalist, premium]。\n\nLighting and camera:\n[参考光线镜头: soft light, camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15649",
+      "14869",
+      "14975",
+      "14574",
+      "15731",
+      "15458"
+    ]
+  }
+}

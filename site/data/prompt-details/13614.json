@@ -1,0 +1,45 @@
+{
+  "id": "13614",
+  "prompt": "A 3D anime-style illustration of four high school girls in a Japanese classroom bathed in {argument name=\"lighting\" default=\"warm afternoon sunlight\"}. In the foreground on the right, a girl with {argument name=\"foreground right character hair\" default=\"long coral-brown hair in a ponytail with a white bow\"} and green eyes reaches her hand out towards the viewer with a warm smile. In the foreground on the left, a girl with {argument name=\"foreground left character hair\" default=\"short pink hair with red hairclips\"} and pink eyes stands with her arms crossed, looking slightly annoyed. In the midground, a girl with long dark purple hair stands calmly holding a book, while in the background, a girl with short coral-pink hair and a red bow waves cheerfully. All four girls wear matching school uniforms consisting of {argument name=\"uniform style\" default=\"grey blazers, brown sweater vests, red ribbons, and blue pleated skirts\"}. The classroom features wooden floors, desks, and a green chalkboard. In the top left corner, there is a circular logo with a pink border containing the stylized text \"{argument name=\"logo text\" default=\"DOKI DOKI Literature Club!\"}\" and a large pink \"3D\" below it, decorated with a green pencil and a pink heart. The image has a high-quality 3D render aesthetic, resembling video game promotional art with soft lighting and depth of field.",
+  "translatedPrompt": "一张 3D 动漫风格的插画，展示了四名女高中生身处日本教室中，沐浴在 {argument name=\"lighting\" default=\"温暖的午后阳光\"} 下。在右侧前景中，一位留着 {argument name=\"foreground right character hair\" default=\"系着白色蝴蝶结的珊瑚棕色长马尾\"}、拥有绿色眼睛的女孩带着温暖的微笑向观众伸出手。在左侧前景中，一位留着 {argument name=\"foreground left character hair\" default=\"粉色短发配红色发夹\"}、拥有粉色眼睛的女孩双臂交叉站立，表情略显烦恼。在中景处，一位留着深紫色长发的女孩平静地拿着一本书站着；而在背景中，一位留着珊瑚粉色短发、系着红色蝴蝶结的女孩正愉快地挥手。四名女孩都穿着统一的校服，包括 {argument name=\"uniform style\" default=\"灰色西装外套、棕色针织背心、红色丝带和蓝色百褶裙\"}。教室里有木地板、课桌和一块绿色黑板。左上角有一个带有粉色边框的圆形 Logo，其中包含程式化的文字“{argument name=\"logo text\" default=\"DOKI DOKI Literature Club!\"}”，下方是一个巨大的粉色“3D”字样，并装饰着一支绿色铅笔和一个粉色爱心。整张图片具有高质量的 3D 渲染美感，类似于带有柔和光影和景深效果的电子游戏宣传艺术图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "3D 动漫视觉小说游戏封面：生成一张 3D 动漫风格的宣传图，展示四名身处教室的女高中生，并包含可自定义的游戏 Logo。",
+      "subject": "人物",
+      "scene": "空间/场景",
+      "composition": [],
+      "style": [
+        "anime",
+        "3d"
+      ],
+      "lightingCamera": [
+        "soft light",
+        "depth of field"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "空间概念、建筑场景、游戏场景、产品场景盒子",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 空间/场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime, 3d]。\n\nLighting and camera:\n[参考光线镜头: soft light, depth of field]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13734",
+      "13690",
+      "15328",
+      "15518",
+      "14686",
+      "13890"
+    ]
+  }
+}

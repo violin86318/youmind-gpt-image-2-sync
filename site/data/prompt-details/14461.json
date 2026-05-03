@@ -1,0 +1,47 @@
+{
+  "id": "14461",
+  "prompt": "A dramatic anime action illustration inside an old wooden martial arts hall, showing two young women in mid-battle with explosive motion and elemental energy trails. In the foreground, a fierce female martial artist lunges low toward the viewer in a powerful punching stance, her right fist extended straight ahead and her body twisted dynamically. She has dark black hair tied into a messy high bun with loose strands and red ribbons, sharp intense eyes, and a focused combative expression. She wears a white traditional Chinese martial arts top with red trim, red tassel frog closures, and subtle embroidered patterns, paired with flowing deep red pants and black cloth shoes with red accents. Red ribbon-like energy and glowing scarlet brushstroke arcs coil around her arms, torso, and legs, sweeping across the frame like fiery calligraphy. In the upper right, a second young woman leaps through the air in a defensive or spellcasting pose, one hand stretched outward. She has {argument name=\"hair color\" default=\"light purple\"} hair styled in two buns with trailing strands and ornate gold hair ornaments. She wears a dark green Chinese-style dress with gold embroidery, black stockings, and dark shoes. Bright blue water-like energy spirals around her in a large circular arc, splashing and glittering with luminous droplets. Set the scene in a weathered dojo or wuguan interior with tall wooden beams, hanging lanterns, broken floorboards, flying splinters, dust, sparks, and debris exploding from the impact of the fight. Include one large wooden signboard above them with the black calligraphy text 武术会, plus two vertical hanging banners, the left reading 以武会友 and the right reading 刚柔并济. Use a low-angle cinematic perspective, strong foreshortening, extreme motion, dense particles, and dramatic warm-vs-cool color contrast between the red and blue energy. Highly detailed anime painting, ultra-dynamic composition, sharp linework, rich textures, glowing effects, volumetric lighting, and epic battle key visual quality.",
+  "translatedPrompt": "一幅极具戏剧性的动漫动作插画，场景设定在古老的木质武术馆内，展现了两名年轻女性在战斗中的激烈瞬间，画面充满爆发性的动作感和元素能量轨迹。前景中，一名凶猛的女性武术家正以低姿态向观众冲刺，摆出强有力的出拳姿势，右拳笔直向前延伸，身体呈现出动态的扭转。她留着黑色长发，扎成凌乱的高丸子头，几缕发丝垂落，系着红色丝带，眼神犀利而专注，神情充满战斗感。她身穿带有红色镶边的白色传统中式武术上衣，配有红色盘扣和精致的刺绣图案，下身穿着飘逸的深红色长裤，脚蹬带有红色装饰的黑色布鞋。红色的丝带状能量和发光的绯红色笔触弧线缠绕在她的手臂、躯干和腿部，如燃烧的书法般横扫整个画面。在右上角，另一名年轻女性正摆出防御或施法姿势跃向空中，一只手向外伸展。她留着 {argument name=\"hair color\" default=\"浅紫色\"} 的头发，梳成两个丸子头，垂下几缕发丝，并佩戴着华丽的金色发饰。她身穿带有金色刺绣的深绿色中式长裙，穿着黑色长袜和深色鞋子。明亮的蓝色水状能量在她周围盘旋，形成一个巨大的圆形弧线，闪烁着发光的水滴。场景设定在一个饱经风霜的道场或武馆内部，背景可见高大的木梁、悬挂的灯笼、破碎的地板、飞溅的木屑、灰尘、火花以及战斗冲击产生的碎片。在她们上方悬挂着一块大型木质牌匾，上面写着黑色书法文字“武术会”，两侧各有一条垂直悬挂的横幅，左侧写着“以武会友”，右侧写着“刚柔并济”。采用低角度电影视角，运用强烈的透视缩短、极端的动作表现、密集的粒子效果，以及红蓝能量之间强烈的冷暖色调对比。高度精细的动漫绘画，超动态构图，线条锐利，纹理丰富，光效绚丽，体积光渲染，呈现史诗级的战斗视觉效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "道场动漫武术对决：此提示词可生成一幅充满活力的动漫战斗场景，描绘两名女性武术家在木质道场中的对决，非常适合用于动作海报或戏剧性的角色展示图。",
+      "subject": "产品",
+      "scene": "插画/漫画",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "anime"
+      ],
+      "lightingCamera": [
+        "volumetric"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "动漫分镜、战斗场景、运动瞬间、夸张叙事图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 插画/漫画 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: cinematic, anime]。\n\nLighting and camera:\n[参考光线镜头: volumetric]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14432",
+      "15379",
+      "15800",
+      "14528",
+      "15798",
+      "14617"
+    ]
+  }
+}

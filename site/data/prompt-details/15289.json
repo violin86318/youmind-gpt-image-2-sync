@@ -1,0 +1,41 @@
+{
+  "id": "15289",
+  "prompt": "A whimsical yet reverent Renaissance-style parody of The Last Supper, with exactly 13 anthropomorphic teddy bears seated along one side of a long banquet table in a grand classical dining hall. The central bear is the clear focal point, posed like Jesus, facing forward with a calm, solemn expression, wearing a muted red robe with a deep blue drape. The other 12 teddy bears cluster in animated conversational groups to the left and right, each with slightly different fur tones from honey brown to cream, all with soft plush texture, rounded ears, black bead-like eyes, and expressive paws raised in discussion. Dress the surrounding bears in painterly biblical robes in earthy reds, dusty blues, ochres, and greens. Recreate the composition closely to Leonardo da Vinci’s Last Supper: symmetrical perspective, coffered wooden ceiling, three rear windows with soft blue mountain landscape visible outside, dark wall tapestries on both side walls, and a long white tablecloth hanging over trestle supports. On the table, include scattered small bread rolls, plates, bowls, and multiple small glasses of dark red wine spaced across the full length. Use warm museum-like lighting, aged fresco tones, soft shadows, detailed oil-paint texture, and a highly polished old-master look, balancing humor with genuine artistic beauty. No modern objects, no text, no extra characters, straight-on wide composition, full table visible.",
+  "translatedPrompt": "一幅既奇幻又庄重的文艺复兴风格《最后的晚餐》戏仿画作，画面中 13 只拟人化的泰迪熊并排坐在一张长宴会桌的一侧，背景位于宏伟的古典餐厅内。中央的泰迪熊是视觉焦点，姿态模仿耶稣，面朝前方，表情沉稳庄重，身穿柔和的红色长袍，披着深蓝色披肩。其余 12 只泰迪熊在左右两侧聚集成生动的交谈小组，每只熊的毛色略有不同，从蜜棕色到奶油色不等，均呈现出柔软的毛绒质感、圆润的耳朵、黑豆般的眼睛，以及在讨论中抬起的富有表现力的爪子。周围的泰迪熊穿着绘有大地红、灰蓝、赭石和绿色等圣经风格长袍。构图紧密还原列奥纳多·达·芬奇的《最后的晚餐》：对称的透视感、方格木制天花板、三个可以看到柔和蓝色山景的后窗、两侧墙壁上的深色挂毯，以及铺在支架桌上的长条白桌布。桌上散落着小面包卷、盘子、碗以及沿桌摆放的多只盛有深红葡萄酒的小杯子。采用温暖的博物馆式灯光、陈旧的壁画色调、柔和的阴影、细腻的油画质感，呈现出高度精致的大师级画作风格，在幽默感与纯粹的艺术美感之间取得平衡。无现代物品，无文字，无额外角色，采用正面广角构图，完整展示整张餐桌。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "泰迪熊版《最后的晚餐》：一幅致敬古典大师风格的《最后的晚餐》戏仿画作，由 13 只泰迪熊演绎，非常适合奇幻艺术致敬及超现实主义模因风格插画。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "symmetrical"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "要求精确文字；禁止额外文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: symmetrical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；禁止额外文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14668",
+      "15717",
+      "15368",
+      "14908",
+      "14509",
+      "14978"
+    ]
+  }
+}

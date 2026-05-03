@@ -1,0 +1,46 @@
+{
+  "id": "14150",
+  "prompt": "A highly detailed, realistic first-person video game screenshot of a next-generation voxel-based world. At the top center, a large, bold 3D logo reads \"{argument name=\"game title\" default=\"MINECRAFT 2\"}\". The scene features a {argument name=\"environment\" default=\"lush, blocky landscape with a river, a small wooden cabin, a windmill, a waterfall, and majestic mountains in the background\"}. The world blends realistic lighting, volumetric clouds, and high-resolution textures with cubic, voxel geometry. In the foreground on the left, a {argument name=\"mob 1\" default=\"blocky green creeper\"} stands on the grass, while a {argument name=\"mob 2\" default=\"blocky brown wolf\"} stands on the dirt path to the right. On the far right, the player's hand holds a {argument name=\"held item\" default=\"pixelated blue diamond sword\"} in a first-person perspective. At the bottom of the screen is a game user interface featuring a health bar with 10 red hearts, a green experience bar with the number '16', a hunger bar with 10 brown meat icons, and a 9-slot inventory hotbar. The hotbar contains, from left to right: a selected blue tool with a green highlight box, a green tool, a knife, a wrench with the number '3', a piece of meat with '6', a lantern with '24', a dirt block with '10', a bucket, and a sponge block.",
+  "translatedPrompt": "A highly detailed, realistic first-person video game screenshot of a next-generation voxel-based world. At the top center, a large, bold 3D logo reads \"{argument name=\"game title\" default=\"MINECRAFT 2\"}\". The scene features a {argument name=\"environment\" default=\"lush, blocky landscape with a river, a small wooden cabin, a windmill, a waterfall, and majestic mountains in the background\"}. The world blends realistic lighting, volumetric clouds, and high-resolution textures with cubic, voxel geometry. In the foreground on the left, a {argument name=\"mob 1\" default=\"blocky green creeper\"} stands on the grass, while a {argument name=\"mob 2\" default=\"blocky brown wolf\"} stands on the dirt path to the right. On the far right, the player's hand holds a {argument name=\"held item\" default=\"pixelated blue diamond sword\"} in a first-person perspective. At the bottom of the screen is a game user interface featuring a health bar with 10 red hearts, a green experience bar with the number '16', a hunger bar with 10 brown meat icons, and a 9-slot inventory hotbar. The hotbar contains, from left to right: a selected blue tool with a green highlight box, a green tool, a knife, a wrench with the number '3', a piece of meat with '6', a lantern with '24', a dirt block with '10', a bucket, and a sponge block.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Next-Gen Voxel Game Screenshot：Generates a realistic, high-fidelity first-person screenshot of a block-building game with a custom logo, environment, and UI overlay.",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "3d"
+      ],
+      "lightingCamera": [
+        "volumetric"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "App Store 截图、产品概念、移动工具界面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, 3d]。\n\nLighting and camera:\n[参考光线镜头: volumetric]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13681",
+      "14085",
+      "14540",
+      "14892",
+      "14480",
+      "14541"
+    ]
+  }
+}

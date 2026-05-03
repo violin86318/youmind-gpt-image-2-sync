@@ -1,0 +1,35 @@
+{
+  "id": "15191",
+  "prompt": "试着分析 红警 所有场景，然后将用到的资源 都生成像素雪碧图 在一张大图，注意不要无关元素方便我定位裁剪",
+  "translatedPrompt": "请尝试分析所有《红色警戒》的场景，然后将所使用的所有资源生成在一张大型图像的像素精灵图表中，注意不要包含无关元素，以便于我进行裁剪。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "《红色警戒》风格像素精灵图表：一个用于生成游戏素材的提示词，专门针对基于经典游戏《红色警戒》的像素艺术精灵图表。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

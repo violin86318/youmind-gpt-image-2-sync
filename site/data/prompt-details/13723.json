@@ -1,0 +1,36 @@
+{
+  "id": "13723",
+  "prompt": "날렵한 {argument name=\"기체 종류\" default=\"우주 전투비행체\"}로 변신이 가능한, {argument name=\"성별\" default=\"여성\"} {argument name=\"캐릭터 유형\" default=\"안드로이드\"} 캐릭터에 대한 캐릭터 디자인 시트. 한국어로.",
+  "translatedPrompt": "一份关于 {argument name=\"gender\" default=\"女性\"} {argument name=\"character type\" default=\"仿生人\"} 角色的角色设计图，该角色可变身为流线型 {argument name=\"vehicle type\" default=\"太空战斗载具\"}。语言为韩语。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "机甲少女角色设计图：一份关于女性仿生人的角色设计图提示词，该角色可变身为流线型太空战斗载具，旨在展示模型在结构上的一致性。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13587",
+      "13616",
+      "13685",
+      "13715",
+      "13720",
+      "13861"
+    ]
+  }
+}

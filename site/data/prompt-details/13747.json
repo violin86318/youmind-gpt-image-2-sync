@@ -1,0 +1,41 @@
+{
+  "id": "13747",
+  "prompt": "An anime-style illustration of a young woman with {argument name=\"hair style\" default=\"short black hair with bangs\"} and purple eyes, leaning casually against a {argument name=\"machine color\" default=\"vibrant pink\"} vending machine on a cobblestone city street. She is wearing an oversized {argument name=\"hoodie color\" default=\"light purple\"} hoodie, frayed denim shorts, black high-top sneakers, and a black backpack. Her arms are crossed, and her legs are crossed at the ankles as she looks calmly to the side. The side of the vending machine features a large, striking advertisement for an energy drink: a black can with a pink graffiti-style smiley face with X eyes and a sticking-out tongue, accompanied by the large text \"{argument name=\"can text\" default=\"NOPE\"}\". The front of the machine displays rows of various bottled drinks, with a second identical black and pink can graphic visible on the lower panel. The scene is brightly lit with detailed shading and vibrant colors.",
+  "translatedPrompt": "一张动漫风格的插画，描绘了一位留着 {argument name=\"hair style\" default=\"带刘海的黑色短发\"}、有着紫色双眼的年轻女性，正悠闲地靠在鹅卵石铺就的城市街道旁的一台 {argument name=\"machine color\" default=\"亮粉色\"} 自动贩卖机上。她穿着一件超大号的 {argument name=\"hoodie color\" default=\"浅紫色\"} 连帽衫、磨边牛仔短裤、黑色高帮运动鞋，并背着一个黑色双肩包。她双臂交叉，双脚踝交叉站立，神情平静地看向侧方。自动贩卖机的侧面印有一幅醒目的大型能量饮料广告：一个黑色的易拉罐，上面绘有粉色的涂鸦风格笑脸，笑脸的双眼为“X”形并吐着舌头，旁边配有醒目的文字“{argument name=\"can text\" default=\"NOPE\"}”。贩卖机正面陈列着多排各种瓶装饮料，下方的面板上还可以看到第二个相同的黑粉色易拉罐图案。场景光线明亮，阴影细节丰富，色彩鲜艳。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "靠在自动贩卖机旁的动漫少女：生成一张动漫风格的插画，描绘了一位穿着休闲的少女靠在色彩鲜艳的城市自动贩卖机旁，贩卖机上带有定制的饮料广告。",
+      "subject": "人物",
+      "scene": "信息图/图解",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "城市美食地图、活动导览、园区地图、旅行视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14400",
+      "14088",
+      "14401",
+      "15652",
+      "14086",
+      "15063"
+    ]
+  }
+}

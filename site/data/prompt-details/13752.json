@@ -1,0 +1,44 @@
+{
+  "id": "13752",
+  "prompt": "{\n  \"type\": \"mobile short-video app interface mockup\",\n  \"background_image\": \"{argument name=\\\"landscape subject\\\" default=\\\"majestic snow-capped mountain peak illuminated by golden hour sunlight with a winding river in a lush green valley\\\"}\",\n  \"layout\": {\n    \"top_status_bar\": {\n      \"time\": \"9:41\",\n      \"icons\": [\"cellular signal\", \"wifi\", \"battery\"]\n    },\n    \"top_navigation\": {\n      \"left_icon\": \"hamburger menu\",\n      \"right_icon\": \"search magnifying glass\",\n      \"center_labels\": [\"经验\", \"同城\", \"关注\", \"商城\", \"{argument name=\\\"active tab\\\" default=\\\"推荐\\\"}\"]\n    },\n    \"right_interaction_bar\": {\n      \"count\": 6,\n      \"items\": [\n        {\"icon\": \"profile picture with red plus button\"},\n        {\"icon\": \"heart\", \"label\": \"{argument name=\\\"like count\\\" default=\\\"360.8万\\\"}\"},\n        {\"icon\": \"speech bubble\", \"label\": \"16.6万\"},\n        {\"icon\": \"star\", \"label\": \"38.0万\"},\n        {\"icon\": \"share arrow\", \"label\": \"164.5万\"},\n        {\"icon\": \"spinning music record\"}\n      ]\n    },\n    \"bottom_left_info\": {\n      \"username\": \"{argument name=\\\"username\\\" default=\\\"@摄影师-青锋\\\"}\",\n      \"caption\": \"{argument name=\\\"video caption\\\" default=\\\"川西真的美成了仙境，一定要和心爱的人去一次川西！#川西 #旅行 #雪山 #... 展开\\\"}\",\n      \"music_ticker\": \"去汽水听 > 风吹又日晒 (DJ版) - 张\"\n    },\n    \"bottom_navigation\": {\n      \"count\": 5,\n      \"items\": [\n        {\"label\": \"首页\"},\n        {\"label\": \"朋友\", \"badge\": \"24\"},\n        {\"icon\": \"square plus button\"},\n        {\"label\": \"消息\", \"badge\": \"4\"},\n        {\"label\": \"我\"}\n      ],\n      \"home_indicator\": \"horizontal line at bottom\"\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"移动端短视频 App 界面原型\",\n  \"background_image\": \"{argument name=\\\"landscape subject\\\" default=\\\"黄金时刻阳光照耀下的雄伟雪山峰顶，山脚下是郁郁葱葱的河谷与蜿蜒河流\\\"}\",\n  \"layout\": {\n    \"top_status_bar\": {\n      \"time\": \"9:41\",\n      \"icons\": [\"蜂窝信号\", \"Wi-Fi\", \"电池\"]\n    },\n    \"top_navigation\": {\n      \"left_icon\": \"汉堡菜单\",\n      \"right_icon\": \"搜索放大镜\",\n      \"center_labels\": [\"经验\", \"同城\", \"关注\", \"商城\", \"{argument name=\\\"active tab\\\" default=\\\"推荐\\\"}\"]\n    },\n    \"right_interaction_bar\": {\n      \"count\": 6,\n      \"items\": [\n        {\"icon\": \"带有红色加号的头像\"},\n        {\"icon\": \"心形\", \"label\": \"{argument name=\\\"like count\\\" default=\\\"360.8万\\\"}\"},\n        {\"icon\": \"对话气泡\", \"label\": \"16.6万\"},\n        {\"icon\": \"星形\", \"label\": \"38.0万\"},\n        {\"icon\": \"分享箭头\", \"label\": \"164.5万\"},\n        {\"icon\": \"旋转的音乐唱片\"}\n      ]\n    },\n    \"bottom_left_info\": {\n      \"username\": \"{argument name=\\\"username\\\" default=\\\"@摄影师-青锋\\\"}\",\n      \"caption\": \"{argument name=\\\"video caption\\\" default=\\\"川西真的美成了仙境，一定要和心爱的人去一次川西！#川西 #旅行 #雪山 #... 展开\\\"}\",\n      \"music_ticker\": \"去汽水听 > 风吹又日晒 (DJ版) - 张\"\n    },\n    \"bottom_navigation\": {\n      \"count\": 5,\n      \"items\": [\n        {\"label\": \"首页\"},\n        {\"label\": \"朋友\", \"badge\": \"24\"},\n        {\"icon\": \"方形加号按钮\"},\n        {\"label\": \"消息\", \"badge\": \"4\"},\n        {\"label\": \"我\"}\n      ],\n      \"home_indicator\": \"底部横线\"\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "短视频 App UI 原型：生成逼真的移动端短视频 App 界面，并叠加可自定义的风景背景图。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "golden hour"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: golden hour]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14033",
+      "15613",
+      "15795",
+      "13735",
+      "13828",
+      "13844"
+    ]
+  }
+}

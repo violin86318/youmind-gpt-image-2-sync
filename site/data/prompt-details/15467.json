@@ -1,0 +1,60 @@
+{
+  "id": "15467",
+  "prompt": "Create a clean, premium Japanese corporate poster for a {argument name=\"company name\" default=\"Arks\"} video production company, in a minimalist editorial layout on an off-white background with lots of negative space. Portrait orientation, A4-like poster proportions. At the very top left, place an oversized bold black sans-serif logotype reading {argument name=\"company name\" default=\"Arks\"}, spanning nearly the full width of the page. In the upper right, add a small stacked brand mark in thin uppercase letters: \"VIDEO\" on one line, \"PRODUCTION\" on the next, \"COMPANY\" on the third, with a small burnt-orange geometric accent nearby. Below the logo, add a vertical burnt-orange bar on the left and a large elegant Japanese headline in black Mincho-style serif: {argument name=\"headline text\" default=\"4つの領域で、映像を磨く。\"}. Directly underneath, add a smaller service line in Japanese with slash separators: \"SNS運用 / ショートドラマ / MV制作 / AI映像\". The main body is a 2 by 2 grid of exactly 4 service panels with thin light-gray divider lines. Each panel has a large black editorial number and a Japanese label. Panel 1 label: \"SNS運用\" with the number \"01\"; image shows a close-up hand holding a smartphone displaying social media analytics, on a desk with charts, a calendar sheet, a pen, and a coffee mug, in warm natural office lighting; caption below in Japanese: \"企画・分析・運用を一つの流れで。\" Panel 2 label: \"ショートドラマ\" with the number \"02\"; image shows exactly 2 Japanese high-school-age students in white shirts standing outdoors on a rooftop or balcony, one female and one male, side-profile composition, muted overcast daylight, cinematic shallow depth of field; caption below: \"共感が残る、短編の物語設計。\" Panel 3 label: \"MV制作\" with the number \"03\"; image shows a moody musician playing electric guitar in a dim studio, backlit by soft haze, with a camera monitor in the foreground showing the same performer; caption below: \"アーティストの世界観を、映像で可視化。\" Panel 4 label: \"AI映像\" with the number \"04\"; image shows a dark professional AI video-generation or image-editing software interface on a monitor, with a cinematic scene of a lone figure standing on rocks under dramatic clouds, plus thumbnail timeline images and side control panels; caption below: \"技術を表現へ変える、次世代の映像制作。\" At the bottom left, place a small three-line English slogan in uppercase: {argument name=\"tagline text\" default=\"CREATE.\\nCONNECT.\\nLEAVE A MARK.\"} with a small burnt-orange line accent above it. At the bottom right, place the website {argument name=\"website\" default=\"arks-vp.com\"} in small serif text with a short black horizontal line beside it. Use a refined mix of bold modern sans-serif for the large logo and numbers, and elegant Japanese serif for headlines and labels. Color palette: black, charcoal, warm off-white, light gray rules, and restrained burnt-orange accents. The overall feel should be realistic, polished, contemporary, Japanese editorial advertising design, with accurate Japanese typography and natural image tones.",
+  "translatedPrompt": "为一家名为 {argument name=\"company name\" default=\"Arks\"} 的视频制作公司创作一张简洁、高端的日式企业海报。采用极简主义的编辑排版，以米白色为背景，留出大量负空间。海报为纵向构图，比例接近 A4 纸。在左上角放置一个超大的粗体黑色无衬线字体 Logo，内容为 {argument name=\"company name\" default=\"Arks\"}，宽度几乎横跨页面。在右上角，添加一个小型堆叠式品牌标识，使用纤细的大写字母：第一行写“VIDEO”，第二行写“PRODUCTION”，第三行写“COMPANY”，旁边配有一个小的焦橙色几何装饰。在 Logo 下方，左侧添加一条垂直的焦橙色线条，并配以黑色明朝体（Mincho）的大号优雅日文标题：{argument name=\"headline text\" default=\"4つの領域で、映像を磨く。\"}。紧随其后，添加一行较小的日文服务说明，使用斜杠分隔：“SNS 运营 / 短剧制作 / MV 制作 / AI 视频”。主体部分为一个 2x2 的网格，包含 4 个服务板块，板块间由细浅灰色线条分隔。每个板块均配有一个大号黑色编辑风格数字和一个日文标签。板块 1 标签：“SNS 运营”，数字“01”；图片展示一只手拿着智能手机查看社交媒体分析数据，背景是办公桌，桌上有图表、日历页、钢笔和咖啡杯，光线为温暖的自然办公光；下方日文说明：“企画・分析・運用を一つの流れで。” 板块 2 标签：“短剧制作”，数字“02”；图片展示 2 名穿着白衬衫的日本高中生站在户外屋顶或阳台上，一男一女，侧面构图，柔和的阴天日光，电影感的浅景深；下方日文说明：“共感が残る、短編の物語設計。” 板块 3 标签：“MV 制作”，数字“03”；图片展示一名音乐人在昏暗的录音室中弹奏电吉他，背光带有柔和的雾气，前景中有一个显示同一表演者的摄像机监视器；下方日文说明：“アーティストの世界観を、映像で可視化。” 板块 4 标签：“AI 视频”，数字“04”；图片展示显示器上专业的 AI 视频生成或图像编辑软件界面，屏幕中是电影感场景：一个孤独的身影站在岩石上，背景是戏剧性的云层，此外还有缩略图时间轴和侧边控制面板；下方日文说明：“技術を表現へ変える、次世代の映像制作。” 在左下角，放置一个三行大写英文标语：{argument name=\"tagline text\" default=\"CREATE.\\nCONNECT.\\nLEAVE A MARK.\"}，上方配有一条小的焦橙色线条装饰。在右下角，放置网址 {argument name=\"website\" default=\"arks-vp.com\"}，使用小型衬线字体，旁边配有一条短黑色水平线。整体采用粗体现代无衬线字体（用于大号 Logo 和数字）与优雅日文衬线体（用于标题和标签）的精致组合。配色方案：黑色、炭灰色、温暖的米白色、浅灰色线条以及克制的焦橙色点缀。整体风格应呈现出真实、精致、现代的日式编辑广告设计感，并具备准确的日文排版和自然的图像色调。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日式视频制作海报：一张极简风格的日式企业宣传海报，展示四项视频制作服务，适用于代理商品牌推广、服务概览以及招聘或公关材料。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up",
+        "grid",
+        "2x2",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "editorial",
+        "minimalist",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "overcast",
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": "得分 92；构图: close-up, grid, 2x2, vertical, horizontal；风格: realistic, cinematic, editorial, minimalist, premium, studio；要求精确文字；包含标注/说明；文字是主视觉"
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, grid, 2x2, vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, cinematic, editorial, minimalist, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: overcast, shallow depth, depth of field, camera]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14481",
+      "15279",
+      "15088",
+      "15089",
+      "15668",
+      "15298"
+    ]
+  }
+}

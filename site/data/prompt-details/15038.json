@@ -1,0 +1,44 @@
+{
+  "id": "15038",
+  "prompt": "A photorealistic macOS desktop screenshot of a machine learning engineer’s workspace at night, shown straight-on with a dark blue macOS menu bar and the dock visible along the bottom. The desktop contains exactly 2 main application windows side by side. On the left, a large Visual Studio Code window in dark theme occupies about two-thirds of the screen. The VS Code project is named \"VISIONCLASSIFIER\" in the Explorer sidebar, with a realistic Python ML folder tree including exactly 11 visible top-level or expanded items: .venv, data, raw, processed, images, notebooks, src, utils, config.yaml, requirements.txt, README.md. Inside notebooks, show exactly 2 visible files: 01_data_exploration.ipynb and 02_model_training.ipynb. Inside src, show a realistic ML code structure with dataset.py, transforms.py, models, resnet.py, train, engine.py, trainer.py, utils.py. The editor area has exactly 4 tabs open: trainer.py, engine.py, resnet.py, config.yaml. The active tab is trainer.py. Display clean, believable Python training code for a ResNet image classification pipeline, including a class Trainer, methods train(self) and train_epoch(self, epoch: int) -> Dict[str, float], references to self.cfg.training.epochs, train_metrics, val_metrics, scheduler.step, save_checkpoint, self.model.train(), batch[\"image\"], batch[\"label\"], optimizer.zero_grad, criterion, loss.backward, optimizer.step, accuracy(outputs, targets, topk=(1,))[0]. Make the code sharp but naturally screen-like, with line numbers visible around lines 24 to 52. At the bottom of the VS Code window, the integrated terminal is open on the TERMINAL tab and shows realistic training logs for exactly 4 epochs in view: Epoch 12/50, Epoch 13/50, Epoch 14/50, Epoch 15/50, each with train and val lines listing Loss, Acc@1, and Acc@5, plus a final line saying a new best checkpoint was saved. Keep the numbers plausible for a successful training run, with top-1 accuracy around 0.88 to 0.91 and top-5 around 0.97 to 0.98. Include the usual VS Code status bar along the bottom with Python environment details. On the right, place exactly 1 dark-themed web browser window showing a local dashboard at localhost:8000 with the page title \"VisionClassifier | Dashboard\" and the app header \"VisionClassifier\" plus subtitle \"Image Classification Model\". The dashboard contains exactly 3 stacked sections. The first section is \"Model Overview\" with exactly 4 metric cards: Top-1 Accuracy 91.23%, Top-5 Accuracy 98.30%, Total Parameters 23.51M, Model ResNet-50. The second section is \"Recent Training\" with a dark line chart of accuracy over 50 epochs, showing exactly 2 colored curves labeled Train (Top-1) and Val (Top-1), both rising quickly and stabilizing around the low 90s. The third section is \"Confusion Matrix\" showing a 10x10 heatmap with a bright diagonal and axes labeled True Label and Predicted Label. Use subtle reflections, crisp typography, realistic UI spacing, and believable screen glow. The macOS top menu bar should show common menus like Code, File, Edit, Selection, View, Go, Run, Terminal, Window, Help on the left and system icons with the time reading Tue May 13 9:41 AM on the right. The dock should contain many recognizable app icons and feel authentic but not distracting. Overall style: ultra-realistic screenshot, professional developer workstation, polished dark mode interfaces, no stylization, no illustration, indistinguishable from a real screen capture.",
+  "translatedPrompt": "一张超写实的 macOS 桌面截图，展示了机器学习工程师在夜晚的工作空间。画面为正视视角，顶部为深蓝色 macOS 菜单栏，底部可见程序坞（Dock）。桌面上并排显示 2 个主要应用程序窗口。左侧是一个占据屏幕约三分之二的深色主题 Visual Studio Code 窗口。VS Code 项目在资源管理器侧边栏中命名为 \"VISIONCLASSIFIER\"，包含一个逼真的 Python ML 文件夹树，其中有 11 个可见的顶级或展开项：.venv、data、raw、processed、images、notebooks、src、utils、config.yaml、requirements.txt、README.md。在 notebooks 文件夹内，显示 2 个可见文件：01_data_exploration.ipynb 和 02_model_training.ipynb。在 src 文件夹内，展示真实的 ML 代码结构，包含 dataset.py、transforms.py、models、resnet.py、train、engine.py、trainer.py、utils.py。编辑器区域打开了 4 个标签页：trainer.py、engine.py、resnet.py、config.yaml，当前活动标签页为 trainer.py。显示清晰、可信的 ResNet 图像分类流水线 Python 训练代码，包含 Trainer 类、train(self) 和 train_epoch(self, epoch: int) -> Dict[str, float] 方法，引用 self.cfg.training.epochs、train_metrics、val_metrics、scheduler.step、save_checkpoint、self.model.train()、batch[\"image\"]、batch[\"label\"]、optimizer.zero_grad、criterion、loss.backward、optimizer.step、accuracy(outputs, targets, topk=(1,))[0]。代码需清晰且具有自然的屏幕质感，行号显示在 24 到 52 行之间。VS Code 窗口底部打开了集成终端的 TERMINAL 标签页，显示 4 个 epoch 的真实训练日志：Epoch 12/50、Epoch 13/50、Epoch 14/50、Epoch 15/50，每行包含 Loss、Acc@1 和 Acc@5 的训练与验证数据，最后一行显示已保存新的最佳检查点。数值需符合成功的训练过程，Top-1 准确率在 0.88 到 0.91 之间，Top-5 准确率在 0.97 到 0.98 之间。底部包含常规的 VS Code 状态栏，显示 Python 环境详情。右侧放置 1 个深色主题的网页浏览器窗口，显示 localhost:8000 上的本地仪表盘，页面标题为 \"VisionClassifier | Dashboard\"，应用标题为 \"VisionClassifier\"，副标题为 \"Image Classification Model\"。仪表盘包含 3 个堆叠部分。第一部分是 \"Model Overview\"，包含 4 个指标卡片：Top-1 Accuracy 91.23%、Top-5 Accuracy 98.30%、Total Parameters 23.51M、Model ResNet-50。第二部分是 \"Recent Training\"，展示一张 50 个 epoch 的准确率深色折线图，包含 2 条标注为 Train (Top-1) 和 Val (Top-1) 的彩色曲线，曲线迅速上升并稳定在 90% 左右。第三部分是 \"Confusion Matrix\"，显示一个 10x10 的热力图，具有明亮的对角线，坐标轴标注为 True Label 和 Predicted Label。使用细腻的反射效果、清晰的排版、真实的 UI 间距和逼真的屏幕光晕。macOS 顶部菜单栏左侧显示 Code、File、Edit、Selection、View、Go、Run、Terminal、Window、Help 等常用菜单，右侧显示系统图标，时间显示为 Tue May 13 9:41 AM。程序坞应包含多个可识别的应用图标，整体感觉真实且不杂乱。整体风格：超写实截图、专业开发者工作站、精致的深色模式界面、无风格化、无插画感，与真实屏幕截图无异。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "超写实 ML 开发者桌面：此提示词可生成一张高度逼真的 macOS 屏幕截图，展示程序员在 VS Code 中训练 Python 图像分类模型，并配有实时浏览器仪表盘，适用于产品样机、社交媒体贴文及 AI 演示视觉素材。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "B2B 产品概念图、后台系统、数据看板",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15389",
+      "14015",
+      "14446",
+      "15391",
+      "15425",
+      "14322"
+    ]
+  }
+}

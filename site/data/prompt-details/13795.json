@@ -1,0 +1,46 @@
+{
+  "id": "13795",
+  "prompt": "{\n  \"type\": \"creature concept art reference sheet\",\n  \"style\": \"vintage field guide, parchment paper background, realistic stylized illustrations\",\n  \"subject\": {\n    \"name\": \"{argument name=\\\"creature name\\\" default=\\\"Gojinya\\\"}\",\n    \"japanese_name\": \"{argument name=\\\"japanese name\\\" default=\\\"ごじにゃ\\\"}\",\n    \"base_animal\": \"{argument name=\\\"base animal\\\" default=\\\"Black Cat\\\"}\",\n    \"hybrid_element\": \"{argument name=\\\"hybrid element\\\" default=\\\"Godzilla\\\"}\",\n    \"features\": \"black fur, glowing blue dorsal spines, yellow eyes\"\n  },\n  \"layout\": {\n    \"header\": { \"text\": [\"{argument name=\\\"japanese name\\\" default=\\\"ごじにゃ\\\"}\", \"{argument name=\\\"creature name\\\" default=\\\"Gojinya\\\"}\"], \"style\": \"blue glowing font\" },\n    \"main_portrait\": \"full-body, standing on hind legs in kaiju pose, smoke/fire at feet, human silhouette scale\",\n    \"text_sections\": [\n      { \"title\": \"SPECIES\", \"bullet_count\": 4 },\n      { \"title\": \"ABILITIES\", \"bullet_count\": 2 },\n      { \"title\": \"TRAITS\", \"bullet_count\": 2 },\n      { \"title\": \"LIKES\", \"bullet_count\": 4 },\n      { \"title\": \"DISLIKES\", \"bullet_count\": 4 },\n      { \"title\": \"LOKE\", \"bullet_count\": 3 },\n      { \"title\": \"DISLIKES\", \"bullet_count\": 3 }\n    ],\n    \"action_panels\": [\n      \"top right inset: headshot firing blue atomic breath\",\n      \"bottom left inset: full body firing blue atomic breath, destroying rocks\"\n    ],\n    \"sketches\": {\n      \"title\": \"SKETCHES\",\n      \"count\": 5,\n      \"items\": [\"sitting cat\", \"normal paw pads\", \"glowing blue paw pads\", \"roaring head\", \"happy head with music note\"]\n    },\n    \"additional_poses\": {\n      \"count\": 2,\n      \"items\": [\"standing pose with scale lines\", \"sitting profile pose\"]\n    },\n    \"color_palette\": {\n      \"swatch_count\": 5,\n      \"colors\": [\"orange\", \"black\", \"grey\", \"light blue\", \"bright blue\"]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"生物概念艺术参考图\",\n  \"style\": \"复古野外指南，羊皮纸背景，写实风格插画\",\n  \"subject\": {\n    \"name\": \"{argument name=\\\"creature name\\\" default=\\\"Gojinya\\\"}\",\n    \"japanese_name\": \"{argument name=\\\"japanese name\\\" default=\\\"ごじにゃ\\\"}\",\n    \"base_animal\": \"{argument name=\\\"base animal\\\" default=\\\"黑猫\\\"}\",\n    \"hybrid_element\": \"{argument name=\\\"hybrid element\\\" default=\\\"哥斯拉\\\"}\",\n    \"features\": \"黑色皮毛，发光的蓝色背鳍，黄色眼睛\"\n  },\n  \"layout\": {\n    \"header\": { \"text\": [\"{argument name=\\\"japanese name\\\" default=\\\"ごじにゃ\\\"}\", \"{argument name=\\\"creature name\\\" default=\\\"Gojinya\\\"}\"], \"style\": \"蓝色发光字体\" },\n    \"main_portrait\": \"全身像，以怪兽姿态后腿站立，脚下有烟雾/火焰，附带人类剪影比例尺\",\n    \"text_sections\": [\n      { \"title\": \"物种\", \"bullet_count\": 4 },\n      { \"title\": \"能力\", \"bullet_count\": 2 },\n      { \"title\": \"特征\", \"bullet_count\": 2 },\n      { \"title\": \"喜好\", \"bullet_count\": 4 },\n      { \"title\": \"厌恶\", \"bullet_count\": 4 },\n      { \"title\": \"习性\", \"bullet_count\": 3 },\n      { \"title\": \"厌恶\", \"bullet_count\": 3 }\n    ],\n    \"action_panels\": [\n      \"右上角插图：发射蓝色原子吐息的头部特写\",\n      \"左下角插图：全身发射蓝色原子吐息，摧毁岩石\"\n    ],\n    \"sketches\": {\n      \"title\": \"草图\",\n      \"count\": 5,\n      \"items\": [\"坐姿猫\", \"普通肉垫\", \"发光的蓝色肉垫\", \"咆哮的头部\", \"带有音符的开心头部\"]\n    },\n    \"additional_poses\": {\n      \"count\": 2,\n      \"items\": [\"带比例尺的站立姿势\", \"侧面坐姿\"]\n    },\n    \"color_palette\": {\n      \"swatch_count\": 5,\n      \"colors\": [\"橙色\", \"黑色\", \"灰色\", \"浅蓝色\", \"亮蓝色\"]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "生物概念参考图：为混合生物生成一份复古风格的野外指南参考图，包含属性数据、草图和动作姿态。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "full-body"
+      ],
+      "style": [
+        "realistic",
+        "vintage"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body]。\n\nVisual style:\n[参考风格: realistic, vintage]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14420",
+      "14084",
+      "14486",
+      "14679",
+      "15435",
+      "13940"
+    ]
+  }
+}

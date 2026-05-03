@@ -1,0 +1,48 @@
+{
+  "id": "14635",
+  "prompt": "{\"type\":\"mobile real estate app showcase\",\"style\":\"high-fidelity modern fintech-style UI mockup, premium luxury aesthetic, deep navy blue gradient backgrounds, glowing cobalt highlights, glassmorphism cards, subtle inner shadows, rounded corners, clean white sans-serif text, realistic iPhone-style device frames shown front-on\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"PrimeHaus\\\"}\",\"subtitle\":\"IMÓVEIS\"},\"layout\":{\"canvas\":\"three smartphone screens side by side on a light neutral background\",\"count\":3,\"sections\":[{\"title\":\"home screen\",\"position\":\"left\",\"count\":7,\"labels\":[\"top brand header with notification icon\",\"hero headline\",\"search bar\",\"4 action shortcuts\",\"featured properties heading with see-all link\",\"featured property card\",\"bottom tab bar\"]},{\"title\":\"search results screen\",\"position\":\"center\",\"count\":6,\"labels\":[\"top back button and search field\",\"3 filter chips plus filter button\",\"results count text\",\"4 vertical property cards\",\"favorite icons on cards\",\"bottom tab bar\"]},{\"title\":\"property details screen\",\"position\":\"right\",\"count\":6,\"labels\":[\"top back share and favorite icons\",\"large hero image\",\"property info card\",\"feature row\",\"description block\",\"2 call-to-action buttons plus bottom tab bar\"]}]},\"screens\":{\"left\":{\"time\":\"9:41\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"Encontre o imóvel dos seus sonhos\\\"}\",\"search_placeholder\":\"Buscar por localização, bairro ou código\",\"shortcut_buttons\":{\"count\":4,\"labels\":[\"Comprar\",\"Alugar\",\"Lançamentos\",\"Favoritos\"]},\"section_title\":\"Imóveis em destaque\",\"link_text\":\"Ver todos\",\"featured_card\":{\"badge\":\"Destaque\",\"title\":\"Casa em Alphaville\",\"location\":\"Santana de Parnaíba, SP\",\"features\":{\"count\":3,\"items\":[\"4\",\"5\",\"320 m²\"]},\"price\":\"R$ 3.450.000\"},\"bottom_tabs\":{\"count\":5,\"labels\":[\"Início\",\"Buscar\",\"Favoritos\",\"Mensagens\",\"Perfil\"]}},\"center\":{\"search_placeholder\":\"Buscar imóveis\",\"filter_chips\":{\"count\":3,\"labels\":[\"Comprar\",\"Tipo de imóvel\",\"Preço\"]},\"results_text\":\"128 imóveis encontrados\",\"cards\":{\"count\":4,\"items\":[{\"title\":\"Apartamento\",\"location\":\"Vila Nova Conceição, São Paulo - SP\",\"features\":[\"3\",\"4\",\"178 m²\"],\"price\":\"R$ 2.980.000\"},{\"title\":\"Casa em Condomínio\",\"location\":\"Alphaville, Santana de Parnaíba - SP\",\"features\":[\"4\",\"6\",\"450 m²\"],\"price\":\"R$ 5.600.000\"},{\"title\":\"Apartamento\",\"location\":\"Itaim Bibi, São Paulo - SP\",\"features\":[\"2\",\"3\",\"112 m²\"],\"price\":\"R$ 1.850.000\"},{\"title\":\"Cobertura Duplex\",\"location\":\"Moema, São Paulo - SP\",\"features\":[\"4\",\"5\",\"280 m²\"],\"price\":\"R$ 4.750.000\"}]},\"bottom_tabs\":{\"count\":5,\"labels\":[\"Início\",\"Buscar\",\"Favoritos\",\"Mensagens\",\"Perfil\"]}},\"right\":{\"image_counter\":\"1/24\",\"title\":\"{argument name=\\\"property title\\\" default=\\\"Casa em Alphaville\\\"}\",\"location\":\"Santana de Parnaíba, SP\",\"price\":\"{argument name=\\\"price\\\" default=\\\"R$ 3.450.000\\\"}\",\"features\":{\"count\":4,\"items\":[\"4 suítes\",\"5 banheiros\",\"320 m²\",\"2 vagas\"]},\"description_title\":\"Descrição\",\"description\":\"{argument name=\\\"description text\\\" default=\\\"Casa de alto padrão com projeto arquitetônico moderno, ambientes integrados, iluminação natural e acabamentos de primeira linha. Localizada em um dos condomínios mais valorizados de Alphaville.\\\"}\",\"more_link\":\"Ver mais\",\"buttons\":{\"count\":2,\"labels\":[\"Contato\",\"Agendar visita\"]},\"bottom_tabs\":{\"count\":5,\"labels\":[\"Início\",\"Buscar\",\"Favoritos\",\"Mensagens\",\"Perfil\"]}}},\"imagery\":{\"property_photo_style\":\"luxury contemporary mansion at dusk with warm interior lighting, expansive glass walls, angular architecture, landscaped yard, large reflective swimming pool, photorealistic real estate photography\",\"card_thumbnails\":{\"count\":5,\"style\":\"high-end residential interiors and exteriors with consistent blue-toned color grading\"}},\"color_palette\":{\"primary\":\"deep navy\",\"secondary\":\"royal blue\",\"accent\":\"electric blue\",\"text\":\"white and light gray\"}}",
+  "translatedPrompt": "{\"type\":\"移动端房地产 App 展示\",\"style\":\"高保真现代金融科技风格 UI 设计稿，高端奢华美学，深海军蓝渐变背景，发光钴蓝色高光，玻璃拟态卡片，细腻的内阴影，圆角设计，简洁的白色无衬线字体，正面展示逼真的 iPhone 风格设备框架\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"PrimeHaus\\\"}\",\"subtitle\":\"IMÓVEIS\"},\"layout\":{\"canvas\":\"三个智能手机屏幕并排置于浅色中性背景上\",\"count\":3,\"sections\":[{\"title\":\"首页\",\"position\":\"left\",\"count\":7,\"labels\":[\"顶部品牌标题及通知图标\",\"主标题\",\"搜索栏\",\"4 个快捷操作按钮\",\"精选房源标题及查看全部链接\",\"精选房源卡片\",\"底部标签栏\"]},{\"title\":\"搜索结果页\",\"position\":\"center\",\"count\":6,\"labels\":[\"顶部返回按钮及搜索框\",\"3 个筛选标签及筛选按钮\",\"结果数量文本\",\"4 张垂直房源卡片\",\"卡片上的收藏图标\",\"底部标签栏\"]},{\"title\":\"房源详情页\",\"position\":\"right\",\"count\":6,\"labels\":[\"顶部返回、分享及收藏图标\",\"大尺寸主图\",\"房源信息卡片\",\"特征行\",\"描述区块\",\"2 个行动号召按钮及底部标签栏\"]}]},\"screens\":{\"left\":{\"time\":\"9:41\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"寻找您的梦想家园\\\"}\",\"search_placeholder\":\"搜索位置、社区或邮编\",\"shortcut_buttons\":{\"count\":4,\"labels\":[\"购买\",\"租赁\",\"新盘\",\"收藏\"]},\"section_title\":\"精选房源\",\"link_text\":\"查看全部\",\"featured_card\":{\"badge\":\"精选\",\"title\":\"Alphaville 别墅\",\"location\":\"圣保罗州，桑塔纳-德帕纳伊巴\",\"features\":{\"count\":3,\"items\":[\"4\",\"5\",\"320 平方米\"]},\"price\":\"R$ 3,450,000\"},\"bottom_tabs\":{\"count\":5,\"labels\":[\"首页\",\"搜索\",\"收藏\",\"消息\",\"个人中心\"]}},\"center\":{\"search_placeholder\":\"搜索房源\",\"filter_chips\":{\"count\":3,\"labels\":[\"购买\",\"房源类型\",\"价格\"]},\"results_text\":\"找到 128 套房源\",\"cards\":{\"count\":4,\"items\":[{\"title\":\"公寓\",\"location\":\"圣保罗州，圣保罗，Vila Nova Conceição\",\"features\":[\"3\",\"4\",\"178 平方米\"],\"price\":\"R$ 2,980,000\"},{\"title\":\"联排别墅\",\"location\":\"圣保罗州，桑塔纳-德帕纳伊巴，Alphaville\",\"features\":[\"4\",\"6\",\"450 平方米\"],\"price\":\"R$ 5,600,000\"},{\"title\":\"公寓\",\"location\":\"圣保罗州，圣保罗，Itaim Bibi\",\"features\":[\"2\",\"3\",\"112 平方米\"],\"price\":\"R$ 1,850,000\"},{\"title\":\"复式顶层公寓\",\"location\":\"圣保罗州，圣保罗，Moema\",\"features\":[\"4\",\"5\",\"280 平方米\"],\"price\":\"R$ 4,750,000\"}]},\"bottom_tabs\":{\"count\":5,\"labels\":[\"首页\",\"搜索\",\"收藏\",\"消息\",\"个人中心\"]}},\"right\":{\"image_counter\":\"1/24\",\"title\":\"{argument name=\\\"property title\\\" default=\\\"Alphaville 别墅\\\"}\",\"location\":\"圣保罗州，桑塔纳-德帕纳伊巴\",\"price\":\"{argument name=\\\"price\\\" default=\\\"R$ 3,450,000\\\"}\",\"features\":{\"count\":4,\"items\":[\"4 间套房\",\"5 间浴室\",\"320 平方米\",\"2 个车位\"]},\"description_title\":\"描述\",\"description\":\"{argument name=\\\"description text\\\" default=\\\"高端住宅，采用现代建筑设计，环境一体化，自然采光充足，顶级装修。位于 Alphaville 最具价值的社区之一。\\\"}\",\"more_link\":\"查看更多\",\"buttons\":{\"count\":2,\"labels\":[\"联系方式\",\"预约看房\"]},\"bottom_tabs\":{\"count\":5,\"labels\":[\"首页\",\"搜索\",\"收藏\",\"消息\",\"个人中心\"]}}},\"imagery\":{\"property_photo_style\":\"黄昏时分的豪华现代豪宅，温暖的室内灯光，宽大的玻璃墙，棱角分明的建筑，景观庭院，大型反光泳池，逼真的房地产摄影\",\"card_thumbnails\":{\"count\":5,\"style\":\"高端住宅室内外设计，色调统一为蓝色系\"}},\"color_palette\":{\"primary\":\"深海军蓝\",\"secondary\":\"皇家蓝\",\"accent\":\"电光蓝\",\"text\":\"白色和浅灰色\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "豪华房地产 App UI 设计稿：一套精致的房地产平台移动端 App 三屏概念设计，非常适合展示 App UI 设计、产品营销或落地页视觉效果。",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, luxury, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15056",
+      "15617",
+      "14580",
+      "13836",
+      "14581",
+      "14623"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "14920",
+  "prompt": "{\"type\":\"quality comparison collage\",\"subject\":\"whimsical fantasy anime illustration generated at three quality settings\",\"style\":\"airy watercolor-and-ink storybook anime, soft pastel palette, detailed linework, painterly textures, bright magical atmosphere\",\"canvas\":{\"background\":\"light gray overall background\",\"aspect_ratio\":\"16:9 presentation slide\"},\"layout\":{\"sections\":[{\"title\":\"Low\",\"position\":\"top-left\",\"count\":1,\"labels\":[\"Low\"],\"image\":\"a lively fantasy street scene with 1 youthful androgynous child mage in motion, smiling and raising a wand, surrounded by 4 large blue manta ray–like flying creatures, multiple orange-red goldfish, several round pufferfish, floating bubbles and confetti, with ornate European-style buildings in the background; the composition is busy and colorful but slightly less refined\",\"overlay\":\"dark translucent rectangle near the right side with large white sans-serif text 'Low'\"},{\"title\":\"Medium\",\"position\":\"top-right\",\"count\":1,\"labels\":[\"Medium\"],\"image\":\"the same prompt rendered again with 1 child mage positioned on the right side, face obscured by a peach square censor block, holding a staff upward, with 1 dominant large blue manta ray creature in the foreground, smaller blue fish-like creatures, orange-red fish, pufferfish, bubbles, and a pale fantasy city with towers and clock details in the background; cleaner spacing and more readable forms than the low version\",\"overlay\":\"dark translucent rectangle near the lower-right with large white sans-serif text 'Medium'\"},{\"title\":\"High\",\"position\":\"bottom-left\",\"count\":1,\"labels\":[\"High\"],\"image\":\"the same fantasy scene rendered with the highest polish: 1 cheerful child mage running forward with wand raised, wearing a flowing teal cape with warm pink-orange featherlike accents, cream tunic and bloomers, brown boots, and short fluffy pink hair; surrounded by 4 blue manta ray–like flying creatures, many orange-red fish, several tan pufferfish, bubbles and sparkles, in a sunlit ornate city street with stairs and elegant architecture; the image is crisp, balanced, richly detailed, and luminous\",\"overlay\":\"dark translucent rectangle near the right-center with large white sans-serif text 'High'\"},{\"title\":\"GPT Image 2 Quality の比較\",\"position\":\"bottom-right\",\"count\":1,\"labels\":[\"GPT Image 2\",\"Quality\",\"の比較\"],\"image\":\"text-only panel on a plain light gray background\",\"typography\":\"large bold black sans-serif centered text over 3 lines reading '{argument name=\\\"headline text\\\" default=\\\"GPT Image 2 Quality の比較\\\"}'\"}],\"grid\":\"2 by 2 collage with 3 image panels and 1 text panel\",\"margins\":\"thin gutters between panels\"},\"character\":{\"count\":1,\"description\":\"young fantasy child mage or adventurer, cheerful, dynamic pose, short fluffy {argument name=\\\"hair color\\\" default=\\\"pink\\\"} hair, ornate wand or staff, flowing teal-blue cape with coral and gold accents, cream outfit with puffed pants, whimsical storybook design\"},\"environment\":{\"setting\":\"sunlit fantastical European-inspired city street or plaza\",\"floating_elements_count\":\"4 large manta ray creatures plus numerous small fish, several pufferfish, and many bubbles\",\"mood\":\"playful, magical, celebratory\"},\"rendering_notes\":{\"comparison_purpose\":\"show visual differences among 3 quality levels using the same prompt\",\"quality_labels_count\":3,\"text_panels_count\":1}}",
+  "translatedPrompt": "{\"type\":\"质量对比拼图\",\"subject\":\"在三种质量设置下生成的奇幻动漫插画\",\"style\":\"轻盈的水彩墨水绘本动漫风格，柔和的粉彩调色板，细腻的线条，绘画质感，明亮的魔法氛围\",\"canvas\":{\"background\":\"整体浅灰色背景\",\"aspect_ratio\":\"16:9 演示 Slides\"},\"layout\":{\"sections\":[{\"title\":\"Low\",\"position\":\"左上\",\"count\":1,\"labels\":[\"低\"],\"image\":\"一个生动的奇幻街道场景，画面中有 1 名年轻的中性化儿童法师正在移动，面带微笑并举起魔杖，周围环绕着 4 只巨大的蓝色蝠鲼状飞行生物、多条橙红色金鱼、几条圆形河豚、漂浮的气泡和五彩纸屑，背景是华丽的欧式建筑；构图繁忙且色彩丰富，但精致度略低\",\"overlay\":\"右侧附近的深色半透明矩形，带有白色大号无衬线字体“Low”\"},{\"title\":\"Medium\",\"position\":\"右上\",\"count\":1,\"labels\":[\"中\"],\"image\":\"同一提示词再次渲染，儿童法师位于右侧，脸部被桃色方形遮挡块遮住，向上举着法杖，前景中有一只占主导地位的大型蓝色蝠鲼生物，周围有较小的蓝色鱼类生物、橙红色鱼、河豚、气泡，背景是带有塔楼和时钟细节的苍白奇幻城市；相比低质量版本，间距更整洁，形态更易读\",\"overlay\":\"右下角附近的深色半透明矩形，带有白色大号无衬线字体“Medium”\"},{\"title\":\"High\",\"position\":\"左下\",\"count\":1,\"labels\":[\"高\"],\"image\":\"以最高精度渲染的同一奇幻场景：1 名快乐的儿童法师向前奔跑，举着魔杖，身穿带有温暖粉橙色羽毛装饰的飘逸青色斗篷、奶油色束腰外衣和灯笼裤、棕色靴子，留着蓬松的粉色短发；周围环绕着 4 只蓝色蝠鲼状飞行生物、许多橙红色鱼、几条棕褐色河豚、气泡和闪光，背景是阳光明媚、带有楼梯和优雅建筑的城市街道；图像清晰、平衡、细节丰富且明亮\",\"overlay\":\"中右侧附近的深色半透明矩形，带有白色大号无衬线字体“High”\"},{\"title\":\"GPT Image 2 Quality 对比\",\"position\":\"右下\",\"count\":1,\"labels\":[\"GPT Image 2\",\"质量\",\"对比\"],\"image\":\"纯浅灰色背景上的纯文本面板\",\"typography\":\"居中的大型粗体黑色无衬线文本，分 3 行显示 '{argument name=\\\"headline text\\\" default=\\\"GPT Image 2 Quality 对比\\\"}'\"}],\"grid\":\"2x2 拼图，包含 3 个图像面板和 1 个文本面板\",\"margins\":\"面板间细缝\"},\"character\":{\"count\":1,\"description\":\"年轻的奇幻儿童法师或冒险家，开朗，动态姿势，蓬松的 {argument name=\\\"hair color\\\" default=\\\"粉色\\\"} 短发，华丽的魔杖或法杖，带有珊瑚色和金色装饰的飘逸青蓝色斗篷，奶油色服装配灯笼裤，奇幻绘本设计\"},\"environment\":{\"setting\":\"阳光明媚的奇幻欧式街道或广场\",\"floating_elements_count\":\"4 只大型蝠鲼生物，加上无数小鱼、几条河豚和许多气泡\",\"mood\":\"俏皮、魔法、庆典\"},\"rendering_notes\":{\"comparison_purpose\":\"使用相同的提示词展示 3 种质量等级之间的视觉差异\",\"quality_labels_count\":3,\"text_panels_count\":1}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "GPT Image 2 质量对比网格：一张四格对比图，展示了同一幅奇幻动漫场景在低、中、高三种质量设置下的效果，常用于演示图像生成质量的差异。",
+      "subject": "空间",
+      "scene": "综合视觉",
+      "composition": [
+        "centered",
+        "grid",
+        "2x2"
+      ],
+      "style": [
+        "anime",
+        "fantasy",
+        "watercolor"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "风格对比、产品系列、前后对照、角色变体",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 综合视觉 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, grid, 2x2]。\n\nVisual style:\n[参考风格: anime, fantasy, watercolor]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15671",
+      "14983",
+      "14556",
+      "15728",
+      "14492",
+      "14521"
+    ]
+  }
+}

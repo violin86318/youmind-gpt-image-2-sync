@@ -1,0 +1,47 @@
+{
+  "id": "14625",
+  "prompt": "A minimalist classical book cover in vertical format on a warm ivory or parchment background. At the top center, set the title in elegant large dark navy serif type across 2 lines: {argument name=\"title text\" default=\"La Ciudad de Dios\"}. Beneath it, centered with generous spacing, place a small gold phi symbol. In the upper-middle area, draw a delicate thin-line gold illustration of a fortified circular heavenly city with exactly 8 visible outer towers or gate structures, crenelated walls, and compact classical buildings inside, including a central dome. From the bottom center of this city, extend a soft vertical gold beam of light downward. In the lower-middle area, create thin dark navy line art of earthly classical ruins: the Roman Colosseum on the left, a large Greek or Roman temple with a triangular pediment and a long row of columns on the right, a broken fallen column in front, a small stone block near it, and an arched ruin structure spanning the lower left. Keep the composition symmetrical and airy, with lots of empty space, refined editorial balance, and subtle contrast between gold heavenly imagery and dark navy earthly architecture. At the bottom center, place the author name in matching dark navy serif type: {argument name=\"author name\" default=\"San Agustín de Hipona\"}. Clean premium literary design, sacred philosophy aesthetic, no extra text, no texture-heavy effects, no photographic elements.",
+  "translatedPrompt": "一款垂直构图的极简主义古典书籍封面，背景为温暖的象牙色或羊皮纸色。在顶部中央，以优雅的大号深海军蓝衬线字体分 2 行排版标题：{argument name=\"title text\" default=\"La Ciudad de Dios\"}。在其下方，留出宽裕的间距并居中放置一个小型金色 phi 符号。在中上区域，绘制一幅精致的细线条金色插图，描绘一座坚固的圆形天国之城，拥有 8 座清晰可见的外塔或城门结构、雉堞城墙以及内部紧凑的古典建筑（包括一座中央圆顶）。从这座城市的底部中央，向下延伸出一道柔和的垂直金色光束。在中下区域，用深海军蓝细线条绘制地上的古典遗迹：左侧为罗马斗兽场，右侧为一座带有三角形山花和长排立柱的大型希腊或罗马神庙，前方有一根断裂倒塌的立柱、一块小石块，以及横跨左下方的拱形遗迹结构。保持构图对称且通透，留出大量空白，实现精致的编辑平衡，并形成金色天国意象与深海军蓝世俗建筑之间的微妙对比。在底部中央，以匹配的深海军蓝衬线字体放置作者姓名：{argument name=\"author name\" default=\"San Agustín de Hipona\"}。简洁的高级文学设计，神圣的哲学美学，无额外文字，无厚重的纹理效果，无摄影元素。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "极简主义圣奥古斯丁书籍封面：此提示词可生成优雅且极简的古典宗教或哲学书籍封面，非常适合文学版本和宗教出版物。",
+      "subject": "空间",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "vertical"
+      ],
+      "style": [
+        "editorial",
+        "minimalist",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；禁止额外文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, vertical]。\n\nVisual style:\n[参考风格: editorial, minimalist, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；禁止额外文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14626",
+      "14975",
+      "15411",
+      "15782",
+      "14598",
+      "15033"
+    ]
+  }
+}

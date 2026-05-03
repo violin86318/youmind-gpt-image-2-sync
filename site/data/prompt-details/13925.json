@@ -1,0 +1,44 @@
+{
+  "id": "13925",
+  "prompt": "{\n  \"type\": \"comic page\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"black and white manga with screentones\\\"}\",\n  \"header\": \"{argument name=\\\"manga title\\\" default=\\\"第1話 理想の美女、出ますか？\\\"}\",\n  \"characters\": [\n    {\n      \"name\": \"{argument name=\\\"protagonist name\\\" default=\\\"タクミ\\\"}\",\n      \"appearance\": \"messy dark hair, dark t-shirt, expressive\"\n    },\n    {\n      \"name\": \"Roommate\",\n      \"appearance\": \"short dark hair, wearing a hoodie, deadpan expression\"\n    }\n  ],\n  \"layout\": {\n    \"format\": \"4 horizontal panels, read left-to-right\",\n    \"panels\": [\n      {\n        \"row\": 1,\n        \"setting\": \"cluttered dark room, desk with computer monitors\",\n        \"action\": \"Protagonist sits at computer, fist clenched in excitement.\",\n        \"text_elements\": [\n          \"きた…！きたきたきた…！\",\n          \"深夜——タクミの部屋。\"\n        ]\n      },\n      {\n        \"row\": 2,\n        \"action\": \"Protagonist looks proud with hand on chest. Roommate enters through door holding a bottle.\",\n        \"text_elements\": [\n          \"ついに俺は…AIで\",\n          \"{argument name=\\\"protagonist goal\\\" default=\\\"”完璧な美女”を生み出す段階に来た！\\\"}\",\n          \"何その、宝くじ当たったみたいな声\"\n        ]\n      },\n      {\n        \"row\": 3,\n        \"action\": \"Protagonist points at monitor showing an AI-generated portrait of a woman. Roommate looks unamused.\",\n        \"text_elements\": [\n          \"見ろ。まずは「透明感」「親しみやすさ」「高級感」「日常感」を同居させる\",\n          \"段階って何。お前は何の研究者なの\"\n        ]\n      },\n      {\n        \"row\": 4,\n        \"action\": \"Protagonist leans back smugly. Roommate yells angrily.\",\n        \"text_elements\": [\n          \"理想を形にするには、細かさが命なんだよ\",\n          \"{argument name=\\\"punchline\\\" default=\\\"注文多すぎる定食屋か！！\\\"}\",\n          \"つづく\"\n        ]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"漫画页面\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"带网点纸的黑白漫画风格\\\"}\",\n  \"header\": \"{argument name=\\\"manga title\\\" default=\\\"第1話 理想の美女、出ますか？\\\"}\",\n  \"characters\": [\n    {\n      \"name\": \"{argument name=\\\"protagonist name\\\" default=\\\"タクミ\\\"}\",\n      \"appearance\": \"凌乱的深色头发，深色 T 恤，表情丰富\"\n    },\n    {\n      \"name\": \"室友\",\n      \"appearance\": \"短深色头发，穿着连帽衫，面无表情\"\n    }\n  ],\n  \"layout\": {\n    \"format\": \"4 格横向布局，从左向右阅读\",\n    \"panels\": [\n      {\n        \"row\": 1,\n        \"setting\": \"杂乱的暗室，放着电脑显示器的书桌\",\n        \"action\": \"主角坐在电脑前，兴奋地攥紧拳头。\",\n        \"text_elements\": [\n          \"きた…！きたきたきた…！\",\n          \"深夜——タクミの部屋。\"\n        ]\n      },\n      {\n        \"row\": 2,\n        \"action\": \"主角一脸自豪地把手放在胸前。室友拿着瓶子走进房间。\",\n        \"text_elements\": [\n          \"ついに俺は…AIで\",\n          \"{argument name=\\\"protagonist goal\\\" default=\\\"”完璧な美女”を生み出す段階に来た！\\\"}\",\n          \"何その、宝くじ当たったみたいな声\"\n        ]\n      },\n      {\n        \"row\": 3,\n        \"action\": \"主角指着显示器，上面显示着一张 AI 生成的女性肖像。室友看起来毫无兴趣。\",\n        \"text_elements\": [\n          \"見ろ。まずは「透明感」「親しみやすさ」「高級感」「日常感」を同居させる\",\n          \"段階って何。お前は何の研究者なの\"\n        ]\n      },\n      {\n        \"row\": 4,\n        \"action\": \"主角得意地向后靠。室友愤怒地大喊。\",\n        \"text_elements\": [\n          \"理想を形にするには、細かさが命なんだよ\",\n          \"{argument name=\\\"punchline\\\" default=\\\"注文多すぎる定食屋か！！\\\"}\",\n          \"つづく\"\n        ]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "四格漫画页面生成器：生成一页黑白四格漫画，内容为两名角色在电脑前互动，包含日语对话和网点纸效果。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [
+        "manga"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[参考风格: manga]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13547",
+      "13548",
+      "15381",
+      "13791",
+      "13608",
+      "13767"
+    ]
+  }
+}

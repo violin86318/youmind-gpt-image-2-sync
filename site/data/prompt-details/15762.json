@@ -1,0 +1,53 @@
+{
+  "id": "15762",
+  "prompt": "A highly detailed cinematic portrait of an anthropomorphic {argument name=\"dog breed\" default=\"pug\"} and a chimpanzee sitting across from each other playing chess in a dim, old-world Victorian study. The dog is on the left, shown from the waist up, wearing a brown tweed suit jacket, white shirt, and bow tie, with a single round monocle and chain over one eye, resting one paw near the chessboard and gazing thoughtfully at the pieces. The chimpanzee is on the right, also dressed in a heavy brown tweed jacket over a shirt, leaning forward with one hand against its chin in a classic thinking pose, intensely focused on the board. Between them is an ornate carved wooden chess table with a full chess set mid-game, with exactly 32 pieces visible: 16 light wooden pieces on the left side and 16 dark wooden pieces on the right side, arranged in a believable strategic position rather than a starting layout. The room is rich with dark polished wood, leather armchairs, a warm amber table lamp on the far left, bookshelves in the background, a framed classical portrait painting centered behind them, and a small mantel clock beneath the painting. Use warm tungsten lighting, shallow depth of field, moody shadows, ultra-realistic fur and skin textures, fine wrinkles, reflective glass on the monocle, and a serious intellectual atmosphere with subtle humor. Symmetrical composition, eye-level camera, photorealistic, sharp focus on both faces and the chessboard, luxurious period details, dark brown and sepia color palette.",
+  "translatedPrompt": "一幅高度细腻的电影级肖像画，描绘了一只拟人化的 {argument name=\"dog breed\" default=\"pug\"} 和一只黑猩猩坐在昏暗的旧世界维多利亚式书房中对弈象棋。狗在左侧，半身像，身穿棕色粗花呢西装外套、白衬衫和领结，单眼戴着一副圆形的单片眼镜及链条，一只爪子放在棋盘旁，若有所思地注视着棋子。黑猩猩在右侧，同样穿着厚实的棕色粗花呢外套内搭衬衫，身体前倾，一只手托着下巴，呈现出经典的思考姿势，全神贯注地盯着项目。它们之间是一张雕刻精美的木制棋桌，上面摆放着一盘正在进行中的完整象棋，清晰可见 32 枚棋子：左侧 16 枚浅色木制棋子，右侧 16 枚深色木制棋子，呈现出真实的战略布局而非初始摆放。房间里充满了深色抛光木材、皮革扶手椅，最左侧有一盏温暖的琥珀色台灯，背景是书架，它们身后正中央挂着一幅古典肖像画，画下方有一个小型壁炉钟。采用温暖的钨丝灯光、浅景深、深沉的阴影、超逼真的毛发和皮肤纹理、细微的皱纹、单片眼镜上的反光，营造出一种严肃的知识分子氛围，并带有一丝微妙的幽默感。对称构图，平视视角，照片级逼真，面部和项目焦点清晰，奢华的时代细节，深棕色和棕褐色调。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "维多利亚风格动物象棋对弈：一幅照片级逼真、幽默而优雅的肖像画，描绘了一只穿着西装的哈巴狗和一只黑猩猩在光线充足的复古书房中下象棋，非常适合超现实主义编辑或角色驱动的概念艺术。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "symmetrical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": "得分 83；构图: centered, symmetrical；风格: realistic, photorealistic, cinematic；要求精确文字"
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, camera]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15435",
+      "14568",
+      "15704",
+      "14569",
+      "15706",
+      "14736"
+    ]
+  }
+}

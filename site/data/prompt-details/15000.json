@@ -1,0 +1,55 @@
+{
+  "id": "15000",
+  "prompt": "A cinematic ultra-detailed sci-fi mech hangar interior at night, shown in a wide-angle view from slightly above a massive horizontal holographic planning table. The glowing blue tabletop dominates the foreground and center, displaying an intricate engineering blueprint for a humanoid combat robot labeled {argument name=\"mech name\" default=\"ARGONAUT\"}. The blueprint includes exactly 3 large full-body orthographic mech drawings across the table, one front view, one side view, and one rear view, plus many smaller component diagrams for hands, joints, feet, armor segments, and circular mechanical parts, dense technical callouts, graphs, measurement lines, and blocks of Japanese annotation text mixed with alphanumeric labels. Around the table are exactly 5 engineers in light gray industrial jumpsuits studying the design, leaning over the edges and holding rugged tablets; their faces are intentionally indistinct and partially obscured. In the deep background, exactly 1 towering real humanoid mech stands upright in a maintenance gantry, suspended or docked in a cavernous factory bay filled with catwalks, scaffolding, pipes, heavy cables hanging from the ceiling, illuminated control panels, glass partitions, and a few tiny distant workers for scale. Use a cold steel-and-cyan color palette, dramatic volumetric lighting, reflective metallic surfaces, subtle mist, high contrast shadows, and a serious military-industrial mood. The environment should feel dense, realistic, and operational, like a secret advanced robotics facility. Emphasize scale, technical complexity, and the contrast between the flat luminous blueprint and the massive constructed mech behind it. Render in photorealistic concept-art style with crisp linework on the holographic display, cinematic depth, and extreme detail.",
+  "translatedPrompt": "一个电影级超精细的科幻机甲机库内部夜景，采用从巨大的水平全息规划台上方略微俯视的广角视角。发光的蓝色桌面占据了前景和中心位置，展示着一个标注为 {argument name=\"mech name\" default=\"ARGONAUT\"} 的人形战斗机器人复杂工程蓝图。蓝图在桌面上包含 3 幅完整的大型机甲正投影图，分别为正面、侧面和背面视图，此外还有许多关于手部、关节、脚部、装甲片和圆形机械零件的较小组件图，以及密集的工程标注、图表、测量线和夹杂着字母数字标签的日文注释块。桌子周围有 5 名身穿浅灰色工业连体服的工程师正在研究设计，他们俯身在桌边，手持坚固的平板电脑；他们的面部刻意模糊且部分被遮挡。在深处的背景中，1 台高耸的真实人形机甲直立在维护龙门架上，悬挂或停靠在一个巨大的工厂隔间里，该区域布满了走道、脚手架、管道、从天花板垂下的重型电缆、发光的控制面板、玻璃隔断，以及几个为了衬托比例而设置的微小远景工人。采用冷钢色与青色的配色方案、戏剧性的体积光、反光的金属表面、轻微的雾气、高对比度的阴影以及严肃的军事工业氛围。环境应显得密集、真实且处于运作状态，如同一个秘密的高级机器人设施。强调规模感、技术复杂性，以及扁平发光蓝图与背后巨大实体机甲之间的对比。以写实概念艺术风格渲染，全息显示屏线条清晰，具有电影般的景深和极致的细节。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "科幻机甲蓝图机库：此提示词可生成电影级写实场景，描绘工程师在工业机器人机库内研究巨型全息机甲蓝图的画面，非常适合概念艺术创作与科幻世界观构建。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "full-body",
+        "callout",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "sci-fi"
+      ],
+      "lightingCamera": [
+        "volumetric",
+        "high contrast"
+      ],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "硬件拆解、产品卖点、技术说明、科普图",
+      "whySelected": "得分 76；构图: full-body, callout, horizontal；风格: realistic, photorealistic, cinematic, sci-fi；要求精确文字；包含标注/说明"
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body, callout, horizontal]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, sci-fi]。\n\nLighting and camera:\n[参考光线镜头: volumetric, high contrast]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15110",
+      "14165",
+      "14956",
+      "13811",
+      "14151",
+      "15683"
+    ]
+  }
+}

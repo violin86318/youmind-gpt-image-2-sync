@@ -1,0 +1,41 @@
+{
+  "id": "13733",
+  "prompt": "{\n  \"type\": \"video game screenshot\",\n  \"scene\": {\n    \"setting\": \"shallow dark water with gothic city ruins in the background\",\n    \"atmosphere\": \"dark fantasy under a {argument name=\\\"moon style\\\" default=\\\"massive red blood moon\\\"}\",\n    \"player_character\": \"viewed from behind, wearing a dark trench coat and tricorn hat, holding a {argument name=\\\"player weapon\\\" default=\\\"jagged sword\\\"} and a firearm\",\n    \"boss\": \"{argument name=\\\"boss appearance\\\" default=\\\"towering mass of dark, tangled roots and flesh with glowing eyes\\\"}\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"position\": \"top-left\",\n        \"title\": \"Player Stats\",\n        \"count\": 3,\n        \"labels\": [\"red health bar\", \"green stamina bar\", \"white bar\"],\n        \"inventory\": {\n          \"count\": 3,\n          \"labels\": [\"red potion: 20\", \"silver item: 20\", \"{argument name=\\\"selected item\\\" default=\\\"Beast Blood Pellet\\\"}: 7\"]\n        }\n      },\n      {\n        \"position\": \"top-right\",\n        \"title\": \"Counters\",\n        \"count\": 2,\n        \"labels\": [\"currency symbol: 3920\", \"eye symbol: 19\"]\n      },\n      {\n        \"position\": \"bottom-center\",\n        \"title\": \"Boss Health\",\n        \"count\": 1,\n        \"labels\": [\"{argument name=\\\"boss name\\\" default=\\\"Kos, Reborn\\\"}\"]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{ \"type\": \"video game screenshot\", \"setting\": \"暗黑奇幻哥特式城市，浅水中矗立着高耸的尖塔，上方悬挂着一轮巨大的 {argument name=\\\"moon color\\\" default=\\\"血红色\\\"} 月亮\", \"characters\": { \"player\": \"猎人身穿 {argument name=\\\"player outfit\\\" default=\\\"深色风衣和三角帽\\\"}，手持锯齿刀和手枪，背对镜头\", \"boss\": \"{argument name=\\\"boss appearance\\\" default=\\\"由纠缠的黑色触手组成、内部散发红光的巨大克苏鲁风格怪物\\\"}\" }, \"layout\": { \"sections\": [ { \"title\": \"玩家状态 HUD\", \"position\": \"top-left\", \"count\": 3, \"labels\": [\"红色生命值条\", \"绿色体力值条\", \"物品栏（药水：20，子弹：20，{argument name=\\\"selected item\\\" default=\\\"怪兽血丸\\\"}：7）\"] }, { \"title\": \"货币 HUD\", \"position\": \"top-right\", \"count\": 2, \"labels\": [\"货币图标：3920\", \"眼睛图标：19\"] }, { \"title\": \"Boss 生命值条\", \"position\": \"bottom-center\", \"count\": 1, \"labels\": [\"{argument name=\\\"boss name\\\" default=\\\"重生者科斯\\\"}\"] } ], \"centerpiece\": \"玩家与 Boss 在水中史诗般的对峙\" } }",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "哥特式 RPG Boss 战游戏截图：生成一张暗黑奇幻动作 RPG 游戏截图，包含一场克苏鲁风格的 Boss 战以及完整的游戏界面（HUD）。",
+      "subject": "界面",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15037",
+      "15278",
+      "13615",
+      "14952",
+      "14467",
+      "13634"
+    ]
+  }
+}

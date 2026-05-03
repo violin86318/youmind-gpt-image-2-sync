@@ -1,0 +1,42 @@
+{
+  "id": "13756",
+  "prompt": "{\n  \"type\": \"3-panel comic layout\",\n  \"subject\": \"{argument name=\\\"subject\\\" default=\\\"Sam Altman\\\"}\",\n  \"object\": \"{argument name=\\\"object\\\" default=\\\"banana\\\"}\",\n  \"layout\": {\n    \"structure\": \"left side split horizontally into two panels, right side is one large vertical panel\",\n    \"panels\": [\n      {\n        \"number\": \"1\",\n        \"position\": \"top-left\",\n        \"description\": \"The subject is smiling widely and eating the object in an office setting.\"\n      },\n      {\n        \"number\": \"2\",\n        \"position\": \"bottom-left\",\n        \"description\": \"The subject is seen in profile, using a strip of silver duct tape to attach the peel of the object to a plain white wall.\"\n      },\n      {\n        \"number\": \"3\",\n        \"position\": \"right-half\",\n        \"description\": \"Close-up of the object's peel duct-taped to the white wall. Below it is the {argument name=\\\"company logo\\\" default=\\\"OpenAI\\\"} logo and text. Below the logo is another piece of duct tape with the handwritten text '{argument name=\\\"tape text\\\" default=\\\"Duct tape\\\"}'.\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"3 格漫画布局\",\n  \"subject\": \"{argument name=\\\"subject\\\" default=\\\"Sam Altman\\\"}\",\n  \"object\": \"{argument name=\\\"object\\\" default=\\\"香蕉\\\"}\",\n  \"layout\": {\n    \"structure\": \"左侧水平分为两格，右侧为一大块垂直面板\",\n    \"panels\": [\n      {\n        \"number\": \"1\",\n        \"position\": \"左上\",\n        \"description\": \"主体在办公室环境中开心地笑着吃掉物体。\"\n      },\n      {\n        \"number\": \"2\",\n        \"position\": \"左下\",\n        \"description\": \"主体侧身，正用一条银色胶带将物体的果皮贴在纯白墙面上。\"\n      },\n      {\n        \"number\": \"3\",\n        \"position\": \"右半部分\",\n        \"description\": \"物体果皮被胶带贴在白墙上的特写。下方是 {argument name=\\\"company logo\\\" default=\\\"OpenAI\\\"} 的标志和文字。标志下方还有另一块胶带，上面手写着“{argument name=\\\"tape text\\\" default=\\\"Duct tape\\\"}”字样。\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "3 格胶带梗漫画：生成一幅 3 格漫画，展示主体吃水果并将果皮贴在墙上的场景，戏仿现代艺术与科技公司。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, vertical, horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14246",
+      "15026",
+      "15318",
+      "14949",
+      "15093",
+      "15682"
+    ]
+  }
+}

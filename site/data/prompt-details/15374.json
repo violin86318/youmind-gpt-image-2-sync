@@ -1,0 +1,56 @@
+{
+  "id": "15374",
+  "prompt": "{\"type\":\"anime action game storyboard sheet\",\"style\":\"high-end Japanese action RPG cinematic storyboard, polished 3D anime rendering, dramatic blue night lighting, glowing sword effects, sakura petals, motion blur, fantasy samurai atmosphere\",\"subject\":{\"character\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"シャルロット\\\"}\",\"gender_presentation\":\"young woman\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"silver white\\\"}\",\"style\":\"very long straight hair with soft bangs, floral hair ornament on one side\"},\"outfit\":{\"primary_color\":\"deep indigo blue\",\"description\":\"elegant floral kimono-inspired battle dress with long flowing sleeves, layered skirt, obi-style waist, patterned fabric with white blossoms and gold details\"},\"weapon\":\"katana with luminous blue blade\"},\"enemies\":{\"count\":8,\"description\":\"black-clad ninja swordsmen surrounding her across the courtyard\"}},\"environment\":{\"location\":\"traditional Japanese temple courtyard at night\",\"details\":[\"stone paving\",\"wooden shrine buildings\",\"warm paper lanterns\",\"cherry blossom trees\",\"falling petals\",\"deep blue sky\"]},\"ui\":{\"components\":[\"character status bar at top left\",\"circular minimap at top right\",\"skill icons at lower corners\",\"combo counter text on right side\",\"subtitle or move text in some panels\"]},\"layout\":{\"grid\":{\"rows\":3,\"columns\":3,\"count\":9},\"numbered_panels\":true,\"sections\":[{\"title\":\"1\",\"position\":\"top-left\",\"count\":1,\"description\":\"wide gameplay view, the heroine stands centered in the temple courtyard while 8 ninja enemies encircle her; game HUD visible; dialogue text at bottom; combo counter reads 0\"},{\"title\":\"2\",\"position\":\"top-center\",\"count\":1,\"description\":\"close-up of the heroine drawing or gripping the glowing katana in front of her chest, blue spark-like particles around the blade, confident pre-attack pose; combo counter reads 0\"},{\"title\":\"3\",\"position\":\"top-right\",\"count\":1,\"description\":\"fast spinning horizontal slash, bright circular blue energy ring expands from her sword and knocks enemies back; combo counter reads 12\"},{\"title\":\"4\",\"position\":\"middle-left\",\"count\":1,\"description\":\"dynamic midair leap, full-body side view, robe and long hair flowing, a sweeping blue arc trails from the blade; combo counter reads 25\"},{\"title\":\"5\",\"position\":\"middle-center\",\"count\":1,\"description\":\"top-down action shot as she descends toward the ground with sword aimed downward, sleeves spread like wings, enemies below; combo counter reads 25\"},{\"title\":\"6\",\"position\":\"middle-right\",\"count\":1,\"description\":\"impact frame, she lands and unleashes a large blue energy burst from the ground, enemies thrown outward by the shockwave; combo counter reads 58\"},{\"title\":\"7\",\"position\":\"bottom-left\",\"count\":1,\"description\":\"special move title card on a dark blue background with luminous sword circles; large Japanese text includes the character name and attack title; combo counter reads 128\",\"visible_text\":[\"シャルロット夢想！\",\"一瞬十撃・花月ノ太刀\",\"128 Combo\"]},{\"title\":\"8\",\"position\":\"bottom-center\",\"count\":1,\"description\":\"rear three-quarter gameplay view, the heroine completes a huge sweeping circular slash across the courtyard, long white hair and kimono trailing behind, enemies scattered at distance; combo counter reads 128\"},{\"title\":\"9\",\"position\":\"bottom-right\",\"count\":1,\"description\":\"quiet ending shot from behind, the heroine stands alone facing a temple gate and lanterns in the moonlit courtyard, petals drifting, no active combat motion\"}],\"reading_order\":\"left to right, top to bottom\"},\"color_palette\":{\"dominant\":[\"midnight blue\",\"electric cyan\",\"silver white\",\"indigo\",\"lantern gold\"]},\"camera_and_mood\":\"cinematic action storyboard progression from calm standoff to sword draw, spinning combo attack, aerial strike, finishing special move, then serene aftermath; each panel framed like game screenshots with visible HUD\"}",
+  "translatedPrompt": "{\"type\":\"动漫动作游戏项目表\",\"style\":\"高端日本动作 RPG 电影感项目，精致的 3D 动漫渲染，戏剧性的蓝色夜间照明，发光的剑刃特效，樱花花瓣，动态模糊，奇幻武士氛围\",\"subject\":{\"character\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"シャルロット\\\"}\",\"gender_presentation\":\"年轻女性\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"银白色\\\"}\",\"style\":\"非常长的直发，带有柔和的刘海，一侧有花朵发饰\"},\"outfit\":{\"primary_color\":\"深靛蓝色\",\"description\":\"优雅的仿和服战斗服，带有长长的飘逸袖子、分层裙摆、腰封式腰带，面料上有白色花朵和金色细节图案\"},\"weapon\":\"带有发光蓝色刀刃的武士刀\"},\"enemies\":{\"count\":8,\"description\":\"包围在庭院中的黑衣忍者剑客\"}},\"environment\":{\"location\":\"夜晚的传统日本寺庙庭院\",\"details\":[\"石板路\",\"木制神殿建筑\",\"温暖的纸灯笼\",\"樱花树\",\"飘落的花瓣\",\"深蓝色天空\"]},\"ui\":{\"components\":[\"左上角的角色状态栏\",\"右上角的圆形小地图\",\"下角的技能图标\",\"右侧的连击计数文本\",\"部分面板中的字幕或招式文本\"]},\"layout\":{\"grid\":{\"rows\":3,\"columns\":3,\"count\":9},\"numbered_panels\":true,\"sections\":[{\"title\":\"1\",\"position\":\"左上\",\"count\":1,\"description\":\"宽视角游戏画面，女主角站在寺庙庭院中央，8 名忍者敌人环绕着她；可见游戏 HUD；底部有对话文本；连击计数为 0\"},{\"title\":\"2\",\"position\":\"中上\",\"count\":1,\"description\":\"女主角在胸前拔出或紧握发光武士刀的特写，刀刃周围有蓝色火花状粒子，自信的攻击前姿势；连击计数为 0\"},{\"title\":\"3\",\"position\":\"右上\",\"count\":1,\"description\":\"快速旋转的横向斩击，明亮的圆形蓝色能量环从剑中扩散并击退敌人；连击计数为 12\"},{\"title\":\"4\",\"position\":\"左中\",\"count\":1,\"description\":\"动态空中跳跃，全身侧视图，长袍和长发飘动，剑刃划出一道扫过的蓝色弧线；连击计数为 25\"},{\"title\":\"5\",\"position\":\"正中\",\"count\":1,\"description\":\"俯视动作镜头，她向下俯冲，剑尖朝下，袖子像翅膀一样展开，下方是敌人；连击计数为 25\"},{\"title\":\"6\",\"position\":\"右中\",\"count\":1,\"description\":\"冲击帧，她落地并从地面释放出巨大的蓝色能量爆发，敌人被冲击波震开；连击计数为 58\"},{\"title\":\"7\",\"position\":\"左下\",\"count\":1,\"description\":\"特殊招式标题卡，深蓝色背景，带有发光的剑环；巨大的日文文本包括角色名称和攻击标题；连击计数为 128\",\"visible_text\":[\"シャルロット夢想！\",\"一瞬十撃・花月ノ太刀\",\"128 Combo\"]},{\"title\":\"8\",\"position\":\"中下\",\"count\":1,\"description\":\"后方四分之三视角游戏画面，女主角在庭院中完成了一次巨大的圆形扫斩，长长的白发和和服在身后飘动，敌人在远处散开；连击计数为 128\"},{\"title\":\"9\",\"position\":\"右下\",\"count\":1,\"description\":\"从背后拍摄的宁静结尾镜头，女主角独自站在月光下庭院的寺庙门和灯笼前，花瓣飘落，没有主动战斗动作\"}],\"reading_order\":\"从左到右，从上到下\"},\"color_palette\":{\"dominant\":[\"午夜蓝\",\"电光青\",\"银白色\",\"靛蓝\",\"灯笼金\"]},\"camera_and_mood\":\"电影感动作项目，从冷静对峙到拔剑、旋转连击、空中打击、终结技，最后是宁静的余韵；每个面板都像带有可见 HUD 的游戏截图一样构图\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫 RPG 剑术攻击项目：一套 9 格动作游戏项目，展示了一位优雅的白发女剑士在月光下的日本寺庙庭院中施展发光武士刀连招，适用于电影感游戏概念艺术和 UI 集成战斗模拟。",
+      "subject": "人物",
+      "scene": "插画/漫画",
+      "composition": [
+        "centered",
+        "close-up",
+        "full-body",
+        "top-down",
+        "grid",
+        "layered",
+        "horizontal"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "3d",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "动漫分镜、战斗场景、运动瞬间、夸张叙事图",
+      "whySelected": "得分 82；构图: centered, close-up, full-body, top-down, grid, layered, horizontal；风格: cinematic, anime, 3d, fantasy；包含文字或排版元素"
+    },
+    "copyTemplate": "Create a 插画/漫画 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, close-up, full-body, top-down, grid, layered, horizontal]。\n\nVisual style:\n[参考风格: cinematic, anime, 3d, fantasy]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14432",
+      "14528",
+      "15798",
+      "15799",
+      "14413",
+      "14939"
+    ]
+  }
+}

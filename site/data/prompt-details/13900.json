@@ -1,0 +1,44 @@
+{
+  "id": "13900",
+  "prompt": "{\n  \"type\": \"YouTube thumbnail\",\n  \"style\": \"High-impact, neon green and black color scheme, cyber business aesthetic\",\n  \"background\": \"Dark with glowing green grid, upward chart lines, large green arrow\",\n  \"subject\": {\n    \"description\": \"{argument name=\\\"subject description\\\" default=\\\"Serious Japanese man in a black suit\\\"}\",\n    \"position\": \"Right side\",\n    \"props\": \"Stacks of 10,000 Yen bills in bottom right\"\n  },\n  \"layout\": {\n    \"main_title\": {\n      \"text\": \"{argument name=\\\"main title\\\" default=\\\"月30万 ChatGPT副業 誰でも始めやすい\\\"}\",\n      \"position\": \"Center, huge bold white and green gradient text\"\n    },\n    \"top_left_badge\": {\n      \"text\": \"{argument name=\\\"top left badge\\\" default=\\\"再現性高め\\\"}\",\n      \"style\": \"Angled neon green box\"\n    },\n    \"top_tags\": {\n      \"count\": 4,\n      \"labels\": [\"初心者OK\", \"スマホでも可能\", \"最短で収益化\", \"具体例つき\"]\n    },\n    \"left_bullet_points\": {\n      \"count\": 6,\n      \"style\": \"Dark boxes with neon green borders and icons\",\n      \"items\": [\n        \"Lightbulb icon: 失敗しない始め方\",\n        \"Yen coin icon: 副業におすすめ\",\n        \"Chart icon: 収益化の流れ\",\n        \"Search icon: 案件の探し方\",\n        \"Chat icon: プロンプト例つき\",\n        \"Clipboard icon: テンプレ付き\"\n      ]\n    },\n    \"bottom_banner\": {\n      \"text\": \"{argument name=\\\"bottom banner text\\\" default=\\\"手順を徹底解説\\\"}\",\n      \"icons\": \"ChatGPT logo left, upward chart right\"\n    },\n    \"bottom_tags\": {\n      \"count\": 2,\n      \"labels\": [\"{argument name=\\\"year tag\\\" default=\\\"2026年最新版\\\"}\", \"即実践できる\"]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"YouTube 缩略图\",\n  \"style\": \"高冲击力，霓虹绿与黑色配色方案，赛博商务美学\",\n  \"background\": \"深色背景，带有发光的绿色网格、向上的图表线条和巨大的绿色箭头\",\n  \"subject\": {\n    \"description\": \"{argument name=\\\"subject description\\\" default=\\\"身着黑色西装的严肃日本男性\\\"}\",\n    \"position\": \"右侧\",\n    \"props\": \"右下角堆叠的 1 万日元钞票\"\n  },\n  \"layout\": {\n    \"main_title\": {\n      \"text\": \"{argument name=\\\"main title\\\" default=\\\"月入 30 万 ChatGPT 副业，人人皆可上手\\\"}\",\n      \"position\": \"居中，巨大的粗体白色与绿色渐变文字\"\n    },\n    \"top_left_badge\": {\n      \"text\": \"{argument name=\\\"top left badge\\\" default=\\\"高可复制性\\\"}\",\n      \"style\": \"倾斜的霓虹绿边框\"\n    },\n    \"top_tags\": {\n      \"count\": 4,\n      \"labels\": [\"新手友好\", \"手机即可操作\", \"快速实现变现\", \"附具体案例\"]\n    },\n    \"left_bullet_points\": {\n      \"count\": 6,\n      \"style\": \"带有霓虹绿边框和图标的深色方框\",\n      \"items\": [\n        \"灯泡图标：零失败起步法\",\n        \"日元硬币图标：副业推荐\",\n        \"图表图标：变现流程\",\n        \"搜索图标：项目寻找方法\",\n        \"聊天图标：附提示词示例\",\n        \"剪贴板图标：附模板\"\n      ]\n    },\n    \"bottom_banner\": {\n      \"text\": \"{argument name=\\\"bottom banner text\\\" default=\\\"步骤详解\\\"}\",\n      \"icons\": \"左侧 ChatGPT Logo，右侧向上图表\"\n    },\n    \"bottom_tags\": {\n      \"count\": 2,\n      \"labels\": [\"{argument name=\\\"year tag\\\" default=\\\"2026 年最新版\\\"}\", \"即刻上手\"]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "霓虹商务信息产品缩略图：为商业和副业内容生成高冲击力、文字密集的 YouTube 缩略图或横幅。",
+      "subject": "文字符号",
+      "scene": "图标/贴纸",
+      "composition": [
+        "grid"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "图标包、贴纸、表情、产品功能图标",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 图标/贴纸 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15029",
+      "15059",
+      "14196",
+      "14517",
+      "13692",
+      "13534"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "14741",
+  "prompt": "{argument name=\"风格\" default=\"国风CG插画\"}，唐风美学，{argument name=\"人物设定\" default=\"古代绝美女子\"}，半身近景特写，画面重心聚焦面部与上半身，高级人像构图，电影级镜头语言与空间透视\n\n人物设定：\n东亚古典美人，冷白通透肌肤，细腻真实皮肤质感，柔润微光；\n五官精致立体但自然不过度夸张，狭长凤眼，眼尾微挑，眼神含情带羞、微醺朦胧，长睫毛投下细微阴影；\n唇色如胭脂晕染，微启唇，神态柔美而富有情绪张力，呈现“含蓄东方美”\n\n造型设计：\n粉色系华丽唐风服饰，轻柔贴合身体曲线，层次丰富但不过度堆叠；\n适度低领设计，强调锁骨与颈肩线条，视觉引导自然不过分直白；\n头戴精工凤冠（金属、珍珠、宝石、流苏），材质真实反光，随动作轻微摆动\n\n动态与姿态：\n身体微侧或轻旋转姿态，颈部延展，肩线舒展，手部形成柔性引导线，增强画面韵律与女性柔美张力\n\n光影系统：\n电影级布光\n主光：暖金侧前方光聚焦面部与肌肤高光\n辅光：冷色环境光塑造体积与空间\n边缘光勾勒发丝与肩颈轮廓\n高光控制不过曝，阴影保留细节，面部光影柔和过渡\n\n画面风格：\n超写实CG人像融合东方写意气韵，轻微朦胧美学\n\n氛围与质感：\n梦幻、含蓄、东方审美的高级氛围；\n背景虚化，弱化环境强化人物；\n轻微胶片颗粒+ 柔焦辉光，增强情绪与质感\n\n色彩体系：\n主色：胭脂粉、鎏金\n辅色：冷青蓝灰\n整体低饱和高质感，避免艳俗\n\n镜头参数：\n85mm portrait lens, f1.4–f2, shallow depth of field, cinematic framing\n\n画质：\nultra detailed, 8K–16K, extreme detail, high resolution, cinematic lighting\n\n比例：\n{argument name=\"比例\" default=\"9:16\"}",
+  "translatedPrompt": "{argument name=\"style\" default=\"中式 CG 插画\"}, 唐代美学，{argument name=\"character description\" default=\"精致古风女子\"}, 半身特写镜头，聚焦面部与上半身，高端肖像构图，电影级镜头语言与空间透视。\n\n角色设定：\n东亚古典美人，冷白通透肤色，细腻真实的皮肤纹理，柔和微光；五官精致立体但自然不夸张，细长凤眼，眼角微挑，眼神含情脉脉且羞涩，微醺朦胧，长睫毛投下细微阴影；唇色如胭脂，双唇微启，柔和且富有情绪张力，呈现“含蓄的东方美”。\n\n造型设计：\n粉色调华丽唐风服饰，柔和贴合身体曲线，层次丰富但不堆砌；适度的低领设计强调锁骨与颈肩线条，自然的视觉引导；精致凤冠（金属、珍珠、宝石、流苏），写实材质反射，随动作轻微晃动。\n\n动态与姿态：\n微侧身或轻微旋转姿态，颈部延伸，肩线舒展，双手形成柔和的引导线，增强画面韵律与女性柔美张力。\n\n光影系统：\n电影级布光。主光：暖金色前侧光，聚焦面部与皮肤高光。补光：冷色环境光，塑造体积感与空间感。轮廓光勾勒发丝与颈部剪影。高光控制不过曝，阴影保留细节，面部光影过渡柔和。\n\n艺术风格：\n超写实 CG 肖像融合东方写意神韵，轻微朦胧美学。\n\n氛围与质感：\n梦幻、含蓄、高端的东方美学氛围；虚化背景以弱化环境，强化角色；轻微胶片颗粒 + 柔焦光晕，增强情绪与质感。\n\n色彩系统：\n主色：胭脂粉、金色。辅助色：冷蓝灰色。整体低饱和度、高质感，避免艳俗。\n\n镜头参数：\n85mm 人像镜头，f1.4–f2，浅景深，电影级取景。\n\n质量：\n超细节，8K–16K，极致细节，高分辨率，电影级光影。\n\n画面比例：\n{argument name=\"aspect ratio\" default=\"9:16\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "唐风美学 CG 插画：一个用于创作具有电影级光影的传统唐代风格东方美人的高细节提示词。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "lens"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, lens]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13448",
+      "13451",
+      "14017",
+      "13697",
+      "14538",
+      "13653"
+    ]
+  }
+}

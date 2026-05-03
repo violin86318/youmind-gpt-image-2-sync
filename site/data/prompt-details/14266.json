@@ -1,0 +1,44 @@
+{
+  "id": "14266",
+  "prompt": "A stunning vertical poster illustration on a textured cream paper background, featuring a massive, flowing translucent red silk ribbon that spirals diagonally from the bottom right to the top left. At the bottom right, one woman in a flowing traditional red dress holds the end of the ribbon. The ribbon frames a highly detailed, sprawling cityscape that transitions from historic to modern. The lower and middle sections showcase traditional Chinese temples, pagodas, and historic arcade buildings adorned with red lanterns, alongside blooming peonies and golden clouds. Integrated into the left side of the ribbon's flow are three traditional Yingge dancers with painted faces in dynamic poses. The upper section reveals a sweeping teal coastal bay with modern skyscrapers, one long suspension bridge, three ships navigating the water, distant mountains, and seagulls flying near a golden sun. The bottom left corner features elegant typography: \"{argument name=\"season and year\" default=\"SPRING 2026\"}\" in a serif font, large golden Chinese calligraphy reading \"{argument name=\"main city name\" default=\"汕头\"}\", smaller vertical text \"{argument name=\"subtitle\" default=\"百载商埠 · 魅力汕头\"}\", and \"{argument name=\"english location\" default=\"SHANTOU CHINA\"}\" with a small red seal stamp. The art style is a breathtaking fusion of traditional Chinese ink wash painting and modern digital fantasy art, utilizing a vibrant palette of crimson, teal, and gold.",
+  "translatedPrompt": "A stunning vertical poster illustration on a textured cream paper background, featuring a massive, flowing translucent red silk ribbon that spirals diagonally from the bottom right to the top left. At the bottom right, one woman in a flowing traditional red dress holds the end of the ribbon. The ribbon frames a highly detailed, sprawling cityscape that transitions from historic to modern. The lower and middle sections showcase traditional Chinese temples, pagodas, and historic arcade buildings adorned with red lanterns, alongside blooming peonies and golden clouds. Integrated into the left side of the ribbon's flow are three traditional Yingge dancers with painted faces in dynamic poses. The upper section reveals a sweeping teal coastal bay with modern skyscrapers, one long suspension bridge, three ships navigating the water, distant mountains, and seagulls flying near a golden sun. The bottom left corner features elegant typography: \"{argument name=\"season and year\" default=\"SPRING 2026\"}\" in a serif font, large golden Chinese calligraphy reading \"{argument name=\"main city name\" default=\"汕头\"}\", smaller vertical text \"{argument name=\"subtitle\" default=\"百载商埠 · 魅力汕头\"}\", and \"{argument name=\"english location\" default=\"SHANTOU CHINA\"}\" with a small red seal stamp. The art style is a breathtaking fusion of traditional Chinese ink wash painting and modern digital fantasy art, utilizing a vibrant palette of crimson, teal, and gold.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Epic Chinese Cityscape Ribbon Poster：Generates a stunning, culturally rich poster featuring a sweeping red ribbon, traditional and modern city elements, and customizable typography.",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "fantasy",
+        "ink wash"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: fantasy, ink wash]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14262",
+      "13891",
+      "14511",
+      "14815",
+      "15357",
+      "14601"
+    ]
+  }
+}

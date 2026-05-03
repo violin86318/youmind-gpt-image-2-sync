@@ -1,0 +1,35 @@
+{
+  "id": "15219",
+  "prompt": "饕餮：眼神{argument name=\"眼神1\" default=\"贪婪凶恶\"}，{argument name=\"神态1\" default=\"凶猛\"}的神态，攻击型的姿势，混沌：眼神{argument name=\"眼神2\" default=\"半开半合\"}，{argument name=\"神态2\" default=\"懵懂\"}的神态，慵懒的姿势，穷奇：眼神狡诈，凶狠，厌恶良善的神态，徘徊狡猾的姿势，梼杌：眼神目空一切，傲慢的神态，顽固、蛮不讲理、横行霸道的姿势。",
+  "translatedPrompt": "饕餮：贪婪凶狠的眼神，狰狞的表情，极具攻击性的姿态；\n混沌：半睁半闭的眼睛，混沌无知的表情，懒散的姿态；\n穷奇：狡诈恶毒的眼神，仇视善人的神情，游移诡谲的姿态；\n梼杌：充满不屑的眼神，傲慢的表情，顽固蛮横、飞扬跋扈的姿态。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "上古神兽角色设定：针对四种中国上古神兽的行为与面部表情的详细描述，用于测试模型对角色性格的解读能力。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

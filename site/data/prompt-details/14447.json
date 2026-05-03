@@ -1,0 +1,49 @@
+{
+  "id": "14447",
+  "prompt": "{\n  \"type\": \"dark SaaS analytics dashboard UI\",\n  \"product\": {\n    \"brand\": \"{argument name=\\\"brand name\\\" default=\\\"AICode\\\"}\",\n    \"theme\": \"dark navy blue glassmorphism interface with subtle gradients, soft glow, rounded cards, thin borders, modern developer-tool aesthetic\"\n  },\n  \"canvas\": {\n    \"aspect_ratio\": \"16:9\",\n    \"background\": \"deep midnight blue with faint vignette and soft radial lighting\"\n  },\n  \"layout\": {\n    \"structure\": \"left sidebar plus main content area\",\n    \"sections\": [\n      {\n        \"title\": \"Sidebar\",\n        \"position\": \"left\",\n        \"count\": 8,\n        \"labels\": [\"AICode\", \"Overview\", \"Projects\", \"AI Assistants\", \"API & Usage\", \"Code Quality\", \"Team\", \"Settings\"],\n        \"details\": \"logo at top, Overview selected with purple highlight, lower subscription card showing Pro Plan, renews in 12 days, horizontal progress bar at 75%, user profile at bottom with avatar, {argument name=\\\"user name\\\" default=\\\"Alex Morgan\\\"}, and email alex@morgan.dev\"\n      },\n      {\n        \"title\": \"Header\",\n        \"position\": \"top main area\",\n        \"count\": 4,\n        \"labels\": [\"Welcome back, Alex 👋\", \"Here's what's happening with your AI coding platform today.\", \"May 12 – Jun 12, 2024\", \"Export Report\"],\n        \"details\": \"large greeting on left, date range picker and export button on right\"\n      },\n      {\n        \"title\": \"Metric cards\",\n        \"position\": \"top row under header\",\n        \"count\": 4,\n        \"labels\": [\"Total Users\", \"Active Projects\", \"API Calls\", \"Code Quality Score\"],\n        \"values\": [\"12,842\", \"2,153\", \"1.28M\", \"876\"],\n        \"details\": \"each card has a small colored icon, large main value, comparison text vs Apr 12 – May 12, 2024, positive change percentages 14.6%, 8.3%, 23.7%, 5.9%, and a miniature line chart at the bottom; colors are purple, green, amber, and blue\"\n      },\n      {\n        \"title\": \"Main analytics panels\",\n        \"position\": \"middle and bottom rows\",\n        \"count\": 4,\n        \"labels\": [\"API Calls Over Time\", \"Top Projects\", \"User Activity Heatmap\", \"Code Quality Trends\"],\n        \"details\": \"API Calls Over Time is a wide area chart with Daily dropdown and rising purple line ending near 250K; Top Projects is a ranked list of 5 items with progress bars and percentage changes; User Activity Heatmap is a 7-row weekly heatmap with hour labels from 12 AM to 9 PM; Code Quality Trends is a line chart with Weekly dropdown and smooth upward purple trend from about 70 to low 90s\"\n      },\n      {\n        \"title\": \"Top Projects list\",\n        \"position\": \"middle right panel\",\n        \"count\": 5,\n        \"labels\": [\"AI Code Assistant\", \"Smart Refactor\", \"Code Review Bot\", \"Doc Generator\", \"Test Builder\"],\n        \"values\": [\"485K\", \"321K\", \"214K\", \"132K\", \"98K\"],\n        \"details\": \"green positive deltas for first four items 12.4%, 8.7%, 3.1%, 6.8%, and red negative delta -1.2% for Test Builder; each row has a colored square icon and thin horizontal progress bar\"\n      }\n    ]\n  },\n  \"style\": {\n    \"visual_language\": \"premium fintech and AI product design mockup\",\n    \"rendering\": \"crisp high-fidelity UI mockup, subtle shadows, neon edge lighting, polished charts, clean sans-serif typography\",\n    \"primary_accent\": \"{argument name=\\\"accent color\\\" default=\\\"electric purple\\\"}\",\n    \"secondary_accents\": [\"emerald green\", \"amber yellow\", \"cyan blue\"],\n    \"density\": \"information-rich but spacious, balanced grid, highly legible\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"深色 SaaS 分析仪表盘 UI\",\n  \"product\": {\n    \"brand\": \"{argument name=\\\"brand name\\\" default=\\\"AICode\\\"}\",\n    \"theme\": \"深海军蓝磨砂玻璃质感界面，带有微妙的渐变、柔和光晕、圆角卡片、细边框，现代开发者工具美学\"\n  },\n  \"canvas\": {\n    \"aspect_ratio\": \"16:9\",\n    \"background\": \"深午夜蓝，带有淡淡的暗角和柔和的径向光效\"\n  },\n  \"layout\": {\n    \"structure\": \"左侧边栏加主内容区域\",\n    \"sections\": [\n      {\n        \"title\": \"侧边栏\",\n        \"position\": \"左侧\",\n        \"count\": 8,\n        \"labels\": [\"AICode\", \"概览\", \"项目\", \"AI Assistants\", \"API 与使用情况\", \"代码质量\", \"团队\", \"设置\"],\n        \"details\": \"顶部显示 Logo，选中“概览”并带有紫色高亮，底部订阅卡片显示 Pro Plan，12 天后到期，水平进度条显示 75%，底部用户个人资料包含头像、{argument name=\\\"user name\\\" default=\\\"Alex Morgan\\\"} 以及邮箱 alex@morgan.dev\"\n      },\n      {\n        \"title\": \"页眉\",\n        \"position\": \"顶部主区域\",\n        \"count\": 4,\n        \"labels\": [\"欢迎回来，Alex 👋\", \"这是您 AI 编程平台今日的动态。\", \"2024 年 5 月 12 日 – 6 月 12 日\", \"导出报告\"],\n        \"details\": \"左侧为大号问候语，右侧为日期范围选择器和导出按钮\"\n      },\n      {\n        \"title\": \"指标卡片\",\n        \"position\": \"页眉下方第一行\",\n        \"count\": 4,\n        \"labels\": [\"总用户数\", \"活跃项目\", \"API 调用量\", \"代码质量评分\"],\n        \"values\": [\"12,842\", \"2,153\", \"1.28M\", \"876\"],\n        \"details\": \"每张卡片包含一个小图标、大号主数值，以及与 2024 年 4 月 12 日 – 5 月 12 日的对比文本，正向增长百分比分别为 14.6%、8.3%、23.7%、5.9%，底部带有迷你折线图；颜色分别为紫色、绿色、琥珀色和蓝色\"\n      },\n      {\n        \"title\": \"主要分析面板\",\n        \"position\": \"中间和底部行\",\n        \"count\": 4,\n        \"labels\": [\"API 调用趋势\", \"热门项目\", \"用户活跃热力图\", \"代码质量趋势\"],\n        \"details\": \"“API 调用趋势”为宽幅面积图，带有“每日”下拉菜单，紫色折线呈上升趋势，终点接近 250K；“热门项目”为包含 5 个项目的排名列表，带有进度条和百分比变化；“用户活跃热力图”为 7 行周热力图，带有从上午 12 点到晚上 9 点的小时标签；“代码质量趋势”为折线图，带有“每周”下拉菜单，紫色曲线平滑上升，从约 70 升至 90 出头\"\n      },\n      {\n        \"title\": \"热门项目列表\",\n        \"position\": \"中间右侧面板\",\n        \"count\": 5,\n        \"labels\": [\"AI Code Assistant\", \"Smart Refactor\", \"Code Review Bot\", \"Doc Generator\", \"Test Builder\"],\n        \"values\": [\"485K\", \"321K\", \"214K\", \"132K\", \"98K\"],\n        \"details\": \"前四项的绿色正向增长分别为 12.4%、8.7%、3.1%、6.8%，Test Builder 为红色负增长 -1.2%；每一行都有一个彩色方形图标和细水平进度条\"\n      }\n    ]\n  },\n  \"style\": {\n    \"visual_language\": \"高端金融科技与 AI 产品设计原型\",\n    \"rendering\": \"清晰的高保真 UI 原型，微妙的阴影，霓虹边缘光效，精致的图表，简洁的无衬线字体\",\n    \"primary_accent\": \"{argument name=\\\"accent color\\\" default=\\\"电光紫\\\"}\",\n    \"secondary_accents\": [\"翡翠绿\", \"琥珀黄\", \"青蓝色\"],\n    \"density\": \"信息丰富且空间感强，网格平衡，高度易读\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "深色 AI 编程仪表盘 UI：一款专为 AI 编程平台打造的精致深色模式分析仪表盘，适用于 SaaS 产品设计原型、管理后台及数据密集型 Web UI 展示。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "grid",
+        "horizontal"
+      ],
+      "style": [
+        "premium"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "B2B 产品概念图、后台系统、数据看板",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, horizontal]。\n\nVisual style:\n[参考风格: premium]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14627",
+      "14446",
+      "15058",
+      "14322",
+      "15389",
+      "15725"
+    ]
+  }
+}

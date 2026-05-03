@@ -1,0 +1,44 @@
+{
+  "id": "15355",
+  "prompt": "A photorealistic ultra-futuristic cityscape in the year {argument name=\"year\" default=\"100000 AD\"}, viewed from a high terrace with glossy reflective flooring and lush vegetation climbing the architecture at the left edge. In the foreground, exactly 3 figures stand with their backs turned, looking out over the city: 1 human in a long elegant cream-colored robe or cloak, 1 sleek silver humanoid android with exposed mechanical details, and 1 mysterious translucent glowing humanoid made of shimmering light, almost like an invisible person outlined by refracted energy. The scene shows an immense advanced metropolis with countless slender megastructures and needle-like towers rising from green parklands and waterways, circular and elevated platforms supporting gardens and buildings, and several floating craft and hovering structures scattered across the skyline. Above the city, a gigantic transparent ring or shell-like orbital structure arcs across the sky, with a huge pale planetary body or moon dominating the background. Warm golden-hour sunlight, atmospheric haze, cinematic scale, highly detailed sci-fi architecture, utopian yet uncanny mood, realistic materials, long-distance depth, wide-angle composition, epic sense of civilization far beyond the present, with special visual emphasis on the enigmatic transparent humanoid figure.",
+  "translatedPrompt": "一幅超写实的未来城市景观，时间设定在 {argument name=\"year\" default=\"公元 100000 年\"}，视角从高处露台俯瞰，地面光洁如镜，左侧建筑上攀附着茂密的植被。前景中，3 个背对镜头的人物正眺望着这座城市：1 位身穿优雅米色长袍或斗篷的人类，1 位拥有外露机械细节的银色流线型安卓机器人，以及 1 位由闪烁光芒构成的神秘透明人形生物，宛如被折射能量勾勒出的隐形人。画面展现了一座宏伟的先进大都市，无数纤细的巨型建筑和针状塔楼从绿色的公园和水道中拔地而起，圆形高架平台支撑着花园与建筑，天际线上散布着多艘飞行器和悬浮结构。城市上方，一个巨大的透明环状或壳状轨道结构横跨天空，背景中悬挂着一颗巨大的苍白行星或卫星。温暖的黄金时刻阳光，大气薄雾，电影级尺度，高度精细的科幻建筑，乌托邦式又带有一丝诡谲的氛围，真实的材质，深远的景深，广角构图，展现出超越当今文明的史诗感，并特别强调了那个神秘的透明人形生物。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "拥有透明人形生物的遥远未来城市：一幅极具电影感的超写实科幻城市景观，常用于推测性世界观构建、遥远未来概念艺术以及超现实的 AI 生成科幻场景。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "sci-fi"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, sci-fi]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14077",
+      "14660",
+      "14089",
+      "15308",
+      "15443",
+      "15515"
+    ]
+  }
+}

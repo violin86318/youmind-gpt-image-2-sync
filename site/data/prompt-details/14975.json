@@ -1,0 +1,53 @@
+{
+  "id": "14975",
+  "prompt": "Create a clean, modern Japanese presentation cover slide in a minimalist editorial style, landscape 16:9. Use a very light gray background with bold black typography and vivid yellow accent bars. The layout is asymmetrical and high contrast, with lots of negative space. Place a small black square near the upper left containing the white text \"01\" in italic bold sans serif. Across the center, set a large Japanese title in heavy black type on 2 lines: \"司法書士等による\" on the first line and \"特別委任方式\" on the second line, with the second line much larger and sitting on a rough hand-painted yellow highlight stroke. Below it, add a smaller Japanese subtitle in black: \"登記原因証明情報の新しい取扱い\". Under the subtitle, place a thin horizontal black line centered. Along the far right edge, add a tall vertical yellow sidebar with black vertical text reading \"01 表紙\". Near the top right, place 1 small black square as a decorative element. In the lower right quadrant, place a decorative 5 by 5 dotted grid made of 25 small black dots. On the far left edge, crop in oversized black Japanese characters so they are only partially visible, creating a strong graphic border effect. At the bottom left, place a single line of small black Japanese text: \"令和7年12月9日　法務省民二第1578号　依命通知\". At the bottom right, place 2 lines of small black Japanese text, right aligned: first line \"司法書士事務所アンドロー・デザインワークショップ\", second line \"司法書士　浅野勇貴\". Add a thin diagonal black line entering from the top left corner as another graphic accent. Overall feel: premium business presentation, legal seminar title slide, Swiss-inspired grid composition, bold Japanese typography, sharp and print-like.",
+  "translatedPrompt": "创建一个简洁、现代的日本演示文稿封面 Slides，采用极简编辑风格，比例为 16:9 横向。使用极浅灰色背景，搭配粗体黑色排版和鲜艳的黄色装饰条。布局采用非对称设计，对比度高，留白充足。在左上角附近放置一个小黑色方块，内含白色斜体粗体无衬线文字“01”。在中心位置，设置两行厚重的黑色日文大标题：第一行“司法書士等による”，第二行“特別委任方式”，第二行字体更大，并置于一条粗糙的手绘黄色高亮笔触之上。在标题下方，添加一行较小的黑色日文副标题：“登記原因証明情報の新しい取扱い”。在副标题下方，放置一条居中的细横线。在最右侧边缘，添加一个高大的垂直黄色侧边栏，上面有黑色竖排文字“01 表紙”。在右上角附近，放置 1 个小黑色方块作为装饰元素。在右下象限，放置一个由 25 个小黑点组成的 5x5 点阵装饰。在最左侧边缘，裁剪超大的黑色日文字符，使其仅部分可见，从而产生强烈的图形边框效果。在左下角，放置一行小号黑色日文文本：“令和7年12月9日　法務省民二第1578号　依命通知”。在右下角，右对齐放置两行小号黑色日文文本：第一行“司法書士事務所アンドロー・デザインワークショップ”，第二行“司法書士　浅野勇貴”。添加一条从左上角切入的细斜线作为额外的图形装饰。整体感觉：高端商务演示、法律研讨会标题 Slides、瑞士风格网格构图、大胆的日文排版、清晰且具有印刷质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日本法律演示文稿封面 Slides：此提示词可生成一张风格大胆、极简的日本法律或专业演示文稿标题 Slides，采用强有力的排版和黄色装饰图形。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "grid",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "editorial",
+        "minimalist",
+        "premium"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, grid, vertical, horizontal]。\n\nVisual style:\n[参考风格: editorial, minimalist, premium]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14869",
+      "15647",
+      "15731",
+      "14946",
+      "15033",
+      "15642"
+    ]
+  }
+}

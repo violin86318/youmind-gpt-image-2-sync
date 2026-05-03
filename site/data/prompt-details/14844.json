@@ -1,0 +1,52 @@
+{
+  "id": "14844",
+  "prompt": "A clean retro-futurist presentation board on a muted periwinkle-blue background with a minimalist editorial layout, showing 4 analog-inspired audio product concept visuals arranged horizontally. On the far left, a partially cropped reference image of a vintage reel-to-reel tape deck and silver stereo receiver on a wooden shelf against a warm off-white wall; two large white reels with dark green centers, brushed metal knobs, a blue-lit display, and pale mint and silver hardware. To the right, 3 tall rounded-corner poster cards evenly spaced, all using the same cream paper tone, dark forest-green typography, mint-green product styling, and soft studio shadows. First poster: a spherical retro speaker/radio on a pedestal base, pale mint body with a circular front face, small display, and two side knobs, centered under a large bold uppercase headline reading {argument name=\"headline text 1\" default=\"SOUND, REIMAGINED.\"}. Second poster: a mint-green vintage oscilloscope-like device with a CRT screen displaying a waveform, silver knobs and switches, and a metal tilt stand, centered under a bold uppercase headline reading {argument name=\"headline text 2\" default=\"WAVEFORM\"}. Third poster: a compact mint-green portable cassette recorder/boombox with handle, front cassette window, buttons, speaker grille, and silver knobs, centered under a bold uppercase headline reading {argument name=\"headline text 3\" default=\"ANALOG STILL HITS.\"}. Each poster includes tiny microtype, fake brand marks, and footer icons in a refined Swiss-modern advertising style. Use a restrained palette of dusty blue, cream, sage mint, forest green, silver, black, and warm wood. Add thin horizontal guide lines across the background and small footer text at the bottom reading {argument name=\"left footer text\" default=\"MJ REFERENCE\"} on the left and {argument name=\"right footer text\" default=\"KREA  //  GPT 2\"} on the right. Overall look: premium concept design board, consistent aesthetic translation from analog hi-fi inspiration into three polished product posters, soft lighting, high-end graphic design, minimal clutter, crisp typography, and subtle nostalgic realism.",
+  "translatedPrompt": "一个简洁的复古未来主义展示项目，背景为柔和的长春花蓝，采用极简主义编辑布局，横向排列 4 张模拟风格的音频产品概念视觉图。最左侧是一张局部裁剪的参考图，展示了木架上的一台复古开盘式磁带机和银色立体声接收器，背景为温暖的米白色墙壁；配有两个带有深绿色中心的大型白色卷轴、拉丝金属旋钮、蓝色背光显示屏以及浅薄荷绿和银色的硬件。右侧是 3 张等间距排列的圆角高挑海报卡片，均采用相同的奶油色纸张色调、深森林绿排版、薄荷绿产品造型和柔和的摄影棚阴影。第一张海报：底座上放置着一个球形复古扬声器/收音机，浅薄荷绿机身，圆形正面，带有小型显示屏和两个侧旋钮，上方居中显示粗体大写标题 {argument name=\"headline text 1\" default=\"SOUND, REIMAGINED.\"}。第二张海报：一台薄荷绿色的复古示波器式设备，CRT 屏幕显示波形，配有银色旋钮、开关和金属倾斜支架，上方居中显示粗体大写标题 {argument name=\"headline text 2\" default=\"WAVEFORM\"}。第三张海报：一台紧凑型薄荷绿色便携式磁带录音机/手提音响，带有手柄、前置磁带窗、按钮、扬声器格栅和银色旋钮，上方居中显示粗体大写标题 {argument name=\"headline text 3\" default=\"ANALOG STILL HITS.\"}。每张海报均包含微型字体、伪造品牌标识和页脚图标，呈现出精致的瑞士现代广告风格。使用灰蓝色、奶油色、鼠尾草薄荷绿、森林绿、银色、黑色和暖木色的克制色调。在背景上添加细水平引导线，并在底部添加小型页脚文本，左侧为 {argument name=\"left footer text\" default=\"MJ REFERENCE\"}，右侧为 {argument name=\"right footer text\" default=\"KREA // GPT 2\"}。整体外观：高级概念设计项目，将模拟高保真灵感转化为三张精致产品海报的一致美学呈现，柔和的灯光，高端平面设计，极简布局，清晰的排版，以及微妙的怀旧现实主义。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古音频概念海报项目：此提示词可生成一个时尚的设计项目，将一张模拟参考照片与三张相匹配的复古科技产品海报相结合，用于概念展示和品牌美学探索。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "horizontal"
+      ],
+      "style": [
+        "editorial",
+        "minimalist",
+        "vintage",
+        "retro",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "soft light"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, horizontal]。\n\nVisual style:\n[参考风格: editorial, minimalist, vintage, retro, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: soft light]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14856",
+      "15088",
+      "15462",
+      "15773",
+      "14849",
+      "14851"
+    ]
+  }
+}

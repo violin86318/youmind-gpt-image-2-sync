@@ -1,0 +1,45 @@
+{
+  "id": "15024",
+  "prompt": "A clean, minimalist anime illustration of a melancholic young woman in three-quarter profile, seated and resting her cheek against one hand. She has long straight {argument name=\"hair color\" default=\"blue-black\"} hair with blunt bangs, very pale skin, and soft gray-blue eyes with a distant, tired expression. Her face is small and delicate, with a tiny beauty mark under one eye and subtle lashes. She wears a dark oversized layered outfit in deep navy and charcoal: a high-neck black top under a loose draped jacket or kimono-like outer layer, with faint gold line accents and tiny eye motifs worked into the fabric. Her accessories are occult-inspired and elegant: multiple ear piercings, one long dangling earring shaped like an eye with a teardrop pendant, a thin necklace with a small eye charm, and several rings including an eye ring on the hand touching her face. Her nails are painted muted slate blue. The background is a flat warm off-white with a carefully arranged gallery of mystical eye symbols and hanging ornaments. Include exactly 6 eye-themed wall elements: 1 framed eye picture in the upper left, 1 circular eye ornament hanging below it, 1 small circle target-like ornament near the upper right, 1 black hanging charm with an eye and geometric crystals on the far right, 1 square panel with a radiant eye at mid-right, and 1 dark rectangular panel with an eye and 4 teardrop shapes at the lower right. Add a dark bottle silhouette and a few muted blue-gray leaves on the left side as secondary decor. Use a restrained palette of navy, black, cream, gray-blue, and touches of muted gold. The composition should feel quiet, gothic, feminine, and introspective, with flat graphic shapes, crisp linework, little shading, and a modern decorative poster aesthetic.",
+  "translatedPrompt": "一张简洁、极简主义的动漫插画，描绘了一位忧郁的年轻女性，呈四分之三侧面，坐着并用一只手托着脸颊。她留着长直的 {argument name=\"hair color\" default=\"蓝黑色\"} 头发，配有齐刘海，皮肤非常苍白，灰蓝色的双眸透着遥远而疲惫的神情。她的脸庞小巧精致，一只眼睛下方有一颗细小的泪痣，睫毛细腻。她穿着深海军蓝和炭灰色的深色超大叠层服装：高领黑色上衣外搭宽松的垂坠外套或和服式外衣，布料上饰有淡淡的金色线条点缀和细小的眼眸图案。她的配饰优雅且带有神秘色彩：多处耳洞，一只长款垂坠耳环，形状为带有泪滴吊坠的眼睛，一条细项链挂着小巧的眼眸吊坠，手上戴着几枚戒指，包括托脸那只手上的眼眸戒指。她的指甲涂着柔和的板岩蓝色。背景为平铺的暖米白色，精心布置着一系列神秘的眼眸符号和悬挂装饰。包含 6 个精准的眼眸主题墙面元素：左上方 1 幅带框眼眸画，其下方 1 个圆形眼眸挂饰，右上方附近 1 个类似靶心的小圆形装饰，最右侧 1 个带有眼眸和几何水晶的黑色挂饰，中右侧 1 个带有放射状眼眸的方形面板，以及右下方 1 个带有眼眸和 4 个泪滴形状的深色矩形面板。左侧添加一个深色瓶子剪影和几片柔和的蓝灰色叶子作为辅助装饰。使用海军蓝、黑色、奶油色、灰蓝色以及少许柔和金色的克制色调。构图应呈现出安静、哥特、柔美且内省的氛围，采用平面的图形形状、清晰的线条、极少的阴影以及现代装饰海报的美学风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "神秘眼眸主题动漫肖像：此提示词可生成一张带有神秘眼眸装饰的时尚单人动漫肖像，非常适合用于忧郁风格的编辑艺术、海报或个人资料头像。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [
+        "layered"
+      ],
+      "style": [
+        "anime",
+        "minimalist"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered]。\n\nVisual style:\n[参考风格: anime, minimalist]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14616",
+      "14693",
+      "15083",
+      "14025",
+      "14060",
+      "13740"
+    ]
+  }
+}

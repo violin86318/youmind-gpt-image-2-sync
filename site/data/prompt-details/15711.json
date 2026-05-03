@@ -1,0 +1,48 @@
+{
+  "id": "15711",
+  "prompt": "A vibrant anime-style close-up of a cute DJ girl in a magical rave scene, framed from a slightly low angle as if the viewer is standing in front of the DJ booth. She has a short bob haircut with {argument name=\"hair color\" default=\"blonde with rainbow-dyed ends\"}, fluffy bangs, and tall bunny ears, with the inner left ear showing a rainbow gradient. Her face is mostly obscured by a centered rectangular censor block in soft beige-pink, but the pose should imply a playful wink and a mischievous grin. She wears oversized heart-shaped sunglasses on top of her head, one blue frame and one red frame, with glossy purple-tinted lenses. One hand is pressing a large rainbow-colored headphone cup against her ear, while the other arm reaches forward toward the viewer over the DJ console, creating an energetic performance feel as if she is about to drop the next track. She is dressed in an oversized white hoodie with a large green butterfly emblem on the chest and 4 stitched heart patches on the sleeves and shoulder area: 1 orange, 1 purple, 1 blue, and 1 red. In the foreground, show part of a glowing DJ mixer with colorful neon controls, knobs, and a luminous pink heart icon. The background is a dreamy, hyper-sparkly club fantasy filled with glowing stars, hearts, glitter bokeh, pastel light beams, and soft rainbow highlights, with an \"emo\" yet kawaii atmosphere. Use highly polished anime illustration, glossy lighting, soft bloom, iridescent reflections, saturated rainbow accents, and a cute, energetic idol-DJ aesthetic.",
+  "translatedPrompt": "一张充满活力的动漫风格特写，描绘了一位可爱的 DJ 女孩置身于梦幻般的锐舞场景中，采用略微仰视的视角，仿佛观众正站在 DJ 台前。她留着波波头，发色为 {argument name=\"hair color\" default=\"金色配彩虹发尾\"}，有着蓬松的刘海和高耸的兔耳朵，左耳内侧呈现彩虹渐变色。她的脸部大部分被中间一个柔和米粉色的矩形遮挡块遮住，但姿势应暗示出俏皮的眨眼和顽皮的笑容。她头顶戴着一副超大心形太阳镜，镜框一红一蓝，镜片带有光泽的紫色调。一只手正将一个巨大的彩虹色耳机罩按在耳边，另一只手臂越过 DJ 控制台向观众伸出，营造出一种仿佛即将播放下一首曲目的动感表演氛围。她穿着一件超大号白色连帽衫，胸前有一个巨大的绿色蝴蝶标志，袖子和肩部区域缝有 4 个心形补丁：1 个橙色、1 个紫色、1 个蓝色和 1 个红色。前景展示了部分发光的 DJ 混音台，配有色彩鲜艳的霓虹灯控制键、旋钮和一个发光的粉色心形图标。背景是一个梦幻且极具闪耀感的俱乐部幻想世界，充满了发光的星星、爱心、闪光虚化效果、柔和的光束和柔和的彩虹高光，营造出一种既“emo”又可爱的氛围。采用高度精致的动漫插画风格，运用光泽照明、柔光效果、虹彩反射、饱和的彩虹色调，呈现出可爱且充满活力的偶像 DJ 美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "彩虹兔女郎 DJ 动漫头像：此提示词可生成一张色彩缤纷的动漫 DJ 女孩肖像，包含兔耳朵、彩虹风格以及闪耀的俱乐部氛围，非常适合社交媒体艺术对比或角色概念视觉图。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "close-up"
+      ],
+      "style": [
+        "anime",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "neon",
+        "lens"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, close-up]。\n\nVisual style:\n[参考风格: anime, fantasy]。\n\nLighting and camera:\n[参考光线镜头: neon, lens]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14886",
+      "15393",
+      "15696",
+      "15718",
+      "14513",
+      "14486"
+    ]
+  }
+}

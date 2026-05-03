@@ -1,0 +1,49 @@
+{
+  "id": "14236",
+  "prompt": "An anime-style movie poster featuring a bright, energetic high school girl in the foreground and a quiet high school boy in the background. The girl has long dark purple hair adorned with ribbons and musical note clips, wearing a white short-sleeved school uniform shirt, a dark plaid skirt, and a striped ribbon tie. She is smiling warmly and reaching forward, handing a piece of paper to the viewer that reads {argument name=\"paper text\" default=\"この歌、あなたと、未来で届けたいです…♡\"}. In the background, the boy sits at a desk, leaning his head on his hand with an aloof expression. He has messy dark hair, wears a dark blazer over a white hoodie, and has headphones around his neck. The setting is a sunlit room equipped for music production, featuring two computer monitors displaying audio waveforms, a microphone, and a keyboard. The scene features bright, cinematic lighting with lens flares and sparkling effects. Prominent text overlays include large vertical catchphrases on the left reading {argument name=\"vertical text\" default=\"億再生 秘密 初恋 運命の歌\"} in pink and blue, a massive stylized main title {argument name=\"main title\" default=\"放課後ミリオンノート\"} in the lower center with sparkling gradients, and a subtitle {argument name=\"subtitle\" default=\"〜陰キャの僕が億再生ボカロPだと、歌い手志望のお嬢様だけが知っている〜\"} just below it. A dense block of movie credits sits at the very bottom alongside a logo reading {argument name=\"studio logo\" default=\"STELLA FILM THEATER\"}.",
+  "translatedPrompt": "An anime-style movie poster featuring a bright, energetic high school girl in the foreground and a quiet high school boy in the background. The girl has long dark purple hair adorned with ribbons and musical note clips, wearing a white short-sleeved school uniform shirt, a dark plaid skirt, and a striped ribbon tie. She is smiling warmly and reaching forward, handing a piece of paper to the viewer that reads {argument name=\"paper text\" default=\"この歌、あなたと、未来で届けたいです…♡\"}. In the background, the boy sits at a desk, leaning his head on his hand with an aloof expression. He has messy dark hair, wears a dark blazer over a white hoodie, and has headphones around his neck. The setting is a sunlit room equipped for music production, featuring two computer monitors displaying audio waveforms, a microphone, and a keyboard. The scene features bright, cinematic lighting with lens flares and sparkling effects. Prominent text overlays include large vertical catchphrases on the left reading {argument name=\"vertical text\" default=\"億再生 秘密 初恋 運命の歌\"} in pink and blue, a massive stylized main title {argument name=\"main title\" default=\"放課後ミリオンノート\"} in the lower center with sparkling gradients, and a subtitle {argument name=\"subtitle\" default=\"〜陰キャの僕が億再生ボカロPだと、歌い手志望のお嬢様だけが知っている〜\"} just below it. A dense block of movie credits sits at the very bottom alongside a logo reading {argument name=\"studio logo\" default=\"STELLA FILM THEATER\"}.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Anime Music Romance Movie Poster：Generates a cinematic anime-style promotional poster for a youth romance story centered around music production, complete with titles and credits.",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "studio"
+      ],
+      "lightingCamera": [
+        "lens"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: cinematic, anime, studio]。\n\nLighting and camera:\n[参考光线镜头: lens]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15096",
+      "14472",
+      "15094",
+      "15021",
+      "14918",
+      "15043"
+    ]
+  }
+}

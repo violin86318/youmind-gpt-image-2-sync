@@ -1,0 +1,46 @@
+{
+  "id": "14835",
+  "prompt": "A luxury fashion editorial ad collage for {argument name=\"brand name\" default=\"LOEWE\"}, shot in a moody high-end magazine style. Center a seated young woman wearing an oversized black leather coat and black leather gloves, posed slightly forward with crossed arms and tousled dark hair blowing in the wind. Her face is mostly obscured and de-emphasized, creating an anonymous editorial feel. She holds or rests a black leather handbag with a gold chain and a dangling gold anagram charm. Place the large white serif wordmark {argument name=\"brand name\" default=\"LOEWE\"} prominently across the center of the image, overlapping the model. Build the background as a dramatic outdoor scene at dusk with a cloudy sky, rocky ground, and a sculptural stacked stone pedestal on the left topped with a large gold abstract monogram ornament. Compose the whole image as a torn-paper mixed-media collage with exactly 5 visible material fragments surrounding the main figure: 1 black embossed leather swatch at bottom left, 1 warm brown leather swatch with embossed logo at lower left foreground, 1 cream woven fabric swatch at bottom right, 1 dark olive textured torn-paper panel on the right side, and 1 small beige leather swatch layered over the right side panel. Use a muted earthy palette of black, charcoal, bronze, cream, brown, and stormy blue-gray, with cinematic lighting, rich texture detail, premium product-photography finish, and a refined surreal luxury campaign aesthetic.",
+  "translatedPrompt": "一张为 {argument name=\"brand name\" default=\"LOEWE\"} 设计的奢华时尚编辑广告拼贴画，采用情绪化的高端杂志风格拍摄。画面中心是一位坐着的年轻女性，身穿超大款黑色皮衣，戴着黑色皮手套，身体微微前倾，双臂交叉，凌乱的深色头发在风中飘动。她的面部大部分被遮挡并弱化，营造出一种匿名编辑的氛围。她手持或倚靠着一个带有金链和悬挂式金色字母组合吊饰的黑色皮包。将巨大的白色衬线字体品牌名 {argument name=\"brand name\" default=\"LOEWE\"} 醒目地置于图像中央，与模特重叠。背景构建为黄昏时分的戏剧性户外场景，天空多云，地面布满岩石，左侧设有一个雕塑般的堆叠石基座，顶部饰有大型金色抽象字母组合装饰。将整幅图像构图为撕纸混合媒介拼贴画，在主体周围包含 5 个清晰可见的材质碎片：左下角 1 块黑色压纹皮革样本，左下前景 1 块带有压印标志的暖棕色皮革样本，右下角 1 块奶油色编织面料样本，右侧 1 块深橄榄色纹理撕纸面板，以及右侧面板上叠加的 1 块米色小皮革样本。采用黑色、炭灰色、青铜色、奶油色、棕色和风暴蓝灰色的柔和大地色调，结合电影级光影、丰富的纹理细节、高级产品摄影质感，以及精致超现实的奢华广告美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奢华皮革时尚拼贴广告：此提示词可为奢华皮革品牌生成高级编辑风格的时尚广告拼贴画，非常适合用于活动视觉图、社交媒体广告及杂志风营销。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "layered"
+      ],
+      "style": [
+        "cinematic",
+        "editorial",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered]。\n\nVisual style:\n[参考风格: cinematic, editorial, luxury, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15077",
+      "15400",
+      "15627",
+      "14836",
+      "15653",
+      "14828"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "14086",
+  "prompt": "A photorealistic night street photography shot of a bustling {argument name=\"city location\" default=\"Tokyo\"} street, heavily illuminated by densely packed vertical neon signs and billboards. On the left, a bright pink sign prominently reads \"{argument name=\"pink sign text\" default=\"カラオケ\"}\" next to a white sign reading \"牛角 焼肉\". On the right, prominent signs include a yellow one reading \"{argument name=\"yellow sign text\" default=\"まんが喫茶 4F\"}\", a white one reading \"東南 本館 2F\", and a red one reading \"{argument name=\"red sign text\" default=\"中華食堂 一番館 B1\"}\". In the center distance, a large blue billboard displays \"{argument name=\"billboard text\" default=\"open TOKYO\"}\" above a digital screen showing a person with the text \"YUNIKA VISION\". The street level is crowded with the backs of pedestrians' heads walking through the vibrant, glowing urban canyon. The lighting is high contrast with rich neon colors reflecting off the surroundings.",
+  "translatedPrompt": "一张照片级写实的夜间街头摄影作品，展现了繁华的 {argument name=\"city location\" default=\"东京\"} 街道，街道被密集的垂直霓虹灯牌和广告牌照亮。左侧是一个显眼的亮粉色招牌，上面写着 \"{argument name=\"pink sign text\" default=\"カラオケ\"}\"，旁边是一个写着 \"牛角 焼肉\" 的白色招牌。右侧显眼的招牌包括一个黄色的 \"{argument name=\"yellow sign text\" default=\"まんが喫茶 4F\"}\"，一个白色的 \"東南 本館 2F\"，以及一个红色的 \"{argument name=\"red sign text\" default=\"中華食堂 一番館 B1\"}\"。在中心远景处，一个巨大的蓝色广告牌上显示着 \"{argument name=\"billboard text\" default=\"open TOKYO\"}\"，其上方是一个显示着人物图像的数字屏幕，屏幕上带有 \"YUNIKA VISION\" 字样。街道上挤满了行人的背影，他们穿梭在这充满活力、光影交错的城市峡谷中。画面光影对比强烈，丰富的霓虹色彩在周围环境中产生倒影。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "照片级写实风格霓虹东京街景：生成一张高度细节化、照片级写实的日本繁华城市街道夜景，并支持自定义霓虹灯牌和广告牌。",
+      "subject": "空间",
+      "scene": "信息图/图解",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [
+        "neon",
+        "high contrast"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "城市美食地图、活动导览、园区地图、旅行视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[参考光线镜头: neon, high contrast]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13964",
+      "14045",
+      "15063",
+      "15309",
+      "14088",
+      "14400"
+    ]
+  }
+}

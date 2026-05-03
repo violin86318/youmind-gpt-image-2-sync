@@ -1,0 +1,53 @@
+{
+  "id": "15352",
+  "prompt": "{\"type\":\"anime food comic page\",\"style\":\"clean manga-like digital illustration with warm evening lighting, glossy food rendering, detailed ramen shop background, soft pastel character coloring, expressive comedic Japanese gourmet comic tone\",\"format\":\"vertical four-panel comic with black panel borders\",\"subject\":{\"main character\":{\"gender_presentation\":\"young woman\",\"age_appearance\":\"late teens to early 20s\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"golden blonde\\\"}\",\"style\":\"twin ponytails with curled ends, straight bangs\"},\"outfit\":\"light gray floral button-up cardigan or knit top, black shoulder bag\",\"face_visibility\":\"face obscured by a centered rectangular blur censor in panels 1 and 2, fully visible in panels 3 chibi inset and 4\"},\"theme\":\"craving and enjoying rich Iekei ramen\"},\"layout\":{\"panel_count\":4,\"panels\":[{\"index\":1,\"scene\":\"outside a ramen shop at dusk on a city street\",\"background_elements\":{\"count\":6,\"items\":[\"large red lantern labeled 家系\",\"red shop noren labeled ラーメン\",\"standing signboard labeled 濃厚豚骨醤油ラーメン with ramen photo\",\"glass storefront entrance\",\"urban evening street with pedestrians\",\"speech balloons with vertical Japanese text\"]},\"character_pose\":\"standing in front of the shop, one finger near lips, looking tempted\",\"text\":{\"count\":4,\"items\":[\"家系\",\"ラーメン\",\"濃厚豚骨醤油ラーメン\",\"speech balloons reading 家系ラーメン抗えなくなる響き・・・ and これは食べてくっきゃないでしょ！\"]}},{\"index\":2,\"scene\":\"inside the ramen shop at the counter\",\"background_elements\":{\"count\":10,\"items\":[\"water pitcher\",\"water cup\",\"chopsticks container\",\"red condiment jar\",\"small soy sauce or seasoning bottle\",\"black menu board with ramen prices\",\"vertical sign ライス無料\",\"wooden counter\",\"chair\",\"blurred wall poster in the back\"]},\"character_pose\":\"seated at the counter drinking water from a glass with one hand while holding a menu with the other\",\"text\":{\"count\":3,\"items\":[\"ライス無料\",\"menu heading ラーメン\",\"speech text ライスいっちゃうか・・・\"]}},{\"index\":3,\"scene\":\"close-up hero shot of the ramen bowl\",\"food\":{\"dish\":\"Iekei ramen\",\"components\":{\"count\":5,\"items\":[\"thick glossy broth\",\"medium-thick yellow noodles\",\"4 overlapping slices of braised chashu pork\",\"dark green spinach\",\"3 large sheets of nori\"]}},\"background\":\"radiant orange burst with sparkles\",\"extra_character\":\"small chibi head of the girl at bottom right, smiling excitedly\",\"text\":{\"count\":1,\"items\":[\"speech balloon これこれ〜待ってました！\"]}},{\"index\":4,\"scene\":\"the girl happily eating ramen at the table\",\"food_and_drink\":{\"count\":5,\"items\":[\"main ramen bowl\",\"separate bowl of white rice\",\"glass of beer\",\"floating garnish illustration of nori and chashu near the text\",\"chopsticks lifting noodles\"]},\"character_pose\":\"eyes closed with bliss, smiling, cheeks slightly flushed, lifting noodles with chopsticks and holding bowl with the other hand\",\"background\":\"soft pink-orange gradient with sparkles and small flower motifs\",\"text\":{\"count\":2,\"items\":[\"large vertical slogan 今日はライスもつけてチートデイ！\",\"speech balloon DNAに素早く届く♥\"]}}]},\"camera\":\"panel 1 medium shot, panel 2 medium interior shot, panel 3 extreme food close-up, panel 4 medium close-up eating scene\",\"rendering_notes\":\"make the ramen especially appetizing with glossy fat sheen on the pork, rich broth highlights, and realistic noodle texture; keep the comic readable with authentic Japanese signage and speech balloons; emphasize cozy evening ramen shop atmosphere and playful indulgent humor\"}",
+  "translatedPrompt": "{\"type\":\"动漫美食漫画页\",\"style\":\"干净的类漫画数字插画，带有温暖的傍晚灯光、光泽感的美食渲染、细致的拉面店背景、柔和的粉彩角色配色，以及富有表现力的日式美食漫画风格\",\"format\":\"带有黑色边框的四格竖版漫画\",\"subject\":{\"main character\":{\"gender_presentation\":\"年轻女性\",\"age_appearance\":\"十几岁末至二十岁出头\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"金黄色\\\"}\",\"style\":\"双马尾，发梢卷曲，直刘海\"},\"outfit\":\"浅灰色花卉纽扣开衫或针织上衣，黑色单肩包\",\"face_visibility\":\"在第 1 格和第 2 格中脸部被居中的矩形模糊遮挡，在第 3 格的 Q 版插图和第 4 格中完全可见\"},\"theme\":\"渴望并享受浓郁的家系拉面\"},\"layout\":{\"panel_count\":4,\"panels\":[{\"index\":1,\"scene\":\"傍晚时分城市街道上的拉面店外\",\"background_elements\":{\"count\":6,\"items\":[\"写有“家系”的大红灯笼\",\"写有“ラーメン”的红色店面暖帘\",\"写有“濃厚豚骨醤油ラーメン”并附带拉面照片的立式招牌\",\"玻璃店门入口\",\"有行人的城市傍晚街道\",\"带有竖排日语文本的对话气泡\"]},\"character_pose\":\"站在店前，一根手指靠近嘴唇，看起来很心动\",\"text\":{\"count\":4,\"items\":[\"家系\",\"ラーメン\",\"濃厚豚骨醤油ラーメン\",\"对话气泡写着“家系ラーメン抗えなくなる響き・・・”和“これは食べてくっきゃないでしょ！”\"]}},{\"index\":2,\"scene\":\"拉面店内的吧台\",\"background_elements\":{\"count\":10,\"items\":[\"水壶\",\"水杯\",\"筷筒\",\"红色调料罐\",\"小酱油瓶或调味瓶\",\"写有拉面价格的黑色项目\",\"竖排招牌“ライス無料”\",\"木制吧台\",\"椅子\",\"背景中模糊的墙面海报\"]},\"character_pose\":\"坐在吧台前，一只手拿着水杯喝水，另一只手拿着菜单\",\"text\":{\"count\":3,\"items\":[\"ライス無料\",\"菜单标题“ラーメン”\",\"对话文本“ライスいっちゃうか・・・”\"]}},{\"index\":3,\"scene\":\"拉面碗的特写镜头\",\"food\":{\"dish\":\"家系拉面\",\"components\":{\"count\":5,\"items\":[\"浓郁光亮的汤底\",\"中粗黄色面条\",\"4 片重叠的炖叉烧肉\",\"深绿色菠菜\",\"3 大片海苔\"]}},\"background\":\"带有闪光的放射状橙色背景\",\"extra_character\":\"右下角女孩的小型 Q 版头像，兴奋地微笑着\",\"text\":{\"count\":1,\"items\":[\"对话气泡“これこれ〜待ってました！”\"]}},{\"index\":4,\"scene\":\"女孩在桌前幸福地吃着拉面\",\"food_and_drink\":{\"count\":5,\"items\":[\"主拉面碗\",\"一碗白米饭\",\"一杯啤酒\",\"文字旁漂浮的海苔和叉烧装饰插画\",\"筷子挑起面条\"]},\"character_pose\":\"闭着眼睛一脸幸福，微笑着，脸颊微红，一只手用筷子挑起面条，另一只手扶着碗\",\"background\":\"带有闪光和花朵图案的柔和粉橙色渐变\",\"text\":{\"count\":2,\"items\":[\"大型竖排标语“今日はライスもつけてチートデイ！”\",\"对话气泡“DNAに素早く届く♥”\"]}}]},\"camera\":\"第 1 格中景，第 2 格室内中景，第 3 格极致美食特写，第 4 格用餐中景\",\"rendering_notes\":\"让拉面看起来格外诱人，叉烧肉要有光泽的油脂感，汤底要有丰富的质感，面条纹理要真实；保持漫画的可读性，使用地道的日式招牌和对话气泡；强调舒适的傍晚拉面店氛围和俏皮的放纵幽默感\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "家系拉面动漫漫画：这是一部四格动漫风格的日本美食漫画，讲述了一位金发女孩渴望、点餐并幸福地享用浓郁家系拉面的过程，非常适合漫画风格的美食插画。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "close-up",
+        "hero shot",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "anime",
+        "manga"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "要求可读；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, close-up, hero shot, vertical]。\n\nVisual style:\n[参考风格: realistic, anime, manga]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n要求可读；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14534",
+      "15370",
+      "15371",
+      "14924",
+      "14525",
+      "14916"
+    ]
+  }
+}

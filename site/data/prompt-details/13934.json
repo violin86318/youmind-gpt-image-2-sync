@@ -1,0 +1,45 @@
+{
+  "id": "13934",
+  "prompt": "{\n  \"type\": \"anime character reference sheet\",\n  \"header\": {\n    \"title\": \"キャラクター設定資料\",\n    \"character_name\": \"{argument name=\\\"character name\\\" default=\\\"シャルロット・ホームズ\\\"}\",\n    \"english_name\": \"Charlotte Holmes\"\n  },\n  \"character_design\": {\n    \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"white\\\"}, long, black ribbon hairbands\",\n    \"eyes\": \"{argument name=\\\"eye color\\\" default=\\\"blue\\\"}\",\n    \"outfit\": \"{argument name=\\\"outfit description\\\" default=\\\"long black coat, white vest with frog closures, black pants, black boots\\\"}\"\n  },\n  \"layout\": {\n    \"left_column\": [\n      {\n        \"section\": \"表情・顔\",\n        \"count\": 3,\n        \"labels\": [\"通常\", \"微笑み\", \"冷静・思案\"]\n      },\n      {\n        \"section\": \"ディテール\",\n        \"count\": 6,\n        \"labels\": [\"襟元・留め具\", \"髪飾り（リボン）\", \"コート：袖口\", \"コート：背面ベルト\", \"インナー（ベスト）\", \"ボトム・ブーツ\"]\n      },\n      {\n        \"section\": \"カラー設定\",\n        \"count\": 8,\n        \"labels\": [\"髪\", \"肌\", \"瞳\", \"リボン\", \"コート\", \"インナー\", \"留め具・金具\", \"パンツ・ブーツ\"],\n        \"includes\": \"hex codes\"\n      },\n      {\n        \"section\": \"キャラクターメモ\",\n        \"content\": \"bulleted list of character traits, height 170cm, age late 20s\"\n      }\n    ],\n    \"right_main_area\": {\n      \"section\": \"三面図\",\n      \"background\": \"height chart grid from 0 to 170cm\",\n      \"count\": 3,\n      \"poses\": [\"正面\", \"側面\", \"背面\"]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"动漫角色设定集\",\n  \"header\": {\n    \"title\": \"角色设定资料\",\n    \"character_name\": \"{argument name=\\\"character name\\\" default=\\\"夏洛特·福尔摩斯\\\"}\",\n    \"english_name\": \"Charlotte Holmes\"\n  },\n  \"character_design\": {\n    \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"白色\\\"}，长发，黑色丝带发饰\",\n    \"eyes\": \"{argument name=\\\"eye color\\\" default=\\\"蓝色\\\"}\",\n    \"outfit\": \"{argument name=\\\"outfit description\\\" default=\\\"黑色长款大衣，带盘扣的白色马甲，黑色长裤，黑色靴子\\\"}\"\n  },\n  \"layout\": {\n    \"left_column\": [\n      {\n        \"section\": \"表情与面部\",\n        \"count\": 3,\n        \"labels\": [\"通常\", \"微笑\", \"冷静·思考\"]\n      },\n      {\n        \"section\": \"细节设计\",\n        \"count\": 6,\n        \"labels\": [\"领口与盘扣\", \"发饰（丝带）\", \"大衣：袖口\", \"大衣：背部腰带\", \"内搭（马甲）\", \"裤装与靴子\"]\n      },\n      {\n        \"section\": \"配色方案\",\n        \"count\": 8,\n        \"labels\": [\"头发\", \"皮肤\", \"眼睛\", \"丝带\", \"大衣\", \"内搭\", \"盘扣与金属件\", \"裤子与靴子\"],\n        \"includes\": \"十六进制颜色代码\"\n      },\n      {\n        \"section\": \"角色备注\",\n        \"content\": \"角色特征要点列表，身高 170 cm，年龄 20 多岁\"\n      }\n    ],\n    \"right_main_area\": {\n      \"section\": \"三视图\",\n      \"background\": \"0 到 170 cm 的身高测量网格\",\n      \"count\": 3,\n      \"poses\": [\"正面\", \"侧面\", \"背面\"]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫角色设定集：生成一份全面的动漫角色设计图，包含三视图、表情变化、细节特写以及配色方案。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "grid"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13496",
+      "13807",
+      "14197",
+      "13797",
+      "13937",
+      "14989"
+    ]
+  }
+}

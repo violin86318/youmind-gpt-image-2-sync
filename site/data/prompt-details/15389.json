@@ -1,0 +1,53 @@
+{
+  "id": "15389",
+  "prompt": "A wide cinematic corporate boardroom scene in a bright modern glass-walled office with floor-to-ceiling windows and a panoramic city skyline faintly visible outside. Around {argument name=\"number of attendees\" default=\"22\"} business professionals of mixed genders and ethnicities sit in a large U-shaped arrangement of light wood conference tables, each person dressed in formal business attire and many working on open laptops. At the front of the room, a huge wall-mounted digital dashboard dominates the composition, showing a futuristic financial analytics interface in dark blue and cyan with exactly 12 visible data panels: 1 large top-left panel with the headline text {argument name=\"dashboard headline\" default=\"SELECTING THE TRACKING TOOL\"} and line and bar charts, 1 small top-center panel with abstract circular data textures, 1 top-center-right panel with a large numeric metric reading 92.231 and chart bars, 1 top-right panel with line graphs and gear-like interface icons, 1 mid-left strip of circular gauges and technical controls, 1 center-left tall panel with vertical data bars and circular overlays, 1 center panel with three round instrument-style readouts, 1 center-right panel with compact technical diagrams and tiny UI elements, 1 mid-right horizontal panel with circular dials and a central numeric indicator, 1 lower-center panel with glowing ring charts and waveform-style graphics, 1 lower-right wide panel with dense tabular dashboard data, and 1 small bottom-center auxiliary panel. The room is viewed from a centered rear perspective, emphasizing symmetry and the semicircle of seated attendees facing the screen, with one standing presenter silhouetted near the display. Warm sunlight enters from the left, creating soft lens flare and long shadows across the wooden floor, while the overall image style is a polished high-end editorial illustration leaning toward photorealistic corporate concept art, in a cool blue and warm amber color palette, ultra-detailed, clean, futuristic, professional, and ambitious.",
+  "translatedPrompt": "这是一幅宽银幕企业董事会场景，位于明亮的现代玻璃幕墙办公室中，配有落地窗，窗外隐约可见城市全景。约 {argument name=\"number of attendees\" default=\"22\"} 名不同性别和族裔的商务专业人士坐在呈 U 型排列的浅色木质会议桌旁，每人都穿着正式商务装，许多人正在使用打开的笔记本电脑。在房间前方，一面巨大的壁挂式数字看板占据了构图中心，展示着深蓝色和青色的未来感金融分析界面，共有 12 个清晰可见的数据面板：1 个左上角的大面板，带有标题文本 {argument name=\"dashboard headline\" default=\"SELECTING THE TRACKING TOOL\"} 以及折线图和柱状图；1 个顶部中央的小面板，带有抽象的圆形数据纹理；1 个右上方的面板，带有 92.231 的大数字指标和柱状图；1 个右上角面板，带有折线图和齿轮状界面图标；1 个中左侧条形面板，带有圆形仪表和技术控件；1 个中左侧高面板，带有垂直数据条和圆形叠加层；1 个中央面板，带有三个圆形仪表式读数；1 个中右侧面板，带有紧凑的技术图表和微小的 UI 元素；1 个中右侧水平面板，带有圆形刻度盘和中央数字指示器；1 个下中央面板，带有发光的环形图和波形图；1 个右下角宽面板，带有密集的数据表格；以及 1 个底部中央的小型辅助面板。从房间后方居中视角拍摄，强调对称性和面向屏幕的半圆形就座人员，一名演讲者在显示屏附近呈现剪影。温暖的阳光从左侧射入，在木地板上形成柔和的镜头光晕和长长的阴影。整体图像风格为精致的高端编辑插画，偏向写实的企业概念艺术，采用冷蓝色和暖琥珀色的色调，超精细、整洁、具有未来感、专业且充满雄心。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "未来感董事会分析会议：此提示词可生成一张精致的广角企业会议场景图，以巨大的未来感数据看板为中心，非常适合用于商业、AI、金融或数字化转型相关的视觉内容。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "centered",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "editorial"
+      ],
+      "lightingCamera": [
+        "lens"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "B2B 产品概念图、后台系统、数据看板",
+      "whySelected": "得分 73；构图: centered, vertical, horizontal；风格: realistic, photorealistic, cinematic, editorial；要求精确文字"
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, editorial]。\n\nLighting and camera:\n[参考光线镜头: lens]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15391",
+      "14446",
+      "14627",
+      "15425",
+      "15725",
+      "14015"
+    ]
+  }
+}

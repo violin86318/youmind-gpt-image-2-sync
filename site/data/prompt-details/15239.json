@@ -1,0 +1,37 @@
+{
+  "id": "15239",
+  "prompt": "\"{argument name=\"主题\" default=\"[对象]\"}的高级技术信息图。在一张专业且逼真的新照片中重新诠释主题，照片干净明亮，背景更合适且更具美感。保持物品作为真实照片，而非插图。添加一个技术蓝图风格的叠加图，包含白线、箭头、尺寸、标签以及零件、材料、尺寸 and 功能的小型示意图。清晰、优雅且信息丰富的文章。在左上角放置一个写有“{argument name=\"标签内容\" default=\"OBJECT\"}”的草图框。1：1 维度。\"",
+  "translatedPrompt": "\"关于 {argument name=\"subject\" default=\"subject\"} 的高级技术信息图。以专业且写实的全新摄影视角重新诠释该主题，画面保持简洁明亮，并配以更合适且美观的背景。保留物品的真实照片质感，而非插画形式。添加技术蓝图风格的叠加层，包含白色线条、箭头、尺寸标注、标签以及零件、材质、尺寸和功能的小型示意图。整体风格清晰、优雅且富有信息量。在左上角放置一个草图框，并标注文字 '{argument name=\"label\" default=\"OBJECT\"}'。比例为 1:1。\"",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "技术蓝图信息图风格：一份为 GPT Image 2 编写的详细提示词，旨在生成专业的各种技术信息图，将写实摄影与技术图表、箭头及数据标签相结合，呈现出简洁的蓝图风格。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13707",
+      "13719",
+      "13853",
+      "13946",
+      "13989",
+      "14752"
+    ]
+  }
+}

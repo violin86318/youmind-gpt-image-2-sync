@@ -1,0 +1,46 @@
+{
+  "id": "15801",
+  "prompt": "Create a highly detailed fantasy trading card game card in a polished premium TCG style, full-frame vertical layout with ornate gilded borders, engraved filigree corners, and a dark navy, black, ivory, and radiant gold color palette. The card title at the top reads {argument name=\"character name\" default=\"SIR ALARIC DAWNBLADE\"} in large serif capitals, with the subtitle {argument name=\"class title\" default=\"PALADIN OF THE LIGHT\"} beneath it. The main illustration shows a heroic male paladin standing in a luminous cathedral filled with tall glowing stained-glass windows, drifting golden sparks, and sacred light rays. He has long wavy blond hair, wears elaborate gold-and-steel plate armor with blue cloth accents and a flowing deep blue cloak, holds a glowing longsword upright in one hand, and carries a massive ornate shield in the other, emblazoned with a radiant sun-cross emblem. His pose is noble, powerful, and defensive, centered as the card’s focal figure. Add exactly 4 stat icons stacked vertically along the left side in circular medallions with numbers: crossed swords with 3, shield with 3, heart with 4, and boot with 2. Include a sun emblem medallion in the upper left corner and a vertical banner crest in the upper right with a gold sword-and-cross symbol. The lower third contains a parchment-like rules text box with exactly 3 named abilities, each with a small icon and bold serif name followed by rules text: {argument name=\"ability one\" default=\"DIVINE SMITE\"}, {argument name=\"ability two\" default=\"AURA OF PROTECTION\"}, and {argument name=\"ability three\" default=\"LAY ON HANDS\"}. Beneath the abilities, add an italic flavor quote centered on the parchment: {argument name=\"flavor quote\" default=\"By the Light, I stand. By the Light, I strike. By the Light, I shall not fall.\"} At the very bottom, place the type line in serif capitals reading {argument name=\"creature line\" default=\"ALLY ♦ HUMAN ♦ PALADIN\"}. Add a large blue-and-gold gem-framed mana or cost badge with the number 4 in the lower left corner, and a circular faction badge with a white sword or holy symbol in the lower right corner. The overall look should feel like an official premium fantasy card game, cinematic, readable, richly illuminated, intricately textured, and collector-grade.",
+  "translatedPrompt": "创作一张细节极其丰富的奇幻集换式卡牌，采用精致的高级 TCG 风格，全幅垂直布局，配有华丽的镀金边框、雕花边角，以及深海军蓝、黑色、象牙白和璀璨金的配色方案。卡牌顶部的标题为 {argument name=\"character name\" default=\"SIR ALARIC DAWNBLADE\"}，采用大号衬线体大写字母，下方副标题为 {argument name=\"class title\" default=\"PALADIN OF THE LIGHT\"}。主插画展示了一位英勇的男性圣骑士，站在充满高大发光彩色玻璃窗、漂浮金色火花和神圣光束的宏伟教堂中。他留着金色长卷发，身穿精致的钢金板甲，配有蓝色布料装饰和飘逸的深蓝色斗篷，一手垂直握着发光的长剑，另一手拿着巨大的华丽盾牌，盾牌上绘有光芒四射的太阳十字徽章。他的姿态高贵、强健且具有防御性，作为卡牌的视觉中心。在左侧垂直排列 4 个圆形勋章样式的属性图标，并标有数字：交叉剑（3）、盾牌（3）、爱心（4）和靴子（2）。左上角包含一个太阳徽章，右上角有一个垂直的旗帜纹章，带有金色剑与十字符号。下三分之一处包含一个羊皮纸风格的规则文本框，列出 3 个具名技能，每个技能配有一个小图标和加粗的衬线体名称，后跟规则文本：{argument name=\"ability one\" default=\"DIVINE SMITE\"}、{argument name=\"ability two\" default=\"AURA OF PROTECTION\"} 和 {argument name=\"ability three\" default=\"LAY ON HANDS\"}。在技能下方，羊皮纸中心添加一行斜体背景语：{argument name=\"flavor quote\" default=\"By the Light, I stand. By the Light, I strike. By the Light, I shall not fall.\"}。在最底部，放置一行衬线体大写字母的类型说明：{argument name=\"creature line\" default=\"ALLY ♦ HUMAN ♦ PALADIN\"}。左下角添加一个带有数字 4 的大型蓝金宝石边框法力或费用徽章，右下角添加一个带有白色剑或圣徽的圆形阵营徽章。整体外观应呈现出官方高级奇幻卡牌游戏的质感，具有电影感、易读性、丰富的照明效果、复杂的纹理以及收藏级品质。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奇幻圣骑士集换式卡牌：一张优质的奇幻 TCG 角色卡，包含光芒四射的重甲圣骑士、华丽的属性与图标，以及清晰易读的卡牌游戏布局，适用于定制卡牌设计样机。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "fantasy",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；要求可读",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: cinematic, fantasy, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；要求可读。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15302",
+      "15096",
+      "14472",
+      "14940",
+      "15308",
+      "15642"
+    ]
+  }
+}

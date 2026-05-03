@@ -1,0 +1,43 @@
+{
+  "id": "15719",
+  "prompt": "Create a polished Japanese travel agency summer banner ad for Okinawa in a bright, inviting commercial style. Use a wide horizontal layout with a vivid tropical beach scene as the full background: crystal-clear turquoise ocean, white sand shoreline, small green island in the mid distance, deep blue sky with large fluffy white clouds, and palm leaves hanging in from the upper right corner. On the right foreground, place 1 traditional Okinawan shisa lion-dog statue sitting on a stone wall, surrounded by red hibiscus flowers and lush tropical greenery. Near the water, include 1 small glass-bottom sightseeing boat floating close to shore. Add 2 small simple fish doodle icons over the sea.\n\nMake the typography the hero element. Across the left-center to center, place very large Japanese calligraphic headline text reading {argument name=\"headline text\" default=\"夏の沖縄\"}, with a blue gradient and white glow or soft outline, highly legible and elegant. Above it, add a handwritten-style Japanese catchphrase in blue reading {argument name=\"catchphrase\" default=\"青い海、青い空、心ほどける島時間。\"} with a loose underline flourish. Under the main headline, add a smaller Japanese subheading reading {argument name=\"subheading\" default=\"感動の景色と、あたたかいおもてなしに出会う旅へ。\"}.\n\nIn the upper left, add a circular summer badge with a sunburst feel, soft cream background, tiny wave lines, a small hibiscus accent, and Japanese text reading \"この夏は 沖縄で 最高の思い出を!\". Decorate the headline area with 1 pink hibiscus flower on the left and subtle ocean-wave graphic strokes.\n\nAlong the lower middle, place 3 rounded white feature cards in a row, partially overlapping the beach scene. Count and depict all 3 cards clearly: the first card shows a sea turtle swimming underwater in a circular photo, with Japanese heading \"美しい自然を満喫\" and smaller body text about transparent waters and scenic spots; the second card shows a bowl of Okinawa soba in a circular photo, with heading \"沖縄グルメを堪能\" and smaller body text mentioning 沖縄そば and ゴーヤチャンプルー; the third card shows Shuri Castle in a circular photo, with heading \"観光スポットも充実\" and smaller body text mentioning 美ら海水族館 and 首里城. Add small coral, shell, hibiscus, and starfish decorations around these cards.\n\nOn the right lower-middle, overlap the beach with 1 tilted circular promotional sticker in pale blue and cream, with a small yellow tab on top. The yellow tab says \"早めの予約がおトク!\" and the main circle says \"夏の沖縄ツアー 好評受付中!\". Add a white plumeria flower accent near the sticker.\n\nCreate a full-width dark blue footer bar across the bottom. On the left side of the footer, place a white travel company logo icon and company name text {argument name=\"company name\" default=\"〇〇旅行株式会社\"}, with a smaller Japanese tagline below. Across the center of the footer, place exactly 3 circular line-icons with short Japanese captions: 1 calendar icon for tour plans, 1 support staff icon for travel assistance, and 1 suitcase icon for comfortable travel help. On the right side of the footer, add a boxed CTA area with Japanese text \"詳しくはこちらから\" and a mock search field containing {argument name=\"search text\" default=\"〇〇旅行　沖縄\"} plus a search icon. Overall design should feel premium, cheerful, summery, and highly marketable, like a professional Japanese web banner or travel campaign visual.",
+  "translatedPrompt": "制作一张精致的日本旅行社冲绳夏季横幅广告，风格明亮且具有吸引力。采用宽幅横向布局，以生动的热带海滩场景作为全背景：清澈见底的绿松石色海洋、白色沙滩、中远处的绿色小岛、深蓝色天空及大朵蓬松的白云，右上角垂下棕榈叶。在右侧前景处，放置 1 座传统的冲绳风狮爷石像，坐落在石墙上，周围环绕着红色扶桑花和茂盛的热带绿植。在靠近水面的地方，加入 1 艘靠近岸边的小型玻璃底观光船。在海面上添加 2 个简单的小鱼涂鸦图标。\n\n将排版作为核心元素。在左中至中心位置，放置非常醒目的日文书法标题文本 {argument name=\"headline text\" default=\"夏の沖縄\"}，采用蓝色渐变效果，带有白色光晕或柔和轮廓，清晰且优雅。在其上方，添加一句手写风格的日文宣传语 {argument name=\"catchphrase\" default=\"青い海、青い空、心ほどける島時間。\"}，并配有随意的下划线装饰。在主标题下方，添加一行较小的日文副标题 {argument name=\"subheading\" default=\"感動の景色と、あたたかいおもてなしに出会う旅へ。\"}。\n\n在左上角，添加一个带有阳光放射感的圆形夏季徽章，背景为柔和的奶油色，配有细小的波浪线、一个小扶桑花装饰，以及日文文本“この夏は 沖縄で 最高の思い出を!”。在标题区域左侧装饰 1 朵粉色扶桑花和微妙的海浪图形线条。\n\n在下方中间位置，并排放置 3 张圆角白色功能卡片，部分覆盖在海滩场景上。请清晰呈现全部 3 张卡片：第一张卡片以圆形照片展示海龟在水下游泳，配有日文标题“美しい自然を満喫”及关于透明海水和景点的简短正文；第二张卡片以圆形照片展示一碗冲绳荞麦面，配有标题“沖縄グルメを堪能”及提及“沖縄そば”和“ゴーヤチャンプルー”的简短正文；第三张卡片以圆形照片展示首里城，配有标题“観光スポットも充実”及提及“美ら海水族館”和“首里城”的简短正文。在这些卡片周围添加小珊瑚、贝壳、扶桑花和海星装饰。\n\n在右下方，在海滩背景上叠加 1 个倾斜的淡蓝色与奶油色圆形促销贴纸，顶部带有一个黄色小标签。黄色标签写着“早めの予約がおトク!”，主圆圈内写着“夏の沖縄ツアー 好評受付中!”。在贴纸附近添加一朵白色鸡蛋花作为点缀。\n\n在底部创建一个全宽的深蓝色页脚栏。在页脚左侧，放置白色旅行社 Logo 图标和公司名称文本 {argument name=\"company name\" default=\"〇〇旅行株式会社\"}，下方附带较小的日文标语。在页脚中心，放置 3 个圆形线条图标，并配有简短的日文说明：1 个用于旅游计划的日历图标、1 个用于旅行协助的客服图标，以及 1 个用于舒适旅行帮助的行李箱图标。在页脚右侧，添加一个带框的 CTA 区域，内含日文“詳しくはこちらから”以及一个模拟搜索框，其中包含 {argument name=\"search text\" default=\"〇〇旅行　沖縄\"} 和搜索图标。整体设计应呈现出高端、愉悦、充满夏日气息且极具市场吸引力的风格，如同专业的日本网页横幅或旅游活动视觉图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "冲绳夏季旅游横幅：一款明亮的日本旅行社冲绳宣传横幅，适用于夏季旅游广告、网站首屏大图及营销活动。",
+      "subject": "文字符号",
+      "scene": "图标/贴纸",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；要求可读；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "图标包、贴纸、表情、产品功能图标",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 图标/贴纸 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[参考风格: premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；要求可读；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15029",
+      "15059",
+      "13692",
+      "15284",
+      "14559",
+      "14993"
+    ]
+  }
+}

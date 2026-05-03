@@ -1,0 +1,55 @@
+{
+  "id": "15243",
+  "prompt": "Create a high-end luxury perfume advertisement in a vertical smartphone-friendly editorial layout. Show a close-up, cropped portrait of an elegant woman from the back-left side, with only the lower half of her face and shoulder area visible, her head turned slightly away so her ear, jawline, neck, and shoulder are prominent while the upper face is mostly out of frame. Her hair is styled in a soft, voluminous brunette updo with loose, polished strands. She wears a silky ivory spaghetti-strap slip dress. Her skin is luminous with warm, diffused highlights. In one hand she delicately holds a rectangular glass perfume bottle near her neck and collarbone, fingers graceful and refined. The bottle contains pale golden liquid, has a faceted transparent cap, and a cream square label that reads {argument name=\"brand name\" default=\"LUMIÈRE\"} with smaller text below reading \"EAU DE PARFUM\". Use a minimalist fine-art beauty campaign aesthetic with soft beige, champagne, ivory, and blush tones, bright natural studio lighting, gentle shadows, shallow depth of field, crisp glass reflections, and a clean off-white background. Leave generous negative space on the right side for ad copy. Add elegant serif headline text on the right in a muted taupe color, split across 3 lines reading {argument name=\"headline text\" default=\"A scent that lingers in silence.\"}. Include a subtle premium fashion-magazine feel, ultra-realistic skin texture, luxury product photography, and polished commercial beauty retouching.",
+  "translatedPrompt": "创作一张适合智能手机浏览的垂直编辑风高端奢华香水广告。画面为一位优雅女性的局部特写肖像，从左后方拍摄，仅露出下半脸、颈部及肩部区域。她头部微微转向一侧，突出耳朵、下颌线、颈部和肩膀，上半脸大部分处于画框之外。她留着蓬松柔软的深棕色盘发，几缕发丝自然垂落，质感精致。身着象牙色丝绸吊带裙。肌肤透亮，带有温暖的漫反射高光。她的一只手优雅地将一个长方形玻璃香水瓶轻靠在颈部和锁骨旁，手指姿态优美。香水瓶内装有淡金色液体，配有切面透明瓶盖，瓶身贴有奶油色方形标签，上面印有 {argument name=\"brand name\" default=\"LUMIÈRE\"}，下方有较小的文字 \"EAU DE PARFUM\"。采用极简主义艺术美妆广告风格，色调以柔和的米色、香槟色、象牙色和腮红粉为主，辅以明亮的自然摄影棚光线、柔和的阴影、浅景深、清澈的玻璃反光以及干净的灰白色背景。在右侧留出充足的留白空间用于放置广告文案。在右侧添加优雅的衬衫体标题文字，颜色为柔和的灰褐色，分为 3 行，内容为 {argument name=\"headline text\" default=\"A scent that lingers in silence.\"}。整体呈现出微妙的高级时尚杂志质感，具备超写实的皮肤纹理、奢华的产品摄影效果以及精致的商业美妆修图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奢华香水编辑风广告：一张精致的垂直美妆广告图，适用于香水品牌推广，是高端香氛广告、社交媒体营销及移动端奢华营销的理想选择。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "editorial",
+        "minimalist",
+        "luxury",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, vertical]。\n\nVisual style:\n[参考风格: realistic, editorial, minimalist, luxury, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting, shallow depth, depth of field]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15066",
+      "15089",
+      "15467",
+      "15527",
+      "15430",
+      "15462"
+    ]
+  }
+}

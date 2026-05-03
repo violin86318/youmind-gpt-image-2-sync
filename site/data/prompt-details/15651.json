@@ -1,0 +1,54 @@
+{
+  "id": "15651",
+  "prompt": "A soft, realistic Japanese graduation-day photo in the style of vintage film photography, showing 6 teenage schoolgirls standing together outdoors in front of a school gate under full-bloom cherry blossoms. They wear matching Japanese high school uniforms: navy blazers, white shirts, burgundy ribbon bows, gray-blue plaid pleated skirts, navy knee-high socks, and black loafers, each carrying a large navy school bag. The group stands close together on the road at the entrance, with relaxed celebratory body language and a candid class-photo feel. At least 5 of the girls are making peace signs near their faces, and one girl on the far right raises her hand in a playful salute-like pose. Emphasize natural, flattering leg shapes, neat straight dark hair with soft bangs, youthful styling, and believable proportions. The composition is front-facing and full-body, with the students centered slightly left and the school gate on the right. Include a tall black gate pillar with vertical gold Japanese text reading \"桜花女子高等学校\" and a white ceremonial signboard beside it with large Japanese text reading \"卒業証書授与式\" and smaller school-name text below. Background filled with pale pink sakura trees in bloom, shallow depth of field, soft pastel tones, gentle spring haze, overcast bright daylight, subtle film grain, muted contrast, and an understated nostalgic atmosphere like an old-fashioned commemorative photograph.",
+  "translatedPrompt": "一张柔和、写实的日本毕业日照片，采用复古胶片摄影风格，展示了 6 名十几岁的女学生站在户外，背景是盛开的樱花和学校大门。她们穿着统一的日本高中校服：海军蓝西装外套、白衬衫、酒红色蝴蝶结、灰蓝色格子百褶裙、海军蓝及膝袜和黑色乐福鞋，每人背着一个大号海军蓝书包。这群学生紧挨着站在校门口的路上，肢体语言轻松欢快，呈现出随意的班级合影感。其中至少 5 名女生在脸旁比着剪刀手，最右侧的一名女生举起手做着俏皮的敬礼姿势。强调自然、修长的腿部线条，整齐的深色直发配上柔和的刘海，青春的造型以及真实的比例。构图为正面全身照，学生们略微偏左，学校大门位于右侧。画面中包含一根高大的黑色门柱，上面有垂直的金色日文“桜花女子高等学校”，旁边立着一块白色仪式告示牌，上面写着醒目的日文“卒業証書授与式”以及下方较小的校名。背景是盛开的淡粉色樱花树，浅景深，柔和的粉彩色调，淡淡的春日薄雾，阴天明亮的日光，细腻的胶片颗粒感，柔和的对比度，营造出一种老式纪念照片般低调而怀旧的氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "樱花树下的日本毕业照：此提示词可生成一张写实且充满怀旧感的集体照，画面为 6 名身穿校服的日本女学生，在樱花盛开的学校门口比着剪刀手合影。",
+      "subject": "服饰",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "centered",
+        "full-body",
+        "front-facing",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "vintage"
+      ],
+      "lightingCamera": [
+        "overcast",
+        "shallow depth",
+        "depth of field",
+        "film grain"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, full-body, front-facing, vertical]。\n\nVisual style:\n[参考风格: realistic, vintage]。\n\nLighting and camera:\n[参考光线镜头: overcast, shallow depth, depth of field, film grain]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15705",
+      "14667",
+      "14674",
+      "14819",
+      "14821",
+      "15602"
+    ]
+  }
+}

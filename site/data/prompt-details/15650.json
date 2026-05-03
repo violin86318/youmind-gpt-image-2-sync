@@ -1,0 +1,54 @@
+{
+  "id": "15650",
+  "prompt": "A highly detailed cinematic third-person wuxia MMORPG gameplay screenshot set in a bustling ancient Chinese water-town market street at dusk, viewed from behind the player character standing in the center foreground. The player character is a wandering swordsman in layered dark gray and blue hanfu-style robes with embroidered fabric, long black hair tied in a low ponytail, and a sheathed sword on his back, facing forward into a crowded street. The environment is a richly rendered Ming- or Song-inspired town with traditional wooden shopfronts, tiled roofs, hanging red lanterns, pink cherry blossom trees, damp reflective stone pavement, soft golden evening light, and a lived-in crowd of townsfolk in historical clothing. On the right foreground, exactly 3 elegant female courtesans in translucent pastel hanfu sit and stand outside a richly decorated teahouse or brothel draped with red silk curtains; one is playing a pipa, one is seated in pale green and cream robes, and one stands in flowing rose-pink robes. The largest shop sign above them features large gold Chinese calligraphy on a black plaque, and additional vertical shop banners with Chinese characters hang along the street. The composition should feel like a premium AAA fantasy Chinese RPG, with realistic character proportions, dense environmental storytelling, dramatic but natural lighting, atmospheric depth, and intricate costume materials. Include a complete game HUD overlay in Chinese: top left circular character portrait with level 36 and 2 horizontal bars for health and mana; a left-side quest tracker panel with exactly 4 quest entries under tabbed headings; a bottom left semi-transparent chat box with multiple lines of Chinese world chat; a top right circular minimap with location text; a right-side vertical menu with exactly 6 icon buttons; a bottom center skill bar with exactly 10 slots including 8 square skill icons plus 2 circular end slots labeled with keyboard keys; and a bottom menu row with exactly 6 navigation icons. Ultra-detailed, photorealistic fantasy game interface mockup, polished UI, immersive crowded street scene, 16:9 aspect ratio.",
+  "translatedPrompt": "一张细节极其丰富的电影级第三人称武侠 MMORPG 游戏截图，场景设定在黄昏时分熙熙攘攘的中国古代水乡集市街道，视角位于前景中央玩家角色的后方。玩家角色是一位流浪剑客，身着深灰色与蓝色交叠的汉服风格长袍，衣物带有刺绣纹理，黑色长发扎成低马尾，背负一把剑鞘，正面向前方拥挤的街道。环境是渲染精美的明代或宋代风格城镇，拥有传统木质店面、瓦片屋顶、悬挂的红灯笼、粉色樱花树、潮湿且带有倒影的石板路、柔和的金色夕阳，以及身着古装的城镇居民。右侧前景处，恰好有 3 位优雅的女性艺伎身着半透明的淡色汉服，站在装饰华丽的茶馆或青楼外，此处挂有红色丝绸帘幕；其中一人正在弹奏琵琶，一人身着淡绿色与米色长袍坐着，另一人身着飘逸的玫瑰粉色长袍站立。上方最大的店招牌上写有黑色牌匾上的金色中文字体，街道两旁还悬挂着带有汉字的垂直店铺旗帜。整体构图应呈现出顶级 AAA 级中国奇幻 RPG 的质感，具备写实的角色比例、密集的场景叙事、戏剧性但自然的灯光、大气深度以及复杂的服装材质。包含完整的中文游戏 HUD 叠加层：左上角圆形角色头像，显示 36 级及 2 条水平的生命值与法力值进度条；左侧任务追踪面板，在标签标题下包含 4 条任务条目；左下角半透明聊天框，显示多行中文世界频道聊天内容；右上角圆形小地图，带有位置文本；右侧垂直菜单，包含 6 个图标按钮；底部中央的技能栏，包含 10 个槽位，其中 8 个方形技能图标及 2 个带有键盘按键标签的圆形末端槽位；底部菜单行包含 6 个导航图标。超细节、照片级真实的奇幻游戏界面模拟图，精致的 UI，沉浸式拥挤街道场景，16:9 纵横比。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "武侠 MMORPG 古镇游戏截图：此提示词可生成带有完整 HUD 的电影级中国风奇幻 RPG 游戏画面，非常适合用于游戏主视觉图模拟、UI 概念设计或打造沉浸式 MMO 场景。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "layered",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "fantasy",
+        "premium"
+      ],
+      "lightingCamera": [
+        "natural light"
+      ],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, fantasy, premium]。\n\nLighting and camera:\n[参考光线镜头: natural light]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14485",
+      "15252",
+      "15706",
+      "14619",
+      "15797",
+      "14843"
+    ]
+  }
+}

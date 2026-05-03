@@ -1,0 +1,51 @@
+{
+  "id": "14452",
+  "prompt": "A cinematic fantasy scene inside a rocky cave during a blizzard, viewed from slightly above campfire level, with 8 characters seated in a circle around a small fire. Outside the cave mouth, a colossal dark mountain rises in the snowstorm, shaped like a sinister pyramid or volcanic fortress, split with glowing crimson-magenta fissures and crowned by a branching, ember-like red energy bloom at the summit; a ring of lava or fire glows at its base across the frozen landscape. The cave interior is warm, amber, and intimate, lit by the fire and a single ornate oil lamp on the right, contrasting with the cold blue-gray storm outside. The group should feel like a high-fantasy adventuring party resting together: 1 regal bird-like humanoid on the left with white feathers, a hooked beak, braided plumage, and layered tribal jewelry; 1 red-haired woman in the left foreground with long braided hair and ornate fantasy garments; 1 young elf-like traveler in blue sitting left of center; 1 small blond elf-like girl at center with pointed ears and clasped hands; 1 elderly king-like man on the right with long white hair, full beard, crown, and dark green robe with gold ornamentation; 1 elegant blond noblewoman beside him in embroidered formal dress; 1 white-haired figure in the foreground right seen mostly from behind in feathered or fur-trimmed clothing; and 1 blue-skinned aquatic-looking woman on the far right with a fin-like headdress, elaborate jewelry, and a cup in hand. Include cups, bowls, plates, bedrolls, sacks, and travel gear scattered around the cave edges. The composition should frame the terrifying glowing mountain through the cave opening behind the party, emphasizing the contrast between sheltered companionship and looming apocalyptic danger. Ultra-detailed textures, realistic fabric and skin, dramatic volumetric firelight, snow streaks driven by wind, moody dark fantasy color grading, painterly realism, epic film still atmosphere, high contrast, rich shadows, masterpiece quality.",
+  "translatedPrompt": "这是一场电影级的奇幻场景，描绘了暴风雪中岩洞内的景象。视角略高于篝火，8 位角色围坐成一圈。洞口外，一座巨大的暗色山峰在风雪中耸立，形状如同险恶的金字塔或火山要塞，山体裂缝中透出绯红与洋红色的光芒，山顶绽放着如余烬般的分支状红色能量；冰封的景观底部环绕着一圈熔岩或火焰。洞穴内部温暖、呈现琥珀色且氛围亲密，由篝火和右侧一盏华丽的油灯照亮，与洞外寒冷的蓝灰色风暴形成鲜明对比。这群人看起来像是一个正在休憩的高阶奇幻冒险小队：左侧有一位高贵的鸟人族，长着白色羽毛、钩状喙、编织的羽饰和层叠的部落珠宝；左前方是一位留着长辫红发的女性，身穿华丽的奇幻服饰；左中坐着一位年轻的精灵族旅者；正中是一位有着尖耳朵、双手合十的娇小金发精灵女孩；右侧是一位年长的国王，留着长白发和浓密的胡须，头戴王冠，身穿带有金色装饰的深绿色长袍；他身旁是一位穿着刺绣礼服的优雅金发贵族女性；右前方是一个背影为主、身着羽毛或皮草镶边服饰的白发身影；最右侧是一位皮肤呈蓝色的水生族女性，戴着鳍状头饰，佩戴精致珠宝，手持杯子。洞穴边缘散落着杯子、碗、盘子、睡袋、袋子和旅行装备。构图通过小队身后的洞口框住那座恐怖的发光山峰，强调了庇护所内的同伴情谊与外界迫在眉睫的末日危机之间的对比。超精细纹理，逼真的布料与皮肤质感，戏剧性的体积火光，风中飞舞的雪痕，忧郁的暗黑奇幻调色，油画写实风格，史诗电影剧照氛围，高对比度，丰富的阴影，大师级品质。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "绯红山峦前的奇幻篝火：一张电影感十足的暗黑奇幻风格图像，描绘了 8 位冒险者在洞穴中围着篝火避难，洞外耸立着一座发光的火山，非常适合作为史诗级概念艺术或故事插画。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "layered"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "volumetric",
+        "high contrast"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered]。\n\nVisual style:\n[参考风格: realistic, cinematic, fantasy]。\n\nLighting and camera:\n[参考光线镜头: volumetric, high contrast]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14855",
+      "15717",
+      "15610",
+      "14531",
+      "15733",
+      "14727"
+    ]
+  }
+}

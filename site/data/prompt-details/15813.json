@@ -1,0 +1,45 @@
+{
+  "id": "15813",
+  "prompt": "A hyper-realistic modern magazine cover for a fictional design magazine titled {argument name=\"magazine title\" default=\"FORM\"}, shot like a premium editorial portrait in a minimalist architect’s studio. The cover uses a clean, restrained European design aesthetic with lots of white space, sharp typography, and warm natural indoor lighting. At the top, place an enormous bold black sans-serif masthead spanning nearly the full width. Beneath the left side of the masthead, add small uppercase text reading “THE MAGAZINE OF DESIGN” and “APRIL 2026”. The main cover line on the left reads {argument name=\"cover headline\" default=\"The Last Analog Designer\"} in large black sans-serif text stacked over multiple lines. Below it, add a smaller teaser paragraph: “In a world of algorithms and automated tools, one designer still believes in pencil, paper, and the power of thought.” In the lower left, include 3 secondary cover lines in small white sans-serif text over the darker desk area: “MILAN PREVIEW” with “What to See in 2026”, “MATERIAL INTELLIGENCE” with “The Next Surface Revolution”, and “STUDIO VISIT” with “Inside the Practice of Space Popular”. In the bottom right, add a realistic white barcode box with small price text above it reading “$8.99 US   $10.99 CAN” and the issue number “04”. The scene shows 1 seated middle-aged male designer at a worktable, wearing a dark navy or black knit sweater, with salt-and-pepper curly hair, leaning forward and sketching on white paper with a pencil. His face is obscured by a square blur block, creating an anonymous portrait. On the desk are exactly 8 visible object groups: scattered sketch papers with geometric chair drawings, 1 pencil cup holding several pencils, 1 rolled white blueprint on the right, 1 closed dark notebook on the left, 1 small brown eraser near the center, 1 blurred black object in the front-left foreground, 1 large flat book or material sample in the front-right foreground, and the active drawing sheet under his hand. Behind him is a warm wooden credenza with neat stacks of books, 1 white dome desk lamp on the far left, and a white wall displaying exactly 4 pinned design references: 1 small dark photo of a chair, 1 light sketch beneath it, and 2 larger minimal line drawings on the right. Use muted neutral tones, off-white walls, walnut wood, black clothing, and a calm contemplative mood. The composition should feel like a believable high-end magazine cover, straight-on and carefully art-directed, with editorial realism and no visible publisher logos other than the fictional masthead.",
+  "translatedPrompt": "一张超写实的现代杂志封面，用于名为 {argument name=\"magazine title\" default=\"FORM\"} 的虚构设计杂志，拍摄风格如同极简主义建筑师工作室中的高端编辑肖像。封面采用简洁、克制的欧洲设计美学，留白充裕，排版锐利，并配以温暖的室内自然光。在顶部，放置一个横跨几乎整个宽度的巨大粗体黑色无衬线刊头。在刊头左下方，添加一行小号大写文字，内容为“THE MAGAZINE OF DESIGN”和“APRIL 2026”。左侧的主封面标题为 {argument name=\"cover headline\" default=\"The Last Analog Designer\"}，采用多行堆叠的大号黑色无衬线字体。下方添加一段较小的预告文字：“在算法与自动化工具的世界里，仍有一位设计师坚信铅笔、纸张与思想的力量。”在左下角，于较暗的桌面区域上方添加 3 行白色小号无衬线字体的次要封面标题：“MILAN PREVIEW”配“What to See in 2026”、“MATERIAL INTELLIGENCE”配“The Next Surface Revolution”，以及“STUDIO VISIT”配“Inside the Practice of Space Popular”。在右下角，添加一个逼真的白色条形码框，上方配有小号价格文字“$8.99 US   $10.99 CAN”以及期号“04”。画面展示了一位坐在工作台前的中年男性设计师，身穿深蓝色或黑色针织毛衣，留着花白的卷发，正俯身用铅笔在白纸上素描。他的脸部被一个方形模糊块遮挡，营造出一种匿名肖像感。桌面上共有 8 组清晰可见的物品：散落的绘有几何椅子的草图纸、1 个装有几支铅笔的笔筒、右侧 1 份卷起的白色蓝图、左侧 1 本合上的深色笔记本、中心附近 1 块棕色小橡皮、左前侧 1 个模糊的黑色物体、右前侧 1 本大型扁平书籍或材料样本，以及他手下正在绘制的图纸。他身后是一个温暖的木质餐具柜，上面整齐地堆放着书籍，最左侧有 1 盏白色圆顶台灯，白墙上钉着 4 个设计参考资料：1 张小型的深色椅子照片、下方 1 张浅色草图，以及右侧 2 张较大的极简线条画。使用柔和的中性色调、灰白色墙壁、胡桃木、黑色服装，营造出冷静沉思的氛围。构图应呈现出可信的高端杂志封面质感，采用正视角度并经过精心艺术指导，具备编辑摄影的真实感，除虚构刊头外不包含任何可见的出版商标志。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "虚构设计杂志封面：此提示词可生成一张逼真的编辑类杂志封面，画面展现了一位身处极简主义工作室的匿名设计师，非常适合概念艺术、模拟封面及设计主题的视觉叙事。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "editorial",
+        "minimalist",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, editorial, minimalist, premium, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15242",
+      "14833",
+      "15452",
+      "15747",
+      "14659",
+      "15243"
+    ]
+  }
+}

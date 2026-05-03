@@ -1,0 +1,39 @@
+{
+  "id": "14327",
+  "prompt": "Using these images as reference can you make a {argument name=\"style\" default=\"MANGA\"} of {argument name=\"subjects\" default=\"me, my wife, and our son's\"} {argument name=\"event\" default=\"trip to Disney\"}",
+  "translatedPrompt": "请参考这些图片，制作一张 {argument name=\"style\" default=\"MANGA\"} 风格的图片，内容是 {argument name=\"subjects\" default=\"我和我的妻子以及我们的儿子\"} 的 {argument name=\"event\" default=\"迪士尼之旅\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "漫画风格迪士尼家庭之旅：一个保持角色一致性的提示词，可将家庭照片转换为漫画风格的迪士尼之旅插画。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "manga"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: manga]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14389",
+      "14311",
+      "15020",
+      "13697",
+      "13698",
+      "14670"
+    ]
+  }
+}

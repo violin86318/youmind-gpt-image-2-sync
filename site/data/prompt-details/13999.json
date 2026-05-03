@@ -1,0 +1,43 @@
+{
+  "id": "13999",
+  "prompt": "A high-quality anime-style illustration of a beautiful female android maid with {argument name=\"hair color\" default=\"long white\"} hair and striking blue eyes. She wears a highly detailed black and white frilly maid outfit integrated with futuristic white mechanical armor plating on her arms and legs, featuring glowing blue cybernetic accents and joints. On her chest is a small digital screen displaying a glowing blue heartbeat monitor line. She has mechanical headphone-like ears beneath a traditional maid headdress. She is standing in a bright, sunlit modern apartment bedroom with large windows overlooking a futuristic city skyline. The lighting is soft and cinematic, with glowing dust motes in the air. She has a gentle, slightly melancholic expression, with one hand resting softly near her chest screen. The image features elegant typography overlays. At the very top, small delicate text reads \"{argument name=\"top quote\" default=\"感情は、まだうまく名前にできない。\"}\". At the bottom, large elegant Japanese text reads \"{argument name=\"character name\" default=\"絢瀬アリシア\"}\", with the English text \"{argument name=\"english name\" default=\"AYASE ALICIA\"}\" directly below it. Underneath that, smaller text reads \"{argument name=\"bottom description\" default=\"旧式家庭支援アンドロイド、感情学習中。\"}\". The overall aesthetic is like a sci-fi light novel cover or visual novel key visual.",
+  "translatedPrompt": "一张高质量的动漫风格插画，描绘了一位美丽的女性仿生女仆，拥有 {argument name=\"hair color\" default=\"长白发\"} 和迷人的蓝色双眼。她身着精致的黑白褶边女仆装，四肢融合了未来感的白色机械装甲，并带有发光的蓝色赛博装饰与关节。她的胸前有一个小型数字屏幕，显示着发光的蓝色心跳监测线。在传统的女仆头饰下，她戴着类似机械耳机的装置。她正站在明亮、阳光充足的现代公寓卧室中，巨大的窗户俯瞰着未来城市的轮廓。光线柔和且具有电影质感，空气中漂浮着发光的尘埃。她表情温柔，略带忧郁，一只手轻轻放在胸前的屏幕旁。图像包含优雅的排版叠加。顶部是纤细精致的文字“{argument name=\"top quote\" default=\"感情は、まだうまく名前にできない。\"}”。底部是大号优雅的日文“{argument name=\"character name\" default=\"絢瀬アリシア\"}”，其下方直接标注了英文“{argument name=\"english name\" default=\"AYASE ALICIA\"}”。再下方是较小的文字“{argument name=\"bottom description\" default=\"旧式家庭支援アンドロイド、感情学習中。\"}”。整体美学风格如同科幻轻小说封面或视觉小说的主视觉图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "科幻仿生女仆轻小说封面：生成一张动漫风格的插画，描绘了阳光房中的赛博女仆，并支持自定义排版叠加。",
+      "subject": "服饰",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "anime",
+        "sci-fi"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, anime, sci-fi]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14211",
+      "13695",
+      "13805",
+      "14929",
+      "13885",
+      "13935"
+    ]
+  }
+}

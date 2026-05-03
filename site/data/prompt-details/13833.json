@@ -1,0 +1,41 @@
+{
+  "id": "13833",
+  "prompt": "{\n  \"type\": \"live stream interface mockup\",\n  \"subject\": {\n    \"description\": \"{argument name=\\\"subject appearance\\\" default=\\\"young Korean woman, long dark wavy hair, light blue button-up shirt\\\"}\",\n    \"accessories\": \"silver cross necklace, black broadcast microphone on boom arm\",\n    \"pose\": \"speaking to camera, sitting in grey ergonomic chair\"\n  },\n  \"background\": \"{argument name=\\\"background vibe\\\" default=\\\"cozy room with warm lighting, shelf with YouTube play buttons\\\"}\",\n  \"layout\": {\n    \"top_bar\": {\n      \"title\": \"{argument name=\\\"stream title\\\" default=\\\"AGI 시대는 우리에게 무엇을 가져올까? | 기술, 일자리, 인간의 의미\\\"}\",\n      \"badge\": \"LIVE\"\n    },\n    \"left_chat\": {\n      \"count\": 7,\n      \"messages\": [\n        {\"user\": \"루나_1023\", \"text\": \"오늘 주제 진짜 기대돼요!\"},\n        {\"user\": \"미래_탐험가\", \"text\": \"AGI가 인간보다 똑똑해지면 우리는 어떤 존재가 될까요?\"},\n        {\"user\": \"코드네임A\", \"text\": \"일자리 얘기도 해주실 수 있나요? 요즘 너무 불안해서...\"},\n        {\"user\": \"별빛사랑\", \"text\": \"루나님 목소리 들으면서 같이 생각해봐요\"},\n        {\"user\": \"AI_조련사\", \"text\": \"AGI는 도구일까, 동반자일까?\"},\n        {\"user\": \"냥냥펀치\", \"text\": \"와! 시작부터 흥미진진하다!\"},\n        {\"user\": \"철학하는왕자\", \"text\": \"'인간의 의미'... 벌써부터 깊이 있는 이야기 예상됩니다\"}\n      ]\n    },\n    \"bottom_left_card\": {\n      \"header\": \"TODAY'S TOPIC\",\n      \"main_text\": \"{argument name=\\\"topic title\\\" default=\\\"AGI 시대, 우리는 어디로 가는가?\\\"}\",\n      \"sub_text\": \"기술 · 일자리 · 인간의 의미\"\n    },\n    \"bottom_controls\": {\n      \"elements\": [\"red progress bar\", \"play icon\", \"volume icon\", \"라이브\", \"settings icon\", \"fullscreen icon\"]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"直播界面模型\",\n  \"subject\": {\n    \"description\": \"{argument name=\\\"streamer appearance\\\" default=\\\"留着深色长卷发的年轻韩国女性，身穿浅蓝色衬衫\\\"}\",\n    \"action\": \"对着悬臂支架上的黑色广播麦克风说话\",\n    \"setting\": \"坐在灰色人体工学办公椅上\"\n  },\n  \"background\": {\n    \"description\": \"温馨的房间，配有木质搁板、发光的爱迪生灯泡、YouTube 创作者奖牌、带框海报、装饰人偶和盆栽植物\"\n  },\n  \"layout\": {\n    \"ui_components\": [\n      {\n        \"type\": \"顶部栏\",\n        \"elements\": [\n          \"视频标题文本：{argument name=\\\"video title\\\" default=\\\"AGI 时代会给我们带来什么？| 技术、就业与人类的意义\\\"}\",\n          \"带有圆点的红色 LIVE 徽章\"\n        ]\n      },\n      {\n        \"type\": \"实时聊天叠加层\",\n        \"position\": \"左侧\",\n        \"count\": 7,\n        \"description\": \"7 条不同的聊天消息，每条消息均包含小型圆形用户头像、用户名以及讨论 {argument name=\\\"chat topic\\\" default=\\\"AGI 与人类未来\\\"} 的消息文本\"\n      },\n      {\n        \"type\": \"主题叠加框\",\n        \"position\": \"左下角\",\n        \"style\": \"深色半透明面板\",\n        \"content\": [\n          \"小字：今日主题\",\n          \"主标题：{argument name=\\\"topic headline\\\" default=\\\"AGI 时代，我们将走向何方？\\\"}\",\n          \"副标题：{argument name=\\\"topic sub-headline\\\" default=\\\"技术 · 就业 · 人类的意义\\\"}\"\n        ]\n      },\n      {\n        \"type\": \"视频播放器控件\",\n        \"position\": \"底部边缘\",\n        \"elements\": [\n          \"播放/暂停按钮\",\n          \"音量图标\",\n          \"红色直播指示器\",\n          \"红色进度条\",\n          \"设置齿轮图标\",\n          \"全屏图标\"\n        ]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "直播界面模型：生成一个逼真的直播界面，包含主播、聊天叠加层和主题图形。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13557",
+      "13822",
+      "13844",
+      "13918",
+      "14695",
+      "14984"
+    ]
+  }
+}

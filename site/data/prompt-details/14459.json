@@ -1,0 +1,43 @@
+{
+  "id": "14459",
+  "prompt": "A traditional Chinese ink wash hanging-scroll painting on warm aged rice paper, vertical composition, with six large vertical columns of bold black brush-calligraphy occupying the upper and right half of the image. The calligraphy should be highly legible expressive Chinese cursive-regular script with varied ink density and natural brush taper, reading from right to left in 6 columns: \"金樽清酒斗十千 玉盘珍羞直万钱\", \"停杯投箸不能食 拔剑四顾心茫然\", \"欲渡黄河冰塞川 将登太行雪满山\", \"闲来垂钓碧溪上 忽复乘舟梦日边\", \"行路难 行路难 多歧路 今安在\", \"长风破浪会有时 直挂云帆济沧海\". Add one smaller vertical inscription on the left side reading \"李白行路难\" with a small red seal stamp beneath it. In the lower left foreground, depict an ancient Chinese scholar-poet in flowing white and pale gray robes with a blue sash, long black hair in a traditional topknot with loose strands and ribbon, standing on the edge of a dark rocky cliff, body angled right and head lifted upward in a contemplative, heroic pose. Below and across the lower half, paint a turbulent river or sea with white crashing waves in monochrome ink and soft gray washes; in the distance, faint misty mountains and fog dissolve into the paper. Classical literati painting style, dynamic calligraphy as the main focus, poetic and majestic mood, restrained palette of black ink, gray wash, off-white paper, and a small touch of muted blue on the robe, ample negative space, museum-quality Chinese shanshui and calligraphy fusion.",
+  "translatedPrompt": "一幅传统的中国水墨挂轴画，绘于泛黄的陈年宣纸上，采用竖构图。画面上方及右侧分布着六列醒目的黑色大字书法。书法应为清晰且富有表现力的行楷，墨色浓淡相间，笔触自然，从右至左共六列，内容为：“金樽清酒斗十千 玉盘珍羞直万钱”，“停杯投箸不能食 拔剑四顾心茫然”，“欲渡黄河冰塞川 将登太行雪满山”，“闲来垂钓碧溪上 忽复乘舟梦日边”，“行路难 行路难 多歧路 今安在”，“长风破浪会有时 直挂云帆济沧海”。在左侧添加一列较小的竖向题款，内容为“李白行路难”，下方盖有一枚红色小印章。画面左下方前景处，描绘一位古代中国文人诗人，身着飘逸的白灰长袍，系蓝色腰带，留着黑色长发并挽成传统发髻，发丝与发带随风飘动，伫立在深色崖边，身体向右倾斜，抬头仰望，姿态沉思而豪迈。画面下半部分绘有汹涌的河流或大海，以黑白水墨和柔和的灰色渲染出白色的浪花；远处，淡淡的烟云山峦隐没在纸面中。古典文人画风格，以动态书法为视觉焦点，意境诗意而雄浑，色调克制，以黑墨、灰渲染、米白色纸张为主，袍服处点缀少许柔和的蓝色，留白充裕，呈现博物馆级的中国山水与书法融合之作。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "中国书法诗词卷轴：一幅竖构图水墨画，将六列著名中国诗词书法与崖边孤身文人相结合，非常适合用于古典艺术、文化海报或优雅的挂轴装饰。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "ink wash"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: ink wash]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13784",
+      "14458",
+      "14126",
+      "15112",
+      "13749",
+      "14437"
+    ]
+  }
+}

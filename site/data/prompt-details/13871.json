@@ -1,0 +1,42 @@
+{
+  "id": "13871",
+  "prompt": "电视剧官方剧照，{argument name=\"题材\" default=\"古装奇幻\"}题材《{argument name=\"剧名\" default=\"蛊月照归人\"}》，苗疆蛊灵{argument name=\"角色\" default=\"少女\"}，图一主角同款面容与五官气质，真实东方少女，苍白柔润透亮的肌肤，黑发如瀑，发间簪着白色山花与银饰流苏，耳侧垂落精致苗疆银饰，浅青白纱古风长裙，轻薄纱袖与细腻刺绣，站在苗疆禁林深处回眸，眼神安静却藏着宿命感，神情克制，带一点若有若无的悲悯与冷艳，夜色幽蓝，山林潮湿，薄雾弥漫，古木盘根错节，背景深处有幽微蛊火与模糊祭坛残影，空气中漂浮细小发光蛊虫与银蓝色蝶影，发丝和衣摆被山风轻轻吹起，电影级光影，冷蓝月光混合柔和火光，面部轮廓被微弱侧逆光勾亮，景深明显，真实电视剧拍摄质感，超写实，皮肤质感细腻自然，情绪浓烈但克制，镜头语言像爆款古装剧海报剧照，画面高级、神秘、凄自然，情绪浓烈但克制，镜头语言像爆款古装剧海报剧照，画面高级、神秘、凄美、危险，摄影棚级控光结合实景森林氛围，85mm电影镜头，浅景深，背景虚化，电影剧照，high detail，ultra realistic，cinematic still，dramatic composition，4K，ArtStation级完成度",
+  "translatedPrompt": "官方电视剧剧照，{argument name=\"genre\" default=\"古装奇幻\"} 主题“{argument name=\"title\" default=\"古月照归人\"}”，一位苗疆灵族 {argument name=\"character\" default=\"少女\"}，面部特征与气质与图一主角一致，真实的东方女孩，皮肤白皙、细腻且通透，黑发如瀑布般流淌，发间别着白色山花与银色流苏，耳垂挂着精致的苗族银饰，身着浅绿配白色的古风纱裙，薄纱袖口配以精致刺绣，在苗疆禁地深处回眸，眼神宁静却暗藏宿命感，表情克制，带着一丝淡淡的悲悯与清冷高雅，深蓝之夜，潮湿森林，雾气缭绕，扭曲的古树，背景中隐约可见微弱的蛊火与模糊的祭坛轮廓，空中漂浮着细小的发光蛊虫与银蓝色蝴蝶幻影，发丝与裙摆被山风轻轻吹动，电影级布光，冷蓝色月光与柔和火光交织，微弱的侧逆光勾勒出面部轮廓，明显的景深效果，真实的电视剧拍摄质感，超写实，细腻自然的皮肤纹理，情绪强烈而克制，镜头语言如同热门古装剧海报，高级、神秘且带有自然流露的哀愁，情绪强烈而克制，镜头语言如同热门古装剧海报，高级、神秘、凄美且危险，摄影棚级灯光控制结合真实的森林氛围，85mm 电影镜头，浅景深，背景虚化，电影剧照，高细节，超逼真，电影感剧照，戏剧性构图，4K，ArtStation 级精细度。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "影视剧剧照提示词：一份用于生成具有东方美学幻想角色、高细节且逼真的电视剧剧照的详尽提示词。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13556",
+      "14030",
+      "14188",
+      "15307",
+      "15739",
+      "13524"
+    ]
+  }
+}

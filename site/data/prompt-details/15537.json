@@ -1,0 +1,49 @@
+{
+  "id": "15537",
+  "prompt": "A cinematic, high-fashion portrait of a {argument name=\"subject\" default=\"young woman\"} gazing slightly upward with a contemplative expression. The composition blends fine art and multimedia collage—her face subtly layered with delicate architectural blueprints, geometric grids, and technical schematics. The edges dissolve into an expressive burst of charcoal and white paint splashes, creating a deconstructed, artistic frame.\n\nHyper-realistic {argument name=\"foliage\" default=\"orange autumn maple leaves\"} float gently around her hair and neck, adding motion and contrast. She wears a {argument name=\"clothing\" default=\"thick, textured brown knit scarf\"}. Lighting is dramatic and high-contrast, with ultra-sharp focus on the eyes and finely detailed, lifelike skin textures. The color palette leans toward muted earth tones, accented by vibrant orange highlights. Shot in an editorial photography style, 8K resolution, crisp and highly detailed.",
+  "translatedPrompt": "一张电影质感的高定肖像，画面中的 {argument name=\"subject\" default=\"年轻女性\"} 带着沉思的神情微微仰望。构图融合了纯艺术与多媒体拼贴风格——她的面部被细腻地叠加了建筑蓝图、几何网格和技术示意图。边缘处消融在富有表现力的炭笔与白色颜料飞溅中，营造出解构主义的艺术画框。\n\n超写实的 {argument name=\"foliage\" default=\"橙色秋季枫叶\"} 在她的发丝与颈部周围轻盈漂浮，增添了动感与对比。她身着 {argument name=\"clothing\" default=\"厚实且富有质感的棕色针织围巾\"}。光影效果戏剧且对比强烈，焦点精准聚焦于双眼，呈现出极其细腻、栩栩如生的皮肤纹理。色调偏向柔和的大地色系，并以鲜艳的橙色高光点缀。采用编辑摄影风格拍摄，8K 分辨率，画质清晰且细节丰富。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "解构主义高定拼贴肖像：一份详细的高定肖像提示词，融合了建筑蓝图与多媒体拼贴元素，呈现戏剧性的光影效果与秋季点缀。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "grid",
+        "layered"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "editorial"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, layered]。\n\nVisual style:\n[参考风格: realistic, cinematic, editorial]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15530",
+      "14578",
+      "15350",
+      "14414",
+      "14428",
+      "14901"
+    ]
+  }
+}

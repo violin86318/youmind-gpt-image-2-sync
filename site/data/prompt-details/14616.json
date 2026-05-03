@@ -1,0 +1,56 @@
+{
+  "id": "14616",
+  "prompt": "A cinematic dark-fantasy full-body portrait of a fierce warrior queen walking forward across a rugged, autumn-toned field at golden hour, accompanied by 1 large wolf at her right side. She has very long windblown {argument name=\"hair color\" default=\"deep copper red\"} hair streaming dramatically to the left, with an ornate metallic headpiece on one side. Her face is partly obscured by shadow for a mysterious, faceless look. She wears ultra-detailed biomechanical elven armor in pale silver, ivory, and champagne metal, shaped like a sculpted bodice with filigree, engraved lines, layered shoulder plates, articulated gauntlets, decorated thigh armor, and armored boots. The outfit includes 1 flowing translucent skirt panel in beige and 1 long torn crimson-orange cape or veil trailing behind her, filled with glowing ember-like perforations and scattered sparkling particles. In her right hand she carries 1 tall ceremonial spear-staff with an intricate bladed head and multiple hanging chains and charms. The wolf is highly detailed, grey-white and muscular, wearing matching ornamental armor and harness pieces with metallic accents and red markings. The environment is a windswept mountainous wilderness with blurred rocky hills in the background, glowing dust, embers, and backlit haze. Lighting is warm, low sun, dramatic rim light, volumetric glow, rich contrast, shallow depth of field, hyper-detailed textures, epic fantasy realism, dynamic motion, powerful goddess-like presence, centered composition, vertical 2:3 format.",
+  "translatedPrompt": "一张电影质感的奇幻肖像，描绘了一位凶猛的女战士在黄金时刻，行走在崎岖且阳光明媚的荒野上，右侧伴随着 1 只巨大的狼。她是画面中心的全身主体，身材高大且充满力量，长发在风中飘扬，{argument name=\"hair color\" default=\"深铜红色\"} 的发丝戏剧性地向左侧流淌，头部侧面佩戴着 1 件华丽的金属羽毛状头饰。她的面部部分被遮挡或弱化，以保持对轮廓、发丝、盔甲和氛围的关注。她身穿精致的生物机械精灵风格盔甲，色调为淡象牙白、银色和柔和的香槟金，细节极其丰富，包含金银丝细工、雕刻线条、层叠板甲、宝石镶嵌、精致的链条装饰以及贴合女性身形的轮廓；盔甲包括 1 件雕刻胸甲、2 个肩甲、2 个雕刻护腕、1 个镶嵌宝石的腰带中心饰、2 个大腿护甲和 2 个复杂的板甲护胫。从盔甲中飘散出半透明的破损布料，以及一条长长的余烬红色披风或面纱，像火花一样在身后随风飘动，捕捉着光线。她右手持 1 根高大的仪式长矛，矛头装饰华丽，悬挂着链条和红色宝石点缀。那只狼体态精瘦、警觉且身经百战，穿着与她配套的装饰性挽具盔甲，上面有蚀刻的金属细节和红色标记，与她并肩同行。环境是一片开阔的岩石平原，远处有丘陵或山脉，干草、漂浮的尘埃和发光的颗粒遍布整个场景。运用戏剧性的逆光、温暖的琥珀色阳光、高对比度、浅层大气雾霾、超精细纹理、奇幻写实主义、史诗般的暗金色调，以及头发和布料的动态感，营造出一种 premium gpt-image-2 奇幻角色关键视觉图风格的宏伟且狂野的氛围。无文字，无 Logo，无水印。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "狂野奇幻女战士与狼：此提示词可生成一张电影质感的奇幻女英雄全身肖像，包含华丽盔甲、长矛及狼同伴，非常适合史诗级角色艺术和暗黑奇幻风格的关键视觉图。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "full-body",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "fantasy",
+        "premium"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "golden hour",
+        "volumetric",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, full-body, layered, vertical]。\n\nVisual style:\n[参考风格: cinematic, fantasy, premium]。\n\nLighting and camera:\n[参考光线镜头: rim light, golden hour, volumetric, shallow depth, depth of field]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14855",
+      "15757",
+      "14413",
+      "15626",
+      "15717",
+      "15733"
+    ]
+  }
+}

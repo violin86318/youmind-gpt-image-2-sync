@@ -1,0 +1,48 @@
+{
+  "id": "15530",
+  "prompt": "A high-fashion cinematic portrait of a {argument name=\"subject\" default=\"young woman\"} with a thoughtful expression, looking slightly upward. The image is a deconstructed multimedia collage: her face is overlaid with faint, intricate architectural blueprints, geometric grid lines, and technical schematics. The composition features an explosive, splattered edge effect with charcoal and white paint strokes. Scattered hyper-realistic {argument name=\"decor\" default=\"orange autumn maple leaves\"} drift around her neck and hair. She wears a thick, {argument name=\"accessory\" default=\"textured brown knit scarf\"}. High-contrast lighting, 8k resolution, ultra-sharp focus on the eyes, featuring hyper-realistic skin textures, muted earth-tone color palette with pops of vibrant orange, editorial photography style.",
+  "translatedPrompt": "一张 {argument name=\"subject\" default=\"年轻女性\"} 的高级时尚电影感肖像，她表情深思，微微抬头。图像呈现为解构主义的多媒体拼贴风格：她的面部叠加着淡淡的、错综复杂的建筑蓝图、几何网格线和技术示意图。构图采用炭笔和白色油漆笔触，营造出爆炸性的边缘飞溅效果。零星的超写实 {argument name=\"decor\" default=\"橙色秋季枫叶\"} 在她的颈部和发间飘落。她围着一条厚实的 {argument name=\"accessory\" default=\"棕色针织围巾\"}。高对比度光影，8k 分辨率，聚焦于双眼，展现超写实的皮肤纹理，采用柔和的大地色调并点缀鲜艳的橙色，呈现出编辑级摄影风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "多媒体拼贴时尚肖像：一款融合了蓝图和油漆飞溅等多媒体效果的高级时尚电影感肖像提示词。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "grid"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "editorial"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[参考风格: realistic, cinematic, editorial]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15537",
+      "14414",
+      "14901",
+      "15065",
+      "13960",
+      "14538"
+    ]
+  }
+}

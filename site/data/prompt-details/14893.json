@@ -1,0 +1,40 @@
+{
+  "id": "14893",
+  "prompt": "A traditional Chinese calligraphy painting on aged tan xuan paper, landscape orientation, styled like an antique literati hanging scroll reproduction. The main composition is a large block of bold black semi-cursive to cursive brush calligraphy arranged in 10 vertical columns, read right to left, featuring the poem title at the top of the rightmost main column as {argument name=\"poem title\" default=\"雨霖铃\"}. The calligraphy should feel elegant, fluid, and expressive, with varied ink density, dry-brush texture, thick and thin stroke transitions, and natural hand-written spacing rather than perfect typesetting. Use the visible poem text as written in the image, including its inaccuracies, with the right-side main columns beginning: “寒蝉凄切，对长亭晚，骤雨初歇。都门帐饮无绪，留恋处，兰舟催发，执手相看泪眼，竟无语凝噎。念去去，千里烟波，暮霭沉沉楚天阔。多情自古，雷情自古伤离别，更那堪冷冷宵，酒醒倦兼芊？杨柳岸，晓风残月。此去经年良宰，经年，应是良辰好景。便纵有千种风情，更与何人说？” Place a narrower signature column on the far left with 1 vertical inscription reading {argument name=\"signature text\" default=\"柳永《雨霖铃·寒蝉凄切》\"}. Add 4 red seals total: 1 oval collector-style seal near the upper right margin and 3 square seals stacked vertically near the lower left inscription area. Include a faint monochrome ink-wash landscape in the lower right corner with 1 drooping willow tree and 1 small pavilion by the water, partially faded into the paper. The paper should have warm brown aging, subtle stains, mottling, foxing, worn edges, and a museum-photograph feel. Overall mood is refined, poetic, historical, and scholarly, like a Song-dynasty-inspired calligraphy artwork photographed flat in soft even light.",
+  "translatedPrompt": "一幅绘制在陈旧棕色宣纸上的传统中国书法作品，横向构图，呈现出仿古文人挂轴复制品的风格。主体构图为大块粗犷的黑色行草书书法，按从右至左的顺序排列为 10 列纵行，最右侧主列顶部为诗词标题 {argument name=\"poem title\" default=\"雨霖铃\"}。书法应显得优雅、流畅且富有表现力，具有墨色浓淡变化、枯笔质感、笔画粗细过渡，以及自然的手写间距，而非完美的排版。请使用图像中书写的诗词文本，包括其中的笔误，右侧主列开头为：“寒蝉凄切，对长亭晚，骤雨初歇。都门帐饮无绪，留恋处，兰舟催发，执手相看泪眼，竟无语凝噎。念去去，千里烟波，暮霭沉沉楚天阔。多情自古，雷情自古伤离别，更那堪冷冷宵，酒醒倦兼芊？杨柳岸，晓风残月。此去经年良宰，经年，应是良辰好景。便纵有千种风情，更与何人说？” 在最左侧放置一列较窄的落款，包含 1 行纵向题字 {argument name=\"signature text\" default=\"柳永《雨霖铃·寒蝉凄切》\"}。总共添加 4 枚红色印章：右上角边缘附近放置 1 枚椭圆形收藏印，左下角落款区域附近垂直堆叠 3 枚方形印章。在右下角加入一处淡淡的单色水墨山水，包含 1 棵垂柳和 1 座水边小亭，部分融入纸张背景中。纸张应呈现出温暖的棕色陈旧感，带有细微的污渍、斑点、霉斑、磨损边缘，并具有博物馆摄影作品的质感。整体氛围雅致、诗意、充满历史感与书卷气，如同在柔和均匀的光线下拍摄的宋代风格书法艺术品。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "中国书法诗词卷轴：此提示词可生成带有诗词文本、印章及淡雅水墨山水背景的仿古中国毛笔书法艺术作品，适用于文化艺术印刷品或古典文学视觉展示。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14020",
+      "14479",
+      "15337",
+      "14653",
+      "14876",
+      "15441"
+    ]
+  }
+}

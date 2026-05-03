@@ -1,0 +1,35 @@
+{
+  "id": "14356",
+  "prompt": "- メインコピー: {argument name=\"メインコピー\" default=\"GPT Image 2 解禁!!!\"}\n- サブコピー: {argument name=\"サブコピー\" default=\"4月22日、ついに画像生成最高峰モデルがリリースされました！川合も早速使っています。この精度はすごい！\"}\n- アイキャッチ: 20代日本人男性と女性が笑っている、喜んでいる\n- スタイル: {argument name=\"スタイル\" default=\"日本の広告・ポスター、モダン、にぎやか\"}\n- アスペクト比: 3:4縦長",
+  "translatedPrompt": "- 主文案：{argument name=\"main copy\" default=\"GPT Image 2 发布了！！！\"}\n- 副文案：{argument name=\"sub copy\" default=\"顶尖图像生成模型终于在 4 月 22 日发布了！我已经开始使用了，精度令人惊叹！\"}\n- 视觉焦点：一对 20 多岁的日本男女正在欢笑和庆祝。\n- 风格：{argument name=\"style\" default=\"日本广告/海报，现代，生动\"}\n- 纵横比：3:4 竖屏",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "现代广告排版设计：专为日本广告和海报设计的结构化排版提示词，侧重于特定文本和引人注目的视觉效果。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

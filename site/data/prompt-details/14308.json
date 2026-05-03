@@ -1,0 +1,33 @@
+{
+  "id": "14308",
+  "prompt": "Create an image featuring {argument name=\"layout\" default=\"four frames\"} of a {argument name=\"dimensions\" default=\"300x250\"} banner ad for {argument name=\"product\" default=\"Ozempic\"}",
+  "translatedPrompt": "创建一个包含 {argument name=\"layout\" default=\"四帧\"} 的 {argument name=\"dimensions\" default=\"300x250\"} 横幅广告图片，产品为 {argument name=\"product\" default=\"Ozempic\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "多帧横幅广告：这是一个侧重于布局的提示词，旨在展示 GPT Image 2 创建具有特定尺寸的多帧横幅广告的能力。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13709",
+      "14134",
+      "14304",
+      "14336",
+      "14355",
+      "14751"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "13601",
+  "prompt": "A high-quality {argument name=\"art style\" default=\"anime background art\"} illustration of a sprawling fantasy castle complex at {argument name=\"time of day\" default=\"night\"}. The sky is deep blue, filled with sparkling stars and a {argument name=\"celestial object\" default=\"large full moon\"} positioned in the upper left. The architecture consists of light gray stone walls, featuring exactly 8 prominent cylindrical towers with {argument name=\"roof color\" default=\"blue\"} conical roofs, and a main rectangular building with a matching pitched roof. {argument name=\"window light color\" default=\"warm yellow\"} light warmly illuminates the windows, creating a striking contrast against the cool night palette. Elevated stone walkways bridge the gaps between the towers. The central courtyard is paved with neat stone tiles, featuring a single small white cube resting mysteriously in the middle. The fortress is nestled within dense, dark green forests, with rolling mountain silhouettes fading into the distant background.",
+  "translatedPrompt": "一张高质量的 {argument name=\"art style\" default=\"动漫背景艺术\"} 插画，描绘了 {argument name=\"time of day\" default=\"夜晚\"} 时分广阔的奇幻城堡群。深蓝色的天空中繁星点点，左上方悬挂着一颗 {argument name=\"celestial object\" default=\"巨大的满月\"}。建筑主体由浅灰色石墙构成，拥有 8 座显眼的圆柱形塔楼，塔顶为 {argument name=\"roof color\" default=\"蓝色\"} 的圆锥形屋顶，主建筑为长方形，配有同色系的坡屋顶。{argument name=\"window light color\" default=\"暖黄色\"} 的灯光从窗户透出，与冷色调的夜景形成了鲜明对比。高架石桥连接着各座塔楼。中央庭院铺设着整齐的石砖，中间神秘地放置着一个白色小方块。城堡坐落在茂密的深绿色森林中，远处的连绵山脉剪影逐渐隐入背景。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫风格奇幻夜间城堡：生成一张细节丰富的动漫风格背景插画，描绘了夜间灯火通明的奇幻城堡群，非常适合视觉小说或 RPG 游戏环境。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "anime",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14033",
+      "14909",
+      "13848",
+      "15226",
+      "13752",
+      "13781"
+    ]
+  }
+}

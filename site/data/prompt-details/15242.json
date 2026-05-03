@@ -1,0 +1,52 @@
+{
+  "id": "15242",
+  "prompt": "Create a premium minimalist beauty advertisement on a clean light gray studio background. Show a glamorous female model from chest up on the left side, with {argument name=\"hair color\" default=\"deep brunette\"} hair blown dramatically to the left in a smooth, glossy wave, emphasizing shine and movement. She wears an elegant white halter dress with a twisted neckline. Her face is de-emphasized and not the focal point. On the right side, place a sleek modern cylindrical hair dryer in a metallic silver finish with a rose-gold circular rim around a black hollow center, shown upright with visible handle buttons, lower air vent perforations, and attached cord. Use luxury commercial product-photography lighting, soft shadows, ultra-clean retouching, and high-end cosmetic ad styling. Add bold modern sans-serif headline text in the upper right: {argument name=\"headline text\" default=\"Effortless shine.\"} on the first line and {argument name=\"subheadline text\" default=\"Everyday perfection.\"} below it in a lighter weight. In the lower left, include exactly 4 vertically stacked feature callouts with thin outlined circular icons and small sans-serif text: 1) sparkle icon with title \"Fast drying.\" and body \"Powerful digital motor for quick, efficient results.\" 2) thermometer icon with title \"Heat intelligent.\" and body \"Measures air temperature 40 times per second.\" 3) wavy heat lines icon with title \"Designed for hair health.\" and body \"Helps protect natural shine and smoothness.\" 4) muted speaker icon with title \"Engineered for balance.\" and body \"Lightweight, quiet, and comfortable to use.\" In the bottom right corner, add the luxury brand logo text {argument name=\"brand name\" default=\"LUXÉO\"} with small uppercase \"PROFESSIONAL\" beneath it. Vertical poster layout, polished mobile ad aesthetic, aspirational beauty-tech branding, realistic hair texture, realistic skin, crisp typography, and premium editorial composition.",
+  "translatedPrompt": "在干净的浅灰色摄影棚背景下，创作一个高端极简主义美妆广告。左侧展示一位迷人的女性模特半身像，其 {argument name=\"hair color\" default=\"深棕色\"} 秀发向左侧飘逸，呈现出顺滑、亮泽的波浪感，强调光泽与动感。她身穿优雅的白色挂脖连衣裙，领口有扭结设计。面部做弱化处理，非视觉焦点。右侧放置一款时尚现代的圆柱形吹风机，采用金属银色饰面，黑色中空中心周围环绕玫瑰金圆环，直立展示，可见手柄按钮、下部进气孔及连接的电源线。采用奢华商业产品摄影灯光、柔和阴影、超洁净修图及高端化妆品广告风格。在右上角添加醒目的现代无衬线标题文本：第一行显示 {argument name=\"headline text\" default=\"轻松闪耀。\"}，下方以较细字重显示 {argument name=\"subheadline text\" default=\"日常完美。\"}。在左下角，包含 4 个垂直排列的功能标注，配有细轮廓圆形图标和小型无衬线文本：1) 闪光图标，标题为“快速干发。”，正文为“强劲数字马达，实现快速高效的干发效果。” 2) 温度计图标，标题为“智能控温。”，正文为“每秒监测空气温度 40 次。” 3) 波浪热线图标，标题为“专为发质健康设计。”，正文为“有助于保护头发的自然光泽与顺滑感。” 4) 静音图标，标题为“平衡工程设计。”，正文为“轻盈、静音，使用舒适。” 在右下角，添加奢侈品牌名称 {argument name=\"brand name\" default=\"LUXÉO\"}，下方配以小号大写字母“PROFESSIONAL”。竖版海报布局，精致的移动端广告美学，令人向往的美妆科技品牌感，真实的头发质感，真实的皮肤质感，清晰的排版，以及高端的编辑构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奢华吹风机美妆广告：一个精致的竖版美妆科技广告，展示了拥有光泽秀发的模特、高端吹风机，以及适用于奢侈品推广的简洁营销文案。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "poster layout",
+        "callout",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "editorial",
+        "minimalist",
+        "luxury",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: poster layout, callout, vertical]。\n\nVisual style:\n[参考风格: realistic, editorial, minimalist, luxury, premium, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15444",
+      "15668",
+      "14829",
+      "14833",
+      "15268",
+      "15669"
+    ]
+  }
+}

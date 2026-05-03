@@ -1,0 +1,50 @@
+{
+  "id": "14496",
+  "prompt": "Create a flashy Japanese YouTube thumbnail in a high-impact anime marketing style, 16:9 landscape, packed with neon green energy effects, gold sparkles, speed lines, lens flares, and thick black drop shadows. The composition is split with bold promotional text dominating the left and center, and a cute chibi anime boy on the right pointing directly at the viewer with an enthusiastic smile. He has tousled dark brown hair with vivid {argument name=\"accent hair color\" default=\"neon green\"} streaks, large bright green eyes, soft blush on his cheeks, and wears a black hoodie layered with a green-trimmed jacket over an orange inner shirt. Use glossy cel-shaded rendering, crisp outlines, high contrast, and exaggerated depth for a clickable social-media-thumbnail look. At the very top, place a curved red ribbon banner with gold trim and a gift box icon on the left; inside the banner put the Japanese headline text {argument name=\"top banner text\" default=\"無料10大特典プレゼント\"} in bold white and yellow lettering. In the main center-left area, place huge Japanese text with dramatic 3D styling and metallic gradients: a giant gold \"10\", a white \"日で\", a massive neon green \"X\", then silver-white \"収益化\", and gold-orange \"達成\", reading exactly {argument name=\"main headline\" default=\"10日でX収益化達成\"}. Surround this headline with upward green arrows, starburst glints, and explosive light effects. Add 4 floating platform-style icons around the headline area: 1 pink social-like icon with a white heart, 1 blue speech-bubble icon with a white user silhouette, 1 tilted black smartphone displaying a white X logo, and 1 stack of gold coins with a yen symbol coin in front. Along the bottom, place 3 glowing green feature boxes aligned horizontally, each with a distinct icon and Japanese copy: box 1 has a beginner mark icon and text {argument name=\"feature text 1\" default=\"X初心者でも簡単収益化\"}, box 2 has a clock icon and text \"1日1時間の作業でOK\", box 3 has a calendar icon and text \"最短10日で収益化条件達成\". At the bottom right, add a large glossy red rounded call-to-action button with a white border glow, white Japanese text {argument name=\"button text\" default=\"今すぐ受け取る\"}, a white play triangle on the right side of the button, and a clicking hand cursor near the lower-right edge. The entire image should feel explosive, urgent, and optimized for high click-through rate, using saturated greens, reds, golds, black shadows, and metallic highlights.",
+  "translatedPrompt": "制作一张高冲击力的动漫营销风格日语 YouTube 缩略图，比例为 16:9，充满霓虹绿能量特效、金色闪光、速度线、镜头光晕和厚重的黑色投影。构图采用左右分割，左侧和中央为醒目的促销文字，右侧是一个可爱的 Q 版动漫男孩，他带着热情的微笑，手指直指观众。他留着凌乱的深棕色头发，带有鲜艳的 {argument name=\"accent hair color\" default=\"霓虹绿\"} 发丝，有着明亮的大绿眼睛，脸颊微红，身穿黑色连帽衫，外搭一件绿色镶边的外套，内衬橙色衬衫。采用光泽感赛璐珞渲染、清晰的轮廓线、高对比度和夸张的景深，打造出适合社交媒体点击的缩略图效果。在最上方放置一个带有金色镶边的弧形红色丝带横幅，左侧带有礼盒图标；横幅内放置日语标题文字 {argument name=\"top banner text\" default=\"無料10大特典プレゼント\"}，使用粗体白色和黄色字体。在中央偏左的主要区域，放置巨大的 3D 风格金属渐变日语文字：巨大的金色“10”、白色“日で”、醒目的霓虹绿“X”、银白色“収益化”以及金橙色“達成”，文字内容需完全对应 {argument name=\"main headline\" default=\"10日でX収益化達成\"}。在标题周围添加向上的绿色箭头、星形闪光和爆炸性光效。在标题区域周围添加 4 个浮动的平台风格图标：1 个带有白色爱心的粉色社交图标、1 个带有白色用户剪影的蓝色对话框图标、1 个显示白色 X 标志的倾斜黑色智能手机，以及 1 堆金币（前方有一个带有日元符号的硬币）。在底部水平排列 3 个发光的绿色功能框，每个框配有独特的图标和日语文案：框 1 带有新手标记图标和文字 {argument name=\"feature text 1\" default=\"X初心者でも簡単収益化\"}，框 2 带有时钟图标和文字“1日1時間の作業でOK”，框 3 带有日历图标和文字“最短10日で収益化条件達成”。在右下角添加一个带有白色边框光晕的大型光泽红色圆角行动呼吁（CTA）按钮，按钮内为白色日语文字 {argument name=\"button text\" default=\"今すぐ受け取る\"}，按钮右侧带有白色播放三角形，右下边缘附近放置一个点击手势光标。整张图片应呈现出爆炸感和紧迫感，并通过饱和的绿色、红色、金色、黑色阴影和金属高光，针对高点击率进行优化。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "爆款日语 X 变现缩略图：此提示词可生成高能量的动漫风格日语营销缩略图，适用于关于快速 X 变现及奖励优惠的社交媒体或 YouTube 推广。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [
+        "layered",
+        "horizontal"
+      ],
+      "style": [
+        "anime",
+        "3d"
+      ],
+      "lightingCamera": [
+        "neon",
+        "high contrast",
+        "lens"
+      ],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, horizontal]。\n\nVisual style:\n[参考风格: anime, 3d]。\n\nLighting and camera:\n[参考光线镜头: neon, high contrast, lens]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14498",
+      "14680",
+      "14922",
+      "14966",
+      "13507",
+      "15321"
+    ]
+  }
+}

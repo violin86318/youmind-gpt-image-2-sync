@@ -1,0 +1,45 @@
+{
+  "id": "14035",
+  "prompt": "{\n  \"type\": \"2x2 advertisement banner grid\",\n  \"layout\": {\n    \"grid_size\": \"2x2\",\n    \"panels\": [\n      {\n        \"position\": \"top-left\",\n        \"industry\": \"skincare\",\n        \"visuals\": \"Young Asian woman with glowing skin, short black hair, white strap top, hand gently touching face. 3 white cosmetic bottles in bottom left.\",\n        \"typography\": {\n          \"main_copy\": \"{argument name=\\\"skincare catchphrase\\\" default=\\\"素肌が、いちばんのメイクになる。\\\"}\",\n          \"sub_copy\": \"肌本来の力を引き出す 新・スキンケアシリーズ誕生\",\n          \"badge\": \"4.25 NEW DEBUT\",\n          \"brand_name\": \"urala\",\n          \"tagline\": \"うららかに、わたしらしく。\"\n        }\n      },\n      {\n        \"position\": \"top-right\",\n        \"industry\": \"cafe\",\n        \"visuals\": \"Wooden table by a window, plate with jam and butter toast, cup of black coffee, fork and knife.\",\n        \"typography\": {\n          \"top_text\": \"森のそばの小さなカフェ\",\n          \"main_copy\": \"{argument name=\\\"cafe catchphrase\\\" default=\\\"今日も、いい日。\\\"}\",\n          \"sub_copy\": \"こだわりのコーヒーと、焼きたてのパンでほっとひと息しませんか？\",\n          \"badge\": \"季節限定 いちごのジャムトースト始めました\",\n          \"logo\": \"morino cafe\",\n          \"details\": \"OPEN 8:00 - 18:00 定休日: 水曜日 〒150-0001 東京都渋谷区神宮前 1-2-3\"\n        }\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"industry\": \"fitness gym\",\n        \"visuals\": \"Athletic Asian woman in black sports bra, ponytail, sweating, looking determined. Gym background with purple neon lighting.\",\n        \"typography\": {\n          \"top_text\": \"今こそ、理想の自分へ\",\n          \"main_copy\": \"{argument name=\\\"gym catchphrase\\\" default=\\\"わたしを、超えていけ。\\\"}\",\n          \"bullet_points\": [\n            \"☑ パーソナルトレーニング\",\n            \"☑ 初心者サポート充実\",\n            \"☑ 手ぶらでOK\"\n          ],\n          \"offer\": \"まずは体験から！ 体験トレーニング 60分 {argument name=\\\"gym price\\\" default=\\\"¥2,200\\\"}(税込)\",\n          \"logo\": \"B BEYOND LIMIT PERSONAL GYM\"\n        }\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"industry\": \"travel resort\",\n        \"visuals\": \"Infinity pool merging with bright blue ocean, white lounge chairs, sunny sky, potted plant.\",\n        \"typography\": {\n          \"main_copy\": \"{argument name=\\\"resort catchphrase\\\" default=\\\"まだ見ぬ景色に、出会う旅。\\\"}\",\n          \"sub_copy\": \"心がほどける、特別な時間をあなたに。\",\n          \"logo\": \"UMI to SORA RESORT\",\n          \"bottom_bar\": \"＼ 期間限定 ／ 夏のご予約キャンペーン 最大 20% OFF ご予約は公式サイトから → 2024.6.1 sat - 7.31 wed\",\n          \"elements\": [\n            \"QR code\"\n          ]\n        }\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"2x2 广告横幅网格\",\n  \"layout\": {\n    \"grid_size\": \"2x2\",\n    \"panels\": [\n      {\n        \"position\": \"左上\",\n        \"industry\": \"护肤\",\n        \"visuals\": \"一位皮肤光泽、留着黑色短发、身穿白色吊带背心的年轻亚洲女性，手轻轻触碰脸庞。左下角有 3 瓶白色化妆品。\",\n        \"typography\": {\n          \"main_copy\": \"{argument name=\\\"skincare catchphrase\\\" default=\\\"素肌が、いちばんのメイクになる。\\\"}\",\n          \"sub_copy\": \"肌本来の力を引き出す 新・スキンケアシリーズ誕生\",\n          \"badge\": \"4.25 NEW DEBUT\",\n          \"brand_name\": \"urala\",\n          \"tagline\": \"うららかに、わたしらしく。\"\n        }\n      },\n      {\n        \"position\": \"右上\",\n        \"industry\": \"咖啡馆\",\n        \"visuals\": \"窗边的木桌，盘子里放着果酱和黄油吐司，一杯黑咖啡，以及刀叉。\",\n        \"typography\": {\n          \"top_text\": \"森のそばの小さなカフェ\",\n          \"main_copy\": \"{argument name=\\\"cafe catchphrase\\\" default=\\\"今日も、いい日。\\\"}\",\n          \"sub_copy\": \"こだわりのコーヒーと、焼きたてのパンでほっとひと息しませんか？\",\n          \"badge\": \"季節限定 いちごのジャムトースト始めました\",\n          \"logo\": \"morino cafe\",\n          \"details\": \"OPEN 8:00 - 18:00 定休日: 水曜日 〒150-0001 東京都渋谷区神宮前 1-2-3\"\n        }\n      },\n      {\n        \"position\": \"左下\",\n        \"industry\": \"健身房\",\n        \"visuals\": \"一位身穿黑色运动内衣、扎着马尾辫的亚洲女性运动员，正在流汗，神情坚定。背景为带有紫色霓虹灯的健身房。\",\n        \"typography\": {\n          \"top_text\": \"今こそ、理想の自分へ\",\n          \"main_copy\": \"{argument name=\\\"gym catchphrase\\\" default=\\\"わたしを、超えていけ。\\\"}\",\n          \"bullet_points\": [\n            \"☑ パーソナルトレーニング\",\n            \"☑ 初心者サポート充実\",\n            \"☑ 手ぶらでOK\"\n          ],\n          \"offer\": \"まずは体験から！ 体験トレーニング 60分 {argument name=\\\"gym price\\\" default=\\\"¥2,200\\\"}(税込)\",\n          \"logo\": \"B BEYOND LIMIT PERSONAL GYM\"\n        }\n      },\n      {\n        \"position\": \"右下\",\n        \"industry\": \"旅游度假\",\n        \"visuals\": \"无边泳池与湛蓝的大海融为一体，白色躺椅，晴朗的天空，盆栽植物。\",\n        \"typography\": {\n          \"main_copy\": \"{argument name=\\\"resort catchphrase\\\" default=\\\"まだ見ぬ景色に、出会う旅。\\\"}\",\n          \"sub_copy\": \"心がほどける、特別な時間をあなたに。\",\n          \"logo\": \"UMI to SORA RESORT\",\n          \"bottom_bar\": \"＼ 期間限定 ／ 夏のご予約キャンペーン 最大 20% OFF ご予約は公式サイトから → 2024.6.1 sat - 7.31 wed\",\n          \"elements\": [\n            \"二维码\"\n          ]\n        }\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "4 格日式广告横幅网格：生成一个 2x2 的网格，包含护肤、咖啡馆、健身和旅游行业的多元化日式广告横幅，并支持自定义排版。",
+      "subject": "人物",
+      "scene": "字体/Logo",
+      "composition": [
+        "grid",
+        "2x2"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, 2x2]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14001",
+      "14002",
+      "14021",
+      "14031",
+      "14937",
+      "14267"
+    ]
+  }
+}

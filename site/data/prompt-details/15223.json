@@ -1,0 +1,36 @@
+{
+  "id": "15223",
+  "prompt": "[テーマ]参照画像の人物をモデルとした、{argument name=\"年\" default=\"2026年\"}{argument name=\"期間\" default=\"4月～9月\"}の{argument name=\"月数\" default=\"6つ\"}の日本の暦のカレンダー。\n[カレンダー]カレンダー部分の背景は白で見やすく。\n[イメージ]各月の季節をモチーフにした、素人が仲間同士でiphoneで撮った日常の写真。\n\n[ロケーション]季節に合わせておまかせ。\n[距離感]月ごとに次からランダムで1つ選択。extreme_close, close, bust, mid, far, candid\n[アングル]月ごとに次からランダムで1つ選択。eye, low, high, side, back\n[露出・色味]月ごとに次からランダムで1つ選択。overexp, natural, warm, cool, dark\n[髪型]月ごとに次からランダムで1つ選択。ponytail, bun, down, half_up, messy, wet, short, bob, braid, twin\n[服装]季節に合わせておまかせ。\n[ノイズ感]月ごとに次からランダムで1つ選択。low, mid, high, film\n[ブレ・ピンボケ]月ごとに次からランダムで1つ選択。sharp, slight, motion, soft\n[ポーズ]月ごとに次からランダムで1つ選択。natural_stand, sitting, walking, phone, wall_lean, crouch, look_back\n[手に持っているもの]月ごとに次からランダムで1つ選択。none, smartphone, bottle, coffee, umbrella, bag, towel, script\n[時間帯]月ごとに次からランダムで1つ選択。early_morning, morning, noon, afternoon, evening, night, late_night",
+  "translatedPrompt": "[主题] 制作一份 {argument name=\"year\" default=\"2026\"} 年 {argument name=\"period\" default=\"4 月至 9 月\"}（共 {argument name=\"number of months\" default=\"6\"} 个月）的日式日历，以参考图中的人物作为模特。\n[日历] 日历部分的背景应为白色，以确保清晰易读。\n[图像] 以各个月份的季节为主题，模拟 iPhone 拍摄的业余生活照。\n\n[地点] 根据季节由 AI 自动决定。\n[距离] 每月随机选择一项：extreme_close（极近）、close（近景）、bust（半身）、mid（中景）、far（远景）、candid（抓拍）。\n[角度] 每月随机选择一项：eye（平视）、low（低角度）、high（高角度）、side（侧面）、back（背面）。\n[曝光/色调] 每月随机选择一项：overexp（过曝）、natural（自然）、warm（暖色）、cool（冷色）、dark（暗色）。\n[发型] 每月随机选择一项：ponytail（马尾）、bun（丸子头）、down（披肩）、half_up（半扎发）、messy（凌乱感）、wet（湿发）、short（短发）、bob（波波头）、braid（编发）、twin（双马尾）。\n[服装] 根据季节由 AI 自动决定。\n[噪点] 每月随机选择一项：low（低）、mid（中）、high（高）、film（胶片感）。\n[模糊/对焦] 每月随机选择一项：sharp（清晰）、slight（轻微）、motion（动态模糊）、soft（柔焦）。\n[姿势] 每月随机选择一项：natural_stand（自然站立）、sitting（坐姿）、walking（行走）、phone（打电话）、wall_lean（靠墙）、crouch（蹲姿）、look_back（回眸）。\n[持有物] 每月随机选择一项：none（无）、smartphone（智能手机）、bottle（瓶装水）、coffee（咖啡）、umbrella（雨伞）、bag（包）、towel（毛巾）、script（剧本）。\n[时间段] 每月随机选择一项：early_morning（清晨）、morning（上午）、noon（中午）、afternoon（下午）、evening（傍晚）、night（夜晚）、late_night（深夜）。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "2026 年日式随拍日历提示词：这是一个高度结构化的提示词，用于生成 2026 年 6 个月的日式日历。通过为角度、发型和姿势设置随机变量，营造出“手机随拍”的真实感。",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "App Store 截图、产品概念、移动工具界面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13583",
+      "13585",
+      "13645",
+      "13648",
+      "13708",
+      "13710"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "15779",
+  "prompt": "A bold retro propaganda-style poster illustration with a limited palette of red, black, and warm cream on a lightly aged paper texture. The composition features a dynamic anime-inspired action scene in the center: a martial artist in a white gi with a black belt carries a long-haired woman over one shoulder in a fireman's carry or wrestling throw pose. The fighter is shown from the knees up in a powerful wide stance, facing left, with the woman draped horizontally across the shoulders, her bare legs lifted and bent, her long dark hair flowing downward, and a black wide-brim cowboy hat still on her head. Render both figures in high-contrast inked line art with thick black shadows and sharp graphic contours, mixing manga character design with vintage screen-printed poster energy. Behind them, fill the background with aggressive geometric rays and wedges: 6 major red and black angular shapes radiating outward across the cream backdrop, creating a sense of impact and motion. In the top right corner, add 1 circular emblem containing a fierce gorilla or ape head icon with red accents. Across the lower third, place large bold condensed block typography integrated into the composition: the smaller line reads “SCOTTISH RECIPE:” and the huge main title reads “MINCE AND TATTIES”. Make the text red on cream and cream on black in layered diagonal banner panels, with the words occupying 3 text groupings total: “SCOTTISH RECIPE:”, “MINCE AND”, and “TATTIES”. Emphasize dramatic diagonal layout, posterized shadows, distressed print texture, and the feeling of a vintage Soviet constructivist or pulp exploitation food poster fused with martial arts manga aesthetics.",
+  "translatedPrompt": "一张醒目的复古宣传风格海报插画，采用红、黑与暖奶油色的有限配色方案，呈现于轻微老化的纸张纹理之上。构图中心为一个充满动感的动漫风格动作场景：一名身穿白色道服、系着黑带的武术家以消防员背负式或摔跤投掷姿势扛着一名长发女子。格斗者从膝盖以上入画，呈强有力的宽站姿，面向左侧；女子横卧在其肩上，双腿弯曲抬起，黑色长发向下垂落，头上仍戴着一顶黑色宽檐牛仔帽。两位人物均采用高对比度的墨线勾勒，带有厚重的黑色阴影和锐利的图形轮廓，将漫画角色设计与复古丝网印刷海报的张力融为一体。背景处填充着强烈的几何射线与楔形图案：6 个主要的红黑角形形状从奶油色背景向外辐射，营造出强烈的冲击感与动感。在右上角添加 1 个圆形徽章，内含一个带有红色点缀的凶猛大猩猩或猿猴头像图标。在下三分之一处，放置与构图融为一体的大号粗体压缩排版：较小的一行文字为“SCOTTISH RECIPE:”，巨大的主标题为“MINCE AND TATTIES”。文字采用奶油色底上的红色字与黑色底上的奶油色字，分布在分层的对角横幅面板中，共分为 3 组文本：“SCOTTISH RECIPE:”、“MINCE AND”以及“TATTIES”。强调戏剧性的对角线布局、海报化阴影、做旧印刷纹理，以及融合了苏联构成主义或低俗剥削电影美食海报与武术漫画美学的独特质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古风“肉末土豆泥”动作海报：此提示词可生成一张融合了漫画动作艺术与醒目排版的复古宣传风格海报，非常适合用于恶搞美食海报或平面印刷设计。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "layered",
+        "horizontal"
+      ],
+      "style": [
+        "anime",
+        "manga",
+        "vintage",
+        "retro"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, horizontal]。\n\nVisual style:\n[参考风格: anime, manga, vintage, retro]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15750",
+      "14468",
+      "15699",
+      "15007",
+      "14250",
+      "13807"
+    ]
+  }
+}

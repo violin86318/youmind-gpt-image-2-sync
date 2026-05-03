@@ -1,0 +1,50 @@
+{
+  "id": "15313",
+  "prompt": "A side-by-side comparison image presented as two stacked documentary-style photographs of the same cramped old Chinese apartment corridor, framed by a black filmstrip border with white sprocket holes on both left and right edges. The top half is labeled {argument name=\"top label\" default=\"GPT-image-2\"} in large bold white sans-serif text centered near the top, and the bottom half is labeled {argument name=\"bottom label\" default=\"Nano Banana 2\"} in the same style. Create a gritty, nostalgic, cinematic scene in a long, narrow shared hallway of a worn residential building from the late 20th century, with peeling paint, stained walls, faded propaganda posters and old newspapers on the walls, dark wooden doorways, hanging towels and laundry, a damp concrete floor, and daylight coming from a window at the far end. In the upper scene, show exactly 4 people: 1 adult standing at the left cooking over a small stove on a wooden table with visible steam, 1 adult man sitting deeper in the corridor beside an electric fan, 1 child crouching in the center playing near a basin on the wet floor, and 1 adult woman seated at a small table on the right writing or reading; include enamel mugs, metal pots, stools, buckets, thermos containers, and cluttered household items. In the lower scene, show exactly 4 people again: 1 adult woman at the left cooking at a stove with smoke rising, 1 adult man seated on the right in a bamboo chair leaning over a tabletop fan, 1 child crouching in front writing on paper on a low stool, and 1 distant adult figure near the back window; add more visible corridor clutter including a bicycle front wheel at lower left, wash basins, baskets, thermoses, shelves, shoes, and hanging clothes. Keep the camera straight-on and centered to emphasize the corridor depth, with realistic human proportions, candid slice-of-life behavior, muted aged colors, soft natural light, high detail, photojournalistic realism, and a subtle difference in arrangement between the top and bottom scenes while preserving the same overall environment and mood.",
+  "translatedPrompt": "一张并排对比图，呈现为两张堆叠的纪实风格照片，展示同一个狭窄的老式中国公寓走廊，两侧带有带白色齿孔的黑色胶片边框。上半部分在顶部中央标有大号加粗白色无衬线文本 {argument name=\"top label\" default=\"GPT-image-2\"}，下半部分以相同样式标有 {argument name=\"bottom label\" default=\"Nano Banana 2\"}。创建一个粗粝、怀旧且具有电影感的场景，表现 20 世纪末破旧住宅楼内狭长的公共走廊，墙面剥落、污渍斑斑，贴有褪色的宣传海报和旧报纸，配有深色木门、悬挂的毛巾和衣物、潮湿的水泥地面，远处的窗户透进自然光。在上半部分场景中，准确展示 4 个人物：1 名成年人站在左侧，在木桌上的小炉子旁做饭，蒸汽清晰可见；1 名成年男性坐在走廊深处，旁边放着电风扇；1 名儿童蹲在中央，在潮湿的地面上玩耍；1 名成年女性坐在右侧的小桌旁写字或阅读；包含搪瓷杯、金属锅、凳子、水桶、暖水瓶和杂乱的家居用品。在下半部分场景中，再次准确展示 4 个人物：1 名成年女性在左侧炉灶旁做饭，烟雾升起；1 名成年男性坐在右侧的竹椅上，身体前倾靠近台式风扇；1 名儿童蹲在前面，在矮凳上的纸上写字；1 名成年人影出现在后方窗户附近；增加更多可见的走廊杂物，包括左下角的自行车前轮、洗脸盆、篮子、暖水瓶、架子、鞋子和悬挂的衣物。保持相机正对且居中，以强调走廊的深度，人物比例写实，展现真实的生活片段，色调柔和陈旧，自然光柔和，细节丰富，具有新闻摄影的真实感，并在保持整体环境和氛围一致的同时，使上下场景的布局呈现细微差异。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Stacked Corridor 模型对比：此提示词可生成一张双联胶片风格的对比图，展示两个写实的老式公寓走廊场景渲染，适用于视觉模型对比文章。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "natural light",
+        "camera"
+      ],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic, cinematic, documentary]。\n\nLighting and camera:\n[参考光线镜头: natural light, camera]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15602",
+      "14614",
+      "14667",
+      "14819",
+      "15705",
+      "15780"
+    ]
+  }
+}

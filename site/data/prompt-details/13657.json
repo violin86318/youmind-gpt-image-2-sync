@@ -1,0 +1,38 @@
+{
+  "id": "13657",
+  "prompt": "{\n  \"type\": \"wikiHow article mockup\",\n  \"header\": {\n    \"background\": \"green\",\n    \"elements\": [\n      \"hamburger menu icon\",\n      \"wikiHow logo\",\n      \"search bar with 'Search how to...' text\",\n      \"5 navigation icons: PRO/PPRO, QUIZZES, EDIT, EXPLORE, LOG IN\"\n    ]\n  },\n  \"breadcrumbs\": \"HOME » CATEGORIES » COMPUTERS AND ELECTRONICS » INTERNET » CHATGPT\",\n  \"article_info\": {\n    \"title\": \"{argument name=\\\"article title\\\" default=\\\"How To Use GPT-Image 2\\\"}\",\n    \"metadata\": \"Written by wikiHow Staff | Updated: June 10, 2024\",\n    \"sidebar\": [\n      \"PDF Download Article button\",\n      \"METHODS box: 1 Using GPT-Image 2 on Arena.ai\"\n    ]\n  },\n  \"intro_box\": \"GPT-Image 2 is OpenAI's most advanced AI image generator. It creates high-quailly, detailed, and accurate images from your text prompts. This wikiHow will show you how to try GPT-Image 2 for free on arena.ai.\",\n  \"steps\": [\n    {\n      \"number\": 1,\n      \"title\": \"{argument name=\\\"step 1 title\\\" default=\\\"Go to arena.ai.\\\"}\",\n      \"description\": \"Open your web browser and navigate to https://arena.ai. Arena is a platform where you can compare and try thousands of AI models, including OpenAI's latest image generator.\",\n      \"embedded_image\": {\n        \"type\": \"dark mode website UI mockup\",\n        \"logo\": \"arena\",\n        \"navigation\": [\"Battle\", \"Side-by-Side\", \"Direct Chat\", \"Leaderboard\", \"Community\", \"Sign In\", \"Sign Up button\"],\n        \"hero_text\": \"The world's largest arena for AI models\",\n        \"input_ui\": {\n          \"model_dropdown\": \"Model: {argument name=\\\"model name\\\" default=\\\"duct-tape-3\\\"}\",\n          \"settings\": \"Default\",\n          \"text_input\": \"Enter your prompt here...\",\n          \"button\": \"Run\"\n        }\n      }\n    },\n    {\n      \"number\": 2,\n      \"title\": \"{argument name=\\\"step 2 title\\\" default=\\\"Select the model 'duct-tape-3.'\\\"}\",\n      \"description\": \"Click the Model dropdown menu and choose 'duct-tape-3.' Duct-tape-3 is the name Arena uses for GPT-Image 2, OpenAI's most capable image generation model.\"\n    },\n    {\n      \"number\": 3,\n      \"title\": \"{argument name=\\\"step 3 title\\\" default=\\\"Prompt it.\\\"}\",\n      \"description\": \"Type your prompt in the box and click Run. GPT-Image 2 will generate an image based on your description.\",\n      \"tip_box\": \"TIP GPT-Image 2 is the best AI image generator because it produces incredibly detailed, accurate, and high-quality images, handles text well, follows complex instructions, and has a deep understanding of the world.\"\n    }\n  ]\n}",
+  "translatedPrompt": "{\n  \"type\": \"wikiHow 文章模拟\",\n  \"header\": {\n    \"background\": \"绿色\",\n    \"elements\": [\n      \"汉堡菜单图标\",\n      \"wikiHow 标志\",\n      \"带有“搜索方法...”文本的搜索栏\",\n      \"5 个导航图标：PRO/PPRO、测验、编辑、探索、登录\"\n    ]\n  },\n  \"breadcrumbs\": \"首页 » 分类 » 计算机与电子产品 » 互联网 » CHATGPT\",\n  \"article_info\": {\n    \"title\": \"{argument name=\\\"article title\\\" default=\\\"如何使用 GPT-Image 2\\\"}\",\n    \"metadata\": \"由 wikiHow 员工撰写 | 更新时间：2024 年 6 月 10 日\",\n    \"sidebar\": [\n      \"PDF 下载文章按钮\",\n      \"方法框：1 在 Arena.ai 上使用 GPT-Image 2\"\n    ]\n  },\n  \"intro_box\": \"GPT-Image 2 是 OpenAI 最先进的 AI 图像生成器。它能根据你的文本提示创建高质量、细节丰富且准确的图像。本 wikiHow 将向你展示如何在 arena.ai 上免费试用 GPT-Image 2。\",\n  \"steps\": [\n    {\n      \"number\": 1,\n      \"title\": \"{argument name=\\\"step 1 title\\\" default=\\\"前往 arena.ai。\\\"}\",\n      \"description\": \"打开你的网页浏览器并访问 https://arena.ai。Arena 是一个你可以比较和试用数千种 AI 模型的平台，其中包括 OpenAI 最新的图像生成器。\",\n      \"embedded_image\": {\n        \"type\": \"深色模式网站 UI 模拟\",\n        \"logo\": \"arena\",\n        \"navigation\": [\"对战\", \"并排对比\", \"直接对话\", \"排行榜\", \"社区\", \"登录\", \"注册按钮\"],\n        \"hero_text\": \"全球最大的 AI 模型竞技场\",\n        \"input_ui\": {\n          \"model_dropdown\": \"模型：{argument name=\\\"model name\\\" default=\\\"duct-tape-3\\\"}\",\n          \"settings\": \"默认\",\n          \"text_input\": \"在此输入你的提示词...\",\n          \"button\": \"运行\"\n        }\n      }\n    },\n    {\n      \"number\": 2,\n      \"title\": \"{argument name=\\\"step 2 title\\\" default=\\\"选择模型 'duct-tape-3'。\\\"}\",\n      \"description\": \"点击模型下拉菜单并选择“duct-tape-3”。Duct-tape-3 是 Arena 为 OpenAI 最强大的图像生成模型 GPT-Image 2 所使用的名称。\"\n    },\n    {\n      \"number\": 3,\n      \"title\": \"{argument name=\\\"step 3 title\\\" default=\\\"输入提示词。\\\"}\",\n      \"description\": \"在框中输入你的提示词并点击“运行”。GPT-Image 2 将根据你的描述生成图像。\",\n      \"tip_box\": \"提示：GPT-Image 2 是目前最好的 AI 图像生成器，因为它能生成极其详细、准确且高质量的图像，擅长处理文本，能够遵循复杂的指令，并对世界有深刻的理解。\"\n    }\n  ]\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "wikiHow 文章模拟：生成一个模仿 wikiHow 布局的详细、文字密集型教程网页，包含教学步骤和嵌入式 UI 模拟图。",
+      "subject": "文字符号",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13897",
+      "13683",
+      "13761",
+      "15397",
+      "13504",
+      "14244"
+    ]
+  }
+}

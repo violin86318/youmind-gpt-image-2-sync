@@ -1,0 +1,47 @@
+{
+  "id": "15362",
+  "prompt": "Create a high-converting Japanese e-commerce product advertisement square image for a pair of ultra-cushioned insoles, styled like a Rakuten marketplace hero banner. Bright sky-blue gradient background with soft white clouds, clean glossy commercial design, energetic and premium. Large central Japanese headline in bold white calligraphic serif text with blue glow: \"雲インソール\". Above it, a rounded white capsule banner with blue text: \"履いた瞬間ふわっ！\". Below the main headline, smaller white handwritten-style Japanese subheading: \"まるで雲の上を歩くような心地よさ\". Show 4 insole product views total: 1 large white foam sole held vertically in a realistic human hand at lower left foreground, featuring a pebble-like bubble texture with small ventilation holes; 1 gray fabric-covered insole standing upright in the center; 2 stacked angled white insoles at lower right, emphasizing thick soft cushioning and textured underside. Add a large gold award badge at top left with crown and laurel, containing the Japanese text \"第1位\" and a red ribbon reading \"楽天ランキング\". Add a vertical gold ribbon badge at top right with the Japanese text \"累計販売数 10万足 突破!\". On the left side, place 4 vertically stacked rounded white icon boxes under a small blue handwritten caption \"こんなお悩みに!\", with simple blue line icons and labels: 1 \"足の疲れ\", 2 \"衝撃吸収\", 3 \"長時間の立ち仕事\", 4 \"ウォーキング スポーツに\". On the right side, place 2 rounded white feature boxes with blue outlines and blue-gray icon illustrations: top box text \"衝撃吸収 疲れにくい\" with a walking person icon; bottom box text \"通気性◎ ムレにくい\" with airflow lines icon. At the bottom right, add a large white cloud-shaped callout with bold blue Japanese text \"極上の クッション感\" and a tiny blue cloud icon. At the bottom center, place a small blue rounded label \"選べるサイズ\" with large blue size text underneath: \"23.0cm〜29.0cm\". Use crisp product-photography lighting, soft shadows, glossy highlights, vivid contrast, and a polished online shopping ad composition optimized for instant conversion.",
+  "translatedPrompt": "制作一张高转化率的日式电商鞋垫方形广告图，风格参考 Rakuten 乐天市场的首页横幅。背景采用明亮的天蓝色渐变，点缀柔和的白云，设计风格简洁、高级且充满活力。中央为醒目的白色粗体书法衬线字大标题，带有蓝色光晕：“雲インソール”。上方配有一个蓝色文字的白色圆角胶囊标签：“履いた瞬間ふわっ！”。主标题下方为较小的白色手写风格副标题：“まるで雲の上を歩くような心地よさ”。展示共 4 个鞋垫产品视图：左下角前景处由真人手持一只竖立的白色泡沫鞋垫，展示其鹅卵石般的泡棉纹理及细小透气孔；中央立着一只灰色织物面鞋垫；右下角堆叠放置两只倾斜的白色鞋垫，强调其厚实的缓冲感与底部纹理。左上角添加一个带有皇冠和月桂叶的大型金色奖章，内含日文“第1位”，并配有写着“楽天ランキング”的红色丝带。右上角添加一个垂直的金色丝带徽章，写有日文“累計販売数 10万足 突破!”。左侧放置 4 个垂直堆叠的白色圆角图标框，上方配有蓝色手写小标题“こんなお悩みに!”，内含简单的蓝色线条图标及标签：1“足の疲れ”、2“衝撃吸収”、3“長時間の立ち仕事”、4“ウォーキング スポーツに”。右侧放置 2 个带有蓝色边框的白色功能框，配有蓝灰色图标：上方框文字为“衝撃吸収 疲れにくい”（配步行者图标），下方框文字为“通気性◎ ムレにくい”（配气流线条图标）。右下角添加一个大型白色云朵状标注，内含醒目的蓝色日文“極上の クッション感”及一个小巧的蓝色云朵图标。底部中央放置一个蓝色小圆角标签“選べるサイズ”，下方标注大号蓝色尺码文字：“23.0cm〜29.0cm”。采用清晰的产品摄影布光，呈现柔和阴影、光泽高光与生动的对比度，打造专为即时转化而优化的精美电商广告构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日式云感鞋垫广告横幅：一张精致的日式电商鞋垫主图，适用于电商平台列表、产品广告及注重转化率的在线店铺。",
+      "subject": "人物",
+      "scene": "产品/电商",
+      "composition": [
+        "callout",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: callout, vertical]。\n\nVisual style:\n[参考风格: realistic, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15316",
+      "14889",
+      "15616",
+      "15002",
+      "15161",
+      "15402"
+    ]
+  }
+}

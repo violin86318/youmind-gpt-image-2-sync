@@ -1,0 +1,47 @@
+{
+  "id": "14410",
+  "prompt": "{\"type\":\"technical aircraft cutaway infographic poster\",\"subject\":{\"title\":\"{argument name=\\\"headline text\\\" default=\\\"EXTREME TECTONICS: ANATOMICAL AIRCRAFT ARCHIVE\\\"}\",\"aircraft\":\"wide-body commercial passenger jet in side cutaway view, nose facing left, tail to the right, landing gear deployed, one large underwing engine visible, internal cabin and systems exposed\",\"style\":\"ultra-detailed aerospace engineering blueprint mixed with architectural archive plate, precise cross-section drawing, dense annotation lines, clean readable microtext, muted ink-and-wash rendering, off-white aged paper texture, blue-gray graphite linework, subtle tan and steel accents\"},\"layout\":{\"format\":\"single large landscape poster\",\"background\":\"full-page engineering schematic with layered orthographic outlines, measurement marks, callout leaders, technical notes, and faint drafting grids\",\"centerpiece\":\"one enormous airplane cross-section spanning nearly the full width of the page, showing cockpit, passenger seating rows, service compartments, internal ducts, cargo spaces, structural frame, and tail systems\",\"sections\":[{\"title\":\"FLIGHT DECK\",\"position\":\"top left\",\"count\":1,\"labels\":[\"1\"],\"description\":\"cockpit interior inset with pilots' seats, instrument panels, windows, and surrounding avionics\"},{\"title\":\"GALLEY & CARTS\",\"position\":\"upper left below flight deck\",\"count\":1,\"labels\":[\"2\"],\"description\":\"service galley inset with storage racks, ovens, trolleys, cabinets, and narrow aisle\"},{\"title\":\"LAVATORY MODULE\",\"position\":\"left middle below galley\",\"count\":1,\"labels\":[\"3\"],\"description\":\"small restroom inset with toilet, sink, wall panels, and door\"},{\"title\":\"ENVIRONMENTAL CONTROL\",\"position\":\"top right\",\"count\":1,\"labels\":[\"6\"],\"description\":\"mechanical systems inset with ducts, pipes, turbines, and cylindrical equipment\"},{\"title\":\"FUEL SYSTEM\",\"position\":\"right middle\",\"count\":1,\"labels\":[\"8\"],\"description\":\"compact machinery inset showing tanks, pumps, and pipework\"},{\"title\":\"AVIONICS\",\"position\":\"bottom left\",\"count\":1,\"labels\":[\"4\"],\"description\":\"electronics bay inset with wiring, cabinets, equipment racks, and landing gear nearby\"},{\"title\":\"LANDING GEAR BAY\",\"position\":\"lower left-center\",\"count\":1,\"labels\":[\"5\"],\"description\":\"gear compartment inset focused on wheel assemblies, struts, and surrounding structure\"},{\"title\":\"LAVATORY CORE\",\"position\":\"bottom center\",\"count\":2,\"labels\":[\"LAVATORY CORE\",\"LAVATORY CORE\"],\"description\":\"2 separate service-core insets with exposed cylindrical tanks, ducting, and interior support systems; the right inset carries label number 7\"},{\"title\":\"AFT SERVICE ZONE\",\"position\":\"bottom right\",\"count\":1,\"labels\":[\"8\"],\"description\":\"rear technical compartment inset with large blue cylindrical unit, pipes, service access, and structural framing\"}],\"additional_labels\":[{\"text\":\"CARGO HOLD\",\"position\":\"lower center-left\"},{\"text\":\"STRUCTURAL FRAME\",\"position\":\"lower center\"}],\"legend\":{\"position\":\"bottom center\",\"count\":9,\"labels\":[\"FLIGHT DECK\",\"PASSENGER CABIN\",\"GALLEY\",\"AVIONICS\",\"CARGO HOLD\",\"STRUCTURAL FRAME\",\"LAVATORY CORE\",\"ENVIRONMENTAL CONTROL\",\"FUEL SYSTEM\"]}},\"composition\":{\"camera\":\"orthographic side elevation\",\"poster_margins\":\"thin border around the entire sheet\",\"text_density\":\"very high, with many tiny notes, arrows, and part labels distributed across the page\",\"lighting\":\"flat archival illustration lighting, not photographic, optimized for legibility\",\"finish\":\"crisp 4K infographic print quality, no gibberish text, authentic typography, meticulous line precision\"}}",
+  "translatedPrompt": "{\"type\":\"技术飞机剖面信息图海报\",\"subject\":{\"title\":\"{argument name=\\\"headline text\\\" default=\\\"极限结构：飞机解剖档案\\\"}\",\"aircraft\":\"宽体商用客机侧面剖视图，机头朝左，机尾朝右，起落架放下，可见一个大型翼下发动机，内部客舱和系统完全暴露\",\"style\":\"超精细航空工程蓝图与建筑档案图板结合，精确的横截面绘图，密集的标注线，清晰易读的微型文字，柔和的水墨渲染，米白色陈旧纸张纹理，蓝灰色石墨线条，微妙的棕褐色和钢色点缀\"},\"layout\":{\"format\":\"单张大型横向海报\",\"background\":\"全页工程示意图，带有分层正投影轮廓、测量标记、引出线、技术说明和淡淡的绘图网格\",\"centerpiece\":\"一架巨大的飞机横截面，横跨页面几乎全宽，展示了驾驶舱、乘客座椅排、服务舱、内部管道、货舱、结构框架和尾部系统\",\"sections\":[{\"title\":\"驾驶舱\",\"position\":\"左上\",\"count\":1,\"labels\":[\"1\"],\"description\":\"驾驶舱内部插图，包括飞行员座椅、仪表盘、窗户和周围的航空电子设备\"},{\"title\":\"厨房与餐车\",\"position\":\"左上驾驶舱下方\",\"count\":1,\"labels\":[\"2\"],\"description\":\"服务厨房插图，包括储物架、烤箱、餐车、橱柜和狭窄的过道\"},{\"title\":\"卫生间模块\",\"position\":\"左中厨房下方\",\"count\":1,\"labels\":[\"3\"],\"description\":\"小型洗手间插图，包括马桶、洗手池、墙板和门\"},{\"title\":\"环境控制系统\",\"position\":\"右上\",\"count\":1,\"labels\":[\"6\"],\"description\":\"机械系统插图，包括管道、涡轮机和圆柱形设备\"},{\"title\":\"燃油系统\",\"position\":\"右中\",\"count\":1,\"labels\":[\"8\"],\"description\":\"紧凑型机械插图，展示了油箱、泵和管道系统\"},{\"title\":\"航空电子设备\",\"position\":\"左下\",\"count\":1,\"labels\":[\"4\"],\"description\":\"电子设备舱插图，包括布线、机柜、设备架以及附近的起落架\"},{\"title\":\"起落架舱\",\"position\":\"左下偏中\",\"count\":1,\"labels\":[\"5\"],\"description\":\"起落架舱插图，重点展示轮组、支柱和周围结构\"},{\"title\":\"卫生间核心区\",\"position\":\"底部中央\",\"count\":2,\"labels\":[\"LAVATORY CORE\",\"LAVATORY CORE\"],\"description\":\"2 个独立的服务核心插图，展示了暴露的圆柱形水箱、管道和内部支撑系统；右侧插图带有标签编号 7\"},{\"title\":\"后部服务区\",\"position\":\"右下\",\"count\":1,\"labels\":[\"8\"],\"description\":\"后部技术舱插图，带有大型蓝色圆柱形单元、管道、服务入口和结构框架\"}],\"additional_labels\":[{\"text\":\"货舱\",\"position\":\"下中偏左\"},{\"text\":\"结构框架\",\"position\":\"下中\"}],\"legend\":{\"position\":\"底部中央\",\"count\":9,\"labels\":[\"驾驶舱\",\"客舱\",\"厨房\",\"航空电子设备\",\"货舱\",\"结构框架\",\"卫生间核心区\",\"环境控制系统\",\"燃油系统\"]}},\"composition\":{\"camera\":\"正投影侧视图\",\"poster_margins\":\"整张纸周围有细边框\",\"text_density\":\"非常高，页面上分布着许多微小的注释、箭头和零件标签\",\"lighting\":\"平面的档案插图照明，非摄影风格，针对可读性进行了优化\",\"finish\":\"清晰的 4K 信息图打印质量，无乱码文字，正宗的排版，严谨的线条精度\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "飞机剖面图档案海报：一张高度精细的工程风格海报，展示了商用喷气式飞机的横截面，包含九个标注的系统类别和多个技术插图面板，非常适合生成高质量的信息图表艺术。",
+      "subject": "空间",
+      "scene": "海报/封面",
+      "composition": [
+        "grid",
+        "cutaway",
+        "callout",
+        "layered"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, cutaway, callout, layered]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14863",
+      "15009",
+      "14643",
+      "14995",
+      "15653",
+      "14411"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "14566",
+  "prompt": "A realistic 16:9 close-up photograph of a sheet of slightly textured white paper resting diagonally on a medium-brown wooden table, viewed from a shallow overhead angle. On the paper, a short French poem is handwritten neatly in elegant cursive with vivid {argument name=\"ink color\" default=\"blue\"} ink. The title at the top center reads {argument name=\"poem title\" default=\"Pigeon\"}. Beneath it are exactly 4 lines of handwriting, centered and evenly spaced: {argument name=\"poem line 1\" default=\"Oiseau à la grise robe,\"}, {argument name=\"poem line 2\" default=\"Dans l'enfer des villes\"}, \"À mon regard tu te dérobes\", and \"Tu es vraiment le plus agile.\" Keep the handwriting graceful, legible, and natural, like careful fountain-pen calligraphy by hand rather than typography. Soft warm indoor lighting, subtle shadows along the paper edges, visible paper grain, and a simple uncluttered composition focused entirely on the handwritten poem.",
+  "translatedPrompt": "一张 16:9 的逼真特写照片，展示了一张略带纹理的白纸斜放在中棕色的木桌上，以浅俯角拍摄。纸上用优雅的草书整齐地手写着一首简短的法语诗，使用的是鲜艳的 {argument name=\"ink color\" default=\"蓝色\"} 墨水。顶部的标题居中写着 {argument name=\"poem title\" default=\"鸽子\"}。下方是 4 行手写文字，居中且间距均匀：{argument name=\"poem line 1\" default=\"Oiseau à la grise robe,\"}，{argument name=\"poem line 2\" default=\"Dans l'enfer des villes\"}，“À mon regard tu te dérobes” 以及 “Tu es vraiment le plus agile。” 手写字体需保持优雅、清晰且自然，呈现出如同钢笔手写般的质感，而非印刷字体。柔和的室内暖光，纸张边缘带有细微阴影，纸张纹理清晰可见，构图简洁明快，完全聚焦于手写的诗歌。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "纸上的手写法语诗歌：此提示词可生成一张逼真的特写照片，展示了白纸上用蓝色墨水书写的法语诗歌，适用于文学或怀旧文具风格的图像。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [
+        "centered",
+        "close-up"
+      ],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；要求可读；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, close-up]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；要求可读；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14815",
+      "15767",
+      "14966",
+      "15521",
+      "14262",
+      "15321"
+    ]
+  }
+}

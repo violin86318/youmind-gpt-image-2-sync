@@ -1,0 +1,45 @@
+{
+  "id": "13905",
+  "prompt": "{\n  \"type\": \"mobile app UI mockup\",\n  \"theme\": \"futuristic AI assistant, 3D glassmorphism, light blue and white color palette\",\n  \"header\": {\n    \"user_profile\": {\n      \"avatar\": \"small 3D robot head\",\n      \"name\": \"{argument name=\\\"app name\\\" default=\\\"小智机器人\\\"}\",\n      \"level_badge\": \"LV.8 星耀\",\n      \"experience\": \"经验值 680/1000\"\n    },\n    \"top_right_icons\": {\n      \"count\": 2,\n      \"labels\": [\"签到\", \"设置\"]\n    }\n  },\n  \"hero_display\": {\n    \"subject\": \"cute 3D robot with glass helmet and glowing blue eyes\",\n    \"pose\": \"standing on a glowing futuristic circular podium\",\n    \"speech_bubble\": \"{argument name=\\\"robot greeting\\\" default=\\\"Hi~ 今天也要加油哦！\\\"}\",\n    \"background\": \"abstract light blue tech environment with floating transparent bubbles\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"每日签到\",\n        \"subtitle\": \"连续签到 3 天\",\n        \"type\": \"horizontal scroll cards\",\n        \"count\": 5,\n        \"items\": [\n          {\"state\": \"active blue card\", \"reward\": \"+10 gold coin\", \"label\": \"可签到\"},\n          {\"state\": \"inactive white card\", \"reward\": \"+15 gold coin\", \"label\": \"2天\"},\n          {\"state\": \"inactive white card\", \"reward\": \"+20 gold coin\", \"label\": \"3天\"},\n          {\"state\": \"inactive white card\", \"reward\": \"+30 gold coin\", \"label\": \"4天\"},\n          {\"state\": \"inactive white card\", \"reward\": \"+50 purple diamond\", \"label\": \"7天\"}\n        ]\n      },\n      {\n        \"title\": \"成长任务\",\n        \"type\": \"vertical list\",\n        \"count\": 4,\n        \"items\": [\n          {\"icon\": \"blue book\", \"text\": \"{argument name=\\\"task 1 title\\\" default=\\\"完成 1 次智能问答\\\"}\", \"progress\": \"1/1\", \"reward\": \"+15\", \"button\": \"领取\"},\n          {\"icon\": \"green rocket\", \"text\": \"{argument name=\\\"task 2 title\\\" default=\\\"探索 3 个新功能\\\"}\", \"progress\": \"2/3\", \"reward\": \"+20\", \"button\": \"去完成\"},\n          {\"icon\": \"purple chat bubble\", \"text\": \"分享给 1 位好友\", \"progress\": \"0/1\", \"reward\": \"+30\", \"button\": \"去完成\"},\n          {\"style\": \"blue gradient banner\", \"icon\": \"3D diamond\", \"text\": \"{argument name=\\\"upgrade banner text\\\" default=\\\"升级到 LV.9 可解锁新皮肤\\\"}\", \"progress\": \"680/1000\", \"button\": \"去升级\"}\n        ]\n      }\n    ],\n    \"bottom_navigation\": {\n      \"count\": 5,\n      \"items\": [\n        {\"icon\": \"blue home\", \"label\": \"首页\"},\n        {\"icon\": \"grey compass\", \"label\": \"发现\"},\n        {\"icon\": \"large protruding 3D robot head\", \"label\": \"\"},\n        {\"icon\": \"grey chat bubble with red dot\", \"label\": \"消息\"},\n        {\"icon\": \"grey user profile\", \"label\": \"我的\"}\n      ]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"移动端 App UI 设计稿\",\n  \"theme\": \"未来感 AI 助手，3D 玻璃拟态风格，浅蓝色与白色配色方案\",\n  \"header\": {\n    \"user_profile\": {\n      \"avatar\": \"小型 3D 机器人头像\",\n      \"name\": \"{argument name=\\\"app name\\\" default=\\\"小智机器人\\\"}\",\n      \"level_badge\": \"LV.8 星耀\",\n      \"experience\": \"经验值 680/1000\"\n    },\n    \"top_right_icons\": {\n      \"count\": 2,\n      \"labels\": [\"签到\", \"设置\"]\n    }\n  },\n  \"hero_display\": {\n    \"subject\": \"带有玻璃头盔和蓝色发光眼睛的可爱 3D 机器人\",\n    \"pose\": \"站在发光的未来感圆形底座上\",\n    \"speech_bubble\": \"{argument name=\\\"robot greeting\\\" default=\\\"Hi~ 今天也要加油哦！\\\"}\",\n    \"background\": \"带有悬浮透明气泡的抽象浅蓝色科技感环境\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"每日签到\",\n        \"subtitle\": \"连续签到 3 天\",\n        \"type\": \"横向滚动卡片\",\n        \"count\": 5,\n        \"items\": [\n          {\"state\": \"激活状态蓝色卡片\", \"reward\": \"+10 金币\", \"label\": \"可签到\"},\n          {\"state\": \"未激活白色卡片\", \"reward\": \"+15 金币\", \"label\": \"2 天\"},\n          {\"state\": \"未激活白色卡片\", \"reward\": \"+20 金币\", \"label\": \"3 天\"},\n          {\"state\": \"未激活白色卡片\", \"reward\": \"+30 金币\", \"label\": \"4 天\"},\n          {\"state\": \"未激活白色卡片\", \"reward\": \"+50 紫色钻石\", \"label\": \"7 天\"}\n        ]\n      },\n      {\n        \"title\": \"成长任务\",\n        \"type\": \"纵向列表\",\n        \"count\": 4,\n        \"items\": [\n          {\"icon\": \"蓝色书本\", \"text\": \"{argument name=\\\"task 1 title\\\" default=\\\"完成 1 次智能问答\\\"}\", \"progress\": \"1/1\", \"reward\": \"+15\", \"button\": \"领取\"},\n          {\"icon\": \"绿色火箭\", \"text\": \"{argument name=\\\"task 2 title\\\" default=\\\"探索 3 个新功能\\\"}\", \"progress\": \"2/3\", \"reward\": \"+20\", \"button\": \"去完成\"},\n          {\"icon\": \"紫色聊天气泡\", \"text\": \"分享给 1 位好友\", \"progress\": \"0/1\", \"reward\": \"+30\", \"button\": \"去完成\"},\n          {\"style\": \"蓝色渐变横幅\", \"icon\": \"3D 钻石\", \"text\": \"{argument name=\\\"upgrade banner text\\\" default=\\\"升级到 LV.9 可解锁新皮肤\\\"}\", \"progress\": \"680/1000\", \"button\": \"去升级\"}\n        ]\n      }\n    ],\n    \"bottom_navigation\": {\n      \"count\": 5,\n      \"items\": [\n        {\"icon\": \"蓝色首页\", \"label\": \"首页\"},\n        {\"icon\": \"灰色指南针\", \"label\": \"发现\"},\n        {\"icon\": \"大型凸起 3D 机器人头像\", \"label\": \"\"},\n        {\"icon\": \"带有红点的灰色聊天气泡\", \"label\": \"消息\"},\n        {\"icon\": \"灰色个人资料\", \"label\": \"我的\"}\n      ]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "AI 助手 App UI 设计稿：生成一款现代感十足的 3D 玻璃拟态风格 AI 助手移动端 App 界面，包含 3D 角色主视觉区、每日奖励及任务列表。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "3d"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical, horizontal]。\n\nVisual style:\n[参考风格: 3d]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15795",
+      "14623",
+      "14984",
+      "14008",
+      "14435",
+      "14457"
+    ]
+  }
+}

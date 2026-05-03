@@ -1,0 +1,47 @@
+{
+  "id": "15074",
+  "prompt": "A bright daytime futuristic city street viewed from pedestrian level, looking upward through a canyon of tall sleek skyscrapers with blue-tinted glass facades, rounded balconies, layered terraces, and elegant sci-fi architecture. The scene shows a bustling urban promenade with about 12 visible pedestrians in the foreground and midground, casually dressed and walking away from the viewer, including one central figure in a gray jacket. At the upper left, include 1 small hovering flying vehicle or drone-like air taxi. The buildings are highly reflective and polished, with integrated greenery: trees along the walkway and planted terrace edges. The sky is clear blue with soft sunlight, giving the image a clean optimistic utopian mood. Across the entire image, add a conspicuous artifact layer of dense multicolored sparkling dots and specks, like a noisy pixel grid or glittering digital contamination scattered uniformly over the architecture, people, sky, and street. Use a painterly semi-realistic style with soft focus, luminous highlights, vertical composition, and cinematic depth.",
+  "translatedPrompt": "从行人视角仰望明亮的日间未来城市街道，视线穿过由高耸光滑的摩天大楼组成的峡谷，建筑拥有蓝调玻璃幕墙、圆形阳台、层叠露台以及优雅的科幻建筑风格。场景展示了一条熙熙攘攘的城市步行街，前景和中景可见约 12 名行人，他们衣着休闲并背对观众行走，其中包括一名身穿灰色夹克的中心人物。在左上方，加入 1 架小型悬浮飞行载具或类似无人机的空中出租车。建筑具有极高的反射感和光泽度，并融入了绿植：步道旁种植着树木，露台边缘也点缀着植被。天空湛蓝，阳光柔和，赋予画面一种纯净、乐观的乌托邦氛围。在整张图像上，添加一层显眼的伪影，即密集的彩色闪烁点和斑点，如同均匀散布在建筑、人物、天空和街道上的噪点像素网格或闪烁的数字污染。采用具有柔焦、明亮高光、垂直构图和电影般景深的半写实绘画风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "带有闪烁伪影的未来城市：生成一个垂直的乌托邦式科幻城市街道场景，包含行人、玻璃塔楼、飞行载具，以及一层厚重的多色图像噪点伪影，用于演示视觉质量问题。",
+      "subject": "空间",
+      "scene": "海报/封面",
+      "composition": [
+        "grid",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "sci-fi"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, layered, vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic, sci-fi]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15782",
+      "14439",
+      "15408",
+      "14429",
+      "14598",
+      "15431"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "13509",
+  "prompt": "Using the provided reference image, generate a {argument name=\"number of panels\" default=\"4\"}-panel studio-style character sheet. Transform the black-and-white reference into full color, applying natural skin tones and black hair. Remove the original environment and place the subject against a {argument name=\"background color\" default=\"plain grey\"} background with {argument name=\"lighting style\" default=\"clean, neutral studio lighting\"}. The generated grid must show the exact same character, wearing the preserved white lace camisole and heart necklace, in {argument name=\"number of panels\" default=\"4\"} distinct poses: 1) straight-on front view, 2) right profile view, 3) left 3/4 view looking over the shoulder, and 4) right 3/4 view looking slightly down.",
+  "translatedPrompt": "使用提供的参考图像，生成一张 {argument name=\"number of panels\" default=\"4\"} 格的工作室风格角色设定图。将黑白参考图转换为全彩色，应用自然的肤色和黑色头发。移除原始环境，并将主体置于 {argument name=\"background color\" default=\"纯灰色\"} 背景下，配合 {argument name=\"lighting style\" default=\"干净、中性的工作室灯光\"}。生成的网格必须展示完全相同的角色，穿着保留的白色蕾丝吊带衫和心形项链，呈现 {argument name=\"number of panels\" default=\"4\"} 种不同的姿势：1) 正面视角，2) 右侧面视角，3) 左侧 3/4 视角（回头看），以及 4) 右侧 3/4 视角（微微低头）。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "多角度工作室角色设定图：将单张参考肖像转换为带有干净工作室灯光效果的彩色多角度角色设定图。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "grid"
+      ],
+      "style": [
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[参考风格: studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14945",
+      "14475",
+      "14620",
+      "14988",
+      "13497",
+      "14422"
+    ]
+  }
+}

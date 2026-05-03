@@ -1,0 +1,45 @@
+{
+  "id": "14018",
+  "prompt": "A high-end cinematic commercial photography shot of a muscular humanoid banana character standing in a dimly lit, moody wine cellar. The character has a realistic yellow banana peel body, a cartoonish face with thick black eyebrows and a wide toothy smile, and muscular human arms. He is wearing a red apron and elegantly holding a glass of red wine. To his right rests a dark glass bottle of red wine on a wooden surface, featuring a classic, elegant label that reads {argument name=\"wine brand\" default=\"Maison Rouge B.\"} with an illustration of a chateau. The background features blurred shelves filled with wine bottles, illuminated by sophisticated, dramatic lighting with deep red and brown tones. In the top left corner, elegant white Japanese typography displays the main tagline {argument name=\"main tagline\" default=\"その一杯に、理由はある。\"} followed by a smaller subtitle {argument name=\"sub tagline\" default=\"甘さではなく、余韻で選ぶ。\"}. In the bottom left corner, tiny legal text reads \"※お酒は20歳になってから\". The bottom right corner features the brand name {argument name=\"wine brand\" default=\"Maison Rouge B.\"} in a clean serif font.",
+  "translatedPrompt": "一张高端电影感商业摄影作品，画面中一位肌肉发达的人形香蕉角色正站在光线昏暗、氛围感十足的酒窖中。该角色拥有写实的黄色香蕉皮躯干、带有浓密黑眉和露齿大笑的卡通面孔，以及人类的肌肉手臂。他身穿红色围裙，优雅地端着一杯红酒。在他右侧的木质台面上放着一瓶深色玻璃红酒瓶，瓶身上贴着经典优雅的酒标，上面写有 {argument name=\"wine brand\" default=\"Maison Rouge B.\"} 以及一座城堡的插画。背景是模糊的酒架，陈列着各式红酒瓶，在深红色和棕色调的精致戏剧性灯光照射下显得格外高级。左上角以优雅的白色日文字体显示主标语 {argument name=\"main tagline\" default=\"その一杯に、理由はある。\"}，下方配有较小的副标题 {argument name=\"sub tagline\" default=\"甘さではなく、余韻で選ぶ。\"}。左下角有微小的法律声明文字“※お酒は20歳になってから”。右下角以简洁的衬线字体展示品牌名称 {argument name=\"wine brand\" default=\"Maison Rouge B.\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影感香蕉红酒广告：生成一段氛围感十足的高端商业广告，主角是一位手持红酒杯的幽默人形角色，并支持自定义日文文案。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "dramatic lighting"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: dramatic lighting]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14043",
+      "13746",
+      "14068",
+      "14372",
+      "14806",
+      "14808"
+    ]
+  }
+}

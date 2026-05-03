@@ -1,0 +1,51 @@
+{
+  "id": "14977",
+  "prompt": "{\"type\":\"Japanese presentation slide\",\"style\":\"clean corporate infographic, minimal modern editorial layout, high contrast, light gray background with black, white, yellow, and medium gray accents, bold Japanese gothic sans-serif typography, precise grid alignment, print-like slide design\",\"canvas\":{\"aspect_ratio\":\"16:9\",\"background_color\":\"#ececec\"},\"headline\":{\"page_number\":\"05\",\"title\":\"{argument name=\\\"headline text\\\" default=\\\"対象となる登記\\\"}\",\"subtitle\":\"売買・贈与の所有権移転と、抵当権の設定・抹消\",\"alignment\":\"center top\"},\"layout\":{\"sections\":[{\"title\":\"対象\",\"position\":\"center-left main panel\",\"count\":2,\"labels\":[\"所有権の移転登記\",\"抵当権の設定・抹消登記\"],\"panel_style\":\"white box with thin black border and yellow header bar\"},{\"title\":\"対象外\",\"position\":\"center-right main panel\",\"count\":3,\"labels\":[\"登記名義人の住所等の変更登記\",\"遺言書に基づく登記\",\"上記以外の登記全般\"],\"panel_style\":\"light gray box with thin dark border and darker gray header bar\"},{\"title\":\"footer information\",\"position\":\"bottom full width\",\"count\":4,\"labels\":[\"司法書士等による特別委任方式\",\"令和7年12月9日\",\"法務省民二第1578号\",\"No.05\"],\"panel_style\":\"horizontal footer row separated by vertical divider lines\"}],\"decorative_elements\":{\"count\":5,\"items\":[\"large cropped black Japanese characters running vertically along the far left edge\",\"small black square near the top right corner\",\"vertical yellow sidebar on the far right with rotated text '05 対象'\",\"1 dotted grid cluster near the lower right with 18 visible black dots arranged in 3 rows by 6 columns\",\"short horizontal black divider line beneath the subtitle\"]}},\"content_blocks\":{\"included_panel\":{\"items\":[{\"icon\":\"check mark\",\"main\":\"所有権の移転登記\",\"sub\":\"売買・贈与を原因とするもの（共有持分を含む）\"},{\"icon\":\"check mark\",\"main\":\"抵当権の設定・抹消登記\",\"sub\":\"根抵当権を含む\"}]},\"excluded_panel\":{\"items\":[{\"icon\":\"x mark\",\"main\":\"登記名義人の住所等の変更登記\",\"sub\":\"公務員作成情報が必要\"},{\"icon\":\"x mark\",\"main\":\"遺言書に基づく登記\",\"sub\":\"一定形式の情報が必要\"},{\"icon\":\"x mark\",\"main\":\"上記以外の登記全般\",\"sub\":\"\"}]},\"note\":{\"text\":\"※対象範囲は運用状況を踏まえて今後検討\",\"position\":\"below the two main panels, centered\"}},\"composition\":\"large centered title at top, subtitle below, two side-by-side information panels in the middle, small note under panels, footer rule and four-segment footer at the bottom, strong asymmetrical left-edge typographic crop for dynamic editorial feel\",\"rendering\":\"flat vector slide graphic, crisp edges, no photographic texture, no people, no shadows except minimal panel definition\"}",
+  "translatedPrompt": "{\"type\":\"日本演示文稿 Slides\",\"style\":\"简洁的企业信息图，极简现代编辑排版，高对比度，浅灰色背景配以黑、白、黄及中灰色调，粗体日文哥特式无衬线字体，精确网格对齐，印刷级 Slides 设计\",\"canvas\":{\"aspect_ratio\":\"16:9\",\"background_color\":\"#ececec\"},\"headline\":{\"page_number\":\"05\",\"title\":\"{argument name=\\\"headline text\\\" default=\\\"対象となる登記\\\"}\",\"subtitle\":\"売買・贈与の所有権移転と、抵当権の設定・抹消\",\"alignment\":\"center top\"},\"layout\":{\"sections\":[{\"title\":\"対象\",\"position\":\"center-left main panel\",\"count\":2,\"labels\":[\"所有権の移転登記\",\"抵当権の設定・抹消登記\"],\"panel_style\":\"white box with thin black border and yellow header bar\"},{\"title\":\"対象外\",\"position\":\"center-right main panel\",\"count\":3,\"labels\":[\"登記名義人の住所等の変更登記\",\"遺言書に基づく登記\",\"上記以外の登記全般\"],\"panel_style\":\"light gray box with thin dark border and darker gray header bar\"},{\"title\":\"footer information\",\"position\":\"bottom full width\",\"count\":4,\"labels\":[\"司法書士等による特別委任方式\",\"令和7年12月9日\",\"法務省民二第1578号\",\"No.05\"],\"panel_style\":\"horizontal footer row separated by vertical divider lines\"}],\"decorative_elements\":{\"count\":5,\"items\":[\"large cropped black Japanese characters running vertically along the far left edge\",\"small black square near the top right corner\",\"vertical yellow sidebar on the far right with rotated text '05 対象'\",\"1 dotted grid cluster near the lower right with 18 visible black dots arranged in 3 rows by 6 columns\",\"short horizontal black divider line beneath the subtitle\"]}},\"content_blocks\":{\"included_panel\":{\"items\":[{\"icon\":\"check mark\",\"main\":\"所有権の移転登記\",\"sub\":\"売買・贈与を原因とするもの（共有持分を含む）\"},{\"icon\":\"check mark\",\"main\":\"抵当権の設定・抹消登記\",\"sub\":\"根抵当権を含む\"}]},\"excluded_panel\":{\"items\":[{\"icon\":\"x mark\",\"main\":\"登記名義人の住所等の変更登記\",\"sub\":\"公務員作成情報が必要\"},{\"icon\":\"x mark\",\"main\":\"遺言書に基づく登記\",\"sub\":\"一定形式の情報が必要\"},{\"icon\":\"x mark\",\"main\":\"上記以外の登記全般\",\"sub\":\"\"}]},\"note\":{\"text\":\"※対象範囲は運用状況を踏まえて今後検討\",\"position\":\"below the two main panels, centered\"}},\"composition\":\"large centered title at top, subtitle below, two side-by-side information panels in the middle, small note under panels, footer rule and four-segment footer at the bottom, strong asymmetrical left-edge typographic crop for dynamic editorial feel\",\"rendering\":\"flat vector slide graphic, crisp edges, no photographic texture, no people, no shadows except minimal panel definition\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日本企业登记范围 Slides：一张简洁的日本演示文稿 Slides，展示了包含和排除的登记类别，适用于商业演示、政策摘要及法律说明演示。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "grid",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "editorial"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, grid, vertical, horizontal]。\n\nVisual style:\n[参考风格: editorial]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15077",
+      "15400",
+      "15457",
+      "14648",
+      "14854",
+      "15087"
+    ]
+  }
+}

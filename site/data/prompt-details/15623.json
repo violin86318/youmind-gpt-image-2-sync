@@ -1,0 +1,44 @@
+{
+  "id": "15623",
+  "prompt": "Using REFERENCE_1 as the character base and REFERENCE_0 as the scene/mood reference, regenerate the same woman in pixel art as an action shot riding a motorcycle along a narrow cliffside coastal road at sunset. Change the composition from a close portrait to a wider cinematic full-body view, with the motorcycle moving toward the viewer on a winding road carved into steep seaside cliffs. Keep her brown leather jacket and overall look consistent, but make her hair blow back in the wind and pose her with both hands on the handlebars. Emphasize the dramatic ocean drop on the left, rocky cliff wall on the right, and a warm orange-purple sunset sky. Keep the retro 16-bit-style pixel-art aesthetic.",
+  "translatedPrompt": "以 REFERENCE_1 作为角色基础，REFERENCE_0 作为场景/氛围参考，将同一位女性重新生成为像素艺术风格的动作镜头：她正骑着摩托车行驶在日落时分狭窄的悬崖沿海公路上。将构图从近景人像改为更宽广的电影级全身视角，摩托车正朝着观察者方向行驶在开凿于陡峭海边悬崖的蜿蜒道路上。保持她棕色皮夹克和整体造型的一致性，但让她的头发在风中飘动，并摆出双手握住车把的姿势。强调左侧壮观的海洋落差、右侧岩石峭壁以及温暖的橙紫色日落天空。保持复古的 16 位像素艺术美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "骑摩托车行驶在悬崖公路上的女性：此提示词可将参考图中的女性转化为动态像素艺术场景，描绘她骑着摩托车行驶在悬崖沿海公路上，适用于基于人像参考进行动作导向的角色编辑。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "full-body"
+      ],
+      "style": [
+        "cinematic",
+        "retro",
+        "pixel art"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body]。\n\nVisual style:\n[参考风格: cinematic, retro, pixel art]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15703",
+      "14506",
+      "15269",
+      "13673",
+      "15686",
+      "15027"
+    ]
+  }
+}

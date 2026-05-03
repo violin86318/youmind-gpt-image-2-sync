@@ -1,0 +1,47 @@
+{
+  "id": "14663",
+  "prompt": "A realistic indoor photograph of a wooden chessboard on a dark wooden table, viewed from a slightly elevated front angle, with Staunton-style pieces in a mid-opening position. The board has light maple and dark walnut squares with a wooden border, and the pieces are glossy black and matte ivory. Show all 32 pieces with no captures: 16 black pieces and 16 white pieces. Black occupies the far side in standard back-rank order from left to right: rook, knight, bishop, queen, king, bishop, knight, rook, with 8 black pawns in front. White occupies the near side in standard back-rank order from left to right: rook, knight, bishop, queen, king, bishop, knight, rook, with 8 white pawns in front. The only moved pieces are 2 central pawns: a black pawn advanced two squares to e5 and a white pawn advanced two squares to e4, facing each other on adjacent central squares. Keep the rest of the pieces in their starting positions. Use natural window light from the right, soft shadows, a warm home interior background with cream curtains and a wooden cabinet, shallow depth of field, realistic proportions, clean digital-photography look, centered composition, and accurate chessboard geometry.",
+  "translatedPrompt": "一张逼真的室内照片，展示了放置在深色木桌上的木制国际象棋棋盘，视角为略微抬高的正面角度，棋子采用 Staunton 风格，处于开局中期位置。棋盘由浅色枫木和深色胡桃木方格组成，带有木质边框；棋子为亮面黑色和哑光象牙色。展示全部 32 枚棋子，无被吃掉的棋子：16 枚黑色棋子和 16 枚白色棋子。黑色棋子位于远端，按标准底线顺序从左至右排列：车、马、象、后、王、象、马、车，前方有 8 枚黑色兵。白色棋子位于近端，按标准底线顺序从左至右排列：车、马、象、后、王、象、马、车，前方有 8 枚白色兵。仅移动了 2 枚中心兵：一枚黑色兵向前推进两格至 e5，一枚白色兵向前推进两格至 e4，在相邻的中心格面对面。其余棋子保持初始位置。使用来自右侧的自然窗光，光影柔和，背景为温馨的家居室内环境，配有米色窗帘和木制柜子，浅景深，比例真实，呈现干净的数码摄影质感，构图居中，棋盘几何结构准确。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "逼真的国际象棋开局照片：此提示词可生成一张逼真的室内木制国际象棋棋盘照片，展示简单的开局位置，适用于棋局可视化、走法准确性对比或模型基准测试。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "城市美食地图、活动导览、园区地图、旅行视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15309",
+      "15376",
+      "14409",
+      "15638",
+      "15612",
+      "13964"
+    ]
+  }
+}

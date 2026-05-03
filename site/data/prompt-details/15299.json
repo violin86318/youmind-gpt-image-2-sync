@@ -1,0 +1,42 @@
+{
+  "id": "15299",
+  "prompt": "{\"type\":\"hand-drawn Chinese infographic poster\",\"style\":\"retro risograph zine aesthetic, textured off-white paper background, rough brush lettering, sketchy pen lines, halftone shading, limited ink palette of deep purple and teal with slight misregistration, energetic doodles and arrows\",\"topic\":\"AI cognition externalization trilogy\",\"headline\":{\"text\":\"AI的认知外化三部曲\",\"position\":\"top center\",\"style\":\"large expressive Chinese brush lettering, with the letters AI oversized in teal and purple\"},\"layout\":{\"flow\":\"left to right, three-stage evolution diagram connected by arrows, with a large sweeping curved arrow across the bottom pointing right\",\"sections\":[{\"title\":\"2022-2023 推参数\",\"position\":\"left\",\"count\":4,\"labels\":[\"大脑\",\"GPT-4\",\"Gemini\",\"DeepSeek\"],\"scene\":\"a large illustrated brain containing a tall stack of rectangular layers like model parameters or books, with three small pinned labels on the left side reading GPT-4, Gemini, and DeepSeek; the large word 大脑 appears prominently inside the brain\"},{\"title\":\"2023-2024 递纸条\",\"position\":\"center\",\"count\":5,\"labels\":[\"提示词\",\"检索信息\",\"AI\",\"提示词 + RAG\",\"用完即弃\"],\"scene\":\"a human hand extends from the left holding a note toward a side-profile human head silhouette labeled AI; two paper notes are visible, one labeled 提示词 with smaller handwritten Chinese lines beneath, and one labeled 检索信息 with smaller bullet-like Chinese lines; below the head is the phrase 提示词 + RAG, and near the bottom right is a small trash can with the label 用完即弃; a dashed line curves toward the trash can\"},{\"title\":\"2024-至今 搭基础设施\",\"position\":\"right\",\"count\":5,\"labels\":[\"AI\",\"记忆库\",\"技能库\",\"MCP\",\"沙箱\"],\"scene\":\"a head silhouette labeled AI embedded inside a scaffold-like technical framework with pipes, connectors, and platforms; four surrounding modules are attached: a cylindrical database tower labeled 记忆库, a toolbox-like container labeled 技能库, a rectangular node card labeled MCP, and a cube-like container labeled 沙箱\"}],\"centerpiece\":\"the three phases of AI evolution from internal model scaling to prompt-based interaction to infrastructure-based cognition externalization\",\"bottom_banner\":\"从内卷大脑 → 到借纸条 → 再到搭基础设施 认知外化，AI 才真正拥有了翅膀！\"},\"objects\":{\"left_section_details\":\"brain drawn as a cloud-like organic form, stacked slabs in the center, small lightning doodles around it\",\"middle_section_details\":\"the prompt note includes the heading 提示词, the retrieval note includes the heading 检索信息, the human head is a simple side silhouette, and the interaction is shown as feeding notes into the AI head\",\"right_section_details\":{\"memory_module\":{\"title\":\"记忆库\",\"visible_text_items_count\":4,\"items\":[\"长期记忆\",\"用户偏好\",\"历史对话\",\"知识沉淀\"]},\"skills_module\":{\"title\":\"技能库\",\"visible_text_items_count\":4,\"items\":[\"工具集合\",\"API调用\",\"工作流\",\"插件\"]},\"mcp_module\":{\"title\":\"MCP\",\"visible_text_items_count\":4,\"items\":[\"通信协议\",\"能力发现\",\"连接服务\",\"安全控制\"]},\"sandbox_module\":{\"title\":\"沙箱\",\"visible_text_items_count\":4,\"items\":[\"隔离执行\",\"代码运行\",\"环境隔离\",\"安全防护\"]}}},\"decorative_elements\":{\"count\":8,\"items\":[\"sparkles\",\"star doodles\",\"radiating lines\",\"lightning bolts\",\"ink splatters\",\"scribble underlines\",\"small motion marks\",\"curved directional arrows\"]},\"composition\":\"wide landscape poster, dense but readable, playful and conceptual, combines editorial illustration and systems diagram, all text in Chinese, visually communicates the evolution of AI systems across three time periods\"}",
+  "translatedPrompt": "{\"type\":\"手绘中文信息图海报\",\"style\":\"复古孔版印刷杂志美学，纹理感米白色纸张背景，粗犷的毛笔字，写意钢笔线条，网点阴影，深紫与青色的有限油墨配色，带有轻微套印偏差，充满活力的涂鸦和箭头\",\"topic\":\"AI 认知外化三部曲\",\"headline\":{\"text\":\"AI 的认知外化三部曲\",\"position\":\"顶部居中\",\"style\":\"大型表现力毛笔书法，其中 AI 二字以青色和紫色超大号字体呈现\"},\"layout\":{\"flow\":\"从左至右，三个阶段的演进图通过箭头连接，底部有一条巨大的弧形箭头指向右侧\",\"sections\":[{\"title\":\"2022-2023 推参数\",\"position\":\"左\",\"count\":4,\"labels\":[\"大脑\",\"GPT-4\",\"Gemini\",\"DeepSeek\"],\"scene\":\"一个巨大的大脑插图，内部包含一叠像模型参数或书籍一样的矩形层，左侧有三个小标签，分别写着 GPT-4、Gemini 和 DeepSeek；大脑内部醒目地写着 大脑 二字\"},{\"title\":\"2023-2024 递纸条\",\"position\":\"中\",\"count\":5,\"labels\":[\"提示词\",\"检索信息\",\"AI\",\"提示词 + RAG\",\"用完即弃\"],\"scene\":\"一只人手从左侧伸出，向一个标注为 AI 的侧面人头剪影递送纸条；可见两张纸条，一张标注为 提示词，下方有较小的手写中文行，另一张标注为 检索信息，下方有类似项目符号的中文行；人头下方是 提示词 + RAG 字样，右下角有一个标注为 用完即弃 的小垃圾桶；一条虚线向垃圾桶弯曲\"},{\"title\":\"2024-至今 搭基础设施\",\"position\":\"右\",\"count\":5,\"labels\":[\"AI\",\"记忆库\",\"技能库\",\"MCP\",\"沙箱\"],\"scene\":\"一个标注为 AI 的人头剪影嵌入在一个类似脚手架的技术框架中，包含管道、连接器和平台；周围附有四个模块：一个标注为 记忆库 的圆柱形数据库塔，一个标注为 技能库 的工具箱式容器，一张标注为 MCP 的矩形节点卡，以及一个标注为 沙箱 的立方体容器\"}],\"centerpiece\":\"AI 演进的三个阶段，从内部模型缩放，到基于提示词的交互，再到基于基础设施的认知外化\",\"bottom_banner\":\"从内卷大脑 → 到借纸条 → 再到搭基础设施 认知外化，AI 才真正拥有了翅膀！\"},\"objects\":{\"left_section_details\":\"大脑绘制成云朵般的有机形态，中心堆叠着板状物，周围有闪电涂鸦\",\"middle_section_details\":\"提示词纸条包含 提示词 标题，检索纸条包含 检索信息 标题，人头为简单的侧面剪影，交互表现为向 AI 头中投喂纸条\",\"right_section_details\":{\"memory_module\":{\"title\":\"记忆库\",\"visible_text_items_count\":4,\"items\":[\"长期记忆\",\"用户偏好\",\"历史对话\",\"知识沉淀\"]},\"skills_module\":{\"title\":\"技能库\",\"visible_text_items_count\":4,\"items\":[\"工具集合\",\"API 调用\",\"工作流\",\"插件\"]},\"mcp_module\":{\"title\":\"MCP\",\"visible_text_items_count\":4,\"items\":[\"通信协议\",\"能力发现\",\"连接服务\",\"安全控制\"]},\"sandbox_module\":{\"title\":\"沙箱\",\"visible_text_items_count\":4,\"items\":[\"隔离执行\",\"代码运行\",\"环境隔离\",\"安全防护\"]}}},\"decorative_elements\":{\"count\":8,\"items\":[\"闪光\",\"星星涂鸦\",\"放射线\",\"闪电符号\",\"墨水溅点\",\"涂鸦下划线\",\"小动作标记\",\"弯曲的方向箭头\"]},\"composition\":\"宽幅横向海报，内容密集但易读，兼具趣味性与概念性，结合了编辑插画与系统图表，所有文字均为中文，直观传达了 AI 系统在三个时期内的演进\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "中文 AI 演进信息图海报：此提示词用于生成一张手绘风格的中文信息图海报，解释 AI 演进的三个阶段，适用于科技评论、社交媒体帖文或编辑类视觉内容。",
+      "subject": "信息结构",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "editorial",
+        "retro",
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: editorial, retro, hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14424",
+      "14642",
+      "14827",
+      "14913",
+      "15247",
+      "15248"
+    ]
+  }
+}

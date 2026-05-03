@@ -1,0 +1,42 @@
+{
+  "id": "15816",
+  "prompt": "A highly detailed anime fantasy illustration of {argument name=\"character name\" default=\"a shrine maiden swordswoman\"} in a dynamic low-angle action pose at a Japanese shrine during spring. She is a beautiful young woman with {argument name=\"hair color\" default=\"light brown\"} very long flowing hair, blue eyes, a confident gentle smile, and ornate red floral hair ornaments. She holds 2 katana: one sword raised behind her head in her right hand and one sword extended forward toward the viewer in her left hand, with polished steel blades and elaborate black-and-gold hilts. Her outfit is a stylized, revealing red-and-white shrine maiden battle costume with 1 short pleated skirt, 1 cropped top with floral knot decorations, 2 oversized detached sleeves, 2 thigh-high stockings with red flower emblems, multiple red bows, white ribbons, and intricate ornamental trim. The scene is filled with motion: her hair and ribbons sweep dramatically through the air, cherry blossom petals fly around her, and glowing magical purple-pink light trails spiral around her body and swords. In the background, show 1 large red torii gate, 1 stone shrine path, dense green forest, blooming {argument name=\"tree type\" default=\"cherry blossom\"} trees, and 1 warm lantern on the right side. Use brilliant cinematic lighting with sunbeams filtering through the trees, sparkling particles, glossy highlights, saturated colors, depth, and a polished premium gacha-game key visual aesthetic. Emphasize energetic composition, fantasy atmosphere, sharp linework, ultra-detailed costume design, and a vivid heroic shrine guardian vibe.",
+  "translatedPrompt": "一张高度精细的动漫奇幻插图，主角是 {argument name=\"character name\" default=\"一位巫女剑士\"}，场景设定在春季的日本神社，采用动态的低角度动作姿势。她是一位美丽的年轻女性，拥有 {argument name=\"hair color\" default=\"浅棕色\"} 的超长飘逸秀发、蓝色双眸、自信而温柔的微笑，以及华丽的红色花朵发饰。她双手各持一把武士刀：右手将一把刀举在脑后，左手将另一把刀向前伸向观众，刀身钢材光亮，刀柄饰有精致的黑金纹路。她的装束是风格化且略显性感的红白配色巫女战斗服，包含 1 条短百褶裙、1 件带有花朵结装饰的露脐上衣、2 只超大号分离式袖子、2 只带有红花徽章的过膝袜，以及多处红色蝴蝶结、白色丝带和复杂的装饰性滚边。画面充满动感：她的头发和丝带在空中剧烈飘动，樱花花瓣四处飞舞，发光的紫色与粉色魔法光轨环绕在她的身体和刀刃周围。背景展示了 1 座巨大的红色鸟居、1 条石板神社小径、茂密的绿色森林、盛开的 {argument name=\"tree type\" default=\"樱花\"} 树，以及右侧 1 盏温暖的灯笼。采用绚丽的电影级光效，阳光穿过树木洒下光束，伴有闪烁的粒子效果、光泽高光、饱和的色彩、深度感以及精致的高级抽卡游戏主视觉美学。强调充满活力的构图、奇幻氛围、锐利的线条、超精细的服装设计以及生动的英雄神社守护者气质。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫巫女双刀流：此提示词可生成一张精致的动漫风格奇幻动作插图，描绘了一位双持武器的巫女战士，非常适合用于游戏主视觉图、角色海报或引人注目的 AI 插画展示。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "anime",
+        "fantasy",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, anime, fantasy, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15733",
+      "14524",
+      "14587",
+      "14855",
+      "14927",
+      "15610"
+    ]
+  }
+}

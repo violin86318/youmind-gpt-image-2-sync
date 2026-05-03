@@ -1,0 +1,51 @@
+{
+  "id": "14246",
+  "prompt": "{\n  \"type\": \"two-page manga spread\",\n  \"style\": \"highly detailed realistic manga, monochrome, screentones, dramatic lighting, psychological thriller\",\n  \"global_elements\": {\n    \"protagonist\": \"{argument name=\\\"main character description\\\" default=\\\"young Japanese salaryman in a suit\\\"}\",\n    \"theme\": \"{argument name=\\\"core concept\\\" default=\\\"surrounded by a massive crowd of identical clones of himself\\\"}\"\n  },\n  \"layout\": {\n    \"left_page\": {\n      \"type\": \"full page splash panel\",\n      \"setting\": \"{argument name=\\\"setting\\\" default=\\\"Shibuya scramble crossing at night\\\"}\",\n      \"visuals\": \"Protagonist standing alone in the center of the crossing, looking around in shock at a massive crowd where every single person is an exact clone of him.\",\n      \"text_elements\": [\n        {\"type\": \"manga title logo\", \"text\": \"{argument name=\\\"manga title\\\" default=\\\"俺だらけの街\\\"}\"},\n        {\"type\": \"subtitle\", \"text\": \"第1話 交代\"},\n        {\"type\": \"narration box\", \"text\": \"その夜、世界は静かに俺をやめた。\"},\n        {\"type\": \"sound effect\", \"text\": \"ザワ…\"}\n      ]\n    },\n    \"right_page\": {\n      \"type\": \"5-panel vertical layout\",\n      \"panels\": [\n        {\n          \"panel_number\": 1,\n          \"visuals\": \"Extreme close-up of protagonist's eyes, wide with shock, sweating.\",\n          \"text_elements\": [\n            {\"type\": \"speech bubble\", \"text\": \"……は？ なんで……みんな、俺なんだ？\"},\n            {\"type\": \"sound effect\", \"text\": \"ドクン\"}\n          ]\n        },\n        {\n          \"panel_number\": 2,\n          \"visuals\": \"A horizontal row of 8 identical clones in suits staring blankly forward.\",\n          \"text_elements\": [\n            {\"type\": \"sound effect\", \"text\": \"ザワ…\"}\n          ]\n        },\n        {\n          \"panel_number\": 3,\n          \"visuals\": \"A clone leaning in to whisper into the shocked protagonist's ear.\",\n          \"text_elements\": [\n            {\"type\": \"speech bubble\", \"text\": \"お前の代わりは、もう足りてる。\"},\n            {\"type\": \"sound effect\", \"text\": \"スッ\"}\n          ]\n        },\n        {\n          \"panel_number\": 4,\n          \"visuals\": \"Close-up of a smartphone screen held in a hand, showing a push notification.\",\n          \"text_elements\": [\n            {\"type\": \"screen text\", \"text\": \"交代を開始します。\"},\n            {\"type\": \"sound effect\", \"text\": \"ピロン\"}\n          ]\n        },\n        {\n          \"panel_number\": 5,\n          \"visuals\": \"Wide shot of the endless crowd of clones in the city street.\",\n          \"text_elements\": [\n            {\"type\": \"narration box\", \"text\": \"最初に消えるのは、名前でも命でもない。居場所だ。\"},\n            {\"type\": \"bottom left text\", \"text\": \"俺は、ここにいていいのか——？\"},\n            {\"type\": \"bottom right text\", \"text\": \"{argument name=\\\"cliffhanger text\\\" default=\\\"次号へつづく！\\\"}\"},\n            {\"type\": \"sound effect\", \"text\": \"ザワ… ザワ… ザワ…\"}\n          ]\n        }\n      ]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"two-page manga spread\",\n  \"style\": \"highly detailed realistic manga, monochrome, screentones, dramatic lighting, psychological thriller\",\n  \"global_elements\": {\n    \"protagonist\": \"{argument name=\\\"main character description\\\" default=\\\"young Japanese salaryman in a suit\\\"}\",\n    \"theme\": \"{argument name=\\\"core concept\\\" default=\\\"surrounded by a massive crowd of identical clones of himself\\\"}\"\n  },\n  \"layout\": {\n    \"left_page\": {\n      \"type\": \"full page splash panel\",\n      \"setting\": \"{argument name=\\\"setting\\\" default=\\\"Shibuya scramble crossing at night\\\"}\",\n      \"visuals\": \"Protagonist standing alone in the center of the crossing, looking around in shock at a massive crowd where every single person is an exact clone of him.\",\n      \"text_elements\": [\n        {\"type\": \"manga title logo\", \"text\": \"{argument name=\\\"manga title\\\" default=\\\"俺だらけの街\\\"}\"},\n        {\"type\": \"subtitle\", \"text\": \"第1話 交代\"},\n        {\"type\": \"narration box\", \"text\": \"その夜、世界は静かに俺をやめた。\"},\n        {\"type\": \"sound effect\", \"text\": \"ザワ…\"}\n      ]\n    },\n    \"right_page\": {\n      \"type\": \"5-panel vertical layout\",\n      \"panels\": [\n        {\n          \"panel_number\": 1,\n          \"visuals\": \"Extreme close-up of protagonist's eyes, wide with shock, sweating.\",\n          \"text_elements\": [\n            {\"type\": \"speech bubble\", \"text\": \"……は？ なんで……みんな、俺なんだ？\"},\n            {\"type\": \"sound effect\", \"text\": \"ドクン\"}\n          ]\n        },\n        {\n          \"panel_number\": 2,\n          \"visuals\": \"A horizontal row of 8 identical clones in suits staring blankly forward.\",\n          \"text_elements\": [\n            {\"type\": \"sound effect\", \"text\": \"ザワ…\"}\n          ]\n        },\n        {\n          \"panel_number\": 3,\n          \"visuals\": \"A clone leaning in to whisper into the shocked protagonist's ear.\",\n          \"text_elements\": [\n            {\"type\": \"speech bubble\", \"text\": \"お前の代わりは、もう足りてる。\"},\n            {\"type\": \"sound effect\", \"text\": \"スッ\"}\n          ]\n        },\n        {\n          \"panel_number\": 4,\n          \"visuals\": \"Close-up of a smartphone screen held in a hand, showing a push notification.\",\n          \"text_elements\": [\n            {\"type\": \"screen text\", \"text\": \"交代を開始します。\"},\n            {\"type\": \"sound effect\", \"text\": \"ピロン\"}\n          ]\n        },\n        {\n          \"panel_number\": 5,\n          \"visuals\": \"Wide shot of the endless crowd of clones in the city street.\",\n          \"text_elements\": [\n            {\"type\": \"narration box\", \"text\": \"最初に消えるのは、名前でも命でもない。居場所だ。\"},\n            {\"type\": \"bottom left text\", \"text\": \"俺は、ここにいていいのか——？\"},\n            {\"type\": \"bottom right text\", \"text\": \"{argument name=\\\"cliffhanger text\\\" default=\\\"次号へつづく！\\\"}\"},\n            {\"type\": \"sound effect\", \"text\": \"ザワ… ザワ… ザワ…\"}\n          ]\n        }\n      ]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Two-Page Psychological Thriller Manga Spread：Generates a highly detailed, two-page manga spread featuring a protagonist surrounded by clones, complete with 6 total panels, dialogue bubbles, and sound effects.",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up",
+        "wide shot",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "manga"
+      ],
+      "lightingCamera": [
+        "dramatic lighting"
+      ],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, wide shot, vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, manga]。\n\nLighting and camera:\n[参考光线镜头: dramatic lighting]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15026",
+      "15318",
+      "14692",
+      "15682",
+      "13756",
+      "14622"
+    ]
+  }
+}

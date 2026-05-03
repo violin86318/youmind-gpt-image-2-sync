@@ -1,0 +1,49 @@
+{
+  "id": "14536",
+  "prompt": "{\n  \"type\": \"Japanese prescription document parody\",\n  \"style\": \"photorealistic overhead document photo\",\n  \"subject\": \"a single white prescription sheet printed in Japanese, placed on a warm-toned wooden tabletop\",\n  \"document\": {\n    \"paper\": {\n      \"size\": \"A4 portrait\",\n      \"color\": \"white\",\n      \"orientation\": \"slightly rotated clockwise\",\n      \"condition\": \"clean flat sheet with subtle natural paper texture\"\n    },\n    \"print\": {\n      \"ink\": \"black with one red seal box\",\n      \"font\": \"Japanese Mincho-style serif mixed with simple sans-serif table text\",\n      \"linework\": \"thin gray-black ruled boxes and dividers\"\n    },\n    \"header\": {\n      \"title\": \"処方箋\",\n      \"subtitle\": \"（この処方箋は、大規模言語モデル用です）\",\n      \"date_label\": \"発行日：\",\n      \"date_value\": \"{argument name=\\\"issue date\\\" default=\\\"2025年6月5日\\\"}\"\n    },\n    \"top_fields\": {\n      \"count\": 6,\n      \"items\": [\n        { \"label\": \"患者名\", \"value\": \"{argument name=\\\"patient name\\\" default=\\\"ChatGPT\\\"}\" },\n        { \"label\": \"性別\", \"value\": \"N/A\" },\n        { \"label\": \"年齢\", \"value\": \"N/A\" },\n        { \"label\": \"モデル名\", \"value\": \"{argument name=\\\"model name\\\" default=\\\"GPT-5.4 Thinking\\\"}\" }\n      ]\n    },\n    \"main_section\": {\n      \"left_title\": \"持病・症状（大規模言語モデル特有の持病）\",\n      \"left_count\": 8,\n      \"left_items\": [\n        \"1．幻覚（Hallucination）傾向\",\n        \"2．知識のカットオフによる情報の陳腐化\",\n        \"3．バイアス（学習データ由来の偏見）\",\n        \"4．プロンプトに対する過剰適応（迎合傾向）\",\n        \"5．長文での一貫性の低下\",\n        \"6．複雑な推論時の論理飛躍\",\n        \"7．不確実性の過小評価（自信過剰）\",\n        \"8．計算資源使用による応答速度の低下傾向\"\n      ],\n      \"right_title\": \"処方内容（治療・対策）\",\n      \"right_count\": 8,\n      \"right_items\": [\n        \"・事実確認の強化（外部ツール併用）\",\n        \"・定期的な知識更新とファインチューニング\",\n        \"・バイアス検出と軽減の継続的モニタリング\",\n        \"・システムプロンプトによる適切な制御\",\n        \"・出力の構造化と分割生成の推奨\",\n        \"・思考過程の明示と検証ステップの導入\",\n        \"・不確実性の明示と根拠提示の徹底\",\n        \"・リソース最適化と応答効率の改善\"\n      ]\n    },\n    \"notes\": {\n      \"label\": \"備考\",\n      \"text\": \"継続的な評価とフィードバックにより、モデルの健全性を維持すること。\"\n    },\n    \"footer_fields\": {\n      \"count\": 4,\n      \"items\": [\n        { \"label\": \"医師名\", \"value\": \"{argument name=\\\"doctor name\\\" default=\\\"サム・アルトマン\\\"}\" },\n        { \"label\": \"医療機関名\", \"value\": \"{argument name=\\\"institution name\\\" default=\\\"OpenAI\\\"}\" }\n      ]\n    },\n    \"seal\": {\n      \"position\": \"bottom right inside the form\",\n      \"shape\": \"rounded rectangular red stamp box\",\n      \"text_lines\": 3,\n      \"text\": [\"OpenAI\", \"代表取締役\", \"サム・アルトマン\"]\n    },\n    \"disclaimer\": \"※この処方箋は非実在のモデルに対する診断・治療を目的としたものです。\"\n  },\n  \"layout\": {\n    \"camera_angle\": \"top-down overhead\",\n    \"framing\": \"entire sheet visible with narrow margins of wooden desk around it\",\n    \"lighting\": \"soft indoor ambient lighting, even illumination, mild shadowing near paper edges\",\n    \"sections\": [\n      { \"title\": \"header\", \"position\": \"top\", \"count\": 3, \"labels\": [\"処方箋\", \"（この処方箋は、大規模言語モデル用です）\", \"発行日：2025年6月5日\"] },\n      { \"title\": \"patient info\", \"position\": \"upper middle\", \"count\": 4, \"labels\": [\"患者名\", \"性別\", \"年齢\", \"モデル名\"] },\n      { \"title\": \"main two-column content\", \"position\": \"center\", \"count\": 2, \"labels\": [\"持病・症状（大規模言語モデル特有の持病）\", \"処方内容（治療・対策）\"] },\n      { \"title\": \"bottom area\", \"position\": \"lower\", \"count\": 4, \"labels\": [\"備考\", \"医師名\", \"医療機関名\", \"OpenAI\"] }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"日文处方文档恶搞\",\n  \"style\": \"写实风格俯拍文档照片\",\n  \"subject\": \"一张放在暖色调木质桌面上的白色日文处方单\",\n  \"document\": {\n    \"paper\": {\n      \"size\": \"A4 纵向\",\n      \"color\": \"白色\",\n      \"orientation\": \"顺时针轻微旋转\",\n      \"condition\": \"平整的纸张，带有细腻的天然纸质纹理\"\n    },\n    \"print\": {\n      \"ink\": \"黑色，带有一个红色印章框\",\n      \"font\": \"日文明朝体衬线字体，混合简单的无衬线表格文字\",\n      \"linework\": \"细灰黑色线条组成的方框和分隔线\"\n    },\n    \"header\": {\n      \"title\": \"处方笺\",\n      \"subtitle\": \"（此处方笺仅供大型语言模型使用）\",\n      \"date_label\": \"发行日期：\",\n      \"date_value\": \"{argument name=\\\"issue date\\\" default=\\\"2025 年 6 月 5 日\\\"}\"\n    },\n    \"top_fields\": {\n      \"count\": 6,\n      \"items\": [\n        { \"label\": \"患者姓名\", \"value\": \"{argument name=\\\"patient name\\\" default=\\\"ChatGPT\\\"}\" },\n        { \"label\": \"性别\", \"value\": \"不适用\" },\n        { \"label\": \"年龄\", \"value\": \"不适用\" },\n        { \"label\": \"模型名称\", \"value\": \"{argument name=\\\"model name\\\" default=\\\"GPT-5.4 Thinking\\\"}\" }\n      ]\n    },\n    \"main_section\": {\n      \"left_title\": \"既往症/症状（大型语言模型特有病症）\",\n      \"left_count\": 8,\n      \"left_items\": [\n        \"1．幻觉（Hallucination）倾向\",\n        \"2．因知识截止日期导致的陈旧信息\",\n        \"3．偏见（源自训练数据的偏见）\",\n        \"4．对提示词的过度适应（迎合倾向）\",\n        \"5．长文本中一致性下降\",\n        \"6．复杂推理时的逻辑跳跃\",\n        \"7．对不确定性的低估（过度自信）\",\n        \"8．因计算资源消耗导致的响应速度下降\"\n      ],\n      \"right_title\": \"处方内容（治疗/对策）\",\n      \"right_count\": 8,\n      \"right_items\": [\n        \"・强化事实核查（配合外部工具使用）\",\n        \"・定期知识更新与微调\",\n        \"・持续监测并减轻偏见\",\n        \"・通过系统提示词进行适当控制\",\n        \"・建议结构化输出与分段生成\",\n        \"・明确思维过程并引入验证步骤\",\n        \"・彻底明确不确定性并提供依据\",\n        \"・优化资源并提高响应效率\"\n      ]\n    },\n    \"notes\": {\n      \"label\": \"备注\",\n      \"text\": \"通过持续的评估与反馈，维持模型的健康状态。\"\n    },\n    \"footer_fields\": {\n      \"count\": 4,\n      \"items\": [\n        { \"label\": \"医生姓名\", \"value\": \"{argument name=\\\"doctor name\\\" default=\\\"萨姆·奥特曼\\\"}\" },\n        { \"label\": \"医疗机构名称\", \"value\": \"{argument name=\\\"institution name\\\" default=\\\"OpenAI\\\"}\" }\n      ]\n    },\n    \"seal\": {\n      \"position\": \"表单右下角\",\n      \"shape\": \"圆角矩形红色印章框\",\n      \"text_lines\": 3,\n      \"text\": [\"OpenAI\", \"代表取缔役\", \"萨姆·奥特曼\"]\n    },\n    \"disclaimer\": \"※此处方笺旨在针对非真实存在的模型进行诊断与治疗。\"\n  },\n  \"layout\": {\n    \"camera_angle\": \"俯视视角\",\n    \"framing\": \"可见整张纸，周围留有少量木质桌面边缘\",\n    \"lighting\": \"柔和的室内环境光，光照均匀，纸张边缘有轻微阴影\",\n    \"sections\": [\n      { \"title\": \"页眉\", \"position\": \"顶部\", \"count\": 3, \"labels\": [\"处方笺\", \"（此处方笺仅供大型语言模型使用）\", \"发行日期：2025 年 6 月 5 日\"] },\n      { \"title\": \"患者信息\", \"position\": \"中上部\", \"count\": 4, \"labels\": [\"患者姓名\", \"性别\", \"年龄\", \"模型名称\"] },\n      { \"title\": \"主要双栏内容\", \"position\": \"中心\", \"count\": 2, \"labels\": [\"既往症/症状（大型语言模型特有病症）\", \"处方内容（治疗/对策）\"] },\n      { \"title\": \"底部区域\", \"position\": \"下部\", \"count\": 4, \"labels\": [\"备注\", \"医生姓名\", \"医疗机构名称\", \"OpenAI\"] }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日文 AI 模型处方单：一张逼真的俯拍照片，展示了为 AI 模型设计的幽默日文处方单，适用于生成具有官方外观的恶搞文档和模拟文书。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "top-down"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: top-down]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14535",
+      "15244",
+      "14630",
+      "15463",
+      "14485",
+      "14486"
+    ]
+  }
+}

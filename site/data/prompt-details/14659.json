@@ -1,0 +1,46 @@
+{
+  "id": "14659",
+  "prompt": "A polished presentation-style mockup on a dark charcoal background showing a Japanese homebuilder website first view concept. In the upper right, place a large white rounded speech bubble with 4 Japanese bullet lines in clean sans-serif text: 「工務店のwebサイトのファーストビューを作成してください。」, 「- 緑ベース」, 「- お知らせを1件表示」, 「- FV画像は、机を囲んで業者とお客様が話しているところ」, 「- CTAボタン設置」. In the lower left, show a realistic desktop website hero section inside a large rounded browser-like frame with a muted forest-green theme and elegant lifestyle branding for a Japanese construction company. The top navigation bar includes a small house logo at far left, the company name in Japanese, 5 navigation links across the top, and 1 rounded white contact button on the right. The hero area is split visually into 2 major zones: on the left, a green textured panel with layered organic leaf patterns, small introductory copy, a large white Japanese headline in multiple lines, a short paragraph of smaller Japanese body text, and 1 white rounded CTA button; on the right, a warm natural-light photo of exactly 2 people seated across a wooden table in discussion, with papers and a small architectural house model visible, indoor plants and window light in the background. The entire website card has soft shadows, premium editorial spacing, and rounded bottom corners. Along the bottom of the website mockup, include a narrow light-gray notice bar showing exactly 1 announcement item with a small green tag, a date, Japanese notice text, and a subtle link on the right. Add a semi-transparent gray circular badge overlapping the bottom-left corner of the website card containing the Japanese text 「編集」. In the bottom-right corner of the website card, add a small circular share/upload icon. Overall style: high-end Japanese web design concept, realistic UI mockup, refined typography, green natural-material branding, minimal and elegant composition.",
+  "translatedPrompt": "在一个深炭灰色的背景上，展示一个精美的演示风格模型，呈现日本住宅建筑公司网站的首屏设计概念。在右上角，放置一个大的白色圆角气泡框，内含 4 行简洁的无衬线日文要点： 「工務店のwebサイトのファーストビューを作成してください。」, 「- 緑ベース」, 「- お知らせを1件表示」, 「- FV画像は、机を囲んで業者とお客様が話しているところ」, 「- CTAボタン設置」。在左下角，展示一个逼真的桌面端网站首屏区域，置于一个大的圆角浏览器框架内，采用柔和的森林绿主题，体现日本建筑公司优雅的生活方式品牌形象。顶部导航栏最左侧包含一个小房子 Logo，中间为日文公司名称，顶部横向排列 5 个导航链接，右侧设有一个圆角白色联系按钮。首屏区域在视觉上分为两个主要部分：左侧为带有分层有机叶片图案的绿色纹理面板，配有简短的介绍文案、多行白色大号日文标题、一段简短的日文正文，以及 1 个白色圆角 CTA 按钮；右侧为一张温暖自然光下的照片，展示 2 人围坐在木桌旁讨论，桌上有文件和一个小型建筑模型，背景可见室内植物和窗外光线。整个网站卡片具有柔和的阴影、高级的排版间距和圆角底部。在网站模型底部，包含一个窄窄的浅灰色公告栏，显示 1 条公告信息，带有小绿标、日期、日文公告文本以及右侧的一个细微链接。在网站卡片的左下角叠加一个半透明的灰色圆形徽章，内含日文文本「編集」。在网站卡片的右下角，添加一个小型的圆形分享/上传图标。整体风格：高端日本网页设计概念、逼真的 UI 模型、精致的排版、绿色自然材质品牌感、简约且优雅的构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日本建筑公司网站首屏设计模型：此模型可生成一个精美的日本建筑公司主页首屏演示，采用绿色主题，包含一条公告栏，并配有咨询场景照片，适用于网页设计概念展示。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "layered"
+      ],
+      "style": [
+        "realistic",
+        "editorial",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered]。\n\nVisual style:\n[参考风格: realistic, editorial, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15414",
+      "14842",
+      "14882",
+      "14863",
+      "15668",
+      "15813"
+    ]
+  }
+}

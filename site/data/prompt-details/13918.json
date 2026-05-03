@@ -1,0 +1,42 @@
+{
+  "id": "13918",
+  "prompt": "{\n  \"type\": \"short-form video app interface mockup\",\n  \"background_image\": {\n    \"subject\": \"{argument name=\\\"subject description\\\" default=\\\"young Japanese woman with long wavy dark brown hair and see-through bangs, wearing a white ribbed top, soft natural makeup, smiling gently at the camera\\\"}\",\n    \"setting\": \"cozy bedroom with a bed, wooden shelf, and dried flowers in the background, soft natural lighting, selfie angle\"\n  },\n  \"ui_overlay\": {\n    \"top_bar\": {\n      \"left\": \"LIVE icon\",\n      \"center\": \"フォロー中 | {argument name=\\\"active tab\\\" default=\\\"おすすめ\\\"}\",\n      \"right\": \"Search icon\"\n    },\n    \"right_sidebar\": {\n      \"count\": 6,\n      \"elements\": [\n        \"Profile picture with pink plus badge\",\n        \"Heart icon with {argument name=\\\"like count\\\" default=\\\"12.4K\\\"}\",\n        \"Speech bubble icon with 356\",\n        \"Bookmark icon with 1,289\",\n        \"Share arrow icon with 204\",\n        \"Spinning vinyl record icon\"\n      ]\n    },\n    \"bottom_left_caption\": {\n      \"username\": \"{argument name=\\\"username\\\" default=\\\"@ゆい | 日常をちょっとだけ♡\\\"}\",\n      \"description\": \"{argument name=\\\"caption text\\\" default=\\\"今日も見てくれてありがとう☺️ みんなにとって良い一日になりますように🕊️\\\"}\",\n      \"audio_track\": \"🎵 オリジナル楽曲 - ゆい\"\n    },\n    \"bottom_navigation\": {\n      \"count\": 5,\n      \"labels\": [\n        \"レコメンド\",\n        \"友達\",\n        \"Create button\",\n        \"メッセージ\",\n        \"プロフィール\"\n      ]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"短视频应用界面模型\",\n  \"background_image\": {\n    \"subject\": \"{argument name=\\\"subject description\\\" default=\\\"留着长波浪深棕色头发、留着空气刘海的年轻日本女性，身穿白色罗纹上衣，化着柔和的自然妆容，对着镜头温柔微笑\\\"}\",\n    \"setting\": \"温馨的卧室，背景有床、木质搁板和干花，柔和的自然光，自拍视角\"\n  },\n  \"ui_overlay\": {\n    \"top_bar\": {\n      \"left\": \"LIVE 图标\",\n      \"center\": \"关注 | {argument name=\\\"active tab\\\" default=\\\"推荐\\\"}\",\n      \"right\": \"搜索图标\"\n    },\n    \"right_sidebar\": {\n      \"count\": 6,\n      \"elements\": [\n        \"带有粉色加号徽章的头像\",\n        \"带有 {argument name=\\\"like count\\\" default=\\\"12.4K\\\"} 的心形图标\",\n        \"带有 356 的气泡图标\",\n        \"带有 1,289 的书签图标\",\n        \"带有 204 的分享箭头图标\",\n        \"旋转的黑胶唱片图标\"\n      ]\n    },\n    \"bottom_left_caption\": {\n      \"username\": \"{argument name=\\\"username\\\" default=\\\"@ゆい | 日常をちょっとだけ♡\\\"}\",\n      \"description\": \"{argument name=\\\"caption text\\\" default=\\\"感谢大家今天的观看☺️ 祝大家度过美好的一天🕊️\\\"}\",\n      \"audio_track\": \"🎵 原创音乐 - ゆい\"\n    },\n    \"bottom_navigation\": {\n      \"count\": 5,\n      \"labels\": [\n        \"推荐\",\n        \"朋友\",\n        \"创作按钮\",\n        \"消息\",\n        \"个人资料\"\n      ]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "TikTok 风格视频界面模型：生成一个逼真的短视频应用界面，并叠加在可自定义的自拍或肖像照片上。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "natural light",
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: natural light, camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13833",
+      "13844",
+      "14008",
+      "14695",
+      "14984",
+      "13557"
+    ]
+  }
+}

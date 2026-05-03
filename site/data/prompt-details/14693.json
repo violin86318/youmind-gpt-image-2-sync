@@ -1,0 +1,53 @@
+{
+  "id": "14693",
+  "prompt": "A photorealistic selfie on the surface of Mars, framed at arm’s length in a casual slightly wide-angle smartphone perspective. In the foreground are 2 subjects standing close together from chest-up: a human man on the left wearing a black crewneck shirt with a clear white OpenAI logo on the chest, and a tall elegant female alien on the right with shimmering blue-green metallic skin, elongated ears, subtle facial ridges, and a sleek biomechanical-looking outfit with bronze and silver tones, a deep neckline, fine ornamental seams, and layered necklaces with a prominent blue gemstone pendant. The man has short dark messy hair and his left arm extends toward the camera as if taking the selfie. The alien leans in close beside him, both posed like a friendly commemorative snapshot. The background is a red rocky Martian desert with scattered stones, low hills, and a dusty orange sunset sky. On the far left stands a roadside-style sign with 2 lines of text reading {argument name=\"sign headline\" default=\"MARS\"} and {argument name=\"sign subtext\" default=\"WELCOME HOME\"}. On the far right in the distance is 1 large retro-futuristic white rocket standing upright on landing legs, with visible vertical text reading {argument name=\"rocket text\" default=\"SPACEX\"}. Warm orange lighting, cinematic realism, detailed textures, subtle atmospheric haze, social-media-announcement vibe, high detail, natural depth of field.",
+  "translatedPrompt": "一张在火星表面拍摄的写实风格自拍，以智能手机拍摄的休闲广角视角呈现，仿佛手臂伸出拍摄。前景中是两个半身像：左侧是一名人类男性，身穿黑色圆领衫，胸前印有清晰的白色 OpenAI 标志；右侧是一名身材高挑、优雅的女性外星人，拥有闪烁着蓝绿色金属光泽的皮肤、细长的耳朵、精致的面部纹理，身着带有青铜和银色调的流线型生物机械风格服装，领口深邃，饰有精细的装饰性接缝，并佩戴着层叠项链，中间坠有一颗显眼的蓝色宝石吊坠。男子留着凌乱的深色短发，左臂向镜头伸出，做出自拍姿势。外星人紧靠在他身边，两人如同拍摄一张友好的纪念照。背景是红色的火星岩石沙漠，散布着碎石、低矮的山丘，天空呈现出尘土飞扬的橙色日落景象。最左侧立着一块路标式指示牌，上面有两行文字，分别为 {argument name=\"sign headline\" default=\"MARS\"} 和 {argument name=\"sign subtext\" default=\"WELCOME HOME\"}。最右侧的远处矗立着一枚巨大的复古未来主义白色火箭，火箭通过着陆支架垂直站立，上面有清晰的垂直文字 {argument name=\"rocket text\" default=\"SPACEX\"}。温暖的橙色光影，电影级写实感，细节纹理丰富，带有微妙的大气雾霾感，具备社交媒体公告的氛围，高细节，自然的景深效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "与外星人和火箭的火星自拍：一张电影级写实的火星自拍，画面中包含一名男子和一名女性外星人，适用于未来感社交媒体帖子、科幻公告或趣味太空科技视觉素材。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "retro"
+      ],
+      "lightingCamera": [
+        "depth of field",
+        "camera"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, retro]。\n\nLighting and camera:\n[参考光线镜头: depth of field, camera]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15083",
+      "15046",
+      "15757",
+      "14616",
+      "14629",
+      "15178"
+    ]
+  }
+}

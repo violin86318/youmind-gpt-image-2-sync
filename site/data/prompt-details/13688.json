@@ -1,0 +1,48 @@
+{
+  "id": "13688",
+  "prompt": "{\n  \"type\": \"sci-fi mecha base technical specification sheet\",\n  \"style\": \"{argument name=\\\"ui theme\\\" default=\\\"technical schematic with dark grey panels and white text\\\"}\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"base name\\\" default=\\\"ネストベース・アウラ\\\"}\",\n    \"subtitle\": \"Dedicated Tactical Deployment & Maintenance Base for {argument name=\\\"mecha name\\\" default=\\\"アークセリオン\\\"}\"\n  },\n  \"layout\": {\n    \"structure\": \"grid-based infographic with 3 main horizontal rows\",\n    \"row_1\": [\n      {\n        \"title\": \"Facility Overview & Basic Specs\",\n        \"content\": \"2 text blocks including a specification table with 5 rows\"\n      },\n      {\n        \"title\": \"Base Overall Cross-section\",\n        \"content\": \"Large cutaway view of the underground base showing 4 distinct levels (LEVEL 1 to LEVEL 4)\"\n      },\n      {\n        \"title\": \"Main Hangar Interior\",\n        \"content\": \"Front view of a {argument name=\\\"mecha color scheme\\\" default=\\\"white and blue\\\"} mecha in a maintenance bay, with 4 deck levels labeled on the left\"\n      },\n      {\n        \"title\": \"Hangar Dimensions\",\n        \"content\": \"3 orthographic wireframe-style views (Top, Front, Side) with dimension lines\"\n      }\n    ],\n    \"row_2\": [\n      {\n        \"title\": \"Boarding Equipment\",\n        \"content\": \"Close-up of the mecha's upper body and cockpit boarding arm\"\n      },\n      {\n        \"title\": \"Weapon Transport Area\",\n        \"content\": \"Detailed view of automated transport vehicles and magnetic rails\"\n      },\n      {\n        \"title\": \"Rear Unit Maintenance\",\n        \"content\": \"Back view of the mecha showing glowing blue thrusters and maintenance frames\"\n      },\n      {\n        \"title\": \"Energy & Cooling Infrastructure\",\n        \"content\": \"Dense machinery wall with pipes and super-conducting equipment\"\n      }\n    ],\n    \"row_3\": [\n      {\n        \"title\": \"Launch System: Spine Launcher\",\n        \"content\": \"Long perspective view of an electromagnetic catapult tunnel, plus 1 small cross-section diagram\"\n      },\n      {\n        \"title\": \"Launch Sequence\",\n        \"content\": \"Grid of 10 sequential images showing the mecha's launch process step-by-step\"\n      },\n      {\n        \"title\": \"External Launch Port\",\n        \"content\": \"Exterior view of the base built into a {argument name=\\\"base location\\\" default=\\\"Mountain fortress\\\"} wall, showing camouflage armor and blast doors\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"mecha base 技术规格表\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"base name\\\" default=\\\"ネストベース・アウラ\\\"}\",\n    \"subtitle\": \"{argument name=\\\"mecha name\\\" default=\\\"アークセリオン\\\"} 专用战术部署与维护基地\"\n  },\n  \"mecha_design\": \"高度精细的人形机甲，采用 {argument name=\\\"mecha color scheme\\\" default=\\\"白蓝配色\\\"} 装甲，配有 {argument name=\\\"accent color\\\" default=\\\"发光蓝色\\\"} 能量点缀，机械关节结构复杂。\",\n  \"layout\": {\n    \"structure\": \"基于网格的信息图，包含 3 行面板，采用深色工业美学风格，深色背景配白色文字或浅灰色面板。\",\n    \"sections\": [\n      {\n        \"row\": 1,\n        \"panels\": [\n          { \"title\": \"设施概览\", \"type\": \"text block\" },\n          { \"title\": \"基础规格\", \"type\": \"data table\" },\n          { \"title\": \"基地整体剖面图\", \"type\": \"illustration\", \"description\": \"大型详细剖面图，展示了 4 层地下机库及位于中心的机甲。\" },\n          { \"title\": \"主机库内部\", \"type\": \"illustration\", \"description\": \"机甲伫立在细节丰富的工业维护舱内，配有走道。\" },\n          { \"title\": \"主机库尺寸\", \"type\": \"diagram\", \"count\": 3, \"labels\": [\"顶视图\", \"前视图\", \"侧视图\"], \"description\": \"机库的正投影蓝图。\" }\n        ]\n      },\n      {\n        \"row\": 2,\n        \"panels\": [\n          { \"title\": \"登机设备\", \"type\": \"illustration\", \"description\": \"机甲躯干特写，连接着飞行员登机臂。\" },\n          { \"title\": \"武器更换/运输区\", \"type\": \"illustration\", \"description\": \"工业地面，配有自动化运输车和武器架。\" },\n          { \"title\": \"背部组件维护设备\", \"type\": \"illustration\", \"description\": \"机甲后视图，展示正在维护的推进器机翼。\" },\n          { \"title\": \"主能源/冷却基础设施\", \"type\": \"illustration\", \"description\": \"重型工业管道、发电机和冷却罐。\" }\n        ]\n      },\n      {\n        \"row\": 3,\n        \"panels\": [\n          { \"title\": \"发射系统：脊柱弹射器\", \"type\": \"illustration\", \"description\": \"电磁弹射隧道的长透视镜头。\" },\n          { \"title\": \"发射序列\", \"type\": \"sequence\", \"count\": 10, \"description\": \"连续缩略图，展示机甲启动、沿轨道移动及发射的过程。\" },\n          { \"title\": \"外部发射口\", \"type\": \"illustration\", \"description\": \"外部视角，展示嵌入 {argument name=\\\"environment\\\" default=\\\"山地地形\\\"} 中的重型加固防爆门，机甲正从中飞出。\" }\n        ]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Mecha Base 技术规格表：生成一份高度详细的多面板信息图，详述科幻机甲的机库、维护及发射序列。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "close-up",
+        "grid",
+        "cutaway",
+        "horizontal"
+      ],
+      "style": [
+        "sci-fi"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, grid, cutaway, horizontal]。\n\nVisual style:\n[参考风格: sci-fi]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13656",
+      "13789",
+      "13821",
+      "14163",
+      "13599",
+      "13639"
+    ]
+  }
+}

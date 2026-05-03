@@ -1,0 +1,46 @@
+{
+  "id": "14145",
+  "prompt": "A vintage 35mm film photograph of a {argument name=\"subject description\" default=\"young Asian woman\"} with {argument name=\"hair style\" default=\"long dark wavy hair and wispy bangs\"}. She is wearing a {argument name=\"clothing\" default=\"white ribbed tank top and a loose beige knit cardigan slipping off one shoulder\"}, along with a delicate silver necklace. She has soft makeup with pink blush and glossy lips, looking directly at the camera with slightly parted lips. The lighting is harsh direct camera flash, creating a candid, amateur snapshot aesthetic. The background is a {argument name=\"setting\" default=\"dimly lit, slightly messy room with clothes on a table and a wooden shelf\"}. The image features heavy film grain, slightly muted colors, and a nostalgic, highly realistic photographic texture.",
+  "translatedPrompt": "A vintage 35mm film photograph of a {argument name=\"subject description\" default=\"young Asian woman\"} with {argument name=\"hair style\" default=\"long dark wavy hair and wispy bangs\"}. She is wearing a {argument name=\"clothing\" default=\"white ribbed tank top and a loose beige knit cardigan slipping off one shoulder\"}, along with a delicate silver necklace. She has soft makeup with pink blush and glossy lips, looking directly at the camera with slightly parted lips. The lighting is harsh direct camera flash, creating a candid, amateur snapshot aesthetic. The background is a {argument name=\"setting\" default=\"dimly lit, slightly messy room with clothes on a table and a wooden shelf\"}. The image features heavy film grain, slightly muted colors, and a nostalgic, highly realistic photographic texture.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Vintage 35mm Flash Portrait：Generates a highly realistic, candid portrait with a vintage film aesthetic and direct flash lighting.",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [],
+      "style": [
+        "realistic",
+        "vintage"
+      ],
+      "lightingCamera": [
+        "film grain",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, vintage]。\n\nLighting and camera:\n[参考光线镜头: film grain, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14819",
+      "15582",
+      "14318",
+      "14614",
+      "15781",
+      "13604"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "14818",
+  "prompt": "{\"type\":\"vintage illustrated recipe poster\",\"subject\":\"classic American apple pie\",\"style\":{\"look\":\"hand-painted watercolor and ink cookbook illustration\",\"surface\":\"aged cream parchment paper background\",\"palette\":\"warm sepia, cinnamon brown, buttery gold, soft apple green, muted charcoal linework\",\"mood\":\"nostalgic, rustic, cozy farmhouse baking\"},\"text\":{\"title\":\"CLASSIC American Apple Pie\",\"sectionHeaders\":[\"INGREDIENTS\",\"METHOD\"],\"footer\":\"Best served warm with a scoop of vanilla bean ice cream!\"},\"hero\":{\"position\":\"upper right\",\"description\":\"golden brown lattice-top apple pie in a clear glass pie dish with a single scoop of melting vanilla bean ice cream on top\"},\"layout\":{\"sections\":[{\"title\":\"INGREDIENTS\",\"position\":\"middle\",\"count\":5,\"labels\":[\"6 Granny Smith apples\",\"200g granulated sugar\",\"1 tsp ground cinnamon\",\"a knob of unsalted butter\",\"handmade flaky pastry dough\"]},{\"title\":\"METHOD\",\"position\":\"lower middle\",\"count\":6,\"labels\":[\"1 Slice apples thinly\",\"2 Toss with cinnamon and sugar\",\"3 Roll out the bottom crust\",\"4 Heap apples into the pie dish\",\"5 Create a lattice top with pastry strips\",\"6 Bake until golden brown at 375° F\"]}],\"extraElements\":{\"count\":2,\"labels\":[\"top hero pie with ice cream scoop\",\"bottom left small bowl of vanilla bean ice cream with vanilla pods and flower\"]}},\"ingredients\":[{\"name\":\"Granny Smith apples\",\"count\":6,\"appearance\":\"2 whole green apples and 1 halved apple showing seeds and pale interior\"},{\"name\":\"granulated sugar\",\"amount\":\"200g\",\"appearance\":\"small ceramic bowl filled with white sugar crystals\"},{\"name\":\"ground cinnamon\",\"amount\":\"1 tsp\",\"appearance\":\"small bowl of brown cinnamon with 2 cinnamon sticks in front\"},{\"name\":\"unsalted butter\",\"amount\":\"a knob\",\"appearance\":\"thick rectangular block of pale yellow butter on a small plate\"},{\"name\":\"flaky pastry dough\",\"amount\":\"1 portion\",\"appearance\":\"round rustic ball of handmade dough dusted with flour\"}],\"methodPanels\":[{\"step\":1,\"text\":\"Slice apples thinly\",\"image\":\"wood cutting board with many thin green apple slices, one halved apple, and a kitchen knife\"},{\"step\":2,\"text\":\"Toss with cinnamon and sugar\",\"image\":\"mixing bowl full of sliced apples coated in cinnamon sugar with a wooden spoon\"},{\"step\":3,\"text\":\"Roll out the bottom crust\",\"image\":\"rolled sheet of dough on a floured surface with a wooden rolling pin\"},{\"step\":4,\"text\":\"Heap apples into the pie dish\",\"image\":\"glass pie dish filled high with seasoned apple slices\"},{\"step\":5,\"text\":\"Create a lattice top with pastry strips\",\"image\":\"assembled pie covered with woven lattice pastry, strip ends hanging over edges\"},{\"step\":6,\"text\":\"Bake until golden brown at 375° F\",\"image\":\"old-fashioned oven with the finished pie baking inside\"}],\"composition\":\"portrait orientation, decorative hand-lettered title on the upper left, hero pie illustration on the upper right, ingredients row centered beneath, 6 bordered instruction panels in a 3 by 2 grid, handwritten captions under each ingredient and above each method image, elegant flourishes and divider lines, small heart doodle near the footer\",\"rendering\":\"high-detail editorial food illustration, crisp readable lettering, natural paper grain, subtle shadows, authentic cookbook poster design\"}",
+  "translatedPrompt": "{\"type\":\"复古插画食谱海报\",\"subject\":\"经典美式苹果派\",\"style\":{\"look\":\"手绘水彩与墨水风格的烹饪书插画\",\"surface\":\"做旧的奶油色羊皮纸背景\",\"palette\":\"暖棕褐色、肉桂棕、黄油金、柔和苹果绿、柔和的炭灰色线条\",\"mood\":\"怀旧、质朴、温馨的农舍烘焙感\"},\"text\":{\"title\":\"经典美式苹果派\",\"sectionHeaders\":[\"配料\",\"制作方法\"],\"footer\":\"趁热享用，配上一勺香草豆冰淇淋风味更佳！\"},\"hero\":{\"position\":\"右上角\",\"description\":\"放在透明玻璃派盘中的金黄色网格顶苹果派，顶部放着一勺正在融化的香草豆冰淇淋\"},\"layout\":{\"sections\":[{\"title\":\"配料\",\"position\":\"中间\",\"count\":5,\"labels\":[\"6 个青苹果\",\"200 克砂糖\",\"1 茶匙肉桂粉\",\"一小块无盐黄油\",\"手工酥皮面团\"]},{\"title\":\"制作方法\",\"position\":\"中下部\",\"count\":6,\"labels\":[\"1 将苹果切成薄片\",\"2 加入肉桂和糖拌匀\",\"3 擀开底层面皮\",\"4 将苹果堆叠在派盘中\",\"5 用面皮条编织成网格顶\",\"6 在 375° F 下烘烤至金黄色\"]}],\"extraElements\":{\"count\":2,\"labels\":[\"顶部主角：带冰淇淋球的苹果派\",\"左下角：盛有香草豆冰淇淋的小碗，配有香草荚和花朵\"]}},\"ingredients\":[{\"name\":\"青苹果\",\"count\":6,\"appearance\":\"2 个完整的青苹果和 1 个切半的苹果，露出种子和浅色果肉\"},{\"name\":\"砂糖\",\"amount\":\"200 克\",\"appearance\":\"盛满白色砂糖晶体的小陶瓷碗\"},{\"name\":\"肉桂粉\",\"amount\":\"1 茶匙\",\"appearance\":\"盛有肉桂粉的小碗，前方放有 2 根肉桂棒\"},{\"name\":\"无盐黄油\",\"amount\":\"一小块\",\"appearance\":\"小盘子上放着一块厚实的长方形淡黄色黄油\"},{\"name\":\"酥皮面团\",\"amount\":\"1 份\",\"appearance\":\"撒了面粉的圆形质朴手工面团球\"}],\"methodPanels\":[{\"step\":1,\"text\":\"将苹果切成薄片\",\"image\":\"木制切菜板上放着许多青苹果薄片、一个切半的苹果和一把厨房刀\"},{\"step\":2,\"text\":\"加入肉桂和糖拌匀\",\"image\":\"搅拌碗中装满了裹着肉桂糖的苹果片，配有一把木勺\"},{\"step\":3,\"text\":\"擀开底层面皮\",\"image\":\"在撒了面粉的台面上擀开的面皮，配有一根木制擀面杖\"},{\"step\":4,\"text\":\"将苹果堆叠在派盘中\",\"image\":\"玻璃派盘中堆满了调好味的苹果片\"},{\"step\":5,\"text\":\"用面皮条编织成网格顶\",\"image\":\"组装好的苹果派，覆盖着编织的网格酥皮，条状末端垂在边缘\"},{\"step\":6,\"text\":\"在 375° F 下烘烤至金黄色\",\"image\":\"老式烤箱内正在烘烤的成品苹果派\"}],\"composition\":\"纵向构图，左上角为装饰性手写标题，右上角为主角苹果派插画，配料行居中排列，6 个带边框的说明面板呈 3x2 网格布局，每个配料下方和每个步骤图片上方均有手写说明文字，优雅的装饰线条和分隔线，页脚附近有小爱心涂鸦\",\"rendering\":\"高细节编辑类美食插画，清晰易读的字体，自然的纸张纹理，细腻的阴影，地道的烹饪书海报设计\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古苹果派食谱海报：一张怀旧风格的插画食谱海报，展示了制作经典美式苹果派所需的配料及六个步骤的图解，非常适合作为烹饪书风格的墙面装饰或美食主题印刷品。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "grid"
+      ],
+      "style": [
+        "editorial",
+        "vintage",
+        "watercolor"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, grid]。\n\nVisual style:\n[参考风格: editorial, vintage, watercolor]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15404",
+      "15663",
+      "15087",
+      "14854",
+      "14877",
+      "14548"
+    ]
+  }
+}

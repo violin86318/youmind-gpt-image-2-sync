@@ -1,0 +1,45 @@
+{
+  "id": "14953",
+  "prompt": "A dynamic anime illustration of a {argument name=\"character age vibe\" default=\"teen girl\"} with long {argument name=\"hair color\" default=\"dark brown\"} twin tails tied with 2 oversized pink ribbon bows shaped like cat ears, vivid blue eyes, and a serious confident expression. She is posed in an exaggerated chuunibyou-style stance, one hand spread dramatically in front of the camera with strong foreshortening and all five fingers clearly visible, the other hand framing one eye, as if casting a spell or controlling a digital field. She wears a white lab coat over a dark navy school uniform with a collared shirt, vest, tie, and pleated skirt. The scene is a futuristic neon laboratory or cyber-magic room filled with glowing purple and blue light, floating holographic interface fragments, a bright horizontal audio waveform crossing the background, and a curved row of 11 translucent rectangular cards or panels floating on the left side. On the right side, a ring of 10 floating cat-face emoji icons glows in pink, purple, and blue, with different cute and mischievous expressions. Add one large glass bottle in the lower left foreground. Her long hair streams outward with motion, and purple energy ribbons swirl around her body. Use dramatic cinematic lighting, high contrast, glossy highlights, detailed fingers, intense perspective, sparkling particles, and polished high-end anime key visual rendering in a mystical cyberpunk palette of violet, indigo, and magenta.",
+  "translatedPrompt": "一张充满动感的动漫插画，主角是一位 {argument name=\"character age vibe\" default=\"少女\"}，留着长长的 {argument name=\"hair color\" default=\"深棕色\"} 双马尾，发尾系着两个巨大的猫耳形状粉色蝴蝶结，有着明亮的蓝色双眼和自信严肃的表情。她摆出夸张的中二病姿势，一只手在镜头前戏剧性地张开，呈现出强烈的透视感，五指清晰可见；另一只手则在眼部比划，仿佛正在施展魔法或操控数字领域。她身穿白色实验服，内搭深蓝色校服，包括衬衫、背心、领带和百褶裙。场景设定在一个充满未来感的霓虹实验室或赛博魔法室中，充斥着发光的紫色和蓝色光芒、漂浮的全息界面碎片，背景中横贯着一道明亮的水平音频波形，左侧漂浮着一排 11 张半透明的矩形卡片或面板。右侧是一个由 10 个漂浮的猫脸表情符号组成的圆环，呈现出粉色、紫色和蓝色的光芒，表情可爱且调皮。在左下角前景处增加一个大玻璃瓶。她的长发随动作向外飘散，紫色能量丝带环绕在身体周围。采用戏剧性的电影级布光、高对比度、光泽高光、精细的手指刻画、强烈的透视效果、闪烁的粒子，以及紫罗兰色、靛蓝色和洋红色调的神秘赛博朋克风格，呈现出精致的高端动漫关键视觉渲染效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "霓虹实验室中的中二病动漫少女：此提示词可生成一张极具戏剧性的单格动漫角色插画，非常适合展示未来赛博朋克背景下时尚的魔法科技女主角。",
+      "subject": "产品",
+      "scene": "图标/贴纸",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [
+        "cinematic",
+        "anime"
+      ],
+      "lightingCamera": [
+        "neon",
+        "high contrast",
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "图标包、贴纸、表情、产品功能图标",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 图标/贴纸 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[参考风格: cinematic, anime]。\n\nLighting and camera:\n[参考光线镜头: neon, high contrast, camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14993",
+      "14183",
+      "15290",
+      "14906",
+      "14196",
+      "15059"
+    ]
+  }
+}

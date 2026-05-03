@@ -1,0 +1,48 @@
+{
+  "id": "13627",
+  "prompt": "{\n  \"type\": \"UI/UX web application mockup\",\n  \"theme\": \"dark mode\",\n  \"sidebar\": {\n    \"logo\": \"{argument name=\\\"app name\\\" default=\\\"ChatGPT\\\"}\",\n    \"navigation_items\": 5,\n    \"recent_chats_count\": 8,\n    \"user_profile\": \"User, Free tier\"\n  },\n  \"main_content\": {\n    \"header\": \"Images\",\n    \"input_bar\": {\n      \"placeholder\": \"{argument name=\\\"input placeholder\\\" default=\\\"Describe a new image...\\\"}\",\n      \"model_selector\": \"{argument name=\\\"model name\\\" default=\\\"GPT Image 2\\\"}\"\n    },\n    \"sections\": [\n      {\n        \"title\": \"{argument name=\\\"hero title\\\" default=\\\"New: GPT Image 2 is here!\\\"}\",\n        \"description\": \"Our next-generation image model, built for greater realism, better typography, and deeper world knowledge.\",\n        \"feature_tags_count\": 4,\n        \"hero_images_count\": 3,\n        \"hero_images_descriptions\": [\"mountain lake landscape\", \"neon cyberpunk street\", \"typography poster\"]\n      },\n      {\n        \"title\": \"Apply a style to an image\",\n        \"style_thumbnails_count\": 8,\n        \"style_labels\": [\"Anime\", \"Oil painting\", \"Cinematic\", \"3D render\", \"Line art\", \"Pixel art\", \"Watercolor\", \"Cyberpunk\"]\n      },\n      {\n        \"title\": \"Discover new features\",\n        \"feature_cards_count\": 6,\n        \"feature_labels\": [\"Advanced text rendering\", \"Consistent characters & scenes\", \"Higher realism\", \"World knowledge\", \"Precise editing\", \"More creative styles\"]\n      },\n      {\n        \"title\": \"My images\",\n        \"recent_images_count\": 6,\n        \"recent_images_descriptions\": [\"anime boy portrait\", \"tabby kitten\", \"tabby kitten\", \"sleeping white arctic fox\", \"wedding invitation\", \"code editor terminal\"]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"UI/UX Web 应用原型\",\n  \"theme\": \"深色模式\",\n  \"sidebar\": {\n    \"logo\": \"{argument name=\\\"app name\\\" default=\\\"ChatGPT\\\"}\",\n    \"navigation_items\": 5,\n    \"recent_chats_count\": 8,\n    \"user_profile\": \"用户，免费版\"\n  },\n  \"main_content\": {\n    \"header\": \"图像\",\n    \"input_bar\": {\n      \"placeholder\": \"{argument name=\\\"input placeholder\\\" default=\\\"描述一张新图像...\\\"}\",\n      \"model_selector\": \"{argument name=\\\"model name\\\" default=\\\"GPT Image 2\\\"}\"\n    },\n    \"sections\": [\n      {\n        \"title\": \"{argument name=\\\"hero title\\\" default=\\\"新功能：GPT Image 2 现已发布！\\\"}\",\n        \"description\": \"我们的下一代图像模型，旨在实现更高的真实感、更出色的排版效果以及更深层的世界知识。\",\n        \"feature_tags_count\": 4,\n        \"hero_images_count\": 3,\n        \"hero_images_descriptions\": [\"山间湖泊景观\", \"霓虹赛博朋克街道\", \"排版海报\"]\n      },\n      {\n        \"title\": \"为图像应用风格\",\n        \"style_thumbnails_count\": 8,\n        \"style_labels\": [\"动漫\", \"油画\", \"电影感\", \"3D 渲染\", \"线条艺术\", \"像素艺术\", \"水彩\", \"赛博朋克\"]\n      },\n      {\n        \"title\": \"探索新功能\",\n        \"feature_cards_count\": 6,\n        \"feature_labels\": [\"高级文本渲染\", \"一致的角色与场景\", \"更高的真实感\", \"世界知识\", \"精准编辑\", \"更多创意风格\"]\n      },\n      {\n        \"title\": \"我的图像\",\n        \"recent_images_count\": 6,\n        \"recent_images_descriptions\": [\"动漫男孩肖像\", \"虎斑小猫\", \"虎斑小猫\", \"熟睡的北极白狐\", \"婚礼请柬\", \"代码编辑器终端\"]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "AI 图像生成器 UI 原型设计：一款用于 AI 图像生成工具的深色模式网页界面详细原型，包含风格库、功能亮点和近期图像网格。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "anime",
+        "3d",
+        "watercolor",
+        "oil painting",
+        "pixel art"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, anime, 3d, watercolor, oil painting, pixel art]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15094",
+      "15745",
+      "15793",
+      "14504",
+      "14930",
+      "15734"
+    ]
+  }
+}

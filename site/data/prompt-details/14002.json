@@ -1,0 +1,42 @@
+{
+  "id": "14002",
+  "prompt": "{\n  \"type\": \"2x2 grid of digital advertising banners\",\n  \"style\": \"professional, modern, high-quality commercial graphic design, Japanese typography\",\n  \"layout\": {\n    \"grid\": \"2 columns, 2 rows\",\n    \"banners\": [\n      {\n        \"position\": \"top-left\",\n        \"industry\": \"Interior Design / Housing\",\n        \"visuals\": \"Bright, modern living room with beige sofa, wooden dining table, large windows, indoor plants.\",\n        \"typography\": {\n          \"headline\": \"{argument name=\\\"home banner headline\\\" default=\\\"理想の暮らし、デザインしよう。\\\"}\",\n          \"logo\": \"NATURAL HOME\"\n        },\n        \"ui_elements\": [\n          \"Green circular badge: '相談・見積もり無料'\",\n          \"Green bottom-right triangle button: '資料請求はこちらから ▶'\"\n        ]\n      },\n      {\n        \"position\": \"top-right\",\n        \"industry\": \"Skincare / Cosmetics\",\n        \"visuals\": \"Portrait of a beautiful woman with clear skin touching her cheek, alongside a bottle of 'Solea MOISTURE SERUM' with splashing water effects.\",\n        \"typography\": {\n          \"headline\": \"{argument name=\\\"skincare banner headline\\\" default=\\\"うるおい、満ちる。透明感。\\\"}\",\n          \"subheadline\": \"敏感肌にもやさしい\"\n        },\n        \"ui_elements\": [\n          \"3 light blue circular feature badges: '無添加処方', '高保湿', '低刺激'\",\n          \"Solid blue bottom banner: '今なら初回限定 20%OFF'\"\n        ],\n        \"feature_count\": 3\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"industry\": \"Gourmet Food Delivery\",\n        \"visuals\": \"Dark background. Large appetizing image of a hamburger steak with vegetables. Below it, 3 smaller square photos: pasta, sliced steak salad, and chocolate cake.\",\n        \"typography\": {\n          \"headline\": \"{argument name=\\\"food banner headline\\\" default=\\\"おうちで楽しむプレミアムグルメ\\\"}\"\n        },\n        \"ui_elements\": [\n          \"3 feature icons with text: '有名店の味を冷凍でお届け', '簡単調理で本格的な美味しさ', '特別な日のごちそうに'\",\n          \"Gold bottom banner: '初回限定 1,000円OFF'\"\n        ],\n        \"feature_count\": 3,\n        \"thumbnail_count\": 3\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"industry\": \"Online Education / English Lessons\",\n        \"visuals\": \"Smiling young Japanese woman wearing earphones, waving at a laptop screen.\",\n        \"typography\": {\n          \"headline\": \"{argument name=\\\"english banner headline\\\" default=\\\"英会話で、新しい自分に。\\\"}\",\n          \"highlighted_text\": \"マンツーマンのオンラインレッスン\"\n        },\n        \"ui_elements\": [\n          \"3 feature icons with text: '24時間予約可能', '初心者でも安心', '講師は全員ネイティブ'\",\n          \"Blue bottom banner with logo 'English+': '{argument name=\\\"english discount text\\\" default=\\\"初月 50% OFF\\\"}'\"\n        ],\n        \"feature_count\": 3\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"2x2 数字广告横幅网格\",\n  \"style\": \"专业、现代、高质量商业平面设计，日式排版\",\n  \"layout\": {\n    \"grid\": \"2 列，2 行\",\n    \"banners\": [\n      {\n        \"position\": \"左上\",\n        \"industry\": \"室内设计 / 住宅\",\n        \"visuals\": \"明亮、现代的客厅，配有米色沙发、木制餐桌、大窗户和室内绿植。\",\n        \"typography\": {\n          \"headline\": \"{argument name=\\\"home banner headline\\\" default=\\\"理想の暮らし、デザインしよう。\\\"}\",\n          \"logo\": \"NATURAL HOME\"\n        },\n        \"ui_elements\": [\n          \"绿色圆形徽章：'相談・見積もり無料'\",\n          \"绿色右下角三角形按钮：'資料請求はこちらから ▶'\"\n        ]\n      },\n      {\n        \"position\": \"右上\",\n        \"industry\": \"护肤品 / 化妆品\",\n        \"visuals\": \"一位皮肤清透的女性肖像，手触脸颊，旁边是一瓶带有水花效果的 'Solea MOISTURE SERUM'。\",\n        \"typography\": {\n          \"headline\": \"{argument name=\\\"skincare banner headline\\\" default=\\\"うるおい、満ちる。透明感。\\\"}\",\n          \"subheadline\": \"敏感肌にもやさしい\"\n        },\n        \"ui_elements\": [\n          \"3 个浅蓝色圆形功能徽章：'無添加処方', '高保湿', '低刺激'\",\n          \"纯蓝色底部横幅：'今なら初回限定 20%OFF'\"\n        ],\n        \"feature_count\": 3\n      },\n      {\n        \"position\": \"左下\",\n        \"industry\": \"美食外送\",\n        \"visuals\": \"深色背景。一张诱人的汉堡排配蔬菜大图。下方有 3 张较小的方形照片：意大利面、切片牛排沙拉和巧克力蛋糕。\",\n        \"typography\": {\n          \"headline\": \"{argument name=\\\"food banner headline\\\" default=\\\"おうちで楽しむプレミアムグルメ\\\"}\"\n        },\n        \"ui_elements\": [\n          \"3 个带文字的功能图标：'有名店の味を冷凍でお届け', '簡単調理で本格的な美味しさ', '特別な日のごちそうに'\",\n          \"金色底部横幅：'初回限定 1,000円OFF'\"\n        ],\n        \"feature_count\": 3,\n        \"thumbnail_count\": 3\n      },\n      {\n        \"position\": \"右下\",\n        \"industry\": \"在线教育 / 英语课程\",\n        \"visuals\": \"一位面带微笑的年轻日本女性戴着耳机，对着笔记本电脑屏幕挥手。\",\n        \"typography\": {\n          \"headline\": \"{argument name=\\\"english banner headline\\\" default=\\\"英会話で、新しい自分に。\\\"}\",\n          \"highlighted_text\": \"マンツーマンのオンラインレッスン\"\n        },\n        \"ui_elements\": [\n          \"3 个带文字的功能图标：'24時間予約可能', '初心者でも安心', '講師は全員ネイティブ'\",\n          \"带有 'English+' 标志的蓝色底部横幅：'{argument name=\\\"english discount text\\\" default=\\\"初月 50% OFF\\\"}'\"\n        ],\n        \"feature_count\": 3\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "2x2 日本网页横幅广告网格：一个 2x2 的专业日本数字广告横幅网格，涵盖室内设计、护肤品、美食和在线教育。",
+      "subject": "产品",
+      "scene": "字体/Logo",
+      "composition": [
+        "grid",
+        "2x2"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, 2x2]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14001",
+      "14031",
+      "14035",
+      "15039",
+      "14683",
+      "15001"
+    ]
+  }
+}

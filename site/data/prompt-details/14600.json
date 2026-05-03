@@ -1,0 +1,51 @@
+{
+  "id": "14600",
+  "prompt": "A surreal, ultra-detailed fantasy illustration of a large weathered human skull rising from dark water, centered in the frame, with the top of the skull opened like a pedestal supporting a giant transparent glass sphere. Inside the sphere stands an intricate luminous tree made of twisting golden branches and roots, with exactly 1 main trunk, dozens of tiny warm glowing orbs embedded among the branches, and many metallic bronze leaves. The roots spread across the base inside the globe and wrap around a small ladder built into the trunk. At the lower left inside the globe, depict exactly 1 translucent seated human figure in a contemplative pose, knees drawn up, head resting on one hand, holding a small glowing flower or crystalline bloom in the other hand. On the lower right inside the globe, include exactly 1 miniature architectural tower-like structure made of delicate gold framework. Surrounding the sphere and background are ornate branch networks with hanging crystal ornaments, faceted gemstones, suspended droplets, circular glass forms, and metallic leaves, all arranged symmetrically but organically. The skull is highly realistic with deep eye sockets, detailed teeth, cracked bone texture, and fine copper-like tubes and circuitry extending from both sides near the temples. In the skull’s right eye socket, show exactly 1 glowing mechanical orrery-like light structure. Place the whole composition in a dreamlike seascape at dusk with calm reflective water, distant rock spires, soft clouds, and a blue-to-gold sky. Use cinematic lighting, high contrast, sharp focus, mystical atmosphere, luxurious gold and bronze filigree, crystal transparency, and a color palette of deep teal, midnight blue, ivory bone, warm amber, and metallic gold. Make it feel like symbolic metacognition, consciousness contained within mortality, blending dark surrealism, baroque ornament, and ethereal sci-fi fantasy.",
+  "translatedPrompt": "一幅超现实、极致细节的奇幻插画，画面中心是一个巨大的风化人类头骨，从深色水域中升起。头骨顶部像底座一样打开，支撑着一个巨大的透明玻璃球。球体内矗立着一棵错综复杂的发光树，由扭曲的金色枝干和根系组成，拥有 1 根主干，枝叶间嵌入了数十个微小的温暖发光球体，并点缀着许多青铜质感的金属叶片。根系在球体内部底部蔓延，并缠绕在树干上的一架小型梯子上。在球体内部左下方，描绘 1 个半透明的坐姿人形，姿态沉思，双膝蜷缩，头部靠在一只手上，另一只手拿着一朵发光的小花或水晶花。在球体内部右下方，包含 1 座由精致金框架构成的微型建筑塔状结构。球体周围和背景是华丽的树枝网络，挂着水晶装饰、多面宝石、悬浮的水滴、圆形玻璃形态和金属叶片，整体布局对称且有机。头骨高度写实，具有深邃的眼眶、细致的牙齿、开裂的骨骼纹理，以及从太阳穴附近两侧延伸出的精细铜管和电路。在头骨的右眼眶内，展示 1 个发光的机械式天体仪状光源结构。将整个构图置于黄昏时分的梦幻海景中，背景是平静的反射水面、远处的岩石尖塔、柔和的云层以及从蓝色过渡到金色的天空。采用电影级光效、高对比度、清晰对焦、神秘氛围，结合奢华的黄金与青铜花丝工艺、水晶透明度，色调采用深青色、午夜蓝、象牙骨色、暖琥珀色和金属金色。营造出一种象征性的元认知感，即禁锢在死亡之中的意识，融合了黑暗超现实主义、巴洛克装饰和空灵的科幻奇幻风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "超现实头骨与意识之树：一幅细节极其丰富的超现实奇幻艺术作品，描绘了一个头骨，其顶部是一个玻璃球，球内包含一棵发光的金色树木和一个沉思的人影。非常适合用于探讨意识、死亡和梦幻象征意义的概念艺术。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "symmetrical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "sci-fi",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical]。\n\nVisual style:\n[参考风格: realistic, cinematic, sci-fi, fantasy]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15036",
+      "15308",
+      "14902",
+      "15642",
+      "14598",
+      "15096"
+    ]
+  }
+}

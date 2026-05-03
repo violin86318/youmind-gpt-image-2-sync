@@ -1,0 +1,52 @@
+{
+  "id": "15626",
+  "prompt": "A whimsical cinematic portrait of an anthropomorphic neuron riding on the outside step of a classic San Francisco cable car at golden hour. The character has a large neuron head with a rounded central body and dozens of long branching dendrites radiating outward like a crown, textured in pale lavender, mauve, and fleshy gray with subtle organic sheen. Its face area is obscured and featureless. The figure is dressed like a Victorian or Edwardian gentleman commuter: dark tweed jacket, patterned waistcoat, collared shirt, necktie, pinstriped trousers, polished brown leather shoes, and a pocket watch chain. One hand grips a brass pole on the cable car, and the other hand holds up a vintage transit ticket reading \"MUNICIPAL RAILWAY SAN FRANCISCO ADMIT ONE.\" Add a small round lapel pin that says \"MUNI.\" A slender purple tail-like axon curls behind the body. The cable car is richly detailed varnished wood and brass, with a route sign on the side reading \"POWELL AND MARKET / HYDE AND BEACH / FISHERMANS WHARF.\" In the background, show a steep San Francisco street with cable tracks descending into the distance, a second cable car far down the hill, dense urban buildings on both sides, and Coit Tower visible on a hazy hilltop. Warm nostalgic lighting, shallow depth of field, ultra-detailed textures, surreal realism, humorous but elegant mood, centered full-body composition, vertical framing.",
+  "translatedPrompt": "一张充满奇幻色彩的电影感肖像，描绘了一个拟人化的神经元在黄金时刻乘坐旧金山经典叮当车的外侧踏板。该角色拥有一个巨大的神经元头部，中心呈圆形，数十条长长的树突像皇冠一样向外辐射，呈现出淡紫色、紫红色和肉灰色的纹理，带有微妙的有机光泽。其面部区域模糊且没有五官。人物穿着维多利亚或爱德华时代的绅士通勤装：深色粗花呢夹克、花纹背心、衬衫、领带、细条纹长裤、抛光的棕色皮鞋以及怀表链。一只手抓着叮当车上的黄铜杆，另一只手举着一张复古交通票，上面写着 \"MUNICIPAL RAILWAY SAN FRANCISCO ADMIT ONE\"。加上一枚写有 \"MUNI\" 的小圆形翻领徽章。一条细长的紫色轴突状尾巴在身体后方卷曲。叮当车细节丰富，由清漆木材和黄铜制成，侧面的路线牌写着 \"POWELL AND MARKET / HYDE AND BEACH / FISHERMANS WHARF\"。背景展示了一条陡峭的旧金山街道，缆车轨道向远处延伸，远处山坡下有第二辆叮当车，两侧是密集的城市建筑，朦胧的山顶上可见科伊特塔。温暖的怀旧光影，浅景深，超精细纹理，超现实主义，幽默而优雅的氛围，居中全身构图，竖构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "旧金山叮当车上的神经元：一张超现实的电影感角色肖像，描绘了一个打扮成复古通勤者的神经元乘坐旧金山经典叮当车，非常适合奇思妙想的编辑内容或 AI 艺术提示词。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "full-body",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "vintage"
+      ],
+      "lightingCamera": [
+        "golden hour",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, full-body, vertical]。\n\nVisual style:\n[参考风格: cinematic, vintage]。\n\nLighting and camera:\n[参考光线镜头: golden hour, shallow depth, depth of field]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15757",
+      "14616",
+      "15703",
+      "15259",
+      "14506",
+      "15027"
+    ]
+  }
+}

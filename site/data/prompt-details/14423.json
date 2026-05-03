@@ -1,0 +1,49 @@
+{
+  "id": "14423",
+  "prompt": "A cinematic dark fantasy photograph of a weathered marble-like woman seen from behind in a ruined garden at sunset, framed from mid-back upward. Her face is turned partly over her shoulder but remains mostly hidden in shadow. She has an antique Greco-Roman appearance with pale stone-textured skin, hair pinned into a loose classical updo, and a draped one-shoulder gown in aged ivory fabric that looks cracked, dusty, and partially fused to her body like an eroded sculpture. Across her exposed back and arm are delicate botanical tattoo-like markings and a faded blue floral mosaic embedded into the shoulder blade area. The atmosphere is moody, haunting, and elegant. Place 2 tall stone columns in deep shadow on the left background, dense dark trees and foliage on both sides, and clusters of small pale flowers in the lower garden. Use a glowing amber-orange sunset sky behind her as a strong backlight, with soft rim light on her shoulders and hair, very deep shadows in the foreground, shallow depth of field, rich contrast, muted earth tones, and ultra-detailed textures of cracked plaster, aged fabric, and stone. Fine-art editorial photography, hyperreal, mysterious, melancholic, 85mm lens look.",
+  "translatedPrompt": "一张电影级黑暗奇幻摄影作品，描绘了日落时分废墟花园中一位背对镜头的风化大理石质感女性，构图为中背部以上。她的脸部微微转向肩后，但大部分隐藏在阴影中。她呈现出古希腊罗马风格，拥有苍白的石质皮肤、盘起的古典发髻，以及一件做旧象牙色单肩长袍，长袍看起来布满裂纹、灰尘，并像受侵蚀的雕塑一样部分与身体融合。她裸露的背部和手臂上有着精致的植物纹身状标记，肩胛骨区域嵌入了褪色的蓝色花卉马赛克。整体氛围忧郁、令人难忘且优雅。背景左侧放置两根深影中的高大石柱，两侧是茂密的深色树木和植被，花园下方点缀着成簇的小型淡色花朵。使用发光的琥珀橙色落日余晖作为强烈的背光，勾勒出她肩部和头发的柔和轮廓光，前景阴影深邃，浅景深，对比度丰富，大地色调柔和，并呈现出裂纹石膏、陈旧织物和石材的超精细纹理。艺术编辑摄影风格，超写实，神秘，忧郁，85mm 镜头质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日落时分令人难忘的雕像女子：此提示词可生成一张充满情绪感的电影级艺术肖像，描绘了废墟花园中一位如石雕般的古典女性，非常适合黑暗奇幻风格的编辑配图或氛围感概念图。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "editorial",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "backlight",
+        "shallow depth",
+        "depth of field",
+        "lens"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, editorial, fantasy]。\n\nLighting and camera:\n[参考光线镜头: rim light, backlight, shallow depth, depth of field, lens]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14828",
+      "15246",
+      "14416",
+      "15010",
+      "15523",
+      "15740"
+    ]
+  }
+}

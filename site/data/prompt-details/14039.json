@@ -1,0 +1,43 @@
+{
+  "id": "14039",
+  "prompt": "{\n  \"type\": \"Japanese movie teaser visual collage\",\n  \"typography\": {\n    \"title\": \"{argument name=\\\"movie title\\\" default=\\\"夕凪のしっぽ\\\"}\",\n    \"subtitle\": \"ーあの日のきみへー\",\n    \"tagline\": \"{argument name=\\\"tagline text\\\" default=\\\"失ったものは戻らない。それでも誰かと心を通わせることで、人はもう一度前を向ける。\\\"}\"\n  },\n  \"characters\": {\n    \"girl\": \"young Japanese woman, dark hair, sailor school uniform\",\n    \"man\": \"middle-aged Japanese man, stubble, dark blue shirt\",\n    \"animal\": \"{argument name=\\\"dog breed\\\" default=\\\"Shiba Inu\\\"}\"\n  },\n  \"aesthetics\": {\n    \"setting\": \"{argument name=\\\"setting\\\" default=\\\"coastal town at sunset\\\"}\",\n    \"style\": \"{argument name=\\\"color grading\\\" default=\\\"nostalgic cinematic\\\"}\"\n  },\n  \"layout\": {\n    \"panel_count\": 8,\n    \"sections\": [\n      { \"position\": \"large left\", \"description\": \"girl petting dog, old house, text overlay\" },\n      { \"position\": \"top right\", \"description\": \"profile of man looking at sea\" },\n      { \"position\": \"top far right\", \"description\": \"girl resting head on table\" },\n      { \"position\": \"middle right\", \"description\": \"girl and man at table, dog between them, ocean window\" },\n      { \"position\": \"bottom far left\", \"description\": \"man walking dog on beach\" },\n      { \"position\": \"bottom mid-left\", \"description\": \"close-up girl hugging dog\" },\n      { \"position\": \"bottom mid-right\", \"description\": \"back view girl and dog facing sunset\" },\n      { \"position\": \"bottom far right\", \"description\": \"back view dog walking down village street\" }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"日式电影预告视觉拼贴\",\n  \"typography\": {\n    \"title\": \"{argument name=\\\"movie title\\\" default=\\\"夕凪のしっぽ\\\"}\",\n    \"subtitle\": \"ーあの日のきみへー\",\n    \"tagline\": \"{argument name=\\\"tagline text\\\" default=\\\"失ったものは戻らない。それでも誰かと心を通わせることで、人はもう一度前を向ける。\\\"}\"\n  },\n  \"characters\": {\n    \"girl\": \"年轻日本女性，深色头发，水手服校服\",\n    \"man\": \"中年日本男性，留着胡茬，深蓝色衬衫\",\n    \"animal\": \"{argument name=\\\"dog breed\\\" default=\\\"柴犬\\\"}\"\n  },\n  \"aesthetics\": {\n    \"setting\": \"{argument name=\\\"setting\\\" default=\\\"日落时分的海滨小镇\\\"}\",\n    \"style\": \"{argument name=\\\"color grading\\\" default=\\\"怀旧电影感\\\"}\"\n  },\n  \"layout\": {\n    \"panel_count\": 8,\n    \"sections\": [\n      { \"position\": \"左侧大图\", \"description\": \"女孩抚摸狗，老房子，文字叠加\" },\n      { \"position\": \"右上角\", \"description\": \"男人望向大海的侧影\" },\n      { \"position\": \"最右上角\", \"description\": \"女孩趴在桌上休息\" },\n      { \"position\": \"中右侧\", \"description\": \"女孩和男人坐在桌边，狗在他们中间，窗外是海洋\" },\n      { \"position\": \"左下角\", \"description\": \"男人在沙滩上遛狗\" },\n      { \"position\": \"中左下角\", \"description\": \"女孩拥抱狗的特写\" },\n      { \"position\": \"中右下角\", \"description\": \"女孩和狗背对镜头望向日落\" },\n      { \"position\": \"最右下角\", \"description\": \"狗走在乡村街道上的背影\" }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日式电影预告拼贴画：生成一张 8 宫格电影感拼贴画，风格类似于日式电影海报，包含海滨背景下的人物和一只狗。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up"
+      ],
+      "style": [
+        "cinematic"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up]。\n\nVisual style:\n[参考风格: cinematic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14038",
+      "14174",
+      "15453",
+      "15094",
+      "13916",
+      "14529"
+    ]
+  }
+}

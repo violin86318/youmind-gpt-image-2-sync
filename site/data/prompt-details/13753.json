@@ -1,0 +1,42 @@
+{
+  "id": "13753",
+  "prompt": "{\n  \"type\": \"educational infographic\",\n  \"style\": \"clean, modern textbook illustration, light blue and white color palette\",\n  \"header\": \"{argument name=\\\"main title\\\" default=\\\"高中地理：大气环流的示例说明\\\"}\",\n  \"layout\": {\n    \"top_left_column\": {\n      \"section_1\": {\n        \"title\": \"{argument name=\\\"section one title\\\" default=\\\"一、什么是大气环流？\\\"}\",\n        \"content\": \"1 short explanatory paragraph about global air movement\"\n      },\n      \"section_2\": {\n        \"title\": \"二、成因\",\n        \"content\": \"3 bullet points explaining solar radiation, vertical movement, and Coriolis effect\"\n      }\n    },\n    \"top_right_column\": {\n      \"section_3\": {\n        \"title\": \"{argument name=\\\"diagram title\\\" default=\\\"三、三圈环流示意图\\\"}\",\n        \"diagram_features\": [\n          \"Earth cross-section showing latitudes 0 to 90 degrees North and South\",\n          \"Color-coded pressure belts: red (equator), yellow (subtropics), green (subpolar), blue (polar)\",\n          \"Arrows indicating air flow directions\"\n        ],\n        \"circulation_cells\": {\n          \"count\": 3,\n          \"labels\": [\"极地环流 (高纬环流)\", \"中纬环流 (费雷尔环流)\", \"低纬环流 (哈德莱环流)\"],\n          \"descriptions\": \"3 text boxes detailing characteristics of each cell\"\n        },\n        \"legend\": {\n          \"title\": \"图例\",\n          \"items\": \"3 arrow types: red (ascending), blue (descending), green (horizontal)\"\n        }\n      }\n    },\n    \"bottom_row\": {\n      \"section_4\": {\n        \"title\": \"{argument name=\\\"examples title\\\" default=\\\"四、生活中的实例\\\"}\",\n        \"examples\": {\n          \"count\": 3,\n          \"items\": [\n            {\n              \"subtitle\": \"1 赤道多雨，副热带沙漠广布\",\n              \"images\": \"2 photos: tropical rainforest and desert\",\n              \"text\": \"2 text blocks explaining the climates\"\n            },\n            {\n              \"subtitle\": \"2 中纬度盛行西风\",\n              \"images\": \"1 photo: windswept trees on a coast\",\n              \"text\": \"1 text block explaining westerlies\"\n            },\n            {\n              \"subtitle\": \"3 极地东风\",\n              \"images\": \"1 photo: snowy mountains\",\n              \"text\": \"1 text block explaining polar easterlies\"\n            }\n          ]\n        }\n      }\n    },\n    \"footer\": {\n      \"label\": \"{argument name=\\\"footer label\\\" default=\\\"小结：\\\"}\",\n      \"icon\": \"lightbulb\",\n      \"content\": \"1 summary sentence about global climate mechanisms\"\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"教育信息图\",\n  \"style\": \"简洁、现代的教科书插图风格，采用浅蓝与白色配色方案\",\n  \"header\": \"{argument name=\\\"main title\\\" default=\\\"高中地理：大气环流的示例说明\\\"}\",\n  \"layout\": {\n    \"top_left_column\": {\n      \"section_1\": {\n        \"title\": \"{argument name=\\\"section one title\\\" default=\\\"一、什么是大气环流？\\\"}\",\n        \"content\": \"1 段关于全球空气运动的简短解释\"\n      },\n      \"section_2\": {\n        \"title\": \"二、成因\",\n        \"content\": \"3 个要点，解释太阳辐射、垂直运动和地转偏向力\"\n      }\n    },\n    \"top_right_column\": {\n      \"section_3\": {\n        \"title\": \"{argument name=\\\"diagram title\\\" default=\\\"三、三圈环流示意图\\\"}\",\n        \"diagram_features\": [\n          \"显示南北纬 0 度至 90 度的地球横截面\",\n          \"颜色编码的气压带：红色（赤道）、黄色（副热带）、绿色（副极地）、蓝色（极地）\",\n          \"指示气流方向的箭头\"\n        ],\n        \"circulation_cells\": {\n          \"count\": 3,\n          \"labels\": [\"极地环流 (高纬环流)\", \"中纬环流 (费雷尔环流)\", \"低纬环流 (哈德莱环流)\"],\n          \"descriptions\": \"3 个文本框，详细说明每个环流圈的特征\"\n        },\n        \"legend\": {\n          \"title\": \"图例\",\n          \"items\": \"3 种箭头类型：红色（上升）、蓝色（下沉）、绿色（水平）\"\n        }\n      }\n    },\n    \"bottom_row\": {\n      \"section_4\": {\n        \"title\": \"{argument name=\\\"examples title\\\" default=\\\"四、生活中的实例\\\"}\",\n        \"examples\": {\n          \"count\": 3,\n          \"items\": [\n            {\n              \"subtitle\": \"1 赤道多雨，副热带沙漠广布\",\n              \"images\": \"2 张照片：热带雨林和沙漠\",\n              \"text\": \"2 个解释气候的文本块\"\n            },\n            {\n              \"subtitle\": \"2 中纬度盛行西风\",\n              \"images\": \"1 张照片：海岸边被风吹弯的树木\",\n              \"text\": \"1 个解释西风带的文本块\"\n            },\n            {\n              \"subtitle\": \"3 极地东风\",\n              \"images\": \"1 张照片：雪山\",\n              \"text\": \"1 个解释极地东风带的文本块\"\n            }\n          ]\n        }\n      }\n    },\n    \"footer\": {\n      \"label\": \"{argument name=\\\"footer label\\\" default=\\\"小结：\\\"}\",\n      \"icon\": \"lightbulb\",\n      \"content\": \"1 句关于全球气候机制的总结\"\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "大气环流教育信息图：生成一份详细的多板块教育信息图，适用于教科书，包含图表、要点说明及真实世界的摄影示例。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "vertical",
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical, horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13630",
+      "13639",
+      "13789",
+      "13641",
+      "13821",
+      "14465"
+    ]
+  }
+}

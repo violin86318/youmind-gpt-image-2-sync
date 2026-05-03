@@ -1,0 +1,52 @@
+{
+  "id": "14497",
+  "prompt": "Create a bold Japanese YouTube thumbnail in a flashy anime-business style, 16:9 landscape, packed composition, high contrast, glossy text effects, neon green and gold color scheme, dramatic lighting, spark particles, lens flares, and intense depth of field. The scene shows a blurred workstation and social media analytics dashboard in the background, with rising line graphs and a visible revenue card reading \"ポストアナリティクス\" and \"収益 ¥248,620\". On the right side, place a half-body anime boy streamer with messy dark brown hair accented by vivid neon green streaks, wearing a black hoodie or black jacket, smiling confidently and pointing upward with one finger; leave his face area partially obscured by a large rectangular placeholder block in muted olive-brown so text or a custom portrait can be inserted later. Across the top, add a glossy green ribbon banner with gold trim and a beginner mark icon on the left, containing the text {argument name=\"headline text\" default=\"初心者向け完全ガイド\"}. In the center-left, create a giant metallic gold \"10\" with thick black outline and strong white highlights, followed by bold white-and-black Japanese text \"日で\". Below and overlapping the center, place an enormous glowing neon green letter \"X\" with electric edges and spark effects. To the right of the X and layered prominently in front, add huge 3D Japanese text in white and gold with heavy black outline and drop shadows reading {argument name=\"main claim text\" default=\"収益化達成\"}. On the left side near the main text, include 3 floating social platform-style icons: a black square icon with a white X logo, a blue speech bubble icon with a white heart, and a pink rounded square icon with a white user silhouette. In the bottom-left foreground, place a black coffee mug with a white X logo on a desk. Along the bottom edge, add 3 rounded white information boxes with green borders and subtle shadows, evenly spaced left to right, each topped with a green numbered circle: box 1 labeled \"01\" with a beginner mark icon and the text \"X初心者でも 簡単収益化\"; box 2 labeled \"02\" with a clock icon and the text \"1日1時間の 作業でOK\"; box 3 labeled \"03\" with a calendar icon showing \"10\" and the text \"最短10日で 収益化条件達成\". Make all typography extra large, embossed, and optimized for thumbnail readability, with thick outlines, strong perspective, and layered overlap. Overall mood: exciting, high-income promise, beginner-friendly, energetic Japanese social media monetization tutorial thumbnail.",
+  "translatedPrompt": "制作一张大胆的日式 YouTube 缩略图，采用华丽的动漫商业风格，16:9 横屏比例，构图紧凑，高对比度，带有光泽的文字效果，采用霓虹绿与金色配色方案，配以戏剧性灯光、火花粒子、镜头光晕和强烈的景深效果。背景展示了一个模糊的工作站和社交媒体分析仪表盘，带有上升的折线图，以及一张显示“ポストアナリティクス”和“収益 ¥248,620”的可见收益卡片。在右侧，放置一名半身动漫男主播，留着凌乱的深棕色头发，带有鲜艳的霓虹绿挑染，身穿黑色连帽衫或黑色夹克，自信地微笑并用一根手指指向斜上方；其面部区域留出一个哑光橄榄棕色的大型矩形占位符，以便后续插入文字或自定义肖像。在顶部，添加一条带有金色饰边的亮面绿色丝带横幅，左侧带有新手标记图标，其中包含文本 {argument name=\"headline text\" default=\"初心者向け完全ガイド\"}。在左侧中心，创建一个巨大的金属金色“10”，带有粗黑边框和强烈的白色高光，后接粗体的白黑双色日文文本“日で”。在中心下方并重叠处，放置一个巨大的发光霓虹绿字母“X”，带有电光边缘和火花效果。在 X 的右侧并置于前景显眼位置，添加巨大的 3D 日文文本，采用白色和金色，带有厚重的黑色边框和投影，内容为 {argument name=\"main claim text\" default=\"収益化達成\"}。在主文本附近的左侧，包含 3 个悬浮的社交平台风格图标：一个带有白色 X 标志的黑色方形图标、一个带有白色爱心的蓝色气泡图标，以及一个带有白色用户剪影的粉色圆角方形图标。在左下角前景处，放置一个带有白色 X 标志的黑色咖啡杯。沿底部边缘，添加 3 个带有绿色边框和微妙阴影的圆角白色信息框，从左到右均匀分布，每个顶部都有一个绿色数字圆圈：1 号框标注“01”，带有新手标记图标和文本“X初心者でも 簡単収益化”；2 号框标注“02”，带有时钟图标和文本“1日1時間の 作業でOK”；3 号框标注“03”，带有显示“10”的日历图标和文本“最短10日で 収益化条件達成”。所有字体均需超大、浮雕化，并针对缩略图的可读性进行优化，配以粗边框、强透视感和层叠效果。整体氛围：令人兴奋、高收入承诺、对新手友好、充满活力的日式社交媒体变现教程缩略图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日本 X 变现缩略图：一款专为 X 变现入门指南设计的日式动漫风格 YouTube 缩略图，非常适合社交媒体增长、收入策略及在线业务视频封面使用。",
+      "subject": "文字符号",
+      "scene": "UI/界面",
+      "composition": [
+        "layered"
+      ],
+      "style": [
+        "anime",
+        "3d"
+      ],
+      "lightingCamera": [
+        "dramatic lighting",
+        "neon",
+        "high contrast",
+        "depth of field",
+        "lens"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "B2B 产品概念图、后台系统、数据看板",
+      "whySelected": "得分 72；构图: layered；风格: anime, 3d；包含标注/说明；文字是主视觉"
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered]。\n\nVisual style:\n[参考风格: anime, 3d]。\n\nLighting and camera:\n[参考光线镜头: dramatic lighting, neon, high contrast, depth of field, lens]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13458",
+      "15389",
+      "15725",
+      "14627",
+      "15737",
+      "13774"
+    ]
+  }
+}

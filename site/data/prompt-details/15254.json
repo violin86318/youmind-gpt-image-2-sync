@@ -1,0 +1,53 @@
+{
+  "id": "15254",
+  "prompt": "A photorealistic top-down product-style photograph of a single luxury tasting menu printed on bright white textured paper and placed on a dark walnut wooden tabletop, with soft warm ambient lighting and gentle natural shadows. The sheet is portrait orientation, slightly rotated clockwise, occupying most of the frame with clean margins around it. The design is an ultra-minimal fine-dining menu with elegant editorial typography, lots of negative space, precise alignment, and a refined black-and-dark-gray ink palette. At the upper left, the restaurant identity appears in 3 stacked lines: a large serif word {argument name=\"restaurant name\" default=\"Silence\"}, below it 2 Chinese characters \"沈默\", and below that a large serif French line \"Le Silence\". Under the title is a small location line reading \"Ginza, Tokyo B3F\". At the upper right is a small date line in French followed by Japanese date text: {argument name=\"date text\" default=\"22 Avril 2026 • 令和八年四月二十二日\"}. The main body is organized into 3 vertical content zones: a left numbered course list, a middle translated course list, and a far-right icon column. The left list contains exactly 9 numbered courses labeled 1 through 9, each with French title and Japanese subtitle and an English ingredient line beneath; the 9 visible course titles are: \"Huître de Bretagne, eau de mer\", \"Daurade de Kyoto, pétale de sakura\", \"Oursin d’Hokkaidō, consommé d’algue\", \"Asperge de Nemuro, sauce mousseline\", \"Homard de Miyako, bisque légère\", \"Canard de Challans, figue et balsamique\", \"Boeuf de Kagoshima, truffe noire\", \"Fromage de chèvre, miel du Japon\", and \"Agrume, thé vert et gin\". The middle list repeats the 9 dishes in a second compact column with French titles and Japanese descriptions. The far-right column contains exactly 9 horizontal icon rows aligned to the courses, each row showing small monochrome hand-drawn ingredient or allergen pictograms; some rows have 2 icons and some 3, for a total of 19 icons overall. Near the lower left is a section titled \"Le mot du chef\" followed by a short French paragraph in small serif text. Below that is a section titled \"Origine des ingrédients / 食材の産地\" with a dense 2-row ingredient-origin grid listing exactly 15 numbered origin entries in tiny text. In the lower right quadrant, include a small label \"Chef\" above a large sweeping handwritten signature reading {argument name=\"chef name\" default=\"Keiichiro Aoyama\"}. Along the very bottom edge is a thin horizontal rule and a centered allergen legend line with exactly 7 small outline icons and labels: shellfish, crustaceans, egg, fish, milk, gluten, sulfites, each labeled in French with Japanese beneath. The overall impression should be high-end Michelin-style menu design, editorial restraint, immaculate spacing, subtle paper grain, sharply legible text hierarchy, and realistic photography rather than a flat scan.",
+  "translatedPrompt": "一张写实的产品风格俯拍照片，展示了一份印在亮白色纹理纸上的奢华品鉴菜单，放置在深色胡桃木桌面上，配有柔和的暖色环境光和自然的阴影。菜单呈纵向，顺时针略微旋转，占据了画面的大部分空间，四周留有整洁的边距。设计采用极简主义的高级餐饮风格，具有优雅的编辑排版、大量的留白、精准的对齐以及精致的黑灰墨色调。左上角是餐厅标识，分为 3 行堆叠：一行大号衬线字体 {argument name=\"restaurant name\" default=\"Silence\"}，下方是 2 个中文字符“沈默”，再下方是一行大号衬线法文“Le Silence”。标题下方是一行小字地址“Ginza, Tokyo B3F”。右上角是一行法文日期，后接日文日期文本：{argument name=\"date text\" default=\"22 Avril 2026 • 令和八年四月二十二日\"}。主体内容分为 3 个垂直区域：左侧编号菜品列表、中间翻译后的菜品列表以及最右侧的图标列。左侧列表包含 1 到 9 共 9 道编号菜品，每道菜均有法文标题、日文副标题以及下方的英文食材说明；9 道可见的菜品标题为：“Huître de Bretagne, eau de mer”、“Daurade de Kyoto, pétale de sakura”、“Oursin d’Hokkaidō, consommé d’algue”、“Asperge de Nemuro, sauce mousseline”、“Homard de Miyako, bisque légère”、“Canard de Challans, figue et balsamique”、“Boeuf de Kagoshima, truffe noire”、“Fromage de chèvre, miel du Japon”以及“Agrume, thé vert et gin”。中间列表以第二个紧凑的列重复了这 9 道菜，包含法文标题和日文描述。最右侧一列包含 9 行与菜品对齐的水平图标，每行显示小型单色手绘食材或过敏原象形图；部分行有 2 个图标，部分行有 3 个，总计 19 个图标。左下角附近是一个标题为“Le mot du chef”的区域，后接一段小号衬线字体的法文短文。下方是一个标题为“Origine des ingrédients / 食材の産地”的区域，包含一个 2 行的食材产地网格，以极小的文字列出了 15 个编号产地条目。在右下象限，包含一个“Chef”小标签，上方是大幅流畅的手写签名 {argument name=\"chef name\" default=\"Keiichiro Aoyama\"}。最底端边缘是一条细水平线，以及居中的过敏原说明行，包含 7 个小型轮廓图标和标签：贝类、甲壳类、蛋类、鱼类、乳制品、麸质、亚硫酸盐，每个标签均以法文标注，下方附带日文。整体观感应呈现高端米其林风格的菜单设计，体现编辑排版的克制感、完美的间距、细腻的纸张纹理、清晰易读的文字层级，并呈现真实的摄影质感，而非平面的扫描件。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奢华双语品鉴菜单摄影：一张写实的俯拍照片，展示了优雅的法日式高级餐饮菜单，非常适合用于展示 AI 生成的编辑类菜单设计系统。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "centered",
+        "top-down",
+        "grid",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "editorial",
+        "luxury",
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": "得分 85；构图: centered, top-down, grid, vertical, horizontal；风格: realistic, photorealistic, editorial, luxury, hand-drawn；要求精确文字；要求可读；包含标注/说明；文字是主视觉"
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, top-down, grid, vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, photorealistic, editorial, luxury, hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14674",
+      "14810",
+      "15605",
+      "14860",
+      "14667",
+      "14819"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "14276",
+  "prompt": "{\n  \"type\": \"e-commerce landing page hero section\",\n  \"brand\": \"{argument name=\\\"brand name\\\" default=\\\"CLEAR RESET\\\"}\",\n  \"theme\": \"refreshing skincare, clean aesthetic, water bubbles background\",\n  \"color_palette\": [\"white\", \"{argument name=\\\"primary color\\\" default=\\\"teal\\\"}\", \"light blue\"],\n  \"layout\": {\n    \"header\": {\n      \"logo\": \"CLEAR RESET\",\n      \"navigation_links\": {\"count\": 5, \"labels\": [\"About Product\", \"About Pores/Acne\", \"Ingredients\", \"How to Use\", \"FAQ\"]},\n      \"action_buttons\": {\"count\": 2, \"labels\": [\"Buy Now\", \"My Page\"]}\n    },\n    \"hero_content\": {\n      \"headline\": \"{argument name=\\\"main headline\\\" default=\\\"毛穴・ニキビ悩みに、すっきり澄んだ肌へ。\\\"}\",\n      \"subheadline\": \"Balances sebum and clears pores. Non-sticky, medicated skincare for comfortable daily use.\",\n      \"vertical_copy\": \"Prevents recurring rough skin and acne, leading to smooth, clear skin.\"\n    },\n    \"visuals\": {\n      \"model\": \"{argument name=\\\"model description\\\" default=\\\"young Asian woman with clear radiant skin, hair tied up, smiling softly\\\"}\",\n      \"products\": {\n        \"count\": 2,\n        \"description\": \"{argument name=\\\"product type\\\" default=\\\"acne care gel tube and lotion bottle\\\"}\",\n        \"placement\": \"center\"\n      },\n      \"background\": \"light blue gradient with floating water bubbles\"\n    },\n    \"feature_highlights\": {\n      \"count\": 4,\n      \"style\": \"circular icons with text below\",\n      \"labels\": [\"Quasi-drug\", \"Pore Care\", \"Non-sticky\", \"Daily Use Morning/Night OK\"]\n    },\n    \"call_to_action\": {\n      \"banner_text\": \"Limited to first-time buyers\",\n      \"buttons\": {\"count\": 2, \"labels\": [\"Try it at a discount\", \"See details\"]}\n    },\n    \"statistics_cards\": {\n      \"count\": 4,\n      \"style\": \"white rectangular cards with large teal numbers\",\n      \"labels\": [\"Satisfaction 92%\", \"Pore visibility -23%\", \"Acne prevention 87%\", \"Want to repeat 97%\"]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"e-commerce landing page hero section\",\n  \"brand\": \"{argument name=\\\"brand name\\\" default=\\\"CLEAR RESET\\\"}\",\n  \"theme\": \"refreshing skincare, clean aesthetic, water bubbles background\",\n  \"color_palette\": [\"white\", \"{argument name=\\\"primary color\\\" default=\\\"teal\\\"}\", \"light blue\"],\n  \"layout\": {\n    \"header\": {\n      \"logo\": \"CLEAR RESET\",\n      \"navigation_links\": {\"count\": 5, \"labels\": [\"About Product\", \"About Pores/Acne\", \"Ingredients\", \"How to Use\", \"FAQ\"]},\n      \"action_buttons\": {\"count\": 2, \"labels\": [\"Buy Now\", \"My Page\"]}\n    },\n    \"hero_content\": {\n      \"headline\": \"{argument name=\\\"main headline\\\" default=\\\"毛穴・ニキビ悩みに、すっきり澄んだ肌へ。\\\"}\",\n      \"subheadline\": \"Balances sebum and clears pores. Non-sticky, medicated skincare for comfortable daily use.\",\n      \"vertical_copy\": \"Prevents recurring rough skin and acne, leading to smooth, clear skin.\"\n    },\n    \"visuals\": {\n      \"model\": \"{argument name=\\\"model description\\\" default=\\\"young Asian woman with clear radiant skin, hair tied up, smiling softly\\\"}\",\n      \"products\": {\n        \"count\": 2,\n        \"description\": \"{argument name=\\\"product type\\\" default=\\\"acne care gel tube and lotion bottle\\\"}\",\n        \"placement\": \"center\"\n      },\n      \"background\": \"light blue gradient with floating water bubbles\"\n    },\n    \"feature_highlights\": {\n      \"count\": 4,\n      \"style\": \"circular icons with text below\",\n      \"labels\": [\"Quasi-drug\", \"Pore Care\", \"Non-sticky\", \"Daily Use Morning/Night OK\"]\n    },\n    \"call_to_action\": {\n      \"banner_text\": \"Limited to first-time buyers\",\n      \"buttons\": {\"count\": 2, \"labels\": [\"Try it at a discount\", \"See details\"]}\n    },\n    \"statistics_cards\": {\n      \"count\": 4,\n      \"style\": \"white rectangular cards with large teal numbers\",\n      \"labels\": [\"Satisfaction 92%\", \"Pore visibility -23%\", \"Acne prevention 87%\", \"Want to repeat 97%\"]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Skincare E-commerce Landing Page：Generates a structured e-commerce hero banner for skincare products, featuring a model, product shots, feature icons, and statistic cards.",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15002",
+      "15402",
+      "14807",
+      "15619",
+      "15752",
+      "15775"
+    ]
+  }
+}

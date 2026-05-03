@@ -1,0 +1,46 @@
+{
+  "id": "14959",
+  "prompt": "A top-down realistic photograph of a single white sheet of printer paper placed on a light wood desk, showing a computer-generated music score. The page is centered horizontally with slight perspective and soft natural indoor lighting, minimal shadows, and a clean document-print look. At the top center, print the title \"{argument name=\"file name\" default=\"kura.mid\"} - {argument name=\"track name\" default=\"CH05 Piano\"}\" in a plain sans-serif font. Below it is a piano staff system rendered in standard black music notation with a treble clef and 4/4 time signature, designed to look like an automatically converted MIDI excerpt rather than carefully engraved sheet music. On the far left of the first system, include the instrument label \"CH05 Piano\". Show exactly 5 horizontal systems of notation on the page, beginning with measure numbers 18, 21, 25, 29, and 33 at the left edges of the systems. Near the first system, include a tempo marking with a quarter-note symbol equals 120. Fill the staves with dense, slightly awkward but plausible black notes, accidentals, stems, slurs, and rests, with many sharp signs and repeated short-note figures in the upper register, visually resembling piano transcription from MIDI. The first 3 systems should be long and nearly full width; the 4th system should also be long; the 5th system should be short, occupying only the left portion of the page. Keep the notation legible but somewhat mechanically spaced. Use a clean white page with wide margins and no handwritten marks, no colored elements, no extra graphics, just the printed score sheet photographed on a desk.",
+  "translatedPrompt": "一张放置在浅色木质书桌上的白色打印纸俯拍写实照片，展示了一份计算机生成的乐谱。页面水平居中，带有轻微的透视感，光线为柔和的室内自然光，阴影极少，呈现出干净的文档打印质感。在页面顶部中央，用简洁的无衬线字体打印标题“{argument name=\"file name\" default=\"kura.mid\"} - {argument name=\"track name\" default=\"CH05 Piano\"}”。下方是标准的黑色五线谱系统，带有高音谱号和 4/4 拍号，设计风格呈现出 MIDI 自动转换后的效果，而非精细排版的乐谱。在第一行五线谱的最左侧，标注乐器名称“CH05 Piano”。页面上需精确显示 5 行水平五线谱，各行左侧起始小节编号分别为 18、21、25、29 和 33。在第一行五线谱附近，包含一个四分音符等于 120 的速度标记。五线谱中填满密集、略显生硬但合理的黑色音符、变音记号、符干、连音线和休止符，高音区包含大量升号和重复的短音符组合，视觉上类似于 MIDI 转换出的钢琴谱。前 3 行五线谱应较长且几乎占满全宽；第 4 行也应较长；第 5 行应较短，仅占据页面左侧部分。乐谱需保持清晰可读，但间距呈现出机械生成的特征。使用干净的白纸，留有宽边距，无手写痕迹，无彩色元素，无额外图形，仅呈现放置在书桌上拍摄的打印乐谱。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "MIDI 钢琴乐谱实拍图：该工具可生成一张由 MIDI 文件转换而成的打印版钢琴乐谱的逼真俯拍照片，适用于样机展示、音乐科技视觉效果或文档风格插图。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "top-down",
+        "horizontal"
+      ],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；要求可读；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, top-down, horizontal]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；要求可读；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13731",
+      "14806",
+      "14808",
+      "15267",
+      "15410",
+      "15419"
+    ]
+  }
+}

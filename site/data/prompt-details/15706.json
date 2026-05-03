@@ -1,0 +1,56 @@
+{
+  "id": "15706",
+  "prompt": "A cinematic sci-fi portrait of a person seen from behind in a sterile futuristic laboratory corridor, medium close-up framing from the upper thighs to the head, with the subject turned slightly to the right and looking toward an open vertical pod chamber in the background. The subject has short, wet-looking black hair with messy layered strands and wears a retro-futuristic armored suit: glossy worn red shoulder plates and upper armor, brushed silver metal back plating with rounded panel lines, two flexible ribbed metallic tubes running from the upper back into circular ports, a black shiny undersuit on the arms and sides, a white padded neck seal, and a red waist section with subtle gold trim at the wrist. The armor should feel practical and used, with light scuffs, scratches, and realistic reflections. Place a rectangular privacy blur over the visible side of the face, centered on the head profile. In the background, slightly out of focus, show 1 futuristic standing capsule or medical stasis pod recessed into the wall, dark interior with cool blue vertical accent lights and a bright white overhead light, plus a small control panel mounted on the right side of the pod. The environment is clean and industrial, with pale gray walls, smooth floor, soft diffused lighting, shallow depth of field, photorealistic textures, realistic metallic materials, subdued cool tones in the room contrasted by the deep red armor, high detail, serious atmosphere, live-action science fiction aesthetic.",
+  "translatedPrompt": "一张电影级的科幻肖像，展示了一个人从背面观察的视角，背景为无菌的未来实验室走廊。画面采用从中大腿到头部的中近景构图，主体略微向右转，望向背景中一个打开的垂直舱室。主体留着黑色短发，发丝湿润且层次凌乱，身穿一套复古未来主义盔甲：光泽感十足且带有磨损痕迹的红色肩甲和上身盔甲，带有圆润面板线条的拉丝银色金属背板，两条从上背部延伸至圆形接口的柔性金属肋管，手臂和侧面为黑色亮面内衬，配有白色加厚颈封，红色腰部区域在手腕处有精致的金色饰边。盔甲应呈现出实用且经过使用的质感，带有轻微的擦痕、划痕和逼真的反光。在侧脸可见区域覆盖一个矩形隐私模糊遮罩，位置居于头部侧影中心。背景中，在略微失焦处，展示 1 个嵌入墙壁的未来主义立式胶囊或医疗静止舱，内部昏暗，配有冷蓝色垂直装饰灯和明亮的白色顶灯，舱室右侧安装有一个小型控制面板。环境整洁且具有工业感，墙壁呈浅灰色，地面平滑，光线柔和漫射，具有浅景深效果，纹理写实，金属材质逼真，室内冷色调与深红色盔甲形成对比，细节丰富，氛围严肃，呈现出真人科幻电影的美学风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古科幻盔甲背面视角：此提示词可生成一张置身于未来实验室的写实风格科幻角色背面肖像，适用于电影级概念艺术或真人风格的 AI 图像。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "close-up",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "retro",
+        "sci-fi"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, close-up, layered, vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, retro, sci-fi]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14568",
+      "15704",
+      "14428",
+      "15350",
+      "15424",
+      "15463"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "13656",
+  "prompt": "{\n  \"type\": \"dual-axis line chart infographic\",\n  \"style\": \"editorial data visualization, matte paper texture background, clean journalistic design\",\n  \"typography\": {\n    \"headline\": \"serif font, bold, centered\",\n    \"labels\": \"sans-serif, clean, uppercase and sentence case mix\"\n  },\n  \"layout\": {\n    \"header\": {\n      \"main_title\": \"{argument name=\\\"main headline\\\" default=\\\"Crime is down 50% since 1993. Most Americans think it's going up. Both true simultaneously.\\\"}\",\n      \"subtitle\": \"US VIOLENT CRIME RATE vs PUBLIC PERCEPTION • 1990–PRESENT BJS/FBI + GALLUP\"\n    },\n    \"chart_area\": {\n      \"background\": \"light beige with faint horizontal grid lines\",\n      \"axes\": {\n        \"x_axis\": {\n          \"label\": \"Years\",\n          \"ticks\": [\"1990\", \"1993\", \"2002\", \"2006\", \"2003\", \"2013\", \"2016\", \"2018\", \"2017\", \"2022\"]\n        },\n        \"y_axis_left\": {\n          \"label\": \"{argument name=\\\"left axis label\\\" default=\\\"Violent Crime Rate Par 100-000\\\"}\",\n          \"scale\": [\"200\", \"400\", \"500\", \"600\", \"700\", \"800\", \"800\", \"1000\"],\n          \"color\": \"black\"\n        },\n        \"y_axis_right\": {\n          \"label\": \"{argument name=\\\"right axis label\\\" default=\\\"% Of Americans Saying Crime Is 'Up'\\\"}\",\n          \"scale\": [\"10%\", \"20%\", \"30%\", \"40%\", \"50%\", \"60%\", \"70%\", \"80%\"],\n          \"color\": \"dark red\"\n        }\n      },\n      \"data_series\": [\n        {\n          \"name\": \"Violent Crime Rate\",\n          \"style\": \"thick solid blue line with light grey shading underneath\",\n          \"trend\": \"starts high, drops sharply, then steadily declines\",\n          \"data_labels\": [\"758\", \"380\"]\n        },\n        {\n          \"name\": \"Public Perception\",\n          \"style\": \"dashed dark red/orange line with small circle markers\",\n          \"trend\": \"fluctuates but generally trends upwards, staying high\"\n        }\n      ],\n      \"annotations\": [\n        {\n          \"text\": \"{argument name=\\\"blue line annotation\\\" default=\\\"DOWN 51% SINCE 1993\\\"}\",\n          \"style\": \"callout box with pointer, blue text\",\n          \"position\": \"top left, pointing to the blue line drop\"\n        },\n        {\n          \"text\": \"60-78% THINK CRIME IS UP\",\n          \"style\": \"callout box with pointer, red text\",\n          \"position\": \"mid right, pointing to the dashed red line\"\n        },\n        {\n          \"text\": \"{argument name=\\\"center insight text\\\" default=\\\"The crime rate and the public's feeling about crime have almost no relationship.\\\"}\",\n          \"style\": \"floating text with a small squiggly arrow\",\n          \"position\": \"center, between the two lines\"\n        }\n      ]\n    },\n    \"footer\": {\n      \"source_text\": \"SOURCE: Bureau of Justice Statistics NCVS • FBI Uniform Crime Reports • Gallup Crime Poll\",\n      \"repetition\": \"text is repeated twice at the bottom\"\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"社论式数据可视化图表\",\n  \"style\": \"报纸信息图风格，纹理米色背景，衬线字体标题，无衬线字体图表文本\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"自 1993 年以来，犯罪率下降了 50%。大多数美国人却认为犯罪率在上升。两者同时为真。\\\"}\",\n    \"subtitle\": \"美国暴力犯罪率 vs 公众认知 • 1990 年至今 BJS/FBI + GALLUP\"\n  },\n  \"chart\": {\n    \"type\": \"双轴折线图\",\n    \"axes\": {\n      \"x_axis\": \"1990 年至 2022 年的时间轴，带有刻度标记\",\n      \"y_axis_left\": {\n        \"label\": \"{argument name=\\\"left axis label\\\" default=\\\"每 10 万人暴力犯罪率\\\"}\",\n        \"scale\": \"200 至 1000\"\n      },\n      \"y_axis_right\": {\n        \"label\": \"{argument name=\\\"right axis label\\\" default=\\\"认为犯罪率‘上升’的美国人百分比\\\"}\",\n        \"scale\": \"10% 至 80%\"\n      }\n    },\n    \"data_series\": [\n      {\n        \"description\": \"呈下降趋势的实心粗蓝线\",\n        \"start_value\": \"758\",\n        \"end_value\": \"380\",\n        \"label\": \"每 10 万人美国暴力犯罪率\"\n      },\n      {\n        \"description\": \"水平波动的橙红色虚线\",\n        \"range\": \"60% 至 80%\"\n      }\n    ],\n    \"annotations\": [\n      {\n        \"type\": \"标注框\",\n        \"text\": \"自 1993 年以来下降 51%\",\n        \"pointer\": \"指向蓝色线条峰值\"\n      },\n      {\n        \"type\": \"浮动文本\",\n        \"text\": \"{argument name=\\\"central annotation\\\" default=\\\"犯罪率与公众对犯罪的感受几乎没有关联。\\\"}\"\n      },\n      {\n        \"type\": \"标注框\",\n        \"text\": \"60-78% 的人认为犯罪率在上升\",\n        \"pointer\": \"指向红色虚线\"\n      }\n    ]\n  },\n  \"footer\": {\n    \"text\": \"{argument name=\\\"footer source text\\\" default=\\\"来源：司法统计局 NCVS • FBI 统一犯罪报告 • 盖洛普犯罪民意调查\\\"}\",\n    \"repetition\": \"文本在底部打印两次\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "社论式双轴折线图信息图：生成一种报纸风格的数据可视化图表，通过注释和双轴对比展示两种截然不同的趋势随时间的变化。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "centered",
+        "grid",
+        "annotations",
+        "callout",
+        "horizontal"
+      ],
+      "style": [
+        "editorial"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, grid, annotations, callout, horizontal]。\n\nVisual style:\n[参考风格: editorial]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14866",
+      "15662",
+      "15666",
+      "15768",
+      "14407",
+      "14465"
+    ]
+  }
+}

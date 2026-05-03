@@ -1,0 +1,35 @@
+{
+  "id": "14310",
+  "prompt": "A page of a comic book in the style of modern indie comic topic: {argument name=\"story theme\" default=\"a story for 6 years kids\"}",
+  "translatedPrompt": "一页 {argument name=\"comic style\" default=\"现代独立漫画\"} 风格的漫画书，主题：{argument name=\"story topic\" default=\"适合 6 岁儿童的故事\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "独立漫画书页面：创建一个专为儿童故事量身定制的现代独立风格漫画书布局。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

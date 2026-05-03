@@ -1,0 +1,45 @@
+{
+  "id": "14203",
+  "prompt": "A cinematic anime-style sci-fi movie poster. In the center, a young woman with {argument name=\"hair color\" default=\"long silver\"} hair and blue eyes sits confidently in a massive, futuristic grey armchair with glowing light blue neon accents. She wears a black trench coat over a white high-collared shirt, black pants, and black heeled boots. The chair rests on a glowing blue circular holographic platform floating in deep space filled with stars. Behind her, translucent blue holographic screens display data and planetary images. At the top center, the series title {argument name=\"series title\" default=\"『電脳椅子探偵シャルロット』\"} is written in small white text, above the large main title {argument name=\"main title\" default=\"『天使の涙』\"} in an elegant serif font. Below the main title is the tagline {argument name=\"subtitle\" default=\"すべての記録は、この出会いから始まった。\"}. At the bottom center of the poster, a block of text reads \"This is the first record of Charlotte and W.A.T.S.O.N.\" followed by a large stylized title {argument name=\"bottom text\" default=\"シャルロット & W.A.T.S.O.N.\"} and credits \"Original Story / Screenplay / Director noriyang\" at the very bottom. The overall atmosphere is mysterious, high-tech, and epic.",
+  "translatedPrompt": "A cinematic anime-style sci-fi movie poster. In the center, a young woman with {argument name=\"hair color\" default=\"long silver\"} hair and blue eyes sits confidently in a massive, futuristic grey armchair with glowing light blue neon accents. She wears a black trench coat over a white high-collared shirt, black pants, and black heeled boots. The chair rests on a glowing blue circular holographic platform floating in deep space filled with stars. Behind her, translucent blue holographic screens display data and planetary images. At the top center, the series title {argument name=\"series title\" default=\"『電脳椅子探偵シャルロット』\"} is written in small white text, above the large main title {argument name=\"main title\" default=\"『天使の涙』\"} in an elegant serif font. Below the main title is the tagline {argument name=\"subtitle\" default=\"すべての記録は、この出会いから始まった。\"}. At the bottom center of the poster, a block of text reads \"This is the first record of Charlotte and W.A.T.S.O.N.\" followed by a large stylized title {argument name=\"bottom text\" default=\"シャルロット & W.A.T.S.O.N.\"} and credits \"Original Story / Screenplay / Director noriyang\" at the very bottom. The overall atmosphere is mysterious, high-tech, and epic.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Sci-Fi Anime Detective Poster：Generates a cinematic sci-fi anime poster featuring a character sitting in a high-tech chair in space, complete with customizable titles and taglines.",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "anime",
+        "sci-fi"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, anime, sci-fi]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14003",
+      "15096",
+      "14188",
+      "14483",
+      "15793",
+      "13627"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "15615",
+  "prompt": "{\"type\":\"SaaS feature update banner infographic\",\"style\":\"clean modern Japanese tech marketing graphic, high-quality corporate infographic, soft gradients, rounded UI cards, subtle shadows, minimal vector illustration\",\"format\":\"square social media banner\",\"aspect_ratio\":\"1:1\",\"brand\":{\"logo_text\":\"Lメンバーズカード\",\"logo_icon\":\"rounded square app icon with a stylized white L on a blue-purple gradient background\"},\"background\":{\"base\":\"very light white to pale mint gradient\",\"decorations\":{\"count\":6,\"items\":[\"large translucent curved shape sweeping from top left\",\"large translucent curved shape sweeping from bottom right\",\"small dotted halftone cluster at top left edge\",\"small dotted halftone cluster at bottom right edge\",\"soft ambient glow behind main card\",\"faint teal gradient wash in corners\"]}},\"layout\":{\"sections\":[{\"title\":\"header\",\"position\":\"top center\",\"count\":3,\"labels\":[\"Lメンバーズカード\",\"トリガー設定で自動作成\",\"来店イベントにあわせてカルテ生成\"]},{\"title\":\"left trigger cards\",\"position\":\"left center\",\"count\":3,\"labels\":[\"予約完了\",\"チェックイン\",\"取引作成\"]},{\"title\":\"right output card\",\"position\":\"right center\",\"count\":1,\"labels\":[\"カルテ作成\"]}],\"flow\":\"three stacked trigger cards on the left connect with teal bracket-like lines into a right-facing arrow pointing to a large profile record card on the right\"},\"text\":{\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"トリガー設定で自動作成\\\"}\",\"subheadline\":\"{argument name=\\\"subheadline text\\\" default=\\\"来店イベントにあわせてカルテ生成\\\"}\"},\"left_panel\":{\"cards\":[{\"label\":\"予約完了\",\"icon\":\"calendar with checkmark\",\"icon_color\":\"teal\",\"card_style\":\"white rounded rectangle with soft gray shadow\"},{\"label\":\"チェックイン\",\"icon\":\"map pin\",\"icon_color\":\"teal\",\"card_style\":\"white rounded rectangle with soft gray shadow\"},{\"label\":\"取引作成\",\"icon\":\"document outline\",\"icon_color\":\"teal\",\"card_style\":\"white rounded rectangle with soft gray shadow\"}]},\"connector\":{\"color\":\"teal\",\"shape\":\"vertical bracket line linking all three left cards to a single rightward arrow\",\"stroke\":\"medium rounded line\"},\"right_panel\":{\"title\":\"{argument name=\\\"feature label\\\" default=\\\"カルテ作成\\\"}\",\"container\":\"large rounded rectangle card with blue-to-purple gradient header and white body\",\"top_badge\":\"circular floating badge above the card showing an ID/profile document icon with a teal checkmark\",\"body_elements\":{\"count\":6,\"items\":[\"circular avatar portrait placeholder of a woman with dark blue hair\",\"two horizontal gray text lines to the right of avatar\",\"three information rows with teal icons\",\"small teal NEW pill badge on the first row\",\"light gray placeholder lines for record details\",\"thin blue outline around main card\"]},\"row_icons\":[\"tag\",\"phone\",\"heart\"]},\"accent_graphics\":{\"count\":4,\"items\":[\"left teal sparkle beside subheadline\",\"right gold sparkle beside subheadline\",\"two small white sparkles around the main right card\",\"small teal dot accents on connector ends\"]},\"color_palette\":{\"primary\":\"deep blue-violet\",\"secondary\":\"teal\",\"accent\":\"gold\",\"background\":\"white and pale mint\"},\"generation_notes\":\"Use crisp Japanese typography, bold oversized headline, balanced whitespace, polished SaaS product announcement aesthetic, vector UI mockup style, no photo realism, no busy textures\"}",
+  "translatedPrompt": "{\"type\":\"SaaS 功能更新横幅信息图\",\"style\":\"简洁现代的日本科技营销图形，高质量企业信息图，柔和渐变，圆角 UI 卡片，细腻阴影，极简矢量插画\",\"format\":\"方形社交媒体横幅\",\"aspect_ratio\":\"1:1\",\"brand\":{\"logo_text\":\"L 成员卡\",\"logo_icon\":\"圆角方形应用图标，蓝紫色渐变背景上带有白色的 L 字母样式\"},\"background\":{\"base\":\"极浅的白色至淡薄荷绿渐变\",\"decorations\":{\"count\":6,\"items\":[\"从左上角扫过的半透明大弧形\",\"从右下角扫过的半透明大弧形\",\"左上边缘的小型点状半调簇\",\"右下边缘的小型点状半调簇\",\"主卡片后方的柔和环境光\",\"角落处淡淡的青色渐变晕染\"]}},\"layout\":{\"sections\":[{\"title\":\"header\",\"position\":\"top center\",\"count\":3,\"labels\":[\"L 成员卡\",\"通过触发器设置自动创建\",\"根据到店事件生成档案\"]},{\"title\":\"left trigger cards\",\"position\":\"left center\",\"count\":3,\"labels\":[\"预约完成\",\"签到\",\"创建交易\"]},{\"title\":\"right output card\",\"position\":\"right center\",\"count\":1,\"labels\":[\"创建档案\"]}],\"flow\":\"左侧三张堆叠的触发器卡片通过青色括号状线条连接，指向右侧一个大型个人资料记录卡片\"},\"text\":{\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"通过触发器设置自动创建\\\"}\",\"subheadline\":\"{argument name=\\\"subheadline text\\\" default=\\\"根据到店事件生成档案\\\"}\"},\"left_panel\":{\"cards\":[{\"label\":\"预约完成\",\"icon\":\"带勾选标记的日历\",\"icon_color\":\"teal\",\"card_style\":\"带有柔和灰色阴影的白色圆角矩形\"},{\"label\":\"签到\",\"icon\":\"地图大头针\",\"icon_color\":\"teal\",\"card_style\":\"带有柔和灰色阴影的白色圆角矩形\"},{\"label\":\"创建交易\",\"icon\":\"文档轮廓\",\"icon_color\":\"teal\",\"card_style\":\"带有柔和灰色阴影的白色圆角矩形\"}]},\"connector\":{\"color\":\"teal\",\"shape\":\"将左侧三张卡片连接至右侧箭头的垂直括号线\",\"stroke\":\"中等粗细的圆角线条\"},\"right_panel\":{\"title\":\"{argument name=\\\"feature label\\\" default=\\\"创建档案\\\"}\",\"container\":\"带有蓝紫色渐变标题和白色主体的大型圆角矩形卡片\",\"top_badge\":\"卡片上方悬浮的圆形徽章，显示带有青色勾选标记的 ID/个人资料文档图标\",\"body_elements\":{\"count\":6,\"items\":[\"深蓝色头发女性的圆形头像占位符\",\"头像右侧的两行水平灰色文本\",\"带有青色图标的三行信息\",\"第一行带有青色 NEW 标签\",\"记录详情的浅灰色占位符线条\",\"主卡片周围的细蓝色轮廓\"]},\"row_icons\":[\"tag\",\"phone\",\"heart\"]},\"accent_graphics\":{\"count\":4,\"items\":[\"副标题旁左侧的青色闪光\",\"副标题旁右侧的金色闪光\",\"主右卡片周围的两个小白点闪光\",\"连接器末端的小型青色圆点\"]},\"color_palette\":{\"primary\":\"深蓝紫色\",\"secondary\":\"青色\",\"accent\":\"金色\",\"background\":\"白色和淡薄荷绿\"},\"generation_notes\":\"使用清晰的日文字体，粗体大号标题，平衡的留白，精致的 SaaS 产品公告美学，矢量 UI 样机风格，无照片写实感，无繁杂纹理\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日本 SaaS 触发器自动化横幅：一张精致的方形日本 SaaS 营销横幅，展示了基于触发器的自动记录创建功能，采用简洁的信息图布局，适用于产品更新公告。",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [
+        "vertical",
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical, horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14580",
+      "14635",
+      "15795",
+      "13905",
+      "15714",
+      "15056"
+    ]
+  }
+}

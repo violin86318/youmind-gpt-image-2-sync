@@ -1,0 +1,43 @@
+{
+  "id": "15563",
+  "prompt": "Soft poetic children's book illustration with watercolor and gouache textures. Clear gentle daylight. Muted pastel colors with soft blue and warm tones. Visible brush strokes and paper grain. Minimalist composition with large negative space. Hand-painted picture book style, not cartoon, not anime, not 3D. {argument name=\"subject\" default=\"Two children in calm conversation, soft connection forming\"}.",
+  "translatedPrompt": "柔和且富有诗意的儿童绘本插画，带有水彩和水粉质感。清澈柔和的自然光。柔和的粉彩色调，伴随淡蓝色与暖色调。可见的笔触与纸张纹理。极简构图，留有大面积负空间。手绘绘本风格，非卡通，非动漫，非 3D。{argument name=\"subject\" default=\"两个孩子在平静地交谈，建立起柔和的联结\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "柔和水彩绘本插画：一个充满诗意的提示词，用于创作具有水彩和水粉质感的儿童绘本插画，呈现柔和的粉彩色调与极简的构图。",
+      "subject": "产品",
+      "scene": "空间/场景",
+      "composition": [],
+      "style": [
+        "anime",
+        "3d",
+        "minimalist",
+        "watercolor"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "空间概念、建筑场景、游戏场景、产品场景盒子",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 空间/场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime, 3d, minimalist, watercolor]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15328",
+      "14268",
+      "13614",
+      "13734",
+      "14067",
+      "15518"
+    ]
+  }
+}

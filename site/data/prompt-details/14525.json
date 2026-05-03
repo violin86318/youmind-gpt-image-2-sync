@@ -1,0 +1,48 @@
+{
+  "id": "14525",
+  "prompt": "{\"type\":\"black-and-white fantasy manga page\",\"style\":{\"medium\":\"detailed inked manga line art with screentone shading\",\"color\":\"monochrome grayscale\",\"reading\":\"Japanese manga page\",\"mood\":\"comic misunderstanding with dramatic fantasy tension\"},\"layout\":{\"page_count\":1,\"panel_count\":3,\"panels\":[{\"position\":\"top wide panel\",\"description\":\"A forest road framed by tall trees and rocky banks. Two huge monster corpses lie in the foreground left and right, both charred and still smoking, with blackened cracked hides, horns, claws, exposed teeth, and ash-like texture. Between them in the midground stand 2 adventurers: a young witch and a small elf boy. The witch is a slim young woman with long straight light hair, a wide-brim pointed witch hat, a staff topped with an oval ornament, a short fantasy outfit with corset-like bodice, shorts, thigh-high boots, gloves, and a cape. The boy is short and childlike with messy light hair, pointed elf ears, a tunic fastened at the chest, trousers, boots, and a short cape. Both face forward as if they have just defeated the monsters. There are 3 visible Japanese sound-effect texts: one on the left reading \\\"ぷす\\\", and two on the right reading \\\"ぷす\\\" and \\\"ぷす\\\" to indicate smoke sizzling from the corpses.\"},{\"position\":\"middle horizontal panel\",\"description\":\"A dramatic close-up of the elf boy rushing forward toward the viewer with both arms fully outstretched for a hug, hands open and large in perspective. His face is centered but obscured by a rectangular gray censorship block. Motion lines radiate from behind him. On the left is 1 vertical Japanese speech bubble reading \\\"ママー やったよー\\\".\"},{\"position\":\"bottom horizontal panel\",\"description\":\"A close-up reaction shot of the witch from the chest up, turned slightly to the side, blushing intensely with wide shocked eyes, parted lips, and one hand raised awkwardly near her face. Her long hair spills from under the hat, and her cloak is clasped with a jeweled brooch. The background is filled with speed lines. On the right is 1 vertical Japanese speech bubble reading \\\"ばー\\\".\"}],\"borders\":\"clean manga gutters and black panel borders\"},\"characters\":[{\"role\":\"witch\",\"gender\":\"female\",\"age_appearance\":\"young adult\",\"hair\":{\"color\":\"light\",\"style\":\"long straight hair with bangs\"},\"outfit\":[\"wide-brim pointed witch hat\",\"staff\",\"cape with brooch clasp\",\"fitted fantasy top\",\"shorts\",\"thigh-high boots\"],\"expression_in_page\":\"confused, embarrassed, flustered\"},{\"role\":\"elf boy\",\"gender\":\"male\",\"age_appearance\":\"child\",\"race\":\"elf\",\"hair\":{\"color\":\"light\",\"style\":\"short tousled hair\"},\"features\":[\"pointed ears\"],\"outfit\":[\"cape\",\"long-sleeve tunic with chest clasp\",\"pants\",\"boots\"],\"expression_in_page\":\"excited and affectionate\"}],\"creatures\":{\"count\":2,\"description\":\"two giant dragon-like or demonic beast corpses, burned and smoking on both sides of the path\"},\"composition_notes\":\"Use strong perspective in the middle panel, dense crosshatching and textured blacks on the monster bodies, airy forest detail in the top panel, and expressive manga speed lines in the lower 2 panels. Keep the page in polished fantasy manga style suitable for a serialized comic.\"}",
+  "translatedPrompt": "{\"type\":\"黑白奇幻漫画页\",\"style\":{\"medium\":\"细节丰富的漫画墨线稿，带有网点阴影\",\"color\":\"单色灰度\",\"reading\":\"日式漫画页\",\"mood\":\"带有戏剧性奇幻张力的喜剧误会\"},\"layout\":{\"page_count\":1,\"panel_count\":3,\"panels\":[{\"position\":\"顶部宽幅分镜\",\"description\":\"一条被高大树木和岩石岸边环绕的森林小路。前景左右两侧躺着两具巨大的怪物尸体，均已烧焦且仍在冒烟，皮肤焦黑开裂，露出尖角、利爪、牙齿，呈现出灰烬般的质感。中景处站着两名冒险者：一名年轻女巫和一名精灵小男孩。女巫身材苗条，留着长直浅色头发，戴着宽檐尖顶女巫帽，手持顶部带有椭圆形装饰的法杖，身穿短款奇幻服装，配有紧身胸衣、短裤、过膝长靴、手套和斗篷。男孩身材矮小，留着凌乱的浅色短发，有着尖尖的精灵耳朵，穿着胸前系扣的束腰外衣、长裤、靴子和短斗篷。两人面向前方，仿佛刚刚击败了怪物。画面中有 3 处可见的日文拟声词：左侧一处写着“ぷす”，右侧两处分别写着“ぷす”和“ぷす”，表示尸体上冒出的嘶嘶烟雾。\"},{\"position\":\"中部横向分镜\",\"description\":\"一个戏剧性的特写镜头，精灵男孩张开双臂向读者冲来，试图拥抱，双手在透视下显得很大。他的脸位于画面中心，但被一个矩形的灰色马赛克遮挡。他身后放射出动感线条。左侧有一个垂直的日文对话框，写着“ママー やったよー”。\"},{\"position\":\"底部横向分镜\",\"description\":\"女巫的胸部以上特写反应镜头，身体略微转向侧面，脸颊通红，双眼圆睁，嘴唇微张，一只手尴尬地抬起靠近脸部。她的长发从帽子下垂落，斗篷由一枚宝石胸针扣住。背景充满了速度线。右侧有一个垂直的日文对话框，写着“ばー”。\"}],\"borders\":\"整洁的漫画分镜间距和黑色边框\"},\"characters\":[{\"role\":\"女巫\",\"gender\":\"女\",\"age_appearance\":\"年轻成年人\",\"hair\":{\"color\":\"浅色\",\"style\":\"长直发，带刘海\"},\"outfit\":[\"宽檐尖顶女巫帽\",\"法杖\",\"带胸针扣的斗篷\",\"修身奇幻上衣\",\"短裤\",\"过膝长靴\"],\"expression_in_page\":\"困惑、尴尬、慌乱\"},{\"role\":\"精灵男孩\",\"gender\":\"男\",\"age_appearance\":\"儿童\",\"race\":\"精灵\",\"hair\":{\"color\":\"浅色\",\"style\":\"凌乱短发\"},\"features\":[\"尖耳朵\"],\"outfit\":[\"斗篷\",\"长袖束腰外衣，带胸前扣\",\"长裤\",\"靴子\"],\"expression_in_page\":\"兴奋且充满爱意\"}],\"creatures\":{\"count\":2,\"description\":\"两具巨大的龙形或恶魔兽尸体，在道路两侧燃烧并冒烟\"},\"composition_notes\":\"在中部面板使用强烈的透视效果，在怪物尸体上使用密集的交叉排线和纹理黑色，顶部面板表现森林的通透细节，下方的 2 个面板使用富有表现力的漫画速度线。保持页面为适合连载漫画的精致奇幻风格。\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "森林中的奇幻漫画页：一页细节丰富的黑白奇幻漫画，描绘了一名女巫和一名精灵男孩在击败两只怪物后的场景，随后是一个充满喜剧色彩的情感误会特写镜头。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "close-up",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "manga",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, close-up, vertical, horizontal]。\n\nVisual style:\n[参考风格: manga, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14523",
+      "15352",
+      "14250",
+      "14532",
+      "14534",
+      "15311"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "15398",
+  "prompt": "A whimsical painterly illustration of a vintage turquoise station wagon driving along a coastal road, shown in clean side profile against a simple blue sky and calm ocean horizon. On the roof, tied down with 4 visible tan ropes, is an absurdly oversized white dog bone, rough-textured and sculptural, longer than the car itself. Inside the car are 4 dogs total: 1 golden-brown dog in the driver’s seat with one paw on the steering wheel, 2 golden-brown dogs sitting in the middle and rear windows looking outward, and 1 white-and-brown dog at the back with its head tilted slightly up. Use thick expressive oil-paint brushstrokes, soft impasto texture, slightly naive folk-art realism, gentle humor, and a minimalist composition with the car centered horizontally. The road is dark in the foreground with a thin sandy strip near the water, and the palette is dominated by sky blue, sea blue, faded turquoise, cream white, and warm brown. Bright daylight, no text, no extra objects, serene but funny road-trip mood.",
+  "translatedPrompt": "一幅充满奇趣的油画风格插画，描绘了一辆复古绿松石色旅行车行驶在沿海公路上。画面采用简洁的侧面视角，背景是纯净的蓝天与平静的海平线。车顶上用 4 根清晰可见的棕褐色绳子绑着一根极其夸张的巨大白色狗骨头，骨头表面纹理粗糙、造型立体，长度甚至超过了车身。车内共有 4 只狗狗：驾驶座上是一只金棕色狗狗，一只爪子搭在方向盘上；中间和后排车窗各坐着一只金棕色狗狗，正向外张望；车尾还有一只白棕相间的狗狗，头部微微上扬。画面采用厚重且富有表现力的油画笔触，带有柔和的厚涂质感，呈现出略显稚拙的民间艺术写实风格，充满温和的幽默感，构图极简，汽车位于画面水平中心。前景是深色的道路，靠近水边有一条细长的沙带。色调以天蓝色、海蓝色、褪色的绿松石色、奶油白和暖棕色为主。明亮的日光，无文字，无多余物体，营造出宁静而有趣的公路旅行氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "海边载着巨大骨头的狗狗们：此提示词可生成一幅幽默的油画风格海滨场景：四只狗狗乘坐复古汽车，车顶绑着一根巨大的骨头，非常适合制作奇趣艺术画作或社交媒体视觉内容。",
+      "subject": "产品",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "centered",
+        "horizontal"
+      ],
+      "style": [
+        "minimalist",
+        "vintage"
+      ],
+      "lightingCamera": [],
+      "text": "禁止额外文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, horizontal]。\n\nVisual style:\n[参考风格: minimalist, vintage]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n禁止额外文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14860",
+      "15611",
+      "14967",
+      "15815",
+      "14810",
+      "14819"
+    ]
+  }
+}

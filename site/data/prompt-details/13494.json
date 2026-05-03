@@ -1,0 +1,41 @@
+{
+  "id": "13494",
+  "prompt": "{\n  \"type\": \"infographic timeline\",\n  \"style\": {\n    \"background\": \"{argument name=\\\"background style\\\" default=\\\"textured beige rice paper\\\"}\",\n    \"art_style\": \"{argument name=\\\"art style\\\" default=\\\"traditional Chinese watercolor and ink wash illustration\\\"}\"\n  },\n  \"header\": {\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"中国历史朝代图\\\"}\",\n    \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"华夏文明·源远流长\\\"}\",\n    \"elements\": [\"red calligraphy title\", \"red square seal stamp top right\", \"cloud motifs\"]\n  },\n  \"layout\": {\n    \"sections_count\": 4,\n    \"sections\": [\n      {\n        \"id\": \"1\",\n        \"label\": \"壹 先秦时期\",\n        \"date_range\": \"(约前2070年—前221年)\",\n        \"description\": \"华夏起源，诸侯纷争，百家争鸣。\",\n        \"timeline_nodes\": 4,\n        \"dynasties\": [\"夏\", \"商\", \"西周\", \"东周\"],\n        \"illustrations\": [\"scholar holding bamboo slips\", \"bronze ding tripod\", \"bronze ritual vessel\", \"horse-drawn chariot\", \"bamboo slips and brush\"]\n      },\n      {\n        \"id\": \"2\",\n        \"label\": \"贰 秦汉三国\",\n        \"date_range\": \"(前221年—280年)\",\n        \"description\": \"大一统时代，开疆拓土，英雄辈出。\",\n        \"timeline_nodes\": 3,\n        \"dynasties\": [\"秦\", \"汉\", \"三国\"],\n        \"illustrations\": [\"terracotta warrior\", \"cavalryman on galloping horse\", \"three generals in traditional armor\"]\n      },\n      {\n        \"id\": \"3\",\n        \"label\": \"叁 两晋南北朝 隋唐五代\",\n        \"date_range\": \"(280年—960年)\",\n        \"description\": \"分裂与融合并存，盛世辉煌，文化鼎盛。\",\n        \"timeline_nodes\": 5,\n        \"dynasties\": [\"两晋\", \"南北朝\", \"隋\", \"唐\", \"五代十国\"],\n        \"illustrations\": [\"scholar drinking wine\", \"seated Buddha statue\", \"arched stone bridge with boat\", \"elegant Tang dynasty lady\", \"cavalryman holding a flag\"]\n      },\n      {\n        \"id\": \"4\",\n        \"label\": \"肆 宋元明清\",\n        \"date_range\": \"(960年—1912年)\",\n        \"description\": \"经济繁荣，民族融合，走向近代。\",\n        \"timeline_nodes\": 4,\n        \"dynasties\": [\"宋\", \"元\", \"明\", \"清\"],\n        \"illustrations\": [\"bustling riverside townscape\", \"mounted archer shooting backwards\", \"palace complex\", \"Qing dynasty official\"]\n      }\n    ]\n  },\n  \"footer\": {\n    \"quote\": \"{argument name=\\\"bottom quote\\\" default=\\\"以史为鉴，可以知兴替；以人为镜，可以明得失。\\\"}\",\n    \"decorations\": [\"bamboo leaves on bottom left\", \"Great Wall illustration on bottom right\"]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"信息图时间轴\",\n  \"style\": {\n    \"background\": \"{argument name=\\\"background style\\\" default=\\\"纹理米色宣纸\\\"}\",\n    \"art_style\": \"{argument name=\\\"art style\\\" default=\\\"传统中国水墨画风格\\\"}\"\n  },\n  \"header\": {\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"中国历史朝代图\\\"}\",\n    \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"华夏文明·源远流长\\\"}\",\n    \"elements\": [\"红色书法标题\", \"右上角红色方形印章\", \"祥云纹饰\"]\n  },\n  \"layout\": {\n    \"sections_count\": 4,\n    \"sections\": [\n      {\n        \"id\": \"1\",\n        \"label\": \"壹 先秦时期\",\n        \"date_range\": \"(约前 2070 年—前 221 年)\",\n        \"description\": \"华夏起源，诸侯纷争，百家争鸣。\",\n        \"timeline_nodes\": 4,\n        \"dynasties\": [\"夏\", \"商\", \"西周\", \"东周\"],\n        \"illustrations\": [\"手持竹简的学者\", \"青铜鼎\", \"青铜礼器\", \"马车\", \"竹简与毛笔\"]\n      },\n      {\n        \"id\": \"2\",\n        \"label\": \"贰 秦汉三国\",\n        \"date_range\": \"(前 221 年—280 年)\",\n        \"description\": \"大一统时代，开疆拓土，英雄辈出。\",\n        \"timeline_nodes\": 3,\n        \"dynasties\": [\"秦\", \"汉\", \"三国\"],\n        \"illustrations\": [\"兵马俑\", \"骑马的骑兵\", \"三位身着传统盔甲的将军\"]\n      },\n      {\n        \"id\": \"3\",\n        \"label\": \"叁 两晋南北朝 隋唐五代\",\n        \"date_range\": \"(280 年—960 年)\",\n        \"description\": \"分裂与融合并存，盛世辉煌，文化鼎盛。\",\n        \"timeline_nodes\": 5,\n        \"dynasties\": [\"两晋\", \"南北朝\", \"隋\", \"唐\", \"五代十国\"],\n        \"illustrations\": [\"饮酒的学者\", \"坐佛像\", \"带船的拱形石桥\", \"优雅的唐代仕女\", \"持旗骑兵\"]\n      },\n      {\n        \"id\": \"4\",\n        \"label\": \"肆 宋元明清\",\n        \"date_range\": \"(960 年—1912 年)\",\n        \"description\": \"经济繁荣，民族融合，走向近代。\",\n        \"timeline_nodes\": 4,\n        \"dynasties\": [\"宋\", \"元\", \"明\", \"清\"],\n        \"illustrations\": [\"繁华的河畔城镇景观\", \"回身射箭的骑射手\", \"宫殿建筑群\", \"清代官员\"]\n      }\n    ]\n  },\n  \"footer\": {\n    \"quote\": \"{argument name=\\\"bottom quote\\\" default=\\\"以史为鉴，可以知兴替；以人为镜，可以明得失。\\\"}\",\n    \"decorations\": [\"左下角竹叶\", \"右下角长城插画\"]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "中国历史时间轴信息图：一份详尽的四段式纵向信息图，通过水墨插画和时间轴节点梳理中国历代王朝。",
+      "subject": "信息结构",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "watercolor",
+        "ink wash"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: watercolor, ink wash]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13896",
+      "14437",
+      "13749",
+      "14126",
+      "14458",
+      "14459"
+    ]
+  }
+}

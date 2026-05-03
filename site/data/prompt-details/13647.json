@@ -1,0 +1,43 @@
+{
+  "id": "13647",
+  "prompt": "Modern pencil illustration of {argument name=\"location\" default=\"Vintage travel poster illustration of the Amalfi Coast, Italy\"}, panoramic coastal cliff road scene, classic 1960s white car driving along a curved seaside road, deep blue Mediterranean sea with small sailboats, colorful pastel hillside village, bright blue sky with soft clouds, lemon tree branches with vibrant yellow lemons framing the foreground, warm summer sunlight, bold vibrant colors, {argument name=\"style\" default=\"retro 1950s travel poster\"} style, cinematic composition, high detail, screen print texture, graphic illustration. Hand-drawn style, illustration with loose strokes and defined contours. High-contrast color palette, maintaining chromatic harmony between background and elements. Contemporary and decorative aesthetic.",
+  "translatedPrompt": "{argument name=\"illustration style\" default=\"现代铅笔插画\"}，{argument name=\"location\" default=\"意大利阿马尔菲海岸\"}的复古旅行海报插画，全景海岸悬崖公路场景，经典的 20 世纪 60 年代白色汽车行驶在蜿蜒的海滨公路上，深蓝色的地中海与点点帆船，色彩缤纷的半山腰村庄，明亮的蓝天与柔和的云朵，前景由挂满鲜艳柠檬的柠檬树枝勾勒，温暖的夏日阳光，大胆鲜艳的色彩，复古 20 世纪 50 年代旅行海报风格，电影级构图，高细节，丝网印刷质感，图形插画。手绘风格，笔触灵动且轮廓清晰。高对比度调色板，保持背景与元素之间的色彩和谐。现代且具有装饰性的美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "阿马尔菲海岸复古旅行海报：一份关于 20 世纪 50/60 年代风格阿马尔菲海岸旅行海报的高度详细插画提示词，包含特定的汽车和景观元素。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "vintage",
+        "retro",
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, vintage, retro, hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15450",
+      "15748",
+      "13678",
+      "14272",
+      "15095",
+      "15810"
+    ]
+  }
+}

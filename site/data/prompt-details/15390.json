@@ -1,0 +1,43 @@
+{
+  "id": "15390",
+  "prompt": "A wide-angle photorealistic corporate boardroom scene during a high-level business meeting, viewed from the back corner of the room. Around {argument name=\"number of attendees\" default=\"18\"} professionals in business attire sit around a large U-shaped light wood conference table, most with open laptops, notebooks, coffee cups, glasses of water, and smartphones in front of them. The group includes men and women of varied ethnicities, all focused toward a huge wall-mounted digital presentation screen on a warm wood-paneled wall. The screen shows a dark blue analytics dashboard with multiple charts and data panels, including bar charts, line graphs, KPI tiles, a world map, percentage circles, and trend visuals, suggesting finance, operations, or executive reporting. A presenter sits near the center-right side facing the screen, while the rest of the team watches attentively in a formal strategy session. The office is a modern executive meeting room with floor-to-ceiling windows along the entire left side, revealing a hazy urban skyline of high-rise buildings in daylight. Include sleek black leather office chairs with chrome frames, a polished wood floor, recessed linear ceiling lights, and a tall green potted plant near the display wall. Natural daylight fills the room, balanced with clean architectural interior lighting. Emphasize realism, professional atmosphere, sharp detail, subtle reflections, believable skin tones, and premium corporate interior design. Shot in a cinematic architectural photography style, ultra-detailed, high resolution, wide composition.",
+  "translatedPrompt": "一张广角照片级真实的企业董事会场景，展示了一场高层商务会议，视角位于房间后角。约 {argument name=\"number of attendees\" default=\"18\"} 位身着商务正装的专业人士围坐在大型 U 型浅色木质会议桌旁，大多数人面前放着打开的笔记本电脑、笔记本、咖啡杯、水杯和智能手机。团队成员包括不同族裔的男女，他们都专注于墙上巨大的数字演示屏幕，屏幕安装在温暖的木镶板墙面上。屏幕显示着一个深蓝色的分析仪表盘，包含多个图表和数据面板，如柱状图、折线图、KPI 平铺图、世界地图、百分比圆环和趋势图，暗示着财务、运营或高管汇报场景。一位演讲者坐在中右侧面向屏幕，其余团队成员在正式的战略会议中专注地观看。这间办公室是现代化的行政会议室，左侧整面墙均为落地窗，展现出白昼下朦胧的城市高层建筑天际线。配备带有铬合金框架的时尚黑色真皮办公椅、抛光木地板、嵌入式线性天花板灯，以及展示墙旁的一盆高大绿植。自然光充满整个房间，并与整洁的建筑室内照明相平衡。强调真实感、专业氛围、清晰细节、微妙的反射、可信的肤色以及高端的企业室内设计。采用电影级建筑摄影风格拍摄，超精细，高分辨率，广角构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "现代董事会分析会议：一张照片级真实的行政董事会会议场景，展示了一个大型团队正在审查数据仪表盘，非常适合商业、咨询、金融和企业战略相关的视觉呈现。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "B2B 产品概念图、后台系统、数据看板",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15391",
+      "15389",
+      "14015",
+      "14322",
+      "15038",
+      "15423"
+    ]
+  }
+}

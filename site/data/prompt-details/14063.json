@@ -1,0 +1,44 @@
+{
+  "id": "14063",
+  "prompt": "{\n  \"type\": \"video game main menu UI mockup\",\n  \"theme\": \"{argument name=\\\"color palette\\\" default=\\\"purple, pink, and orange synthwave\\\"}\",\n  \"background\": {\n    \"setting\": \"coastal city skyline at {argument name=\\\"time of day\\\" default=\\\"sunset\\\"}\",\n    \"elements\": [\n      \"water reflecting city lights\",\n      \"wooden dock in foreground\",\n      \"speedboat on the water\",\n      \"helicopter with spotlight\",\n      \"airplane in the sky\",\n      \"palm trees framing left and right edges\",\n      \"neon sign reading '{argument name=\\\"city name\\\" default=\\\"VICE CITY\\\"} WELCOME'\"\n    ]\n  },\n  \"ui_layout\": {\n    \"top_left\": \"Large logo '{argument name=\\\"game title\\\" default=\\\"grand theft auto VI\\\"}' with neon gradient roman numerals\",\n    \"middle_left\": {\n      \"type\": \"vertical menu\",\n      \"count\": 5,\n      \"items\": [\n        \"START GAME (highlighted with pink gradient and > arrow)\",\n        \"SETTINGS\",\n        \"ONLINE\",\n        \"SOCIAL CLUB\",\n        \"QUIT GAME\"\n      ]\n    },\n    \"top_right\": \"Text 'Signed in as: {argument name=\\\"username\\\" default=\\\"GTAVI_01\\\"}'\",\n    \"bottom_left\": \"Developer star logo 'R*'\",\n    \"bottom_right\": \"Controller prompts 'Account Picker Y, Select A'\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"电子游戏主菜单 UI 设计草图\",\n  \"theme\": \"{argument name=\\\"color palette\\\" default=\\\"紫色、粉色和橙色的合成波风格\\\"}\",\n  \"background\": {\n    \"setting\": \"海滨城市天际线，时间为 {argument name=\\\"time of day\\\" default=\\\"日落\\\"}\",\n    \"elements\": [\n      \"水面反射着城市灯光\",\n      \"前景中的木质码头\",\n      \"水面上的快艇\",\n      \"带有聚光灯的直升机\",\n      \"天空中的飞机\",\n      \"左右两侧边缘的棕榈树\",\n      \"写有 '{argument name=\\\"city name\\\" default=\\\"VICE CITY\\\"} WELCOME' 的霓虹灯牌\"\n    ]\n  },\n  \"ui_layout\": {\n    \"top_left\": \"大型标志 '{argument name=\\\"game title\\\" default=\\\"grand theft auto VI\\\"}'，带有霓虹渐变效果的罗马数字\",\n    \"middle_left\": {\n      \"type\": \"垂直菜单\",\n      \"count\": 5,\n      \"items\": [\n        \"开始游戏 (高亮显示，带有粉色渐变和 > 箭头)\",\n        \"设置\",\n        \"在线\",\n        \"社交俱乐部\",\n        \"退出游戏\"\n      ]\n    },\n    \"top_right\": \"文本 '登录用户: {argument name=\\\"username\\\" default=\\\"GTAVI_01\\\"}'\",\n    \"bottom_left\": \"开发者星形标志 'R*'\",\n    \"bottom_right\": \"手柄提示 '账户选择 Y，确认 A'\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电子游戏主菜单 UI 设计草图：生成一个逼真的电子游戏主菜单屏幕，包含充满活力的日落城市背景和可自定义的 UI 元素。",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14884",
+      "15111",
+      "14435",
+      "13732",
+      "14091",
+      "14909"
+    ]
+  }
+}

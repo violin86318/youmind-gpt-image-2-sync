@@ -1,0 +1,46 @@
+{
+  "id": "15008",
+  "prompt": "{\"type\":\"educational Korean infographic comic\",\"style\":\"clean textbook-style digital illustration with bold black panel borders, soft flat colors, slightly cartooned semi-realistic characters, rounded speech bubbles, readable Korean text, classroom handout layout\",\"topic\":\"fair choice and random selection\",\"language\":\"Korean\",\"page\":{\"orientation\":\"portrait\",\"background\":\"light beige paper tone\",\"border\":\"thin black outer border\",\"panelCount\":6},\"title\":{\"text\":\"{argument name=\\\"headline text\\\" default=\\\"29강 – 게이트웨이: 공정한 선택과 추첨\\\"}\",\"position\":\"top center\",\"style\":\"large bold Korean sans-serif\"},\"layout\":{\"sections\":[{\"position\":\"top-left\",\"count\":1,\"scene\":\"a male student in a green hoodie sits at a desk with an open book, hand on chin, city skyline visible through large windows behind him, indoor study room with potted plant\",\"textElements\":{\"speechBubbles\":[\"사람들의 의견이 다르면 하나의 결정을 내려야 해.\",\"이때 공정하게 정하려면 추첨이 필요할 수 있어.\"]}},{\"position\":\"top-right\",\"count\":1,\"scene\":\"example panel with two students facing each other, boy in blue hoodie on the left and girl in yellow sweater on the right, small cards between them showing blue a and red b with vs in the middle\",\"textElements\":{\"header\":\"예: 선택지가 a와 b, 사람은 두 명\",\"speechBubbles\":[\"나는 a가 좋아.\",\"나는 b가 좋아.\"],\"labels\":[\"사람 1\",\"사람 2\"],\"footer\":\"한쪽을 바로 고르면 공정성이 깨질 수 있어.\"}},{\"position\":\"middle-left\",\"count\":1,\"scene\":\"principles panel divided into 2 sub-boxes with icons\",\"textElements\":{\"header\":\"중요한 공정성 원칙 두 가지\",\"subsections\":[{\"title\":\"익명성\",\"description\":\"누가 말했는지보다 의견이 같게 다뤄져야 해.\"},{\"title\":\"중립성\",\"description\":\"a와 b 중 어느 쪽에도 편들지 않아야 해.\"}],\"footer\":\"두 원칙을 지키려면 추첨이 도움이 돼.\"},\"icons\":[\"2 person icons with double arrow\",\"balance scale with a and b blocks\"]},{\"position\":\"middle-right\",\"count\":1,\"scene\":\"a male student in green hoodie points upward beside a majority-vote table\",\"textElements\":{\"speechBubble\":\"많은 결정 규칙도 동점이면 추첨을 써.\",\"tableHeader\":\"예: 다수결\",\"rows\":[\"a 많음 → a 선택\",\"b 많음 → b 선택\",\"동점 → 추첨\"],\"footer\":\"즉, 동점일 때는 무작위 방식이 필요해.\"},\"table\":{\"rowCount\":3,\"visuals\":\"three colored voter groups with circles labeled a and b\"}},{\"position\":\"bottom-left\",\"count\":1,\"scene\":\"ancient Athens historical scene with 5 visible figures in foreground and crowd behind, two men draw lots from a large clay pot, classical Greek buildings and Acropolis in the background\",\"textElements\":{\"header\":\"추첨은 고대 아테네에서도 중요했어.\",\"speechBubble\":\"관직을 추첨으로 뽑아 시민에게 기회를 주었지.\",\"footer\":\"당시 사람들은 이를 민주주의의 특징으로 봤어.\"}},{\"position\":\"bottom-right\",\"count\":1,\"scene\":\"modern student in green hoodie using a gray laptop at a desk with coffee cup, bookshelf, plant, and city skyline through windows\",\"textElements\":{\"header\":\"오늘날에도 정치학에서 다시 주목받고 있어.\",\"callouts\":[\"다양한 의견 반영\",\"특정 집단 편들기 방지\",\"운에 따른 공정한 기회\",\"고대부터 현대까지 활용\"],\"footer\":\"결론: 여러 의견을 하나로 모을 때 추첨은 공정한 선택을 돕는다.\"},\"icons\":[\"3 person symbol\",\"ballot box\",\"pair of dice\",\"globe\"]}]},\"characters\":{\"mainStudent\":{\"gender\":\"male\",\"age\":\"teen or young adult\",\"hair\":\"messy short black hair\",\"outfit\":\"green hoodie\"},\"secondaryCharacters\":[{\"count\":1,\"description\":\"male student in blue hoodie\"},{\"count\":1,\"description\":\"female student with short brown bob haircut in yellow sweater\"},{\"count\":5,\"description\":\"ancient Greek figures in draped robes in the Athens panel foreground\"}]},\"visualNotes\":{\"textLegibility\":\"highly legible Korean typography\",\"colorPalette\":\"muted cream, green, blue, yellow, terracotta, and gray\",\"composition\":\"6-panel educational comic infographic with equal-sized rectangular panels and rounded internal text boxes\",\"mood\":\"clear, informative, approachable\"}}",
+  "translatedPrompt": "{\"type\":\"教育类韩语漫画信息图\",\"style\":\"简洁的教科书风格数字插画，带有粗黑边框，柔和的平涂色彩，略带卡通感的半写实人物，圆角对话框，清晰易读的韩语文本，课堂讲义排版\",\"topic\":\"公平选择与随机抽选\",\"language\":\"韩语\",\"page\":{\"orientation\":\"纵向\",\"background\":\"浅米色纸张色调\",\"border\":\"细黑色外边框\",\"panelCount\":6},\"title\":{\"text\":\"{argument name=\\\"headline text\\\" default=\\\"第 29 课 – 导读：公平选择与抽签\\\"}\",\"position\":\"顶部居中\",\"style\":\"大号加粗韩语无衬线字体\"},\"layout\":{\"sections\":[{\"position\":\"左上\",\"count\":1,\"scene\":\"一名身穿绿色连帽衫的男学生坐在书桌前，手托下巴，桌上放着打开的书本，身后的大窗户可以看到城市天际线，室内书房配有盆栽\",\"textElements\":{\"speechBubbles\":[\"当人们意见不一致时，必须做出一个决定。\",\"这时，为了公平起见，可能需要进行抽签。\"]}},{\"position\":\"右上\",\"count\":1,\"scene\":\"示例面板，两名学生面对面，左侧是穿蓝色连帽衫的男生，右侧是穿黄色毛衣的女生，两人中间的小卡片显示蓝色 a 和红色 b，中间有 vs 字样\",\"textElements\":{\"header\":\"例如：选项为 a 和 b，两人参与\",\"speechBubbles\":[\"我喜欢 a。\",\"我喜欢 b。\"],\"labels\":[\"人 1\",\"人 2\"],\"footer\":\"如果直接选择其中一方，可能会破坏公平性。\"}},{\"position\":\"左中\",\"count\":1,\"scene\":\"原则面板，分为 2 个带有图标的子框\",\"textElements\":{\"header\":\"两个重要的公平原则\",\"subsections\":[{\"title\":\"匿名性\",\"description\":\"无论谁发言，意见都应被平等对待。\"},{\"title\":\"中立性\",\"description\":\"不应偏袒 a 或 b 中的任何一方。\"}],\"footer\":\"要遵守这两个原则，抽签很有帮助。\"},\"icons\":[\"2 人图标配双向箭头\",\"带有 a 和 b 砝码的天平\"]},{\"position\":\"右中\",\"count\":1,\"scene\":\"身穿绿色连帽衫的男学生在多数票统计表旁向上指\",\"textElements\":{\"speechBubble\":\"在多数表决规则中，如果出现平局，也要使用抽签。\",\"tableHeader\":\"例如：多数表决\",\"rows\":[\"a 多 → 选择 a\",\"b 多 → 选择 b\",\"平局 → 抽签\"],\"footer\":\"也就是说，平局时需要随机方式。\"},\"table\":{\"rowCount\":3,\"visuals\":\"三组标有 a 和 b 的彩色投票人群\"}},{\"position\":\"左下\",\"count\":1,\"scene\":\"古雅典历史场景，前景有 5 个人物，背景是人群，两名男子从大陶罐中抽签，背景为古典希腊建筑和卫城\",\"textElements\":{\"header\":\"抽签在古雅典也很重要。\",\"speechBubble\":\"通过抽签选拔官职，给予市民机会。\",\"footer\":\"当时的人们将其视为民主的特征。\"}},{\"position\":\"右下\",\"count\":1,\"scene\":\"现代学生穿着绿色连帽衫，在书桌前使用灰色笔记本电脑，桌上有咖啡杯、书架、植物，窗外可见城市天际线\",\"textElements\":{\"header\":\"如今在政治学中再次受到关注。\",\"callouts\":[\"反映多样化意见\",\"防止偏袒特定群体\",\"基于运气的公平机会\",\"从古代到现代的运用\"],\"footer\":\"结论：当需要将多种意见统一为一时，抽签有助于做出公平的选择。\"},\"icons\":[\"3 人符号\",\"投票箱\",\"一对骰子\",\"地球\"]}]},\"characters\":{\"mainStudent\":{\"gender\":\"男\",\"age\":\"青少年或年轻人\",\"hair\":\"凌乱的短黑发\",\"outfit\":\"绿色连帽衫\"},\"secondaryCharacters\":[{\"count\":1,\"description\":\"穿蓝色连帽衫的男学生\"},{\"count\":1,\"description\":\"留着棕色短波波头的穿黄色毛衣的女学生\"},{\"count\":5,\"description\":\"雅典面板前景中身穿长袍的古希腊人物\"}]},\"visualNotes\":{\"textLegibility\":\"高度清晰的韩语排版\",\"colorPalette\":\"柔和的奶油色、绿色、蓝色、黄色、赤陶色和灰色\",\"composition\":\"6 格教育漫画信息图，采用等大矩形面板和圆角内部文本框\",\"mood\":\"清晰、信息丰富、易于接近\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "关于公平选择的韩语信息图：此内容生成一个六格韩语教育漫画信息图，用于教科书或学习指南，解释公平、中立、匿名、多数票平局及随机选择等概念。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "callout"
+      ],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: callout]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14607",
+      "15675",
+      "15677",
+      "14916",
+      "14531",
+      "14879"
+    ]
+  }
+}

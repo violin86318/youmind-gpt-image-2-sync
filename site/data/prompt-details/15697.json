@@ -1,0 +1,49 @@
+{
+  "id": "15697",
+  "prompt": "A 4x3 photo collage of 12 cinematic, nostalgic snapshots of a young Japanese couple in everyday life, shot like candid film photography with soft blur, muted colors, grain, bloom, and shallow depth of field. The overall mood is intimate, wistful, urban, and slightly melancholic, with a warm-and-cool mixed color palette and natural imperfect composition. Include 12 distinct photos: 1) a close nighttime portrait on a city street, one person in a scarf, face partially obscured, surrounded by glowing bokeh lights; 2) the couple sitting closely together on a train at night, leaning on each other, quiet and sleepy; 3) a rear three-quarter view of one person walking alone on a city street at night with traffic lights and storefront bokeh; 4) a rooftop or elevated outdoor portrait at dusk or early morning, one person turning back toward camera with windblown hair and a jacket; 5) a bright daytime suburban street snapshot with one person standing near a hedge, casual and slightly overexposed; 6) a very close, dimly lit selfie-like frame of the couple together indoors or at night, both faces soft and out of focus; 7) the couple seated side by side on a beach watching the sunset over the ocean, seen from behind; 8) the couple talking across a small table inside a cozy izakaya or retro restaurant with posters and warm tungsten lighting; 9) a cramped candid indoor or transit photo with one person slumped or resting, heavy motion blur and dark green tones; 10) the couple standing face to face in a narrow alley at night, surrounded by lantern light and vertical Japanese signs; 11) a quiet cropped detail shot of intertwined hands and draped clothing while sitting outdoors beside pavement; 12) a night portrait with one person against a background of tall city buildings and colorful defocused lights. Keep all 12 images borderless in a seamless grid, with slight variation in framing and exposure, as if taken over many dates and ordinary moments. Use {argument name=\"film style\" default=\"moody 35mm film\"}, {argument name=\"couple age\" default=\"early 20s\"}, {argument name=\"city\" default=\"Tokyo\"}, {argument name=\"season\" default=\"autumn\"}, and {argument name=\"overall mood\" default=\"romantic nostalgia\"}.",
+  "translatedPrompt": "一张 4x3 的照片拼贴，包含 12 张年轻日本情侣日常生活的电影感怀旧快照，采用类似胶片摄影的抓拍风格，带有柔和模糊、低饱和色彩、颗粒感、光晕和浅景深效果。整体氛围亲密、怀旧、具有都市感且略带忧郁，采用冷暖交织的色调和自然且不完美的构图。包含 12 张独特的照片：1) 夜间街道上的近景人像，一人围着围巾，面部部分遮挡，周围环绕着发光的焦外成像光斑；2) 夜晚情侣在火车上紧靠在一起，互相依偎，安静而困倦；3) 夜晚一人在城市街道独自漫步的后侧方视角，背景是交通灯和店面的焦外光斑；4) 黄昏或清晨在屋顶或户外高处的肖像，一人回头看向镜头，发丝随风飘动，身穿夹克；5) 明亮的日间郊区街道快照，一人站在树篱旁，随性且略微过曝；6) 一张非常近距离、光线昏暗的类似自拍的画面，情侣在室内或夜晚合影，两人的面部柔和且失焦；7) 从背后看，情侣并排坐在海滩上观看海上日落；8) 情侣坐在舒适的居酒屋或复古餐厅的小桌旁交谈，背景有海报和温暖的钨丝灯光；9) 一张拥挤的室内或交通工具内的抓拍，一人瘫坐或休息，带有强烈的动态模糊和深绿色调；10) 情侣在夜晚狭窄的小巷中面对面站立，周围是灯笼光和竖排的日文招牌；11) 一张安静的局部特写，拍摄在户外路边坐着时交织的双手和垂下的衣物；12) 一张夜间人像，一人以高耸的城市建筑和色彩斑斓的失焦灯光为背景。保持所有 12 张图像无边框，以无缝网格呈现，构图和曝光略有差异，仿佛拍摄于多次约会和平凡瞬间。使用 {argument name=\"film style\" default=\"moody 35mm film\"}（胶片风格）、{argument name=\"couple age\" default=\"early 20s\"}（情侣年龄）、{argument name=\"city\" default=\"Tokyo\"}（城市）、{argument name=\"season\" default=\"autumn\"}（季节）以及 {argument name=\"overall mood\" default=\"romantic nostalgia\"}（整体氛围）。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影感恋人记忆拼贴：由 12 张年轻情侣都市生活抓拍组成的怀旧拼贴画，非常适合用于生成项目、专辑封面视觉图或浪漫生活方式影像。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "grid",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "retro"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, vertical]。\n\nVisual style:\n[参考风格: cinematic, retro]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15520",
+      "14674",
+      "15602",
+      "14667",
+      "15705",
+      "15254"
+    ]
+  }
+}

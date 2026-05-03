@@ -1,0 +1,41 @@
+{
+  "id": "13877",
+  "prompt": "{\n  \"type\": \"anime character reference sheet\",\n  \"character\": {\n    \"name_japanese\": \"{argument name=\\\"character name\\\" default=\\\"綾波 レイ\\\"}\",\n    \"name_english\": \"{argument name=\\\"english name\\\" default=\\\"REI AYANAMI\\\"}\",\n    \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"light blue\\\"} short bob\",\n    \"eyes\": \"{argument name=\\\"eye color\\\" default=\\\"red\\\"}\",\n    \"outfit\": \"{argument name=\\\"outfit\\\" default=\\\"blue pinafore dress, white short-sleeve shirt, red ribbon bow, black knee-high socks, white slip-on shoes\\\"}\"\n  },\n  \"layout\": {\n    \"header\": {\n      \"position\": \"top-left\",\n      \"elements\": [\"Japanese name\", \"English name\", \"paragraph of descriptive Japanese text\"]\n    },\n    \"turnaround\": {\n      \"position\": \"right-side\",\n      \"count\": 3,\n      \"poses\": [\"front view\", \"side profile\", \"back view\"]\n    },\n    \"sections\": [\n      {\n        \"title\": \"表情バリエーション\",\n        \"position\": \"mid-left\",\n        \"count\": 6,\n        \"description\": \"headshots with different expressions: neutral, slight smile, surprised, winking, open mouth, looking down\"\n      },\n      {\n        \"title\": \"ディテール\",\n        \"position\": \"center-left\",\n        \"count\": 4,\n        \"items\": [\"red ribbon bow\", \"upper half of uniform\", \"blue strap\", \"blue pouch\"]\n      },\n      {\n        \"title\": \"カラーパレット\",\n        \"position\": \"bottom-left\",\n        \"count\": 5,\n        \"items\": [\"red ribbon bow\", \"blue pinafore dress\", \"miniature ID card\", \"black socks\", \"4 circular color swatches (blue, light blue, white, black)\"]\n      },\n      {\n        \"title\": \"NERV ID Card\",\n        \"position\": \"bottom-right\",\n        \"count\": 3,\n        \"items\": [\"white slip-on shoe\", \"keys on a ring\", \"NERV ID badge on a lanyard\"]\n      }\n    ]\n  },\n  \"style\": \"official anime production art, cel-shaded, clean lines, white background with subtle blue geometric accents\"\n}",
+  "translatedPrompt": "{\n  \"type\": \"动漫角色设定集\",\n  \"character\": {\n    \"name_japanese\": \"{argument name=\\\"character name\\\" default=\\\"綾波 レイ\\\"}\",\n    \"name_english\": \"{argument name=\\\"english name\\\" default=\\\"REI AYANAMI\\\"}\",\n    \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"浅蓝色\\\"} 短波波头\",\n    \"eyes\": \"{argument name=\\\"eye color\\\" default=\\\"红色\\\"}\",\n    \"outfit\": \"{argument name=\\\"outfit\\\" default=\\\"蓝色背心裙，白色短袖衬衫，红色蝴蝶结，黑色过膝袜，白色平底鞋\\\"}\"\n  },\n  \"layout\": {\n    \"header\": {\n      \"position\": \"左上角\",\n      \"elements\": [\"日文名\", \"英文名\", \"一段日语描述文本\"]\n    },\n    \"turnaround\": {\n      \"position\": \"右侧\",\n      \"count\": 3,\n      \"poses\": [\"正面\", \"侧面\", \"背面\"]\n    },\n    \"sections\": [\n      {\n        \"title\": \"表情变化\",\n        \"position\": \"中左侧\",\n        \"count\": 6,\n        \"description\": \"不同表情的头像：中性、浅笑、惊讶、眨眼、张嘴、低头\"\n      },\n      {\n        \"title\": \"细节展示\",\n        \"position\": \"中左侧下方\",\n        \"count\": 4,\n        \"items\": [\"红色蝴蝶结\", \"制服上半身\", \"蓝色肩带\", \"蓝色小包\"]\n      },\n      {\n        \"title\": \"配色方案\",\n        \"position\": \"左下角\",\n        \"count\": 5,\n        \"items\": [\"红色蝴蝶结\", \"蓝色背心裙\", \"迷你身份证\", \"黑色袜子\", \"4 个圆形色块（蓝色、浅蓝色、白色、黑色）\"]\n      },\n      {\n        \"title\": \"NERV 身份证\",\n        \"position\": \"右下角\",\n        \"count\": 3,\n        \"items\": [\"白色平底鞋\", \"钥匙扣\", \"挂绳上的 NERV 身份牌\"]\n      }\n    ]\n  },\n  \"style\": \"官方动漫制作原画，赛璐珞风格，线条干净，白色背景配以淡蓝色几何装饰\"\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫角色设定集：生成一份全面的动漫角色设计图，包含全身三视图、表情变化以及详细的配饰拆解。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13929",
+      "14025",
+      "14060",
+      "15024",
+      "13740",
+      "14230"
+    ]
+  }
+}

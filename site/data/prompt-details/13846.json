@@ -1,0 +1,45 @@
+{
+  "id": "13846",
+  "prompt": "A highly realistic, cinematic photograph of a {argument name=\"subject description\" default=\"young Asian woman\"} wearing {argument name=\"clothing\" default=\"traditional black and white Hanfu\"}, sitting at a dark wooden desk in a dimly lit traditional study. She holds a calligraphy brush in her right hand, poised over a blank scroll, while resting her chin on her left hand with a {argument name=\"expression\" default=\"thoughtful and contemplative\"} look directed toward a lattice window on the right. The background features a large wall hanging covered in {argument name=\"background calligraphy\" default=\"traditional Chinese calligraphy\"}. The scene is illuminated by {argument name=\"lighting style\" default=\"dramatic cinematic lighting with warm and cool contrast\"}, featuring a warm glow from a traditional paper lantern on the left and cool natural light streaming from the window. The desk is adorned with an inkstone, a blue and white porcelain brush holder, and a small potted plant, creating a rich, moody atmosphere with exquisite textures.",
+  "translatedPrompt": "一张极具写实感、电影质感的照片，画面中 {argument name=\"subject description\" default=\"一位年轻的亚洲女性\"} 身着 {argument name=\"clothing\" default=\"传统的黑白汉服\"}，坐在一间光线昏暗的传统书房的深色木桌前。她右手握着一支毛笔，悬于空白卷轴之上，左手托腮，神情 {argument name=\"expression\" default=\"沉思且专注\"} 地望向右侧的格栅窗。背景是一面挂满 {argument name=\"background calligraphy\" default=\"传统中国书法\"} 的大墙。场景由 {argument name=\"lighting style\" default=\"具有冷暖对比的戏剧性电影光效\"} 照亮，左侧的传统纸灯笼散发出温暖的光芒，而窗外射入冷色调的自然光。桌上摆放着砚台、青花瓷笔架和一盆小绿植，营造出一种质感精致、氛围浓郁的意境。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影感书法肖像：生成一张极具写实感、氛围浓郁的肖像，展现人物身着传统服饰在古典书房中练习书法的场景。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "natural light"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: natural light]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15759",
+      "14660",
+      "15515",
+      "15754",
+      "15758",
+      "15766"
+    ]
+  }
+}

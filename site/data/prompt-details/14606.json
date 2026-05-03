@@ -1,0 +1,48 @@
+{
+  "id": "14606",
+  "prompt": "A highly detailed glossy anime idol portrait in a vertical composition, showing a cute teenage girl from the waist up in a dreamy pink kawaii aesthetic. She has {argument name=\"hair color\" default=\"pastel pink\"} hair styled in a very long voluminous high ponytail with soft bangs and flowing curled strands, decorated with multiple small heart clips and crossed hairpins. Her eyes are large, sparkling, and vivid {argument name=\"eye color\" default=\"emerald green\"}, with star-like highlights, long lashes, and a slightly teary shine. She has a soft blush, tiny glossy lips, and an affectionate expression while applying {argument name=\"lipstick color\" default=\"bright pink\"} lipstick, holding the lipstick tube delicately with both hands near her mouth. She wears a frilly black-and-pink gothic lolita idol dress with lace, ribbons, bows, heart ornaments, and sparkling textures, plus 1 black lace bow headband with a pink jeweled heart, 3 visible hair accessories on her bangs, 1 pair of dangling heart earrings, and 1 black choker with a small heart charm. Surround the character with a glowing, glitter-filled, candy-pink background full of bokeh, sparkles, soft neon light effects, and idol-fan atmosphere. Add 5 glowing hand-drawn heart text bubbles in Japanese around her, reading: \"かわいすぎてごめん…♡\", \"推してくれてありがとうっ♡\", \"ずーっとだいすきっ♡\", \"世界でいちばんの推しになってね…♡\", and \"ずっと一緒だよ？約束ね…♡\". Include a small decorated photo card or poster of the same girl in the upper right background. Ultra-polished illustration, dense shimmer, romantic lighting, glossy highlights, intricate lace detail, soft-focus background, saturated pink palette, adorable idol poster feel.",
+  "translatedPrompt": "一张高度精细的亮面动漫偶像肖像，采用竖构图，展示了一位可爱的少女半身像，呈现出梦幻般的粉色可爱美学。她拥有 {argument name=\"hair color\" default=\"柔和粉色\"} 的头发，梳着超长且蓬松的高马尾，配有柔软的刘海和飘逸的卷发丝，并装饰着多个小爱心发夹和交叉发卡。她的眼睛又大又闪亮，呈现生动的 {argument name=\"eye color\" default=\"祖母绿\"} 色，带有星状高光、长睫毛和微微湿润的光泽。她有着柔和的腮红、娇小水润的双唇，在涂抹 {argument name=\"lipstick color\" default=\"亮粉色\"} 口红时表情充满爱意，双手轻柔地将口红管举在嘴边。她身穿一件带有蕾丝、丝带、蝴蝶结、爱心装饰和闪亮质感的黑粉色哥特洛丽塔偶像裙，佩戴 1 个带有粉色宝石爱心的黑色蕾丝蝴蝶结发箍、刘海上可见 3 个发饰、1 对心形吊坠耳环以及 1 条带有小爱心吊坠的黑色颈圈。角色周围环绕着发光的、充满闪粉的糖果粉色背景，布满光斑、闪光、柔和的霓虹灯效果和偶像粉丝氛围。在角色周围添加 5 个发光的手绘日文爱心气泡文字，内容为：“かわいすぎてごめん…♡”、“推してくれてありがとうっ♡”、“ずーっとだいすきっ♡”、“世界でいちばんの推しになってね…♡”以及“ずっと一緒だよ？約束ね…♡”。在右上角背景中包含一张同一女孩的小型装饰照片卡或海报。超精致插画，浓郁闪光，浪漫光影，亮面高光，复杂的蕾丝细节，柔焦背景，饱和的粉色调，可爱的偶像海报质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "粉色可爱偶像口红肖像：此提示词可生成闪闪发光的动漫偶像风格肖像，适用于海报、社交媒体艺术图或可爱的角色主视觉图。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "hand-drawn"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: anime, hand-drawn]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14965",
+      "15741",
+      "14408",
+      "15003",
+      "15032",
+      "15796"
+    ]
+  }
+}

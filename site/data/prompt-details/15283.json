@@ -1,0 +1,47 @@
+{
+  "id": "15283",
+  "prompt": "A cinematic ultra-realistic action scene on a rain-soaked urban street at dusk, showing a sudden multi-car crash and explosion in the middle of a modern city. In the foreground, one adult man with a blurred, indistinct face is running toward the camera between lanes, wearing a dark jacket and dark pants, his posture urgent and off-balance as if escaping danger. To his left is a dark gray sedan with headlights on, splashing through wet pavement. In the midground on the right, 2 wrecked cars are colliding: 1 silver sedan with its driver-side door open and 1 dark vehicle flipping upside down in midair, surrounded by shattered glass, torn metal, and flying debris. Count 2 visible fireballs in the background, one on the far left street and one large explosion on the right side, both sending sparks and black smoke into the sky. Show heavy smoke plumes rising above a dense downtown skyline of tall, slightly out-of-focus buildings. Include wet reflective asphalt, scattered car parts across the road, glowing streetlights, utility poles, overhead power lines, and a moody blue-gray storm atmosphere with orange firelight reflecting in puddles. Framing should be wide-angle and low to the street, with strong motion, dramatic perspective, cinematic depth of field, realistic physics, volumetric smoke, flying embers, and high-detail disaster-movie lighting. Add a white {argument name=\"watermark text\" default=\"Pollo.ai\"} watermark in the top-right corner.",
+  "translatedPrompt": "黄昏时分，雨后的城市街道上呈现出一幕电影级超写实动作场景，展示了现代城市中心突发的多车相撞与爆炸。前景中，一名面部模糊不清的成年男子正穿着深色夹克和长裤，在车道间向镜头方向奔跑，姿态急促且失去平衡，仿佛正在逃离危险。他的左侧是一辆开着前大灯的深灰色轿车，正溅起路面积水。中景右侧有 2 辆损毁的汽车正在碰撞：1 辆银色轿车驾驶座车门敞开，另 1 辆深色车辆在半空中翻转，周围散落着破碎的玻璃、撕裂的金属和飞溅的碎片。背景中可见 2 团火球，一团位于远处的左侧街道，另一团大型爆炸位于右侧，两者都向天空喷射着火星和黑烟。画面展示了浓重的烟雾升腾在密集且略显失焦的高层市中心建筑群上方。包含湿润的反光沥青路面、散落在路上的汽车零件、发光的街灯、电线杆、架空电线，以及带有橙色火光倒映在水洼中的忧郁蓝灰色风暴氛围。构图应采用广角低机位，强调强烈的动感、戏剧性的透视、电影级的景深、真实的物理效果、体积烟雾、飞舞的余烬以及高细节的灾难电影光影。在右上角添加一个白色的 {argument name=\"watermark text\" default=\"Pollo.ai\"} 水印。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影级城市撞击爆炸场景：该提示词可生成逼真的灾难电影街道场景，包含逃跑的男子、翻滚的汽车和多处爆炸，适用于戏剧性的动作艺术创作或 AI 图像模型对比。",
+      "subject": "空间",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "volumetric",
+        "depth of field",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: volumetric, depth of field, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15282",
+      "15105",
+      "15411",
+      "15515",
+      "15766",
+      "15782"
+    ]
+  }
+}

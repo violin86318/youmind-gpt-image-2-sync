@@ -1,0 +1,47 @@
+{
+  "id": "13885",
+  "prompt": "A cinematic still from a {argument name=\"movie era and genre\" default=\"1990s American sci-fi action movie\"}. A {argument name=\"male character description\" default=\"rugged male protagonist with a dirty face and a distressed brown leather jacket\"} is {argument name=\"action\" default=\"desperately dangling from the edge of a rocky cliff\"}, gripping the rough stone with both hands. Above him, a {argument name=\"female character description\" default=\"female-presenting android with pale skin, a sharp black bob haircut, and visible robotic joints on her arms\"} is calmly looking down at him, resting her hands on the cliff edge. The background features a {argument name=\"setting\" default=\"vast, deep canyon with a river winding through it under an overcast, dramatic sky\"}. Shot on 35mm film, realistic textures, dramatic cinematic lighting.",
+  "translatedPrompt": "一张来自 {argument name=\"movie era and genre\" default=\"1990 年代美国科幻动作电影\"} 的电影剧照。一名 {argument name=\"male character description\" default=\"面容脏兮兮、身穿破旧棕色皮夹克的硬汉男主角\"} 正 {argument name=\"action\" default=\"绝望地悬挂在岩石悬崖边缘\"}，双手紧紧抓着粗糙的岩石。在他上方，一个 {argument name=\"female character description\" default=\"皮肤苍白、留着利落黑色波波头、手臂上有明显机械关节的女性机器人\"} 正冷静地俯视着他，双手搭在悬崖边缘。背景是 {argument name=\"setting\" default=\"一个广阔深邃的峡谷，一条河流在阴沉、戏剧性的天空下蜿蜒流过\"}。使用 35mm 胶片拍摄，纹理逼真，具有戏剧性的电影级光影效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "90 年代科幻电影悬崖惊险剧照：生成一张电影感剧照，画面展示一名角色悬挂在悬崖边，而一个机器人正冷眼旁观，非常适合复古科幻概念设计。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic",
+        "sci-fi"
+      ],
+      "lightingCamera": [
+        "overcast"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic, sci-fi]。\n\nLighting and camera:\n[参考光线镜头: overcast]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13443",
+      "13632",
+      "13917",
+      "14724",
+      "15259",
+      "13596"
+    ]
+  }
+}

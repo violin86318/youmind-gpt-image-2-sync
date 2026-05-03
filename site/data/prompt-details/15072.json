@@ -1,0 +1,50 @@
+{
+  "id": "15072",
+  "prompt": "Create a highly detailed, colorful isometric festival poster illustration of a bustling Latin American technology fair in an open urban plaza, packed with dozens of people networking, coding, presenting, eating, recording media, and attending talks. The overall style should feel like a premium editorial cityscape poster: vibrant, dense, optimistic, playful, and full of readable signage, with crisp linework, painterly textures, warm sunlight, and a celebratory startup-community atmosphere. The main headline on the large stage at upper left reads {argument name=\"headline text\" default=\"LATAM TECH FEST\"}, with a subheading in Spanish reading \"Aprender para transformar\". On the stage, show a live conference with blue lighting, a presenter, and a seated audience; include 4 vertical icon panels on the stage area labeled \"Educación\", \"Tecnología\", \"Innovación\", and \"Futuro\", plus 3 glowing topic icons on the back wall labeled \"Código\", \"Comunidad\", and \"Impacto\". Build the plaza as a dense multi-zone event map with exactly 24 clearly labeled signs or booths distributed across the scene: \"Keep Coding Keep Growing\", \"YO APRENDÍ EN LÍNEA\", \"Remote Work Zone\", \"ENGLISH UPGRADE YOUR FUTURE\", \"STARTUPS BUILD THE FUTURE\", \"DESIGN THINKING\", \"HACKATHON 24 HORAS DE IDEAS\", \"Café con código\", \"AREPAS CON TODO\", \"Hechas con código y ♥\", \"Inspiración\", \"Networking\", \"Aprendizaje\", \"Café\", \"Baños\", \"SOMOS LATINOAMÉRICA\", \"AI LAB\", \"DATA PEOPLE\", \"DEVS QUE IMPACTAN\", \"MARKETING GROWTH & COMMUNITY\", \"PRODUCT BUILD WHAT MATTERS\", \"FINTECH EL FUTURO DEL DINERO\", \"FOUNDER MODE\", and \"DEMO DAY LAUNCH · SCALE\". In the center of the plaza, place a circular fountain with a large green geometric logo sculpture as the visual anchor. Surround it with tables, laptops, whiteboards, crowds, planters, and benches. Include a colorful hillside neighborhood in the background with mountains, palm trees, power lines, and exactly 2 red cable cars crossing the sky; also add exactly 1 small drone flying overhead. On the upper right building, place a large brand sign reading {argument name=\"brand name\" default=\"Platzi\"} and a green billboard that says \"NUNCA PARES DE APRENDER\". Populate the lower and middle foreground with many micro-scenes: a podcast booth labeled \"PODCAST ON AIR\", a neon \"LIVE STREAM\" corner, a startup workspace with people using laptops, a hackathon judging table, a founder pitch area, a fintech board with charts, and a coffee stand with espresso equipment and menu boards. Add 6 animal or mascot details across the scene: 1 orange cat lounging near the left worktables, 1 capybara at the lower left, 1 multicolor llama piñata in the lower center-left, 1 yellow rubber duck near the center-bottom, 1 small green robot near the bottom center-right, and 1 tiny turtle near the bottom beside a coin. Also place exactly 4 vehicle elements: 2 green scooters at the lower left, 1 decorated taco truck at the lower right with the sign \"TACOS AL PASTOR\", and 1 wheelchair user moving through the crowd. Include extra props that reinforce tech culture: whiteboards with sticky notes, a board titled \"Traction\" with an upward graph and bullet points \"Users\", \"Revenue\", \"Retention\", \"Love\", a board titled \"CAP TABLE\" with percentage rows, a Bitcoin-style coin on the ground, microphones, cameras, cables, monitors, smartphones, and branded green merchandise. Clothing should be modern casual startup attire with hoodies, jackets, backpacks, jeans, sneakers, and conference badges, featuring a diverse mix of ages and Latin American identities. Use rich greens, teals, oranges, purples, and warm neutrals, with lush plants and vines integrated into architecture. Make every corner busy and discoverable, like a Where's-Waldo-style tech ecosystem celebration, but keep the composition readable and inviting.",
+  "translatedPrompt": "创作一张高度精细、色彩丰富的等距视角节日海报插画，描绘一个位于开放式城市广场中熙熙攘攘的拉丁美洲科技博览会，画面中挤满了数十人，他们正在进行社交、编程、演讲、用餐、录制媒体和参加讲座。整体风格应呈现出高端编辑类城市景观海报的质感：充满活力、内容密集、乐观、俏皮且带有清晰易读的标牌，线条利落，具有绘画质感，阳光温暖，充满创业社区的庆典氛围。左上角大型舞台上的主标题文字为 {argument name=\"headline text\" default=\"LATAM TECH FEST\"}，副标题为西班牙语 \"Aprender para transformar\"。舞台上展示一场带有蓝色灯光的现场会议，包括一名演讲者和就座的观众；在舞台区域包含 4 个垂直图标面板，分别标注为 \"Educación\"、\"Tecnología\"、\"Innovación\" 和 \"Futuro\"，并在后墙上添加 3 个发光的主题图标，分别标注为 \"Código\"、\"Comunidad\" 和 \"Impacto\"。将广场构建为一个密集的多区域活动地图，在场景中分布 24 个标注清晰的标牌或展位：\"Keep Coding Keep Growing\"、\"YO APRENDÍ EN LÍNEA\"、\"Remote Work Zone\"、\"ENGLISH UPGRADE YOUR FUTURE\"、\"STARTUPS BUILD THE FUTURE\"、\"DESIGN THINKING\"、\"HACKATHON 24 HORAS DE IDEAS\"、\"Café con código\"、\"AREPAS CON TODO\"、\"Hechas con código y ♥\"、\"Inspiración\"、\"Networking\"、\"Aprendizaje\"、\"Café\"、\"Baños\"、\"SOMOS LATINOAMÉRICA\"、\"AI LAB\"、\"DATA PEOPLE\"、\"DEVS QUE IMPACTAN\"、\"MARKETING GROWTH & COMMUNITY\"、\"PRODUCT BUILD WHAT MATTERS\"、\"FINTECH EL FUTURO DEL DINERO\"、\"FOUNDER MODE\" 和 \"DEMO DAY LAUNCH · SCALE\"。在广场中心放置一个圆形喷泉，以一个大型绿色几何 Logo 雕塑作为视觉锚点。周围环绕着桌子、笔记本电脑、项目、人群、花坛和长椅。背景包含一个色彩缤纷的山坡社区，有山脉、棕榈树、电线和正好 2 辆横跨天空的红色缆车；此外，在头顶上方添加正好 1 架小型无人机。在右上角的建筑物上，放置一个大型品牌标志 {argument name=\"brand name\" default=\"Platzi\"} 以及一个写着 \"NUNCA PARES DE APRENDER\" 的绿色广告牌。在前景的下部和中部填充许多微型场景：一个标有 \"PODCAST ON AIR\" 的播客展位、一个霓虹灯风格的 \"LIVE STREAM\" 角落、一个人们使用笔记本电脑的创业工作区、一张黑客松评审桌、一个创始人路演区、一个带有图表的金融科技项目，以及一个配备浓缩咖啡机和菜单板的咖啡摊。在整个场景中添加 6 个动物或吉祥物细节：左侧工作台附近有一只橙色猫，左下方有一只水豚，左下方偏中心处有一个多色羊驼皮纳塔，底部中心附近有一只黄色橡皮鸭，底部中右侧附近有一个绿色小机器人，底部靠近硬币处有一只小海龟。此外，放置正好 4 个车辆元素：左下方有 2 辆绿色滑板车，右下方有一辆装饰精美的塔可餐车，上面写着 \"TACOS AL PASTOR\"，以及一名穿过人群的轮椅使用者。包含强化科技文化的额外道具：带有便签的白板、一个标题为 \"Traction\" 的项目（带有向上趋势图和 \"Users\"、\"Revenue\"、\"Retention\"、\"Love\" 等要点）、一个标题为 \"CAP TABLE\" 的项目（带有百分比行）、地上的比特币风格硬币、麦克风、摄像机、线缆、显示器、智能手机和品牌绿色周边商品。服装应为现代休闲创业风格，包括连帽衫、夹克、背包、牛仔裤、运动鞋和会议胸牌，展现出不同年龄段和拉丁美洲身份的多样性。使用丰富的绿色、青色、橙色、紫色和温暖的中性色，并将茂盛的植物和藤蔓融入建筑中。让每一个角落都繁忙且充满发现感，如同“威利在哪里”风格的科技生态系统庆典，但要保持构图清晰且引人入胜。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "拉丁美洲科技节海报：此提示词可生成一张内容丰富的等距视角节日风格插画，展现充满活力的拉丁美洲科技大会广场，非常适合用于活动品牌推广、创业社区海报或社交媒体展示艺术。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "isometric",
+        "vertical"
+      ],
+      "style": [
+        "editorial",
+        "isometric",
+        "premium"
+      ],
+      "lightingCamera": [
+        "neon",
+        "camera"
+      ],
+      "text": "要求精确文字；要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: isometric, vertical]。\n\nVisual style:\n[参考风格: editorial, isometric, premium]。\n\nLighting and camera:\n[参考光线镜头: neon, camera]。\n\nText requirements:\n要求精确文字；要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14615",
+      "15051",
+      "14161",
+      "14563",
+      "14412",
+      "14698"
+    ]
+  }
+}

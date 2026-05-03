@@ -1,0 +1,46 @@
+{
+  "id": "15438",
+  "prompt": "A stylized faux-pixel-art landscape illustration of a single {argument name=\"bird species\" default=\"black raven\"} standing in profile in a golden wheat field, facing right. The image should look like retro pixel art at first glance when viewed zoomed out, but not be perfectly grid-aligned or true sprite-based pixel art; instead it should feel like painterly image-generation imitating pixel art, with soft inconsistencies in the block shapes and edges. Place the bird large in the foreground, slightly left of center, with glossy near-black feathers shaded in deep navy and indigo, a dark beak, and one small amber-brown eye visible. Surround it with tall yellow-gold grasses and exactly 9 visible small purple wildflower blossoms scattered in the foreground. In the midground, show a broad rural plain with patchy fields and a dark green tree line including a few tall narrow conifers on the right. In the distance, add a low mountain range in muted blue-violet tones. Above, create a bright {argument name=\"sky color\" default=\"soft blue\"} sky filled with large chunky cumulus clouds and a few smaller cloud bands, all rendered in limited-color dithered blocks. Use a warm late-afternoon palette with gold, blue, lavender, and dark charcoal, strong atmospheric depth, and a calm pastoral mood. Full-frame composition, landscape orientation, thin black border around the entire image, crisp blocky edges, retro game background aesthetic, highly detailed but simple, no text, no UI, no extra animals.",
+  "translatedPrompt": "一幅风格化的伪像素艺术风景插画，描绘了一只 {argument name=\"bird species\" default=\"黑乌鸦\"} 侧身站在金色的麦田中，面向右侧。当缩小查看时，图像应乍看像复古像素艺术，但并非完全网格对齐或基于精灵图的纯正像素艺术；相反，它应呈现出一种模仿像素艺术的绘画感，块状形状和边缘带有柔和的不规则感。将鸟置于前景偏左的大位置，其光泽的近黑色羽毛带有深海军蓝和靛蓝色的阴影，喙部呈深色，露出一只琥珀棕色的小眼睛。周围环绕着高大的金黄色草丛，前景中散布着 9 朵清晰可见的紫色小野花。在中景处，展示一片广阔的乡村平原，有零星的田地和深绿色的树林，右侧包括几棵高而窄的针叶树。在远处，添加一道柔和蓝紫色调的低矮山脉。上方，创作一片明亮的 {argument name=\"sky color\" default=\"柔和蓝色\"} 天空，布满大块的积云和几条较小的云带，全部以有限色彩的抖动块呈现。使用温暖的傍晚色调，包括金色、蓝色、薰衣草色和深炭色，具有强烈的空间深度感和宁静的田园氛围。全画幅构图，横向布局，整个图像周围有细黑边框，边缘清晰且呈块状，复古游戏背景美学，高度细节化但简洁，无文字，无 UI，无其他动物。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "麦田里的伪像素乌鸦：一幅复古风格的伪像素艺术场景，描绘了云层下金色田野中的一只黑乌鸦，适用于展示类似像素艺术的 AI 图像或创作怀旧游戏风格的风景。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "grid"
+      ],
+      "style": [
+        "retro",
+        "pixel art"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；禁止额外文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[参考风格: retro, pixel art]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；禁止额外文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14695",
+      "15468",
+      "14403",
+      "13640",
+      "14457",
+      "14008"
+    ]
+  }
+}

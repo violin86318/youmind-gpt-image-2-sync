@@ -1,0 +1,43 @@
+{
+  "id": "13511",
+  "prompt": "{\n  \"type\": \"character avatar grid\",\n  \"theme\": \"{argument name=\\\"theme\\\" default=\\\"Journey to the West mythology\\\"}\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"clean 2D cartoon vector illustration, thick outlines, flat colors\\\"}\",\n  \"layout\": {\n    \"background\": \"{argument name=\\\"background color\\\" default=\\\"light gray\\\"} subtle texture\",\n    \"format\": \"grid of circular portraits with text labels centered below each circle\",\n    \"rows\": [\n      {\n        \"count\": 4,\n        \"items\": [\n          {\"label\": \"Sun Wukong\", \"description\": \"monkey boy with golden headband and red scarf\"},\n          {\"label\": \"Tang Sanzang\", \"description\": \"monk with ornate golden crown\"},\n          {\"label\": \"Zhu Bajie\", \"description\": \"pig man holding a rake\"},\n          {\"label\": \"Sha Wujing\", \"description\": \"bearded man holding a crescent moon staff\"}\n        ]\n      },\n      {\n        \"count\": 4,\n        \"items\": [\n          {\"label\": \"White Dragon Horse\", \"description\": \"white horse with golden bridle\"},\n          {\"label\": \"Jade Emperor\", \"description\": \"older man with white beard and golden crown\"},\n          {\"label\": \"Guanyin\", \"description\": \"goddess holding a willow branch\"},\n          {\"label\": \"Bull Demon Kink\", \"description\": \"fierce bull demon in armor\"}\n        ]\n      },\n      {\n        \"count\": 4,\n        \"items\": [\n          {\"label\": \"Princess Iron Fan\", \"description\": \"woman holding a green palm leaf fan\"},\n          {\"label\": \"Red Boy\", \"description\": \"boy with red hair, horns, and a small flame\"},\n          {\"label\": \"Black Wind Demon\", \"description\": \"dark shadowy demon with glowing red eyes\"},\n          {\"label\": \"Nezha\", \"description\": \"boy with double hair buns holding a flaming spear\"}\n        ]\n      },\n      {\n        \"count\": 3,\n        \"description\": \"partial row repeating Princess Iron Fan, Black Wind Demon, and Nezha, slightly cropped at the bottom\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"角色头像网格\",\n  \"theme\": \"{argument name=\\\"theme\\\" default=\\\"西游记神话\\\"}\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"简洁的 2D 卡通矢量插画，粗轮廓，平铺色彩\\\"}\",\n  \"layout\": {\n    \"background\": \"{argument name=\\\"background color\\\" default=\\\"浅灰色\\\"} 细微纹理\",\n    \"format\": \"圆形头像网格，每个圆圈下方居中带有文字标签\",\n    \"rows\": [\n      {\n        \"count\": 4,\n        \"items\": [\n          {\"label\": \"孙悟空\", \"description\": \"戴着金箍和红围巾的猴子男孩\"},\n          {\"label\": \"唐三藏\", \"description\": \"戴着华丽金冠的僧侣\"},\n          {\"label\": \"猪八戒\", \"description\": \"拿着钉耙的猪人\"},\n          {\"label\": \"沙悟净\", \"description\": \"拿着月牙铲的留胡子男子\"}\n        ]\n      },\n      {\n        \"count\": 4,\n        \"items\": [\n          {\"label\": \"白龙马\", \"description\": \"戴着金缰绳的白马\"},\n          {\"label\": \"玉皇大帝\", \"description\": \"留着白胡子、戴着金冠的长者\"},\n          {\"label\": \"观音\", \"description\": \"手持柳枝的女神\"},\n          {\"label\": \"牛魔王\", \"description\": \"身穿盔甲的凶猛牛魔\"}\n        ]\n      },\n      {\n        \"count\": 4,\n        \"items\": [\n          {\"label\": \"铁扇公主\", \"description\": \"手持绿色芭蕉扇的女子\"},\n          {\"label\": \"红孩儿\", \"description\": \"红发、长角且带有小火苗的男孩\"},\n          {\"label\": \"黑风怪\", \"description\": \"眼睛闪烁红光的暗影恶魔\"},\n          {\"label\": \"哪吒\", \"description\": \"扎着双丸子头、手持火尖枪的男孩\"}\n        ]\n      },\n      {\n        \"count\": 3,\n        \"description\": \"重复铁扇公主、黑风怪和哪吒的局部行，底部略有裁剪\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "神话角色头像网格：生成一组带有文字标签的卡通风格圆形角色头像，非常适合 UI 原型设计或演员表展示。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "grid"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, grid]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14535",
+      "15818",
+      "14420",
+      "14428",
+      "14486",
+      "14654"
+    ]
+  }
+}

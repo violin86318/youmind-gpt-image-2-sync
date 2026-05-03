@@ -1,0 +1,48 @@
+{
+  "id": "15006",
+  "prompt": "A dreamy kawaii 3D render in a lush flower garden at night, filled with glowing pink neon graphics and soft sparkles. In the center, a small doll-like girl is shown from behind, with long silky blonde hair and a white bow headband, wearing a pastel blue pinafore dress over a pink puff-sleeve blouse with white trim. She gently reaches up to touch the mouth of a large white rabbit character standing in front of her. The rabbit has oversized upright ears, glossy black eyes, rosy cheeks, and a cute plush-like face, and wears a light blue uniform-style jacket with a tiny gold badge over a white body. Surround them with dense greenery, daisies, and abundant pink blossoms in the foreground and background. Across the top, place large glowing Korean neon text reading {argument name=\"headline text\" default=\"가특하구나~\"} in bright pink bubble lettering with a soft halo. Include exactly 7 additional neon or UI-style decorative elements: 1 heart-shaped sign at the upper left with the word {argument name=\"top sign text\" default=\"CUTE\"}, 1 neon star sign on a white cabinet at the upper right, 1 glowing heart outline near the rabbit on the right, 1 retro pink computer-style floating window on the left with tiny toolbar details and a central heart graphic containing the text {argument name=\"window text\" default=\"you're so precious\"}, 1 large glowing heart outline at the bottom left, 1 pink handheld virtual pet device at the bottom right showing a tiny bunny sprite, and 1 small glowing crystal heart near the device. Add soft bloom, glossy highlights, magical glitter particles, pink rim lighting, shallow depth of field, toy-photography styling, and a nostalgic cute internet aesthetic with pastel pink and blue as the dominant palette.",
+  "translatedPrompt": "一张梦幻般的 3D 卡哇伊风格渲染图，展现了夜晚郁郁葱葱的花园，充满了发光的粉色霓虹图形和柔和的闪光。画面中央，一个小巧的玩偶般女孩背对镜头，留着柔顺的金色长发，戴着白色蝴蝶结发带，穿着粉色泡泡袖衬衫，外搭淡蓝色背带裙，边缘有白色装饰。她正轻轻伸手触碰面前一只大型白兔角色的嘴部。这只兔子有着超大的竖立耳朵、亮黑色的眼睛、红润的脸颊和可爱的毛绒质感脸庞，身穿带有金色小徽章的浅蓝色制服式夹克。周围环绕着茂密的绿植、雏菊和前景与背景中繁茂的粉色花朵。在顶部放置巨大的发光韩语霓虹文字 {argument name=\"headline text\" default=\"가특하구나~\"}，采用亮粉色气泡字体，带有柔和的光晕。包含 7 个额外的霓虹灯或 UI 风格装饰元素：左上角一个心形标志，上面写着 {argument name=\"top sign text\" default=\"CUTE\"}；右上角白色柜子上的一个霓虹星形标志；右侧兔子附近的一个发光心形轮廓；左侧一个复古粉色电脑风格浮动窗口，带有微小的工具栏细节和中央的心形图形，其中包含文字 {argument name=\"window text\" default=\"you're so precious\"}；左下角一个巨大的发光心形轮廓；右下角一个粉色手持虚拟宠物设备，显示着一个小兔子精灵；以及设备附近的一个小型发光水晶心。添加柔和的泛光、光泽高光、魔法闪光粒子、粉色轮廓光、浅景深、玩具摄影风格，以及以淡粉色和蓝色为主色调的怀旧可爱网络美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "可爱兔兔花园霓虹场景：此提示词可生成一张梦幻般的 3D 卡哇伊风格插画，描绘了小女孩与白兔在花丛中的场景，非常适合可爱的社交媒体艺术或怀旧的网络美学视觉效果。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "3d",
+        "retro"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "neon",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: 3d, retro]。\n\nLighting and camera:\n[参考光线镜头: rim light, neon, shallow depth, depth of field]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14491",
+      "15368",
+      "15626",
+      "15703",
+      "15757",
+      "15027"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "14907",
+  "prompt": "A vibrant anime-pop poster style selfie illustration of a young person carrying a Sphynx cat in a black front pet sling while holding a tan leash high in one hand. The person has short messy black hair, round glasses, and wears a black hoodie or dark oversized jacket; the face is intentionally obscured by a centered square blur block. The cat is the clear focal point in the lower center, a hairless pale pink Sphynx with very large ears, bright blue eyes, detailed skin folds, and a cozy brown knitted sweater with a collar. Use a dynamic upward selfie angle, with the raised fist and looping leash occupying the upper right. The background is a dense, celebratory amusement-park or festival scene rendered in explosive saturated colors, with electric blue dominating, plus confetti, paint splashes, stars, comic-style stickers, and playful signage. Include exactly 1 large Chinese headline at the top reading {argument name=\"headline text\" default=\"带皮子出去玩\"} in oversized chunky bubble lettering with thick white outline and multicolor fill, exactly 1 pink paw-print icon near the headline, exactly 2 yellow exclamation marks near the raised hand, exactly 1 speech-bubble sticker on the left reading {argument name=\"left sticker text\" default=\"GO!\"}, exactly 1 speech-bubble sticker on the right reading {argument name=\"right sticker text\" default=\"YEAH\"}, exactly 1 paw-print speech bubble near the lower left, and exactly 2 pink heart icons near the cat. Make the composition feel energetic, cute, and chaotic, with bold cel-shaded outlines, glossy highlights, textured brush strokes, posterized lighting, high contrast, and a richly detailed neon comic aesthetic.",
+  "translatedPrompt": "一张充满活力的动漫波普风格自拍插画，画面中一名年轻人背着黑色宠物前置包，包里装着一只斯芬克斯猫，另一只手高举着棕褐色的牵引绳。人物留着凌乱的黑色短发，戴着圆框眼镜，身穿黑色连帽衫或深色大码夹克；面部被居中的方形模糊块刻意遮挡。猫咪是画面下方的视觉焦点，这是一只皮肤呈浅粉色的无毛斯芬克斯猫，有着大大的耳朵、明亮的蓝色眼睛、细腻的皮肤褶皱，并穿着一件舒适的棕色针织领口毛衣。采用动态的仰拍自拍视角，高举的拳头和环绕的牵引绳占据右上角。背景是热闹的游乐园或节日场景，采用爆炸性的饱和色彩渲染，以电光蓝为主色调，辅以五彩纸屑、颜料溅射、星星、漫画风格贴纸和趣味标牌。在顶部添加 1 个巨大的中文标题 {argument name=\"headline text\" default=\"带皮子出去玩\"}，使用超大号的粗体气泡字体，带有厚实的白色描边和多色填充；在标题附近添加 1 个粉色爪印图标；在举起的手部附近添加 2 个黄色感叹号；在左侧添加 1 个对话气泡贴纸，文字为 {argument name=\"left sticker text\" default=\"GO!\"}；在右侧添加 1 个对话气泡贴纸，文字为 {argument name=\"right sticker text\" default=\"YEAH\"}；在左下方添加 1 个爪印对话气泡；并在猫咪附近添加 2 个粉色爱心图标。整体构图充满活力、可爱且略显混乱，运用大胆的赛璐珞风格轮廓线、光泽高光、纹理笔触、海报化光影、高对比度以及细节丰富的霓虹漫画美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫波普风斯芬克斯猫出行海报：此提示词可生成一张色彩鲜艳的动漫风格自拍海报，展示一个人带着斯芬克斯猫外出的场景，非常适合社交媒体艺术、表情包视觉效果或趣味宠物主题角色海报。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [
+        "neon",
+        "high contrast"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[参考光线镜头: neon, high contrast]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14833",
+      "15114",
+      "15054",
+      "14237",
+      "14593",
+      "14842"
+    ]
+  }
+}

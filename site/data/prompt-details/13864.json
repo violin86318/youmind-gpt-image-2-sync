@@ -1,0 +1,35 @@
+{
+  "id": "13864",
+  "prompt": "创建一个兔子（查阅 {argument name=\"推主主页\" default=\"https://t.co/4v2r0vI6Iz 这个推主的主页及部分推文\"}）穿越到明朝，登基之后依据其业务/个性，绘制的其新的X帖子页面。",
+  "translatedPrompt": "创作一个故事，讲述一只兔子（参考 {argument name=\"profile\" default=\"此用户的个人资料及 https://t.co/4v2r0vI6Iz 上的部分推文\"}）穿越回明朝。在它登基称帝后，根据其业务风格/个性绘制它的 X 社交媒体页面。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "历史兔王社交媒体页面：一个创意提示词，用于为一只在明朝称帝的兔子角色生成社交媒体界面。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "15639",
+  "prompt": "{\"type\":\"skincare product photo collage\",\"subject\":{\"product\":\"dark amber glass dropper bottle of {argument name=\\\"product name\\\" default=\\\"Niacinamide 10% Face Serum\\\"}\",\"brand\":\"{argument name=\\\"brand name\\\" default=\\\"Minimalist\\\"}\",\"category\":\"facial serum\",\"label\":{\"style\":\"minimal white rectangular label with clean black sans-serif typography and a thin pale green accent line near the top\",\"visible_text\":[\"Niacinamide 10%\",\"FACE SERUM\",\"with Matmarine + 1% zinc + acetyl glucosamine\",\"regulates sebum & evens tone for acne prone & oily skin\",\"30 ml / 1.01 fl. oz.\",\"Minimalist\",\"SKIN SCIENCE\"]},\"packaging\":{\"count\":1,\"components\":[\"amber glass bottle\",\"black rubber dropper bulb\",\"black ribbed screw cap\",\"white front label\"]}},\"layout\":{\"grid\":{\"rows\":3,\"columns\":3,\"count\":9,\"gutter\":\"thin white dividers\"},\"sections\":[{\"position\":\"top-left\",\"count\":1,\"description\":\"front-facing upright bottle on a light gray background with a soft shadow\"},{\"position\":\"top-center\",\"count\":1,\"description\":\"single bottle placed diagonally on a warm beige background, lit from upper right, with a long soft shadow\"},{\"position\":\"top-right\",\"count\":1,\"description\":\"top-down view of the dropper cap and bottle neck on a cool light gray background\"},{\"position\":\"middle-left\",\"count\":1,\"description\":\"extreme close-up crop of the label, showing the product name and brand typography clearly\"},{\"position\":\"middle-center\",\"count\":1,\"description\":\"single bottle lying diagonally on a pale gray background with 1 small clear serum droplet beside it\"},{\"position\":\"middle-right\",\"count\":1,\"description\":\"close-up composition of 2 open amber bottle mouths at the right edge with 3 clear serum drops or puddles floating on a white background\"},{\"position\":\"bottom-left\",\"count\":1,\"description\":\"upright bottle on a warm beige background accompanied by 1 white flower petal and 1 makeup brush placed at the lower right\"},{\"position\":\"bottom-center\",\"count\":1,\"description\":\"centered upright bottle on a clean pale gray studio background with subtle base shadow\"},{\"position\":\"bottom-right\",\"count\":1,\"description\":\"single bottle tilted diagonally on a pale gray reflective surface with a faint reflection underneath\"}]},\"style\":{\"photography\":\"premium commercial skincare advertising, ultra-clean studio product photography\",\"lighting\":\"soft diffused daylight, gentle shadows, high-end editorial lighting\",\"color_palette\":[\"white\",\"light gray\",\"warm beige\",\"black\",\"amber brown\",\"soft green accent\"],\"mood\":\"minimalist, clinical, elegant, modern\",\"detail\":\"high resolution, crisp label text, realistic glass reflections, visible serum transparency\"}}",
+  "translatedPrompt": "{\"type\":\"护肤品照片拼图\",\"subject\":{\"product\":\"深琥珀色玻璃滴管瓶，内含 {argument name=\\\"product name\\\" default=\\\"10% 烟酰胺面部精华液\\\"}\",\"brand\":\"{argument name=\\\"brand name\\\" default=\\\"Minimalist\\\"}\",\"category\":\"面部精华液\",\"label\":{\"style\":\"极简白色长方形标签，采用简洁的黑色无衬线字体，顶部附近有一条细淡绿色装饰线\",\"visible_text\":[\"10% 烟酰胺\",\"面部精华液\",\"含 Matmarine + 1% 锌 + 乙酰氨基葡萄糖\",\"调节皮脂并均匀肤色，适用于易长痘及油性皮肤\",\"30 毫升 / 1.01 液量盎司\",\"Minimalist\",\"皮肤科学\"]},\"packaging\":{\"count\":1,\"components\":[\"琥珀色玻璃瓶\",\"黑色橡胶滴管头\",\"黑色罗纹旋盖\",\"白色正面标签\"]}},\"layout\":{\"grid\":{\"rows\":3,\"columns\":3,\"count\":9,\"gutter\":\"细白色分割线\"},\"sections\":[{\"position\":\"左上\",\"count\":1,\"description\":\"浅灰色背景上直立的正面瓶身，带有柔和阴影\"},{\"position\":\"中上\",\"count\":1,\"description\":\"温暖米色背景上斜放的单瓶产品，从右上角打光，带有长而柔和的阴影\"},{\"position\":\"右上\",\"count\":1,\"description\":\"冷浅灰色背景上滴管盖和瓶颈的俯视图\"},{\"position\":\"左中\",\"count\":1,\"description\":\"标签的极近距离特写，清晰展示产品名称和品牌字体\"},{\"position\":\"正中\",\"count\":1,\"description\":\"淡灰色背景上斜放的单瓶产品，旁边有一滴透明精华液\"},{\"position\":\"右中\",\"count\":1,\"description\":\"右侧边缘 2 个打开的琥珀色瓶口的特写构图，白色背景上有 3 滴透明精华液或液滴漂浮\"},{\"position\":\"左下\",\"count\":1,\"description\":\"温暖米色背景上的直立瓶身，右下方配有 1 片白色花瓣和 1 把化妆刷\"},{\"position\":\"中下\",\"count\":1,\"description\":\"干净的淡灰色摄影棚背景上居中的直立瓶身，带有微妙的底部阴影\"},{\"position\":\"右下\",\"count\":1,\"description\":\"淡灰色反光表面上斜放的单瓶产品，下方带有淡淡的倒影\"}]},\"style\":{\"photography\":\"高端商业护肤品广告，超洁净摄影棚产品摄影\",\"lighting\":\"柔和的漫射日光，温和的阴影，高端编辑级布光\",\"color_palette\":[\"白色\",\"浅灰色\",\"温暖米色\",\"黑色\",\"琥珀棕色\",\"柔和绿色点缀\"],\"mood\":\"极简主义，临床感，优雅，现代\",\"detail\":\"高分辨率，清晰的标签文字，逼真的玻璃反射，可见的精华液透明度\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "极简主义精华液产品拼图：一套整洁的 3x3 商业护肤品拼图，从多个摄影棚角度展示烟酰胺精华液瓶身，适用于美妆广告、电子商务或社交媒体品牌推广。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [
+        "centered",
+        "close-up",
+        "top-down",
+        "grid",
+        "front-facing"
+      ],
+      "style": [
+        "realistic",
+        "editorial",
+        "minimalist",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": "得分 93；构图: centered, close-up, top-down, grid, front-facing；风格: realistic, editorial, minimalist, premium, studio；包含标注/说明；文字是主视觉"
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, close-up, top-down, grid, front-facing]。\n\nVisual style:\n[参考风格: realistic, editorial, minimalist, premium, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14177",
+      "14812",
+      "15264",
+      "15517",
+      "15447",
+      "14576"
+    ]
+  }
+}

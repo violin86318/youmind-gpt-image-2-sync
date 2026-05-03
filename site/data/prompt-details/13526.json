@@ -1,0 +1,37 @@
+{
+  "id": "13526",
+  "prompt": "生成一张{argument name=\"主题\" default=\"程序员老黄历\"}，最底下要有一段{argument name=\"附加内容\" default=\"祝福语\"}。",
+  "translatedPrompt": "{\n  \"type\": \"复古程序员黄历海报\",\n  \"style\": \"复古纸张纹理，传统中国黄历排版，红绿配色字体，结构化边框\",\n  \"header\": {\n    \"banner\": \"{argument name=\\\"main title\\\" default=\\\"程序员老黄历\\\"}\",\n    \"date_row\": \"{argument name=\\\"date\\\" default=\\\"2024 年 4 月 24 日 农历三月十六 星期三\\\"}\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"主要宜忌\",\n        \"position\": \"上半部分\",\n        \"count\": 2,\n        \"labels\": [\"宜\", \"忌\"],\n        \"content\": {\n          \"do_items\": [\"{argument name=\\\"primary do action\\\" default=\\\"撸代码\\\"}\", \"修复 BUG\"],\n          \"dont_items\": [\"{argument name=\\\"primary dont action\\\" default=\\\"熬夜\\\"}\", \"线上发布\"]\n        }\n      },\n      {\n        \"title\": \"今日指数\",\n        \"position\": \"中左\",\n        \"count\": 4,\n        \"labels\": [\"加班\", \"效率\", \"咖啡\", \"网络\"]\n      },\n      {\n        \"title\": \"次要宜事\",\n        \"position\": \"中中\",\n        \"count\": 3,\n        \"labels\": [\"写注释\", \"整理文档\", \"学习新技术\"]\n      },\n      {\n        \"title\": \"次要忌事\",\n        \"position\": \"中右\",\n        \"count\": 3,\n        \"labels\": [\"开长会\", \"改需求\", \"撕逼吵架\"]\n      },\n      {\n        \"title\": \"工具与祝福\",\n        \"position\": \"下左\",\n        \"count\": 2,\n        \"labels\": [\"工具推荐\", \"祝福语\"],\n        \"content\": {\n          \"tools\": [\"VSCode\", \"Git\"],\n          \"quote\": \"{argument name=\\\"blessing text\\\" default=\\\"愿你代码无 BUG，需求不返工，天天早下班，夜夜好睡眠\\\"}\"\n        }\n      },\n      {\n        \"title\": \"今日工位\",\n        \"position\": \"下右\",\n        \"count\": 1,\n        \"labels\": [\"今日工位\"],\n        \"description\": \"包含笔记本电脑、马克杯、绿植和窗户的桌面插画\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "程序员复古黄历海报：为程序员量身定制复古风格的中国黄历，包含可自定义的每日宜忌及祝福语。",
+      "subject": "信息结构",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14123",
+      "13619",
+      "13975",
+      "13984",
+      "14075",
+      "14141"
+    ]
+  }
+}

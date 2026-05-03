@@ -1,0 +1,39 @@
+{
+  "id": "13861",
+  "prompt": "一幅超寫實的3D插畫，描繪了一個略微傾斜的Twitter/X個人資料介面，背景為簡潔的黑色。原有的頭像（卡通女孩頭像）保持不變。個人資料介面與一張圖2完全一致，用戶名為“{argument name=\"用戶名\" default=\"Aigirl\"}”，帶有認證徽章、詳細的個人簡介、粉絲數和推文欄。 螢幕右側，一位{argument name=\"角色描述\" default=\"圖1\"}。她的五官與原圖相同（臉部未做任何修改），但現在擁有了燦爛自然的笑容、靈動的眼神和柔和透亮的肌膚。她一半身子在螢幕上掙脫，以動態的3D效果從螢幕中躍然而出。 螢幕掙脫造成的波紋劇烈晃動著。燈光採用柔和的影棚燈光，並帶有電影般的陰影 and 景深。超精細的4K分辨率，逼真的畫面与皮克斯風格的融合，畫面清晰銳利，在ArtStation上廣受歡迎。 重要提示： - 請勿變更頭像 (DP) - 保持 X 介面版面配置和文字樣式不變 - 保留女孩原有的臉部特徵 - 僅可將表情調整為自然微笑",
+  "translatedPrompt": "一张超写实的 3D 插图，描绘了一个略微倾斜的 Twitter/X 个人资料界面，背景为简约的黑色。原始头像（卡通女孩头像）保持不变。个人资料界面与图片 2 完全相同，包含用户名“{argument name=\"username\" default=\"Aigirl\"}”、认证徽章、详细简介、粉丝数量和推文栏。在屏幕右侧，是一个 {argument name=\"character description\" default=\"Image 1\"}。她的特征与原始形象相同（面部无任何改变），但现在拥有明亮自然的微笑、灵动的双眼以及柔软半透明的皮肤。她的半个身体正从屏幕中挣脱，以动态的 3D 效果跳出。破屏而出的涟漪正在剧烈震动。灯光采用柔和的摄影棚光效，带有电影级的阴影和景深。超精细 4K 分辨率，融合了写实影像与皮克斯风格，清晰锐利，在 ArtStation 上广受欢迎。重要提示：- 请勿更改头像 (DP) - 保持 X 界面布局和文字样式不变 - 保留女孩原始的面部特征 - 仅将表情调整为自然的微笑",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "3D 社交媒体个人资料破屏而出：一个复杂的提示词，用于生成角色从社交媒体个人资料界面破屏而出的 3D 效果，同时保留特定的 UI 细节和角色特征。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "3d"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: 3d]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14343",
+      "13949",
+      "13607",
+      "13770",
+      "14158",
+      "13917"
+    ]
+  }
+}

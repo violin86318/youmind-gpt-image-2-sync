@@ -1,0 +1,41 @@
+{
+  "id": "13597",
+  "prompt": "{\n  \"type\": \"photograph\",\n  \"setting\": \"outdoor temple grounds with gravel and foliage\",\n  \"subjects\": [\n    {\n      \"type\": \"signboard\",\n      \"material\": \"wood with red border and yellow header\",\n      \"header_text\": \"{argument name=\\\"header text\\\" default=\\\"ゆかいなお寺の教え\\\"}\",\n      \"layout\": \"3x3 grid\",\n      \"panel_count\": 9,\n      \"panels\": [\n        { \"position\": \"top-left\", \"text\": \"ズボンはチャックをチェック\", \"illustration\": \"blue jeans with zipper\" },\n        { \"position\": \"top-center\", \"text\": \"猫に話してもしらんぷり\", \"illustration\": \"grey and white cat\" },\n        { \"position\": \"top-right\", \"text\": \"ヘソのゴマとりすぎ注意\", \"illustration\": \"belly with thumbs pointing at navel\" },\n        { \"position\": \"mid-left\", \"text\": \"二度寝は二度目が気持ちいい\", \"illustration\": \"person sleeping under pink blanket\" },\n        { \"position\": \"mid-center\", \"text\": \"イビキは寝ると聞けない\", \"illustration\": \"person snoring\" },\n        { \"position\": \"mid-right\", \"text\": \"ポテチは開けたら止まらない\", \"illustration\": \"open bag of potato chips\" },\n        { \"position\": \"bottom-left\", \"text\": \"便座が冷たいとビックリ\", \"illustration\": \"shocked person next to toilet\" },\n        { \"position\": \"bottom-center\", \"text\": \"月末ピンチで来月もピンチ\", \"illustration\": \"empty wallet with lightning bolts\" },\n        { \"position\": \"bottom-right\", \"text\": \"{argument name=\\\"bottom right text\\\" default=\\\"ダイエットは明日から...\\\"}\", \"illustration\": \"{argument name=\\\"bottom right illustration\\\" default=\\\"monk eating a hamburger\\\"}\" }\n      ]\n    },\n    {\n      \"type\": \"monk\",\n      \"description\": \"bald Japanese Buddhist monk in black robes, white tabi socks, and sandals\",\n      \"pose\": \"standing on one leg, leaning on sign\",\n      \"expression\": \"{argument name=\\\"monk expression\\\" default=\\\"goofy, tongue out, wide eyes, hands framing face\\\"}\"\n    }\n  ]\n}",
+  "translatedPrompt": "{\n  \"type\": \"带有卡通插画告示牌的照片级逼真场景\",\n  \"setting\": \"{argument name=\\\"setting\\\" default=\\\"带有碎石和石墙的传统日本寺庙庭院\\\"}\",\n  \"subjects\": [\n    {\n      \"type\": \"人物\",\n      \"description\": \"一位秃头的日本佛教僧侣，身穿传统的深色长袍和棕褐色络子。\",\n      \"pose\": \"{argument name=\\\"monk pose\\\" default=\\\"搞怪姿势，单脚站立，向后倾斜，指着告示牌，吐出舌头\\\"}\"\n    },\n    {\n      \"type\": \"木制告示牌\",\n      \"description\": \"一个带有红色内边框的大型木制告示牌，上方设有标题，下方为 3x3 的 9 格插画网格。\",\n      \"header\": {\n        \"text\": \"{argument name=\\\"header text\\\" default=\\\"ゆかいなお寺の教え\\\"}\",\n        \"background\": \"黄色\"\n      },\n      \"grid_panels\": [\n        { \"position\": \"第 1 行，第 1 列\", \"text\": \"{argument name=\\\"panel 1 text\\\" default=\\\"ズボンはチャックをチェック\\\"}\", \"illustration\": \"带有拉链处红色强调线的蓝色牛仔裤\" },\n        { \"position\": \"第 1 行，第 2 列\", \"text\": \"猫に話してもしらんぷり\", \"illustration\": \"一只坐着并看向别处的灰白相间猫咪\" },\n        { \"position\": \"第 1 行，第 3 列\", \"text\": \"ヘソのゴマとりすぎ注意\", \"illustration\": \"两根大拇指指向肚脐的特写\" },\n        { \"position\": \"第 2 行，第 1 列\", \"text\": \"二度寝は二度目が気持ちいい\", \"illustration\": \"一个人在粉色毯子下安详地睡觉\" },\n        { \"position\": \"第 2 行，第 2 列\", \"text\": \"イビキは寝ると聞けない\", \"illustration\": \"一个人正在睡觉并打呼噜，带有 Zzz 符号\" },\n        { \"position\": \"第 2 行，第 3 列\", \"text\": \"ポテチは開けたら止まらない\", \"illustration\": \"一袋打开并洒出来的薯片\" },\n        { \"position\": \"第 3 行，第 1 列\", \"text\": \"便座が冷たいとビックリ\", \"illustration\": \"一个人在打开的马桶旁露出震惊的表情\" },\n        { \"position\": \"第 3 行，第 2 列\", \"text\": \"月末ピンチで来月もピンチ\", \"illustration\": \"一个带有黄色闪电图案的空棕色钱包\" },\n        { \"position\": \"第 3 行，第 3 列\", \"text\": \"{argument name=\\\"panel 9 text\\\" default=\\\"ダイエットは明日から...\\\"}\", \"illustration\": \"一个卡通秃头僧侣正开心地吃着大汉堡\" }\n      ]\n    }\n  ]\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "带有搞怪僧侣的趣味寺庙告示牌：生成一张照片级逼真的场景，展示了一位搞怪的僧侣站在一个 9 格插画寺庙告示牌旁摆姿势。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "grid"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13945",
+      "14243",
+      "15787",
+      "14963",
+      "13764",
+      "14500"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "13995",
+  "prompt": "{\n  \"type\": \"e-commerce livestream screenshot mockup\",\n  \"scene\": {\n    \"subject\": \"{argument name=\\\"main subject\\\" default=\\\"Caucasian male resembling Sam Altman\\\"}\",\n    \"clothing\": \"dark green crewneck sweater\",\n    \"action\": \"holding a black product box in one hand and pointing at it with the other\",\n    \"setting\": \"dark studio with a microphone on the left, faint 'AI' text in the background\",\n    \"props\": [\n      \"black mug with white OpenAI logo\",\n      \"stack of 4 black product boxes on the right\"\n    ]\n  },\n  \"product_design\": {\n    \"box_color\": \"black\",\n    \"logo\": \"orange asterisk or sunburst\",\n    \"text\": \"{argument name=\\\"product name\\\" default=\\\"Claude Opus 4.7\\\"}\"\n  },\n  \"ui_overlays\": {\n    \"top_left_product_info\": {\n      \"brand_tag\": \"Anthropic 官方旗舰店\",\n      \"title\": \"{argument name=\\\"product name\\\" default=\\\"Claude Opus 4.7\\\"}\",\n      \"subtitle\": \"{argument name=\\\"main headline\\\" default=\\\"更强推理·更高智能\\\"}\",\n      \"sub_subtitle\": \"最强大模型: Opus 4.7 重磅发布!\",\n      \"bullet_points_count\": 3,\n      \"bullet_points\": [\"超强推理能力\", \"代码能力巅峰\", \"复杂任务轻松搞定\"]\n    },\n    \"top_right_live_status\": {\n      \"viewer_info\": \"直播中 | 52.8万人观看\",\n      \"promo_banner\": \"直播专属福利 限时折扣·错过不再有\",\n      \"countdown\": \"倒计时 00:09:47\"\n    },\n    \"middle_right_price_card\": {\n      \"header\": \"{argument name=\\\"product name\\\" default=\\\"Claude Opus 4.7\\\"} 直播间专享价\",\n      \"price_currency\": \"¥\",\n      \"price_value\": \"{argument name=\\\"promotional price\\\" default=\\\"0.47\\\"}\",\n      \"price_unit\": \"/百万tokens起\",\n      \"original_price\": \"原价: ¥1.89\",\n      \"button\": \"立即抢购\"\n    },\n    \"bottom_left_chat\": {\n      \"message_count\": 9,\n      \"input_box_placeholder\": \"说点什么...\"\n    },\n    \"bottom_right_banner\": {\n      \"headline\": \"奥特曼首推！认准Claude Opus 4.7\",\n      \"subheadline\": \"更智能 · 更安全 · 更可靠\",\n      \"feature_tags_count\": 4,\n      \"feature_tags\": [\"强大推理\", \"代码神器\", \"安全可靠\", \"极速响应\"]\n    },\n    \"floating_elements\": [\n      {\n        \"type\": \"sticker\",\n        \"position\": \"middle right over product boxes\",\n        \"text\": \"{argument name=\\\"sticker text\\\" default=\\\"史上最强 AI模型!\\\"}\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"电商直播截图样机\",\n  \"scene\": {\n    \"subject\": \"{argument name=\\\"main subject\\\" default=\\\"外貌酷似 Sam Altman 的白人男性\\\"}\",\n    \"clothing\": \"深绿色圆领毛衣\",\n    \"action\": \"一只手拿着黑色产品盒，另一只手指向它\",\n    \"setting\": \"暗色调摄影棚，左侧配有麦克风，背景有淡淡的 'AI' 文字\",\n    \"props\": [\n      \"印有白色 OpenAI 标志的黑色马克杯\",\n      \"右侧堆叠着 4 个黑色产品盒\"\n    ]\n  },\n  \"product_design\": {\n    \"box_color\": \"黑色\",\n    \"logo\": \"橙色星号或太阳光芒图案\",\n    \"text\": \"{argument name=\\\"product name\\\" default=\\\"Claude Opus 4.7\\\"}\"\n  },\n  \"ui_overlays\": {\n    \"top_left_product_info\": {\n      \"brand_tag\": \"Anthropic 官方旗舰店\",\n      \"title\": \"{argument name=\\\"product name\\\" default=\\\"Claude Opus 4.7\\\"}\",\n      \"subtitle\": \"{argument name=\\\"main headline\\\" default=\\\"更强推理·更高智能\\\"}\",\n      \"sub_subtitle\": \"最强大模型: Opus 4.7 重磅发布!\",\n      \"bullet_points_count\": 3,\n      \"bullet_points\": [\"超强推理能力\", \"代码能力巅峰\", \"复杂任务轻松搞定\"]\n    },\n    \"top_right_live_status\": {\n      \"viewer_info\": \"直播中 | 52.8 万人观看\",\n      \"promo_banner\": \"直播专属福利 限时折扣·错过不再有\",\n      \"countdown\": \"倒计时 00:09:47\"\n    },\n    \"middle_right_price_card\": {\n      \"header\": \"{argument name=\\\"product name\\\" default=\\\"Claude Opus 4.7\\\"} 直播间专享价\",\n      \"price_currency\": \"¥\",\n      \"price_value\": \"{argument name=\\\"promotional price\\\" default=\\\"0.47\\\"}\",\n      \"price_unit\": \"/百万 tokens 起\",\n      \"original_price\": \"原价: ¥1.89\",\n      \"button\": \"立即抢购\"\n    },\n    \"bottom_left_chat\": {\n      \"message_count\": 9,\n      \"input_box_placeholder\": \"说点什么...\"\n    },\n    \"bottom_right_banner\": {\n      \"headline\": \"奥特曼首推！认准 Claude Opus 4.7\",\n      \"subheadline\": \"更智能 · 更安全 · 更可靠\",\n      \"feature_tags_count\": 4,\n      \"feature_tags\": [\"强大推理\", \"代码神器\", \"安全可靠\", \"极速响应\"]\n    },\n    \"floating_elements\": [\n      {\n        \"type\": \"sticker\",\n        \"position\": \"产品盒右侧上方\",\n        \"text\": \"{argument name=\\\"sticker text\\\" default=\\\"史上最强 AI 模型!\\\"}\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电商直播 UI 样机：生成高度精细的中文电商直播界面，包含主播、产品盒、实时聊天和促销叠加层。",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13836",
+      "13956",
+      "15056",
+      "13826",
+      "14176",
+      "14180"
+    ]
+  }
+}

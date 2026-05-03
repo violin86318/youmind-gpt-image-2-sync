@@ -1,0 +1,41 @@
+{
+  "id": "14085",
+  "prompt": "{\n  \"type\": \"first-person video game screenshot\",\n  \"style\": \"voxel-based 3D blocky graphics mixed with 2D sprite elements\",\n  \"environment\": {\n    \"setting\": \"nighttime blocky landscape with purple-tinted lighting\",\n    \"terrain\": \"grass blocks, water pools, purple-leaved trees, torches\"\n  },\n  \"entities\": [\n    \"1 giant floating eyeball boss {argument name=\\\"boss action\\\" default=\\\"shooting a purple laser beam\\\"}\",\n    \"1 giant blue slime wearing a jeweled gold crown\",\n    \"1 regular blue slime\",\n    \"1 zombie\",\n    \"2 skeletons\",\n    \"2 flying purple bat creatures\",\n    \"1 pink flamingo\",\n    \"1 player character wearing {argument name=\\\"player armor\\\" default=\\\"dark iron armor\\\"}\"\n  ],\n  \"first_person_view\": {\n    \"right_hand\": \"holding a {argument name=\\\"main weapon\\\" default=\\\"large iron sword\\\"}\"\n  },\n  \"user_interface\": {\n    \"top_left\": [\"X: 340\", \"Y: 64\", \"Z: -190\", \"Biome: {argument name=\\\"biome name\\\" default=\\\"Corruption\\\"}\"],\n    \"top_center\": \"purple boss health bar labeled {argument name=\\\"boss name\\\" default=\\\"Eye of Cthulhu\\\"}\",\n    \"top_right\": \"white notification popup: New Recipes Unlocked! Check your recipe book\",\n    \"bottom_left\": \"chat text: Steve has made the advancement [{argument name=\\\"boss name\\\" default=\\\"Eye of Cthulhu\\\"}]\",\n    \"bottom_center\": {\n      \"stats\": \"10 red hearts, 10 armor icons, 10 hunger shanks, experience level 15\",\n      \"hotbar_items\": [\n        \"purple sword\",\n        \"pickaxe\",\n        \"axe\",\n        \"green staff\",\n        \"musket\",\n        \"30 red potions\",\n        \"64 wood blocks\",\n        \"8 golden apples\",\n        \"2 blue stars\"\n      ]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"第一人称游戏截图\",\n  \"style\": \"基于体素的 3D 方块图形与 2D 精灵元素的混合风格\",\n  \"environment\": {\n    \"setting\": \"带有紫色调灯光的夜间方块景观\",\n    \"terrain\": \"草方块、水池、紫叶树、火把\"\n  },\n  \"entities\": [\n    \"1 个巨大的漂浮眼球 Boss {argument name=\\\"boss action\\\" default=\\\"发射紫色激光束\\\"}\",\n    \"1 个戴着珠宝金冠的巨大蓝色史莱姆\",\n    \"1 个普通蓝色史莱姆\",\n    \"1 个僵尸\",\n    \"2 个骷髅\",\n    \"2 个飞行的紫色蝙蝠生物\",\n    \"1 只粉色火烈鸟\",\n    \"1 个穿着 {argument name=\\\"player armor\\\" default=\\\"暗铁盔甲\\\"} 的玩家角色\"\n  ],\n  \"first_person_view\": {\n    \"right_hand\": \"手持 {argument name=\\\"main weapon\\\" default=\\\"大型铁剑\\\"}\"\n  },\n  \"user_interface\": {\n    \"top_left\": [\"X: 340\", \"Y: 64\", \"Z: -190\", \"生物群系: {argument name=\\\"biome name\\\" default=\\\"腐化之地\\\"}\"],\n    \"top_center\": \"紫色 Boss 血条，标注为 {argument name=\\\"boss name\\\" default=\\\"克苏鲁之眼\\\"}\",\n    \"top_right\": \"白色通知弹窗：已解锁新配方！请查看你的配方书\",\n    \"bottom_left\": \"聊天文本：Steve 达成了进度 [{argument name=\\\"boss name\\\" default=\\\"克苏鲁之眼\\\"}]\",\n    \"bottom_center\": {\n      \"stats\": \"10 颗红心，10 个盔甲图标，10 个饥饿鸡腿，经验等级 15\",\n      \"hotbar_items\": [\n        \"紫色剑\",\n        \"镐\",\n        \"斧\",\n        \"绿色法杖\",\n        \"火枪\",\n        \"30 瓶红色药水\",\n        \"64 个木块\",\n        \"8 个金苹果\",\n        \"2 个蓝色星星\"\n      ]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "体素生存游戏联动 UI：生成一张复杂的、融合了方块建造与 2D 生存游戏元素的体素第一人称游戏截图，包含自定义 Boss、生物群系以及详细的 HUD。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "3d"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "App Store 截图、产品概念、移动工具界面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: 3d]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13681",
+      "14150",
+      "14087",
+      "14540",
+      "14542",
+      "13658"
+    ]
+  }
+}

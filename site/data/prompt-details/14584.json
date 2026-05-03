@@ -1,0 +1,49 @@
+{
+  "id": "14584",
+  "prompt": "A hyper-detailed premium Japanese trading card illustration in the style of an ultra-rare tokusatsu collectible, vertical composition with an ornate holographic foil border and explosive cinematic action. Center the armored hero {argument name=\"character name\" default=\"Kamen Rider Double\"} in a dramatic low-angle full-body pose, lunging forward through a ruined city battlefield while thrusting a trading card toward the viewer in his left hand. His suit is sharply split down the middle: vivid metallic green on the left half and glossy black on the right half, with large glittering red compound eyes, a silver V-shaped crest, segmented insect-like armor plating, a white scarf flowing behind him, and a highly detailed transformation belt with red mechanical components. The card he holds should show a smaller image of the same hero and match the premium collectible design. Surround him with exactly 8 background riders or enemies in dynamic combat positions across the destroyed urban warzone: 2 flying figures near the upper background, 3 mid-ground combatants on the right side, 1 blue-and-gold figure on the lower right, 1 red-and-blue rider on the lower left, and 1 additional partially visible fighter near the left edge. Fill the environment with shattered rubble, damaged skyscrapers, sparks, smoke, debris, and streaks of energy, creating a chaotic apocalyptic battle scene. Use intense prismatic holographic effects, rainbow diffraction, glitter, lens flares, starbursts, and reflective foil textures across the entire image. Frame the artwork like an SSR rarity game card with visible text elements: top center title \"KAMEN RIDER\", a large \"W\" beneath it, a top-right shield emblem reading {argument name=\"rarity label\" default=\"SSR\"} with 6 stars below, a top-left circular green-and-purple W insignia, a bottom-left panel reading \"CARD TYPE\" and \"CHARACTER\", a bottom center nameplate reading \"KAMEN RIDER DOUBLE\" and \"仮面ライダーW(ダブル)\", a barcode beneath, small bottom text \"CYCLONE JOKER XTREME 09\", and a large gold script signature at bottom right reading {argument name=\"signature text\" default=\"NickTag\"}. Make the whole card look like a luxurious, foil-stamped, ultra-rare, officially licensed tokusatsu collector card with razor-sharp detail, rich metallic highlights, dense particles, and maximal dramatic contrast.",
+  "translatedPrompt": "一张超精细的高端日本集换式卡牌插画，采用超稀有特摄收藏品风格，垂直构图，带有华丽的全息箔边框和爆炸性的电影级动作场面。画面中心为身穿装甲的英雄 {argument name=\"character name\" default=\"Kamen Rider Double\"}，采用戏剧性的低角度全身姿势，在废墟城市战场中向前冲刺，左手向观众展示一张集换式卡牌。他的战衣从中间清晰地一分为二：左半部分为鲜艳的金属绿，右半部分为光亮的黑色，拥有巨大的闪烁红色复眼、银色 V 型冠饰、分段式昆虫装甲、飘逸的白色围巾，以及带有红色机械组件的高度精细变身腰带。他手中的卡牌应展示该英雄的较小图像，并与高端收藏品设计相匹配。在他周围布置 8 位背景骑士或敌人，分布在被摧毁的城市战区中，处于动态战斗姿势：上方背景附近有 2 个飞行身影，右侧有 3 个中景战斗人员，右下方有 1 个蓝金配色身影，左下方有 1 个红蓝配色骑士，左侧边缘附近还有 1 个部分可见的战士。环境充满破碎的瓦砾、受损的摩天大楼、火花、烟雾、碎片和能量流，营造出混乱的末日战斗场景。整张图像使用强烈的三棱镜全息效果、彩虹衍射、闪光、镜头光晕、星芒和反光箔纹理。将艺术作品框定为 SSR 稀有度游戏卡牌，并包含可见的文字元素：顶部中心标题“KAMEN RIDER”，下方有一个巨大的“W”，右上角盾牌徽章显示 {argument name=\"rarity label\" default=\"SSR\"} 并带有 6 颗星，左上角为绿色和紫色的圆形 W 徽章，左下角面板显示“CARD TYPE”和“CHARACTER”，底部中心铭牌显示“KAMEN RIDER DOUBLE”和“仮面ライダーW(ダブル)”，下方有条形码，底部小字显示“CYCLONE JOKER XTREME 09”，右下角有巨大的金色手写签名 {argument name=\"signature text\" default=\"NickTag\"}。使整张卡牌看起来像一张奢华、烫金、超稀有且获得官方授权的特摄收藏卡，细节极其锐利，金属高光丰富，粒子密集，并具有极致的戏剧性对比。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "SSR 假面骑士 W 卡牌：一张闪烁的超稀有特摄集换式卡牌图像，展现了假面骑士 W 在电影级战斗场景中的英姿，非常适合收藏级卡牌艺术或高端游戏卡牌设计。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [
+        "full-body",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "premium"
+      ],
+      "lightingCamera": [
+        "lens"
+      ],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body, vertical]。\n\nVisual style:\n[参考风格: cinematic, premium]。\n\nLighting and camera:\n[参考光线镜头: lens]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14616",
+      "15377",
+      "14060",
+      "14613",
+      "15178",
+      "14216"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "15171",
+  "prompt": "The painting contains only one face: that of an {argument name=\"subject\" default=\"elegant young female model\"} with {argument name=\"expression\" default=\"little grin\"}. The line that runs from her hair parting to seamlessly split her face in half is designed to look like violently torn paper. The painting is perfectly, completely and forcibly divided into two parts by one flowing lines that resemble tears in the paper:\\n—Left side: {argument name=\"left style\" default=\"Futuristic elegant pop art style\"} with strategic cutie smile subtly.\\n—Right side: Hyper realistic beautiful natural style with smiling subtly.\\n—Right side: Her beautiful natural upper-body is drowned by totally beautiful marine-blue geometric halftone circles. style.\\n\\nThe background is futuristic dreamy. The entire screen is effectively bright and maintains natural vividness. The high resolution, fine details, and soft blur are reminiscent of an electron microscope.",
+  "translatedPrompt": "这幅画仅包含一张脸：一位 {argument name=\"subject\" default=\"优雅的年轻女性模特\"}，带着 {argument name=\"expression\" default=\"浅浅的微笑\"}。从她的发际线贯穿而下，将面部无缝一分为二的线条，设计成暴力撕纸的效果。整幅画被一条类似纸张撕裂的流畅线条完美、彻底且强力地分割为两部分：\n—左侧：{argument name=\"left style\" default=\"未来派优雅波普艺术风格\"}，带有策略性的可爱微笑。\n—右侧：超写实主义自然美学风格，带有浅浅的微笑。\n—右侧：她美丽的自然上半身被完全精美的海蓝色几何半色调圆点所淹没。\n\n背景呈现出未来派的梦幻感。整个画面效果明亮，并保持了自然的生动感。高分辨率、精细的细节以及柔和的模糊效果，让人联想到电子显微镜下的影像。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "分裂风格艺术肖像：一种用于分裂面部构图的艺术提示词，通过创意的撕纸效果，将未来派波普艺术与超写实主义进行对比。",
+      "subject": "界面",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14723",
+      "13608",
+      "14515",
+      "15603",
+      "15606",
+      "14157"
+    ]
+  }
+}

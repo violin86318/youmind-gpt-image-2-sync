@@ -1,0 +1,45 @@
+{
+  "id": "14602",
+  "prompt": "A refined sepia-toned illustration in the style of an ancient Chinese scholarly portrait fused with modern AI branding, on aged parchment paper with visible grain and ink-wash texture. Centered is a half-body portrait of a curly-haired male scholar inspired by Democritus, seated behind a wooden desk and wearing layered traditional robes in muted blue-gray and brown with intricate trim. His face is intentionally obscured by a flat rectangular block in a brown skin-tone color, creating an anonymized or redacted look. He holds 1 calligraphy brush upright in his right hand, while his left hand rests on the table. In the upper center-right, place the Claude logo with a rust-orange sunburst emblem and the word “Claude” in dark serif lettering. On the upper left, add a large vertical title in Chinese, “德米斯圖”, with 1 vertical column of smaller Chinese calligraphy text beside it reading: “以語言為媒，理解為舟，助人洞見，推動協作，造福人類，安全可信，通往更美好的未來。” Add a smaller vertical signature line on the far left reading “甲辰春寫” with 2 red seal stamps below it. The background shows a classical Chinese landscape painting with distant mountains, a small pavilion on a cliff, mist, and dense bamboo leaves framing the upper right and right edge, plus dark pine branches on the lower left.\n\nThe wooden desk fills the lower third and contains exactly 8 distinct object groups: 1 brush pot holding 4 brushes on the left, 1 stack of 4 stitched books with Chinese titles on the spines reading “人工智慧概論”, “機器學習原理”, “負責任的 AI”, and “對齊與價值觀”, 1 ink stone or ink dish near the center-left, 1 central parchment diagram sheet, 1 small dark cube seal near the bottom left with Chinese characters on two visible faces, 1 framed placard on the right, 1 rolled scroll at the bottom right, and 1 tabletop surface with visible wood grain. The central parchment diagram should show a circular node labeled “AI 安全 Safety” connected to 6 surrounding nodes labeled “準確”, “可靠”, “有益”, “透明”, “對齊”, and “隱私”, with delicate cloud motifs around the diagram. The framed placard on the right should read “AI 安全原則” as a header and list 4 bullet points in Chinese: “減少災難性風險”, “尊重人類價值觀”, “確保系統可控”, and “促進長遠福祉”. The rolled scroll at the bottom right should display the phrase “以謹慎之心 創造未來”.\n\nUse a balanced composition, scholarly calm mood, highly detailed ink linework, subtle watercolor shading, antique museum-print aesthetics, and a restrained palette of parchment tan, ink brown, faded blue, and muted charcoal. The overall feeling should be an intellectual tribute poster blending classical East Asian literati painting, philosophical portraiture, and contemporary AI safety themes.",
+  "translatedPrompt": "一张精致的棕褐色调插画，风格融合了中国古代学者肖像与现代 AI 品牌元素，呈现于带有明显纹理和水墨质感的陈旧羊皮纸上。画面中央是一位受德谟克利特启发的卷发男性学者半身像，他坐在木桌后，身着层次分明的传统长袍，色调为柔和的蓝灰色与棕色，并带有精致的镶边。他的面部被一块棕色皮肤色调的扁平矩形遮挡，营造出一种匿名或被审查的视觉效果。他右手垂直握着一支毛笔，左手平放在桌面上。在画面中上部偏右处，放置 Claude 标志，包含一个铁锈橙色的太阳光芒徽章，以及深色衬线字体的“Claude”字样。在左上角，添加一个巨大的竖排中文标题“德米斯图”，旁边配有一列较小的竖排中文书法文字：“以语言为媒，理解为舟，助人洞见，推动协作，造福人类，安全可信，通往更美好的未来。”在最左侧添加一行较小的竖排落款“甲辰春写”，下方盖有两枚红色印章。背景展示了一幅中国古典山水画，包含远山、悬崖上的小亭、云雾，右上角和右侧边缘由茂密的竹叶点缀，左下角则有深色的松枝。\n\n木桌占据了画面的下三分之一，桌上摆放着 8 组不同的物品：左侧有一个插着 4 支毛笔的笔筒，一叠 4 本装订成册的书籍，书脊上分别写着“人工智能概论”、“机器学习原理”、“负责任的 AI”和“对齐与价值观”，左中位置有一个砚台或墨碟，中央有一张羊皮纸图表，左下角有一个刻有汉字的小型深色方块印章，右侧有一个带框的告示牌，右下角有一个卷轴，桌面表面呈现出清晰的木纹。中央的羊皮纸图表应显示一个标有“AI 安全 Safety”的圆形节点，连接着周围 6 个分别标有“准确”、“可靠”、“有益”、“透明”、“对齐”和“隐私”的节点，图表周围环绕着精致的云纹。右侧的带框告示牌应以“AI 安全原则”为标题，并列出 4 条中文要点：“减少灾难性风险”、“尊重人类价值观”、“确保系统可控”和“促进长远福祉”。右下角的卷轴应展示“以谨慎之心 创造未来”字样。\n\n采用均衡的构图、学者般沉静的氛围、高度精细的墨线、微妙的水彩渲染、古董博物馆印刷美学，以及由羊皮纸棕褐色、墨棕色、褪色蓝和柔和炭灰色组成的克制色调。整体感觉应是一张融合了东亚古典文人画、哲学肖像画和当代 AI 安全主题的知识性致敬海报。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "古代学者 AI 安全海报：此提示词用于生成一张羊皮纸风格的中国古典学者海报，融合了 Claude 品牌元素与 AI 安全象征，适用于编辑艺术、概念海报或文化科技视觉短文。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [
+        "centered",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "watercolor"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, layered, vertical]。\n\nVisual style:\n[参考风格: watercolor]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15321",
+      "14966",
+      "14539",
+      "14914",
+      "15329",
+      "14554"
+    ]
+  }
+}

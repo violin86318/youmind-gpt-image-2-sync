@@ -1,0 +1,44 @@
+{
+  "id": "13679",
+  "prompt": "Anime illustration of {argument name=\"male character\" default=\"Subaru Natsuki from Re:Zero in a tracksuit\"} and {argument name=\"female character\" default=\"Rem from Re:Zero in a maid outfit\"} holding hands in a {argument name=\"atmosphere\" default=\"surreal, distorted, cold blue winter landscape\"}. The background has tilted buildings, floating chairs, doors, utility poles, and a giant dark void in the upper left sky. The scene uses a melancholic blue and white palette with a vignette. Scattered Japanese text overlays include \"{argument name=\"top right text\" default=\"何もかも おかしい\"}\" top right, \"{argument name=\"bottom right text\" default=\"ここは、どこ？\"}\" in a vertical box bottom right, \"違和感が 積み重なっていく\" far left, \"夢だったらいいのに\" top left, and \"しん とした世界\" bottom left.",
+  "translatedPrompt": "一张动漫风格的插画，描绘了一位 {argument name=\"male character\" default=\"穿着黑白橙色运动服的短发年轻男子\"} 和一位 {argument name=\"female character\" default=\"穿着黑白女仆装的短发蓝发年轻女子\"} 站在雪中的人行横道上，手牵手深情对视。环境是一个超现实、扭曲且梦幻的世界，笼罩在忧郁的冷蓝色和紫色调中。背景中可以看到倾斜的电线杆、歪斜的建筑物、左上方天空中巨大的深色眼状虚空、一扇漂浮的门以及四把漂浮的椅子。场景中融入了多个日语文字元素：最左侧的竖排文字写着“違和感が 喪失感が 積み重なっていく”，附近有一个小方框文字写着“夢だったらいいのに”，右上角的大字写着 {argument name=\"top right text\" default=\"何もかも おかしい\"}，左下角的文字写着 {argument name=\"bottom left text\" default=\"しん とした世界\"}，右下角的竖排深色文本框写着 {argument name=\"bottom right text\" default=\"ここは、どこ？\"}。图像带有暗角效果，呈现出一种电影般的空灵氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "超现实动漫情侣场景：生成一张动漫风格的插画，描绘一对情侣置身于扭曲、梦幻的环境中，伴有漂浮物体和氛围感文字。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14929",
+      "15509",
+      "14431",
+      "14960",
+      "14971",
+      "14974"
+    ]
+  }
+}

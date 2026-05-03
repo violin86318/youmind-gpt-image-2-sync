@@ -1,0 +1,49 @@
+{
+  "id": "14958",
+  "prompt": "{\"type\":\"AI model comparison infographic poster\",\"topic\":\"GPT Image 2 quality comparison\",\"style\":\"futuristic cinematic tech ad, polished social-media comparison graphic, high-contrast neon night scene\",\"canvas\":{\"orientation\":\"vertical\",\"aspect_ratio\":\"9:16\"},\"headline\":{\"text\":\"{argument name=\\\"headline text\\\" default=\\\"GPT Image 2 モデル比較 : Standard vs Medium vs High\\\"}\",\"position\":\"top center\",\"color\":\"white\",\"font\":\"bold sans-serif\"},\"layout\":{\"sections\":[{\"title\":\"GPT Image 2 Standard\",\"position\":\"top panel\",\"count\":1,\"labels\":[\"速くて安い / 日常使い・ラフ案に最適 / コスト低・生成速い\"],\"divider_color\":\"cool blue\"},{\"title\":\"GPT Image 2 Medium\",\"position\":\"middle panel\",\"count\":1,\"labels\":[\"バランス最高 / コスパ良好 / ちょっと良い感じにしたい時に\"],\"divider_color\":\"cool blue\"},{\"title\":\"GPT Image 2 High\",\"position\":\"bottom panel\",\"count\":1,\"labels\":[\"最高品質・最高ディテール / 動画のキー画像・最終出力用 / コストと時間は一番かかる\"],\"divider_color\":\"warm orange\"}],\"panel_count\":3},\"scene\":{\"setting\":\"rainy futuristic city skyline at night beside reflective wet ground or waterfront, dense skyscrapers with glowing windows and blue neon accents\",\"subject\":\"a single athletic male runner sprinting from left to right in each panel\",\"subject_count\":1,\"pose\":\"dynamic mid-stride sprint with one arm forward and one arm back, leaning aggressively into motion\",\"wardrobe\":\"dark fitted futuristic sportswear, textured jacket and pants, dark shoes\",\"face\":\"intentionally soft or anonymized, not the focal point\",\"effects\":[\"electric blue particle trails around the body\",\"sparks and light streaks bursting from behind the runner\",\"water spray from footfalls\",\"reflections on wet pavement\",\"motion blur emphasizing speed\"]},\"comparison\":{\"top_panel\":\"slightly softer, simpler detail, cheaper and faster look while keeping the same composition\",\"middle_panel\":\"more balanced detail and clarity, improved rendering and lighting while preserving the same scene\",\"bottom_panel\":\"highest detail, richest texture, strongest lighting contrast, densest particles and reflections, most cinematic polish\"},\"branding\":{\"logo_text\":\"{argument name=\\\"brand text\\\" default=\\\"LovArt\\\"}\",\"count\":3,\"placement\":\"bottom center of each panel\",\"color\":\"white with subtle blue accent\"},\"color_palette\":{\"primary\":[\"deep navy\",\"electric blue\",\"cyan\",\"white\"],\"accent\":[\"orange sparks\",\"amber highlights\"]},\"rendering\":{\"finish\":\"premium digital illustration with semi-photoreal detail\",\"sharpness\":\"increasing from top to bottom\",\"lighting\":\"glowing neon rim light, city backlight, reflective wet-surface highlights\"}}",
+  "translatedPrompt": "{\"type\":\"AI 模型对比信息图海报\",\"topic\":\"GPT Image 2 质量对比\",\"style\":\"未来感电影级科技广告，精致的社交媒体对比图，高对比度霓虹夜景\",\"canvas\":{\"orientation\":\"垂直\",\"aspect_ratio\":\"9:16\"},\"headline\":{\"text\":\"{argument name=\\\"headline text\\\" default=\\\"GPT Image 2 质量对比：Standard vs Medium vs High\\\"}\",\"position\":\"顶部居中\",\"color\":\"白色\",\"font\":\"粗体无衬线字体\"},\"layout\":{\"sections\":[{\"title\":\"GPT Image 2 Standard\",\"position\":\"顶部面板\",\"count\":1,\"labels\":[\"快速且经济 / 适合日常使用及草稿 / 低成本、生成速度快\"],\"divider_color\":\"冷蓝色\"},{\"title\":\"GPT Image 2 Medium\",\"position\":\"中间面板\",\"count\":1,\"labels\":[\"最佳平衡 / 性价比高 / 适合需要提升质感的场景\"],\"divider_color\":\"冷蓝色\"},{\"title\":\"GPT Image 2 High\",\"position\":\"底部面板\",\"count\":1,\"labels\":[\"最高质量与细节 / 适合视频关键帧及最终输出 / 成本与时间消耗最高\"],\"divider_color\":\"暖橙色\"}],\"panel_count\":3},\"scene\":{\"setting\":\"雨夜未来城市天际线，地面或水岸湿润且具有反射效果，密集的摩天大楼带有发光的窗户和蓝色霓虹灯点缀\",\"subject\":\"每个面板中均有一名男性运动员从左向右奔跑\",\"subject_count\":1,\"pose\":\"动态奔跑姿态，单臂前伸、单臂后摆，身体前倾展现强烈的运动感\",\"wardrobe\":\"深色修身未来感运动装，带有纹理的夹克和长裤，深色运动鞋\",\"face\":\"刻意柔化或匿名化，非视觉焦点\",\"effects\":[\"身体周围带有电蓝色粒子轨迹\",\"身后迸发出火花和光束\",\"脚步溅起的水花\",\"湿润路面的倒影\",\"强调速度的动态模糊\"]},\"comparison\":{\"top_panel\":\"细节略显柔和、简洁，在保持相同构图的情况下呈现出更低成本和更快的速度感\",\"middle_panel\":\"细节与清晰度更加平衡，在保留相同场景的同时提升了渲染和光影效果\",\"bottom_panel\":\"细节最丰富，纹理最细腻，光影对比最强烈，粒子和反射效果最密集，呈现出最极致的电影级质感\"},\"branding\":{\"logo_text\":\"{argument name=\\\"brand text\\\" default=\\\"LovArt\\\"}\",\"count\":3,\"placement\":\"每个面板底部居中\",\"color\":\"白色，带有微妙的蓝色点缀\"},\"color_palette\":{\"primary\":[\"深海军蓝\",\"电光蓝\",\"青色\",\"白色\"],\"accent\":[\"橙色火花\",\"琥珀色高光\"]},\"rendering\":{\"finish\":\"具有半写实细节的高级数字插画\",\"sharpness\":\"从上到下逐渐增强\",\"lighting\":\"发光的霓虹轮廓光、城市背景光、湿润表面的反射高光\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "GPT Image 2 对比海报：一张垂直的三联信息图，展示了使用相同未来感跑步场景下 Standard、Medium 和 High 三种图像质量的对比，非常适合社交媒体发布或产品功能介绍。",
+      "subject": "信息结构",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "premium"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "backlight",
+        "neon"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: cinematic, premium]。\n\nLighting and camera:\n[参考光线镜头: rim light, backlight, neon]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15466",
+      "15740",
+      "15247",
+      "14462",
+      "15009",
+      "15653"
+    ]
+  }
+}

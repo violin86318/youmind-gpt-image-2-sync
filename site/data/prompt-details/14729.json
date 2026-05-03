@@ -1,0 +1,39 @@
+{
+  "id": "14729",
+  "prompt": "Make a {argument name=\"format\" default=\"mood board\"} about {argument name=\"subject\" default=\"AI\"}, {argument name=\"style\" default=\"cinematic style\"}, use nostalgic stuff like Polaroids \nPortrait mode",
+  "translatedPrompt": "制作一个 {argument name=\"format\" default=\"情绪板\"}，主题为 {argument name=\"subject\" default=\"AI\"}，风格为 {argument name=\"style\" default=\"电影感风格\"}，使用宝丽来等怀旧元素 \n人像模式",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影感 AI 情绪板提示词：一个用于生成怀旧、电影感 AI 情绪板或拼贴画的提示词，采用宝丽来风格美学。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "cinematic"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13698",
+      "13448",
+      "13451",
+      "14017",
+      "14257",
+      "14741"
+    ]
+  }
+}

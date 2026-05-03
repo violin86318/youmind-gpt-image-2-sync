@@ -1,0 +1,39 @@
+{
+  "id": "13810",
+  "prompt": "A highly detailed, intricate {argument name=\"art style\" default=\"black and white line art illustration\"} of an {argument name=\"subject\" default=\"anime-style angel\"}. She has long, flowing wavy hair adorned with a {argument name=\"headpiece\" default=\"floral crown of roses and lilies\"} and is looking directly at the viewer with large, expressive eyes. Her {argument name=\"pose\" default=\"hands are clasped together in prayer\"}. She has large, feathered angel wings extending from her back and wears an incredibly ornate dress completely covered in dense floral patterns, lace, and filigree, along with a detailed jeweled choker and dangling earrings. Behind her head is a radiant, glowing halo with straight, sunburst-like lines. The entire background is filled with symmetrical, baroque-style floral and vine filigree, creating a dense, tapestry-like frame. The style is strictly monochrome, resembling a highly complex ink drawing, engraving, or an intricate adult coloring book page, with meticulous linework.",
+  "translatedPrompt": "一张高度精细、错综复杂的 {argument name=\"art style\" default=\"黑白线条艺术插图\"}，主体为 {argument name=\"subject\" default=\"动漫风格天使\"}。她留着飘逸的长波浪卷发，戴着 {argument name=\"headpiece\" default=\"由玫瑰和百合组成的花冠\"}，用一双大而富有表现力的眼睛直视观众。她的 {argument name=\"pose\" default=\"双手合十祈祷\"}。她背部伸展着巨大的羽毛天使翅膀，身穿一件极其华丽的连衣裙，上面覆盖着密集的碎花图案、蕾丝和金银丝，并佩戴着精致的珠宝项圈和吊坠耳环。她脑后是一个光芒四射的圆环，带有笔直的太阳光芒线条。整个背景充满了对称的巴洛克风格花卉和藤蔓金银丝，营造出一种致密的挂毯式框架。整体风格严格采用单色，类似于高度复杂的墨水画、雕刻作品或精致的成人填色书页面，线条刻画极其细致。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "精致单色天使线条艺术：生成一张高度精细的黑白线条艺术插图，描绘了一位带有华丽花卉和金银丝图案的天使，非常适合作为填色书页面或雕刻风格艺术品。",
+      "subject": "服饰",
+      "scene": "海报/封面",
+      "composition": [
+        "symmetrical"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体",
+        "构图",
+        "风格"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: symmetrical]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14931",
+      "13655",
+      "13682",
+      "13796",
+      "13936",
+      "13998"
+    ]
+  }
+}

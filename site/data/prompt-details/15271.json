@@ -1,0 +1,46 @@
+{
+  "id": "15271",
+  "prompt": "A candid documentary-style indoor family snapshot in a modest early-2000s living room in China, photographed like a real consumer camera photo with soft ambient daylight, slight grain, natural color, and a yellow date stamp in the bottom right reading {argument name=\"date stamp\" default=\"2003.02.02\"}. The scene shows exactly 3 people: a little girl in the foreground sitting cross-legged on a patterned carpet and playing with a colorful toy car, one adult kneeling on the floor near the TV stand in a light gray sweater and blue pants, and one adult leaning over electronics equipment in a dark blue long-sleeve shirt near a sofa. Make the image feel unposed, nostalgic, and convincingly photographic, as if captured during an ordinary afternoon at home. On the left side, include 1 bulky CRT television displaying black-and-white static snow, sitting on a dark media stand with stacked electronics and shelves below. In the center background, place a wall calendar showing {argument name=\"calendar year\" default=\"2003\"}, and a wooden shelving unit holding framed family photos, books, tapes, and small household items. On the right side, include 1 sofa draped in a light floral lace cover with a blue folder or notebook resting on the arm. Add domestic clutter and lived-in details: exactly 2 potted plants on the floor by the TV, a patterned rug covering most of the floor, and a slightly dim, warm, everyday apartment atmosphere. The child should wear a pink sweater and dark pants, with small tied pigtails, focused downward on the toy. The overall style should be highly realistic, like a genuine archival family photograph rather than an illustration, with believable perspective, soft shadows, and subtle lens imperfections.",
+  "translatedPrompt": "一张纪实风格的室内家庭快照，背景是中国 21 世纪初一个朴素的客厅，拍摄效果如同真实的消费级相机照片，带有柔和的自然光、轻微的噪点、自然的色彩，以及右下角黄色的日期戳，显示为 {argument name=\"date stamp\" default=\"2003.02.02\"}。画面中正好有 3 个人：前景中一个小女孩盘腿坐在花纹地毯上玩着一辆彩色玩具车；一名穿着浅灰色毛衣和蓝色裤子的成年人跪在电视柜旁；另一名穿着深蓝色长袖衬衫的成年人靠在沙发旁的电子设备上。让画面呈现出一种未经摆拍、怀旧且极具真实感的摄影效果，仿佛是在家中一个普通的午后抓拍的。左侧放置一台笨重的 CRT 电视机，屏幕显示着黑白雪花，电视机放在深色的媒体柜上，下方堆放着电子产品和架子。背景中央挂着一张显示 {argument name=\"calendar year\" default=\"2003\"} 年的挂历，以及一个木制置物架，上面摆放着带框的家庭照片、书籍、磁带和小型家居用品。右侧是一张铺着浅色碎花蕾丝罩的沙发，扶手上放着一个蓝色文件夹或笔记本。增加生活化的杂乱细节：电视机旁的地板上有 2 盆盆栽，地面大部分被花纹地毯覆盖，营造出一种光线略暗、温暖的日常公寓氛围。小女孩穿着粉色毛衣和深色裤子，扎着小辫子，低头专注于玩具。整体风格应高度写实，如同真实的家庭档案照片而非插画，具备可信的透视、柔和的阴影以及细微的镜头瑕疵。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "21 世纪初家庭客厅照片：一张充满怀旧感的写实快照，展现了 21 世纪初杂乱的家庭客厅，适用于生成具有说服力的档案风格生活照。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [],
+      "style": [
+        "realistic",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "lens",
+        "camera"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, documentary]。\n\nLighting and camera:\n[参考光线镜头: lens, camera]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14614",
+      "14667",
+      "15313",
+      "15602",
+      "15808",
+      "14595"
+    ]
+  }
+}

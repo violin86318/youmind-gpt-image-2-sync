@@ -1,0 +1,45 @@
+{
+  "id": "13538",
+  "prompt": "{\n  \"type\": \"kawaii animal sticker sheet\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"hand-drawn watercolor and colored pencil texture, pastel colors, cute, simple outlines\\\"}\",\n  \"header\": {\n    \"text\": \"{argument name=\\\"header text\\\" default=\\\"오늘도 귀여움 풀충전!\\\"}\",\n    \"decorations\": \"hearts and stars\"\n  },\n  \"layout\": {\n    \"grid\": \"4 rows by 6 columns\",\n    \"total_stickers\": 24\n  },\n  \"stickers\": [\n    {\"id\": \"1\", \"animal\": \"bear holding a pink heart\", \"label\": \"사랑해♡\"},\n    {\"id\": \"2\", \"animal\": \"white rabbit cheering\", \"label\": \"오키!\"},\n    {\"id\": \"3\", \"animal\": \"gray and white cat holding a yellow star\", \"label\": \"최고야!!\"},\n    {\"id\": \"4\", \"animal\": \"fluffy white dog cheering\", \"label\": \"와아아~!\"},\n    {\"id\": \"5\", \"animal\": \"penguin holding a coffee mug\", \"label\": \"화이아~!\"},\n    {\"id\": \"6\", \"animal\": \"green frog peeking over an edge\", \"label\": \"?10'...\"},\n    {\"id\": \"7\", \"animal\": \"fluffy white dog sleeping with a crescent moon\", \"label\": \"잘자♡\"},\n    {\"id\": \"8\", \"animal\": \"brown dog smiling with sparkles\", \"label\": \"고마워!!\"},\n    {\"id\": \"9\", \"animal\": \"crying brown bear\", \"label\": \"감동이야ㅜㅜ\"},\n    {\"id\": \"10\", \"animal\": \"white rabbit with yellow cheerleader pom-poms\", \"label\": \"화이팅!!\"},\n    {\"id\": \"11\", \"animal\": \"gray cat wearing sunglasses and drinking from a cup\", \"label\": \"힐링중~\"},\n    {\"id\": \"12\", \"animal\": \"brown bear peeking from behind a wall\", \"label\": \"뭐해?\"},\n    {\"id\": \"13\", \"animal\": \"penguin dancing with music notes\", \"label\": \"신나!!\"},\n    {\"id\": \"14\", \"animal\": \"gray and white cat lying down relaxed\", \"label\": \"응응♡\"},\n    {\"id\": \"15\", \"animal\": \"confused fluffy white dog with question marks\", \"label\": \"????\"},\n    {\"id\": \"16\", \"animal\": \"brown bear with a pink hair bow holding a heart\", \"label\": \"심쿵...♡\"},\n    {\"id\": \"17\", \"animal\": \"hamster running fast with motion lines\", \"label\": \"지금 가는중!\"},\n    {\"id\": \"18\", \"animal\": \"white rabbit wrapped snugly in a yellow blanket\", \"label\": \"집콕중~\"},\n    {\"id\": \"19\", \"animal\": \"white rabbit typing on a laptop\", \"label\": \"열일중!\"},\n    {\"id\": \"20\", \"animal\": \"fluffy white dog blowing kisses\", \"label\": \"쪽쪽 ♡\"},\n    {\"id\": \"21\", \"animal\": \"gray and white cat lying down with hearts\", \"label\": \"쪽쪽♡♡\"},\n    {\"id\": \"22\", \"animal\": \"brown bear cheering with one arm up\", \"label\": \"OK! ✧\"},\n    {\"id\": \"23\", \"animal\": \"brown dog looking shocked\", \"label\": \"헉.. 귀여워...!\"},\n    {\"id\": \"24\", \"animal\": \"group of three small animals\", \"label\": \"우리최고♡\"}\n  ]\n}",
+  "translatedPrompt": "{\n  \"type\": \"可爱动物贴纸页\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"手绘水彩与彩色铅笔质感，柔和色调，可爱，简洁轮廓\\\"}\",\n  \"header\": {\n    \"text\": \"{argument name=\\\"header text\\\" default=\\\"今日可爱能量满格！\\\"}\",\n    \"decorations\": \"爱心与星星\"\n  },\n  \"layout\": {\n    \"grid\": \"4 行 6 列\",\n    \"total_stickers\": 24\n  },\n  \"stickers\": [\n    {\"id\": \"1\", \"animal\": \"抱着粉色爱心的熊\", \"label\": \"爱你♡\"},\n    {\"id\": \"2\", \"animal\": \"欢呼的白兔\", \"label\": \"好哒！\"},\n    {\"id\": \"3\", \"animal\": \"拿着黄色星星的灰白猫\", \"label\": \"最棒了！！\"},\n    {\"id\": \"4\", \"animal\": \"欢呼的毛茸茸白狗\", \"label\": \"哇啊啊~!\"},\n    {\"id\": \"5\", \"animal\": \"拿着咖啡杯的企鹅\", \"label\": \"加油~!\"},\n    {\"id\": \"6\", \"animal\": \"从边缘探出头的绿青蛙\", \"label\": \"?10'...\"},\n    {\"id\": \"7\", \"animal\": \"与新月一起睡觉的毛茸茸白狗\", \"label\": \"晚安♡\"},\n    {\"id\": \"8\", \"animal\": \"带着闪光微笑的棕色小狗\", \"label\": \"谢谢！！\"},\n    {\"id\": \"9\", \"animal\": \"流泪的棕熊\", \"label\": \"好感动ㅜㅜ\"},\n    {\"id\": \"10\", \"animal\": \"拿着黄色啦啦队球的白兔\", \"label\": \"加油！！\"},\n    {\"id\": \"11\", \"animal\": \"戴着墨镜喝饮料的灰猫\", \"label\": \"治愈中~\"},\n    {\"id\": \"12\", \"animal\": \"从墙后探头的棕熊\", \"label\": \"在干嘛？\"},\n    {\"id\": \"13\", \"animal\": \"伴随音符跳舞的企鹅\", \"label\": \"超开心！！\"},\n    {\"id\": \"14\", \"animal\": \"放松躺着的灰白猫\", \"label\": \"嗯嗯♡\"},\n    {\"id\": \"15\", \"animal\": \"满头问号的困惑白狗\", \"label\": \"????\"},\n    {\"id\": \"16\", \"animal\": \"戴着粉色蝴蝶结、手捧爱心的棕熊\", \"label\": \"心动...♡\"},\n    {\"id\": \"17\", \"animal\": \"带着动感线条飞奔的仓鼠\", \"label\": \"马上到！\"},\n    {\"id\": \"18\", \"animal\": \"裹在黄色毯子里的白兔\", \"label\": \"宅家ing~\"},\n    {\"id\": \"19\", \"animal\": \"用笔记本电脑打字的白兔\", \"label\": \"努力工作中！\"},\n    {\"id\": \"20\", \"animal\": \"送飞吻的毛茸茸白狗\", \"label\": \"么么 ♡\"},\n    {\"id\": \"21\", \"animal\": \"躺着并带有爱心的灰白猫\", \"label\": \"么么♡♡\"},\n    {\"id\": \"22\", \"animal\": \"单手举起欢呼的棕熊\", \"label\": \"OK! ✧\"},\n    {\"id\": \"23\", \"animal\": \"看起来很震惊的棕色小狗\", \"label\": \"哇.. 好可爱...!\"},\n    {\"id\": \"24\", \"animal\": \"三只小动物合影\", \"label\": \"我们最棒♡\"}\n  ]\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "可爱动物贴纸生成器：生成包含 24 个手绘风格可爱动物贴纸的网格图，支持自定义文字标签，非常适合作为社交软件表情包素材或手账打印贴纸。",
+      "subject": "界面",
+      "scene": "插画/漫画",
+      "composition": [
+        "grid"
+      ],
+      "style": [
+        "watercolor",
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "动漫分镜、战斗场景、运动瞬间、夸张叙事图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 插画/漫画 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[参考风格: watercolor, hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15301",
+      "15295",
+      "14270",
+      "13738",
+      "13623",
+      "14432"
+    ]
+  }
+}

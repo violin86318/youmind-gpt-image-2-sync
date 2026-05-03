@@ -1,0 +1,49 @@
+{
+  "id": "14671",
+  "prompt": "{\"type\":\"luxury collaborative merchandise poster\",\"theme\":\"prestigious university co-branded commemorative gift series\",\"style\":\"premium brand presentation board blending graphic design, product visualization, mascot IP design, and packaging mockup\",\"colorPalette\":{\"primary\":[\"deep brown\",\"dark gold\",\"royal purple\",\"oxblood red\"],\"finish\":\"metallic gold foil, embossed textures, glossy reflections\"},\"text\":{\"topLogos\":[\"清华大学\",\"Tsinghua University\",\"北京大学\",\"PEKING UNIVERSITY\"],\"mainHeadline\":\"{argument name=\\\"headline text\\\" default=\\\"清华大学 × 北京大学 联名圣杯\\\"}\",\"subheadline\":\"TSINGHUA UNIVERSITY × PEKING UNIVERSITY\",\"seriesLine\":\"联名周边系列\",\"bottomTagline\":\"百年学府 · 同心同行\",\"bottomEnglish\":\"TWO CENTURIES OF EXCELLENCE, ONE SHARED FUTURE\"},\"layout\":{\"format\":\"vertical poster\",\"background\":\"dark warm brown gradient with elegant vignette, symmetrical composition, thin gold divider lines\",\"sections\":[{\"title\":\"hero product showcase\",\"position\":\"upper center\",\"count\":2,\"labels\":[\"Tsinghua goblet\",\"Peking goblet\"]},{\"title\":\"联名设计 | DESIGN\",\"position\":\"lower left\",\"count\":3,\"labels\":[\"combined round emblem\",\"Tsinghua gate line-art icon\",\"Peking gate line-art icon\"]},{\"title\":\"联名包装袋 | SHOPPING BAG\",\"position\":\"lower middle\",\"count\":2,\"labels\":[\"purple shopping bag\",\"red shopping bag\"]},{\"title\":\"联名杯套 | CUP SLEEVE\",\"position\":\"lower right\",\"count\":2,\"labels\":[\"purple cup sleeve\",\"red cup sleeve\"]},{\"title\":\"联名吉祥物 | MASCOT\",\"position\":\"bottom left to center\",\"count\":2,\"labels\":[\"清小华\",\"北小大\"]},{\"title\":\"gift box set\",\"position\":\"bottom right\",\"count\":3,\"labels\":[\"open box with 2 goblets\",\"closed outer box\",\"inner tray\"]}],\"countTotalDiscreteProducts\":14},\"hero\":{\"scene\":\"two ornate goblets standing side by side on a glossy reflective surface with a softly blurred campus backdrop\",\"backgroundElements\":{\"count\":2,\"labels\":[\"monumental pale stone university gate on the left\",\"traditional Chinese pavilion-like academic building on the right\"]},\"products\":[{\"name\":\"Tsinghua goblet\",\"position\":\"left\",\"bodyColor\":\"{argument name=\\\"left cup color\\\" default=\\\"royal purple\\\"}\",\"material\":\"textured enamel with gold metal stem and rim\",\"details\":[\"circular Tsinghua University emblem on bowl\",\"subtle brocade pattern\",\"gold scalloped ornament above stem\",\"Chinese characters on base reading 清华大学\"]},{\"name\":\"Peking goblet\",\"position\":\"right\",\"bodyColor\":\"{argument name=\\\"right cup color\\\" default=\\\"oxblood red\\\"}\",\"material\":\"textured enamel with gold metal stem and rim\",\"details\":[\"circular Peking University emblem on bowl\",\"subtle brocade pattern\",\"gold scalloped ornament above stem\",\"Chinese characters on base reading 北京大学\"]}],\"sideMottos\":{\"left\":{\"count\":2,\"labels\":[\"自强不息\",\"厚德载物\"]},\"right\":{\"count\":2,\"labels\":[\"爱国进步\",\"民主科学\"]}} ,\"lighting\":\"warm sunset-like directional light with luxurious highlights and soft shadows\"},\"designPanel\":{\"emblems\":{\"count\":2,\"labels\":[\"1911 Tsinghua emblem\",\"1898 Peking emblem\"]},\"architectureIcons\":{\"count\":2,\"labels\":[\"Tsinghua gate illustration\",\"Peking gate illustration\"]},\"connector\":\"清华大学 × 北京大学\",\"bodyText\":\"small Chinese descriptive copy explaining the collaboration and shared academic spirit\"},\"shoppingBags\":{\"count\":2,\"items\":[{\"color\":\"purple\",\"branding\":\"Tsinghua University logo and campus line-art in gold\"},{\"color\":\"red\",\"branding\":\"Peking University logo and campus line-art in gold\"}]},\"cupSleeves\":{\"count\":2,\"items\":[{\"color\":\"purple\",\"graphics\":\"gold logos and Tsinghua gate line illustration\"},{\"color\":\"red\",\"graphics\":\"gold logos and Peking gate line illustration\"}]},\"mascots\":{\"style\":\"high-end 3D chibi plush-like tiger mascots with oversized glossy eyes, soft fur, and collectible toy proportions\",\"count\":2,\"items\":[{\"name\":\"{argument name=\\\"left mascot name\\\" default=\\\"清小华\\\"}\",\"position\":\"left\",\"fur\":\"white with lavender stripes\",\"outfit\":\"purple hoodie with university emblem\",\"accessories\":\"purple flower on head, small book in paw\"},{\"name\":\"{argument name=\\\"right mascot name\\\" default=\\\"北小大\\\"}\",\"position\":\"right\",\"fur\":\"white with red-brown stripes\",\"outfit\":\"red hoodie with university emblem\",\"accessories\":\"red cap with letter P, small book in paw\"}]},\"giftSet\":{\"count\":2,\"contents\":[\"purple goblet\",\"red goblet\"],\"packaging\":\"luxury deep purple presentation box with gold-foil co-branding, campus architecture line art, and fitted insert\"},\"rendering\":\"ultra-detailed commercial poster, immaculate typography, realistic materials, premium product mockup quality, balanced symmetry, polished advertising finish\"}",
+  "translatedPrompt": "{\"type\":\"高端联名商品海报\",\"theme\":\"顶尖学府联名纪念礼品系列\",\"style\":\"融合平面设计、产品可视化、吉祥物 IP 设计及包装样机的优质品牌项目\",\"colorPalette\":{\"primary\":[\"深棕色\",\"暗金色\",\"皇家紫\",\"牛血红\"],\"finish\":\"金属金箔、浮雕纹理、光泽反射\"},\"text\":{\"topLogos\":[\"清华大学\",\"Tsinghua University\",\"北京大学\",\"PEKING UNIVERSITY\"],\"mainHeadline\":\"{argument name=\\\"headline text\\\" default=\\\"清华大学 × 北京大学 联名圣杯\\\"}\",\"subheadline\":\"TSINGHUA UNIVERSITY × PEKING UNIVERSITY\",\"seriesLine\":\"联名周边系列\",\"bottomTagline\":\"百年学府 · 同心同行\",\"bottomEnglish\":\"TWO CENTURIES OF EXCELLENCE, ONE SHARED FUTURE\"},\"layout\":{\"format\":\"竖版海报\",\"background\":\"深暖棕色渐变，配以优雅暗角、对称构图及纤细金色分割线\",\"sections\":[{\"title\":\"核心产品展示\",\"position\":\"上中\",\"count\":2,\"labels\":[\"清华圣杯\",\"北大圣杯\"]},{\"title\":\"联名设计 | DESIGN\",\"position\":\"左下\",\"count\":3,\"labels\":[\"组合圆形徽标\",\"清华校门线条图标\",\"北大校门线条图标\"]},{\"title\":\"联名包装袋 | SHOPPING BAG\",\"position\":\"下中\",\"count\":2,\"labels\":[\"紫色购物袋\",\"红色购物袋\"]},{\"title\":\"联名杯套 | CUP SLEEVE\",\"position\":\"右下\",\"count\":2,\"labels\":[\"紫色杯套\",\"红色杯套\"]},{\"title\":\"联名吉祥物 | MASCOT\",\"position\":\"底部左至中\",\"count\":2,\"labels\":[\"清小华\",\"北小大\"]},{\"title\":\"礼盒套装\",\"position\":\"底部右\",\"count\":3,\"labels\":[\"含 2 只圣杯的开盖礼盒\",\"闭合外盒\",\"内衬托盘\"]}],\"countTotalDiscreteProducts\":14},\"hero\":{\"scene\":\"两只华丽的圣杯并排置于光泽反射面上，背景为柔和虚化的校园景观\",\"backgroundElements\":{\"count\":2,\"labels\":[\"左侧庄严的浅色石质校门\",\"右侧传统中式亭台风格教学楼\"]},\"products\":[{\"name\":\"清华圣杯\",\"position\":\"左\",\"bodyColor\":\"{argument name=\\\"left cup color\\\" default=\\\"皇家紫\\\"}\",\"material\":\"带金色金属杯柄和杯缘的纹理珐琅\",\"details\":[\"杯身圆形清华大学校徽\",\"精致锦缎纹理\",\"杯柄上方金色扇形装饰\",\"底座刻有汉字‘清华大学’\"]},{\"name\":\"北大圣杯\",\"position\":\"右\",\"bodyColor\":\"{argument name=\\\"right cup color\\\" default=\\\"牛血红\\\"}\",\"material\":\"带金色金属杯柄和杯缘的纹理珐琅\",\"details\":[\"杯身圆形北京大学校徽\",\"精致锦缎纹理\",\"杯柄上方金色扇形装饰\",\"底座刻有汉字‘北京大学’\"]}],\"sideMottos\":{\"left\":{\"count\":2,\"labels\":[\"自强不息\",\"厚德载物\"]},\"right\":{\"count\":2,\"labels\":[\"爱国进步\",\"民主科学\"]}},\"lighting\":\"类似暖阳的定向光，带有奢华的高光和柔和的阴影\"},\"designPanel\":{\"emblems\":{\"count\":2,\"labels\":[\"1911 清华校徽\",\"1898 北大校徽\"]},\"architectureIcons\":{\"count\":2,\"labels\":[\"清华校门插画\",\"北大校门插画\"]},\"connector\":\"清华大学 × 北京大学\",\"bodyText\":\"简短的中文描述性文案，阐述联名合作与共享的学术精神\"},\"shoppingBags\":{\"count\":2,\"items\":[{\"color\":\"紫色\",\"branding\":\"金色清华大学校徽及校园线条画\"},{\"color\":\"红色\",\"branding\":\"金色北京大学校徽及校园线条画\"}]},\"cupSleeves\":{\"count\":2,\"items\":[{\"color\":\"紫色\",\"graphics\":\"金色徽标及清华校门线条插画\"},{\"color\":\"红色\",\"graphics\":\"金色徽标及北大校门线条插画\"}]},\"mascots\":{\"style\":\"高端 3D 赤壁风格毛绒老虎吉祥物，拥有超大光泽眼眸、柔软皮毛及收藏级玩具比例\",\"count\":2,\"items\":[{\"name\":\"{argument name=\\\"left mascot name\\\" default=\\\"清小华\\\"}\",\"position\":\"左\",\"fur\":\"白色带淡紫色条纹\",\"outfit\":\"印有校徽的紫色连帽衫\",\"accessories\":\"头上紫色花朵，爪中握有小书\"},{\"name\":\"{argument name=\\\"right mascot name\\\" default=\\\"北小大\\\"}\",\"position\":\"右\",\"fur\":\"白色带红棕色条纹\",\"outfit\":\"印有校徽的红色连帽衫\",\"accessories\":\"印有字母 P 的红色帽子，爪中握有小书\"}]},\"giftSet\":{\"count\":2,\"contents\":[\"紫色圣杯\",\"红色圣杯\"],\"packaging\":\"奢华深紫色礼盒，配以烫金联名标识、校园建筑线条画及定制内衬\"},\"rendering\":\"超精细商业海报，完美的排版，逼真的材质，优质的产品样机质量，平衡的对称感，精致的广告质感\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "顶尖学府联名礼品海报：一张高端商业海报，展示了清华大学与北京大学联名圣杯礼盒系列，包含包装、吉祥物 IP 及品牌资产，适用于高端宣传场景。",
+      "subject": "文字符号",
+      "scene": "人物/角色",
+      "composition": [
+        "symmetrical",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "3d",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: symmetrical, vertical]。\n\nVisual style:\n[参考风格: realistic, 3d, luxury, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15041",
+      "14879",
+      "14404",
+      "13892",
+      "14443",
+      "14531"
+    ]
+  }
+}

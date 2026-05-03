@@ -1,0 +1,46 @@
+{
+  "id": "14060",
+  "prompt": "{\n  \"instruction\": \"Using REFERENCE_0 as the base design, generate a comprehensive anime character reference sheet (settei) on a clean off-white background. Keep the core character design intact but extract and present her in various standard reference formats.\",\n  \"header\": {\n    \"character_name\": \"{argument name=\\\"character name\\\" default=\\\"クロエ・アストラル\\\"}\",\n    \"subtitle\": \"Chloe Astral\",\n    \"document_title\": \"キャラクター設定資料\",\n    \"quote\": \"{argument name=\\\"character quote\\\" default=\\\"「時の歯車は、今日も私の魔法と踊ってくれる」\\\"}\"\n  },\n  \"layout\": {\n    \"left_column\": {\n      \"section_title\": \"全身イラスト\",\n      \"description\": \"The original complex character art from REFERENCE_0, accompanied by vertical descriptive text.\"\n    },\n    \"top_right\": {\n      \"section_title\": \"三面図\",\n      \"count\": 3,\n      \"description\": \"Full-body standing turnaround views (FRONT, SIDE, BACK) of the character, removing the original gear background.\"\n    },\n    \"far_right\": {\n      \"section_title\": \"表情集\",\n      \"count\": 4,\n      \"labels\": [\"通常\", \"微笑み\", \"驚き\", \"考え中\"],\n      \"description\": \"Square headshot panels showing different facial expressions.\"\n    },\n    \"middle_right\": {\n      \"section_title\": \"武器・アイテム\",\n      \"count\": 3,\n      \"items\": [\"Scythe from reference\", \"New starry spellbook addition\", \"Bird from reference with spread wings\"],\n      \"description\": \"Isolated props with accompanying text descriptions.\"\n    },\n    \"bottom_row\": [\n      {\n        \"section_title\": \"プロフィール\",\n        \"description\": \"Data table with 7 stat rows and a short biography paragraph.\"\n      },\n      {\n        \"section_title\": \"カラーパレット\",\n        \"count\": 10,\n        \"description\": \"Circular color swatches divided into 5 main colors and 5 accent colors.\"\n      },\n      {\n        \"section_title\": \"ディテール\",\n        \"count\": 3,\n        \"labels\": [\"帽子デザイン\", \"衣装ディテール(柄)\", \"靴デザイン\"],\n        \"description\": \"Close-up rectangular detail crops of the hat, outfit pattern, and shoes.\"\n      },\n      {\n        \"section_title\": \"設定メモ\",\n        \"count\": 4,\n        \"description\": \"Text box containing 4 bullet points of design notes.\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"instruction\": \"以 REFERENCE_0 为基础设计，在干净的米白色背景上生成一份全面的动漫角色设定集（settei）。保持核心角色设计不变，将其提取并以各种标准参考格式呈现。\",\n  \"header\": {\n    \"character_name\": \"{argument name=\\\"character name\\\" default=\\\"クロエ・アストラル\\\"}\",\n    \"subtitle\": \"Chloe Astral\",\n    \"document_title\": \"角色设定资料\",\n    \"quote\": \"{argument name=\\\"character quote\\\" default=\\\"「時の歯車は、今日も私の魔法と踊ってくれる」\\\"}\"\n  },\n  \"layout\": {\n    \"left_column\": {\n      \"section_title\": \"全身插画\",\n      \"description\": \"来自 REFERENCE_0 的原始复杂角色艺术，并配有垂直描述文本。\"\n    },\n    \"top_right\": {\n      \"section_title\": \"三面图\",\n      \"count\": 3,\n      \"description\": \"角色的全身站立三面图（正面、侧面、背面），去除原始的齿轮背景。\"\n    },\n    \"far_right\": {\n      \"section_title\": \"表情集\",\n      \"count\": 4,\n      \"labels\": [\"通常\", \"微笑\", \"惊讶\", \"思考\"],\n      \"description\": \"展示不同面部表情的方形头像面板。\"\n    },\n    \"middle_right\": {\n      \"section_title\": \"武器与道具\",\n      \"count\": 3,\n      \"items\": [\"参考图中的镰刀\", \"新增的星空魔法书\", \"参考图中张开翅膀的鸟\"],\n      \"description\": \"带有文字说明的独立道具展示。\"\n    },\n    \"bottom_row\": [\n      {\n        \"section_title\": \"个人资料\",\n        \"description\": \"包含 7 行属性数据和一段简短的人物传记。\"\n      },\n      {\n        \"section_title\": \"配色方案\",\n        \"count\": 10,\n        \"description\": \"分为 5 种主色和 5 种强调色的圆形色卡。\"\n      },\n      {\n        \"section_title\": \"细节展示\",\n        \"count\": 3,\n        \"labels\": [\"帽子设计\", \"服装细节（图案）\", \"鞋子设计\"],\n        \"description\": \"帽子、服装图案和鞋子的矩形细节特写。\"\n      },\n      {\n        \"section_title\": \"设定备注\",\n        \"count\": 4,\n        \"description\": \"包含 4 条设计要点的文本框。\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫角色设定集生成器：将单张角色插画转换为包含多角度视图、表情集及道具细节的综合动漫角色设定文档。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "full-body",
+        "vertical"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, full-body, vertical]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13740",
+      "14025",
+      "14250",
+      "14584",
+      "15090",
+      "15364"
+    ]
+  }
+}

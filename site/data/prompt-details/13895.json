@@ -1,0 +1,42 @@
+{
+  "id": "13895",
+  "prompt": "{\n  \"type\": \"mobile live-streaming app interface mockup\",\n  \"subject\": {\n    \"description\": \"young Asian woman, long dark hair, smiling at camera\",\n    \"outfit\": \"{argument name=\\\"broadcaster outfit\\\" default=\\\"white V-neck cardigan\\\"}\",\n    \"background\": \"cozy room, warm lighting, pink flowers, pink plush toy\"\n  },\n  \"layout\": {\n    \"top_bar\": {\n      \"time\": \"20:32\",\n      \"broadcaster\": {\n        \"name\": \"{argument name=\\\"broadcaster name\\\" default=\\\"小鹿 🦌\\\"}\",\n        \"stats\": \"12.8万本场点赞\"\n      },\n      \"action_button\": \"关注\",\n      \"viewers\": {\n        \"avatar_count\": 3,\n        \"total\": \"{argument name=\\\"viewer count\\\" default=\\\"1.2万\\\"}\"\n      },\n      \"close_button\": \"X\"\n    },\n    \"floating_widgets\": [\n      \"小时榜第23名\",\n      \"更多直播 >\",\n      \"礼物展馆 4/24\"\n    ],\n    \"chat_area\": {\n      \"message_count\": 4,\n      \"gift_alert\": \"加油鸭 送出人气票 x1\",\n      \"messages\": [\n        \"不吃香菜: {argument name=\\\"chat message 1\\\" default=\\\"主播唱歌真好听~\\\"}\",\n        \"小透明: 来了来了\",\n        \"晚风: 主播是哪里人呀\",\n        \"晴天: 关注了主播\"\n      ]\n    },\n    \"bottom_bar\": {\n      \"input_placeholder\": \"{argument name=\\\"input placeholder\\\" default=\\\"说点什么...\\\"}\",\n      \"icon_count\": 5,\n      \"icons\": [\"smiley face\", \"link symbol\", \"heart with halo\", \"gift box\", \"three dots\"]\n    },\n    \"overlay_effects\": \"vertical stream of 6 colorful floating hearts on the bottom right\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"移动端直播 App 界面模型\",\n  \"subject\": {\n    \"description\": \"年轻亚裔女性，留着黑色长发，对着镜头微笑\",\n    \"outfit\": \"{argument name=\\\"broadcaster outfit\\\" default=\\\"白色 V 领开衫\\\"}\",\n    \"background\": \"温馨的房间，暖色调灯光，粉色花朵，粉色毛绒玩具\"\n  },\n  \"layout\": {\n    \"top_bar\": {\n      \"time\": \"20:32\",\n      \"broadcaster\": {\n        \"name\": \"{argument name=\\\"broadcaster name\\\" default=\\\"小鹿 🦌\\\"}\",\n        \"stats\": \"12.8 万本场点赞\"\n      },\n      \"action_button\": \"关注\",\n      \"viewers\": {\n        \"avatar_count\": 3,\n        \"total\": \"{argument name=\\\"viewer count\\\" default=\\\"1.2 万\\\"}\"\n      },\n      \"close_button\": \"X\"\n    },\n    \"floating_widgets\": [\n      \"小时榜第 23 名\",\n      \"更多直播 >\",\n      \"礼物展馆 4/24\"\n    ],\n    \"chat_area\": {\n      \"message_count\": 4,\n      \"gift_alert\": \"加油鸭 送出人气票 x1\",\n      \"messages\": [\n        \"不吃香菜: {argument name=\\\"chat message 1\\\" default=\\\"主播唱歌真好听~\\\"}\",\n        \"小透明: 来了来了\",\n        \"晚风: 主播是哪里人呀\",\n        \"晴天: 关注了主播\"\n      ]\n    },\n    \"bottom_bar\": {\n      \"input_placeholder\": \"{argument name=\\\"input placeholder\\\" default=\\\"说点什么...\\\"}\",\n      \"icon_count\": 5,\n      \"icons\": [\"笑脸\", \"链接符号\", \"带光环的心形\", \"礼盒\", \"三个点\"]\n    },\n    \"overlay_effects\": \"右下角有 6 个彩色心形垂直飘动特效\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "直播 App 界面模型：生成逼真的移动端直播 UI 覆盖层，包含主播、聊天消息和交互图标。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14984",
+      "14008",
+      "14435",
+      "14909",
+      "14891",
+      "15795"
+    ]
+  }
+}

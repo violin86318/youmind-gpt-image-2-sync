@@ -1,0 +1,45 @@
+{
+  "id": "13886",
+  "prompt": "{\n  \"type\": \"photograph of a printed newspaper front page\",\n  \"style\": \"photorealistic, natural lighting, slightly angled perspective, printed on textured newsprint paper\",\n  \"header\": {\n    \"left_ad\": \"SHINSEGAE DUTY FREE logo\",\n    \"title\": \"{argument name=\\\"newspaper name\\\" default=\\\"한국경제\\\"}\",\n    \"right_ad\": \"명륜진사갈비 logo with a small image of meat\",\n    \"date_and_info\": \"{argument name=\\\"publication date\\\" default=\\\"2026년 4월 23일 목요일\\\"}\"\n  },\n  \"headlines\": {\n    \"main\": \"{argument name=\\\"main headline\\\" default=\\\"오픈AI, 차세대 모델 'Spud' 공개 코딩·사이버전 벤치마크 석권\\\"}\",\n    \"sub\": \"신규 슈퍼앱 'Codex'도 출시… “AI 전쟁” 판도 바꿀 게임 체인저 될까\"\n  },\n  \"layout\": {\n    \"centerpiece\": {\n      \"type\": \"promotional graphic\",\n      \"title_text\": \"Introducing {argument name=\\\"app name\\\" default=\\\"Codex\\\"} The Super App for Everyone\",\n      \"visuals\": \"3 smartphones displaying dark mode UI\",\n      \"phone_1\": \"left phone showing a feature menu list\",\n      \"phone_2\": \"middle phone showing an analytics line chart\",\n      \"phone_3\": \"right phone showing a code editor with a python script\"\n    },\n    \"sections\": [\n      {\n        \"title\": \"left column\",\n        \"position\": \"mid-left\",\n        \"count\": 2,\n        \"labels\": [\"introductory article text\", \"코딩 벤치마크 모두 1위\"]\n      },\n      {\n        \"title\": \"right column\",\n        \"position\": \"mid-right\",\n        \"count\": 1,\n        \"labels\": [\"사이버전 벤치마크도 압승\"]\n      },\n      {\n        \"title\": \"bottom left article\",\n        \"position\": \"bottom-left\",\n        \"count\": 1,\n        \"labels\": [\"뉴욕증시, AI 랠리에 일제 상승…나스닥 2.7% ↑\"]\n      },\n      {\n        \"title\": \"bottom right ad\",\n        \"position\": \"bottom-right\",\n        \"count\": 1,\n        \"labels\": [\"{argument name=\\\"bottom ad text\\\" default=\\\"세계 1위 메모리 반도체 기업 삼성전자\\\"}\"]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"印刷报纸头版的照片\",\n  \"style\": \"照片级逼真，自然光，略带角度的透视，印刷在有纹理的新闻纸上\",\n  \"header\": {\n    \"left_ad\": \"SHINSEGAE DUTY FREE 标志\",\n    \"title\": \"{argument name=\\\"newspaper name\\\" default=\\\"韩国经济\\\"}\",\n    \"right_ad\": \"明伦进士排骨 (명륜진사갈비) 标志及肉类小图\",\n    \"date_and_info\": \"{argument name=\\\"publication date\\\" default=\\\"2026 年 4 月 23 日 星期四\\\"}\"\n  },\n  \"headlines\": {\n    \"main\": \"{argument name=\\\"main headline\\\" default=\\\"OpenAI 发布下一代模型 'Spud'，横扫编码与网络战基准测试\\\"}\",\n    \"sub\": \"同步推出全新超级应用 'Codex'……能否成为改变“AI 战争”格局的游戏规则改变者？\"\n  },\n  \"layout\": {\n    \"centerpiece\": {\n      \"type\": \"宣传图\",\n      \"title_text\": \"隆重推出 {argument name=\\\"app name\\\" default=\\\"Codex\\\"}，面向所有人的超级应用\",\n      \"visuals\": \"3 部显示深色模式 UI 的智能手机\",\n      \"phone_1\": \"左侧手机显示功能菜单列表\",\n      \"phone_2\": \"中间手机显示分析折线图\",\n      \"phone_3\": \"右侧手机显示带有 Python 脚本的代码编辑器\"\n    },\n    \"sections\": [\n      {\n        \"title\": \"左侧专栏\",\n        \"position\": \"中左\",\n        \"count\": 2,\n        \"labels\": [\"导语文章文本\", \"编码基准测试全线第一\"]\n      },\n      {\n        \"title\": \"右侧专栏\",\n        \"position\": \"中右\",\n        \"count\": 1,\n        \"labels\": [\"网络战基准测试同样大获全胜\"]\n      },\n      {\n        \"title\": \"左下角文章\",\n        \"position\": \"左下\",\n        \"count\": 1,\n        \"labels\": [\"纽约股市受 AI 涨势推动集体上涨……纳斯达克指数上涨 2.7% ↑\"]\n      },\n      {\n        \"title\": \"右下角广告\",\n        \"position\": \"右下\",\n        \"count\": 1,\n        \"labels\": [\"{argument name=\\\"bottom ad text\\\" default=\\\"全球第一存储半导体企业三星电子\\\"}\"]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "照片级逼真的韩国报纸头版：生成一张高度逼真、可定制的报纸头版，包含核心科技公告、多个文章专栏以及真实的印刷质感。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [
+        "natural light"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[参考光线镜头: natural light]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13881",
+      "13882",
+      "15631",
+      "14919",
+      "14696",
+      "13700"
+    ]
+  }
+}

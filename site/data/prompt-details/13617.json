@@ -1,0 +1,45 @@
+{
+  "id": "13617",
+  "prompt": "{\n  \"type\": \"production design and storyboard blueprint\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"project title\\\" default=\\\"MVピアノ演奏シーン カット構成・カメラワーク設計図\\\"}\",\n    \"subtitles\": [\"キャラクター設定\", \"美術設定\"]\n  },\n  \"character_reference\": {\n    \"title\": \"キャラクター参照 (COSTUME DESIGN DIAGRAM)\",\n    \"description\": \"{argument name=\\\"character description\\\" default=\\\"young woman with long black hair, white blouse, black ribbon, plaid skirt\\\"}\",\n    \"views_count\": 6,\n    \"labels\": [\"FRONT\", \"SIDE\", \"BACK\", \"FRONT CLOSE-UP\", \"SIDE CLOSE-UP\", \"BACK CLOSE-UP\"]\n  },\n  \"art_setting\": {\n    \"title\": \"美術設定参照\",\n    \"setting\": \"{argument name=\\\"scene setting\\\" default=\\\"classic western-style salon with stained glass and chandelier\\\"}\",\n    \"diagrams_count\": 4,\n    \"diagram_types\": [\"top-down floor plan with camera nodes\", \"North elevation\", \"East elevation\", \"cross-section\"],\n    \"text_boxes\": [\"カメラ位置\", \"環境特徴\"]\n  },\n  \"storyboard\": {\n    \"title\": \"カット構成ストーリーボード\",\n    \"action\": \"{argument name=\\\"action\\\" default=\\\"playing a grand piano\\\"}\",\n    \"panels_count\": 3,\n    \"panels\": [\n      {\"cut\": \"Cut 1\", \"description\": \"Side middle to back orbit\", \"elements\": [\"main image\", \"descriptive text\", \"camera settings box\", \"small diagram\"]},\n      {\"cut\": \"Cut 2\", \"description\": \"Piano hand insert\", \"elements\": [\"main image\", \"descriptive text\", \"camera settings box\", \"small diagram\"]},\n      {\"cut\": \"Cut 3\", \"description\": \"Diagonal close-up\", \"elements\": [\"main image\", \"descriptive text\", \"camera settings box\", \"small diagram\"]}\n    ]\n  },\n  \"camera_workflow\": {\n    \"title\": \"カメラワークの流れ (概念図)\",\n    \"steps_count\": 4,\n    \"descriptions\": [\"Side middle\", \"Back position\", \"Hand insert\", \"Diagonal close-up\"]\n  },\n  \"lighting_reference\": {\n    \"title\": \"照明イメージ (参考)\",\n    \"images_count\": 4,\n    \"labels\": [\"自然光\", \"シャンデリア\", \"壁付け燭台\", \"テーブルランプ\"]\n  },\n  \"notes\": {\n    \"boxes_count\": 2,\n    \"labels\": [\"演出ポイント\", \"推奨レンズ・トーン\"]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"制作设计与分镜蓝图\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"project title\\\" default=\\\"MV 钢琴演奏场景 镜头构成与运镜设计图\\\"}\",\n    \"subtitles\": [\"角色设定\", \"美术设定\"]\n  },\n  \"character_reference\": {\n    \"title\": \"角色参考 (COSTUME DESIGN DIAGRAM)\",\n    \"description\": \"{argument name=\\\"character description\\\" default=\\\"长发黑发年轻女性，身穿白色衬衫、黑色丝带、格子裙\\\"}\",\n    \"views_count\": 6,\n    \"labels\": [\"正面\", \"侧面\", \"背面\", \"正面特写\", \"侧面特写\", \"背面特写\"]\n  },\n  \"art_setting\": {\n    \"title\": \"美术设定参考\",\n    \"setting\": \"{argument name=\\\"scene setting\\\" default=\\\"带有彩色玻璃和吊灯的古典西式沙龙\\\"}\",\n    \"diagrams_count\": 4,\n    \"diagram_types\": [\"带有摄像机节点的俯视平面图\", \"北立面图\", \"东立面图\", \"剖面图\"],\n    \"text_boxes\": [\"摄像机位置\", \"环境特征\"]\n  },\n  \"storyboard\": {\n    \"title\": \"镜头构成分镜脚本\",\n    \"action\": \"{argument name=\\\"action\\\" default=\\\"演奏大钢琴\\\"}\",\n    \"panels_count\": 3,\n    \"panels\": [\n      {\"cut\": \"镜头 1\", \"description\": \"侧面中景至背面环绕\", \"elements\": [\"主图\", \"描述文本\", \"摄像机设置框\", \"小图示\"]},\n      {\"cut\": \"镜头 2\", \"description\": \"钢琴手部特写\", \"elements\": [\"主图\", \"描述文本\", \"摄像机设置框\", \"小图示\"]},\n      {\"cut\": \"镜头 3\", \"description\": \"对角线特写\", \"elements\": [\"主图\", \"描述文本\", \"摄像机设置框\", \"小图示\"]}\n    ]\n  },\n  \"camera_workflow\": {\n    \"title\": \"运镜流程 (概念图)\",\n    \"steps_count\": 4,\n    \"descriptions\": [\"侧面中景\", \"背面机位\", \"手部特写\", \"对角线特写\"]\n  },\n  \"lighting_reference\": {\n    \"title\": \"灯光印象 (参考)\",\n    \"images_count\": 4,\n    \"labels\": [\"自然光\", \"吊灯\", \"壁灯\", \"台灯\"]\n  },\n  \"notes\": {\n    \"boxes_count\": 2,\n    \"labels\": [\"导演要点\", \"推荐镜头与色调\"]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "音乐视频制作分镜蓝图：一份全面的制作设计文档，包含音乐视频场景的角色转面图、平面布置图、分镜脚本及灯光参考。",
+      "subject": "人物",
+      "scene": "信息图/图解",
+      "composition": [
+        "close-up",
+        "top-down"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, top-down]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13879",
+      "13780",
+      "13817",
+      "13899",
+      "14175",
+      "14184"
+    ]
+  }
+}

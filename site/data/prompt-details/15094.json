@@ -1,0 +1,51 @@
+{
+  "id": "15094",
+  "prompt": "A polished anime-style close-up illustration of a young virtual streamer girl leaning toward the viewer in a dim blue neon studio, themed around harshly dismissive ASMR. She has short fluffy white hair with faint icy blue highlights, soft layered bangs partly covering one eye, bright blue half-lidded eyes, pale skin, and a slightly smug, cold, teasing expression with a small open mouth as if whispering criticism directly into the listener’s ear. One hand is raised beside her mouth in a whispering pose. She wears large futuristic over-ear headphones with glowing cyan rings and a small liquid-droplet motif on top, a white short-sleeved dress uniform with navy trim, gold buttons, a large dark blue ribbon at the collar, and a large blue bow at the back, plus a visible side tag reading “shizuku.” Add 2 blurred black binaural ASMR microphones in the foreground at the lower left, creating strong depth of field. Place 1 glowing holographic vertical panel on the left side with Japanese text and waveform graphics, including the headline {argument name=\"headline text\" default=\"全否定 ASMR\"} and small branding text {argument name=\"brand name\" default=\"SHIZUKU\"}. Include 4 short Japanese negative whisper lines beneath the headline, styled like a translucent cyan UI display. The room behind her is dark, atmospheric, and softly blurred with cool blue shelves and scattered glowing droplets or bokeh lights. Use dramatic cinematic lighting, cool monochrome blue and white tones, glossy highlights, delicate blush, highly detailed eyes and hair strands, soft bloom, crisp cel-shaded anime rendering, intimate composition, slight Dutch angle, and a feeling that the character is invading the listener’s personal space for an ASMR recording. The character should read as {argument name=\"character name\" default=\"Shizuku\"}, with {argument name=\"hair color\" default=\"white with light blue highlights\"} and {argument name=\"eye color\" default=\"icy blue\"}.",
+  "translatedPrompt": "一张精致的动漫风格近景插图，描绘了一位年轻的虚拟主播少女在昏暗的蓝色霓虹灯工作室中向观众倾身，主题为严厉的“全否定” ASMR。她留着蓬松的白色短发，带有淡淡的冰蓝色挑染，柔软的层次感刘海遮住了一只眼睛，明亮的冰蓝色半睁眼，皮肤白皙，表情带着一丝傲慢、冷漠和戏谑，微张的嘴唇仿佛正在对着听众的耳朵低语批评。一只手举在嘴边，做出低语的姿势。她戴着巨大的未来感头戴式耳机，耳机上有发光的青色圆环和顶部的液滴图案，身穿带有深蓝色镶边、金色纽扣的白色短袖制服，领口系着大大的深蓝色丝带，背后有一个巨大的蓝色蝴蝶结，侧面标签上清晰可见“shizuku”字样。在左下角前景中添加 2 个模糊的黑色双耳 ASMR 麦克风，营造出强烈的景深感。在左侧放置 1 个发光的全息垂直面板，包含日语文字和波形图形，其中包括标题 {argument name=\"headline text\" default=\"全否定 ASMR\"} 和小型品牌文字 {argument name=\"brand name\" default=\"SHIZUKU\"}。在标题下方包含 4 行简短的日语负面低语，采用半透明青色 UI 显示风格。她身后的房间昏暗且充满氛围感，背景中模糊的冷蓝色架子和散落的发光液滴或光斑若隐若现。采用戏剧性的电影级灯光，冷色调的蓝白配色，光泽高光，精致的腮红，高度精细的眼睛和发丝，柔和的辉光，清晰的赛璐珞动漫渲染，亲密的构图，轻微的荷兰式倾斜角度，营造出角色为了 ASMR 录音而侵入听众个人空间的临场感。角色应呈现为 {argument name=\"character name\" default=\"Shizuku\"}，拥有 {argument name=\"hair color\" default=\"白色带浅蓝色挑染\"} 的头发和 {argument name=\"eye color\" default=\"冰蓝色\"} 的眼睛。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "蓝色霓虹“全否定” ASMR 动漫肖像：此提示词可生成一张近景动漫 VTuber 风格的 ASMR 插图，画面包含一位正在低语的少女、双耳麦克风以及一块发光的“全否定”主题全息文字面板。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "studio"
+      ],
+      "lightingCamera": [
+        "neon",
+        "depth of field"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, layered, vertical]。\n\nVisual style:\n[参考风格: cinematic, anime, studio]。\n\nLighting and camera:\n[参考光线镜头: neon, depth of field]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15793",
+      "14930",
+      "15096",
+      "15734",
+      "14472",
+      "14522"
+    ]
+  }
+}

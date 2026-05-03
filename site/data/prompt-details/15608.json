@@ -1,0 +1,56 @@
+{
+  "id": "15608",
+  "prompt": "Create a clean 2x2 grid of four front-facing 3D typographic sculptures on a light gray seamless studio background, separated by thin white dividers. Each quadrant features a single giant letter built entirely from dense, realistic filmmaking equipment and on-set props from a different cinematic era, with the letterform chaotic but clearly legible. Use high-end Cinema 4D product-render aesthetics, ambient occlusion, realistic scale relationships, intricate kit-bashing, subtle wear, metallic reflections, and three-point studio lighting with a soft overhead source. Top-left: the letter S, representing early silent-era or proto-cinema filmmaking, constructed from antique brass-and-wood cameras, exposed gears, film reels, projector parts, bellows, tripod wood legs, and vintage optical housings; warm bronze and copper tones; include 3 extra props at the base: a black megaphone labeled \"DIRECTOR\", a clapboard, and a short stack of film canisters; one projector-like lens at the upper right glows brightly. Top-right: the letter C, representing classical Hollywood film production, built from black metal film cameras, studio lenses, magazines, matte boxes, dolly components, control boxes, and analog set hardware; mostly black, steel, and gunmetal with subtle brass accents; include 4 extra props integrated around the base and inner right side: a clapperboard, a boxy side module, a film magazine marked \"35\", and a small cylindrical canister; a large forward-facing lamp or lens glows at the upper right. Bottom-left: the letter N, representing modern analog or late-20th-century cinema, assembled from Arriflex-style cameras, long cine zoom lenses, support rigs, rails, cables, a slate, and a field recorder; predominantly matte black with silver hardware and a few red accent rings; include 3 clearly visible base elements: a clapperboard section, a labeled director strip, and a rectangular audio recorder/control unit at the bottom. Bottom-right: the letter D, representing digital and virtual production, built from RED-style digital cinema cameras, monitors, battery packs, wireless transmitters, drones, LED panels, green-screen fabric inserts, and modular rig components; black technical bodies with vivid green accents and screen graphics; include 4 notable integrated device types: drone arms/propellers at the top, a rectangular LED light panel, multiple monitors, and a large camera lens at the lower left. Keep all objects grounded and physically connected, no floating pieces, no flat typography, no handwriting, no paper look, no messy background. Ultra-detailed, sharp, 8k, polished graphic design asset for a poster or visual comparison of filmmaking eras.",
+  "translatedPrompt": "创建一个干净的 2x2 网格，展示四个面向前方的 3D 排版雕塑，背景为浅灰色无缝工作室背景，由细白线分隔。每个象限包含一个巨大的字母，完全由来自不同电影时代的密集、逼真的电影设备和片场道具构建而成，字母形状虽然混乱但清晰可辨。采用高端 Cinema 4D 产品渲染美学、环境光遮蔽、逼真的比例关系、复杂的拼装细节、细微的磨损、金属反射以及带有柔和顶光源的三点式工作室照明。左上角：字母 S，代表早期默片或原始电影时代，由古董黄铜和木制相机、外露齿轮、胶片卷轴、放映机零件、皮腔、木制三脚架腿和复古光学外壳构成；暖青铜和铜色调；底部包含 3 个额外道具：一个标有“DIRECTOR”的黑色扩音器、一个场记板和一叠短胶片盒；右上角有一个类似放映机的镜头发出明亮的光。右上角：字母 C，代表古典好莱坞电影制作，由黑色金属电影摄影机、工作室镜头、胶片盒、遮光斗、轨道车组件、控制箱和模拟片场硬件构成；主要是黑色、钢色和枪灰色，带有细微的黄铜装饰；底部和右侧内部集成了 4 个额外道具：一个场记板、一个方形侧模块、一个标有“35”的胶片盒和一个小型圆柱形罐；右上角有一个大型正向灯或镜头发出光芒。左下角：字母 N，代表现代模拟或 20 世纪末电影，由 Arriflex 风格摄影机、长电影变焦镜头、支撑架、轨道、电缆、场记板和现场录音机组装而成；以哑光黑色为主，配有银色硬件和少量红色装饰环；底部包含 3 个清晰可见的基础元素：一个场记板部分、一个带标签的导演条和一个底部的矩形音频录音机/控制单元。右下角：字母 D，代表数字和虚拟制作，由 RED 风格数字电影摄影机、监视器、电池组、无线发射器、无人机、LED 面板、绿幕织物插件和模块化支架组件构成；黑色技术机身，带有鲜艳的绿色装饰和屏幕图形；包含 4 种显著的集成设备类型：顶部的无人机臂/螺旋桨、一个矩形 LED 灯板、多个监视器和一个左下角的大型相机镜头。保持所有物体接地并物理连接，没有悬浮部件，没有平面排版，没有手写风格，没有纸张质感，没有杂乱的背景。超精细、锐利、8k，适用于海报或电影时代视觉对比的精致图形设计素材。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影时代排版网格：一个精致的 2x2 工作室渲染图，展示了四个由特定时代电影设备雕刻而成的字母，非常适合编辑图形或电影历史的视觉对比。",
+      "subject": "产品",
+      "scene": "综合视觉",
+      "composition": [
+        "grid",
+        "2x2",
+        "front-facing"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "3d",
+        "vintage",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting",
+        "lens",
+        "camera"
+      ],
+      "text": "要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "风格对比、产品系列、前后对照、角色变体",
+      "whySelected": "得分 82；构图: grid, 2x2, front-facing；风格: realistic, cinematic, 3d, vintage, studio；要求可读；包含标注/说明；文字是主视觉"
+    },
+    "copyTemplate": "Create a 综合视觉 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, 2x2, front-facing]。\n\nVisual style:\n[参考风格: realistic, cinematic, 3d, vintage, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting, lens, camera]。\n\nText requirements:\n要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14556",
+      "14983",
+      "15671",
+      "15607",
+      "14519",
+      "14521"
+    ]
+  }
+}

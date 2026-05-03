@@ -1,0 +1,46 @@
+{
+  "id": "13880",
+  "prompt": "{\n  \"type\": \"magazine recipe page layout\",\n  \"theme\": \"character bento (kyaraben)\",\n  \"main_visual\": {\n    \"description\": \"Large top-right circular photo of a bento box featuring a {argument name=\\\"character type\\\" default=\\\"forest fairy cat-girl\\\"} made of rice and food. The character has {argument name=\\\"main color\\\" default=\\\"green\\\"} hair made of colored rice, cat ears, large anime eyes made of nori and cheese, a flower crown, and a {argument name=\\\"main color\\\" default=\\\"green\\\"} dress. Surrounded by broccoli, a cherry tomato, fried chicken, and 2 heart-shaped rolled omelets.\",\n    \"callout_bubble\": \"食べるのがもったいないかわいさ！\"\n  },\n  \"header\": {\n    \"supertitle\": \"森の妖精\",\n    \"title\": \"{argument name=\\\"character name\\\" default=\\\"とらの\\\"}\",\n    \"subtitle\": \"{argument name=\\\"recipe title\\\" default=\\\"キャラクター弁当\\\"}\",\n    \"catchphrase\": \"ふわふわの緑とやさしい笑顔に思わず心がほっこり♪\"\n  },\n  \"sidebar_left\": {\n    \"ingredients_section\": {\n      \"title\": \"材料 (1人分)\",\n      \"item_count\": 13,\n      \"prep_time\": \"調理時間：約40分\"\n    }\n  },\n  \"middle_section\": {\n    \"character_intro\": {\n      \"title\": \"とらの とは？\",\n      \"description\": \"Text explaining the character.\",\n      \"illustration\": \"Small full-body 2D anime illustration of the character.\",\n      \"speech_bubble\": \"作ってくれてありがとう！おいしく食べてね♪\"\n    }\n  },\n  \"bottom_section\": {\n    \"instructions\": {\n      \"title\": \"作り方\",\n      \"step_count\": 6,\n      \"steps\": [\n        {\"number\": 1, \"label\": \"ごはんを色分けする\", \"image\": \"bowl of green colored rice\"},\n        {\"number\": 2, \"label\": \"顔を作る\", \"image\": \"rice shaped into a head with green hair\"},\n        {\"number\": 3, \"label\": \"パーツをつける\", \"image\": \"face with nori eyes, mouth, and cat ears added\"},\n        {\"number\": 4, \"label\": \"花かんむりを作る\", \"image\": \"small flower shapes made of ham and cheese\"},\n        {\"number\": 5, \"label\": \"服としっぽを作る\", \"image\": \"green dress shape and white rice tail\"},\n        {\"number\": 6, \"label\": \"おかずを詰めて完成！\", \"image\": \"completed bento box\"}\n      ]\n    },\n    \"advice_box\": {\n      \"title\": \"ワンポイントアドバイス\",\n      \"bullet_points_count\": 3\n    }\n  },\n  \"footer\": {\n    \"notes\": {\n      \"title\": \"注釈\",\n      \"bullet_points_count\": 4\n    },\n    \"nutrition\": {\n      \"title\": \"栄養成分 (1人分の目安)\",\n      \"stats\": [\"エネルギー\", \"たんぱく質\", \"脂質\", \"炭水化物\", \"食塩相当量\"]\n    },\n    \"page_number\": \"27\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"食谱杂志页面\",\n  \"theme\": \"卡通便当\",\n  \"header\": {\n    \"title\": \"森林精灵 {argument name=\\\"character name\\\" default=\\\"小虎\\\"} {argument name=\\\"dish type\\\" default=\\\"卡通便当\\\"}\",\n    \"subtitle\": \"蓬松的绿色与温柔的笑脸，让人心头瞬间暖暖的♪\",\n    \"speech_bubble\": \"可爱到舍不得吃！\"\n  },\n  \"main_image\": {\n    \"position\": \"右上角\",\n    \"description\": \"俯拍绿色椭圆形便当盒，内含由米饭制成的猫娘角色，拥有 {argument name=\\\"main color theme\\\" default=\\\"绿色\\\"} 的头发和裙子，戴着花环，周围环绕着西兰花、圣女果、心形鸡蛋和炸鸡\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"材料 (1 人份)\",\n        \"position\": \"左上角\",\n        \"count\": 14,\n        \"labels\": [\"米饭\", \"切片奶酪\", \"火腿\", \"海苔\", \"毛豆\", \"西兰花\", \"圣女果\", \"鸡蛋\", \"炸鸡\", \"蛋黄酱\", \"番茄酱\", \"沙拉意面\", \"食用色素(绿色)\", \"烹饪时间: {argument name=\\\"prep time\\\" default=\\\"约 40 分钟\\\"}\"]\n      },\n      {\n        \"title\": \"关于小虎\",\n        \"position\": \"中右侧\",\n        \"description\": \"带有对话气泡的角色 2D 动漫插图\",\n        \"labels\": [\"谢谢你为我制作！请一定要吃得开心哦♪\"]\n      },\n      {\n        \"title\": \"制作步骤\",\n        \"position\": \"下半部分\",\n        \"count\": 6,\n        \"labels\": [\"1 将米饭分色\", \"2 制作脸部\", \"3 安装配件\", \"4 制作花环\", \"5 制作衣服和尾巴\", \"6 装入配菜，完成！\"]\n      },\n      {\n        \"title\": \"小贴士\",\n        \"position\": \"右下角\",\n        \"count\": 3\n      },\n      {\n        \"title\": \"备注\",\n        \"position\": \"左下角\",\n        \"count\": 4\n      },\n      {\n        \"title\": \"营养成分 (1 人份参考值)\",\n        \"position\": \"右下角\",\n        \"count\": 5,\n        \"labels\": [\"能量: {argument name=\\\"calories\\\" default=\\\"520kcal\\\"}\", \"蛋白质\", \"脂肪\", \"碳水化合物\", \"食盐相当量\"]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "卡通便当食谱页面：一份杂志风格的卡通便当食谱页面，包含主菜照片、配料表以及 6 步视觉指南。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "full-body",
+        "callout"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body, callout]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15677",
+      "15675",
+      "14607",
+      "13736",
+      "13797",
+      "13807"
+    ]
+  }
+}

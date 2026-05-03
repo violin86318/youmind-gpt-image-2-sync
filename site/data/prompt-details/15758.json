@@ -1,0 +1,50 @@
+{
+  "id": "15758",
+  "prompt": "A surreal dark-fantasy photorealistic scene of a colossal humanoid statue shaped like a woman standing in a rugged mountain landscape, viewed from a dramatic low angle so the figure towers into the sky. The statue’s body forms a massive bell-shaped dress covered entirely in deep carved labyrinth patterns, like an ancient maze sculpted into weathered stone and concrete, with moss, grime, erosion, and age stains across the surface. At the bottom center of the dress, place 1 arched doorway opening into darkness, with a narrow dirt path leading directly into it, making the statue feel like an inhabitable monument. The figure has 2 visible arms hanging straight down at the sides and a slender neck rising above the structure, with a human head turned slightly to the side; use short dark wavy hair and partially obscured facial detail. Surround the monument with scattered rocks, sparse alpine shrubs, and uneven ground. Add 1 steep rocky mountain peak on the right side in the background. Fill the sky with heavy overcast storm clouds in muted gray tones, creating a moody, ominous atmosphere. Color palette: cold gray, charcoal, stone beige, moss green, subdued earth tones. Lighting should be natural, diffuse, cloudy daylight with soft shadows. Style: ultra-realistic cinematic photography, monumental scale, eerie surreal architecture, ancient labyrinth temple fused with a female statue, highly detailed textures, vertical composition.",
+  "translatedPrompt": "一个超现实暗黑奇幻风格的写实场景，展现了一座巨大的女性人形雕像，矗立在崎岖的山地景观中。采用极具张力的低角度仰拍，使雕像显得高耸入云。雕像的身体呈现出巨大的钟形裙摆，表面完全覆盖着深雕的迷宫图案，如同在风化的石材和混凝土上雕刻出的古老迷宫，表面布满青苔、污垢、侵蚀痕迹和岁月留下的斑点。在裙摆底部的中心位置，设置 1 个通向黑暗的拱形入口，一条狭窄的泥土小径直通其中，使这座雕像看起来像是一座可居住的纪念碑。雕像双臂自然下垂，细长的颈部从结构上方升起，头部微微侧转；采用短波浪黑发，面部细节部分遮挡。纪念碑周围散布着岩石、稀疏的高山灌木和不平坦的地面。背景右侧添加 1 座陡峭的岩石山峰。天空布满厚重的阴沉风暴云，色调为柔和的灰色，营造出一种忧郁、不祥的氛围。调色板：冷灰色、炭灰色、石米色、苔藓绿、柔和的大地色系。光照应为自然的漫射阴天光线，带有柔和的阴影。风格：超写实电影摄影、宏伟尺度、诡异的超现实建筑、与女性雕像融合的古老迷宫神庙、高度精细的纹理、垂直构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "巨型迷宫女性雕像纪念碑：一个电影级的超现实提示词，用于生成一座底座带有入口、覆盖着迷宫图案的巨型女性雕像，非常适合暗黑奇幻概念艺术和氛围感建筑图像。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "overcast"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, fantasy]。\n\nLighting and camera:\n[参考光线镜头: overcast]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15308",
+      "15043",
+      "15443",
+      "15754",
+      "15766",
+      "15759"
+    ]
+  }
+}

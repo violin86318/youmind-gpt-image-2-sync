@@ -1,0 +1,46 @@
+{
+  "id": "14502",
+  "prompt": "A candid, smartphone-style travel selfie of {argument name=\"group size\" default=\"five\"} Japanese female college students standing closely together at the shore of {argument name=\"location\" default=\"Lake Ashi, Hakone\"}, shot at arm’s length with a slightly wide-angle front camera feel. They are grouped tightly shoulder-to-shoulder, smiling and making peace signs toward the camera, with a casual cheerful friends-on-a-trip mood. Their styling is realistic and contemporary, with dark brown to black medium-to-long hair, natural makeup, and soft autumn outfits in light neutral tones: cream and white knit sweaters, a blue denim jacket, and a black shoulder bag visible near the center-right. Behind them is a lakeside scenic background with calm blue water, distant mountains under a bright sky with scattered clouds, and a wooden tourist signboard on the right side that clearly includes the Japanese text {argument name=\"sign text\" default=\"芦ノ湖\"} and a smaller elevation marking reading 724M. Composition should look like an authentic social-media travel photo, slightly cropped at the edges as if one person is holding the phone from the left, with natural daylight, realistic skin tones, soft depth, and documentary-style photo realism. Include exactly {argument name=\"peace sign count\" default=\"three\"} visible peace-sign hand gestures. Make it feel like a believable group souvenir photo taken during a day trip in Japan.",
+  "translatedPrompt": "一张抓拍风格的智能手机旅行自拍，画面中 {argument name=\"group size\" default=\"五位\"} 日本女大学生紧密地站在一起，位于 {argument name=\"location\" default=\"箱根芦之湖\"} 岸边。采用手臂伸展的拍摄视角，带有轻微的广角前置摄像头质感。她们肩并肩紧靠，对着镜头微笑并比出剪刀手，呈现出好友出游时轻松愉悦的氛围。她们的造型写实且现代，留着深棕色至黑色的中长发，妆容自然，穿着柔和的中性色秋季服装：米白色针织毛衣、蓝色牛仔外套，画面中右侧可见一个黑色单肩包。背景是湖畔风光，平静的蓝色湖水，远处是明亮天空下云朵稀疏的山峦，右侧设有一个木质旅游指示牌，上面清晰地印有日文 {argument name=\"sign text\" default=\"芦ノ湖\"} 以及较小的海拔标记 724M。构图应呈现出真实的社交媒体旅行照片质感，边缘略有裁剪，仿佛有人从左侧手持手机拍摄，具备自然日光、真实的肤色、柔和的景深以及纪实摄影的写实感。画面中需包含正好 {argument name=\"peace sign count\" default=\"三个\"} 清晰可见的剪刀手手势。整体氛围应如同在日本一日游期间拍摄的真实团体纪念照。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "芦之湖好友旅行写实自拍：生成一张写实风格的智能手机拍摄视角合影，展现日本女大学生在湖畔景点的旅行自拍，非常适合社交媒体或休闲度假照片的样机素材。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, documentary]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14629",
+      "14693",
+      "15083",
+      "14613",
+      "15046",
+      "15158"
+    ]
+  }
+}

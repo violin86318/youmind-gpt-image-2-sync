@@ -1,0 +1,44 @@
+{
+  "id": "13514",
+  "prompt": "{ \"type\": \"travel journal scrapbook page\", \"style\": \"hand-drawn bullet journal, textured beige paper background, blue and red ink handwriting, masking tape, polaroid-style photos, sketch doodles\", \"header\": { \"title\": \"{argument name=\\\"city name\\\" default=\\\"北京\\\"}\", \"subtitle\": \"{argument name=\\\"city name english\\\" default=\\\"Beijing\\\"}\", \"location_text\": \"地理位置：中国首都，位于华北平原北部，燕山南麓。\", \"doodle\": \"traditional Chinese gate building\" }, \"photos\": { \"count\": 4, \"descriptions\": [ \"Forbidden City at sunset with masking tape\", \"Great Wall of China landscape with masking tape\", \"Beihai Park with white stupa\", \"Traditional Hutong alleyway with red lanterns\" ] }, \"layout\": { \"sections\": [ { \"title\": \"最佳游览季节：\", \"position\": \"mid-left\", \"labels\": [ \"春季 (4-5月) 和秋季 (9-11月)\" ], \"doodles\": [ \"two leaves\", \"sun\" ] }, { \"title\": \"Map and Lion\", \"position\": \"mid-right\", \"labels\": [ \"北京\", \"故宫门前的石狮子，超有气势！\" ], \"doodles\": [ \"map with red dot\", \"stone guardian lion\" ] }, { \"title\": \"主要看点 & 特色\", \"position\": \"left-middle\", \"count\": 3, \"labels\": [ \"{argument name=\\\"main attraction 1\\\" default=\\\"故宫 (紫禁城)\\\"}\", \"{argument name=\\\"main attraction 2\\\" default=\\\"八达岭长城\\\"}\", \"什刹海 & 胡同\" ], \"doodles\": [ \"traditional pavilion\", \"Great Wall segment\", \"traditional house\" ] }, { \"title\": \"特别推荐！\", \"position\": \"bottom-right\", \"count\": 2, \"labels\": [ \"天坛公园 (祈年殿)\", \"南锣鼓巷\" ], \"doodles\": [ \"Temple of Heaven\" ], \"style\": \"outlined in red ink\" }, { \"title\": \"必尝美食！\", \"position\": \"bottom-left\", \"count\": 3, \"labels\": [ \"{argument name=\\\"must try food 1\\\" default=\\\"北京烤鸭\\\"}\", \"炸酱面\", \"豆汁儿 (勇敢者挑战！)\" ], \"doodles\": [ \"duck head\", \"bowl of noodles\" ] }, { \"title\": \"小贴士：\", \"position\": \"bottom-left-center\", \"count\": 2, \"labels\": [ \"景点较大，建议穿舒适的鞋子！\", \"提前预约门票，节假日人多哦～\" ] } ], \"footer\": { \"quote\": \"走遍千山万水，最爱还是北京！\", \"doodles\": [ \"camera\", \"Bird's Nest stadium\", \"CCTV tower skyline\" ] } } }",
+  "translatedPrompt": "{ \"type\": \"旅行手账页面\", \"style\": \"手绘子弹笔记，纹理米色纸背景，蓝红墨水手写体，美纹纸胶带，拍立得风格照片，草图涂鸦\", \"header\": { \"title\": \"{argument name=\\\"city name\\\" default=\\\"北京\\\"}\", \"subtitle\": \"{argument name=\\\"city name english\\\" default=\\\"Beijing\\\"}\", \"location_text\": \"地理位置：中国首都，位于华北平原北部，燕山南麓。\", \"doodle\": \"传统中式城门建筑\" }, \"photos\": { \"count\": 4, \"descriptions\": [ \"日落时分的故宫，带有美纹纸胶带\", \"长城景观，带有美纹纸胶带\", \"北海公园白塔\", \"挂满红灯笼的传统胡同小巷\" ] }, \"layout\": { \"sections\": [ { \"title\": \"最佳游览季节：\", \"position\": \"mid-left\", \"labels\": [ \"春季 (4-5月) 和秋季 (9-11月)\" ], \"doodles\": [ \"两片叶子\", \"太阳\" ] }, { \"title\": \"地图与石狮\", \"position\": \"mid-right\", \"labels\": [ \"北京\", \"故宫门前的石狮子，超有气势！\" ], \"doodles\": [ \"带有红点的地图\", \"石狮子\" ] }, { \"title\": \"主要看点 & 特色\", \"position\": \"left-middle\", \"count\": 3, \"labels\": [ \"{argument name=\\\"main attraction 1\\\" default=\\\"故宫 (紫禁城)\\\"}\", \"{argument name=\\\"main attraction 2\\\" default=\\\"八达岭长城\\\"}\", \"什刹海 & 胡同\" ], \"doodles\": [ \"传统凉亭\", \"长城片段\", \"传统民居\" ] }, { \"title\": \"特别推荐！\", \"position\": \"bottom-right\", \"count\": 2, \"labels\": [ \"天坛公园 (祈年殿)\", \"南锣鼓巷\" ], \"doodles\": [ \"天坛\" ], \"style\": \"红色墨水勾边\" }, { \"title\": \"必尝美食！\", \"position\": \"bottom-left\", \"count\": 3, \"labels\": [ \"{argument name=\\\"must try food 1\\\" default=\\\"北京烤鸭\\\"}\", \"炸酱面\", \"豆汁儿 (勇敢者挑战！)\" ], \"doodles\": [ \"鸭头\", \"一碗面条\" ] }, { \"title\": \"小贴士：\", \"position\": \"bottom-left-center\", \"count\": 2, \"labels\": [ \"景点较大，建议穿舒适的鞋子！\", \"提前预约门票，节假日人多哦～\" ] } ], \"footer\": { \"quote\": \"走遍千山万水，最爱还是北京！\", \"doodles\": [ \"相机\", \"鸟巢体育场\", \"央视大楼天际线\" ] } }",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "旅行手账风格信息图：生成一张手绘子弹笔记风格的旅行信息图，包含胶带照片、涂鸦草图以及用于城市指南的分类文本板块。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [],
+      "style": [
+        "hand-drawn"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "城市美食地图、活动导览、园区地图、旅行视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: hand-drawn]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15612",
+      "14400",
+      "14409",
+      "14401",
+      "15376",
+      "14663"
+    ]
+  }
+}

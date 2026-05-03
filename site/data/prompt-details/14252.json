@@ -1,0 +1,46 @@
+{
+  "id": "14252",
+  "prompt": "{\n  \"type\": \"light novel cover illustration\",\n  \"style\": \"anime art style, highly detailed, dramatic lighting, shattered glass motifs\",\n  \"typography\": {\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"普通しか取り柄のない私と、街角で出会った“音に狂う少女” 私の声で覚醒する天才たちが世界を震わせる、名もない物語\\\"}\",\n    \"subtitle\": \"{argument name=\\\"catchphrase\\\" default=\\\"——歌った瞬間だけ、“私”になる。\\\"}\",\n    \"credits\": [\n      \"著者：{argument name=\\\"author name\\\" default=\\\"霧島 澄音\\\"}\",\n      \"イラスト：{argument name=\\\"illustrator name\\\" default=\\\"天瀬 リオ\\\"}\",\n      \"{argument name=\\\"label name\\\" default=\\\"Aurora Note\\\"}\"\n    ]\n  },\n  \"layout\": {\n    \"description\": \"diagonal and dynamic paneling separating 5 distinct character scenes\",\n    \"panels\": [\n      {\n        \"position\": \"left half\",\n        \"character\": \"ordinary high school girl, brown bob hair, white and navy sailor uniform\",\n        \"action\": \"looking up in awe, reaching out slightly\",\n        \"background\": \"daytime city street, bright sunlight\"\n      },\n      {\n        \"position\": \"top right\",\n        \"character\": \"rock girl, silver hair, black gothic outfit, choker\",\n        \"action\": \"playing a glowing blue electric guitar\",\n        \"background\": \"nighttime stage, shattered blue crystal effects\"\n      },\n      {\n        \"position\": \"middle right\",\n        \"character\": \"bassist girl, long blue hair, casual t-shirt and shorts\",\n        \"action\": \"lying down while playing a bass guitar\",\n        \"background\": \"messy room, music equipment, effect pedals, energy drink cans\"\n      },\n      {\n        \"position\": \"bottom left\",\n        \"character\": \"keyboardist girl, long dark hair, maid outfit\",\n        \"action\": \"sitting at a synthesizer keyboard, streaming setup\",\n        \"background\": \"neon purple lit room, monitors, ring light, microphone\"\n      },\n      {\n        \"position\": \"bottom right\",\n        \"character\": \"drummer girl, short black hair, black t-shirt, choker\",\n        \"action\": \"playing a drum set dynamically\",\n        \"background\": \"dimly lit recording studio\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"light novel cover illustration\",\n  \"style\": \"anime art style, highly detailed, dramatic lighting, shattered glass motifs\",\n  \"typography\": {\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"普通しか取り柄のない私と、街角で出会った“音に狂う少女” 私の声で覚醒する天才たちが世界を震わせる、名もない物語\\\"}\",\n    \"subtitle\": \"{argument name=\\\"catchphrase\\\" default=\\\"——歌った瞬間だけ、“私”になる。\\\"}\",\n    \"credits\": [\n      \"著者：{argument name=\\\"author name\\\" default=\\\"霧島 澄音\\\"}\",\n      \"イラスト：{argument name=\\\"illustrator name\\\" default=\\\"天瀬 リオ\\\"}\",\n      \"{argument name=\\\"label name\\\" default=\\\"Aurora Note\\\"}\"\n    ]\n  },\n  \"layout\": {\n    \"description\": \"diagonal and dynamic paneling separating 5 distinct character scenes\",\n    \"panels\": [\n      {\n        \"position\": \"left half\",\n        \"character\": \"ordinary high school girl, brown bob hair, white and navy sailor uniform\",\n        \"action\": \"looking up in awe, reaching out slightly\",\n        \"background\": \"daytime city street, bright sunlight\"\n      },\n      {\n        \"position\": \"top right\",\n        \"character\": \"rock girl, silver hair, black gothic outfit, choker\",\n        \"action\": \"playing a glowing blue electric guitar\",\n        \"background\": \"nighttime stage, shattered blue crystal effects\"\n      },\n      {\n        \"position\": \"middle right\",\n        \"character\": \"bassist girl, long blue hair, casual t-shirt and shorts\",\n        \"action\": \"lying down while playing a bass guitar\",\n        \"background\": \"messy room, music equipment, effect pedals, energy drink cans\"\n      },\n      {\n        \"position\": \"bottom left\",\n        \"character\": \"keyboardist girl, long dark hair, maid outfit\",\n        \"action\": \"sitting at a synthesizer keyboard, streaming setup\",\n        \"background\": \"neon purple lit room, monitors, ring light, microphone\"\n      },\n      {\n        \"position\": \"bottom right\",\n        \"character\": \"drummer girl, short black hair, black t-shirt, choker\",\n        \"action\": \"playing a drum set dynamically\",\n        \"background\": \"dimly lit recording studio\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Light Novel Cover with Multi-Character Band Layout：Generates a complex light novel cover featuring a multi-panel layout of an all-girl music band and customizable Japanese typography.",
+      "subject": "空间",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime",
+        "studio"
+      ],
+      "lightingCamera": [
+        "dramatic lighting",
+        "neon"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime, studio]。\n\nLighting and camera:\n[参考光线镜头: dramatic lighting, neon]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13615",
+      "14986",
+      "14620",
+      "13901",
+      "15278",
+      "15366"
+    ]
+  }
+}

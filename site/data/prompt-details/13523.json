@@ -1,0 +1,41 @@
+{
+  "id": "13523",
+  "prompt": "{\n  \"type\": \"mobile live stream interface mockup\",\n  \"main_subject\": \"{argument name=\\\"main subject\\\" default=\\\"beautiful young Asian woman smiling\\\"}\",\n  \"centerpiece_effect\": \"{argument name=\\\"centerpiece effect\\\" default=\\\"large space shuttle taking off with bright flames and smoke\\\"}\",\n  \"floating_characters\": [\n    {\"position\": \"top left\", \"description\": \"cartoon pig character Zhu Bajie holding a golden bowl\"},\n    {\"position\": \"top right\", \"description\": \"cartoon monkey character Sun Wukong holding a staff\"},\n    {\"position\": \"bottom right\", \"description\": \"cartoon man with mustache in a suit holding a glowing lightbulb\"}\n  ],\n  \"ui_layout\": {\n    \"header\": {\n      \"streamer_info\": {\"name\": \"{argument name=\\\"streamer name\\\" default=\\\"小甜心✨\\\"}\", \"likes\": \"28.5万本场点赞\", \"button\": \"关注\"},\n      \"top_viewers\": {\"count\": 3, \"labels\": [\"12.8w\", \"8.9w\", \"6.6w\"]},\n      \"total_viewers\": \"10万+\"\n    },\n    \"status_bars\": {\"count\": 3, \"labels\": [\"小时榜第1名\", \"礼物展馆 24/28\", \"心愿达成 差3.2万\"]},\n    \"gift_notifications\": {\n      \"position\": \"mid-left\",\n      \"count\": 3,\n      \"items\": [\n        {\"sender\": \"八戒哥\", \"action\": \"送 大火箭\", \"combo\": \"x188\"},\n        {\"sender\": \"齐天大圣\", \"action\": \"送 嘉年华\", \"combo\": \"x1314\"},\n        {\"sender\": \"汤森老师\", \"action\": \"送 梦幻城堡\", \"combo\": \"x520\"}\n      ]\n    },\n    \"chat_box\": {\n      \"position\": \"bottom left\",\n      \"count\": 7,\n      \"messages\": [\n        \"甜心小迷弟 加入了直播间\",\n        \"星辰大海: {argument name=\\\"top chat message\\\" default=\\\"女神好美！声音好好听！\\\"}\",\n        \"抖音用户: 666666\",\n        \"快乐每一天: 太精彩了，火箭升空！\",\n        \"富贵花开 送出 大火箭 x1\",\n        \"风清扬: 这特效绝了！\",\n        \"可可西里: 主播我爱你！\"\n      ]\n    },\n    \"bottom_right_graphic\": {\"text\": \"{argument name=\\\"bottom graphic text\\\" default=\\\"直播间 火力全开\\\"}\", \"style\": \"large 3D glowing typography\"},\n    \"bottom_bar\": {\"input_placeholder\": \"说点什么...\", \"icons_count\": 4, \"decorations\": \"floating colorful hearts on the right\"}\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"移动端直播 App 界面模型\",\n  \"main_subject\": \"一位面带微笑的年轻亚洲女性，身穿闪亮上衣，直视镜头\",\n  \"foreground_3d_characters\": {\n    \"left\": \"猪八戒，手持金钵\",\n    \"right\": \"孙悟空，手持金箍棒\",\n    \"bottom_right\": \"卡通风格的留胡子老者，手持发光的灯泡\"\n  },\n  \"center_effect\": \"巨大的航天飞机向上发射，伴随明亮的火焰和烟雾，位于女性胸前位置\",\n  \"layout\": {\n    \"top_bar\": {\n      \"broadcaster_info\": \"头像，名称 {argument name=\\\"broadcaster name\\\" default=\\\"小甜心✨\\\"}，数据 '28.5万本场点赞'，粉色 '关注' 按钮\",\n      \"top_viewers\": \"3 个头像，数据分别为 '12.8w'、'8.9w'、'6.6w'，以及一个关闭按钮 '10万+ X'\",\n      \"status_badges\": \"标签 '小时榜第1名'、'礼物展馆 24/28'、'心愿达成 差3.2万'\",\n      \"right_stats\": \"标签 '更多直播 >'、'主播 | 收礼 940.8万'\"\n    },\n    \"middle_left_gift_notifications\": {\n      \"count\": 3,\n      \"items\": [\n        \"头像，名称 {argument name=\\\"gift sender 1\\\" default=\\\"八戒哥\\\"}，文本 '送 大火箭'，火箭图标，倍数 'x188'\",\n        \"头像，名称 {argument name=\\\"gift sender 2\\\" default=\\\"齐天大圣\\\"}，文本 '送 嘉年华'，嘉年华图标，倍数 'x1314'\",\n        \"头像，名称 {argument name=\\\"gift sender 3\\\" default=\\\"汤森老师\\\"}，文本 '送 梦幻城堡'，城堡图标，倍数 'x520'\"\n      ]\n    },\n    \"bottom_left_chat\": {\n      \"count\": 7,\n      \"messages\": [\n        \"甜心小迷弟 加入了直播间\",\n        \"星辰大海: 女神好美！声音好好听！\",\n        \"抖音用户: 666666\",\n        \"快乐每一天: 太精彩了，火箭升空！\",\n        \"富贵花开 送出 大火箭 x1\",\n        \"风清扬: 这特效绝了！\",\n        \"可可西里: 主播我爱你！\"\n      ],\n      \"input_box\": \"文本 '说点什么...'\"\n    },\n    \"bottom_right_elements\": {\n      \"large_graphic_text\": \"{argument name=\\\"main title graphic\\\" default=\\\"直播间 火力全开\\\"}\",\n      \"floating_reactions\": \"一列彩色爱心\",\n      \"action_icons\": \"4 个图标：笑脸、爱心、礼物盒、三个点\"\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "游戏化直播 App 界面：生成一个高度精细的移动端直播界面，包含主播、3D 角色虚拟形象、虚拟礼物通知以及滚动聊天栏。",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "3d"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: 3d]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13772",
+      "13835",
+      "13962",
+      "14884",
+      "15406",
+      "14019"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "13445",
+  "prompt": "{\n  \"type\": \"academic exam paper\",\n  \"header\": {\n    \"student_info\": [\"Name:\", \"Date:\", \"Period:\"],\n    \"title\": \"{argument name=\\\"subject\\\" default=\\\"BIOLOGY\\\"} - {argument name=\\\"test title\\\" default=\\\"SEMESTER 1 TEST\\\"}\",\n    \"subtitle\": \"Total Points: 100\"\n  },\n  \"instructions\": \"DIRECTIONS: Read each question carefully. Circle the letter of the best answer for Part I. Show your work and write your answers clearly for Part II.\",\n  \"sections\": [\n    {\n      \"title\": \"Part I: {argument name=\\\"part 1 type\\\" default=\\\"Multiple Choice\\\"} (2 points each, 40 points total)\",\n      \"layout\": \"two columns\",\n      \"question_count\": 8,\n      \"format\": \"numbered questions 1 through 8, each with options A, B, C, D\",\n      \"diagram\": {\n        \"location\": \"Question 3\",\n        \"description\": \"illustration of a {argument name=\\\"diagram subject\\\" default=\\\"plant cell\\\"}\",\n        \"labels\": [\"1\", \"2\", \"3\", \"4\"]\n      }\n    },\n    {\n      \"title\": \"Part II: {argument name=\\\"part 2 type\\\" default=\\\"Short Answer\\\"} (Show your work. 10 points each, 60 points total)\",\n      \"layout\": \"single column\",\n      \"question_count\": 3,\n      \"format\": \"numbered questions 9 through 11, each followed by two blank horizontal lines\"\n    }\n  ],\n  \"footer\": \"End of Test - Check Your Work!\"\n}",
+  "translatedPrompt": "{\n  \"type\": \"学术试卷\",\n  \"header\": {\n    \"student_info\": [\"姓名：\", \"日期：\", \"课时：\"],\n    \"title\": \"{argument name=\\\"subject\\\" default=\\\"生物学\\\"} - {argument name=\\\"test title\\\" default=\\\"第一学期测试\\\"}\",\n    \"subtitle\": \"总分：100 分\"\n  },\n  \"instructions\": \"说明：请仔细阅读每一道题。第一部分请圈出最佳答案的字母。第二部分请展示解题过程并清晰书写答案。\",\n  \"sections\": [\n    {\n      \"title\": \"第一部分：{argument name=\\\"part 1 type\\\" default=\\\"选择题\\\"}（每题 2 分，共 40 分）\",\n      \"layout\": \"双栏\",\n      \"question_count\": 8,\n      \"format\": \"编号 1 至 8 题，每题包含 A、B、C、D 四个选项\",\n      \"diagram\": {\n        \"location\": \"第 3 题\",\n        \"description\": \"{argument name=\\\"diagram subject\\\" default=\\\"植物细胞\\\"} 插图\",\n        \"labels\": [\"1\", \"2\", \"3\", \"4\"]\n      }\n    },\n    {\n      \"title\": \"第二部分：{argument name=\\\"part 2 type\\\" default=\\\"简答题\\\"}（请展示解题过程。每题 10 分，共 60 分）\",\n      \"layout\": \"单栏\",\n      \"question_count\": 3,\n      \"format\": \"编号 9 至 11 题，每题后附两条空白横线\"\n    }\n  ],\n  \"footer\": \"试卷结束 - 请检查你的答案！\"\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "学术试卷生成器：生成一份包含选择题、图表和简答题部分的真实、结构化的学术试卷。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13598",
+      "13641",
+      "14875",
+      "13630",
+      "13821",
+      "13942"
+    ]
+  }
+}

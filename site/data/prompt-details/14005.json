@@ -1,0 +1,43 @@
+{
+  "id": "14005",
+  "prompt": "{\n  \"type\": \"corporate presentation slide infographic\",\n  \"style\": \"dark mode, futuristic, high-tech HUD, glowing fiber-optic lines, {argument name=\\\"theme color\\\" default=\\\"neon blue and cyan\\\"}\",\n  \"header\": {\n    \"position\": \"top-left\",\n    \"title_chinese\": \"{argument name=\\\"main title\\\" default=\\\"赋能体系\\\"}\",\n    \"title_english\": \"{argument name=\\\"english title\\\" default=\\\"Enablement System\\\"}\",\n    \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"从个人能力到组织能力，放大影响力\\\"}\"\n  },\n  \"layout\": {\n    \"centerpiece\": {\n      \"description\": \"glowing spherical pedestal\",\n      \"title\": \"{argument name=\\\"platform name\\\" default=\\\"核心赋能平台\\\"}\",\n      \"subtitle\": \"ENABLEMENT PLATFORM\",\n      \"inner_cards_count\": 2,\n      \"inner_cards\": [\n        {\n          \"icon\": \"layered squares\",\n          \"title\": \"平台能力 Platform\",\n          \"details\": \"基础设施 | 服务能力 | 数据资产 | 统一标准\"\n        },\n        {\n          \"icon\": \"wrench and code bracket\",\n          \"title\": \"工具链 Tooling\",\n          \"details\": \"自动化 | 可视化 | CI/CD | 智能化\"\n        }\n      ],\n      \"bottom_label\": \"沉淀 · 标准化 · 可复制\"\n    },\n    \"surrounding_nodes_count\": 4,\n    \"surrounding_nodes\": [\n      {\n        \"position\": \"top-left\",\n        \"label\": \"提效团队 A\",\n        \"icon\": \"three people silhouette\",\n        \"metric\": \"交付提效 +35%\"\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"label\": \"提效团队 B\",\n        \"icon\": \"three people silhouette\",\n        \"metric\": \"质量提升 -28% 缺陷率\"\n      },\n      {\n        \"position\": \"top-right\",\n        \"label\": \"提效团队 C\",\n        \"icon\": \"three people silhouette\",\n        \"metric\": \"成本优化 -20% 资源成本\"\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"label\": \"提效团队 D\",\n        \"icon\": \"three people silhouette\",\n        \"metric\": \"能力提升 新人成长加速 50%\"\n      }\n    ],\n    \"footer_sections_count\": 3,\n    \"footer_sections\": [\n      {\n        \"icon\": \"line chart\",\n        \"title\": \"降低门槛\",\n        \"description\": \"统一标准与工具 让优秀实践触手可及\"\n      },\n      {\n        \"icon\": \"bar chart\",\n        \"title\": \"提高产出\",\n        \"description\": \"赋能团队，释放潜力 实现组织效能跃升\"\n      },\n      {\n        \"icon\": \"trophy\",\n        \"title\": \"放大影响力\",\n        \"description\": \"从执行者到赋能者 构建可持续的组织能力\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"企业演示 Slides 信息图\",\n  \"style\": \"深色模式，未来感，高科技 HUD，发光光纤线条，{argument name=\\\"theme color\\\" default=\\\"霓虹蓝与青色\\\"}\",\n  \"header\": {\n    \"position\": \"左上角\",\n    \"title_chinese\": \"{argument name=\\\"main title\\\" default=\\\"赋能体系\\\"}\",\n    \"title_english\": \"{argument name=\\\"english title\\\" default=\\\"Enablement System\\\"}\",\n    \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"从个人能力到组织能力，放大影响力\\\"}\"\n  },\n  \"layout\": {\n    \"centerpiece\": {\n      \"description\": \"发光球形基座\",\n      \"title\": \"{argument name=\\\"platform name\\\" default=\\\"核心赋能平台\\\"}\",\n      \"subtitle\": \"ENABLEMENT PLATFORM\",\n      \"inner_cards_count\": 2,\n      \"inner_cards\": [\n        {\n          \"icon\": \"层叠方块\",\n          \"title\": \"平台能力 Platform\",\n          \"details\": \"基础设施 | 服务能力 | 数据资产 | 统一标准\"\n        },\n        {\n          \"icon\": \"扳手与代码括号\",\n          \"title\": \"工具链 Tooling\",\n          \"details\": \"自动化 | 可视化 | CI/CD | 智能化\"\n        }\n      ],\n      \"bottom_label\": \"沉淀 · 标准化 · 可复制\"\n    },\n    \"surrounding_nodes_count\": 4,\n    \"surrounding_nodes\": [\n      {\n        \"position\": \"左上\",\n        \"label\": \"提效团队 A\",\n        \"icon\": \"三人剪影\",\n        \"metric\": \"交付提效 +35%\"\n      },\n      {\n        \"position\": \"左下\",\n        \"label\": \"提效团队 B\",\n        \"icon\": \"三人剪影\",\n        \"metric\": \"质量提升 -28% 缺陷率\"\n      },\n      {\n        \"position\": \"右上\",\n        \"label\": \"提效团队 C\",\n        \"icon\": \"三人剪影\",\n        \"metric\": \"成本优化 -20% 资源成本\"\n      },\n      {\n        \"position\": \"右下\",\n        \"label\": \"提效团队 D\",\n        \"icon\": \"三人剪影\",\n        \"metric\": \"能力提升 新人成长加速 50%\"\n      }\n    ],\n    \"footer_sections_count\": 3,\n    \"footer_sections\": [\n      {\n        \"icon\": \"折线图\",\n        \"title\": \"降低门槛\",\n        \"description\": \"统一标准与工具，让优秀实践触手可及\"\n      },\n      {\n        \"icon\": \"柱状图\",\n        \"title\": \"提高产出\",\n        \"description\": \"赋能团队，释放潜力，实现组织效能跃升\"\n      },\n      {\n        \"icon\": \"奖杯\",\n        \"title\": \"放大影响力\",\n        \"description\": \"从执行者到赋能者，构建可持续的组织能力\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "未来感企业赋能信息图：生成一张高科技、深色模式的演示 Slides，包含发光节点和数据可视化元素，非常适合企业战略或技术架构方案展示。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "layered"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14469",
+      "14947",
+      "14582",
+      "15715",
+      "14598",
+      "15351"
+    ]
+  }
+}

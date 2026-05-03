@@ -1,0 +1,46 @@
+{
+  "id": "15093",
+  "prompt": "Using REFERENCE_0 as the cast reference, transform the simple lineup into an ornate Japanese light-novel character relationship chart poster. Keep the same 10 named characters and reuse their existing portrait art as the base visuals, but redesign the layout into a polished infographic on a soft cream and pale-blue fantasy background with decorative borders, sparkles, roses, and a small European-style hotel building vignette in the upper left. Add a large Japanese title at the top, 「支配人はかりそめの顔」, with the subtitle 「キャラクター紹介＆相関図」, and place a dark badge in the upper right that says 「ネタバレ配慮版」. Put the heroine 一条 紬希 in the center as the main focus in a framed character card labeled 「主人公」, and place 秦野 啓司 in a large framed card on the right as the key counterpart. Arrange the remaining 8 characters around them in individual profile cards: 加賀坂 その葉, 川原 澪, 樫村, 紬希の母, ハルカ, 杏子, 美果, 桜子. Connect the characters with multiple colored arrows and relationship labels to visualize the network; include exactly 14 visible relationship labels: 「親友」, 「理解者」, 「本音を見抜く」, 「憧れ」, 「相談」, 「画策」, 「仲直り中」, 「直感的理解」, 「メンター」, 「実務支援」, 「保護者的存在」, 「後輩　ムードメーカー」, 「後輩　グループを支える」, 「後輩　明るさ・希望」. Also add the 8 central horizontal relationship callouts between 一条 紬希 and 秦野 啓司: 「偽溶み→公認」, 「ライバル」, 「秘密を共有」, 「対等な相棒」, 「気になる存在」, plus a pink central badge reading 「反発から信頼へ」, and 3 lower callouts: 「信頼」, 「協力を後押し」, 「二人の空気に気づく」. Include a gold-ribbon group label above the three lower girls that says 「ASTRALの仲間たち」. Add a bottom section with exactly 10 smaller summary cards, one for each character again, lined up across the width. On the far right, add 2 boxed sidebar sections titled 「作品のキーワード」 and 「関係の見どころ」; the first should contain 4 bullet items with icons, and the second should contain 4 bullet items with icons. Fill every card with dense Japanese profile text and role tags in a clean editorial style, as if for a promotional relationship guide included with a novel. Make the overall design elegant, readable, romantic-mystery themed, and magazine-quality.",
+  "translatedPrompt": "以 REFERENCE_0 作为角色参考，将简单的阵容转化为精美的日式轻小说风格角色关系图海报。保留原有的 10 位角色，并沿用其现有的肖像画作为基础视觉，但将布局重新设计为精致的信息图表，背景采用柔和的奶油色和淡蓝色幻想风格，配以装饰边框、闪光、玫瑰以及左上角的小型欧式酒店建筑插图。在顶部添加醒目的日文标题「支配人はかりそめの顔」，副标题为「キャラクター紹介＆相関図」，并在右上角放置一个深色徽章，标注「ネタバレ配慮版」。将女主角一条 紬希置于中心作为焦点，放入标有「主人公」的框架角色卡中；将秦野 啓司放入右侧的大型框架卡中，作为关键对应角色。将其余 8 位角色排列在周围的独立个人资料卡中：加賀坂 その葉、川原 澪、樫村、紬希の母、ハルカ、杏子、美果、桜子。用多色箭头和关系标签连接角色以可视化关系网；包含 14 个可见的关系标签：「親友」、「理解者」、「本音を見抜く」、「憧れ」、「相談」、「画策」、「仲直り中」、「直感的理解」、「メンター」、「実務支援」、「保護者的存在」、「後輩　ムードメーカー」、「後輩　グループを支える」、「後輩　明るさ・希望」。同时在一条 紬希和秦野 啓司之间添加 8 个中央水平关系标注：「偽溶み→公認」、「ライバル」、「秘密を共有」、「対等な相棒」、「気になる存在」，并在中心放置一个粉色徽章，写着「反発から信頼へ」，以及 3 个下方的标注：「信頼」、「協力を後押し」、「二人の空気に気づく」。在下方三位女孩上方添加一个金色丝带组标签，写着「ASTRALの仲間たち」。在底部添加一个包含 10 个较小摘要卡的部分，每位角色对应一张，横向排列。在最右侧添加两个带边框的侧边栏，标题分别为「作品のキーワード」和「関係の見どころ」；前者包含 4 个带图标的要点，后者包含 4 个带图标的要点。用密集的日文个人资料文本和角色标签填充每一张卡片，风格简洁且具有编辑感，如同小说附赠的宣传关系指南。整体设计需优雅、易读，呈现浪漫悬疑主题，并达到杂志级品质。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日文角色关系图海报：此提示词可将角色阵容参考转化为精致的日式小说风格角色介绍及关系图海报，适用于故事宣传或读者指南。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "callout",
+        "horizontal"
+      ],
+      "style": [
+        "editorial",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；要求可读；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: callout, horizontal]。\n\nVisual style:\n[参考风格: editorial, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；要求可读；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15684",
+      "14500",
+      "15026",
+      "14246",
+      "15384",
+      "15680"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "14141",
+  "prompt": "2000年代のこども向けテレビ特撮専門月刊誌「{argument name=\"雑誌名\" default=\"テレビくんマガジン\"}」{argument name=\"号数\" default=\"４月号\"}の表紙画像を作って。新番組仮面ライダー系特撮ヒーローのバストアップ実写画像を中央に1人配置。周囲に平成ウルトラマン系、戦隊系ヒーローの小さなカットを配置。実在しない架空のテレビ番組名をいくつかと豪華付録の画像を並べて。ライダーやウルトラマンの名前は必ず実在しないものを想像力豊かに創作してください。赤緑青原色系ボールド縁取りのグラデーションフォントなどを駆使し、とにかく雑多で全部盛りの印象に。Format {argument name=\"比率\" default=\"1:1.414\"} 画像生成モデルは duct-tape-1か duct-tape-2、3 を指定したいです。",
+  "translatedPrompt": "Create a cover image for the {argument name=\"month\" default=\"April\"} issue of '{argument name=\"magazine name\" default=\"Televikun Magazine\"}', a 2000s monthly magazine specializing in children's TV tokusatsu. Place a single live-action bust-up shot of a new Kamen Rider-style tokusatsu hero in the center. Surround it with small cuts of Heisei Ultraman-style and Sentai-style heroes. Include several non-existent fictional TV show titles and images of luxurious bonus items. Ensure all Rider and Ultraman names are creatively invented and do not exist. Use primary colors like red, green, and blue for bold, outlined gradient fonts to create a cluttered, 'everything-included' impression. Format {argument name=\"aspect ratio\" default=\"1:1.414\"}. I want to specify the image generation model as duct-tape-1, duct-tape-2, or 3.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Retro Kids TV Magazine Cover Prompt：A detailed prompt for generating a 2000s-style Japanese children's TV special effects magazine cover featuring original heroes and bold typography.",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "retro"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: retro]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14046",
+      "13888",
+      "14313",
+      "14592",
+      "14004",
+      "15609"
+    ]
+  }
+}

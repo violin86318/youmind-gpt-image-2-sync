@@ -1,0 +1,52 @@
+{
+  "id": "14900",
+  "prompt": "A cinematic vertical poster inspired by The Little Prince, set on a rainy city street at blue hour in modern Shanghai. In the center foreground, a small child in Little Prince styling stands in side profile facing right, with messy curly golden-blond hair, a long flowing mustard-gold scarf blowing dramatically to the left, and a muted sage-green ankle-length coat tied at the waist. The child holds 1 single red rose upright in both hands. The face is simplified and softly obscured, with no detailed facial features. The wet pavement reflects neon lights, traffic, and the evening sky. In the background, the Oriental Pearl Tower rises softly out of the dusk with glowing pinkish lights, surrounded by blurred city buildings, storefronts, pedestrians, and car headlights, creating a dreamy bokeh urban atmosphere. On the upper right, include 1 street sign mounted on a traffic pole reading {argument name=\"street sign text\" default=\"星球大道\\nPLANET AVE.\"}. Also on the pole, include 1 red pedestrian traffic light showing a standing human figure. On the left side, place large handwritten brush-style Chinese quote text in warm pale yellow: {argument name=\"main quote\" default=\"重要的东西，\\n用眼睛是看不见的。\"}, with a smaller signature line beneath reading {argument name=\"author text\" default=\"—— 小王子\"}. Scatter a few tiny hand-drawn star doodles and 1 small planet doodle around the text. Near the lower left, add 3 lines of small warm-yellow Chinese dedication text above a stylized script title reading {argument name=\"title text\" default=\"Le Petit Prince\"}. On the right side near the pole, tape 1 small paper note with handwritten Chinese text about not seeing truly important things with the eyes, plus a simple doodle. Add 1 vertical storefront sign on the left reading \"咖啡\". The composition should feel poetic, nostalgic, gentle, and premium, like an art-house movie poster or literary inspirational street poster. Color palette: twilight blue sky, amber street glow, soft gold typography, muted green clothing, vivid red rose. Shallow depth of field, glossy rain reflections, soft cinematic lighting, highly detailed illustration with realistic urban atmosphere and storybook character design.",
+  "translatedPrompt": "一张灵感源自《小王子》的电影感竖版海报，背景设定在现代上海蓝调时刻的雨中街道。画面前景中央，一位身着小王子风格服饰的孩童侧身向右站立，留着凌乱的金色卷发，一条长长的芥末金围巾向左戏剧性地飘动，身穿一件腰间系带的柔和鼠尾草绿长款大衣。孩童双手垂直捧着 1 朵红玫瑰。面部处理简约且柔和模糊，没有具体的五官细节。湿漉漉的地面映照出霓虹灯、车流和夜空。背景中，东方明珠塔在暮色中柔和地耸立，闪烁着粉红色的光芒，周围环绕着模糊的城市建筑、店面、行人和车灯，营造出梦幻般的城市虚化氛围。在右上角，包含 1 个安装在交通杆上的路牌，文字为 {argument name=\"street sign text\" default=\"星球大道\\nPLANET AVE.\"}。同样在杆子上，包含 1 个显示站立人形的红色行人交通灯。在左侧，放置用温暖淡黄色书写的巨大手写毛笔风格中文引语：{argument name=\"main quote\" default=\"重要的东西，\\n用眼睛是看不见的。\"}，下方附有一行较小的署名：{argument name=\"author text\" default=\"—— 小王子\"}。在文字周围散落着几个微小的手绘星星涂鸦和 1 个小行星涂鸦。在左下角附近，在 1 个风格化的手写体标题 {argument name=\"title text\" default=\"Le Petit Prince\"} 上方添加 3 行温暖的黄色中文寄语。在右侧靠近杆子的地方，贴着 1 张写有关于“用眼睛看不见真正重要之物”的中文手写便签，并配有简单的涂鸦。在左侧添加 1 个写有“咖啡”的竖式店招。构图应充满诗意、怀旧、温柔且高级，如同艺术电影海报或文学励志街头海报。配色方案：暮色蓝天空、琥珀色街灯光、柔和金色字体、鼠尾草绿服饰、鲜艳红玫瑰。浅景深，光泽感的雨水反射，柔和的电影光效，高度精细的插画，融合了写实的城市氛围与绘本角色设计。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "小王子上海雨中海报：一张充满诗意的电影感海报，描绘了如小王子般的孩童手持玫瑰伫立在雨中的上海街头，非常适合作为励志语录艺术图及文学类社交媒体海报。",
+      "subject": "空间",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "premium",
+        "hand-drawn"
+      ],
+      "lightingCamera": [
+        "neon",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic, premium, hand-drawn]。\n\nLighting and camera:\n[参考光线镜头: neon, shallow depth, depth of field]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15411",
+      "15096",
+      "15643",
+      "15624",
+      "15731",
+      "14529"
+    ]
+  }
+}

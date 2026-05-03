@@ -1,0 +1,44 @@
+{
+  "id": "13902",
+  "prompt": "{\n  \"type\": \"mobile game UI mockup\",\n  \"theme\": \"sci-fi, cute, glassmorphism, neon blue and purple color palette\",\n  \"header\": {\n    \"status_bar\": \"standard iOS status bar at top\",\n    \"top_controls\": \"back button on left, currency display with diamond icon and '128' on right\",\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"机器人盲盒\\\"}\",\n    \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"抽取你的幸运伙伴\\\"}\"\n  },\n  \"layout\": {\n    \"side_menu\": {\n      \"position\": \"top right below currency\",\n      \"count\": 2,\n      \"items\": [\n        {\"icon\": \"gift\", \"label\": \"奖品池\"},\n        {\"icon\": \"document\", \"label\": \"抽取记录\"}\n      ]\n    },\n    \"centerpiece\": {\n      \"description\": \"clear glass display case containing the main prize\",\n      \"subject\": \"{argument name=\\\"robot character description\\\" default=\\\"cute chibi-style robot with glowing blue eyes and white glossy armor\\\"}\",\n      \"case_details\": [\n        \"label 'NO.001' in top left\",\n        \"starburst sticker '稀有款 概率UP!' on bottom right\",\n        \"progress bar at bottom with text '再抽 6 次必出稀有款' and '4/10'\"\n      ]\n    },\n    \"background_elements\": {\n      \"description\": \"blurred toy store background\",\n      \"floating_items\": {\n        \"count\": 3,\n        \"description\": \"square boxes labeled 'BLIND BOX' with robot faces, one with a '?' sign\"\n      }\n    },\n    \"action_buttons\": {\n      \"position\": \"bottom center above nav bar\",\n      \"count\": 2,\n      \"buttons\": [\n        {\"color\": \"blue\", \"text\": \"{argument name=\\\"left button text\\\" default=\\\"抽一次\\\"}\", \"cost\": \"x 30\"},\n        {\"color\": \"purple\", \"text\": \"{argument name=\\\"right button text\\\" default=\\\"抽十次\\\"}\", \"cost\": \"x 270\", \"tag\": \"9折\"}\n      ]\n    },\n    \"bottom_navigation\": {\n      \"count\": 4,\n      \"items\": [\n        {\"icon\": \"home\", \"label\": \"抽盲盒\", \"state\": \"active\"},\n        {\"icon\": \"store\", \"label\": \"商城\"},\n        {\"icon\": \"star\", \"label\": \"收藏\"},\n        {\"icon\": \"smiley\", \"label\": \"我的\"}\n      ]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"移动游戏 UI 原型\",\n  \"theme\": \"科幻、可爱、玻璃拟态、霓虹蓝与紫色配色方案\",\n  \"header\": {\n    \"status_bar\": \"顶部标准 iOS 状态栏\",\n    \"top_controls\": \"左侧返回按钮，右侧显示带有钻石图标和“128”的货币栏\",\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"机器人盲盒\\\"}\",\n    \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"抽取你的幸运伙伴\\\"}\"\n  },\n  \"layout\": {\n    \"side_menu\": {\n      \"position\": \"货币栏下方右侧\",\n      \"count\": 2,\n      \"items\": [\n        {\"icon\": \"gift\", \"label\": \"奖品池\"},\n        {\"icon\": \"document\", \"label\": \"抽取记录\"}\n      ]\n    },\n    \"centerpiece\": {\n      \"description\": \"包含大奖的透明玻璃展示柜\",\n      \"subject\": \"{argument name=\\\"robot character description\\\" default=\\\"可爱的 Q 版机器人，拥有发光的蓝色眼睛和白色光泽装甲\\\"}\",\n      \"case_details\": [\n        \"左上角标注“NO.001”\",\n        \"右下角带有“稀有款 概率 UP!”的星形贴纸\",\n        \"底部进度条，文字显示“再抽 6 次必出稀有款”及“4/10”\"\n      ]\n    },\n    \"background_elements\": {\n      \"description\": \"模糊的玩具店背景\",\n      \"floating_items\": {\n        \"count\": 3,\n        \"description\": \"带有机器人脸部图案、标注“BLIND BOX”的方形盒子，其中一个带有“?”标记\"\n      }\n    },\n    \"action_buttons\": {\n      \"position\": \"底部导航栏上方的居中位置\",\n      \"count\": 2,\n      \"buttons\": [\n        {\"color\": \"blue\", \"text\": \"{argument name=\\\"left button text\\\" default=\\\"抽一次\\\"}\", \"cost\": \"x 30\"},\n        {\"color\": \"purple\", \"text\": \"{argument name=\\\"right button text\\\" default=\\\"抽十次\\\"}\", \"cost\": \"x 270\", \"tag\": \"9 折\"}\n      ]\n    },\n    \"bottom_navigation\": {\n      \"count\": 4,\n      \"items\": [\n        {\"icon\": \"home\", \"label\": \"抽盲盒\", \"state\": \"active\"},\n        {\"icon\": \"store\", \"label\": \"商城\"},\n        {\"icon\": \"star\", \"label\": \"收藏\"},\n        {\"icon\": \"smiley\", \"label\": \"我的\"}\n      ]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "抽卡游戏 UI 原型：为盲盒或抽卡游戏生成移动端 App UI 原型，包含核心角色展示区、操作按钮及导航元素。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "sci-fi"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: sci-fi]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14435",
+      "14182",
+      "14649",
+      "13822",
+      "14403",
+      "15795"
+    ]
+  }
+}

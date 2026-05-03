@@ -1,0 +1,41 @@
+{
+  "id": "14254",
+  "prompt": "A highly detailed, cinematic, surreal illustration of an astronaut in a white spacesuit kneeling to carefully prune a {argument name=\"plant type\" default=\"bonsai tree\"}. The astronaut is situated on a floating fragment of a {argument name=\"architecture style\" default=\"ruined classical marble temple\"} overgrown with ivy and moss, featuring ornate gold trim, classical columns, and a stone statue of a woman. The platform is suspended in zero gravity in outer space. Floating debris, including rocks, chunks of marble, and loose leaves, drift weightlessly around the scene. In the background, a {argument name=\"background planet\" default=\"large reddish-orange planet\"} dominates the starry cosmos. The lighting is dramatic and realistic, highlighting the contrast between the ancient ruins, delicate nature, and the futuristic astronaut.",
+  "translatedPrompt": "A highly detailed, cinematic, surreal illustration of an astronaut in a white spacesuit kneeling to carefully prune a {argument name=\"plant type\" default=\"bonsai tree\"}. The astronaut is situated on a floating fragment of a {argument name=\"architecture style\" default=\"ruined classical marble temple\"} overgrown with ivy and moss, featuring ornate gold trim, classical columns, and a stone statue of a woman. The platform is suspended in zero gravity in outer space. Floating debris, including rocks, chunks of marble, and loose leaves, drift weightlessly around the scene. In the background, a {argument name=\"background planet\" default=\"large reddish-orange planet\"} dominates the starry cosmos. The lighting is dramatic and realistic, highlighting the contrast between the ancient ruins, delicate nature, and the futuristic astronaut.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Astronaut Tending Bonsai in Space Ruins：Generates a surreal sci-fi scene of an astronaut interacting with nature on a floating architectural ruin in space.",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic",
+        "sci-fi"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic, sci-fi]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13556",
+      "14040",
+      "15592",
+      "13871",
+      "14003",
+      "14030"
+    ]
+  }
+}

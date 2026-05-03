@@ -1,0 +1,37 @@
+{
+  "id": "13993",
+  "prompt": "Using REFERENCE_0 as the base style and preserving the central chicken illustration, transform the image into a product packaging label for a herbal soup mix. Shift the chicken to the right side. Replace the top text with a large, bold black brush-stroke headline {argument name=\"main headline\" default=\"元气祛湿 鸡煲汤包\"} and a smaller subtitle {argument name=\"subtitle\" default=\"吃山林土货 味道当然好!\"}. On the left side, add a new woven basket containing exactly 6 distinct piles of ingredients: woody root sticks, white square cubes, round sliced brown roots, yellow soybeans, dried orange peel strips, and dark red dates. Attach 6 small brown rectangular labels with white text to these ingredients. Below the chicken, add a circular orange badge containing the text {argument name=\"ingredients list\" default=\"内含有:五指毛桃、茯苓、土茯苓、黄豆、陈皮、红枣\"}. At the bottom, create a solid orange rectangular banner featuring a cooking pot icon, the text {argument name=\"usage instructions\" default=\"用法:把汤料清洗干净放入锅中，加入姜片煮20分钟，后加入鸡肉再煮20分钟即可。\"}, and a secondary slogan {argument name=\"bottom slogan\" default=\"天然好料 滋补好汤\"}.",
+  "translatedPrompt": "以 REFERENCE_0 为基础风格，在保留中央鸡肉插图的同时，将图像转换为药膳汤包的产品包装标签。将鸡肉移至右侧。将顶部文字替换为醒目的大号黑色笔触标题 {argument name=\"main headline\" default=\"元气祛湿 鸡煲汤包\"} 以及较小的副标题 {argument name=\"subtitle\" default=\"吃山林土货 味道当然好!\"}。在左侧添加一个全新的编织篮，篮中包含 6 种不同的食材堆：木质根茎、白色方块、圆形棕色根茎切片、黄豆、陈皮条和深红色红枣。为这些食材贴上 6 个带有白色文字的棕色小长方形标签。在鸡肉下方，添加一个圆形的橙色徽章，内含文字 {argument name=\"ingredients list\" default=\"内含有:五指毛桃、茯苓、土茯苓、黄豆、陈皮、红枣\"}。在底部，创建一个纯橙色的长方形横幅，其中包含一个烹饪锅图标、文字 {argument name=\"usage instructions\" default=\"用法:把汤料清洗干净放入锅中，加入姜片煮20分钟，后加入鸡肉再煮20分钟即可。\"} 以及一条辅助标语 {argument name=\"bottom slogan\" default=\"天然好料 滋补好汤\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "药膳鸡汤标签设计转换：将一张促销鸡肉海报转换为包含特定药膳食材篮和说明文字的详细产品标签。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13442",
+      "14179",
+      "14225",
+      "14272",
+      "15525",
+      "13647"
+    ]
+  }
+}

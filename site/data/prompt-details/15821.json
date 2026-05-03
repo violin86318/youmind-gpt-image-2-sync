@@ -1,0 +1,49 @@
+{
+  "id": "15821",
+  "prompt": "A dramatic fast-food poster advertisement for Burger King, vertical composition, photorealistic studio food photography mixed with bold Korean promotional graphic design. Place the official Burger King logo centered at the very top. Below it, add huge distressed block Korean headline text in a stacked layout reading \"신제품 와퍼 출시!\" with \"와퍼\" in vivid deep red and the other words in textured off-white, all on a dark smoky black background. In the center, show one massive hero burger shot from a slightly low front angle, perfectly centered and filling most of the frame. The burger has 8 clearly visible layers and elements: a glossy sesame seed top bun, curly green leaf lettuce, thick red tomato slices, thick white onion rings, sliced pickles, streaks of ketchup, melted American cheese, a flame-grilled beef patty with heavy char marks, and a soft bottom bun. Add a tiny golden crown icon floating just above the top bun. The burger sits on a dark rustic wooden stump pedestal. Surround the lower half and side edges with dramatic orange flames, glowing embers, heat sparks, and smoky atmosphere to emphasize flame grilling. Near the bottom, place a secondary Korean slogan in bold text, centered, reading \"불맛의 정점을 경험하라\" with \"불맛\" in red and the remaining words in warm beige-gold, separated above by a small flame icon. At the very bottom, add a red badge-shaped label with a dark border containing the Korean text \"한정 판매\" in bold black. Use a high-contrast black, red, orange, and toasted brown color palette, intense cinematic lighting, glossy food highlights, crisp ingredient texture, premium commercial advertising finish, and a fiery indulgent mood.",
+  "translatedPrompt": "一张极具戏剧性的 Burger King 快餐广告海报，采用竖构图，将写实摄影风格的食物摄影与大胆的韩式促销平面设计相结合。在顶部正中央放置官方 Burger King Logo。下方添加巨大的做旧风格韩文堆叠标题，文字为“신제품 와퍼 출시!”，其中“와퍼”采用鲜艳的深红色，其余文字为带有纹理的灰白色，背景为烟雾缭绕的深黑色。画面中心展示一个巨大的汉堡主体，采用略微仰视的正面视角，完美居中并占据大部分画面。汉堡包含 8 层清晰可见的元素：光泽感芝麻顶层面包、卷曲的绿叶生菜、厚实的红番茄片、厚实的白洋葱圈、酸黄瓜片、番茄酱条、融化的美式芝士、带有明显焦痕的火烤牛肉饼以及柔软的底层面包。在顶层面包上方悬浮一个小巧的金色皇冠图标。汉堡放置在一个深色质朴的木桩底座上。在下半部分和侧边缘周围添加戏剧性的橙色火焰、发光的余烬、热火星和烟雾氛围，以强调火烤特色。在底部附近，居中放置第二行加粗韩文标语“불맛의 정점을 경험하라”，其中“불맛”为红色，其余文字为暖米金色，上方用一个小火焰图标隔开。在最底部，添加一个带有深色边框的红色徽章标签，内含加粗黑色韩文“한정 판매”。采用高对比度的黑色、红色、橙色和焦棕色调，强烈的电影级灯光，食物光泽高光，清晰的食材质感，高级商业广告质感，营造出火辣诱人的氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "火辣 Burger King 皇堡海报：此提示词可生成极具戏剧性的韩式 Burger King 汉堡广告海报，适用于快餐营销、社交媒体宣传图或写实的产品推广视觉设计。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, premium, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14813",
+      "14829",
+      "15268",
+      "15449",
+      "15668",
+      "14867"
+    ]
+  }
+}

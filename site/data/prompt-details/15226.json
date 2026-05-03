@@ -1,0 +1,46 @@
+{
+  "id": "15226",
+  "prompt": "360度パノラマ写真、equirectangular projection、人間の目線の高さから見た自然な視点、その場に立って周囲を見回しているような没入感。空間全体が自然につながるリアルなパノラマ構図。手触り感のあるフォトリアルな写真表現。{argument name=\"シーン内容\" default=\"[作成したい写真のイメージ]\"}。過度な加工感のない自然な美しさ、リアルな写真、photorealistic, tactile texture, natural light, ultra detailed, immersive 360 panorama photography.",
+  "translatedPrompt": "360 度全景照片，等距柱状投影，人眼视角的自然透视，营造出身临其境、环顾四周的沉浸感。写实的全景构图，使整个空间自然衔接。具有触感的照片级真实表现。{argument name=\"scene description\" default=\"[您想要创作的照片图像]\"}。未经过度处理的自然之美，写实照片，照片级真实感，细腻质感，自然光，超细节，沉浸式 360 度全景摄影。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "360 度全景摄影提示词：一份用于创作沉浸式、照片级真实感 360 度全景图的详细提示词，包含自然光影与细腻质感。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [
+        "natural light"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[参考光线镜头: natural light]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14033",
+      "13828",
+      "14794",
+      "15613",
+      "14695",
+      "14891"
+    ]
+  }
+}

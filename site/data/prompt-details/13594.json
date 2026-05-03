@@ -1,0 +1,46 @@
+{
+  "id": "13594",
+  "prompt": "A surreal, highly detailed sci-fi digital illustration of a white cat with bright yellow eyes sitting on a black and silver robot vacuum cleaner flying through outer space. The cat has a metallic, ribbed cybernetic hose attached to the back of its neck. The robot vacuum is flanked by exactly 2 large, realistic fish acting as rocket boosters, with bright orange flames shooting out of their tails. The background is a vibrant cosmic scene with a starry nebula, streaks of light indicating warp speed, and a fiery exploding planet in the upper left corner. Large vertical Japanese text on the right side reads {argument name=\"vertical text\" default=\"ネコと和解せよ\"} in yellow and white. At the bottom center, large metallic 3D text reads {argument name=\"main title\" default=\"GERONEKO\"}, with smaller white text below it reading {argument name=\"subtitle\" default=\"Creator of the planet\"}. Cinematic lighting, hyper-realistic, humorous sci-fi concept art.",
+  "translatedPrompt": "一幅超现实科幻数字插画，描绘了一只 {argument name=\"animal\" default=\"白猫\"} 坐在一个 {argument name=\"vehicle\" default=\"扫地机器人\"} 上在深空中飞行。吸尘器两侧配有 {argument name=\"side boosters\" default=\"两条大金枪鱼\"} 作为火箭助推器，它们的尾部喷射出明亮的火焰。一根带肋金属软管将吸尘器连接到猫的脖子上。背景是星光熠熠的宇宙星云、高速光条，左上方有一颗正在剧烈爆炸的行星。右侧的垂直日文文本写着 {argument name=\"japanese text\" default=\"ネコと和解せよ\"}（前两个字符为黄色，其余为白色）。底部中心处有巨大的金属 3D 文本 {argument name=\"bottom text\" default=\"GERONEKO\"}，下方有较小的白色文字写着“Creator of the planet”。电影级光效，超写实纹理。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "真空吸尘器火箭上的超现实太空猫：生成一幅高度精细、超现实的科幻场景，描绘一只动物骑着改装后的家用电器在太空中穿行，并可自定义文本。",
+      "subject": "综合主体",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "3d",
+        "sci-fi"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic, 3d, sci-fi]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15609",
+      "15103",
+      "15074",
+      "15754",
+      "15759",
+      "15766"
+    ]
+  }
+}

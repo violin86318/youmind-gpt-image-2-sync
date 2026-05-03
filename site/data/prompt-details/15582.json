@@ -1,0 +1,46 @@
+{
+  "id": "15582",
+  "prompt": "近年発達しているインド映画のダンスシーンの登場人物の心情を抽象的にダンスで表現する技法で 西部劇のような雰囲気の江戸の街で1863年1月31日の英国公使館焼き討ち事件の直前の高杉晋作らの襲撃者の攘夷の意気込み表現する動画。登場人物は歴史上の実在人物の写真をネットで調べて元にして特徴を強調して時代劇に出て来そうなキャラクター化。動画生成サービスに拒否されないように性的な表現や暴力表現や既存作品に似ている要素は入れない。 画質は1980年代の実写の日本映画でリアルな写真。 のストーリーボードを構想しSeedance2.0用のStartフレームからEndフレームまでの各shotのアスペクト比16:9の横長の画像を8枚生成して。n=8 大胆に喜劇的に、クローズアップを巧く使って。 1980s Japanese cinema look, shot on 35mm motion picture film. Photochemical texture, organic grain, subtle halation, soft highlight roll-off, slightly lifted blacks, realistic contrast, no digital sharpness, no HDR. Use a 35mm cinema camera with vintage spherical prime lenses. Lens style: 28mm, 35mm, 50mm, 85mm; mostly 35mm and 50mm for dialogue and observational framing. 24 fps, 180-degree shutter, restrained handheld and tripod shots, slow deliberate movement. Lighting is naturalistic and practical: mixed fluorescent and tungsten interior lighting, slightly underexposed, soft shadows, realistic skin tones. Color palette is subdued and earthy: brown, beige, olive, cream, muted red, with a slight yellow-green fluorescent cast. Film stock look inspired by Kodak Eastman 5247 / 5294. The overall feeling is intimate, understated, dryly comic, realistic, and melancholic, like a Japanese feature film from the 1980s. 近年発達しているインド映画のダンスシーンの登場人物の心情を抽象的にダンスで表現する技法で 西部劇のような雰囲気の江戸の街で1863年1月31日の英国公使館焼き討ち事件の直前の高杉晋作らの襲撃者の攘夷の意気込み表現する動画。 セリフ無しのミュージカル映画。 インド映画のダンスシーンのような華やかでアップテンポの曲",
+  "translatedPrompt": "借鉴近期印度电影舞蹈场景中通过舞蹈抽象表达角色情感的技巧，创作一段视频，描绘 1863 年 1 月 31 日英国公使馆纵火案前夕，以高杉晋作（Shinsaku Takasugi）为首的袭击者们所展现出的“攘夷”热情。场景设定在具有西方电影氛围的江户城镇。角色应基于对真实历史人物的网络研究，并强调其特征，使其看起来像时代剧中的人物。为避免被视频生成服务拒绝，请勿包含性暗示、暴力或与现有作品相似的元素。图像质量应呈现 1980 年代日本真人电影的写实照片质感。构思分镜脚本，并为 Seedance 2.0 的每个镜头从起始帧到结束帧生成 8 张横向图像（16:9 宽高比）。n=8。风格要大胆且具有喜剧色彩，有效利用特写镜头。1980 年代日本电影外观，使用 35mm 电影胶片拍摄。具有光化学质感、有机颗粒感、细微的光晕、柔和的高光过渡、略微提升的暗部、写实的对比度，无数字锐化，无 HDR。使用配备复古球面定焦镜头的 35mm 电影摄影机。镜头规格：28mm、35mm、50mm、85mm；对话和观察性构图主要使用 35mm 和 50mm 镜头。24 fps，180 度快门，克制的肩扛和三脚架拍摄，缓慢而从容的运镜。灯光自然且实用：混合荧光灯和钨丝灯室内照明，略微欠曝，柔和的阴影，真实的肤色。色调柔和且偏大地色：棕色、米色、橄榄色、奶油色、柔和的红色，并带有轻微的黄绿色荧光感。胶片质感灵感源自 Kodak Eastman 5247 / 5294。整体感觉亲切、内敛、冷幽默、写实且忧郁，如同 1980 年代的日本剧情片。这是一部音乐电影，没有对话，通过印度电影舞蹈场景的技巧，展现 1863 年 1 月 31 日英国公使馆纵火案前夕，以高杉晋作为首的袭击者们的“攘夷”精神。配乐为类似印度电影舞蹈场景的华丽快节奏歌曲。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "1980 年代日本电影风格分镜脚本：这是一项复杂的指令，旨在生成一系列融合了江户时代历史与印度电影舞蹈美学的 1980 年代电影风格分镜图像。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [],
+      "style": [
+        "realistic",
+        "vintage"
+      ],
+      "lightingCamera": [
+        "lens",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, vintage]。\n\nLighting and camera:\n[参考光线镜头: lens, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14145",
+      "14614",
+      "14810",
+      "15271",
+      "14604",
+      "14819"
+    ]
+  }
+}

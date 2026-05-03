@@ -1,0 +1,46 @@
+{
+  "id": "14675",
+  "prompt": "A candid documentary-style photo of a {argument name=\"setting\" default=\"high school computer lab classroom\"} filled with exactly 10 students seated at rows of bulky off-white CRT desktop computers, viewed from the back-left corner of the room at a slight wide angle. The scene should feel like an early-2000s snapshot taken on a consumer digital camera with direct flash, soft grain, slightly warm indoor fluorescent lighting, and a timestamp in the bottom-right corner reading {argument name=\"timestamp\" default=\"02 18 04\"}. In the foreground left, a student in a navy track jacket with white sleeve stripes points at a CRT monitor; in the center foreground, another student with short spiky hair wears an oversized gray sweatshirt and sits facing away from the camera; on the right foreground, a blonde student with a ponytail wears a light blue long-sleeve top with dark horizontal arm stripes and types at a keyboard; far right, another student with curly dark hair sits at a workstation. Several other students occupy the middle and back rows, all facing their screens. The monitors prominently display the ChatGPT interface, with the visible heading reading {argument name=\"screen title\" default=\"ChatGPT\"} and simple prompt text beneath it. The room has beige walls, drop ceiling tiles, and multiple motivational classroom posters: exactly 4 readable posters on the back wall saying {argument name=\"poster one\" default=\"YOU CAN DO HARD THINGS\"}, \"BE KIND ONLINE\", \"THINK BEFORE YOU CLICK\", and a larger poster titled \"KEYBOARD SHORTCUTS\" with a list beneath it. Include bulletin boards, a classroom door at the back, rolling office chairs, white keyboards and mice, and a backpack on the floor near the right foreground desk. Faces should be partially obscured or softly anonymized, preserving the look of a real classroom photo while keeping the focus on the students using ChatGPT in an old computer lab.",
+  "translatedPrompt": "一张纪实风格的抓拍照片，场景为 {argument name=\"setting\" default=\"高中计算机实验室教室\"}，室内有 10 名学生正坐在成排笨重的米白色 CRT 台式机前，视角位于教室左后方，呈轻微广角。画面应呈现出 21 世纪初使用消费级数码相机拍摄的快照感，带有直接闪光灯效果、柔和的噪点、略显温暖的室内荧光灯光，右下角带有时间戳 {argument name=\"timestamp\" default=\"02 18 04\"}。左侧前景中，一名身穿海军蓝运动夹克、袖口带有白色条纹的学生正指向一台 CRT 显示器；中央前景中，一名留着短刺猬头的学生穿着超大号灰色卫衣，背对镜头坐着；右侧前景中，一名扎着马尾辫的金发学生穿着浅蓝色长袖上衣，袖子上有深色横条纹，正在键盘上打字；最右侧，另一名留着深色卷发的学生坐在工作站前。其他几名学生坐在中间和后排，全都面向屏幕。显示器上清晰地显示着 ChatGPT 界面，可见的标题为 {argument name=\"screen title\" default=\"ChatGPT\"}，下方是简单的提示词文本。房间墙壁为米色，配有吊顶天花板，墙上挂着多张励志海报：后墙上挂着 4 张清晰可见的海报，内容分别为 {argument name=\"poster one\" default=\"YOU CAN DO HARD THINGS\"}、“BE KIND ONLINE”、“THINK BEFORE YOU CLICK”，以及一张标题为“KEYBOARD SHORTCUTS”的大海报，下方列有清单。画面中还应包含项目、后方的教室门、转椅、白色键盘和鼠标，以及右侧前景桌旁地板上的背包。人物面部应部分遮挡或进行柔和的匿名处理，在保留真实课堂照片质感的同时，将焦点集中在学生在老式计算机实验室中使用 ChatGPT 的场景上。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "21 世纪初的计算机实验室与 ChatGPT：此提示词可生成一张怀旧风格的课堂抓拍照片，展示学生在 CRT 显示器电脑上使用 ChatGPT 的场景，非常适合用于关于 AI 在日常教育中应用的编辑或社交媒体视觉素材。",
+      "subject": "界面",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [
+        "documentary"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "要求精确文字；要求可读",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[参考风格: documentary]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n要求精确文字；要求可读。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14440",
+      "15031",
+      "14427",
+      "14614",
+      "15628",
+      "14667"
+    ]
+  }
+}

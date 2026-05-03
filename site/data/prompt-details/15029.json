@@ -1,0 +1,45 @@
+{
+  "id": "15029",
+  "prompt": "{\"type\":\"minimal vector logo sheet\",\"subject\":\"professional head-and-shoulders male avatar icon set\",\"style\":{\"design\":\"flat geometric vector, clean corporate branding, simplified facial features, mostly bald or closely shaved men, some with glasses or facial hair, no gradients except subtle metallic-looking center masks, crisp outlines, symmetrical compositions\",\"palette\":[\"dark navy blue\",\"warm gold\",\"light beige\",\"white\",\"soft gray background\"]},\"layout\":{\"background\":\"plain very light gray\",\"grid\":{\"rows\":5,\"columns\":4,\"count\":20,\"spacing\":\"wide even spacing\",\"alignment\":\"centered\"},\"items\":[{\"position\":\"row 1 col 1\",\"shape\":\"solid dark navy circle\",\"icon\":\"male bust in suit and tie, white face silhouette with a silver rectangular censor block over the face\"},{\"position\":\"row 1 col 2\",\"shape\":\"outlined circle with shoulders\",\"icon\":\"bald male head outline in navy with silver rectangular face block\"},{\"position\":\"row 1 col 3\",\"shape\":\"bust silhouette\",\"icon\":\"split-color male bust in navy and gold with gold-toned rectangular face block\"},{\"position\":\"row 1 col 4\",\"shape\":\"double-ring gold circle coin-like badge\",\"icon\":\"minimal male head with gold rectangular face block\"},{\"position\":\"row 2 col 1\",\"shape\":\"cropped bust silhouette\",\"icon\":\"minimal black hair shape and chin point, silver rectangular face block\"},{\"position\":\"row 2 col 2\",\"shape\":\"rounded vertical navy rectangle\",\"icon\":\"white male head inside, silver rectangular face block\"},{\"position\":\"row 2 col 3\",\"shape\":\"thin outlined navy circle\",\"icon\":\"male head outline with silver rectangular face block\"},{\"position\":\"row 2 col 4\",\"shape\":\"capital letter D frame in navy\",\"icon\":\"male head cropped inside with silver rectangular face block\"},{\"position\":\"row 3 col 1\",\"shape\":\"gold outlined hexagon\",\"icon\":\"male bust with dark shirt and tan skin, gold-toned rectangular face block\"},{\"position\":\"row 3 col 2\",\"shape\":\"partial head outline\",\"icon\":\"minimal side-cropped head with silver rectangular face block\"},{\"position\":\"row 3 col 3\",\"shape\":\"solid dark navy circle\",\"icon\":\"white male head silhouette with silver rectangular face block\"},{\"position\":\"row 3 col 4\",\"shape\":\"open gold circle with break at lower left\",\"icon\":\"minimal male head with pale cream rectangular face block\"},{\"position\":\"row 4 col 1\",\"shape\":\"navy shield outline\",\"icon\":\"male bust silhouette inside, silver rectangular face block\"},{\"position\":\"row 4 col 2\",\"shape\":\"stylized gold monogram M made from eyeglasses and angular lines\",\"icon\":\"abstract eyeglasses logo, no face block\"},{\"position\":\"row 4 col 3\",\"shape\":\"outlined circle with two horizontal side bars\",\"icon\":\"male head outline with silver rectangular face block\"},{\"position\":\"row 4 col 4\",\"shape\":\"navy square outline\",\"icon\":\"male bust cropped inside with silver rectangular face block\"},{\"position\":\"row 5 col 1\",\"shape\":\"navy diamond outline\",\"icon\":\"small male head inside with silver rectangular face block\"},{\"position\":\"row 5 col 2\",\"shape\":\"solid pale beige circle\",\"icon\":\"minimal male head with gold-toned rectangular face block\"},{\"position\":\"row 5 col 3\",\"shape\":\"no enclosing border\",\"icon\":\"black eyeglasses, mustache, and small goatee floating on blank background\"},{\"position\":\"row 5 col 4\",\"shape\":\"split vertical circle half navy half gold\",\"icon\":\"minimal male head with gold-toned rectangular face block\"}]},\"composition\":\"show all 20 icons as a cohesive identity exploration sheet with consistent stroke weight and spacing, centered on the page, lots of negative space, modern masculine branding aesthetic\",\"rendering\":\"sharp SVG-like vector artwork, no shadows, no texture, no text, portrait canvas\"}",
+  "translatedPrompt": "{\"type\":\"极简矢量 Logo 图表\",\"subject\":\"专业男性半身头像图标集\",\"style\":{\"design\":\"扁平几何矢量，简洁企业品牌风格，简化面部特征，多为光头或短发男性，部分带有眼镜或胡须，除细微的金属质感中心遮罩外无渐变，线条清晰，构图对称\",\"palette\":[\"深海军蓝\",\"暖金色\",\"浅米色\",\"白色\",\"柔和灰色背景\"]},\"layout\":{\"background\":\"纯浅灰色\",\"grid\":{\"rows\":5,\"columns\":4,\"count\":20,\"spacing\":\"宽阔均匀间距\",\"alignment\":\"居中\"},\"items\":[{\"position\":\"第 1 行第 1 列\",\"shape\":\"实心深海军蓝圆形\",\"icon\":\"身着西装领带的男性半身像，白色脸部轮廓，面部带有银色长方形遮挡块\"},{\"position\":\"第 1 行第 2 列\",\"shape\":\"带肩部轮廓的圆圈\",\"icon\":\"海军蓝光头男性头部轮廓，配银色长方形面部遮挡块\"},{\"position\":\"第 1 行第 3 列\",\"shape\":\"半身像轮廓\",\"icon\":\"海军蓝与金色拼接的男性半身像，配金色长方形面部遮挡块\"},{\"position\":\"第 1 行第 4 列\",\"shape\":\"双环金色圆形钱币徽章\",\"icon\":\"极简男性头部，配金色长方形面部遮挡块\"},{\"position\":\"第 2 行第 1 列\",\"shape\":\"裁剪后的半身像轮廓\",\"icon\":\"极简黑色发型与下巴轮廓，配银色长方形面部遮挡块\"},{\"position\":\"第 2 行第 2 列\",\"shape\":\"圆角垂直海军蓝长方形\",\"icon\":\"内部为白色男性头部，配银色长方形面部遮挡块\"},{\"position\":\"第 2 行第 3 列\",\"shape\":\"细线条海军蓝圆圈\",\"icon\":\"男性头部轮廓，配银色长方形面部遮挡块\"},{\"position\":\"第 2 行第 4 列\",\"shape\":\"海军蓝大写字母 D 边框\",\"icon\":\"内部裁剪的男性头部，配银色长方形面部遮挡块\"},{\"position\":\"第 3 行第 1 列\",\"shape\":\"金色六边形轮廓\",\"icon\":\"身着深色衬衫的男性半身像，肤色为棕褐色，配金色长方形面部遮挡块\"},{\"position\":\"第 3 行第 2 列\",\"shape\":\"局部头部轮廓\",\"icon\":\"极简侧面裁剪头部，配银色长方形面部遮挡块\"},{\"position\":\"第 3 行第 3 列\",\"shape\":\"实心深海军蓝圆形\",\"icon\":\"白色男性头部轮廓，配银色长方形面部遮挡块\"},{\"position\":\"第 3 行第 4 列\",\"shape\":\"左下角有缺口的金色圆环\",\"icon\":\"极简男性头部，配浅奶油色长方形面部遮挡块\"},{\"position\":\"第 4 行第 1 列\",\"shape\":\"海军蓝盾牌轮廓\",\"icon\":\"内部为男性半身像轮廓，配银色长方形面部遮挡块\"},{\"position\":\"第 4 行第 2 列\",\"shape\":\"由眼镜和角线组成的风格化金色字母 M\",\"icon\":\"抽象眼镜 Logo，无面部遮挡块\"},{\"position\":\"第 4 行第 3 列\",\"shape\":\"带有两条水平侧边栏的圆圈轮廓\",\"icon\":\"男性头部轮廓，配银色长方形面部遮挡块\"},{\"position\":\"第 4 行第 4 列\",\"shape\":\"海军蓝正方形轮廓\",\"icon\":\"内部裁剪的男性半身像，配银色长方形面部遮挡块\"},{\"position\":\"第 5 行第 1 列\",\"shape\":\"海军蓝菱形轮廓\",\"icon\":\"内部为小型男性头部，配银色长方形面部遮挡块\"},{\"position\":\"第 5 行第 2 列\",\"shape\":\"实心浅米色圆形\",\"icon\":\"极简男性头部，配金色长方形面部遮挡块\"},{\"position\":\"第 5 行第 3 列\",\"shape\":\"无边框\",\"icon\":\"黑色眼镜、胡须和小山羊胡漂浮在空白背景上\"},{\"position\":\"第 5 行第 4 列\",\"shape\":\"垂直分割的圆圈，一半海军蓝一半金色\",\"icon\":\"极简男性头部，配金色长方形面部遮挡块\"}]},\"composition\":\"将所有 20 个图标展示为统一的品牌识别探索图表，笔画粗细和间距保持一致，页面居中，留有大量负空间，现代男性品牌美学\",\"rendering\":\"清晰的 SVG 风格矢量图，无阴影，无纹理，无文字，肖像画布\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "极简男性头像 Logo 网格：一份简洁的矢量设计图，展示了 20 种男性头像和眼镜 Logo 图标变体，适用于品牌探索或身份识别概念项目。",
+      "subject": "文字符号",
+      "scene": "图标/贴纸",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "grid",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "禁止额外文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "图标包、贴纸、表情、产品功能图标",
+      "whySelected": "得分 73；构图: centered, symmetrical, grid, vertical, horizontal；禁止额外文字；文字是主视觉"
+    },
+    "copyTemplate": "Create a 图标/贴纸 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, grid, vertical, horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n禁止额外文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15059",
+      "15284",
+      "14665",
+      "14517",
+      "15719",
+      "14559"
+    ]
+  }
+}

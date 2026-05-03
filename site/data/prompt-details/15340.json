@@ -1,0 +1,56 @@
+{
+  "id": "15340",
+  "prompt": "{\"type\":\"anime figure promotional poster\",\"subject\":{\"franchise\":\"AZUR GUARD\",\"character\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"葉葉るり\\\"}\",\"romanization\":\"SHIORIHA RURI\",\"theme subtitle\":\"〜白耀の守護者〜\",\"design\":\"stylized anime woman rendered as a premium 1/7 scale painted figure\",\"appearance\":{\"hair color\":\"{argument name=\\\"hair color\\\" default=\\\"silver blonde\\\"}\",\"hair style\":\"very long layered hair with soft waves and side-swept bangs\",\"hat\":\"white naval beret-style cap with navy visor, gold trim, anchor-like insignia, and a vivid blue flower ornament\",\"face\":\"partially obscured by a rectangular mosaic blur centered over the face\",\"outfit pieces\":[\"white short capelet-style top with blue trim and gold details\",\"navy high-waisted glossy shorts or bodysuit bottom\",\"semi-sheer deep blue tights\",\"black thigh straps on both legs\",\"blue waist belt with silver metallic X-shaped buckle\",\"utility holster at the hip\",\"black gloves\",\"small shoulder-mounted device on the right shoulder\",\"decorative sleeve patches/cards on both sleeves\"],\"extra features\":[\"large fluffy fox-like tail in pale cream\",\"slim curvy build\",\"confident upright pose\"]}},\"layout\":{\"aspect ratio\":\"portrait poster\",\"background\":\"luxury indoor setting with warm blurred pillars and reflective surfaces\",\"sections\":[{\"title\":\"1/7 SCALE PAINTED FIGURE\",\"position\":\"top left\",\"count\":1,\"labels\":[\"1/7 SCALE PAINTED FIGURE\"]},{\"title\":\"character title block\",\"position\":\"upper left\",\"count\":4,\"labels\":[\"葉葉るり\",\"SHIORIHA RURI\",\"〜白耀の守護者〜\",\"凛とした眼差し、その先にある使命。\"]},{\"title\":\"description text\",\"position\":\"left middle\",\"count\":1,\"labels\":[\"人気イラストレーターの描く美麗イラストをもとに、細部までこだわり抜いたハイクオリティフィギュア。\"]},{\"title\":\"specification box\",\"position\":\"lower left-middle\",\"count\":5,\"labels\":[\"スケール：1/7スケール\",\"全高：約240mm\",\"原型制作：株式会社エムアイシー\",\"彩色制作：Ichiro Ayabe\",\"発売元：XXXX / 販売元：XXXX\"]},{\"title\":\"price and release\",\"position\":\"bottom left\",\"count\":2,\"labels\":[\"価格：{argument name=\\\"price\\\" default=\\\"26,400円\\\"} (税込)\",\"{argument name=\\\"release date\\\" default=\\\"2024年8月発売予定\\\"}\"]},{\"title\":\"brand block\",\"position\":\"top right\",\"count\":2,\"labels\":[\"【公式】AZUR GUARD\",\"gold emblem badge\"]},{\"title\":\"right image column\",\"position\":\"right side\",\"count\":3,\"labels\":[\"close-up bust portrait\",\"rear full-body view\",\"front full-body view on circular display base\"]},{\"title\":\"PRODUCT POINT\",\"position\":\"bottom right\",\"count\":3,\"labels\":[\"繊細なグラデーションで再現された髪の流れや衣装の質感に注目！\",\"クリアパーツとメタリック塗装で素材の違いを忠実に表現。\",\"専用台座付属で、世界観をより一層演出。\"]}],\"centerpiece\":\"dominant low-angle full-body product photo of the figure, cropped from hat to thighs, emphasizing the glossy navy tights, sculpted outfit details, and premium collectible finish\"},\"style\":{\"overall look\":\"high-end Japanese hobby figure advertisement\",\"rendering\":\"photorealistic product photography of a painted PVC scale figure\",\"lighting\":\"soft studio lighting with warm highlights and subtle reflections\",\"color palette\":\"navy blue, white, gold, silver, and cream\",\"graphic design\":\"clean premium magazine-style layout with white borders, serif Japanese headline typography, and a dark blue outer frame\"}}",
+  "translatedPrompt": "{\"type\":\"动漫手办宣传海报\",\"subject\":{\"franchise\":\"AZUR GUARD\",\"character\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"叶叶琉璃\\\"}\",\"romanization\":\"SHIORIHA RURI\",\"theme subtitle\":\"〜白耀的守护者〜\",\"design\":\"以高级 1/7 比例涂装手办呈现的风格化动漫女性\",\"appearance\":{\"hair color\":\"{argument name=\\\"hair color\\\" default=\\\"银金色\\\"}\",\"hair style\":\"带有柔和波浪和侧分刘海的超长层次感发型\",\"hat\":\"白色海军贝雷帽，配有藏青色帽檐、金色饰边、锚状徽章及鲜艳的蓝色花朵装饰\",\"face\":\"面部中心被矩形马赛克模糊处理\",\"outfit pieces\":[\"带有蓝色饰边和金色细节的白色短斗篷式上衣\",\"藏青色高腰亮面短裤或连体衣\",\"半透明深蓝色连裤袜\",\"双腿黑色大腿绑带\",\"蓝色腰带，配有银色金属 X 型扣\",\"腰部多功能枪套\",\"黑色手套\",\"右肩小型肩载装置\",\"双袖装饰性补丁/卡片\"],\"extra features\":[\"巨大的蓬松奶油色狐狸尾巴\",\"纤细曲线身材\",\"自信挺拔的姿态\"]}},\"layout\":{\"aspect ratio\":\"竖版海报\",\"background\":\"奢华室内场景，带有温暖的模糊立柱和反光表面\",\"sections\":[{\"title\":\"1/7 SCALE PAINTED FIGURE\",\"position\":\"左上\",\"count\":1,\"labels\":[\"1/7 比例涂装手办\"]},{\"title\":\"character title block\",\"position\":\"左上\",\"count\":4,\"labels\":[\"叶叶琉璃\",\"SHIORIHA RURI\",\"〜白耀的守护者〜\",\"凛然目光，使命所在。\"]},{\"title\":\"description text\",\"position\":\"左中\",\"count\":1,\"labels\":[\"基于人气插画师绘制的精美插画，细节考究的高品质手办。\"]},{\"title\":\"specification box\",\"position\":\"左下中\",\"count\":5,\"labels\":[\"比例：1/7 比例\",\"全高：约 240 mm\",\"原型制作：株式会社 MIC\",\"彩色制作：Ichiro Ayabe\",\"发行商：XXXX / 销售商：XXXX\"]},{\"title\":\"price and release\",\"position\":\"左下\",\"count\":2,\"labels\":[\"价格：{argument name=\\\"price\\\" default=\\\"26,400 日元\\\"} (含税)\",\"{argument name=\\\"release date\\\" default=\\\"预计 2024 年 8 月发售\\\"}\"]},{\"title\":\"brand block\",\"position\":\"右上\",\"count\":2,\"labels\":[\"【官方】AZUR GUARD\",\"金色徽章\"]},{\"title\":\"right image column\",\"position\":\"右侧\",\"count\":3,\"labels\":[\"胸部特写肖像\",\"背面全身视图\",\"圆形展示底座上的正面全身视图\"]},{\"title\":\"PRODUCT POINT\",\"position\":\"右下\",\"count\":3,\"labels\":[\"关注以细腻渐变呈现的头发流向与服装质感！\",\"通过透明部件和金属涂装忠实还原材质差异。\",\"附带专用底座，进一步烘托世界观。\"]}],\"centerpiece\":\"手办的主导低角度全身产品照，从帽子到大腿进行裁剪，强调亮面藏青色连裤袜、雕刻精美的服装细节和高级收藏品质感\"},\"style\":{\"overall look\":\"高端日式兴趣手办广告\",\"rendering\":\"涂装 PVC 比例手办的写实产品摄影\",\"lighting\":\"柔和摄影棚灯光，带有温暖高光和微妙反射\",\"color palette\":\"藏青色、白色、金色、银色和奶油色\",\"graphic design\":\"简洁的高级杂志风格排版，配有白色边框、衬线日文标题字体和深蓝色外框\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫手办宣传海报：一款用于动漫比例手办的高级日式产品海报，适用于收藏级手办广告、模拟兴趣杂志页面或角色周边推广。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "close-up",
+        "full-body",
+        "layered"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "anime",
+        "luxury",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, close-up, full-body, layered]。\n\nVisual style:\n[参考风格: realistic, photorealistic, anime, luxury, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15805",
+      "14823",
+      "15014",
+      "15375",
+      "14413",
+      "15041"
+    ]
+  }
+}

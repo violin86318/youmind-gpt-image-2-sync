@@ -1,0 +1,50 @@
+{
+  "id": "15517",
+  "prompt": "Core Subject: [{argument name=\"reference\" default=\"use the uploaded image\"}, keep the details, typography and structure locked 100%]\n\nLayout & Composition: A {argument name=\"presentation type\" default=\"professional industrial design presentation sheet\"}. The image should be organized into a clean grid system.\n\nTop Row: A 3x3 layout showing top-down flat lay views and close-up macro details of materials.\n\nMiddle Section: Three hero shots of the product standing upright in different color ways (Matte Black, Arctic White, and accented variants). The products should be slightly tilted to show depth and form.\n\nBottom Section: A dynamic \"floating\" composition featuring two products overlapping at opposing angles to showcase the front and side profiles simultaneously.\n\nEnvironment & Lighting: Set against a minimalist, neutral studio gray background. Soft top-down lighting with realistic contact shadows. High-end product photography aesthetic.\n\nStyle & Finish: Matte textures, clean silhouettes, and sharp edges. Leave designated blank areas on the product surfaces for \"Placeholder Branding\" and \"Graphic Mockups.\" 4k resolution, Unreal Engine 5 render style, hyper-realistic, clean aesthetic.",
+  "translatedPrompt": "核心主题：[{argument name=\"reference\" default=\"使用上传的图片\"}，保持细节、排版和结构 100% 不变]\n\n布局与构图：一个 {argument name=\"presentation type\" default=\"专业的工业设计展示页\"}。图片应组织成清晰的网格系统。\n\n顶行：3x3 布局，展示俯视平铺视图和材质的微距细节。\n\n中间部分：三张产品垂直站立的精选特写，展示不同配色（哑光黑、北极白及强调色变体）。产品应略微倾斜以展现深度和形态。\n\n底部部分：动态的“悬浮”构图，通过两个产品以相反角度重叠，同时展示正面和侧面轮廓。\n\n环境与光影：背景为极简的中性摄影棚灰色。采用柔和的顶光，带有真实的接触阴影。高端产品摄影美学。\n\n风格与质感：哑光纹理、干净的轮廓和锐利的边缘。在产品表面留出指定的空白区域用于“占位品牌标识”和“图形样机”。4k 分辨率，Unreal Engine 5 渲染风格，超写实，干净的美学风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "工业设计展示页：一个用于工业设计展示页的复杂布局提示词，通过网格系统从多个角度展示产品。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [
+        "close-up",
+        "top-down",
+        "grid",
+        "hero shot"
+      ],
+      "style": [
+        "realistic",
+        "minimalist",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": "得分 87；构图: close-up, top-down, grid, hero shot；风格: realistic, minimalist, studio；文字是主视觉"
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, top-down, grid, hero shot]。\n\nVisual style:\n[参考风格: realistic, minimalist, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15639",
+      "15774",
+      "15429",
+      "15447",
+      "14878",
+      "14576"
+    ]
+  }
+}

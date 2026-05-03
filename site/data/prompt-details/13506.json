@@ -1,0 +1,40 @@
+{
+  "id": "13506",
+  "prompt": "{\n  \"type\": \"UI Design System\",\n  \"theme\": \"dark mode, space-inspired, glowing accents\",\n  \"header\": {\n    \"label\": \"DESIGN SYSTEM\",\n    \"title\": \"{argument name=\\\"system name\\\" default=\\\"COSMIC GRAVITY\\\"}\",\n    \"subtitle\": \"{argument name=\\\"theme description\\\" default=\\\"A Design Language Inspired by the Universe.\\\"}\"\n  },\n  \"layout\": {\n    \"left_column\": [\n      {\n        \"title\": \"COLOR\",\n        \"count\": 7,\n        \"items\": [\n          {\"name\": \"Cosmic Black\", \"hex\": \"#050507\"},\n          {\"name\": \"Deep Space\", \"hex\": \"#0E0F14\"},\n          {\"name\": \"Soft White\", \"hex\": \"#F5F6F8\"},\n          {\"name\": \"{argument name=\\\"primary accent color\\\" default=\\\"Stardust Gold\\\"}\", \"hex\": \"#F5D28A\"},\n          {\"name\": \"Night Purple\", \"hex\": \"#1A1C2A\"},\n          {\"name\": \"Dusk Blue\", \"hex\": \"#0F1B2A\"},\n          {\"name\": \"Nebula Teal\", \"hex\": \"#0E1F22\"}\n        ]\n      },\n      {\n        \"title\": \"GRADIENT\",\n        \"count\": 1,\n        \"description\": \"horizontal bar showing a dark-to-light-to-dark cosmic glow\"\n      },\n      {\n        \"title\": \"TYPOGRAPHY\",\n        \"font\": \"{argument name=\\\"font name\\\" default=\\\"Space Grotesk\\\"}\",\n        \"hierarchy_count\": 4,\n        \"levels\": [\"H1 Cosmic Light\", \"H2 Explore More\", \"Body Celestial Text\", \"Caption Orbit Info\"]\n      }\n    ],\n    \"main_column\": [\n      {\n        \"title\": \"UI COMPONENTS\",\n        \"subsections\": [\n          {\"title\": \"BUTTON\", \"count\": 3, \"labels\": [\"EXPLORE (Primary)\", \"CANCEL (Secondary)\", \"MORE (Ghost)\"]},\n          {\"title\": \"SLIDER\", \"count\": 1, \"value\": \"72%\"},\n          {\"title\": \"TOGGLE\", \"count\": 2, \"states\": [\"Off\", \"On\"]},\n          {\"title\": \"TAGS\", \"count\": 3, \"labels\": [\"BLACK HOLE\", \"JUPITER\", \"ORBIT\"]}\n        ]\n      },\n      {\n        \"title\": \"CARDS\",\n        \"count\": 3,\n        \"items\": [\n          {\"title\": \"{argument name=\\\"card subject\\\" default=\\\"JUPITER\\\"}\", \"subtitle\": \"ORBIT ARCHIVE\", \"image\": \"Jupiter planet\"},\n          {\"title\": \"BLACK HOLE\", \"subtitle\": \"COSMIC EVENT\", \"image\": \"Black hole with accretion disk\"},\n          {\"title\": \"DISTANCE\", \"value\": \"778.3 M km\", \"image\": \"Concentric orbital rings\"}\n        ]\n      },\n      {\n        \"title\": \"DATA DISPLAY\",\n        \"count\": 3,\n        \"items\": [\n          {\"title\": \"ENERGY\", \"type\": \"circular progress ring\", \"value\": \"87%\"},\n          {\"title\": \"SIGNAL STRENGTH\", \"type\": \"line graph with glowing nodes\", \"value\": \"42.6 dB\"},\n          {\"title\": \"COSMIC NOISE\", \"type\": \"audio player UI\"}\n        ]\n      },\n      {\n        \"title\": \"ICON\",\n        \"count\": 7,\n        \"labels\": [\"Home\", \"Planet\", \"Sparkle\", \"Signal\", \"Folder\", \"Heart\", \"User\"]\n      }\n    ],\n    \"bottom_row\": [\n      {\n        \"title\": \"VISUAL ELEMENTS\",\n        \"count\": 5,\n        \"labels\": [\"BLACK HOLE\", \"GRAVITY RING\", \"LIGHT GLOW\", \"NEBULA DUST\", \"GLASS SURFACE\"]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"UI 设计系统\",\n  \"theme\": \"深色模式，太空灵感，发光装饰\",\n  \"header\": {\n    \"label\": \"设计系统\",\n    \"title\": \"{argument name=\\\"system name\\\" default=\\\"COSMIC GRAVITY\\\"}\",\n    \"subtitle\": \"{argument name=\\\"theme description\\\" default=\\\"A Design Language Inspired by the Universe.\\\"}\"\n  },\n  \"layout\": {\n    \"left_column\": [\n      {\n        \"title\": \"色彩\",\n        \"count\": 7,\n        \"items\": [\n          {\"name\": \"宇宙黑\", \"hex\": \"#050507\"},\n          {\"name\": \"深空\", \"hex\": \"#0E0F14\"},\n          {\"name\": \"柔白\", \"hex\": \"#F5F6F8\"},\n          {\"name\": \"{argument name=\\\"primary accent color\\\" default=\\\"Stardust Gold\\\"}\", \"hex\": \"#F5D28A\"},\n          {\"name\": \"夜紫\", \"hex\": \"#1A1C2A\"},\n          {\"name\": \"暮蓝\", \"hex\": \"#0F1B2A\"},\n          {\"name\": \"星云青\", \"hex\": \"#0E1F22\"}\n        ]\n      },\n      {\n        \"title\": \"渐变\",\n        \"count\": 1,\n        \"description\": \"展示从暗到亮再到暗的宇宙光晕水平条\"\n      },\n      {\n        \"title\": \"排版\",\n        \"font\": \"{argument name=\\\"font name\\\" default=\\\"Space Grotesk\\\"}\",\n        \"hierarchy_count\": 4,\n        \"levels\": [\"H1 宇宙之光\", \"H2 探索更多\", \"正文 天体文本\", \"标注 轨道信息\"]\n      }\n    ],\n    \"main_column\": [\n      {\n        \"title\": \"UI 组件\",\n        \"subsections\": [\n          {\"title\": \"按钮\", \"count\": 3, \"labels\": [\"探索 (主要)\", \"取消 (次要)\", \"更多 (幽灵)\"]},\n          {\"title\": \"滑块\", \"count\": 1, \"value\": \"72%\"},\n          {\"title\": \"开关\", \"count\": 2, \"states\": [\"关\", \"开\"]},\n          {\"title\": \"标签\", \"count\": 3, \"labels\": [\"黑洞\", \"木星\", \"轨道\"]}\n        ]\n      },\n      {\n        \"title\": \"卡片\",\n        \"count\": 3,\n        \"items\": [\n          {\"title\": \"{argument name=\\\"card subject\\\" default=\\\"JUPITER\\\"}\", \"subtitle\": \"轨道档案\", \"image\": \"木星行星\"},\n          {\"title\": \"黑洞\", \"subtitle\": \"宇宙事件\", \"image\": \"带吸积盘的黑洞\"},\n          {\"title\": \"距离\", \"value\": \"7.783 亿公里\", \"image\": \"同心轨道环\"}\n        ]\n      },\n      {\n        \"title\": \"数据展示\",\n        \"count\": 3,\n        \"items\": [\n          {\"title\": \"能量\", \"type\": \"圆形进度环\", \"value\": \"87%\"},\n          {\"title\": \"信号强度\", \"type\": \"带发光节点的折线图\", \"value\": \"42.6 dB\"},\n          {\"title\": \"宇宙噪声\", \"type\": \"音频播放器 UI\"}\n        ]\n      },\n      {\n        \"title\": \"图标\",\n        \"count\": 7,\n        \"labels\": [\"主页\", \"行星\", \"闪光\", \"信号\", \"文件夹\", \"心形\", \"用户\"]\n      }\n    ],\n    \"bottom_row\": [\n      {\n        \"title\": \"视觉元素\",\n        \"count\": 5,\n        \"labels\": [\"黑洞\", \"引力环\", \"光晕\", \"星云尘埃\", \"玻璃表面\"]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Cosmic Dark Mode UI 设计系统：生成一套全面的深色模式 UI 设计系统，包含配色方案、排版以及太空主题组件。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14554",
+      "13507",
+      "14496",
+      "14936",
+      "14914",
+      "14922"
+    ]
+  }
+}

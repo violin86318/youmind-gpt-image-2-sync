@@ -1,0 +1,48 @@
+{
+  "id": "15695",
+  "prompt": "A moody 4-by-3 photo collage made of 12 candid smartphone-style snapshots of a young couple during summer nights in Tokyo, shot with a nostalgic film look, soft grain, muted colors, slight blur, low contrast, dim ambient street lighting, and intimate casual framing. The overall tone is romantic, youthful, private, and documentary-like, with a warm gray-brown palette and a slightly desaturated teal-orange night city atmosphere. The man has messy dark hair, a slim build, and wears a dark overshirt or lightweight jacket over a white T-shirt; the woman has long dark brown hair, a slim build, and wears a white sleeveless top with thin black shoulder straps from a bag. In every panel, both faces are intentionally obscured by large soft-edged blur blocks for anonymity. Include exactly 12 images arranged in a tight seamless grid: top row panel 1, an extreme close-up side profile of the man at night; panel 2, the woman taking a mirror or phone selfie while standing beside the man outdoors at night; panel 3, the couple pressed close together near a street sign with Japanese text; panel 4, the couple kissing at a busy crosswalk in the city. Middle row panel 5, a pavement shadow photo of two people, one making a peace sign; panel 6, the couple standing close on a sidewalk in an urban shopping street; panel 7, a sunset skyline over water with Tokyo Tower visible, no people; panel 8, a high-angle shot looking down on the woman and the man close together on stairs or a walkway. Bottom row panel 9, a tight intimate close-up of the couple touching faces or kissing; panel 10, the man adjusting or touching the woman's hair on a city street; panel 11, the couple riding together on a scooter or motorcycle, both wearing helmets, captured in motion blur; panel 12, the couple embracing against a pale blue sky, framed from the shoulders up. Backgrounds should include Japanese city streets, storefronts, crosswalks, signage, buildings, night traffic, and urban evening ambience. Keep the composition casual and imperfect like real memories, with varied crops, soft focus, motion blur, and authentic handheld phone photography.",
+  "translatedPrompt": "一组充满情绪感的 4x3 照片拼贴，由 12 张年轻情侣在东京夏夜的手机抓拍照片组成，采用怀旧胶片质感、柔和颗粒、低饱和色彩、轻微模糊、低对比度、昏暗的环境街灯以及亲密的随意构图。整体基调浪漫、年轻、私密且具有纪录片风格，色调为暖灰棕色，并带有轻微去饱和的青橙色城市夜景氛围。男子留着凌乱的深色短发，身材苗条，身穿深色外搭或轻便夹克，内搭白色 T 恤；女子留着深棕色长发，身材苗条，身穿白色无袖上衣，肩上背着黑色细肩带包。在每一格画面中，两人的面部均被刻意添加了大面积的柔边模糊遮挡以保护隐私。包含 12 张紧凑排列的无缝网格图像：第一行第 1 格，夜间男子侧脸的极致特写；第 2 格，女子在夜间户外与男子并肩站立时拍摄的镜面或手机自拍；第 3 格，两人在带有日文标识的街道旁紧紧依偎；第 4 格，两人在繁忙的城市人行横道上接吻。中间一行第 5 格，地面上两人的影子，其中一人比着剪刀手；第 6 格，两人在城市商业街的人行道上亲密站立；第 7 格，带有东京塔的日落水岸天际线，无人物；第 8 格，从高处俯拍楼梯或通道上紧挨着的男女。最后一行第 9 格，两人脸部触碰或接吻的亲密特写；第 10 格，男子在城市街道上为女子整理头发；第 11 格，两人骑着踏板车或摩托车，均佩戴头盔，呈现动态模糊感；第 12 格，两人在淡蓝色天空下拥抱，取景为肩部以上。背景应包含日本城市街道、店面、人行横道、标识、建筑、夜间交通和城市夜晚氛围。保持构图随意且不完美，如同真实的记忆，呈现多样的裁剪、柔焦、动态模糊以及真实的手机手持摄影感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "东京浪漫情侣照片拼贴：生成一组 12 格怀旧风格的东京情侣亲密抓拍拼贴，非常适合用于项目、社交媒体美学视觉图或浪漫生活方式影像。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "close-up",
+        "grid"
+      ],
+      "style": [
+        "documentary"
+      ],
+      "lightingCamera": [
+        "low contrast"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": "得分 80；构图: close-up, grid；风格: documentary；要求精确文字"
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, grid]。\n\nVisual style:\n[参考风格: documentary]。\n\nLighting and camera:\n[参考光线镜头: low contrast]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15254",
+      "15808",
+      "14674",
+      "15520",
+      "14973",
+      "15697"
+    ]
+  }
+}

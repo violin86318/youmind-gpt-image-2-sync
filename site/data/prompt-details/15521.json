@@ -1,0 +1,51 @@
+{
+  "id": "15521",
+  "prompt": "Design a premium {argument name=\"aspect ratio\" default=\"9:16\"} vertical phone wallpaper featuring {argument name=\"player\" default=\"Michael Jordan\"} in {argument name=\"team kit\" default=\"Chicago Bulls kit\"}. Advanced sports graphic design style: layered composition with player portrait + full-body action shot, team logo integration, dynamic red/white energy effects, United Center silhouette backdrop, bold vertical typography with \"JORDAN\" and \"AIR LEGEND\" callouts, dark cinematic color grading with electric red accents, photorealistic detail, 4K resolution.",
+  "translatedPrompt": "设计一款优质的 {argument name=\"aspect ratio\" default=\"9:16\"} 竖屏手机壁纸，主角为 {argument name=\"player\" default=\"Michael Jordan\"}，身穿 {argument name=\"team kit\" default=\"芝加哥公牛队队服\"}。高级体育图形设计风格：采用分层构图，包含球员肖像 + 全身动作特写，融合球队标志，动态红/白色能量特效，联合中心球馆 (United Center) 剪影背景，醒目的垂直排版，标注 \"JORDAN\" 和 \"AIR LEGEND\" 字样，深色电影质感调色，点缀电光红，照片级真实细节，4K 分辨率。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "迈克尔·乔丹 (Michael Jordan) 体育主题图形壁纸：一款优质的体育图形设计提示词，用于生成带有能量特效和排版的 9:16 迈克尔·乔丹手机壁纸。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [
+        "full-body",
+        "callout",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body, callout, layered, vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14539",
+      "14262",
+      "14511",
+      "14966",
+      "15451",
+      "14267"
+    ]
+  }
+}

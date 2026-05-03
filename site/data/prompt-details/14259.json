@@ -1,0 +1,46 @@
+{
+  "id": "14259",
+  "prompt": "{\"type\":\"Japanese promotional poster\",\"style\":\"hyper-intense, fiery, dark realism, high contrast\",\"centerpiece\":\"close-up of a furious Asian man screaming, glowing red eyes, popping veins, clenched fist, fiery aura, red lightning\",\"layout\":{\"header\":{\"top_text\":\"{argument name=\\\"top headline\\\" default=\\\"全人類から極限の怒りを極限まで吸い上げた\\\"}\",\"main_title\":\"{argument name=\\\"main title\\\" default=\\\"究極の激おこポスター\\\"}\"},\"middle\":{\"left_vertical_text\":\"{argument name=\\\"vertical text\\\" default=\\\"許せない。\\\"}\",\"right_angled_text\":\"怒りの頂点、解放せよ!!\",\"sales_badge\":\"circular gold badge with {argument name=\\\"sales figure\\\" default=\\\"135,000\\\"}\"},\"sections\":[{\"title\":\"features_grid\",\"count\":4,\"labels\":[\"怒り覚醒\",\"ストレス破壊\",\"限界突破\",\"完全燃焼\"]},{\"title\":\"bonus_box\",\"count\":1,\"labels\":[\"今だけ！怒り爆発特典付き！\"]},{\"title\":\"price_and_variants\",\"count\":3,\"price\":\"{argument name=\\\"price\\\" default=\\\"¥2,980\\\"}\",\"labels\":[\"怒火の赤\",\"憤怒の黒\",\"逆鱗の金\"]}],\"footer\":\"yellow warning triangle, red text: 注意 このポスターは、怒りの臨界点を超えます。\"}}",
+  "translatedPrompt": "{\"type\":\"Japanese promotional poster\",\"style\":\"hyper-intense, fiery, dark realism, high contrast\",\"centerpiece\":\"close-up of a furious Asian man screaming, glowing red eyes, popping veins, clenched fist, fiery aura, red lightning\",\"layout\":{\"header\":{\"top_text\":\"{argument name=\\\"top headline\\\" default=\\\"全人類から極限の怒りを極限まで吸い上げた\\\"}\",\"main_title\":\"{argument name=\\\"main title\\\" default=\\\"究極の激おこポスター\\\"}\"},\"middle\":{\"left_vertical_text\":\"{argument name=\\\"vertical text\\\" default=\\\"許せない。\\\"}\",\"right_angled_text\":\"怒りの頂点、解放せよ!!\",\"sales_badge\":\"circular gold badge with {argument name=\\\"sales figure\\\" default=\\\"135,000\\\"}\"},\"sections\":[{\"title\":\"features_grid\",\"count\":4,\"labels\":[\"怒り覚醒\",\"ストレス破壊\",\"限界突破\",\"完全燃焼\"]},{\"title\":\"bonus_box\",\"count\":1,\"labels\":[\"今だけ！怒り爆発特典付き！\"]},{\"title\":\"price_and_variants\",\"count\":3,\"price\":\"{argument name=\\\"price\\\" default=\\\"¥2,980\\\"}\",\"labels\":[\"怒火の赤\",\"憤怒の黒\",\"逆鱗の金\"]}],\"footer\":\"yellow warning triangle, red text: 注意 このポスターは、怒りの臨界点を超えます。\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Intense Japanese Promotional Poster：Generates a highly detailed, fiery Japanese promotional poster with multiple text sections, feature grids, and product variants.",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up",
+        "grid",
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, grid, vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15243",
+      "14678",
+      "15066",
+      "15413",
+      "14426",
+      "14652"
+    ]
+  }
+}

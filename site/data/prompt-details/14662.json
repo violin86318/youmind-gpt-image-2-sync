@@ -1,0 +1,47 @@
+{
+  "id": "14662",
+  "prompt": "A clean, flat digital top-down chessboard centered in the frame, shown as a square 8x8 board with algebraic coordinates visible on all four sides: letters a through h along the top and bottom, and numbers 8 through 1 along the left and right. Use a dark charcoal outer background and border, with alternating light beige and muted taupe-gray squares. Render simple high-contrast 2D chess icons, black pieces at the top and white pieces at the bottom, in a crisp vector-like style with no wood texture, no realistic lighting, and no extra interface elements. Show the exact position after the opening moves 1. e4 e5: black major pieces on a8 rook, b8 knight, c8 bishop, d8 queen, e8 king, f8 bishop, g8 knight, h8 rook; black pawns on a7, b7, c7, d7, f7, g7, h7, and e5; white pawns on a2, b2, c2, d2, f2, g2, h2, and e4; white major pieces on a1 rook, b1 knight, c1 bishop, d1 queen, e1 king, f1 bishop, g1 knight, h1 rook. Leave all other squares empty. Keep the composition perfectly symmetrical, instructional, and legible, like a digital chess diagram illustrating opening move order.",
+  "translatedPrompt": "一张清晰、扁平的数字俯视棋盘，居中于画面。棋盘为 8x8 方格，四周显示代数坐标：顶部和底部为 a 到 h 的字母，左侧和右侧为 8 到 1 的数字。使用深炭灰色作为外部背景和边框，棋盘格交替采用浅米色和柔和的灰褐色。渲染简洁的高对比度 2D 象棋图标，黑色棋子位于上方，白色棋子位于下方，呈现清晰的矢量风格，无木纹质感，无真实光影，无多余的界面元素。展示 1. e4 e5 开局后的准确位置：黑色大子位于 a8 车、b8 马、c8 象、d8 后、e8 王、f8 象、g8 马、h8 车；黑色兵位于 a7、b7、c7、d7、f7、g7、h7 和 e5；白色兵位于 a2、b2、c2、d2、f2、g2、h2 和 e4；白色大子位于 a1 车、b1 马、c1 象、d1 后、e1 王、f1 象、g1 马、h1 车。其余方格留空。保持构图绝对对称、具有教学意义且易于辨识，如同用于说明开局走法的数字象棋图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "1.e4 e5 后的数字棋盘：此提示词可生成一张清晰的数字象棋图，展示 1.e4 e5 开局后的准确棋盘位置，适用于象棋教程及走法记录对比。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "top-down"
+      ],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；要求可读",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "硬件拆解、产品卖点、技术说明、科普图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, top-down]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；要求可读。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14657",
+      "15110",
+      "14261",
+      "14165",
+      "15000",
+      "13811"
+    ]
+  }
+}

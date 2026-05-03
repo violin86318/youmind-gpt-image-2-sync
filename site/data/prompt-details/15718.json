@@ -1,0 +1,52 @@
+{
+  "id": "15718",
+  "prompt": "A dark fantasy full-body portrait of a mysterious sorceress standing barefoot in the center of an ancient ritual chamber, shown in side profile with her head slightly bowed and her body mostly in silhouette against an intense glowing emerald magic circle. She has {argument name=\"hair style\" default=\"dark curly hair in a loose messy bun with long tendrils framing her face\"} and wears a {argument name=\"dress color\" default=\"black\"} floor-length gown with a very low open back, a thigh-high slit, and long torn shadow-like ribbons or vine-like wisps trailing from the dress and wrapping around her body. Behind her is 1 enormous circular arcane sigil composed of many concentric rings, geometric lines, occult symbols, rune-like markings, and 3 prominent pentagram medallions positioned at the top, left, and right. The environment is a gothic stone hall with tall shadowy pillars, drifting green smoke, faint magical haze, and a glossy reflective floor engraved with 1 additional partial summoning circle in the foreground. Use a monochrome palette of {argument name=\"glow color\" default=\"neon emerald green\"} and black, with extreme contrast, dramatic backlighting, volumetric fog, cinematic rim light, intricate magical linework, ethereal smoke, and a haunting supernatural atmosphere. Make the figure elegant, dangerous, and otherworldly, with ultra-detailed fantasy illustration rendering, symmetrical composition centered on the glowing sigil, vertical aspect ratio, and a mood of forbidden ritual magic.",
+  "translatedPrompt": "一张暗黑奇幻全身肖像，描绘了一位神秘女巫赤脚站在古老仪式厅的中央，侧身对着镜头，头微微低垂，身体大部分处于强烈的翡翠色发光魔法圆环的剪影中。她留着 {argument name=\"hair style\" default=\"深色卷发，扎成松散凌乱的发髻，长发丝垂在脸颊两侧\"}，身穿一件 {argument name=\"dress color\" default=\"黑色\"} 拖地长裙，露背设计，开叉至大腿，裙摆处有长长的、如同阴影般的丝带或藤蔓状烟雾缠绕在身上。她身后是一个巨大的圆形奥术印记，由许多同心圆、几何线条、神秘符号、符文标记组成，顶部、左侧和右侧各有一个醒目的五角星奖章。环境是一个哥特式石厅，有高耸的阴影柱、漂浮的绿色烟雾、淡淡的魔法雾气，以及刻有另一个局部召唤阵的光滑反光地面。采用 {argument name=\"glow color\" default=\"霓虹翡翠绿\"} 和黑色的单色调，具有极高的对比度、戏剧性的背光、体积雾、电影般的轮廓光、错综复杂的魔法线条、空灵的烟雾以及令人难忘的超自然氛围。使人物显得优雅、危险且超凡脱俗，采用超精细的奇幻插画渲染，以发光印记为中心的对称构图，竖向比例，营造出禁忌仪式魔法的氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "翡翠暗黑女巫仪式：此提示词可生成一张极具戏剧性的暗黑奇幻角色插画，描绘了一位站在发光奥术圆环前的女巫剪影，非常适合用于哥特魔法主题的关键视觉图或书籍封面风格的图像。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "full-body",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "backlight",
+        "neon",
+        "volumetric"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, full-body, vertical]。\n\nVisual style:\n[参考风格: cinematic, fantasy]。\n\nLighting and camera:\n[参考光线镜头: rim light, backlight, neon, volumetric]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14865",
+      "15435",
+      "14420",
+      "14508",
+      "14486",
+      "14633"
+    ]
+  }
+}

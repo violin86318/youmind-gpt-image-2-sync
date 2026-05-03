@@ -1,0 +1,44 @@
+{
+  "id": "14200",
+  "prompt": "{\n  \"type\": \"anime character reference sheet\",\n  \"character\": {\n    \"name\": \"{argument name=\\\"character name\\\" default=\\\"真田大助\\\"}\",\n    \"appearance\": \"young warrior with long brown hair, wearing samurai-inspired armor, {argument name=\\\"main color\\\" default=\\\"red\\\"} chest plate and guards, {argument name=\\\"secondary color\\\" default=\\\"navy blue\\\"} pleated hakama, white short cape\"\n  },\n  \"layout\": {\n    \"header\": {\n      \"title\": \"{argument name=\\\"character name\\\" default=\\\"真田大助\\\"}\",\n      \"subtitle\": \"{argument name=\\\"character concept\\\" default=\\\"戦国時代を舞台にした物語の主人公。日英クォーターの若き武将。\\\"}\",\n      \"badge\": \"設定資料\"\n    },\n    \"right_side\": {\n      \"main_portrait\": \"large full-body standing pose, confident smile\",\n      \"background_elements\": {\n        \"emblem\": \"six-coin crest\",\n        \"quote\": \"{argument name=\\\"catchphrase\\\" default=\\\"この国を守る。その誇りと共に。\\\"}\",\n        \"scenery\": \"monochrome Japanese castle with army banners at the bottom right\"\n      }\n    },\n    \"sections\": [\n      {\n        \"title\": \"プロフィール\",\n        \"position\": \"top-left\",\n        \"content\": \"table with 6 rows and descriptive text\"\n      },\n      {\n        \"title\": \"三面図\",\n        \"position\": \"mid-left\",\n        \"count\": 3,\n        \"labels\": [\"正面\", \"側面\", \"背面\"]\n      },\n      {\n        \"title\": \"表情差分\",\n        \"position\": \"top-center\",\n        \"count\": 6,\n        \"labels\": [\"通常\", \"微笑み\", \"真剣\", \"怒り\", \"驚き\", \"考え中\"]\n      },\n      {\n        \"title\": \"衣装・装備詳細\",\n        \"position\": \"bottom-left\",\n        \"count\": 9,\n        \"labels\": [\"胸当て\", \"肩当て\", \"腕甲(籠手)\", \"脚甲(脛当て・膝当て)\", \"革靴\", \"白マント(短)\", \"帯\", \"袴/着物部分\", \"打刀\"]\n      },\n      {\n        \"title\": \"カラーパレット\",\n        \"position\": \"bottom-center\",\n        \"count\": 8,\n        \"labels\": [\"真田赤\", \"濃紺\", \"金\", \"白\", \"茶\", \"茶褐色\", \"肌色\", \"銀\"]\n      },\n      {\n        \"title\": \"世界観\",\n        \"position\": \"bottom-center-right\",\n        \"content\": \"paragraph of text describing the setting\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"anime character reference sheet\",\n  \"character\": {\n    \"name\": \"{argument name=\\\"character name\\\" default=\\\"真田大助\\\"}\",\n    \"appearance\": \"young warrior with long brown hair, wearing samurai-inspired armor, {argument name=\\\"main color\\\" default=\\\"red\\\"} chest plate and guards, {argument name=\\\"secondary color\\\" default=\\\"navy blue\\\"} pleated hakama, white short cape\"\n  },\n  \"layout\": {\n    \"header\": {\n      \"title\": \"{argument name=\\\"character name\\\" default=\\\"真田大助\\\"}\",\n      \"subtitle\": \"{argument name=\\\"character concept\\\" default=\\\"戦国時代を舞台にした物語の主人公。日英クォーターの若き武将。\\\"}\",\n      \"badge\": \"設定資料\"\n    },\n    \"right_side\": {\n      \"main_portrait\": \"large full-body standing pose, confident smile\",\n      \"background_elements\": {\n        \"emblem\": \"six-coin crest\",\n        \"quote\": \"{argument name=\\\"catchphrase\\\" default=\\\"この国を守る。その誇りと共に。\\\"}\",\n        \"scenery\": \"monochrome Japanese castle with army banners at the bottom right\"\n      }\n    },\n    \"sections\": [\n      {\n        \"title\": \"プロフィール\",\n        \"position\": \"top-left\",\n        \"content\": \"table with 6 rows and descriptive text\"\n      },\n      {\n        \"title\": \"三面図\",\n        \"position\": \"mid-left\",\n        \"count\": 3,\n        \"labels\": [\"正面\", \"側面\", \"背面\"]\n      },\n      {\n        \"title\": \"表情差分\",\n        \"position\": \"top-center\",\n        \"count\": 6,\n        \"labels\": [\"通常\", \"微笑み\", \"真剣\", \"怒り\", \"驚き\", \"考え中\"]\n      },\n      {\n        \"title\": \"衣装・装備詳細\",\n        \"position\": \"bottom-left\",\n        \"count\": 9,\n        \"labels\": [\"胸当て\", \"肩当て\", \"腕甲(籠手)\", \"脚甲(脛当て・膝当て)\", \"革靴\", \"白マント(短)\", \"帯\", \"袴/着物部分\", \"打刀\"]\n      },\n      {\n        \"title\": \"カラーパレット\",\n        \"position\": \"bottom-center\",\n        \"count\": 8,\n        \"labels\": [\"真田赤\", \"濃紺\", \"金\", \"白\", \"茶\", \"茶褐色\", \"肌色\", \"銀\"]\n      },\n      {\n        \"title\": \"世界観\",\n        \"position\": \"bottom-center-right\",\n        \"content\": \"paragraph of text describing the setting\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Anime Character Reference Sheet：Generates a detailed anime character design document including multiple views, expressions, equipment breakdowns, and color palettes.",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "full-body"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13736",
+      "13807",
+      "13880",
+      "13948",
+      "14587",
+      "14927"
+    ]
+  }
+}

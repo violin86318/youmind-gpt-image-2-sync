@@ -1,0 +1,41 @@
+{
+  "id": "13510",
+  "prompt": "{\n  \"type\": \"Japanese beverage advertisement poster\",\n  \"subject\": {\n    \"description\": \"young Asian woman, profile view, {argument name=\\\"subject vibe\\\" default=\\\"eyes closed, looking up, feeling refreshed\\\"}\",\n    \"appearance\": \"wet hair, wet skin, sheer white top\",\n    \"environment\": \"floating water droplets, bright blue sky, sunny lighting\"\n  },\n  \"product\": {\n    \"type\": \"aluminum beverage can\",\n    \"placement\": \"bottom right\",\n    \"design\": \"white and yellow gradient, condensation drops\",\n    \"branding\": \"{argument name=\\\"product name\\\" default=\\\"YUZU SPARK\\\"} in large serif font, 'ユズスパーク' below\",\n    \"illustration\": \"yellow {argument name=\\\"flavor fruit\\\" default=\\\"yuzu\\\"} fruit with green leaves\",\n    \"props\": \"2 whole yellow yuzu fruits with green leaves behind the can\"\n  },\n  \"layout\": {\n    \"top_left\": \"Logo with starburst icon and 'KIRARA'\",\n    \"main_copy_left\": \"large vertical black text: {argument name=\\\"main headline\\\" default=\\\"ゆず香る、新しいわたし。\\\"}\",\n    \"sub_copy_left\": \"vertical black text in yellow pill: 'がんばる日々に、やさしいごほうびを。'\",\n    \"script_text\": \"yellow cursive text: 'Refresh!'\",\n    \"right_copy\": \"white handwritten text with underline: '私を、ほどくひとしゅわ。'\",\n    \"badges\": [\n      { \"position\": \"bottom left\", \"style\": \"yellow circle\", \"text\": \"{argument name=\\\"badge text\\\" default=\\\"国産ゆず果汁3%\\\"}\" },\n      { \"position\": \"mid right\", \"style\": \"yellow circle\", \"text\": \"NEW\" }\n    ],\n    \"bottom_text\": \"small black text: 'すっきり、軽やか。やさしい甘さのご褒美時間。'\",\n    \"footer\": \"solid yellow horizontal bar containing product name, tagline 'やさしさ弾ける、ゆずの微炭酸。', and boxed text '数量限定発売中'\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"日式饮料广告海报\",\n  \"subject\": {\n    \"description\": \"年轻亚洲女性，侧面视角，{argument name=\\\"subject vibe\\\" default=\\\"闭眼，向上看，感受清爽\\\"}\",\n    \"appearance\": \"湿发，湿润的皮肤，透明白色上衣\",\n    \"environment\": \"漂浮的水滴，明亮的蓝天，阳光明媚的灯光\"\n  },\n  \"product\": {\n    \"type\": \"铝制饮料罐\",\n    \"placement\": \"右下角\",\n    \"design\": \"白黄渐变色，带有冷凝水珠\",\n    \"branding\": \"{argument name=\\\"product name\\\" default=\\\"YUZU SPARK\\\"} 使用大号衬线字体，下方标注 'ユズスパーク'\",\n    \"illustration\": \"黄色 {argument name=\\\"flavor fruit\\\" default=\\\"柚子\\\"} 果实及绿叶\",\n    \"props\": \"罐后放置 2 个完整的黄色柚子及绿叶\"\n  },\n  \"layout\": {\n    \"top_left\": \"带有星爆图标和 'KIRARA' 的标志\",\n    \"main_copy_left\": \"大号竖排黑色文字：{argument name=\\\"main headline\\\" default=\\\"ゆず香る、新しいわたし。\\\"}\",\n    \"sub_copy_left\": \"黄色胶囊形状内的竖排黑色文字：'がんばる日々に、やさしいごほうびを。'\",\n    \"script_text\": \"黄色草书文字：'Refresh!'\",\n    \"right_copy\": \"带有下划线的白色手写文字：'私を、ほどくひとしゅわ。'\",\n    \"badges\": [\n      { \"position\": \"左下角\", \"style\": \"黄色圆圈\", \"text\": \"{argument name=\\\"badge text\\\" default=\\\"国産ゆず果汁3%\\\"}\" },\n      { \"position\": \"中右侧\", \"style\": \"黄色圆圈\", \"text\": \"NEW\" }\n    ],\n    \"bottom_text\": \"小号黑色文字：'すっきり、軽やか。やさしい甘さのご褒美時間。'\",\n    \"footer\": \"纯黄色横条，包含产品名称、标语 'やさしさ弾ける、ゆずの微炭酸。' 以及方框文字 '数量限定発売中'\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日式饮料广告海报：生成一张清爽的日式饮料广告海报，包含模特、产品特写和风格化排版。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical",
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical, horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14558",
+      "15054",
+      "14463",
+      "15668",
+      "14682",
+      "14833"
+    ]
+  }
+}

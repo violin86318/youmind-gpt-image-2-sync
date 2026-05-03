@@ -1,0 +1,48 @@
+{
+  "id": "15760",
+  "prompt": "A dark occult cyber-gothic collage poster in vertical format, dense and layered like a ritualistic noir album cover, with a distressed black, sepia, bronze, and deep crimson palette. Combine analog decay, glitch textures, scanned paper, technical schematics, surveillance graphics, sacred geometry, and fragmented photomontage into one unified composition. On the right side, feature a large aged human skull in profile, highly detailed, weathered, and partially overlaid with circles, target marks, sigils, thin grid lines, and red diagram annotations. Near the upper center, place a mysterious woman with long dark hair and pale skin, wearing a low-cut black garment, posed sensually with one hand raised near her face; behind her head, add a large dim red halo ring. On the left upper quadrant, include the draped back or shoulder of a pale classical-statue-like figure, ghostly and fragmentary. In the lower middle-right, place a dark-skinned ritual figure or priestess wearing layered beads, necklaces, and ceremonial adornment, partially obscured by texture and collage interference. In the lower right, show one worn cloth doll or voodoo-style rag figure hanging or suspended, with visible seams and outstretched limbs. In the bottom center, depict a rainy night street scene with 1 lone trench-coated figure walking away under dim lights and 1 car parked or idling on the wet road, reflections glowing red on the pavement. In the lower left, add a faceted black pyramid or crystal-like geometric form emerging from darkness. Scatter exactly 7 visible Latin text blocks throughout the design, styled as aged serif typography and cryptic inscriptions: \"IN SOMNIIS VERITAS; IN DESIDERIIS, PERDITIO.\", \"ANIMA SINE FINE VAGAT, IN UMBRIS SUI IPSIUS INVENTA.\", \"PASSIO EST CLAVISTRA\", \"EGO SUM QUI NUNQUAM FUI.\", \"III FRAGMENTUM INFINITUM.\", \"COR AMAT; MENS DUBITAT; ANIMA LACERATUR.\", and \"IN VINO VERITAS IN SANGUINE REDEMPTIO\". Add small UI-like microtext, barcode fragments, tiny charts, occult emblems, crosshair symbols, and illegible data panels across the entire image. The composition should feel oppressive, esoteric, cinematic, and surreal, with heavy texture, layered transparency, subtle red accents, chiaroscuro lighting, and a premium dark-art poster finish.",
+  "translatedPrompt": "一张深色神秘赛博哥特风格的竖版拼贴海报，如同仪式感十足的黑色电影专辑封面般密集且富有层次感，采用做旧的黑色、棕褐色、青铜色和深红色调。将模拟衰变、故障纹理、扫描纸张、技术示意图、监控图形、神圣几何和碎片化照片蒙太奇融为一体。在右侧，展示一个大型且高度精细的侧面陈旧人类头骨，经过风化处理，并部分覆盖着圆圈、目标标记、符文、细网格线和红色图表注释。在上方中央附近，放置一位留着深色长发、皮肤苍白的神秘女性，身穿低胸黑色服装，姿态性感，一只手抬起靠近脸部；在她脑后添加一个巨大的暗红色光环。在左上象限，包含一个苍白的古典雕像般人物的背部或肩部，呈现出幽灵般的碎片感。在右下中部，放置一个深色皮肤的仪式人物或女祭司，佩戴着层叠的珠子、项链和仪式装饰，部分被纹理和拼贴干扰所遮盖。在右下角，展示一个破旧的布娃娃或巫毒风格的破布人偶，呈现悬挂状态，可见明显的接缝和伸展的肢体。在底部中央，描绘一个雨夜街道场景，有 1 个孤独的穿风衣人物在昏暗的灯光下走远，另有 1 辆汽车停在或停滞在湿漉漉的道路上，路面反射着红色的光芒。在左下角，添加一个从黑暗中浮现的多面黑色金字塔或水晶状几何体。在整个设计中散布 7 个清晰的拉丁文文本块，样式为做旧的衬线字体和神秘铭文：“IN SOMNIIS VERITAS; IN DESIDERIIS, PERDITIO.”、“ANIMA SINE FINE VAGAT, IN UMBRIS SUI IPSIUS INVENTA.”、“PASSIO EST CLAVISTRA”、“EGO SUM QUI NUNQUAM FUI.”、“III FRAGMENTUM INFINITUM.”、“COR AMAT; MENS DUBITAT; ANIMA LACERATUR.” 以及 “IN VINO VERITAS IN SANGUINE REDEMPTIO”。在整张图像中添加微小的 UI 风格微型文字、条形码碎片、微型图表、神秘徽章、十字准线符号和难以辨认的数据面板。整体构图应营造出压抑、深奥、电影感和超现实的氛围，并具备厚重的纹理、层叠的透明度、微妙的红色点缀、明暗对比照明以及高级暗黑艺术海报的质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "神秘赛博哥特拼贴海报：此提示词可生成深色、文字密集的超现实拼贴海报，适用于哥特风格专辑封面、恐怖类编辑封面或神秘主题的概念艺术。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "grid",
+        "annotations",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；要求可读；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, annotations, layered, vertical]。\n\nVisual style:\n[参考风格: cinematic, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；要求可读；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14940",
+      "15336",
+      "15634",
+      "15005",
+      "15731",
+      "14436"
+    ]
+  }
+}

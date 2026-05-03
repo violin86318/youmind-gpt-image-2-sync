@@ -1,0 +1,41 @@
+{
+  "id": "13942",
+  "prompt": "{\n  \"type\": \"financial trading educational infographic\",\n  \"style\": \"clean, professional, corporate blue and white color scheme\",\n  \"header\": {\n    \"background\": \"dark blue stock market chart with glowing candlesticks\",\n    \"top_left_text\": \"FXトレーダーのための実践テクニック特集\",\n    \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"FVG\\\"}\",\n    \"subtitle\": \"{argument name=\\\"topic subtitle\\\" default=\\\"〈Fair Value Gap〉を完全解説\\\"}\",\n    \"quote\": \"{argument name=\\\"english quote\\\" default=\\\"Find the Imbalance, Trade the Edge.\\\"}\",\n    \"badge\": \"dark blue hexagon with text\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"{argument name=\\\"section 1 title\\\" default=\\\"1 FVGとは？\\\"}\",\n        \"type\": \"candlestick diagrams\",\n        \"count\": 2,\n        \"labels\": [\"強気のFVG (ブルーFVG)\", \"弱気のFVG (オレンジFVG)\"],\n        \"description\": \"diagrams showing 3 candles with a gap between the 1st and 3rd\"\n      },\n      {\n        \"title\": \"{argument name=\\\"section 2 title\\\" default=\\\"2 なぜFVGは機能するのか？\\\"}\",\n        \"type\": \"process flow with icons\",\n        \"count\": 4,\n        \"labels\": [\"大口の注文が集中\", \"注文が薄い価格帯が生まれる\", \"機関投資家が再度訪れる\", \"ギャップが埋められやすい\"],\n        \"description\": \"horizontal flow connected by arrows\"\n      },\n      {\n        \"title\": \"3 FVGを使ったトレード手法\",\n        \"type\": \"trading strategy chart and list\",\n        \"elements\": {\n          \"chart\": \"candlestick chart showing entry, stop loss, and take profit zones\",\n          \"numbered_steps_count\": 5,\n          \"bottom_checklist_count\": 4\n        }\n      },\n      {\n        \"title\": \"4 注意点\",\n        \"type\": \"warning points with icons\",\n        \"count\": 3,\n        \"icons\": [\"magnifying glass\", \"clock\", \"network nodes\"]\n      }\n    ],\n    \"footer\": {\n      \"title\": \"まとめ\",\n      \"background\": \"dark blue\",\n      \"content\": \"summary text block\"\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"金融交易教育信息图\",\n  \"style\": \"简洁、专业、企业蓝白配色\",\n  \"header\": {\n    \"background\": \"带有发光 K 线图的深蓝色股市图表\",\n    \"top_left_text\": \"外汇交易员的实战技巧专题\",\n    \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"FVG\\\"}\",\n    \"subtitle\": \"{argument name=\\\"topic subtitle\\\" default=\\\"FVG (Fair Value Gap) 完全解析\\\"}\",\n    \"quote\": \"{argument name=\\\"english quote\\\" default=\\\"Find the Imbalance, Trade the Edge.\\\"}\",\n    \"badge\": \"带有文字的深蓝色六边形\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"{argument name=\\\"section 1 title\\\" default=\\\"1 什么是 FVG？\\\"}\",\n        \"type\": \"K 线图\",\n        \"count\": 2,\n        \"labels\": [\"看涨 FVG (蓝色 FVG)\", \"看跌 FVG (橙色 FVG)\"],\n        \"description\": \"展示 3 根 K 线且第 1 根与第 3 根之间存在缺口的图表\"\n      },\n      {\n        \"title\": \"{argument name=\\\"section 2 title\\\" default=\\\"2 为什么 FVG 有效？\\\"}\",\n        \"type\": \"带图标的流程图\",\n        \"count\": 4,\n        \"labels\": [\"大额订单集中\", \"产生流动性匮乏的价格区间\", \"机构投资者再次介入\", \"缺口容易被回补\"],\n        \"description\": \"由箭头连接的水平流程图\"\n      },\n      {\n        \"title\": \"3 基于 FVG 的交易策略\",\n        \"type\": \"交易策略图表与列表\",\n        \"elements\": {\n          \"chart\": \"显示入场点、止损位和止盈区的 K 线图\",\n          \"numbered_steps_count\": 5,\n          \"bottom_checklist_count\": 4\n        }\n      },\n      {\n        \"title\": \"4 注意事项\",\n        \"type\": \"带图标的警告点\",\n        \"count\": 3,\n        \"icons\": [\"放大镜\", \"时钟\", \"网络节点\"]\n      }\n    ],\n    \"footer\": {\n      \"title\": \"总结\",\n      \"background\": \"深蓝色\",\n      \"content\": \"总结文本块\"\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "外汇交易教育信息图：生成一份高度详细、多板块的外汇交易概念教育信息图，包含 K 线图、流程图和策略清单。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13598",
+      "13630",
+      "13639",
+      "13641",
+      "13821",
+      "13599"
+    ]
+  }
+}

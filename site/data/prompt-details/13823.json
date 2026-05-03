@@ -1,0 +1,42 @@
+{
+  "id": "13823",
+  "prompt": "{\n  \"type\": \"Japanese promotional banner advertisement\",\n  \"background\": \"vibrant red with subtle sakura cherry blossom patterns and gold confetti\",\n  \"character\": {\n    \"style\": \"anime\",\n    \"appearance\": \"young woman with long black braided hair, wearing a fox mask on the side of her head\",\n    \"outfit\": \"{argument name=\\\"character outfit\\\" default=\\\"red and white miko shrine maiden dress with decorative knots\\\"}\",\n    \"pose\": \"winking, smiling energetically, pointing at the product cup\"\n  },\n  \"product\": {\n    \"description\": \"instant noodle cup mockup\",\n    \"design\": \"red and white packaging with 'COP NEEDLE' and '醤油味' text\"\n  },\n  \"food_shot\": {\n    \"description\": \"large steaming bowl of ramen noodles\",\n    \"toppings\": [\"3 shrimp\", \"cubed meat\", \"half boiled egg\", \"scallions\", \"yellow egg bits\"]\n  },\n  \"typography_and_layout\": {\n    \"text_elements_count\": 8,\n    \"elements\": [\n      { \"position\": \"top-left starburst\", \"text\": \"{argument name=\\\"top left burst text\\\" default=\\\"新発売!\\\"}\" },\n      { \"position\": \"top-center huge 3D title\", \"text\": \"{argument name=\\\"main product name\\\" default=\\\"コップヌードル\\\"}\" },\n      { \"position\": \"below main title pill\", \"text\": \"醤油味\" },\n      { \"position\": \"center yellow jagged burst\", \"text\": \"お湯を注いで 3分!\" },\n      { \"position\": \"mid-right floating text\", \"text\": \"{argument name=\\\"catchphrase text\\\" default=\\\"だし香る、やさしい味わい！コクうまスープ！\\\"}\" },\n      { \"position\": \"bottom-left speech bubble\", \"text\": \"巫女ちゃんおすすめ!\" },\n      { \"position\": \"bottom-center text\", \"text\": \"小腹がすいたらこれ!\" },\n      { \"position\": \"bottom-right red price box\", \"text\": \"{argument name=\\\"price text\\\" default=\\\"198円\\\"}\" }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"日式宣传横幅广告\",\n  \"background\": \"鲜艳的红色，带有精致的樱花图案和金色纸屑\",\n  \"character\": {\n    \"style\": \"动漫风\",\n    \"appearance\": \"留着黑色长辫的年轻女性，侧头戴着狐狸面具\",\n    \"outfit\": \"{argument name=\\\"character outfit\\\" default=\\\"红白相间的巫女服，配有装饰性结扣\\\"}\",\n    \"pose\": \"眨眼、充满活力地微笑，指向产品杯\"\n  },\n  \"product\": {\n    \"description\": \"杯装方便面模型\",\n    \"design\": \"红白相间的包装，印有 'COP NEEDLE' 和 '醤油味' 字样\"\n  },\n  \"food_shot\": {\n    \"description\": \"一大碗热气腾腾的拉面\",\n    \"toppings\": [\"3 只虾\", \"肉块\", \"半个溏心蛋\", \"葱花\", \"蛋碎\"]\n  },\n  \"typography_and_layout\": {\n    \"text_elements_count\": 8,\n    \"elements\": [\n      { \"position\": \"左上角星形光芒\", \"text\": \"{argument name=\\\"top left burst text\\\" default=\\\"新発売!\\\"}\" },\n      { \"position\": \"顶部中央巨大 3D 标题\", \"text\": \"{argument name=\\\"main product name\\\" default=\\\"コップヌードル\\\"}\" },\n      { \"position\": \"主标题下方胶囊框\", \"text\": \"醤油味\" },\n      { \"position\": \"中央黄色锯齿状光芒\", \"text\": \"お湯を注いで 3分!\" },\n      { \"position\": \"中右侧浮动文字\", \"text\": \"{argument name=\\\"catchphrase text\\\" default=\\\"だし香る、やさしい味わい！コクうまスープ！\\\"}\" },\n      { \"position\": \"左下角对话气泡\", \"text\": \"巫女ちゃんおすすめ!\" },\n      { \"position\": \"底部中央文字\", \"text\": \"小腹がすいたらこれ!\" },\n      { \"position\": \"右下角红色价格框\", \"text\": \"{argument name=\\\"price text\\\" default=\\\"198円\\\"}\" }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫风泡面广告横幅：生成一张充满活力、文字丰富的日式宣传横幅，包含动漫角色、产品模型以及一碗热气腾腾的面条。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime",
+        "3d"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime, 3d]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13842",
+      "14491",
+      "13496",
+      "13736",
+      "13786",
+      "13807"
+    ]
+  }
+}

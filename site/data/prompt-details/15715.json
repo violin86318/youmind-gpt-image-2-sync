@@ -1,0 +1,53 @@
+{
+  "id": "15715",
+  "prompt": "A lavish fantasy gothic study interior, shown as a wide symmetrical room shot with no people present. In the center, place an ornate dark wooden writing desk with carved details, an open book, loose papers, an ink bottle, a quill, and exactly 2 small stacks of books on top, with a tall throne-like upholstered chair behind it in deep blue-gray velvet and intricate baroque trim. Overhead, include exactly 3 hanging light fixtures: 1 crystal chandelier with glowing candles in the center, 1 dark metal lantern on the upper left, and 1 warm amber pendant lamp on the upper right. On the left side of the room, add a tall carved bookshelf packed with books and curios, a small side table with papers and objects, and a tall arched stained-glass window casting cool blue light. On the right side, add an ornate carved architectural alcove or fireplace-like structure, a plush vintage sofa in dusty teal with 2 throw pillows, and a candelabra with lit candles. Use a richly decorated old mansion or magical library setting with stone walls, carved wood, antique furniture, and layered decorative clutter. The floor should be covered by a large patterned rug leading toward the desk. Light the scene with a dramatic mix of cool moonlit blue and glowing violet-magenta ambient haze, plus warm candlelight highlights, creating an enchanted, mysterious, cinematic atmosphere. Ultra-detailed, painterly 3D fantasy illustration, soft volumetric fog, shallow depth of field, luminous bloom, high detail textures, centered composition, elegant, whimsical, magical, storybook realism.",
+  "translatedPrompt": "一间奢华的奇幻哥特式书房内部，采用宽阔的对称视角拍摄，画面中无人。房间中央放置一张华丽的深色木质书桌，桌上有雕刻细节、一本打开的书、散落的纸张、墨水瓶、羽毛笔以及整整 2 小叠书籍；书桌后方是一把高大的王座式软垫椅，采用深蓝灰色天鹅绒面料和精致的巴洛克风格装饰。顶部包含整整 3 盏吊灯：中央是一盏带有发光蜡烛的水晶吊灯，左上方是一盏深色金属灯笼，右上方是一盏温暖的琥珀色吊灯。房间左侧增加一个高大的雕花书架，上面摆满了书籍和古玩，配有一张放着纸张和杂物的小边桌，以及一扇投射出冷蓝色光芒的高大拱形彩色玻璃窗。右侧增加一个华丽的雕刻建筑壁龛或类似壁炉的结构，一张灰青色的复古毛绒沙发（配有 2 个靠垫），以及一个点着蜡烛的烛台。场景设定为装饰华丽的古老宅邸或魔法图书馆，具有石墙、雕花木材、古董家具和层次丰富的装饰性杂物。地板上铺着一块通向书桌的大型图案地毯。场景光影采用冷月光蓝与发光的紫红色环境雾气，辅以温暖的烛光高光，营造出一种充满魔力、神秘且具有电影感的氛围。超精细、绘画风格的 3D 奇幻插画，柔和的体积雾，浅景深，发光效果，高细节纹理，中心构图，优雅、奇幻、魔法感，故事书般的写实感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "充满魔力的哥特式书房室内设计：此提示词可生成电影质感的奇幻图书馆书房，配有华丽的家具和梦幻般的蓝紫色灯光，非常适合背景艺术、概念设计或氛围场景创作。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "layered"
+      ],
+      "style": [
+        "cinematic",
+        "3d",
+        "vintage",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "volumetric",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, layered]。\n\nVisual style:\n[参考风格: cinematic, 3d, vintage, fantasy]。\n\nLighting and camera:\n[参考光线镜头: volumetric, shallow depth, depth of field]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14598",
+      "15320",
+      "14806",
+      "15419",
+      "14831",
+      "15778"
+    ]
+  }
+}

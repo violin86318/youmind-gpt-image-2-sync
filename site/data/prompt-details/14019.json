@@ -1,0 +1,38 @@
+{
+  "id": "14019",
+  "prompt": "{\n  \"type\": \"promotional flyer\",\n  \"style\": \"clean, medical, professional, airy\",\n  \"color_palette\": [\"white\", \"dark green\", \"black\"],\n  \"layout\": {\n    \"hero\": {\n      \"headline\": \"{argument name=\\\"main headline\\\" default=\\\"自分の体の正解を、知る2週間。\\\"}\",\n      \"subheadline\": \"{argument name=\\\"program name\\\" default=\\\"血糖モニタリングプログラム\\\"}\",\n      \"image\": \"{argument name=\\\"hero image subject\\\" default=\\\"Smiling Asian woman in a white t-shirt, looking up and to the right, wearing a round white continuous glucose monitor sensor on her upper arm. Bright, airy background with blurred plants.\\\"}\",\n      \"intro_text_paragraphs\": 4\n    },\n    \"middle_section\": {\n      \"box_title\": \"プログラム内容\",\n      \"checklist_count\": 7,\n      \"checklist_items\": [\n        \"リブレセンサー装着＋専用アプリ導入サポート\",\n        \"食事・生活パターンのヒアリング\",\n        \"血糖値の学習教材\",\n        \"2週間の血糖データ計測\",\n        \"中間フィードバック (LINE)\",\n        \"最終フィードバック (LINE)\",\n        \"パーソナル血糖レポート\"\n      ],\n      \"visuals\": [\n        \"smartphone UI mockup showing blood sugar reading '112' and a green line graph\",\n        \"dark green circular badge with text 'あなたの毎日がデータで見えてくる。'\"\n      ]\n    },\n    \"bottom_section\": {\n      \"recommendations_title\": \"こんな方におすすめ\",\n      \"recommendations_count\": 3,\n      \"recommendations_items\": [\n        \"健康診断で血糖値が気になると言われた\",\n        \"食事に気をつけてるのに数値が改善しない\",\n        \"自分に合った食べ方を知りたい\"\n      ],\n      \"pricing\": {\n        \"label\": \"料金\",\n        \"amount\": \"{argument name=\\\"price\\\" default=\\\"¥35,000\\\"}\",\n        \"note\": \"(税込・センサー代込み)\"\n      }\n    },\n    \"footer\": {\n      \"background_color\": \"dark green\",\n      \"provider\": \"{argument name=\\\"company name\\\" default=\\\"百歳製造所\\\"}\",\n      \"representative\": \"健康顧問 林 利生太\",\n      \"contact_info\": \"TEL placeholder and support text\",\n      \"badge\": \"circular badge with text 'まずはお気軽にご相談ください'\"\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"宣传单\",\n  \"style\": \"简洁、医疗、专业、通透\",\n  \"color_palette\": [\"白色\", \"深绿色\", \"黑色\"],\n  \"layout\": {\n    \"hero\": {\n      \"headline\": \"{argument name=\\\"main headline\\\" default=\\\"了解身体真相的 2 周时间。\\\"}\",\n      \"subheadline\": \"{argument name=\\\"program name\\\" default=\\\"血糖监测项目\\\"}\",\n      \"image\": \"{argument name=\\\"hero image subject\\\" default=\\\"一位身穿白色 T 恤的亚洲女性微笑着，看向右上方，上臂佩戴着圆形的白色动态血糖监测传感器。背景明亮通透，带有模糊的植物。\\\"}\",\n      \"intro_text_paragraphs\": 4\n    },\n    \"middle_section\": {\n      \"box_title\": \"项目内容\",\n      \"checklist_count\": 7,\n      \"checklist_items\": [\n        \"Libre 传感器佩戴及专属 App 安装支持\",\n        \"饮食与生活习惯问询\",\n        \"血糖值学习资料\",\n        \"2 周血糖数据监测\",\n        \"中期反馈 (LINE)\",\n        \"最终反馈 (LINE)\",\n        \"个人血糖报告\"\n      ],\n      \"visuals\": [\n        \"显示血糖读数为 '112' 和绿色折线图的智能手机 UI 模型\",\n        \"深绿色圆形徽章，文字为 '通过数据洞察你的每一天。'\"\n      ]\n    },\n    \"bottom_section\": {\n      \"recommendations_title\": \"推荐人群\",\n      \"recommendations_count\": 3,\n      \"recommendations_items\": [\n        \"体检时被告知需要关注血糖值\",\n        \"注意饮食但数值没有改善\",\n        \"想了解适合自己的饮食方式\"\n      ],\n      \"pricing\": {\n        \"label\": \"费用\",\n        \"amount\": \"{argument name=\\\"price\\\" default=\\\"¥35,000\\\"}\",\n        \"note\": \"(含税，包含传感器费用)\"\n      }\n    },\n    \"footer\": {\n      \"background_color\": \"深绿色\",\n      \"provider\": \"{argument name=\\\"company name\\\" default=\\\"百岁制造所\\\"}\",\n      \"representative\": \"健康顾问 林 利生太\",\n      \"contact_info\": \"电话占位符及支持文本\",\n      \"badge\": \"圆形徽章，文字为 '欢迎随时咨询'\"\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "医疗项目宣传单：为健康项目生成结构化的宣传单，包含主图、核对清单、UI 模型和定价详情。",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13523",
+      "13772",
+      "13835",
+      "14049",
+      "14092",
+      "15406"
+    ]
+  }
+}

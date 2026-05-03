@@ -1,0 +1,50 @@
+{
+  "id": "13769",
+  "prompt": "{\n  \"type\": \"UI/UX landing page mockup\",\n  \"theme\": \"dark mode, sleek modern aesthetic, glassmorphism, {argument name=\\\"primary accent color\\\" default=\\\"neon purple and blue\\\"} glowing accents\",\n  \"header\": {\n    \"logo\": \"{argument name=\\\"brand name\\\" default=\\\"goViralX\\\"}\",\n    \"top_right_tag\": \"VIRAL CAMPAIGN CASE STUDY\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"name\": \"Hero\",\n        \"headline\": \"{argument name=\\\"hero headline\\\" default=\\\"How We Created 10M+ Viral Impact\\\"}\",\n        \"subheadline\": \"3天引爆全网, 助力品牌实现指数级增长\",\n        \"stats_row\": {\n          \"count\": 4,\n          \"labels\": [\"总播放量\", \"互动率\", \"转化咨询\", \"执行周期\"],\n          \"values\": [\"{argument name=\\\"main statistic\\\" default=\\\"10,240,000+\\\"}\", \"18.7%\", \"3,200+\", \"72小时\"]\n        },\n        \"visual\": \"cinematic shot of a person in a hoodie looking at glowing digital screens and graphs, large play button overlay\"\n      },\n      {\n        \"name\": \"Strategy\",\n        \"title\": \"Our 3-Day Execution Strategy\",\n        \"layout_type\": \"vertical timeline\",\n        \"steps_count\": 3,\n        \"elements_per_step\": [\"timeline node\", \"title\", \"bullet points\", \"video thumbnail with play button\", \"description box\"]\n      },\n      {\n        \"name\": \"Performance\",\n        \"title\": \"Data-Driven Performance\",\n        \"left_column\": {\n          \"stat_cards_count\": 4,\n          \"values\": [\"10M+\", \"43%\", \"28,000+\", \"3,200+\"]\n        },\n        \"right_column\": {\n          \"charts_count\": 2,\n          \"chart_1\": \"line graph showing 7-day growth peaking at Day 3\",\n          \"chart_2\": \"horizontal segmented bar chart showing platform distribution (TikTok 52%, Instagram 24%, X 15%, YouTube 9%)\"\n        }\n      },\n      {\n        \"name\": \"Keys to Success\",\n        \"title\": \"The 3 Keys to Viral Success\",\n        \"cards_count\": 3,\n        \"card_elements\": [\"glowing icon (fire, target, antenna)\", \"title\", \"description\", \"VIEW DETAIL link\"]\n      },\n      {\n        \"name\": \"Social Proof\",\n        \"title\": \"TRUSTED BY CREATORS & BRANDS\",\n        \"left_column\": {\n          \"logos_count\": 8,\n          \"grid\": \"2x4\",\n          \"brands\": [\"SHEIN\", \"SHOPLINE\", \"Blueglass\", \"instacart\", \"lemon8\", \"mi\", \"CIDER\", \"bellroy\"]\n        },\n        \"right_column\": {\n          \"testimonial_cards_count\": 2,\n          \"elements\": [\"quote\", \"author title (SaaS Founder, Growth Manager)\"]\n        }\n      },\n      {\n        \"name\": \"Call to Action\",\n        \"title\": \"READY TO GO VIRAL?\",\n        \"interactive_elements\": [\"text input field\", \"glowing button with text '{argument name=\\\"call to action text\\\" default=\\\"获取专属增长方案 ->\\\"}'\"],\n        \"visual\": \"3D render of a rocket ship taking off with purple and blue flames\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"落地页 UI 设计\",\n  \"theme\": \"深色模式，现代科技感，{argument name=\\\"primary accent color\\\" default=\\\"霓虹紫\\\"} 与蓝色发光点缀，玻璃拟态风格\",\n  \"header\": {\n    \"logo\": \"{argument name=\\\"brand name\\\" default=\\\"goViralX\\\"}\",\n    \"badge\": \"病毒式营销活动案例研究\"\n  },\n  \"sections\": [\n    {\n      \"id\": \"hero\",\n      \"layout\": \"左侧文字，右侧图片布局\",\n      \"content\": {\n        \"badge\": \"案例研究\",\n        \"headline\": \"{argument name=\\\"hero headline\\\" default=\\\"我们如何创造 1000 万+ 的病毒式影响力\\\"}\",\n        \"subtitle\": \"3 天引爆网络，助力品牌实现指数级增长\",\n        \"stats_row\": {\n          \"count\": 4,\n          \"labels\": [\"总浏览量 {argument name=\\\"main metric\\\" default=\\\"10,240,000+\\\"}\", \"互动率 18.7%\", \"转化量 3,200+\", \"执行周期 72 小时\"]\n        },\n        \"hero_image\": \"电影质感的镜头，展示一个人在暗室中注视着发光的悬浮视频屏幕，带有巨大的播放按钮叠加层\"\n      }\n    },\n    {\n      \"id\": \"strategy\",\n      \"title\": \"活动拆解：我们的 3 天执行策略\",\n      \"layout\": \"3 步垂直时间轴\",\n      \"steps\": [\n        {\"step\": 1, \"title\": \"策略制定\", \"image\": \"人们在屏幕上分析数据\"},\n        {\"step\": 2, \"title\": \"内容制作\", \"image\": \"视频编辑界面\"},\n        {\"step\": 3, \"title\": \"分发与放大\", \"image\": \"手持带有社交媒体图标的智能手机\"}\n      ]\n    },\n    {\n      \"id\": \"performance\",\n      \"title\": \"效果评估：数据驱动的绩效表现\",\n      \"layout\": \"左侧统计卡片网格，右侧图表\",\n      \"left_stats\": {\n        \"count\": 4,\n        \"labels\": [\"总曝光量 1000 万+\", \"平均 CPM 下降 43%\", \"新增粉丝 28,000+\", \"转化量 3,200+\"]\n      },\n      \"right_charts\": {\n        \"count\": 2,\n        \"items\": [\n          \"折线图显示 7 天趋势，在第 3 天达到 8,320,000 的峰值\",\n          \"横向柱状图显示平台分布：TikTok 52%，Instagram 24%，X 15%，YouTube 9%\"\n        ]\n      }\n    },\n    {\n      \"id\": \"keys_to_success\",\n      \"title\": \"为何能病毒式传播：成功的 3 大关键\",\n      \"layout\": \"3 张卡片横向排列\",\n      \"cards\": [\n        {\"icon\": \"fire\", \"title\": \"情感钩子设计\"},\n        {\"icon\": \"bullseye\", \"title\": \"内容结构设计\"},\n        {\"icon\": \"antenna\", \"title\": \"分发策略执行\"}\n      ]\n    },\n    {\n      \"id\": \"social_proof\",\n      \"title\": \"深受创作者与品牌信赖：他们都在使用 goViralX 实现增长\",\n      \"layout\": \"左侧 Logo，右侧客户评价\",\n      \"left_logos\": {\n        \"count\": 8,\n        \"labels\": [\"SHEIN\", \"SHOPLINE\", \"Blueglass\", \"instacart\", \"lemon8\", \"mi\", \"CIDER\", \"bellroy\"]\n      },\n      \"right_testimonials\": {\n        \"count\": 2,\n        \"labels\": [\"SaaS 创始人评价\", \"增长经理评价\"]\n      }\n    },\n    {\n      \"id\": \"cta\",\n      \"title\": \"准备好实现病毒式传播了吗？：想要获得同样的增长效果？\",\n      \"layout\": \"左侧文字与输入框，右侧 3D 插图\",\n      \"elements\": [\n        \"带有占位符文本的输入框\",\n        \"按钮：{argument name=\\\"call to action text\\\" default=\\\"获取专属增长方案 ->\\\"}\"\n      ],\n      \"image\": \"3D 发光紫色和蓝色火箭发射\"\n    }\n  ],\n  \"footer\": \"Logo 和版权声明文本\"\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "深色模式病毒式营销案例研究落地页：一个全面的深色主题 UI 原型，用于营销案例研究，包含数据可视化、时间轴和 3D 插图。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "grid",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "cinematic",
+        "3d"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, vertical, horizontal]。\n\nVisual style:\n[参考风格: cinematic, 3d]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13457",
+      "14912",
+      "15653",
+      "15087",
+      "15077",
+      "15726"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "15453",
+  "prompt": "A highly detailed black-and-white manga page showing a gigantic mechanical cat walking through a dense nighttime Japanese city street. The page has 4 panels total: 1 wide top panel spanning the full width, 2 smaller stacked panels on the bottom left, and 1 tall large panel on the bottom right. In the top panel, a colossal robotic cat dominates a narrow neon-lit alley lined with tall buildings, tangled power lines, vertical shop signs, and tiny pedestrians staring upward in shock. The cat has realistic feline proportions but is built from exposed armor plates, rivets, pistons, cables, gears, segmented metal limbs, and intricate machine internals, with a tag hanging from its neck that reads \"猫神\". The wet street reflects city lights. Add multiple Japanese signs in the environment including \"古書 2F\", \"万事屋 B1\", and \"酒処\". Include a large manga speech bubble in Japanese in the upper right of the top panel reading \"うわっ？でっけえ!!\". In the upper bottom-left panel, show a close-up of a long-haired woman seen from behind and slightly to the side, looking toward the creature, with a vertical Japanese speech bubble reading \"…何でこんな街にこんなものが…\". In the lower bottom-left panel, show a group of startled onlookers from the front, including a young man in the foreground and other shocked pedestrians behind him, with a vertical Japanese speech bubble reading \"神様の使いか!?\". In the tall bottom-right panel, show a dramatic low-angle close-up of the mechanical cat towering between buildings under a bright moon, emphasizing its chest machinery, massive forelegs, whiskers, and regal face, with the neck tag \"猫神\" clearly visible. Add a large stylized Japanese sound effect near the cat reading \"カシ…\". Use classic seinen manga aesthetics, cinematic panel composition, fine ink crosshatching, heavy contrast, detailed urban textures, realistic crowd scale, and a sense of awe, mystery, and divine cyberpunk presence.",
+  "translatedPrompt": "一张细节极其丰富的黑白漫画页，展示了一只巨大的机械猫走在拥挤的日本夜间城市街道上。整页共 4 个分镜：顶部是一个横跨全宽的大分镜，左下角是 2 个较小的堆叠分镜，右下角是一个纵向的大分镜。在顶部大分镜中，一只巨大的机械猫占据了狭窄的霓虹灯巷道，周围是高耸的建筑、错综复杂的电线、垂直的店铺招牌，以及抬头惊愕注视的小行人。猫咪拥有写实的猫科动物比例，但身体由外露的装甲板、铆钉、活塞、线缆、齿轮、分段式金属肢体和复杂的内部机械结构组成，脖子上挂着一个写有“猫神”字样的吊牌。潮湿的街道反射着城市灯光。环境中添加多个日文招牌，包括“古書 2F”、“万事屋 B1”和“酒処”。在顶部大分镜的右上角添加一个巨大的日文漫画对话气泡，写着“うわっ？でっけえ!!”。在左上方的分镜中，展示一名长发女性的背影及侧面特写，她正看向这只生物，旁边有一个垂直的日文对话气泡，写着“…何でこんな街にこんなものが…”。在左下方的分镜中，从正面展示一群受惊的围观群众，前景是一名年轻男子，身后是其他震惊的行人，配有一个垂直的日文对话气泡，写着“神様の使いか!?”。在右下方的纵向大分镜中，展示机械猫在明月下耸立于建筑之间的戏剧性低角度特写，强调其胸部的机械结构、巨大的前肢、胡须和威严的面孔，脖子上的“猫神”吊牌清晰可见。在猫咪附近添加一个巨大的日文风格拟声词“カシ…”。采用经典的青年漫画美学，电影般的分镜构图，细腻的墨水排线，强烈的对比度，细致的城市纹理，写实的比例感，营造出一种敬畏、神秘和神圣的赛博朋克氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "赛博朋克漫画风：巨型机械猫：此提示词可生成一张细节丰富的黑白漫画页，描绘了一只穿梭在日本城市中的巨型机械猫，非常适合用于电影感科幻插画或漫画风格的概念艺术创作。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "manga"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic, manga]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14928",
+      "14857",
+      "15094",
+      "13916",
+      "15096",
+      "14561"
+    ]
+  }
+}

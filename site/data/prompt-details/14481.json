@@ -1,0 +1,53 @@
+{
+  "id": "14481",
+  "prompt": "{\"type\":\"ancient Chinese social media app screenshot poster\",\"theme\":\"Tang dynasty historical parody rendered as a modern mobile social feed UI\",\"style\":{\"overall\":\"dark vintage parchment texture, black and deep sepia background, distressed gold ink, cinematic antique Chinese illustration, highly detailed, elegant and witty\",\"lighting\":\"moonlit night with warm lantern glow and luminous gold typography\",\"mood\":\"poetic, nostalgic, humorous, premium editorial poster\"},\"canvas\":{\"aspect_ratio\":\"vertical smartphone screenshot, 9:16\"},\"ui\":{\"status_bar\":{\"carrier\":\"大唐电信 5G\",\"date\":\"开元二十三年·九月初九\",\"battery\":\"93%\",\"icons_count\":3},\"top_icons\":{\"right_side_count\":2,\"icons\":[\"camera outline\",\"dropdown chevron\"]},\"bottom_nav\":{\"count\":5,\"labels\":[\"首页\",\"发现\",\"发布\",\"消息\",\"我\"],\"active\":\"发布\"}},\"layout\":{\"sections\":[{\"title\":\"唐朝人的朋友圈\",\"subtitle\":\"TANG DYNASTY SOCIAL MEDIA FEED\",\"position\":\"top header\",\"count\":1,\"labels\":[\"唐朝人的朋友圈\"]},{\"title\":\"post header\",\"position\":\"upper third\",\"count\":1,\"labels\":[\"太白·诗仙酒剑\",\"大唐网红\",\"2分钟前\",\"长安·西市酒肆\"]},{\"title\":\"main post text\",\"position\":\"upper middle\",\"count\":1,\"labels\":[\"今日在西市胡姬酒肆，独酌无相亲，还好有明月和影子。斗酒诗百篇，新做一首，附笔：\"]},{\"title\":\"featured image card\",\"position\":\"center\",\"count\":1,\"labels\":[\"月下独酌\",\"花间一壶酒，独酌无相亲。举杯邀明月，对影成三人。\",\"李白之印\",\"青莲居士\"]},{\"title\":\"post meta row\",\"position\":\"below image\",\"count\":2,\"labels\":[\"长安不夜城·酒中仙\",\"杜甫、贺知章、汪伦等999+人觉得很赞\"]},{\"title\":\"comments\",\"position\":\"lower section\",\"count\":3,\"labels\":[\"杜甫\",\"贺知章\",\"汪伦\"]}],\"centerpiece\":\"a large illustrated social post featuring Li Bai drinking under the moon on a balcony overlooking Tang dynasty Chang'an at night\"},\"subject\":{\"character\":{\"identity\":\"{argument name=\\\"character name\\\" default=\\\"Li Bai\\\"}\",\"appearance\":\"middle-aged ancient Chinese poet, thin mustache and short beard, hair tied in a topknot, flowing white hanfu robe with wide sleeves, expressive dramatic pose, one hand raising a wine cup toward the moon\",\"archetype\":\"romantic wandering poet and drunken immortal\"},\"featured_artwork\":{\"scene\":\"on a wooden terrace at night, the poet stands beneath a huge full moon, surrounded by lanterns, rooftops, pagodas, distant mountains, and a sprawling city of warm lights\",\"props_count\":6,\"props\":[\"wine cup held high\",\"large wine jar marked with the character 酒\",\"small cups on the floor\",\"wooden railing\",\"hanging lanterns\",\"unsheathed sword leaning at the right side\"]}},\"text_treatment\":{\"headline_calligraphy\":\"large bold gold brush-calligraphy\",\"body_text\":\"traditional Chinese characters in elegant serif-like print\",\"accent_colors\":[\"antique gold\",\"burnt orange\",\"dark brown\",\"faded red seals\"]},\"composition\":{\"background\":\"aged black paper with subtle stains, scratches, and ornamental corner flourishes\",\"framing\":\"thin gold border lines and panel dividers like a premium app interface\",\"color_palette\":\"mostly black, sepia, bronze, and gold with small red accents\"},\"negative_space\":\"keep the overall layout readable like a real phone screenshot, no modern photorealistic elements, no bright contemporary colors, no minimalist flat design\"}",
+  "translatedPrompt": "{\"type\":\"中国古代社交媒体 App 截图海报\",\"theme\":\"以现代移动端社交动态 UI 呈现的大唐历史恶搞\",\"style\":{\"overall\":\"深色复古羊皮纸纹理，黑色与深棕褐色背景，做旧金墨，电影级古风插画，高度细节，优雅且诙谐\",\"lighting\":\"月光之夜，伴随温暖的灯笼光与发光的金色字体\",\"mood\":\"诗意、怀旧、幽默、高端编辑海报\"},\"canvas\":{\"aspect_ratio\":\"竖屏手机截图，9:16\"},\"ui\":{\"status_bar\":{\"carrier\":\"大唐电信 5G\",\"date\":\"开元二十三年·九月初九\",\"battery\":\"93%\",\"icons_count\":3},\"top_icons\":{\"right_side_count\":2,\"icons\":[\"相机轮廓\",\"下拉箭头\"]},\"bottom_nav\":{\"count\":5,\"labels\":[\"首页\",\"发现\",\"发布\",\"消息\",\"我\"],\"active\":\"发布\"}},\"layout\":{\"sections\":[{\"title\":\"唐朝人的朋友圈\",\"subtitle\":\"TANG DYNASTY SOCIAL MEDIA FEED\",\"position\":\"顶部标题栏\",\"count\":1,\"labels\":[\"唐朝人的朋友圈\"]},{\"title\":\"动态头部\",\"position\":\"上三分之一处\",\"count\":1,\"labels\":[\"太白·诗仙酒剑\",\"大唐网红\",\"2分钟前\",\"长安·西市酒肆\"]},{\"title\":\"动态正文\",\"position\":\"中上部\",\"count\":1,\"labels\":[\"今日在西市胡姬酒肆，独酌无相亲，还好有明月和影子。斗酒诗百篇，新做一首，附笔：\"]},{\"title\":\"特色图片卡片\",\"position\":\"居中\",\"count\":1,\"labels\":[\"月下独酌\",\"花间一壶酒，独酌无相亲。举杯邀明月，对影成三人。\",\"李白之印\",\"青莲居士\"]},{\"title\":\"动态元数据行\",\"position\":\"图片下方\",\"count\":2,\"labels\":[\"长安不夜城·酒中仙\",\"杜甫、贺知章、汪伦等 999+ 人觉得很赞\"]},{\"title\":\"评论区\",\"position\":\"底部区域\",\"count\":3,\"labels\":[\"杜甫\",\"贺知章\",\"汪伦\"]}],\"centerpiece\":\"一幅大型插画社交动态，展示了李白在月下露台独酌，俯瞰大唐长安夜景\"},\"subject\":{\"character\":{\"identity\":\"{argument name=\\\"character name\\\" default=\\\"李白\\\"}\",\"appearance\":\"中年中国古代诗人，留着稀疏胡须，发髻高束，身穿宽袖飘逸白色汉服，姿态夸张富有戏剧性，一手举杯邀月\",\"archetype\":\"浪漫游侠诗人与醉酒仙人\"},\"featured_artwork\":{\"scene\":\"夜晚的木质露台上，诗人站在巨大的满月下，四周环绕着灯笼、屋顶、宝塔、远山以及灯火通明的城市\",\"props_count\":6,\"props\":[\"高举的酒杯\",\"标有“酒”字的大酒坛\",\"地上的小酒杯\",\"木质栏杆\",\"悬挂的灯笼\",\"靠在右侧的未出鞘长剑\"]}},\"text_treatment\":{\"headline_calligraphy\":\"大型粗体金色毛笔书法\",\"body_text\":\"优雅的衬线体风格繁体中文字体\",\"accent_colors\":[\"古金色\",\"焦橙色\",\"深褐色\",\"褪色的红色印章\"]},\"composition\":{\"background\":\"带有细微污渍、划痕和装饰性边角的做旧黑纸\",\"framing\":\"细金边框和面板分割线，如同高端 App 界面\",\"color_palette\":\"以黑色、深褐色、青铜色和金色为主，带有少量红色点缀\"},\"negative_space\":\"保持整体布局清晰，如同真实的手机截图，无现代写实元素，无明亮的现代色彩，无极简扁平化设计\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "大唐风社交媒体动态海报：一张风格化的模拟手机截图，展示了李白在古风大唐主题的社交媒体动态中发布月下诗作，非常适合幽默的历史恶搞艺术创作。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "editorial",
+        "minimalist",
+        "vintage",
+        "premium"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, editorial, minimalist, vintage, premium]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15467",
+      "15080",
+      "15668",
+      "14648",
+      "14813",
+      "14829"
+    ]
+  }
+}

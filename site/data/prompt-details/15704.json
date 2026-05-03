@@ -1,0 +1,54 @@
+{
+  "id": "15704",
+  "prompt": "A realistic live-action style photo of a young Japanese woman in worn retro-futuristic tokusatsu-style power armor, standing outdoors between 2 female police officers in dark navy uniforms. The armored woman is centered in a medium shot from about thigh to head, facing forward, while the 2 officers are shown in partial side profile at the left and right edges of the frame, turned toward her as if questioning or surrounding her. The main subject wears glossy red and silver metal armor with visible scratches, chipped paint, and slight grime, including oversized rounded shoulder plates, a silver chest plate with asymmetrical panel lines and 1 large circular blue orb on the right side of the chest, black flexible under-suit sleeves, a white neck seal, and 2 short ribbed hose-like tubes rising from the collar to the shoulders. She has short dark brown to black bobbed hair peeking out above the armor and holds 1 matching red helmet with a black visor and silver trim in both hands at waist level. The 2 police officers wear plain dark navy jackets; the left officer has a visible shoulder patch, and both have black hair tied back in neat low buns. Set the scene against a gray urban concrete wall with soft daylight, shallow depth of field, and a muted documentary cinematic look. Composition should feel candid and tense, like a behind-the-scenes arrest or inspection of a sci-fi heroine. Highly detailed textures, natural skin, realistic metal reflections, subdued color grading, portrait orientation.",
+  "translatedPrompt": "一张逼真的真人实拍风格照片，主角是一位年轻的日本女性，身穿磨损的复古未来主义特摄风格动力盔甲，站在户外，两侧各有一名身穿深海军蓝制服的女警察。身穿盔甲的女性位于画面中央，采用从大腿到头部的中景构图，面向前方；两名警察分别位于画面左右边缘，呈侧面姿态，正转向她，仿佛在进行盘问或包围。主角身穿带有明显划痕、掉漆和轻微污垢的亮红色与银色金属盔甲，包括超大号圆形肩甲、银色胸甲（胸甲上有不对称的线条和右侧 1 个巨大的蓝色圆形球体）、黑色柔性内衬袖子、白色颈封，以及 2 根从领口延伸至肩部的短肋状软管。她留着深棕色至黑色的短波波头，从盔甲上方露出，双手在腰间拿着 1 个配套的红色头盔，头盔配有黑色面罩和银色饰边。两名女警察身穿朴素的深海军蓝夹克；左侧警察的肩章清晰可见，两人均梳着整洁的黑色低发髻。场景设定在灰色城市混凝土墙前，光线柔和，景深较浅，呈现出一种低调的纪录片电影质感。构图应具有抓拍感和紧张感，如同科幻女英雄被捕或接受检查的幕后花絮。细节纹理丰富，皮肤自然，金属反射逼真，色调柔和，竖屏构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古科幻女英雄与警察：此提示词可生成一张逼真的电影感肖像，描绘了一位身穿磨损盔甲的女英雄手持头盔，被两名警察盘问的场景，适用于特摄风格的编辑内容或电影剧照。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "symmetrical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "retro",
+        "sci-fi",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical]。\n\nVisual style:\n[参考风格: realistic, cinematic, retro, sci-fi, documentary]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15706",
+      "15064",
+      "15762",
+      "14420",
+      "15028",
+      "15533"
+    ]
+  }
+}

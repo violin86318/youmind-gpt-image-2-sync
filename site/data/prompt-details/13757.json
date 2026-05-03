@@ -1,0 +1,44 @@
+{
+  "id": "13757",
+  "prompt": "A photorealistic underwater portrait of a {argument name=\"subject description\" default=\"young Asian woman\"} holding her breath just below the surface. She has {argument name=\"hair style\" default=\"long dark wavy hair\"} floating weightlessly around her face and is wearing a {argument name=\"clothing\" default=\"sheer white ruffled dress\"}. She looks directly at the camera with slightly puffed cheeks and pursed lips. The scene is illuminated by bright sunlight filtering through the {argument name=\"environment\" default=\"clear blue water\"}, casting intricate, dappled caustic light patterns across her face, chest, and clothing. Small, delicate air bubbles float upward around her face, adding to the serene, ethereal atmosphere.",
+  "translatedPrompt": "一张超写实的水下肖像，画面中 {argument name=\"subject description\" default=\"一位年轻的亚裔女性\"} 正在水面下方屏住呼吸。她有着 {argument name=\"hair style\" default=\"飘逸的深色波浪长发\"}，在水中如失重般环绕在脸庞周围，身穿一件 {argument name=\"clothing\" default=\"半透明的白色荷叶边连衣裙\"}。她正视镜头，双颊微鼓，双唇紧闭。场景由透过 {argument name=\"environment\" default=\"清澈蓝色水域\"} 的明亮阳光照亮，在她的脸部、胸部和衣物上投射出复杂且斑驳的焦散光影。细小精致的气泡在她脸庞周围向上漂浮，增添了宁静而空灵的氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "水下超写实肖像：生成一张高度逼真的水下肖像，包含漂浮的头发、气泡和动态的焦散光效。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13448",
+      "13451",
+      "13653",
+      "13697",
+      "13698",
+      "13965"
+    ]
+  }
+}

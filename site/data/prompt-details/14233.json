@@ -1,0 +1,48 @@
+{
+  "id": "14233",
+  "prompt": "A highly detailed, photorealistic anime-style portrait of a young woman crouching down and looking slightly down at the camera from a low angle. She has long, flowing {argument name=\"hair color\" default=\"ash-blonde\"} hair blowing gently in the wind, pale skin, and large, expressive eyes. She is wearing a {argument name=\"outfit\" default=\"Japanese school uniform with a light grey cardigan, white shirt, dark plaid bow tie, dark plaid pleated skirt, dark knee-high socks, and black leather loafers\"}. Her arms are resting casually on her knees. The background is a bright {argument name=\"sky condition\" default=\"clear blue sky with scattered white clouds\"}, with a blurred {argument name=\"background setting\" default=\"chain-link fence and green trees\"} visible at the very bottom, suggesting a schoolyard. The lighting is bright, natural daylight with soft, cinematic shadows, emphasizing the realistic textures of her clothing and skin.",
+  "translatedPrompt": "A highly detailed, photorealistic anime-style portrait of a young woman crouching down and looking slightly down at the camera from a low angle. She has long, flowing {argument name=\"hair color\" default=\"ash-blonde\"} hair blowing gently in the wind, pale skin, and large, expressive eyes. She is wearing a {argument name=\"outfit\" default=\"Japanese school uniform with a light grey cardigan, white shirt, dark plaid bow tie, dark plaid pleated skirt, dark knee-high socks, and black leather loafers\"}. Her arms are resting casually on her knees. The background is a bright {argument name=\"sky condition\" default=\"clear blue sky with scattered white clouds\"}, with a blurred {argument name=\"background setting\" default=\"chain-link fence and green trees\"} visible at the very bottom, suggesting a schoolyard. The lighting is bright, natural daylight with soft, cinematic shadows, emphasizing the realistic textures of her clothing and skin.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Photorealistic Anime Schoolgirl Crouching Portrait：Generates a highly detailed, 2.5D style portrait of a girl in a school uniform crouching outdoors against a sky background.",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "anime"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, anime]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14568",
+      "15620",
+      "14414",
+      "14619",
+      "15762",
+      "13608"
+    ]
+  }
+}

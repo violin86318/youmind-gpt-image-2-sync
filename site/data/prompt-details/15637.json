@@ -1,0 +1,42 @@
+{
+  "id": "15637",
+  "prompt": "A highly realistic aviation photograph of a {argument name=\"airline\" default=\"China Southern\"} Airbus {argument name=\"aircraft model\" default=\"A380\"} rotating for takeoff at {argument name=\"airport\" default=\"Shanghai Pudong International Airport\"}, captured from the side in a telephoto spotter style. The aircraft is climbing slightly nose-up just above the runway with landing gear still extended, all four engines visible, white fuselage with a deep blue cheatline, large Chinese airline lettering on the forward fuselage, English airline name along the side, and a bright blue tailfin with a red kapok flower logo. Show the airport terminal buildings in the background and a tall air traffic control tower on the right side, under clear daylight with mild haze and realistic airport atmosphere. Include runway edge details, taxiway signs, dry grass foreground, and at least 2 small background aircraft near the terminal, one plausibly resembling an older China Eastern livery. Natural documentary photography, sharp detail, accurate proportions, realistic lighting, 3:2 composition, no illustration styling, no dramatic sunset colors.",
+  "translatedPrompt": "一张高度逼真的航空摄影照片，展示 {argument name=\"airline\" default=\"中国南方航空\"} 的 {argument name=\"aircraft model\" default=\"A380\"} 客机正在 {argument name=\"airport\" default=\"上海浦东国际机场\"} 抬轮起飞，采用侧面长焦航空摄影风格拍摄。飞机机头轻微上扬，刚离开跑道，起落架尚未收起，四台发动机清晰可见；机身呈白色，配有深蓝色腰线，机身前部印有醒目的中文航司名称，侧面印有英文航司名称，深蓝色垂尾上绘有红色木棉花标志。背景展示机场航站楼建筑，右侧可见一座高耸的空中交通管制塔台，天气晴朗，伴有轻微雾霾，呈现真实的机场氛围。包含跑道边缘细节、滑行道标志、前景干草，以及航站楼附近至少 2 架小型背景飞机，其中一架外观类似于旧版中国东方航空涂装。自然纪实摄影风格，细节锐利，比例准确，光影真实，3:2 构图，非插画风格，无夸张的日落色彩。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "中国南方航空 A380 在浦东机场起飞：此提示词可生成一张逼真的航空摄影风格照片，展示中国南方航空 A380 从上海浦东机场起飞的场景，适用于航空影像和旅游主题视觉内容。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [],
+      "style": [
+        "realistic",
+        "documentary"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, documentary]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14566",
+      "14262",
+      "15409",
+      "15521",
+      "15357",
+      "13664"
+    ]
+  }
+}

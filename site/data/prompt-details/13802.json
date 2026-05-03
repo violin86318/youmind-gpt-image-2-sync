@@ -1,0 +1,45 @@
+{
+  "id": "13802",
+  "prompt": "A close-up portrait of an {argument name=\"character description\" default=\"anime girl with shoulder-length wavy hair and a gentle smile\"}, wearing a {argument name=\"outfit\" default=\"school uniform with a bow tie\"}. The image is a hand-drawn sketch on a glossy white whiteboard, created entirely with a {argument name=\"marker color\" default=\"blue\"} dry-erase marker. The art style features sketchy, varying line weights and rough marker shading, capturing a casual yet highly skilled anime illustration. Subtle light reflections on the top right of the whiteboard surface enhance the realistic photograph-of-a-drawing aesthetic.",
+  "translatedPrompt": "一张 {argument name=\"character description\" default=\"留着齐肩波浪卷发、面带温柔微笑的动漫少女\"} 的特写肖像，身穿 {argument name=\"outfit\" default=\"系着领结的校服\"}。图像是手绘在光面白板上的素描，完全使用 {argument name=\"marker color\" default=\"蓝色\"} 白板笔创作。艺术风格呈现出草图感、多变的线条粗细以及粗犷的马克笔阴影，捕捉到一种随性却又极其精湛的动漫插画效果。白板表面右上角细微的光线反射，增强了“拍摄画作”的真实感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "白板马克笔动漫素描：生成一张逼真的照片，展示用彩色白板笔在白板上绘制的动漫角色素描。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up"
+      ],
+      "style": [
+        "realistic",
+        "anime",
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up]。\n\nVisual style:\n[参考风格: realistic, anime, hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15237",
+      "13874",
+      "13960",
+      "13961",
+      "14957",
+      "13754"
+    ]
+  }
+}

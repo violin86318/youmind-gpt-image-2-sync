@@ -1,0 +1,53 @@
+{
+  "id": "15424",
+  "prompt": "A photorealistic lifestyle portrait of a young woman seated outdoors in a lush sunlit garden, framed from about mid-thigh up in a vertical composition. She has {argument name=\"hair color\" default=\"dark blonde\"} shoulder-length to chest-length naturally wavy hair with a slightly tousled texture and a center part. Her face is fully obscured by a flat solid medium-tan rectangular censor block, centered over the face and extending from forehead to chin. She is wearing a {argument name=\"dress color\" default=\"white\"} sleeveless summer dress with thin spaghetti straps, a fitted bodice, and 2 front bow ties creating 2 teardrop-shaped cutouts down the center of the chest and upper torso. She wears 2 delicate gold necklaces: 1 short chain with tiny charms and 1 slightly longer chain with a small circular pendant. Her pose is relaxed and natural, sitting on a dark woven outdoor chair with her arms resting down in front of her lap, shoulders soft, body facing forward. The background is a richly detailed garden with dense green foliage, shrubs, and soft pale flowers, rendered with shallow depth of field and creamy bokeh. Bright natural daylight, soft summer atmosphere, realistic skin texture, high-end candid editorial photography, subtle highlights on hair, vibrant greens, clean exposure, sharp subject focus, casual luxury lifestyle aesthetic. Include a small white \"Pollo.ai\" watermark in the top-right corner.",
+  "translatedPrompt": "一张照片级逼真的生活方式肖像，拍摄了一位坐在郁郁葱葱、阳光明媚的花园中的年轻女性，采用垂直构图，取景范围约为大腿中部以上。她留着 {argument name=\"hair color\" default=\"深金色\"} 及肩至胸前的自然波浪卷发，发质略显蓬松，中分发型。她的脸部被一个平坦、纯色、中等棕色的长方形遮挡块完全遮住，遮挡块位于脸部中心，从额头延伸至下巴。她穿着一件 {argument name=\"dress color\" default=\"白色\"} 无袖夏日连衣裙，带有细肩带、修身胸衣，胸部和上躯干中心有 2 个蝴蝶结，形成了 2 个水滴状的镂空设计。她佩戴着 2 条精致的金色项链：1 条带有小吊坠的短链和 1 条带有小圆形坠饰的稍长链。她的姿势放松自然，坐在深色的编织户外椅上，双臂自然垂放在大腿前，双肩放松，身体朝向前方。背景是细节丰富的花园，有茂密的绿色植物、灌木和柔和的浅色花朵，采用浅景深和奶油般虚化的效果呈现。明亮的自然日光，柔和的夏日氛围，逼真的皮肤纹理，高端抓拍风格的编辑摄影，头发上有微妙的高光，鲜艳的绿色，干净的曝光，清晰的主体对焦，休闲奢华的生活方式美学。在右上角包含一个小型的白色 \"Pollo.ai\" 水印。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "身着白色夏日连衣裙的花园肖像：此提示词用于生成逼真的户外生活方式肖像，常用于时尚、社交媒体或应用演示视觉效果。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "editorial",
+        "luxury"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, editorial, luxury]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14428",
+      "14569",
+      "14679",
+      "15706",
+      "14414",
+      "15350"
+    ]
+  }
+}

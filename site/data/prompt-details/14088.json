@@ -1,0 +1,47 @@
+{
+  "id": "14088",
+  "prompt": "A photorealistic, casual top-down snapshot of an open lined notebook resting on a textured gray fabric surface. The notebook pages are filled with {argument name=\"handwriting style\" default=\"neat, legible Korean handwriting\"}. The right page is the main focus, starting with the date \"{argument name=\"date\" default=\"2024 10월 18일 금요일\"}\" at the top left and a printed \"Date.\" at the top right. Below the date is a small hand-drawn sun icon next to the text \"{argument name=\"weather\" default=\"날씨: 맑음\"}\". The rest of the page contains about 14 lines of handwritten text detailing {argument name=\"content topic\" default=\"a student's daily diary entry about going to academies, taking tests, eating kimchi jjigae, and studying\"}. The left page is partially visible, also containing handwritten Korean text. The lighting is natural and soft, giving the impression of a personal, everyday photograph.",
+  "translatedPrompt": "一张照片级逼真、随意的俯拍快照，展示了一本放在有纹理的灰色织物表面上的横线笔记本。笔记本页面上写满了 {argument name=\"handwriting style\" default=\"整洁、清晰的韩语手写体\"}。右侧页面是焦点，左上角写着日期 \"{argument name=\"date\" default=\"2024 年 10 月 18 日 星期五\"}\"，右上角印有 \"Date.\" 字样。日期下方有一个手绘的小太阳图标，旁边写着 \"{argument name=\"weather\" default=\"天气：晴\"}\"。页面其余部分包含约 14 行手写文字，详细描述了 {argument name=\"content topic\" default=\"一名学生关于去补习班、参加考试、吃泡菜汤和学习的日常日记\"}。左侧页面部分可见，也包含手写韩语文字。光线自然柔和，营造出一种个人日常照片的氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "手写韩语日记：生成一张照片级逼真的图像，展示一本放在织物表面上、带有手写韩语日记内容的横线笔记本。",
+      "subject": "人物",
+      "scene": "信息图/图解",
+      "composition": [
+        "top-down"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "城市美食地图、活动导览、园区地图、旅行视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: top-down]。\n\nVisual style:\n[参考风格: realistic, photorealistic, hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14400",
+      "14401",
+      "14409",
+      "15652",
+      "13964",
+      "14086"
+    ]
+  }
+}

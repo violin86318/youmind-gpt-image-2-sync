@@ -1,0 +1,36 @@
+{
+  "id": "15220",
+  "prompt": "一张高端品牌联名视觉全案海报，产品为\"{argument name=\"联名品牌\" default=\"国家公务员考试 × 中国福利彩票\"}\" 梦幻联名款：{argument name=\"标题\" default=\"上岸刮刮乐\"}， 反正概率差不多，不如刮着试试。  整体风格：{argument name=\"风格\" default=\"官方正统视觉 × 彩票卖场烟火气\"}",
+  "translatedPrompt": "一份高端品牌联名视觉提案海报。产品为“{argument name=\"collaboration brands\" default=\"国家公务员考试 × 中国福利彩票\"}”梦想联名版：“{argument name=\"title\" default=\"上岸刮刮乐\"}”。口号：“反正概率都差不多，为什么不刮一下试试？”整体风格：{argument name=\"style\" default=\"官方正式视觉 × 彩票摊贩街头风\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "讽刺性品牌联名海报：一个关于国家考试与彩票进行讽刺性品牌联名的创意提示词，融合了官方审美与街头摊贩风格。",
+      "subject": "综合主体",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13973",
+      "14331",
+      "14358",
+      "14365",
+      "14764",
+      "15229"
+    ]
+  }
+}

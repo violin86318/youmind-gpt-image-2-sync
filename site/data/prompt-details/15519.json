@@ -1,0 +1,41 @@
+{
+  "id": "15519",
+  "prompt": "A high-fashion surrealist advertising poster for {argument name=\"brand\" default=\"Crocs\"}. The scene is set in a minimalist, monochrome {argument name=\"background color\" default=\"light blue\"} studio with a semi-reflective floor. \nThe central focus is an oversized, giant white Croc clog positioned on its heel at a diagonal angle, serving as a backrest. A fashion model with long dark hair, dressed in a {argument name=\"clothing\" default=\"clean, all-white coordinated sweatshirt and wide-leg trousers\"}, leans her entire back against the giant shoe in a relaxed, leaning posture. She is facing right in profile, looking ahead with a serene expression, and wearing standard-sized white Crocs.\nIn the background, the word \"CROCS\" is written in massive, bold, white condensed sans-serif typography, partially occluded by the giant shoe and the model to create a sense of depth. At the  top right, \"Designed with ChatGPT\" \nAt the bottom center, a white sans-serif tagline reads: \"Made for comfort, worn for confidence. Because life feels better when your feet stop complaining.\" The lighting is soft, cool, and even, casting gentle shadows and a soft reflection of the subjects on the glossy blue floor. The overall aesthetic is clean, modern, and high-concept.\n\nMake the aspect ratio 3:4",
+  "translatedPrompt": "一张为 {argument name=\"brand\" default=\"Crocs\"} 设计的高级时尚超现实主义广告海报。场景设定在一个极简主义、单色调的 {argument name=\"background color\" default=\"浅蓝色\"} 摄影棚中，地面带有半反射效果。\n视觉中心是一个超大号的白色 Crocs 洞洞鞋，以斜角支撑在脚跟处，作为靠背使用。一位留着深色长发的时尚模特，身穿 {argument name=\"clothing\" default=\"干净利落的纯白色卫衣和阔腿裤套装\"}，整个背部放松地倚靠在巨型鞋子上。她侧身向右，神情宁静地目视前方，脚上穿着标准尺寸的白色 Crocs。\n背景中，“CROCS” 一词以巨大的、粗体、白色压缩无衬线字体呈现，被巨型鞋子和模特部分遮挡，营造出深度感。右上角写有“Designed with ChatGPT”。\n底部中央有一句白色无衬线标语：“为舒适而生，因自信而穿。因为当你的双脚不再抱怨时，生活会更美好。” 灯光柔和、清冷且均匀，在光亮的蓝色地板上投射出柔和的阴影和主体的倒影。整体美学风格简洁、现代且具有高概念感。\n\n将长宽比设置为 3:4",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "超现实主义时尚品牌海报：一个高级时尚超现实主义广告提示词，包含巨型产品道具和极简主义摄影棚中的模特。",
+      "subject": "服饰",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "minimalist",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: minimalist, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15523",
+      "13779",
+      "15243",
+      "14833",
+      "15184",
+      "15412"
+    ]
+  }
+}

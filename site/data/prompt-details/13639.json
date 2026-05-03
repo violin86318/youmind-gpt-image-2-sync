@@ -1,0 +1,48 @@
+{
+  "id": "13639",
+  "prompt": "{\n  \"type\": \"highly dense futuristic infographic poster\",\n  \"style\": \"dark background with {argument name=\\\"theme color\\\" default=\\\"gold and dark blue\\\"} neon accents, highly structured grid and radial layout, tech-focused UI aesthetics\",\n  \"centerpiece\": {\n    \"visual\": \"{argument name=\\\"centerpiece icon\\\" default=\\\"glowing cybernetic eye lens\\\"} surrounded by a golden ornate circular frame with glowing nodes\",\n    \"text\": [\"{argument name=\\\"model name\\\" default=\\\"GPT-Image-2\\\"}\", \"ChatGPT\", \"Silent Update Rumor {argument name=\\\"release date\\\" default=\\\"April 2026\\\"}\"]\n  },\n  \"layout\": {\n    \"inner_circle_panels\": {\n      \"count\": 4,\n      \"description\": \"Four wedge-shaped panels surrounding the center detailing core features\",\n      \"labels\": [\"凄さ① テキスト描画革命\", \"凄さ② フォトラリアズムの飛躍\", \"凄さ③ 世界知識＆構成力\", \"凄さ④ 編集・一貫性の進化\"]\n    },\n    \"top_row\": {\n      \"count\": 5,\n      \"description\": \"Rectangular panels showing leak images, map accuracy, anatomical diagrams, and user reactions\",\n      \"labels\": [\"リーク画像①\", \"リーク画像②\", \"リーク画像③\", \"ユーザー反応(X)\", \"ユーザー反応(X/Reddit)\"]\n    },\n    \"left_column\": {\n      \"count\": 3,\n      \"description\": \"Vertical stack of comparison panels showing version 1.5 vs 2 vs Nano with small image grids\",\n      \"labels\": [\"比較① テキスト描画\", \"比較② 写実性\", \"構図③・世界観\"]\n    },\n    \"right_column\": {\n      \"count\": 5,\n      \"description\": \"Vertical stack of practical use cases with small example images\",\n      \"labels\": [\"実用例① 商品写真・EC\", \"実用例② 実務・チラシ\", \"実用例③ LINEスタンプ\", \"実用例④ 教育・資料\", \"実用例⑤ SNS・サムネ\"]\n    },\n    \"bottom_data_section\": {\n      \"count\": 5,\n      \"description\": \"Data tables, bulleted lists, and hacker imagery\",\n      \"labels\": [\"技術的進化ポイント\", \"コードネーム＆リーク\", \"性能比較表 (GPT-Image-1.5 vs GPT-Image-2 vs Google Nano Banana)\", \"注目の改善点まとめ\", \"未来予測ロードマップ\"]\n    },\n    \"bottom_thumbnail_strip\": {\n      \"count\": 10,\n      \"description\": \"A horizontal row of small square images demonstrating different generation styles\",\n      \"labels\": [\"建築\", \"ポスター\", \"日本語テキスト\", \"インフォグラフィック\", \"ファンタジー\", \"スチームパンク\", \"ミニマルデザイン\", \"食べ物\", \"車\", \"水中\"]\n    }\n  },\n  \"footer\": {\n    \"text\": \"{argument name=\\\"main title\\\" default=\\\"ChatGPT画像生成革命\\\"}\",\n    \"subtext\": \"2026年4月噂のGPT-Image-2\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"高密度な未来感あふれるインフォグラフィックポスター\",\n  \"style\": \"ダークな背景に {argument name=\\\"theme color\\\" default=\\\"ゴールドとダークブルー\\\"} のネオンアクセント、高度に構造化されたグリッドと放射状のレイアウト、テクノロジー重視の UI 美学\",\n  \"centerpiece\": {\n    \"visual\": \"{argument name=\\\"centerpiece icon\\\" default=\\\"光り輝くサイバネティックな眼球レンズ\\\"}、周囲を輝くノードを備えた華やかなゴールドの円形フレームで囲む\",\n    \"text\": [\"{argument name=\\\"model name\\\" default=\\\"GPT-Image-2\\\"}\", \"ChatGPT\", \"サイレントアップデートの噂 {argument name=\\\"release date\\\" default=\\\"2026 年 4 月\\\"}\"]\n  },\n  \"layout\": {\n    \"inner_circle_panels\": {\n      \"count\": 4,\n      \"description\": \"中心を囲む 4 つの扇形パネルで、コア機能を詳細に説明\",\n      \"labels\": [\"凄さ① テキスト描画革命\", \"凄さ② フォトラリアリズムの飛躍\", \"凄さ③ 世界知識＆構成力\", \"凄さ④ 編集・一貫性の進化\"]\n    },\n    \"top_row\": {\n      \"count\": 5,\n      \"description\": \"リーク画像、マップの精度、解剖図、ユーザーの反応を示す長方形パネル\",\n      \"labels\": [\"リーク画像①\", \"リーク画像②\", \"リーク画像③\", \"ユーザーの反応 (X)\", \"ユーザーの反応 (X/Reddit)\"]\n    },\n    \"left_column\": {\n      \"count\": 3,\n      \"description\": \"バージョン 1.5、2、Nano の比較を示す垂直スタックパネルと小さな画像グリッド\",\n      \"labels\": [\"比較① テキスト描画\", \"比較② 写実性\", \"構図③・世界観\"]\n    },\n    \"right_column\": {\n      \"count\": 5,\n      \"description\": \"小さなサンプル画像を用いた実用的なユースケースの垂直スタック\",\n      \"labels\": [\"実用例① 商品写真・EC\", \"実用例② 実務・チラシ\", \"実用例③ LINE スタンプ\", \"実用例④ 教育・資料\", \"実用例⑤ SNS・サムネイル\"]\n    },\n    \"bottom_data_section\": {\n      \"count\": 5,\n      \"description\": \"データテーブル、箇条書きリスト、ハッカー風のイメージ\",\n      \"labels\": [\"技術的進化ポイント\", \"コードネーム＆リーク\", \"性能比較表 (GPT-Image-1.5 vs GPT-Image-2 vs Google Nano Banana)\", \"注目の改善点まとめ\", \"未来予測ロードマップ\"]\n    },\n    \"bottom_thumbnail_strip\": {\n      \"count\": 10,\n      \"description\": \"さまざまな生成スタイルを示す小さな正方形画像の水平列\",\n      \"labels\": [\"建築\", \"ポスター\", \"日本語テキスト\", \"インフォグラフィック\", \"ファンタジー\", \"スチームパンク\", \"ミニマルデザイン\", \"食べ物\", \"車\", \"水中\"]\n    }\n  },\n  \"footer\": {\n    \"text\": \"{argument name=\\\"main title\\\" default=\\\"ChatGPT 画像生成革命\\\"}\",\n    \"subtext\": \"2026 年 4 月噂の GPT-Image-2\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "未来感あふれる AI 模型インフォグラフィックポスター：放射状およびグリッドレイアウトを採用した、情報密度の高い詳細なインフォグラフィックポスターを生成します。ソフトウェアの機能紹介、比較、ロードマップの提示に最適です。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "grid",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "neon",
+        "lens"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, vertical, horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: neon, lens]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13789",
+      "13821",
+      "14465",
+      "14407",
+      "14866",
+      "13599"
+    ]
+  }
+}

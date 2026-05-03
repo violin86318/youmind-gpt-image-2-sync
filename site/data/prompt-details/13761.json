@@ -1,0 +1,45 @@
+{
+  "id": "13761",
+  "prompt": "{\n  \"type\": \"retro pixel art video game mockup\",\n  \"theme\": \"survival death game\",\n  \"hud\": {\n    \"top_left\": [\"HIGH SCORE\", \"000000\"],\n    \"top_center_title\": \"{argument name=\\\"game title\\\" default=\\\"오징어 게임\\\"}\",\n    \"top_right\": [\"PLAYER 001\", \"3 red hearts\"]\n  },\n  \"menu\": {\n    \"style\": \"centered under title, black boxes, white pixel font, cursor pointing to first item\",\n    \"items\": [\n      \"{argument name=\\\"menu item 1\\\" default=\\\"게임 시작\\\"}\",\n      \"{argument name=\\\"menu item 2\\\" default=\\\"설정\\\"}\",\n      \"{argument name=\\\"menu item 3\\\" default=\\\"종료\\\"}\"\n    ]\n  },\n  \"gameplay_ui\": {\n    \"mid_left_panel\": [\"ROUND 1\", \"{argument name=\\\"round description\\\" default=\\\"무궁화 꽃이 피었습니다\\\"}\"],\n    \"mid_right_panel\": [\"01:00 digital red timer\"]\n  },\n  \"scene\": {\n    \"background\": \"blue sky, pixel clouds, 2 small houses, tall yellow grass field\",\n    \"midground\": \"large bare tree, 1 giant doll in yellow shirt and orange dress facing the tree, 2 guards in pink jumpsuits with square masks holding rifles\",\n    \"foreground\": \"pink starting line on dirt ground, 9 players in green tracksuits facing away from the viewer\",\n    \"player_numbers\": [\"019\", \"240\", \"199\", \"218\", \"001\", \"067\", \"456\", \"101\", \"101\"]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"复古像素风电子游戏草图\",\n  \"theme\": \"生存死亡游戏\",\n  \"hud\": {\n    \"top_left\": [\"最高分\", \"000000\"],\n    \"top_center_title\": \"{argument name=\\\"game title\\\" default=\\\"鱿鱼游戏\\\"}\",\n    \"top_right\": [\"玩家 001\", \"3 颗红心\"]\n  },\n  \"menu\": {\n    \"style\": \"标题下方居中，黑色背景框，白色像素字体，光标指向第一项\",\n    \"items\": [\n      \"{argument name=\\\"menu item 1\\\" default=\\\"开始游戏\\\"}\",\n      \"{argument name=\\\"menu item 2\\\" default=\\\"设置\\\"}\",\n      \"{argument name=\\\"menu item 3\\\" default=\\\"退出\\\"}\"\n    ]\n  },\n  \"gameplay_ui\": {\n    \"mid_left_panel\": [\"第 1 回合\", \"{argument name=\\\"round description\\\" default=\\\"木头人游戏\\\"}\"],\n    \"mid_right_panel\": [\"01:00 红色数字计时器\"]\n  },\n  \"scene\": {\n    \"background\": \"蓝天，像素云朵，2 间小屋，高大的黄色草地\",\n    \"midground\": \"一棵巨大的枯树，1 个身穿黄色上衣和橙色连衣裙的巨型玩偶面向大树，2 名身穿粉色连体服、戴着方形面具并手持步枪的守卫\",\n    \"foreground\": \"泥土地上的粉色起跑线，9 名身穿绿色运动服的玩家背对观众\",\n    \"player_numbers\": [\"019\", \"240\", \"199\", \"218\", \"001\", \"067\", \"456\", \"101\", \"101\"]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "像素风生存游戏 UI 设计草图：生成一个复古 8-bit 风格的电子游戏界面，包含生存游戏场景以及可自定义的文本菜单和 HUD 元素。",
+      "subject": "文字符号",
+      "scene": "UI/界面",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "retro",
+        "pixel art"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: retro, pixel art]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15397",
+      "13504",
+      "14512",
+      "15714",
+      "15438",
+      "15617"
+    ]
+  }
+}

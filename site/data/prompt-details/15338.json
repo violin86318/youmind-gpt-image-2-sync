@@ -1,0 +1,51 @@
+{
+  "id": "15338",
+  "prompt": "{\n  \"type\": \"anime character reference sheet\",\n  \"style\": \"clean fantasy concept art, polished cel-shaded anime rendering, parchment manuscript presentation\",\n  \"character\": {\n    \"name\": \"{argument name=\\\"character name\\\" default=\\\"青ベレーちゃん\\\"}\",\n    \"subtitle\": \"blue beret girl\",\n    \"gender presentation\": \"young anime girl\",\n    \"hair\": {\n      \"color\": \"{argument name=\\\"hair color\\\" default=\\\"blonde\\\"}\",\n      \"style\": \"short bob with straight bangs, slightly longer side locks\"\n    },\n    \"eyes\": {\n      \"color\": \"bright blue\",\n      \"style\": \"large anime eyes\"\n    },\n    \"outfit\": {\n      \"beret\": \"{argument name=\\\"beret color\\\" default=\\\"vivid royal blue\\\"} round beret with black inner band\",\n      \"outerwear\": \"long oversized hooded blue coat, double-breasted gold buttons, wide sleeves, mid-calf length\",\n      \"innerwear\": \"black fitted armored corset-style breastplate\",\n      \"skirt\": \"red and dark brown tartan pleated skirt\",\n      \"gloves\": \"black gloves\",\n      \"boots\": \"brown knee-high leather lace-up boots with reinforced fantasy adventurer design\"\n    },\n    \"props\": [\n      \"1 black longsword with gold crossguard and gold decorated tip\",\n      \"1 silver straight sword with gold hilt\",\n      \"1 blue beret shown separately\",\n      \"1 black torso armor bust mannequin\",\n      \"1 blue coat shown separately\"\n    ]\n  },\n  \"layout\": {\n    \"background\": \"aged parchment scroll spread open horizontally, curled paper ends on left and right, ornamental border flourishes, warm sepia paper texture\",\n    \"sections\": [\n      {\n        \"title\": \"character turnaround\",\n        \"position\": \"upper left\",\n        \"count\": 3,\n        \"labels\": [\"front view\", \"side view\", \"back view\"],\n        \"details\": \"full-body standing views of the same character\"\n      },\n      {\n        \"title\": \"name panel\",\n        \"position\": \"upper right\",\n        \"count\": 1,\n        \"labels\": [\"NAME: 青ベレーちゃん（ふろり）\"],\n        \"details\": \"large decorative title text with small roman text above reading blue beret girl, followed by 5 blank bullet-style description lines\"\n      },\n      {\n        \"title\": \"expressions\",\n        \"position\": \"lower left\",\n        \"count\": 8,\n        \"labels\": [\"neutral\", \"soft smile\", \"serious\", \"confident\", \"closed-eye happy smile\", \"calm direct gaze\", \"slightly pouting gaze\", \"gentle smile\"],\n        \"details\": \"2 rows of 4 square portrait panels\"\n      },\n      {\n        \"title\": \"equipment and clothing items\",\n        \"position\": \"lower right\",\n        \"count\": 5,\n        \"labels\": [\"black sword\", \"silver sword\", \"blue beret\", \"black armor torso\", \"blue coat\"],\n        \"details\": \"items spaced separately like a design sheet\"\n      },\n      {\n        \"title\": \"bottom tags\",\n        \"position\": \"bottom right edge\",\n        \"count\": 5,\n        \"labels\": [\"blank\", \"blank\", \"blank\", \"blank\", \"blank\"],\n        \"details\": \"five empty ornate caption boxes\"\n      }\n    ]\n  },\n  \"composition\": {\n    \"aspect ratio\": \"3:2 landscape\",\n    \"camera\": \"orthographic character sheet presentation\",\n    \"lighting\": \"soft studio lighting with minimal shadows\",\n    \"mood\": \"adventurous, elegant, classic fantasy documentation\"\n  },\n  \"quality\": {\n    \"detail\": \"highly detailed costume folds, crisp line art, readable accessory silhouettes\",\n    \"finish\": \"professional character design board\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"动漫角色设定集\",\n  \"style\": \"简洁的奇幻概念艺术，精致的赛璐珞动漫渲染，羊皮纸手稿呈现\",\n  \"character\": {\n    \"name\": \"{argument name=\\\"character name\\\" default=\\\"青ベレーちゃん\\\"}\",\n    \"subtitle\": \"蓝贝雷帽女孩\",\n    \"gender presentation\": \"年轻动漫少女\",\n    \"hair\": {\n      \"color\": \"{argument name=\\\"hair color\\\" default=\\\"金色\\\"}\",\n      \"style\": \"短波波头，直刘海，两侧发丝稍长\"\n    },\n    \"eyes\": {\n      \"color\": \"亮蓝色\",\n      \"style\": \"大大的动漫眼睛\"\n    },\n    \"outfit\": {\n      \"beret\": \"{argument name=\\\"beret color\\\" default=\\\"鲜艳的皇家蓝\\\"} 圆形贝雷帽，带有黑色内圈\",\n      \"outerwear\": \"长款超大号连帽蓝色外套，双排金扣，宽袖，长度及小腿中部\",\n      \"innerwear\": \"黑色修身盔甲式胸甲\",\n      \"skirt\": \"红棕色格子百褶裙\",\n      \"gloves\": \"黑色手套\",\n      \"boots\": \"棕色及膝系带皮靴，带有强化奇幻冒险者设计\"\n    },\n    \"props\": [\n      \"1 把黑色长剑，配有金色十字护手和金色装饰剑尖\",\n      \"1 把银色直剑，配有金色剑柄\",\n      \"1 顶单独展示的蓝色贝雷帽\",\n      \"1 个黑色躯干盔甲展示模型\",\n      \"1 件单独展示的蓝色外套\"\n    ]\n  },\n  \"layout\": {\n    \"background\": \"横向展开的陈旧羊皮纸卷轴，左右两端纸张卷曲，带有装饰性边框花纹，温暖的棕褐色纸张质感\",\n    \"sections\": [\n      {\n        \"title\": \"角色三视图\",\n        \"position\": \"左上\",\n        \"count\": 3,\n        \"labels\": [\"正面\", \"侧面\", \"背面\"],\n        \"details\": \"同一角色的全身站立视图\"\n      },\n      {\n        \"title\": \"名称面板\",\n        \"position\": \"右上\",\n        \"count\": 1,\n        \"labels\": [\"NAME: 青ベレーちゃん（ふろり）\"],\n        \"details\": \"大型装饰性标题文字，上方有小型罗马字母标注 blue beret girl，后接 5 行空白项目描述\"\n      },\n      {\n        \"title\": \"表情\",\n        \"position\": \"左下\",\n        \"count\": 8,\n        \"labels\": [\"中性\", \"柔和微笑\", \"严肃\", \"自信\", \"闭眼开心笑\", \"冷静直视\", \"微嘟嘴\", \"温柔微笑\"],\n        \"details\": \"2 行 4 列的方形肖像面板\"\n      },\n      {\n        \"title\": \"装备与服饰物品\",\n        \"position\": \"右下\",\n        \"count\": 5,\n        \"labels\": [\"黑剑\", \"银剑\", \"蓝色贝雷帽\", \"黑色盔甲躯干\", \"蓝色外套\"],\n        \"details\": \"物品像设计图一样分开排列\"\n      },\n      {\n        \"title\": \"底部标签\",\n        \"position\": \"右下边缘\",\n        \"count\": 5,\n        \"labels\": [\"空白\", \"空白\", \"空白\", \"空白\", \"空白\"],\n        \"details\": \"五个空的华丽说明框\"\n      }\n    ]\n  },\n  \"composition\": {\n    \"aspect ratio\": \"3:2 横向\",\n    \"camera\": \"正投影角色设定图呈现\",\n    \"lighting\": \"柔和的摄影棚灯光，阴影极少\",\n    \"mood\": \"冒险、优雅、经典奇幻文档\"\n  },\n  \"quality\": {\n    \"detail\": \"高度细致的服装褶皱，清晰的线条艺术，易于辨认的配饰轮廓\",\n    \"finish\": \"专业的角色设计项目\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "蓝贝雷帽女孩角色设定集：一张羊皮纸风格的奇幻动漫角色设计图，展示了一位戴着蓝色贝雷帽的女孩，包含三视图、八种表情及五件装备，适用于概念艺术或角色文档。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "full-body",
+        "horizontal"
+      ],
+      "style": [
+        "anime",
+        "fantasy",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting",
+        "camera"
+      ],
+      "text": "要求可读；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body, horizontal]。\n\nVisual style:\n[参考风格: anime, fantasy, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting, camera]。\n\nText requirements:\n要求可读；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15732",
+      "14413",
+      "14945",
+      "14531",
+      "14620",
+      "14509"
+    ]
+  }
+}

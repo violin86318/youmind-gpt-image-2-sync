@@ -1,0 +1,40 @@
+{
+  "id": "13525",
+  "prompt": "{\n  \"type\": \"Japanese tabloid magazine cover\",\n  \"magazine_header\": {\n    \"title\": \"{argument name=\\\"magazine name\\\" default=\\\"週刊LUMINA\\\"}\",\n    \"issue_date\": \"4/25号\",\n    \"price\": \"¥450\"\n  },\n  \"main_photo\": {\n    \"subject\": \"{argument name=\\\"subject description\\\" default=\\\"young Japanese woman looking back in surprise, wearing a denim jacket over a white top\\\"}\",\n    \"setting\": \"nighttime street with bokeh lights\",\n    \"style\": \"paparazzi flash photography style\"\n  },\n  \"layout\": {\n    \"headlines\": [\n      { \"position\": \"top left banner\", \"text\": \"{argument name=\\\"top banner text\\\" default=\\\"独占スクープ!!\\\"}\", \"color\": \"white text on red background\" },\n      { \"position\": \"left vertical\", \"text\": \"{argument name=\\\"main headline left\\\" default=\\\"深夜の目撃情報！\\\"}\", \"color\": \"yellow text with black outline\" },\n      { \"position\": \"right vertical\", \"text\": \"{argument name=\\\"main headline right\\\" default=\\\"ついに発覚!?\\\"}\", \"color\": \"red text with white outline\" },\n      { \"position\": \"bottom center stacked 1\", \"text\": \"衝撃の瞬間を激写！\", \"color\": \"yellow text on black background\" },\n      { \"position\": \"bottom center stacked 2\", \"text\": \"関係者が語る真相\", \"color\": \"white text on red background\" },\n      { \"position\": \"bottom center stacked 3\", \"text\": \"禁断の裏側を迫ろ！\", \"color\": \"yellow text on black background\" },\n      { \"position\": \"bottom left banner\", \"text\": \"スクープ袋とじ\", \"color\": \"white text on red background\" }\n    ],\n    \"inset_photos\": {\n      \"count\": 3,\n      \"details\": [\n        { \"position\": \"top right\", \"description\": \"woman looking down holding her head\", \"label\": \"極秘写真入手!!\" },\n        { \"position\": \"bottom left\", \"description\": \"woman talking to a man with glasses\", \"label\": \"親密交際発覚か!?\" },\n        { \"position\": \"bottom right\", \"description\": \"woman and man seen from the side\", \"label\": \"熱愛発覚 入手!\" }\n      ]\n    },\n    \"footer\": {\n      \"elements\": [\"barcode\", \"188\", \"963469 195449\"]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"日本小报杂志封面\",\n  \"magazine_header\": {\n    \"title\": \"{argument name=\\\"magazine name\\\" default=\\\"週刊LUMINA\\\"}\",\n    \"issue_date\": \"4 月 25 日号\",\n    \"price\": \"¥450\"\n  },\n  \"main_photo\": {\n    \"subject\": \"{argument name=\\\"subject description\\\" default=\\\"一位年轻日本女性惊讶回头，身穿白色上衣外搭牛仔外套\\\"}\",\n    \"setting\": \"带有焦外成像灯光的夜间街道\",\n    \"style\": \"狗仔队闪光灯摄影风格\"\n  },\n  \"layout\": {\n    \"headlines\": [\n      { \"position\": \"左上角横幅\", \"text\": \"{argument name=\\\"top banner text\\\" default=\\\"独占スクープ!!\\\"}\", \"color\": \"红色背景上的白色文字\" },\n      { \"position\": \"左侧纵向\", \"text\": \"{argument name=\\\"main headline left\\\" default=\\\"深夜の目撃情報！\\\"}\", \"color\": \"带黑色描边的黄色文字\" },\n      { \"position\": \"右侧纵向\", \"text\": \"{argument name=\\\"main headline right\\\" default=\\\"ついに発覚!?\\\"}\", \"color\": \"带白色描边的红色文字\" },\n      { \"position\": \"底部中心堆叠 1\", \"text\": \"冲击瞬间抓拍！\", \"color\": \"黑色背景上的黄色文字\" },\n      { \"position\": \"底部中心堆叠 2\", \"text\": \"相关人士讲述真相\", \"color\": \"红色背景上的白色文字\" },\n      { \"position\": \"底部中心堆叠 3\", \"text\": \"揭露禁忌的幕后！\", \"color\": \"黑色背景上的黄色文字\" },\n      { \"position\": \"左下角横幅\", \"text\": \"独家内幕报道\", \"color\": \"红色背景上的白色文字\" }\n    ],\n    \"inset_photos\": {\n      \"count\": 3,\n      \"details\": [\n        { \"position\": \"右上角\", \"description\": \"女性低头抱头\", \"label\": \"极秘照片入手!!\" },\n        { \"position\": \"左下角\", \"description\": \"女性与一名戴眼镜的男子交谈\", \"label\": \"亲密交往曝光!?\" },\n        { \"position\": \"右下角\", \"description\": \"从侧面拍摄的男女\", \"label\": \"热恋曝光 入手!\" }\n      ]\n    },\n    \"footer\": {\n      \"elements\": [\"条形码\", \"188\", \"963469 195449\"]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日本小报杂志封面：生成逼真的日本周刊八卦杂志封面，包含狗仔队风格摄影、耸人听闻的标题以及多张插图。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14042",
+      "14154",
+      "14561",
+      "14562",
+      "14902",
+      "14930"
+    ]
+  }
+}

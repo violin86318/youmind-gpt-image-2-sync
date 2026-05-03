@@ -1,0 +1,41 @@
+{
+  "id": "14138",
+  "prompt": "生成一组复古的拟物化风格的{argument name=\"设备类型\" default=\"老式电子设备\"}的图标，图中配有图标名称",
+  "translatedPrompt": "Generate a set of icons for {argument name=\"device type\" default=\"vintage electronic equipment\"} in a retro skeuomorphic style, with icon names included in the image.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Vintage Skeuomorphic Icon Set：Generates a set of icons for vintage electronic devices in a retro skeuomorphic style with visible labels.",
+      "subject": "产品",
+      "scene": "图标/贴纸",
+      "composition": [],
+      "style": [
+        "vintage",
+        "retro"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "图标包、贴纸、表情、产品功能图标",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 图标/贴纸 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: vintage, retro]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13831",
+      "14248",
+      "14993",
+      "14146",
+      "14183",
+      "13534"
+    ]
+  }
+}

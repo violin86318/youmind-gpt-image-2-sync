@@ -1,0 +1,52 @@
+{
+  "id": "14628",
+  "prompt": "A realistic indoor fashion portrait of a young East Asian woman seated on a simple black folding chair, framed from head to upper thighs in a vertical composition. She has dark brown to nearly black hair parted in the center and tied back into a low ponytail, with a few soft loose strands near the ears, and small delicate earrings. Her face is intentionally obscured and featureless, with no visible eyes, nose, or mouth detail. She wears a fitted ribbed zip-front crop top in {argument name=\"top color\" default=\"deep chocolate brown\"}, with a collar, three-quarter sleeves, and the zipper partially open to create a deep neckline, paired with high-waisted straight-leg pants in a matching {argument name=\"pants color\" default=\"brown\"}. Her body is angled slightly toward the camera with relaxed shoulders, hands resting together between her knees, conveying a calm casual studio pose. The background is a soft off-white draped fabric curtain with gentle folds, lit by diffused natural window light for a clean, minimalist studio look. Emphasize realistic skin texture, soft shadows, neutral warm tones, shallow depth of field, and polished high-end fashion photography styling.",
+  "translatedPrompt": "一张写实的室内摄影肖像，拍摄对象为一位年轻的东亚女性，她坐在一把简单的黑色折叠椅上，采用竖构图，取景范围从大腿上方至头部。她留着 {argument name=\"hair color\" default=\"深棕色\"} 的头发，中分后扎成低马尾，耳边留有几缕柔和的发丝，佩戴精致的小耳环，皮肤白皙细腻，姿态平静自然，双手交叠放在膝盖之间。她身穿一件 {argument name=\"top color\" default=\"深巧克力棕色\"} 的修身罗纹拉链短款上衣，配有尖领和七分袖，拉链微开形成深领口，下身搭配同色系的 {argument name=\"pants color\" default=\"暖棕色\"} 高腰直筒裤。整体造型采用棕色系同色搭配，展现出细腻的织物纹理和自然的身体轮廓。背景为带有柔和褶皱的米白色垂坠布景，光线采用柔和的自然窗光，营造出干净、柔和的编辑风格室内视觉效果。写实风格，浅景深，柔和阴影，低调时尚肖像，极简布景，主体居中，放松的坐姿，高细节皮肤与织物纹理。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "棕色调室内坐姿肖像：此提示词可生成一张写实的室内时尚肖像，画面中女性身着同色系棕色套装，适用于编辑类生活方式或服装摄影。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "minimalist",
+        "studio"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, minimalist, studio]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14679",
+      "15028",
+      "15533",
+      "14630",
+      "14996",
+      "15723"
+    ]
+  }
+}

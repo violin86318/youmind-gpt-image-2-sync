@@ -1,0 +1,39 @@
+{
+  "id": "14069",
+  "prompt": "A 2D anime illustration of a sleeping {argument name=\"character type\" default=\"chibi witch\"} with black hair, wearing a large black hat decorated with {argument name=\"hat decoration\" default=\"metal gears\"} and a dark outfit with belts. She rests on a soft, dark blue starry pillow shaped like a crescent moon, with \"ZZZ\" floating near her head. She is accompanied by {argument name=\"animal companions\" default=\"two black birds, one wearing a tiny top hat\"}. The scene is framed by a circular night sky background featuring a glowing crescent moon and stars. The bottom edge is adorned with fluffy clouds and {argument name=\"props\" default=\"steampunk gears, a glowing lantern, and a closed spellbook\"}. The artwork features a {argument name=\"color palette\" default=\"dark blue, black, and warm gold\"} color palette and is styled as a paper cutout or die-cut sticker with a soft drop shadow against a plain off-white background.",
+  "translatedPrompt": "一张 2D 动漫插画，描绘了一个正在睡觉的 {argument name=\"character type\" default=\"Q 版女巫\"}，她有着黑色的头发，戴着一顶装饰有 {argument name=\"hat decoration\" default=\"金属齿轮\"} 的大黑帽子，身穿带有皮带的深色服装。她靠在一个柔软的深蓝色月牙形星空枕头上，头边漂浮着“ZZZ”字样。陪伴在她身边的是 {argument name=\"animal companions\" default=\"两只黑鸟，其中一只戴着小礼帽\"}。场景由一个带有发光月牙和星星的圆形夜空背景框起。底部边缘装饰着蓬松的云朵和 {argument name=\"props\" default=\"蒸汽朋克齿轮、发光的灯笼以及一本合上的魔法书\"}。整幅作品采用了 {argument name=\"color palette\" default=\"深蓝色、黑色和暖金色\"} 的配色方案，呈现出纸艺剪裁或模切贴纸的风格，并在纯米白色背景上带有柔和的投影。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "蒸汽朋克 Q 版女巫贴纸插画：生成一张 2D 动漫风格的模切贴纸插画，描绘了带有蒸汽朋克元素和动物伙伴的 Q 版睡眠角色。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13595",
+      "13618",
+      "13635",
+      "13654",
+      "13672",
+      "13800"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "15318",
+  "prompt": "{\"type\":\"side-by-side model comparison poster\",\"subject\":\"dramatic soccer goal celebration\",\"style\":\"cinematic sports photography comparison, high energy, realistic, editorial social-media graphic\",\"layout\":{\"orientation\":\"vertical\",\"sections\":[{\"title\":\"GPT-image-2\",\"position\":\"top half\",\"count\":1,\"labels\":[\"GPT-image-2\"]},{\"title\":\"Nano Banana 2\",\"position\":\"bottom half\",\"count\":1,\"labels\":[\"Nano Banana 2\"]}],\"divider\":\"one thick horizontal white line separating the two images\",\"border\":\"black filmstrip border on the left and right edges with evenly spaced white sprocket holes, approximately 15 visible holes per side\",\"watermarks\":[{\"text\":\"GPT-image-2\",\"position\":\"lower right area of top panel\"},{\"text\":\"Nano Banana 2\",\"position\":\"upper right area of bottom panel\"}]},\"scene\":{\"sport\":\"football / soccer\",\"moment\":\"a player scores and celebrates by knee-sliding toward the camera with arms stretched wide while teammates run in from behind\",\"camera\":\"low field-level angle, slightly wide lens, center-framed main player, dynamic perspective\",\"environment\":\"packed stadium at night under bright floodlights, blurred cheering crowd, vivid green grass, bits of turf flying\"},\"panels\":{\"top\":{\"look\":\"Champions League style match photo, darker and more contrasty, polished broadcast realism\",\"main player\":{\"kit\":\"black jersey and shorts with gold lettering and trim\",\"pose\":\"sliding on both knees toward camera, torso leaning back slightly, both arms spread wide\"},\"teammates\":{\"count\":4,\"descriptions\":[\"one teammate behind center running forward\",\"one teammate on right running with arms out, wearing a captain armband\",\"one teammate far left in the background with arms lifted\",\"one distant teammate at far right background\"]},\"crowd\":\"dense blue-toned stadium crowd, heavily blurred\",\"text_overlay\":\"large bold white sans-serif text reading GPT-image-2\"},\"bottom\":{\"look\":\"more generic but dramatic sports photo, brighter stadium haze, slightly softer realism\",\"main player\":{\"kit\":\"plain light gray or white jersey and shorts\",\"pose\":\"sliding on both knees toward camera, arms thrown wide, dirt and grass kicked up near the legs\"},\"teammates\":{\"count\":5,\"descriptions\":[\"one teammate at far left running forward\",\"one teammate left of center leaping with knees bent\",\"one teammate behind center-right running\",\"one teammate right of center running toward the celebration\",\"one teammate at far right with both fists raised\"]},\"crowd\":\"cheering spectators with several red-white-green flags visible\",\"lighting\":\"bright overhead stadium lights with atmospheric glow\",\"text_overlay\":\"large bold white sans-serif text reading Nano Banana 2\",\"extra_mark\":\"small white sparkle icon near the bottom-right corner\"}},\"quality\":\"high detail, motion, shallow depth of field, realistic skin and fabric texture, dramatic sports action, social post comparison aesthetic\",\"avoid\":\"cartoon style, empty stadium, static posing, close-up crop, logos other than the visible comparison text\"}",
+  "translatedPrompt": "{\"type\":\"并排模型对比海报\",\"subject\":\"戏剧性的足球进球庆祝\",\"style\":\"电影感体育摄影对比，高能量，写实，编辑类社交媒体图形\",\"layout\":{\"orientation\":\"垂直\",\"sections\":[{\"title\":\"GPT-image-2\",\"position\":\"上半部分\",\"count\":1,\"labels\":[\"GPT-image-2\"]},{\"title\":\"Nano Banana 2\",\"position\":\"下半部分\",\"count\":1,\"labels\":[\"Nano Banana 2\"]}],\"divider\":\"一条粗水平白线将两张图像分隔开\",\"border\":\"左右边缘带有黑色胶片边框，两侧各有均匀分布的白色链轮孔，每侧约 15 个孔\",\"watermarks\":[{\"text\":\"GPT-image-2\",\"position\":\"顶部面板右下角区域\"},{\"text\":\"Nano Banana 2\",\"position\":\"底部面板右上角区域\"}]},\"scene\":{\"sport\":\"足球\",\"moment\":\"一名球员进球后，双膝跪地滑向镜头，双臂张开，队友从后方奔跑而来\",\"camera\":\"低机位球场视角，略微广角，主角居中，动态透视\",\"environment\":\"夜间满座体育场，明亮的泛光灯下，模糊的欢呼人群，鲜艳的绿草地，飞溅的草皮碎片\"},\"panels\":{\"top\":{\"look\":\"欧冠风格比赛照片，色调较暗且对比度高，具有广播级的写实感\",\"main player\":{\"kit\":\"黑色球衣球裤，带有金色字母和饰边\",\"pose\":\"双膝跪地滑向镜头，躯干略微后仰，双臂张开\"},\"teammates\":{\"count\":4,\"descriptions\":[\"一名队友在后方居中位置向前奔跑\",\"一名队友在右侧张开双臂奔跑，佩戴队长袖标\",\"一名队友在左后方背景中举起双臂\",\"一名远处的队友在右后方背景中\"]},\"crowd\":\"密集的蓝色调体育场人群，高度模糊\",\"text_overlay\":\"大号粗体白色无衬线文字，内容为 GPT-image-2\"},\"bottom\":{\"look\":\"更通用但具有戏剧性的体育照片，明亮的体育场雾气，写实感稍显柔和\",\"main player\":{\"kit\":\"纯浅灰色或白色球衣球裤\",\"pose\":\"双膝跪地滑向镜头，双臂张开，腿部附近踢起泥土和草屑\"},\"teammates\":{\"count\":5,\"descriptions\":[\"一名队友在最左侧向前奔跑\",\"一名队友在中心左侧屈膝跳跃\",\"一名队友在中心右后方奔跑\",\"一名队友在中心右侧向庆祝人群奔跑\",\"一名队友在最右侧双拳高举\"]},\"crowd\":\"欢呼的观众，可见几面红白绿旗帜\",\"lighting\":\"明亮的头顶体育场灯光，带有大气光晕\",\"text_overlay\":\"大号粗体白色无衬线文字，内容为 Nano Banana 2\",\"extra_mark\":\"右下角附近有一个白色小闪光图标\"}},\"quality\":\"高细节，动感，浅景深，逼真的皮肤和织物纹理，戏剧性的体育动作，社交媒体对比美学\",\"avoid\":\"卡通风格，空旷的体育场，静态姿势，特写裁剪，除可见对比文字外的其他标志\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "足球模型对比海报：一张垂直的社交媒体对比图，展示了两个由 AI 生成的足球进球庆祝场景，通过上下分栏的形式对比图像模型的真实感与风格。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "editorial"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "lens",
+        "camera"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, cinematic, editorial]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, lens, camera]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15786",
+      "14489",
+      "15026",
+      "15682",
+      "15314",
+      "14246"
+    ]
+  }
+}

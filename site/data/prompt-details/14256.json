@@ -1,0 +1,47 @@
+{
+  "id": "14256",
+  "prompt": "A highly detailed, isometric 3D miniature diorama map of {argument name=\"city name\" default=\"Chongqing\"}, blending traditional Chinese architecture with modern skyscrapers, set against a vintage parchment map background. The scene features a winding river with a modern bridge connecting a densely packed peninsula of high-rises to older, multi-tiered traditional buildings glowing with warm light. A monorail train curves along a track near the water. Key landmarks are labeled with vertical banners containing Chinese characters, such as \"洪崖洞\" (Hongyadong) and \"解放碑\" (Jiefangbei). The top left corner displays large calligraphy reading \"{argument name=\"main title\" default=\"重庆\"}\" above the English text \"{argument name=\"english subtitle\" default=\"CHONGQING\"}\" and smaller Chinese text \"山城雾都·江城重庆\" alongside a red seal. The lighting is warm and cinematic, emphasizing the intricate textures of the miniature buildings, trees, and water, creating a tilt-shift photography effect.",
+  "translatedPrompt": "A highly detailed, isometric 3D miniature diorama map of {argument name=\"city name\" default=\"Chongqing\"}, blending traditional Chinese architecture with modern skyscrapers, set against a vintage parchment map background. The scene features a winding river with a modern bridge connecting a densely packed peninsula of high-rises to older, multi-tiered traditional buildings glowing with warm light. A monorail train curves along a track near the water. Key landmarks are labeled with vertical banners containing Chinese characters, such as \"洪崖洞\" (Hongyadong) and \"解放碑\" (Jiefangbei). The top left corner displays large calligraphy reading \"{argument name=\"main title\" default=\"重庆\"}\" above the English text \"{argument name=\"english subtitle\" default=\"CHONGQING\"}\" and smaller Chinese text \"山城雾都·江城重庆\" alongside a red seal. The lighting is warm and cinematic, emphasizing the intricate textures of the miniature buildings, trees, and water, creating a tilt-shift photography effect.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Miniature 3D City Diorama Map：Generates a highly detailed, isometric 3D miniature diorama of a city blending traditional and modern architecture on a vintage map background.",
+      "subject": "空间",
+      "scene": "空间/场景",
+      "composition": [
+        "isometric",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "3d",
+        "vintage",
+        "isometric"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "空间概念、建筑场景、游戏场景、产品场景盒子",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 空间/场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: isometric, vertical]。\n\nVisual style:\n[参考风格: cinematic, 3d, vintage, isometric]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14255",
+      "15440",
+      "15405",
+      "13971",
+      "15328",
+      "13690"
+    ]
+  }
+}

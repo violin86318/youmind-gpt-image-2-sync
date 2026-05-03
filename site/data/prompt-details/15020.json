@@ -1,0 +1,41 @@
+{
+  "id": "15020",
+  "prompt": "A soft, airy anime portrait of a delicate young woman in a minimalist off-white background, shown from the chest up in a close three-quarter view. She has long, slightly wavy {argument name=\"hair color\" default=\"dark brown with ash-gray highlights\"} hair with wispy strands and straight-cut bangs, tied on one side with a large black ribbon bow. Her eyes are large, glossy, and pale gray with detailed lashes and a dreamy, distant expression. She rests her cheek against one hand, with slender fingers partly covering her face and muted gray nail polish visible. She wears a white off-shoulder blouse with voluminous sleeves, soft ruffles, gathered fabric, and thin black ribbon ties on the sleeves, creating a gentle monochrome contrast. Add a single long, elegant gold drop earring with a small pearl on the visible ear. Use a clean manga-inspired illustration style with light linework, subtle blush tones, soft cel shading, and painterly highlights in the hair. The mood is quiet, wistful, and feminine, with a refined fashion-illustration feel and a very limited palette of white, black, taupe, and gray.",
+  "translatedPrompt": "一张柔和、轻盈的动漫肖像，描绘了一位精致的年轻女性，背景为极简的米白色，采用胸部以上的四分之三侧面特写视角。她留着长而微卷的 {argument name=\"hair color\" default=\"深棕色配灰褐色挑染\"} 头发，发丝轻盈，留着齐刘海，一侧系着一个巨大的黑色蝴蝶结。她的双眼大而有神，呈浅灰色，睫毛细节丰富，流露出梦幻而遥远的表情。她单手托腮，纤细的手指半掩面庞，指尖涂着柔和的灰色指甲油。她身穿白色露肩衬衫，袖口蓬松，带有柔和的荷叶边和褶皱设计，袖子上系着细细的黑色丝带，营造出柔和的单色对比感。在可见的耳朵上增加一枚简约优雅的金色长款珍珠耳坠。采用干净的日漫插画风格，线条细腻，带有淡淡的腮红、柔和的赛璐珞阴影以及如油画般的发丝高光。整体氛围安静、忧郁且充满女性魅力，具有精致的时装插画质感，配色仅限于白色、黑色、灰褐色和灰色。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "柔和单色动漫少女肖像：此提示词可生成一张时尚的动漫少女特写肖像，非常适合用作头像、角色插画或优雅的社交媒体视觉素材。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime",
+        "manga",
+        "minimalist"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime, manga, minimalist]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13448",
+      "13841",
+      "13919",
+      "14694",
+      "13754",
+      "13802"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "14899",
+  "prompt": "A high-energy vertical anime street poster inspired by a pirate adventure crew, designed like a stylish summer campaign key visual in a modern Japanese shopping street under a vivid blue sky with fluffy white clouds. Show exactly 8 characters grouped closely in the foreground and midground, all happily eating colorful ice cream cones while walking through the city. Center front: a young man in a wide straw hat, oversized red graphic T-shirt, blue shorts, and a black crossbody waist bag, holding a mint-blue ice cream cone. Front left: a green-haired young man in a black oversized graphic shirt with green lettering and layered necklaces, eating ice cream. Front right: a small chibi-like reindeer mascot character wearing a large pink hat with a white X, black and pink streetwear jacket, and holding a blue-and-pink ice cream cone. Right midground: a long-nosed smiling young man in a cap and casual streetwear, loudly laughing with an ice cream cone; behind him a tall skeleton man with a large black afro, crown-like hat, purple hoodie, sunglasses, and an ice cream cone. Left midground: an orange-haired young woman in a cropped white tank top and jeans holding ice cream; behind center-left a blond young man in a blue shirt with a relaxed pose and ice cream; center-right a dark-haired young woman in a purple outfit with sunglasses on her head holding ice cream. The mood is cheerful, summery, fashionable, and adventurous. Make the composition feel like a premium anime tourism or retail poster with dramatic perspective from street level, dense urban signage, shop windows, hanging signs, and branded poster panels. Add large brush-script title text across the top reading {argument name=\"headline text\" default=\"ONE PIECE\"} in huge white paint strokes, with a yellow handwritten subtitle reading {argument name=\"subtitle text\" default=\"Straw Hat Crew\"}. On the upper left, stack poster text blocks reading exactly: \"STRAW HAT CREW\", \"2024\", \"WE GO! TOGETHER! NEW WORLD!\". On the right side, add a vertical street sign reading \"New World\". Include a pink hanging sign reading \"ICE CREAM\" with a skull emblem. Add pirate-skull hat emblems in the corners and on storefront signage. At the lower left, place white handwritten script reading \"Enjoy! Ice Cream\" with a small smiley, and beneath it smaller bold text reading \"一起去吃冰淇淋吧！\". At the lower left edge add small text: \"I'M GONNA BE KING OF THE PIRATES!\". At the lower right add \"ONE PIECE 2024\", a barcode, and tiny caption text \"STRAW HAT CREW SUMMER ICE CREAM\". Use glossy anime illustration rendering, bold cel shading, crisp line art, rich fabric folds, detailed accessories, vibrant summer lighting, cinematic contrast, poster-grade typography, and a polished commercial key art finish. Aspect ratio 2:3 portrait.",
+  "translatedPrompt": "一张充满活力的竖版动漫街头海报，灵感源自海盗冒险团队，设计风格如同现代日本商业街的时尚夏季宣传主视觉图，背景为湛蓝天空与蓬松白云。画面前景和中景需精确展示 8 个角色，他们正开心地吃着色彩缤纷的冰淇淋球，漫步在城市中。正前方中心：一名戴着宽檐草帽的年轻男子，身穿超大号红色印花 T 恤、蓝色短裤，斜挎黑色腰包，手持薄荷蓝色冰淇淋。左前方：一名绿发年轻男子，身穿带有绿色字母的黑色超大号印花衬衫，佩戴叠层项链，正在吃冰淇淋。右前方：一个类似 Q 版驯鹿的吉祥物角色，戴着带有白色 X 标志的大粉色帽子，身穿黑粉色街头风夹克，手持蓝粉色冰淇淋。右中景：一名戴着帽子、穿着休闲街头服饰的长鼻子年轻男子，正拿着冰淇淋开怀大笑；他身后是一个高大的骷髅男，留着黑色大爆炸头，戴着皇冠状帽子、紫色连帽衫和太阳镜，手里拿着冰淇淋。左中景：一名橙发年轻女子，身穿白色短款背心和牛仔裤，手持冰淇淋；中左后方是一名身穿蓝色衬衫的年轻金发男子，姿态放松，手持冰淇淋；中右方是一名深色头发的年轻女子，身穿紫色套装，头上架着太阳镜，手持冰淇淋。整体氛围欢快、夏日感十足、时尚且充满冒险气息。构图需呈现出高级动漫旅游或零售海报的质感，采用街头视角的戏剧性透视，包含密集的城市招牌、商店橱窗、悬挂式标牌和品牌海报板。在顶部添加巨大的白色笔触书法标题文本 {argument name=\"headline text\" default=\"ONE PIECE\"}，并配以黄色的手写副标题 {argument name=\"subtitle text\" default=\"Straw Hat Crew\"}。在左上方，堆叠排列海报文本块，内容需完全一致：\"STRAW HAT CREW\"、\"2024\"、\"WE GO! TOGETHER! NEW WORLD!\"。在右侧，添加一个写有 \"New World\" 的竖向路牌。包含一个写有 \"ICE CREAM\" 并带有骷髅标志的粉色悬挂标牌。在角落和店面招牌上添加海盗骷髅帽标志。在左下角，放置白色手写体 \"Enjoy! Ice Cream\" 并配以小笑脸，下方添加较小的加粗文本 \"一起去吃冰淇淋吧！\"。在左下边缘添加小字：\"I'M GONNA BE KING OF THE PIRATES!\"。在右下角添加 \"ONE PIECE 2024\"、条形码以及微小的说明文字 \"STRAW HAT CREW SUMMER ICE CREAM\"。采用光泽感动漫插画渲染、大胆的赛璐珞阴影、清晰的线条艺术、丰富的布料褶皱、精细的配饰、鲜艳的夏日光影、电影级对比度、海报级排版以及精致的商业主视觉成品效果。长宽比为 2:3 竖版。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫夏日街头海报：此提示词可生成一张精致的竖版动漫风格群像海报，描绘了一群海盗主题的好友在阳光明媚的城市街道上吃冰淇淋的场景，非常适合作为同人艺术主视觉图、活动海报及时尚宣传图。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical]。\n\nVisual style:\n[参考风格: cinematic, anime, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15809",
+      "14505",
+      "14982",
+      "14518",
+      "15077",
+      "14915"
+    ]
+  }
+}

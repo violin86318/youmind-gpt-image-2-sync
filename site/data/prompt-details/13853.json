@@ -1,0 +1,42 @@
+{
+  "id": "13853",
+  "prompt": "A hyper-detailed macro shot of a {argument name=\"subject\" default=\"translucent jellyfish made entirely of stained glass\"}, suspended mid-air inside a {argument name=\"location\" default=\"Victorian library\"}, refracting candlelight into fractal rainbows across floating ancient books, with readable {argument name=\"text style\" default=\"Sanskrit text\"}, photorealistic",
+  "translatedPrompt": "一张超精细的微距照片，拍摄的是一个 {argument name=\"subject\" default=\"完全由彩色玻璃制成的半透明水母\"}，悬浮在 {argument name=\"location\" default=\"维多利亚式图书馆\"} 内，将烛光折射成穿过漂浮古籍的分形彩虹，带有可辨认的 {argument name=\"text style\" default=\"梵文文本\"}，照片级真实感",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "微距彩色玻璃水母：一个关于在图书馆场景中拍摄玻璃水母微距照片的超现实且细节丰富的提示词。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13603",
+      "13960",
+      "13961",
+      "14258",
+      "13874",
+      "13966"
+    ]
+  }
+}

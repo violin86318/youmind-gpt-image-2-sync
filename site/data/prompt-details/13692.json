@@ -1,0 +1,43 @@
+{
+  "id": "13692",
+  "prompt": "{\n  \"type\": \"two-sided event flyer mockup\",\n  \"style\": \"watercolor illustration, warm earthy tones, cozy, inviting, rustic\",\n  \"left_side_front\": {\n    \"header\": {\n      \"title\": \"{argument name=\\\"event name\\\" default=\\\"SENDAI COFFEE PICNIC 2026\\\"}\",\n      \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"街のカフェが集まる、春の1日\\\"}\",\n      \"tagline\": \"A relaxing time with your favorite cup\"\n    },\n    \"main_illustration\": \"People enjoying a picnic on a grassy field. A family sitting on a checkered blanket drinking coffee. Background features wooden coffee stalls, tents, trees, and a distant city skyline.\",\n    \"event_info\": {\n      \"date\": \"{argument name=\\\"event date\\\" default=\\\"2026年5月16日(土) - 17日(日)\\\"}\",\n      \"time\": \"10:00 - 17:00\",\n      \"location\": \"{argument name=\\\"location\\\" default=\\\"七北田公園 芝生広場\\\"}\",\n      \"badge\": \"Orange oval badge with text for free entry\"\n    },\n    \"footer\": {\n      \"sponsor_logos\": 4,\n      \"elements\": [\"QR code\", \"grass and white flowers border\"]\n    }\n  },\n  \"right_side_back\": {\n    \"header\": {\n      \"title\": \"{argument name=\\\"event name\\\" default=\\\"SENDAI COFFEE PICNIC 2026\\\"}\",\n      \"illustration\": \"small green tree\"\n    },\n    \"sections\": [\n      {\n        \"title\": \"Vendor List\",\n        \"layout\": \"2 columns\",\n        \"count\": 9,\n        \"labels\": [\"Blue Ridge Roastery\", \"NORTH BEANS LAB\", \"SUNNY DAY COFFEE\", \"KITSUNE COFFEE WORKS\", \"Forest Table Cafe\", \"creme & crumb\", \"GOOD DAY SAND\", \"HOSHINO KITCHEN CAR\", \"PIZZA VAN 88\"],\n        \"illustrations\": [\"sandwiches\", \"pizza\", \"coffee cups\"]\n      },\n      {\n        \"title\": \"Event Timetable\",\n        \"layout\": \"2 columns\",\n        \"count\": 7,\n        \"description\": \"Schedule with times like 10:30, 11:30, 13:00, 14:30, 16:00 and event names\"\n      },\n      {\n        \"title\": \"Feature Highlights\",\n        \"layout\": \"3 horizontal boxes\",\n        \"count\": 3,\n        \"labels\": [\"Latte Art Experience\", \"Coffee Tasting Stamp Rally\", \"Food & Sweets Area\"],\n        \"illustrations\": [\"single coffee cup\", \"multiple coffee cups\", \"food basket\"]\n      }\n    ],\n    \"footer\": {\n      \"social_media\": \"{argument name=\\\"social handle\\\" default=\\\"@sendai_coffee_picnic\\\"}\",\n      \"icons\": [\"Instagram logo\"],\n      \"elements\": [\"QR code\", \"brown background strip\"]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"双面活动传单样机\",\n  \"style\": \"水彩插画，温暖的大地色调，温馨，引人入胜，质朴\",\n  \"left_side_front\": {\n    \"header\": {\n      \"title\": \"{argument name=\\\"event name\\\" default=\\\"SENDAI COFFEE PICNIC 2026\\\"}\",\n      \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"街のカフェが集まる、春の1日\\\"}\",\n      \"tagline\": \"与你心仪的咖啡共度悠闲时光\"\n    },\n    \"main_illustration\": \"人们在草地上享受野餐。一家人坐在格子野餐垫上喝咖啡。背景为木质咖啡摊位、帐篷、树木以及远处的城市天际线。\",\n    \"event_info\": {\n      \"date\": \"{argument name=\\\"event date\\\" default=\\\"2026 年 5 月 16 日(周六) - 17 日(周日)\\\"}\",\n      \"time\": \"10:00 - 17:00\",\n      \"location\": \"{argument name=\\\"location\\\" default=\\\"七北田公園 芝生広場\\\"}\",\n      \"badge\": \"带有免费入场文字的橙色椭圆形徽章\"\n    },\n    \"footer\": {\n      \"sponsor_logos\": 4,\n      \"elements\": [\"二维码\", \"草地与小白花边框\"]\n    }\n  },\n  \"right_side_back\": {\n    \"header\": {\n      \"title\": \"{argument name=\\\"event name\\\" default=\\\"SENDAI COFFEE PICNIC 2026\\\"}\",\n      \"illustration\": \"小绿树\"\n    },\n    \"sections\": [\n      {\n        \"title\": \"参展商列表\",\n        \"layout\": \"2 列\",\n        \"count\": 9,\n        \"labels\": [\"Blue Ridge Roastery\", \"NORTH BEANS LAB\", \"SUNNY DAY COFFEE\", \"KITSUNE COFFEE WORKS\", \"Forest Table Cafe\", \"creme & crumb\", \"GOOD DAY SAND\", \"HOSHINO KITCHEN CAR\", \"PIZZA VAN 88\"],\n        \"illustrations\": [\"三明治\", \"披萨\", \"咖啡杯\"]\n      },\n      {\n        \"title\": \"活动日程表\",\n        \"layout\": \"2 列\",\n        \"count\": 7,\n        \"description\": \"包含 10:30、11:30、13:00、14:30、16:00 等时间节点及活动名称的日程安排\"\n      },\n      {\n        \"title\": \"特色亮点\",\n        \"layout\": \"3 个横向方框\",\n        \"count\": 3,\n        \"labels\": [\"拉花体验\", \"咖啡品鉴集章活动\", \"美食与甜点区\"],\n        \"illustrations\": [\"单只咖啡杯\", \"多只咖啡杯\", \"食物篮\"]\n      }\n    ],\n    \"footer\": {\n      \"social_media\": \"{argument name=\\\"social handle\\\" default=\\\"@sendai_coffee_picnic\\\"}\",\n      \"icons\": [\"Instagram 图标\"],\n      \"elements\": [\"二维码\", \"棕色背景条\"]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "双面水彩风格活动传单样机：生成一款温馨的水彩风格双面活动传单样机，适用于咖啡野餐活动，包含插画、参展商列表和活动日程。",
+      "subject": "文字符号",
+      "scene": "图标/贴纸",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [
+        "watercolor"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "图标包、贴纸、表情、产品功能图标",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 图标/贴纸 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[参考风格: watercolor]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15719",
+      "15029",
+      "15059",
+      "15284",
+      "14993",
+      "13906"
+    ]
+  }
+}

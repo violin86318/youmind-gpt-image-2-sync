@@ -1,0 +1,40 @@
+{
+  "id": "15510",
+  "prompt": "Japanese negative film aesthetic, {argument name=\"scene\" default=\"rooftop summer scene\"}, soft natural sunlight, slight overexposure highlights, low contrast, muted faded colors, subtle grain {argument name=\"subject\" default=\"subject standing or sitting on rooftop edge area\"}, body relaxed, slight wind moving hair and clothes, looking toward camera with calm distant gaze, not posing open sky, empty space, minimal elements, imperfect composition, quiet isolated mood, nostalgic and reflective, “memory-like realism” --2:3",
+  "translatedPrompt": "日系负片美学，{argument name=\"scene\" default=\"夏日天台场景\"}，柔和的自然阳光，轻微的高光过曝，低对比度，柔和褪色的色彩，细腻的颗粒感，{argument name=\"subject\" default=\"人物站在或坐在天台边缘区域\"}，身体放松，微风拂动头发和衣物，看向镜头，眼神平静而遥远，非摆拍，开阔的天空，留白，极简元素，不完美的构图，安静孤寂的氛围，怀旧且引人深思，“记忆般的写实感” --2:3",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日系胶片美学天台：一个带有日系负片美学和柔和自然光的怀旧天台场景提示词。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "low contrast",
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: low contrast, camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15513",
+      "15163",
+      "15613",
+      "13869",
+      "13873",
+      "13895"
+    ]
+  }
+}

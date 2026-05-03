@@ -1,0 +1,41 @@
+{
+  "id": "13791",
+  "prompt": "A desktop wallpaper featuring a horizontal four-panel split layout with thick black borders. It showcases half-body portraits in a high-contrast {argument name=\"art style\" default=\"woodcut printmaking\"} style with thick black lines and cross-hatching, conveying a confident and elite mood. From left to right: {argument name=\"subject 1\" default=\"Jack Ma\"} against a textured orange background; {argument name=\"subject 2\" default=\"Elon Musk\"} in a suit against a textured red background; {argument name=\"subject 3\" default=\"Mark Zuckerberg\"} in a black shirt against a textured blue background; and {argument name=\"subject 4\" default=\"Pony Ma\"} wearing glasses and a suit against a textured green background. The subjects are rendered in monochromatic beige tones, contrasting sharply with the vibrant background of each pane.",
+  "translatedPrompt": "一张带有横向四联分屏布局和粗黑边框的桌面壁纸。它展示了半身肖像，采用高对比度的 {argument name=\"art style\" default=\"木刻版画\"} 风格，运用粗线条和交叉排线，传达出自信且精英的氛围。从左至右依次为：背景为纹理橙色的 {argument name=\"subject 1\" default=\"马云\"}；背景为纹理红色的身着西装的 {argument name=\"subject 2\" default=\"埃隆·马斯克\"}；背景为纹理蓝色的身着黑色衬衫的 {argument name=\"subject 3\" default=\"马克·扎克伯格\"}；以及背景为纹理绿色、戴眼镜穿西装的 {argument name=\"subject 4\" default=\"马化腾\"}。人物主体以单色米色调呈现，与每个分屏鲜艳的背景形成强烈对比。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "四联木刻版画风格肖像壁纸：生成一张四联分屏壁纸，以高对比度的版画风格呈现独特的肖像。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13548",
+      "13547",
+      "13925",
+      "13608",
+      "13625",
+      "13638"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "14826",
+  "prompt": "Create a dramatic square commercial poster for a spicy snack brand, with a fiery red storm atmosphere and high-energy food advertising style. The background is a dark crimson sky filled with glowing clouds, scattered sparks, and visible lightning bolts. In the center, a giant tornado made of swirling transparent wind rings, glossy whole red chili peppers, square corn chips, crumbs, and seasoning particles rises upward from an opened snack bag, forming a powerful vortex. The tornado should feel dynamic and explosive, with chips and chili peppers flying outward in different sizes and depths for a cinematic 3D look. At the bottom center, place a glossy red snack packet standing upright, labeled with the brand logo and product name {argument name=\"product name\" default=\"Crispy Nachos Chips\"}, with a spicy flavor badge reading {argument name=\"flavor text\" default=\"Spicy Masala\"}, a small chili illustration, a corn note near the bottom, and a printed image of square nacho chips on the front. Put a stylized playful logo at the top left reading {argument name=\"brand name\" default=\"SnaX\"} in bold yellow and white script with a red outline, and a clean white platform watermark at the top right reading {argument name=\"platform text\" default=\"Pollo.ai\"}. On the left side, add a huge stacked distressed headline in bold condensed uppercase, with the first word in golden yellow and the remaining three lines in white, reading exactly: {argument name=\"headline text\" default=\"WARNING! CRUNCH STORM INCOMING\"}. Use intense rim lighting, glossy highlights, deep shadows, rich red-orange color grading, and a premium snack advertisement composition that feels spicy, crunchy, chaotic, and irresistible.",
+  "translatedPrompt": "为一款辣味零食品牌创作一张极具戏剧性的正方形商业海报，营造火热的红色风暴氛围，展现高能量的食品广告风格。背景为深红色的天空，云层闪烁，火花四溅，并伴有清晰可见的闪电。画面中心，一个由旋转的透明风环、光泽饱满的红辣椒、方形玉米片、碎屑和调味料颗粒组成的巨大龙卷风，从打开的零食袋中向上升腾，形成强劲的涡流。龙卷风应具有动态感和爆发力，薯片和辣椒以不同的大小和深度向外飞散，呈现出电影级的 3D 质感。在底部中心，放置一个直立的光泽红色零食包装袋，上面印有品牌 Logo 和产品名称 {argument name=\"product name\" default=\"Crispy Nachos Chips\"}，并配有辣味标签 {argument name=\"flavor text\" default=\"Spicy Masala\"}、一个小辣椒插图、底部的玉米元素以及包装正面印有的方形玉米片图案。在左上角放置一个风格化且俏皮的 Logo {argument name=\"brand name\" default=\"SnaX\"}，采用醒目的黄白相间手写体，并带有红色描边；右上角添加一个简洁的白色平台水印 {argument name=\"platform text\" default=\"Pollo.ai\"}。在左侧，添加一个巨大的堆叠式做旧标题，采用粗体压缩大写字母，第一行文字为金黄色，其余三行文字为白色，内容必须为：{argument name=\"headline text\" default=\"WARNING! CRUNCH STORM INCOMING\"}。运用强烈的轮廓光、光泽高光、深邃阴影、浓郁的红橙色调，以及高级的零食广告构图，呈现出辛辣、酥脆、混乱且令人无法抗拒的视觉效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Spicy Nacho Tornado 广告：一款大胆的正方形零食广告，展示了从 Spicy Nacho 包装袋中喷涌而出的薯片与红辣椒龙卷风，非常适合食品营销和社交媒体推广。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "3d",
+        "premium"
+      ],
+      "lightingCamera": [
+        "rim light"
+      ],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, 3d, premium]。\n\nLighting and camera:\n[参考光线镜头: rim light]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14545",
+      "15012",
+      "15066",
+      "15430",
+      "14652",
+      "15099"
+    ]
+  }
+}

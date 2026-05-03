@@ -1,0 +1,48 @@
+{
+  "id": "13690",
+  "prompt": "{\n  \"type\": \"3x3 grid storyboard\",\n  \"style\": \"3D CG anime style, cinematic lighting, highly detailed sci-fi environments\",\n  \"character\": {\n    \"description\": \"{argument name=\\\"character description\\\" default=\\\"young woman with short black hair and round glasses\\\"}\",\n    \"outfit\": \"{argument name=\\\"suit design\\\" default=\\\"futuristic white and blue mecha plugsuit\\\"}\"\n  },\n  \"layout\": {\n    \"grid\": \"3x3\",\n    \"panel_count\": 9,\n    \"panels\": [\n      { \"position\": \"top-left\", \"scene\": \"Drinking traditional tea in a high-tech Japanese room with tatami mats\" },\n      { \"position\": \"top-center\", \"scene\": \"Looking out a window at a futuristic city under attack, holding a tea bowl\" },\n      { \"position\": \"top-right\", \"scene\": \"Looking at a red holographic warning screen displaying '{argument name=\\\"alert text\\\" default=\\\"ALERT 侵攻開始 敵性反応多数確認 ENEMY FORCE DETECTED\\\"}'\" },\n      { \"position\": \"mid-left\", \"scene\": \"Kneeling on the tatami mat in a ready stance\" },\n      { \"position\": \"mid-center\", \"scene\": \"Close-up portrait, touching headset with a serious expression\" },\n      { \"position\": \"mid-right\", \"scene\": \"Standing in a dark metallic hangar, fully equipped\" },\n      { \"position\": \"bottom-left\", \"scene\": \"Dashing through a war-torn battlefield with flying debris\" },\n      { \"position\": \"bottom-center\", \"scene\": \"Dynamic mid-air combat, attacking a mecha with a {argument name=\\\"weapon\\\" default=\\\"glowing blue energy blade\\\"}\" },\n      { \"position\": \"bottom-right\", \"scene\": \"Epic standoff, facing a {argument name=\\\"enemy\\\" default=\\\"massive enemy mecha\\\"} in a ruined landscape\" }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"3x3 网格分镜\",\n  \"character\": \"{argument name=\\\"character description\\\" default=\\\"年轻女性，黑色短发，戴眼镜，身穿蓝白相间科幻机甲服\\\"}\",\n  \"layout\": {\n    \"grid\": \"3x3\",\n    \"total_panels\": 9,\n    \"panels\": [\n      { \"position\": \"top-left\", \"scene\": \"在高科技榻榻米房间里喝茶\" },\n      { \"position\": \"top-center\", \"scene\": \"望着窗外城市的爆炸\" },\n      { \"position\": \"top-right\", \"scene\": \"看着红色全息图：'ALERT'，'{argument name=\\\"alert main text\\\" default=\\\"侵攻開始\\\"}'，'{argument name=\\\"alert sub text\\\" default=\\\"敵性反応多数確認\\\"}'\" },\n      { \"position\": \"mid-left\", \"scene\": \"跪在榻榻米上\" },\n      { \"position\": \"mid-center\", \"scene\": \"触摸耳机时的特写\" },\n      { \"position\": \"mid-right\", \"scene\": \"全身站在昏暗的机库中\" },\n      { \"position\": \"bottom-left\", \"scene\": \"在废墟战场上奔跑\" },\n      { \"position\": \"bottom-center\", \"scene\": \"手持能量刃跃起攻击机甲\" },\n      { \"position\": \"bottom-right\", \"scene\": \"面对庞大的敌方机甲军团\" }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "科幻动作 3x3 分镜项目：生成一个 9 宫格分镜，描绘一名科幻飞行员从宁静时刻过渡到激烈机甲战斗的过程。",
+      "subject": "人物",
+      "scene": "空间/场景",
+      "composition": [
+        "close-up",
+        "grid"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "3d",
+        "sci-fi"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "空间概念、建筑场景、游戏场景、产品场景盒子",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 空间/场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, grid]。\n\nVisual style:\n[参考风格: cinematic, anime, 3d, sci-fi]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14255",
+      "13971",
+      "15328",
+      "13614",
+      "13890",
+      "14686"
+    ]
+  }
+}

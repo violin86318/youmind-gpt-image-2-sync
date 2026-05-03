@@ -1,0 +1,47 @@
+{
+  "id": "15341",
+  "prompt": "A moody post-apocalyptic cinematic landscape at dusk, painted in a dark sepia and amber palette, showing the ruins of an industrial or urban structure beneath a turbulent sky filled with dense, glowing clouds. In the left foreground, a large diagonal collapsed metal beam or crane arm rises from the bottom left toward the upper left, draped with torn fabric or shredded sheeting and tangled cables. A single long cable stretches diagonally downward across the frame toward the center. In the hazy midground, slightly right of center, stands a damaged domed tower or observatory-like building, partially obscured by dust, smoke, and drifting debris. The ground is filled with jagged rubble, broken structures, and silhouetted wreckage. Use dramatic backlighting from the cloud breaks near the horizon, soft volumetric haze, atmospheric perspective, painterly textures, and a ruined-world epic tone. The composition should feel vertical, solemn, desolate, and cinematic, with no people visible.",
+  "translatedPrompt": "一幅充满忧郁气息的末日电影感景观，采用深褐色与琥珀色调，描绘了在布满浓厚发光云层的动荡天空下，工业或城市建筑的废墟。左侧前景中，一根巨大的倾斜坍塌金属梁或起重机臂从左下角向左上方延伸，上面覆盖着破损的织物或撕裂的板材以及缠绕的电缆。一根长电缆斜向穿过画面中心。在朦胧的中景偏右处，矗立着一座受损的圆顶塔楼或类似天文台的建筑，部分被灰尘、烟雾和漂浮的碎片遮挡。地面布满了锯齿状的瓦砾、破碎的结构和残骸剪影。利用地平线云层缝隙中的戏剧性逆光、柔和的体积雾、大气透视、绘画质感以及废墟世界的史诗基调。构图应呈现垂直感，庄重、荒凉且具有电影感，画面中无人出现。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "黄昏下的末日废墟：一幅具有电影质感的废墟城市景观，前景为坍塌的建筑结构，远处可见一座圆顶塔楼，适用于概念艺术、遮罩绘画或反乌托邦世界观构建。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "backlight",
+        "volumetric"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: cinematic]。\n\nLighting and camera:\n[参考光线镜头: backlight, volumetric]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14902",
+      "15431",
+      "14930",
+      "15302",
+      "15700",
+      "13745"
+    ]
+  }
+}

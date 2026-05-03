@@ -1,0 +1,51 @@
+{
+  "id": "15622",
+  "prompt": "A high-end studio fashion portrait of a {argument name=\"subject gender\" default=\"woman\"} in her mid-30s to early 40s with a naturally fit build, shown in a half-body to upper-thigh framing, standing in a relaxed, confident pose with both hands tucked into her pants pockets. She has long, dark chestnut-brown wavy hair parted near the center, softly cascading over her shoulders, and wears 2 small gold hoop earrings on one visible ear, a delicate gold necklace, and a thin bracelet. Her outfit is modern minimal casual streetwear in soft neutral tones: a light beige zip-front jacket worn open, a fitted white cropped tank top, and matching light beige drawstring jogger pants. Shoot at eye level with an 85mm portrait lens at f/2.8, keeping the subject tack sharp with shallow depth of field. Use professional studio lighting with 1 softbox key light from the front-left, subtle fill to soften shadows, and 1 gentle warm rim light along the hair and shoulder for separation. The background is a clean studio backdrop with a smooth taupe-to-warm-gray neutral gradient and no distractions. The image should feel highly realistic and editorial, with natural skin tones, balanced color grading, ultra-high detail, crisp fabric texture, soft natural shadows, no noise, no motion blur, no cartoon styling, and no anatomical distortions.",
+  "translatedPrompt": "一张高端时尚摄影肖像，主体为一位 {argument name=\"subject gender\" default=\"女性\"}，年龄在 30 岁中期至 40 岁出头，体态自然匀称。构图为半身至大腿上部，她以放松且自信的姿态站立，双手插在裤兜里。她留着深栗棕色的长波浪卷发，中分发型自然垂落在肩头；佩戴一对小巧的金色圆环耳饰，颈间戴着精致的金色项链，手腕处有一条细手链。服装为现代极简休闲街头风，色调柔和中性：外搭一件敞开的浅米色拉链夹克，内穿修身白色短款背心，下身搭配同色系浅米色抽绳慢跑裤。采用平视角度拍摄，使用 85mm 人像镜头，光圈 f/2.8，确保主体清晰锐利，并呈现浅景深效果。使用专业影棚布光，左前方设置 1 个柔光箱作为主光，辅以微妙的补光以柔化阴影，并在发丝和肩部边缘增加 1 道柔和的暖色轮廓光以增强立体感。背景为干净的影棚幕布，呈现平滑的灰褐色至暖灰色渐变，无杂乱元素。画面应极具写实感与杂志质感，肤色自然，色彩分级平衡，细节超高，织物纹理清晰，阴影柔和自然，无噪点，无运动模糊，无卡通风格，且无任何解剖结构畸变。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "中性街头风时尚杂志肖像：此提示词可生成一张具有写实感的半身时尚摄影肖像，采用干净的布光与极简中性风格，非常适合杂志编辑、品牌推广或肖像摄影创意。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "editorial",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting",
+        "rim light",
+        "shallow depth",
+        "depth of field",
+        "lens"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, editorial, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting, rim light, shallow depth, depth of field, lens]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15606",
+      "15028",
+      "15533",
+      "15528",
+      "15317",
+      "14414"
+    ]
+  }
+}

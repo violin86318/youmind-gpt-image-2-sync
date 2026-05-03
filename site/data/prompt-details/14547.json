@@ -1,0 +1,45 @@
+{
+  "id": "14547",
+  "prompt": "A high-quality anime illustration of a {argument name=\"character type\" default=\"cat-eared schoolgirl\"} leaning forward over a metal school rooftop railing at sunset, shown from a slightly low, close three-quarter angle. She has long flowing {argument name=\"hair color\" default=\"dark brown\"} hair with soft highlights, large reflective gray-brown eyes, round thin-rim glasses, and 2 fluffy cat ears emerging from her hair. Her expression is quiet, wistful, and slightly shy, with parted lips and a gentle downward gaze toward the viewer. She wears a Japanese sailor school uniform with a soft {argument name=\"uniform color\" default=\"pink\"} long-sleeve top, a gray sailor collar with white stripes, a vivid red neckerchief bow, and a plaid skirt partially visible, with 2 dark backpack straps over her shoulders. The scene is drenched in dramatic golden-hour backlighting, with intense warm rim light along her hair, ears, shoulders, and sleeves, glowing sun flare from the lower left, and a richly painted sky full of orange and peach clouds. In the background, show a 2-story Japanese school building with a red-tiled roof and glowing windows lit by the sunset. Emphasize nostalgic early-2000s high-end anime key visual quality, delicate linework, luminous eyes, detailed hair strands, cinematic composition, soft depth of field, vibrant warm color grading, polished shading, and an emotional serene atmosphere.",
+  "translatedPrompt": "一张高质量的动漫插画，描绘了一位 {argument name=\"character type\" default=\"猫耳女学生\"} 在日落时分倚靠在学校金属天台护栏上的场景，采用略微仰视的近景四分之三侧面视角。她留着一头飘逸的 {argument name=\"hair color\" default=\"深棕色\"} 长发，带有柔和的高光，有着明亮且富有反光的灰褐色双眸，佩戴着圆框细边眼镜，发间露出两只毛茸茸的猫耳。她的表情安静、忧郁且略带羞涩，双唇微启，目光温柔地向下注视着观众。她身穿日本水手校服，上衣为柔和的 {argument name=\"uniform color\" default=\"粉色\"} 长袖，搭配灰色水手领及白色条纹，系着鲜艳的红色领结，隐约可见格子裙，双肩背着深色书包带。场景沉浸在戏剧性的黄金时刻逆光中，她的头发、耳朵、肩膀和袖口边缘闪烁着强烈的暖色轮廓光，左下方有明亮的太阳光晕，天空绘有丰富的橙色和桃色云彩。背景展示了一座带有红色瓦片屋顶的二层日本教学楼，窗户在夕阳下闪烁着光芒。强调 2000 年代初高端动漫关键视觉图的怀旧质感、细腻的线条、明亮的双眸、精细的发丝、电影级的构图、柔和的景深、鲜艳的暖色调、精致的阴影以及宁静的情感氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日落时分校园天台的猫耳少女动漫插画：一张电影感动漫风格的猫耳女学生天台肖像，背景为日落时分。非常适合用于怀旧风格的关键视觉图、角色艺术或社交媒体展示。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "anime"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "backlight",
+        "depth of field"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, anime]。\n\nLighting and camera:\n[参考光线镜头: rim light, backlight, depth of field]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14955",
+      "13949",
+      "15686",
+      "14413",
+      "14929",
+      "13654"
+    ]
+  }
+}

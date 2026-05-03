@@ -1,0 +1,53 @@
+{
+  "id": "14428",
+  "prompt": "A glamorous travel-fashion portrait of a {argument name=\"woman\" default=\"blonde woman\"} seated on a sunlit stone ledge overlooking the caldera in Santorini, Greece, with whitewashed cliffside buildings descending toward a deep blue sea and rugged volcanic islands in the distance. She wears a flowing ivory halter dress with a very deep plunging neckline, side cutouts, a gathered waist with a circular ring detail, and soft pleated fabric draped across her lap. Her hair is long, wavy, and {argument name=\"hair color\" default=\"golden blonde\"}, styled loose over her shoulders. Add layered delicate necklaces including a small pendant and a silver cross, plus a bracelet or watch on one wrist. Place a classic white Greek church with a bright {argument name=\"dome color\" default=\"blue\"} dome in the upper right background, and frame the right side of the image with vivid {argument name=\"flower color\" default=\"magenta pink\"} bougainvillea in full bloom. Lighting is bright Mediterranean midday sun with crisp highlights, soft skin glow, and gentle depth of field that keeps the woman sharp while the background architecture and sea are slightly softened. Composition is vertical, elegant and aspirational, with the woman centered slightly right, torso visible down to the flowing skirt, scenic coastline stretching across the left half of the frame. Add small black text in the top-left corner reading {argument name=\"corner text\" default=\"GPT V2\"}. Photorealistic luxury vacation aesthetic, high detail, natural colors, editorial Instagram travel vibe.",
+  "translatedPrompt": "一张迷人的旅行时尚人像，画面中是一位 {argument name=\"woman\" default=\"金发女性\"} 坐在希腊圣托里尼俯瞰火山口的阳光石台上，背景是向深蓝色大海延伸的白色悬崖建筑以及远处的崎岖火山岛。她身穿一件飘逸的象牙白挂脖连衣裙，领口深 V 设计，侧面镂空，腰部有褶皱和圆环细节，柔软的褶皱面料覆盖在膝盖上。她的长发呈波浪状，发色为 {argument name=\"hair color\" default=\"金色\"}，自然地披散在肩头。佩戴层叠的精致项链，包括一个小吊坠和一枚银色十字架，手腕上配有手链或手表。背景右上角放置一座经典的白色希腊教堂，配有明亮的 {argument name=\"dome color\" default=\"蓝色\"} 圆顶，画面右侧点缀着盛开的鲜艳 {argument name=\"flower color\" default=\"洋红色\"} 三角梅。光线为明亮的地中海正午阳光，高光清晰，皮肤呈现柔和光泽，景深效果自然，使人物主体清晰，同时背景建筑和海洋略显柔和。构图为竖版，优雅且令人向往，人物略微偏右居中，上半身至飘逸裙摆可见，风景优美的海岸线横跨画面左半部分。左上角添加小型黑色文字 {argument name=\"corner text\" default=\"GPT V2\"}。照片级逼真的奢华度假美学，高细节，自然色彩，编辑级 Instagram 旅行风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "圣托里尼奢华礼服人像：此提示词可生成一张照片级逼真的竖版旅行时尚人像，展现一位身着白裙的迷人女性在圣托里尼的姿态，非常适合奢华度假、生活方式或编辑类图像。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "editorial",
+        "luxury"
+      ],
+      "lightingCamera": [
+        "depth of field"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, layered, vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, editorial, luxury]。\n\nLighting and camera:\n[参考光线镜头: depth of field]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15424",
+      "15706",
+      "14569",
+      "15350",
+      "15317",
+      "14414"
+    ]
+  }
+}

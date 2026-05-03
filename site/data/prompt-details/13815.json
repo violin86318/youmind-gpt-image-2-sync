@@ -1,0 +1,41 @@
+{
+  "id": "13815",
+  "prompt": "An anime illustration of a confident female wrestler standing in a ring. She has {argument name=\"hair color\" default=\"blonde\"} hair in a high ponytail with a pink bow. She wears a {argument name=\"outfit color\" default=\"pink\"} one-piece leotard with white and gold accents, matching fingerless gloves, and knee-high lace-up boots. She poses with one hand on her hip under bright stadium spotlights, with a blurred audience in the background. A stylized logo in the bottom left reads \"{argument name=\"logo text\" default=\"Sunset Emilia\"}\". The style features detailed shading and glossy skin highlights.",
+  "translatedPrompt": "一张自信的女性摔跤手站在擂台上的动漫插图。她留着 {argument name=\"hair color\" default=\"金色\"} 的高马尾，系着粉色蝴蝶结。她身穿一件 {argument name=\"outfit color\" default=\"粉色\"} 连体紧身衣，配有白色和金色装饰，搭配同色系的露指手套和及膝系带靴。她在明亮的体育场聚光灯下叉腰摆出姿势，背景是模糊的观众。左下角有一个风格化的 Logo，写着“{argument name=\"logo text\" default=\"Sunset Emilia\"}”。画面风格具有细腻的阴影处理和光泽感的皮肤高光。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "竞技场中的动漫女性摔跤手：生成一张动漫风格的女性摔跤手插图，她在擂台上摆出姿势，并带有自定义文字 Logo。",
+      "subject": "文字符号",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14090",
+      "14227",
+      "14231",
+      "13613",
+      "13679",
+      "13695"
+    ]
+  }
+}

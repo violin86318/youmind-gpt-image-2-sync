@@ -1,0 +1,43 @@
+{
+  "id": "13943",
+  "prompt": "{\n  \"type\": \"VTuber debut stream thumbnail\",\n  \"character\": {\n    \"appearance\": \"anime girl, long dark purple hair, purple eyes, frilly white blouse, dark purple bow tie, large hair bow\",\n    \"pose\": \"finger to lips, cute expression\",\n    \"props\": \"condenser microphone with pop filter and purple ribbon on the right\"\n  },\n  \"background\": \"magical starry night, sparkles, glowing butterflies, purple and white color palette\",\n  \"layout\": {\n    \"typography\": [\n      {\n        \"position\": \"top left\",\n        \"style\": \"large bold text with cursive English above\",\n        \"text\": \"{argument name=\\\"main title\\\" default=\\\"初配信\\\"}\",\n        \"subtext_1\": \"First Stream\",\n        \"subtext_2\": \"Nice to meet you! I am Shisaki Lily!\"\n      },\n      {\n        \"position\": \"middle left\",\n        \"style\": \"decorative box\",\n        \"text\": \"{argument name=\\\"character description\\\" default=\\\"お嬢様学校に通う清楚系VTuberですわ♪\\\"}\"\n      },\n      {\n        \"position\": \"bottom left\",\n        \"style\": \"logo style\",\n        \"text\": \"{argument name=\\\"character name\\\" default=\\\"紫咲リリー\\\"}\",\n        \"subtext\": \"Shisaki Lily\"\n      },\n      {\n        \"position\": \"top right\",\n        \"style\": \"vertical text\",\n        \"text\": \"{argument name=\\\"catchphrase\\\" default=\\\"皆さまの心に、優雅なひとときをお届けしますわ♪\\\"}\"\n      },\n      {\n        \"position\": \"bottom right\",\n        \"style\": \"decorative pill shape\",\n        \"text\": \"{argument name=\\\"stream date and time\\\" default=\\\"4.21 SUN 21:00~\\\"}\",\n        \"subtext\": \"✦ START ✦\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"VTuber 初配信缩略图\",\n  \"character\": {\n    \"appearance\": \"动漫少女，深紫色长发，紫色眼睛，荷叶边白衬衫，深紫色领结，巨大的发饰\",\n    \"pose\": \"手指抵唇，可爱的表情\",\n    \"props\": \"右侧配有带防喷罩和紫色丝带的电容麦克风\"\n  },\n  \"background\": \"魔法星空，闪光特效，发光的蝴蝶，紫色与白色调\",\n  \"layout\": {\n    \"typography\": [\n      {\n        \"position\": \"左上角\",\n        \"style\": \"大号粗体文字，上方配有英文连体字\",\n        \"text\": \"{argument name=\\\"main title\\\" default=\\\"初配信\\\"}\",\n        \"subtext_1\": \"First Stream\",\n        \"subtext_2\": \"初次见面！我是紫咲莉莉 (Shisaki Lily)！\"\n      },\n      {\n        \"position\": \"中左侧\",\n        \"style\": \"装饰性边框\",\n        \"text\": \"{argument name=\\\"character description\\\" default=\\\"お嬢様学校に通う清楚系VTuberですわ♪\\\"}\"\n      },\n      {\n        \"position\": \"左下角\",\n        \"style\": \"Logo 风格\",\n        \"text\": \"{argument name=\\\"character name\\\" default=\\\"紫咲リリー\\\"}\",\n        \"subtext\": \"Shisaki Lily\"\n      },\n      {\n        \"position\": \"右上角\",\n        \"style\": \"竖排文字\",\n        \"text\": \"{argument name=\\\"catchphrase\\\" default=\\\"皆さまの心に、優雅なひとときをお届けしますわ♪\\\"}\"\n      },\n      {\n        \"position\": \"右下角\",\n        \"style\": \"装饰性胶囊形状\",\n        \"text\": \"{argument name=\\\"stream date and time\\\" default=\\\"4.21 SUN 21:00~\\\"}\",\n        \"subtext\": \"✦ START ✦\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "VTuber 初配信缩略图：为 VTuber 生成充满魔法感、排版精美的直播时间表或初配信缩略图。",
+      "subject": "人物",
+      "scene": "字体/Logo",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14178",
+      "14021",
+      "13663",
+      "14267",
+      "13891",
+      "14065"
+    ]
+  }
+}

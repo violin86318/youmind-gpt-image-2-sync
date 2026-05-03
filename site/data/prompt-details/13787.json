@@ -1,0 +1,36 @@
+{
+  "id": "13787",
+  "prompt": "Using REFERENCE_0 as the character base, transform the subject into a {argument name=\"theme\" default=\"fantasy Xianxia\"} setting. Dress her in {argument name=\"clothing\" default=\"elaborate purple and gold traditional Chinese robes with a sheer purple veil\"}. Add ornate gold and pearl hair accessories and long pointed nail guards. Change her pose so she is looking slightly away, with one hand raised delicately near her face and the other holding a {argument name=\"prop\" default=\"large, glowing white lotus flower\"}. Set the scene at night with a {argument name=\"background\" default=\"large full moon, a dark silhouette of a traditional temple roof, and cherry blossom branches\"}. Apply an {argument name=\"lighting and atmosphere\" default=\"ethereal, magical purple-tinted moonlight\"} effect.",
+  "translatedPrompt": "以 REFERENCE_0 作为人物面部和基础，将主体转换为 {argument name=\"theme\" default=\"暗黑奇幻\"} 风格。将其服装更换为精致的 {argument name=\"clothing style\" default=\"紫金配色传统汉服\"}，配以繁复的刺绣和披在头肩上的紫色薄纱。添加华丽的金色发饰，包括垂坠的珠饰和长款装饰性护甲。调整姿势，使其微微低头并侧视，一只手轻抬靠近面部，另一只手拿着 1 个 {argument name=\"held object\" default=\"巨大的发光白莲花\"}。将背景替换为 {argument name=\"setting\" default=\"夜间\"} 场景，包含 1 轮巨大的满月、传统寺庙屋檐的剪影，以及角落处的樱花枝。增强整体氛围，使其呈现出魔幻、忧郁且高度细腻的质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奇幻汉服人像转换：将普通人像照片转换为极具细节的魔幻场景，展现传统服饰与夜色氛围。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体",
+        "风格"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13785",
+      "14437",
+      "15319",
+      "15641",
+      "14126",
+      "14488"
+    ]
+  }
+}

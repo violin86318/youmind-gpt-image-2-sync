@@ -1,0 +1,42 @@
+{
+  "id": "14046",
+  "prompt": "A photorealistic, high-resolution automotive shot of a {argument name=\"car color\" default=\"bright red\"} {argument name=\"car model\" default=\"Ferrari F8 Tributo\"} parked on a {argument name=\"setting\" default=\"coastal road overlooking the ocean\"}. The sports car is positioned at a slight angle, showcasing its sleek aerodynamic curves, aggressive front fascia, distinct LED headlights, and silver alloy wheels with yellow center caps. The iconic yellow shield logo is visible on the front fender. The background features a deep blue sea, a low stone guardrail, and a distant rocky coastline covered in lush green vegetation and scattered buildings under a clear blue sky. The lighting is a {argument name=\"lighting\" default=\"bright sunny day\"}, casting sharp, realistic shadows on the asphalt and creating brilliant reflections on the car's glossy paint.",
+  "translatedPrompt": "一张逼真的高分辨率汽车摄影作品，展示了一辆 {argument name=\"car color\" default=\"亮红色\"} 的 {argument name=\"car model\" default=\"Ferrari F8 Tributo\"} 停在 {argument name=\"setting\" default=\"俯瞰大海的沿海公路\"} 上。跑车呈微侧角度停放，展现出其流畅的空气动力学曲线、极具侵略性的前脸、独特的 LED 大灯以及带有黄色中心盖的银色合金轮毂。前翼子板上可见标志性的黄色盾形徽标。背景是深蓝色的大海、低矮的石质护栏，以及在晴朗蓝天下覆盖着茂密植被和零星建筑的遥远岩石海岸线。光线为 {argument name=\"lighting\" default=\"明亮的晴天\"}，在柏油路面上投下清晰、逼真的阴影，并在汽车光亮的漆面上形成绚丽的倒影。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "逼真的海岸跑车摄影：生成一张停在风景优美的沿海公路上、高质量的跑车摄影照片。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13888",
+      "15609",
+      "15803",
+      "13524",
+      "13556",
+      "13659"
+    ]
+  }
+}

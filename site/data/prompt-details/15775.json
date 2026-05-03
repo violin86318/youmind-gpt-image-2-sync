@@ -1,0 +1,58 @@
+{
+  "id": "15775",
+  "prompt": "A sleek high-end ecommerce product advertisement featuring a pair of glossy black designer sunglasses centered on a futuristic metallic pedestal with rounded corners and glowing blue-white edge lighting. The sunglasses are shown in a three-quarter front view, slightly angled, with thick oversized square-cat-eye frames, dark gray gradient lenses, and subtle gold branding on the temples reading TOUS, plus a small gold bear-shaped logo near the hinge. The setting is a dark sci-fi studio with reflective black and gunmetal surfaces, vertical architectural light strips, soft volumetric glow, and cool neon accents. In the upper right, add a bold promotional text layout with the brand mark {argument name=\"brand name\" default=\"Pollo.ai\"} above a large stacked headline reading {argument name=\"headline text\" default=\"SUMMER SALE\"}, with SUMMER in white and SALE in bright electric blue, followed by a huge white discount figure {argument name=\"discount\" default=\"50%\"}. Include a thin futuristic blue frame line around part of the headline area. Use dramatic commercial lighting, sharp reflections, luxury product photography styling, shallow depth of field, ultra-clean composition, premium online store ad aesthetic, photorealistic rendering, high contrast, and crisp detail.",
+  "translatedPrompt": "一张时尚的高端电商产品广告，展示了一副光泽感十足的黑色设计师太阳镜，置于一个带有圆角和蓝白色边缘发光效果的未来感金属底座中央。太阳镜以四分之三正面视角呈现，略微倾斜，采用厚实的超大方形猫眼镜框，配有深灰色渐变镜片，镜腿上有精致的金色 TOUS 品牌标识，铰链附近还有一个小巧的金色熊形标志。背景是一个深色科幻摄影棚，具有反光的黑色和枪灰色表面、垂直建筑灯带、柔和的体积光以及冷色调霓虹灯点缀。在右上角添加醒目的促销文本布局，将品牌名称 {argument name=\"brand name\" default=\"Pollo.ai\"} 置于巨大的堆叠标题 {argument name=\"headline text\" default=\"SUMMER SALE\"} 上方，其中 SUMMER 为白色，SALE 为明亮的电光蓝，随后是巨大的白色折扣数字 {argument name=\"discount\" default=\"50%\"}。在标题区域的部分周围加入细细的未来感蓝色边框线条。采用戏剧性的商业照明、锐利的反光、奢华的产品摄影风格、浅景深、超简洁的构图、高级在线商店广告美学、照片级渲染、高对比度以及清晰的细节。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奢华太阳镜夏季促销广告：一张用于设计师太阳镜的未来感电商促销图片，非常适合零售广告、店面横幅以及季节性在线营销活动。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "sci-fi",
+        "luxury",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "neon",
+        "volumetric",
+        "high contrast",
+        "shallow depth",
+        "depth of field",
+        "lens"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, sci-fi, luxury, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: neon, volumetric, high contrast, shallow depth, depth of field, lens]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14807",
+      "15776",
+      "14575",
+      "14889",
+      "15688",
+      "15316"
+    ]
+  }
+}

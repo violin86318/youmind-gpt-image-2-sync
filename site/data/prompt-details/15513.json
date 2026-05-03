@@ -1,0 +1,40 @@
+{
+  "id": "15513",
+  "prompt": "Japanese negative film aesthetic, {argument name=\"setting\" default=\"bus window seat\"}, soft daylight streaming in, slight overexposure highlights on face and window edges, low contrast, muted faded colors, subtle grain subject leaning lightly against window, head tilted slightly, direct or soft gaze toward camera, calm expression, natural posture moving light patterns on skin, reflections and glass distortions, imperfect framing, quiet drifting mood, nostalgic everyday realism --2:3",
+  "translatedPrompt": "日系负片美学，{argument name=\"setting\" default=\"公交车靠窗座位\"}，柔和的日光倾泻而入，面部与窗缘呈现轻微的过曝高光，低对比度，褪色的柔和色彩，细腻的颗粒感，主体轻靠在窗边，头部微倾，直视或柔和地注视镜头，表情平静，姿态自然，光影在皮肤上流动，带有玻璃的反射与畸变，不完美的构图，静谧的漂浮感，怀旧的日常写实风格 --2:3",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "公交车窗胶片美学：一个关于公交车座位肖像的怀旧提示词，融合了日系胶片美学与自然光影。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "low contrast",
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: low contrast, camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15510",
+      "15163",
+      "15613",
+      "13485",
+      "13644",
+      "13869"
+    ]
+  }
+}

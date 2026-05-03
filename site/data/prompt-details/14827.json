@@ -1,0 +1,44 @@
+{
+  "id": "14827",
+  "prompt": "{\"type\":\"vintage illustrated recipe poster\",\"subject\":\"classic American cheeseburger cooking infographic\",\"style\":{\"medium\":\"hand-drawn ink and watercolor food illustration\",\"look\":\"retro diner cookbook poster, warm parchment background, slightly textured paper, sketchy outlines, rich appetizing shading\",\"typography\":\"large red hand-lettered title and black uppercase handwritten captions\"},\"text\":{\"title\":\"{argument name=\\\"headline text\\\" default=\\\"CLASSIC AMERICAN CHEESEBURGER\\\"}\",\"ingredientsHeader\":\"INGREDIENTS\",\"methodHeader\":\"METHOD\",\"footer\":\"{argument name=\\\"footer text\\\" default=\\\"BEST SERVED HOT WITH CRISPY FRIES ON THE SIDE!\\\"}\"},\"hero\":{\"count\":1,\"description\":\"large fully assembled cheeseburger at top right with sesame seed bun, ruffled green lettuce, thick tomato slices, red onion rings, pickle slices, melted cheddar over a char-grilled beef patty, ketchup and mustard visible at the bottom\"},\"layout\":{\"sections\":[{\"title\":\"INGREDIENTS\",\"position\":\"upper middle\",\"count\":6,\"items\":[\"GROUND BEEF PATTY\",\"CHEDDAR CHEESE SLICES\",\"FRESH LETTUCE LEAVES\",\"SLICED TOMATOES\",\"BURGER BUNS\",\"KETCHUP & MUSTARD\"]},{\"title\":\"METHOD\",\"position\":\"center to lower middle\",\"count\":6,\"items\":[\"1 SHAPE THE BEEF INTO PATTIES\",\"2 SEASON WITH SALT AND PEPPER\",\"3 GRILL THE PATTIES UNTIL COOKED THROUGH\",\"4 ADD CHEESE AND LET IT MELT\",\"5 TOAST THE BUNS LIGHTLY\",\"6 ASSEMBLE WITH TOPPINGS AND SAUCES\"]}],\"extraElementsCount\":2,\"extraElements\":[\"small plated burger illustration near the ingredients row\",\"basket of crispy fries with a small cup of ketchup at bottom right\"]},\"ingredients\":{\"count\":6,\"items\":[{\"name\":\"GROUND BEEF PATTY\",\"appearance\":\"single raw round beef patty\"},{\"name\":\"CHEDDAR CHEESE SLICES\",\"appearance\":\"3 overlapping orange cheese squares\"},{\"name\":\"FRESH LETTUCE LEAVES\",\"appearance\":\"small cluster of green leaf lettuce\"},{\"name\":\"SLICED TOMATOES\",\"appearance\":\"3 red tomato slices\"},{\"name\":\"BURGER BUNS\",\"appearance\":\"1 sesame bun shown as top and bottom together like a mini burger stack\"},{\"name\":\"KETCHUP & MUSTARD\",\"appearance\":\"2 squeeze bottles, one red and one yellow\"}]},\"method\":{\"count\":6,\"steps\":[{\"step\":1,\"scene\":\"two hands shaping a raw beef patty\"},{\"step\":2,\"scene\":\"small bowl of salt beside a wooden pepper mill\"},{\"step\":3,\"scene\":\"single burger patty grilling over open flame on a grill grate\"},{\"step\":4,\"scene\":\"grilled patty topped with melted cheddar on the grill\"},{\"step\":5,\"scene\":\"2 bun halves toasting cut-side down in a pan\"},{\"step\":6,\"scene\":\"assembled cheeseburger with a curved arrow suggesting stacking\"}]},\"palette\":{\"count\":5,\"colors\":[\"warm beige parchment\",\"deep ketchup red\",\"golden cheddar orange\",\"lettuce green\",\"toasted brown\"]},\"composition\":\"portrait poster, balanced infographic layout with decorative red flourishes around the title and headers, clean spacing, appetizing and nostalgic\",\"quality\":\"high detail, crisp legible lettering, polished editorial food illustration\"}",
+  "translatedPrompt": "{\"type\":\"复古插画食谱海报\",\"subject\":\"经典美式芝士汉堡烹饪信息图\",\"style\":{\"medium\":\"手绘墨水与水彩美食插画\",\"look\":\"复古餐馆食谱海报，温暖羊皮纸背景，微纹理纸张，素描轮廓，浓郁诱人的阴影\",\"typography\":\"大型红色手写标题和黑色大写手写说明文字\"},\"text\":{\"title\":\"{argument name=\\\"headline text\\\" default=\\\"经典美式芝士汉堡\\\"}\",\"ingredientsHeader\":\"配料\",\"methodHeader\":\"烹饪方法\",\"footer\":\"{argument name=\\\"footer text\\\" default=\\\"趁热享用，搭配酥脆薯条风味更佳！\\\"}\"},\"hero\":{\"count\":1,\"description\":\"右上角是一个完整组装好的芝士汉堡，配有芝麻面包、褶皱绿生菜、厚番茄片、红洋葱圈、酸黄瓜片、融化在炭烤牛肉饼上的切达干酪，底部可见番茄酱和芥末酱\"},\"layout\":{\"sections\":[{\"title\":\"配料\",\"position\":\"中上部\",\"count\":6,\"items\":[\"牛肉饼\",\"切达干酪片\",\"新鲜生菜叶\",\"番茄片\",\"汉堡面包\",\"番茄酱和芥末酱\"]},{\"title\":\"烹饪方法\",\"position\":\"中部至中下部\",\"count\":6,\"items\":[\"1 将牛肉塑形为肉饼\",\"2 用盐和胡椒调味\",\"3 将肉饼烤至熟透\",\"4 放上芝士使其融化\",\"5 将面包轻微烘烤\",\"6 组装配料和酱汁\"]}],\"extraElementsCount\":2,\"extraElements\":[\"配料行附近的小份汉堡插画\",\"右下角一篮酥脆薯条和一小杯番茄酱\"]},\"ingredients\":{\"count\":6,\"items\":[{\"name\":\"牛肉饼\",\"appearance\":\"单个生牛肉饼\"},{\"name\":\"切达干酪片\",\"appearance\":\"3 片重叠的橙色芝士方片\"},{\"name\":\"新鲜生菜叶\",\"appearance\":\"一小簇绿叶生菜\"},{\"name\":\"番茄片\",\"appearance\":\"3 片红番茄切片\"},{\"name\":\"汉堡面包\",\"appearance\":\"1 个芝麻面包，上下两半叠在一起，像迷你汉堡堆叠\"},{\"name\":\"番茄酱和芥末酱\",\"appearance\":\"2 个挤压瓶，一个红色，一个黄色\"}]},\"method\":{\"count\":6,\"steps\":[{\"step\":1,\"scene\":\"双手正在塑造生牛肉饼\"},{\"step\":2,\"scene\":\"木制胡椒研磨器旁的一小碗盐\"},{\"step\":3,\"scene\":\"单个汉堡肉饼在烤架上明火烧烤\"},{\"step\":4,\"scene\":\"烤好的肉饼上覆盖着融化的切达干酪\"},{\"step\":5,\"scene\":\"两半面包在平底锅中切面朝下烘烤\"},{\"step\":6,\"scene\":\"组装好的芝士汉堡，配有暗示堆叠过程的弧形箭头\"}]},\"palette\":{\"count\":5,\"colors\":[\"暖米色羊皮纸\",\"深番茄红\",\"金黄色切达干酪\",\"生菜绿\",\"烘烤棕\"]},\"composition\":\"竖版海报，平衡的信息图布局，标题和标题周围有装饰性的红色花纹，间距整洁，令人垂涎且充满怀旧感\",\"quality\":\"高细节，清晰易读的字体，精致的编辑级美食插画\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古芝士汉堡食谱海报：一张复古手绘美食信息图海报，展示了经典的美国芝士汉堡、配料及其 6 步烹饪方法，非常适合作为食谱艺术画或美式餐馆风格的厨房装饰。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "editorial",
+        "vintage",
+        "retro",
+        "watercolor",
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: editorial, vintage, retro, watercolor, hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14833",
+      "14558",
+      "14818",
+      "15450",
+      "15661",
+      "14615"
+    ]
+  }
+}

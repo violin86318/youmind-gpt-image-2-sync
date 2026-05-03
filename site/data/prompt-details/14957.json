@@ -1,0 +1,49 @@
+{
+  "id": "14957",
+  "prompt": "A luminous anime-style close-up portrait of a teenage schoolgirl standing outdoors in the rain, framed from the chest up, holding a transparent vinyl umbrella. She has {argument name=\"hair color\" default=\"dark navy black\"} hair tied in a low side ponytail with soft loose strands and straight bangs, delicate round glasses, large glossy violet-blue eyes, and a calm, slightly awed expression as she looks upward toward leaves and raindrops. She wears a wet white short-sleeved school blouse and a dark blue plaid ribbon bow at the collar. The scene is filled with convincing water and light: rain falling in fine streaks, droplets clinging to the umbrella ribs, beads of water on her hair and shirt, and large crystal-clear drops hanging from broad green leaves in the upper right foreground. In the lower right and foreground, include blooming white garden flowers with dark glossy foliage covered in rain. Use a cool blue and silver palette with soft lavender highlights, backlit by diffused daylight after or during a shower, creating intense transparency, reflections, refraction, sparkling bokeh, and shimmering wet surfaces. The background should be an out-of-focus urban garden or residential walkway with fences and buildings blurred by rain, while the girl remains sharply rendered. Emphasize cinematic composition, layered foreground leaves, hyper-detailed raindrops, realistic translucent umbrella material, subtle rim light on wet hair, and an overall mood of quiet wonder and serene summer rain.",
+  "translatedPrompt": "一幅明亮的动漫风格特写肖像，描绘了一位站在户外雨中的少女，半身构图，手持一把透明的塑料雨伞。她留着 {argument name=\"hair color\" default=\"深藏青黑色\"} 的头发，扎成低侧马尾，带有柔和的碎发和直刘海，戴着精致的圆框眼镜，有着明亮的大眼睛，呈紫蓝色，神情平静，带着一丝惊叹，仰望着叶片和雨滴。她穿着湿透的白色短袖校服衬衫，领口系着深蓝色格子蝴蝶结。场景中充满了逼真的水感与光影：细密的雨丝落下，雨滴附着在伞骨上，发丝和衬衫上挂着水珠，右上角前景的大片绿叶上悬挂着晶莹剔透的水滴。右下角及前景处，点缀着盛开的白色花园花卉，深色的光泽叶片上覆盖着雨水。采用冷蓝色和银色调，辅以柔和的淡紫色高光，背景为雨后或雨中漫射的日光逆光，营造出强烈的透明感、反射、折射、闪烁的焦外成像以及湿润表面的光泽。背景应为失焦的城市花园或住宅步道，围栏和建筑在雨中变得模糊，而少女主体保持清晰。强调电影感的构图、层叠的前景叶片、超精细的雨滴、逼真的半透明雨伞材质、湿润发丝上的细微轮廓光，以及整体宁静惊叹与夏日雨景的氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "雨中撑伞的动漫少女：一幅细腻的动漫雨景肖像，聚焦于透明的水感效果、柔和的光影，以及置身于郁郁葱葱花园中的宁静女学生，是氛围感插画提示词的理想选择。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "layered"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "anime"
+      ],
+      "lightingCamera": [
+        "rim light"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, layered]。\n\nVisual style:\n[参考风格: realistic, cinematic, anime]。\n\nLighting and camera:\n[参考光线镜头: rim light]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15706",
+      "15797",
+      "15393",
+      "15796",
+      "15696",
+      "14568"
+    ]
+  }
+}

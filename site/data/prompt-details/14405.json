@@ -1,0 +1,46 @@
+{
+  "id": "14405",
+  "prompt": "{\"type\":\"fantasy newspaper front page illustration\",\"language\":\"Japanese\",\"era\":\"Meiji-era inspired, dated 1890\",\"print_style\":\"aged monochrome newspaper print, antique ink on yellowed paper, ornate Victorian woodcut and etching aesthetic, crisp Japanese typography with minimal text distortion\",\"page\":{\"format\":\"full-page vertical broadsheet\",\"background\":\"slightly stained off-white paper with subtle grain and fold wear\",\"border\":\"thin black outer frame with decorative corner ornaments\"},\"masthead\":{\"title\":\"{argument name=\\\"newspaper title\\\" default=\\\"魔法新聞\\\"}\",\"subtitle\":\"不思議なことは、今日も世界のどこかで起きている。\",\"date_line\":\"1890年（明治23年）5月13日　火曜日\",\"issue\":\"第 777 号\",\"price\":\"一銭\",\"decorations\":[\"witch hat silhouette above masthead\",\"small stars and curling filigree\",\"owl perched near the title\"]},\"layout\":{\"sections\":[{\"title\":\"本日の天気と運勢\",\"position\":\"top-left box\",\"count\":1,\"labels\":[\"晴れのち魔法！ 風が語りかける日。直感を信じて◎\"]},{\"title\":\"本日の名言\",\"position\":\"top-right box\",\"count\":1,\"labels\":[\"朝食前に不可能とことを六つ信じると、一日が素晴らしく始まる。 ルイス・キャロル\"]},{\"title\":\"main headline\",\"position\":\"upper center across page\",\"count\":1,\"labels\":[\"風を髪に宿す少女、発見される\"]},{\"title\":\"subheadline\",\"position\":\"below main headline\",\"count\":1,\"labels\":[\"雲の一部か、白昼夢か――街の噂をさらった謎の美少女の正体とは？\"]},{\"title\":\"left sidebar upper\",\"position\":\"left column\",\"count\":1,\"labels\":[\"幻想の国から届いた流行！\"]},{\"title\":\"left sidebar fashion list\",\"position\":\"left column under upper sidebar title\",\"count\":4,\"labels\":[\"ドラゴンのブローチ\",\"月の帽子\",\"見えない手袋\",\"ため息のリボン\"]},{\"title\":\"left sidebar lower\",\"position\":\"left column lower\",\"count\":1,\"labels\":[\"独占インタビュー 星を読む猫ミラ先生が語る\"]},{\"title\":\"right sidebar upper\",\"position\":\"right column\",\"count\":1,\"labels\":[\"ティーポット館で大スキャンダル！\"]},{\"title\":\"right sidebar lower\",\"position\":\"right column lower\",\"count\":1,\"labels\":[\"見習い魔法使い、トビーの冒険記\"]},{\"title\":\"bottom main left\",\"position\":\"bottom-left wide article\",\"count\":1,\"labels\":[\"彼女は魔女なのか？\"]},{\"title\":\"bottom main center-right\",\"position\":\"bottom-center article\",\"count\":1,\"labels\":[\"もしかして、あの土地から重大ニュースが届いた！\"]},{\"title\":\"bottom strip teasers\",\"position\":\"very bottom horizontal strip\",\"count\":5,\"labels\":[\"今日の注目記事 楽しむ情報の毎日をお届けします！\",\"ユニコーン 日常情景絵々！ （２面へ）\",\"くすぐり妖精の正体に迫る！ （３面）\",\"ボタンが消える謎の現象 （４面へ）\",\"ノームの真実 そして彼らの秘密について\"]}],\"centerpiece\":\"large central portrait panel with ornate corner flourishes, showing a mysterious young woman in a high-collared lace dress, her long hair exploding outward and swirling like wind or clouds, face obscured and indistinct, rendered as a dramatic black-and-white engraving\",\"side_illustrations\":[\"sun behind clouds icon in weather box\",\"teapot engraving in right upper sidebar\",\"wizard gnome figure in right lower sidebar\",\"dragonfly illustration in left middle area\",\"black cat reading a book in left lower sidebar\",\"crystal ball engraving near bottom center-left\",\"hot air balloon combined with a pocket watch in bottom-right feature\",\"unicorn head in bottom strip\",\"cupcake-like fairy motif in bottom strip\",\"button icon in bottom strip\",\"small gnome icon in bottom strip\"]},\"art_direction\":{\"mood\":\"mysterious, whimsical, magical, slightly humorous\",\"composition\":\"dense editorial newspaper design with one dominant headline and one dominant central image, narrow side columns, multiple boxed articles, balanced asymmetrical ornamentation\",\"color_palette\":\"black ink, charcoal gray halftones, warm ivory paper\",\"typography\":\"large dramatic brush-like kanji headline, classic serif-style Japanese newspaper text, varied font sizes for hierarchy\",\"render_quality\":\"high-resolution, clean legible Japanese text, authentic print texture, intricate linework\"}}",
+  "translatedPrompt": "{\"type\":\"奇幻报纸头版插图\",\"language\":\"日语\",\"era\":\"明治时代风格，日期为 1890 年\",\"print_style\":\"陈旧的单色报纸印刷，泛黄纸张上的古董墨迹，华丽的维多利亚时代木刻与蚀刻美学，清晰的日语排版，文字几乎无失真\",\"page\":{\"format\":\"全版竖式大报\",\"background\":\"带有细微纹理和折痕的微黄陈旧纸张\",\"border\":\"带有装饰性边角的黑色细外框\"},\"masthead\":{\"title\":\"{argument name=\\\"newspaper title\\\" default=\\\"魔法新闻\\\"}\",\"subtitle\":\"不可思议之事，今日亦在世界某处发生。\",\"date_line\":\"1890 年（明治 23 年）5 月 13 日 星期二\",\"issue\":\"第 777 号\",\"price\":\"一钱\",\"decorations\":[\"报头上方女巫帽剪影\",\"小星星与卷曲花纹\",\"标题附近栖息的猫头鹰\"]},\"layout\":{\"sections\":[{\"title\":\"今日天气与运势\",\"position\":\"左上角方框\",\"count\":1,\"labels\":[\"晴转魔法！风在诉说的日子。相信直觉吧◎\"]},{\"title\":\"今日名言\",\"position\":\"右上角方框\",\"count\":1,\"labels\":[\"早餐前相信六件不可能的事，这一天就会有美妙的开始。——刘易斯·卡罗尔\"]},{\"title\":\"主标题\",\"position\":\"页面上方居中\",\"count\":1,\"labels\":[\"发丝宿风的少女，被发现了\"]},{\"title\":\"副标题\",\"position\":\"主标题下方\",\"count\":1,\"labels\":[\"是云的一部分，还是白日梦？——席卷街头巷尾的神秘美少女，其真身为何？\"]},{\"title\":\"左侧栏上方\",\"position\":\"左侧栏\",\"count\":1,\"labels\":[\"来自幻想之国的流行趋势！\"]},{\"title\":\"左侧栏时尚列表\",\"position\":\"左侧栏上方标题下方\",\"count\":4,\"labels\":[\"龙之胸针\",\"月亮之帽\",\"隐形手套\",\"叹息之丝带\"]},{\"title\":\"左侧栏下方\",\"position\":\"左侧栏下方\",\"count\":1,\"labels\":[\"独家专访：读星猫米拉老师访谈\"]},{\"title\":\"右侧栏上方\",\"position\":\"右侧栏\",\"count\":1,\"labels\":[\"茶壶馆大丑闻！\"]},{\"title\":\"右侧栏下方\",\"position\":\"右侧栏下方\",\"count\":1,\"labels\":[\"见习魔法师托比的冒险记\"]},{\"title\":\"底部主左\",\"position\":\"左下角宽幅文章\",\"count\":1,\"labels\":[\"她真的是魔女吗？\"]},{\"title\":\"底部主中右\",\"position\":\"底部居中文章\",\"count\":1,\"labels\":[\"难道说，那片土地传来了重大新闻！\"]},{\"title\":\"底部条状预告\",\"position\":\"最底部横条\",\"count\":5,\"labels\":[\"今日焦点：为您带来充满乐趣的资讯！\",\"独角兽日常情景绘！ （见第 2 版）\",\"探寻挠痒痒妖精的真身！ （第 3 版）\",\"纽扣消失的神秘现象 （见第 4 版）\",\"地精的真相 以及关于他们的秘密\"]}],\"centerpiece\":\"带有华丽边角装饰的大型中心肖像框，展示了一位穿着高领蕾丝裙的神秘年轻女子，她长发如风云般向外炸开旋转，面部模糊不清，呈现为戏剧性的黑白版画风格\",\"side_illustrations\":[\"天气框中的云后太阳图标\",\"右上方侧栏的茶壶版画\",\"右下方侧栏的地精巫师形象\",\"左中部区域的蜻蜓插图\",\"左下方侧栏阅读书籍的黑猫\",\"底部中左侧的水晶球版画\",\"右下方热气球与怀表组合\",\"底部条状的独角兽头像\",\"底部条状的纸杯蛋糕状妖精图案\",\"底部条状的纽扣图标\",\"底部条状的小地精图标\"],\"art_direction\":{\"mood\":\"神秘、异想天开、魔法感、略带幽默\",\"composition\":\"密集的编辑报纸设计，具有一个主导标题和一张主导中心图像，窄侧栏，多个方框文章，平衡的非对称装饰\",\"color_palette\":\"黑色墨水，炭灰色半色调，暖象牙色纸张\",\"typography\":\"大型戏剧性笔触感汉字标题，经典衬线体日语报纸正文，层级分明的字体大小\",\"render_quality\":\"高分辨率，清晰易读的日语文本，真实的印刷质感，复杂的线条\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古日式奇幻魔法报纸：一张受明治时代启发的日式奇幻报纸头版，配有巨大的魔法标题、中心处刻有风发神秘少女的肖像，以及许多异想天开的侧栏文章和插图。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "symmetrical",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "editorial",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: symmetrical, vertical, horizontal]。\n\nVisual style:\n[参考风格: editorial, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15087",
+      "15382",
+      "14977",
+      "15653",
+      "14644",
+      "14854"
+    ]
+  }
+}

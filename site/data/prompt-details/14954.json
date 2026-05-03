@@ -1,0 +1,46 @@
+{
+  "id": "14954",
+  "prompt": "A minimalist studio photograph of a round analog wall clock mounted on a smooth light gray wall, centered in frame and viewed straight on. The clock has a matte black circular frame, a clean white face, black Arabic numerals 1 through 12, and thin black minute tick marks around the entire dial with thicker hour marks at each numeral. Show exactly 12 numerals and 60 minute divisions. The time displayed is {argument name=\"clock time\" default=\"05:29\"}: the short hour hand is slightly past 5, the longer minute hand points to the 29-minute mark just before the 6, and a very thin black second hand is near the lower part of the dial around the 31-second position. Soft even lighting, subtle realistic shadow on the wall, high-detail product-photography realism, neutral modern interior aesthetic, no branding, no extra objects, square composition.",
+  "translatedPrompt": "一张极简主义风格的摄影作品，展示了一个安装在平滑浅灰色墙面上的圆形模拟挂钟，画面居中且为正视视角。挂钟配有哑光黑色圆形边框、简洁的白色表盘、1 到 12 的黑色阿拉伯数字，表盘周围有细长的黑色分钟刻度，每个数字处有较粗的小时刻度。显示完整的 12 个数字和 60 个分钟刻度。显示时间为 {argument name=\"clock time\" default=\"05:29\"}：短时针略微超过 5 点，长分针指向 6 点前方的 29 分钟刻度，极细的黑色秒针位于表盘下半部分约 31 秒的位置。柔和均匀的灯光，墙上带有细腻逼真的阴影，高细节产品摄影质感，中性现代室内美学，无品牌标识，无额外物体，方形构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "05:29 的极简模拟挂钟：此提示词可生成一张逼真的居中产品风格照片，展示显示特定时间的简约模拟挂钟，适用于时间演示或模型准确性对比。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic",
+        "minimalist",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic, minimalist, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14575",
+      "14690",
+      "15775",
+      "14807",
+      "15639",
+      "15068"
+    ]
+  }
+}

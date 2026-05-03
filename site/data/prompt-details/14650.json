@@ -1,0 +1,44 @@
+{
+  "id": "14650",
+  "prompt": "A realistic smartphone screenshot of a dark-mode chat interface in Chinese, minimalist and modern, with a charcoal black background and lots of empty space. Near the upper right is a single rounded dark-gray message bubble containing the white Chinese text {argument name=\"message text\" default=\"拳击手被击中的瞬间\"}. Below and to the left is one large embedded photo with rounded corners, occupying most of the lower-left half of the screen. The embedded photo shows the exact instant in a professional boxing match when one boxer lands a hard straight punch flush on the other boxer’s face. Two shirtless male boxers with muscular, sweaty bodies are inside a ring under arena lights. The boxer on the right is seen mostly from the back and side, extending his right arm fully across the frame; his back and shoulder muscles are sharply defined, and he has short dark hair and tattooed arms. He wears a white boxing glove with blue trim, and the glove is smashing into the left boxer’s face. The boxer on the left is recoiling from the impact, his head snapping sideways, with a spray of sweat and water droplets exploding outward around his head. He has a heavily tattooed left arm and chest, a black glove raised near his torso, and black trunks with large gold letters reading VICTOR across the waistband area. The ring ropes are red and white, with visible branding including PBC, and the dark blurred arena background includes bright signage reading RODRIGUEZ VS. The action photo should feel like a frozen high-speed sports photograph, dramatic, crisp, and photorealistic. Over both fighters’ faces are 2 rectangular mosaic-blur censor blocks, one on each face. Add small mobile UI overlay details on the image: the Chinese word 编辑 in white at the bottom-left corner of the photo and a circular share/upload icon at the bottom-right corner. Overall composition should look exactly like a casually shared AI-generated image shown inside a messaging app screenshot, clean, believable, and highly realistic.",
+  "translatedPrompt": "一张逼真的中文深色模式聊天界面手机截图，风格简约现代，采用炭黑色背景，留白充足。右上角附近有一个圆角深灰色消息气泡，内含白色中文字符 {argument name=\"message text\" default=\"拳击手被击中的瞬间\"}。下方左侧嵌入一张占据屏幕左下半部分的大图，图片圆角处理。嵌入的照片展示了职业拳击比赛中，一名拳手重拳击中对方脸部的瞬间。两名赤裸上身的男性拳手肌肉发达、汗流浃背，置身于竞技场灯光下的拳击台内。右侧拳手主要呈现背侧面，右臂完全伸展横跨画面；其背部和肩部肌肉线条分明，留着深色短发，手臂有纹身。他戴着带有蓝色饰边的白色拳击手套，正猛烈击中左侧拳手的脸部。左侧拳手因冲击力向后仰，头部向侧面甩动，汗水和水珠从头部周围飞溅而出。他左臂和胸部有大面积纹身，躯干附近抬起一只黑色手套，穿着黑色短裤，腰带处印有醒目的金色字母 VICTOR。拳台围绳为红白相间，可见 PBC 等品牌标识，背景是模糊的深色竞技场，带有写着 RODRIGUEZ VS 的明亮标识。这张动作照片应呈现出高速运动摄影的定格感，画面戏剧性、清晰且高度逼真。两位拳手的脸部各覆盖一个矩形马赛克模糊遮挡块。在图片上添加细微的移动端 UI 叠加细节：照片左下角有白色中文字符“编辑”，右下角有一个圆形的分享/上传图标。整体构图应看起来就像在即时通讯应用中随手分享的 AI 生成图片，简洁、可信且极具真实感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "拳击冲击聊天截图：一张逼真的深色模式聊天截图，包含极具冲击力的拳击画面，适合用于复刻社交媒体上流行的 AI 图像演示。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "minimalist"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "App Store 截图、产品概念、移动工具界面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, minimalist]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14480",
+      "14892",
+      "14540",
+      "14661",
+      "15427",
+      "15802"
+    ]
+  }
+}

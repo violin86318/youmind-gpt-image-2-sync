@@ -1,0 +1,45 @@
+{
+  "id": "15439",
+  "prompt": "A tightly zoomed-in comparison image demonstrating fake pixel-art rendering, showing a low-resolution-looking scene enlarged on screen with a thin bright blue square grid overlay across the entire frame. The composition is an abstract close crop of a pixel-art-style environment: sandy tan and ochre blocky forms on the left and center, a dark navy and black stepped diagonal mass on the right, muted olive-green and slate-blue shapes along the upper background, and a few lighter golden highlights. Every edge looks staircase-like and blocky at first glance, but the colors softly blur and blend within the apparent squares instead of aligning perfectly to the grid, creating the impression of pixel art that breaks down under inspection. Include a small white crosshair cursor near the upper left quadrant to suggest image analysis in an editor. The overall look should feel like a screenshot from a graphics program or social media demonstration about how AI can imitate retro game art aesthetics without producing true grid-perfect pixel art, with no text labels visible.",
+  "translatedPrompt": "一张经过紧密放大的对比图像，展示了伪像素艺术的渲染效果。画面呈现了一个低分辨率场景的放大视图，并在整个帧上叠加了细细的亮蓝色方形网格。构图是像素艺术风格环境的抽象局部特写：左侧和中心为沙褐色和赭色的块状形态，右侧为深海军蓝和黑色的阶梯状对角线块，背景上方为柔和的橄榄绿和板岩蓝形状，并点缀着少量较亮的金色高光。乍看之下，每个边缘都呈阶梯状且具有块状感，但颜色在明显的方格内呈现出柔和的模糊与融合，而非与网格完美对齐，从而营造出一种经不起仔细推敲的像素艺术假象。在左上象限附近包含一个小型的白色十字准星光标，以暗示编辑器中的图像分析过程。整体观感应类似于图形程序或社交媒体演示的截图，旨在说明 AI 如何在无法生成真正网格完美的像素艺术的情况下，模仿复古游戏艺术的美学，画面中不应包含任何可见的文字标签。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "伪像素艺术网格放大分析：此提示词用于生成一张特写分析风格的图像，旨在展示 AI 生成的像素风视觉效果如何无法与真实的像素网格完美对齐。",
+      "subject": "界面",
+      "scene": "综合视觉",
+      "composition": [
+        "grid"
+      ],
+      "style": [
+        "retro",
+        "pixel art"
+      ],
+      "lightingCamera": [],
+      "text": "禁止额外文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "风格对比、产品系列、前后对照、角色变体",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 综合视觉 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[参考风格: retro, pixel art]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n禁止额外文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15812",
+      "14162",
+      "14013",
+      "14011",
+      "14181",
+      "14192"
+    ]
+  }
+}

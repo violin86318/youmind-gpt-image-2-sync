@@ -1,0 +1,52 @@
+{
+  "id": "15674",
+  "prompt": "A dynamic close-up concert photo of a {argument name=\"idol performer\" default=\"young female J-pop idol\"} on stage, shot from the audience perspective with a shallow depth of field. She is leaning toward the camera and reaching one hand forward in the foreground, creating dramatic foreshortening, while holding a black handheld microphone with a red accent ring in her other hand near her mouth. She wears a highly detailed red-and-white frilly idol costume: twin-tail dark brown hair with straight bangs, 2 fluffy red pom-pom hair accessories tied with ribbon bows, dangling red earrings, a red choker with lace and a small heart jewel, a cropped lace-trimmed top with 1 oversized satin bow at the chest, off-shoulder frilled sleeves, a corset-style midriff section with red ribbon lacing and small metallic charms, and a layered satin skirt with sparkling bead chains and 1 heart-shaped jeweled ornament at the waist. Her manicure is glossy red with cute white decorative nail art. The lighting is vivid pink and crimson stage lighting, with a glamorous live-idol atmosphere. The background is filled with soft bokeh, LED screens, rigging, and numerous glowing heart shapes and floating heart confetti, creating a dreamy romantic concert scene. Use a photorealistic style with crisp fabric texture, shiny satin highlights, lace detail, concert ambience, slight motion energy, and an overall {argument name=\"color theme\" default=\"red and pink\"} palette. Include a subtle sense of excitement and fan-service stage charisma, like a promotional live-performance shot for a {argument name=\"theme\" default=\"cute romantic idol concert\"}.",
+  "translatedPrompt": "一张充满动感的演唱会特写照片，主角为舞台上的 {argument name=\"idol performer\" default=\"年轻的 J-pop 女偶像\"}，以观众视角拍摄，具有浅景深效果。她向镜头倾斜，一只手伸向前景，形成强烈的透视缩短效果；另一只手拿着一支带有红色装饰环的黑色手持麦克风靠近嘴边。她身穿细节丰富的红白相间荷叶边偶像演出服：深棕色双马尾发型搭配齐刘海，两个蓬松的红色毛绒球发饰系着丝带蝴蝶结，佩戴红色吊坠耳环，颈部系着带有蕾丝和心形宝石的红色颈圈，身穿带有蕾丝边的露脐上衣，胸前有一个巨大的缎面蝴蝶结，露肩荷叶边袖子，束腰风格的中段设计带有红色丝带系带和小金属挂饰，层叠的缎面短裙上装饰着闪亮的珠链，腰间配有一枚心形宝石装饰。她的美甲是亮面红色，并配有可爱的白色装饰美甲艺术。灯光为生动的粉色和深红色舞台灯光，营造出华丽的现场偶像氛围。背景中充满了柔和的虚化效果、LED 屏幕、舞台装置以及无数发光的心形和漂浮的心形纸屑，营造出梦幻浪漫的演唱会场景。采用照片级逼真的风格，展现清晰的布料质感、闪亮的缎面高光、蕾丝细节、演唱会氛围、轻微的动态能量，以及整体的 {argument name=\"color theme\" default=\"红色和粉色\"} 色调。融入微妙的兴奋感和粉丝向的舞台魅力，如同 {argument name=\"theme\" default=\"可爱浪漫偶像演唱会\"} 的宣传现场表演照。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "红色偶像演唱会特写：此提示词可生成一张照片级逼真的 J-pop 风格偶像舞台表演特写，非常适合用于演唱会海报、同人艺术概念图以及华丽的音乐活动视觉素材。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "layered"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, layered]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15706",
+      "15463",
+      "14568",
+      "15350",
+      "14630",
+      "15723"
+    ]
+  }
+}

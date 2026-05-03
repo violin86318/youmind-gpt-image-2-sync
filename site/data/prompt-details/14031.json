@@ -1,0 +1,44 @@
+{
+  "id": "14031",
+  "prompt": "{\n  \"type\": \"2x2 grid of Japanese advertising banners\",\n  \"layout\": {\n    \"grid\": \"2 rows by 2 columns\",\n    \"panels\": [\n      {\n        \"position\": \"top-left\",\n        \"industry\": \"cosmetics\",\n        \"visuals\": \"Close-up portrait of a young Asian woman with glowing, clear skin gently touching her cheek. In the bottom left, 2 skincare products: a tall frosted bottle and a short cream jar labeled '{argument name=\"skincare brand\" default=\"SUIREN\"}'.\",\n        \"typography\": \"Large vertical Japanese text '透明感、満ちる。' and '肌が変わると、毎日が変わる。'. A circular badge '6.1 NEW Debut'. Brand name 'SUIREN' at the bottom.\"\n      },\n      {\n        \"position\": \"top-right\",\n        \"industry\": \"travel\",\n        \"visuals\": \"A woman seen from behind wearing a straw hat and white shirt, looking out over a scenic {argument name=\"travel destination\" default=\"European lake town\"} with mountains and a church spire. A small airplane illustration in the sky.\",\n        \"typography\": \"Script text 'Find your Journey'. Large white Japanese text '心が動く旅へ。'. A yellow circular badge '今だけ！最大20%OFF 6.30まで'. A dark blue bottom bar with '初夏のヨーロッパキャンペーン' and a '詳しくはこちら >' button.\"\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"industry\": \"food\",\n        \"visuals\": \"A rustic bowl of white rice topped with a bright orange raw egg yolk and bonito flakes. Dark sauce is being poured from a small pitcher. In the bottom left, a brown paper package of {argument name=\"food product\" default=\"dashi powder\"} with a blue wave pattern.\",\n        \"typography\": \"Vertical Japanese text '毎日のごはんを、もっと美味しく。'. Product name '日々のだし' in a large serif font. A small badge 'だしパック 30袋入'.\"\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"industry\": \"technology\",\n        \"visuals\": \"A modern smartphone displaying a {argument name=\"app type\" default=\"finance and investment\"} dashboard with an upward-trending line graph and portfolio breakdown. A blue gift box icon.\",\n        \"typography\": \"App logo 'M {argument name=\"app name\" default=\"MoneyPath\"}'. Headline '未来の自分のために、今はじめる資産形成'. A blue circular badge '新規登録で1,000円分のポイントプレゼント！'. A blue bottom bar with 4 distinct columns featuring icons and text like '100円からはじめられる' and 'NISAにも対応'.\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"2x2 日式广告横幅网格\",\n  \"layout\": {\n    \"grid\": \"2 行 2 列\",\n    \"panels\": [\n      {\n        \"position\": \"左上\",\n        \"industry\": \"化妆品\",\n        \"visuals\": \"一位年轻亚洲女性的特写肖像，皮肤透亮，正轻轻触碰脸颊。左下角放置 2 款护肤品：一个磨砂质感的高瓶和一罐短小的面霜，标签为“{argument name=\"skincare brand\" default=\"SUIREN\"}”。\",\n        \"typography\": \"醒目的竖排日文“透明感、満ちる。”和“肌が変わると、毎日が変わる。”。圆形徽章“6.1 NEW Debut”。底部标注品牌名“SUIREN”。\"\n      },\n      {\n        \"position\": \"右上\",\n        \"industry\": \"旅游\",\n        \"visuals\": \"一位戴着草帽、身穿白衬衫的女性背影，正眺望着风景优美的“{argument name=\"travel destination\" default=\"欧洲湖畔小镇\"}”，背景是山脉和教堂尖顶。天空中有一架小型飞机插画。\",\n        \"typography\": \"手写体“Find your Journey”。醒目的白色日文“心が動く旅へ。”。黄色圆形徽章“今だけ！最大20%OFF 6.30まで”。深蓝色底部栏写有“初夏のヨーロッパキャンペーン”及“詳しくはこちら >”按钮。\"\n      },\n      {\n        \"position\": \"左下\",\n        \"industry\": \"食品\",\n        \"visuals\": \"一碗质朴的白米饭，上面放着一颗橙红色的生蛋黄和鲣鱼干。深色酱汁正从一个小壶中淋下。左下角是一个带有蓝色波浪图案的棕色纸包装，内装“{argument name=\"food product\" default=\"出汁粉\"}”。\",\n        \"typography\": \"竖排日文“毎日のごはんを、もっと美味しく。”。产品名称“日々のだし”采用大号衬线字体。小徽章“だしパック 30袋入”。\"\n      },\n      {\n        \"position\": \"右下\",\n        \"industry\": \"科技\",\n        \"visuals\": \"一部现代智能手机，屏幕显示“{argument name=\"app type\" default=\"金融投资\"}”仪表盘，包含上升趋势的折线图和投资组合细分。一个蓝色礼盒图标。\",\n        \"typography\": \"App Logo“M {argument name=\"app name\" default=\"MoneyPath\"}”。标题“未来の自分のために、今はじめる資産形成”。蓝色圆形徽章“新規登録で1,000円分のポイントプレゼント！”。蓝色底部栏分为 4 列，包含图标和文字，如“100円からはじめられる”和“NISAにも対応”。\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "4 格日式广告网格：生成一个 2x2 网格，包含化妆品、旅游、食品和金融 App 的日式广告横幅。",
+      "subject": "产品",
+      "scene": "字体/Logo",
+      "composition": [
+        "close-up",
+        "grid",
+        "2x2",
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, grid, 2x2, vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14001",
+      "14002",
+      "15039",
+      "15001",
+      "15464",
+      "14937"
+    ]
+  }
+}

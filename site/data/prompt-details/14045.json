@@ -1,0 +1,46 @@
+{
+  "id": "14045",
+  "prompt": "A photorealistic, high-resolution image of a glossy {argument name=\"car model\" default=\"black Bugatti Chiron\"} parked on a cobblestone plaza. The hypercar is positioned at a slight angle, showcasing its sleek aerodynamic curves, distinctive horseshoe front grille, quad LED headlights, black alloy wheels, and bright blue brake calipers. The car's highly reflective paint mirrors the surrounding environment. In the background stands the majestic {argument name=\"background landmark\" default=\"Notre-Dame de Paris\"} cathedral, featuring its intricate Gothic architecture, large rose window, and twin towers. The scene is set during an {argument name=\"lighting and weather\" default=\"overcast daytime\"}, providing soft, diffused natural lighting. A few pedestrians are casually walking in the background, and ornate vintage Parisian street lamps are visible on the right side of the plaza, adding to the European city atmosphere.",
+  "translatedPrompt": "一张照片级真实、高分辨率的图像，展示了一辆光泽亮丽的 {argument name=\"car model\" default=\"黑色布加迪 Chiron\"} 停在鹅卵石广场上。这辆超级跑车以微倾的角度停放，展现出其流畅的空气动力学曲线、独特的马蹄形前格栅、四眼 LED 大灯、黑色合金轮毂以及亮蓝色的刹车卡钳。车身的高反射漆面映照出周围的环境。背景中矗立着宏伟的 {argument name=\"background landmark\" default=\"巴黎圣母院\"} 大教堂，展现出其复杂的哥特式建筑风格、巨大的玫瑰花窗和双塔楼。场景设定在 {argument name=\"lighting and weather\" default=\"阴天白昼\"}，提供了柔和且漫射的自然光。背景中有几位行人悠闲地走过，广场右侧可见装饰华丽的复古巴黎街灯，增添了浓郁的欧洲城市氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "停在历史地标前的超级跑车：生成一张在柔和光线下，停在著名建筑地标前的豪华超级跑车照片级真实感图像。",
+      "subject": "空间",
+      "scene": "信息图/图解",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "vintage"
+      ],
+      "lightingCamera": [
+        "natural light",
+        "overcast"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "城市美食地图、活动导览、园区地图、旅行视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, vintage]。\n\nLighting and camera:\n[参考光线镜头: natural light, overcast]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13964",
+      "14086",
+      "15063",
+      "14009",
+      "15309",
+      "13512"
+    ]
+  }
+}

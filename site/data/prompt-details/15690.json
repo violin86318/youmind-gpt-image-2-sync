@@ -1,0 +1,51 @@
+{
+  "id": "15690",
+  "prompt": "A candid street-fashion portrait of two cute anime-inspired girls standing close together in front of a colorful urban graffiti wall on a city sidewalk in Japan, photographed at eye level with a shallow depth of field and soft overcast daylight. Both have smooth pale skin and short blunt bob haircuts with straight ends, their bangs covering part of the forehead, and their faces intentionally simplified or blurred for an anonymous doll-like look. The girl on the left has {argument name=\"hair color\" default=\"silver gray\"} hair, wears a black knit beanie with a rectangular patch logo reading \"Nightfall\", a black leather jacket over a white graphic T-shirt with a dark distressed illustration and purple accent graphic, layered silver chain necklaces including a heart pendant, a black choker, and a black backpack strap over one shoulder. The girl on the right has icy light blue hair, wears a black knit beanie with a white scribble-style logo, an oversized black hoodie with bold hot-pink Japanese graffiti lettering across the chest, a silver chain necklace, and black backpack straps on both shoulders. They lean in slightly toward each other in a relaxed, stylish pose, with one hand lightly touching the hoodie shoulder area. The background is a vivid mural wall in pink, blue, and purple tones, plus a sticker-covered utility pole on the right edge with visible layered street stickers including \"SMILE\", \"AQUARIUS\", and a red \"HELLO my name is\" sticker covered in tags. Emphasize Japanese street style, alternative fashion, kawaii cool mood, realistic fabric textures, crisp clothing detail, subtle cinematic color grading, and a trendy Harajuku snapshot aesthetic.",
+  "translatedPrompt": "一张抓拍风格的街头时尚肖像，两位可爱的动漫风女孩并肩站立在日本城市人行道的彩色涂鸦墙前，采用平视视角拍摄，具有浅景深效果和柔和的阴天自然光。两人均拥有白皙细腻的皮肤和短直发波波头，刘海遮住部分额头，面部经过刻意简化或模糊处理，呈现出匿名的人偶感。左侧女孩留着 {argument name=\"hair color\" default=\"银灰色\"} 的头发，头戴饰有矩形 \"Nightfall\" 标志贴片的黑色针织帽，身穿黑色皮夹克，内搭白色印花 T 恤（带有深色磨损插画和紫色点缀图案），叠戴银色链条项链（含心形吊坠），佩戴黑色颈圈，单肩背着黑色双肩包。右侧女孩留着冰蓝色头发，头戴饰有白色涂鸦风格标志的黑色针织帽，身穿超大款黑色连帽衫，胸前印有醒目的亮粉色日文涂鸦字样，佩戴银色链条项链，双肩背着黑色双肩包。她们姿态放松且时尚，微微向对方倾斜，其中一只手轻触连帽衫肩部。背景是一面色彩鲜艳的粉、蓝、紫色调涂鸦墙，右侧边缘有一根贴满贴纸的电线杆，上面可见层叠的街头贴纸，包括 \"SMILE\"、\"AQUARIUS\" 以及一张写有 \"HELLO my name is\" 的红色贴纸，上面布满涂鸦。强调日系街头风格、另类时尚、可爱酷炫氛围、逼真的布料质感、清晰的服装细节、微妙的电影感调色以及潮流原宿快照美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "可爱街头风双人肖像：此提示词可生成一张时尚的双人都市街头风肖像，融合了日系街头服饰与涂鸦墙氛围，非常适合潮流社交媒体艺术及生活方式类图片。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "layered"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "anime"
+      ],
+      "lightingCamera": [
+        "overcast",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered]。\n\nVisual style:\n[参考风格: realistic, cinematic, anime]。\n\nLighting and camera:\n[参考光线镜头: overcast, shallow depth, depth of field]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15793",
+      "15094",
+      "15096",
+      "15754",
+      "15766",
+      "14902"
+    ]
+  }
+}

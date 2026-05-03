@@ -1,0 +1,45 @@
+{
+  "id": "15363",
+  "prompt": "{\"type\":\"Japanese e-commerce product advertisement\",\"product\":{\"category\":\"shoe laundry mesh bag\",\"name\":\"{argument name=\\\"product name\\\" default=\\\"靴用洗濯ネット\\\"}\",\"hero\":{\"bag\":{\"shape\":\"rounded clamshell zippered laundry bag with a top mesh panel and ribbed fabric sides\",\"main colors\":[\"light blue mesh\",\"medium gray ribbed body\",\"pale blue zipper trim\"],\"position\":\"front-right foreground on a light wooden tabletop\",\"state\":\"unzipped open at the front, revealing the contents\"},\"contents\":{\"count\":2,\"item\":\"white low-top sneakers\",\"arrangement\":\"a clean matching pair placed neatly side by side inside the bag with toes facing forward\"},\"background\":{\"setting\":\"bright clean laundry room\",\"main object\":\"front-loading washing machine on the right side, partially visible\",\"effects\":[\"large water splash arcs behind the product\",\"floating water bubbles across the composition\"],\"lighting\":\"high-key commercial lighting with glossy highlights and crisp shadows\"}}},\"layout\":{\"style\":\"dense Japanese shopping-banner composition for an online marketplace hero image\",\"sections\":[{\"title\":\"main headline block\",\"position\":\"top-left\",\"count\":3,\"labels\":[\"洗濯機に入れるだけ！\",\"靴を傷めず\",\"まるごと洗える！\"]},{\"title\":\"product name ribbon\",\"position\":\"left-center under headline\",\"count\":1,\"labels\":[\"靴用洗濯ネット\"]},{\"title\":\"feature icons\",\"position\":\"left side vertical column\",\"count\":3,\"labels\":[\"そのまま洗濯機へ入れるだけ\",\"型崩れを防いで優しく洗える\",\"汚れ・ニオイをしっかり落とす\"]},{\"title\":\"award badge\",\"position\":\"top-right\",\"count\":1,\"labels\":[\"楽天ランキング\",\"No.1\",\"靴用洗濯ネット\",\"※デイリーランキング1位 (2024年3月14日更新)\"]},{\"title\":\"inset usage photo\",\"position\":\"bottom-left\",\"count\":1,\"labels\":[\"hands opening the bag to place or show the shoes inside\"]},{\"title\":\"color variants\",\"position\":\"bottom-center\",\"count\":4,\"labels\":[\"グレー\",\"イエロー\",\"ブルー\",\"ライトグレー\"]},{\"title\":\"color count callout\",\"position\":\"bottom-right\",\"count\":1,\"labels\":[\"選べる\",\"4\",\"color\"]}],\"color variants\":[{\"label\":\"グレー\",\"bag color\":\"gray body with light blue mesh top\"},{\"label\":\"イエロー\",\"bag color\":\"yellow body with pale trim\"},{\"label\":\"ブルー\",\"bag color\":\"bright blue body with pale trim\"},{\"label\":\"ライトグレー\",\"bag color\":\"light gray body with pale trim\"}]} ,\"typography\":{\"language\":\"Japanese\",\"headline treatment\":\"very large bold sans-serif, black and vivid blue emphasis, dynamic line breaks\",\"accent colors\":[\"royal blue\",\"yellow\",\"white\",\"red-gold badge accents\",\"green and orange feature icons\"]},\"composition notes\":\"Create a polished marketplace-ready Japanese sales graphic with the product dominating the center-right, large benefit-focused headline on the left, ranking badge at the upper right, and four small color option thumbnails along the bottom. Emphasize cleanliness, protection, and washing power. Use glossy water splash effects and bubbles to imply machine washing performance. Keep the overall look premium, trustworthy, and highly clickable.\",\"customization\":{\"headline emphasis color\":\"{argument name=\\\"accent color\\\" default=\\\"blue\\\"}\",\"bag main color\":\"{argument name=\\\"main bag color\\\" default=\\\"gray with light blue mesh\\\"}\",\"background appliance\":\"{argument name=\\\"background appliance\\\" default=\\\"front-loading washing machine\\\"}\"}}",
+  "translatedPrompt": "{\"type\":\"日式电商产品广告\",\"product\":{\"category\":\"鞋类洗衣网袋\",\"name\":\"{argument name=\\\"product name\\\" default=\\\"靴用洗濯ネット\\\"}\",\"hero\":{\"bag\":{\"shape\":\"带有顶部网状面板和罗纹织物侧面的圆形翻盖拉链洗衣袋\",\"main colors\":[\"浅蓝色网面\",\"中灰色罗纹主体\",\"淡蓝色拉链饰边\"],\"position\":\"位于浅色木质桌面右前方\",\"state\":\"正面拉链打开，露出内部物品\"},\"contents\":{\"count\":2,\"item\":\"白色低帮运动鞋\",\"arrangement\":\"整洁的一双鞋并排放在袋内，鞋头朝前\"},\"background\":{\"setting\":\"明亮整洁的洗衣房\",\"main object\":\"右侧部分可见的滚筒洗衣机\",\"effects\":[\"产品后方有巨大的水花弧线\",\"画面中漂浮着水泡\"],\"lighting\":\"高调商业摄影布光，带有光泽高光和清晰阴影\"}}},\"layout\":{\"style\":\"紧凑的日式电商横幅构图，适用于在线市场主图\",\"sections\":[{\"title\":\"主标题区\",\"position\":\"左上角\",\"count\":3,\"labels\":[\"放入洗衣机即可！\",\"不伤鞋面\",\"彻底洗净！\"]},{\"title\":\"产品名称栏\",\"position\":\"标题下方居左\",\"count\":1,\"labels\":[\"靴用洗濯ネット\"]},{\"title\":\"功能图标\",\"position\":\"左侧垂直列\",\"count\":3,\"labels\":[\"直接放入洗衣机即可\",\"防止变形，轻柔洗涤\",\"彻底去除污垢和异味\"]},{\"title\":\"获奖徽章\",\"position\":\"右上角\",\"count\":1,\"labels\":[\"乐天排名\",\"No.1\",\"靴用洗濯ネット\",\"※日榜第 1 名 (2024 年 3 月 14 日更新)\"]},{\"title\":\"使用场景插图\",\"position\":\"左下角\",\"count\":1,\"labels\":[\"双手打开洗衣袋放入或展示内部鞋子\"]},{\"title\":\"颜色变体\",\"position\":\"底部居中\",\"count\":4,\"labels\":[\"灰色\",\"黄色\",\"蓝色\",\"浅灰色\"]},{\"title\":\"颜色数量标注\",\"position\":\"右下角\",\"count\":1,\"labels\":[\"可选\",\"4\",\"种颜色\"]}],\"color variants\":[{\"label\":\"灰色\",\"bag color\":\"灰色主体搭配浅蓝色网面\"},{\"label\":\"黄色\",\"bag color\":\"黄色主体搭配淡色饰边\"},{\"label\":\"蓝色\",\"bag color\":\"亮蓝色主体搭配淡色饰边\"},{\"label\":\"浅灰色\",\"bag color\":\"浅灰色主体搭配淡色饰边\"}]} ,\"typography\":{\"language\":\"日语\",\"headline treatment\":\"超大加粗无衬线字体，黑色与亮蓝色强调，动态换行\",\"accent colors\":[\"宝蓝色\",\"黄色\",\"白色\",\"红金色徽章装饰\",\"绿色和橙色功能图标\"]},\"composition notes\":\"制作一张精致且符合市场需求的日式销售图，产品置于中右侧，左侧放置大号利益点标题，右上角放置排名徽章，底部排列四个颜色选项缩略图。强调清洁、保护和洗涤力。使用光泽水花效果和气泡来暗示洗衣机性能。保持整体外观高端、值得信赖且具有高点击率。\",\"customization\":{\"headline emphasis color\":\"{argument name=\\\"accent color\\\" default=\\\"blue\\\"}\",\"bag main color\":\"{argument name=\\\"main bag color\\\" default=\\\"gray with light blue mesh\\\"}\",\"background appliance\":\"{argument name=\\\"background appliance\\\" default=\\\"front-loading washing machine\\\"}\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日式鞋类洗衣袋广告：一张精致的日式电商主图，用于推广鞋类洗衣网袋，包含醒目的销售文案、功能图标、排名徽章以及供市场列表使用的颜色变体。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [
+        "callout",
+        "vertical"
+      ],
+      "style": [
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: callout, vertical]。\n\nVisual style:\n[参考风格: premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14889",
+      "15447",
+      "15262",
+      "15619",
+      "15002",
+      "15429"
+    ]
+  }
+}

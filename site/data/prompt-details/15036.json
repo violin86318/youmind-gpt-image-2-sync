@@ -1,0 +1,51 @@
+{
+  "id": "15036",
+  "prompt": "A cinematic dark fantasy scene inside a vast gothic cathedral at night, centered on a mysterious woman in a floor-length black ceremonial gown standing in the middle of a glowing occult circle. The composition is perfectly symmetrical and frontal, with the woman placed dead center beneath a huge rose window and a bright full moon visible through the stained glass. She wears an ornate, form-fitting {argument name=\"dress color\" default=\"black\"} gown with lace, embroidered filigree, semi-sheer sleeves, a corseted bodice, and a long flowing train spreading across the stone floor. Her pose is regal and ritualistic, arms slightly extended at her sides with open hands, as if summoning smoke or dark magic. Her face is obscured and indistinct, with dark updo hair and a high gothic collar or headpiece. Around her feet is a large circular sigil inscribed in glowing {argument name=\"sigil glow color\" default=\"amber-gold\"} lines, with intricate symbols and concentric rings. Place exactly 30 black candles of varying heights around the circle and foreground, all lit, with warm flames casting low orange highlights. Fill the air with drifting smoke and mist, especially around her hands, the lower floor, and the side aisles. The cathedral interior is towering, shadowy, and highly detailed, with ribbed vaults, pointed arches, weathered stone, elaborate carvings, and deep blue-black darkness. On the left and right sides, include exactly 2 massive gargoyle or demon statues perched on ornate pedestals, one per side, leaning inward protectively or menacingly. Behind the woman, a raised altar and clusters of additional candles recede into darkness. Lighting is moody and high-contrast, dominated by cold moonlight from above and warm candlelight from below, creating metallic highlights on the dress and architecture. Ultra-detailed, photorealistic, dramatic volumetric fog, gothic horror atmosphere, occult elegance, epic scale, sharp textures, realistic shadows, and a haunting, majestic mood.",
+  "translatedPrompt": "一个充满电影感的暗黑奇幻场景，背景设定在夜晚宏伟的哥特式大教堂内。画面中心是一位神秘女性，她身着及地黑色礼仪长袍，站在一个发光的神秘圆阵中央。构图采用完美的对称正面视角，女性位于巨大的玫瑰花窗正下方，透过彩色玻璃可以看到明亮的满月。她穿着一件华丽且修身的 {argument name=\"dress color\" default=\"黑色\"} 长袍，带有蕾丝、刺绣花丝、半透明袖子、紧身胸衣以及铺散在石地板上的长拖尾。她的姿态庄严而富有仪式感，双臂向两侧微微伸展，手掌张开，仿佛正在召唤烟雾或暗黑魔法。她的面部模糊不清，梳着深色的盘发，戴着高耸的哥特式领饰或头饰。在她脚下是一个巨大的圆形符文，由发光的 {argument name=\"sigil glow color\" default=\"琥珀金\"} 线条刻画而成，包含复杂的符号和同心圆。在圆阵周围和前景处放置 30 支高度不一的黑色蜡烛，全部点燃，温暖的烛光投射出低沉的橙色高光。空气中弥漫着漂浮的烟雾和薄雾，尤其是在她的双手、地面及侧廊周围。大教堂内部高耸、阴暗且细节丰富，拥有肋架拱顶、尖拱、风化的石材、精致的雕刻以及深邃的蓝黑色阴影。在左右两侧，各放置 2 座巨大的石像鬼或恶魔雕像，它们栖息在华丽的基座上，向内倾斜，呈现出保护或威胁的姿态。在女性身后，一座高耸的祭坛和成簇的蜡烛隐入黑暗之中。光影氛围阴郁且对比强烈，上方是冷冽的月光，下方是温暖的烛光，在长袍和建筑表面营造出金属质感的高光。超高细节、照片级真实感、戏剧性的体积雾、哥特式恐怖氛围、神秘优雅、史诗级规模、清晰的纹理、逼真的阴影，以及令人难忘的庄严氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "大教堂中的黑暗哥特仪式：此提示词可生成充满电影感的暗黑奇幻仪式场景，包含哥特风格女性、蜡烛、符文及大教堂建筑，非常适合创作戏剧性的恐怖或神秘主题概念艺术。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "symmetrical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "volumetric"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, fantasy]。\n\nLighting and camera:\n[参考光线镜头: volumetric]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14600",
+      "15308",
+      "15642",
+      "15043",
+      "14902",
+      "14946"
+    ]
+  }
+}

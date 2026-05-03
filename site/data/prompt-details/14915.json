@@ -1,0 +1,52 @@
+{
+  "id": "14915",
+  "prompt": "A glossy Japanese shoujo manga magazine cover illustration, packed edge to edge like a real weekly romance comic issue, in a dreamy spring sunset city scene with glowing bokeh lights and falling cherry blossom petals. The cover is dominated by 4 high-school-age characters in fashionable modern anime style. In the foreground, 1 main girl stands large and centered-right, shown from mid-thigh up, with long wavy blonde hair with pink streaks, multiple ear piercings, soft glamorous makeup, and a shy romantic pose with one hand near her lips. She wears a white blouse, a large pink plaid ribbon bow, a pink plaid skirt, a loose pink cardigan slipping off her shoulders, layered necklaces, and a navy school backpack over one shoulder. Behind her stand 3 supporting students: 1 tall handsome boy in a dark school blazer and loosened tie, 1 elegant girl with blonde hair in a braided bun wearing a beige cardigan and school uniform, and 1 shorter dark-haired girl in a school uniform with a ribbon tie. The background shows a glowing pedestrian bridge or riverside walkway at dusk, lined with lights and cherry trees in full bloom, with a pink-orange-purple sky and sparkling romantic atmosphere. The composition should feel like a premium manga cover: highly rendered anime illustration, luminous highlights, delicate linework, glossy print finish, dense overlapping Japanese cover text, issue badges, callouts, hearts, sparkles, and a barcode at the bottom right. Include exactly 7 main text clusters: 1 giant magazine masthead across the top in large bubbly pink Japanese lettering with white outline, 1 vertical romance headline on the right in large pink characters with a huge numeral 3, 2 circular promotional badges on the left, 1 angled banner on the lower left, 1 stacked list of 5 serialized story titles with author names at lower left, and 1 stacked list of 5 serialized story titles with author names near the lower center-right. Add exactly 3 small publication info elements on the upper right: a date/price block, a circular issue number badge, and a narrow vertical tag. Add exactly 1 inset bonus poster preview near the lower right above the barcode. Use a hyper-detailed shoujo manga cover aesthetic, romantic, fashionable, youthful, sparkling, soft glow, sunset rim light, cherry blossom storm, print-magazine realism, intricate typography layering, vibrant pinks and warm golds.",
+  "translatedPrompt": "一张光泽感十足的日本少女漫画杂志封面插图，像真实的周刊浪漫漫画一样排版紧凑，背景为梦幻般的春日夕阳城市，伴有闪烁的焦外成像光斑和飘落的樱花花瓣。封面主体为 4 位时尚现代动漫风格的高中生角色。前景中，1 位主要女生居于右侧偏中位置，以大半身构图呈现，留着带有粉色挑染的长波浪金发，佩戴多个耳环，妆容精致柔美，姿态羞涩浪漫，一只手轻触唇边。她身穿白色衬衫，系着巨大的粉色格纹蝴蝶结，穿着粉色格纹短裙，肩上披着一件滑落的宽松粉色开衫，叠戴项链，单肩背着海军蓝色的书包。她身后站着 3 位配角学生：1 位身材高挑帅气的男生，穿着深色校服西装，领带松散；1 位优雅的女生，金发梳成编织发髻，穿着米色开衫和校服；以及 1 位个子较矮、留着深色短发的女生，穿着系有领结的校服。背景展示了黄昏时分发光的步行桥或河畔步道，两旁灯火通明，樱花盛开，天空呈现粉橙紫渐变色，充满浪漫气息。构图应呈现出高级漫画封面的质感：高渲染动漫插画、明亮的高光、细腻的线条、光面印刷质感、密集的日文封面文字重叠、期号徽章、宣传语、心形图案、闪光效果以及右下角的条形码。包含 7 组主要的文字排版：顶部横跨整个页面的巨大杂志刊名（采用大号粉色气泡感日文字体，带有白色描边），右侧垂直排列的粉色大号浪漫标题（带有巨大的数字“3”），左侧 2 个圆形宣传徽章，左下角 1 个倾斜的横幅，左下角 1 组包含 5 个连载故事标题及作者名的列表，以及右下角附近 1 组包含 5 个连载故事标题及作者名的列表。右上角添加 3 个小型出版信息元素：日期/价格块、圆形期号徽章和 1 个狭长的垂直标签。右下角条形码上方添加 1 个插页式赠品海报预览。采用超精细的少女漫画封面美学，浪漫、时尚、青春、闪耀、柔光、夕阳轮廓光、樱花雨、印刷杂志真实感、复杂的排版层次、鲜艳的粉色和温暖的金色。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "少女漫画杂志封面：一张细节丰富的动漫风格日本浪漫杂志封面，非常适合生成具有多个人物和密集封面排版的编辑风格少女漫画艺术作品。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "callout",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "manga",
+        "premium"
+      ],
+      "lightingCamera": [
+        "rim light"
+      ],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, callout, layered, vertical]。\n\nVisual style:\n[参考风格: anime, manga, premium]。\n\nLighting and camera:\n[参考光线镜头: rim light]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14518",
+      "15077",
+      "14514",
+      "15809",
+      "14982",
+      "15386"
+    ]
+  }
+}

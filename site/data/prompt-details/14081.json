@@ -1,0 +1,40 @@
+{
+  "id": "14081",
+  "prompt": "First-person perspective video game screenshot showing hands wearing {argument name=\"glove style\" default=\"Spider-Man suit\"} gloves holding an AK-47 assault rifle. The weapon features a custom {argument name=\"weapon theme\" default=\"Spider-Man\"} skin with a red and blue color scheme, black webbing patterns, a white spider emblem on the receiver, \"CS2\" on the handguard, \"MARVEL\" on the magazine, and \"SPIDER-MAN\" on the stock. The background is a dusty Middle Eastern town street resembling a tactical shooter map, featuring a sign reading \"HOTEL AURORE\" with an arrow pointing to \"A\". The top center UI displays a red shield with a black spider, the text \"{argument name=\"weapon title\" default=\"AK-47 | Web-Slinger\"}\", and \"The CS2 Collection\" above a red line. The bottom UI features exactly 5 minimalist white icons on the left and the word \"CLOSE\" on the right.",
+  "translatedPrompt": "第一人称视角的电子游戏截图，展示了戴着 {argument name=\"glove style\" default=\"蜘蛛侠战衣\"} 手套的双手正握着一把 AK-47 突击步枪。武器采用了自定义的 {argument name=\"weapon theme\" default=\"蜘蛛侠\"} 皮肤，配色为红蓝相间，带有黑色蛛网图案，机匣上有白色蜘蛛标志，护木上印有“CS2”，弹匣上印有“MARVEL”，枪托上印有“SPIDER-MAN”。背景是一个类似于战术射击地图的尘土飞扬的中东城镇街道，其中一个标志写着“HOTEL AURORE”，并配有一个指向“A”点的箭头。顶部中央的 UI 显示了一个带有黑色蜘蛛图案的红色盾牌，红线下方显示文本“{argument name=\"weapon title\" default=\"AK-47 | Web-Slinger\"}”以及“The CS2 Collection”。底部 UI 左侧有 5 个极简风格的白色图标，右侧显示“CLOSE”字样。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "FPS 自定义武器皮肤截图：生成带有游戏 UI 叠加层和战术地图背景的自定义武器皮肤第一人称射击视角截图。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "minimalist"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: minimalist]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13524",
+      "13556",
+      "13659",
+      "13682",
+      "13796",
+      "13871"
+    ]
+  }
+}

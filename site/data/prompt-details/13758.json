@@ -1,0 +1,45 @@
+{
+  "id": "13758",
+  "prompt": "A photorealistic street style paparazzi shot of a young woman walking through a {argument name=\"setting\" default=\"sunny parking lot\"}. She has {argument name=\"hair color and style\" default=\"blonde hair in a high ponytail\"} and is wearing {argument name=\"accessory\" default=\"black rectangular sunglasses\"}. Her outfit consists of a matching {argument name=\"activewear color\" default=\"grey\"} long-sleeve crop top and high-waisted leggings, paired with chunky white sneakers and white crew socks. Over her left arm, she carries a light blue denim jacket, while holding a {argument name=\"held item\" default=\"beige insulated water bottle\"} and a smartphone in the same hand. The background is blurred with a shallow depth of field, showing the rear of a dark car on the left and out-of-focus buildings and trees in the distance, capturing a casual, candid athleisure aesthetic in bright daylight.",
+  "translatedPrompt": "一张写实的街拍风格照片，拍摄了一位年轻女性走在 {argument name=\"setting\" default=\"阳光明媚的停车场\"} 中。她留着 {argument name=\"hair color and style\" default=\"金色高马尾\"}，戴着 {argument name=\"accessory\" default=\"黑色长方形墨镜\"}。她身穿一套 {argument name=\"activewear color\" default=\"灰色\"} 长袖短款上衣和高腰紧身裤，搭配厚底白色运动鞋和白色中筒袜。她的左臂上搭着一件浅蓝色牛仔外套，手中拿着 {argument name=\"held item\" default=\"米色保温水杯\"} 和一部智能手机。背景采用浅景深虚化处理，左侧可见一辆深色汽车的尾部，远处是模糊的建筑和树木，在明亮的日光下呈现出随性、自然的运动休闲美感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "运动休闲街拍风格照片：生成一张写实的、抓拍风格的女性户外运动装街拍图像。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14016",
+      "15153",
+      "13755",
+      "15046",
+      "13632",
+      "14693"
+    ]
+  }
+}

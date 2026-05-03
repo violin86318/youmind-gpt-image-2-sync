@@ -1,0 +1,50 @@
+{
+  "id": "15709",
+  "prompt": "A retro Japanese movie poster for a fictional anime film, designed like an overdramatic 1980s to 1990s theatrical poster with intentionally tacky but charming pulp energy. The scene shows a teenage girl manga artist in a dim wooden Japanese room at night, seated on the floor beside a low desk covered with scattered manuscript pages, pens, ink, books, and drawing tools. She has messy dark shoulder-length hair blown by supernatural force, a cream-beige long-sleeve blouse with loose ruffles, and a dark plaid skirt. Her face is obscured by a soft rectangular blur. She stretches one arm upward, holding a glowing {argument name=\"device type\" default=\"smartphone\"} toward a shattered window as a blinding explosion of light and lightning bursts through the glass, illuminating the whole room with gold-white energy. Outside the window is deep blue night with stormlike streaks and electric cracks. The composition is dynamic and diagonal, with the raised arm and device pointing into the central blast. Use painterly anime key art styling, dramatic rim light, textured film-poster shading, rich teal, navy, amber, and crimson colors, and a nostalgic hand-painted cinema-poster feel. Fill the poster with bold Japanese promotional copy in multiple blocks on the left side, including exaggerated red and yellow emphasis marks and three small cartoon reaction faces of a classic manga boy character. Add a vertical Japanese tagline on the right side. Place an enormous stylized Japanese title across the lower middle in red and blue metallic gradient lettering with sharp highlights and heavy shadow, reading {argument name=\"title text\" default=\"トキヲ描ける少女\"}. Include a cream starburst badge near the lower right with more Japanese text and a small manga face. At the lower left, add a large release date block in Japanese with bright yellow numerals and white text, defaulting to {argument name=\"release date\" default=\"2025年 7月18日(金)\"}. Along the bottom edge, add exactly 6 small rectangular film-strip preview stills from the movie. Add small production credits in Japanese and English across the bottom center, including {argument name=\"studio name\" default=\"Building Fictions\"}. Make the whole layout feel like a fake time-travel comedy anime poster set in 1935, loud, nostalgic, cinematic, and slightly cheesy in the best possible way.",
+  "translatedPrompt": "一张复古风格的日本虚构动漫电影海报，设计灵感源自 1980 年代至 1990 年代夸张的院线海报，带有刻意为之却又充满魅力的廉价纸浆艺术质感。场景设定在夜晚一间昏暗的日式木屋内，一位少女漫画家坐在地板上，身旁是摆满手稿纸、钢笔、墨水、书籍和绘画工具的矮桌。她凌乱的深色齐肩短发被超自然力量吹起，身穿奶油米色长袖衬衫，袖口有宽松的荷叶边，下搭深色格子裙。她的面部被一层柔和的矩形模糊效果遮盖。她的一只手臂向上伸展，将一个发光的 {argument name=\"device type\" default=\"智能手机\"} 举向破碎的窗户，耀眼的光芒和闪电从玻璃破裂处喷涌而出，以金白色的能量照亮了整个房间。窗外是深蓝色的夜空，伴随着风暴般的条纹和电光裂痕。构图呈动态的对角线布局，抬起的手臂和设备指向中央的爆炸点。采用手绘动漫主视觉风格，强调戏剧性的轮廓光、具有电影海报质感的阴影，运用丰富的青色、海军蓝、琥珀色和深红色，营造出怀旧的手绘电影海报氛围。海报左侧填充多个板块的醒目日文宣传文案，包括夸张的红黄色强调符号以及三个经典的漫画男孩卡通表情。右侧添加垂直的日文标语。在画面中下部横跨巨大的日文标题，采用红蓝金属渐变字体，带有锐利的高光和厚重的阴影，文字内容为 {argument name=\"title text\" default=\"トキヲ描ける少女\"}。右下角放置一个奶油色的星爆徽章，内含更多日文文本和一个小漫画头像。左下角添加一个巨大的日文上映日期板块，使用亮黄色数字和白色文本，默认为 {argument name=\"release date\" default=\"2025年 7月18日(金)\"}。底部边缘添加 6 个来自电影的小型矩形胶片预览图。底部中央添加日文和英文的小型制作人员名单，包括 {argument name=\"studio name\" default=\"Building Fictions\"}。整体布局呈现出一种设定在 1935 年的虚构时空穿越喜剧动漫海报风格，喧闹、怀旧、富有电影感，并以最棒的方式带有一丝俗气。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古风虚构动漫电影海报：一张极具戏剧性的虚构日本动漫电影海报，画面包含少女、发光的智能手机以及爆炸性的时空穿越能量，非常适合作为恶搞电影主视觉图或怀旧风格的宣传设计。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "manga",
+        "retro",
+        "studio"
+      ],
+      "lightingCamera": [
+        "rim light"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: cinematic, anime, manga, retro, studio]。\n\nLighting and camera:\n[参考光线镜头: rim light]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14947",
+      "15456",
+      "14808",
+      "14932",
+      "15351",
+      "14598"
+    ]
+  }
+}

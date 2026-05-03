@@ -1,0 +1,50 @@
+{
+  "id": "14472",
+  "prompt": "A breathtaking anime movie poster at golden-hour sunset, vertical theatrical one-sheet composition, painted in the polished cinematic style of a Makoto Shinkai-inspired youth drama. The scene overlooks a Japanese coastal hillside town descending toward a glowing bay, with the sun low on the horizon and its reflection stretching across calm water. The sky dominates most of the image: a vast deep-blue to lavender twilight gradient filled with countless stars, wispy pink and peach clouds, and one especially bright star near the upper right. In the foreground on the right, a teenage schoolgirl stands in three-quarter side profile facing left toward the sea, shown from mid-thigh up, with shoulder-length dark hair blowing in the breeze, a short-sleeved white sailor-style school blouse, a red ribbon at the collar, and a navy pleated skirt; her expression is contemplative and wistful. Farther down the steep stone stair street in the center-left, a teenage schoolboy stands with his back to the viewer, wearing a short-sleeved white shirt and dark trousers, also looking toward the sunset and ocean. At the lower right, include 1 black cat sitting on a wall or rooftop edge in silhouette, looking toward the town. At the lower left, include 1 old-fashioned streetlamp and a dense cluster of blooming hydrangeas in blue and violet along a stone wall. The town below is packed with tiled rooftops, narrow streets, warm window lights, and layered houses, with distant mountains framing the bay. Use dramatic rim light, luminous atmospheric perspective, sparkling highlights, delicate cloud detail, and emotional, nostalgic color grading in indigo, ultramarine, pink, peach, and gold. Design it explicitly as a Japanese animated film poster with elegant typography integrated into the artwork: large hand-brushed Japanese title text across the upper-left to center reading {argument name=\"title text\" default=\"星をつなぐ約束のうた\"}, smaller English subtitle beneath it reading {argument name=\"English subtitle\" default=\"The Song of Promises\"}, a small award-laurel line in Japanese at the top left, 1 vertical Japanese tagline along the upper-right edge, 4 cast names in Japanese centered near the bottom, a release date at the lower left reading {argument name=\"release date\" default=\"8.23\"} with \"ROADSHOW\" below, 1 pink Japanese tagline across the lower center, and a website/social handle at the lower right. Ultra-detailed anime key visual, romantic and melancholic, premium feature-film poster finish.",
+  "translatedPrompt": "一张令人惊叹的黄金时刻日落动漫电影海报，采用垂直剧场版单张海报构图，以新海诚风格的精致青春剧情片画风绘制。场景俯瞰着一座向发光海湾延伸的日本沿海山坡小镇，太阳低垂在地平线上，倒影在平静的水面上拉长。天空占据了画面的大部分：深蓝色到淡紫色的暮色渐变，点缀着无数繁星、丝缕般的粉色和桃色云朵，右上角有一颗格外明亮的星星。前景右侧，一名十几岁的女高中生侧身面向左侧的大海，取景至大腿中部，齐肩黑发在微风中飘动，身穿短袖白色水手服，领口系着红色丝带，穿着深蓝色百褶裙；她表情沉思而忧郁。在左中方陡峭的石阶街道下方，一名十几岁的男高中生背对观众站立，身穿短袖白衬衫和深色长裤，同样望向日落和海洋。右下角包含 1 只坐在墙头或屋顶边缘的黑色剪影猫，正望向小镇。左下角包含 1 盏老式路灯，石墙边簇拥着一丛盛开的蓝色和紫色绣球花。下方的小镇挤满了瓦片屋顶、狭窄的街道、温暖的窗灯和层叠的房屋，远处的群山环绕着海湾。运用戏剧性的轮廓光、发光的空气透视、闪烁的高光、细腻的云层细节，以及靛蓝、群青、粉红、桃红和金色的情感化怀旧色调。将其设计为一张典型的日本动画电影海报，并将优雅的排版融入艺术作品中：左上至中心处有巨大的手写体日文标题 {argument name=\"title text\" default=\"星をつなぐ約束のうた\"}，下方有较小的英文副标题 {argument name=\"English subtitle\" default=\"The Song of Promises\"}，左上角有一行小巧的日文奖项桂冠，右上边缘有一行垂直的日文标语，底部中心有 4 个日文演职员名单，左下角有上映日期 {argument name=\"release date\" default=\"8.23\"} 以及下方的 \"ROADSHOW\" 字样，底部中心有一行粉色日文标语，右下角有网址/社交账号。超精细动漫主视觉图，浪漫而忧郁，高级电影海报质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫日落电影海报：此提示词可生成一张精致的日本动漫电影海报，画面展现了两名学生在日落时分俯瞰海滨小镇的场景，非常适合用于电影级主视觉图和浪漫剧情片的宣传海报。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "premium"
+      ],
+      "lightingCamera": [
+        "rim light"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, layered, vertical]。\n\nVisual style:\n[参考风格: cinematic, anime, premium]。\n\nLighting and camera:\n[参考光线镜头: rim light]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15373",
+      "14522",
+      "14940",
+      "15016",
+      "15320",
+      "14438"
+    ]
+  }
+}

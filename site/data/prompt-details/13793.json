@@ -1,0 +1,46 @@
+{
+  "id": "13793",
+  "prompt": "{\n  \"type\": \"educational infographic poster\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"一图读懂 导演分镜思维\\\"}\",\n    \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"从脚本到画面：导演如何用分镜讲好一个故事\\\"}\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"1. 分镜是什么？\",\n        \"components\": [\n          \"definition text box\",\n          {\n            \"type\": \"flowchart\",\n            \"count\": 5,\n            \"labels\": [\"文字脚本\", \"导演分镜思维\", \"分镜画面\", \"拍摄执行\", \"成片呈现\"]\n          }\n        ]\n      },\n      {\n        \"title\": \"2. 导演分镜思维的核心步骤\",\n        \"count\": 5,\n        \"labels\": [\"① 理解剧本\", \"② 拆解场景\", \"③ 设计镜头\", \"④ 视觉调度\", \"⑤ 组接节奏\"]\n      },\n      {\n        \"title\": \"3. 分镜的基本构成（以一个镜头为例）\",\n        \"columns\": [\n          {\n            \"position\": \"left\",\n            \"count\": 8,\n            \"labels\": [\"镜号\", \"景别\", \"机位\", \"运动\", \"时长\", \"内容\", \"台词/音效\", \"备注\"]\n          },\n          {\n            \"position\": \"center\",\n            \"image\": \"{argument name=\\\"character subject\\\" default=\\\"anime girl reading in a room\\\"}\"\n          },\n          {\n            \"position\": \"right\",\n            \"title\": \"小技巧\",\n            \"count\": 3,\n            \"description\": \"icon bullet points\"\n          }\n        ]\n      },\n      {\n        \"title\": \"4. 分镜如何服务于叙事？\",\n        \"subtitle\": \"{argument name=\\\"example scenario\\\" default=\\\"举例：女孩在房间听到异响\\\"}\",\n        \"count\": 4,\n        \"panels\": [\"wide shot room\", \"medium shot girl reading\", \"medium shot girl looking up\", \"close up door opening\"],\n        \"caption_labels\": [\"镜号\", \"景别\", \"机位\", \"时长\", \"内容\", \"作用\"]\n      },\n      {\n        \"title\": \"5. 导演分镜思维的进阶心法\",\n        \"count\": 5,\n        \"labels\": [\"以观众视角思考\", \"情绪优先于技术\", \"删繁就简\", \"控制节奏\", \"保持整体感\"]\n      }\n    ],\n    \"footer\": \"{argument name=\\\"footer quote\\\" default=\\\"好的分镜，是导演脑中电影的第一次放映。\\\"}\"\n  },\n  \"style\": \"clean corporate infographic, blue and white palette, structured grid\"\n}",
+  "translatedPrompt": "{\n  \"type\": \"教育信息图海报\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"一图读懂 导演分镜思维\\\"}\",\n    \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"从脚本到画面：导演如何用分镜讲好一个故事\\\"}\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"1. 分镜是什么？\",\n        \"components\": [\n          \"定义文本框\",\n          {\n            \"type\": \"flowchart\",\n            \"count\": 5,\n            \"labels\": [\"文字脚本\", \"导演分镜思维\", \"分镜画面\", \"拍摄执行\", \"成片呈现\"]\n          }\n        ]\n      },\n      {\n        \"title\": \"2. 导演分镜思维的核心步骤\",\n        \"count\": 5,\n        \"labels\": [\"① 理解剧本\", \"② 拆解场景\", \"③ 设计镜头\", \"④ 视觉调度\", \"⑤ 组接节奏\"]\n      },\n      {\n        \"title\": \"3. 分镜的基本构成（以一个镜头为例）\",\n        \"columns\": [\n          {\n            \"position\": \"left\",\n            \"count\": 8,\n            \"labels\": [\"镜号\", \"景别\", \"机位\", \"运动\", \"时长\", \"内容\", \"台词/音效\", \"备注\"]\n          },\n          {\n            \"position\": \"center\",\n            \"image\": \"{argument name=\\\"character subject\\\" default=\\\"anime girl reading in a room\\\"}\"\n          },\n          {\n            \"position\": \"right\",\n            \"title\": \"小技巧\",\n            \"count\": 3,\n            \"description\": \"图标要点\"\n          }\n        ]\n      },\n      {\n        \"title\": \"4. 分镜如何服务于叙事？\",\n        \"subtitle\": \"{argument name=\\\"example scenario\\\" default=\\\"举例：女孩在房间听到异响\\\"}\",\n        \"count\": 4,\n        \"panels\": [\"房间全景\", \"女孩阅读中景\", \"女孩抬头中景\", \"门打开特写\"],\n        \"caption_labels\": [\"镜号\", \"景别\", \"机位\", \"时长\", \"内容\", \"作用\"]\n      },\n      {\n        \"title\": \"5. 导演分镜思维的进阶心法\",\n        \"count\": 5,\n        \"labels\": [\"以观众视角思考\", \"情绪优先于技术\", \"删繁就简\", \"控制节奏\", \"保持整体感\"]\n      }\n    ],\n    \"footer\": \"{argument name=\\\"footer quote\\\" default=\\\"好的分镜，是导演脑中电影的第一次放映。\\\"}\"\n  },\n  \"style\": \"简洁商务风信息图，蓝白配色，结构化网格\"\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "导演分镜思维信息图：生成一份关于分镜制作的 5 部分综合教育信息图，包含流程图、参数列表以及一个 4 帧连续漫画示例。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "wide shot",
+        "grid"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: wide shot, grid]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13694",
+      "13821",
+      "13693",
+      "13688",
+      "13789",
+      "13598"
+    ]
+  }
+}

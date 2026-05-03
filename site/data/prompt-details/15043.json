@@ -1,0 +1,53 @@
+{
+  "id": "15043",
+  "prompt": "A dramatic dark fantasy studio poster of two wizard-like figures posed like a parody heavy-metal album cover. In the foreground, a stocky older wizard sits or leans toward the camera, wearing a glossy black hooded robe, large over-ear studio headphones, and a long thick white beard spilling over his chest. He grips a tall black staff in his left hand; the staff has an elongated spearhead-shaped ornate top with open lattice details. A large black podcast microphone on a boom or stand is positioned directly in front of him at mouth level, with a visible sticker that reads \"CARAJO\" on the microphone body. Behind him stands a second older wizard in a luminous white robe with gold trim and a rope belt, also with long white hair and a long white beard. He holds a tall white staff with a matching ornate spearhead top in his right hand and extends his left hand toward the viewer in a commanding spell-casting gesture, fingers spread. Behind the standing wizard’s head is a bright electric-blue glowing circular halo made of runes, creating a magical summoning-ring effect. The background is pure black, with high-contrast cinematic lighting: cool blue rim light from behind and warm highlights on the hands, robes, and staffs. The composition is vertical, tightly framed, with the black-robed wizard occupying the lower center and the white-robed wizard towering behind him. At the bottom center, add the title {argument name=\"title text\" default=\"GORDALF\"} in huge metallic stone-textured gothic block letters, like a fantasy metal logo, and place 1 small occult-style emblem centered underneath the word. Photorealistic cosplay portrait, ultra-detailed fabrics, theatrical fantasy realism, poster design, sharp focus, moody epic atmosphere.",
+  "translatedPrompt": "一张极具戏剧性的暗黑奇幻风格摄影海报，两位巫师造型的人物摆出类似重金属恶搞专辑封面的姿势。前景中，一位身材魁梧的老巫师面向镜头坐着或倚靠着，身穿光泽感十足的黑色连帽长袍，佩戴着大型头戴式录音棚耳机，浓密修长的白胡子垂在胸前。他的左手紧握一根高大的黑色法杖，法杖顶部是长矛状的华丽装饰，带有镂空细节。一个安装在支架或吊臂上的大型黑色播客麦克风直接放置在他嘴部前方，麦克风主体上贴着一张写有“CARAJO”字样的贴纸。在他身后站着第二位老巫师，身穿带有金色镶边和绳索腰带的明亮白袍，同样留着长长的白发和白胡子。他右手握着一根顶部带有相同华丽矛头的白色高大法杖，左手向观众伸出，做出施法的指挥手势，手指张开。站立巫师的头后方是一个由符文组成的明亮电蓝色发光圆环，营造出魔法召唤阵的效果。背景为纯黑色，采用高对比度的电影级布光：背后的冷蓝色轮廓光与手部、长袍及法杖上的暖色高光形成对比。构图为竖向紧凑框架，黑袍巫师位于下方中心，白袍巫师高耸于其后。在底部中心，添加标题 {argument name=\"title text\" default=\"GORDALF\"}，使用巨大的金属石质纹理哥特体大写字母，呈现出奇幻金属乐队 Logo 的风格，并在单词下方居中放置一个小型神秘风格的徽章。照片级逼真的 Cosplay 肖像，超精细织物纹理，戏剧性奇幻写实，海报设计，焦点清晰，史诗般的阴郁氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "暗黑奇幻巫师播客海报：一张照片级逼真的恶搞奇幻海报，展示了两位手持法杖、佩戴耳机并使用播客麦克风的甘道夫式巫师，非常适合作为模因海报、社交媒体宣传或喜剧专辑封面艺术。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "fantasy",
+        "studio"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "camera"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, fantasy, studio]。\n\nLighting and camera:\n[参考光线镜头: rim light, camera]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15096",
+      "15642",
+      "15766",
+      "15308",
+      "15731",
+      "15315"
+    ]
+  }
+}

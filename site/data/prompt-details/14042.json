@@ -1,0 +1,49 @@
+{
+  "id": "14042",
+  "prompt": "{\n  \"type\": \"live-action movie poster and comprehensive character reference sheet\",\n  \"layout\": {\n    \"top_half\": {\n      \"type\": \"cinematic movie poster\",\n      \"visuals\": \"Young Japanese man holding an orange tabby cat in foreground, young Japanese woman looking right in background, golden hour city skyline with bridge and faint rainbow.\",\n      \"typography\": {\n        \"title\": \"{argument name=\\\"movie title\\\" default=\\\"虹の橋の約束\\\"}\",\n        \"subtitle\": \"NIJI NO HASHI NO YAKUSOKU\",\n        \"release_date\": \"{argument name=\\\"release date\\\" default=\\\"11.7 FRI roadshow\\\"}\",\n        \"taglines\": \"Multiple vertical and horizontal Japanese text blocks.\"\n      }\n    },\n    \"middle_band\": {\n      \"type\": \"film strip\",\n      \"count\": 5,\n      \"description\": \"Horizontal row of 5 cinematic stills showing characters in various scenes.\"\n    },\n    \"bottom_half\": {\n      \"type\": \"character design sheets\",\n      \"sections\": [\n        {\n          \"subject\": \"Female Character\",\n          \"name\": \"{argument name=\\\"female character name\\\" default=\\\"藤木 ハル\\\"}\",\n          \"full_body_poses\": 4,\n          \"pose_labels\": [\"FRONT\", \"SIDE (LEFT)\", \"BACK\", \"3/4 VIEW\"],\n          \"facial_expressions\": 3,\n          \"detail_shots\": 3,\n          \"footwear_angles\": 3,\n          \"silhouette_postures\": 2,\n          \"color_swatches\": 5\n        },\n        {\n          \"subject\": \"Male Character\",\n          \"name\": \"{argument name=\\\"male character name\\\" default=\\\"瀬川 凛\\\"}\",\n          \"full_body_poses\": 4,\n          \"pose_labels\": [\"FRONT\", \"SIDE (LEFT)\", \"BACK\", \"3/4 VIEW\"],\n          \"facial_expressions\": 3,\n          \"detail_shots\": 3,\n          \"footwear_angles\": 3,\n          \"silhouette_postures\": 2\n        },\n        {\n          \"subject\": \"Orange Tabby Cat\",\n          \"name\": \"{argument name=\\\"cat name\\\" default=\\\"チェリー\\\"}\",\n          \"full_body_poses\": 3,\n          \"large_headshot\": 1,\n          \"small_headshots\": 4,\n          \"detail_shots\": 3,\n          \"color_swatches\": 4,\n          \"scale_reference\": 1\n        },\n        {\n          \"subject\": \"Additional Stills\",\n          \"count\": 6,\n          \"description\": \"Grid of 6 cinematic shots featuring the characters and cat.\"\n        }\n      ]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"真人电影海报与综合角色参考图\",\n  \"layout\": {\n    \"top_half\": {\n      \"type\": \"电影感海报\",\n      \"visuals\": \"前景为抱着橘色虎斑猫的年轻日本男性，背景为看向右侧的年轻日本女性，背景是带有桥梁和淡淡彩虹的黄金时刻城市天际线。\",\n      \"typography\": {\n        \"title\": \"{argument name=\\\"movie title\\\" default=\\\"虹の橋の約束\\\"}\",\n        \"subtitle\": \"NIJI NO HASHI NO YAKUSOKU\",\n        \"release_date\": \"{argument name=\\\"release date\\\" default=\\\"11.7 FRI roadshow\\\"}\",\n        \"taglines\": \"多处垂直与水平排列的日语文本块。\"\n      }\n    },\n    \"middle_band\": {\n      \"type\": \"胶片条\",\n      \"count\": 5,\n      \"description\": \"由 5 张展示角色在不同场景下的电影剧照组成的水平行。\"\n    },\n    \"bottom_half\": {\n      \"type\": \"角色设计图\",\n      \"sections\": [\n        {\n          \"subject\": \"女性角色\",\n          \"name\": \"{argument name=\\\"female character name\\\" default=\\\"藤木 ハル\\\"}\",\n          \"full_body_poses\": 4,\n          \"pose_labels\": [\"正面\", \"侧面 (左)\", \"背面\", \"3/4 侧面\"],\n          \"facial_expressions\": 3,\n          \"detail_shots\": 3,\n          \"footwear_angles\": 3,\n          \"silhouette_postures\": 2,\n          \"color_swatches\": 5\n        },\n        {\n          \"subject\": \"男性角色\",\n          \"name\": \"{argument name=\\\"male character name\\\" default=\\\"瀬川 凛\\\"}\",\n          \"full_body_poses\": 4,\n          \"pose_labels\": [\"正面\", \"侧面 (左)\", \"背面\", \"3/4 侧面\"],\n          \"facial_expressions\": 3,\n          \"detail_shots\": 3,\n          \"footwear_angles\": 3,\n          \"silhouette_postures\": 2\n        },\n        {\n          \"subject\": \"橘色虎斑猫\",\n          \"name\": \"{argument name=\\\"cat name\\\" default=\\\"チェリー\\\"}\",\n          \"full_body_poses\": 3,\n          \"large_headshot\": 1,\n          \"small_headshots\": 4,\n          \"detail_shots\": 3,\n          \"color_swatches\": 4,\n          \"scale_reference\": 1\n        },\n        {\n          \"subject\": \"额外剧照\",\n          \"count\": 6,\n          \"description\": \"由 6 张展示角色与猫的电影剧照组成的网格。\"\n        }\n      ]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "真人电影海报与角色设定集：生成一种复杂的布局，将电影感海报与两名人类角色及一只猫的详细真人角色参考图结合在一起。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "grid",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "golden hour"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, vertical, horizontal]。\n\nVisual style:\n[参考风格: cinematic]。\n\nLighting and camera:\n[参考光线镜头: golden hour]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15302",
+      "13916",
+      "15431",
+      "14438",
+      "15224",
+      "14869"
+    ]
+  }
+}

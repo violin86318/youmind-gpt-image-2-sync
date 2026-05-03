@@ -1,0 +1,42 @@
+{
+  "id": "14733",
+  "prompt": "Turn this {argument name=\"food item\" default=\"ramen\"} into a cute recipe page with illustrations in the style of a {argument name=\"art style\" default=\"vintage cookbook that was hand-drawn\"}. A carefully drawn ingredients with labels, measures, and implements like bowls, whisks, or spoons should surround the composition's focal point. To create a {argument name=\"mood\" default=\"homey, nostalgic\"} vibe, use textured shading, warm pastel colors, and fine, ink-like outlines. Add recipe writing in the handwritten manner, including the ingredients and directions organically into the layout. Make sure the page has an artistic and educational tone, combining the beauty of colorful illustrations with a cookbook aesthetic.",
+  "translatedPrompt": "将这个 {argument name=\"food item\" default=\"拉面\"} 变成一张可爱的食谱页面，并配上 {argument name=\"art style\" default=\"手绘复古食谱\"} 风格的插画。精心绘制的配料应带有标签、计量单位，以及碗、搅拌器或勺子等工具，环绕在构图的焦点周围。为了营造 {argument name=\"mood\" default=\"温馨、怀旧\"} 的氛围，请使用纹理阴影、温暖的柔和色调以及细腻的墨水线条。以手写方式添加食谱内容，将配料和制作步骤自然地融入布局中。确保页面呈现出艺术感与教育意义，将精美的彩色插画与食谱美学完美结合。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古食谱插画：将美食照片转换为手绘风格的复古食谱页面，包含标签、纹理阴影和手写笔记。",
+      "subject": "食物",
+      "scene": "信息图/图解",
+      "composition": [],
+      "style": [
+        "vintage",
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: vintage, hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14144",
+      "15662",
+      "13794",
+      "14875",
+      "13491",
+      "14184"
+    ]
+  }
+}

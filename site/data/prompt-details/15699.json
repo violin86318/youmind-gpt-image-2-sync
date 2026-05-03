@@ -1,0 +1,46 @@
+{
+  "id": "15699",
+  "prompt": "A stylish anime illustration of a young woman standing in a rainy modern city street, viewed from a dramatic low angle. She has {argument name=\"hair color\" default=\"vivid pink\"} hair in a messy low side bun with loose bangs framing her face, pale skin, and sharp light gray-green eyes with a calm, slightly aloof expression. She wears a black baseball cap with the word {argument name=\"cap text\" default=\"Butterflies\"} written in elegant white script, multiple small ear piercings, and dangling gold star-shaped earrings. In her mouth she loosely holds a thin stick like a lollipop stick or candy wand with a small star detail near the end, while one hand lightly touches it. Her outfit is street-fashion and slightly glossy from the rain: a black cropped tank top, an oversized translucent white jacket slipping off her shoulders with a subtle gold pattern on one sleeve, layered silver necklaces, and a dark wristwatch. She holds 1 clear transparent umbrella with visible wet reflections and raindrops, the handle gripped in her right hand. The background shows 1 large curved glass building on the right side, other blurred urban buildings below, a bright blue sky breaking through the rain, and 1 vivid rainbow arcing behind her across the upper right sky. Emphasize shimmering wet surfaces, refracted light, sparkling rain streaks, reflective glass, and a slightly overbright iridescent glow. Highly detailed manga-inspired linework, soft painterly shading, glossy highlights, cinematic composition, fashionable urban mood, delicate but flashy atmosphere.",
+  "translatedPrompt": "一张时尚的动漫插画，描绘了一位年轻女性站在雨中的现代城市街道上，采用极具张力的低角度视角。她留着 {argument name=\"hair color\" default=\"鲜艳粉色\"} 的头发，扎着凌乱的低侧发髻，几缕碎发垂在脸颊两侧，皮肤白皙，有着清冷而略显疏离的浅灰绿色双眸。她戴着一顶黑色棒球帽，上面用优雅的白色手写体写着 {argument name=\"cap text\" default=\"Butterflies\"}，耳朵上有多个小耳环，并佩戴着垂坠的金色星形耳饰。她嘴里随意地衔着一根细棍，像棒棒糖棍或糖果棒，末端带有小星星装饰，一只手轻轻触碰着它。她的装扮是街头时尚风格，在雨中泛着微微的光泽：黑色短款背心，一件从肩头滑落的超大款半透明白色外套，其中一只袖子上带有精致的金色图案，叠戴的银色项链，以及一只深色腕表。她右手握着一把透明雨伞，伞面可见湿润的反光和雨滴。背景右侧是一座巨大的弧形玻璃建筑，下方是模糊的城市建筑，雨过天晴，明亮的蓝天显露出来，一道鲜艳的彩虹在右上方的天空中划出一道弧线。强调闪烁的湿润表面、折射的光线、晶莹的雨丝、反光的玻璃以及略显明亮的虹彩光晕。高细节的漫画风格线条，柔和的绘画式阴影，亮丽的高光，电影级的构图，时尚的都市氛围，精致而华丽的质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "撑伞彩虹下的动漫少女：此提示词可生成一张极具质感的动漫风格都市肖像，描绘了一位时尚少女在雨中撑着透明雨伞的画面，非常适合用于音乐封面、社交媒体配图或角色主视觉图。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "layered"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "manga"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered]。\n\nVisual style:\n[参考风格: cinematic, anime, manga]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14587",
+      "15610",
+      "15733",
+      "15779",
+      "14194",
+      "14524"
+    ]
+  }
+}

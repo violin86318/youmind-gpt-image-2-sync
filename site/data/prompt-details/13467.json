@@ -1,0 +1,44 @@
+{
+  "id": "13467",
+  "prompt": "An anime-style illustration of a {argument name=\"action type\" default=\"high-impact martial arts battle\"} between two young female fighters in a {argument name=\"setting\" default=\"traditional wooden martial arts dojo\"}. In the foreground, a girl with black hair in a high bun wears a {argument name=\"character 1 color theme\" default=\"red and white\"} Chinese-style martial arts outfit with baggy pants. She is in a dynamic, low, forward-thrusting stance, surrounded by swirling red energy and water splashes. In the background to the right, a girl with light purple hair in twin buns wears a {argument name=\"character 2 color theme\" default=\"green and purple\"} Chinese dress with gold embroidery and black tights. She is leaping through the air in a flying kick pose, surrounded by swirling blue energy. The wooden floorboards are splintering from the intense impact, with debris and dust flying through the air. Above them hangs a weathered wooden sign with the text \"{argument name=\"sign text\" default=\"武術会\"}\". The scene features dramatic lighting, a low-angle dynamic perspective, and intense action effects.",
+  "translatedPrompt": "一幅极具动态感的动漫插画，描绘了两名少女在传统木质道场内进行激烈武术对决的场景。在前景中，一名留着 {argument name=\"character 1 hair\" default=\"黑色高丸子头配红色丝带\"} 的少女摆出强有力的低位武术架势，正奋力挥拳。她身穿 {argument name=\"character 1 outfit\" default=\"带有红色流苏的白色中式上衣和红色宽松长裤\"}，强烈的红色能量斩击环绕着她挥动的四肢。在右侧半空中，一名留着 {argument name=\"character 2 hair\" default=\"浅紫色双丸子头\"} 的少女优雅地跃起，自信地微笑着，身穿 {argument name=\"character 2 outfit\" default=\"带有金色刺绣的深绿色连衣裙和黑色紧身裤\"}，伴随着扫过的蓝色水流状能量轨迹。背景是质朴的木质寺庙内部，上方悬挂着一块写有“{argument name=\"sign text\" default=\"武術会\"}”的醒目招牌。场景充满了爆发性的动作感，飞扬的尘土、破碎的木质地板、发光的彩色粒子特效，以及将角色与精细背景完美区分开来的戏剧性低角度光影。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫武术对决：生成一个动态的动漫风格动作场景，展示两个角色在传统道场中伴随元素光环进行战斗。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [
+        "dramatic lighting"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[参考光线镜头: dramatic lighting]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14929",
+      "13616",
+      "13679",
+      "13801",
+      "13912",
+      "13947"
+    ]
+  }
+}

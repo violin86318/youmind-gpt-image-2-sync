@@ -1,0 +1,48 @@
+{
+  "id": "13836",
+  "prompt": "{\n  \"type\": \"e-commerce livestream UI mockup\",\n  \"subject\": {\n    \"description\": \"photorealistic young Asian woman, sweaty glowing skin, long dark wavy hair, wearing a white short-sleeve polo shirt and white pleated tennis skirt, holding a white tennis racket over her right shoulder, looking directly at camera, studio lighting, white background\"\n  },\n  \"layout\": {\n    \"top_header\": {\n      \"host_info\": {\n        \"name\": \"{argument name=\\\"host name\\\" default=\\\"小鹿运动优选\\\"}\",\n        \"stats\": \"12.8万本场点赞\",\n        \"button\": \"关注\"\n      },\n      \"rank_tag\": \"带货榜第3名\",\n      \"viewer_stats\": \"1.2万\"\n    },\n    \"top_right\": {\n      \"coupon\": {\n        \"title\": \"直播间专属券\",\n        \"value\": \"￥20 满199可用\",\n        \"button\": \"领取\"\n      }\n    },\n    \"left_overlay\": {\n      \"title\": \"{argument name=\\\"campaign title\\\" default=\\\"夏日运动季\\\"}\",\n      \"subtitle\": \"{argument name=\\\"campaign subtitle\\\" default=\\\"活力开场\\\"}\",\n      \"bullet_points\": {\n        \"count\": 3,\n        \"items\": [\"透气速干\", \"弹力舒适\", \"运动百搭\"]\n      }\n    },\n    \"right_overlay\": {\n      \"product_cards\": {\n        \"count\": 2,\n        \"card_1\": {\n          \"status\": \"正在讲解\",\n          \"image\": \"white polo shirt and skirt flat lay\",\n          \"title\": \"{argument name=\\\"product name\\\" default=\\\"运动POLO衫套装\\\"}\",\n          \"details\": \"白色·M码\",\n          \"price\": \"{argument name=\\\"price\\\" default=\\\"￥129\\\"}\",\n          \"button\": \"去抢购\"\n        },\n        \"card_2\": {\n          \"status\": \"热卖 x 156\",\n          \"image\": \"miniature of main model\",\n          \"title\": \"运动POLO衫套装女\",\n          \"details\": \"透气速干 显瘦百搭\",\n          \"price\": \"{argument name=\\\"price\\\" default=\\\"￥129\\\"}\",\n          \"button\": \"抢\"\n        }\n      }\n    },\n    \"bottom_left\": {\n      \"chat_messages\": {\n        \"count\": 5,\n        \"description\": \"scrolling chat messages with usernames and comments\"\n      },\n      \"purchase_alert\": \"用户_6789 等3人 正在去购买\"\n    },\n    \"bottom_bar\": {\n      \"input_field\": \"说点什么...\",\n      \"icons\": {\n        \"count\": 5,\n        \"types\": [\"smile\", \"shopping cart\", \"heart\", \"gift\", \"more\"]\n      }\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"电商直播界面模型\",\n  \"subject\": {\n    \"description\": \"年轻亚裔女性，留着波浪长卷发，皮肤透亮带有微汗，身穿白色短袖 Polo 衫和白色百褶网球裙，右肩扛着一支白色网球拍，直视镜头。\",\n    \"background\": \"纯白色\"\n  },\n  \"ui_layout\": {\n    \"top_bar\": {\n      \"left\": {\n        \"profile_name\": \"{argument name=\\\"host name\\\" default=\\\"小鹿运动优选\\\"}\",\n        \"stats\": \"12.8 万本场点赞\",\n        \"button\": \"关注\",\n        \"badge\": \"带货榜第 3 名\"\n      },\n      \"right\": {\n        \"viewer_avatars_count\": 3,\n        \"viewer_count\": \"1.2 万\",\n        \"close_button\": \"X\"\n      }\n    },\n    \"left_panel\": {\n      \"campaign\": {\n        \"title\": \"{argument name=\\\"campaign title\\\" default=\\\"夏日运动季\\\"} 🎾\",\n        \"subtitle\": \"{argument name=\\\"campaign subtitle\\\" default=\\\"活力开场\\\"}\",\n        \"bullet_points_count\": 3,\n        \"bullet_points\": [\n          \"透气速干\",\n          \"弹力舒适\",\n          \"运动百搭\"\n        ]\n      }\n    },\n    \"right_panel\": {\n      \"coupon\": {\n        \"text\": \"直播间专属券 ¥20 满 199 可用\",\n        \"button\": \"领取\"\n      },\n      \"product_cards_count\": 2,\n      \"product_cards\": [\n        {\n          \"status\": \"正在讲解\",\n          \"image\": \"白色 Polo 衫和百褶裙\",\n          \"title\": \"{argument name=\\\"product name\\\" default=\\\"运动 POLO 衫套装\\\"}\",\n          \"details\": \"白色·M 码\",\n          \"price\": \"¥{argument name=\\\"product price\\\" default=\\\"129\\\"}\",\n          \"button\": \"去抢购\"\n        },\n        {\n          \"status\": \"热卖 x 156\",\n          \"tags\": [\n            \"品牌\",\n            \"夏季新款\"\n          ],\n          \"image\": \"主播缩略图\",\n          \"title\": \"运动 POLO 衫套装女 透气速干 显瘦百搭\",\n          \"features\": [\n            \"7 天无理由退货\",\n            \"运费险\"\n          ],\n          \"price\": \"¥{argument name=\\\"product price\\\" default=\\\"129\\\"}\",\n          \"button\": \"抢\"\n        }\n      ]\n    },\n    \"bottom_panel\": {\n      \"chat_messages_count\": 5,\n      \"chat_messages\": [\n        \"小鹿姐姐: 欢迎新朋友们来到直播间~\",\n        \"运动达人: 这套好看！\",\n        \"卡卡西: 布料透气吗？\",\n        \"主播 小鹿运动优选: 我们这个面料是冰丝速干的，运动出汗也不闷热哦~\",\n        \"用户_6789: 已拍！\"\n      ],\n      \"purchase_notification\": \"用户_6789 等 3 人 正在去购买\",\n      \"input_bar\": {\n        \"placeholder\": \"说点什么...\",\n        \"icons_count\": 5,\n        \"icons\": [\n          \"表情\",\n          \"购物车\",\n          \"爱心\",\n          \"礼物\",\n          \"更多选项\"\n        ]\n      }\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电商直播界面模型：生成逼真的电商直播 UI，包含主播、商品卡片、实时聊天和促销浮层。",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15056",
+      "14695",
+      "14984",
+      "13826",
+      "13956",
+      "13995"
+    ]
+  }
+}

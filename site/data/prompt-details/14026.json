@@ -1,0 +1,43 @@
+{
+  "id": "14026",
+  "prompt": "{\n  \"type\": \"2x2 grid of digital advertising banners\",\n  \"layout\": \"4 distinct quadrants, each representing a different industry campaign with a main image, typography, and a call-to-action footer\",\n  \"quadrants\": [\n    {\n      \"position\": \"top-left\",\n      \"industry\": \"skincare cosmetics\",\n      \"visuals\": \"portrait of a young Asian woman with clear skin, floating water bubbles, a serum bottle, and a cream jar\",\n      \"headline\": \"{argument name=\\\"skincare headline\\\" default=\\\"うるおい、透明感、つづく。\\\"}\",\n      \"subtext\": \"肌の内側から、輝きを育てるスキンケア。\",\n      \"badge\": \"敏感肌にもやさしい処方\",\n      \"footer\": \"blue bar with '今だけ数量限定 10%OFF | 送料無料' and '詳しくはこちら →'\"\n    },\n    {\n      \"position\": \"top-right\",\n      \"industry\": \"food delivery\",\n      \"visuals\": \"close-up macro shot of rich bolognese pasta on a dark ceramic plate, dark moody lighting\",\n      \"headline\": \"{argument name=\\\"food headline\\\" default=\\\"休日は、ちょっといいパスタを。\\\"}\",\n      \"subtext\": \"じっくり煮込んだ本格ボロネーゼ\",\n      \"checklist_count\": 3,\n      \"checklist_items\": [\"国産牛100%使用\", \"化学調味料不使用\", \"湯せんで簡単5分\"],\n      \"badge\": \"gold circle '初回限定 20%OFF 送料無料'\",\n      \"footer\": \"dark red bar with 'ご注文はこちら →'\"\n    },\n    {\n      \"position\": \"bottom-left\",\n      \"industry\": \"travel tourism\",\n      \"visuals\": \"lush green forest, clear blue river, snow-capped mountains in the background under a blue sky\",\n      \"headline\": \"{argument name=\\\"travel headline\\\" default=\\\"まだ見ぬ、日本に会いに行く。\\\"}\",\n      \"subtext\": \"心が動く、旅をしよう。\",\n      \"badge\": \"yellow circle '最大 30% OFF'\",\n      \"footer\": \"teal bar with '今だけお得！ 早割キャンペーン実施中' and '特設サイトはこちら →'\"\n    },\n    {\n      \"position\": \"bottom-right\",\n      \"industry\": \"fitness gym\",\n      \"visuals\": \"young Asian woman in black activewear exercising on a machine in a dark gym setting\",\n      \"headline\": \"{argument name=\\\"gym headline\\\" default=\\\"ジブン史上、最高のカラダへ。\\\"}\",\n      \"subtext\": \"Make your best.\",\n      \"feature_boxes_count\": 3,\n      \"feature_boxes\": [\"24時間利用可能\", \"初心者でも安心サポート\", \"充実のトレーニング設備\"],\n      \"footer\": \"bright yellow bar with '{argument name=\\\"gym offer\\\" default=\\\"今なら入会金 0円 + 初月会費 50%OFF\\\"}' and '無料体験はこちら →'\"\n    }\n  ]\n}",
+  "translatedPrompt": "{\n  \"type\": \"2x2 数字广告横幅网格\",\n  \"layout\": \"4 个不同的象限，每个象限代表一个不同的行业活动，包含主图、排版和行动号召页脚\",\n  \"quadrants\": [\n    {\n      \"position\": \"左上\",\n      \"industry\": \"护肤美妆\",\n      \"visuals\": \"一位皮肤清透的年轻亚洲女性肖像，漂浮的水珠，精华液瓶和面霜罐\",\n      \"headline\": \"{argument name=\\\"skincare headline\\\" default=\\\"うるおい、透明感、つづく。\\\"}\",\n      \"subtext\": \"从肌底焕发光彩的护肤体验。\",\n      \"badge\": \"敏感肌友好配方\",\n      \"footer\": \"蓝色横条，显示“今だけ数量限定 10%OFF | 送料無料”及“詳しくはこちら →”\"\n    },\n    {\n      \"position\": \"右上\",\n      \"industry\": \"美食外卖\",\n      \"visuals\": \"深色陶瓷盘中浓郁肉酱意面的微距特写，暗调氛围光\",\n      \"headline\": \"{argument name=\\\"food headline\\\" default=\\\"休日は、ちょっといいパスタを。\\\"}\",\n      \"subtext\": \"慢火细炖的纯正博洛尼亚肉酱面\",\n      \"checklist_count\": 3,\n      \"checklist_items\": [\"100% 国产牛肉\", \"无化学调味料\", \"隔水加热仅需 5 分钟\"],\n      \"badge\": \"金色圆圈“初回限定 20%OFF 送料無料”\",\n      \"footer\": \"深红色横条，显示“ご注文はこちら →”\"\n    },\n    {\n      \"position\": \"左下\",\n      \"industry\": \"旅游观光\",\n      \"visuals\": \"郁郁葱葱的森林，清澈的蓝色河流，背景是蓝天下的雪山\",\n      \"headline\": \"{argument name=\\\"travel headline\\\" default=\\\"まだ見ぬ、日本に会いに行く。\\\"}\",\n      \"subtext\": \"来一场让心灵悸动的旅行。\",\n      \"badge\": \"黄色圆圈“最大 30% OFF”\",\n      \"footer\": \"青色横条，显示“今だけお得！ 早割キャンペーン実施中”及“特設サイトはこちら →”\"\n    },\n    {\n      \"position\": \"右下\",\n      \"industry\": \"健身房\",\n      \"visuals\": \"一位身穿黑色运动装的年轻亚洲女性在昏暗的健身房内使用器械锻炼\",\n      \"headline\": \"{argument name=\\\"gym headline\\\" default=\\\"ジブン史上、最高のカラダへ。\\\"}\",\n      \"subtext\": \"成就最好的自己。\",\n      \"feature_boxes_count\": 3,\n      \"feature_boxes\": [\"24 小时开放\", \"新手友好支持\", \"完善的训练设施\"],\n      \"footer\": \"亮黄色横条，显示“{argument name=\\\"gym offer\\\" default=\\\"今なら入会金 0円 + 初月会費 50%OFF\\\"}”及“無料体験はこちら →”\"\n    }\n  ]\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "2x2 日式横幅广告网格：一个 2x2 的日式数字广告横幅网格，涵盖护肤、美食、旅游和健身领域，支持自定义标题和促销优惠。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up",
+        "grid",
+        "2x2"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, grid, 2x2]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13997",
+      "14548",
+      "13996",
+      "14678",
+      "15644",
+      "15645"
+    ]
+  }
+}

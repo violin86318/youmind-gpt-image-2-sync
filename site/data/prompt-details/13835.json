@@ -1,0 +1,42 @@
+{
+  "id": "13835",
+  "prompt": "{\n  \"type\": \"game event landing page UI mockup\",\n  \"art_style\": \"{argument name=\\\"art style\\\" default=\\\"heavy impasto oil painting, dark fantasy\\\"}\",\n  \"background_artwork\": {\n    \"description\": \"dynamic combat scene with swirling dark and red energy\",\n    \"character_count\": 4,\n    \"characters\": [\n      \"top: white-haired man casting blue spell\",\n      \"middle-left: dark-haired man summoning shadow energy\",\n      \"right: pink-haired man throwing red energy punch\",\n      \"bottom-left: brown-haired woman wielding hammer\"\n    ]\n  },\n  \"ui_layout\": {\n    \"top_left\": {\n      \"type\": \"event header\",\n      \"elements\": [\n        {\"small_text\": \"{argument name=\\\"subtitle\\\" default=\\\"리그 오브 레전드 X 주술회전\\\"}\"},\n        {\"large_title\": \"{argument name=\\\"main title\\\" default=\\\"주술사의 결전\\\"}\"},\n        {\"date_text\": \"{argument name=\\\"event date\\\" default=\\\"이벤트 기간: 2024.07.18 - 2024.08.28\\\"}\"},\n        {\"description\": \"소환사의 협곡에 주술회전이 강림했다. 임무를 완료하고 한정 보상을 획득해 보세요!\"},\n        {\"button\": \"{argument name=\\\"button text\\\" default=\\\"이벤트 참여\\\"}\"}\n      ]\n    },\n    \"bottom_left\": {\n      \"type\": \"mission panel\",\n      \"header\": \"일일 임무 0/8\",\n      \"mission_count\": 2,\n      \"missions\": [\n        {\"text\": \"협곡에서 게임 1회 플레이\", \"progress\": \"0/1\", \"reward\": \"100\"},\n        {\"text\": \"적 챔피언 15회 처치 관여\", \"progress\": \"0/15\", \"reward\": \"200\"}\n      ]\n    },\n    \"bottom_right\": {\n      \"type\": \"rewards panel\",\n      \"labels\": [\"주술회전 패스\", \"한정 스킨 보상\"],\n      \"icon_count\": 4,\n      \"icons\": [\n        \"blindfolded man\",\n        \"pink-haired boy\",\n        \"brown-haired girl\",\n        \"dark monster\"\n      ]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"游戏活动 UI 界面\",\n  \"style\": \"暗黑奇幻厚涂油画风格，动态构图，流转的魔法能量\",\n  \"illustration\": {\n    \"characters\": [\n      \"白发蒙眼男子，正在施展发光的蓝色魔法\",\n      \"黑发男子，摆出召唤姿势，带有深紫色能量\",\n      \"粉发男子，身穿红色连帽衫，挥拳带有红色能量\",\n      \"棕发女子，手持战锤\"\n    ],\n    \"background\": \"阴影中潜伏的怪物轮廓\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"position\": \"左上角\",\n        \"title\": \"{argument name=\\\"main title\\\" default=\\\"咒术师的决战\\\"}\",\n        \"labels\": [\n          \"{argument name=\\\"collaboration text\\\" default=\\\"英雄联盟 X 咒术回战\\\"}\",\n          \"{argument name=\\\"event date\\\" default=\\\"活动时间：2024.07.18 - 2024.08.28\\\"}\",\n          \"《咒术回战》降临召唤师峡谷。完成任务，赢取限定奖励！\",\n          \"{argument name=\\\"button text\\\" default=\\\"参与活动\\\"}\"\n        ]\n      },\n      {\n        \"position\": \"左下角\",\n        \"title\": \"每日任务 0/8\",\n        \"count\": 2,\n        \"labels\": [\n          \"{argument name=\\\"first mission text\\\" default=\\\"在峡谷中进行 1 场游戏\\\"}\",\n          \"参与击杀 15 次敌方英雄\"\n        ]\n      },\n      {\n        \"position\": \"右下角\",\n        \"title\": \"咒术回战通行证\",\n        \"count\": 4,\n        \"labels\": [\n          \"限定皮肤奖励\"\n        ],\n        \"icons\": [\n          \"蒙眼男子头像\",\n          \"粉发男子头像\",\n          \"棕发女子头像\",\n          \"怪物头像\"\n        ]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "暗黑奇幻游戏活动 UI 设计稿：生成带有角色插画以及任务和奖励 UI 面板的油画风格暗黑奇幻游戏活动界面。",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "fantasy",
+        "oil painting"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: fantasy, oil painting]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15406",
+      "13523",
+      "13772",
+      "14884",
+      "13962",
+      "14019"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "13953",
+  "prompt": "{\n  \"type\": \"two-panel fantasy RPG promotional illustration\",\n  \"global_elements\": {\n    \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"獣誓界アルドラン\\\"}\",\n    \"english_subtitle\": \"{argument name=\\\"english subtitle\\\" default=\\\"Aldran, the Beast-Sworn World\\\"}\",\n    \"catchphrase\": \"獣人たちの絆が、世界の運命を切り拓く。\",\n    \"vertical_tagline\": \"{argument name=\\\"tagline\\\" default=\\\"共に生き、共に誓い、この世界を、未来へ繋ぐ。\\\"}\"\n  },\n  \"characters\": [\n    {\n      \"name\": \"アイラ\",\n      \"description\": \"winged beast-girl with brown hair and feathered wings\",\n      \"role_label\": \"斥候 / 遠距離戦闘士\",\n      \"weapon_label\": \"武器：風切弓\"\n    },\n    {\n      \"name\": \"ガルド\",\n      \"description\": \"massive tiger beastman in heavy plate armor\",\n      \"role_label\": \"前衛重戦士\",\n      \"weapon_label\": \"武器：鋼嵐\"\n    },\n    {\n      \"name\": \"カラス\",\n      \"description\": \"wolf-boy with black hair, wolf ears, tail, dark leather armor and cloak\",\n      \"role_label\": \"リーダー / 近接戦闘士\",\n      \"weapon_label\": \"武器：牙断\"\n    },\n    {\n      \"name\": \"シロ\",\n      \"description\": \"white fox-girl with long white hair, fox ears, multiple fluffy tails, blue and white robes\",\n      \"role_label\": \"魔法師 / 回復・補助\",\n      \"weapon_label\": \"武器：灯魂杖\"\n    }\n  ],\n  \"layout\": {\n    \"panels\": [\n      {\n        \"position\": \"top half\",\n        \"scene\": \"{argument name=\\\"peaceful setting\\\" default=\\\"bustling fantasy market town in warm daylight\\\"}\",\n        \"action\": \"characters are relaxed, smiling, and eating street food skewers together\"\n      },\n      {\n        \"position\": \"bottom half\",\n        \"scene\": \"{argument name=\\\"combat setting\\\" default=\\\"dark atmospheric forest with glowing magic runes\\\"}\",\n        \"action\": \"characters are in dynamic combat stances, weapons drawn, casting magic, tense atmosphere\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"双联画幅奇幻 RPG 宣传插图\",\n  \"global_elements\": {\n    \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"獣誓界アルドラン\\\"}\",\n    \"english_subtitle\": \"{argument name=\\\"english subtitle\\\" default=\\\"Aldran, the Beast-Sworn World\\\"}\",\n    \"catchphrase\": \"兽人间的羁绊，将开辟世界的命运。\",\n    \"vertical_tagline\": \"{argument name=\\\"tagline\\\" default=\\\"共に生き、共に誓い、この世界を、未来へ繋ぐ。\\\"}\"\n  },\n  \"characters\": [\n    {\n      \"name\": \"アイラ\",\n      \"description\": \"长有褐色头发和羽翼的兽人少女\",\n      \"role_label\": \"斥候 / 远程战斗员\",\n      \"weapon_label\": \"武器：风切弓\"\n    },\n    {\n      \"name\": \"ガルド\",\n      \"description\": \"身着重型板甲的魁梧虎族兽人\",\n      \"role_label\": \"前卫重装战士\",\n      \"weapon_label\": \"武器：钢岚\"\n    },\n    {\n      \"name\": \"カラス\",\n      \"description\": \"黑发狼耳、有尾巴，身穿深色皮甲并披着斗篷的狼族少年\",\n      \"role_label\": \"队长 / 近战战斗员\",\n      \"weapon_label\": \"武器：牙断\"\n    },\n    {\n      \"name\": \"シロ\",\n      \"description\": \"长白发、狐耳、拥有多条蓬松尾巴，身穿蓝白长袍的白狐少女\",\n      \"role_label\": \"魔法师 / 治疗与辅助\",\n      \"weapon_label\": \"武器：灯魂杖\"\n    }\n  ],\n  \"layout\": {\n    \"panels\": [\n      {\n        \"position\": \"上半部分\",\n        \"scene\": \"{argument name=\\\"peaceful setting\\\" default=\\\"bustling fantasy market town in warm daylight\\\"}\",\n        \"action\": \"角色们神情放松、面带微笑，聚在一起享用街头小吃\"\n      },\n      {\n        \"position\": \"下半部分\",\n        \"scene\": \"{argument name=\\\"combat setting\\\" default=\\\"dark atmospheric forest with glowing magic runes\\\"}\",\n        \"action\": \"角色们处于动态战斗姿态，武器出鞘，正在施展魔法，氛围紧张\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "双联画幅 RPG 概念艺术：生成一张包含文字排版的双联画幅宣传插图，展示奇幻小队在和平与战斗两种场景下的状态。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15090",
+      "14524",
+      "14587",
+      "14929",
+      "15305",
+      "15708"
+    ]
+  }
+}

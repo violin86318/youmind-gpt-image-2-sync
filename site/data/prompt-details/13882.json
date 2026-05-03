@@ -1,0 +1,46 @@
+{
+  "id": "13882",
+  "prompt": "{\n  \"type\": \"photorealistic physical newspaper on a counter\",\n  \"environment\": \"casual indoor kitchen setting, edge of stove visible, natural lighting, paper is slightly curved with realistic creases\",\n  \"newspaper_header\": {\n    \"logo\": \"large blue circle next to {argument name=\\\"newspaper name\\\" default=\\\"USA TODAY\\\"}\",\n    \"date\": \"{argument name=\\\"date\\\" default=\\\"04.23.26\\\"}\",\n    \"subtext\": \"THE NATION'S NEWS | $3.00 | THURSDAY\",\n    \"top_right_teaser\": {\n      \"image\": \"naval ships\",\n      \"headline\": \"US, Philippines hold joint drills in South China Sea\"\n    }\n  },\n  \"layout\": {\n    \"total_articles\": 4,\n    \"total_embedded_images\": 4,\n    \"sections\": [\n      {\n        \"position\": \"top center\",\n        \"headline\": \"{argument name=\\\"main headline\\\" default=\\\"OpenAI's New Spud Model Dominates Cyber Warfare and Coding Benchmarks\\\"}\",\n        \"author\": \"By Jefferson Graham\",\n        \"image\": \"{argument name=\\\"main image subject\\\" default=\\\"3D rendered blue whale wearing a crown with text 'spud by OpenAI'\\\"}\",\n        \"columns\": 2\n      },\n      {\n        \"position\": \"middle right\",\n        \"headline\": \"Stock Market Rises on Tech Earnings\",\n        \"author\": \"By Nathan Bomey\",\n        \"columns\": 1\n      },\n      {\n        \"position\": \"bottom left\",\n        \"headline\": \"{argument name=\\\"bottom headline\\\" default=\\\"Codex App Launches as 'Everything Super App'\\\"}\",\n        \"author\": \"By Jessica Guynn\",\n        \"image\": \"smartphone screen showing app interface with text 'codex'\",\n        \"columns\": 2\n      },\n      {\n        \"position\": \"bottom right\",\n        \"headline\": \"New Bird Species Discovered in Amazon\",\n        \"author\": \"By Doyle Rice\",\n        \"columns\": 1\n      },\n      {\n        \"position\": \"footer\",\n        \"image\": \"football player in action\",\n        \"text\": \"NFL Draft shocks: QB falls to Round 2\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"柜台上的照片级真实感实体报纸\",\n  \"environment\": \"休闲室内厨房环境，可见炉灶边缘，自然光照明，纸张略微弯曲并带有逼真的折痕\",\n  \"newspaper_header\": {\n    \"logo\": \"大蓝色圆圈，旁边是 {argument name=\\\"newspaper name\\\" default=\\\"USA TODAY\\\"}\",\n    \"date\": \"{argument name=\\\"date\\\" default=\\\"04.23.26\\\"}\",\n    \"subtext\": \"全国新闻 | $3.00 | 星期四\",\n    \"top_right_teaser\": {\n      \"image\": \"海军舰艇\",\n      \"headline\": \"美国与菲律宾在南海举行联合演习\"\n    }\n  },\n  \"layout\": {\n    \"total_articles\": 4,\n    \"total_embedded_images\": 4,\n    \"sections\": [\n      {\n        \"position\": \"顶部居中\",\n        \"headline\": \"{argument name=\\\"main headline\\\" default=\\\"OpenAI 的全新 Spud 模型在网络战和编码基准测试中占据主导地位\\\"}\",\n        \"author\": \"作者：Jefferson Graham\",\n        \"image\": \"{argument name=\\\"main image subject\\\" default=\\\"戴着皇冠的 3D 渲染蓝鲸，带有 'spud by OpenAI' 字样\\\"}\",\n        \"columns\": 2\n      },\n      {\n        \"position\": \"中右\",\n        \"headline\": \"受科技股财报提振，股市上涨\",\n        \"author\": \"作者：Nathan Bomey\",\n        \"columns\": 1\n      },\n      {\n        \"position\": \"底部左侧\",\n        \"headline\": \"{argument name=\\\"bottom headline\\\" default=\\\"Codex 应用作为‘万能超级应用’发布\\\"}\",\n        \"author\": \"作者：Jessica Guynn\",\n        \"image\": \"显示带有 'codex' 文字的应用界面的智能手机屏幕\",\n        \"columns\": 2\n      },\n      {\n        \"position\": \"底部右侧\",\n        \"headline\": \"亚马逊发现新鸟类物种\",\n        \"author\": \"作者：Doyle Rice\",\n        \"columns\": 1\n      },\n      {\n        \"position\": \"页脚\",\n        \"image\": \"正在比赛的橄榄球运动员\",\n        \"text\": \"NFL 选秀爆冷：四分卫跌至第二轮\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "照片级真实感报纸头版：生成一张细节丰富、具有照片级真实感的实体报纸，放置在平面上，支持自定义标题、日期和嵌入式文章图片。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "3d"
+      ],
+      "lightingCamera": [
+        "natural light"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, 3d]。\n\nLighting and camera:\n[参考光线镜头: natural light]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13881",
+      "13886",
+      "15631",
+      "14696",
+      "14919",
+      "13700"
+    ]
+  }
+}

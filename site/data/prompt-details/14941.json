@@ -1,0 +1,44 @@
+{
+  "id": "14941",
+  "prompt": "{\"type\":\"anime school festival flyer poster\",\"style\":\"Japanese promotional flyer, glossy manga illustration, vibrant purple and pink accent colors, dense print layout, confetti scattered across the composition, polished commercial poster design\",\"setting\":{\"location\":\"computer classroom or school media room filled with desktop monitors, keyboards, mouse, cables, desk clutter, pinned notes, and soft indoor lighting\",\"time\":\"festival announcement poster, daytime indoor scene\"},\"subject\":{\"count\":1,\"character\":\"moody high school girl sitting on a chair beside computer desks\",\"appearance\":{\"gender_presentation\":\"female\",\"age_appearance\":\"teenage\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"black\\\"}\",\"style\":\"straight chin-length bob with blunt bangs and glossy highlights\"},\"eyes\":\"half-lidded yellow-brown eyes with a tired annoyed stare\",\"expression\":\"sullen, sleepy, unimpressed, slightly blushing, one small sweat drop on the cheek\",\"pose\":\"seated with knees together, hands relaxed near her lap, shoulders slightly slouched, looking toward the viewer from a three-quarter angle\"},\"clothing\":{\"uniform\":\"dark navy sailor school uniform\",\"pieces\":[\"long-sleeve sailor top\",\"white trim on collar and cuffs\",\"dark neckerchief with deep red accent\",\"school emblem on chest\",\"matching dark skirt\"]}},\"layout\":{\"format\":\"vertical A4-style Japanese event flyer\",\"sections\":[{\"title\":\"ぐふ学園 高等学校\",\"position\":\"top-left\",\"count\":1,\"labels\":[\"gufu GAKUEN HIGH SCHOOL\"]},{\"title\":\"headline area\",\"position\":\"upper-left to center-left\",\"count\":3,\"labels\":[\"青春を、最高の思い出に。\",\"学校祭\",\"ぐふ学園\"]},{\"title\":\"date and time\",\"position\":\"left-middle\",\"count\":5,\"labels\":[\"2025\",\"5/24\",\"土\",\"25\",\"日\"]},{\"title\":\"time details\",\"position\":\"left-middle below date\",\"count\":2,\"labels\":[\"10:00〜16:00（最終入場 15:30）\",\"※一般公開は10:00からとなります。\"]},{\"title\":\"今年のテーマ\",\"position\":\"upper-right pinned note\",\"count\":4,\"labels\":[\"今年のテーマ\",\"『百花繚乱』\",\"〜咲かせよう、自分色。\",\"青春を〜\"]},{\"title\":\"来場者特典\",\"position\":\"left-lower-middle\",\"count\":4,\"labels\":[\"来場者特典！\",\"パンフレットをご持参で\",\"オリジナルステッカー プレゼント！\",\"なくなり次第終了！\"]},{\"title\":\"sticker sample\",\"position\":\"left-center lower\",\"count\":1,\"labels\":[\"GUFU GAKUEN\"]},{\"title\":\"注目のイベント！\",\"position\":\"right-center stacked cards\",\"count\":5,\"labels\":[\"クラス企画\",\"部活動発表\",\"ぐふカフェ\",\"ステージイベント\",\"フォトスポット\"]},{\"title\":\"アクセス\",\"position\":\"bottom-left\",\"count\":5,\"labels\":[\"アクセス\",\"ぐふ駅 南口より 徒歩5分\",\"ぐふ学園高等学校\",\"ぐふ駅\",\"詳細は公式サイトをチェック！\"]},{\"title\":\"closing slogan\",\"position\":\"bottom-right\",\"count\":2,\"labels\":[\"みんなでつくる、最高の2日間！\",\"友達と、家族と、たくさんの笑顔に会える学校祭。みなさまのご来場を心よりお待ちしています！\"]},{\"title\":\"footer bar\",\"position\":\"very bottom\",\"count\":4,\"labels\":[\"X @gufu_gakuen\",\"Instagram @gufu.gakuen_official\",\"#ぐふ学園祭2025\"]}],\"centerpiece\":\"large seated portrait of the unimpressed schoolgirl overlapping the flyer layout\",\"background_elements_count\":8,\"background_elements\":[\"multiple computer monitors displaying bright screens\",\"computer keyboards\",\"computer mouse\",\"desk edges and office equipment\",\"hanging paper note with clip\",\"confetti pieces\",\"small doodled mascot near the bonus text\",\"QR code in the access section\"]},\"text_treatment\":{\"headline\":\"oversized bold white kanji with rough textured edges and purple glow\",\"subheadings\":\"pink ribbon labels and clean Japanese sans-serif body text\",\"overall_feel\":\"cute but sarcastic, youth-culture school event advertising\"},\"color_palette\":{\"main\":[\"purple\",\"pink\",\"white\",\"navy\",\"black\"],\"accents\":[\"soft blue\",\"magenta\",\"warm skin tones\"]},\"customization\":{\"school_name\":\"{argument name=\\\"school name\\\" default=\\\"ぐふ学園\\\"}\",\"year\":\"{argument name=\\\"year\\\" default=\\\"2025\\\"}\",\"festival_title\":\"{argument name=\\\"festival title\\\" default=\\\"学校祭\\\"}\",\"theme_text\":\"{argument name=\\\"theme text\\\" default=\\\"百花繚乱\\\"}\"}}",
+  "translatedPrompt": "{\"type\":\"anime school festival flyer poster\",\"style\":\"日式宣传海报，光泽感漫画插画，充满活力的紫色与粉色点缀，紧凑的排版设计，画面中散落着五彩纸屑，精致的商业海报风格\",\"setting\":{\"location\":\"摆满台式电脑显示器、键盘、鼠标、线缆、杂乱办公桌、便签纸的计算机教室或学校多媒体室，柔和的室内灯光\",\"time\":\"校园祭公告海报，日间室内场景\"},\"subject\":{\"count\":1,\"character\":\"坐在电脑桌旁椅子上的忧郁高中女生\",\"appearance\":{\"gender_presentation\":\"女性\",\"age_appearance\":\"青少年\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"黑色\\\"}\",\"style\":\"直发齐下巴波波头，配有齐刘海和光泽感高光\"},\"eyes\":\"半睁的黄褐色眼睛，带着疲惫且厌烦的眼神\",\"expression\":\"闷闷不乐、困倦、不为所动，脸颊上有一滴小汗珠\",\"pose\":\"坐姿，双膝并拢，双手自然放在膝盖附近，肩膀微微下垂，以四分之三侧面角度看向观众\"},\"clothing\":{\"uniform\":\"深蓝色水手服\",\"pieces\":[\"长袖水手服上衣\",\"领口和袖口有白色饰边\",\"深色领巾，带有深红色点缀\",\"胸前有校徽\",\"配套深色短裙\"]}},\"layout\":{\"format\":\"竖版 A4 尺寸日式活动宣传单\",\"sections\":[{\"title\":\"ぐふ学園 高等学校\",\"position\":\"左上角\",\"count\":1,\"labels\":[\"gufu GAKUEN HIGH SCHOOL\"]},{\"title\":\"标题区域\",\"position\":\"左上至左中\",\"count\":3,\"labels\":[\"青春を、最高の思い出に。\",\"学校祭\",\"ぐふ学園\"]},{\"title\":\"日期与时间\",\"position\":\"左中\",\"count\":5,\"labels\":[\"2025\",\"5/24\",\"土\",\"25\",\"日\"]},{\"title\":\"时间详情\",\"position\":\"日期下方左中\",\"count\":2,\"labels\":[\"10:00〜16:00（最终入场 15:30）\",\"※一般公开时间为 10:00 开始。\"]},{\"title\":\"今年主题\",\"position\":\"右上角便签\",\"count\":4,\"labels\":[\"今年的主题\",\"『百花缭乱』\",\"〜咲かせよう、自分色。\",\"青春を〜\"]},{\"title\":\"到场特典\",\"position\":\"左下中\",\"count\":4,\"labels\":[\"到场特典！\",\"凭宣传册\",\"赠送原创贴纸！\",\"送完即止！\"]},{\"title\":\"贴纸样品\",\"position\":\"左中下方\",\"count\":1,\"labels\":[\"GUFU GAKUEN\"]},{\"title\":\"热门活动！\",\"position\":\"右中堆叠卡片\",\"count\":5,\"labels\":[\"班级企划\",\"社团发表\",\"ぐふ咖啡厅\",\"舞台活动\",\"拍照打卡点\"]},{\"title\":\"交通方式\",\"position\":\"左下角\",\"count\":5,\"labels\":[\"交通方式\",\"从ぐふ站南口步行 5 分钟\",\"ぐふ学园高等学校\",\"ぐふ站\",\"详情请查看官网！\"]},{\"title\":\"结束语\",\"position\":\"右下角\",\"count\":2,\"labels\":[\"みんなでつくる、最高の2日間！\",\"与朋友、家人一起，在校园祭遇见无数笑脸。期待大家的到来！\"]},{\"title\":\"页脚栏\",\"position\":\"最底部\",\"count\":4,\"labels\":[\"X @gufu_gakuen\",\"Instagram @gufu.gakuen_official\",\"#ぐふ学园祭2025\"]}],\"centerpiece\":\"大幅忧郁少女坐姿肖像，与海报布局重叠\",\"background_elements_count\":8,\"background_elements\":[\"多台显示着明亮画面的电脑显示器\",\"电脑键盘\",\"电脑鼠标\",\"桌角与办公设备\",\"带有夹子的悬挂便签\",\"五彩纸屑\",\"奖励文本附近的小涂鸦吉祥物\",\"交通部分的二维码\"]},\"text_treatment\":{\"headline\":\"超大号粗体白色汉字，带有粗糙纹理边缘和紫色光晕\",\"subheadings\":\"粉色丝带标签和简洁的日文无衬线正文\",\"overall_feel\":\"可爱但带有讽刺意味，青年文化校园活动广告\"},\"color_palette\":{\"main\":[\"紫色\",\"粉色\",\"白色\",\"海军蓝\",\"黑色\"],\"accents\":[\"柔和蓝\",\"洋红色\",\"暖肤色\"]},\"customization\":{\"school_name\":\"{argument name=\\\"school name\\\" default=\\\"ぐふ学园\\\"}\",\"year\":\"{argument name=\\\"year\\\" default=\\\"2025\\\"}\",\"festival_title\":\"{argument name=\\\"festival title\\\" default=\\\"学校祭\\\"}\",\"theme_text\":\"{argument name=\\\"theme text\\\" default=\\\"百花缭乱\\\"}\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫校园祭宣传海报：此提示词可生成一张内容丰富的日式动漫活动宣传海报，包含一位情绪低落的校园风少女吉祥物角色，以及用于宣传海报或社交媒体图形的详细活动信息。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "manga"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: anime, manga]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15455",
+      "14593",
+      "14638",
+      "14689",
+      "14212",
+      "14460"
+    ]
+  }
+}

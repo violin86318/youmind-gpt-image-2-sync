@@ -1,0 +1,41 @@
+{
+  "id": "13606",
+  "prompt": "A realistic photograph of a {argument name=\"cat color\" default=\"black\"} cat standing on its hind legs, with its front paws resting on the {argument name=\"seat color\" default=\"red\"} seat of a small, white toy convertible car. The scene takes place at an outdoor go-kart track with asphalt, white painted lines, and orange-and-white striped track barriers. Above the cat and car is a teal canopy structure featuring a blue sign that reads \"{argument name=\"sign text\" default=\"* Go! Cart\"}\" in red and yellow lettering, next to a checkered flag graphic. The background is softly blurred, showing trees, blue fencing, and another distant kart, captured in natural daylight.",
+  "translatedPrompt": "一张逼真的照片，展示了一只 {argument name=\"cat color\" default=\"黑色\"} 的猫用后腿站立，前爪搭在 {argument name=\"seat color\" default=\"红色\"} 的小型白色敞篷玩具车座椅上。场景位于户外卡丁车赛道，地面为沥青材质，绘有白色标线，并设有橙白相间的赛道护栏。猫和玩具车上方是一个青色的顶棚结构，上面挂着一块蓝色标牌，用红黄两色字体写着“{argument name=\"sign text\" default=\"* Go! Cart\"}”，旁边配有方格旗图案。背景经过柔焦处理，隐约可见树木、蓝色围栏和远处另一辆卡丁车，画面在自然光下拍摄。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "卡丁车赛道上的猫与玩具车：生成一张逼真的照片，展示一只猫在户外赛车场与一辆微型汽车互动。",
+      "subject": "产品",
+      "scene": "字体/Logo",
+      "composition": [],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14683",
+      "15001",
+      "15587",
+      "13621",
+      "14028",
+      "14213"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "13590",
+  "prompt": "A studio portrait of two young East Asian adults standing back-to-back against a {argument name=\"background color\" default=\"bright pink to white gradient\"} backdrop. The photo features a {argument name=\"photography style\" default=\"Y2K nostalgic 90s teen magazine aesthetic with soft focus, film grain, and a glowing bloom effect\"}. On the left, a young woman with long dark hair smiles gently at the camera. She wears a layered outfit featuring a {argument name=\"woman's outfit\" default=\"light green graphic t-shirt over pink long sleeves, a short skirt, and chunky sneakers\"}, and holds a smartphone in her hand. On the right, a young man with short dark hair looks {argument name=\"man's expression\" default=\"excited with his mouth open\"}, raising one fist in the air. He wears a {argument name=\"man's outfit\" default=\"baggy purple t-shirt with yellow trim, loose blue jeans, and a silver chain necklace\"}, and also holds a smartphone. The camera angle is slightly high, looking down at the subjects.",
+  "translatedPrompt": "一张两名年轻东亚成年人背靠背站立的摄影棚肖像，背景为 {argument name=\"background color\" default=\"亮粉色到白色的渐变色\"}。照片呈现出 {argument name=\"photography style\" default=\"Y2K 怀旧 90 年代青少年杂志美学，带有柔焦、胶片颗粒感和光晕效果\"}。左侧是一位留着长黑发的年轻女性，正对着镜头温柔微笑。她身穿叠穿风格的 {argument name=\"woman's outfit\" default=\"浅绿色印花 T 恤搭配粉色长袖、短裙和厚底运动鞋\"}，手中拿着一部智能手机。右侧是一位留着短黑发的年轻男性，表情 {argument name=\"man's expression\" default=\"兴奋且张着嘴\"}，一只手握拳举在空中。他身穿 {argument name=\"man's outfit\" default=\"宽松的紫色 T 恤搭配黄色镶边、宽松蓝色牛仔裤和银色链条项链\"}，同样手持一部智能手机。拍摄角度略高，俯视着拍摄对象。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Y2K 青少年杂志风格摄影棚肖像：生成一张充满怀旧感、柔焦效果的摄影棚肖像，展示两名年轻人背靠背手持智能手机的姿态，非常适合复古时尚或科技生活方式类图片。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "layered"
+      ],
+      "style": [
+        "studio"
+      ],
+      "lightingCamera": [
+        "film grain",
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered]。\n\nVisual style:\n[参考风格: studio]。\n\nLighting and camera:\n[参考光线镜头: film grain, camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14579",
+      "14614",
+      "14819",
+      "15520",
+      "13750",
+      "13806"
+    ]
+  }
+}

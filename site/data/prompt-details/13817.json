@@ -1,0 +1,41 @@
+{
+  "id": "13817",
+  "prompt": "{\n  \"type\": \"comprehensive concept art and character reference sheet\",\n  \"overall_aesthetic\": \"dark abyssal, highly detailed, {argument name=\\\"theme color\\\" default=\\\"bioluminescent blue\\\"} accents, biomechanical\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"深淵界 Abyss Covenant\\\"}\",\n    \"subtitle\": \"知ることで、関係性は変わる。理解することは、変容すること。\"\n  },\n  \"layout\": {\n    \"top_section\": {\n      \"type\": \"environmental and creature concept art\",\n      \"description\": \"underwater abyssal landscape featuring {argument name=\\\"creature type\\\" default=\\\"giant serpentine leviathans\\\"} and towering organic structures\",\n      \"labeled_entities\": {\n        \"count\": 4,\n        \"labels\": [\"01 エルダー・セフィラ\", \"02 ヴォラン\", \"03 ネレイス\", \"04 深淵核 (アビサル・コア)\"]\n      },\n      \"sub_panels\": [\n        {\n          \"title\": \"契約者装備\",\n          \"count\": 4,\n          \"description\": \"biomechanical weapons and tools\"\n        },\n        {\n          \"title\": \"スケール整合図\",\n          \"count\": 4,\n          \"description\": \"silhouette size comparison of human, creatures, and structure\"\n        }\n      ]\n    },\n    \"bottom_section\": {\n      \"type\": \"character design sheet\",\n      \"character\": {\n        \"name\": \"{argument name=\\\"character name\\\" default=\\\"エルダー・セフィラ - ELDER SEPHIRA -\\\"}\",\n        \"design\": \"female, dark hair in a messy bun, wearing {argument name=\\\"suit style\\\" default=\\\"intricate dark biomechanical armor with translucent cape\\\"}\"\n      },\n      \"turnaround_poses\": {\n        \"count\": 4,\n        \"labels\": [\"正面図 FRONT\", \"側面図 LEFT SIDE\", \"背面図 BACK\", \"参考: 三面図 (3/4)\"]\n      },\n      \"expressions\": {\n        \"title\": \"表情集 EXPRESSIONS\",\n        \"count\": 3,\n        \"labels\": [\"通常(深層集中)\", \"契約活性時\", \"私的な瞬間\"]\n      },\n      \"detail_panels\": [\n        {\n          \"title\": \"瞳の変化\",\n          \"count\": 2,\n          \"description\": \"eye close-ups showing pupil changes\"\n        },\n        {\n          \"title\": \"スーツ詳細\",\n          \"count\": 2,\n          \"description\": \"chest and back armor core diagrams\"\n        },\n        {\n          \"title\": \"手部ディテール / ブーツ・足底\",\n          \"count\": 2,\n          \"description\": \"glove and boot close-ups\"\n        }\n      ],\n      \"bottom_row\": [\n        {\n          \"title\": \"携行ツール / データ機器\",\n          \"count\": 5,\n          \"description\": \"handheld devices and capsules\"\n        },\n        {\n          \"title\": \"サイズ比較スケール\",\n          \"count\": 4,\n          \"description\": \"secondary size comparison chart\"\n        },\n        {\n          \"title\": \"契約紋章\",\n          \"count\": 1,\n          \"description\": \"glowing circular emblem\"\n        }\n      ]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"综合概念艺术与角色参考表\",\n  \"overall_aesthetic\": \"深渊暗黑风格，高细节，{argument name=\\\"theme color\\\" default=\\\"生物发光蓝\\\"} 点缀，生物机械感\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"深渊界 Abyss Covenant\\\"}\",\n    \"subtitle\": \"认知即改变，理解即蜕变。\",\n  },\n  \"layout\": {\n    \"top_section\": {\n      \"type\": \"环境与生物概念艺术\",\n      \"description\": \"水下深渊景观，包含 {argument name=\\\"creature type\\\" default=\\\"巨型蛇形利维坦\\\"} 和高耸的有机结构\",\n      \"labeled_entities\": {\n        \"count\": 4,\n        \"labels\": [\"01 长者塞菲拉 (Elder Sephira)\", \"02 沃兰 (Volan)\", \"03 涅瑞伊得 (Nereis)\", \"04 深渊核 (Abyssal Core)\"]\n      },\n      \"sub_panels\": [\n        {\n          \"title\": \"契约者装备\",\n          \"count\": 4,\n          \"description\": \"生物机械武器与工具\"\n        },\n        {\n          \"title\": \"比例整合图\",\n          \"count\": 4,\n          \"description\": \"人类、生物与结构的轮廓尺寸对比\"\n        }\n      ]\n    },\n    \"bottom_section\": {\n      \"type\": \"角色设计表\",\n      \"character\": {\n        \"name\": \"{argument name=\\\"character name\\\" default=\\\"长者塞菲拉 - ELDER SEPHIRA -\\\"}\",\n        \"design\": \"女性，深色乱发丸子头，身着 {argument name=\\\"suit style\\\" default=\\\"带有半透明披风的复杂深色生物机械装甲\\\"}\"\n      },\n      \"turnaround_poses\": {\n        \"count\": 4,\n        \"labels\": [\"正面图 FRONT\", \"侧面图 LEFT SIDE\", \"背面图 BACK\", \"参考：三视图 (3/4)\"]\n      },\n      \"expressions\": {\n        \"title\": \"表情集 EXPRESSIONS\",\n        \"count\": 3,\n        \"labels\": [\"通常（深层专注）\", \"契约激活时\", \"私下瞬间\"]\n      },\n      \"detail_panels\": [\n        {\n          \"title\": \"瞳孔变化\",\n          \"count\": 2,\n          \"description\": \"展示瞳孔变化的眼部特写\"\n        },\n        {\n          \"title\": \"装甲细节\",\n          \"count\": 2,\n          \"description\": \"胸部与背部装甲核心结构图\"\n        },\n        {\n          \"title\": \"手部细节 / 靴子与足底\",\n          \"count\": 2,\n          \"description\": \"手套与靴子特写\"\n        }\n      ],\n      \"bottom_row\": [\n        {\n          \"title\": \"便携工具 / 数据设备\",\n          \"count\": 5,\n          \"description\": \"手持设备与胶囊\"\n        },\n        {\n          \"title\": \"尺寸对比标尺\",\n          \"count\": 4,\n          \"description\": \"辅助尺寸对比图表\"\n        },\n        {\n          \"title\": \"契约纹章\",\n          \"count\": 1,\n          \"description\": \"发光的圆形纹章\"\n        }\n      ]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "科幻概念艺术与角色设定集：生成一张大规模、高细节的科幻概念艺术项目，包含环境生物设计以及一份详尽的角色参考表，涵盖三视图、表情集和装备拆解。",
+      "subject": "人物",
+      "scene": "信息图/图解",
+      "composition": [
+        "close-up"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13879",
+      "13617",
+      "14140",
+      "14128",
+      "13780",
+      "13894"
+    ]
+  }
+}

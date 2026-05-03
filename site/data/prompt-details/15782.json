@@ -1,0 +1,51 @@
+{
+  "id": "15782",
+  "prompt": "A vast cinematic sci-fi city floating above a sea of glowing clouds at sunset, viewed from a high aerial perspective. The scene shows an advanced utopian megacity made of many slender futuristic skyscrapers and elevated platforms rising out of the clouds, with 2 prominent central dome structures, 1 large circular landing platform in the lower right foreground, 1 massive spacecraft in the lower left foreground flying toward the city with bright blue engine trails, and numerous smaller flying vehicles scattered across the sky. The architecture is sleek, metallic, and ultra-detailed, with tall needle-like towers, layered skybridges, suspended districts, and illuminated windows. Warm golden sunlight pours in from the left near the horizon, casting orange, peach, and pink highlights across the clouds, while the buildings reflect cool steel blues and subtle neon accents. Include dramatic volumetric clouds below and between the structures, atmospheric haze for depth, a grand sense of scale, and a polished concept-art look. Composition should feel epic and panoramic, with the tallest tower near the center-right, additional spires receding into the distance, and a dark vertical megastructure framing the far right edge. Add a clean white \"Pollo.ai\" logo in the top-right corner. Hyper-detailed, cinematic lighting, futuristic worldbuilding, high contrast, sharp focus, premium science-fiction key art.",
+  "translatedPrompt": "从高空俯瞰，一座宏伟的电影级科幻城市悬浮在日落时分发光的云海之上。画面展现了一座先进的乌托邦式大都市，由许多纤细的未来主义摩天大楼和从云层中升起的架空平台组成。画面中有 2 座显眼的中央穹顶建筑，右下角前景处有 1 个大型圆形着陆平台，左下角前景处有 1 艘巨大的宇宙飞船正带着明亮的蓝色引擎尾迹飞向城市，天空中散布着许多小型飞行器。建筑风格流畅、充满金属质感且细节极其丰富，拥有高耸的针状塔楼、层叠的空中廊桥、悬浮区域以及发光的窗户。温暖的金色阳光从地平线附近的左侧倾泻而下，在云层上投射出橙色、桃色和粉色的高光，而建筑物则反射出冷峻的钢蓝色和微妙的霓虹光点。在结构下方和之间加入富有戏剧性的体积云，利用大气雾气营造深度感，展现宏大的规模感和精致的概念艺术质感。构图应具有史诗般的全景感，最高的塔楼位于中右侧，其他尖塔向远处延伸，右侧边缘由一个深色的垂直巨型结构框定。在右上角添加一个简洁的白色 \"Pollo.ai\" 标志。超高细节，电影级光效，未来世界构建，高对比度，清晰对焦，顶级科幻关键视觉图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日落时分的未来感浮空城：一个电影级的科幻天际线提示词，用于创作包含日落光影、云层和飞行器，史诗感十足的浮空大都市概念艺术。",
+      "subject": "空间",
+      "scene": "海报/封面",
+      "composition": [
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "sci-fi",
+        "premium"
+      ],
+      "lightingCamera": [
+        "neon",
+        "volumetric",
+        "high contrast"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical]。\n\nVisual style:\n[参考风格: cinematic, sci-fi, premium]。\n\nLighting and camera:\n[参考光线镜头: neon, volumetric, high contrast]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14439",
+      "14598",
+      "14438",
+      "14469",
+      "14902",
+      "14947"
+    ]
+  }
+}

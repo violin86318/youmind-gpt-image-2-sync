@@ -1,0 +1,51 @@
+{
+  "id": "14372",
+  "prompt": "A futuristic {argument name=\"scene\" default=\"cyberpunk outdoor music market\"} scene, massive towering wall of industrial speakers and electronic panels forming a colossal sound system, {argument name=\"lighting\" default=\"glowing orange\"} subwoofers, complex grids of LED controls and wires, giant digital screen displaying a neon cityscape, a {argument name=\"subject\" default=\"young person\"} seen from behind wearing headphones and a hoodie with a crossbody bag, holding a tablet device, crowd of people walking through a gritty market with tents and stalls, overcast sky, cinematic lighting, ultra-detailed, wide-angle perspective, dystopian atmosphere, high contrast, photorealistic, 8k, sharp focus, depth of field",
+  "translatedPrompt": "一个未来派的 {argument name=\"scene\" default=\"赛博朋克户外音乐市场\"} 场景，由工业扬声器和电子面板组成的巨大高耸墙体构成了庞大的音响系统，{argument name=\"lighting\" default=\"橙色发光\"} 的低音炮，复杂的 LED 控制网格和电线，显示着霓虹城市景观的巨型数字屏幕，一个 {argument name=\"subject\" default=\"年轻人\"} 从背后看去，戴着耳机，穿着连帽衫，背着斜挎包，拿着平板设备，人群穿过布满帐篷和摊位的粗砺市场，阴天，电影级灯光，超精细，广角视角，反乌托邦氛围，高对比度，照片级真实感，8k，清晰对焦，景深",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "未来赛博朋克音乐市场：一个用于生成反乌托邦赛博朋克场景的高度详细提示词，包含巨大的音响系统和拥挤的霓虹灯市场。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "grid"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "neon",
+        "overcast",
+        "high contrast",
+        "depth of field"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: neon, overcast, high contrast, depth of field]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15791",
+      "15778",
+      "14043",
+      "14806",
+      "14869",
+      "14831"
+    ]
+  }
+}

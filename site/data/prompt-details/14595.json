@@ -1,0 +1,47 @@
+{
+  "id": "14595",
+  "prompt": "A realistic outdoor sports portrait of two American football players standing side by side on a waterfront path with the Golden Gate Bridge filling the background on a bright clear day. The player on the left wears a muddy white jersey with the large black number 10, white football pants, black undersleeves, and holds a white helmet at his side. The player on the right wears a muddy dark navy jersey with the large white number 23, white football pants, a white long-sleeve undershirt, and holds a white helmet at his side. Both athletes are full torso to upper thigh in frame, facing the camera, with their inside arms around each other’s shoulders in a friendly post-game pose. Their uniforms are visibly grass-stained and dirty from play. Behind them is blue water, a rocky shoreline, a heavy rust-colored chain barrier, distant hills, and the red-orange towers and suspension cables of the Golden Gate Bridge. Natural daylight, documentary-style sports photography, shallow depth of field, sharp fabric texture, realistic anatomy, candid team-bonding mood. Obscure both faces with smooth rectangular blur blocks for privacy.",
+  "translatedPrompt": "一张逼真的户外体育肖像，两名美式橄榄球运动员并肩站在水滨小径上，背景是晴朗天气下的金门大桥。左侧球员身穿沾满泥土的白色球衣，印有醒目的黑色数字 10，穿着白色橄榄球裤，内搭黑色长袖，身侧拿着一个白色头盔。右侧球员身穿沾满泥土的深海军蓝球衣，印有醒目的白色数字 23，穿着白色橄榄球裤，内搭白色长袖，身侧拿着一个白色头盔。两位运动员均为半身像（从躯干到大腿），面向镜头，内侧手臂搭在对方肩上，呈现出友好的赛后姿态。他们的制服上清晰可见比赛留下的草渍和污垢。背景是蓝色的水面、岩石海岸线、厚重的铁锈色铁链护栏、远处的山丘，以及金门大桥红橙色的桥塔和悬索。自然光，纪实风格体育摄影，浅景深，织物纹理清晰，人体结构逼真，展现团队凝聚力的抓拍氛围。为保护隐私，请用平滑的矩形模糊块遮挡两人的面部。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "金门大桥下的橄榄球队友：此提示词可生成一张逼真的赛后肖像，展示两名满身泥泞的橄榄球运动员在水边合影，背景为金门大桥，适用于体育社论或生活方式类图片。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [],
+      "style": [
+        "realistic",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, documentary]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14614",
+      "15602",
+      "15808",
+      "15705",
+      "14667",
+      "15807"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "15070",
+  "prompt": "Create a dramatic vertical football tribute poster in a monochrome royal-blue palette for {argument name=\"club name\" default=\"Cruzeiro\"}. Show 2 male footballers layered in the foreground, both wearing blue Cruzeiro home jerseys from different eras. The front player is larger, centered slightly right, shown from the waist up in a dynamic running pose with his right index finger raised, muscular build, serious triumphant expression, modern blue jersey with white shoulder stripes, white sponsor logos, and the club's white stars crest on the chest. The back player is slightly smaller, positioned left and behind, also in motion, wearing a vintage blue jersey with a retro white collar and a classic soda sponsor logo, evoking an earlier era of the club. Their faces should be generic and not identifiable. In the background, place a huge circular Cruzeiro crest centered behind them, a packed stadium crowd with blue lighting, and exactly 2 waving flags: one in the upper left with the club badge, and one in the upper right with large supporter text. Add atmospheric smoke, vignette shadows, and layered light effects for a heroic, celebratory sports-design look. Include exactly 4 Portuguese text elements integrated into the composition: on the left, \"O INÍCIO DE UM FENÔMENO\" in stylized white lettering; on the right, \"O MAIOR DE TODOS\" with a small crown icon; across the lower center in very large white brush-script, {argument name=\"main headline\" default=\"FENÔMENO\"}; and at the very bottom in spaced uppercase text, {argument name=\"bottom tagline\" default=\"ONTEM UM SONHO. HOJE UMA LENDA.\"} with the last word highlighted in brighter blue. Add a handwritten signature under the main headline with the number {argument name=\"jersey number\" default=\"9\"}. Use high-contrast sports poster compositing, gritty texture, sharp jersey fabric detail, dramatic rim lighting, and an epic fan-culture mood suitable for a club legend celebration.",
+  "translatedPrompt": "创作一张极具戏剧性的竖版足球致敬海报，采用单色皇家蓝调，适用于 {argument name=\"club name\" default=\"Cruzeiro\"}。前景展示 2 名男性足球运动员，身穿不同时代的蓝色 Cruzeiro 主场球衣。前方的球员体型较大，略微偏右，展示腰部以上，呈现动态奔跑姿势，右手食指上扬，肌肉线条明显，表情严肃而充满胜利感，身穿带有白色肩条的现代蓝色球衣，印有白色赞助商标志，胸前饰有俱乐部白色星形徽章。后方的球员体型稍小，位于左后方，同样处于运动状态，身穿带有复古白色领口和经典汽水品牌赞助商标志的复古蓝色球衣，唤起俱乐部早期的记忆。球员面部应为通用形象，不可辨认。背景中心放置一个巨大的圆形 Cruzeiro 徽章，背景为灯光呈蓝色的拥挤体育场，并包含 2 面飘扬的旗帜：左上方为俱乐部徽章旗，右上方为带有大型支持者文字的旗帜。添加氛围烟雾、晕影阴影和分层光效，营造英雄般的庆祝体育设计感。画面中需整合 4 处葡萄牙语文字元素：左侧为风格化的白色字体 \"O INÍCIO DE UM FENÔMENO\"；右侧为 \"O MAIOR DE TODOS\" 并配有一个小皇冠图标；底部中央为超大白色笔刷字体 {argument name=\"main headline\" default=\"FENÔMENO\"}；最底部为间距较大的大写文字 {argument name=\"bottom tagline\" default=\"ONTEM UM SONHO. HOJE UMA LENDA.\"}，并将最后一个单词以亮蓝色高亮显示。在主标题下方添加手写签名，并附上数字 {argument name=\"jersey number\" default=\"9\"}。采用高对比度的体育海报合成风格，加入颗粒质感、清晰的球衣织物细节、戏剧性的轮廓光，营造出适合俱乐部传奇庆祝活动的史诗级球迷文化氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "蓝色足球传奇致敬海报：此提示词可生成一张极具戏剧性的蓝色调足球致敬海报，包含两名球员、俱乐部品牌元素以及醒目的葡萄牙语标题，适用于庆祝类体育艺术创作。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "vintage",
+        "retro"
+      ],
+      "lightingCamera": [
+        "rim light"
+      ],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, layered, vertical]。\n\nVisual style:\n[参考风格: vintage, retro]。\n\nLighting and camera:\n[参考光线镜头: rim light]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14842",
+      "15386",
+      "14881",
+      "15077",
+      "14518",
+      "14615"
+    ]
+  }
+}

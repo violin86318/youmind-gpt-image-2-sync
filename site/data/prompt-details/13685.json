@@ -1,0 +1,36 @@
+{
+  "id": "13685",
+  "prompt": "英雄联盟Cosplayer，这次Cos的对象是{argument name=\"角色\" default=\"MF赏金猎人莎拉\"}。{argument name=\"面部特征\" default=\"法国女人脸蛋\"}。比例{argument name=\"比例\" default=\"9:16\"}",
+  "translatedPrompt": "英雄联盟 Cosplayer，本次角色为 {argument name=\"character\" default=\"赏金猎人厄运小姐\"}。{argument name=\"facial features\" default=\"法式面孔\"}。比例 {argument name=\"aspect ratio\" default=\"9:16\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "逼真的英雄联盟 Cosplay：这是一个用于生成高度逼真的英雄联盟 Cosplayer 图像的提示词，重点聚焦于厄运小姐（Miss Fortune）。它强调专业、高端的修图质感，避免了 AI 生成图像中常见的虚假感。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13587",
+      "13616",
+      "13715",
+      "13720",
+      "13723",
+      "13861"
+    ]
+  }
+}

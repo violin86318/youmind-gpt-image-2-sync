@@ -1,0 +1,46 @@
+{
+  "id": "15822",
+  "prompt": "{\"type\":\"black-and-white manga page\",\"style\":\"clean shonen/seinen romantic comedy manga, grayscale screentones, inked line art, soft classroom lighting, expressive faces, blushing, sweat drops, speech bubbles, Japanese text, polished printed manga layout\",\"format\":\"single page with 8 numbered sections arranged in a 2-column grid\",\"setting\":{\"location\":\"Japanese high school classroom and hallway\",\"time\":\"morning before class\"},\"characters\":[{\"role\":\"male lead\",\"appearance\":\"teenage boy, short messy light hair, school uniform shirt, shy and easily flustered, frequent blush, startled wide eyes\"},{\"role\":\"female lead\",\"appearance\":\"teenage girl, long straight dark hair with glossy highlights, large gentle eyes, school uniform with ribbon, calm and affectionate smile, face intentionally obscured or blurred in a few close panels\"},{\"role\":\"classmates\",\"count\":8,\"appearance\":\"high school boys and girls in summer uniforms, chatting in background classroom panels\"}],\"layout\":{\"sections\":[{\"title\":\"1\",\"position\":\"top-left\",\"count\":4,\"labels\":[\"wide classroom establishing shot with many students at desks\",\"close-up of embarrassed boy saying good morning\",\"mid shot from doorway with girl arriving and a school bag on desk\",\"close-up of hand placing bag on desk with sound effect\"]},{\"title\":\"2\",\"position\":\"top-right\",\"count\":5,\"labels\":[\"close-up of girl greeting him, face obscured\",\"close-up of shocked blushing boy\",\"girl smiling and saying he should say it now\",\"girl smiling and telling him to answer properly\"]},{\"title\":\"3\",\"position\":\"middle-left\",\"count\":4,\"labels\":[\"close-up of blushing boy\",\"girl close-up with obscured face saying it was okay\",\"soft sparkly atmospheric panel\",\"narration box implying maybe it was not that bad\"]},{\"title\":\"4\",\"position\":\"middle-right\",\"count\":5,\"labels\":[\"side view of girl saying he should say it every day\",\"boy reacting nervously\",\"girl teasing that it is a waste\",\"girl smiling and saying she returns it properly\",\"close-up of girl looking directly at him\"]},{\"title\":\"5\",\"position\":\"lower-middle-left\",\"count\":4,\"labels\":[\"extreme close-up of blushing boy saying if she does not mind\",\"close-up of girl saying then okay\",\"sparkly transition panel\",\"girl asking if they should say it together\"]},{\"title\":\"6\",\"position\":\"lower-middle-right\",\"count\":4,\"labels\":[\"two-shot in hallway or by windows, boy saying maybe impossible\",\"girl replying that it is fine\",\"girl close-up with finger near lips\",\"girl saying she will do it too\"]},{\"title\":\"7\",\"position\":\"bottom-left\",\"count\":3,\"labels\":[\"window-side motion panel with sudden movement sound effect\",\"small two-shot of boy and girl standing together, girl face obscured\",\"large energetic close-up of both shouting good morning together\"]},{\"title\":\"8\",\"position\":\"bottom-right\",\"count\":5,\"labels\":[\"classroom group panel with classmates replying good morning\",\"boy and girl side by side, girl saying see\",\"boy stunned and blushing\",\"soft close-up of relieved boy smiling\",\"ending caption box\"]}],\"numbered_sections\":8},\"story\":\"A shy boy struggles to say good morning to a girl he likes. She gently encourages him, teases him, and suggests they say it together. In the final beat, they greet the whole class out loud and the class responds.\",\"text\":{\"language\":\"Japanese\",\"include\":[\"speech bubbles\",\"small narration boxes\",\"section numbers 1 to 8\",\"an ending caption\"],\"do_not_translate\":true},\"composition\":\"authentic manga page design with varied panel sizes, alternating close-ups and medium shots, emotional pacing, heavy emphasis on eye contact, blush reactions, and romantic tension\",\"quality\":\"high-detail professional manga manuscript, crisp tones, readable bubble placement, print-ready page\"}",
+  "translatedPrompt": "{\"type\":\"黑白漫画页面\",\"style\":\"干净的少年/青年浪漫喜剧漫画风格，灰度网点，墨线稿，柔和的教室光影，表情生动，脸红，汗珠，对话气泡，日文文本，精致的印刷漫画排版\",\"format\":\"包含 8 个编号分镜的单页，采用 2 列网格布局\",\"setting\":{\"location\":\"日本高中教室及走廊\",\"time\":\"课前早晨\"},\"characters\":[{\"role\":\"男主角\",\"appearance\":\"少年，短乱浅色头发，校服衬衫，害羞易慌张，经常脸红，受惊时眼睛睁大\"},{\"role\":\"女主角\",\"appearance\":\"少女，长直深色头发带有光泽感，大而温柔的眼睛，系丝带的校服，平静而深情的微笑，在部分特写分镜中脸部刻意遮挡或模糊处理\"},{\"role\":\"同学\",\"count\":8,\"appearance\":\"身着夏季校服的高中男女生，在背景教室分镜中聊天\"}],\"layout\":{\"sections\":[{\"title\":\"1\",\"position\":\"左上\",\"count\":4,\"labels\":[\"教室全景，许多学生坐在课桌前\",\"尴尬的男生说早安的特写\",\"从门口拍摄的女生到达及课桌上书包的中景\",\"手放置书包在桌上的特写及拟声词\"]},{\"title\":\"2\",\"position\":\"右上\",\"count\":5,\"labels\":[\"女生打招呼的特写，脸部遮挡\",\"震惊脸红的男生特写\",\"女生微笑着说他现在应该说出来\",\"女生微笑着让他好好回答\"]},{\"title\":\"3\",\"position\":\"中左\",\"count\":4,\"labels\":[\"脸红的男生特写\",\"女生脸部遮挡的特写，说没关系\",\"柔和闪亮的氛围分镜\",\"暗示或许没那么糟糕的旁白框\"]},{\"title\":\"4\",\"position\":\"中右\",\"count\":5,\"labels\":[\"女生侧面，说他应该每天都说\",\"男生紧张的反应\",\"女生调侃说这很浪费\",\"女生微笑着说她会好好回应\",\"女生直视他的特写\"]},{\"title\":\"5\",\"position\":\"下中左\",\"count\":4,\"labels\":[\"脸红的男生极特写，说如果不介意的话\",\"女生特写，说那好吧\",\"闪亮的过渡分镜\",\"女生问他们是否应该一起说\"]},{\"title\":\"6\",\"position\":\"下中右\",\"count\":4,\"labels\":[\"走廊或窗边的双人分镜，男生说可能不可能\",\"女生回答说没关系\",\"女生手指靠近嘴唇的特写\",\"女生说她也会这样做\"]},{\"title\":\"7\",\"position\":\"左下\",\"count\":3,\"labels\":[\"窗边带有突发动作拟声词的动态分镜\",\"男生和女生站在一起的小双人分镜，女生脸部遮挡\",\"两人大声喊出早安的充满活力的特写\"]},{\"title\":\"8\",\"position\":\"右下\",\"count\":5,\"labels\":[\"教室集体分镜，同学们回应早安\",\"男生和女生并排，女生说你看\",\"男生惊呆且脸红\",\"如释重负的男生微笑的柔和特写\",\"结尾字幕框\"]}],\"numbered_sections\":8},\"story\":\"一个害羞的男生难以对他喜欢的女生说早安。她温柔地鼓励他、调侃他，并建议他们一起说。在最后的情节中，他们大声向全班问好，同学们也做出了回应。\",\"text\":{\"language\":\"日语\",\"include\":[\"对话气泡\",\"小型旁白框\",\"1 到 8 的分镜编号\",\"结尾字幕\"],\"do_not_translate\":true},\"composition\":\"地道的漫画页面设计，分镜大小各异，特写与中景交替，情感节奏把控，强调眼神交流、脸红反应和浪漫张力\",\"quality\":\"高细节专业漫画手稿，网点清晰，气泡位置易读，适合印刷的页面\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "浪漫校园漫画页面：一页黑白日式浪漫喜剧漫画，描绘了一名害羞的男生和一名温柔的女生互道早安的场景，适合用于生成原创漫画叙事页面。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "grid"
+      ],
+      "style": [
+        "manga"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, grid]。\n\nVisual style:\n[参考风格: manga]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14404",
+      "15370",
+      "13819",
+      "14523",
+      "15047",
+      "15352"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "14226",
+  "prompt": "An anime-style light novel cover illustration featuring two characters in an intimate pose. On the left, a young woman with short dark hair, purple eyes, wearing a white hat, a frilly white dress with a pink bow tie, white gloves, and two white flower hairpins. She has an affectionate, teasing smile and is gently touching the chin of the man next to her. On the right, an adult man with {argument name=\"man's hair color\" default=\"red\"} hair parted in the middle, purple eyes, and a light goatee. He is wearing a black button-down shirt and has a slightly annoyed, reluctant expression with a sweat drop on his cheek. The scene features soft, romantic lighting with out-of-focus purple flower petals in the foreground corners. The image includes several Japanese text elements: a large stylized main title at the bottom reading {argument name=\"main title\" default=\"ちかつば\"}, a subtitle below it reading {argument name=\"subtitle\" default=\"ーその溺愛、独占欲の裏返し。ー\"}, vertical text on the top left reading {argument name=\"left quote\" default=\"可愛いだけじゃ、許さない。\"}, and vertical text on the top right reading {argument name=\"right quote\" default=\"その不機嫌、俺だけに向けろよ。\"}.",
+  "translatedPrompt": "An anime-style light novel cover illustration featuring two characters in an intimate pose. On the left, a young woman with short dark hair, purple eyes, wearing a white hat, a frilly white dress with a pink bow tie, white gloves, and two white flower hairpins. She has an affectionate, teasing smile and is gently touching the chin of the man next to her. On the right, an adult man with {argument name=\"man's hair color\" default=\"red\"} hair parted in the middle, purple eyes, and a light goatee. He is wearing a black button-down shirt and has a slightly annoyed, reluctant expression with a sweat drop on his cheek. The scene features soft, romantic lighting with out-of-focus purple flower petals in the foreground corners. The image includes several Japanese text elements: a large stylized main title at the bottom reading {argument name=\"main title\" default=\"ちかつば\"}, a subtitle below it reading {argument name=\"subtitle\" default=\"ーその溺愛、独占欲の裏返し。ー\"}, vertical text on the top left reading {argument name=\"left quote\" default=\"可愛いだけじゃ、許さない。\"}, and vertical text on the top right reading {argument name=\"right quote\" default=\"その不機嫌、俺だけに向けろよ。\"}.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Anime Light Novel Cover Illustration：Generates an anime-style romance light novel cover featuring a teasing girl and a reluctant man, complete with customizable Japanese typography.",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13745",
+      "13913",
+      "14236",
+      "15793",
+      "15094",
+      "15334"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "14592",
+  "prompt": "A gritty vertical anime-mecha poster in distressed screen-print style, inspired by retro military dossiers and Evangelion key art. The main subject is a massive close-up side profile of {argument name=\"mecha unit name\" default=\"EVANGELION: UNIT-01\"}, dominating the right two-thirds of the composition, facing left with its jaws open in a feral scream. The head is angular and biomechanical, with deep purple armor, olive-green accent plates, black metal inner structures, a single long horn projecting diagonally upward to the left, sharp teeth, and a narrow glowing eye. The surface is scratched, chipped, weathered, and inked with heavy comic-style linework. Behind it is a dark navy blueprint background filled with 8 visible technical diagram clusters, white schematic lines, anatomical overlays, cross-sections, labels, measurement marks, and interface graphics. A violent red paint slash explodes diagonally across the upper center and left side, with additional red drips running downward from the mecha’s mouth area. In the lower left corner, 1 small human figure sits hunched on a gray equipment crate: a teenage boy in a short-sleeve white school shirt, dark pants, and white sneakers, elbows on knees, looking down at a glowing handheld device, conveying isolation and anxiety. Add layered poster typography and warning graphics throughout the border: a torn yellow caution sign in the upper right with Japanese warning text and “CAUTION NERV ONLY”; a tall left sidebar with “01”, barcode-like blocks, hazard icons, and red-black labels; large distressed white kanji vertically stacked over the mecha torso; the word {argument name=\"main title\" default=\"ESCAPE\"} in spaced red capitals beneath the kanji; a small black label reading “PILOT: {argument name=\"pilot name\" default=\"IKARI, SHINJI\"}”; a bottom-right NERV logo; and footer text such as classified file markings and top secret stamps. Include 6 clearly readable English technical labels in the blueprint area: “TEST TYPE”, “BIOLOGICAL CONSTRAINT”, “AT FIELD”, “MAGI SYSTEM”, “INTERNAL”, and “CLASSIFIED MATERIAL”. Add Japanese dossier text blocks as authentic graphic texture. The palette is limited to dark indigo, black, crimson red, purple, olive green, dirty beige, and off-white. High contrast, torn-paper collage details, halftone texture, ink splatter, cracked paint, and worn print edges. Cinematic, oppressive, chaotic, collectible poster design, ultra-detailed, sharp, textured, no clean modern polish.",
+  "translatedPrompt": "一张硬核风格的竖版动漫机甲海报，采用做旧丝网印刷风格，灵感源自复古军事档案和 Evangelion 关键视觉艺术。主体是 {argument name=\"mecha unit name\" default=\"EVANGELION: UNIT-01\"} 的巨大侧面特写，占据了构图右侧三分之二的位置，面朝左侧，下颚大张，发出狂野的咆哮。头部呈棱角分明的生物机械结构，拥有深紫色装甲、橄榄绿装饰板、黑色金属内部结构、一根向左上方斜向延伸的长角、锋利的牙齿以及一只狭长的发光眼睛。表面布满划痕、缺口和风化痕迹，并配有厚重的漫画风格线条。背景为深海军蓝色的蓝图，布满了 8 组清晰可见的技术图表、白色示意线条、解剖叠层、横截面、标签、测量标记和界面图形。一道狂暴的红色油漆斜向划过画面上部中心和左侧，机甲嘴部区域还有额外的红色滴落效果。在左下角，1 个小小的少年人影蜷缩在灰色设备箱上：他穿着短袖白衬衫、深色长裤和白色运动鞋，手肘撑在膝盖上，低头看着手中的发光设备，传达出孤独与焦虑感。在边框处添加分层海报排版和警示图形：右上角有一张破损的黄色警示标志，印有日文警告文字和“CAUTION NERV ONLY”；左侧长条边栏印有“01”、条形码状方块、危险图标以及红黑标签；机甲躯干上方垂直堆叠着巨大的做旧白色汉字；汉字下方是间距拉开的红色大写单词 {argument name=\"main title\" default=\"ESCAPE\"}；下方有一个黑色小标签，写着“PILOT: {argument name=\"pilot name\" default=\"IKARI, SHINJI\"}”；右下角印有 NERV 标志；页脚处包含机密文件标记和绝密印章。在蓝图区域包含 6 个清晰可辨的英文技术标签：“TEST TYPE”、“BIOLOGICAL CONSTRAINT”、“AT FIELD”、“MAGI SYSTEM”、“INTERNAL”和“CLASSIFIED MATERIAL”。添加日文档案文本块作为真实的图形纹理。色调限制为深靛蓝、黑色、深红色、紫色、橄榄绿、脏米色和灰白色。高对比度，撕纸拼贴细节，半色调纹理，墨水飞溅，裂纹漆面，磨损的印刷边缘。电影感、压抑、混乱、收藏级海报设计，超精细，锐利，富有质感，拒绝干净的现代感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "硬核风格 Evangelion Unit-01 海报：此提示词可生成一张充满做旧感的动漫机甲海报，画面包含咆哮的紫色生物机械单元、蓝图叠层、警示图形，以及角落里坐着的小型驾驶员剪影，适用于收藏级印刷品或封面艺术创作。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "retro"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, layered, vertical]。\n\nVisual style:\n[参考风格: cinematic, anime, retro]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15784",
+      "14598",
+      "15643",
+      "15094",
+      "14529",
+      "15772"
+    ]
+  }
+}

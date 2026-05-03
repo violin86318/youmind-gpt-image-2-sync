@@ -1,0 +1,50 @@
+{
+  "id": "15257",
+  "prompt": "{\"type\":\"stylized portrait abstraction grid\",\"subject\":\"a woman shown through progressive visual simplification\",\"style\":\"a minimalist abstraction study inspired by modernist reduction, moving from semi-realistic portraiture toward elegant line-and-shape iconography\",\"medium\":\"digital illustration with a warm paper-like background\",\"palette\":{\"background\":\"soft cream\",\"hair\":\"very dark brown to black\",\"clothing\":\"deep burgundy\",\"skin\":\"warm light tan\",\"glasses\":\"thin gold\"},\"composition\":{\"format\":\"4x4 grid\",\"count\":16,\"numbered\":true,\"numbers\":[\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\",\"10\",\"11\",\"12\",\"13\",\"14\",\"15\",\"16\"],\"camera\":\"consistent head-and-shoulders portrait in three-quarter view facing right\",\"crop\":\"bust portrait cropped around head, shoulders, and upper chest\",\"spacing\":\"even rectangular panels with faint grid lines\"},\"subject_details\":{\"gender_presentation\":\"female\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"dark brown-black\\\"}\",\"style\":\"long straight hair with a side part, draping over the shoulders\"},\"clothing\":{\"top\":\"{argument name=\\\"top color\\\" default=\\\"burgundy turtleneck\\\"}\"},\"accessories\":{\"glasses\":\"thin wire-frame cat-eye or softly angular glasses in gold\"},\"pose\":\"calm, introspective, slightly downward or sideward gaze\",\"identity\":\"{argument name=\\\"subject description\\\" default=\\\"stylized portrait of a woman with long dark hair and glasses\\\"}\"},\"progression\":{\"concept\":\"each panel reduces detail while preserving recognizable identity and silhouette\",\"panels\":[{\"index\":1,\"look\":\"most detailed rendering, textured hair strands, soft painterly shading, full face and neck visible\"},{\"index\":2,\"look\":\"slightly simplified portrait with cleaner hair masses and reduced facial modeling\"},{\"index\":3,\"look\":\"broader shapes, flatter shadows, less facial detail\"},{\"index\":4,\"look\":\"smoother silhouette and cleaner contour lines, reduced texture\"},{\"index\":5,\"look\":\"simplified portrait with flatter hair and clothing shapes\"},{\"index\":6,\"look\":\"further reduction of facial structure and neck detail\"},{\"index\":7,\"look\":\"cleaner graphic treatment, hair becomes large dark shape\"},{\"index\":8,\"look\":\"face simplified into pale shape with sparse features, glasses emphasized\"},{\"index\":9,\"look\":\"graphic portrait with minimal face detail and strong hair silhouette\"},{\"index\":10,\"look\":\"flat shapes dominate, facial volume mostly removed\"},{\"index\":11,\"look\":\"almost icon-like, only eye area, glasses, hair edge, and garment remain\"},{\"index\":12,\"look\":\"minimal line drawing with blank face shape, eyebrow, eye, and glasses\"},{\"index\":13,\"look\":\"even cleaner abstraction retaining elegant hair streak and shoulder form\"},{\"index\":14,\"look\":\"extreme reduction, mostly hair arc, glasses edge, and burgundy shoulder\"},{\"index\":15,\"look\":\"refined minimalist portrait symbol with one eye, glasses, and sweeping hair lines\"},{\"index\":16,\"look\":\"most abstract version, nearly logo-like, composed of a few curved black shapes, one eye, glasses outline, and a burgundy triangular collar\"}]},\"rendering_notes\":\"keep the woman recognizable across all 16 stages; use a tasteful, flattering aesthetic; preserve the same pose and orientation in every tile; make the sequence feel like a deliberate visual memory map or abstraction study rather than random variations; subtle paper grain, gentle shadows, and restrained linework; no extra objects or background scenery\",\"text\":{\"visible_numbers\":\"small black serif numerals in the upper left of each panel\"},\"parameters\":[\"{argument name=\\\"subject description\\\" default=\\\"stylized portrait of a woman with long dark hair and glasses\\\"}\",\"{argument name=\\\"hair color\\\" default=\\\"dark brown-black\\\"}\",\"{argument name=\\\"top color\\\" default=\\\"burgundy turtleneck\\\"}\"],\"aspect_ratio\":\"4:3\"}",
+  "translatedPrompt": "{\"type\":\"风格化肖像抽象网格\",\"subject\":\"通过视觉渐进简化呈现的女性形象\",\"style\":\"受现代主义减法艺术启发的极简抽象研究，从半写实肖像逐步过渡到优雅的线条与形状图标\",\"medium\":\"带有温暖纸张质感背景的数字插画\",\"palette\":{\"background\":\"柔和奶油色\",\"hair\":\"深棕色至黑色\",\"clothing\":\"深酒红色\",\"skin\":\"温暖浅棕色\",\"glasses\":\"细金丝\"},\"composition\":{\"format\":\"4x4 网格\",\"count\":16,\"numbered\":true,\"numbers\":[\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\",\"10\",\"11\",\"12\",\"13\",\"14\",\"15\",\"16\"],\"camera\":\"一致的头部及肩部肖像，四分之三侧面朝右\",\"crop\":\"头部、肩部及上胸部的半身像裁剪\",\"spacing\":\"带有淡淡网格线的均匀矩形面板\"},\"subject_details\":{\"gender_presentation\":\"女性\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"深棕黑色\\\"}\",\"style\":\"长直发，侧分，垂于肩部\"},\"clothing\":{\"top\":\"{argument name=\\\"top color\\\" default=\\\"酒红色高领衫\\\"}\"},\"accessories\":{\"glasses\":\"细金属框猫眼或柔和棱角眼镜，金色\"},\"pose\":\"平静、内省，目光略微向下或向侧方凝视\",\"identity\":\"{argument name=\\\"subject description\\\" default=\\\"留长发、戴眼镜的女性风格化肖像\\\"}\"},\"progression\":{\"concept\":\"每个面板在保留可识别特征和轮廓的同时减少细节\",\"panels\":[{\"index\":1,\"look\":\"最详细的渲染，有纹理的发丝，柔和的绘画感阴影，完整的面部和颈部可见\"},{\"index\":2,\"look\":\"略微简化的肖像，发块更清晰，面部建模减少\"},{\"index\":3,\"look\":\"更宽大的形状，更平坦的阴影，面部细节减少\"},{\"index\":4,\"look\":\"更平滑的轮廓和更清晰的线条，纹理减少\"},{\"index\":5,\"look\":\"简化的肖像，头发和服装形状更平整\"},{\"index\":6,\"look\":\"进一步减少面部结构和颈部细节\"},{\"index\":7,\"look\":\"更简洁的图形处理，头发变为大块深色形状\"},{\"index\":8,\"look\":\"面部简化为浅色形状，特征稀疏，强调眼镜\"},{\"index\":9,\"look\":\"图形化肖像，面部细节极少，头发轮廓强烈\"},{\"index\":10,\"look\":\"平面形状为主，基本去除了面部体积感\"},{\"index\":11,\"look\":\"近乎图标化，仅保留眼部区域、眼镜、发际线和服装\"},{\"index\":12,\"look\":\"极简线条画，面部形状留白，仅保留眉毛、眼睛和眼镜\"},{\"index\":13,\"look\":\"更纯粹的抽象，保留优雅的发丝流向和肩部形态\"},{\"index\":14,\"look\":\"极致简化，主要为发丝弧度、眼镜边缘和酒红色肩部\"},{\"index\":15,\"look\":\"精致的极简肖像符号，包含一只眼睛、眼镜和流动的发丝线条\"},{\"index\":16,\"look\":\"最抽象的版本，近乎 Logo，由少量弯曲的黑色形状、一只眼睛、眼镜轮廓和一个酒红色三角形领口组成\"}]},\"rendering_notes\":\"确保女性形象在所有 16 个阶段中均可识别；使用高雅、美观的审美；在每个方格中保持相同的姿势和朝向；使序列呈现出刻意的视觉记忆地图或抽象研究感，而非随机变化；包含细微的纸张纹理、柔和的阴影和克制的线条；无额外物体或背景景观\",\"text\":{\"visible_numbers\":\"每个面板左上角的小号黑色衬线数字\"},\"parameters\":[\"{argument name=\\\"subject description\\\" default=\\\"留长发、戴眼镜的女性风格化肖像\\\"}\",\"{argument name=\\\"hair color\\\" default=\\\"深棕黑色\\\"}\",\"{argument name=\\\"top color\\\" default=\\\"酒红色高领衫\\\"}\"],\"aspect_ratio\":\"4:3\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "16 宫格肖像抽象化研究：此提示词可生成一个带编号的 4x4 网格，展示一张女性肖像从半写实插画到极简图标式抽象的渐进简化过程，适用于视觉识别研究及记忆地图风格的界面设计。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "grid"
+      ],
+      "style": [
+        "realistic",
+        "minimalist"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[参考风格: realistic, minimalist]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14535",
+      "14536",
+      "14628",
+      "14679",
+      "14996",
+      "15044"
+    ]
+  }
+}

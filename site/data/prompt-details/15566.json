@@ -1,0 +1,36 @@
+{
+  "id": "15566",
+  "prompt": "A {argument name=\"subject\" default=\"beautiful woman\"} looking at her phone {argument name=\"location\" default=\"on the subway\"}; a {argument name=\"style\" default=\"candid photo\"}",
+  "translatedPrompt": "一位 {argument name=\"subject\" default=\"美丽的女性\"} 正在看手机，地点 {argument name=\"location\" default=\"在地铁上\"}；风格为 {argument name=\"style\" default=\"抓拍照片\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "地铁抓拍照片提示词：一个简单且高效的提示词，用于使用 GPT image-2 生成一张高质量的地铁女性抓拍风格照片。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13446",
+      "13698",
+      "13705",
+      "13716",
+      "13889",
+      "13990"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "13779",
+  "prompt": "A high-end beauty commercial photograph featuring a close-up of a young East Asian woman with flawless, dewy glass skin. She rests her face gently against her hands and bare arms on a pristine white surface, looking directly at the camera with a soft, serene expression. Her dark hair is loosely pulled back with delicate strands framing her face. In the foreground sits a frosted glass serum bottle with a silver pump, displaying the text \"{argument name=\"brand name\" default=\"LUVIN\"}\" and \"{argument name=\"product name\" default=\"CALMING MOISTURE SERUM\"}\". The background is a soft, bright off-white studio setting. Elegant Korean typography is arranged on the left side, featuring the large main headline \"{argument name=\"main headline\" default=\"오늘, 피부는 스스로 빛난다\"}\". Smaller supporting text above reads \"자연에서 찾은 피부의 균형\", and text below reads \"루빈 카밍 모이스처 세럼\" and \"민감해진 피부에 전하는 부드럽고 깊은 보습\". The brand name \"{argument name=\"brand name\" default=\"LUVIN\"}\" appears again in the bottom left corner. A tiny drop of clear serum rests on the surface near the bottom left. The lighting is soft, diffused, and luminous, emphasizing a clean, minimalist skincare aesthetic.",
+  "translatedPrompt": "一张高端美妆广告，特写镜头展示了一位年轻美丽的亚洲女性，她拥有无瑕、水润、透亮的肌肤。她将下巴轻柔地靠在交叉于洁净白色平面上的双手和手臂上。她表情宁静柔和，直视镜头。在前景中，靠近她手部的平面上放置着一个磨砂玻璃材质的护肤精华瓶，配有银色按压泵头。瓶身上印有简洁、极简风格的品牌名称“{argument name=\"brand name\" default=\"LUVIN\"}”和产品名称“{argument name=\"product name\" default=\"CALMING MOISTURE SERUM\"}”。图像左侧有优雅、极简的韩文排版。主标题为“{argument name=\"main headline\" default=\"오늘, 피부는 스스로 빛난다\"}”，上方和下方配有较小的辅助文字。左下角显示了品牌名称“{argument name=\"bottom left brand text\" default=\"LUVIN\"}”。背景为柔和、无缝的米白色摄影棚背景。光线柔和、均匀且极具修饰感，突显了她肌肤的自然光泽，并在玻璃瓶上形成了柔和的倒影。白色平面上，瓶子旁边可见一滴晶莹剔透的精华液。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "护肤美妆广告人像：生成一张高端化妆品广告，展示一位拥有透亮肌肤的模特，并配有可自定义的产品瓶身和宣传文案。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up"
+      ],
+      "style": [
+        "minimalist",
+        "studio"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up]。\n\nVisual style:\n[参考风格: minimalist, studio]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15243",
+      "15089",
+      "14938",
+      "15066",
+      "14259",
+      "15467"
+    ]
+  }
+}

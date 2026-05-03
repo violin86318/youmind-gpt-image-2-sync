@@ -1,0 +1,48 @@
+{
+  "id": "15102",
+  "prompt": "A photorealistic daytime street-corner exterior of a modern {argument name=\"restaurant brand\" default=\"BURGER KING\"} fast-food restaurant, viewed from a front-left angle under a bright blue sky with scattered white clouds. The building has a beige stucco facade with a bold red trim band along the roofline, a large round brand logo near the upper left of the front wall, and oversized red channel letters spelling {argument name=\"main sign text\" default=\"BURGER KING\"} across the top. On the right side of the facade, show one tall vertical menu billboard with 6 visible product panels and prices: Whopper $6.99, Impossible Whopper $7.49, Chicken Fries $3.49, Onion Rings $2.49, a 2 for $6 Mix or Match panel, and a $3 Your Way Meal panel with fries and drink. Include a black drive-thru canopy on the left side with the text {argument name=\"drive thru sign\" default=\"DRIVE THRU\"}, and 2 cars in the lane, one dark SUV closer to camera and one silver sedan ahead. The front corner should have floor-to-ceiling glass windows revealing a lit interior with a few customers and menu boards faintly visible. Place 1 hiring poster in the front window reading {argument name=\"window poster text\" default=\"Now Hiring\"}. Add neatly maintained landscaping with 5 shrubs in dark mulch beds along the building edge, a concrete sidewalk in the foreground, a grassy strip, utility poles, traffic lights, and a suburban roadside intersection extending into the left background. Natural midday lighting, crisp shadows, commercial real-estate photography look, ultra-clean signage, highly legible text, realistic reflections on glass, sharp architectural details, and a subtle white {argument name=\"watermark text\" default=\"Pollo.ai\"} watermark in the top-right corner.",
+  "translatedPrompt": "一张照片级写实的现代 {argument name=\"restaurant brand\" default=\"BURGER KING\"} 快餐店街角外观，从左前方视角拍摄，背景为蓝天白云。建筑采用米色灰泥外墙，屋顶边缘饰有醒目的红色装饰带，前墙左上方设有一个大型圆形品牌 Logo，顶部横跨着巨大的红色立体发光字，拼写为 {argument name=\"main sign text\" default=\"BURGER KING\"}。在立面右侧，展示一个高大的垂直菜单广告牌，包含 6 个清晰可见的产品面板和价格：皇堡 6.99 美元、植物基皇堡 7.49 美元、鸡薯条 3.49 美元、洋葱圈 2.49 美元、2 个 6 美元的混合搭配面板，以及包含薯条和饮料的 3 美元随心套餐面板。左侧设有一个黑色得来速（Drive-thru）顶棚，文字显示为 {argument name=\"drive thru sign\" default=\"DRIVE THRU\"}，车道上有 2 辆车，一辆深色 SUV 靠近镜头，另一辆银色轿车在前方。前角应有落地玻璃窗，透出明亮的室内环境，隐约可见几位顾客和菜单项目。前窗放置 1 张招聘海报，文字为 {argument name=\"window poster text\" default=\"Now Hiring\"}。建筑边缘配有精心打理的景观，深色覆盖物花坛中种有 5 丛灌木，前景为混凝土人行道、草地带、电线杆、交通信号灯，以及向左后方延伸的郊区路口。自然的中午光线，清晰的阴影，商业房地产摄影风格，超干净的标识，高度可读的文字，玻璃上的真实反射，锐利的建筑细节，以及右上角带有细微的白色 {argument name=\"watermark text\" default=\"Pollo.ai\"} 水印。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "照片级写实快餐店门面：此提示词可生成干净、照片级写实的快餐店外观，包含清晰可读的招牌和菜单文字，适用于广告样机、店面概念设计或 AI 图像模型演示。",
+      "subject": "食物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "要求可读；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n要求可读；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14846",
+      "15631",
+      "14687",
+      "15022",
+      "13881",
+      "15412"
+    ]
+  }
+}

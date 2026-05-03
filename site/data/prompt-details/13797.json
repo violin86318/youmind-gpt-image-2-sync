@@ -1,0 +1,46 @@
+{
+  "id": "13797",
+  "prompt": "{\n  \"type\": \"comprehensive anime character design document\",\n  \"character\": {\n    \"name\": \"{argument name=\\\"character name\\\" default=\\\"月乃 咲夜\\\"}\",\n    \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"silver\\\"}\",\n    \"eyes\": \"{argument name=\\\"eye color\\\" default=\\\"purple\\\"}\",\n    \"outfit\": \"{argument name=\\\"outfit style\\\" default=\\\"dark blue and white gothic lolita dress with corset and ribbons\\\"}\",\n    \"motif\": \"{argument name=\\\"main motif\\\" default=\\\"moon and stars\\\"}\"\n  },\n  \"layout\": {\n    \"header\": {\n      \"title\": \"月乃 咲夜\",\n      \"subtitle\": \"Tsukino Sakuya\",\n      \"quote\": \"「夜に咲く花も、きっと誰かの光になれると信じてる。」\"\n    },\n    \"main_visual\": \"large half-body portrait on the top left\",\n    \"sections\": [\n      {\n        \"title\": \"基本情報\",\n        \"type\": \"bulleted list\",\n        \"content\": \"Name, Age (17), Birthday, Height (158cm), Blood Type, Affiliation, Pronouns, Weapon, Image Color, Motif\"\n      },\n      {\n        \"title\": \"性格\",\n        \"type\": \"text paragraph\",\n        \"content\": \"Personality description\"\n      },\n      {\n        \"title\": \"好き・苦手\",\n        \"type\": \"two bulleted lists\",\n        \"content\": \"Likes and Dislikes\"\n      },\n      {\n        \"title\": \"表情集\",\n        \"type\": \"grid of headshots\",\n        \"count\": 6,\n        \"labels\": [\"通常\", \"微笑み\", \"真剣\", \"悲しみ\", \"驚き\", \"照れ\"]\n      },\n      {\n        \"title\": \"三面図\",\n        \"type\": \"full-body turnaround\",\n        \"count\": 3,\n        \"labels\": [\"front view\", \"side/back view\", \"back view\"],\n        \"details\": \"includes a 158cm height marker\"\n      },\n      {\n        \"title\": \"プロフィール / 背景\",\n        \"type\": \"text paragraph\",\n        \"content\": \"Character background and profile\"\n      },\n      {\n        \"title\": \"学園での立ち位置\",\n        \"type\": \"bulleted list\",\n        \"content\": \"Role and position within the school\"\n      },\n      {\n        \"title\": \"所持品・武器\",\n        \"type\": \"illustrated item list\",\n        \"count\": 3,\n        \"items\": [\n          {\"name\": \"短剣\", \"description\": \"decorated dagger\"},\n          {\"name\": \"懐中時計\", \"description\": \"ornate pocket watch\"},\n          {\"name\": \"文庫本\", \"description\": \"blue poetry book with floral design\"}\n        ]\n      },\n      {\n        \"title\": \"その他設定\",\n        \"type\": \"bulleted list\",\n        \"content\": \"Additional character settings and trivia\"\n      },\n      {\n        \"title\": \"キーワード\",\n        \"type\": \"pill-shaped tags\",\n        \"count\": 8,\n        \"labels\": [\"#銀髪\", \"#紫の瞳\", \"#月\", \"#夜桜\", \"#静けさ\", \"#完璧主義\", \"#影の支え手\", \"#優しさ\"]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"综合动漫角色设计文档\",\n  \"character\": {\n    \"name\": \"{argument name=\\\"character name\\\" default=\\\"月乃 咲夜\\\"}\",\n    \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"银色\\\"}\",\n    \"eyes\": \"{argument name=\\\"eye color\\\" default=\\\"紫色\\\"}\",\n    \"outfit\": \"{argument name=\\\"outfit style\\\" default=\\\"深蓝色与白色哥特萝莉裙，配有束腰和丝带\\\"}\",\n    \"motif\": \"{argument name=\\\"main motif\\\" default=\\\"月亮与星星\\\"}\"\n  },\n  \"layout\": {\n    \"header\": {\n      \"title\": \"月乃 咲夜\",\n      \"subtitle\": \"Tsukino Sakuya\",\n      \"quote\": \"「夜に咲く花も、きっと誰かの光になれると信じてる。」\"\n    },\n    \"main_visual\": \"左上角的大型半身肖像\",\n    \"sections\": [\n      {\n        \"title\": \"基本信息\",\n        \"type\": \"项目符号列表\",\n        \"content\": \"姓名、年龄 (17 岁)、生日、身高 (158 cm)、血型、所属、代词、武器、印象色、主题\"\n      },\n      {\n        \"title\": \"性格\",\n        \"type\": \"段落文本\",\n        \"content\": \"性格描述\"\n      },\n      {\n        \"title\": \"喜好与厌恶\",\n        \"type\": \"两个项目符号列表\",\n        \"content\": \"喜好与厌恶\"\n      },\n      {\n        \"title\": \"表情集\",\n        \"type\": \"头像网格\",\n        \"count\": 6,\n        \"labels\": [\"通常\", \"微笑\", \"认真\", \"悲伤\", \"惊讶\", \"害羞\"]\n      },\n      {\n        \"title\": \"三面图\",\n        \"type\": \"全身三面图\",\n        \"count\": 3,\n        \"labels\": [\"正面\", \"侧面\", \"背面\"],\n        \"details\": \"包含 158 cm 身高标尺\"\n      },\n      {\n        \"title\": \"个人资料 / 背景\",\n        \"type\": \"段落文本\",\n        \"content\": \"角色背景与个人资料\"\n      },\n      {\n        \"title\": \"校园定位\",\n        \"type\": \"项目符号列表\",\n        \"content\": \"在学校中的角色与定位\"\n      },\n      {\n        \"title\": \"随身物品・武器\",\n        \"type\": \"插画物品列表\",\n        \"count\": 3,\n        \"items\": [\n          {\"name\": \"短剑\", \"description\": \"装饰精美的短剑\"},\n          {\"name\": \"怀表\", \"description\": \"华丽的怀表\"},\n          {\"name\": \"文库本\", \"description\": \"带有花卉图案的蓝色诗集\"}\n        ]\n      },\n      {\n        \"title\": \"其他设定\",\n        \"type\": \"项目符号列表\",\n        \"content\": \"其他角色设定与冷知识\"\n      },\n      {\n        \"title\": \"关键词\",\n        \"type\": \"胶囊标签\",\n        \"count\": 8,\n        \"labels\": [\"#银发\", \"#紫瞳\", \"#月亮\", \"#夜樱\", \"#宁静\", \"#完美主义\", \"#幕后支持者\", \"#温柔\"]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "综合动漫角色参考表：生成一份高度详细的动漫角色设计文档，包含表情、三面图、物品插画及详尽的文字简介。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "full-body",
+        "grid"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body, grid]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13807",
+      "14404",
+      "14531",
+      "14607",
+      "13819",
+      "13880"
+    ]
+  }
+}

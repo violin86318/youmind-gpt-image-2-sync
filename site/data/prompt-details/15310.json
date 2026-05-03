@@ -1,0 +1,53 @@
+{
+  "id": "15310",
+  "prompt": "A warm, editorial-style lifestyle product photo shot indoors from a low close-up angle, focused on a woman's lower legs and feet as she tries on 1 pair of black leather backless loafers with tan faux-fur lining. One loafer is worn on the right foot and the left foot is bare, hovering just above the textured cream shag rug, while the second matching loafer lies on the rug in the lower left foreground. The shoes have smooth black leather uppers, a rounded almond toe, open mule-style heel, plush brown fur spilling out around the opening, and a small polished gold horsebit hardware detail across the vamp. The model wears cropped medium-blue denim jeans with a raw frayed hem. The setting is a cozy minimalist interior with a cream rug featuring 2 thin irregular black lines, a neutral wall, and a leaning rectangular mirror with a medium wood frame in the upper right background, softly reflecting the rug and part of the scene. Use soft natural window light, shallow depth of field, subtle film grain, realistic skin texture, muted beige and black palette, relaxed candid composition, premium fashion catalog mood, high detail, photorealistic.",
+  "translatedPrompt": "一张温暖的编辑风格生活方式产品照，在室内以低角度近距离拍摄。画面聚焦于一位女性的下半身，她正在试穿一双黑色皮革露跟乐福鞋，鞋内衬有棕褐色人造毛。右脚穿着一只乐福鞋，左脚赤足，悬停在质感十足的奶油色长毛地毯上方；另一只配套的乐福鞋则放置在左下角的前景地毯上。鞋面采用光滑的黑色皮革，圆润的杏仁形鞋头，穆勒鞋式露跟设计，开口处溢出柔软的棕色毛绒，鞋面上方饰有精致的金色马衔扣金属件。模特穿着剪裁利落的中蓝色牛仔裤，裤脚带有毛边。场景设定在一个舒适的极简主义空间，奶油色地毯上有 2 条细长的不规则黑线，背景为中性色墙面，右上角摆放着一面带有中色调木质边框的长方形落地镜，柔和地反射出地毯和部分场景。采用柔和的自然窗光，浅景深，带有细微的胶片颗粒感，真实的皮肤质感，柔和的米色与黑色调，轻松自然的构图，高级时尚目录质感，高细节，照片级真实感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奢华毛绒乐福鞋生活方式摄影：此提示词可生成一张舒适的高端时尚产品照，展示在温暖的极简主义家居室内试穿黑色毛绒穆勒乐福鞋的场景，非常适合鞋履广告和电商编辑类图片。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [
+        "close-up"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "editorial",
+        "minimalist",
+        "premium"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "film grain"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up]。\n\nVisual style:\n[参考风格: realistic, photorealistic, editorial, minimalist, premium]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, film grain]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14807",
+      "15775",
+      "15067",
+      "15316",
+      "15429",
+      "15536"
+    ]
+  }
+}

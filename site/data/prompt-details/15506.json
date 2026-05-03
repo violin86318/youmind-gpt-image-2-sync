@@ -1,0 +1,45 @@
+{
+  "id": "15506",
+  "prompt": "Create a {argument name=\"layout\" default=\"4x3 borderless grid\"} where each panel is an independent image of same characters, maintaining consistent color and lighting, depicting nostalgic old memories with {argument name=\"style\" default=\"80's anime style\"}, with no text and no gap.",
+  "translatedPrompt": "创建一个 {argument name=\"layout\" default=\"4x3 无边框网格\"}，其中每个面板都是相同角色的独立图像，保持一致的色彩和光影，以 {argument name=\"style\" default=\"80 年代动画风格\"} 描绘怀旧的旧日记忆，画面中不含文字且无间隙。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "80 年代动画风格记忆网格：一个用于创建 4x3 图像网格的提示词，以经典的 80 年代动画艺术风格描绘怀旧记忆，并保持视觉一致性。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "grid"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "禁止额外文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n禁止额外文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14209",
+      "13595",
+      "14971",
+      "14974",
+      "13679",
+      "13934"
+    ]
+  }
+}

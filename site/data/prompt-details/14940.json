@@ -1,0 +1,48 @@
+{
+  "id": "14940",
+  "prompt": "A cinematic fantasy anime poster in a tall vertical composition, showing two childlike adventurer characters standing in a vast magical library-cathedral with impossibly high gothic arches, towering bookshelves on both sides, floating pages, glowing dust, and a grand staircase rising in the center toward a radiant portal-like window filled with intricate celestial magic-circle patterns. The viewpoint is low and dramatic, looking slightly upward, with both characters reaching one hand toward the viewer in an inviting gesture. On the left is a slightly taller child with short silver-white hair, soft bangs, and large green leaf-like ear ornaments or animal-like ears, wearing a navy hooded jacket over a warm orange top, dark pants, sturdy boots, and a black crossbody satchel; keep the face partially obscured by framing or angle. On the right is a shorter child with a matching design language, short silver-white bob hair with green-tinted ends, large teal-green eyes, and the same green leaf-like ear features, wearing a navy hooded jacket, orange inner layer, short dark bottoms, boots, and a mauve-purple shoulder bag decorated with small charms including a star. Between their outstretched hands, create a bright burst of magical light where two energies meet: luminous cyan-blue streams curling around the left character and warm pink-gold streams curling around the right character, with spark particles and ribbon-like trails. Split the lighting mood into cool blue on the left side and warm golden-magenta on the right side, blending at the center into a brilliant white flare. Add dense atmospheric detail: glowing motes, magical filaments, floating sheets of paper, layered architecture, and a sense of wonder and discovery. At the top, include centered Japanese tagline text in elegant white serif style: \"わかることと、感じること。2つの力で世界をひらく。\" At the bottom, place a very large luminous gold serif title reading \"{argument name=\"title text\" default=\"Epix&Ria\"}\" with ornate cinematic poster typography. High-detail, polished key visual, fantasy adventure film poster, richly textured, radiant, emotional, awe-inspiring, premium illustrated promotional art.",
+  "translatedPrompt": "一张电影质感的奇幻动漫海报，采用竖构图。画面展示了两位孩童模样的冒险者，站在一座宏伟的魔法图书馆大教堂中，背景是高耸入云的哥特式拱门和两侧参天的书架，空中飘浮着书页，闪烁着微光尘埃。中央有一座宏伟的楼梯，通向一扇如传送门般、布满复杂天体魔法阵图案的窗户。视角低沉而富有戏剧性，略微仰视，两位角色均向观众伸出一只手，做出邀请的姿态。左侧角色稍高，留着银白色短发，刘海柔顺，佩戴大型叶片状耳饰或动物耳，身穿海军蓝连帽外套，内搭暖橙色上衣，深色长裤，结实的靴子，背着黑色斜挎包；脸部通过构图或角度进行部分遮挡。右侧角色稍矮，设计风格相呼应，留着银白色波波头，发梢带有绿色调，拥有一双青绿色大眼睛，同样佩戴叶片状耳饰，身穿海军蓝连帽外套，内搭橙色衣物，深色短裤，靴子，背着装饰有星星等小挂件的淡紫色单肩包。在他们伸出的双手之间，创造出一团明亮的魔法光芒，两种能量在此交汇：青蓝色光流环绕左侧角色，暖粉金色光流环绕右侧角色，伴随着火花粒子和丝带状轨迹。光影氛围左侧为冷蓝色，右侧为暖金洋红色，在中心交融成耀眼的白光。添加丰富的氛围细节：发光的微尘、魔法丝线、飘浮的纸张、层次分明的建筑，营造出奇迹与探索感。海报顶部居中处加入优雅的白色衬线体日文标语：“わかることと、感じること。2つの力で世界をひらく。”（理解与感受，以双重力量开启世界。）海报底部放置巨大的发光金色衬线体标题 “{argument name=\"title text\" default=\"Epix&Ria\"}”，并采用华丽的电影海报排版。高细节、精致的主视觉图，奇幻冒险电影海报，质感丰富，光芒四射，情感充沛，令人惊叹，顶级插画宣传艺术。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Epix & Ria 奇幻图书馆海报：此提示词可生成一张精致的竖版动漫风格奇幻主视觉海报，适用于双主角冒险故事，非常适合电影宣传册封面、主视觉图或世界观构建的宣传艺术。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "fantasy",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, layered, vertical]。\n\nVisual style:\n[参考风格: cinematic, anime, fantasy, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15096",
+      "15336",
+      "14472",
+      "15016",
+      "15634",
+      "15334"
+    ]
+  }
+}

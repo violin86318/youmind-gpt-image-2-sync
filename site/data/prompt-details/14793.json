@@ -1,0 +1,35 @@
+{
+  "id": "14793",
+  "prompt": "1枚目：{argument name=\"作業内容\" default=\"真剣な表情でガンプラを作るところ\"} 2枚目：（1枚目の後に）{argument name=\"失敗の様子\" default=\"間違った部分を切ってしまい、青ざめるカット\"}",
+  "translatedPrompt": "第 1 张图片：{argument name=\"action\" default=\"表情严肃地制作塑料模型\"}。第 2 张图片：（紧接第一张）{argument name=\"failure scene\" default=\"剪错零件后脸色苍白的镜头\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "序列连续性生成：一套用于 GPT-Image-2 的提示词序列，旨在保持角色在不同情绪状态和动作下的连贯性。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

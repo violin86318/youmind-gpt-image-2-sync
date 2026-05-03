@@ -1,0 +1,52 @@
+{
+  "id": "14856",
+  "prompt": "A clean, minimalist promotional poster on an off-white background in a modern tech-brand style. At the top left, a very large bold sans-serif headline in deep cobalt blue reads {argument name=\"headline text\" default=\"Thinking Mode Searches\"} split across two lines. Beneath it, a smaller gray explanatory sentence says that with thinking mode, the model can automatically browse the internet and find relevant contents for reference. At the top right, place a small blue OpenAI knot logo. Below the intro text, add a thin horizontal blue divider line ending with a tiny sparkle icon on the right. Under that, include a prompt line in small text with the word “Prompt:” in blue followed by the sentence {argument name=\"prompt text\" default=\"Make a poster about OpenAI merch available on the official website right now.\"}. The main body is a centered 3-by-2 product grid with 8 total merchandise items shown as clean catalog cutouts with soft shadows inside rounded pale cards. Top row has 3 larger products: 1) a white long-sleeve striped rugby-style jersey with black collar and cuffs, small blue patches, and blue chest text “Research & Deployment Co.”, labeled “10 Year Jersey”; 2) a dark brown pullover hoodie with front pocket, small centered chest text “Research Deployment Co.” and sleeve print, labeled “Diagram Hoodie”; 3) a black T-shirt viewed from the back with a metallic knot graphic and pale pink text “Research & Deployment Co.”, labeled “Chrome Blossom Tee”. Bottom row has 5 smaller products: 4) a blue folding chair keychain shaped like a chair, labeled “Blue Chair Keychain”; 5) a black baseball cap with white flame graphics and “GPT-5” on the front, labeled “GPT-5 Flame Cap”; 6) a white notebook with a bold blue lower band and minimal OpenAI branding, labeled “OpenAI Notebook”; 7) a glossy black mug with “OpenAI” in white, labeled “OpenAI Office Mug”; 8) a dark green baseball cap with small white text “Thinking deeply”, labeled “Thinking Deeply Cap”. Keep all item labels centered below each product in small blue sans-serif text. Along the bottom footer, place “Research & Deployment Co.” on the left, the OpenAI knot logo plus wordmark centered, and “Designed with care.” on the right. Use a balanced editorial layout, lots of whitespace, premium product-ad poster aesthetics, subtle shadows, crisp studio lighting, and a restrained palette of off-white, blue, black, brown, and green.",
+  "translatedPrompt": "一张简洁、极简主义的宣传海报，采用灰白色背景，呈现现代科技品牌风格。左上角是一个非常大的粗体无衬线标题，颜色为深钴蓝色，文字为 {argument name=\"headline text\" default=\"Thinking Mode Searches\"}，分为两行显示。下方是一句较小的灰色解释性文字，说明通过思考模式，模型可以自动浏览互联网并查找相关内容以供参考。右上角放置一个蓝色的小型 OpenAI 结状徽标。在介绍文字下方，添加一条细长的蓝色水平分隔线，右端带有一个微小的闪光图标。在此下方，包含一行小字体的提示词，蓝色文字“Prompt:”后跟句子 {argument name=\"prompt text\" default=\"Make a poster about OpenAI merch available on the official website right now.\"}。主体部分是一个居中的 3x2 产品网格，共展示 8 件商品，以简洁的目录剪裁图形式呈现，带有柔和阴影，置于圆角的浅色卡片内。顶行有 3 件较大的产品：1) 一件白色长袖条纹橄榄球风格运动衫，配有黑色领口和袖口，带有蓝色小补丁和蓝色胸前文字“Research & Deployment Co.”，标注为“10 Year Jersey”；2) 一件深棕色套头连帽衫，带有前袋，胸前有小型居中文字“Research Deployment Co.”及袖口印花，标注为“Diagram Hoodie”；3) 一件黑色 T 恤（背部视角），带有金属质感结状图形和淡粉色文字“Research & Deployment Co.”，标注为“Chrome Blossom Tee”。底行有 5 件较小的产品：4) 一个蓝色折叠椅形状的钥匙扣，标注为“Blue Chair Keychain”；5) 一顶黑色棒球帽，正面带有白色火焰图形和“GPT-5”字样，标注为“GPT-5 Flame Cap”；6) 一个白色笔记本，带有醒目的蓝色底带和极简的 OpenAI 品牌标识，标注为“OpenAI Notebook”；7) 一个亮黑色马克杯，印有白色“OpenAI”字样，标注为“OpenAI Office Mug”；8) 一顶深绿色棒球帽，带有小型白色文字“Thinking deeply”，标注为“Thinking Deeply Cap”。所有商品标签均需居中置于产品下方，使用蓝色小号无衬线字体。在底部页脚，左侧放置“Research & Deployment Co.”，中间放置 OpenAI 结状徽标及文字标识，右侧放置“Designed with care.”。采用平衡的编辑布局，保留大量留白，呈现高级产品广告海报美学，运用微妙的阴影、清晰的摄影棚灯光，以及灰白、蓝、黑、棕和绿色的克制配色方案。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "OpenAI 周边海报网格：一张现代编辑风格的海报，以简洁的产品网格展示了八款 OpenAI 主题周边商品，适用于科技品牌推广或社交媒体营销视觉。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "grid",
+        "horizontal"
+      ],
+      "style": [
+        "editorial",
+        "minimalist",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, grid, horizontal]。\n\nVisual style:\n[参考风格: editorial, minimalist, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15088",
+      "14844",
+      "15467",
+      "15462",
+      "15527",
+      "15644"
+    ]
+  }
+}

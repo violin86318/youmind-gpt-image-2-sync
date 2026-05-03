@@ -1,0 +1,45 @@
+{
+  "id": "15820",
+  "prompt": "Using REFERENCE_0 as the main food photo and REFERENCE_1 to enhance the pulled-meat texture, transform the homemade roast pork into a dramatic Texas barbecue poster. Keep the same pork cut in foil, but restyle it to look more appetizing and professionally photographed: deeper mahogany bark, stronger black-pepper crust, richer glaze, visible moisture, darker shadows, warm orange highlights, and a smoky atmosphere rising from the top. Place it on a dark rustic background with cinematic food-ad lighting. Add a bold vintage western headline in the upper left with exactly 2 lines: \"TEXAS STYLE\" and \"PORK\". Beneath it, add exactly 3 Japanese copy lines: \"100℃で8時間、じっくり火入れ\", \"Low & Slowで引き出す、\", and \"やわらかさと旨み。\" Add a handwritten Japanese tagline in the lower left with exactly 2 lines: \"しっとり、\" and \"ほろり。\" Use a premium BBQ advertisement layout, high contrast, slightly gritty texture, and make the final image feel like a poster for Texas-style pulled pork made from the reference roast.",
+  "translatedPrompt": "以 REFERENCE_0 作为主食照片，并使用 REFERENCE_1 来增强手撕肉的质感，将自制烤猪肉转化为一张极具视觉冲击力的德州烧烤海报。保留锡纸中猪肉的原始切块，但通过重新设计使其看起来更具食欲且如同专业摄影作品：呈现更深邃的红木色外皮、更明显的黑胡椒碎外壳、更浓郁的釉面、可见的肉汁、更暗的阴影、温暖的橙色高光，以及从上方升起的烟熏氛围。将其置于深色乡村风格的背景中，并采用电影级的食品广告灯光。在左上方添加醒目的复古西部风格标题，共 2 行：“TEXAS STYLE” 和 “PORK”。在其下方，添加 3 行日文文案：“100℃で8時間、じっくり火入れ”、“Low & Slowで引き出す、” 以及 “やわらかさと旨み。” 在左下方添加 2 行手写风格的日文标语：“しっとり、” 和 “ほろり。” 采用高级烧烤广告布局，强调高对比度和轻微的颗粒质感，使最终图像呈现出如同参考烤肉制作的德州风味手撕猪肉海报效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "德州风味猪肉海报：此提示词可将烤猪肉参考照片转化为带有醒目排版和日文宣传文案的德州烟熏风味高级烧烤广告海报。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "vintage",
+        "premium"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, vintage, premium]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15512",
+      "14133",
+      "14481",
+      "15748",
+      "14652",
+      "15279"
+    ]
+  }
+}

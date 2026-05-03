@@ -1,0 +1,39 @@
+{
+  "id": "14260",
+  "prompt": "A cinematic, atmospheric illustration of a young woman with short black hair standing on a wet city street at night. She is wearing a dark jacket and looking off to the side. Above her, an elevated train track crosses the street diagonally, with a yellow train passing by. The city is dense with tall buildings, some featuring illuminated signs with Japanese characters. The street is slick with rain, reflecting the warm, muted lights of the city and the train. The overall color palette is dominated by sepia, brown, and muted yellow tones, giving the scene a moody, dystopian, or cyberpunk feel. The lighting is dim and diffused, typical of a rainy night in a metropolis.",
+  "translatedPrompt": "A cinematic, atmospheric illustration of a young woman with short black hair standing on a wet city street at night. She is wearing a dark jacket and looking off to the side. Above her, an elevated train track crosses the street diagonally, with a yellow train passing by. The city is dense with tall buildings, some featuring illuminated signs with Japanese characters. The street is slick with rain, reflecting the warm, muted lights of the city and the train. The overall color palette is dominated by sepia, brown, and muted yellow tones, giving the scene a moody, dystopian, or cyberpunk feel. The lighting is dim and diffused, typical of a rainy night in a metropolis.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Moody Cyberpunk Cityscape：Generates a cinematic illustration of a character in a rainy, dystopian city setting.",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "cinematic"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13441",
+      "13654",
+      "13816",
+      "13923",
+      "13949",
+      "15623"
+    ]
+  }
+}

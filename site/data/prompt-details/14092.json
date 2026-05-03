@@ -1,0 +1,41 @@
+{
+  "id": "14092",
+  "prompt": "{\n  \"type\": \"livestream interface mockup\",\n  \"subject\": {\n    \"description\": \"{argument name=\\\"streamer description\\\" default=\\\"young Asian woman, long dark wavy hair with bangs, round wire-rimmed glasses, black button-up shirt, silver necklace\\\"}\",\n    \"action\": \"looking directly at camera, speaking into a professional broadcast microphone\"\n  },\n  \"setting\": {\n    \"location\": \"high-rise apartment interior at night\",\n    \"background\": \"large window with blurred illuminated city skyline\",\n    \"props\": \"YouTube play button plaque on shelf, warm desk lamp\"\n  },\n  \"layout\": {\n    \"top_left\": {\n      \"element\": \"stream title\",\n      \"text\": \"{argument name=\\\"stream title\\\" default=\\\"AGI 시대, 우리는 어떻게 살아남을까?\\\"}\"\n    },\n    \"top_right\": {\n      \"element\": \"status badge\",\n      \"text\": \"LIVE\",\n      \"style\": \"red circle indicator\"\n    },\n    \"left_panel\": {\n      \"element\": \"live chat feed\",\n      \"message_count\": 5,\n      \"messages\": [\n        \"FutureExplorer 22:44: Curious about social changes caused by AGI.\",\n        \"TechGuru 22:44: What jobs will disappear or emerge?\",\n        \"AI_lover 22:45: Difference between AGI and current AI?\",\n        \"PhilosophizingDev 22:45: What is the human role in the AGI era?\",\n        \"CodingOfficeWorker 22:46: Ethical issues and control methods for AGI?\"\n      ],\n      \"input_box\": \"Chat... with smiley icon\"\n    },\n    \"bottom_right\": {\n      \"element\": \"donation leaderboard\",\n      \"title\": \"{argument name=\\\"donation title\\\" default=\\\"오늘의 후원\\\"}\",\n      \"item_count\": 4,\n      \"items\": [\n        \"FutureBoy 50,000 won\",\n        \"Anonymous 20,000 won\",\n        \"AI Researcher 10,000 won\",\n        \"Sandbox 5,000 won\"\n      ]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"直播界面模型\",\n  \"subject\": {\n    \"description\": \"{argument name=\\\"streamer description\\\" default=\\\"年轻亚裔女性，留着长波浪卷发和刘海，戴着圆形金属框眼镜，身穿黑色衬衫，佩戴银色项链\\\"}\",\n    \"action\": \"直视镜头，对着专业广播麦克风说话\"\n  },\n  \"setting\": {\n    \"location\": \"夜晚的高层公寓室内\",\n    \"background\": \"带有模糊城市夜景灯光的大窗户\",\n    \"props\": \"架子上的 YouTube 播放按钮奖牌，暖色调台灯\"\n  },\n  \"layout\": {\n    \"top_left\": {\n      \"element\": \"直播标题\",\n      \"text\": \"{argument name=\\\"stream title\\\" default=\\\"AGI 时代，我们该如何生存？\\\"}\"\n    },\n    \"top_right\": {\n      \"element\": \"状态徽章\",\n      \"text\": \"直播中\",\n      \"style\": \"红色圆形指示灯\"\n    },\n    \"left_panel\": {\n      \"element\": \"实时聊天流\",\n      \"message_count\": 5,\n      \"messages\": [\n        \"FutureExplorer 22:44: 对 AGI 带来的社会变革感到好奇。\",\n        \"TechGuru 22:44: 哪些工作会消失或出现？\",\n        \"AI_lover 22:45: AGI 与当前 AI 的区别是什么？\",\n        \"PhilosophizingDev 22:45: 在 AGI 时代人类扮演什么角色？\",\n        \"CodingOfficeWorker 22:46: AGI 的伦理问题和控制方法是什么？\"\n      ],\n      \"input_box\": \"聊天... 带有笑脸图标\"\n    },\n    \"bottom_right\": {\n      \"element\": \"捐赠排行榜\",\n      \"title\": \"{argument name=\\\"donation title\\\" default=\\\"今日打赏\\\"}\",\n      \"item_count\": 4,\n      \"items\": [\n        \"FutureBoy 50,000 韩元\",\n        \"Anonymous 20,000 韩元\",\n        \"AI Researcher 10,000 韩元\",\n        \"Sandbox 5,000 韩元\"\n      ]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "直播界面模型：生成一个逼真的直播覆盖层，包含主播、实时聊天流和捐赠记录。",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13772",
+      "14884",
+      "13962",
+      "15111",
+      "14063",
+      "13523"
+    ]
+  }
+}

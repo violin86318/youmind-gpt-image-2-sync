@@ -1,0 +1,56 @@
+{
+  "id": "15666",
+  "prompt": "{\"type\":\"comparison poster\",\"style\":\"tech product showdown infographic, clean promotional layout, dark background with faint blue grid lines, high-contrast social-media graphic\",\"canvas\":{\"aspect_ratio\":\"4:5\",\"background\":\"black with subtle square grid\"},\"layout\":{\"sections\":[{\"title\":\"GPT image 2\",\"position\":\"top-left above left poster\",\"count\":1,\"labels\":[\"GPT image 2\"]},{\"title\":\"Nano Banana\",\"position\":\"top-right above right poster\",\"count\":1,\"labels\":[\"Nano Banana\"]},{\"title\":\"提示词\",\"position\":\"bottom callout header\",\"count\":1,\"labels\":[\"提示词\"]}],\"panels\":2,\"panel_arrangement\":\"two tall vertical posters side by side, evenly spaced, centered horizontally\",\"bottom_callout\":\"large rounded black text box with white border spanning most of the width\"},\"left_panel\":{\"type\":\"VR headset exploded-view poster\",\"branding\":\"Meta Quest 3\",\"headline\":\"まったく新しい現実を、まったく新しい構造から。\",\"language\":\"Japanese\",\"poster_background\":\"soft white to lavender-blue gradient\",\"main_object\":\"Meta Quest 3 headset shown as a vertically exploded assembly render\",\"component_count\":9,\"number_labels\":[\"01\",\"02\",\"03\",\"04\",\"05\",\"06\",\"07\",\"08\",\"09\"],\"components\":[\"front shell and faceplate\",\"sensor/camera bar assembly\",\"mainboard and chipset layer with glowing blue core\",\"dual pancake lens modules\",\"internal lower housing\",\"battery modules\",\"side strap arms\",\"top strap and headband frame\",\"face cushion\"],\"annotations\":\"small Japanese technical callouts around the components with thin leader lines\",\"footer\":\"light gray information strip with dense small text and Meta logo at bottom right\"},\"right_panel\":{\"type\":\"VR headset exploded-view poster\",\"branding\":\"Meta Quest 3\",\"headline\":\"以全新的结构，重塑全新的现实。\",\"language\":\"Chinese\",\"poster_background\":\"soft white to pale gray-blue gradient\",\"main_object\":\"Meta Quest 3 headset shown as a vertically exploded assembly render\",\"component_count\":9,\"callout_count\":8,\"components\":[\"front shell\",\"sensor strip\",\"mainboard with Snapdragon XR2 Gen 2 chip\",\"dual pancake lenses\",\"adjustable IPD mechanism\",\"high-performance battery\",\"head strap arms\",\"facial interface\",\"lower face cushion\"],\"callout_labels\":[\"前面板\",\"追踪摄像头\",\"Pancake 透镜\",\"高性能电池\",\"柔软面部接口\",\"精密设计的头带\",\"可调节 IPD 机构\",\"Snapdragon XR2 Gen 2\"],\"annotations\":\"bold Chinese callouts with black leader lines placed on both sides of the exploded render\",\"footer\":\"light gray information strip with dense small text and Meta logo at bottom right\"},\"bottom_text_box\":{\"shape\":\"rounded rectangle\",\"header_badge\":\"yellow pill-shaped label attached to top-left edge\",\"body_text\":\"{argument name=\\\"prompt text\\\" default=\\\"产品爆炸图海报，VR头显，简洁的高科技3D渲染图，摄影棚灯光，闪亮的点缀，背景颜色默认为柔和的紫色和蓝色渐变，中间展示的是 VR 头显的垂直堆叠式爆炸图，显示了9个不同的内部组件：外壳、摄像头传感器、带芯片的主板、扁平镜头、内部框架、电池组、侧臂、顶带和面罩垫。\\\"}\",\"text_color\":\"white\",\"font\":\"bold sans-serif Chinese text\"},\"visual_details\":{\"rendering\":\"ultra-clean 3D product visualization, glossy white plastic, dark glass sensors, metallic internals, subtle purple-blue reflections\",\"lighting\":\"studio lighting with polished highlights and soft shadows\",\"mood\":\"professional, competitive, modern AI tool comparison graphic\"}}",
+  "translatedPrompt": "{\"type\":\"comparison poster\",\"style\":\"科技产品对决信息图，简洁的宣传布局，深色背景配有淡蓝色网格线，高对比度社交媒体图形\",\"canvas\":{\"aspect_ratio\":\"4:5\",\"background\":\"黑色，带有细微的方形网格\"},\"layout\":{\"sections\":[{\"title\":\"GPT image 2\",\"position\":\"左侧海报上方的左上角\",\"count\":1,\"labels\":[\"GPT image 2\"]},{\"title\":\"Nano Banana\",\"position\":\"右侧海报上方的右上角\",\"count\":1,\"labels\":[\"Nano Banana\"]},{\"title\":\"提示词\",\"position\":\"底部标注标题\",\"count\":1,\"labels\":[\"提示词\"]}],\"panels\":2,\"panel_arrangement\":\"两张高大的垂直海报并排，间距均匀，水平居中\",\"bottom_callout\":\"横跨大部分宽度的带白色边框的大型圆角黑色文本框\"},\"left_panel\":{\"type\":\"VR 头显爆炸图海报\",\"branding\":\"Meta Quest 3\",\"headline\":\"まったく新しい現実を、まったく新しい構造から。\",\"language\":\"日语\",\"poster_background\":\"柔和的白色至淡紫色渐变\",\"main_object\":\"Meta Quest 3 头显的垂直爆炸式组装渲染图\",\"component_count\":9,\"number_labels\":[\"01\",\"02\",\"03\",\"04\",\"05\",\"06\",\"07\",\"08\",\"09\"],\"components\":[\"前壳和面板\",\"传感器/摄像头组件\",\"带有发光蓝色核心的主板和芯片组层\",\"双 Pancake 透镜模块\",\"内部下壳\",\"电池模块\",\"侧带臂\",\"顶带和头带框架\",\"面部衬垫\"],\"annotations\":\"组件周围带有细引导线的日语技术标注\",\"footer\":\"底部带有密集小字和 Meta 标志的浅灰色信息条\"},\"right_panel\":{\"type\":\"VR 头显爆炸图海报\",\"branding\":\"Meta Quest 3\",\"headline\":\"以全新的结构，重塑全新的现实。\",\"language\":\"中文\",\"poster_background\":\"柔和的白色至淡灰蓝色渐变\",\"main_object\":\"Meta Quest 3 头显的垂直爆炸式组装渲染图\",\"component_count\":9,\"callout_count\":8,\"components\":[\"前面板\",\"传感器条\",\"带有 Snapdragon XR2 Gen 2 芯片的主板\",\"双 Pancake 透镜\",\"可调节 IPD 机构\",\"高性能电池\",\"头带臂\",\"面部接口\",\"下部面部衬垫\"],\"callout_labels\":[\"前面板\",\"追踪摄像头\",\"Pancake 透镜\",\"高性能电池\",\"柔软面部接口\",\"精密设计的头带\",\"可调节 IPD 机构\",\"Snapdragon XR2 Gen 2\"],\"annotations\":\"爆炸渲染图两侧带有黑色引导线的加粗中文标注\",\"footer\":\"底部带有密集小字和 Meta 标志的浅灰色信息条\"},\"bottom_text_box\":{\"shape\":\"圆角矩形\",\"header_badge\":\"左上边缘的黄色胶囊状标签\",\"body_text\":\"{argument name=\\\"prompt text\\\" default=\\\"产品爆炸图海报，VR 头显，简洁的高科技 3D 渲染图，摄影棚灯光，闪亮的点缀，背景颜色默认为柔和的紫色和蓝色渐变，中间展示的是 VR 头显的垂直堆叠式爆炸图，显示了 9 个不同的内部组件：外壳、摄像头传感器、带芯片的主板、扁平镜头、内部框架、电池组、侧臂、顶带和面罩垫。\\\"}\",\"text_color\":\"白色\",\"font\":\"加粗无衬线中文字体\"},\"visual_details\":{\"rendering\":\"超简洁 3D 产品可视化，光面白色塑料，深色玻璃传感器，金属内部结构，细微的紫蓝色反射\",\"lighting\":\"带有抛光高光和柔和阴影的摄影棚灯光\",\"mood\":\"专业、竞争性、现代 AI 工具对比图\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "AI VR 海报对比：此工具可生成社交媒体风格的对比图，通过 Meta Quest 3 爆炸图海报和提示词标注面板，对两款 AI 图像模型进行并排展示。",
+      "subject": "产品",
+      "scene": "信息图/图解",
+      "composition": [
+        "centered",
+        "grid",
+        "annotations",
+        "callout",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "3d",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting",
+        "lens",
+        "camera"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, grid, annotations, callout, vertical, horizontal]。\n\nVisual style:\n[参考风格: 3d, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting, lens, camera]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14866",
+      "15662",
+      "14464",
+      "15421",
+      "15768",
+      "13656"
+    ]
+  }
+}

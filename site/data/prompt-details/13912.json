@@ -1,0 +1,41 @@
+{
+  "id": "13912",
+  "prompt": "An anime illustration of two characters at a desk in a {argument name=\"setting\" default=\"cozy study overlooking the ocean at sunset\"}. In the foreground, a young man in a dark knit sweater sits with his back to the viewer. Facing him is a young woman with {argument name=\"female character hair\" default=\"long blonde hair\"} and {argument name=\"female character eyes\" default=\"striking, glowing blue eyes\"}, wearing an elegant navy and white Victorian dress with a sapphire brooch. Floating between them are exactly 4 glowing holographic spheres connected by faint lines, showing {argument name=\"hologram theme\" default=\"cosmic and futuristic scenes\"}: a swirling galaxy, a golden energy tree, a futuristic control room, and a planet with an energy burst. The desk holds open astronomical journals, a starry mug with steam, a glowing brass lamp, a pocket watch, and a pen. Warm sunset lighting contrasts with the magical blue and gold holograms.",
+  "translatedPrompt": "一张动漫插画，描绘了两名角色坐在 {argument name=\"setting\" default=\"俯瞰大海的温馨书房，时值日落\"} 的书桌前。前景中，一名穿着深色针织毛衣的年轻男子背对观众坐着。面对他的是一名年轻女子，她有着 {argument name=\"female character hair\" default=\"金色长发\"} 和 {argument name=\"female character eyes\" default=\"引人注目的发光蓝眼睛\"}，身穿优雅的藏青色与白色维多利亚风格连衣裙，佩戴着蓝宝石胸针。在他们之间漂浮着 4 个发光的、由细线连接的全息球体，展示着 {argument name=\"hologram theme\" default=\"宇宙与未来主义场景\"}：旋转的星系、金色的能量树、未来的控制室以及一颗带有能量爆发的行星。书桌上放着打开的天文日志、一个冒着热气的星空马克杯、一盏发光的黄铜台灯、一块怀表和一支钢笔。温暖的日落光线与神奇的蓝色和金色全息图形成了鲜明对比。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "拥有宇宙全息图的动漫学者：生成一个动漫风格场景，描绘两名角色在温馨的日落房间里研究神奇的漂浮全息球体。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13467",
+      "13613",
+      "13679",
+      "13770",
+      "13801",
+      "13947"
+    ]
+  }
+}

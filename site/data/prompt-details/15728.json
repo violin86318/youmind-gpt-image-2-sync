@@ -1,0 +1,48 @@
+{
+  "id": "15728",
+  "prompt": "Create a dramatic Japanese YouTube thumbnail in a futuristic neon cyberpunk style, 16:9 landscape. Use a dark tech-city background with faint skyscrapers, digital grid lines, glowing particles, and high-contrast blue, pink, and gold lighting. In the exact center, place a young woman from the waist up with long straight pastel blue hair, wearing a plain white short-sleeve T-shirt and a light pink skirt, posing thoughtfully with one hand near her chin and the other arm folded; anonymize her face with a soft rectangular blur. Across the very top, add huge distressed bold white Japanese headline text reading 主導権が揺れた, and directly below it add large bold yellow text reading {argument name=\"subheadline text\" default=\"Nano Bananaから\"}. On the left side, create a glowing blue hexagonal-framed panel titled Nano Banana with a smaller subtitle 画像生成. Inside that panel, include exactly 4 image tiles in a 2x2 grid: 1) a fantasy floating island landscape at sunset, 2) a sunlit forest path with tall trees, 3) a neon futuristic city street at night, 4) an outer-space planet scene with stars and a spacecraft. Beneath the left panel, add a blue glowing ribbon label reading かつては優位だった. On the right side, create a glowing magenta hexagonal-framed panel titled {argument name=\"right panel title\" default=\"GPT Image 2\"} with a smaller subtitle 実務で使える出力へ. Inside it, include exactly 4 example thumbnail cards in a 2x2 grid, each featuring the same blue-haired woman with a blurred face and bold Japanese text. The 4 card labels above the tiles are: サムネイル画像, 記事のアイキャッチ画像, LPのセクション画像, SNS投稿画像. The large text inside the 4 cards should read respectively: 1) AIで変わるクリエイティブの未来, 2) AI時代のクリエイティブ戦略 成功する企業の条件, 3) AIで加速するビジネス成長, 4) 未来をつくるのは AI×あなたのアイデア. Between the left and right panels, place a bright glowing gold arrow pointing from left to right with spark-like particle trails, indicating transition or superiority shift. Along the bottom, add a very large black banner with a glowing gold border and massive bold gold text reading {argument name=\"bottom banner text\" default=\"GPT Image 2へ\"}. Overall composition should feel like a comparison graphic showing a shift from older image generation to more practical commercial output, with aggressive thumbnail typography, strong glow effects, metallic texture on major text, and polished social-media marketing visuals.",
+  "translatedPrompt": "创作一张充满未来感、霓虹赛博朋克风格的日式 YouTube 缩略图，比例为 16:9。背景使用暗色调科技城市，包含模糊的摩天大楼、数字网格线、发光粒子，以及高对比度的蓝、粉、金三色灯光。画面正中央放置一位半身女性，留着长直的淡蓝色头发，身穿纯白色短袖 T 恤和浅粉色裙子，单手托腮，另一只手臂交叉，姿态沉思；将其面部进行柔和的矩形模糊处理。在顶部添加巨大的做旧粗体白色日文标题“主導権が揺れた”，并在其正下方添加醒目的黄色粗体文字“{argument name=\"subheadline text\" default=\"Nano Bananaから\"}”。在左侧，创建一个发光的蓝色六边形面板，标题为 Nano Banana，下方小标题为“画像生成”。面板内包含 4 个 2x2 排列的图像块：1) 日落时分的奇幻浮岛景观，2) 阳光明媚的森林小径，3) 夜晚霓虹闪烁的未来城市街道，4) 带有恒星和航天器的外太空行星场景。在左侧面板下方，添加一个发光的蓝色丝带标签，文字为“かつては優位だった”。在右侧，创建一个发光的洋红色六边形面板，标题为“{argument name=\"right panel title\" default=\"GPT Image 2\"}”，下方小标题为“実務で使える出力へ”。面板内包含 4 个 2x2 排列的示例缩略图卡片，每张卡片均展示同一位蓝发女性（面部模糊）及醒目的日文文字。4 个卡片上方的标签分别为：サムネイル画像、記事のアイキャッチ画像、LPのセクション画像、SNS投稿画像。卡片内的大字内容分别为：1) AIで変わるクリエイティブの未来，2) AI時代のクリエイティブ戦略 成功する企業の条件，3) AIで加速するビジネス成長，4) 未来をつくるのは AI×あなたのアイデア。在左右面板之间，放置一个明亮的金色发光箭头，从左向右指向，并带有火花般的粒子轨迹，象征过渡或优势的转移。在底部添加一个巨大的黑色横幅，带有金色发光边框，并写有醒目的金色粗体文字“{argument name=\"bottom banner text\" default=\"GPT Image 2へ\"}”。整体构图应呈现出一种对比感，展示从旧式图像生成向更具商业实用性输出的转变，并结合极具冲击力的缩略图排版、强烈的发光效果、主要文字的金属质感以及精致的社交媒体营销视觉风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Neon AI 缩略图对比：一张大胆的赛博朋克风格对比缩略图，展示了从 Nano Banana 图像生成到 GPT Image 2 的转变，并附带实用的营销输出示例，非常适合 YouTube 或社交媒体推广。",
+      "subject": "空间",
+      "scene": "综合视觉",
+      "composition": [
+        "grid",
+        "2x2"
+      ],
+      "style": [
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "风格对比、产品系列、前后对照、角色变体",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 综合视觉 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, 2x2]。\n\nVisual style:\n[参考风格: fantasy]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14556",
+      "14920",
+      "14983",
+      "14011",
+      "14192",
+      "15608"
+    ]
+  }
+}

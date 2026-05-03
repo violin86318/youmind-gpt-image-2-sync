@@ -1,0 +1,40 @@
+{
+  "id": "14023",
+  "prompt": "A bright, summery commercial product photography shot featuring a refreshing beverage on a weathered wooden table. In the sharp foreground, there is 1 tall glass filled with a golden, bubbly iced drink garnished with 1 lemon slice and a sprig of rosemary, sitting next to 1 silver aluminum can covered in cold condensation. The can prominently displays the English text {argument name=\"product name\" default=\"TOKYO HIGHBALL\"} below a small gold star logo, featuring a graphic of the drink itself and the Japanese text \"アルコール分 7%\" near the bottom. To the right of the can, 2 cut lemon wedges rest on the table. In the softly blurred background, a sunny beach scene unfolds with sparkling turquoise water and a clear blue sky. Standing to the left in the background is 1 young woman with long brown hair, wearing a white sleeveless top and a light blue skirt, looking out toward the ocean. Floating elegantly in the sky above the scene is the Japanese text {argument name=\"catchphrase\" default=\"夏、これがいい。\"}. The overall lighting is radiant and inviting, with sparkling bokeh and lens flares emphasizing the crisp, cold, and refreshing atmosphere of a perfect summer day.",
+  "translatedPrompt": "一张明亮、充满夏日气息的商业产品摄影照片，展示了放置在风化木桌上的清爽饮品。在清晰的前景中，放着 1 只高脚杯，杯中盛满金黄色、带有气泡的冰镇饮料，装饰有 1 片柠檬和一枝迷迭香；旁边是 1 只覆盖着冷凝水的银色铝罐。罐身在金色小星星标志下方醒目地展示了英文文本 {argument name=\"product name\" default=\"TOKYO HIGHBALL\"}，并配有饮品本身的图案，底部附近印有日文“アルコール分 7%”。罐子右侧，桌上放着 2 片切好的柠檬角。在柔和虚化的背景中，展现了阳光明媚的海滩场景，碧蓝的海水波光粼粼，天空晴朗。背景左侧站着 1 位留着棕色长发的年轻女性，身穿白色无袖上衣和浅蓝色裙子，正望向大海。场景上方天空中优雅地漂浮着日文文本 {argument name=\"catchphrase\" default=\"夏、これがいい。\"}。整体光线明亮诱人，闪烁的焦外成像和镜头光晕突显了完美夏日清爽、冰凉的氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "夏季海滩饮品商业摄影：生成一张清爽的罐装饮料与玻璃杯海滩产品摄影场景，支持自定义产品文字及天空标语。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "lens"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: lens]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15739",
+      "13524",
+      "14188",
+      "14203",
+      "15096",
+      "15307"
+    ]
+  }
+}

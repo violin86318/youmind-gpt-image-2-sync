@@ -1,0 +1,48 @@
+{
+  "id": "14687",
+  "prompt": "Using the provided reference image of the udon meal, turn it into a clean, print-ready Japanese restaurant promotional poster while keeping the food photo itself as the main hero image. Expand the composition vertically into a portrait flyer layout, add a light icy-blue seasonal background with subtle watercolor texture and faint wave motifs, and overlay decorative green maple leaves for an early-summer feel. Add 5 text elements in Japanese: a blue circular badge at the upper left reading \"初夏のおすすめ\", a large bold brush-calligraphy headline across the top in 2 lines reading \"とり天\" and \"ざるうどん\", a small red vertical seal near the headline reading \"自慢のとり天\", a tall translucent blue vertical copy block at the upper right reading \"ひんやり、つるり。さっぱり、満たされる。\", and a price block at the lower right reading \"980円 税込\" with a blue brushstroke banner below that says \"大盛り無料！\". Add a short 4-line Japanese body copy paragraph at the lower left describing the dish in a menu-poster style. Preserve the original meal arrangement and realistic photography, but enhance it slightly for advertising: brighter, more appetizing, crisp, and high contrast. Make the overall design look like a polished restaurant poster created from a casual food photo.",
+  "translatedPrompt": "使用提供的乌冬面参考图片，将其转化为一张简洁、可印刷的日式餐厅宣传海报，并保留美食照片本身作为核心主体。将构图垂直扩展为纵向传单布局，添加带有微妙水彩质感和淡雅波浪纹样的浅冰蓝色季节性背景，并叠加装饰性的绿色枫叶，营造出初夏的氛围。添加 5 处日文文本元素：左上角一个写有“初夏のおすすめ”的蓝色圆形徽章；顶部两行醒目的大号毛笔书法标题，分别为“とり天”和“ざるうどん”；标题附近一个写有“自慢のとり天”的小型红色垂直印章；右上角一个半透明的蓝色垂直文案块，写有“ひんやり、つるり。さっぱり、満たされる。”；右下角一个写有“980円 税込”的价格块，下方配有写着“大盛り無料！”的蓝色笔触横幅。在左下角添加一段简短的 4 行日文正文，以菜单海报风格描述这道菜品。保留原始的餐点摆盘和写实摄影效果，但针对广告需求进行适当优化：使其更明亮、更诱人、更清晰且具有高对比度。使整体设计看起来像是由一张随手拍摄的美食照片制作而成的精美餐厅海报。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "将美食照片转化为日式海报：此提示词可将参考的美食照片转化为精美的日式餐厅宣传海报，适用于菜单推广和社交媒体美食营销。",
+      "subject": "食物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "watercolor"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, watercolor]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15102",
+      "15022",
+      "15663",
+      "14652",
+      "13881",
+      "14416"
+    ]
+  }
+}

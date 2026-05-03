@@ -1,0 +1,45 @@
+{
+  "id": "13944",
+  "prompt": "{\n  \"type\": \"sci-fi anime character reference sheet\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"character name\\\" default=\\\"NOAH CHRONOS\\\"}\",\n    \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"Reality Reconstruction Executor / ETERNAL ORDER CORE NODE\\\"}\",\n    \"quote\": \"The world is not broken. It is being redesigned.\",\n    \"color_palette\": { \"count\": 5, \"colors\": [\"black\", \"dark grey\", \"navy\", \"grey-blue\", \"dark red\"] }\n  },\n  \"character_design\": {\n    \"appearance\": \"young male, messy black hair, glowing blue eyes\",\n    \"outfit\": \"{argument name=\\\"coat style\\\" default=\\\"black tactical trench coat with geometric polygonal textures\\\"}, high boots, belts, straps\",\n    \"action\": \"holding {argument name=\\\"energy type\\\" default=\\\"glowing blue lightning energy\\\"} in left hand\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"Main Turnarounds\",\n        \"position\": \"left and center\",\n        \"count\": 3,\n        \"labels\": [\"FRONT\", \"SIDE\", \"BACK\"],\n        \"description\": \"full body poses showing the character from different angles\"\n      },\n      {\n        \"title\": \"EMOTION OS STATES\",\n        \"position\": \"top right\",\n        \"count\": 5,\n        \"labels\": [\"NEUTRAL: / YSTEM READY\", \"COLD: ORDER MODE\", \"CORRUPTED: CHAOS INFECTED\", \"CHAOS INFECTED\", \"CALM: FULL SYNC\"],\n        \"description\": \"headshot portraits with varying expressions and eye colors\"\n      },\n      {\n        \"title\": \"Accessories\",\n        \"position\": \"bottom left\",\n        \"count\": 2,\n        \"labels\": [\"SYNC INTERFACE DEVICE = LINK TO EMOTION OS\", \"REALITY SHIFT PENDANT = DIMENSIONAL CONTROL KEY\"],\n        \"description\": \"detailed close-ups of a tactical glove and a glowing crystal pendant\"\n      },\n      {\n        \"title\": \"SYSTEM PARAMETERS\",\n        \"position\": \"bottom left\",\n        \"count\": 3,\n        \"labels\": [\"ORDER Control / Time\", \"NEUTRAL Undefined State\", \"CHAOS Corruption / Erosion\"],\n        \"description\": \"circular UI icons in blue, grey, and red\"\n      },\n      {\n        \"title\": \"REALITY OVERRIDE COAT / CHAOS NULIFICATION ARMOR\",\n        \"position\": \"bottom right\",\n        \"count\": 1,\n        \"labels\": [\"ANTI-CHAOS SHIELDING\", \"TACTICAL MODULES\"],\n        \"description\": \"headless display of the coat with pointing lines\"\n      }\n    ]\n  },\n  \"footer\": {\n    \"quote\": \"{argument name=\\\"footer quote\\\" default=\\\"REALITY CAN BE REWRITTEN.\\\"}\",\n    \"alignment\": \"ORDER [diamond] CHAOS\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"科幻动漫角色参考图\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"character name\\\" default=\\\"NOAH CHRONOS\\\"}\",\n    \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"现实重构执行者 / 永恒秩序核心节点\\\"}\",\n    \"quote\": \"世界并未破碎，它正在被重新设计。\",\n    \"color_palette\": { \"count\": 5, \"colors\": [\"黑色\", \"深灰色\", \"海军蓝\", \"灰蓝色\", \"深红色\"] }\n  },\n  \"character_design\": {\n    \"appearance\": \"年轻男性，凌乱的黑发，发光的蓝色眼睛\",\n    \"outfit\": \"{argument name=\\\"coat style\\\" default=\\\"带有几何多边形纹理的黑色战术风衣\\\"}, 高筒靴，皮带，绑带\",\n    \"action\": \"左手握着 {argument name=\\\"energy type\\\" default=\\\"发光的蓝色闪电能量\\\"}\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"主要三视图\",\n        \"position\": \"左侧和中央\",\n        \"count\": 3,\n        \"labels\": [\"正面\", \"侧面\", \"背面\"],\n        \"description\": \"展示角色不同角度的全身姿势\"\n      },\n      {\n        \"title\": \"情感操作系统状态\",\n        \"position\": \"右上角\",\n        \"count\": 5,\n        \"labels\": [\"中立：系统就绪\", \"冷漠：秩序模式\", \"损坏：混沌感染\", \"混沌感染\", \"冷静：完全同步\"],\n        \"description\": \"带有不同表情和瞳色的头像特写\"\n      },\n      {\n        \"title\": \"配件\",\n        \"position\": \"左下角\",\n        \"count\": 2,\n        \"labels\": [\"同步接口设备 = 连接至情感操作系统\", \"现实位移吊坠 = 维度控制钥匙\"],\n        \"description\": \"战术手套和发光水晶吊坠的详细特写\"\n      },\n      {\n        \"title\": \"系统参数\",\n        \"position\": \"左下角\",\n        \"count\": 3,\n        \"labels\": [\"秩序控制 / 时间\", \"中立 未定义状态\", \"混沌 腐蚀 / 侵蚀\"],\n        \"description\": \"蓝色、灰色和红色的圆形 UI 图标\"\n      },\n      {\n        \"title\": \"现实覆盖风衣 / 混沌无效化装甲\",\n        \"position\": \"右下角\",\n        \"count\": 1,\n        \"labels\": [\"反混沌屏蔽\", \"战术模块\"],\n        \"description\": \"带有指示线的风衣无头展示图\"\n      }\n    ]\n  },\n  \"footer\": {\n    \"quote\": \"{argument name=\\\"footer quote\\\" default=\\\"现实可以被重写。\\\"}\",\n    \"alignment\": \"秩序 [菱形] 混沌\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "科幻战术角色参考图：生成高度详细的多面板角色设计图，包含三视图、表情变体和道具特写。",
+      "subject": "界面",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up"
+      ],
+      "style": [
+        "anime",
+        "sci-fi"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up]。\n\nVisual style:\n[参考风格: anime, sci-fi]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13691",
+      "15797",
+      "15796",
+      "14886",
+      "15034",
+      "15250"
+    ]
+  }
+}

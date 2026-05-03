@@ -1,0 +1,50 @@
+{
+  "id": "15309",
+  "prompt": "A cinematic urban night street scene in heavy rain, viewed from a low street-level angle. In the foreground, 1 solitary pedestrian appears as a nearly black silhouette crossing left to right, mid-stride, holding 1 open umbrella overhead and wearing a dark coat with a backpack. The person’s face is obscured by shadow and backlighting. In the midground on the right, 1 city bus approaches with bright warm headlights and an amber LED route display, slightly blurred by rain and motion. On the far left, 1 pedestrian crossing signal glows red with a raised hand icon. The street is soaked with large reflective puddles, creating intense mirrored streaks of red, blue, orange, and white neon and traffic lights across the asphalt. Tall buildings line both sides of the street as a dense downtown corridor, with scattered illuminated signs and windows fading into a deep blue-black rainy atmosphere. Emphasize glossy wet pavement, sparkling raindrops, bokeh light scatter, strong contrast, dramatic backlighting, moody noir mood, realistic photography, shallow depth of field, and vibrant over-saturated reflections. Use a widescreen composition, with the silhouetted walker centered-left and the bus positioned mid-right.",
+  "translatedPrompt": "从低角度拍摄的电影级城市雨夜街景。前景中，1 位孤独的行人呈现为近乎黑色的剪影，正从左向右迈步穿过街道，头顶撑着 1 把雨伞，身穿深色外套并背着背包。行人的面部被阴影和逆光遮挡。中景右侧，1 辆城市公交车正迎面驶来，明亮的暖色车灯和琥珀色的 LED 线路显示屏在雨水和运动模糊中若隐若现。最左侧，1 个红色的行人过街信号灯亮起，显示着举手图标。街道被雨水浸透，形成大片积水，将红、蓝、橙、白色的霓虹灯和交通灯光在沥青路面上拉出强烈的倒影。街道两侧高楼林立，构成密集的市中心走廊，零星的灯箱和窗户光芒融入深蓝黑色的雨夜氛围中。强调光亮的湿润路面、闪烁的雨滴、散景光斑、强烈的对比度、戏剧性的逆光、忧郁的黑色电影氛围、写实摄影风格、浅景深以及鲜艳且饱和的倒影。采用宽银幕构图，剪影行人位于中左侧，公交车位于中右侧。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "雨夜城市穿行：一张极具电影质感的城市街头摄影作品，描绘了一位撑伞的行人穿过霓虹闪烁的雨夜街道，非常适合营造都市氛围和黑色电影风格的视觉效果。",
+      "subject": "界面",
+      "scene": "信息图/图解",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "backlight",
+        "neon",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "城市美食地图、活动导览、园区地图、旅行视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: backlight, neon, shallow depth, depth of field]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14663",
+      "13964",
+      "15376",
+      "14086",
+      "14400",
+      "14401"
+    ]
+  }
+}

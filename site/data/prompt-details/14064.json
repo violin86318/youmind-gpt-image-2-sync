@@ -1,0 +1,41 @@
+{
+  "id": "14064",
+  "prompt": "{\n  \"type\": \"video game HUD overlay\",\n  \"background\": \"{argument name=\\\"background color\\\" default=\\\"solid chroma key green\\\"}\",\n  \"theme\": \"{argument name=\\\"UI theme\\\" default=\\\"dark fantasy gothic\\\"}\",\n  \"layout\": {\n    \"top_center\": {\n      \"component\": \"boss health bar\",\n      \"design\": \"ornate black metal frame with bat wings on the edges and a glowing pink eye in the top center\",\n      \"bar_color\": \"{argument name=\\\"boss health bar color\\\" default=\\\"red\\\"}\",\n      \"label\": \"{argument name=\\\"boss name\\\" default=\\\"Mother of the Second Moon\\\"}\"\n    },\n    \"bottom_left\": {\n      \"component\": \"player status HUD\",\n      \"design\": \"intricate dark metal frame\",\n      \"elements\": [\n        \"diamond-shaped D-pad indicator\",\n        \"glowing yellow potion flask with the number '3'\",\n        \"number '15' in a small top frame\",\n        \"long {argument name=\\\"player health bar color\\\" default=\\\"green\\\"} health bar extending to the right\",\n        \"shorter yellow bar underneath the green bar\",\n        \"row of 5 square quick-select inventory slots (slot 1: red circle with '3', slot 2: blue icon, slot 3: yellow icon, slot 4: empty, slot 5: white diagonal line)\"\n      ]\n    },\n    \"bottom_right\": {\n      \"component\": \"score or currency indicator\",\n      \"design\": \"small black decorative plaque with the number '600'\"\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"电子游戏 HUD 叠加层\",\n  \"background\": \"{argument name=\\\"background color\\\" default=\\\"纯色色度键绿\\\"}\",\n  \"theme\": \"{argument name=\\\"UI theme\\\" default=\\\"暗黑奇幻哥特风\\\"}\",\n  \"layout\": {\n    \"top_center\": {\n      \"component\": \"Boss 血条\",\n      \"design\": \"华丽的黑色金属边框，边缘带有蝙蝠翅膀，顶部中心有一个发光的粉色眼睛\",\n      \"bar_color\": \"{argument name=\\\"boss health bar color\\\" default=\\\"红色\\\"}\",\n      \"label\": \"{argument name=\\\"boss name\\\" default=\\\"第二月之母\\\"}\"\n    },\n    \"bottom_left\": {\n      \"component\": \"玩家状态 HUD\",\n      \"design\": \"复杂的暗色金属边框\",\n      \"elements\": [\n        \"菱形 D-pad 方向键指示器\",\n        \"带有数字 '3' 的发光黄色药水瓶\",\n        \"顶部小边框内的数字 '15'\",\n        \"向右延伸的长条状 {argument name=\\\"player health bar color\\\" default=\\\"绿色\\\"} 血条\",\n        \"绿色血条下方较短的黄色条\",\n        \"5 个方形快速选择物品栏（第 1 格：带 '3' 的红色圆圈；第 2 格：蓝色图标；第 3 格：黄色图标；第 4 格：空；第 5 格：白色对角线）\"\n      ]\n    },\n    \"bottom_right\": {\n      \"component\": \"分数或货币指示器\",\n      \"design\": \"带有数字 '600' 的小型黑色装饰牌\"\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "绿幕上的暗黑奇幻游戏 HUD：在绿幕上生成暗黑奇幻风格的电子游戏用户界面叠加层，包含 Boss 血条和玩家状态 HUD。",
+      "subject": "文字符号",
+      "scene": "信息图/图解",
+      "composition": [],
+      "style": [
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "硬件拆解、产品卖点、技术说明、科普图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13460",
+      "15110",
+      "14000",
+      "15000",
+      "14147",
+      "14657"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "13784",
+  "prompt": "A traditional Chinese ink wash landscape painting featuring a giant mecha integrated into the misty mountains. The mecha, resembling {argument name=\"mecha type\" default=\"Evangelion Unit-01\"}, features a purple and green color scheme with a prominent horn and the number \"01\" on its shoulder. Its massive form dissolves into expressive, dripping black ink washes, seamlessly blending into the rocky mountain formations. The surrounding landscape includes steep, jagged peaks painted with teal and green washes, cascading waterfalls, ancient pine trees, and small traditional pavilions perched on the cliffs. A flock of birds flies through the dense fog filling the valleys. In the top left corner, vertical traditional Chinese calligraphy reads {argument name=\"main text\" default=\"初號機\"} followed by {argument name=\"sub text\" default=\"人之造物 亦為山水\"}, accompanied by a red artist seal stamp. Another red seal is stamped in the bottom right corner. The entire artwork is rendered on textured, aged rice paper, utilizing dynamic brushstrokes and atmospheric perspective typical of classical Shan shui art.",
+  "translatedPrompt": "一幅 {argument name=\"art style\" default=\"中国传统水墨画\"}，描绘了巨大的 {argument name=\"mecha subject\" default=\"初号机\"} 融入云雾缭绕的山水景观中。机甲的紫色与 {argument name=\"accent color\" default=\"玉绿色\"} 机身与嶙峋的岩石和深色的墨迹融为一体，其带角的头部从浓雾中显现。场景包含陡峭的悬崖、瀑布、松树、小型传统宝塔，以及一群飞鸟穿过中央的薄雾。左上角的竖排中文书法写着“{argument name=\"main calligraphy text\" default=\"初号机\"}”和“{argument name=\"secondary calligraphy text\" default=\"人之造物 亦为山水\"}”，并配有红色印章。右下角有第二个红色印章。整幅作品呈现出富有表现力的笔触、墨迹晕染以及复古纸张的质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "水墨机甲山水：生成一幅将巨型机甲融入云雾缭绕的山水景观中，并带有书法元素的水墨画。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "ink wash"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: ink wash]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14458",
+      "14459",
+      "14126",
+      "15112",
+      "13749",
+      "14437"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "13893",
+  "prompt": "{\n  \"type\": \"2x2 grid of mobile live streaming app interfaces\",\n  \"theme\": \"{argument name=\\\"stream theme\\\" default=\\\"e-commerce and entertainment live streaming\\\"}\",\n  \"layout\": {\n    \"grid\": \"2x2\",\n    \"panels\": [\n      {\n        \"position\": \"top-left\",\n        \"app_name\": \"{argument name=\\\"app 1 name\\\" default=\\\"抖音\\\"}\",\n        \"host\": \"young woman in purple shirt holding a white skincare bottle\",\n        \"ui_elements\": [\n          \"app logo\",\n          \"host profile with follow button\",\n          \"viewer count '10万+'\",\n          \"2 countdown timers\",\n          \"4 scrolling comments\",\n          \"product popup card with price '¥189'\"\n        ]\n      },\n      {\n        \"position\": \"top-right\",\n        \"app_name\": \"{argument name=\\\"app 2 name\\\" default=\\\"小红书\\\"}\",\n        \"host\": \"young woman in red sweater holding a brown teddy bear\",\n        \"ui_elements\": [\n          \"app logo\",\n          \"host profile with follow button\",\n          \"viewer count '14.2万'\",\n          \"3 scrolling comments\",\n          \"square product link card with price '¥169'\"\n        ]\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"app_name\": \"{argument name=\\\"app 3 name\\\" default=\\\"视频号\\\"}\",\n        \"host\": \"young woman in white shirt standing in a kitchen with a blender and pot\",\n        \"ui_elements\": [\n          \"app logo\",\n          \"host profile\",\n          \"viewer count '10万人看过'\",\n          \"4 scrolling comments\",\n          \"wide product popup card with buy button and price '¥239'\"\n        ]\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"app_name\": \"{argument name=\\\"app 4 name\\\" default=\\\"快手\\\"}\",\n        \"host\": \"young woman in white sleeveless dress holding a microphone and singing\",\n        \"ui_elements\": [\n          \"app logo\",\n          \"host profile with follow button\",\n          \"viewer count '10万+'\",\n          \"5 scrolling comments\",\n          \"2 floating gift animations\",\n          \"floating interactive widget\"\n        ]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"2x2 网格的移动端直播 App 界面\",\n  \"theme\": \"{argument name=\\\"stream theme\\\" default=\\\"电商与娱乐直播\\\"}\",\n  \"layout\": {\n    \"grid\": \"2x2\",\n    \"panels\": [\n      {\n        \"position\": \"左上\",\n        \"app_name\": \"{argument name=\\\"app 1 name\\\" default=\\\"抖音\\\"}\",\n        \"host\": \"身穿紫色衬衫的年轻女性，手持白色护肤品瓶\",\n        \"ui_elements\": [\n          \"App Logo\",\n          \"带关注按钮的主播个人资料\",\n          \"观看人数 '10万+'\",\n          \"2 个倒计时器\",\n          \"4 条滚动评论\",\n          \"带价格 '¥189' 的商品弹窗卡片\"\n        ]\n      },\n      {\n        \"position\": \"右上\",\n        \"app_name\": \"{argument name=\\\"app 2 name\\\" default=\\\"小红书\\\"}\",\n        \"host\": \"身穿红色毛衣的年轻女性，手持棕色泰迪熊\",\n        \"ui_elements\": [\n          \"App Logo\",\n          \"带关注按钮的主播个人资料\",\n          \"观看人数 '14.2万'\",\n          \"3 条滚动评论\",\n          \"带价格 '¥169' 的方形商品链接卡片\"\n        ]\n      },\n      {\n        \"position\": \"左下\",\n        \"app_name\": \"{argument name=\\\"app 3 name\\\" default=\\\"视频号\\\"}\",\n        \"host\": \"身穿白色衬衫的年轻女性，站在摆放有搅拌机和锅具的厨房中\",\n        \"ui_elements\": [\n          \"App Logo\",\n          \"主播个人资料\",\n          \"观看人数 '10万人看过'\",\n          \"4 条滚动评论\",\n          \"带购买按钮和价格 '¥239' 的宽幅商品弹窗卡片\"\n        ]\n      },\n      {\n        \"position\": \"右下\",\n        \"app_name\": \"{argument name=\\\"app 4 name\\\" default=\\\"快手\\\"}\",\n        \"host\": \"身穿白色无袖连衣裙的年轻女性，手持麦克风正在唱歌\",\n        \"ui_elements\": [\n          \"App Logo\",\n          \"带关注按钮的主播个人资料\",\n          \"观看人数 '10万+'\",\n          \"5 条滚动评论\",\n          \"2 个悬浮礼物动画\",\n          \"悬浮互动组件\"\n        ]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "4 宫格直播 App UI 界面模型：生成 2x2 网格的移动端直播界面，展示不同的主播、App 及电商 UI 叠加层。",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [
+        "grid",
+        "2x2"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, 2x2]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14037",
+      "13696",
+      "13803",
+      "14403",
+      "13637",
+      "13762"
+    ]
+  }
+}

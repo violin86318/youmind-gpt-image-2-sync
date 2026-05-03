@@ -1,0 +1,41 @@
+{
+  "id": "14731",
+  "prompt": "a photorealistic, taken by phone photo of a handwritten essay in pencil, {argument name=\"handwriting style\" default=\"albert einstien handwriting\"}, on an 8.5x11 piece of lined paper, about {argument name=\"topic\" default=\"the history of money in world\"}. make sure there is variance in the writing in a very einstien way. give it a {argument name=\"stain type\" default=\"slight coffee stain\"} on the top right corner",
+  "translatedPrompt": "一张用手机拍摄的铅笔手写论文的逼真照片，{argument name=\"handwriting style\" default=\"阿尔伯特·爱因斯坦笔迹\"}，写在 8.5x11 英寸的横线纸上，主题关于 {argument name=\"topic\" default=\"世界货币史\"}。请确保笔迹呈现出爱因斯坦特有的书写风格，并在右上角添加一个 {argument name=\"stain type\" default=\"轻微的咖啡渍\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "手写历史论文：生成一张在横线纸上手写论文的逼真照片，专门模仿名人的笔迹风格，并呈现铅笔笔触和咖啡渍等真实质感。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13739",
+      "13866",
+      "13451",
+      "13697",
+      "13698",
+      "13754"
+    ]
+  }
+}

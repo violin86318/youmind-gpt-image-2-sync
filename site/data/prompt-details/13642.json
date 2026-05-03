@@ -1,0 +1,41 @@
+{
+  "id": "13642",
+  "prompt": "A wide image shot on {argument name=\"camera\" default=\"iPhone\"} of a glass whiteboard, in a room overlooking {argument name=\"landmark\" default=\"the Bay Bridge\"}. The field of view shows {argument name=\"subject\" default=\"a woman writing\"}, sporting a tshirt with a large OpenAl logo. The handwriting looks natural and a bit messy, and we see the photographer's reflection.",
+  "translatedPrompt": "一张由 iPhone 拍摄的宽幅照片，画面主体为一块玻璃项目，背景是 {argument name=\"location\" default=\"一个可以俯瞰海湾大桥的房间\"}。视野中展示了 {argument name=\"subject action\" default=\"一名正在书写的女性\"}，她身穿一件印有醒目 {argument name=\"logo\" default=\"OpenAl\"} 标志的 T 恤。字迹看起来自然且略显凌乱，我们还可以看到摄影师的倒影。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "iPhone 风格办公室拍摄：一个用于生成逼真 iPhone 照片的提示词，画面内容为一名女性在项目上书写，并带有特定的窗外景色和倒影。",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "App Store 截图、产品概念、移动工具界面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13742",
+      "14718",
+      "13701",
+      "13583",
+      "13648",
+      "13658"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "14157",
+  "prompt": "{\n  \"type\": \"5-panel collage\",\n  \"layout\": \"grid with 3 top panels and 2 bottom panels\",\n  \"panels\": [\n    {\n      \"position\": \"top-left\",\n      \"subject\": \"analog clock\",\n      \"details\": \"teal background, time showing {argument name=\\\"clock time\\\" default=\\\"7:42\\\"}\",\n      \"style\": \"flat vector illustration\"\n    },\n    {\n      \"position\": \"top-middle\",\n      \"subject\": \"woman holding playing cards\",\n      \"details\": \"holding 5 cards: {argument name=\\\"card hand\\\" default=\\\"Ace of Spades, King of Hearts, Queen of Clubs, Jack of Diamonds, 10 of Spades\\\"}\",\n      \"style\": \"classic oil painting portrait\"\n    },\n    {\n      \"position\": \"top-right\",\n      \"subject\": \"glass of red liquid\",\n      \"details\": \"{argument name=\\\"glass type\\\" default=\\\"wine glass\\\"} filled to the brim with dark red liquid, marble surface\",\n      \"style\": \"photorealistic studio photography\"\n    },\n    {\n      \"position\": \"bottom-left\",\n      \"subject\": \"chessboard\",\n      \"details\": \"wooden board with 32 pieces in standard starting position\",\n      \"style\": \"photorealistic high-angle shot\"\n    },\n    {\n      \"position\": \"bottom-right\",\n      \"subject\": \"two dice\",\n      \"details\": \"left die shows {argument name=\\\"left die top\\\" default=\\\"5\\\"} on top, right die shows {argument name=\\\"right die top\\\" default=\\\"2\\\"} on top\",\n      \"style\": \"pop art comic book halftone with red and blue burst\"\n    }\n  ]\n}",
+  "translatedPrompt": "{\n  \"type\": \"5-panel collage\",\n  \"layout\": \"grid with 3 top panels and 2 bottom panels\",\n  \"panels\": [\n    {\n      \"position\": \"top-left\",\n      \"subject\": \"analog clock\",\n      \"details\": \"teal background, time showing {argument name=\\\"clock time\\\" default=\\\"7:42\\\"}\",\n      \"style\": \"flat vector illustration\"\n    },\n    {\n      \"position\": \"top-middle\",\n      \"subject\": \"woman holding playing cards\",\n      \"details\": \"holding 5 cards: {argument name=\\\"card hand\\\" default=\\\"Ace of Spades, King of Hearts, Queen of Clubs, Jack of Diamonds, 10 of Spades\\\"}\",\n      \"style\": \"classic oil painting portrait\"\n    },\n    {\n      \"position\": \"top-right\",\n      \"subject\": \"glass of red liquid\",\n      \"details\": \"{argument name=\\\"glass type\\\" default=\\\"wine glass\\\"} filled to the brim with dark red liquid, marble surface\",\n      \"style\": \"photorealistic studio photography\"\n    },\n    {\n      \"position\": \"bottom-left\",\n      \"subject\": \"chessboard\",\n      \"details\": \"wooden board with 32 pieces in standard starting position\",\n      \"style\": \"photorealistic high-angle shot\"\n    },\n    {\n      \"position\": \"bottom-right\",\n      \"subject\": \"two dice\",\n      \"details\": \"left die shows {argument name=\\\"left die top\\\" default=\\\"5\\\"} on top, right die shows {argument name=\\\"right die top\\\" default=\\\"2\\\"} on top\",\n      \"style\": \"pop art comic book halftone with red and blue burst\"\n    }\n  ]\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "5-Panel Mixed Style Collage：Generates a 5-panel grid featuring distinct subjects and art styles, useful for testing model versatility and composition.",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "grid"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "oil painting",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[参考风格: realistic, photorealistic, oil painting, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15317",
+      "15463",
+      "15606",
+      "14535",
+      "14515",
+      "13608"
+    ]
+  }
+}

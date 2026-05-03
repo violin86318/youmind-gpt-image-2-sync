@@ -1,0 +1,40 @@
+{
+  "id": "14897",
+  "prompt": "A moody storybook-style digital painting of a small sad child sitting curled up on a wooden stool beside a large rain-streaked window, indoors in a dim gray room. The child has {argument name=\"hair color\" default=\"dark brown\"} wild tangled messy hair, huge expressive eyes, pale skin with a few freckles, and a worried, lonely expression, hugging their knees tightly to their chest. They wear oversized {argument name=\"pajama pattern\" default=\"muted blue-gray pajamas with small orange patches or floral shapes\"} and soft worn slippers. Outside the window is a bleak rainy city street with 4 leaning old buildings visible, 4 wind-bent trees, a slick winding road, and dramatic swirling storm clouds, all painted in an exaggerated crooked perspective. The composition places the child on the left and the window view dominating the right, creating a feeling of isolation and melancholy. Use a painterly, hand-brushed, textured illustration style with visible rough brushstrokes, desaturated blue-gray tones, soft charcoal shadows, subtle highlights on the wet glass, and only faint warm accents in the child’s clothing. Evoke emotional children’s book art in the vein of dark whimsical gothic illustration, intimate, cinematic, rainy-day sadness, high detail, square composition.",
+  "translatedPrompt": "一幅充满情绪感的绘本风格数字绘画，描绘了一个瘦小的忧郁孩童，蜷缩在阴暗灰色房间里的一张木凳上，身旁是一扇布满雨痕的大窗户。孩童有着 {argument name=\"hair color\" default=\"深褐色\"} 凌乱蓬松的头发、一双巨大且富有表现力的眼睛、苍白的皮肤和几点雀斑，表情忧虑而孤独，双手紧紧抱着膝盖。他们穿着超大号的 {argument name=\"pajama pattern\" default=\"带有橙色小补丁或花朵图案的柔和蓝灰色睡衣\"} 和柔软破旧的拖鞋。窗外是凄凉的雨中城市街道，可见 4 栋倾斜的老建筑、4 棵被风吹弯的树、一条湿滑蜿蜒的道路，以及戏剧性翻滚的乌云，整体采用夸张的扭曲透视手法绘制。构图将孩童置于左侧，窗外景色占据右侧，营造出一种孤立与忧郁的氛围。采用具有手绘质感的绘画风格，保留明显的粗糙笔触，色调为低饱和度的蓝灰色，配以柔和的炭笔阴影，湿润玻璃上有细微的高光，孩童的衣物上仅有淡淡的暖色点缀。呈现出类似于暗黑奇幻风格的儿童绘本艺术感，私密、电影感、雨天的忧伤，高细节，方形构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "雨窗边的忧郁孩童：此提示词可生成一幅暗黑奇幻风格的绘本插画，描绘了一个在暴雨城市窗边独自一人的孤独孩童。非常适合用于情感类编辑艺术、书籍封面或氛围感概念设计。",
+      "subject": "空间",
+      "scene": "空间/场景",
+      "composition": [],
+      "style": [
+        "cinematic"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "空间概念、建筑场景、游戏场景、产品场景盒子",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 空间/场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14067",
+      "14256",
+      "14571",
+      "15440",
+      "15405",
+      "15518"
+    ]
+  }
+}

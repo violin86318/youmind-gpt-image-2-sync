@@ -1,0 +1,51 @@
+{
+  "id": "14403",
+  "prompt": "{\"type\":\"Japanese promotional 2x2 brochure collage for green-tech digital services\",\"style\":\"clean corporate advertising, modern eco-friendly branding, soft natural lighting, realistic photocomposite with minimal AI artifacts, white and green color palette, polished Japanese typography, square layout\",\"canvas\":{\"aspect_ratio\":\"1:1\",\"size\":\"1536x1536\"},\"layout\":{\"grid\":\"2x2\",\"count\":4,\"sections\":[{\"position\":\"top-left\",\"title\":\"みどりが、未来をつなぐ。\",\"subtitle\":\"デジタルの力で、都市に新しい緑を。\",\"scene\":\"a bright futuristic city boulevard lined with healthy green trees and landscaped medians, glass skyscrapers fading into light haze, semi-transparent dashboard overlays floating over the street with circular and bar-chart analytics such as 60, 76, 45, and 48\",\"features\":{\"count\":3,\"labels\":[\"緑地管理のDX\",\"データ分析・可視化\",\"スマートモニタリング\"]},\"brand_bar\":{\"product_name\":\"MIDORI DX\",\"tagline\":\"みどりメディカルで、持続可能な社会を。\",\"sublabel\":\"みどりDXソリューション\"}},{\"position\":\"top-right\",\"title\":\"見るだけで、自然がもっと面白くなる。\",\"subtitle\":\"ARで学ぶ、身近な緑の世界。\",\"scene\":\"close-up of a hand holding a smartphone in front of lush green foliage and a tree trunk, the phone screen showing an AR-style identified tree with a realistic isolated tree model\",\"screen_text\":{\"main_name\":\"クスノキ\",\"latin_name\":\"Cinnamomum camphora\",\"confidence\":\"85%\"},\"features\":{\"count\":3,\"labels\":[\"AR植物図鑑\",\"学習コンテンツ\",\"マップ・スポット案内\"]},\"brand_bar\":{\"product_name\":\"グリーンビュー\",\"english_name\":\"GREEN VIEW\",\"tagline\":\"自然とつながるデジタル体験を。\"}},{\"position\":\"bottom-left\",\"title\":\"データで変える、緑の未来。\",\"subtitle\":\"緑地管理をスマートに、効率的に。\",\"scene\":\"a laptop and smartphone mockup on a clean desk, both displaying green-themed analytics dashboards with maps, pie charts, line graphs, and management panels\",\"features\":{\"count\":4,\"labels\":[\"施設・樹木管理の一元化\",\"データ分析で最適な維持管理を\",\"異常検知・アラート通知\",\"クラウドでどこでも確認\"]},\"brand_bar\":{\"product_name\":\"GreenManager DX\",\"japanese_name\":\"グリーンマネージャーDX\",\"tagline\":\"緑地管理のDXで、街と自然をずっと美しく。\"}},{\"position\":\"bottom-right\",\"title\":\"緑の取り組みをデジタルでつなぐ。\",\"subtitle\":\"サステナブルな活動を、もっと多くの人へ。\",\"description\":\"情報発信から参加・共有までをサポートするコミュニケーションプラットフォーム\",\"scene\":\"flat illustrated park scene in soft greens and blues with small groups of people walking, talking, volunteering, and gathering among trees, paths, shrubs, and distant city buildings\",\"features\":{\"count\":4,\"labels\":[\"活動の情報発信\",\"イベント・ボランティア参加募集\",\"活動の記録・レポート共有\",\"成果の可視化・データ公開\"]},\"brand_bar\":{\"product_name\":\"みどりコネクト\",\"english_name\":\"MIDORI CONNECT\",\"tagline\":\"つながる、ひろがる、みどりの輪。\"}}]},\"design_notes\":{\"typography\":\"large bold Japanese sans-serif headlines, smaller clean sans-serif body text, green emphasis on key words\",\"iconography\":\"simple line icons inside rounded green circles or outlined tiles\",\"branding\":\"consistent leaf motifs and eco-tech visual language\",\"mood\":\"optimistic, innovative, sustainable, approachable corporate marketing\"}}",
+  "translatedPrompt": "{\"type\":\"用于绿色科技数字服务的日本 2x2 宣传册拼贴画\",\"style\":\"简洁的企业广告风格，现代环保品牌设计，柔和的自然光，逼真的照片合成，极少的 AI 伪影，白色与绿色调色板，精致的日文排版，方形布局\",\"canvas\":{\"aspect_ratio\":\"1:1\",\"size\":\"1536x1536\"},\"layout\":{\"grid\":\"2x2\",\"count\":4,\"sections\":[{\"position\":\"top-left\",\"title\":\"みどりが、未来をつなぐ。\",\"subtitle\":\"デジタルの力で、都市に新しい緑を。\",\"scene\":\"一条明亮的未来主义城市大道，两旁种满了健康的绿树和景观绿化带，玻璃摩天大楼隐没在淡淡的薄雾中，半透明的仪表盘叠加在街道上方，显示着 60、76、45 和 48 等圆形和条形图分析数据\",\"features\":{\"count\":3,\"labels\":[\"绿地管理的 DX\",\"数据分析与可视化\",\"智能监控\"]},\"brand_bar\":{\"product_name\":\"MIDORI DX\",\"tagline\":\"みどりメディカルで、持続可能な社会を。\",\"sublabel\":\"みどりDXソリューション\"}},{\"position\":\"top-right\",\"title\":\"見るだけで、自然がもっと面白くなる。\",\"subtitle\":\"ARで学ぶ、身近な緑の世界。\",\"scene\":\"一只手拿着智能手机在茂密的绿色植物和树干前，手机屏幕显示着 AR 风格识别出的树木，并带有逼真的独立树木模型\",\"screen_text\":{\"main_name\":\"クスノキ\",\"latin_name\":\"Cinnamomum camphora\",\"confidence\":\"85%\"},\"features\":{\"count\":3,\"labels\":[\"AR 植物图鉴\",\"学习内容\",\"地图与景点导览\"]},\"brand_bar\":{\"product_name\":\"グリーンビュー\",\"english_name\":\"GREEN VIEW\",\"tagline\":\"自然とつながるデジタル体験を。\"}},{\"position\":\"bottom-left\",\"title\":\"データで変える、緑の未来。\",\"subtitle\":\"緑地管理をスマートに、効率的に。\",\"scene\":\"干净桌面上的笔记本电脑和智能手机样机，两者均显示着以绿色为主题的分析仪表盘，包含地图、饼图、折线图和管理面板\",\"features\":{\"count\":4,\"labels\":[\"设施与树木管理一体化\",\"通过数据分析实现最优维护\",\"异常检测与警报通知\",\"云端随时随地查看\"]},\"brand_bar\":{\"product_name\":\"GreenManager DX\",\"japanese_name\":\"グリーンマネージャーDX\",\"tagline\":\"緑地管理のDXで、街と自然をずっと美しく。\"}},{\"position\":\"bottom-right\",\"title\":\"緑の取り組みをデジタルでつなぐ。\",\"subtitle\":\"サステナブルな活動を、もっと多くの人へ。\",\"description\":\"支持从信息发布到参与及共享的沟通平台\",\"scene\":\"柔和绿色和蓝色调的扁平化公园插画场景，小群的人们在树木、小径、灌木和远处的城市建筑间行走、交谈、志愿服务和聚集\",\"features\":{\"count\":4,\"labels\":[\"活动信息发布\",\"活动与志愿者招募\",\"活动记录与报告共享\",\"成果可视化与数据公开\"]},\"brand_bar\":{\"product_name\":\"みどりコネクト\",\"english_name\":\"MIDORI CONNECT\",\"tagline\":\"つながる、ひろがる、みどりの輪。\"}}]},\"design_notes\":{\"typography\":\"大型粗体日文无衬线标题，较小的简洁无衬线正文，关键词处使用绿色强调\",\"iconography\":\"圆形绿色圆圈或轮廓瓷砖内的简单线条图标\",\"branding\":\"一致的叶子图案和生态科技视觉语言\",\"mood\":\"乐观、创新、可持续、平易近人的企业营销风格\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日本绿色科技宣传拼贴画：这是一张精致的方形日本营销拼贴画，展示了四项生态数字服务，非常适合用于重现企业宣传册、社交媒体帖子或可持续技术演示的视觉效果。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "close-up",
+        "grid",
+        "2x2"
+      ],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [
+        "natural light"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": "得分 71；构图: close-up, grid, 2x2；风格: realistic；包含标注/说明；文字是主视觉"
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, grid, 2x2]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[参考光线镜头: natural light]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14457",
+      "14695",
+      "14891",
+      "15468",
+      "14623",
+      "15795"
+    ]
+  }
+}

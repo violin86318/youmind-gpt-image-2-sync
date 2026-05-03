@@ -1,0 +1,38 @@
+{
+  "id": "14344",
+  "prompt": "生成一份细节丰富、多板块组合的专业技术信息图，内含{argument name=\"主体\" default=\"相机\"}的3D分解透视图，并设置8个带编号的板块，逐一讲解成像原理。",
+  "translatedPrompt": "生成一份详细的、多板块的专业科技信息图，包含一个 {argument name=\"subject\" default=\"camera\"} 的 3D 爆炸视图，并用 8 个带编号的板块逐一解释其成像原理。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "相机成像技术信息图：一份专业的科技信息图提示词，包含相机的 3D 爆炸视图以及解释其内部机械结构的多个部分。",
+      "subject": "综合主体",
+      "scene": "空间/场景",
+      "composition": [],
+      "style": [
+        "3d"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "风格",
+        "光线/镜头"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "空间概念、建筑场景、游戏场景、产品场景盒子",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 空间/场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: 3d]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13855",
+      "15203",
+      "15562",
+      "13734",
+      "15211",
+      "15182"
+    ]
+  }
+}

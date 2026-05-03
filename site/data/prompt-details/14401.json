@@ -1,0 +1,48 @@
+{
+  "id": "14401",
+  "prompt": "Create a hyper-realistic open-world crime-game gameplay screenshot inspired by a modern Miami-style beach city, showing {argument name=\"character description\" default=\"a stylish young man with short dark hair, trimmed beard, aviator sunglasses, and an open navy Hawaiian shirt with large pink-orange flowers\"} standing at an outdoor beach club bar and holding a tropical cocktail garnished with fruit. The camera is in a third-person gameplay-cinematic angle from behind the bartender, framing the player character in the center-left foreground as he faces a bartender in a teal polo shirt across a white stone counter. Set the scene at a lively beachfront party during warm late-afternoon sunlight, with 1 bartender, 1 main playable character, and around 12 partygoers dancing and mingling on the sand and deck behind him. Include tall palm trees, the ocean horizon, beach umbrellas, bottles on the bar, and an art-deco club building with glowing neon signage reading {argument name=\"club name\" default=\"VICE BEACH CLUB\"} plus a circular neon palm-tree logo. Add a luxurious, sun-drenched Vice City vibe with long shadows, haze, reflections, and saturated tropical colors. Overlay authentic video game HUD elements: 1 circular mini-map in the bottom-left corner, and 1 circular weapon-selection wheel in the bottom-right corner showing 8 slots with visible icons for handgun, submachine gun, shotgun, rifle, melee, throwable, and empty/inactive slots. The image should look like a polished AAA console gameplay capture, ultra-detailed, realistic skin and fabric, dynamic crowd poses, shallow atmospheric depth, and subtle lens bloom.",
+  "translatedPrompt": "创作一张超写实的开放世界犯罪游戏截图，灵感源自现代迈阿密风格的海滩城市。画面展示了 {argument name=\"character description\" default=\"一位时尚的年轻人，留着黑色短发和修剪整齐的胡须，戴着飞行员墨镜，身穿一件印有大朵粉橙色花卉的深蓝色夏威夷衬衫\"} 站在户外海滩俱乐部的吧台前，手中拿着一杯装饰着水果的热带鸡尾酒。镜头采用第三人称游戏电影视角，从调酒师身后拍摄，将玩家角色置于左前方的中心位置，他正面对着一位身穿青色 Polo 衫的调酒师，两人之间隔着一个白色石材吧台。场景设定在温暖的午后阳光下，海滩派对热闹非凡，画面中包含 1 名调酒师、1 名主要可玩角色，以及约 12 名在身后沙滩和甲板上跳舞交流的派对参与者。背景包括高大的棕榈树、海平线、沙滩伞、吧台上的酒瓶，以及一栋装饰艺术风格的俱乐部建筑，上面带有发光的霓虹灯招牌，写着 {argument name=\"club name\" default=\"VICE BEACH CLUB\"} 以及一个圆形的霓虹棕榈树标志。营造出一种奢华、阳光明媚的“罪恶都市”氛围，带有长长的阴影、薄雾、反射效果和饱和的热带色彩。叠加真实的电子游戏 HUD 元素：左下角显示 1 个圆形小地图，右下角显示 1 个圆形武器选择轮，包含 8 个插槽，清晰可见手枪、冲锋枪、霰弹枪、步枪、近战武器、投掷物以及空置/未激活插槽的图标。图像应呈现出精致的 AAA 级主机游戏截图质感，细节极其丰富，皮肤和织物纹理真实，人群姿态动态自然，具有浅景深效果和细腻的镜头光晕。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "海滩俱乐部开放世界游戏截图：一张电影质感的热带海滩俱乐部酒吧场景游戏截图，非常适合生成具有霓虹“罪恶都市”氛围的 AAA 级开放世界游戏模拟截图。",
+      "subject": "人物",
+      "scene": "信息图/图解",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "neon",
+        "lens",
+        "camera"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "城市美食地图、活动导览、园区地图、旅行视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: neon, lens, camera]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14400",
+      "15652",
+      "14088",
+      "15376",
+      "15638",
+      "13514"
+    ]
+  }
+}

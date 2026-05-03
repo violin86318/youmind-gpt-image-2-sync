@@ -1,0 +1,52 @@
+{
+  "id": "15703",
+  "prompt": "A full-body photorealistic portrait of a female tokusatsu-style space heroine standing in a modern concrete corridor, leaning lightly against a pale gray column. She wears a retro-futuristic armored bodysuit with glossy materials: a silver and black skin-tight jumpsuit, bulky red shoulder armor, red forearm guards, a red belt with a large rounded hip pouch, red knee-high armored boots, and white gloves. Her chest armor is metallic silver with red trim and a single circular blue orb on the right side of the chest, with small vent-like details and a mechanical collar ring around the neck connected to two short gray cables resting on the shoulders. She holds a matching red, white, blue, and black full-face helmet in her left hand at thigh level. Her hair is {argument name=\"hair color\" default=\"dark brown\"}, medium length, slightly messy, tied back loosely with strands falling around the face. The character’s face is intentionally obscured by a soft rectangular blur. The setting is an open, quiet station-like or parking-structure hallway with smooth stone walls and floor, shallow depth of field, and a blue square sign with the white number {argument name=\"background number\" default=\"5\"} visible in the background on the right. Natural soft daylight, realistic reflections on the glossy armor, cinematic cosplay photography, centered vertical composition, full body in frame, neutral stance, high detail.",
+  "translatedPrompt": "一张全身写实风格的女性特摄风太空女英雄肖像，她站在现代混凝土走廊中，轻轻倚靠在浅灰色立柱旁。她身穿复古未来主义盔甲紧身衣，材质具有光泽感：银黑相间的紧身连体衣、厚重的红色肩甲、红色前臂护甲、带有大号圆形腰包的红色腰带、红色及膝装甲靴以及白色手套。胸甲为金属银色，配有红色饰边，右胸处有一个圆形蓝色球体，带有小型通风口细节，颈部配有机械项圈，连接着两条垂在肩上的短灰色线缆。她左手在大腿高度拿着一个配色为红、白、蓝、黑的配套全罩式头盔。她的发色为 {argument name=\"hair color\" default=\"深棕色\"}，中等长度，略显凌乱，松散地扎在脑后，几缕发丝垂在脸颊旁。角色的面部被柔和的矩形模糊效果刻意遮挡。背景是一个开阔、安静的车站或停车场式走廊，墙壁和地面为光滑的石材，具有浅景深效果，右侧背景中可见一个带有白色数字 {argument name=\"background number\" default=\"5\"} 的蓝色方形标志。自然柔和的日光，光泽盔甲上的逼真反射，电影级 Cosplay 摄影，居中垂直构图，全身入镜，姿态自然，高细节。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古太空女英雄 Cosplay 肖像：此提示词可生成一张身着光泽感复古科幻盔甲的女性全身 Cosplay 风格肖像，适用于特摄角色形象设计或电影级服装摄影。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "full-body",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "retro"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, full-body, vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, retro]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15757",
+      "14506",
+      "15626",
+      "14955",
+      "15686",
+      "15259"
+    ]
+  }
+}

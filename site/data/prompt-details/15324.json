@@ -1,0 +1,48 @@
+{
+  "id": "15324",
+  "prompt": "{\"type\":\"travel magazine and mobile app promotional mockup\",\"theme\":\"romantic Tokyo night travel branding\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"旅色\\\"}\",\"romanized\":\"TABIIRO\",\"tagline\":\"Tokyo Night Trip\"},\"style\":{\"overall\":\"luxury editorial design blended with modern travel app UI presentation\",\"color_palette\":\"deep navy, black, warm gold, soft blush pink, white, city-light bokeh\",\"lighting\":\"cinematic nighttime glow with sparkling urban lights and warm highlights\",\"mood\":\"elegant, romantic, aspirational, premium\"},\"subject\":{\"primary_model\":\"glamorous adult East Asian woman in a fitted shimmering rose-gold long-sleeve evening dress, shoulder-length dark bob haircut, posed thoughtfully near a balcony railing overlooking Tokyo at night\",\"setting\":\"high-rise terrace or rooftop with blurred skyline and Tokyo Tower visible\"},\"layout\":{\"composition\":\"multi-panel marketing board showing print cover, double-page spread, website landing page, and smartphone app screen\",\"sections\":[{\"title\":\"magazine cover\",\"position\":\"top left\",\"count\":1,\"labels\":[\"旅色\",\"Tokyo Night Trip\",\"東京の夜に。ときめく旅を。\",\"Cover Woman TOKYOを旅する\",\"Special Interview 東京の新しい魅力、再発見\",\"今行きたい 東京のスポット10選\"]},{\"title\":\"magazine spread\",\"position\":\"top center\",\"count\":1,\"labels\":[\"Vol.56\",\"8\",\"東京の夜に、恋をする。\",\"きらめく街と、特別な時間。\",\"見どころ\",\"01 絶景\",\"02 グルメ\",\"03 文化・体験\"]},{\"title\":\"weather and city info panel\",\"position\":\"top right\",\"count\":1,\"labels\":[\"現在の東京 リアルタイム天気\",\"27°C\",\"晴れのち曇り\",\"湿度: 62%\",\"風速: 2.1m/s\",\"体感温度: 28°C\",\"2024.5.20 15:00 更新\"]},{\"title\":\"smartphone app screen\",\"position\":\"right side\",\"count\":1,\"labels\":[\"旅色\",\"東京の夜に、ときめく旅を。\",\"おすすめスポット\",\"特集\",\"ホーム\",\"探す\",\"旅のしおり\",\"お知らせ\",\"マイページ\"]},{\"title\":\"website landing page\",\"position\":\"bottom left and center\",\"count\":1,\"labels\":[\"旅色\",\"東京の夜に、ときめく旅を。\",\"心に残る体験を、旅色と一緒に。\",\"今すぐダウンロード\",\"App Store からダウンロード\",\"Google Play で手に入れよう\",\"旅色が選ばれる3つの理由\",\"厳選されたおすすめスポット\",\"あなただけの旅プラン作成\",\"リアルタイムの天気・情報\",\"人気のエリア\"]},{\"title\":\"popular areas row\",\"position\":\"bottom center\",\"count\":5,\"labels\":[\"六本木\",\"浅草\",\"丸の内\",\"中目黒\",\"お台場\"]},{\"title\":\"feature thumbnails on app\",\"position\":\"mid to lower right inside phone\",\"count\":6,\"labels\":[\"六本木ヒルズ展望台\",\"浅草寺\",\"中目黒の夜桜\",\"ネオン街\",\"東京グルメ旅\",\"大人の東京さんぽ\"]},{\"title\":\"reason icons row\",\"position\":\"bottom center upper\",\"count\":3,\"labels\":[\"厳選されたおすすめスポット\",\"あなただけの旅プラン作成\",\"リアルタイムの天気・情報\"]},{\"title\":\"bottom service features row\",\"position\":\"very bottom across website panel\",\"count\":4,\"labels\":[\"最新の観光情報をお届け\",\"レビュー・口コミが充実\",\"オフラインでも使える\",\"旅のしおりを簡単作成\"]}],\"inset_images\":{\"count\":2,\"descriptions\":[\"fine dining plate with wine in warm candlelit restaurant\",\"smaller portrait of the same woman on a balcony with city lights\"]}},\"background\":{\"surface\":\"clean light tabletop or presentation board\",\"arrangement\":\"overlapping printed pages and digital screens laid out like a branding case study\"},\"rendering\":{\"quality\":\"high-resolution commercial mockup\",\"camera\":\"slightly elevated front view capturing all panels clearly\",\"detail_level\":\"crisp typography, glossy print feel, realistic phone hardware, polished UI cards\"},\"customization\":{\"city\":\"{argument name=\\\"city\\\" default=\\\"Tokyo\\\"}\",\"main headline\":\"{argument name=\\\"main headline\\\" default=\\\"東京の夜に、ときめく旅を。\\\"}\",\"temperature\":\"{argument name=\\\"temperature\\\" default=\\\"27°C\\\"}\",\"dress color\":\"{argument name=\\\"dress color\\\" default=\\\"rose-gold shimmer\\\"}\"}}",
+  "translatedPrompt": "{\"type\":\"旅游杂志与移动应用宣传样机\",\"theme\":\"浪漫东京夜游品牌设计\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"旅色\\\"}\",\"romanized\":\"TABIIRO\",\"tagline\":\"Tokyo Night Trip\"},\"style\":{\"overall\":\"奢华编辑设计与现代旅游应用 UI 展示的融合\",\"color_palette\":\"深海军蓝、黑色、暖金色、柔粉色、白色、城市灯光虚化效果\",\"lighting\":\"电影质感的夜间光影，伴随闪烁的城市灯光与暖色高光\",\"mood\":\"优雅、浪漫、令人向往、高端\"},\"subject\":{\"primary_model\":\"一位迷人的东亚成年女性，身穿修身闪亮玫瑰金长袖晚礼服，留着齐肩深色波波头，在俯瞰东京夜景的阳台栏杆旁若有所思地摆姿势\",\"setting\":\"高层露台或屋顶，背景可见虚化的天际线和东京塔\"},\"layout\":{\"composition\":\"多面板营销项目，展示了杂志封面、跨页、网站着陆页及智能手机应用界面\",\"sections\":[{\"title\":\"杂志封面\",\"position\":\"左上\",\"count\":1,\"labels\":[\"旅色\",\"Tokyo Night Trip\",\"东京的夜，心动的旅程。\",\"封面：探索东京的女性\",\"特别专访：重新发现东京的魅力\",\"今夏必去的 10 个东京景点\"]},{\"title\":\"杂志跨页\",\"position\":\"中上\",\"count\":1,\"labels\":[\"第 56 期\",\"8\",\"恋上东京的夜。\",\"璀璨城市与特别时光。\",\"看点\",\"01 绝景\",\"02 美食\",\"03 文化与体验\"]},{\"title\":\"天气与城市信息面板\",\"position\":\"右上\",\"count\":1,\"labels\":[\"东京实时天气\",\"27°C\",\"晴转多云\",\"湿度：62%\",\"风速：2.1m/s\",\"体感温度：28°C\",\"2024.5.20 15:00 更新\"]},{\"title\":\"智能手机应用界面\",\"position\":\"右侧\",\"count\":1,\"labels\":[\"旅色\",\"东京的夜，心动的旅程。\",\"推荐景点\",\"专题\",\"首页\",\"搜索\",\"旅行手册\",\"通知\",\"个人中心\"]},{\"title\":\"网站着陆页\",\"position\":\"左下及中部\",\"count\":1,\"labels\":[\"旅色\",\"东京的夜，心动的旅程。\",\"与旅色一起，留下难忘的体验。\",\"立即下载\",\"从 App Store 下载\",\"在 Google Play 获取\",\"选择旅色的 3 大理由\",\"精选推荐景点\",\"定制你的专属旅行计划\",\"实时天气与资讯\",\"热门区域\"]},{\"title\":\"热门区域行\",\"position\":\"中下\",\"count\":5,\"labels\":[\"六本木\",\"浅草\",\"丸之内\",\"中目黑\",\"台场\"]},{\"title\":\"应用内专题缩略图\",\"position\":\"手机内中右侧\",\"count\":6,\"labels\":[\"六本木新城展望台\",\"浅草寺\",\"中目黑夜樱\",\"霓虹街区\",\"东京美食之旅\",\"大人的东京漫步\"]},{\"title\":\"理由图标行\",\"position\":\"中下上方\",\"count\":3,\"labels\":[\"精选推荐景点\",\"定制你的专属旅行计划\",\"实时天气与资讯\"]},{\"title\":\"底部服务功能行\",\"position\":\"网站面板最底部\",\"count\":4,\"labels\":[\"提供最新旅游资讯\",\"丰富的评价与口碑\",\"支持离线使用\",\"轻松创建旅行手册\"]}],\"inset_images\":{\"count\":2,\"descriptions\":[\"烛光餐厅中精致的餐盘与美酒\",\"同一位女性在城市灯光背景下的阳台半身像\"]}},\"background\":{\"surface\":\"整洁的浅色桌面或演示板\",\"arrangement\":\"重叠的印刷页面与数字屏幕，呈现出品牌案例研究的效果\"},\"rendering\":{\"quality\":\"高分辨率商业样机\",\"camera\":\"略微仰视的正面视角，清晰捕捉所有面板\",\"detail_level\":\"清晰的排版、光泽印刷质感、逼真的手机硬件、精致的 UI 卡片\"},\"customization\":{\"city\":\"{argument name=\\\"city\\\" default=\\\"Tokyo\\\"}\",\"main headline\":\"{argument name=\\\"main headline\\\" default=\\\"东京的夜，心动的旅程。\\\"}\",\"temperature\":\"{argument name=\\\"temperature\\\" default=\\\"27°C\\\"}\",\"dress color\":\"{argument name=\\\"dress color\\\" default=\\\"玫瑰金闪光\\\"}\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "东京夜游品牌样机：一款专为高端东京夜游品牌打造的精致编辑与应用概念项目，适用于旅游营销演示、UI 展示及杂志风格的宣传视觉图。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic",
+        "editorial",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic, editorial, luxury, premium]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14676",
+      "15011",
+      "15682",
+      "14888",
+      "15026",
+      "15263"
+    ]
+  }
+}

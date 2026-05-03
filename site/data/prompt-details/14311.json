@@ -1,0 +1,41 @@
+{
+  "id": "14311",
+  "prompt": "Make a sample page of a colorized Japanese shonen adventure manga. The page should vividly depict our main character found a magical quill. The name of the quill is called the Quill of GPT Image. Make it dramatic. The magical quill has strong power sealed inside it. Additional instructions: Aspect ratio: Portrait 1440x2560. The pen should have an OpenAI logo on it. The language throughout the manga should be Japanese. Think carefully first to make this a good story with good split of manga panels. The page should appear as a photo of a physical page, not a digital page.",
+  "translatedPrompt": "制作一个 {argument name=\"manga type\" default=\"彩色日本少年冒险漫画\"} 的样页。页面应生动地描绘我们的主角发现了一个 {argument name=\"item\" default=\"魔法羽毛笔\"}。这支羽毛笔的名字叫 {argument name=\"item name\" default=\"Quill of GPT Image\"}。画面要具有戏剧性。这支魔法羽毛笔内部封印着强大的力量。\n\n附加说明：纵横比：纵向 1440x2560。笔上应带有 OpenAI 的标志。漫画中的语言应为日语。请先仔细构思，以确保这是一个拥有出色分镜的故事。页面应呈现为实体漫画页的照片效果，而非数字页面。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "彩色少年漫画页面：一份详细的叙事提示词，用于生成具有特定角色和品牌细节的实体漫画页面效果。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "manga"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: manga]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13603",
+      "13874",
+      "13960",
+      "13961",
+      "13966",
+      "14059"
+    ]
+  }
+}

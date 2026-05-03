@@ -1,0 +1,43 @@
+{
+  "id": "14605",
+  "prompt": "{\"type\":\"four-panel anime comic page\",\"style\":\"cute fantasy manga illustration, polished gpt-image-2 anime rendering, vibrant colors, clean linework, soft painterly shading, whimsical magical atmosphere\",\"page\":{\"background\":\"white page with black panel borders\",\"title\":\"{argument name=\\\"headline text\\\" default=\\\"月のしるしの大冒険\\\"}\",\"title_position\":\"top center\",\"decorations\":[\"small gold sparkles around title\",\"crescent moon icon to the right of title\"],\"panel_count\":4,\"reading_direction\":\"top to bottom\"},\"character\":{\"appearance\":\"young anime girl adventurer with very long wavy silver hair, pale skin, large expressive eyes, slim build\",\"outfit\":[\"black-and-white fantasy dress with frilled trim\",\"crescent moon hair ornament\",\"crescent moon choker\",\"off-shoulder sleeves\",\"brown leather backpack\",\"dark thigh-high stockings\"],\"theme\":\"moon motif throughout costume and props\"},\"panels\":[{\"position\":\"top\",\"scene\":\"sunny mountain trail and meadow under a blue sky with clouds, forest on the right, winding path into the distance, wooden signpost on the left\",\"action\":\"the girl stands holding and reading an old treasure map, facing forward\",\"props\":[\"aged map\",\"wooden signpost\",\"backpack\"],\"text\":{\"sign\":\"冒険のはじまり\",\"speech\":\"{argument name=\\\"panel 1 speech\\\" default=\\\"地図を発見！今日は大冒険だ！\\\"}\"}},{\"position\":\"upper-middle\",\"scene\":\"lush jungle-like ruins entrance with a dark cave opening framed by old stone pillars carved with crescent symbols and covered in vines\",\"action\":\"rear three-quarter view of the girl approaching carefully while reading the map\",\"props\":[\"map\",\"ruined cave entrance\",\"dense plants\"],\"text\":{\"speech\":\"{argument name=\\\"panel 2 speech\\\" default=\\\"この先にお宝があるはず…！\\\"}\",\"sound_effect\":\"ガサガサ\"}},{\"position\":\"lower-middle\",\"scene\":\"inside the cave ruins, dimly lit, stone altar or puzzle table in the center\",\"action\":\"the girl kneels beside a lit lantern and reaches toward a puzzle mechanism instead of a nearby keyhole, while a round black cat-like mascot watches\",\"props\":[\"lantern emitting warm light\",\"stone puzzle slab with engraved circular symbol\",\"small golden key on the table\",\"black cat creature with crescent moon mark and bead collar\"],\"text\":{\"speech\":\"{argument name=\\\"panel 3 speech\\\" default=\\\"カギじゃなくて、仕掛けを解けばいいんだ！\\\"}\",\"sound_effect\":\"ピカッ\"}},{\"position\":\"bottom\",\"scene\":\"treasure chamber with crystals embedded in the cave walls and floating sparkles\",\"action\":\"the girl smiles brightly with eyes closed beside an opened treasure chest, holding up a paper invitation card\",\"props\":[\"open wooden treasure chest with crescent moon emblem\",\"glowing compass inside the chest\",\"paper card reading つぎの冒険へ\",\"blue and purple crystals\"],\"text\":{\"speech\":\"{argument name=\\\"panel 4 speech\\\" default=\\\"宝物は…次の冒険への招待状！\\\"}\",\"tag\":\"つづく？\"}}]}",
+  "translatedPrompt": "{\"type\":\"四格动漫漫画页面\",\"style\":\"可爱的奇幻漫画插图，精致的 gpt-image-2 动漫渲染，色彩鲜艳，线条清晰，柔和的绘画式阴影，奇幻的魔法氛围\",\"page\":{\"background\":\"白色页面，黑色边框\",\"title\":\"{argument name=\\\"headline text\\\" default=\\\"月之印记大冒险\\\"}\",\"title_position\":\"顶部居中\",\"decorations\":[\"标题周围有金色小火花\",\"标题右侧有新月图标\"],\"panel_count\":4,\"reading_direction\":\"从上到下\"},\"character\":{\"appearance\":\"年轻的动漫少女冒险家，留着长长的波浪形银发，皮肤白皙，大而有神的眼睛，身材苗条\",\"outfit\":[\"带有荷叶边装饰的黑白奇幻连衣裙\",\"新月发饰\",\"新月项圈\",\"露肩袖\",\"棕色皮质背包\",\"深色过膝袜\"],\"theme\":\"服装和道具中贯穿月亮主题\"},\"panels\":[{\"position\":\"顶部\",\"scene\":\"蓝天白云下的阳光山间小径和草地，右侧是森林，蜿蜒的小路通向远方，左侧有一个木制路标\",\"action\":\"少女站在那里，拿着并阅读一张古老的藏宝图，面向前方\",\"props\":[\"古老的地图\",\"木制路标\",\"背包\"],\"text\":{\"sign\":\"冒险的开始\",\"speech\":\"{argument name=\\\"panel 1 speech\\\" default=\\\"发现地图了！今天是大冒险！\\\"}\"}},{\"position\":\"中上\",\"scene\":\"郁郁葱葱的丛林遗迹入口，黑暗的洞穴口由刻有新月符号并覆盖着藤蔓的古老石柱构成\",\"action\":\"少女从后方四分之三视角小心翼翼地靠近，同时阅读着地图\",\"props\":[\"地图\",\"废弃的洞穴入口\",\"茂密的植物\"],\"text\":{\"speech\":\"{argument name=\\\"panel 2 speech\\\" default=\\\"宝藏应该就在前面……！\\\"}\",\"sound_effect\":\"沙沙声\"}},{\"position\":\"中下\",\"scene\":\"洞穴遗迹内部，光线昏暗，中央有一个石祭坛或解谜台\",\"action\":\"少女跪在点亮的灯笼旁，伸手去触碰一个解谜装置，而不是旁边的锁孔，一只圆滚滚的黑色猫咪吉祥物在旁边注视着\",\"props\":[\"发出温暖光芒的灯笼\",\"刻有圆形符号的石制解谜板\",\"桌上的小金钥匙\",\"带有新月标记和珠子项圈的黑猫生物\"],\"text\":{\"speech\":\"{argument name=\\\"panel 3 speech\\\" default=\\\"不是钥匙，而是要解开机关！\\\"}\",\"sound_effect\":\"闪光\"}},{\"position\":\"底部\",\"scene\":\"宝藏室，洞穴墙壁上镶嵌着水晶，周围漂浮着火花\",\"action\":\"少女闭着眼睛，在打开的宝箱旁灿烂地微笑，举起一张纸质邀请函\",\"props\":[\"带有新月徽章的打开的木制宝箱\",\"宝箱内发光的指南针\",\"写着“通往下一场冒险”的纸卡\",\"蓝色和紫色的水晶\"],\"text\":{\"speech\":\"{argument name=\\\"panel 4 speech\\\" default=\\\"宝藏是……通往下一场冒险的邀请函！\\\"}\",\"tag\":\"未完待续？\"}}]}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Moon Mark 冒险漫画页面：一个四格奇幻动漫漫画页面，展示了一位银发月亮主题少女发现地图、解开洞穴谜题并找到通往下一场冒险的魔法邀请函的过程。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime",
+        "manga",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime, manga, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14532",
+      "14989",
+      "14677",
+      "14404",
+      "14524",
+      "14550"
+    ]
+  }
+}

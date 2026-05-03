@@ -1,0 +1,50 @@
+{
+  "id": "15646",
+  "prompt": "A clean neumorphic UI component showcase on a soft light gray background, arranged as a balanced design board of 18 separate interface elements with subtle shadows, frosted translucent white plastic surfaces, rounded corners, and glossy glass-like depth. Use a premium minimal product-design aesthetic with white-on-white layering, soft ambient occlusion, delicate inner shadows, and a restrained accent palette of deep teal green and vivid orange. Include 18 distinct components: 1 large circular rotary knob in the upper left with a dark teal glossy center, fine radial tick marks, and a small orange position indicator; 1 small circular directional control pad with a teal center button and four tiny arrow icons around it; 1 circular play button with a teal triangle icon and a short orange progress arc on the rim; 1 horizontal pill toggle switch at the top right with a teal knob positioned to the right; 1 rounded square heart button with a simple teal outline heart; 1 small circular indicator button with a single orange dot in the center; 1 pill-shaped plus-minus control with a teal minus on the left and teal plus on the right separated by a vertical divider; 1 long horizontal volume slider with a teal speaker icon on the left, fine slider ticks, a teal track, a teal knob near the right side, and a faint waveform icon on the far right; 1 circular percentage dial showing 60% with radial ticks and a few orange highlight marks near the upper right; 1 rounded square bell notification button with a teal outline bell icon; 1 compact music player card with a small square album image of misty evergreen trees on the left, the title {argument name=\"track title\" default=\"Forest Drive\"}, the subtitle {argument name=\"track subtitle\" default=\"Ambient Journey\"}, a thin progress bar, and a circular play button on the right; 4 small circular utility icon buttons in one row showing sliders/settings, search, share, and ellipsis; 1 large circular compass with cardinal letters N, E, S, W plus diagonal labels, a teal-and-orange needle, and metallic center; 1 tall vertical slider on the right with a teal track, teal knob around the middle, small side dots, an orange accent near the bottom, and a tiny speaker icon below; 1 bottom navigation bar in a long rounded pill containing 4 icons separated by subtle dividers: home, bar chart, compass, and user profile, with the home tab active in teal; 1 large rounded pill call-to-action button in glossy dark teal labeled {argument name=\"button text\" default=\"Explore\"} with a circular orange arrow button attached on the right; and 1 rounded square fingerprint button with a teal fingerprint icon. Keep spacing generous, alignment grid-based, and the overall render highly polished, tactile, and futuristic, like a luxury smart-device UI kit mockup.",
+  "translatedPrompt": "在柔和的浅灰色背景上展示简洁的拟态 UI 组件，布局为一个平衡的 18 个独立界面元素设计项目，具有微妙的阴影、磨砂半透明白色塑料表面、圆角以及光洁的玻璃质感。采用高级极简产品设计美学，结合白底白色的分层效果、柔和的环境光遮蔽、精致的内部阴影，以及深青绿色和鲜橙色的克制点缀色调。包含 18 个独特的组件：左上角 1 个大型圆形旋转旋钮，带有深青色光泽中心、精细的径向刻度及一个小橙色位置指示器；1 个小型圆形方向控制盘，带有青色中心按钮及周围的四个微小箭头图标；1 个圆形播放按钮，带有青色三角形图标及边缘的一段短橙色进度弧线；右上角 1 个水平药丸状切换开关，青色旋钮位于右侧；1 个圆角方形心形按钮，带有简单的青色轮廓心形；1 个小型圆形指示器按钮，中心有一个橙色圆点；1 个药丸状加减控制键，左侧为青色减号，右侧为青色加号，中间由垂直分隔线隔开；1 个长水平音量滑块，左侧带有青色扬声器图标、精细滑块刻度、青色轨道、右侧附近的青色旋钮，以及最右侧淡淡的波形图标；1 个圆形百分比表盘，显示 60%，带有径向刻度及右上角附近的几个橙色高亮标记；1 个圆角方形铃铛通知按钮，带有青色轮廓铃铛图标；1 个紧凑型音乐播放器卡片，左侧为一张雾气缭绕的常青树小方形专辑图片，标题为 {argument name=\"track title\" default=\"Forest Drive\"}，副标题为 {argument name=\"track subtitle\" default=\"Ambient Journey\"}，带有细进度条及右侧的圆形播放按钮；一行 4 个小型圆形实用图标按钮，分别显示滑块/设置、搜索、分享及省略号；1 个大型圆形指南针，带有方位字母 N、E、S、W 及对角线标签，配有青橙双色指针及金属中心；右侧 1 个高垂直滑块，带有青色轨道、位于中间的青色旋钮、侧边小圆点、底部附近的橙色点缀及下方的一个微小扬声器图标；1 个底部导航栏，呈长圆角药丸状，包含 4 个由微妙分隔线隔开的图标：主页、柱状图、指南针及用户个人资料，其中主页标签为青色激活状态；1 个大型圆角药丸状行动号召按钮，采用光泽深青色，标签为 {argument name=\"button text\" default=\"Explore\"}，右侧附带一个圆形橙色箭头按钮；以及 1 个圆角方形指纹按钮，带有青色指纹图标。保持间距充裕、对齐基于网格，整体渲染效果高度精细、具有触感且充满未来感，宛如奢华智能设备 UI 套件样机。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Neumorphic Glass UI Kit 项目：此提示词可生成包含 18 个高级拟态 UI 控件的精美项目，非常适合展示未来感 App UI 组件或智能设备仪表盘概念。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "grid",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [
+        "soft light"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, vertical, horizontal]。\n\nVisual style:\n[参考风格: luxury, premium]。\n\nLighting and camera:\n[参考光线镜头: soft light]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14869",
+      "15385",
+      "15647",
+      "14469",
+      "15156",
+      "15456"
+    ]
+  }
+}

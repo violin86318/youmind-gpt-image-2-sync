@@ -1,0 +1,53 @@
+{
+  "id": "14418",
+  "prompt": "A photorealistic overhead three-quarter view of a folded financial newspaper on a dark wooden desk, styled like a prestigious American business daily from the 1980s–2000s, with crisp realistic newsprint texture, subtle paper wrinkles, slightly worn folded edges, and warm morning sunlight casting diagonal window-shadow bands across the page. The masthead dominates the top in large classic serif capitals reading {argument name=\"newspaper name\" default=\"THE WALL STREET DAILY.\"}. Directly beneath it is a thin header strip with small financial-paper details: \"DOW JONES\", \"News Corp\", the date line \"MONDAY, APRIL 20, 2026 – VOL. CCLXXXV NO. 90\", \"WSJ.com\", a star rating row, and the price \"$5.00\". The main lead story spans the upper center-left with a huge bold serif headline reading {argument name=\"main headline\" default=\"Cook to Step Down as Apple CEO; Ternus Named Successor\"}. Below it is a smaller serif subheadline: \"Transition caps 15-year run; company pivots to AI-driven future\". Add a byline line in small caps with 2 reporters: \"By Tim Higgins\" and \"And Joanna Stern\". Fill the lead article with dense, fully legible multi-column newspaper body text about Tim Cook stepping down as Apple chief executive, John Ternus succeeding him, Apple's growth, AI strategy, and corporate transition; the text should read like authentic financial journalism, not placeholder gibberish. On the right half of the lead story, place a black-and-white engraved stipple portrait of a male executive in collared shirt and jacket, centered in a rectangular image area; the face is partially obscured by a pale gray square censor block over the eyes and upper nose, creating a modern satirical effect. At the top-right, include a sidebar box titled \"What’s New\" with exactly 2 subsection headers, \"Business & Finance\" and \"World-Wide\", each followed by bullet-point briefs in small serif text; include exactly 3 bullets under \"Business & Finance\" and exactly 4 bullets under \"World-Wide\", all fully typeset and legible. Beneath the main story, add a secondary banner article across the page titled \"Silicon Valley Braces for New Chapter in AI Arms Race\" with a byline \"By Liz Hoffman\" and several short columns of text about big tech, startups, OpenAI, Google, Meta, chips, platforms, and AI competition. To the right of this lower-middle section, insert a compact markets table titled \"Markets\" with exactly 4 rows labeled \"DOW JONES\", \"S&P 500\", \"NASDAQ\", and \"10-YR. TREASURY\", with columns for index/value/change/percent and realistic numeric values in tight newspaper tabular formatting. Along the bottom strip of the front page, include exactly 3 teaser boxes: left box with section label \"Heard on the Street\" and headline \"Why Investors Are Rethinking Big Tech\" plus page marker \"B12\"; center box with section label \"Markets\" and headline \"Earnings Season Lifts Stocks Despite Rate Uncertainty\" plus page marker \"B1\"; right box with section label \"Inside\" and headline \"Private Credit Sees Inflow Surge as Yields Stay High\" plus page marker \"B14\". Make all typography clean, sharp, perfectly legible, and consistently aligned in authentic newspaper grid layout with thin rules between columns, justified text, classic serif fonts, and realistic print contrast. The newspaper sits slightly rotated clockwise on the desk. In the environment, show a white ceramic coffee cup filled with black coffee in the top-right corner and a pair of dark-framed eyeglasses resting near the lower-right edge of the paper. In the top-left corner, include the cropped edge of a dark cylindrical object, likely a camera lens or tumbler. Overall mood: premium editorial mock front page, serious business-news aesthetic, believable print photography, ultra-detailed, natural shadows, high resolution.",
+  "translatedPrompt": "一张从上方四分之三视角拍摄的照片级真实感报纸，折叠在深色木质书桌上，风格模仿 1980 年代至 2000 年代著名的美国商业日报。报纸具有清晰逼真的新闻纸纹理、细微的纸张褶皱、略显磨损的折叠边缘，温暖的晨光在页面上投射出对角线的窗影。报头占据顶部，以醒目的大号经典衬线体大写字母书写 {argument name=\"newspaper name\" default=\"THE WALL STREET DAILY.\"}。其正下方是一条细长的页眉，包含小型财经报纸细节：“DOW JONES”、“News Corp”、日期行“MONDAY, APRIL 20, 2026 – VOL. CCLXXXV NO. 90”、“WSJ.com”、星级评分行以及价格“$5.00”。主导新闻位于中上方偏左，配有巨大的粗体衬线标题 {argument name=\"main headline\" default=\"Cook to Step Down as Apple CEO; Ternus Named Successor\"}。下方是较小的衬线副标题：“Transition caps 15-year run; company pivots to AI-driven future”。添加一行小型大写字母署名，包含两位记者：“By Tim Higgins” 和 “And Joanna Stern”。主文填充关于蒂姆·库克卸任苹果首席执行官、约翰·特努斯继任、苹果增长、AI 战略及企业转型的密集且完全可读的多栏新闻正文；文字应读起来像地道的财经新闻，而非占位符乱码。在主新闻右侧，放置一张黑白雕版点刻风格的男性高管肖像，身穿衬衫和夹克，居中于矩形图像区域；面部被眼睛和鼻梁上方的一块浅灰色遮挡方块部分遮盖，营造出一种现代讽刺效果。在右上角，包含一个标题为“What’s New”的侧边栏框，内设 2 个小节标题：“Business & Finance” 和 “World-Wide”，每个标题后跟随小型衬线字体的要点简报；“Business & Finance” 下包含 3 个要点，“World-Wide” 下包含 4 个要点，所有内容均需排版完整且清晰可读。在主新闻下方，添加一条横跨页面的二级通栏文章，标题为“Silicon Valley Braces for New Chapter in AI Arms Race”，署名为“By Liz Hoffman”，并配有几段关于大型科技公司、初创企业、OpenAI、Google、Meta、芯片、平台及 AI 竞争的短文。在此中下区域右侧，插入一个紧凑的市场表格，标题为“Markets”，包含 4 行标签，分别为“DOW JONES”、“S&P 500”、“NASDAQ” 和 “10-YR. TREASURY”，并设有指数/数值/变动/百分比列，采用逼真的报纸表格格式及真实数值。在头版底部，包含 3 个预告框：左侧框标签为“Heard on the Street”，标题为“Why Investors Are Rethinking Big Tech”，页码标记为“B12”；中间框标签为“Markets”，标题为“Earnings Season Lifts Stocks Despite Rate Uncertainty”，页码标记为“B1”；右侧框标签为“Inside”，标题为“Private Credit Sees Inflow Surge as Yields Stay High”，页码标记为“B14”。确保所有排版整洁、锐利、完全可读，并以地道的报纸网格布局保持一致对齐，栏间使用细线分隔，文字两端对齐，采用经典衬线字体，并具有逼真的印刷对比度。报纸在桌面上略微顺时针旋转。在环境中，右上角放置一个装有黑咖啡的白色陶瓷杯，报纸右下边缘附近放着一副深色边框眼镜。左上角包含一个深色圆柱形物体的裁剪边缘，看起来像是相机镜头或平底杯。整体氛围：高端编辑样机头版，严肃的商业新闻美学，可信的印刷摄影感，超高细节，自然阴影，高分辨率。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "华尔街日报风格商业报纸头版：此提示词可生成一张放置在书桌上的照片级真实感财经报纸头版，非常适合编辑样机、公告讽刺作品及高保真 AI 排版演示。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "grid"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "editorial",
+        "premium"
+      ],
+      "lightingCamera": [
+        "lens",
+        "camera"
+      ],
+      "text": "要求精确文字；要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, grid]。\n\nVisual style:\n[参考风格: realistic, photorealistic, editorial, premium]。\n\nLighting and camera:\n[参考光线镜头: lens, camera]。\n\nText requirements:\n要求精确文字；要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15668",
+      "14813",
+      "15265",
+      "14567",
+      "14938",
+      "15467"
+    ]
+  }
+}

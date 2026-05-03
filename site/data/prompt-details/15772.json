@@ -1,0 +1,51 @@
+{
+  "id": "15772",
+  "prompt": "A polished anime-style international film poster with a cinematic, slightly painterly look and soft natural lighting. Center the composition on a young woman shown from mid-thigh up, standing in a relaxed pose with one hand in the pocket of an oversized navy zip hoodie. The hoodie has two yellow athletic stripes running down each sleeve, a loose hood, and a partially open zipper over a fitted white tank top with thin black straps visible underneath. She wears a black choker and a single dark dangling earring. Her hair is a short platinum-silver bob with long side-swept bangs and a smooth, airy texture. Her face is intentionally obscured by a flat rectangular censor block in a muted beige tone. Keep the overall styling elegant and restrained rather than overly detailed, with a more natural, believable finish than flashy hyper-rendered anime art. Build the background as a travel-movie collage made of diagonal panel slices: one panel shows a coastal Mediterranean-style town on cliffs beside calm blue water with distant birds; one panel shows a rural railway line with a train on the left and utility poles along the tracks; one panel shows snow-covered mountains and a winding road in a quiet valley; one panel shows a dusky city skyline with glowing lights; and one panel shows a seaside road curving along the coast at sunset. Use a soft cream, blue, and slate palette with a nostalgic spring-travel mood. Add elegant festival-award laurels on the upper left, exactly 3 stacked laurels with Spanish text indicating major animation festival awards. Add large centered title typography near the bottom reading {argument name=\"headline text\" default=\"VIAJES DE PRIMAVERA\"}, with a refined serif font in pale ivory. Beneath it, add a smaller italic tagline in Spanish reading {argument name=\"tagline\" default=\"Cada destino cambia su corazón.\"}. Add a release line below that reading {argument name=\"release text\" default=\"PRÓXIMAMENTE EN CINES\"}. Include tiny production-credit text and a small studio logo at the very bottom. The image should feel like an arthouse animated movie poster advertising a spring journey drama, with balanced negative space, premium layout design, and realistic printed-poster typography.",
+  "translatedPrompt": "一张精致的动漫风格国际电影海报，具有电影质感、略带油画风格以及柔和的自然光效。构图中心为一位年轻女性，取景至大腿中部，姿态放松，一只手插在海军蓝拉链连帽衫的口袋里。连帽衫袖子上各有两条黄色运动条纹，兜帽宽松，拉链半开，内搭一件紧身白色吊带背心，隐约可见黑色细肩带。她佩戴着黑色颈圈和一只深色吊坠耳环。她的发型是铂银色短波波头，带有长长的斜刘海，质感顺滑轻盈。她的面部被一个柔和米色的扁平矩形遮挡块刻意遮盖。整体风格保持优雅克制，而非过度细节化，呈现出比华丽超写实动漫艺术更自然、更真实的效果。背景采用斜向分割的旅行电影拼贴画：一个板块展示了悬崖上地中海风格的沿海小镇，旁边是平静的蓝色水域和远处的飞鸟；一个板块展示了乡村铁路线，左侧有一列火车，轨道旁立着电线杆；一个板块展示了白雪皑皑的山脉和静谧山谷中蜿蜒的道路；一个板块展示了暮色下的城市天际线和点点灯光；最后一个板块展示了日落时分沿海岸弯曲的海滨公路。采用柔和的奶油色、蓝色和板岩色调，营造出怀旧的春季旅行氛围。在左上方添加优雅的电影节奖项月桂叶，精确堆叠 3 个月桂叶，并配以西班牙语文字，标明主要动画电影节奖项。在底部附近添加居中的大号标题排版，内容为 {argument name=\"headline text\" default=\"VIAJES DE PRIMAVERA\"}，使用精致的淡象牙色衬线字体。在其下方，添加一行较小的西班牙语斜体标语 {argument name=\"tagline\" default=\"Cada destino cambia su corazón.\"}。在下方添加发行信息行 {argument name=\"release text\" default=\"PRÓXIMAMENTE EN CINES\"}。在最底部包含微小的制作人员名单文字和一个小型工作室标志。整张图片应呈现出艺术电影海报的质感，宣传春季旅行题材的剧情片，具备平衡的留白、高级的布局设计以及逼真的印刷海报排版。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫春季旅行电影海报：此提示词可生成一张电影感动漫风格的海报，包含中心女主角、旅行场景拼贴背景，以及用于宣传或概念艺术创作的优雅电影节海报排版。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "anime",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "natural light"
+      ],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": "得分 91；构图: centered；风格: realistic, cinematic, anime, premium, studio；要求精确文字；文字是主视觉"
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic, cinematic, anime, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: natural light]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15096",
+      "14946",
+      "15082",
+      "15392",
+      "15643",
+      "14598"
+    ]
+  }
+}

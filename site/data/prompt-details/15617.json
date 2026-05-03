@@ -1,0 +1,51 @@
+{
+  "id": "15617",
+  "prompt": "{\"type\":\"SaaS feature update promotional infographic banner\",\"style\":\"clean modern Japanese tech marketing, high-quality infographic, soft gradient background, polished UI mockup, minimal and trustworthy\",\"canvas\":{\"aspect_ratio\":\"1:1\",\"background\":\"white base with flowing lavender and pale purple abstract wave shapes in the corners, faint dotted halftone textures, subtle sparkle accents\"},\"branding\":{\"top_logo\":{\"icon\":\"rounded square app icon with a stylized white L on a purple gradient background\",\"text\":\"Lメンバーズカード\"},\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"カルテ管理、はじめよう\\\"}\",\"subheadline\":\"{argument name=\\\"subheadline text\\\" default=\\\"LINE会員とつながる顧客記録\\\"}\",\"headline_style\":\"large bold Japanese sans-serif in deep purple\",\"subheadline_style\":\"medium bold Japanese sans-serif with teal and dark navy emphasis, small star icons and thin divider lines on both sides\"},\"layout\":{\"centerpiece\":\"large front-facing smartphone mockup centered vertically, slightly lower than the headline\",\"sections\":[{\"title\":\"left features\",\"position\":\"left side of phone\",\"count\":2,\"labels\":[\"カルテ\",\"顧客\"],\"items\":[{\"shape\":\"white circular badge with soft shadow\",\"icon\":\"purple clipboard line icon\",\"label\":\"カルテ\",\"accent\":\"purple dotted connector pointing toward phone\"},{\"shape\":\"white circular badge with soft shadow\",\"icon\":\"teal person silhouette icon\",\"label\":\"顧客\",\"accent\":\"teal dotted connector pointing toward phone\"}]},{\"title\":\"right features\",\"position\":\"right side of phone\",\"count\":2,\"labels\":[\"写真\",\"自動作成\"],\"items\":[{\"shape\":\"white circular badge with soft shadow\",\"icon\":\"teal camera icon\",\"label\":\"写真\",\"accent\":\"teal dotted connector pointing toward phone\"},{\"shape\":\"white circular badge with soft shadow\",\"icon\":\"orange clock icon with sparkles\",\"label\":\"自動作成\",\"accent\":\"orange dotted connector pointing toward phone\"}]}],\"decorations_count\":6},\"app_screen\":{\"screen_title\":\"カルテ一覧\",\"status_bar\":{\"time\":\"9:41\",\"battery\":true,\"signal\":true},\"top_icons_count\":2,\"top_icons\":[\"search\",\"menu\"],\"tabs\":{\"count\":4,\"labels\":[\"すべて\",\"来店履歴あり\",\"お気に入り\",\"フォロー中\"],\"active\":\"すべて\"},\"customer_cards\":{\"count\":4,\"items\":[{\"name\":\"{argument name=\\\"customer name 1\\\" default=\\\"山田 花子\\\"}\",\"member_id\":\"L12345678\",\"last_visit\":\"2024/05/12\",\"tag\":\"リピーター\",\"avatar\":\"blurred female headshot\"},{\"name\":\"佐藤 翔太\",\"member_id\":\"L123456789\",\"last_visit\":\"2024/05/08\",\"tag\":\"フォロー中\",\"avatar\":\"blurred male headshot\"},{\"name\":\"鈴木 美咲\",\"member_id\":\"L34567890\",\"last_visit\":\"2024/04/28\",\"tag\":\"新規\",\"avatar\":\"blurred female headshot\"},{\"name\":\"高橋 健一\",\"member_id\":\"L45678901\",\"last_visit\":\"2024/04/20\",\"tag\":\"休眠気味\",\"avatar\":\"blurred male headshot\"}]},\"ui_style\":\"rounded white list cards on a very light gray background, purple app header, subtle shadows, Japanese sans-serif typography\"},\"color_palette\":{\"primary\":\"#5B5CEB to #6C63FF\",\"secondary\":\"#22C7B8\",\"accent\":\"#F4B23A\",\"text_dark\":\"#2B2E5B\",\"white\":\"#FFFFFF\"},\"rendering\":\"crisp vector-like marketing graphic with realistic smartphone frame, centered balanced composition, premium SaaS launch banner aesthetic\"}",
+  "translatedPrompt": "{\"type\":\"SaaS 功能更新宣传信息图横幅\",\"style\":\"简洁现代的日本科技营销风格，高质量信息图，柔和渐变背景，精致的 UI 模型，简约且值得信赖\",\"canvas\":{\"aspect_ratio\":\"1:1\",\"background\":\"白色底色，角落带有流动的淡紫色和浅紫色抽象波浪形状，淡淡的网点半调纹理，微妙的闪光点缀\"},\"branding\":{\"top_logo\":{\"icon\":\"圆角方形应用图标，紫色渐变背景上带有风格化的白色 L\",\"text\":\"L 成员卡\"},\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"开启病历管理新体验\\\"}\",\"subheadline\":\"{argument name=\\\"subheadline text\\\" default=\\\"连接 LINE 会员的客户记录\\\"}\",\"headline_style\":\"深紫色大号粗体日文无衬线字体\",\"subheadline_style\":\"中号粗体日文无衬线字体，带有青色和深海军蓝强调，两侧配有小星星图标和细分割线\"},\"layout\":{\"centerpiece\":\"垂直居中的大型智能手机正面模型，位置略低于标题\",\"sections\":[{\"title\":\"左侧功能\",\"position\":\"手机左侧\",\"count\":2,\"labels\":[\"病历\",\"客户\"],\"items\":[{\"shape\":\"带有柔和阴影的白色圆形徽章\",\"icon\":\"紫色剪贴板线条图标\",\"label\":\"病历\",\"accent\":\"指向手机的紫色虚线连接线\"},{\"shape\":\"带有柔和阴影的白色圆形徽章\",\"icon\":\"青色人物剪影图标\",\"label\":\"客户\",\"accent\":\"指向手机的青色虚线连接线\"}]},{\"title\":\"右侧功能\",\"position\":\"手机右侧\",\"count\":2,\"labels\":[\"照片\",\"自动生成\"],\"items\":[{\"shape\":\"带有柔和阴影的白色圆形徽章\",\"icon\":\"青色相机图标\",\"label\":\"照片\",\"accent\":\"指向手机的青色虚线连接线\"},{\"shape\":\"带有柔和阴影的白色圆形徽章\",\"icon\":\"带有闪光效果的橙色时钟图标\",\"label\":\"自动生成\",\"accent\":\"指向手机的橙色虚线连接线\"}]}],\"decorations_count\":6},\"app_screen\":{\"screen_title\":\"病历列表\",\"status_bar\":{\"time\":\"9:41\",\"battery\":true,\"signal\":true},\"top_icons_count\":2,\"top_icons\":[\"搜索\",\"菜单\"],\"tabs\":{\"count\":4,\"labels\":[\"全部\",\"有到店记录\",\"收藏\",\"关注中\"],\"active\":\"全部\"},\"customer_cards\":{\"count\":4,\"items\":[{\"name\":\"{argument name=\\\"customer name 1\\\" default=\\\"山田花子\\\"}\",\"member_id\":\"L12345678\",\"last_visit\":\"2024 年 5 月 12 日\",\"tag\":\"回头客\",\"avatar\":\"模糊的女性头像\"},{\"name\":\"佐藤翔太\",\"member_id\":\"L123456789\",\"last_visit\":\"2024 年 5 月 8 日\",\"tag\":\"关注中\",\"avatar\":\"模糊的男性头像\"},{\"name\":\"铃木美咲\",\"member_id\":\"L34567890\",\"last_visit\":\"2024 年 4 月 28 日\",\"tag\":\"新用户\",\"avatar\":\"模糊的女性头像\"},{\"name\":\"高桥健一\",\"member_id\":\"L45678901\",\"last_visit\":\"2024 年 4 月 20 日\",\"tag\":\"沉睡用户\",\"avatar\":\"模糊的男性头像\"}]},\"ui_style\":\"浅灰色背景上的圆角白色列表卡片，紫色应用标题栏，微妙的阴影，日文无衬线排版\"},\"color_palette\":{\"primary\":\"#5B5CEB 到 #6C63FF\",\"secondary\":\"#22C7B8\",\"accent\":\"#F4B23A\",\"text_dark\":\"#2B2E5B\",\"white\":\"#FFFFFF\"},\"rendering\":\"清晰的矢量风格营销图形，带有逼真的智能手机边框，构图平衡居中，优质 SaaS 发布横幅美学\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日本 SaaS 功能宣传横幅：一款精致的方形日本 SaaS 营销横幅，包含智能手机 UI 模型和四个信息图功能图标，非常适合在社交媒体或落地页上发布新产品功能。",
+      "subject": "文字符号",
+      "scene": "UI/界面",
+      "composition": [
+        "centered",
+        "front-facing",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "premium"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, front-facing, vertical]。\n\nVisual style:\n[参考风格: realistic, premium]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15714",
+      "14891",
+      "15795",
+      "14581",
+      "15397",
+      "14512"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "14960",
+  "prompt": "A polished anime-style night illustration in a tall 1:2 vertical composition. A young Japanese office lady stands on a riverside promenade at night, facing the viewer, offering a large glass beer mug forward in a cheerful toast. She wears a fitted dark navy business suit with a pencil skirt, white dress shirt, red necktie, and a company ID badge on a lanyard. She has long straight dark brown to black hair with soft bangs, a slim figure, and a friendly after-work mood. Her right arm is extended toward the camera holding the frosty beer mug filled with golden lager and a foamy head, making the mug appear large in the foreground because of perspective. Her left arm hangs naturally by her side. Add a single white manga-style speech balloon to her upper right with vertical Japanese text reading 「今日もお疲れさまでした！」. Set the scene on a paved waterfront walkway with metal railings, 3 visible warm lantern lights along the path, a river or canal behind her, and a modern city skyline with many illuminated windows in the background. Above, a clear deep blue star-filled night sky dominates most of the image, with the Milky Way forming a bright diagonal band from lower center behind the character toward the upper right. Use cinematic lighting with cool moonlit blues contrasted by warm lantern glows, crisp linework, subtle glossy shading on the suit, detailed star field, and a calm, celebratory end-of-work atmosphere.",
+  "translatedPrompt": "一张精致的动漫风格夜景插画，采用 1:2 竖构图。一位年轻的日本职场女性站在夜晚的河畔步道上，面向观众，欢快地举起一个大玻璃啤酒杯进行干杯。她身穿修身的深海军蓝职业套装，搭配包臀裙、白色衬衫、红色领带，脖子上挂着公司工牌。她留着深棕色至黑色的长直发，带有柔和的刘海，身材苗条，展现出下班后轻松友好的氛围。由于透视关系，她伸向镜头的右手中握着装满金色拉格啤酒和泡沫的冰镇啤酒杯，在前景中显得格外醒目。她的左臂自然垂在身侧。在她的右上角添加一个白色的漫画风格对话气泡，其中包含竖排日语文字「今日もお疲れさまでした！」。场景设定在铺设好的滨水步道上，配有金属栏杆，步道旁有 3 盏可见的暖色灯笼，身后是河流或运河，背景为拥有许多明亮窗户的现代城市天际线。画面上方，清澈深邃的蓝色星空占据了大部分空间，银河从角色身后的中心下方斜向延伸至右上角，形成一条明亮的光带。采用电影级光影效果，冷色调的月光与暖色调的灯笼光形成对比，线条清晰，套装上有细腻的光泽阴影，星空细节丰富，营造出一种宁静且充满庆祝感的下班氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫职场女性夜晚举杯庆祝：此提示词可生成一张竖构图的动漫风格夜晚城市背景插画，画面为一位职场女性举起啤酒杯，非常适合用于分享下班后放松心情的社交媒体帖文。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "manga"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: cinematic, anime, manga]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14524",
+      "15371",
+      "15370",
+      "15733",
+      "14924",
+      "15349"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "13671",
+  "prompt": "{ \"type\": \"anime promotional poster\", \"subject\": { \"character\": \"{argument name=\\\"character name\\\" default=\\\"Mayoi Hachikuji\\\"}\", \"appearance\": \"young anime girl, dark brown hair in twin tails, white headband, green hair ribbons, white short-sleeve collared shirt, dark blue pleated skirt with suspenders, green bead bracelet on left wrist\", \"accessories\": \"large pink backpack with an orange and white top section, a small green bear plushie peeking out of a pocket\", \"pose\": \"looking back over her shoulder, smiling brightly, left hand making a peace sign near her face\" }, \"environment\": \"faded, slightly blurred outdoor scene with falling pink cherry blossom petals\", \"layout\": { \"style\": \"official anime key visual, highly detailed typography, pastel pink and white color palette\", \"text_elements\": [ { \"position\": \"top-left\", \"text\": \"<Monogatari> Series OFF & MONSTER SPIN-OFF\" }, { \"position\": \"mid-left vertical\", \"text\": \"{argument name=\\\"main character text\\\" default=\\\"八九寺真宵\\\"}\", \"subtext\": \"MAYOI HACHIKUJI\" }, { \"position\": \"top-right badge\", \"text\": \"Completely New <Monogatari> Series Spin-off\" }, { \"position\": \"mid-right vertical\", \"text\": \"{argument name=\\\"catchphrase\\\" default=\\\"困ったときの、まよいちゃんだよ\\\"}\" }, { \"position\": \"bottom-left block\", \"text\": \"{argument name=\\\"broadcast date\\\" default=\\\"2024年 7月6日(土) 24:00より\\\"}\", \"subtext\": \"Broadcast starts on TOKYO MX, BS11, ABEMA, etc.\" }, { \"position\": \"bottom-right title\", \"text\": \"{argument name=\\\"series title\\\" default=\\\"傾物語 カブキモノガタリ -まよいキョンシー-\\\"}\" }, { \"position\": \"bottom-left corner\", \"text\": \"STAFF and CAST credits\" }, { \"position\": \"bottom-right angled box\", \"text\": \"synopsis paragraph starting with 'This is a story watching over a girl's growth'\" }, { \"position\": \"bottom-right corner\", \"text\": \"<Monogatari> Series logo\" } ] } }",
+  "translatedPrompt": "一张动漫宣传海报，画面中一位少女回眸微笑并比出剪刀手。她留着黑色双马尾，戴着白色发带和绿色发圈，身穿带有红色丝带的白衬衫和深蓝色短裙。她背着一个巨大的粉色背包，上面有生物图案、绿色小熊玩偶和名牌。背景是模糊的粉色街道，樱花飘落。左上角的文字叠加层显示“Monogatari Series OFF & MONSTER SPIN-OFF”。左侧的大型竖排文字为 {argument name=\"character name\" default=\"八九寺真宵\"}。右上角的粉色徽章写着“全新物语系列外传”。右侧的竖排文字为 {argument name=\"catchphrase\" default=\"困ったときの、まよいちゃんだよ\"}。右下角展示了发光的标题 {argument name=\"main title\" default=\"倾物语\"} 和副标题 {argument name=\"subtitle\" default=\"-真宵僵尸-\"}。左下角显示了以 {argument name=\"broadcast date\" default=\"2024 年 7 月 6 日\"} 开头的播出详情及制作人员名单。右下角的白色方框内包含剧情简介和系列 Logo。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫宣传海报：生成一张精美的动漫风格宣传海报，包含角色肖像、艺术字体和播出信息。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14462",
+      "14593",
+      "15740",
+      "14460",
+      "14638",
+      "14962"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "15028",
+  "prompt": "A centered studio portrait photo of a single adult man from upper chest to top of head, facing straight toward the camera against a smooth deep navy-blue backdrop. He has a very closely shaved buzz cut, visible ears on both sides, medium tan skin, and short dark facial hair concentrated along the chin and jawline with a faint mustache. Dress him in a plain off-white or cream crewneck sweatshirt with no logo. Use soft professional studio lighting with gentle highlights on the scalp, ears, neck, and sweatshirt, realistic skin texture, shallow depth of field, and a clean photographic look. Compose it symmetrically with the head near the top of frame and broad shoulders filling the lower half, in a vertical portrait orientation. Overlay 1 large opaque rectangular censor block centered over the face, covering from forehead to below the nose area and spanning most of the facial width; make the block a flat muted brown tone with slightly soft edges so the facial features are completely hidden.",
+  "translatedPrompt": "一张居中的摄影棚肖像照，拍摄对象为一名成年男性，取景范围从胸部上方至头顶，正对镜头，背景为平滑的深海军蓝色。他留着极短的寸头，双耳清晰可见，肤色为中等棕褐色，下巴和下颌线处有短促的深色胡茬，并带有淡淡的八字胡。让他穿着一件纯色米白色或奶油色圆领卫衣，无任何标志。采用柔和的专业摄影棚灯光，在头皮、耳朵、颈部和卫衣上形成柔和的高光，呈现逼真的皮肤纹理、浅景深以及干净的摄影质感。采用对称构图，头部靠近画面顶部，宽阔的肩膀填充下半部分，呈垂直肖像方向。在面部中心覆盖一个巨大的不透明矩形遮挡块，覆盖范围从前额到鼻部下方，横跨大部分面部宽度；将遮挡块设为平坦的柔和棕色调，边缘略微柔化，使面部特征完全被隐藏。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "带遮挡的摄影棚肖像：此提示词可生成一张逼真的摄影棚半身肖像，画面中的男性面部被一个巨大的遮挡块覆盖，适用于隐私主题的视觉效果或匿名头像。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting",
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, vertical]。\n\nVisual style:\n[参考风格: realistic, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting, shallow depth, depth of field, camera]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15533",
+      "14679",
+      "15723",
+      "14628",
+      "14910",
+      "15463"
+    ]
+  }
+}

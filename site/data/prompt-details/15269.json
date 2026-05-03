@@ -1,0 +1,46 @@
+{
+  "id": "15269",
+  "prompt": "Using the provided reference image, transform the photo into a stylized anime street-art illustration while keeping the same subject, pose, outfit, headphones, backpack, and graffiti-wall setting. Replace the obscured real face with a clean original anime girl face, with a short blonde bob and side-swept bangs, and make the expression calm and slightly aloof. Keep the oversized yellow hoodie and black-and-white sneakers, but simplify the clothing into bold cel-shaded shapes with thick black ink outlines. Change the object in the raised hand from touching the headphones to holding a small blue spray-paint can near the face. Intensify the wall colors into vivid cyan, hot pink, and yellow graffiti splashes, and render the whole image in a dynamic manga/pop-art style with high contrast, sketchy linework, and a slightly low-angle full-body composition.",
+  "translatedPrompt": "一张大胆的动漫街头艺术插画，描绘了一位少女随意地靠在涂鸦墙前。采用松散的草图漫画风格，具有粗犷的黑色墨线、充满活力的笔触和鲜艳的流行色彩。她留着短直波波头，发色为 {argument name=\"hair color\" default=\"浅金色\"}，配有齐刘海；皮肤白皙，琥珀棕色的双眼锐利，神情冷峻内敛，微微侧头看向一旁。她戴着超大号黑色头戴式耳机，身穿超大号 {argument name=\"hoodie color\" default=\"亮黄色\"} 连帽衫，配有白色抽绳，胸前有一个可爱的小动物头像徽章；双肩可见黑色背包带，露出双腿，穿着褶皱的深色短袜和带有黑色细节的厚底白色高帮运动鞋。她的一只手拿着蓝色喷漆罐举在耳边，仿佛刚在墙上涂鸦完正在停顿。姿势放松且略带角度，一只膝盖弯曲，身体向墙壁后倾。背景是一面绿松石蓝色的城市墙壁，上面覆盖着色彩斑斓的涂鸦和油漆滴落痕迹，包含 3 组主要的涂鸦色彩：亮粉色的标签和喷溅、黄色的色块和滴落，以及黑色的线条涂鸦。底部添加粗糙的混凝土路面，并散布着油漆痕迹。采用动态的略高摄像机视角，全身构图，高对比度赛璐璐阴影，融合了日本动漫与涂鸦艺术的活力都市青年美学。整体氛围叛逆、时尚、俏皮且现代。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "身穿黄色连帽衫的动漫涂鸦少女：此提示词可生成一张全身动漫风格的街头少女肖像，配有耳机、喷漆罐和充满活力的涂鸦墙，非常适合创作潮流都市角色艺术。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "full-body"
+      ],
+      "style": [
+        "anime",
+        "manga"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body]。\n\nVisual style:\n[参考风格: anime, manga]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14942",
+      "14190",
+      "13595",
+      "14927",
+      "15610",
+      "15686"
+    ]
+  }
+}

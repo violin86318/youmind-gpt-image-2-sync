@@ -1,0 +1,41 @@
+{
+  "id": "13636",
+  "prompt": "A composite YouTube thumbnail illustration featuring the logo for {argument name=\"game title\" default=\"Doki Doki Literature Club!\"} in the top center, designed as a pink circle with a blue heart, colorful block letters, and a green pen. Below the logo, in the lower center, is a {argument name=\"central figure\" default=\"dark silhouette of a person sitting at a desk\"} facing a glowing pink computer monitor in a dark room. The background is divided into 4 corner sections separated by torn paper edges, each containing a portrait of an anime girl in a school uniform. The top left corner shows a girl with long brown hair and a white bow smiling; the top right corner shows a girl with long dark purple hair looking sad; the bottom left corner shows a girl with short pink hair looking upset; and the bottom right corner shows a girl with short coral hair and a red bow smiling. Floating in the dark space between the characters and the central figure are exactly 3 large white question marks and 4 pieces of lined paper with blurry writing. The overall {argument name=\"atmosphere\" default=\"dark, mysterious, and slightly unsettling\"} contrasts sharply with the bright anime characters and colorful logo.",
+  "translatedPrompt": "一张 YouTube 合成缩略图插画，顶部中央为 {argument name=\"game title\" default=\"Doki Doki Literature Club!\"} 的 Logo，设计为一个带有蓝色爱心、彩色块状字母和一支绿色钢笔的粉色圆圈。Logo 下方中央是一个 {argument name=\"central figure\" default=\"坐在书桌前的深色人物剪影\"}，在黑暗的房间里正对着一台发光的粉色电脑显示器。背景被撕纸边缘分割成 4 个角落区域，每个区域内都有一位身穿校服的动漫女孩肖像。左上角是一位留着棕色长发、戴着白色蝴蝶结并微笑着的女孩；右上角是一位留着深紫色长发、神情忧郁的女孩；左下角是一位留着粉色短发、神情不安的女孩；右下角是一位留着珊瑚色短发、戴着红色蝴蝶结并微笑着的女孩。在角色与中心人物之间的黑暗空间里，漂浮着 3 个巨大的白色问号和 4 张写有模糊字迹的横线纸。整体 {argument name=\"atmosphere\" default=\"黑暗、神秘且略显不安\"} 的氛围与明亮的动漫角色和多彩的 Logo 形成了鲜明对比。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫恐怖游戏缩略图合成：生成一张游戏视频合成缩略图，包含中心剪影、游戏 Logo 以及四个带有撕纸边框的角色肖像。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15743",
+      "13841",
+      "13874",
+      "13966",
+      "14059",
+      "14233"
+    ]
+  }
+}

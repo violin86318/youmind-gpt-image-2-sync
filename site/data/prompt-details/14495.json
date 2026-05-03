@@ -1,0 +1,50 @@
+{
+  "id": "14495",
+  "prompt": "A realistic full-body portrait photo of a young Japanese woman styled as {argument name=\"character name\" default=\"Miko-chan\"}, sitting on the floor indoors against a plain light beige wall. She has a soft shoulder-length bob haircut in {argument name=\"hair color\" default=\"dark brown\"}, slightly tousled, with a natural casual look. She wears a modern cheerleader outfit in {argument name=\"outfit colors\" default=\"blue, white, and red\"}: a sleeveless cropped V-neck top with striped trim and bold text reading {argument name=\"jersey text\" default=\"AITuber OnAir\"} across the chest, plus a short pleated cheer skirt with matching color-block panels. She also wears white ankle socks and white athletic sneakers. Her pose is shy and demure, seated with both knees bent, one leg extended closer toward the camera and the other folded inward, hands clasped together between her thighs, shoulders slightly drawn in. Soft natural window light enters from the left, creating faint diagonal shadows on the floor and lower wall. Shot in a vertical composition with the whole body visible, slightly high-resolution fashion-photography realism, gentle muted tones, smooth skin, subtle shadows, minimal background, candid gravure-style atmosphere, calm and innocent mood, photorealistic.",
+  "translatedPrompt": "一张写实的全身肖像照，主角是一位风格设定为 {argument name=\"character name\" default=\"Miko-chan\"} 的年轻日本女性，坐在室内，背景为简洁的浅米色墙壁。她留着 {argument name=\"hair color\" default=\"深棕色\"} 的柔顺齐肩波波头，略显凌乱，呈现出自然随意的外观。她身穿 {argument name=\"outfit colors\" default=\"蓝、白、红\"} 配色的现代啦啦队服：一件带有条纹饰边和胸前印有 {argument name=\"jersey text\" default=\"AITuber OnAir\"} 醒目文字的无袖短款 V 领上衣，搭配同色系拼接的短款百褶啦啦队裙。她还穿着白色短袜和白色运动鞋。她的姿势羞涩文静，双膝弯曲坐在地上，一条腿向镜头方向伸展，另一条腿向内折叠，双手交叠在大腿之间，双肩微缩。柔和的自然光从左侧射入，在地板和墙壁下方投下淡淡的斜影。采用垂直构图，全身可见，具有高分辨率时尚摄影的写实感，色调柔和沉稳，皮肤细腻，阴影微妙，背景简洁，营造出一种坦率的写真风格氛围，宁静而纯真，照片级写实。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "写实啦啦队员肖像：一张身穿蓝红白相间啦啦队服的年轻女性坐在地上的写实垂直肖像，适用于角色灵感时尚肖像或偶像风格宣传图。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "full-body",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body, vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15757",
+      "14419",
+      "14506",
+      "15703",
+      "14431",
+      "14945"
+    ]
+  }
+}

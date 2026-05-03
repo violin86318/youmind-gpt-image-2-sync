@@ -1,0 +1,48 @@
+{
+  "id": "14884",
+  "prompt": "A realistic high-angle beach selfie of a young woman standing on bright white sand under harsh midday sunlight, framed from just above the head to the upper thighs in a vertical smartphone composition. She has {argument name=\"hair color\" default=\"black\"} hair parted in the center and styled into 2 long braided pigtails, one on each side. Her face is mostly obscured by her raised hand shading her eyes from the sun, creating a candid, slightly anonymous look. She is wearing a fitted ribbed deep V-neck cap-sleeve crop top in {argument name=\"top color\" default=\"pale baby blue\"} and low-rise {argument name=\"bottom color\" default=\"white\"} bottoms visible at the waist. Her body is slim with a soft, glamorous fashion-photo look. One arm is extended toward the camera holding the phone for the selfie, while the other hand rests across her forehead to block the sunlight. The lighting is extremely bright and washed with soft pale tones, producing delicate skin highlights, gentle shadows, and a clean airy summer aesthetic. Background is a minimal sandy beach with a faint strip of shoreline and water near the top edge, no other people, no props, no buildings. Style should feel like a polished social-media beach selfie, realistic skin texture, subtle retouching, soft pastel color grading, high detail, natural pose, feminine and youthful summer mood.",
+  "translatedPrompt": "一张写实的俯拍海滩自拍，画面中一位年轻女性站在明亮的白沙滩上，正午阳光强烈，采用竖屏手机构图，取景范围从头顶上方至大腿上部。她留着 {argument name=\"hair color\" default=\"黑色\"} 的中分发型，扎成两条长辫子，垂在两侧。她的脸部大部分被抬起遮挡阳光的手遮住，营造出一种不经意且略带神秘感的氛围。她穿着一件 {argument name=\"top color\" default=\"淡婴儿蓝\"} 的修身罗纹深 V 领短袖露脐上衣，腰间露出 {argument name=\"bottom color\" default=\"白色\"} 的低腰下装。她身材苗条，呈现出柔和迷人的时尚摄影质感。一只手臂伸向镜头进行自拍，另一只手横在额前遮挡阳光。光线极其明亮，带有柔和的淡色调，呈现出细腻的皮肤高光、柔和的阴影以及干净通透的夏日美学。背景为极简的海滩，顶部边缘可见淡淡的海岸线和海水，画面中没有其他人、道具或建筑物。风格应呈现出精致的社交媒体海滩自拍感，具备写实的皮肤纹理、细腻的修图效果、柔和的粉彩色调、高细节、自然的姿态，以及充满女性魅力和青春活力的夏日氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "柔和色调海滩自拍肖像：此提示词可生成一张光线柔和、充满青春夏日时尚感的写实海滩自拍肖像，适用于生活方式、社交媒体或编辑风格的图像创作。",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14984",
+      "15111",
+      "14063",
+      "13732",
+      "14008",
+      "14435"
+    ]
+  }
+}

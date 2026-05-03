@@ -1,0 +1,36 @@
+{
+  "id": "13486",
+  "prompt": "新中式极简风格高端城市海报，{argument name=\"比例\" default=\"9:16\"}竖版构图，以{argument name=\"城市\" default=\"广州\"}为核心主题，画面中心为抽象几何化的广州塔，造型简洁但具有辨识度，\n\n整体采用S型流动构图，从下方向上延展，珠江水系被设计为流动的水波纹与传统祥云纹样融合，环绕整个画面形成视觉动线，\n\n广州地标建筑以“留白+线描+局部色块”的方式点缀其中：珠江新城双塔、猎德大桥、白云山轮廓、岭南骑楼，\n传统与现代建筑自然融合，层次递进，远近虚实分明，\n\n风格控制：极简 + 高级 + 东方意境，不杂乱不过度写实，\n\n色彩方案（重点）：\n{argument name=\"色彩方案\" default=\"中国红、青蓝、鎏金\"}为主色，\n辅以少量暖金高光点缀，形成强烈视觉冲击但不俗艳，\n\n背景：大面积纯净留白或淡宣纸肌理，增强呼吸感与高级感，\n\n细节：祥云与水纹具有轻微浮雕/烫金质感，\n局部加入微光粒子或流动光线，增强现代感，\n\n光影：柔和渐变光+局部高光，突出恢弘大气氛围，\n\n整体风格：国潮高级插画 / 品牌海报级质感 / 8K / 超清细节",
+  "translatedPrompt": "新中式极简风格高端城市海报，{argument name=\"aspect ratio\" default=\"9:16\"} 竖构图，以 {argument name=\"city\" default=\"广州\"} 为核心主题。画面中心为广州塔的抽象几何版本，简洁且具有辨识度。整体采用 S 型流动构图，由底部向上延伸。珠江水系设计为流动的水波纹，并融合传统祥云纹样，环绕整个画面形成视觉动线。地标点缀采用“留白 + 线条 + 局部色块”的处理方式。风格：极简 + 高级 + 东方意境。配色方案：以 {argument name=\"color scheme\" default=\"中国红、天青蓝和金色\"} 为主色调，辅以少量暖金色点缀。背景：大面积纯白留白或浅色宣纸纹理。整体风格：国潮高端插画 / 品牌海报质感 / 8K / 超清细节。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "极简城市海报提示词：一套用于创作新中式极简高端城市海报的高质量提示词，专注于几何地标与传统纹样的结合。",
+      "subject": "空间",
+      "scene": "信息图/图解",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "城市美食地图、活动导览、园区地图、旅行视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13512",
+      "13857",
+      "13964",
+      "14009",
+      "14758",
+      "14045"
+    ]
+  }
+}

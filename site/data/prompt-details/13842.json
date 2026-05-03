@@ -1,0 +1,45 @@
+{
+  "id": "13842",
+  "prompt": "{\n  \"type\": \"video game crossover promotional poster\",\n  \"layout\": {\n    \"header\": {\n      \"description\": \"4 distinct game logos separated by 'X' marks\",\n      \"logos\": [\"原神\", \"鸣潮\", \"黑神话：悟空\", \"洛克王国：世界\"]\n    },\n    \"character_collage\": {\n      \"description\": \"A dynamic V-shaped collage merging 4 distinct game art styles\",\n      \"sections\": [\n        {\n          \"position\": \"top-left\",\n          \"style\": \"anime cel-shaded\",\n          \"content\": \"girl with white hair and blue top hat, small floating white-haired companion, water magic effects, fantasy castle background\"\n        },\n        {\n          \"position\": \"top-right\",\n          \"style\": \"anime cel-shaded\",\n          \"content\": \"male and female protagonists in black tactical outfits, dark night sky with full moon, ruined landscape\"\n        },\n        {\n          \"position\": \"center\",\n          \"style\": \"hyper-realistic 3D\",\n          \"content\": \"monkey king in ornate dark armor, intense expression, epic battlefield background\"\n        },\n        {\n          \"position\": \"bottom-right\",\n          \"style\": \"bright anime\",\n          \"content\": \"young boy in blue cap holding a wooden staff, accompanied by 3 small cute elemental mascot monsters, vibrant fantasy town\"\n        }\n      ]\n    },\n    \"center_typography\": {\n      \"main_headline\": \"{argument name=\\\"main headline\\\" default=\\\"跨越世界 共赴热爱\\\"}\",\n      \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"四大游戏联动开启\\\"}\",\n      \"game_list\": \"原神 × 鸣潮 × 黑神话：悟空 × 洛克王国：世界\"\n    },\n    \"information_panels\": {\n      \"event_details_panel\": {\n        \"columns\": 2,\n        \"left_column\": {\n          \"title\": \"联动时间\",\n          \"value\": \"{argument name=\\\"event dates\\\" default=\\\"2024/10/01 - 2024/12/31\\\"}\"\n        },\n        \"right_column\": {\n          \"title\": \"联动内容\",\n          \"bullet_points_count\": 4,\n          \"details\": [\"联动限定角色 & 皮肤\", \"专属任务 & 剧情\", \"联动道具 & 宠物\", \"主题活动 & 丰厚奖励\"]\n        }\n      },\n      \"rewards_preview_panel\": {\n        \"title\": \"联动奖励预览\",\n        \"count\": 5,\n        \"items\": [\n          { \"icon\": \"four-pointed star gem\", \"label\": \"原石×1600\" },\n          { \"icon\": \"dark metallic sphere\", \"label\": \"星声×800\" },\n          { \"icon\": \"golden bell relic\", \"label\": \"珍玩：风铎\" },\n          { \"icon\": \"blue mascot pet\", \"label\": \"洛克联动宠物\" },\n          { \"icon\": \"set of 3 cards\", \"label\": \"联动纪念名片\" }\n        ]\n      }\n    },\n    \"footer\": \"copyright text and official announcement disclaimer in small print\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"电子游戏联动宣传海报\",\n  \"layout\": {\n    \"header\": {\n      \"description\": \"4 个不同的游戏 Logo，中间以“X”符号分隔\",\n      \"logos\": [\"原神\", \"鸣潮\", \"黑神话：悟空\", \"洛克王国：世界\"]\n    },\n    \"character_collage\": {\n      \"description\": \"融合 4 种不同游戏艺术风格的动态 V 型拼贴\",\n      \"sections\": [\n        {\n          \"position\": \"左上\",\n          \"style\": \"动画赛璐珞风格\",\n          \"content\": \"戴着蓝色高礼帽的白发少女，小型漂浮白发同伴，水系魔法特效，奇幻城堡背景\"\n        },\n        {\n          \"position\": \"右上\",\n          \"style\": \"动画赛璐珞风格\",\n          \"content\": \"身着黑色战术服装的男女主角，满月下的暗夜星空，废墟景观\"\n        },\n        {\n          \"position\": \"中心\",\n          \"style\": \"超写实 3D\",\n          \"content\": \"身穿华丽暗色铠甲的孙悟空，表情坚毅，史诗级战场背景\"\n        },\n        {\n          \"position\": \"右下\",\n          \"style\": \"明亮动画风格\",\n          \"content\": \"戴着蓝色鸭舌帽、手持木杖的少年，陪伴着 3 只可爱的小型元素吉祥物怪物，充满活力的奇幻小镇\"\n        }\n      ]\n    },\n    \"center_typography\": {\n      \"main_headline\": \"{argument name=\\\"main headline\\\" default=\\\"跨越世界 共赴热爱\\\"}\",\n      \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"四大游戏联动开启\\\"}\",\n      \"game_list\": \"原神 × 鸣潮 × 黑神话：悟空 × 洛克王国：世界\"\n    },\n    \"information_panels\": {\n      \"event_details_panel\": {\n        \"columns\": 2,\n        \"left_column\": {\n          \"title\": \"联动时间\",\n          \"value\": \"{argument name=\\\"event dates\\\" default=\\\"2024/10/01 - 2024/12/31\\\"}\"\n        },\n        \"right_column\": {\n          \"title\": \"联动内容\",\n          \"bullet_points_count\": 4,\n          \"details\": [\"联动限定角色 & 皮肤\", \"专属任务 & 剧情\", \"联动道具 & 宠物\", \"主题活动 & 丰厚奖励\"]\n        }\n      },\n      \"rewards_preview_panel\": {\n        \"title\": \"联动奖励预览\",\n        \"count\": 5,\n        \"items\": [\n          { \"icon\": \"four-pointed star gem\", \"label\": \"原石×1600\" },\n          { \"icon\": \"dark metallic sphere\", \"label\": \"星声×800\" },\n          { \"icon\": \"golden bell relic\", \"label\": \"珍玩：风铎\" },\n          { \"icon\": \"blue mascot pet\", \"label\": \"洛克联动宠物\" },\n          { \"icon\": \"set of 3 cards\", \"label\": \"联动纪念名片\" }\n        ]\n      }\n    },\n    \"footer\": \"版权声明及官方公告免责声明（小字）\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "四款游戏联动活动宣传海报：生成一张高度精细的多游戏联动活动宣传海报，包含角色拼贴、活动日期以及奖励预览面板。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "anime",
+        "3d",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, anime, 3d, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15332",
+      "14531",
+      "14007",
+      "14491",
+      "14532",
+      "14605"
+    ]
+  }
+}

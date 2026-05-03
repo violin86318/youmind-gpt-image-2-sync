@@ -1,0 +1,43 @@
+{
+  "id": "13603",
+  "prompt": "A hyper-realistic trompe l'oeil image of a spiral-bound sketchbook resting on a wooden surface. On the sketchbook page is a highly detailed graphite pencil drawing of a {argument name=\"subject description\" default=\"young Asian woman with straight dark hair and bangs\"}, looking down thoughtfully as she holds a {argument name=\"object held\" default=\"Rubik's cube\"} in both hands. From the bottom right, a photorealistic human hand holding a wooden pencil enters the frame, appearing to actively draw the sketch. Resting on the top left corner of the textured paper are 1 rectangular white eraser, 1 small blue metal pencil sharpener, and scattered pencil shavings. The transition between the photorealistic hand and the graphite sketch creates a seamless optical illusion.",
+  "translatedPrompt": "一张超写实的错视画，画面中是一个放在木质桌面上的螺旋装订速写本。速写本页面上是一幅高度精细的石墨铅笔素描，描绘了一位 {argument name=\"subject description\" default=\"留着黑色直发和刘海的年轻亚裔女性\"}，她正低头沉思，双手拿着一个 {argument name=\"object held\" default=\"魔方\"}。从右下角，一只写实的人手握着木质铅笔进入画面，仿佛正在绘制这幅素描。在纹理纸张的左上角，放着 1 块长方形白色橡皮擦、1 个小型蓝色金属卷笔刀以及散落的铅笔屑。写实的手与石墨素描之间的过渡营造出一种天衣无缝的视觉错觉。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "错视画风格速写绘图：生成一张超写实的视觉错觉图，展示一只手正在笔记本上绘制精细的铅笔素描，并配有绘图工具。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13874",
+      "13960",
+      "13961",
+      "13966",
+      "14059",
+      "14258"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "15688",
+  "prompt": "{\"type\":\"four-panel Japanese advertising collage\",\"style\":\"premium commercial key visual, highly polished product advertising, realistic photography with elegant typography and strong brand identity\",\"format\":\"square 2x2 grid with thin white dividers\",\"panels\":[{\"position\":\"top-left\",\"brand\":\"LUMÉA\",\"category\":\"skincare serum ad\",\"background\":\"warm ivory-beige luxury setting with soft diffused light, silky fabric, pale stone slab, tiny translucent serum droplets, delicate dried white flowers, dreamy shallow depth of field\",\"subject\":{\"count\":1,\"product\":\"glass dropper bottle filled with pale golden serum\",\"label_text\":\"LUMÉA MOIST REPAIR SERUM\",\"details\":\"clear rectangular bottle, glossy gold cap and dropper, centered upright composition, premium cosmetic photography\"},\"text\":{\"count\":6,\"items\":[\"LUMÉA\",\"美しさは、素肌から。\",\"うるおい、澄みわたる。\",\"乾燥しやすい肌に、なめらかな透明感を。\",\"NEW\",\"モイストリペア セラム 30mL\"]}},{\"position\":\"top-right\",\"brand\":\"AERON\",\"category\":\"wireless earbuds ad\",\"background\":\"deep black and electric blue futuristic scene with glowing radial light streaks, subtle motion energy, glossy reflections, dramatic contrast\",\"subject\":{\"count\":1,\"product\":\"pair of black true wireless earbuds with open charging case\",\"label_text\":\"AERON\",\"details\":\"one earbud floating upright, one angled above the case, glossy metallic finish, tiny blue LED accent lights, centered hero shot\"},\"text\":{\"count\":6,\"items\":[\"AERON\",\"音で、すべてが変わる。\",\"軽さも、性能も、次世代。\",\"ノイズキャンセル／低遅延／24時間バッテリー\",\"今すぐチェック\",\"AERON on case front\"]}},{\"position\":\"bottom-left\",\"brand\":\"KOHARU\",\"category\":\"sparkling tea can ad\",\"background\":\"bright airy pastel scene with sparkling water droplets, soft aqua and peach tones, fresh fruit slices, white blossoms, sunlit bokeh, refreshing summery mood\",\"subject\":{\"count\":1,\"product\":\"slim pink can of sparkling tea\",\"label_text\":\"KOHARU スパークリングティー Sparkling Tea 白桃とジャスミン\",\"details\":\"condensation on can, upright centered can surrounded by peach slices and flowers, highly refreshing beverage photography\"},\"text\":{\"count\":5,\"items\":[\"KOHARU\",\"やさしい時間に、ここはるの彩りを。\",\"ひとくちで、気分が晴れる。\",\"白桃とジャスミンの爽やかな香り\",\"期間限定\"]}},{\"position\":\"bottom-right\",\"brand\":\"NAGI RESORT\",\"category\":\"travel resort ad\",\"background\":\"clear tropical coastal landscape with infinity pool, modern villa terrace, lounge chairs, palm trees, calm ocean, distant islands, bright blue sky, small airplane leaving a white trail\",\"subject\":{\"count\":1,\"product\":\"luxury seaside resort destination scene\",\"label_text\":\"NAGI RESORT\",\"details\":\"wide scenic composition, tranquil premium vacation atmosphere, architecture on right side, ocean view dominating the frame\"},\"text\":{\"count\":6,\"items\":[\"NAGI RESORT\",\"駆ける時間が、いちばんの贅沢。\",\"週末、海へ。\",\"静かな青に、心ほどける。\",\"早割プラン受付中\",\"詳しくはこちら\"]}}],\"typography\":{\"language\":\"Japanese with Latin brand names\",\"style\":\"editorial ad layout, elegant serif for luxury beauty and resort panels, bold modern sans-serif for tech panel, soft feminine serif and rounded styles for beverage panel\"},\"lighting\":\"each panel uses category-specific premium ad lighting: soft creamy glow for skincare, dramatic neon rim light for earbuds, sparkling sunlit freshness for beverage, crisp natural daylight for resort\",\"quality\":\"ultra-detailed, photorealistic, realistic packaging text placement, believable ad compositing, polished marketing mockup\"}",
+  "translatedPrompt": "{\"type\":\"四格日式广告拼贴\",\"style\":\"高端商业主视觉，高质感产品广告，带有优雅排版和强烈品牌标识的写实摄影\",\"format\":\"2x2 正方形网格，带有细白色分割线\",\"panels\":[{\"position\":\"左上\",\"brand\":\"LUMÉA\",\"category\":\"护肤精华广告\",\"background\":\"温暖的象牙米色奢华背景，柔和的漫射光，丝滑织物，浅色石板，微小的半透明精华液滴，精致的干白花，梦幻般的浅景深\",\"subject\":{\"count\":1,\"product\":\"装有浅金色精华液的玻璃滴管瓶\",\"label_text\":\"LUMÉA MOIST REPAIR SERUM\",\"details\":\"透明长方形瓶身，亮金色瓶盖和滴管，居中直立构图，高端化妆品摄影\"},\"text\":{\"count\":6,\"items\":[\"LUMÉA\",\"美しさは、素肌から。\",\"うるおい、澄みわたる。\",\"乾燥しやすい肌に、なめらかな透明感を。\",\"NEW\",\"モイストリペア セラム 30mL\"]}},{\"position\":\"右上\",\"brand\":\"AERON\",\"category\":\"无线耳机广告\",\"background\":\"深黑色与电光蓝的未来感场景，带有发光的放射状光束，微妙的运动能量，光泽反射，强烈的对比度\",\"subject\":{\"count\":1,\"product\":\"一对黑色真无线耳机及打开的充电盒\",\"label_text\":\"AERON\",\"details\":\"一只耳机悬浮直立，另一只斜置于充电盒上方，光泽金属质感，微小的蓝色 LED 指示灯，居中主视觉拍摄\"},\"text\":{\"count\":6,\"items\":[\"AERON\",\"音で、すべてが変わる。\",\"軽さも、性能も、次世代。\",\"ノイズキャンセル／低遅延／24時間バッテリー\",\"今すぐチェック\",\"AERON on case front\"]}},{\"position\":\"左下\",\"brand\":\"KOHARU\",\"category\":\"气泡茶罐广告\",\"background\":\"明亮通风的柔和色调场景，带有气泡水滴，柔和的水蓝色和桃色调，新鲜水果切片，白色花朵，阳光下的焦外成像，清爽的夏日氛围\",\"subject\":{\"count\":1,\"product\":\"细长的粉色气泡茶罐\",\"label_text\":\"KOHARU スパークリングティー Sparkling Tea 白桃とジャスミン\",\"details\":\"罐身凝结水珠，直立居中的罐体被桃子切片和花朵环绕，极具清爽感的饮料摄影\"},\"text\":{\"count\":5,\"items\":[\"KOHARU\",\"やさしい時間に、ここはるの彩りを。\",\"ひとくちで、気分が晴れる。\",\"白桃とジャスミンの爽やかな香り\",\"期間限定\"]}},{\"position\":\"右下\",\"brand\":\"NAGI RESORT\",\"category\":\"旅游度假村广告\",\"background\":\"清澈的热带沿海景观，带有无边泳池、现代别墅露台、躺椅、棕榈树、平静的海洋、远处的岛屿、明亮的蓝天，小型飞机留下的白色航迹\",\"subject\":{\"count\":1,\"product\":\"豪华海滨度假胜地场景\",\"label_text\":\"NAGI RESORT\",\"details\":\"宽广的风景构图，宁静的高端度假氛围，建筑位于右侧，海洋景观占据画面主体\"},\"text\":{\"count\":6,\"items\":[\"NAGI RESORT\",\"駆ける時間が、いちばんの贅沢。\",\"週末、海へ。\",\"静かな青に、心ほどける。\",\"早割プラン受付中\",\"詳しくはこちら\"]}}],\"typography\":{\"language\":\"日语搭配拉丁字母品牌名\",\"style\":\"编辑类广告排版，奢华美妆和度假村面板采用优雅衬线体，科技面板采用粗体现代无衬线体，饮料面板采用柔和女性化衬线体和圆体风格\"},\"lighting\":\"每个面板使用特定类别的优质广告布光：护肤品采用柔和奶油光，耳机采用戏剧性霓虹轮廓光，饮料采用闪耀阳光下的清新感，度假村采用清爽自然日光\",\"quality\":\"超细节，照片级真实感，写实的广告文字排版，可信的广告合成，精美的营销模拟图\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "四款日式广告视觉拼贴：一个由四张正方形面板组成的拼贴图，展示了护肤品、耳机、气泡茶和豪华度假村的写实风格日式广告，适用于项目或模拟广告视觉。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [
+        "centered",
+        "grid",
+        "2x2",
+        "hero shot"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "editorial",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "neon",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, grid, 2x2, hero shot]。\n\nVisual style:\n[参考风格: realistic, photorealistic, editorial, luxury, premium]。\n\nLighting and camera:\n[参考光线镜头: rim light, neon, shallow depth, depth of field]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14812",
+      "15264",
+      "15775",
+      "15639",
+      "15776",
+      "14576"
+    ]
+  }
+}

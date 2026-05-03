@@ -1,0 +1,49 @@
+{
+  "id": "14841",
+  "prompt": "A clean editorial fashion concept board on a pale powder-blue background with a minimalist green monochrome palette, combining 4 full-body lifestyle photos of the same youth streetwear tennis-inspired character arranged in a horizontal layout. On the far left, a tall vertical photo panel partially overlaps the background, showing a standing model in an oversized light gray-blue Nike windbreaker, mint green shorts, white crew socks, and white sneakers, holding a white tennis racket at their side and a small mint towel or accessory in the other hand. The character’s head is replaced by a large white doodle coffee-cup face icon with a smiling expression and ruler-like tick marks across the top rim. To the right are 3 rounded-rectangle photo panels, evenly spaced. In panel 1, the model sits in a folding chair reading a magazine and holding a green mug, with a dark Nike duffel bag on the floor and a few scattered cups nearby; the white doodle cup head has 2 steam squiggles rising above it. In panel 2, the model stands beside a pyramid made of approximately 28 stacked green and white paper cups, one arm resting on the top; they wear a soft green Nike T-shirt and shorts set, white socks, and white sneakers; a small white typographic logo in the upper left reads like a cafe or service-court brand mark. The doodle cup head here is a simple smiling cup with a wide rim. In panel 3, the model leans casually with crossed legs, holding a green cup, next to a small wire cart containing green tennis balls and topped with a retro CRT television; they wear a white polo shirt, mint shorts, white socks, and white sneakers. The doodle cup head in this panel has horizontal stripe bands across the top. Keep all faces fully replaced by the graphic cup icons, with no real facial features visible. Use a soft studio setup, flat even lighting, subtle shadows, matte textures, and a highly consistent mint, sage, olive, and white color story. Add thin white horizontal guide lines across the blue background near the top and bottom. Place small gray editorial footer text at the bottom: on the left, “{argument name=\"left footer text\" default=\"MJ REFERENCE\"}”; on the right, “{argument name=\"right footer text\" default=\"KREA // GPT 2\"}”. Overall style: premium streetwear campaign moodboard, playful surreal branding, minimalist graphic design, polished commercial photography, high consistency across all 4 looks.",
+  "translatedPrompt": "一个干净的时尚编辑概念项目，背景为淡粉蓝色，采用极简的绿色单色调，横向排列 4 张同一位青年街头网球风角色的全身生活照。最左侧是一个高大的垂直照片面板，部分覆盖在背景上，展示了一位模特站立的姿态，身穿超大号浅灰蓝色 Nike 风衣、薄荷绿短裤、白色中筒袜和白色运动鞋，一手拿着白色网球拍，另一只手拿着一条薄荷绿小毛巾或配饰。角色的头部被一个巨大的白色涂鸦咖啡杯图标取代，杯上有微笑表情，顶部边缘带有类似尺子的刻度。右侧是 3 个间距均匀的圆角矩形照片面板。面板 1 中，模特坐在折叠椅上阅读杂志并拿着一个绿色马克杯，地板上放着一个深色 Nike 运动包，附近散落着几个杯子；白色涂鸦杯头上方升起 2 缕蒸汽。面板 2 中，模特站在由大约 28 个堆叠的绿白纸杯组成的金字塔旁，一只手臂靠在顶部；他们穿着柔软的绿色 Nike T 恤和短裤套装，搭配白色袜子和白色运动鞋；左上角有一个小的白色排版标志，看起来像咖啡馆或服务球场的品牌标志。此处的涂鸦杯头是一个带有宽边的简单微笑杯子。面板 3 中，模特交叉双腿随意倚靠，拿着一个绿色杯子，旁边是一个装有绿色网球的小金属推车，上面放着一台复古 CRT 电视；他们穿着白色 Polo 衫、薄荷绿短裤、白色袜子和白色运动鞋。此面板中的涂鸦杯头顶部有横条纹。确保所有面部完全被图形杯子图标取代，不显示任何真实面部特征。采用柔和的摄影棚布景、平坦均匀的灯光、细微的阴影、哑光质感，以及高度统一的薄荷绿、鼠尾草绿、橄榄绿和白色配色方案。在蓝色背景的顶部和底部添加细长的白色水平引导线。在底部添加灰色的小型编辑页脚文字：左侧为“{argument name=\"left footer text\" default=\"MJ REFERENCE\"}”；右侧为“{argument name=\"right footer text\" default=\"KREA // GPT 2\"}”。整体风格：高端街头服饰宣传项目、俏皮的超现实品牌设计、极简图形设计、精致的商业摄影，4 种造型保持高度一致。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "单色网球街头风潮项目：此提示词可生成精美的四格时尚编辑拼贴画，采用统一的绿色调和超现实咖啡杯面部图形，非常适合用于概念项目、品牌宣传活动及 AI 风格探索。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "full-body",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "editorial",
+        "minimalist",
+        "retro",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body, vertical, horizontal]。\n\nVisual style:\n[参考风格: editorial, minimalist, retro, premium, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15448",
+      "15026",
+      "14830",
+      "15786",
+      "15318",
+      "15787"
+    ]
+  }
+}

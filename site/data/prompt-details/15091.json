@@ -1,0 +1,55 @@
+{
+  "id": "15091",
+  "prompt": "A vertical Japanese anime fantasy game or light-novel promotional poster in a soft pastel lavender, white, and gold palette, featuring a single heroic teenage girl as the main subject in a grand celestial city. She stands in a dynamic three-quarter full-body pose, slightly turned left, holding an ornate staff in her left hand, with her right arm extended behind her as if caught in wind. Her face is obscured by a flat pale square censor block centered over the head, but the visible design suggests a delicate anime heroine with very long flowing silver-lilac hair, side bangs, loose strands, and star-shaped hair ornaments with dark indigo ribbon bows. She wears an elaborate magical-girl style dress: off-shoulder white bodice with navy and violet trim, gold star motifs, layered asymmetrical skirt in white, periwinkle, violet, and deep indigo, a very large dark blue waist bow with a gold star jewel, detached flowing sleeves, gold chains with tiny star charms draped at the hip, white thigh-high stockings, and a blue star-shaped garter ornament on one thigh. Her staff is tall and elegant, dark shaft with gold frame elements and a suspended faceted blue crystal near the top, decorated with bows and star accents. The background is an airy fantasy skyline of white towers, cathedral-like spires, clouds, feathers, and drifting pink petals, with bright ethereal backlighting and a dreamy heroic atmosphere. Compose it like a polished key visual poster with abundant Japanese typography integrated into the artwork. At the upper left, place the Japanese tagline text \"願いが、未来を照らす。\" with two smaller lines below it. At the upper right, place a star-like emblem, the large character name \"ルミナ\", the subtitle \"— Lumina —\", and a smaller CV credit line. On the right side, add 3 vertically stacked feature callouts, each with a small icon and a bold Japanese heading followed by 2 short lines of smaller text. On the left side, add 1 vertical Japanese copy block running downward beside the character. At the lower right, include 3 small portrait inset panels of the same girl, stacked diagonally: 1 calm front-facing expression, 1 side-profile serious expression, and 1 smiling eyes-closed expression. At the lower left, place the large Japanese title \"星紡ぐレガシア\" with the English subtitle \"— LEGACIA: Weave the Stars —\" beneath it. At the bottom right, add the date text \"2025. 夏\" and one short Japanese tagline line below. At the very bottom edge, include 2 small social or website info blocks on the left and a tiny copyright line on the right. Render in high-end modern anime promotional illustration style, luminous pastel fantasy atmosphere, elegant composition, smooth linework and coloring, soft cel shading, delicate fabric movement, glossy highlights, intricate costume details, clean typography layout, and refined commercial poster finish.",
+  "translatedPrompt": "一张竖版日本动漫奇幻游戏或轻小说宣传海报，采用柔和的淡紫色、白色和金色调，以一位英姿飒爽的少女为主角，背景为宏伟的空中之城。她呈动态的三分之四全身姿势，身体微向左转，左手持一柄华丽的法杖，右手向后伸展，仿佛正处于风中。她的面部被一个位于头部的平坦淡色方形遮挡块覆盖，但可见的设计暗示着这是一位精致的动漫女主角，拥有极长的飘逸银丁香色长发、侧刘海、散落的发丝以及带有深靛蓝色丝带蝴蝶结的星形发饰。她身着精致的魔法少女风格连衣裙：露肩白色紧身胸衣，配有海军蓝和紫罗兰色饰边及金色星星图案；不对称的层叠裙摆，色彩融合了白色、长春花蓝、紫罗兰色和深靛蓝色；腰间饰有巨大的深蓝色蝴蝶结和金色星形宝石；配有分离式的飘逸袖子，臀部垂挂着带有微型星星挂饰的金色链条，穿着白色过膝袜，大腿上饰有蓝色星形吊带。她的法杖高挑优雅，深色杖身配有金色框架元素，顶部附近悬挂着一颗多面蓝色水晶，并饰有蝴蝶结和星星装饰。背景是轻盈的奇幻天际线，包含白色塔楼、大教堂般的尖顶、云朵、羽毛和飘落的粉色花瓣，伴有明亮空灵的背光和梦幻般的英雄氛围。构图仿照精致的主视觉海报，并将丰富的日语排版融入画面中。左上方放置日语标语“願いが、未来を照らす。”，下方附带两行较小的文字。右上方放置一个星形徽章、大号角色名“ルミナ”、副标题“— Lumina —”以及一行较小的声优信息。右侧添加 3 个垂直排列的功能标注，每个标注包含一个小图标、一个粗体日语标题以及下方两行较小的短文。左侧添加一个沿角色身侧垂直排列的日语文案块。右下方包含 3 个该角色的斜向堆叠小肖像插图：1 个平静的正面表情、1 个严肃的侧面表情和 1 个闭眼微笑的表情。左下方放置大号日语标题“星紡ぐレガシア”，下方附带英文副标题“— LEGACIA: Weave the Stars —”。右下角添加日期文本“2025. 夏”及下方一行简短的日语标语。最底端边缘左侧包含 2 个小型社交或网站信息块，右侧包含一行微小的版权声明。采用高端现代动漫宣传插画风格，呈现明亮的柔和奇幻氛围、优雅的构图、流畅的线条和色彩、柔和的赛璐珞阴影、细腻的织物动感、光泽高光、复杂的服装细节、整洁的排版布局以及精致的商业海报质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "柔和动漫奇幻风格女主角海报：此提示词可生成一张精致的竖版日本动漫奇幻宣传海报，包含一位魔法女主角、整合的标题排版、角色标注以及用于游戏、小说或动漫主视觉图的表情特写插图。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "full-body",
+        "front-facing",
+        "callout",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "backlight"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, full-body, front-facing, callout, layered, vertical]。\n\nVisual style:\n[参考风格: anime, fantasy]。\n\nLighting and camera:\n[参考光线镜头: backlight]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14607",
+      "14404",
+      "14413",
+      "14980",
+      "15367",
+      "15635"
+    ]
+  }
+}

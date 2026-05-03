@@ -1,0 +1,53 @@
+{
+  "id": "14688",
+  "prompt": "{\"type\":\"cinematic football poster infographic\",\"subject\":{\"person\":\"{argument name=\\\"player name\\\" default=\\\"Son Heung-Min\\\"}\",\"club\":\"{argument name=\\\"club name\\\" default=\\\"Tottenham Hotspur F.C.\\\"}\",\"jersey number\":\"{argument name=\\\"squad number\\\" default=\\\"7\\\"}\",\"appearance\":\"tall athletic Korean male football star in his early 30s, styled as a charismatic captain\",\"wardrobe\":\"tailored black suit, white dress shirt, slim black tie with tie clip, black dress shoes, captain armband on right sleeve, club crest on blazer chest pocket\",\"pose\":\"full-body hero pose, walking forward confidently with one hand in trouser pocket and the other relaxed, shoulders back, head slightly turned\",\"expression\":\"serious, calm, elite, composed\"},\"style\":{\"mood\":\"luxury, heroic, intense, elite sports branding\",\"rendering\":\"ultra-detailed digital painting with realistic anatomy and glossy editorial finish\",\"lighting\":\"dramatic stadium floodlights at night, strong rim light, reflective highlights on suit fabric, deep shadows\",\"palette\":\"navy blue, black, charcoal, warm gold, muted silver, white\",\"texture\":\"metallic gold linework, brushed paper poster texture, subtle grain, smoky stadium atmosphere\"},\"environment\":{\"location\":\"football stadium at night with visible stands, floodlights, banners, and a city skyline rising beyond the arena\",\"details\":[\"Tottenham banners hanging around the stadium\",\"club cockerel logos throughout the design\",\"wet or glossy pitch-side ground reflecting lights\",\"packed darkened stands\",\"high-rise buildings in the background\"]},\"layout\":{\"format\":\"vertical premium sports poster\",\"aspect_ratio\":\"2:3\",\"sections\":[{\"title\":\"left headline block\",\"position\":\"top-left to mid-left\",\"count\":6,\"labels\":[\"TOTTENHAM HOTSPUR F.C.\",\"signature scribble\",\"No. 7\",\"SON\",\"HEUNG-MIN\",\"THE HUNTER · THE CAPTAIN · THE DIFFERENCE\"]},{\"title\":\"PERSONAL DOSSIER\",\"position\":\"left-middle\",\"count\":9,\"labels\":[\"FULL NAME — SON HEUNG-MIN\",\"DATE OF BIRTH — 8 JULY 1992\",\"NATIONALITY — SOUTH KOREA\",\"HEIGHT — 183 CM\",\"POSITION — LW / CF\",\"SQUAD NUMBER — 7\",\"CLUB — TOTTENHAM HOTSPUR F.C.\",\"JOINED — 28 AUGUST 2015\",\"CONTRACT — 2025\"]},{\"title\":\"captain line\",\"position\":\"bottom of dossier\",\"count\":1,\"labels\":[\"CAPTAIN — LEADER. EXAMPLE. LEGEND.\"]},{\"title\":\"quote box\",\"position\":\"left-lower middle\",\"count\":3,\"labels\":[\"I WANT TO BE A PLAYER\",\"WHO GIVES DREAMS AND HOPE\",\"TO MANY PEOPLE.\"]},{\"title\":\"HONORS\",\"position\":\"left-bottom\",\"count\":5,\"labels\":[\"PREMIER LEAGUE GOLDEN BOOT (2021-22)\",\"PUSKÁS AWARD 2020\",\"AFC ASIAN INTERNATIONAL PLAYER OF THE YEAR 2015\",\"FIFA FIFPRO WORLD 11 2019\",\"TOTTENHAM HOTSPUR ALL-TIME TOP SCORER (ASIAN) 2023\"]},{\"title\":\"bottom-left slogan\",\"position\":\"left-bottom footer area\",\"count\":5,\"labels\":[\"HE RUNS.\",\"THEY CHASE.\",\"HE THINKS.\",\"THEY REACT.\",\"HE FINISHES.\"]},{\"title\":\"main declaration\",\"position\":\"lower-left large type\",\"count\":1,\"labels\":[\"HE IS SON.\"]},{\"title\":\"top-center motto\",\"position\":\"upper center-right near hanging banner\",\"count\":1,\"labels\":[\"TO DARE IS TO DO\"]},{\"title\":\"PLAYER TYPE\",\"position\":\"upper-right\",\"count\":5,\"labels\":[\"ELITE WIDE FORWARD\",\"EXPLOSIVE PACE — BEATS DEFENDERS IN BEHIND\",\"FOOTBALL IQ — SMART MOVEMENT & SPATIAL AWARENESS\",\"CLINICAL FINISHING — COMPOSED IN FRONT OF GOAL\",\"LEADERSHIP — LEADS BY EXAMPLE ON & OFF THE PITCH\"]},{\"title\":\"ATTRIBUTES OVERVIEW\",\"position\":\"right-middle\",\"count\":5,\"labels\":[\"PACE 94\",\"SHOOTING 88\",\"DRIBBLING 89\",\"PASSING 82\",\"PHYSICAL 82\"]},{\"title\":\"MENTALITY stat\",\"position\":\"left side of radar chart\",\"count\":1,\"labels\":[\"MENTALITY 90\"]},{\"title\":\"SIGNATURE SKILLS\",\"position\":\"right-lower middle\",\"count\":4,\"labels\":[\"EXPLOSIVE ACCELERATION — LEAVES DEFENDERS BEHIND INSTANTLY\",\"SONALDO FINISH (CURL & POWER) — DEADLY FROM ANY ANGLE\",\"INTELLIGENT MOVEMENT — ALWAYS IN THE RIGHT SPACE\",\"COMPOSED UNDER PRESSURE — CLUTCH IN BIG MOMENTS\"]},{\"title\":\"TACTICAL ROLE\",\"position\":\"bottom-right\",\"count\":5,\"labels\":[\"LEFT WING · INSIDE FORWARD\",\"STRETCHES DEFENSE\",\"CUTS INSIDE\",\"CREATES SPACE\",\"FINISHES CLINICALLY\"]},{\"title\":\"footer text\",\"position\":\"bottom border\",\"count\":3,\"labels\":[\"NORTH LONDON\",\"OUR CAPTAIN\",\"OUR LEGEND\"]}],\"centerpiece\":\"full-body central figure occupying most of the poster height, framed by narrow information panels on both sides\",\"graphic_elements\":[\"thin gold borders and dividers\",\"radar chart\",\"small tactical pitch diagram with glowing nodes and path lines\",\"4 monochrome action thumbnails stacked vertically\",\"club emblems\",\"signature marks\",\"hanging flags\"]},\"composition\":{\"camera\":\"low-angle full-body portrait for dominance and stature\",\"depth\":\"sharp focus on central figure, slightly softer background architecture and crowd\",\"design\":\"luxury magazine cover meets player scouting dossier and tribute poster\"},\"quality\":\"high-end, polished, poster-ready, premium sports marketing artwork for {argument name=\\\"headline name\\\" default=\\\"Son Heung-Min\\\"} at {argument name=\\\"team city\\\" default=\\\"North London\\\"}\"}",
+  "translatedPrompt": "{\"type\":\"电影感足球海报信息图\",\"subject\":{\"person\":\"{argument name=\\\"player name\\\" default=\\\"孙兴慜\\\"}\",\"club\":\"{argument name=\\\"club name\\\" default=\\\"托特纳姆热刺足球俱乐部\\\"}\",\"jersey number\":\"{argument name=\\\"squad number\\\" default=\\\"7\\\"}\",\"appearance\":\"30 岁出头，身材高大健硕的韩国足球明星，展现出充满魅力的队长风范\",\"wardrobe\":\"定制黑色西装，白色衬衫，纤细黑色领带配领带夹，黑色皮鞋，右袖佩戴队长袖标，西装胸袋上有俱乐部徽章\",\"pose\":\"全身英雄姿态，自信地向前迈步，一只手插在裤兜里，另一只手自然放松，双肩后展，头部微转\",\"expression\":\"严肃、冷静、精英感、沉稳\"},\"style\":{\"mood\":\"奢华、英雄气概、激烈、精英运动品牌感\",\"rendering\":\"超精细数字绘画，具备逼真的解剖结构和光泽感的编辑级质感\",\"lighting\":\"夜晚戏剧性的球场泛光灯，强烈的轮廓光，西装面料上的反光高光，深邃的阴影\",\"palette\":\"海军蓝、黑色、炭灰色、暖金色、哑光银色、白色\",\"texture\":\"金属金色线条，拉丝纸张海报质感，细腻的颗粒感，朦胧的球场氛围\"},\"environment\":{\"location\":\"夜晚的足球场，可见看台、泛光灯、横幅以及竞技场外升起的城市天际线\",\"details\":[\"球场周围悬挂的托特纳姆热刺横幅\",\"整个设计中贯穿的俱乐部公鸡标志\",\"湿润或光亮的球场侧地面反射着灯光\",\"坐满观众的昏暗看台\",\"背景中的高层建筑\"]},\"layout\":{\"format\":\"垂直高端运动海报\",\"aspect_ratio\":\"2:3\",\"sections\":[{\"title\":\"左侧标题栏\",\"position\":\"左上至左中\",\"count\":6,\"labels\":[\"托特纳姆热刺足球俱乐部\",\"签名涂鸦\",\"7 号\",\"孙\",\"兴慜\",\"猎手 · 队长 · 关键先生\"]},{\"title\":\"个人档案\",\"position\":\"左中\",\"count\":9,\"labels\":[\"全名 — 孙兴慜\",\"出生日期 — 1992 年 7 月 8 日\",\"国籍 — 韩国\",\"身高 — 183 厘米\",\"位置 — 左边锋 / 中锋\",\"球衣号码 — 7\",\"俱乐部 — 托特纳姆热刺足球俱乐部\",\"加入时间 — 2015 年 8 月 28 日\",\"合同期限 — 2025 年\"]},{\"title\":\"队长标语\",\"position\":\"档案底部\",\"count\":1,\"labels\":[\"队长 — 领袖。榜样。传奇。\"]},{\"title\":\"引言框\",\"position\":\"左中下\",\"count\":3,\"labels\":[\"我想成为一名\",\"能给许多人带来\",\"梦想和希望的球员。\"]},{\"title\":\"荣誉\",\"position\":\"左下\",\"count\":5,\"labels\":[\"英超金靴奖 (2021-22)\",\"普斯卡什奖 2020\",\"亚足联年度最佳海外球员 2015\",\"国际足联年度最佳阵容 2019\",\"托特纳姆热刺队史最佳射手 (亚洲) 2023\"]},{\"title\":\"左下口号\",\"position\":\"左下页脚区域\",\"count\":5,\"labels\":[\"他奔跑。\",\"他们追逐。\",\"他思考。\",\"他们反应。\",\"他终结。\"]},{\"title\":\"核心宣言\",\"position\":\"左下大号字体\",\"count\":1,\"labels\":[\"他就是孙。\"]},{\"title\":\"顶部中心座右铭\",\"position\":\"右上悬挂横幅附近\",\"count\":1,\"labels\":[\"敢作敢为 (TO DARE IS TO DO)\"]},{\"title\":\"球员类型\",\"position\":\"右上\",\"count\":5,\"labels\":[\"精英边锋\",\"爆发力 — 瞬间甩开防守者\",\"足球智商 — 聪明的跑位与空间意识\",\"门前终结 — 面对球门冷静沉着\",\"领导力 — 场内外以身作则\"]},{\"title\":\"能力概览\",\"position\":\"右中\",\"count\":5,\"labels\":[\"速度 94\",\"射门 88\",\"盘带 89\",\"传球 82\",\"身体 82\"]},{\"title\":\"心态数值\",\"position\":\"雷达图左侧\",\"count\":1,\"labels\":[\"心态 90\"]},{\"title\":\"核心技能\",\"position\":\"右中下\",\"count\":4,\"labels\":[\"爆发式加速 — 瞬间摆脱防守\",\"孙式终结 (弧线与力量) — 任何角度的致命一击\",\"智能跑位 — 永远出现在正确的位置\",\"压力下沉稳 — 关键时刻的绝杀能力\"]},{\"title\":\"战术角色\",\"position\":\"右下\",\"count\":5,\"labels\":[\"左边锋 · 内切边锋\",\"拉开防线\",\"内切突破\",\"创造空间\",\"冷静终结\"]},{\"title\":\"页脚文字\",\"position\":\"底部边框\",\"count\":3,\"labels\":[\"北伦敦\",\"我们的队长\",\"我们的传奇\"]}],\"centerpiece\":\"全身中心人物占据海报大部分高度，两侧由狭窄的信息面板环绕\",\"graphic_elements\":[\"细金边框与分割线\",\"雷达图\",\"带有发光节点和路径线的小型战术球场图\",\"垂直堆叠的 4 张单色动作缩略图\",\"俱乐部徽章\",\"签名标记\",\"悬挂的旗帜\"]},\"composition\":{\"camera\":\"低角度全身肖像，展现统治力和气场\",\"depth\":\"焦点聚焦于中心人物，背景建筑和人群略微虚化\",\"design\":\"奢华杂志封面与球员球探档案及致敬海报的结合\"},\"quality\":\"高端、精致、海报级，为 {argument name=\\\"headline name\\\" default=\\\"孙兴慜\\\"} 在 {argument name=\\\"team city\\\" default=\\\"北伦敦\\\"} 打造的优质运动营销艺术品\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奢华足球队长信息图海报：一张高端垂直运动海报，展示了一位身着西装的精英足球队长，配有详细的档案面板、数据、技能以及带有俱乐部品牌的球场氛围，非常适合作为致敬艺术品或英雄形象图。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "full-body",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "editorial",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "camera"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body, vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic, editorial, luxury, premium]。\n\nLighting and camera:\n[参考光线镜头: rim light, camera]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15729",
+      "14648",
+      "14925",
+      "15400",
+      "15077",
+      "15466"
+    ]
+  }
+}

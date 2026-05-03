@@ -1,0 +1,45 @@
+{
+  "id": "13772",
+  "prompt": "{\n  \"type\": \"mobile live stream app screenshot\",\n  \"aspect_ratio\": \"9:16\",\n  \"subject\": {\n    \"description\": \"{argument name=\\\"subject description\\\" default=\\\"beautiful young Asian woman with long dark hair wearing an off-the-shoulder white top\\\"}\",\n    \"action\": \"smiling warmly at the camera, holding up a white paper sign with both hands\",\n    \"sign_content\": \"{argument name=\\\"sign text\\\" default=\\\"谢谢 渣猫大哥 的大火箭！\\\"} with a small hand-drawn heart\"\n  },\n  \"background\": \"cozy softly lit bedroom, warm fairy lights, shelves with a teddy bear and decorative lamps\",\n  \"ui_elements\": {\n    \"top_header\": {\n      \"broadcaster_profile\": {\n        \"avatar\": \"female portrait\",\n        \"name\": \"{argument name=\\\"broadcaster name\\\" default=\\\"小雅\\\"}\",\n        \"subtitle\": \"23.5万本场点赞\"\n      },\n      \"follow_button\": \"关注\",\n      \"top_viewers_count\": 3,\n      \"total_viewers\": \"2.6万\",\n      \"close_button\": \"X\"\n    },\n    \"floating_badges\": [\n      \"小时榜\",\n      \"更多直播 >\",\n      \"礼物展馆 0/24\"\n    ],\n    \"gift_overlay\": {\n      \"position\": \"middle left\",\n      \"style\": \"purple pill shape\",\n      \"content\": \"{argument name=\\\"gift sender name\\\" default=\\\"渣猫大哥\\\"} 送 {argument name=\\\"gift name\\\" default=\\\"大火箭\\\"}\",\n      \"icon\": \"3D rocket\",\n      \"multiplier\": \"x1\"\n    },\n    \"chat_area\": {\n      \"position\": \"bottom left\",\n      \"message_count\": 6,\n      \"messages\": [\n        \"小甜心: 唱歌好听！\",\n        \"快乐每一天: 美美哒\",\n        \"{argument name=\\\"gift sender name\\\" default=\\\"渣猫大哥\\\"} 送出 {argument name=\\\"gift name\\\" default=\\\"大火箭\\\"} 🚀 x1\",\n        \"可爱多: 主播真漂亮\",\n        \"宝宝爱你哟: 支持支持支持\",\n        \"高冷男神: 来了\"\n      ]\n    },\n    \"bottom_toolbar\": {\n      \"input_placeholder\": \"说点什么...\",\n      \"icon_count\": 5,\n      \"icons\": [\"microphone\", \"ellipsis\", \"heart\", \"gift box\", \"ellipsis\"]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"移动端直播 App 截图\",\n  \"aspect_ratio\": \"9:16\",\n  \"subject\": {\n    \"description\": \"{argument name=\\\"subject description\\\" default=\\\"一位留着长黑发、穿着露肩白色上衣的漂亮年轻亚洲女性\\\"}\",\n    \"action\": \"对着镜头温暖微笑，双手举着一张白色纸质标语牌\",\n    \"sign_content\": \"{argument name=\\\"sign text\\\" default=\\\"谢谢 渣猫大哥 的大火箭！\\\"} 旁边画着一颗小爱心\"\n  },\n  \"background\": \"温馨且光线柔和的卧室，带有暖色调的装饰灯串，架子上摆放着泰迪熊和装饰灯\",\n  \"ui_elements\": {\n    \"top_header\": {\n      \"broadcaster_profile\": {\n        \"avatar\": \"女性肖像\",\n        \"name\": \"{argument name=\\\"broadcaster name\\\" default=\\\"小雅\\\"}\",\n        \"subtitle\": \"23.5 万本场点赞\"\n      },\n      \"follow_button\": \"关注\",\n      \"top_viewers_count\": 3,\n      \"total_viewers\": \"2.6 万\",\n      \"close_button\": \"X\"\n    },\n    \"floating_badges\": [\n      \"小时榜\",\n      \"更多直播 >\",\n      \"礼物展馆 0/24\"\n    ],\n    \"gift_overlay\": {\n      \"position\": \"左中\",\n      \"style\": \"紫色胶囊形状\",\n      \"content\": \"{argument name=\\\"gift sender name\\\" default=\\\"渣猫大哥\\\"} 送 {argument name=\\\"gift name\\\" default=\\\"大火箭\\\"}\",\n      \"icon\": \"3D 火箭\",\n      \"multiplier\": \"x1\"\n    },\n    \"chat_area\": {\n      \"position\": \"左下\",\n      \"message_count\": 6,\n      \"messages\": [\n        \"小甜心: 唱歌好听！\",\n        \"快乐每一天: 美美哒\",\n        \"{argument name=\\\"gift sender name\\\" default=\\\"渣猫大哥\\\"} 送出 {argument name=\\\"gift name\\\" default=\\\"大火箭\\\"} 🚀 x1\",\n        \"可爱多: 主播真漂亮\",\n        \"宝宝爱你哟: 支持支持支持\",\n        \"高冷男神: 来了\"\n      ]\n    },\n    \"bottom_toolbar\": {\n      \"input_placeholder\": \"说点什么...\",\n      \"icon_count\": 5,\n      \"icons\": [\"麦克风\", \"省略号\", \"爱心\", \"礼物盒\", \"省略号\"]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "直播 App 截图生成器：生成逼真的移动端直播界面，包含可自定义的主播形象、个性化感谢标语，以及完整的聊天和 UI 覆盖层。",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "3d",
+        "hand-drawn"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: 3d, hand-drawn]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14884",
+      "13523",
+      "13962",
+      "14092",
+      "15111",
+      "13835"
+    ]
+  }
+}

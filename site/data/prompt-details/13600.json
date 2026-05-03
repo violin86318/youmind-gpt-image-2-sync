@@ -1,0 +1,49 @@
+{
+  "id": "13600",
+  "prompt": "{\n  \"type\": \"highly dense futuristic tech infographic board\",\n  \"theme\": {\n    \"colors\": \"{argument name=\\\"theme color\\\" default=\\\"gold and deep blue\\\"}\",\n    \"style\": \"dark mode, glowing neon borders, complex mind-map layout, cyber-tech aesthetic\"\n  },\n  \"centerpiece\": {\n    \"description\": \"glowing golden circular emblem resembling an eye or camera lens\",\n    \"text\": [\"{argument name=\\\"main title\\\" default=\\\"GPT-Image-2\\\"}\", \"ChatGPT\", \"Silent Update Rumor {argument name=\\\"release date\\\" default=\\\"April 2026\\\"}\"]\n  },\n  \"layout\": {\n    \"top_left\": {\n      \"title\": \"Leak Images\",\n      \"count\": 4,\n      \"items\": [\"text rendering coffee menu\", \"world map\", \"anatomical diagram\", \"photorealistic pub\"]\n    },\n    \"top_right\": {\n      \"title\": \"Use Cases and Reactions\",\n      \"count\": 5,\n      \"items\": [\"e-commerce products\", \"business flyers\", \"chat stickers\", \"educational materials\", \"YouTube thumbnails\"]\n    },\n    \"left_side\": {\n      \"title\": \"Version Comparisons\",\n      \"count\": 3,\n      \"items\": [\"text rendering comparison\", \"photorealism comparison\", \"composition stability comparison\"]\n    },\n    \"inner_ring\": {\n      \"title\": \"Core Features\",\n      \"count\": 4,\n      \"items\": [\"text drawing revolution\", \"photorealism leap\", \"world knowledge\", \"editing consistency\"]\n    },\n    \"bottom_left\": {\n      \"title\": \"Technical Specs\",\n      \"count\": 2,\n      \"items\": [\"technical evolution bullet points\", \"hacker silhouette with codenames\"]\n    },\n    \"bottom_center\": {\n      \"title\": \"Model Comparison Table\",\n      \"columns\": 3,\n      \"headers\": [\"GPT-Image-1.5\", \"{argument name=\\\"main title\\\" default=\\\"GPT-Image-2\\\"}\", \"{argument name=\\\"competitor model\\\" default=\\\"Google Nano Banana\\\"}\"],\n      \"rows\": [\"text accuracy\", \"realism\", \"world knowledge\", \"editing\", \"speed\"]\n    },\n    \"bottom_right\": {\n      \"title\": \"Future Outlook\",\n      \"count\": 2,\n      \"items\": [\"notable improvements list\", \"future roadmap timeline\"]\n    },\n    \"bottom_edge\": {\n      \"title\": \"Genre Gallery\",\n      \"count\": 10,\n      \"items\": [\"architecture\", \"poster\", \"japanese text\", \"infographic\", \"fantasy\", \"steampunk\", \"minimal design\", \"food\", \"car\", \"underwater\"]\n    },\n    \"footer\": {\n      \"title\": \"Main Banner\",\n      \"text\": [\"{argument name=\\\"subtitle\\\" default=\\\"ChatGPT 画像生成革命\\\"}\", \"Next generation model in silent A/B testing\"]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"高密度未来科技风信息图项目\",\n  \"theme\": {\n    \"colors\": \"{argument name=\\\"theme color\\\" default=\\\"金色与深蓝色\\\"}\",\n    \"style\": \"深色模式，发光霓虹边框，复杂的思维导图布局，赛博科技美学\"\n  },\n  \"centerpiece\": {\n    \"description\": \"发光的金色圆形徽标，类似于眼睛或相机镜头\",\n    \"text\": [\"{argument name=\\\"main title\\\" default=\\\"GPT-Image-2\\\"}\", \"ChatGPT\", \"静默更新传闻 {argument name=\\\"release date\\\" default=\\\"2026 年 4 月\\\"}\"]\n  },\n  \"layout\": {\n    \"top_left\": {\n      \"title\": \"泄露图片\",\n      \"count\": 4,\n      \"items\": [\"文本渲染咖啡菜单\", \"世界地图\", \"解剖图\", \"照片级真实感的酒吧\"]\n    },\n    \"top_right\": {\n      \"title\": \"用例与反馈\",\n      \"count\": 5,\n      \"items\": [\"电商产品\", \"商业传单\", \"聊天贴纸\", \"教育材料\", \"YouTube 缩略图\"]\n    },\n    \"left_side\": {\n      \"title\": \"版本对比\",\n      \"count\": 3,\n      \"items\": [\"文本渲染对比\", \"照片真实感对比\", \"构图稳定性对比\"]\n    },\n    \"inner_ring\": {\n      \"title\": \"核心功能\",\n      \"count\": 4,\n      \"items\": [\"文本绘制革命\", \"照片真实感飞跃\", \"世界知识\", \"编辑一致性\"]\n    },\n    \"bottom_left\": {\n      \"title\": \"技术规格\",\n      \"count\": 2,\n      \"items\": [\"技术演进要点\", \"带有代号的黑客剪影\"]\n    },\n    \"bottom_center\": {\n      \"title\": \"模型对比表\",\n      \"columns\": 3,\n      \"headers\": [\"GPT-Image-1.5\", \"{argument name=\\\"main title\\\" default=\\\"GPT-Image-2\\\"}\", \"{argument name=\\\"competitor model\\\" default=\\\"Google Nano Banana\\\"}\"],\n      \"rows\": [\"文本准确性\", \"真实感\", \"世界知识\", \"编辑能力\", \"速度\"]\n    },\n    \"bottom_right\": {\n      \"title\": \"未来展望\",\n      \"count\": 2,\n      \"items\": [\"显著改进列表\", \"未来路线图时间轴\"]\n    },\n    \"bottom_edge\": {\n      \"title\": \"风格画廊\",\n      \"count\": 10,\n      \"items\": [\"建筑\", \"海报\", \"日语文本\", \"信息图\", \"奇幻\", \"蒸汽朋克\", \"极简设计\", \"食物\", \"汽车\", \"水下\"]\n    },\n    \"footer\": {\n      \"title\": \"主横幅\",\n      \"text\": [\"{argument name=\\\"subtitle\\\" default=\\\"ChatGPT 画像生成革命\\\"}\", \"处于静默 A/B 测试中的下一代模型\"]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复杂 AI 模型信息图项目：生成一个高密度、具有未来感的信息图项目，详细展示下一代 AI 模型的功能、对比及相关传闻。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "neon",
+        "lens",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, fantasy]。\n\nLighting and camera:\n[参考光线镜头: neon, lens, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14168",
+      "13693",
+      "13491",
+      "13639",
+      "15769",
+      "15421"
+    ]
+  }
+}

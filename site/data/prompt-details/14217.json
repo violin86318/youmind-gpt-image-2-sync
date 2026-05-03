@@ -1,0 +1,41 @@
+{
+  "id": "14217",
+  "prompt": "An anime-style key visual poster for a fictional slice-of-life anime. In the foreground left, an energetic blonde anime girl with star hairpins and blue eyes wears an {argument name=\"main character outfit\" default=\"American flag t-shirt and denim shorts\"}, holding tongs with a slice of smoked meat towards the viewer. In the foreground right, a gentle girl with long dark hair and a white sweater sits at a wooden table writing in a notebook. In the background, two more girls are present: one with a brown ponytail carrying firewood, and another with short silver hair holding a blue mug. The scene is a sunny outdoor BBQ area with a large black smoker grill featuring a sign that reads {argument name=\"background grill sign\" default=\"LONE STAR BBQ\"}. In the immediate foreground is a {argument name=\"food platter\" default=\"massive wooden platter loaded with sliced brisket, ribs, sausages, burnt ends, and pickles\"}, along with side dishes like coleslaw and bread. In the top left corner, a large, cute, bubbly anime logo reads {argument name=\"anime title\" default=\"もくもく すもーく ガールズ\"} with smoke and grill motifs. In the bottom left corner, there is a {argument name=\"credits text block\" default=\"staff credits block with names and roles\"}. In the bottom right corner, a small text box lists four character names. The overall atmosphere is cheerful, highly detailed, and vibrant.",
+  "translatedPrompt": "An anime-style key visual poster for a fictional slice-of-life anime. In the foreground left, an energetic blonde anime girl with star hairpins and blue eyes wears an {argument name=\"main character outfit\" default=\"American flag t-shirt and denim shorts\"}, holding tongs with a slice of smoked meat towards the viewer. In the foreground right, a gentle girl with long dark hair and a white sweater sits at a wooden table writing in a notebook. In the background, two more girls are present: one with a brown ponytail carrying firewood, and another with short silver hair holding a blue mug. The scene is a sunny outdoor BBQ area with a large black smoker grill featuring a sign that reads {argument name=\"background grill sign\" default=\"LONE STAR BBQ\"}. In the immediate foreground is a {argument name=\"food platter\" default=\"massive wooden platter loaded with sliced brisket, ribs, sausages, burnt ends, and pickles\"}, along with side dishes like coleslaw and bread. In the top left corner, a large, cute, bubbly anime logo reads {argument name=\"anime title\" default=\"もくもく すもーく ガールズ\"} with smoke and grill motifs. In the bottom left corner, there is a {argument name=\"credits text block\" default=\"staff credits block with names and roles\"}. In the bottom right corner, a small text box lists four character names. The overall atmosphere is cheerful, highly detailed, and vibrant.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Anime BBQ Girls Key Visual：Generates a vibrant anime-style promotional poster featuring four girls at an outdoor BBQ with prominent text overlays.",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13467",
+      "13947",
+      "14929",
+      "13613",
+      "13679",
+      "13770"
+    ]
+  }
+}

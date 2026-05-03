@@ -1,0 +1,52 @@
+{
+  "id": "14901",
+  "prompt": "A moody minimalist portrait of a young man in a formal black suit, white dress shirt, and black tie, standing against a plain light beige wall in warm late-afternoon sunlight. He is shown from the chest up, slightly angled, with his face mostly obscured by shadow and framing, emphasizing the jawline, neck, ear, and tousled short black hair. In one hand he delicately holds exactly 1 long-stemmed red rose with 1 bloom and a few small green leaves, positioned beside his chest. Strong directional golden light from the left casts a crisp shadow of both the man and the rose onto the wall, creating a cinematic romantic atmosphere. Clean editorial photography, soft natural skin tones, high contrast between the dark suit and sunlit wall, shallow luxury fashion aesthetic, centered composition, realistic photo style.",
+  "translatedPrompt": "一张极简主义风格的忧郁肖像，一位年轻男子身着黑色正装、白色衬衫并系着黑色领带，站在浅米色的素色墙前，沐浴在午后温暖的阳光中。画面为半身像，略微侧身，面部大部分被阴影和构图遮挡，突显出下颌线、颈部、耳朵和凌乱的黑色短发。他的一只手轻柔地拿着一朵长茎红玫瑰，花朵盛开，带有几片绿叶，置于胸前。来自左侧强烈的定向金色光线将男子和玫瑰的清晰阴影投射在墙上，营造出电影般的浪漫氛围。干净的编辑摄影风格，柔和自然的肤色，深色西装与阳光墙面形成高对比度，浅景深奢华时尚美学，居中构图，写实摄影风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "阳光下的西装肖像与红玫瑰：此提示词可生成一张电影质感的时尚风格肖像，描绘了一位身着正装、手持红玫瑰的年轻男子，非常适合浪漫、编辑类或个人资料风格的图像。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "editorial",
+        "minimalist",
+        "luxury"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic, cinematic, editorial, minimalist, luxury]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14679",
+      "14428",
+      "15065",
+      "15424",
+      "15533",
+      "14538"
+    ]
+  }
+}

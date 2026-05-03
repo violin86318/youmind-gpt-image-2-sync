@@ -1,0 +1,45 @@
+{
+  "id": "14948",
+  "prompt": "A single-panel Japanese comic-style illustration on a light wooden floor, drawn in a soft, detailed, slightly vintage manga-anime style with clean ink outlines and muted warm colors. In the center, a young woman kneels on the floor in a gray cockatiel kigurumi pajama suit with a white belly panel and small gray wings, while wearing an oversized yellow cockatiel hood shaped like a bird’s head with crest, round black eyes, orange cheek patches, and a beak above her forehead. She holds both sides of the hood in shock, her posture frozen and guilty, with a large rectangular censor block covering the center of her face. Across the floor in front of her is a huge mess of spilled birdseed: mixed grains, pellets, shells, and seeds scattered widely in a dense irregular pile. On the left lies 1 overturned white seed cup spilling its contents, and in the lower left corner 1 vacuum cleaner floor head points toward the mess, with part of the hose visible at the lower right edge. On the right stands 1 real cockatiel, small and curious, with a yellow face, orange cheeks, pale body, gray wings, and a raised crest, looking toward the kneeling woman; next to the bird is 1 small speech bubble containing a question mark. The background is simple indoor flooring with dramatic dark vertical stress lines filling the upper half to heighten panic. Add 4 Japanese text elements integrated like manga lettering: a huge sound effect 「ガーン」 at the upper left, 1 vertical thought bubble on the left reading 「やっちゃった…」, 1 large vertical spiky speech bubble on the upper right reading 「これ…掃除機かけるの…？無理ゲーすぎる…！」, and 1 beige caption box at the bottom right reading 「オカメ飼い、あるある。」. The mood is comedic embarrassment and domestic disaster, as if illustrating a relatable bird-owner mistake.",
+  "translatedPrompt": "一幅日式单格漫画风格插画，背景为浅色木地板，采用柔和、细腻且略带复古感的漫画动画风格，线条清晰，色调温暖柔和。画面中央，一名年轻女子跪在地上，身穿灰色玄凤鹦鹉连体睡衣，腹部为白色，带有小巧的灰色翅膀；她戴着超大的黄色玄凤鹦鹉头套，头套上有冠羽、圆圆的黑眼睛、橙色脸颊斑点和位于额头上方的鸟喙。她双手紧抓头套两侧，表情震惊，姿势僵硬且充满愧疚，脸部中央覆盖着一块巨大的长方形遮挡条。她面前的地板上是一片狼藉的散落鸟食：混合谷物、颗粒、壳和种子杂乱地堆积在一起。左侧倒着 1 个白色的种子杯，内容物倾洒而出；左下角有 1 个吸尘器吸头指向这堆混乱，软管的一部分出现在右下角边缘。右侧站着 1 只真实的玄凤鹦鹉，体型娇小，神情好奇，有着黄色的脸、橙色的脸颊、浅色的身体、灰色的翅膀和竖起的冠羽，正注视着跪着的女子；鸟儿旁边有 1 个写着问号的小气泡。背景是简单的室内地板，上半部分填充着夸张的深色垂直压力线，以增强恐慌感。添加 4 处融入漫画字体的日文元素：左上角巨大的拟声词「ガーン」，左侧 1 个垂直的内心独白气泡写着「やっちゃった…」，右上角 1 个巨大的垂直尖刺状对话气泡写着「これ…掃除機かけるの…？無理ゲーすぎる…！」，以及右下角 1 个米色的说明框写着「オカメ飼い、あるある。」。整体氛围表现出喜剧性的尴尬与家庭灾难，仿佛在描绘一个鸟主人常犯的真实错误。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "玄凤鹦鹉主人种子散落漫画：此提示词可生成一幅幽默的单格漫画风格场景，描绘了鸟主人面对大量散落种子时的崩溃瞬间，非常适合发布引起宠物主人共鸣的漫画内容。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "manga",
+        "vintage"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: anime, manga, vintage]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15705",
+      "15781",
+      "14819",
+      "14820",
+      "14674",
+      "15520"
+    ]
+  }
+}

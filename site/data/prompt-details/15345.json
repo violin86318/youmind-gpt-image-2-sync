@@ -1,0 +1,43 @@
+{
+  "id": "15345",
+  "prompt": "A moody, dark restaurant table photo styled like a trendy handwritten doodle edit, shot from a slightly elevated three-quarter angle. The scene shows a wooden table with 4 main food-and-drink items: in the center-left, a large white pasta bowl with black rim text reading \"OLIO E PIU,\" filled with creamy spaghetti or truffle pasta and topped with a glossy raw egg yolk, with a spoon resting inside the bowl and soft steam rising; at the lower right, a large white dinner plate cropped by the frame, holding roasted vegetables and a piece of browned meat with light green seasoning dust; at the lower left, a stemmed glass of white wine, partly cropped; at the upper right, a goblet-style glass of dark sparkling drink. The background is very dim and warm, almost black, making the food and glassware stand out under low ambient light. Add white hand-drawn overlay doodles and Japanese handwritten notes directly on top of the photo: one large curved headline at the upper left that says \"おいしい時間、しあわせだな〜♡\" with a sweeping underline and 2 small hearts; one note above the pasta that says \"しっとり、たまごとろり\" with a dotted arrow pointing to the egg yolk; one note near the upper-right drink that says \"さっぱり、リフレッシュ！\" with a dotted arrow pointing to the glass; one note at the lower left near the wine glass that says \"sparkling. ちょっとした ごほうび。♡\" with a curved dotted arrow; and one note near the lower center-right that says \"あまくて、やわらかい :) ♡\" with a dotted arrow pointing to the plated food. Include exactly 10 doodle embellishments besides the text: 2 steam squiggles above the pasta, 2 small sparkle stars near the wine glass, 2 small sparkle marks near the lower plate, 2 tiny droplet marks beside the upper-right drink, and 2 hearts near the headline. Use thin white chalk-like lines, casual imperfect handwriting, and a cozy editorial social-media aesthetic, keeping the composition realistic and photographic while the doodles look playful and hand-sketched.",
+  "translatedPrompt": "一张氛围感十足的深色餐厅餐桌照片，采用时尚的手绘涂鸦编辑风格，从略微俯视的四分之三角度拍摄。画面展示了一张木桌，上面摆放着 4 种主要的餐饮单品：左中位置是一个带有黑色边缘文字“OLIO E PIU”的大号白色意面碗，盛着奶油意面或松露意面，顶部放着一颗光亮的生蛋黄，碗内放着一把勺子，并冒着柔和的热气；右下角是一个被画面裁切的大号白色餐盘，盛放着烤蔬菜和一块带有浅绿色调料粉的褐色肉类；左下角是一只被部分裁切的白葡萄酒高脚杯；右上角是一只深色气泡饮料的高脚杯。背景非常昏暗且温暖，近乎黑色，使食物和玻璃器皿在低环境光下格外突出。在照片上方添加白色手绘涂鸦和日语手写注释：左上角有一行大的弧形标题，写着“おいしい時間、しあわせだな〜♡”，下方带有扫尾的下划线和 2 颗小爱心；意面上方有一条注释写着“しっとり、たまごとろり”，并有一条虚线箭头指向蛋黄；右上角饮料附近有一条注释写着“さっぱり、リフレッシュ！”，并有一条虚线箭头指向杯子；左下角葡萄酒杯附近有一条注释写着“sparkling. ちょっとした ごほうび。♡”，并有一条弯曲的虚线箭头；右下中心附近有一条注释写着“あまくて、やわらかい :) ♡”，并有一条虚线箭头指向盘中的食物。除了文字外，还需包含 10 个涂鸦装饰：意面上方 2 个热气波浪线，葡萄酒杯附近 2 颗小闪烁星，下层餐盘附近 2 个小闪烁标记，右上角饮料旁边 2 个微小水滴标记，以及标题附近 2 颗爱心。使用纤细的白色粉笔线条，呈现随意且不完美的笔触，营造出温馨的编辑类社交媒体美学，在保持构图真实摄影感的同时，让涂鸦看起来俏皮且具有手绘感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "涂鸦风格温馨餐厅餐桌照片：此提示词可生成一张色调深沉、氛围温馨的餐厅美食照片，并带有手写日语涂鸦和注释，非常适合时尚社交媒体、菜单或生活方式类编辑视觉内容。",
+      "subject": "食物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "editorial",
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, editorial, hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14833",
+      "15022",
+      "15102",
+      "14687",
+      "14659",
+      "14832"
+    ]
+  }
+}

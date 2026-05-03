@@ -1,0 +1,46 @@
+{
+  "id": "13774",
+  "prompt": "{\n  \"type\": \"app promotional infographic poster\",\n  \"style\": \"clean, modern, glassmorphism, soft shadows, 3D icons\",\n  \"theme\": \"{argument name=\\\"primary color theme\\\" default=\\\"blue and white\\\"}\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"app name\\\" default=\\\"CodePilot\\\"}\",\n    \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"你的 AI 编程副驾驶\\\"}\",\n    \"features_list\": \"智能补全 · 代码生成 · 问答调试 · 代码解析\",\n    \"main_icon\": \"glossy 3D rounded square, blue gradient, white {argument name=\\\"main icon symbol\\\" default=\\\"</>\\\"} and sparkles\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"feature_cards\",\n        \"position\": \"middle grid\",\n        \"count\": 4,\n        \"items\": [\n          {\n            \"label\": \"智能代码补全\",\n            \"icon\": \"blue lightning bolt\",\n            \"description\": \"上下文感知, 精准补全 让编码更快一步\",\n            \"ui_element\": \"macOS style code window with Python calculate_total function\"\n          },\n          {\n            \"label\": \"AI 代码生成\",\n            \"icon\": \"purple magic wand\",\n            \"description\": \"根据自然语言描述 一键生成函数 & 脚本\",\n            \"ui_element\": \"chat prompt bubble and code window with Python quick_sort function\"\n          },\n          {\n            \"label\": \"对话 & 调试助手\",\n            \"icon\": \"green chat bubble\",\n            \"description\": \"自然语言提问、定位 Bug 边聊边改, 高效解决问题\",\n            \"ui_element\": \"chat interface with user question and green AI resolution bubble\"\n          },\n          {\n            \"label\": \"代码解析 & 注释\",\n            \"icon\": \"orange document with magnifying glass\",\n            \"description\": \"快速理解复杂代码 自动生成注释与说明\",\n            \"ui_element\": \"code window with JS fetchData function and 3 floating action tags: 自动注释, 逻辑解析, 一键复制\"\n          }\n        ]\n      },\n      {\n        \"title\": \"为什么选择 CodePilot?\",\n        \"position\": \"bottom left\",\n        \"count\": 4,\n        \"labels\": [\"提升效率\", \"精准可靠\", \"隐私安全\", \"易于集成\"],\n        \"icons\": [\"clock\", \"checkmark\", \"shield\", \"puzzle piece\"]\n      },\n      {\n        \"title\": \"立即体验\",\n        \"position\": \"bottom right\",\n        \"count\": 1,\n        \"elements\": [\"GitHub 开源项目\", \"{argument name=\\\"github link\\\" default=\\\"github.com/op7418/CodePilot\\\"}\", \"QR code\"]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"应用宣传信息图海报\",\n  \"style\": \"简洁、现代、磨砂玻璃风格、柔和阴影、3D 图标\",\n  \"theme\": \"{argument name=\\\"primary color theme\\\" default=\\\"蓝白配色\\\"}\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"app name\\\" default=\\\"CodePilot\\\"}\",\n    \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"你的 AI 编程副驾驶\\\"}\",\n    \"features_list\": \"智能补全 · 代码生成 · 问答调试 · 代码解析\",\n    \"main_icon\": \"光泽感 3D 圆角正方形，蓝色渐变，白色 {argument name=\\\"main icon symbol\\\" default=\\\"</>\\\"} 及闪光效果\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"feature_cards\",\n        \"position\": \"中间网格\",\n        \"count\": 4,\n        \"items\": [\n          {\n            \"label\": \"智能代码补全\",\n            \"icon\": \"蓝色闪电\",\n            \"description\": \"上下文感知，精准补全，让编码快人一步\",\n            \"ui_element\": \"macOS 风格代码窗口，展示 Python calculate_total 函数\"\n          },\n          {\n            \"label\": \"AI 代码生成\",\n            \"icon\": \"紫色魔法棒\",\n            \"description\": \"根据自然语言描述，一键生成函数与脚本\",\n            \"ui_element\": \"聊天提示气泡和展示 Python quick_sort 函数的代码窗口\"\n          },\n          {\n            \"label\": \"对话 & 调试助手\",\n            \"icon\": \"绿色聊天气泡\",\n            \"description\": \"通过自然语言提问定位 Bug，边聊边改，高效解决问题\",\n            \"ui_element\": \"包含用户提问和绿色 AI 解决方案气泡的聊天界面\"\n          },\n          {\n            \"label\": \"代码解析 & 注释\",\n            \"icon\": \"带有放大镜的橙色文档\",\n            \"description\": \"快速理解复杂代码，自动生成注释与说明\",\n            \"ui_element\": \"展示 JS fetchData 函数的代码窗口，带有 3 个浮动操作标签：自动注释、逻辑解析、一键复制\"\n          }\n        ]\n      },\n      {\n        \"title\": \"为什么选择 CodePilot？\",\n        \"position\": \"左下角\",\n        \"count\": 4,\n        \"labels\": [\"提升效率\", \"精准可靠\", \"隐私安全\", \"易于集成\"],\n        \"icons\": [\"时钟\", \"对勾\", \"盾牌\", \"拼图块\"]\n      },\n      {\n        \"title\": \"立即体验\",\n        \"position\": \"右下角\",\n        \"count\": 1,\n        \"elements\": [\"GitHub 开源项目\", \"{argument name=\\\"github link\\\" default=\\\"github.com/op7418/CodePilot\\\"}\", \"二维码\"]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "AI 编程助手宣传信息图：为一款 AI 编程工具生成现代感十足的磨砂玻璃风格宣传海报，包含一个 2x2 的功能卡片网格（展示代码片段）以及一个优势说明板块。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "grid",
+        "2x2"
+      ],
+      "style": [
+        "3d"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "B2B 产品概念图、后台系统、数据看板",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, 2x2]。\n\nVisual style:\n[参考风格: 3d]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14627",
+      "14199",
+      "14447",
+      "15389",
+      "13928",
+      "14322"
+    ]
+  }
+}

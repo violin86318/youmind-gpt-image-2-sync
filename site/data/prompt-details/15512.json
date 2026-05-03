@@ -1,0 +1,50 @@
+{
+  "id": "15512",
+  "prompt": "A vibrant, cinematic fast-food lifestyle scene featuring {argument name=\"subject\" default=\"a young man [Uploaded image]\"} sitting relaxed on a glossy modern armchair, smiling while holding a large juicy cheeseburger in one hand and a tray of crispy fries in the other. He wears a {argument name=\"outfit\" default=\"bright yellow hoodie and casual denim jeans\"}, creating a bold color contrast. The environment is a colorful, playful fast-food interior with a split-tone wall in purple and yellow. Neon sign on the wall reading “Burger Bangor” glowing warmly. Posters with retro cartoon burger graphics and bold typography decorate the background. On the right side, a large window reveals a stylized modern city skyline with bright billboards and a slightly cartoon-inspired urban vibe. Lighting is soft cinematic with warm highlights and subtle shadows, creating a premium commercial feel. The burger is detailed with melted cheese dripping, glossy bun, and rich textures. The fries appear crispy and golden. Camera angle slightly low and wide, capturing a relaxed confident pose. Depth of field is shallow, subject in sharp focus with softly blurred background. Style: hyper-realistic, commercial food advertisement, vibrant colors, playful modern branding, 8K detail, high-end editorial photography.",
+  "translatedPrompt": "一个充满活力、电影质感的快餐生活方式场景，主角为 {argument name=\"subject\" default=\"一位年轻人 [上传图片]\"}，他舒适地坐在光亮的现代扶手椅上，面带微笑，一手拿着一个硕大且多汁的芝士汉堡，另一手拿着一盘酥脆的薯条。他穿着 {argument name=\"outfit\" default=\"亮黄色连帽衫和休闲牛仔裤\"}，形成了鲜明的色彩对比。环境是一个色彩丰富、充满趣味的快餐店室内，墙面采用紫色和黄色的双色调设计。墙上的“Burger Bangor”霓虹灯牌散发着温暖的光芒。背景装饰着带有复古卡通汉堡图案和醒目字体的海报。右侧是一扇大窗户，可以看到风格化的现代城市天际线，点缀着明亮的广告牌，呈现出略带卡通感的都市氛围。灯光采用柔和的电影级布光，带有温暖的高光和细腻的阴影，营造出高端商业广告的质感。汉堡细节丰富，芝士融化滴落，面包表皮光亮，纹理诱人。薯条看起来金黄酥脆。摄像机角度略低且视野开阔，捕捉到放松而自信的姿态。景深较浅，主体清晰对焦，背景呈现柔和的虚化效果。风格：超写实，商业美食广告，色彩鲜艳，趣味现代品牌感，8K 细节，高端编辑摄影。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "快餐生活方式商业广告：一个商业风格的提示词，描述了一位年轻人在充满活力的现代餐厅内享用汉堡的场景。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic",
+        "editorial",
+        "retro",
+        "premium"
+      ],
+      "lightingCamera": [
+        "neon",
+        "depth of field",
+        "camera"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic, editorial, retro, premium]。\n\nLighting and camera:\n[参考光线镜头: neon, depth of field, camera]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15467",
+      "14133",
+      "14828",
+      "15810",
+      "14481",
+      "14863"
+    ]
+  }
+}

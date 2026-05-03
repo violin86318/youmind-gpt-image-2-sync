@@ -1,0 +1,48 @@
+{
+  "id": "13694",
+  "prompt": "{\n  \"type\": \"photograph of an open notebook\",\n  \"setting\": \"wooden desk surface, top-down angle\",\n  \"subject\": {\n    \"hands\": \"two hands visible at the bottom, wearing a dark blue ribbed sweater, right hand holding a red pen labeled {argument name=\\\"pen brand\\\" default=\\\"PILOT G-TEC-C4\\\"} writing on the page\",\n    \"notebook\": \"open A5 dot-grid notebook with handwritten notes and diagrams in black, blue, green, and red ink\"\n  },\n  \"layout\": {\n    \"left_page\": {\n      \"header\": \"{argument name=\\\"main title\\\" default=\\\"「GPT-Image-2」による3Dモデル三面図生成の検証\\\"}\",\n      \"sections\": [\n        {\n          \"title\": \"1. 検証フロー (Workflow):\",\n          \"content\": \"text flow and a flowchart diagram\",\n          \"flowchart_elements\": 5,\n          \"flowchart_labels\": [\"Input (Prompt)\", \"GPT-Image-2\", \"正面図\", \"側面図\", \"背面図\"]\n        }\n      ]\n    },\n    \"right_page\": {\n      \"sections\": [\n        {\n          \"title\": \"2. 結果分析\",\n          \"target_box\": \"Target [{argument name=\\\"target object\\\" default=\\\"椅子\\\"}] => [3D Model & 3面図 images]\",\n          \"bullet_points_count\": 3,\n          \"bullet_point_topics\": [\"精度: ★★★☆☆\", \"整合性\", \"課題\"],\n          \"diagram_count\": 3,\n          \"diagram_labels\": [\"正面\", \"側面\", \"背面\"],\n          \"diagram_description\": \"sketches of chairs with red correction notes on the front view\"\n        }\n      ],\n      \"bottom_right_corner\": {\n        \"doodle\": \"cute anime-style line drawing of a smiling girl with short hair\",\n        \"label\": \"{argument name=\\\"character name\\\" default=\\\"あいちゃん\\\"} {argument name=\\\"date\\\" default=\\\"3/15\\\"}\"\n      }\n    }\n  }\n}",
+  "translatedPrompt": "{\"type\": \"木质书桌上打开的点阵笔记本的俯视视角\", \"subject\": {\"description\": \"穿着深蓝色罗纹毛衣的手正在笔记本上书写\", \"tool\": \"手持一支 {argument name=\\\"pen color\\\" default=\\\"红色\\\"} 中性笔\"}, \"layout\": {\"left_page\": {\"header\": \"{argument name=\\\"main title\\\" default=\\\"基于「GPT-Image-2」的 3D 模型三视图生成验证\\\"}\", \"sections\": [{\"title\": \"1. 验证流程 (Workflow):\", \"content\": \"文本序列 (文本 => GPT-Image-2 => 3D 模型生成 => 三视图(正面/侧面/背面)输出)\"}, {\"type\": \"block diagram\", \"elements\": 5, \"description\": \"标有 'Input (Prompt)' 的方框指向 'GPT-Image-2'，随后分支为 3 个分别标有 '正面图'、'侧面图' 和 '背面图' 的方框，并由绿色线条连接\"}]}, \"right_page\": {\"sections\": [{\"title\": \"2. 结果分析\", \"subtitle\": \"(例) 目标 {argument name=\\\"target object\\\" default=\\\"椅子\\\"} => [3D 模型 & 三视图图像]\", \"bullet_points\": {\"count\": 3, \"topics\": [\"精度 (5 星中 3 星)\", \"一致性\", \"挑战\"]}}, {\"type\": \"sketches\", \"count\": 3, \"subject\": \"椅子\", \"labels\": [\"正面\", \"侧面\", \"背面\"], \"annotations\": \"椅子绘图上的红色墨水箭头和修改注释\"}, {\"type\": \"doodle\", \"position\": \"右下角\", \"description\": \"可爱的动漫女孩脸\", \"signature\": \"{argument name=\\\"doodle signature\\\" default=\\\"Ai-chan 3/15\\\"}\"}]}}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "手写 AI 验证笔记本页面：生成一张俯视视角下的打开笔记本，上面绘有手写图表、文字和草图，用于分析 AI 图像生成。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "top-down",
+        "grid",
+        "annotations"
+      ],
+      "style": [
+        "anime",
+        "3d"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: top-down, grid, annotations]。\n\nVisual style:\n[参考风格: anime, 3d]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13922",
+      "13793",
+      "13821",
+      "13656",
+      "13789",
+      "15662"
+    ]
+  }
+}

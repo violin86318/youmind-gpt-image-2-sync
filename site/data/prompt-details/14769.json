@@ -1,0 +1,39 @@
+{
+  "id": "14769",
+  "prompt": "{argument name=\"风格\" default=\"真人写实\"}，{argument name=\"场景\" default=\"舞台场景\"}",
+  "translatedPrompt": "{argument name=\"style\" default=\"real-life realistic\"}, {argument name=\"scene\" default=\"stage scene\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "真实舞台场景：一个用于创建真实舞台摄影场景的提示词，利用图像到图像（image-to-image）的参考功能。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13853",
+      "13726",
+      "14056",
+      "13449",
+      "13484",
+      "13520"
+    ]
+  }
+}

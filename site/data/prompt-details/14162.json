@@ -1,0 +1,47 @@
+{
+  "id": "14162",
+  "prompt": "{\n  \"type\": \"2x2 portrait grid\",\n  \"subject\": \"{argument name=\\\"subject description\\\" default=\\\"young adult East Asian male with short black hair and a slight smile\\\"}\",\n  \"style\": \"photorealistic, high-resolution, professional lighting, consistent facial identity across all panels\",\n  \"layout\": {\n    \"format\": \"2x2 grid\",\n    \"panel_count\": 4,\n    \"panels\": [\n      {\n        \"position\": \"top-left\",\n        \"description\": \"{argument name=\\\"profession 1\\\" default=\\\"Corporate professional wearing a dark navy suit, white shirt, and blue tie against a gray textured background\\\"}\"\n      },\n      {\n        \"position\": \"top-right\",\n        \"description\": \"{argument name=\\\"profession 2\\\" default=\\\"Casual attire wearing a dark blue crew neck t-shirt against a blurred outdoor park background\\\"}\"\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"description\": \"{argument name=\\\"profession 3\\\" default=\\\"Construction worker wearing a yellow hard hat, navy blue work shirt, and bright orange high-visibility vest against a blurred warehouse background\\\"}\"\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"description\": \"{argument name=\\\"profession 4\\\" default=\\\"Medical professional wearing a white lab coat over a light blue collared shirt against a blurred laboratory background\\\"}\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"2x2 portrait grid\",\n  \"subject\": \"{argument name=\\\"subject description\\\" default=\\\"young adult East Asian male with short black hair and a slight smile\\\"}\",\n  \"style\": \"photorealistic, high-resolution, professional lighting, consistent facial identity across all panels\",\n  \"layout\": {\n    \"format\": \"2x2 grid\",\n    \"panel_count\": 4,\n    \"panels\": [\n      {\n        \"position\": \"top-left\",\n        \"description\": \"{argument name=\\\"profession 1\\\" default=\\\"Corporate professional wearing a dark navy suit, white shirt, and blue tie against a gray textured background\\\"}\"\n      },\n      {\n        \"position\": \"top-right\",\n        \"description\": \"{argument name=\\\"profession 2\\\" default=\\\"Casual attire wearing a dark blue crew neck t-shirt against a blurred outdoor park background\\\"}\"\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"description\": \"{argument name=\\\"profession 3\\\" default=\\\"Construction worker wearing a yellow hard hat, navy blue work shirt, and bright orange high-visibility vest against a blurred warehouse background\\\"}\"\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"description\": \"{argument name=\\\"profession 4\\\" default=\\\"Medical professional wearing a white lab coat over a light blue collared shirt against a blurred laboratory background\\\"}\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "4-Panel Professional Avatar Grid：Generates a 2x2 grid of photorealistic portraits showing the same person in four different professional and casual outfits.",
+      "subject": "人物",
+      "scene": "综合视觉",
+      "composition": [
+        "grid",
+        "2x2"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "风格对比、产品系列、前后对照、角色变体",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 综合视觉 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, 2x2]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14519",
+      "14181",
+      "14186",
+      "14192",
+      "13952",
+      "14492"
+    ]
+  }
+}

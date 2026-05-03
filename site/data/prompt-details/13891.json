@@ -1,0 +1,44 @@
+{
+  "id": "13891",
+  "prompt": "{\n  \"type\": \"anime character graphic design poster\",\n  \"subject\": {\n    \"description\": \"anime girl blowing a pink bubblegum bubble\",\n    \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"reddish-brown\\\"}\",\n    \"eyes\": \"blue\",\n    \"clothing\": \"blue jacket\",\n    \"accessories\": \"blue over-ear headphones around the neck with a white triangle logo\"\n  },\n  \"style\": \"vibrant anime illustration integrated with typography, blue and white color palette with red accents, paint splatters, halftone dot patterns, scattered blue petals, 3 hand-drawn heart doodles\",\n  \"layout\": {\n    \"top_left\": \"Large bold text 'MIKU' in blue above 'NAKANO' in red\",\n    \"mid_left\": \"A line-art headphone icon above small text 'THE QUINTESSENTIAL QUINTUPLETS' and a large blue number '3'\",\n    \"bottom_left\": \"A white sticky note taped to the background with handwritten Japanese text '{argument name=\\\"sticky note text\\\" default=\\\"好きだから頑張るよ♡\\\"}'\",\n    \"top_right\": \"A vertical blue banner with white Japanese text '{argument name=\\\"vertical text\\\" default=\\\"中野 三玖\\\"}'\",\n    \"bottom_right\": \"White cursive signature '{argument name=\\\"signature text\\\" default=\\\"Miku Nakano ♡\\\"}' next to a small doodle of a girl wearing headphones\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"动漫角色平面设计海报\",\n  \"subject\": {\n    \"description\": \"吹着粉色泡泡糖的动漫女孩\",\n    \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"红棕色\\\"}\",\n    \"eyes\": \"蓝色\",\n    \"clothing\": \"蓝色夹克\",\n    \"accessories\": \"脖子上挂着蓝色头戴式耳机，耳机上有白色三角形标志\"\n  },\n  \"style\": \"充满活力的动漫插画，融合了排版设计，蓝白配色方案点缀红色，带有油漆溅射、半调网点图案、散落的蓝色花瓣以及 3 个手绘心形涂鸦\",\n  \"layout\": {\n    \"top_left\": \"左上角为蓝色的大号粗体文字 'MIKU'，下方为红色的 'NAKANO'\",\n    \"mid_left\": \"左侧中部为一个线条画耳机图标，下方为小字 'THE QUINTESSENTIAL QUINTUPLETS' 和一个蓝色大数字 '3'\",\n    \"bottom_left\": \"左下角为一张贴在背景上的白色便签，上面有手写日文 '{argument name=\\\"sticky note text\\\" default=\\\"好きだから頑張るよ♡\\\"}'\",\n    \"top_right\": \"右上角为一条垂直的蓝色横幅，上面有白色日文 '{argument name=\\\"vertical text\\\" default=\\\"中野 三玖\\\"}'\",\n    \"bottom_right\": \"右下角为白色草书签名 '{argument name=\\\"signature text\\\" default=\\\"Miku Nakano ♡\\\"}'，旁边是一个戴着耳机的女孩小涂鸦\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫角色排版海报：生成一张充满活力的平面设计风格动漫角色海报，融合了排版设计、签名以及装饰性布局元素。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: anime, hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14511",
+      "15321",
+      "15079",
+      "14262",
+      "14266",
+      "14815"
+    ]
+  }
+}

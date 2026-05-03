@@ -1,0 +1,44 @@
+{
+  "id": "15525",
+  "prompt": "{argument name=\"product\" default=\"Minimalist luxury watch\"} campaign, oversized wristwatch positioned like modern sculpture, model leaning against the dial, giant word “{argument name=\"text\" default=\"TIME\"}” in bold typography behind, {argument name=\"background color\" default=\"deep emerald\"} studio background, reflective polished floor, Swiss luxury advertising aesthetic, cinematic editorial styling, ultra-clean composition, 1:1",
+  "translatedPrompt": "{argument name=\"product\" default=\"极简主义奢华腕表\"} 广告活动，超大尺寸腕表呈现如现代雕塑般的质感，模特倚靠在表盘旁，背景是醒目的粗体字“{argument name=\"text\" default=\"TIME\"}”，{argument name=\"background color\" default=\"深祖母绿\"} 色摄影棚背景，反光抛光地面，瑞士奢华广告美学，电影级编辑风格，极致简洁的构图，1:1",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "极简主义奢华腕表广告：一个用于高端极简主义奢华腕表广告活动的提示词，包含现代雕塑构图和醒目的排版设计。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "editorial",
+        "minimalist",
+        "luxury",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, editorial, minimalist, luxury, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15773",
+      "15243",
+      "15527",
+      "15810",
+      "14887",
+      "14837"
+    ]
+  }
+}

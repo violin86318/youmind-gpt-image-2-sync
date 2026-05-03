@@ -1,0 +1,45 @@
+{
+  "id": "13665",
+  "prompt": "A high-fashion editorial photograph of a female model standing in an {argument name=\"environment\" default=\"arid desert landscape\"} with distant mountains under a soft cloudy sky. She is wearing a spectacular, structured haute couture dress made entirely of folded {argument name=\"dress material\" default=\"vintage maps\"}, featuring sharp, origami-like geometric layers and a strapless bodice. She has dark hair swept up, striking facial features, and wears large circular earrings resembling compasses. Surrounding her in the air are exactly 7 floating {argument name=\"floating objects\" default=\"elongated compass needles with clock faces in the center\"}. The image features {argument name=\"lighting\" default=\"cinematic late afternoon lighting\"}, casting soft shadows and highlighting the textures of the paper dress and the dry earth. Photorealistic, surreal fashion photography.",
+  "translatedPrompt": "一张超现实、电影感的高级时尚编辑肖像，一位女性站在 {argument name=\"landscape setting\" default=\"干燥、多岩石且远眺群山的沙漠\"} 中。她身着一件精致、蓬松的露肩礼服，整件礼服完全由 {argument name=\"dress material\" default=\"折叠的复古地理地图\"} 构成，呈现出锋利的折纸状褶皱和层次。她将深色头发向后梳起，佩戴着大圆环耳环。在她周围多云的天空中，漂浮着 7 个细长的菱形物体，中心带有 {argument name=\"floating object design\" default=\"时钟或指南针表盘\"}。光线柔和且具有电影质感，宛如午后黄金时刻，投射出柔和的阴影，突显了礼服的结构褶皱。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "超现实地图礼服时尚大片：生成一张电影感、超现实的时尚肖像，展示模特身着由地图制成的折纸风格礼服，背景为沙漠。",
+      "subject": "服饰",
+      "scene": "摄影/真实场景",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "editorial",
+        "vintage"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, editorial, vintage]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14674",
+      "15152",
+      "15651",
+      "14821",
+      "13604",
+      "13806"
+    ]
+  }
+}

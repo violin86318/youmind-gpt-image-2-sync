@@ -1,0 +1,46 @@
+{
+  "id": "14512",
+  "prompt": "A minimalist flat vector illustration on a light gray background showing a whimsical bird riding a bicycle, built entirely from simple geometric shapes with thick black outlines. The bicycle is a black line-drawn road bike in side view facing left, with 2 large wheels, each wheel divided by a vertical and horizontal spoke cross, a simple triangular frame, a small black saddle, pedals, and a thin black ground line running horizontally beneath the bike. The rider is a stylized white bird with a large round body, a smaller round head, a pointed orange beak opened wide, and a pink lower beak interior. The bird has 1 visible black eye, a simple curved black line on top of the head, 1 teardrop-shaped wing behind the neck, and 1 angled white tail feather shape pointing backward. The bird leans forward over the bicycle as if actively riding. It has 2 long narrow orange legs with black outlines extending downward over the frame toward the pedals. Keep the composition centered, playful, clean, and abstract, with no shading, no texture, and a modern icon-like graphic style.",
+  "translatedPrompt": "在浅灰色背景上的一张极简主义扁平矢量插图，展示了一只异想天开的骑自行车小鸟，完全由带有粗黑色轮廓的简单几何形状构成。自行车为侧视图，呈黑色线条勾勒的公路车样式，朝向左侧，配有 2 个大轮子，每个轮子由垂直和水平的辐条十字交叉分割，车架为简单的三角形，配有黑色小车座、踏板，以及自行车下方水平延伸的细黑色地面线。骑行者是一只风格化的白色小鸟，拥有圆润的大身体、较小的圆脑袋、张开的尖尖橙色喙，喙内侧为粉色。小鸟有 1 只可见的黑色眼睛，头顶有一条简单的黑色弧线，颈后有 1 片泪滴状翅膀，尾部有 1 片向后指的角状白色尾羽。小鸟身体前倾，仿佛正在积极骑行。它有 2 条细长的橙色腿，带有黑色轮廓，向下延伸至车架上的踏板处。保持构图居中、趣味、简洁且抽象，无阴影、无纹理，呈现出现代图标式的图形风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "骑自行车的几何小鸟：此提示词可生成一张简洁的极简主义矢量插图，描绘了一只风格化的骑行小鸟，适用于趣味编辑图形、Logo 设计或现代海报艺术。",
+      "subject": "文字符号",
+      "scene": "UI/界面",
+      "composition": [
+        "centered",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "minimalist"
+      ],
+      "lightingCamera": [],
+      "text": "禁止额外文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical, horizontal]。\n\nVisual style:\n[参考风格: minimalist]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n禁止额外文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15714",
+      "15795",
+      "15617",
+      "15397",
+      "14909",
+      "13761"
+    ]
+  }
+}

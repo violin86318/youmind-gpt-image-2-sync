@@ -1,0 +1,47 @@
+{
+  "id": "15441",
+  "prompt": "A cinematic historical scene from Romance of the Three Kingdoms showing the {argument name=\"scene name\" default=\"Peach Garden Oath\"}. Three ancient Chinese men stand side by side behind a ceremonial altar table in a blooming orchard of pink peach blossoms, each holding a respectful fist-and-palm salute at chest height. The man on the left is broad and heavily built, wearing dark lamellar armor with a deep red robe panel and rugged warrior styling; the man in the center is shorter and slimmer, wearing layered brown scholar-official robes and a simple topknot; the man on the right is tall and imposing, wearing flowing dark green robes with armor details, a long black beard, and a noble commanding presence. In front of them is one large carved wooden altar table arranged with exactly 10 ritual elements: 1 bronze incense burner in the center with three lit incense sticks and visible curling smoke, 4 bronze candlesticks with small flames placed near the corners, 1 fruit plate with peaches, 1 ewer or wine vessel on the left, 2 bronze pouring vessels on the right, and 1 open scroll laid across the tabletop. Pink petals drift through the air and scatter on the ground. The orchard forms a tunnel of flowering branches overhead, with rustic wooden fencing and traditional buildings softly visible in the background through light spring haze. Include exactly 2 horses flanking the group: a dark horse on the far left and a white horse on the far right, both saddled and calm. Composition is symmetrical, eye-level, centered on the oath ritual, with rich period textures, realistic faces and fabrics, soft natural morning light, shallow atmospheric depth, and an epic, reverent, painterly-cinematic realism in the style of a prestige historical drama.",
+  "translatedPrompt": "一幅来自《三国演义》的电影感历史场景，展示了 {argument name=\"scene name\" default=\"桃园结义\"}。三位中国古代男子并肩站在盛开的粉色桃花林中的祭坛桌后，每人都在胸前行抱拳礼。左侧男子身材魁梧，身穿深色札甲，内衬深红色长袍，造型粗犷威武；中间男子身材较矮瘦，身穿多层棕色文官长袍，梳着简单的发髻；右侧男子身材高大威严，身穿飘逸的深绿色长袍，带有盔甲细节，留着长长的黑胡须，气宇轩昂。他们面前是一张大型雕花木祭坛桌，上面摆放着 10 件仪式用品：中间 1 个青铜香炉，插着三支点燃的香，烟雾缭绕；角落处放置 4 支点燃的小蜡烛；1 个放着桃子的果盘；左侧 1 个酒壶；右侧 2 个青铜斟酒器；以及桌面上摊开的 1 卷书简。粉色的花瓣在空中飘落，散落在地面上。头顶的桃花枝形成了一条花海隧道，背景在春日的薄雾中隐约可见质朴的木栅栏和传统建筑。画面两侧各配有 1 匹马：最左侧为黑马，最右侧为白马，两匹马均已备鞍，神态安详。构图对称，平视视角，以结义仪式为中心，呈现出丰富的时代质感、写实的人物面部与织物纹理、柔和的自然晨光、浅景深效果，以及如同史诗级历史剧般庄重、具有绘画感的电影级写实风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "桃园结义电影感场景：此提示词可生成一幅桃花树下极具电影感的“三国”结义仪式画面，非常适合历史插画、概念艺术或戏剧性文学场景的重现。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "layered"
+      ],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": "得分 74；构图: centered, symmetrical, layered；风格: realistic, cinematic；要求精确文字"
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, layered]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15337",
+      "14653",
+      "15720",
+      "14488",
+      "15428",
+      "13788"
+    ]
+  }
+}

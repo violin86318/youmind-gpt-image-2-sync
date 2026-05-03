@@ -1,0 +1,46 @@
+{
+  "id": "15351",
+  "prompt": "A dreamy pastel-purple Japanese movie poster illustration in a glossy shoujo anime style, packed with blueberry dessert chaos and soft sparkles. The scene shows 1 seated teenage girl with a short silver-lavender bob haircut, side bangs, a small lavender bow hair clip, and alternative cute fashion, sitting on the floor in a messy kitchen or baking workspace. Her face is intentionally covered by a centered square censor block in muted lavender-gray. She wears an oversized translucent lavender jacket with black ribbon details on the sleeves, a light purple graphic top, layered silver necklaces, a purple plaid skirt, slouchy white leg warmers decorated with lavender heart patches and black bows, and chunky lavender platform sneakers with ribbon accents. She holds 1 blueberry near her mouth with one hand and 1 metal mixing bowl smeared with vivid purple blueberry batter in the other. In front of her is 1 large golden pound cake split open dramatically, overflowing with dark glossy blueberries and purple filling, spilling across 1 cooling rack and the tabletop. Counted blueberries are scattered throughout the composition as floating and resting props, creating a whimsical suspended effect. The environment is cluttered with baking tools and notes: 1 spiral notebook page in the upper right labeled in English with a handwritten recipe for blueberry pound cake, 1 whisk in the lower right, 1 small pinned photo print in the lower left showing 2 anime girls, and 1 handwritten note card in the lower right with Japanese writing and a small bunny doodle. Use a monochrome palette of lilac, violet, periwinkle, cream, and deep blueberry purple, with luminous highlights, soft haze, translucent overlays, and romantic glitter. Add large expressive Japanese calligraphy text dominating the left half of the poster, reading vertically and diagonally like a dramatic light-novel or film advertisement, plus a ribbon banner near the cake with the date text “2026年7月メロードショー”, vertical copy on the right side, small production-credit text across the bottom, and a final tagline line at the very bottom. Make the composition feel like a cute disaster: beautiful but failed baking, sweet melancholy, fashionable messiness, and cinematic promotional poster energy.",
+  "translatedPrompt": "一张梦幻般的淡紫色日本电影海报插画，采用光泽感的少女动漫风格，充满了蓝莓甜点带来的混乱感与柔和的闪光。画面中，1 位少女坐在杂乱的厨房或烘焙工作台的地板上，留着银紫色短波波头，侧分刘海，戴着一个淡紫色小蝴蝶结发夹，身穿另类可爱的时尚服饰。她的脸部被一个居中的方形淡紫色灰色遮挡块刻意遮住。她穿着一件超大号半透明淡紫色夹克，袖口有黑色丝带装饰，内搭浅紫色印花上衣，叠戴银色项链，穿着紫色格纹裙、装饰着淡紫色心形补丁和黑色蝴蝶结的宽松白色堆堆袜，以及带有丝带装饰的厚底淡紫色运动鞋。她一只手拿着 1 颗蓝莓靠近嘴边，另一只手拿着 1 个沾满鲜艳紫色蓝莓面糊的金属搅拌碗。在她面前，1 个巨大的金色磅蛋糕戏剧性地裂开，溢出深色光亮的蓝莓和紫色馅料，洒落在 1 个冷却架和桌面上。蓝莓散落在整个画面中，作为悬浮和静置的道具，营造出一种奇妙的悬浮感。环境里杂乱地摆放着烘焙工具和笔记：右上角有 1 页螺旋笔记本，上面用英文手写着蓝莓磅蛋糕的食谱；右下角有 1 个打蛋器；左下角有 1 张别着的小照片，上面画着 2 位动漫少女；右下角还有 1 张写着日文和简笔画小兔子的手写便签。整体采用丁香紫、紫罗兰、长春花蓝、奶油色和深蓝莓紫的单色调，辅以明亮的高光、柔和的雾气、半透明的叠层和浪漫的闪粉。在海报左半部分加入醒目的大号日文书法文字，像戏剧性的轻小说或电影广告一样垂直和对角线排布；蛋糕旁配有 1 条丝带横幅，上面写着日期“2026年7月メロードショー”；右侧配有垂直文案；底部有小字制作人员名单；最底部有一行最终标语。整体构图营造出一种“可爱的灾难”感：美丽却失败的烘焙、甜蜜的忧郁、时尚的凌乱感以及电影宣传海报的张力。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "淡紫色蓝莓蛋糕动漫海报：一张风格化的日本动画电影海报，主角是一位淡紫色主题的少女，画面中包含炸裂的蓝莓磅蛋糕和极具张力的手写字体，非常适合作为电影主视觉图或宣传海报。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, layered, vertical]。\n\nVisual style:\n[参考风格: cinematic, anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14947",
+      "14598",
+      "14472",
+      "14469",
+      "15267",
+      "15709"
+    ]
+  }
+}

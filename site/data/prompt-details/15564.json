@@ -1,0 +1,35 @@
+{
+  "id": "15564",
+  "prompt": "生成一个抖音直播的截图里面是一个穿着{argument name=\"服饰\" default=\"中国传统服饰\"}的{argument name=\"性别\" default=\"男子\"}在{argument name=\"动作\" default=\"直播卖货\"}",
+  "translatedPrompt": "生成一张抖音直播间截图，画面中包含一名 {argument name=\"gender\" default=\"男性\"}，身着 {argument name=\"clothing\" default=\"中式传统服装\"}，正在 {argument name=\"action\" default=\"直播带货\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "直播人物提示词：用于生成一名身着中式传统服装在抖音直播间带货的男性截图的提示词。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

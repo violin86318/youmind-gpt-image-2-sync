@@ -1,0 +1,39 @@
+{
+  "id": "14338",
+  "prompt": "创作一幅超逼真的 3D 插画，描绘一个略微倾斜的 {argument name=\"平台\" default=\"Twitter/X\"} 个人资料页面，背景为简洁的灰色。保留原有的卡通头像。界面必须与真实的 X 截图相似，包含真实的布局、认证徽章、粉丝统计、个人资料横幅和推文部分。\n\n个人资料详情：\n\n一位时尚的{argument name=\"人物\" default=\"年轻男子\"}，有着蓬松的亮黑色短发和白皙的皮肤，从个人资料页面的右侧撕开的纸片中跃然而出。他保留了原有的面部特征，只是将表情改为{argument name=\"表情\" default=\"自然自信的微笑\"}。他握着撕开的纸片边缘，纸屑四处飞溅，营造出强烈的 3D 突破效果。\n\n柔和的影棚灯光、电影级的阴影、景深、超高细节、清晰的焦点、逼真的皮肤、逼真的 UI 反射、优质的构图、4K 分辨率、逼真与微妙的皮克斯风格融合。\n\n重要提示：\n- 请勿更改头像\n- 保持 X UI 界面准确\n- 保留原有的面部特征\n- 角色为男性\n- 仅增强笑容\n- 确保所有中文文字清晰易读",
+  "translatedPrompt": "创建一个超写实的 3D 插图，描绘一个略微倾斜的 {argument name=\"platform\" default=\"Twitter/X\"} 个人资料页面，背景为简单的灰色。保留原始的卡通头像。界面必须类似于真实的 X 截图，包括逼真的布局、认证徽章、关注者统计数据、个人资料横幅和推文部分。\n\n个人资料详情：\n一位时尚的 {argument name=\"subject\" default=\"年轻男性\"}，留着蓬松的乌黑短发，皮肤白皙，从个人资料页面右侧撕裂的纸张部分跃出。他保留了原始的面部特征，但表情变为 {argument name=\"expression\" default=\"自然自信的微笑\"}。他抓住撕裂纸张的边缘，碎片四处飞溅，营造出强烈的 3D 破屏效果。\n\n柔和的摄影棚灯光、电影级阴影、景深、超高细节、清晰对焦、逼真的皮肤质感、逼真的 UI 反光、高级构图、4K 分辨率，融合了写实风格与细腻的皮克斯风格。\n\n重要提示：\n- 不要更改头像\n- 保持 X UI 界面准确\n- 保留原始面部特征\n- 主体为男性\n- 仅增强微笑表情\n- 确保所有中文字符清晰易读",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "3D 弹出式个人资料页面插图：一个用于创建 3D 效果插图的高细节提示词，描绘角色从逼真的社交媒体个人资料 UI 中破屏而出的场景。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "3d"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: 3d]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14721",
+      "15575",
+      "14317",
+      "14794",
+      "15613",
+      "13485"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "14545",
+  "prompt": "A hyper-detailed vertical Japanese theme park advertisement poster set in a lush tropical jungle under a vivid blue sky with scattered clouds and strong golden sunlight flaring from the upper right. The style is cinematic, photorealistic, dramatic, and slightly absurdist, like a premium satirical travel ad. At the top, huge three-dimensional stone-textured gold Japanese headline text reads {argument name=\"headline text\" default=\"ジャンキリア沖縄\"}, with a smaller white Japanese tagline underneath that reads \"— やんばるの大自然に包まれた、超本格ジャングル・テーマパーク —\". In the center foreground, a giant modern smartphone stands upright, slightly tilted, dominating the composition like a monument. Its screen shows a lottery waiting-ticket interface with a safari silhouette header and large bold Japanese text \"整理券抽選中\", a dotted loading circle, smaller text \"結果発表まで30分\", and a tiny note \"※この画面を閉じずにお待ちください\". The phone status bar shows 10:00. To the left midground, a roaring Tyrannosaurus rex emerges from dense jungle foliage behind a huge aged concrete sign with oversized red Japanese text \"待ち時間 180分\". To the right midground, an ornate extravagant gold entrance gate to a premium area rises above the trees, with a black signboard reading \"プレミアムパス入口\" and a red-carpeted queue lane beyond it. A long crowded line of park visitors stretches from the foreground deep into the background along rope barriers; the visitors wear summer vacation clothing, hats, towels, backpacks, handheld fans, water bottles, and parasols, showing exhaustion, heat, and anticipation. In the lower left foreground, 3 stacked rustic wooden signboards are visible: the top board says \"駐車場 2,000円\" with a parking icon, the middle board says \"アプリ必須 ダウンロードしてね!\" with a smartphone icon, and the bottom board says \"当選者だけが冒険へ\" with a dinosaur silhouette. Along the right side, large vertical white brush-style Japanese copy reads {argument name=\"side slogan\" default=\"待つこと、それが冒険だ。\"}. Near the lower right are 3 circular gold icon callouts with short Japanese promotional lines: 1 dinosaur icon with \"抽選に選ばれし者だけが、恐竜に会える。\", 1 smartphone battery icon with \"スマホの充電が尽きる前に、夢は始まる。\", and 1 VIP icon with \"プレミアムな近道も、ご用意しました。\". At the very bottom center, include a small black strip with white Japanese disclaimer text: \"このポスターは架空のパロディ広告です\". The jungle should be dense and glossy with large tropical leaves framing the foreground, warm rim lighting, high contrast, and a polished blockbuster-poster composition. Keep all Japanese typography crisp, clean, and perfectly legible.",
+  "translatedPrompt": "一张超精细的日式恶搞主题公园广告海报，采用竖版构图，设计风格融合了戏剧性的夏季旅游广告与奢华景点宣传。背景为热带丛林，上方是湛蓝的天空，点缀着零星云朵，右上角悬挂着烈日，棕榈叶从顶部边缘垂下。海报顶部放置一个巨大的 3D 石质纹理日文标题 {argument name=\"headline text\" default=\"ジャンキリア沖縄\"}，下方配有一行较小的白色日文标语：“— やんばるの大自然に包まれた、超本格ジャングル・テーマパーク —”。画面中央是一部竖立且略微倾斜的现代智能手机，占据视觉中心。手机屏幕显示着一个米色的门票抽签等待界面，顶部有丛林剪影，中间是醒目的粗体日文“整理券抽選中”，配有一个圆形加载图标，底部显示较小的文字“結果発表まで30分”和“※この画面を閉じずにお待ちください”。手机状态栏显示时间为 10:00。手机左后方是一只从丛林植被中冲出的霸王龙，张着大嘴，形象逼真且极具威胁感。右侧是一个装饰华丽的金色入口大门，带有精细雕刻，上方挂着写有“プレミアムパス入口”的牌子，通向一条铺着红毯的尊享通道。前景和中景展示了长长的游客排队队伍，一直延伸到画面深处，游客们穿着休闲夏装，戴着帽子、毛巾、背包，手里拿着遮阳伞、扇子和水瓶，表现出酷暑下的疲惫感。靠近画面的几个人物面部模糊处理。最左侧立着一块巨大的风化石碑，上面写着醒目的红色日文“待ち時間 180分”。左下角有 3 块堆叠的乡村风格木制项目：顶部的牌子带有蓝色停车图标和文字“駐車場 2,000円”；中间的牌子带有智能手机图标和文字“アプリ必須 ダウンロードしてね!”；底部的牌子带有恐龙剪影和文字“当選者だけが冒険へ”。右下角沿边缘放置了非常醒目的竖排白色书法风格日文文案“待つこと、それが冒険だ。”。右下角附近包含 3 个小型圆形图标标注，配有简短的日文宣传语：“抽選に選ばれし者だけが、恐竜に会える。”、“スマホの充電が尽きる前に、夢は始まる。”以及“プレミアムな近道も、ご用意しました。”，图标分别暗示恐龙、手机电量和 VIP 通道。底部中央添加了一条黑色免责声明栏，上面写着小号白色日文：“このポスターは架空のパロディ広告です”。整体风格追求超写实、电影感、高对比度、讽刺性，并像高端商业海报一样精致，核心笑点在于夸张的主题公园炒作、压抑的酷暑以及荒诞的排队式冒险。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日式丛林主题公园恶搞海报：一张电影质感的日式讽刺主题公园广告海报，描绘了一个虚构的丛林恐龙主题公园，非常适合恶搞活动、社交媒体视觉图或模拟宣传主视觉。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "callout",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "3d",
+        "premium"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "high contrast"
+      ],
+      "text": "要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: callout, vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, 3d, premium]。\n\nLighting and camera:\n[参考光线镜头: rim light, high contrast]。\n\nText requirements:\n要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14850",
+      "14652",
+      "15089",
+      "15817",
+      "14829",
+      "14938"
+    ]
+  }
+}

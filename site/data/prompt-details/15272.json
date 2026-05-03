@@ -1,0 +1,44 @@
+{
+  "id": "15272",
+  "prompt": "A clean editorial-style illustration on a light gray-white background showing exactly 11 young people gathered around a huge sheet of paper on the floor, collaboratively drawing a detailed Japan travel scene. The composition is viewed from slightly above, centered on the artwork, with the people forming a loose ring around it. Use a simple hand-drawn cartoon style with thin black outlines, soft muted colors, minimal shading, and a friendly modern magazine aesthetic. The central drawing on the paper includes 8 distinct scenic elements: snow-capped Mount Fuji in the middle background, a red sun to the upper right of the mountain, a few white clouds, pink cherry blossoms on a dark branch at upper left, a red multi-tier pagoda on the right, a tall city skyline with a tower near the center-right, a blue lake with a small boat, and a sleek white bullet train curving across the lower right. Add trees and bushes throughout, plus a small arched bridge near the lower middle. The 11 people are casually dressed in varied outfits and are all holding markers or crayons while leaning, kneeling, or lying around the paper. Include 6 people across the top edge, 3 along the left side, and 2 along the lower-right side. Their clothing should vary: hoodies, jackets, a knit beanie, a plaid shirt, a patterned sweater, a blue T-shirt, a black T-shirt, and one person in a red cardigan over dark clothes. One person on the right should wear glasses and a red cardigan, another at the bottom right should have curly dark hair, round glasses, a black T-shirt, and be lying on his stomach while drawing. Scatter a few loose crayons in blue and dark colors near the bottom edge of the paper. Keep the mood collaborative, creative, and playful, with the large illustrated poster as the clear focal point.",
+  "translatedPrompt": "一幅简洁的编辑风格插画，背景为浅灰白色，展示了 11 名年轻人聚集在地面上一张巨大的纸张周围，协作绘制一幅精美的日本旅行场景。构图采用俯视视角，以画作为中心，人物围成一个松散的圆环。采用简单的手绘卡通风格，线条纤细，色彩柔和低调，阴影极少，呈现出友好且现代的杂志美学。纸上的中心画作包含 8 个独特的风景元素：背景中央是白雪皑皑的富士山，山体右上方有一轮红日，几朵白云，左上方有深色树枝上的粉色樱花，右侧有一座红色多层宝塔，中右侧有高耸的城市天际线和塔楼，一个带有小船的蓝色湖泊，以及一列流线型白色子弹头列车在右下方蜿蜒而过。画面中点缀着树木和灌木，下方中部还有一座小拱桥。这 11 人穿着各式休闲服装，手里拿着马克笔或蜡笔，通过倚靠、跪姿或趴在纸张周围进行创作。顶部边缘分布 6 人，左侧 3 人，右下方 2 人。他们的服装各异：卫衣、夹克、针织帽、格子衬衫、图案毛衣、蓝色 T 恤、黑色 T 恤，以及一名身穿红色开衫搭配深色衣服的人。右侧一人戴着眼镜，身穿红色开衫；右下方一人留着深色卷发，戴着圆框眼镜，身穿黑色 T 恤，趴在地上绘画。纸张底部边缘散落着几支蓝色和深色的蜡笔。整体氛围保持协作、创意且充满趣味，以那张巨大的插画海报为视觉焦点。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "团队绘制日本主题插画：此提示词可生成一幅柔和的卡通编辑风格场景，描绘 11 人协作绘制一张精美的日本主题风景海报，适用于关于团队合作、AI 创造力、设计或协作创作的文章。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "editorial",
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: editorial, hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14854",
+      "15280",
+      "15663",
+      "15764",
+      "15050",
+      "15604"
+    ]
+  }
+}

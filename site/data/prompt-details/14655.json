@@ -1,0 +1,45 @@
+{
+  "id": "14655",
+  "prompt": "A premium e-commerce poster for fresh blueberries in a clean Chinese product-advertising style. Show a clear plastic clamshell box of blueberries as the main subject, placed diagonally from lower center to right side on folded blue fabric, viewed from a slightly elevated angle. The package must remain realistic and consistent: a transparent square container with rounded corners, filled with dark blue blueberries, with a large irregular rounded label on top in white, pale blue, and deep blue, featuring one oversized blueberry illustration in the center and elegant Chinese branding. Make the fruit inside look larger, plumper, fresher, and covered with subtle moisture droplets, while keeping the overall blueberry arrangement believable. The background is an airy icy-blue tabletop with soft cloudy texture, cool daylight, and scattered loose blueberries around the package. Add a few blurred green leaves entering from the top right and bottom right edges for a fresh natural feeling. In the upper-right corner, include 1 small inset image showing the original product package from above on a warm brown surface, like a reference thumbnail. On the left side, create Chinese promotional typography with a large dark blue calligraphy headline {argument name=\"headline text\" default=\"决茗新\"}, followed by 2 smaller lines of copy: {argument name=\"subheadline text\" default=\"新鲜蓝莓 自然之选\"} and {argument name=\"tagline text\" default=\"每一颗都是自然的礼物\"}. Below that, place 3 vertically stacked feature icons with short Chinese captions: a leaf icon for natural ripeness, a fruit icon for juicy fullness, and a heart icon for rich nutrition. Near the bottom left, add large white brush-style Chinese text {argument name=\"product name\" default=\"蓝莓\"}, a secondary line {argument name=\"benefit text\" default=\"膳食纤维+花青素\"}, and a small net weight line reading 125克. Use cool blue color grading, crisp commercial lighting, sparkling highlights on the plastic lid, premium supermarket packaging aesthetics, high detail, realistic product photography blended with polished graphic design.",
+  "translatedPrompt": "一张采用简洁中式产品广告风格的高端蓝莓电商海报。主体展示一盒透明塑料盒装蓝莓，以略微俯视的角度斜向放置在折叠的蓝色布料上，从左下延伸至右侧。包装需保持写实且一致：一个带有圆角的透明方形容器，装满深蓝色蓝莓，顶部贴有大面积不规则圆形标签，配色为白色、浅蓝色和深蓝色，中心绘有一颗巨大的蓝莓插图，并配有优雅的中文字体品牌名称。盒内蓝莓需呈现得更大、更饱满、更新鲜，并覆盖细微的水珠，同时保持蓝莓整体排列的真实感。背景为带有柔和云雾纹理的通透冰蓝色桌面，光线为冷色调日光，包装周围散落着几颗蓝莓。在右上角和右下角边缘加入少量模糊的绿叶，营造清新自然的感觉。在右上角加入 1 张小型嵌入式图片，展示原始产品包装在暖棕色表面上的俯视图，作为参考缩略图。在左侧设计中式促销排版，包含一个深蓝色的大号书法标题 {argument name=\"headline text\" default=\"决茗新\"}，下方跟随两行较小的文案：{argument name=\"subheadline text\" default=\"新鲜蓝莓 自然之选\"} 和 {argument name=\"tagline text\" default=\"每一颗都是自然的礼物\"}。下方垂直排列 3 个功能图标及简短中文说明：叶子图标代表自然成熟，水果图标代表汁水饱满，爱心图标代表营养丰富。在左下角附近，添加醒目的白色毛笔风格中文文本 {argument name=\"product name\" default=\"蓝莓\"}，第二行文案 {argument name=\"benefit text\" default=\"膳食纤维+花青素\"}，以及一行小字“净含量 125 克”。采用冷蓝色调，呈现清脆的商业照明效果，塑料盖上有闪亮的高光，具备高端超市包装美学，细节丰富，将写实产品摄影与精致平面设计完美融合。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "高端蓝莓产品海报：此提示词可生成精美的中式电商蓝莓包装广告，适用于超市品牌宣传、产品详情页及促销海报。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15414",
+      "15668",
+      "14558",
+      "14567",
+      "14813",
+      "14829"
+    ]
+  }
+}

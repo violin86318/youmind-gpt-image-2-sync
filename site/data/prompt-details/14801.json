@@ -1,0 +1,36 @@
+{
+  "id": "14801",
+  "prompt": "可愛いラバーダックの男の子「{argument name=\"キャラクター名\" default=\"ルヒア(RUHiA)\"}」が日本を目指して大冒険をして日本人女性の「{argument name=\"女性の名前\" default=\"ミライ\"}」と出会うまでの物語。それを実写映画のポスターのようにして。",
+  "translatedPrompt": "一个关于名为 \"{argument name=\"character name\" default=\"RUHiA\"}\" 的可爱小黄鸭男孩的故事，他前往日本展开了一场伟大的冒险，并遇见了一位名为 \"{argument name=\"woman's name\" default=\"Mirai\"}\" 的日本女性。请将其制作成真人电影海报风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "小黄鸭冒险电影海报提示词：一个用于生成真人电影海报的创意提示词，主角是一只名为 RUHiA 的小黄鸭，它前往日本展开冒险，并邂逅了一位名为 Mirai 的女性。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13587",
+      "13616",
+      "13685",
+      "13715",
+      "13720",
+      "13723"
+    ]
+  }
+}

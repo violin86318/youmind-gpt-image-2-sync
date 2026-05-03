@@ -1,0 +1,51 @@
+{
+  "id": "15153",
+  "prompt": "Dramatic, low-angle ground perspective full-body shot captured with a 50mm lens at f/1.4, featuring the specific {argument name=\"uploaded face reference\" default=\"uploaded face reference\"} (neat beard, slicked-back hair, wearing stylish aviator glasses, tailored high-fashion modern clothing) standing on the platform of {argument name=\"location\" default=\"Trocadéro\"} at night. He is dressed in a {argument name=\"outfit\" default=\"structured black velvet blazer over a black cashmere roll-neck sweater\"}, tailored black trousers, and polished black boots, looking up intently at the fully illuminated Eiffel Tower, which dominates the background. Directly behind him is a deep sapphire blue Bugatti Chiron, reflecting the surrounding city lights. His foot is planted on the rear tire, with his body leaning casually back. The composition uses a shallow depth of field, rendering the distant Parisian street lights and crowd into a creamy bokeh. Spotlighting from city lamps creates dramatic, high-contrast shadows. 8k resolution, photorealistic, cinematic high-fashion editorial aesthetic.",
+  "translatedPrompt": "采用 50mm 镜头、f/1.4 光圈拍摄的低角度地面全身照，主角为 {argument name=\"uploaded face reference\" default=\"上传的人脸参考\"}（整洁的胡须、大背头、佩戴时尚飞行员墨镜、身着剪裁考究的现代高定服装），站在夜晚的 {argument name=\"location\" default=\"特罗卡迪罗广场\"} 平台上。他身穿 {argument name=\"outfit\" default=\"黑色丝绒修身西装外套，内搭黑色羊绒高领毛衣\"}，搭配剪裁合身的黑色长裤和擦得锃亮的黑色皮靴，正凝视着背景中灯火辉煌的埃菲尔铁塔。他身后是一辆深宝石蓝色的 Bugatti Chiron，车身映照着周围的城市灯光。他的一只脚踩在后轮胎上，身体随意地向后倚靠。构图采用浅景深，将远处的巴黎街灯和人群虚化为奶油般的焦外成像。城市路灯的聚光效果营造出戏剧性的高对比度阴影。8k 分辨率，照片级真实感，电影级高定时尚杂志风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影感巴黎时尚大片：一个精致的时尚摄影提示词，将特定的人脸参考融入到巴黎戏剧性的夜景场景中。",
+      "subject": "服饰",
+      "scene": "人物/角色",
+      "composition": [
+        "full-body"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "editorial"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "lens"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, editorial]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, lens]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14506",
+      "15703",
+      "14451",
+      "15027",
+      "15757",
+      "14845"
+    ]
+  }
+}

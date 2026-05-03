@@ -1,0 +1,48 @@
+{
+  "id": "15224",
+  "prompt": "A 12-frame collage of candid, emotional snapshots of a {argument name=\"subject\" default=\"young Japanese woman\"} traveling alone in {argument name=\"location\" default=\"Hawaii\"}, casually captured on a smartphone.\nEach frame feels like a fleeting personal memory — imperfect, sun-drenched, intimate, and unposed.\n\nThe woman has a naturally curvy figure with a soft, feminine silhouette, subtly emphasizing her bust without exaggeration. Her presence feels real and unstyled, like a private photo album.\n\nScenes include: walking barefoot on the beach, ძლიერი日差しの中での海辺、palm trees swaying, overexposed ocean reflections, small local cafés, a modest motel room, sunset الساحل, night markets, views from inside a moving car.\n\nShot with a smartphone aesthetic: slight motion blur, soft focus, blown-out highlights from tropical sunlight, lens flare, sun glare, high ISO noise at night, uneven framing, accidental cropping.\n\nComposition feels random and spontaneous — subject sometimes off-center, partially cut off, mid-motion, or obscured by light leaks.\n\nLighting varies: harsh midday sun, warm golden hour glow, deep sunset tones, humid night street lighting.\n\nColor grading: faded cinematic tones, slightly desaturated with warm highlights, nostalgic film-like look, subtle grain, lifted blacks.\n\nEmotion: solitude, fleeting youth, bittersweet nostalgia, quiet introspection, like memories from a trip taken alone.\n\nLayout: 12 images arranged in a loose, imperfect collage grid, slightly tilted and misaligned like a scrapbook.\n\nNo text, no watermark.",
+  "translatedPrompt": "一张由 12 帧抓拍照片组成的拼贴画，记录了 {argument name=\"subject\" default=\"一位年轻日本女性\"} 在 {argument name=\"location\" default=\"夏威夷\"} 独自旅行时的情感瞬间，均由智能手机随手拍摄。\n每一帧都如同转瞬即逝的个人记忆——不完美、阳光明媚、亲密且自然，毫无摆拍痕迹。\n\n这位女性拥有自然的曲线美和柔和的女性轮廓，在不夸张的前提下微妙地突显了胸部线条。她的状态真实且未经修饰，仿佛私人相册中的影像。\n\n场景包括：在沙滩上赤脚行走、强光下的海边、摇曳的棕榈树、过曝的海面反光、小型当地咖啡馆、简朴的汽车旅馆房间、日落海岸、夜市、从行驶中的车内向外眺望的视角。\n\n采用智能手机美学拍摄：轻微的动态模糊、柔焦、热带阳光造成的过曝高光、镜头光晕、眩光、夜间高 ISO 噪点、不均匀的构图、随意的裁剪。\n\n构图显得随机且自发——主体有时偏离中心、部分被截断、处于运动中，或被漏光遮挡。\n\n光影多变：强烈的正午阳光、温暖的黄金时刻光辉、深邃的日落色调、潮湿的夜间街灯。\n\n色彩分级：褪色的电影质感、略微降低饱和度并带有温暖的高光、怀旧的胶片感、细腻的颗粒感、提升的黑色区域。\n\n情感基调：孤独、转瞬即逝的青春、苦乐参半的怀旧、安静的内省，如同独自旅行留下的回忆。\n\n布局：12 张图片以松散、不完美的拼贴网格排列，略微倾斜且不对齐，如同剪贴簿一般。\n\n无文字，无水印。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "夏威夷情感独旅拼贴画：一份全面的英文提示词，用于创作一张 12 帧的拼贴画，展现一位年轻女性在夏威夷的独旅，侧重于原始、非摆拍的智能手机美学与电影感光影。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "grid"
+      ],
+      "style": [
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "golden hour",
+        "lens"
+      ],
+      "text": "禁止额外文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[参考风格: cinematic]。\n\nLighting and camera:\n[参考光线镜头: golden hour, lens]。\n\nText requirements:\n禁止额外文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14042",
+      "15621",
+      "15431",
+      "15096",
+      "15515",
+      "14038"
+    ]
+  }
+}

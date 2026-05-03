@@ -1,0 +1,49 @@
+{
+  "id": "15798",
+  "prompt": "A highly detailed fantasy trading card in a premium collectible card game style, vertical layout with an ornate antique gold frame, dark emerald-green enamel panels, and intricate vine-and-leaf embellishments. The card title at the top reads {argument name=\"character name\" default=\"AELION\"} in large elegant serif capitals, with the subtitle \"ELF OF THE GREENWOOD\" beneath it. In the central illustration, depict a realistic high-fantasy elf ranger standing in a sun-dappled forest. He has long {argument name=\"hair color\" default=\"golden blond\"} hair, pointed ears, and wears layered dark green leather-and-metal armor with engraved details, a hooded cloak, belts, bracers, and woodland-themed ornamentation. He carries an ornate recurved bow in one hand and a quiver of arrows on his back, posed alertly as if tracking prey through the trees. The forest background is lush, atmospheric, and cinematic, with shafts of warm light filtering through branches and leaves. The overall palette is green, bronze, gold, and earthy brown, with a moody heroic tone and realistic painterly rendering. On the upper left, include a circular faction crest showing 3 gold leaves. On the upper right, include a small shield emblem with a white tree icon. Along the left edge, place exactly 4 vertically stacked stat icons in circular medallions with large numbers beside them: a sword with 3, a shield with 2, a heart with 3, and a boot with 2. At the bottom left, add a large green gem-like badge with the number 4. At the bottom right, add a circular class or weapon icon showing a bow-and-arrow symbol. In a parchment text box across the lower third, include exactly 2 ability entries with decorative leaf bullets and serif typography. The first ability name is \"WOODLAND PRECISION\" followed by the rules text: \"When Aelion attacks, he deals +1 damage if the target is at 2 or more spaces away.\" The second ability name is \"NATURE’S STEP\" followed by the rules text: \"Once per turn, Aelion may move up to 2 additional spaces through forest terrain.\" Centered below the abilities, add an italic flavor quote: {argument name=\"quote\" default=\"The wind in the leaves is my guide, and the forest my silence.\"} At the very bottom, on a dark green nameplate, write the type line \"ALLY • ELF • RANGER\". Use crisp, legible text, polished card-game UI design, balanced margins, and a finished professional TCG product look similar to a premium fantasy strategy card.",
+  "translatedPrompt": "一张细节极其丰富的奇幻集换式卡牌，采用高级收藏卡牌游戏风格，竖版布局，配有华丽的古董金边框、深祖母绿珐琅面板以及错综复杂的藤蔓与叶片装饰。卡牌顶部的标题显示为 {argument name=\"character name\" default=\"AELION\"}，采用醒目优雅的衬线大写字体，下方副标题为“ELF OF THE GREENWOOD”。中央插画描绘了一位写实的高魔幻精灵游侠，正站在阳光斑驳的森林中。他留着一头 {argument name=\"hair color\" default=\"golden blond\"} 的长发，有着尖耳朵，身穿层次分明的深绿色皮革与金属盔甲，上面带有雕刻细节，并配有连帽斗篷、腰带、护腕及林地主题装饰。他一手持着一把华丽的反曲弓，背上背着箭袋，姿态警觉，仿佛正在林间追踪猎物。森林背景郁郁葱葱，氛围感十足，充满电影质感，暖光穿过树枝和叶片洒下。整体色调为绿色、青铜色、金色和大地棕色，呈现出忧郁的英雄基调和写实的绘画渲染效果。左上角包含一个显示 3 片金叶的圆形阵营纹章。右上角包含一个带有白色树木图标的小盾牌徽章。沿左侧边缘，放置 4 个垂直堆叠的属性图标，每个图标位于圆形奖章内，旁边标有大数字：一把剑配数字 3，一面盾牌配数字 2，一颗心配数字 3，一只靴子配数字 2。左下角添加一个带有数字 4 的大型绿色宝石状徽章。右下角添加一个显示弓箭符号的圆形职业或武器图标。在下方的羊皮纸文本框中，包含 2 条能力条目，带有装饰性叶片项目符号和衬线字体。第一个能力名称为“WOODLAND PRECISION”，后接规则文本：“When Aelion attacks, he deals +1 damage if the target is at 2 or more spaces away.” 第二个能力名称为“NATURE’S STEP”，后接规则文本：“Once per turn, Aelion may move up to 2 additional spaces through forest terrain.” 在能力下方居中处，添加一句斜体背景引言：{argument name=\"quote\" default=\"The wind in the leaves is my guide, and the forest my silence.\"} 在最底部的深绿色铭牌上，写上类型行“ALLY • ELF • RANGER”。使用清晰易读的文本、精致的卡牌游戏 UI 设计、平衡的边距，呈现出类似于高级奇幻策略卡牌的专业成品外观。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奇幻精灵游侠集换式卡牌：此提示词可生成一张精致的奇幻收藏卡牌，画面包含精灵游侠及清晰的规则文本，非常适合定制集换式卡牌游戏原型及概念艺术创作。",
+      "subject": "产品",
+      "scene": "插画/漫画",
+      "composition": [
+        "centered",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "fantasy",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；要求可读；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "动漫分镜、战斗场景、运动瞬间、夸张叙事图",
+      "whySelected": "得分 95；构图: centered, layered, vertical；风格: realistic, cinematic, fantasy, premium；要求精确文字；要求可读；文字是主视觉"
+    },
+    "copyTemplate": "Create a 插画/漫画 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, layered, vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic, fantasy, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；要求可读；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15800",
+      "14432",
+      "15379",
+      "15374",
+      "14528",
+      "15799"
+    ]
+  }
+}

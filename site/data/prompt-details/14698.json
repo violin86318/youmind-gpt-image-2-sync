@@ -1,0 +1,50 @@
+{
+  "id": "14698",
+  "prompt": "{\"type\":\"fashion infographic poster\",\"topic\":\"Hong Kong office lady daily outfit guide\",\"style\":\"clean premium editorial layout, realistic fashion photography combined with product callouts, beige and white minimalist palette, sharp Chinese typography, modern magazine aesthetic\",\"canvas\":{\"orientation\":\"portrait\",\"aspect_ratio\":\"2:3\",\"background\":\"split layout with full-height street photo on the left and light beige infographic panel on the right\"},\"text\":{\"main_title\":\"{argument name=\\\"headline text\\\" default=\\\"香港OL日常穿搭指南\\\"}\",\"subtitle\":\"Typical Business Outfit for Office Ladies in Hong Kong\",\"tagline\":\"專業得體・時尚有型・自信返工每一天\",\"bottom_caption\":\"自信・專業・時尚 – 香港OL的魅力日常\",\"quote\":\"{argument name=\\\"quote\\\" default=\\\"在專業與時尚之間取得平衡，這就是香港OL的日常魅力。\\\"}\"},\"subject\":{\"gender_presentation\":\"female\",\"role\":\"Hong Kong office lady\",\"full_body\":true,\"face\":\"intentionally blurred or anonymized\",\"hair\":{\"color\":\"dark brown\",\"style\":\"long straight hair with a side part, smooth and slightly tucked behind shoulder\"},\"pose\":\"walking confidently on a city sidewalk while holding a smartphone in both hands, one leg stepping forward\",\"expression\":\"neutral, poised, professional\",\"outfit\":{\"dress\":{\"type\":\"sleeveless fitted sheath dress\",\"color\":\"{argument name=\\\"dress color\\\" default=\\\"white\\\"}\",\"length\":\"above knee\",\"neckline\":\"deep scoop neckline\",\"fit\":\"body-skimming tailored silhouette\"},\"bag\":{\"type\":\"structured black leather handbag\",\"carry\":\"on forearm\",\"details\":\"top handles, small triangle logo, attached teddy-bear charm in red shirt\"},\"bracelet\":{\"type\":\"thin silver bracelet\",\"wrist\":\"left wrist\"},\"earrings\":{\"type\":\"small round stud earrings\",\"metal\":\"silver\"},\"shoes\":{\"type\":\"pointed high heel pumps\",\"color\":\"white\",\"details\":\"low-cut vamp and square buckle ornament on toe\"},\"phone\":{\"type\":\"smartphone\",\"color\":\"silver or gray\"}},\"location\":{\"city\":\"Central, Hong Kong\",\"setting\":\"busy downtown business district with pedestrians and tall glass office towers in soft blur background\"}},\"layout\":{\"sections\":[{\"title\":\"OUTFIT BREAKDOWN\\n穿搭元素解析\",\"position\":\"top-right\",\"count\":6,\"labels\":[\"連身裙 Dress\",\"手袋 Handbag\",\"小飾物 Charm\",\"手飾 Bracelet\",\"耳環 Earrings\",\"高跟鞋 High Heel Pumps\"]},{\"title\":\"穿搭重點 KEY POINTS\",\"position\":\"lower-left overlay\",\"count\":4,\"labels\":[\"簡約俐落，專業感滿分\",\"適合香港辦公室環境\",\"舒適得體，應對通勤返工日常\",\"細節配搭，展現個人品味\"]},{\"title\":\"整體造型小貼士 STYLING TIPS\",\"position\":\"bottom-right\",\"count\":4,\"labels\":[\"選擇透氣面料，應對香港潮濕天氣\",\"攜帶外套／薄身西裝外套，應對冷氣環境\",\"保持妝容自然，髮型整潔專業\",\"配搭得體，展現自信專業形象\"]}],\"left_panel\":{\"main_image\":\"full-body street-style fashion photo of the office lady\",\"location_badge\":\"Central, Hong Kong\\n中環・返工日常\",\"quote_box\":\"large beige quote panel with oversized quotation marks near the bottom\"},\"right_panel\":{\"product_list\":\"6 vertically stacked item callouts with isolated product image beside each description\",\"highlight_box\":\"beige recommendation box under the high heel section\",\"tips_box\":\"rounded rectangle styling tips box at the bottom\"}},\"items\":[{\"name\":\"連身裙 Dress\",\"image\":\"sleeveless white sheath dress on plain background\",\"description\":\"修身剪裁的連身裙，簡約大方，展現專業與優雅氣質。\",\"recommendation\":\"建議顏色：白色／米色／淺灰／海軍藍\"},{\"name\":\"手袋 Handbag\",\"image\":\"black structured handbag with teddy-bear charm\",\"description\":\"結構感手袋，容量實用，適合放上班必需品，展現專業形象。\",\"recommendation\":\"建議：中型手挽袋／肩背袋\"},{\"name\":\"小飾物 Charm\",\"image\":\"small yellow teddy-bear charm with red shirt\",\"description\":\"可愛小飾物為造型增添個人特色，低調中展現品味。\",\"recommendation\":\"建議：簡約吊飾／絲巾／小配件\"},{\"name\":\"手飾 Bracelet\",\"image\":\"thin silver bracelet\",\"description\":\"精緻手飾提升整體造型層次，細節彰顯品味。\",\"recommendation\":\"建議：簡約金屬手鍊／珍珠手飾\"},{\"name\":\"耳環 Earrings\",\"image\":\"pair of small round silver stud earrings\",\"description\":\"低調耳環修飾臉型，增添優雅氣質。\",\"recommendation\":\"建議：珍珠／鑽石／簡約金屬款\"},{\"name\":\"高跟鞋 High Heel Pumps\",\"image\":\"white pointed pumps with decorative buckle\",\"description\":\"細跟高跟鞋拉長腿部線條，提升專業氣場。\",\"recommendation_title\":\"重點推介：Roger Vivier Belle Vivier Pumps\",\"recommendation_points\":[\"經典方扣設計，優雅高貴\",\"舒適鞋跟高度，適合長時間穿著\",\"意大利製造，品質保證\",\"百搭易襯，提升整體造型\"],\"footnote\":\"Tips: 建議跟高 5-7cm，舒適又得體。\"}],\"visual_notes\":\"Use crisp, legible Traditional Chinese text exactly as shown, realistic product cutouts, soft natural daylight, polished commercial retouching, subtle shadows, balanced spacing, luxurious but practical office fashion tone.\",\"parameters\":[\"{argument name=\\\"headline text\\\" default=\\\"香港OL日常穿搭指南\\\"}\",\"{argument name=\\\"quote\\\" default=\\\"在專業與時尚之間取得平衡，這就是香港OL的日常魅力。\\\"}\",\"{argument name=\\\"dress color\\\" default=\\\"white\\\"}\",\"{argument name=\\\"bag color\\\" default=\\\"black\\\"}\",\"{argument name=\\\"city\\\" default=\\\"Central, Hong Kong\\\"}\"]}",
+  "translatedPrompt": "{\"type\":\"时尚信息图海报\",\"topic\":\"香港办公室女性日常穿搭指南\",\"style\":\"简洁高端的编辑排版，真实的时尚摄影结合产品标注，米色与白色极简色调，清晰的中文字体，现代杂志美学\",\"canvas\":{\"orientation\":\"纵向\",\"aspect_ratio\":\"2:3\",\"background\":\"左右分割布局，左侧为全高街拍照片，右侧为浅米色信息图面板\"},\"text\":{\"main_title\":\"{argument name=\\\"headline text\\\" default=\\\"香港办公室女性日常穿搭指南\\\"}\",\"subtitle\":\"香港办公室女性的典型商务穿搭\",\"tagline\":\"专业得体・时尚有型・自信工作每一天\",\"bottom_caption\":\"自信・专业・时尚 – 香港办公室女性的魅力日常\",\"quote\":\"{argument name=\\\"quote\\\" default=\\\"在专业与时尚之间取得平衡，这就是香港办公室女性的日常魅力。\\\"}\"},\"subject\":{\"gender_presentation\":\"女性\",\"role\":\"香港办公室女性\",\"full_body\":true,\"face\":\"刻意模糊或匿名处理\",\"hair\":{\"color\":\"深棕色\",\"style\":\"长直发，侧分，顺滑并略微别在耳后\"},\"pose\":\"在城市人行道上自信行走，双手拿着智能手机，一只脚向前迈步\",\"expression\":\"中性、从容、专业\",\"outfit\":{\"dress\":{\"type\":\"无袖修身连衣裙\",\"color\":\"{argument name=\\\"dress color\\\" default=\\\"白色\\\"}\",\"length\":\"膝盖以上\",\"neckline\":\"深圆领\",\"fit\":\"贴合身形的剪裁\"},\"bag\":{\"type\":\"结构感黑色皮革手提包\",\"carry\":\"挽在小臂上\",\"details\":\"顶部手柄，小三角标志，挂有穿着红衬衫的泰迪熊挂件\"},\"bracelet\":{\"type\":\"细银手链\",\"wrist\":\"左手腕\"},\"earrings\":{\"type\":\"小圆钉耳环\",\"metal\":\"银色\"},\"shoes\":{\"type\":\"尖头高跟鞋\",\"color\":\"白色\",\"details\":\"低帮设计，鞋头有方形扣饰\"},\"phone\":{\"type\":\"智能手机\",\"color\":\"银色或灰色\"}},\"location\":{\"city\":\"香港中环\",\"setting\":\"繁忙的市中心商务区，背景为行人与高耸的玻璃办公楼，呈柔和虚化效果\"}},\"layout\":{\"sections\":[{\"title\":\"穿搭元素解析\\nOUTFIT BREAKDOWN\",\"position\":\"右上角\",\"count\":6,\"labels\":[\"连衣裙 Dress\",\"手袋 Handbag\",\"小挂件 Charm\",\"手链 Bracelet\",\"耳环 Earrings\",\"高跟鞋 High Heel Pumps\"]},{\"title\":\"穿搭重点 KEY POINTS\",\"position\":\"左下角叠加\",\"count\":4,\"labels\":[\"简约利落，专业感满分\",\"适合香港办公环境\",\"舒适得体，应对通勤日常\",\"细节搭配，展现个人品味\"]},{\"title\":\"整体造型小贴士 STYLING TIPS\",\"position\":\"右下角\",\"count\":4,\"labels\":[\"选择透气面料，应对香港潮湿天气\",\"携带外套／薄西装外套，应对冷气环境\",\"保持妆容自然，发型整洁专业\",\"搭配得体，展现自信专业形象\"]}],\"left_panel\":{\"main_image\":\"办公室女性全身街拍风格照片\",\"location_badge\":\"香港中环\\n中环・工作日常\",\"quote_box\":\"底部附近带有超大引号的米色引语面板\"},\"right_panel\":{\"product_list\":\"6个垂直堆叠的项目标注，每个描述旁配有独立的产品图\",\"highlight_box\":\"高跟鞋部分下方的米色推荐框\",\"tips_box\":\"底部的圆角矩形造型建议框\"}},\"items\":[{\"name\":\"连衣裙 Dress\",\"image\":\"纯色背景下的无袖白色修身连衣裙\",\"description\":\"修身剪裁的连衣裙，简约大方，展现专业与优雅气质。\",\"recommendation\":\"建议颜色：白色／米色／浅灰／海军蓝\"},{\"name\":\"手袋 Handbag\",\"image\":\"带有泰迪熊挂件的黑色结构感手袋\",\"description\":\"结构感手袋，容量实用，适合放置上班必需品，展现专业形象。\",\"recommendation\":\"建议：中型手提包／肩背包\"},{\"name\":\"小挂件 Charm\",\"image\":\"穿着红衬衫的黄色小泰迪熊挂件\",\"description\":\"可爱小挂件为造型增添个人特色，低调中展现品味。\",\"recommendation\":\"建议：简约吊饰／丝巾／小配件\"},{\"name\":\"手链 Bracelet\",\"image\":\"细银手链\",\"description\":\"精致手链提升整体造型层次，细节彰显品味。\",\"recommendation\":\"建议：简约金属手链／珍珠饰品\"},{\"name\":\"耳环 Earrings\",\"image\":\"一对小圆钉银耳环\",\"description\":\"低调耳环修饰脸型，增添优雅气质。\",\"recommendation\":\"建议：珍珠／钻石／简约金属款\"},{\"name\":\"高跟鞋 High Heel Pumps\",\"image\":\"带有装饰扣的白色尖头高跟鞋\",\"description\":\"细跟高跟鞋拉长腿部线条，提升专业气场。\",\"recommendation_title\":\"重点推荐：Roger Vivier Belle Vivier Pumps\",\"recommendation_points\":[\"经典方扣设计，优雅高贵\",\"舒适鞋跟高度，适合长时间穿着\",\"意大利制造，品质保证\",\"百搭易衬，提升整体造型\"],\"footnote\":\"提示：建议跟高 5-7cm，舒适又得体。\"}],\"visual_notes\":\"使用清晰易读的简体中文，真实的商品抠图，柔和的自然日光，专业的商业修图，微妙的阴影，平衡的间距，奢华且实用的办公室时尚基调。\",\"parameters\":[\"{argument name=\\\"headline text\\\" default=\\\"香港办公室女性日常穿搭指南\\\"}\",\"{argument name=\\\"quote\\\" default=\\\"在专业与时尚之间取得平衡，这就是香港办公室女性的日常魅力。\\\"}\",\"{argument name=\\\"dress color\\\" default=\\\"白色\\\"}\",\"{argument name=\\\"bag color\\\" default=\\\"黑色\\\"}\",\"{argument name=\\\"city\\\" default=\\\"香港中环\\\"}\"]}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "香港办公室女性穿搭信息图：一份精美的双语时尚信息图海报，展示了真实的香港办公室女性街头造型，包含六个标注的穿搭组件及造型建议，非常适合编辑、社交媒体或品牌展示使用。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "full-body",
+        "callout",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "editorial",
+        "minimalist",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body, callout, vertical]。\n\nVisual style:\n[参考风格: realistic, editorial, minimalist, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14161",
+      "15085",
+      "15243",
+      "14688",
+      "14652",
+      "15430"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14425",
+  "prompt": "A grand romantic landscape painting of {argument name=\"city skyline\" default=\"San Francisco\"} seen across a wide bay from an elevated hillside overlook. In the foreground, an old rocky path with 5 large stone ruins or broken masonry blocks sits among dark shrubs and windswept trees, painted in soft earthy browns and deep greens. The middle ground shows calm reflective water with 3 small sailboats scattered across the bay. On the left spans a long suspension bridge with 4 visible towers stretching toward the city. In the distance, a luminous modern skyline rises along the waterfront, including a tall tapered central skyscraper and a pointed pyramid-shaped tower. Above, dramatic swirling clouds open around a radiant low sun, casting warm golden light through the sky and across the water. Render it as a vast cinematic matte painting blended with 19th-century oil landscape aesthetics, atmospheric perspective, glowing haze, soft brushwork, monumental scale, serene mood, and detailed cloud drama.",
+  "translatedPrompt": "一幅宏大且浪漫的风景画，描绘了从高处山坡俯瞰宽阔海湾的 {argument name=\"city skyline\" default=\"旧金山\"} 城市天际线。前景中，一条古老的岩石小径上散落着 5 块巨大的石制废墟或破碎的砖石块，周围点缀着深色的灌木和被风吹拂的树木，色调为柔和的土褐色与深绿色。中景呈现出平静且具有倒影的水面，海湾上散布着 3 艘小帆船。左侧是一座横跨海湾的长悬索桥，4 座桥塔清晰可见，向城市方向延伸。远处，明亮的现代天际线沿水岸升起，包括一座高耸的中央锥形摩天大楼和一座尖顶金字塔形塔楼。上方，戏剧性的漩涡云层在灿烂的低垂太阳周围散开，将温暖的金色光芒洒向天空和水面。画面呈现为宏大的电影级遮罩绘画，融合了 19 世纪油画风景美学、大气透视、发光的雾气、柔和的笔触、纪念碑式的规模、宁静的意境以及细腻的云层动态。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "金湾城市浪漫风景：此提示词可生成一幅横跨海湾、气势磅礴的绘画风格城市景观，非常适合电影概念艺术、墙面装饰画或氛围感风景插画。",
+      "subject": "空间",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体",
+        "风格"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15408",
+      "13655",
+      "15783",
+      "14931",
+      "14171",
+      "15074"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "13878",
+  "prompt": "{\n  \"type\": \"anime-style educational meme infographic\",\n  \"character\": {\n    \"name\": \"{argument name=\\\"character name\\\" default=\\\"Neco-Arc\\\"}\",\n    \"appearance\": \"chibi anime cat-girl, blonde hair, cat ears, big eyes, simple cartoonish features\",\n    \"total_illustrations\": 13\n  },\n  \"theme\": {\n    \"topic\": \"{argument name=\\\"main topic\\\" default=\\\"GHOTI = FISH\\\"}\",\n    \"reference\": \"{argument name=\\\"card game\\\" default=\\\"Yu-Gi-Oh!\\\"} card {argument name=\\\"card name\\\" default=\\\"Ghoti of the Deep Beyond\\\"}\"\n  },\n  \"layout\": {\n    \"background\": \"starry night sky behind header, white panels with blue borders\",\n    \"header\": {\n      \"title\": \"Neco-Arc's English Tip Corner: GHOTI = FISH AND THIS CARD PROVES IT!!!!\",\n      \"elements\": [\"character pointing with stick\", \"speech bubble: 'NYA~! TODAY WE LEARN A SUPREME ENGLISH SECRET!!'\"]\n    },\n    \"sections\": [\n      {\n        \"row\": 1,\n        \"count\": 3,\n        \"panels\": [\n          {\"title\": \"WHAT IS 'GHOTI'?\", \"content\": \"text, happy character\"},\n          {\"title\": \"HOW TO PRONOUNCE 'GHOTI'\", \"content\": \"phonetic breakdown of GH, O, TI, small character, 1 fish\"},\n          {\"title\": \"BUT Neco-Arc... WHY IS GHOTI FISH?\", \"content\": \"text, laughing character\"}\n        ]\n      },\n      {\n        \"row\": 2,\n        \"title\": \"AND NOW... THE ULTIMATE PROOF!!!\",\n        \"count\": 4,\n        \"panels\": [\n          {\"type\": \"card mockup\", \"content\": \"detailed trading card showing a cosmic space fish\"},\n          {\"title\": \"MEET: GHOTI OF THE DEEP BEYOND!!!\", \"content\": \"bullet points, starry-eyed character, 1 fish\"},\n          {\"title\": \"SEE? EVEN YU-GI-OH! AGREES!!\", \"content\": \"character in graduation cap pointing\"},\n          {\"title\": \"MORE PROOF (NYA EDITION)\", \"content\": \"bullet points, shocked character, 1 fish\"}\n        ]\n      },\n      {\n        \"row\": 3,\n        \"type\": \"reaction strip\",\n        \"count\": 5,\n        \"panels\": [\n          {\"title\": \"WHEN SOMEONE SAYS ENGLISH ISN'T WEIRD...\", \"content\": \"confused character with question marks\"},\n          {\"title\": \"ENGLISH TEACHERS BE LIKE:\", \"content\": \"character with glasses at chalkboard\"},\n          {\"title\": \"YU-GI-OH! PLAYERS BE LIKE:\", \"content\": \"character holding 4 trading cards\"},\n          {\"title\": \"ACTUAL FISH BE LIKE:\", \"content\": \"1 blue fish illustration\"},\n          {\"title\": \"SPELLING ENGLISH BE LIKE:\", \"content\": \"crying character\"}\n        ]\n      },\n      {\n        \"row\": 4,\n        \"count\": 3,\n        \"panels\": [\n          {\"title\": \"BONUS NYA FACTS!\", \"content\": \"character with sunglasses\"},\n          {\"title\": \"REMEMBER! GHOTI = FISH\", \"content\": \"summary text, 1 fish\"},\n          {\"title\": \"THANK YOU FOR LEARNING WITH NECO-ARC NYA~!!\", \"content\": \"waving character\"}\n        ]\n      }\n    ],\n    \"footer\": \"ENGLISH IS WEIRD. YU-GI-OH! IS REAL. GHOTI IS FISH. LIFE IS NYA~!\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"动漫风格教育模因信息图\",\n  \"character\": {\n    \"name\": \"{argument name=\\\"character name\\\" default=\\\"Neco-Arc\\\"}\",\n    \"appearance\": \"Q 版动漫猫娘，金发，猫耳，大眼睛，简洁的卡通特征\",\n    \"total_illustrations\": 13\n  },\n  \"theme\": {\n    \"topic\": \"{argument name=\\\"main topic\\\" default=\\\"GHOTI = FISH\\\"}\",\n    \"reference\": \"{argument name=\\\"card game\\\" default=\\\"Yu-Gi-Oh!\\\"} 卡牌 {argument name=\\\"card name\\\" default=\\\"Ghoti of the Deep Beyond\\\"}\"\n  },\n  \"layout\": {\n    \"background\": \"标题后方为星空背景，白色画格配蓝色边框\",\n    \"header\": {\n      \"title\": \"Neco-Arc 的英语小课堂：GHOTI = FISH，这张卡就是证明！！！！\",\n      \"elements\": [\"角色用棍子指着\", \"对话气泡：'喵～！今天我们要学习一个英语终极秘密！！'\"]\n    },\n    \"sections\": [\n      {\n        \"row\": 1,\n        \"count\": 3,\n        \"panels\": [\n          {\"title\": \"什么是 'GHOTI'？\", \"content\": \"文字，开心的角色\"},\n          {\"title\": \"'GHOTI' 怎么读\", \"content\": \"GH、O、TI 的发音拆解，小角色，1 条鱼\"},\n          {\"title\": \"但是 Neco-Arc... 为什么 GHOTI 是鱼？\", \"content\": \"文字，大笑的角色\"}\n        ]\n      },\n      {\n        \"row\": 2,\n        \"title\": \"现在... 终极证明！！！\",\n        \"count\": 4,\n        \"panels\": [\n          {\"type\": \"卡牌模型\", \"content\": \"展示宇宙深海鱼的详细集换式卡牌\"},\n          {\"title\": \"登场：深渊之海的 Ghoti！！！\", \"content\": \"要点列表，星星眼角色，1 条鱼\"},\n          {\"title\": \"看吧？连 Yu-Gi-Oh! 都认同！！\", \"content\": \"戴着学士帽指着卡牌的角色\"},\n          {\"title\": \"更多证明（喵版）\", \"content\": \"要点列表，震惊的角色，1 条鱼\"}\n        ]\n      },\n      {\n        \"row\": 3,\n        \"type\": \"反应条漫\",\n        \"count\": 5,\n        \"panels\": [\n          {\"title\": \"当有人说英语不奇怪时...\", \"content\": \"满头问号的困惑角色\"},\n          {\"title\": \"英语老师：\", \"content\": \"戴眼镜在黑板前的角色\"},\n          {\"title\": \"Yu-Gi-Oh! 玩家：\", \"content\": \"拿着 4 张集换式卡牌的角色\"},\n          {\"title\": \"真正的鱼：\", \"content\": \"1 条蓝色鱼的插图\"},\n          {\"title\": \"英语拼写：\", \"content\": \"哭泣的角色\"}\n        ]\n      },\n      {\n        \"row\": 4,\n        \"count\": 3,\n        \"panels\": [\n          {\"title\": \"喵喵小知识！\", \"content\": \"戴墨镜的角色\"},\n          {\"title\": \"记住！GHOTI = FISH\", \"content\": \"总结文字，1 条鱼\"},\n          {\"title\": \"感谢与 Neco-Arc 一起学习喵～！！\", \"content\": \"挥手的角色\"}\n        ]\n      }\n    ],\n    \"footer\": \"英语很奇怪。Yu-Gi-Oh! 是真的。GHOTI 是鱼。生活就是喵～！\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Q 版动漫教育信息图：生成一张内容丰富、多画格的漫画风格信息图，由一个 Q 版角色通过集换式卡牌的梗来讲解语言学笑话。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15446",
+      "13908",
+      "13740",
+      "14025",
+      "14060",
+      "14443"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "15515",
+  "prompt": "Create a hyper-realistic, cinematic portrait of a {argument name=\"subject\" default=\"young woman\"} sitting at a {argument name=\"location\" default=\"luxury waterfront café in Doha\"} during golden hour. Preserve the exact facial features, proportions, skin tone, and expression from the reference image with 100% accuracy. She is styled as an elegant Arabian woman, wearing a {argument name=\"outfit\" default=\"black abaya with intricate gold embroidery\"}, delicate jewelry, and a subtle head covering draped naturally. She is seated at a traditional outdoor majlis-style setting with patterned cushions, Arabic lanterns, and a wooden table. Her pose is calm and confident, resting her chin gently on her hand while looking directly at the camera. Background shows the Doha skyline and traditional wooden dhow boats along the waterfront, with warm sunset lighting reflecting on the water. No visible text, logos, or signage anywhere in the scene. Lighting: soft golden hour glow, cinematic highlights, warm tones, natural shadows on face. Camera: 85mm lens, shallow depth of field, ultra-detailed, 8K resolution, DSLR quality. Style: photorealistic, cinematic, luxury lifestyle photography, rich textures, highly detailed fabrics and skin.",
+  "translatedPrompt": "创作一张超写实、电影质感的肖像，主角是坐在 {argument name=\"location\" default=\"多哈豪华海滨咖啡馆\"} 的 {argument name=\"subject\" default=\"年轻女性\"}，时间设定在黄金时刻。请 100% 精准保留参考图像中的面部特征、比例、肤色和表情。她被塑造为一位优雅的阿拉伯女性，身穿 {argument name=\"outfit\" default=\"带有精致金线刺绣的黑色长袍 (abaya)\"}，佩戴精致的首饰，并自然地披着轻薄的头巾。她坐在传统的户外 majlis 风格座位上，配有花纹靠垫、阿拉伯灯笼和木桌。她的姿态沉稳自信，手托下巴，直视镜头。背景展示了多哈天际线和海滨的传统木制独桅帆船，温暖的夕阳余晖映照在水面上。场景中不得出现任何文字、标志或标识。光影：柔和的黄金时刻光晕、电影级高光、暖色调、面部自然阴影。相机：85mm 镜头、浅景深、超细节、8K 分辨率、单反相机画质。风格：照片级真实、电影感、奢华生活方式摄影、丰富的纹理、高度细腻的织物与皮肤质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "多哈海滨肖像：一个关于在黄金时刻的多哈豪华咖啡馆中，一位优雅女性的超写实肖像提示词。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "luxury"
+      ],
+      "lightingCamera": [
+        "golden hour",
+        "shallow depth",
+        "depth of field",
+        "lens",
+        "camera"
+      ],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, luxury]。\n\nLighting and camera:\n[参考光线镜头: golden hour, shallow depth, depth of field, lens, camera]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15766",
+      "15754",
+      "15096",
+      "14669",
+      "15698",
+      "15739"
+    ]
+  }
+}

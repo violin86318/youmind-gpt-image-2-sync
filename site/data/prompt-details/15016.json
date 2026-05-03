@@ -1,0 +1,52 @@
+{
+  "id": "15016",
+  "prompt": "A dramatic anime theatrical movie poster in a tall vertical composition, centered on 2 young women in classic black-and-white maid uniforms standing back-to-back and facing opposite directions. The left maid has a short silver bob haircut with straight bangs and a white maid headband; the right maid has a short vivid pink bob haircut with straight bangs and a matching white maid headband. Both wear fitted black dresses with puff sleeves, white aprons with ruffled trim, white collars and cuffs, and black ribbon accents at the neck. Their poses are confident and tense, with one hand lowered at their sides, suggesting mystery and rivalry. Place them large in the foreground, filling most of the poster height. Behind them, create a split-color night sky: deep electric blue on the left and saturated magenta-pink on the right, blending at the center. In the upper left, show a bright full moon and a small helicopter with a searchlight. Along the horizon and lower sides, include a glowing city skyline, blue-lit on the left and pink-lit on the right. In the center background, place a gothic mansion or castle with pointed towers at the end of a path, illuminated with warm lights. In front of the mansion, show 2 smaller full-body figures of the same maids from behind, walking toward the building side by side. Add 4 supporting characters around the lower edges: 1 dark-haired man in a suit at bottom left, 1 older stern man in a suit at lower right-center, 1 young woman with long dark hair at bottom right, and the 2 small maid figures in the center distance, for a total of 6 visible human figures in the poster. Scatter bright pink flower petals across the image as if blown by the wind. Use intense cinematic lighting, glossy anime rendering, high contrast, sharp linework, glowing rim light, and a suspenseful psychological thriller mood. Include vertical Japanese tagline text on both sides, a large stylized title at the bottom center reading {argument name=\"title text\" default=\"Re:maid\"}, smaller Japanese subtitle text beneath it, and release text at the lower left reading {argument name=\"release date text\" default=\"7.25 [FRI] ROADSHOW\"}. Add a final Japanese tagline line along the bottom. Overall style: premium anime key visual, mystery thriller, neon blue and hot pink dual-color palette, polished poster typography, highly detailed background, dynamic petals, and theatrical film-poster finish.",
+  "translatedPrompt": "一张极具戏剧性的动漫影院电影海报，采用高垂直构图，画面中心为两位身着经典黑白女仆装的年轻女性，她们背靠背站立，面向相反方向。左侧女仆留着银色短波波头，配有齐刘海和白色女仆发带；右侧女仆留着鲜艳的粉色短波波头，配有齐刘海和同款白色女仆发带。她们穿着合身的黑色连衣裙，带有泡泡袖、饰有荷叶边的白色围裙、白色领口和袖口，颈部系有黑色丝带。她们的姿态自信而紧张，一只手垂在身侧，暗示着神秘感与竞争关系。将她们置于前景中心，占据海报高度的大部分。在她们身后，营造一片双色夜空：左侧为深电光蓝，右侧为饱和的洋红色，在中心处交融。左上方展示一轮明亮的满月和一架带有探照灯的小型直升机。在地平线和下方两侧，包含发光的城市天际线，左侧为蓝色灯光，右侧为粉色灯光。在背景中心，放置一座带有尖塔的哥特式宅邸或城堡，位于小路尽头，并有暖光照亮。在宅邸前方，展示 2 个较小的、背对观众的同款女仆全身人影，并肩走向建筑。在下边缘周围添加 4 个配角：左下角一名穿西装的黑发男子，右下中心一名神情严厉的年长西装男子，右下角一名长发年轻女性，以及中心远处的 2 个小女仆人影，海报中总共可见 6 个人物。将明亮的粉色花瓣散落在画面中，仿佛被风吹过。采用强烈的电影级光效、光泽感动漫渲染、高对比度、锐利的线条、发光的轮廓光以及悬疑心理惊悚的氛围。在两侧包含垂直的日文标语，底部中心放置一个醒目的艺术化标题 {argument name=\"title text\" default=\"Re:maid\"}，下方配有较小的日文副标题，左下角包含上映信息 {argument name=\"release date text\" default=\"7.25 [FRI] ROADSHOW\"}。在底部添加最后一行日文标语。整体风格：高级动漫主视觉图、悬疑惊悚、霓虹蓝与热粉色双色调、精致的海报排版、高度细腻的背景、动态花瓣以及影院电影海报质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫女仆惊悚电影海报：一张极具视觉冲击力的动漫电影海报，展示了两位背靠背的女仆，置身于霓虹蓝与粉色的悬疑背景中，非常适合作为影院主视觉图和戏剧性宣传海报。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "full-body",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "premium"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "neon",
+        "high contrast"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, full-body, vertical]。\n\nVisual style:\n[参考风格: cinematic, anime, premium]。\n\nLighting and camera:\n[参考光线镜头: rim light, neon, high contrast]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15096",
+      "15336",
+      "15731",
+      "15373",
+      "14857",
+      "14472"
+    ]
+  }
+}

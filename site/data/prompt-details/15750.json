@@ -1,0 +1,51 @@
+{
+  "id": "15750",
+  "prompt": "Create a full-page vintage Japanese Super Famicom game box advertisement designed like a worn 1990s magazine spread or game package front, on aged yellowed paper with creases, stains, frayed corners, fold marks, and slight print fading. The layout should feel authentically retro and densely composed, with bold Japanese promotional copy, a fake fantasy RPG logo, a character lineup on the right, a gameplay screenshot on the left, and pricing and feature callouts near the bottom. At the top left, place a large black “SUPER FAMICOM” header with smaller Japanese subtitle text beneath it, and nearby a red Japanese slogan line. At the top right, include a small Super Famicom style logo badge in a black rectangle with the English text “SUPER FAMICOM LICENSED BY NINTENDO” underneath. In the upper center, feature the game title logo “Epic 7 Seven” in ornate fantasy typography, dark teal and black, layered over a circular magical crest or sigil in pale blue. Under the logo, add small Japanese katakana subtitle text. On the right half, show 4 anime fantasy party members in a polished JRPG promotional illustration style: 1 white-haired young male hero in a white cloak and blue-black outfit holding a sword, 1 pink-haired female knight or mage in dark armor with gold trim, 1 tall long-black-haired swordsman in dark layered robes, and 1 blonde twin-tailed maid girl in a black-and-white frilled dress reaching one hand forward. Their faces should be generic and soft-featured, front-facing or three-quarter view, grouped in a heroic composition. Add 4 dark blue nameplates with Japanese character names and short class descriptions near each character. Place a tall vertical yellow Japanese slogan with black outline between the screenshot and the character group. On the left lower-middle, include 1 in-game battle screenshot framed in a dark blue rounded rectangle: a pixel-art dungeon battle scene showing 1 purple dragon monster facing a 4-character party in a stone corridor. At the bottom of the battle screen, show a classic RPG interface with 4 command options in Japanese and a party status list with character names, HP, and MP values. In the lower left, add a red Japanese headline followed by 4 black square bullet points of Japanese feature text. Near the bottom center, place a red circular burst sticker with white Japanese text indicating strong sales, beside a large printed price reading “9,800円” with smaller surrounding Japanese retail text. At the bottom right, include 1 yellow information box labeled “RPG” with additional Japanese text and a separate dark box below for player count reading “1人”. Use a muted retro print palette of cream, dark blue, teal, red, gold, black, and faded pastel character colors. The whole image should resemble a highly convincing fictional Super Famicom advertisement for a classic fantasy RPG titled {argument name=\"game title\" default=\"Epic 7 Seven\"}, with visible Japanese text, nostalgic print imperfections, and authentic 1990s console game marketing design.",
+  "translatedPrompt": "创作一张全页复古日本 Super Famicom 游戏盒广告，设计风格如同 1990 年代磨损的杂志内页或游戏包装正面，呈现于带有折痕、污渍、磨损边角、折叠痕迹及轻微印刷褪色的泛黄纸张上。排版应具有真实的复古感且布局紧凑，包含醒目的日文宣传文案、虚构的奇幻 RPG 标志、右侧的角色阵容、左侧的游戏截图，以及底部的价格和功能标注。左上角放置一个巨大的黑色“SUPER FAMICOM”标题，下方配有较小的日文副标题，附近有一行红色的日文标语。右上角包含一个黑色矩形内的 Super Famicom 风格标志徽章，下方附有英文文本“SUPER FAMICOM LICENSED BY NINTENDO”。顶部中央展示游戏标题标志“Epic 7 Seven”，采用华丽的奇幻字体，深青色与黑色，叠加在浅蓝色的圆形魔法纹章或印记之上。标志下方添加小号日文片假名副标题。右半部分展示 4 位动漫奇幻风格的队伍成员，采用精致的 JRPG 宣传插画风格：1 位身穿白色斗篷和蓝黑色服装、手持长剑的白发年轻男性英雄；1 位身穿带有金色饰边的深色盔甲的粉发女性骑士或法师；1 位身穿深色多层长袍的高个子黑长直剑士；以及 1 位身穿黑白荷叶边裙、单手向前伸出的金发双马尾女仆。他们的面部应为大众化且柔和的特征，正面或四分之三侧面视角，以英雄姿态构图。在每位角色附近添加 4 个深蓝色铭牌，标注日文角色名和简短的职业描述。在截图和角色组之间放置一条带有黑色轮廓的竖向黄色日文标语。左侧中下部包含 1 张深蓝色圆角矩形框内的游戏内战斗截图：一个像素风地下城战斗场景，展示 1 只紫色巨龙怪物面对 4 人小队，背景为石质走廊。在战斗画面底部，显示经典的 RPG 界面，包含 4 个日文指令选项以及带有角色名、HP 和 MP 值的队伍状态列表。左下角添加一个红色日文标题，后跟 4 个黑色方块项目符号的日文功能文本。底部中央放置一个带有白色日文文本的红色圆形促销贴纸，表示销量火爆，旁边印有醒目的“9,800円”价格，周围环绕较小的日文零售文本。右下角包含 1 个标有“RPG”的黄色信息框，内含额外的日文文本，下方是一个标有玩家人数“1人”的独立深色框。使用奶油色、深蓝色、青色、红色、金色、黑色以及褪色的柔和角色色彩等复古印刷色调。整张图像应看起来像是一张极具说服力的虚构 Super Famicom 广告，宣传名为 {argument name=\"game title\" default=\"Epic 7 Seven\"} 的经典奇幻 RPG，包含可见的日文文本、怀旧的印刷瑕疵以及地道的 1990 年代主机游戏营销设计。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古 Super Famicom RPG 广告：一张仿 1990 年代日本 Super Famicom 风格的奇幻 RPG 广告，适用于重现怀旧游戏盒封面或杂志宣传排版。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "front-facing",
+        "callout",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "vintage",
+        "retro",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: front-facing, callout, layered, vertical]。\n\nVisual style:\n[参考风格: anime, vintage, retro, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15091",
+      "14404",
+      "15675",
+      "14916",
+      "14607",
+      "14825"
+    ]
+  }
+}

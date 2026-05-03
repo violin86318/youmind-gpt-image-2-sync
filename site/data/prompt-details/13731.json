@@ -1,0 +1,45 @@
+{
+  "id": "13731",
+  "prompt": "A top-down photorealistic image of an open lined notebook resting on a smooth wooden desk. A dark green HB pencil with a silver ferrule and white eraser lies diagonally on the desk to the right of the notebook. The notebook pages are filled with neat, handwritten text in pencil, resembling a student's study notes. On the left page, the top left corner reads {argument name=\"date\" default=\"2024年5月20日(月)\"} above {argument name=\"subject\" default=\"国語 「枕草子」\"}. Below this is a rectangular boxed heading reading {argument name=\"left page heading\" default=\"清少納言のものの見方\"}, followed by exactly three bulleted sentences: one about valuing the changes in nature and seasons, one about finding beauty and amusement in small everyday things, and one about being honest with one's senses while having a sense of humor. Further down is a cloud-shaped border containing a heading translated as 'Words that left an impression', followed by a famous classical quote about spring mornings and a brief explanation below it marked with an arrow. On the right page, the top section has the heading {argument name=\"right page heading\" default=\"〈現代とのちがい〉\"} with exactly two bulleted points: one noting that the perception of seasons is much more delicate than today, and another stating that the perspective is sensory and poetic. This is followed by an arrow pointing to a concluding thought about wanting to cherish this sensibility. Below this is another cloud-shaped border containing a heading translated as 'Summary' and a short paragraph about how the 1000-year-old text still resonates today and the importance of carefully observing nature. At the bottom right of the page, there is a small, simple line drawing of a leafy plant stem next to a scalloped thought bubble containing the text {argument name=\"final thought\" default=\"感性をみがくって、素敵なことだなあ。\"}. The lighting is soft and natural, highlighting the texture of the paper and the graphite pencil marks.",
+  "translatedPrompt": "{ \"type\": \"书桌上摊开的手写笔记本\", \"setting\": \"从上方俯视视角，一本打开的横线笔记本放在木纹书桌上\", \"props\": [ \"带有横线的打开笔记本\", \"一支深绿色铅笔，带有银色金属箍和白色橡皮擦，放在书桌右侧\" ], \"left_page\": { \"header\": { \"date\": \"{argument name=\\\"date\\\" default=\\\"2024年5月20日（月）\\\"}\", \"subject\": \"{argument name=\\\"subject\\\" default=\\\"国语\\\"}\", \"topic\": \"{argument name=\\\"topic\\\" default=\\\"「枕草子」\\\"}\" }, \"sections\": [ { \"title\": \"{argument name=\\\"main heading\\\" default=\\\"清少纳言的观察视角\\\"}\", \"style\": \"矩形边框\", \"content_type\": \"项目符号列表\", \"count\": 3 }, { \"title\": \"心に残った言葉\", \"style\": \"云朵形状边框\", \"content_type\": \"带有指向个人感悟箭头的引语\", \"count\": 2 } ] }, \"right_page\": { \"sections\": [ { \"title\": \"〈现代とのちがい〉\", \"style\": \"尖括号\", \"content_type\": \"项目符号列表后接带箭头的结论\", \"count\": 3 }, { \"title\": \"总结\", \"style\": \"云朵形状边框\", \"content_type\": \"总结段落\", \"count\": 1 }, { \"title\": \"插图\", \"style\": \"涂鸦\", \"content_type\": \"叶片植物茎的小型线条画\", \"count\": 1 }, { \"title\": \"思考气泡\", \"style\": \"云朵形状对话气泡\", \"content_type\": \"{argument name=\\\"thought text\\\" default=\\\"感性をみがくって、素敵なことだなあ。\\\"}\", \"count\": 1 } ] }, \"style\": \"写实摄影风格，整洁的铅笔手写日语文字，柔和的自然光\" }",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "手写日语学习笔记：生成一张逼真的图片，展示一本打开的笔记本，上面有结构清晰的手写日语学习笔记和一支铅笔，非常适合用于教育类样机。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "top-down"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: top-down]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14959",
+      "14398",
+      "15013",
+      "15410",
+      "15778",
+      "15792"
+    ]
+  }
+}

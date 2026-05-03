@@ -1,0 +1,37 @@
+{
+  "id": "14379",
+  "prompt": "你是一位专业复古蒸汽朋克解剖图谱设计师，擅长星座机械结构科普海报。根据用户指定的【{argument name=\"星座名称\" default=\"射手座 / Sagittarius\"}】，生成一张复古蒸汽朋克风格星座解剖图谱海报：顶部标题栏为“{argument name=\"中文标题\" default=\"射手座解剖图谱\"}”或“ANATOMIA {argument name=\"英文标题\" default=\"Sagittarius\"}”，采用复古丝带横幅设计；背景为做旧羊皮纸/泛黄旧纸张纹理，带自然污渍与折痕，营造复古科学手稿质感；中心主体为该星座经典神话形象，内部结构替换为精密齿轮、管线、金属骨骼等蒸汽朋克元素；所有图标与插画为手绘线稿风格，用箭头或连线展示逻辑关系；主色调为暖棕、米黄、古铜色，点缀少量高对比色彩突出重点；画面分左右两栏，中心为主体形象，两侧分布功能模块，底部为总结与表格。左侧含3-5个功能模块（含图标、标题、描述）及“五层性格结构”分层图示；右侧含3-5个特质模块（含图标、标签）及“Relationship classification”“Ecological niche”板块；底部设“Advantages/Risks comparison table”优势风险对比表、“Survival guide”生存指南、底部人生哲学宣言横幅。整体严谨精致、复古机械美学，文字清晰可读 4K高清，直接出图。",
+  "translatedPrompt": "你是一位专业的复古蒸汽朋克解剖图集设计师，擅长星座机械结构科学海报。基于指定的【{argument name=\"constellation\" default=\"射手座\"}】，生成一张复古蒸汽朋克风格的星座解剖图集海报：顶部标题栏使用复古丝带横幅设计，文字为“{argument name=\"CN title\" default=\"射手座解剖图集\"}”或“ANATOMIA {argument name=\"EN title\" default=\"Sagittarius\"}”；背景为陈旧的羊皮纸/泛黄旧纸纹理，带有自然的污渍和折痕，营造出复古科学手稿的质感；中心主体为经典的星座神话形象，其内部结构被精密的齿轮、管道、金属骨骼及其他蒸汽朋克元素所取代；所有图标和插图均为手绘线条风格，使用箭头或线条展示逻辑关系；主色调为暖棕色、米色和青铜色，并辅以少量高对比度色彩以突出重点；布局分为左右两栏，主图位于中心，两侧为功能模块，底部为总结/表格。整体风格严谨、精致，遵循复古机械美学，文字清晰易读，呈现 4K 高清画质。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "蒸汽朋克风格黄道十二宫解剖海报：一个专业的复杂提示词，用于创作具有机械结构和陈旧羊皮纸纹理的复古蒸汽朋克风格黄道十二宫解剖海报。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13662",
+      "13730",
+      "13915",
+      "14782",
+      "13799",
+      "13984"
+    ]
+  }
+}

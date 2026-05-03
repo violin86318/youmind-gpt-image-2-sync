@@ -1,0 +1,40 @@
+{
+  "id": "13804",
+  "prompt": "A romantic anime promotional poster. A blonde girl with golden eyes in a white knit sweater rests her head on a sleeping dark-haired boy in a dark hoodie. They snuggle under a plaid blanket in soft, warm lighting. Top left title reads {argument name=\"main title\" default=\"The Angel Next Door Spoils Me Rotten\"} in elegant serif with gold accents, surrounded by 3 floating white feathers and sparkles. Left-aligned text reads {argument name=\"tagline 1\" default=\"A chance encounter brought them together. Kindness brought them closer.\"} and {argument name=\"tagline 2\" default=\"A heartwarming romantic story begins.\"}. A gold bottom-left sticker says \"Now Available!\". A bottom banner displays {argument name=\"bottom text\" default=\"A sweet and fluffy love story that will warm your heart.\"}.",
+  "translatedPrompt": "一张浪漫的动漫宣传海报。一位金发金眼的女孩穿着白色针织毛衣，将头靠在一位穿着深色连帽衫、正在熟睡的男孩身上。他们在柔软温暖的灯光下，蜷缩在格子毯子里。左上方的标题显示为 {argument name=\"main title\" default=\"关于我在无意间被隔壁的天使大人宠坏这件事\"}，采用优雅的衬线字体并带有金色装饰，周围环绕着 3 片漂浮的白色羽毛和闪光。左对齐的文字为 {argument name=\"tagline 1\" default=\"一次偶然的相遇让他们走到了一起。一份善意让他们心意相通。\"} 和 {argument name=\"tagline 2\" default=\"一段暖心的浪漫故事就此展开。\"}。左下角的金色贴纸写着“现已发售！”。底部横幅显示 {argument name=\"bottom text\" default=\"一段治愈心灵的甜蜜恋爱故事。\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫轻小说宣传海报：生成一张温馨浪漫的动漫插图，并融合宣传排版与标语。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13609",
+      "14423",
+      "14962",
+      "13834",
+      "14593",
+      "14638"
+    ]
+  }
+}

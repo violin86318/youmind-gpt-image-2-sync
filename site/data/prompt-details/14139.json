@@ -1,0 +1,36 @@
+{
+  "id": "14139",
+  "prompt": "添付の画像2枚は１人の女性です。この画像を使って。 プロのデザイナーが作成した日本向けの{argument name=\"ブランド名\" default=\"Tiffany & Co.\"} ポスター広告のビジュアルを４パターン作って。コピーに「{argument name=\"キャッチコピー\" default=\"With Love, Since 1837\\n内なる強さは見つけるのではなく、築き上げるもの。\"}」の文字を入れて。服装は、{argument name=\"ブランド名\" default=\"Tiffany & Co.\"} のビジュアルに合わせて着換えて、背景も調整して。 とにかく広告のような画像の品質、カメラのしぼり、ライトを意識して。",
+  "translatedPrompt": "The two attached images are of one woman. Use these images to create 4 patterns of poster advertisements for {argument name=\"brand name\" default=\"Tiffany & Co.\"} aimed at the Japanese market. Include the copy: \"{argument name=\"ad copy\" default=\"With Love, Since 1837\\nInner strength is not something you find, it's something you build.\"}\". Change her clothes to match the {argument name=\"brand name\" default=\"Tiffany & Co.\"} visual and adjust the background. Focus on professional advertisement quality, camera aperture, and lighting.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "High-Quality Brand Poster Generator：A detailed prompt for creating professional Tiffany & Co. style advertisements using reference images of a specific person.",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体",
+        "光线/镜头"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15543",
+      "14423",
+      "15155",
+      "13804",
+      "14070",
+      "14638"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14044",
+  "prompt": "{\n  \"type\": \"beverage advertisement banner\",\n  \"visuals\": {\n    \"model\": \"young Asian woman, wet hair clinging to face, water droplets on skin, {argument name=\\\"model pose\\\" default=\\\"eyes closed, face tilted upwards, serene expression\\\"}, wearing a white top\",\n    \"product\": \"white and yellow aluminum can with condensation, featuring a graphic of a {argument name=\\\"fruit type\\\" default=\\\"yuzu\\\"} fruit and leaves\",\n    \"props\": \"2 fresh yuzu fruits with green leaves placed next to the can\",\n    \"background\": \"{argument name=\\\"background scene\\\" default=\\\"bright blue sky with floating out-of-focus water droplets and bright sunlight\\\"}\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"Top Left Logo\",\n        \"position\": \"top-left\",\n        \"count\": 1,\n        \"labels\": [\"KIRARA\"]\n      },\n      {\n        \"title\": \"Main Copy\",\n        \"position\": \"left\",\n        \"count\": 3,\n        \"labels\": [\n          \"{argument name=\\\"main headline\\\" default=\\\"ゆず香る、新しいわたし。\\\"}\",\n          \"がんばる日々に、やさしいごほうびを。\",\n          \"Refresh!\"\n        ]\n      },\n      {\n        \"title\": \"Right Copy\",\n        \"position\": \"mid-right\",\n        \"count\": 1,\n        \"labels\": [\"私を、ほどくひとしゅわ。\"]\n      },\n      {\n        \"title\": \"Badges\",\n        \"position\": \"various\",\n        \"count\": 2,\n        \"labels\": [\n          \"NEW\",\n          \"国産ゆず果汁 3%\"\n        ]\n      },\n      {\n        \"title\": \"Bottom Banner\",\n        \"position\": \"bottom\",\n        \"count\": 4,\n        \"labels\": [\n          \"{argument name=\\\"product name\\\" default=\\\"YUZU SPARK\\\"}\",\n          \"ユズスパーク\",\n          \"やさしさ弾ける、ゆずの微炭酸。\",\n          \"数量限定発売中\"\n        ]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"饮料广告横幅\",\n  \"visuals\": {\n    \"model\": \"年轻亚洲女性，湿发贴在脸上，皮肤上有水珠，{argument name=\\\"model pose\\\" default=\\\"闭眼，脸部向上倾斜，表情宁静\\\"}，身穿白色上衣\",\n    \"product\": \"带有冷凝水的白黄色铝罐，印有 {argument name=\\\"fruit type\\\" default=\\\"柚子\\\"} 图案及叶片\",\n    \"props\": \"2 个新鲜柚子及绿叶放置在罐子旁边\",\n    \"background\": \"{argument name=\\\"background scene\\\" default=\\\"明亮的蓝天，漂浮着失焦的水滴和灿烂的阳光\\\"}\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"左上角 Logo\",\n        \"position\": \"top-left\",\n        \"count\": 1,\n        \"labels\": [\"KIRARA\"]\n      },\n      {\n        \"title\": \"主文案\",\n        \"position\": \"left\",\n        \"count\": 3,\n        \"labels\": [\n          \"{argument name=\\\"main headline\\\" default=\\\"ゆず香る、新しいわたし。\\\"}\",\n          \"がんばる日々に、やさしいごほうびを。\",\n          \"Refresh!\"\n        ]\n      },\n      {\n        \"title\": \"右侧文案\",\n        \"position\": \"mid-right\",\n        \"count\": 1,\n        \"labels\": [\"私を、ほどくひとしゅわ。\"]\n      },\n      {\n        \"title\": \"徽章\",\n        \"position\": \"various\",\n        \"count\": 2,\n        \"labels\": [\n          \"NEW\",\n          \"国産ゆず果汁 3%\"\n        ]\n      },\n      {\n        \"title\": \"底部横幅\",\n        \"position\": \"bottom\",\n        \"count\": 4,\n        \"labels\": [\n          \"{argument name=\\\"product name\\\" default=\\\"YUZU SPARK\\\"}\",\n          \"ユズスパーク\",\n          \"やさしさ弾ける、ゆずの微炭酸。\",\n          \"数量限定発売中\"\n        ]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "气泡饮料广告横幅：为气泡饮料生成一张清爽的商业横幅，包含模特、产品特写及促销日文文案。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13609",
+      "13834",
+      "14053",
+      "14070",
+      "14423",
+      "13804"
+    ]
+  }
+}

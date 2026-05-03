@@ -1,0 +1,46 @@
+{
+  "id": "14570",
+  "prompt": "A gritty found-footage horror photo taken inside a dim, cramped security office at night, shot with a direct on-camera flash and slight film grain. In the foreground are exactly 2 young women, both partially cropped by the frame and both with their faces heavily blurred into rectangular smudges for privacy. The woman on the left has long dark hair and wears a black top, turned slightly away from camera. The woman on the right has long platinum blonde hair, a low-cut black top, and is holding a black flashlight angled upward in her right hand. Between them in the lower center foreground is 1 small black metal desk fan with visible circular grill. The background reveals a narrow open doorway centered in the image, leading into almost complete darkness. Standing deep inside that doorway is a terrifying rabbit animatronic silhouette with glowing eyes, long upright ears, a huge toothy grin, and faintly visible metallic body details, barely illuminated so it emerges from the shadows. The office walls are off-white and worn, with a black-and-white checker stripe and a thin red stripe running horizontally across the room. On the left wall is 1 colorful “CELEBRATE!” poster featuring animatronic characters, plus 1 smaller character drawing sheet pinned nearby, and 1 black walkie-talkie standing upright on a surface. Near the doorway is 1 silver desk lamp. On the right side are 2 sheets of paper clipped to the wall and a gray filing cabinet in shadow. The door is ajar with the handle visible. Composition should feel like a candid party snapshot turning into a horror scene, with harsh flash-lit foreground subjects, deep black shadows, analog noise, muted colors, unsettling realism, and the hidden monster in the center background as the main scare.",
+  "translatedPrompt": "一张粗粝的 Found-Footage 风格恐怖照片，拍摄于夜晚昏暗狭窄的安保办公室内，采用机顶闪光灯直闪，带有轻微的胶片颗粒感。前景中共有 2 名年轻女性，两人均被画面部分裁切，且面部因隐私保护被模糊处理成矩形色块。左侧女性留着深色长发，身穿黑色上衣，身体略微背向镜头。右侧女性留着白金长发，身穿低胸黑色上衣，右手向上握着一支黑色手电筒。两人之间的下方前景中央有一个小型黑色金属台式风扇，可见圆形格栅。背景中，画面中央的一扇窄门半掩，通向几乎完全黑暗的空间。在那扇门的深处，站着一个恐怖的兔子电子玩偶剪影，它有着发光的眼睛、长长的竖耳、巨大的露齿笑容以及隐约可见的金属身体细节，在阴影中若隐现。办公室墙壁呈灰白色且陈旧，墙面横贯着黑白格纹条纹和一条细红线。左侧墙上贴着一张色彩鲜艳的“CELEBRATE!”海报，上面印有电子玩偶角色，旁边还钉着一张较小的角色绘画纸，桌面上立着一个黑色对讲机。门附近有一盏银色台灯。右侧墙上夹着 2 张纸，阴影中有一个灰色文件柜。门半开着，可以看到门把手。构图应呈现出一种派对抓拍瞬间转变为恐怖场景的感觉，前景主体由强烈的闪光灯照亮，背景则是深邃的黑色阴影，整体带有模拟噪点、低饱和色彩、令人不安的写实感，并将背景中央隐藏的怪物作为核心惊悚点。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Found-Footage 办公室恐怖快照：此提示词可生成一张写实的闪光灯恐怖场景照片，画面中两名女性身处昏暗的安保办公室，门口潜伏着一只阴森的兔子电子玩偶，非常适合模拟风格的惊悚片或吉祥物恐怖题材。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "film grain",
+        "camera"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: film grain, camera]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14924",
+      "14945",
+      "14476",
+      "15311",
+      "14422",
+      "14525"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "13632",
+  "prompt": "A cinematic, photorealistic shot of a {argument name=\"character appearance\" default=\"handsome young man with spiky dark brown hair and rectangular glasses\"}, wearing a {argument name=\"outfit\" default=\"black leather tactical jacket with a high collar, silver chest badge, and white arm stripes\"} along with black leather gloves and an earpiece. He is {argument name=\"action\" default=\"leaning intensely over a glowing tactical map on a table, pointing at it with his right hand\"}. The scene takes place in a {argument name=\"setting\" default=\"dimly lit, gritty concrete command bunker\"}. In the blurred background, {argument name=\"background characters\" default=\"several soldiers in full black tactical gear and helmets\"} stand at attention. The shoulder of another person in a black uniform is visible in the foreground left, framing the shot. The image features dark, moody lighting, shallow depth of field, and high-resolution gritty textures.",
+  "translatedPrompt": "一张电影级、照片级逼真的镜头，主角是 {argument name=\"character appearance\" default=\"一位留着深棕色刺猬头、戴着长方形眼镜的帅气年轻人\"}，身穿 {argument name=\"outfit\" default=\"带有高领、银色胸章和白色臂章的黑色皮质战术夹克\"}，并佩戴黑色皮手套和耳机。他正 {argument name=\"action\" default=\"身体前倾，专注地俯瞰着桌上发光的战术地图，右手指向地图\"}。场景设定在 {argument name=\"setting\" default=\"光线昏暗、充满粗粝感的混凝土指挥掩体\"} 中。在模糊的背景中，{argument name=\"background characters\" default=\"几名身穿全套黑色战术装备并佩戴头盔的士兵\"} 肃立待命。画面左前景可见另一位身穿黑色制服的人的肩膀，构成了画面的框架。图像呈现出暗调、忧郁的灯光效果，具有浅景深和高分辨率的粗粝质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影级战术指挥场景：生成一张照片级逼真、电影质感的图像，展示一名战术指挥官在粗粝的指挥中心内指向地图。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14724",
+      "15757",
+      "14016",
+      "14506",
+      "15027",
+      "15259"
+    ]
+  }
+}

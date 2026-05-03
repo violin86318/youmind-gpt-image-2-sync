@@ -1,0 +1,35 @@
+{
+  "id": "15560",
+  "prompt": "生成一张{argument name=\"报纸名称\" default=\"xx报纸\"}，根据这张照片可以编一个头版头条标题，像真实的摄影，复古质感",
+  "translatedPrompt": "生成一份 {argument name=\"newspaper name\" default=\"某报社\"} 的头版。基于这张照片，创建一个头版标题；画面应呈现出带有复古质感的真实摄影效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古报纸头版：一个可以将个人照片转换为具有复古质感的真实报纸头版，并支持自定义标题的提示词。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

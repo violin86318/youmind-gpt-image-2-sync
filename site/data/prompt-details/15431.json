@@ -1,0 +1,50 @@
+{
+  "id": "15431",
+  "prompt": "A vast cinematic sci-fi megacity at sunset, viewed from a high observation platform between dark futuristic superstructures, with an immense glowing orange-and-gold sky filled with dramatic clouds and haze. The scene shows a sprawling vertical city extending far into the distance, packed with countless ultra-tall needle-like skyscrapers and luminous architectural spires rising through layers of clouds. A colossal hovering platform-city dominates the upper right-middle area, dark metallic and heavily detailed, suspended above the skyline with smaller towers and structures attached beneath it. In the lower left foreground, a sleek futuristic spacecraft is launching away from a terrace, angled diagonally outward toward the center, with bright blue engine exhaust trails and reflective metallic panels. Tiny human silhouettes stand along the terrace edge for scale. Multiple small flying vehicles and hovercraft are scattered across the sky at different distances, creating dense air traffic. Far below, the city grid glitters with warm lights through atmospheric mist. Use a grand panoramic composition, high contrast between dark architectural framing and radiant sunset light, intricate techno-industrial detail, atmospheric perspective, volumetric clouds, reflective surfaces, and a richly colored palette of amber, peach, violet, deep navy, and electric blue accents. Ultra-detailed, epic futuristic concept art, photoreal matte-painting feel, sharp focus, dramatic scale, vertical 4:3 composition, no text or logos.",
+  "translatedPrompt": "一个广阔的电影级科幻超级城市日落景观，从黑暗的未来主义超大建筑群之间的高处观景台俯瞰，巨大的橙金色发光天空中充满了戏剧性的云层和薄雾。场景展示了一座向远方延伸的庞大垂直城市，密布着无数高耸入云的针状摩天大楼和穿透云层的发光建筑尖塔。右上中方是一座巨大的悬浮平台城市，呈深色金属质感且细节丰富，悬浮在天际线上方，下方附带着较小的塔楼和结构。左下角前景中，一艘流线型未来派航天器正从露台起飞，呈对角线向中心倾斜，带有明亮的蓝色引擎尾迹和反光的金属面板。露台边缘站着几个微小的人影以体现比例。天空中散布着许多不同距离的小型飞行载具和气垫船，形成了密集的空中交通。远处的下方，城市网格透过大气薄雾闪烁着温暖的灯光。采用宏大的全景构图，深色建筑框架与灿烂的日落光线形成高对比，展现复杂的科技工业细节、大气透视、体积云、反光表面，以及琥珀色、桃色、紫色、深海军蓝和电光蓝的丰富色彩组合。超精细、史诗般的未来主义概念艺术，照片级写实哑光绘画质感，焦点清晰，规模宏大，4:3 垂直构图，无文字或徽标。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日落时分的未来感超级城市全景：一个用于生成超精细科幻城市景观的电影级提示词，包含飞行载具、高耸尖塔和发光的日落天际线，非常适合概念艺术或戏剧性的世界观构建视觉效果。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "grid",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "sci-fi"
+      ],
+      "lightingCamera": [
+        "volumetric",
+        "high contrast"
+      ],
+      "text": "禁止额外文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, vertical]。\n\nVisual style:\n[参考风格: cinematic, sci-fi]。\n\nLighting and camera:\n[参考光线镜头: volumetric, high contrast]。\n\nText requirements:\n禁止额外文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14902",
+      "14042",
+      "14438",
+      "15806",
+      "14561",
+      "15308"
+    ]
+  }
+}

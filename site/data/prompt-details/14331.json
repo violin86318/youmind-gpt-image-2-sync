@@ -1,0 +1,40 @@
+{
+  "id": "14331",
+  "prompt": "Make a cinematic movie poster for the {argument name=\"genre\" default=\"anime horror\"} movie called “{argument name=\"title\" default=\"HOST\"}”. Use the image as reference.",
+  "translatedPrompt": "制作一张电影级电影海报，用于 {argument name=\"genre\" default=\"anime horror\"} 电影“{argument name=\"title\" default=\"HOST\"}”。请使用该图像作为参考。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "恐怖动漫电影海报：一个使用参考图生成电影级恐怖动漫电影海报的提示词。",
+      "subject": "综合主体",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14222",
+      "15049",
+      "13655",
+      "13682",
+      "13998",
+      "13594"
+    ]
+  }
+}

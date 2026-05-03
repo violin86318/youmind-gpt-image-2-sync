@@ -1,0 +1,46 @@
+{
+  "id": "14218",
+  "prompt": "A 3D render of a cute kawaii {argument name=\"subject\" default=\"cloud\"} character on a pure white background. The character has a soft, matte, squishy texture resembling clay or a stress toy. It features large glossy black eyes with white highlights, a simple curved smile, and round pink blush on its cheeks. The edges and bottom of the figure have a subtle pastel gradient of {argument name=\"accent colors\" default=\"pink, blue, and purple\"}. Soft studio lighting, minimalist icon style, casting a gentle shadow.",
+  "translatedPrompt": "A 3D render of a cute kawaii {argument name=\"subject\" default=\"cloud\"} character on a pure white background. The character has a soft, matte, squishy texture resembling clay or a stress toy. It features large glossy black eyes with white highlights, a simple curved smile, and round pink blush on its cheeks. The edges and bottom of the figure have a subtle pastel gradient of {argument name=\"accent colors\" default=\"pink, blue, and purple\"}. Soft studio lighting, minimalist icon style, casting a gentle shadow.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Kawaii 3D Character Icon：Generates a cute, 3D-rendered kawaii character with a soft matte texture on a white background, perfect for app icons or avatars.",
+      "subject": "界面",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "3d",
+        "minimalist",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: 3d, minimalist, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13917",
+      "14475",
+      "15147",
+      "13615",
+      "15607",
+      "13509"
+    ]
+  }
+}

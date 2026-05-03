@@ -1,0 +1,52 @@
+{
+  "id": "15754",
+  "prompt": "A cinematic photorealistic portrait of a young woman sitting barefoot on a rectangular hay bale inside a rustic wooden barn at night, wearing a flowing mustard-yellow satin maxi dress with thin spaghetti straps, a deep neckline, a small bow-tie knot at the center of the bust, a fitted waist, and a long draped skirt pooling onto the straw-covered floor. She has long wavy auburn-brown hair styled half-up in a loose top knot, with soft strands falling over her shoulders. Her pose is elegant and demure: legs crossed at the ankles and extended forward, one hand resting near her lap, the other hand raised to partially cover her face. Warm golden light from the right side illuminates her skin and dress, creating soft highlights and deep shadows, while cool blue moonlight enters from a small open window on the left. Outside the window, show a bright full moon in a dark blue sky with silhouettes of pine trees. The barn interior is made of dark stained vertical wooden planks with built-in bench ledges along the walls, scattered loose straw on the floor, and 2 visible hay bales, including the one she sits on. Shot full body in a vertical composition, centered slightly right of frame, shallow depth of field, intimate moody atmosphere, high-detail skin and fabric texture, editorial fashion photography, soft cinematic contrast.",
+  "translatedPrompt": "一张电影感写实人像，描绘了一位年轻女性在夜晚坐在乡村木制谷仓内长方形干草捆上的赤脚形象。她身穿一件飘逸的芥末黄缎面长裙，配有细吊带、深领口，胸前中央饰有小蝴蝶结，修身腰部设计，长长的垂坠裙摆铺散在铺满稻草的地面上。她留着一头波浪状的赤褐色长发，半扎成松散的发髻，几缕发丝柔和地垂在肩头。她的姿势优雅而端庄：双腿在脚踝处交叉并向前伸展，一只手放在膝盖附近，另一只手抬起轻轻遮住脸庞。右侧的温暖金光照亮了她的肌肤与裙装，营造出柔和的高光与深邃的阴影，而左侧一扇小窗透入清冷的蓝色月光。窗外可见深蓝色夜空中的明亮满月，以及松树的剪影。谷仓内部由深色染色垂直木板构成，墙边设有内置长凳，地面散落着零星稻草，可见 2 个干草捆，包括她所坐的那一个。采用全身垂直构图，人物略微偏向画面右侧，浅景深，营造出私密且忧郁的氛围，皮肤与织物纹理细节丰富，编辑级时尚摄影，柔和的电影感对比度。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "月光谷仓时尚人像：此提示词可生成一张电影感全身时尚人像，描绘了一位身着黄色连衣裙的女性坐在乡村谷仓的干草上，非常适合营造忧郁的编辑风格或生活方式影像。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "editorial"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, editorial]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15766",
+      "15308",
+      "15096",
+      "15609",
+      "15731",
+      "14669"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "15263",
+  "prompt": "{\"type\":\"editorial streetwear merch campaign collage\",\"brand\":{\"name\":\"curated.supply\",\"logo\":\"minimal 8-spoke asterisk symbol\",\"aesthetic\":\"clean contemporary design-brand merchandise, understated premium basics, neutral modern lifestyle\"},\"products\":[{\"type\":\"t-shirt\",\"color\":\"white\",\"graphics\":{\"front\":\"small black 8-spoke asterisk centered on chest\",\"back\":\"large black 8-spoke asterisk centered, small brand text near lower back reading curated.supply\"}},{\"type\":\"t-shirt\",\"color\":\"black\",\"graphics\":{\"front\":\"small white 8-spoke asterisk centered on chest\",\"back\":\"large stacked white sans-serif slogan reading {argument name=\\\"back slogan\\\" default=\\\"Discover well-designed, carefully curated products\\\"}, small brand text near lower back reading curated.supply\"}},{\"type\":\"tote bag\",\"color\":\"black\",\"graphics\":{\"front\":\"brand text curated.supply in white lowercase sans-serif near lower-left area\"}}],\"layout\":{\"grid\":{\"rows\":2,\"columns\":3,\"count\":6},\"sections\":[{\"position\":\"top-left\",\"count\":1,\"scene\":\"rear view of a male model in a {argument name=\\\"shirt color\\\" default=\\\"white\\\"} t-shirt making pour-over coffee in a dim modern kitchen, large back asterisk graphic visible\"},{\"position\":\"top-center\",\"count\":1,\"scene\":\"cropped torso shot of a male model in a black t-shirt with small chest asterisk, holding a bright red design book with oversized black typography\"},{\"position\":\"top-right\",\"count\":2,\"scene\":\"rear view of two models walking at night, one in a black t-shirt and one in a white t-shirt, both showing the large stacked slogan on the back\"},{\"position\":\"bottom-left\",\"count\":3,\"scene\":\"still-life product vignette with 1 black tote bag, 2 white paper cups printed with the asterisk logo, and 1 magazine on a concrete floor beside a large speaker\"},{\"position\":\"bottom-center\",\"count\":1,\"scene\":\"seated female model against a raw concrete wall wearing a black t-shirt with small chest asterisk and white pants, with a black kettle and a red book beside her\"},{\"position\":\"bottom-right\",\"count\":3,\"scene\":\"rear view of a seated male model in a white t-shirt with large back asterisk, next to 1 black shopping bag with small asterisk mark and 1 silver hard-shell suitcase in an urban concrete setting\"}]},\"styling\":{\"models\":\"young adult fashion models with faces obscured or softly blurred\",\"wardrobe\":\"minimal monochrome outfits, relaxed fit tees, casual contemporary styling, black and white palette\",\"locations\":[\"modern kitchen\",\"night street\",\"industrial concrete interior\",\"urban outdoor concrete steps\"],\"lighting\":\"flash photography with warm cinematic shadows, candid editorial look\"},\"composition\":\"create a six-panel campaign contact sheet with thin black dividers, each panel slightly gritty and realistic, premium lifestyle-brand photography, natural poses, subtle film grain, high contrast, polished but candid\",\"aspect_ratio\":\"16:9\"}",
+  "translatedPrompt": "{\"type\":\"编辑风格街头服饰周边拼贴\",\"brand\":{\"name\":\"curated.supply\",\"logo\":\"极简 8 辐星号符号\",\"aesthetic\":\"干净的当代设计品牌周边，低调的高级基础款，中性现代生活方式\"},\"products\":[{\"type\":\"T 恤\",\"color\":\"白色\",\"graphics\":{\"front\":\"胸前居中小型黑色 8 辐星号\",\"back\":\"背部居中大型黑色 8 辐星号，下背部附近有小型品牌文字 curated.supply\"}},{\"type\":\"T 恤\",\"color\":\"黑色\",\"graphics\":{\"front\":\"胸前居中小型白色 8 辐星号\",\"back\":\"背部大型堆叠式白色无衬线标语 {argument name=\\\"back slogan\\\" default=\\\"Discover well-designed, carefully curated products\\\"}，下背部附近有小型品牌文字 curated.supply\"}},{\"type\":\"托特包\",\"color\":\"黑色\",\"graphics\":{\"front\":\"左下角区域有白色小写无衬线品牌文字 curated.supply\"}}],\"layout\":{\"grid\":{\"rows\":2,\"columns\":3,\"count\":6},\"sections\":[{\"position\":\"左上\",\"count\":1,\"scene\":\"一名男性模特穿着 {argument name=\\\"shirt color\\\" default=\\\"白色\\\"} T 恤在昏暗的现代厨房中冲泡咖啡的背影，背部大型星号图案清晰可见\"},{\"position\":\"中上\",\"count\":1,\"scene\":\"一名男性模特穿着带有小型胸前星号的黑色 T 恤的躯干特写，手中拿着一本带有超大黑色排版的亮红色设计书籍\"},{\"position\":\"右上\",\"count\":2,\"scene\":\"两名模特在夜间行走的背影，一人穿着黑色 T 恤，一人穿着白色 T 恤，两人均展示了背部的大型堆叠式标语\"},{\"position\":\"左下\",\"count\":3,\"scene\":\"静物产品小样，包含 1 个黑色托特包、2 个印有星号标志的白色纸杯，以及 1 本放在大型扬声器旁混凝土底面上的杂志\"},{\"position\":\"中下\",\"count\":1,\"scene\":\"一名女性模特坐在原始混凝土墙前，身穿带有小型胸前星号的黑色 T 恤和白色长裤，身旁放着一个黑色水壶和一本红色书籍\"},{\"position\":\"右下\",\"count\":3,\"scene\":\"一名男性模特穿着带有大型背部星号的白色 T 恤坐在城市混凝土环境中的背影，旁边放着 1 个带有小型星号标志的黑色购物袋和 1 个银色硬壳行李箱\"}]},\"styling\":{\"models\":\"面部被遮挡或轻微模糊的年轻成人时尚模特\",\"wardrobe\":\"极简黑白配色服装，宽松剪裁 T 恤，休闲当代风格，黑白调色板\",\"locations\":[\"现代厨房\",\"夜间街道\",\"工业风混凝土室内\",\"城市户外混凝土台阶\"],\"lighting\":\"带有温暖电影感阴影的闪光摄影，纪实编辑风格\",\"composition\":\"创建一个带有细黑色分隔线的六格活动联系表，每个面板略带颗粒感且真实，高级生活方式品牌摄影，自然姿势，微妙的胶片颗粒感，高对比度，精致而随性\",\"aspect_ratio\":\"16:9\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "极简街头服饰周边系列网格图：一个六格编辑风格拼贴图，展示了用于当代周边或生活方式品牌活动的极简主义品牌 T 恤和托特包。",
+      "subject": "服饰",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "grid"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "editorial",
+        "premium"
+      ],
+      "lightingCamera": [
+        "high contrast",
+        "film grain"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, grid]。\n\nVisual style:\n[参考风格: realistic, cinematic, editorial, premium]。\n\nLighting and camera:\n[参考光线镜头: high contrast, film grain]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15786",
+      "15026",
+      "15469",
+      "15707",
+      "15011",
+      "15324"
+    ]
+  }
+}

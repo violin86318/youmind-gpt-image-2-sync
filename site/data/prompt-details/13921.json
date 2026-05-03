@@ -1,0 +1,37 @@
+{
+  "id": "13921",
+  "prompt": "{\n  \"type\": \"restaurant menu design\",\n  \"style\": {\n    \"background\": \"dark wood texture\",\n    \"accents\": \"{argument name=\\\"theme color\\\" default=\\\"gold\\\"}\",\n    \"typography\": \"elegant serif and sans-serif mix\",\n    \"photography\": \"high-resolution, appetizing food shots with warm lighting\"\n  },\n  \"header\": {\n    \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"GRAND MENU\\\"}\",\n    \"subtitle\": \"{argument name=\\\"restaurant type\\\" default=\\\"OPEN KITCHEN RESTAURANT\\\"}\",\n    \"top_right_badge\": \"季節の厳選食材使用!\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"シェフのおすすめ\",\n        \"position\": \"top\",\n        \"count\": 3,\n        \"featured_item\": \"{argument name=\\\"featured item name\\\" default=\\\"特選和牛ステーキ 200g\\\"}\",\n        \"labels\": [\"特選和牛ステーキ 200g\", \"トリュフ香る濃厚カルボナーラ\", \"魚介のペスカトーレ\"]\n      },\n      {\n        \"title\": \"前菜・サラダ\",\n        \"position\": \"mid-left top\",\n        \"count\": 4,\n        \"labels\": [\"生ハムとモッツァレラのカプレーゼ\", \"サーモンのカルパッチョ\", \"アボカドと海老のグリーンサラダ\", \"本日の濃厚スープ\"]\n      },\n      {\n        \"title\": \"パスタ & ピザ\",\n        \"position\": \"mid-right top\",\n        \"count\": 4,\n        \"labels\": [\"生ウニのクリームパスタ\", \"モッツァレラとバジルのトマトパスタ\", \"マルゲリータピザ\", \"クアトロフォルマッジ\"]\n      },\n      {\n        \"title\": \"メインディッシュ\",\n        \"position\": \"mid-left bottom\",\n        \"count\": 4,\n        \"labels\": [\"黒毛和牛100%ハンバーグ\", \"サーモンのグリル\", \"自家製ローストビーフ丼\", \"大海老のガーリックシュリンプ\"]\n      },\n      {\n        \"title\": \"ご飯もの\",\n        \"position\": \"mid-right middle\",\n        \"count\": 3,\n        \"labels\": [\"牛すじガーリックライス\", \"とろとろ卵のオムライス\", \"魚介のパエリア\"]\n      },\n      {\n        \"title\": \"サイドメニュー\",\n        \"position\": \"mid-right bottom\",\n        \"count\": 5,\n        \"format\": \"text list with 1 photo of french fries\",\n        \"labels\": [\"フライドポテト\", \"オニオンリング\", \"チーズ盛り合わせ\", \"ガーリックトースト\", \"季節のピクルス\"]\n      },\n      {\n        \"title\": \"ドリンク\",\n        \"position\": \"bottom left\",\n        \"count\": 10,\n        \"format\": \"2 text columns with 2 photos of drinks\",\n        \"labels\": [\"コーヒー & ティー\", \"アルコール\"]\n      },\n      {\n        \"title\": \"スイーツ\",\n        \"position\": \"bottom right\",\n        \"count\": 3,\n        \"labels\": [\"自家製ティラミス\", \"フォンダンショコラ\", \"季節のフルーツパンケーキ\"]\n      }\n    ]\n  },\n  \"footer\": {\n    \"banner_text\": \"{argument name=\\\"footer text\\\" default=\\\"★ ランチタイム 11:00〜15:00 は、ドリンクセット +¥300! ★\\\"}\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"餐厅菜单设计\",\n  \"style\": {\n    \"background\": \"深色木纹质感\",\n    \"accents\": \"{argument name=\\\"theme color\\\" default=\\\"金色\\\"}\",\n    \"typography\": \"优雅的衬线体与无衬线体混搭\",\n    \"photography\": \"高分辨率、令人垂涎的美食摄影，配以暖色调灯光\"\n  },\n  \"header\": {\n    \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"GRAND MENU\\\"}\",\n    \"subtitle\": \"{argument name=\\\"restaurant type\\\" default=\\\"开放式厨房餐厅\\\"}\",\n    \"top_right_badge\": \"使用当季严选食材！\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"主厨推荐\",\n        \"position\": \"顶部\",\n        \"count\": 3,\n        \"featured_item\": \"{argument name=\\\"featured item name\\\" default=\\\"特选和牛牛排 200g\\\"}\",\n        \"labels\": [\"特选和牛牛排 200g\", \"松露风味浓郁培根蛋酱意面\", \"海鲜意面\"]\n      },\n      {\n        \"title\": \"前菜・沙拉\",\n        \"position\": \"中左上\",\n        \"count\": 4,\n        \"labels\": [\"生火腿马苏里拉奶酪卡普里沙拉\", \"三文鱼薄片刺身\", \"牛油果鲜虾绿色沙拉\", \"今日浓汤\"]\n      },\n      {\n        \"title\": \"意面 & 披萨\",\n        \"position\": \"中右上\",\n        \"count\": 4,\n        \"labels\": [\"生海胆奶油意面\", \"马苏里拉罗勒番茄意面\", \"玛格丽特披萨\", \"四重芝士披萨\"]\n      },\n      {\n        \"title\": \"主菜\",\n        \"position\": \"中左下\",\n        \"count\": 4,\n        \"labels\": [\"100% 黑毛和牛汉堡肉\", \"香煎三文鱼\", \"自制烤牛肉盖饭\", \"大虾蒜香虾\"]\n      },\n      {\n        \"title\": \"主食\",\n        \"position\": \"中右中\",\n        \"count\": 3,\n        \"labels\": [\"牛筋蒜香炒饭\", \"滑蛋蛋包饭\", \"海鲜西班牙大锅饭\"]\n      },\n      {\n        \"title\": \"小食\",\n        \"position\": \"中右下\",\n        \"count\": 5,\n        \"format\": \"带有一张炸薯条照片的文本列表\",\n        \"labels\": [\"炸薯条\", \"洋葱圈\", \"芝士拼盘\", \"蒜香吐司\", \"季节性腌菜\"]\n      },\n      {\n        \"title\": \"饮品\",\n        \"position\": \"左下\",\n        \"count\": 10,\n        \"format\": \"两栏文本，配有两张饮品照片\",\n        \"labels\": [\"咖啡 & 茶\", \"酒精饮料\"]\n      },\n      {\n        \"title\": \"甜点\",\n        \"position\": \"右下\",\n        \"count\": 3,\n        \"labels\": [\"自制提拉米苏\", \"熔岩巧克力蛋糕\", \"当季水果松饼\"]\n      }\n    ]\n  },\n  \"footer\": {\n    \"banner_text\": \"{argument name=\\\"footer text\\\" default=\\\"★ 午餐时间 11:00〜15:00，饮品套餐仅需 +¥300！★\\\"}\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "综合餐厅主菜单设计：生成一份高度详细、多板块的餐厅菜单布局，包含美食摄影、价格以及深色背景上的日文文本。",
+      "subject": "食物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15105",
+      "13515",
+      "13525",
+      "13542",
+      "13592",
+      "13731"
+    ]
+  }
+}

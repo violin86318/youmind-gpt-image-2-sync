@@ -1,0 +1,48 @@
+{
+  "id": "15010",
+  "prompt": "A darkly comedic, cinematic product advertisement staged in a messy modern living room at night. In the background, a person in a full {argument name=\"superhero costume\" default=\"Spider-Man-inspired red and blue suit\"} lies face-down and motionless on a wooden floor, one arm stretched toward the camera, posed like a defeated superhero after a battle. The room is dim and moody with a gray couch in soft focus, pillows and blankets tossed around, and scattered white popcorn across the floor. In the left foreground, show 1 open pizza box cropped into frame. In the right foreground, place 1 large upright can of {argument name=\"product name\" default=\"Raid\"} insect spray as the hero object, sharply focused, oversized in perspective, with a black cap and a purple label facing camera. Make the product feel dominant, clean, and commercial, with dramatic rim lighting and glossy reflections. Add 2 lines of bold white uppercase ad copy: at the top, very large condensed sans-serif text reading {argument name=\"headline text\" default=\"NOT EVEN A SUPERHERO SURVIVES.\"}; at the bottom center, smaller bold text reading {argument name=\"tagline text\" default=\"Raid. Kills bugs dead.\"}. Include 2 visible insect illustrations on the can label, and keep the overall tone like a high-end shock-value commercial campaign: realistic photography, shallow depth of field, strong contrast, gritty floor texture, subdued gray-blue interior lighting, and a composition that makes the spray can the clear focal point while the fallen hero tells the joke in the background.",
+  "translatedPrompt": "一则黑色幽默风格的电影质感产品广告，场景设定在夜晚凌乱的现代客厅中。背景中，一名身穿 {argument name=\"superhero costume\" default=\"蜘蛛侠风格红蓝战衣\"} 的人脸朝下瘫倒在木地板上，一动不动，一只手臂伸向镜头，呈现出超级英雄战败后的姿态。房间光线昏暗，氛围压抑，背景中灰色的沙发处于虚焦状态，枕头和毯子散落一地，地板上撒满了白色爆米花。左侧前景处展示一个被裁剪进画面的披萨盒。右侧前景处放置一罐巨大的、直立的 {argument name=\"product name\" default=\"Raid\"} 杀虫剂作为主角，焦点清晰，透视比例夸张，黑色瓶盖，紫色标签正对镜头。使产品呈现出主导、整洁且商业化的质感，带有戏剧性的轮廓光和光泽反射。添加两行醒目的白色大写广告文案：顶部使用超大号紧凑型无衬线字体，内容为 {argument name=\"headline text\" default=\"NOT EVEN A SUPERHERO SURVIVES.\"}；底部居中处使用较小的粗体文字，内容为 {argument name=\"tagline text\" default=\"Raid. Kills bugs dead.\"}。在瓶身标签上包含 2 个可见的昆虫插图，整体基调保持高端视觉冲击力商业广告风格：写实摄影、浅景深、强对比度、粗糙的地板纹理、柔和的灰蓝色室内光线，构图使杀虫剂成为绝对的视觉焦点，而背景中倒下的英雄则起到幽默讽刺的效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "黑色幽默风格杀虫剂广告：此提示词可生成电影质感的广告画面，以一款醒目的杀虫剂喷雾罐为主角，背景为凌乱客厅中倒下的超级英雄戏仿形象，非常适合大胆的电商或营销创意。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: rim light, shallow depth, depth of field, camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15246",
+      "14416",
+      "14828",
+      "15523",
+      "15012",
+      "14423"
+    ]
+  }
+}

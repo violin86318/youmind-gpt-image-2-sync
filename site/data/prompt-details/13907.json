@@ -1,0 +1,45 @@
+{
+  "id": "13907",
+  "prompt": "{\n  \"type\": \"logo concept sheet\",\n  \"layout\": \"2x3 grid\",\n  \"global_attributes\": {\n    \"text\": \"{argument name=\\\"logo text\\\" default=\\\"金のニワトリ\\\"}\",\n    \"color_palette\": [\n      \"{argument name=\\\"primary color\\\" default=\\\"gold\\\"}\",\n      \"{argument name=\\\"background color\\\" default=\\\"black\\\"}\"\n    ],\n    \"style\": \"VTuber style logo designs, metallic, shiny, high contrast\"\n  },\n  \"variants\": [\n    {\n      \"position\": \"top-left\",\n      \"style\": \"sharp and fierce\",\n      \"icon\": \"detailed {argument name=\\\"main subject\\\" default=\\\"golden rooster\\\"} head facing left\",\n      \"typography\": \"sharp, dynamic\"\n    },\n    {\n      \"position\": \"top-center\",\n      \"style\": \"brush stroke / ensō\",\n      \"icon\": \"elegant rooster profile inside a circular brush stroke, small red seal stamp\",\n      \"typography\": \"elegant, flowing\"\n    },\n    {\n      \"position\": \"top-right\",\n      \"style\": \"royal crest\",\n      \"icon\": \"crown, symmetrical floral filigree\",\n      \"typography\": \"elegant, serif\"\n    },\n    {\n      \"position\": \"bottom-left\",\n      \"style\": \"cute / chibi\",\n      \"icon\": \"round cute chick, golden egg, ribbon banner\",\n      \"typography\": \"bubbly, thick\"\n    },\n    {\n      \"position\": \"bottom-center\",\n      \"style\": \"traditional Japanese\",\n      \"icon\": \"stylized rooster, traditional clouds\",\n      \"typography\": \"flowing, dynamic\"\n    },\n    {\n      \"position\": \"bottom-right\",\n      \"style\": \"magical / elegant\",\n      \"icon\": \"large golden feather, sparkling stars, crescent moon motif\",\n      \"typography\": \"elegant, cursive-inspired\"\n    }\n  ]\n}",
+  "translatedPrompt": "{\n  \"type\": \"logo 概念图\",\n  \"layout\": \"2x3 网格\",\n  \"global_attributes\": {\n    \"text\": \"{argument name=\\\"logo text\\\" default=\\\"金のニワトリ\\\"}\",\n    \"color_palette\": [\n      \"{argument name=\\\"primary color\\\" default=\\\"金色\\\"}\",\n      \"{argument name=\\\"background color\\\" default=\\\"黑色\\\"}\"\n    ],\n    \"style\": \"VTuber 风格 Logo 设计，金属质感，光泽感，高对比度\"\n  },\n  \"variants\": [\n    {\n      \"position\": \"左上\",\n      \"style\": \"锐利且凶猛\",\n      \"icon\": \"细节丰富的 {argument name=\\\"main subject\\\" default=\\\"金鸡\\\"} 头部，朝向左侧\",\n      \"typography\": \"锐利，动感\"\n    },\n    {\n      \"position\": \"中上\",\n      \"style\": \"笔触 / 圆相\",\n      \"icon\": \"圆形笔触中的优雅鸡侧影，带有小型红色印章\",\n      \"typography\": \"优雅，流畅\"\n    },\n    {\n      \"position\": \"右上\",\n      \"style\": \"皇家徽章\",\n      \"icon\": \"皇冠，对称花卉纹饰\",\n      \"typography\": \"优雅，衬线体\"\n    },\n    {\n      \"position\": \"左下\",\n      \"style\": \"可爱 / Q 版\",\n      \"icon\": \"圆润可爱的小鸡，金蛋，丝带横幅\",\n      \"typography\": \"活泼，粗体\"\n    },\n    {\n      \"position\": \"中下\",\n      \"style\": \"传统日式\",\n      \"icon\": \"风格化的鸡，传统云纹\",\n      \"typography\": \"流畅，动感\"\n    },\n    {\n      \"position\": \"右下\",\n      \"style\": \"魔法 / 优雅\",\n      \"icon\": \"巨大的金色羽毛，闪烁的星星，新月图案\",\n      \"typography\": \"优雅，草书风格\"\n    }\n  ]\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "VTuber Logo 概念网格：生成一个 2x3 的网格，展示以中心主题和文字为特色的多样化 VTuber 风格 Logo 概念。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [
+        "symmetrical",
+        "grid"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: symmetrical, grid]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14735",
+      "14680",
+      "14815",
+      "15329",
+      "14496",
+      "15039"
+    ]
+  }
+}

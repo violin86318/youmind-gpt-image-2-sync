@@ -1,0 +1,48 @@
+{
+  "id": "15702",
+  "prompt": "Using the provided reference image of the curry in the pan, transform it into a polished Japanese gourmet magazine advertisement page for {argument name=\"dish name\" default=\"キーマカレー\"}. Keep the curry recognizable as the same dish, but restyle it as a premium food photograph served in a rustic ceramic bowl on a wooden tabletop, with richer gloss, deeper color contrast, and more appetizing texture. Create a full editorial layout with 3 main content areas: 1) a large hero section at the top featuring the plated curry on the right and Japanese promotional copy on the left, including a small top banner label and a large headline; 2) a bottom-left chef profile area with 1 portrait of a chef in dark workwear and apron, arms crossed in a restaurant kitchen, plus vertical Japanese copy and a handwritten-style name caption; 3) a bottom-right information area containing 1 quote block and 1 framed “secret of deliciousness” panel with exactly 3 numbered steps, each paired with a food or cooking image. Add warm ambient lighting, shallow depth of field, spices and garlic props around the hero dish, and an upscale traditional restaurant branding feel. Include Japanese text throughout, with the main headline emphasizing slow-cooked, exquisite curry, and use elegant Mincho-style typography in brown, cream, and gold tones. The final composition should look like a high-end restaurant feature article or promotional brochure page.",
+  "translatedPrompt": "使用提供的锅中咖喱参考图片，将其转化为 {argument name=\"dish name\" default=\"キーマカレー\"} 的精美日式美食杂志广告页面。保持咖喱作为同一道菜的可辨识度，但将其重新设计为盛放在木质桌面上的质朴陶瓷碗中，呈现出高级美食摄影效果，并具有更丰富的色泽、更深邃的色彩对比和更诱人的质感。创建一个完整的编辑排版，包含 3 个主要内容区域：1) 顶部的大型主视觉区，右侧展示摆盘后的咖喱，左侧为日文宣传文案，包含一个小型的顶部标签和醒目的大标题；2) 左下角的厨师简介区，包含 1 张厨师肖像，厨师身着深色工作服和围裙，在餐厅厨房中双臂交叉，并配有竖排日文文案和手写风格的名字标注；3) 右下角的信息区，包含 1 个引语框和 1 个带边框的“美味秘诀”面板，面板内含 3 个编号步骤，每一步都配有一张食物或烹饪图片。添加温暖的环境光、浅景深效果，在主菜周围放置香料和大蒜作为道具，营造出高端传统餐厅的品牌感。全文包含日文文本，主标题强调慢炖、精致的咖喱，并使用棕色、奶油色和金色调的优雅明朝体排版。最终构图应看起来像是一篇高端餐厅专题文章或宣传手册页面。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日式精品咖喱广告排版：此提示词可将自制咖喱的参考照片转化为高级日式餐厅风格的杂志广告页面，适用于菜单、促销或社交媒体发布。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "editorial",
+        "premium"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: editorial, premium]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15258",
+      "15682",
+      "15011",
+      "14830",
+      "15318",
+      "14888"
+    ]
+  }
+}

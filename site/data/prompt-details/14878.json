@@ -1,0 +1,50 @@
+{
+  "id": "14878",
+  "prompt": "A clean minimalist vertical product poster on a soft pale gray background with a subtle green tint, designed like a modern Chinese skincare or medicine advertisement. Show a {argument name=\"character type\" default=\"Charlie Chaplin lookalike\"} from the chest up on the left side, wearing a black bowler hat, black suit jacket, white shirt, dark tie, and gray vest, posed formally and holding a bright green plastic jar of {argument name=\"product name\" default=\"anti-itch cream\"} with a white lid in both hands at center-left. One hand supports the jar from below while the other points toward it, creating a clear product presentation pose. The face should have a gentle pleasant expression, but keep the composition focused more on wardrobe, hands, and product than facial detail. On the upper right, place a green brand logo and Chinese brand text. Below it, add large elegant green Chinese headline text reading “舒缓 止痒膏” and smaller English subtitle text “ANTI-ITCH CREAM”. To the right of the jar, include a circular botanical graphic with {argument name=\"herb\" default=\"mint leaves\"}, plus exactly 2 green checklist claims in Chinese beneath it. At the bottom, add a curved white panel spanning the width of the poster containing exactly 3 evenly spaced green line icons with Chinese captions: a leaf icon for cooling itch relief, a water droplet icon for moisturizing dry itch, and a shield icon for gentle protection. The product jar label should be yellow-green with Chinese text and small herb illustrations, matching the green branding. Overall style: sparse, neat, commercial poster, lots of negative space, premium pharmacy-ad aesthetic, soft studio lighting, realistic photography mixed with clean graphic layout, green-and-white color palette.",
+  "translatedPrompt": "一张简洁的极简主义竖版产品海报，背景为带有淡淡绿色的柔和浅灰色，设计风格参考现代中式护肤品或药品广告。在左侧展示一位 {argument name=\"character type\" default=\"酷似查理·卓别林\"} 的人物半身像，身穿黑色圆顶礼帽、黑色西装外套、白色衬衫、深色领带和灰色马甲，姿态正式，双手在左中位置捧着一个带有白色盖子的亮绿色 {argument name=\"product name\" default=\"止痒膏\"} 塑料罐。一只手托住罐底，另一只手指向罐身，呈现清晰的产品展示姿态。面部表情应柔和愉悦，但构图重点应更多放在服饰、手部和产品上，而非面部细节。在右上角放置绿色品牌 Logo 和中文品牌名称。下方添加醒目优雅的绿色中文大标题“舒缓 止痒膏”以及较小的英文副标题“ANTI-ITCH CREAM”。在罐身右侧，加入一个带有 {argument name=\"herb\" default=\"薄荷叶\"} 的圆形植物图形，并在其下方列出 2 条中文功效说明。在海报底部，添加一个横跨海报宽度的弧形白色面板，内含 3 个间距均匀的绿色线条图标及中文说明：叶片图标代表清凉止痒，水滴图标代表滋润干痒，盾牌图标代表温和防护。产品罐身标签应为黄绿色，配有中文文字和小型草本插图，与整体绿色品牌色调相呼应。整体风格：稀疏、整洁、商业海报感，留白充裕，高级药房广告美学，柔和的摄影棚灯光，写实摄影与简洁图形排版相结合，采用绿白配色。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "极简风止痒膏海报：此提示词可生成一张简洁的竖版药房风格海报，画面中有一位类似卓别林的人物展示着带有绿色品牌标识和简约功效图标的止痒膏罐。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "minimalist",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting"
+      ],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, minimalist, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15447",
+      "15774",
+      "15600",
+      "15536",
+      "15776",
+      "14807"
+    ]
+  }
+}

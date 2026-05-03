@@ -1,0 +1,42 @@
+{
+  "id": "14082",
+  "prompt": "A realistic image shot with {argument name=\"lighting style\" default=\"harsh direct flash photography\"} inside an {argument name=\"environment\" default=\"ice cave made of large ice blocks and snow\"}. A young man with messy dark curly hair sits on a brown fur pelt, leaning his head on his hand with a relaxed expression. He is wearing a {argument name=\"clothing\" default=\"thick black and white patterned knit sweater\"}, black snow pants, and black winter boots. Directly behind him, the rear half of a white {argument name=\"car model\" default=\"Porsche 911 GT3 RS\"} sports car is embedded into the snowy cave wall, with its red taillights illuminated and a license plate reading {argument name=\"license plate\" default=\"VS 369 911\"}. In the foreground, a rough wooden table dusted with snow holds exactly 2 stainless steel thermoses, 1 clear textured glass, 1 small metal cooking pot, and 1 yellow and blue matchbox. Resting on the icy floor to the right are 1 green glass bottle and 1 vintage metal lantern.",
+  "translatedPrompt": "一张使用 {argument name=\"lighting style\" default=\"强烈的直接闪光灯摄影\"} 拍摄的写实图像，场景位于一个 {argument name=\"environment\" default=\"由大块冰块和积雪构成的冰洞\"} 内。一位留着凌乱深色卷发的年轻男子坐在棕色毛皮上，单手托腮，神情放松。他穿着一件 {argument name=\"clothing\" default=\"厚实的黑白图案针织毛衣\"}、黑色雪裤和黑色冬靴。在他正后方，一辆白色 {argument name=\"car model\" default=\"Porsche 911 GT3 RS\"} 跑车的后半部分嵌入在积雪的洞壁中，红色的尾灯亮着，车牌号显示为 {argument name=\"license plate\" default=\"VS 369 911\"}。在前景中，一张覆盖着薄雪的粗糙木桌上整齐地摆放着 2 个不锈钢保温杯、1 个透明纹理玻璃杯、1 个小型金属烹饪锅和 1 个黄蓝相间的火柴盒。右侧的冰面上放着 1 个绿色玻璃瓶和 1 个复古金属灯笼。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "超现实冰洞闪光灯摄影：生成一张写实的闪光灯摄影风格图像，画面中一个人在冰洞中放松，墙壁上嵌入了一辆跑车。",
+      "subject": "产品",
+      "scene": "摄影/真实场景",
+      "composition": [],
+      "style": [
+        "realistic",
+        "vintage"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, vintage]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14264",
+      "13665",
+      "14148",
+      "14406",
+      "14860",
+      "14967"
+    ]
+  }
+}

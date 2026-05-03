@@ -1,0 +1,56 @@
+{
+  "id": "14869",
+  "prompt": "Create a premium minimalist keynote-style presentation cover slide in an Apple-inspired industrial design aesthetic. Use a wide 16:9 layout with a deep matte black upper background and a pale concrete-gray lower platform occupying the bottom quarter of the frame. Place a large photorealistic floating rectangular slab in the right-center foreground, resembling a thin black glass device or polished obsidian platform with mirror-like reflections, chamfered chrome-metal edges, and precise industrial finishing. The slab should hover above the light surface and cast a soft elongated shadow directly beneath it. Add a tall vertical gray metallic wall or pillar on the far right edge to frame the composition. Use extremely sparse, high-end art direction, lots of negative space, cinematic studio lighting, subtle gradients, and crisp contrast between black and silver materials. On the left side, set clean white sans-serif typography with a clear hierarchy: a tiny top caption reading \"{argument name=\"system label\" default=\"Apple-inspired presentation system\"}\", a very large bold headline reading \"{argument name=\"headline text\" default=\"Clarity At Scale\"}\", and a medium subtitle reading \"{argument name=\"subtitle text\" default=\"The strongest slides behave like products.\"}\". Below that, include exactly 3 numbered principles in a vertical list with thin separators and refined spacing: \"01 | {argument name=\"principle 1\" default=\"One focal object\"}\", \"02 | Binary light / dark rhythm\", and \"03 | Blue only for signal\". Add a short thin horizontal rule above the list and a tiny blue accent line below the list. Draw a very fine horizontal guide line near the top spanning most of the slide, with the small page number \"01\" at the upper right. Repeat the small caption \"Apple-inspired presentation system\" once again at the bottom left on the light surface. Overall look: luxury tech presentation, editorial product-launch slide, ultra-clean Swiss grid, restrained monochrome palette with only one subtle blue accent, photorealistic rendering blended with presentation design.",
+  "translatedPrompt": "创建一个具有 Apple 工业设计美学的高级极简 Keynote 风格演示文稿封面 Slides。使用 16:9 宽屏布局，背景上半部分为深哑光黑色，下半部分为占据画面底部四分之一的浅混凝土灰色平台。在右侧中心前景处放置一个大型逼真的悬浮矩形板，外观类似于薄型黑色玻璃设备或带有镜面反射、倒角铬金属边缘及精密工业饰面的抛光黑曜石平台。该板应悬浮在浅色表面上方，并在其正下方投下柔和的拉长阴影。在最右侧边缘添加一堵高大的垂直灰色金属墙或立柱以构图。采用极其简洁的高端艺术指导，留出大量负空间，运用电影级摄影棚灯光、微妙的渐变，以及黑色与银色材质之间清晰的对比。在左侧，设置干净的白色无衬线字体，并保持清晰的层级：顶部为一行微小的标题“{argument name=\"system label\" default=\"Apple-inspired presentation system\"}”，中间为一行非常大的粗体标题“{argument name=\"headline text\" default=\"Clarity At Scale\"}”，下方为一行中等字号的副标题“{argument name=\"subtitle text\" default=\"The strongest slides behave like products.\"}”。在其下方，以垂直列表形式包含 3 条带细分隔线和精致间距的编号原则：“01 | {argument name=\"principle 1\" default=\"One focal object\"}”、“02 | Binary light / dark rhythm”以及“03 | Blue only for signal”。在列表上方添加一条短细水平线，在列表下方添加一条微小的蓝色强调线。在顶部附近绘制一条贯穿大部分 Slides 的极细水平引导线，并在右上角标注页码“01”。在底部左侧的浅色表面上再次重复微小的标题“Apple-inspired presentation system”。整体外观：奢华科技演示、编辑级产品发布 Slides、超干净的瑞士网格布局、克制的单色调配色方案（仅含一处微妙的蓝色点缀），以及融合了演示文稿设计的逼真渲染效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Apple 风格极简演示文稿封面：此提示词可生成一张时尚的 Apple 风格演示文稿标题 Slides，采用编辑级排版和悬浮黑色玻璃质感产品对象，非常适合 Keynote 封面、融资方案演示（Pitch Decks）及设计系统展示。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "grid",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "editorial",
+        "minimalist",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [
+        "studio lighting"
+      ],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": "得分 97；构图: grid, vertical, horizontal；风格: realistic, photorealistic, cinematic, editorial, minimalist, luxury, premium；要求精确文字；包含标注/说明；文字是主视觉"
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, editorial, minimalist, luxury, premium]。\n\nLighting and camera:\n[参考光线镜头: studio lighting]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15624",
+      "14598",
+      "15385",
+      "14975",
+      "15156",
+      "15647"
+    ]
+  }
+}

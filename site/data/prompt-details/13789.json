@@ -1,0 +1,49 @@
+{
+  "id": "13789",
+  "prompt": "{\n  \"type\": \"long vertical infographic poster\",\n  \"style\": \"modern tech, 3D isometric illustrations, dark purple and blue color palette, glassmorphism UI elements\",\n  \"header\": {\n    \"logo\": \"{argument name=\\\"company logo\\\" default=\\\"ANTHROPIC\\\"}\",\n    \"badge\": \"最新发布\",\n    \"title\": \"{argument name=\\\"product name\\\" default=\\\"Claude Opus 4.7\\\"}\",\n    \"subtitle\": \"{argument name=\\\"main subtitle\\\" default=\\\"当前最强的 Claude 模型\\\"}\",\n    \"tagline\": \"更强大、更稳定、更像真正的AI员工！\",\n    \"illustration\": \"3D cute robot sitting at a desk with a laptop, coffee mug, and floating code windows\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"6 大关键升级\",\n        \"icon\": \"3D gold trophy\",\n        \"layout\": \"2x3 grid\",\n        \"count\": 6,\n        \"items\": [\n          {\"title\": \"复杂任务能力显著提升\", \"icon\": \"3D clipboard with checkmarks\"},\n          {\"title\": \"Agent 编程能力大幅增强\", \"icon\": \"3D code terminal window\"},\n          {\"title\": \"多模态能力更强\", \"icon\": \"3D image and text document\"},\n          {\"title\": \"专业工作能力提升\", \"icon\": \"3D pie chart and bar graph\"},\n          {\"title\": \"超大上下文 (1M Tokens)\", \"icon\": \"3D document with 1,000,000 Tokens text\"},\n          {\"title\": \"当前最强通用模型\", \"icon\": \"3D purple trophy with OPUS 4.7 text\"}\n        ]\n      },\n      {\n        \"title\": \"简单理解：4.6 vs 4.7\",\n        \"icon\": \"3D balance scale\",\n        \"layout\": \"side-by-side comparison with right-pointing arrow\",\n        \"count\": 2,\n        \"columns\": [\n          {\n            \"header\": \"{argument name=\\\"comparison version 1\\\" default=\\\"Claude 4.6\\\"}\",\n            \"quote\": \"很强的工具人\",\n            \"style\": \"grey box\"\n          },\n          {\n            \"header\": \"{argument name=\\\"comparison version 2\\\" default=\\\"Claude 4.7\\\"}\",\n            \"quote\": \"可以独立做项目的AI员工\",\n            \"style\": \"purple box, highlighted\"\n          }\n        ]\n      },\n      {\n        \"title\": \"谁最适合使用 Claude Opus 4.7？\",\n        \"icon\": \"3D target\",\n        \"layout\": \"horizontal row\",\n        \"count\": 4,\n        \"labels\": [\n          \"开发者\",\n          \"AI 创业者\",\n          \"数据分析师\",\n          \"产品团队\"\n        ]\n      }\n    ],\n    \"footer\": {\n      \"title\": \"一句话总结\",\n      \"icon\": \"3D lightbulb\",\n      \"main_text\": \"Claude Opus 4.7 不只是更聪明，而是更可靠、更能干、更像真正的AI员工。\",\n      \"sub_text\": \"如果你要构建未来的 AI 应用，4.7 是当前最值得选择的模型。\",\n      \"illustration\": \"3D cute robot giving a thumbs up\"\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"长图垂直信息图\",\n  \"style\": \"现代科技风，3D 等轴测插图，深紫与蓝色调，玻璃拟态 UI 元素\",\n  \"header\": {\n    \"logo\": \"{argument name=\\\"company logo\\\" default=\\\"ANTHROPIC\\\"}\",\n    \"badge\": \"最新发布\",\n    \"title\": \"{argument name=\\\"product name\\\" default=\\\"Claude Opus 4.7\\\"}\",\n    \"subtitle\": \"{argument name=\\\"main subtitle\\\" default=\\\"当前最强的 Claude 模型\\\"}\",\n    \"tagline\": \"更强大、更稳定、更像真正的 AI 员工！\",\n    \"illustration\": \"3D 可爱机器人坐在桌前，配有笔记本电脑、咖啡杯和悬浮的代码窗口\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"6 大关键升级\",\n        \"icon\": \"3D 金色奖杯\",\n        \"layout\": \"2x3 网格\",\n        \"count\": 6,\n        \"items\": [\n          {\"title\": \"复杂任务能力显著提升\", \"icon\": \"3D 带有勾选标记的剪贴板\"},\n          {\"title\": \"Agent 编程能力大幅增强\", \"icon\": \"3D 代码终端窗口\"},\n          {\"title\": \"多模态能力更强\", \"icon\": \"3D 图像与文本文档\"},\n          {\"title\": \"专业工作能力提升\", \"icon\": \"3D 饼图与柱状图\"},\n          {\"title\": \"超大上下文 (1M Tokens)\", \"icon\": \"3D 带有 1,000,000 Tokens 字样的文档\"},\n          {\"title\": \"当前最强通用模型\", \"icon\": \"3D 紫色奖杯，带有 OPUS 4.7 字样\"}\n        ]\n      },\n      {\n        \"title\": \"简单理解：4.6 vs 4.7\",\n        \"icon\": \"3D 天平\",\n        \"layout\": \"并排对比，中间带有向右箭头\",\n        \"count\": 2,\n        \"columns\": [\n          {\n            \"header\": \"{argument name=\\\"comparison version 1\\\" default=\\\"Claude 4.6\\\"}\",\n            \"quote\": \"很强的工具人\",\n            \"style\": \"灰色方框\"\n          },\n          {\n            \"header\": \"{argument name=\\\"comparison version 2\\\" default=\\\"Claude 4.7\\\"}\",\n            \"quote\": \"可以独立做项目的 AI 员工\",\n            \"style\": \"紫色方框，高亮显示\"\n          }\n        ]\n      },\n      {\n        \"title\": \"谁最适合使用 Claude Opus 4.7？\",\n        \"icon\": \"3D 目标靶\",\n        \"layout\": \"水平排列\",\n        \"count\": 4,\n        \"labels\": [\n          \"开发者\",\n          \"AI 创业者\",\n          \"数据分析师\",\n          \"产品团队\"\n        ]\n      }\n    ],\n    \"footer\": {\n      \"title\": \"一句话总结\",\n      \"icon\": \"3D 灯泡\",\n      \"main_text\": \"Claude Opus 4.7 不只是更聪明，而是更可靠、更能干、更像真正的 AI 员工。\",\n      \"sub_text\": \"如果你要构建未来的 AI 应用，4.7 是当前最值得选择的模型。\",\n      \"illustration\": \"3D 可爱机器人竖起大拇指\"\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "科技产品发布信息图：生成包含 3D 插图、功能网格和对比表格的多板块科技产品信息图。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "isometric",
+        "grid",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "3d",
+        "isometric"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: isometric, grid, vertical, horizontal]。\n\nVisual style:\n[参考风格: 3d, isometric]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14163",
+      "13821",
+      "13639",
+      "14407",
+      "14866",
+      "14465"
+    ]
+  }
+}

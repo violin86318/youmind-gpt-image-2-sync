@@ -1,0 +1,41 @@
+{
+  "id": "13613",
+  "prompt": "Using REFERENCE_0, transform the flat-colored character into a {argument name=\"art style\" default=\"fully rendered, high-quality anime illustration\"}. Apply detailed {argument name=\"lighting effect\" default=\"shading, glossy highlights, and depth\"} to the skin, hair, eyes, clothing, and tail to give the 2D design a polished, three-dimensional feel. Add a metallic sheen to the buckles and jewelry. Change the background to {argument name=\"background color\" default=\"solid black\"}. Preserve the character's original design, outfit, and neutral pose exactly as they appear in the reference.",
+  "translatedPrompt": "使用 REFERENCE_0，将平涂配色的角色转换为 {argument name=\"art style\" default=\"完整渲染的高质量动漫插画\"}。为皮肤、头发、眼睛、服装和尾巴应用精细的 {argument name=\"lighting effect\" default=\"阴影、光泽高光和深度感\"}，赋予 2D 设计精致的立体感。为扣环和珠宝添加金属光泽。将背景更改为 {argument name=\"background color\" default=\"纯黑色\"}。请务必保留角色在参考图中的原始设计、服装和中性姿势。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "从平涂配色到动漫渲染着色：将平涂配色的 2D 角色参考图转换为具有纯色背景、经过完整着色与渲染的动漫插画。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13679",
+      "13770",
+      "13801",
+      "13912",
+      "14032",
+      "14152"
+    ]
+  }
+}

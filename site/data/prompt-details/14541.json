@@ -1,0 +1,45 @@
+{
+  "id": "14541",
+  "prompt": "A smartphone app screenshot in portrait orientation showing an AI chat interface in Japanese, with a clean white background and iOS-style top bar. At the very top, display a left hamburger menu icon, blue text reading “Thinking” with a right chevron, an edit compose icon, and a three-dot menu. Below it, show a large rounded light-gray chat bubble containing 6 lines of Japanese text, exactly: 「モーフ感浮遊感のある感じ＋かつ反射するダストのレイヤーを加えて。テキスト多め、重要ーアーキテクチャは可読性高め、精細で細かいコードや数式の可読性は二の次のデザインアクセント＆アートエレメンツで。」 Under the bubble, place small light-gray system text reading “Thought for a couple of seconds”, then a larger gray Japanese line reading “画像が作成されました”. In the lower half, show 1 generated image thumbnail with rounded corners: a dense futuristic infographic poster about the Transformer neural network architecture, rendered as glowing neon sci-fi holographic UI art. The poster should have a cosmic deep-space background with stars, purple, magenta, blue, and cyan light trails, reflective particles, volumetric glow, and floating geometric crystals. Large title at top left of the poster: “TRANSFORMER”, with subtitle “THE ARCHITECTURE”. Include 2 large central glowing boxes labeled “ENCODER LAYER” and “DECODER LAYER”, linked by arrows and smaller blocks for “ENCODER STACK (N×)” and “DECODER STACK (N×)”. Add many surrounding labeled panels and formulas, including sections for “KEY INNOVATIONS”, “WHY TRANSFORMERS?”, “POSITIONAL ENCODING”, “FEED FORWARD NETWORK”, “COMPUTATIONAL COMPLEXITY”, “OVERALL FLOW”, “SELF-ATTENTION MECHANISM”, “MULTI-HEAD ATTENTION”, “APPLICATIONS”, and “MODEL SCALING”. Show token rows at the bottom, including an English input sequence like “[CLS] the cat sat on the mat [SEP]” and an output sequence in French-like tokens ending with “[EOS]”. Add tiny charts, equations, attention diagrams, and wiring lines throughout, but keep the overall impression artistic and luminous rather than strictly readable. At the bottom center of the poster thumbnail, overlay a white circular download button with a black downward arrow. The overall screenshot should feel like a real mobile ChatGPT-style interface displaying an AI-generated image result, crisp and modern.",
+  "translatedPrompt": "一张竖屏智能手机应用截图，展示了日语 AI 聊天界面，采用简洁的白色背景和 iOS 风格顶部栏。最上方显示左侧汉堡菜单图标、蓝色文字“Thinking”及右侧箭头、编辑撰写图标以及三点菜单。下方显示一个巨大的圆角浅灰色聊天气泡，包含 6 行日语文本，内容如下：「モーフ感浮遊感のある感じ＋かつ反射するダストのレイヤーを加えて。テキスト多め、重要ーアーキテクチャは可読性高め、精細で細かいコードや数式の可読性は二の次のデザインアクセント＆アートエレメンツで。」气泡下方显示一行浅灰色系统小字“Thought for a couple of seconds”，接着是一行较大的灰色日语文字“画像が作成されました”。在下半部分，展示 1 个圆角生成的图像缩略图：一张关于 Transformer 神经网络架构的密集型未来感信息图海报，渲染为发光的霓虹科幻全息 UI 艺术。海报背景为深邃的宇宙空间，带有星星、紫色、洋红色、蓝色和青色的光轨、反射粒子、体积光以及漂浮的几何晶体。海报左上角有大标题“TRANSFORMER”，副标题为“THE ARCHITECTURE”。包含 2 个巨大的中央发光框，分别标注为“ENCODER LAYER”和“DECODER LAYER”，通过箭头和较小的模块连接，标注为“ENCODER STACK (N×)”和“DECODER STACK (N×)”。添加许多周围的标注面板和公式，包括“KEY INNOVATIONS”、“WHY TRANSFORMERS?”、“POSITIONAL ENCODING”、“FEED FORWARD NETWORK”、“COMPUTATIONAL COMPLEXITY”、“OVERALL FLOW”、“SELF-ATTENTION MECHANISM”、“MULTI-HEAD ATTENTION”、“APPLICATIONS”和“MODEL SCALING”等部分。底部显示 Token 行，包括类似“[CLS] the cat sat on the mat [SEP]”的英语输入序列，以及以“[EOS]”结尾的类法语输出序列。通篇添加微小的图表、公式、注意力机制图和连线，但整体观感应偏向艺术化和发光效果，而非严格的可读性。在海报缩略图底部中心，叠加一个带有黑色向下箭头的白色圆形下载按钮。整体截图应呈现出真实的移动端 ChatGPT 风格界面，展示 AI 生成的图像结果，清晰且现代。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "移动端 AI 对话截图与 Transformer 海报：生成一张逼真的智能手机聊天应用截图，展示日语 AI 对话界面，并呈现一张霓虹科幻风格的 Transformer 架构信息图作为生成结果。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "sci-fi"
+      ],
+      "lightingCamera": [
+        "neon",
+        "volumetric"
+      ],
+      "text": "要求精确文字；要求可读；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "App Store 截图、产品概念、移动工具界面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: sci-fi]。\n\nLighting and camera:\n[参考光线镜头: neon, volumetric]。\n\nText requirements:\n要求精确文字；要求可读；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14892",
+      "14480",
+      "14542",
+      "14740",
+      "14540",
+      "14560"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "13622",
+  "prompt": "{\n  \"type\": \"editorial infographic dual-axis line chart\",\n  \"style\": \"clean, newspaper-style, off-white background, highly legible typography\",\n  \"header\": {\n    \"category\": \"CRIME, SAFETY & JUSTICE (red text with red square icon)\",\n    \"headline\": \"{argument name=\\\"main headline\\\" default=\\\"Crime is down 50% since 1993. Most Americans think it's going up. Both true simultaneously.\\\"}\",\n    \"sub_headline\": \"US VIOLENT CRIME RATE vs PUBLIC PERCEPTION · 1990-PRESENT · BJS/FBI + GALLUP\"\n  },\n  \"chart\": {\n    \"x_axis\": \"Years 1990 to 2024 with 8 tick marks\",\n    \"left_y_axis\": {\n      \"color\": \"blue\",\n      \"label\": \"{argument name=\\\"left axis label\\\" default=\\\"VIOLENT CRIME RATE per 100,000 people\\\"}\",\n      \"range\": \"200 to 800\"\n    },\n    \"right_y_axis\": {\n      \"color\": \"red\",\n      \"label\": \"{argument name=\\\"right axis label\\\" default=\\\"% OF AMERICANS WHO SAY 'CRIME IS UP FROM LAST YEAR'\\\"}\",\n      \"range\": \"20% to 80%\"\n    },\n    \"data_series\": [\n      {\n        \"name\": \"Reality\",\n        \"style\": \"solid blue line\",\n        \"trend\": \"peaks early then drops significantly\",\n        \"annotations\": [\n          \"1993 PEAK 747 violent crimes per 100,000 (with blue dot)\",\n          \"REALITY: Crime Has Fallen (with blue arrow pointing to line)\",\n          \"2024 376 per 100,000 ~50% LOWER than 1993 (with blue dot)\"\n        ]\n      },\n      {\n        \"name\": \"Public Perception\",\n        \"style\": \"dashed red line\",\n        \"trend\": \"remains relatively flat and high\",\n        \"annotations\": [\n          \"PUBLIC PERCEPTION: Remains High... (with red arrow pointing to line)\",\n          \"2024 62% think crime is up (with red dot)\"\n        ]\n      }\n    ]\n  },\n  \"callout_box\": {\n    \"position\": \"bottom left inside chart area\",\n    \"style\": \"light yellow rectangle\",\n    \"icon\": \"lightbulb\",\n    \"text\": \"{argument name=\\\"callout text\\\" default=\\\"The crime rate and the public's feeling about crime have almost no relationship.\\\"}\"\n  },\n  \"footer\": {\n    \"text\": \"SOURCE: {argument name=\\\"footer source\\\" default=\\\"Bureau of Justice Statistics NCVS · FBI Uniform Crime Reports · Gallup Crime Poll\\\"}\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"编辑级信息图双轴折线图\",\n  \"style\": \"简洁、报纸风格、米白色背景、高可读性排版\",\n  \"header\": {\n    \"category\": \"犯罪、安全与司法（红色文字，配红色方形图标）\",\n    \"headline\": \"{argument name=\\\"main headline\\\" default=\\\"自 1993 年以来，犯罪率下降了 50%。但大多数美国人认为犯罪率在上升。两者同时为真。\\\"}\",\n    \"sub_headline\": \"美国暴力犯罪率 vs 公众感知 · 1990 年至今 · BJS/FBI + GALLUP\"\n  },\n  \"chart\": {\n    \"x_axis\": \"1990 年至 2024 年，共 8 个刻度\",\n    \"left_y_axis\": {\n      \"color\": \"蓝色\",\n      \"label\": \"{argument name=\\\"left axis label\\\" default=\\\"每 10 万人的暴力犯罪率\\\"}\",\n      \"range\": \"200 至 800\"\n    },\n    \"right_y_axis\": {\n      \"color\": \"红色\",\n      \"label\": \"{argument name=\\\"right axis label\\\" default=\\\"认为‘犯罪率较去年上升’的美国人百分比\\\"}\",\n      \"range\": \"20% 至 80%\"\n    },\n    \"data_series\": [\n      {\n        \"name\": \"现实情况\",\n        \"style\": \"蓝色实线\",\n        \"trend\": \"早期达到峰值后显著下降\",\n        \"annotations\": [\n          \"1993 年峰值：每 10 万人中有 747 起暴力犯罪（带蓝色圆点）\",\n          \"现实：犯罪率已下降（带指向线条的蓝色箭头）\",\n          \"2024 年：每 10 万人中有 376 起，较 1993 年降低约 50%（带蓝色圆点）\"\n        ]\n      },\n      {\n        \"name\": \"公众感知\",\n        \"style\": \"红色虚线\",\n        \"trend\": \"保持相对平稳且处于高位\",\n        \"annotations\": [\n          \"公众感知：保持高位……（带指向线条的红色箭头）\",\n          \"2024 年：62% 的人认为犯罪率在上升（带红色圆点）\"\n        ]\n      }\n    ]\n  },\n  \"callout_box\": {\n    \"position\": \"图表区域内左下角\",\n    \"style\": \"浅黄色矩形\",\n    \"icon\": \"灯泡\",\n    \"text\": \"{argument name=\\\"callout text\\\" default=\\\"犯罪率与公众对犯罪的感受之间几乎没有关联。\\\"}\"\n  },\n  \"footer\": {\n    \"text\": \"数据来源：{argument name=\\\"footer source\\\" default=\\\"司法统计局 NCVS · FBI 统一犯罪报告 · 盖洛普犯罪民调\\\"}\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "编辑级双轴数据信息图：生成简洁的报纸风格双轴折线图，包含注释和标注框，非常适合对比呈现截然不同的数据趋势。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "annotations",
+        "callout"
+      ],
+      "style": [
+        "editorial"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: annotations, callout]。\n\nVisual style:\n[参考风格: editorial]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14555",
+      "15242",
+      "14659",
+      "14833",
+      "15114",
+      "15386"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "13770",
+  "prompt": "A high-energy VTuber thumbnail illustration of a smiling anime girl with {argument name=\"hair color\" default=\"bright blue\"} hair in a high ponytail wearing a white shirt. The background is an explosive burst of rainbow light rays and golden sparkles. A golden retro microphone sits in the bottom left. Massive, shiny 3D gold text on the left reads \"{argument name=\"main title text\" default=\"初配信\"}\". A 3D gold and blue subtitle reads \"{argument name=\"subtitle text\" default=\"一緒に最高の時間を！\"}\". An ornate blue and gold oval badge in the bottom right displays \"{argument name=\"character name\" default=\"エリン Erin\"}\". A red top-right badge reads \"{argument name=\"badge text\" default=\"LIVE\"}\".",
+  "translatedPrompt": "一张充满活力、高能量的 YouTube 直播封面，画面中是一位动漫风格的女孩，留着 {argument name=\"hair color\" default=\"蓝色\"} 的高马尾，有着明亮的蓝色眼睛和开心的笑容，身穿白色衬衫。她位于画面右侧。背景是 {argument name=\"background style\" default=\"闪烁的彩虹光束和金色闪粉\"} 的爆炸效果。左侧是巨大的 3D 金色金属文字，写着“{argument name=\"main title text\" default=\"初配信\"}”，并带有华丽的哥特式边框。下方是较小的金色与蓝色 3D 文字，写着“{argument name=\"subtitle text\" default=\"一緒に最高の時間を！\"}”。左下角是一个闪亮的金色复古麦克风。右上角是一个红色的矩形徽章，写着“▶ LIVE”。在画面中右侧、女孩脸部下方，是一个华丽的深蓝色与金色名牌，写着“{argument name=\"character name\" default=\"エリン Erin\"}”。整体风格超精细、华丽，是典型的 VTuber 初配信公告风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "VTuber 初配信直播封面：生成一张华丽、高活力的直播封面，包含可自定义的 3D 文字、动漫角色以及闪耀的背景。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime",
+        "3d",
+        "retro"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime, 3d, retro]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13607",
+      "13613",
+      "13673",
+      "13679",
+      "13801",
+      "13912"
+    ]
+  }
+}

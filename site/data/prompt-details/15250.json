@@ -1,0 +1,55 @@
+{
+  "id": "15250",
+  "prompt": "A hyper-detailed cyberpunk close-up portrait of a futuristic woman cyborg, framed from the shoulders up and turned in 3/4 profile, looking directly at the viewer with one visible intense emerald-green eye. She has messy, wispy {argument name=\"hair color\" default=\"bright teal\"} hair tied loosely back with stray strands falling across her face. The lower half of her face is covered by a translucent neon-lime skull-shaped respirator mask with visible teeth structure, glossy acrylic material, and internal glowing green highlights. Her head and neck are partially exposed mechanical anatomy: black metal plates, pistons, cables, micro-circuitry, screws, and robotic joints integrated into the jawline, temple, ear area, and throat. Include 5 visible ear piercings and industrial cybernetic details around the ear. Add subtle printed tech markings and tiny black tattoo-like decals on the forehead and cheek near the eye. She wears a black futuristic jacket with a high collar and a small caution-style label near the shoulder. Background is a soft-focus, saturated {argument name=\"background color\" default=\"orange\"} neon panel glow with blurred interface-like light blocks, creating strong color contrast against the teal hair and acid-green mask. Lighting is cinematic and glossy with sharp reflections on the mask and metal parts, shallow depth of field, ultra-realistic skin texture, high contrast, moody sci-fi atmosphere, premium concept art, photoreal, extremely detailed, 85mm portrait lens look.",
+  "translatedPrompt": "一张超精细的赛博朋克风格特写肖像，描绘了一位未来感女性机械改造人。构图为肩部以上，呈 3/4 侧面，一只明亮的翡翠绿眼睛直视镜头。她留着凌乱且轻盈的 {argument name=\"hair color\" default=\"亮青色\"} 头发，随意地束在脑后，几缕发丝散落在脸庞。她的下半张脸被一个半透明的霓虹青柠色骷髅形状呼吸面具遮盖，面具呈现出清晰的牙齿结构、光泽的亚克力材质以及内部发光的绿色高光。她的头部和颈部部分显露出机械构造：黑色金属板、活塞、线缆、微型电路、螺丝以及集成在下颌线、太阳穴、耳部和喉咙处的机械关节。包含 5 个清晰可见的耳环，耳部周围有工业风的控制论细节。在前额和靠近眼睛的脸颊处添加微妙的印刷科技标记和微小的黑色纹身式贴花。她穿着一件带有高领的黑色未来风夹克，肩部附近有一个小型的警示风格标签。背景是柔焦且饱和的 {argument name=\"background color\" default=\"橙色\"} 霓虹灯板光效，伴有模糊的界面式光块，与青色头发和酸绿色面具形成强烈的色彩对比。光影具有电影质感和光泽感，面具和金属部件上有锐利的反光，浅景深，超写实皮肤纹理，高对比度，营造出情绪化的科幻氛围，顶级概念艺术，照片级真实，极致细节，85mm 肖像镜头效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "赛博朋克机械骷髅面具肖像：此提示词可生成写实的赛博朋克角色特写肖像，适用于科幻概念艺术、海报及社交媒体视觉素材。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "sci-fi",
+        "premium"
+      ],
+      "lightingCamera": [
+        "neon",
+        "high contrast",
+        "shallow depth",
+        "depth of field",
+        "lens"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up]。\n\nVisual style:\n[参考风格: realistic, cinematic, sci-fi, premium]。\n\nLighting and camera:\n[参考光线镜头: neon, high contrast, shallow depth, depth of field, lens]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15706",
+      "14568",
+      "15065",
+      "15704",
+      "15533",
+      "14538"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "13682",
+  "prompt": "A cinematic anime illustration of {argument name=\"main character\" default=\"an elf girl with long white hair in twin tails wearing a white and gold dress\"} holding a brown briefcase on a stone balcony. Beside her is a pillar with potted blue flowers. In the background, {argument name=\"background character\" default=\"a girl with long purple hair in a black dress\"} looks out over {argument name=\"setting\" default=\"a sprawling fantasy European city with a castle and ocean\"}. A white bird flies in the foreground. The top right features elegant typography reading \"{argument name=\"main title text\" default=\"葬送のフリーレン\"}\", \"F R I E R E N\", and \"{argument name=\"subtitle text\" default=\"アニメーション原画展\"}\". The artwork is framed by a thin decorative border.",
+  "translatedPrompt": "一张电影质感的动漫插画，画面中 {argument name=\"main character\" default=\"一位留着白色双马尾、身穿白金配色礼服的精灵女孩\"} 手提棕色公文包站在石质阳台上。她身旁是一根立柱，上面摆放着盆栽蓝花。背景中，{argument name=\"background character\" default=\"一位留着紫色长发、身穿黑色礼服的女孩\"} 正眺望着 {argument name=\"setting\" default=\"一座拥有城堡和海洋的广阔奇幻欧式城市\"}。前景中有一只白鸟飞过。右上角配有优雅的文字排版，内容为“{argument name=\"main title text\" default=\"葬送のフリーレン\"}”、“F R I E R E N”以及“{argument name=\"subtitle text\" default=\"アニメーション原画展\"}”。整幅艺术作品由细致的装饰边框环绕。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫奇幻城市景观展览海报：生成一张高质量的动漫插画，描绘角色俯瞰奇幻城市的场景，非常适合用作展览海报或宣传艺术图。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "anime",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, anime, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13998",
+      "14003",
+      "15096",
+      "13796",
+      "14203",
+      "15334"
+    ]
+  }
+}

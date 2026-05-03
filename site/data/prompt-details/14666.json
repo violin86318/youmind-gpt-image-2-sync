@@ -1,0 +1,46 @@
+{
+  "id": "14666",
+  "prompt": "{\"type\":\"product update marketing poster\",\"style\":\"clean modern SaaS landing-page graphic, Apple-like minimalism, soft ambient gradients, subtle shadows, rounded cards, crisp vector UI, high-end promotional design\",\"brand\":\"OpenAI\",\"canvas\":{\"aspect_ratio\":\"2:3 vertical\",\"background\":\"very light cool gray with faint lavender-blue glow gradients, rounded outer frame corners\"},\"layout\":{\"sections\":[{\"title\":\"header hero\",\"position\":\"top\",\"count\":4,\"labels\":[\"OpenAI logo\",\"PRODUCT UPDATE\",\"main headline\",\"supporting subheadline\"]},{\"title\":\"main showcase panel\",\"position\":\"middle\",\"count\":3,\"labels\":[\"Codex task card\",\"working checklist card\",\"dark analytics dashboard preview\"]},{\"title\":\"feature cards\",\"position\":\"lower middle\",\"count\":4,\"labels\":[\"Tackle more\",\"Safe by default\",\"Works with your tools\",\"Built for teams\"]},{\"title\":\"call to action banner\",\"position\":\"bottom\",\"count\":3,\"labels\":[\"Codex is available now\",\"Try it in ChatGPT or the API.\",\"arrow button\"]}],\"centerpiece\":\"large floating rounded square icon near the upper right with black code brackets symbol\"},\"content_blocks\":{\"eyebrow\":\"{argument name=\\\"eyebrow text\\\" default=\\\"PRODUCT UPDATE\\\"}\",\"headline_line_1\":\"{argument name=\\\"headline line 1\\\" default=\\\"Codex for\\\"}\",\"headline_line_2\":\"{argument name=\\\"headline line 2\\\" default=\\\"almost everything\\\"}\",\"subheadline\":\"{argument name=\\\"subheadline\\\" default=\\\"From small fixes to large features, Codex helps you ship faster.\\\"}\",\"cta_title\":\"{argument name=\\\"call to action title\\\" default=\\\"Codex is available now\\\"}\"},\"visual_details\":{\"logo\":\"small black OpenAI knot logo at top left\",\"headline\":\"very large bold sans-serif headline on left, first line black, second line blue-to-purple gradient text\",\"subheadline_style\":\"medium gray sans-serif, two lines under headline\",\"floating_icon\":\"white rounded square tile with soft shadow, containing black <> code symbol, placed upper right\",\"showcase_panel\":\"large white rounded rectangle with thin border and soft shadow\",\"left_task_area\":{\"count\":3,\"items\":[\"small pill label with code icon and text Codex\",\"white prompt card reading Add dark mode to the dashboard and update the settings page.\",\"status checklist titled Codex is working...\"]},\"checklist\":{\"count\":4,\"items\":[\"Understand codebase checked in purple\",\"Implement dark mode checked in purple\",\"Update settings page active/in progress with partial circular indicator\",\"Run tests unchecked in gray\"]},\"right_dashboard\":{\"theme\":\"dark mode UI preview\",\"app_name\":\"Acme\",\"sidebar\":{\"count\":4,\"items\":[\"Overview selected\",\"Analytics\",\"Projects\",\"Settings\"]},\"main_panels\":{\"count\":3,\"items\":[\"Overview heading\",\"Active Users metric 8,421 with green +12.5% and purple line chart\",\"Recent Activity list with 3 entries\"]},\"recent_activity\":{\"count\":3,\"items\":[\"Update landing page — 2m ago\",\"Fix analytics bug — 1h ago\",\"Improve onboarding flow — 3h ago\"]}},\"feature_cards\":{\"count\":4,\"cards\":[{\"title\":\"Tackle more\",\"icon\":\"purple sparkle/star icon in a pale lavender rounded square\",\"body\":\"From bug fixes to multi-file refactors, Codex handles it.\"},{\"title\":\"Safe by default\",\"icon\":\"blue shield icon in a pale blue rounded square\",\"body\":\"Runs in a sandboxed environment with read-only by default.\"},{\"title\":\"Works with your tools\",\"icon\":\"green terminal prompt icon in a pale mint rounded square\",\"body\":\"Integrates with GitHub, CI, and your existing workflows.\"},{\"title\":\"Built for teams\",\"icon\":\"pink group/users icon in a pale pink rounded square\",\"body\":\"Share context, review changes, and move faster together.\"}]},\"cta_banner\":{\"style\":\"wide rounded rectangle with soft purple-blue gradient wash and white circular arrow button on the right\",\"subtitle\":\"Try it in ChatGPT or the API.\"}},\"composition\":\"balanced left-aligned typography with modular card grid below, lots of whitespace, premium tech advertisement look\",\"rendering\":\"sharp typography, subtle depth, gentle glassy lighting, no photographic elements\"}",
+  "translatedPrompt": "{\"type\":\"产品更新营销海报\",\"style\":\"简洁现代的 SaaS 落地页图形，Apple 风格的极简主义，柔和的环境渐变，细腻的阴影，圆角卡片，清晰的矢量 UI，高端宣传设计\",\"brand\":\"OpenAI\",\"canvas\":{\"aspect_ratio\":\"2:3 竖版\",\"background\":\"极浅的冷灰色，带有淡淡的薰衣草蓝光渐变，外框圆角\"},\"layout\":{\"sections\":[{\"title\":\"顶部首屏\",\"position\":\"顶部\",\"count\":4,\"labels\":[\"OpenAI logo\",\"产品更新\",\"主标题\",\"辅助副标题\"]},{\"title\":\"主展示面板\",\"position\":\"中部\",\"count\":3,\"labels\":[\"Codex 任务卡片\",\"工作清单卡片\",\"深色分析仪表盘预览\"]},{\"title\":\"功能卡片\",\"position\":\"中下部\",\"count\":4,\"labels\":[\"应对更多挑战\",\"默认安全\",\"兼容现有工具\",\"为团队打造\"]},{\"title\":\"行动号召横幅\",\"position\":\"底部\",\"count\":3,\"labels\":[\"Codex 现已推出\",\"在 ChatGPT 或 API 中试用。\",\"箭头按钮\"]}],\"centerpiece\":\"右上角附近有一个大型悬浮圆角方形图标，带有黑色代码括号符号\"},\"content_blocks\":{\"eyebrow\":\"{argument name=\\\"eyebrow text\\\" default=\\\"产品更新\\\"}\",\"headline_line_1\":\"{argument name=\\\"headline line 1\\\" default=\\\"Codex，助力\\\"}\",\"headline_line_2\":\"{argument name=\\\"headline line 2\\\" default=\\\"一切可能\\\"}\",\"subheadline\":\"{argument name=\\\"subheadline\\\" default=\\\"从小型修复到大型功能开发，Codex 助你更快交付。\\\"}\",\"cta_title\":\"{argument name=\\\"call to action title\\\" default=\\\"Codex 现已推出\\\"}\"},\"visual_details\":{\"logo\":\"左上角小型黑色 OpenAI 绳结 logo\",\"headline\":\"左侧超大加粗无衬线标题，第一行黑色，第二行蓝紫色渐变文字\",\"subheadline_style\":\"中灰色无衬线字体，标题下方两行\",\"floating_icon\":\"白色圆角方形磁贴，带有柔和阴影，包含黑色 <> 代码符号，置于右上角\",\"showcase_panel\":\"大型白色圆角矩形，带有细边框和柔和阴影\",\"left_task_area\":{\"count\":3,\"items\":[\"带有代码图标和 Codex 文字的小型胶囊标签\",\"白色提示卡片，内容为：为仪表盘添加深色模式并更新设置页面。\",\"标题为“Codex 正在运行...”的状态清单\"]},\"checklist\":{\"count\":4,\"items\":[\"理解代码库（紫色勾选）\",\"实现深色模式（紫色勾选）\",\"更新设置页面（激活/进行中，带有部分圆形指示器）\",\"运行测试（未勾选，灰色）\"]},\"right_dashboard\":{\"theme\":\"深色模式 UI 预览\",\"app_name\":\"Acme\",\"sidebar\":{\"count\":4,\"items\":[\"概览（已选中）\",\"分析\",\"项目\",\"设置\"]},\"main_panels\":{\"count\":3,\"items\":[\"概览标题\",\"活跃用户指标 8,421，带绿色 +12.5% 和紫色折线图\",\"包含 3 条记录的近期活动列表\"]},\"recent_activity\":{\"count\":3,\"items\":[\"更新落地页 — 2 分钟前\",\"修复分析错误 — 1 小时前\",\"优化引导流程 — 3 小时前\"]}},\"feature_cards\":{\"count\":4,\"cards\":[{\"title\":\"应对更多挑战\",\"icon\":\"淡薰衣草色圆角方形中的紫色闪光/星形图标\",\"body\":\"从 Bug 修复到多文件重构，Codex 都能胜任。\"},{\"title\":\"默认安全\",\"icon\":\"淡蓝色圆角方形中的蓝色盾牌图标\",\"body\":\"在沙盒环境中运行，默认只读。\"},{\"title\":\"兼容现有工具\",\"icon\":\"淡薄荷色圆角方形中的绿色终端提示符图标\",\"body\":\"与 GitHub、CI 及你现有的工作流集成。\"},{\"title\":\"为团队打造\",\"icon\":\"淡粉色圆角方形中的粉色群组/用户图标\",\"body\":\"共享上下文，审查变更，共同加速前进。\"}]},\"cta_banner\":{\"style\":\"宽圆角矩形，带有柔和的紫蓝色渐变底色，右侧为白色圆形箭头按钮\",\"subtitle\":\"在 ChatGPT 或 API 中试用。\"}},\"composition\":\"平衡的左对齐排版，下方采用模块化卡片网格，留白充足，高端科技广告质感\",\"rendering\":\"锐利的排版，细腻的深度感，柔和的玻璃质感光效，无摄影元素\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Codex 产品更新海报：一张精致的软件更新宣传海报，适用于生成 SaaS 发布图、产品公告视觉效果以及现代 AI 落地页首屏设计。",
+      "subject": "文字符号",
+      "scene": "UI/界面",
+      "composition": [
+        "grid",
+        "vertical"
+      ],
+      "style": [
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "B2B 产品概念图、后台系统、数据看板",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, vertical]。\n\nVisual style:\n[参考风格: premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14627",
+      "13458",
+      "15058",
+      "14447",
+      "14497",
+      "14921"
+    ]
+  }
+}

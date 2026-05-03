@@ -1,0 +1,45 @@
+{
+  "id": "15427",
+  "prompt": "A realistic dark-mode social media post screenshot styled like X/Twitter on a black interface. At the top left is a small blurred circular profile photo beside the display name {argument name=\"profile name\" default=\"Pratham\"} with a blue verification badge, and the handle {argument name=\"handle\" default=\"@Prathkum\"} underneath. At the top right is a rounded white Subscribe button plus two small interface icons. The tweet text in large white sans-serif type reads: {argument name=\"tweet text\" default=\"ChatGPT Images 2.0 can match your handwriting.\"} Below it is a side-by-side comparison image made of 2 notebook photos separated by a narrow black vertical gap. Both photos show an open lined notebook page shot from above under dim indoor lighting with soft shadows near the bottom edge. The left notebook page is mostly blank except for 2 handwritten lines in neat blue cursive at the top that say: {argument name=\"handwriting prompt text\" default=\"match my hanawriting ana write a poem for me..\"} Keep the misspellings and punctuation exactly as written. The right notebook page shows the same first 2 handwritten lines at the top, followed by a handwritten poem in matching blue cursive handwriting filling the page in 4 stanzas. The poem text reads exactly: {argument name=\"poem text\" default=\"between the pages, quiet dreams, where ink becomes the stars, i write what my heart means, and let it heal the scars.\n\nthe world may move so fast, but here, time slows its pace. in every line i’ve made to last, i find a softer space.\n\nsome days are clouds, some days are sun, but i keep showing up. with every word, i’m not alone— my pen is my cup.\n\nso here’s to thoughts, both big and small, to hopes, to fears, to me. i’ll keep on writing through it all, and set my spirit free.\"} The handwriting should look natural, slightly uneven, and convincingly human, with blue ballpoint pen texture. At the bottom left of the post, include a small sparkle icon and the words “Made with AI”. Preserve the look of a genuine mobile app screenshot with realistic spacing, rounded image corners, crisp UI typography, and subtle screen-capture softness.",
+  "translatedPrompt": "一张逼真的深色模式社交媒体帖子截图，采用黑色界面，风格类似于 X/Twitter。左上角是一个模糊的小圆形头像，旁边是显示名称 {argument name=\"profile name\" default=\"Pratham\"} 以及蓝色认证徽章，下方是账号 ID {argument name=\"handle\" default=\"@Prathkum\"}。右上角是一个圆角白色“订阅”按钮和两个小界面图标。推文内容采用大号白色无衬线字体，文字为：{argument name=\"tweet text\" default=\"ChatGPT Images 2.0 can match your handwriting.\"} 下方是一张并排对比图，由两张笔记本照片组成，中间由一条窄窄的黑色垂直间隙隔开。两张照片均展示了从上方拍摄的打开的横线笔记本页面，光线为昏暗的室内光，底部边缘有柔和的阴影。左侧笔记本页面大部分为空白，仅顶部有两行整齐的蓝色草书手写字：{argument name=\"handwriting prompt text\" default=\"match my hanawriting ana write a poem for me..\"} 请保留拼写错误和标点符号，确保与原文完全一致。右侧笔记本页面顶部显示相同的前两行手写字，随后是一首用匹配的蓝色草书手写体写成的诗，分 4 个诗节填满页面。诗歌内容如下：{argument name=\"poem text\" default=\"between the pages, quiet dreams, where ink becomes the stars, i write what my heart means, and let it heal the scars.\n\nthe world may move so fast, but here, time slows its pace. in every line i’ve made to last, i find a softer space.\n\nsome days are clouds, some days are sun, but i keep showing up. with every word, i’m not alone— my pen is my cup.\n\nso here’s to thoughts, both big and small, to hopes, to fears, to me. i’ll keep on writing through it all, and set my spirit free.\"} 手写笔迹应看起来自然、略有不均匀，具有令人信服的人类书写感，并呈现蓝色圆珠笔的质感。在帖子左下角，加入一个小闪烁图标和“Made with AI”字样。保留真实移动应用截图的外观，包括逼真的间距、圆角图片边缘、清晰的 UI 字体以及细微的屏幕截图柔和感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "推文截图：手写笔迹匹配效果：一张逼真的社交媒体截图，展示了手写笔迹匹配的笔记本对比效果，适用于生成病毒式传播的 AI 演示帖模型。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "App Store 截图、产品概念、移动工具界面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14892",
+      "14542",
+      "14480",
+      "14540",
+      "15802",
+      "14661"
+    ]
+  }
+}

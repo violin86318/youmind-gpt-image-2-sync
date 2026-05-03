@@ -1,0 +1,40 @@
+{
+  "id": "13785",
+  "prompt": "A highly detailed {argument name=\"art style\" default=\"traditional Chinese ink wash painting\"} of an outdoor banquet. Across the top, an unrolled scroll displays Chinese calligraphy reading {argument name=\"scroll text\" default=\"君不見，黃河之水天上來\"}. Below, a landscape features a waterfall and red sun on the left, and a full moon over a water pavilion on the right. In the foreground, 10 figures gather around a stone table. The central bearded man in white robes is {argument name=\"central figure action\" default=\"standing and raising a wine cup to the sky\"}. He is surrounded by 8 seated scholars drinking and 1 servant boy carrying a wine jar. The table holds fruit and metal pitchers. Large ceramic wine jars sit on the ground. On the left, 3 goats rest among rocks. In the background right, 1 figure rides a horse near pine trees.",
+  "translatedPrompt": "一幅细节极其丰富的 {argument name=\"art style\" default=\"中国传统水墨画\"}，描绘了一场户外宴饮。画面上方，一幅展开的卷轴上书写着汉字书法 {argument name=\"scroll text\" default=\"君不見，黃河之水天上來\"}。下方山水景观中，左侧有瀑布与红日，右侧有水上亭台与满月。前景中，10 位人物围坐在石桌旁。中央那位身着白袍的蓄须男子正 {argument name=\"central figure action\" default=\"站立并举杯向天\"}。他周围有 8 位坐着的文人正在饮酒，还有 1 名侍童抱着酒坛。桌上摆放着水果和金属酒壶。地上放着大型陶瓷酒坛。左侧，3 只山羊在岩石间休憩。右侧背景中，1 位人物正骑马经过松树旁。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "中国传统水墨宴饮图：生成一幅中国传统山水画，描绘文人雅士饮酒作乐的场景，上方配有书法卷轴。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "ink wash"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: ink wash]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14126",
+      "13896",
+      "13970",
+      "14173",
+      "14437",
+      "14817"
+    ]
+  }
+}

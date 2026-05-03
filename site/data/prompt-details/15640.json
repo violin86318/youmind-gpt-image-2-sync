@@ -1,0 +1,53 @@
+{
+  "id": "15640",
+  "prompt": "{\"type\":\"brand identity moodboard grid\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"KEVA\\\"}\",\"category\":\"vegan kebab fast-casual brand\",\"style\":\"minimal Mediterranean street-food branding, earthy editorial product photography, playful mascot system, premium yet approachable\",\"palette\":{\"primary\":\"deep forest green\",\"secondary\":\"warm kraft paper beige\",\"accent\":\"soft off-white\",\"lighting\":\"warm late-afternoon sunlight with diagonal shadows\"}},\"layout\":{\"grid\":{\"rows\":3,\"columns\":3,\"count\":9},\"sections\":[{\"position\":\"top-left\",\"type\":\"poster design\",\"count\":1,\"text\":[\"KEVA\",\"KEBABS\",\"100% VEGANOS\",\"CON ACTITUD, SABOR Y FLOW.\",\"nostà ueno\"],\"details\":\"off-white wall poster with large dark green logotype, small walking mascot holding a kebab near the bottom right, clean Swiss-style typography\"},{\"position\":\"top-center\",\"type\":\"food wrap product shot\",\"count\":1,\"details\":\"hand holding a wrapped kebab in kraft paper printed with a repeating mascot pattern, open top showing colorful vegan kebab filling with greens, diced vegetables, sauce, and plant-based pieces\"},{\"position\":\"top-right\",\"type\":\"illuminated exterior sign\",\"count\":1,\"text\":[\"KEVA\",\"KEBABS\",\"100% VEGANOS\"],\"details\":\"dark green lightbox sign mounted on a stone wall, white mascot line art, nighttime-ready storefront signage photographed in warm ambient light\"},{\"position\":\"middle-left\",\"type\":\"shopping bag mockup\",\"count\":1,\"text\":[\"KEVA\",\"100% VEGANOS\"],\"details\":\"kraft paper takeaway bag on a counter, large mascot illustration centered, bold brand name below\"},{\"position\":\"middle-center\",\"type\":\"packaging box mockup\",\"count\":1,\"text\":[\"KEVA\",\"nostà ueno\"],\"details\":\"matte dark green rectangular takeaway box on a sunlit surface, minimal centered logo on lid, tiny mascot printed on the lower corner\"},{\"position\":\"middle-right\",\"type\":\"interior menu corner\",\"count\":1,\"text\":[\"KEVA\",\"KEBAB CLÁSICO 9.5\",\"KEBAB SPICY 9.5\",\"KEBAB FALAFEL 9.0\",\"PATATAS KEVA 4.0\",\"LIMONADA 3.5\",\"100% VEGANOS\",\"CON FLOW\"],\"details\":\"small restaurant interior with concrete-textured wall, black pendant lamp, stainless counter, oval wall plaque logo, framed dark green menu board\"},{\"position\":\"bottom-left\",\"type\":\"apparel mockup\",\"count\":1,\"details\":\"back view of a person wearing an oversized white T-shirt with a large dark green mascot riding a skateboard while holding a kebab\"},{\"position\":\"bottom-center\",\"type\":\"editorial poster variant\",\"count\":1,\"text\":[\"KEVA\",\"KEBABS\",\"100% VEGANOS\",\"CON ACTITUD, SABOR Y FLOW.\",\"nostà ueno\"],\"details\":\"poster with oversized stacked letters split across the page, smaller copy aligned on the right, mascot at the lower right, art-directed shadow from leaves\"},{\"position\":\"bottom-right\",\"type\":\"pattern close-up\",\"count\":1,\"details\":\"close crop of kraft paper printed with a repeating mascot illustration, diagonal sunlight and shadow creating a tactile packaging study\"}]},\"mascot\":{\"count\":4,\"variants\":[\"walking character holding a kebab, filled illustration\",\"walking character holding a kebab, line-art sign version\",\"skateboarding character holding a kebab on T-shirt back print\",\"repeating small mascot pattern on wrapping paper\"]},\"environment\":{\"materials\":[\"textured plaster walls\",\"stone or concrete surfaces\",\"dark green ceramic tile\",\"stainless steel\",\"kraft paper\"],\"mood\":\"calm, design-forward, artisanal fast-food branding presentation\"},\"camera\":\"brand case-study collage, realistic product visualization, slightly cinematic editorial photography, consistent warm shadows, clean composition\",\"quality\":\"high-end mockup realism, cohesive branding system presentation for a fictional restaurant launch\"}",
+  "translatedPrompt": "{\"type\":\"品牌形象项目网格\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"KEVA\\\"}\",\"category\":\"纯素烤肉快餐品牌\",\"style\":\"极简地中海街头食品品牌风格，大地色系编辑级产品摄影，趣味吉祥物系统，高端且亲切\",\"palette\":{\"primary\":\"深森林绿\",\"secondary\":\"暖牛皮纸米色\",\"accent\":\"柔和灰白色\",\"lighting\":\"午后暖阳伴随斜向阴影\"}},\"layout\":{\"grid\":{\"rows\":3,\"columns\":3,\"count\":9},\"sections\":[{\"position\":\"左上\",\"type\":\"海报设计\",\"count\":1,\"text\":[\"KEVA\",\"KEBABS\",\"100% VEGANOS\",\"CON ACTITUD, SABOR Y FLOW.\",\"nostà ueno\"],\"details\":\"灰白色墙面海报，印有大型深绿色标识，右下角有手持烤肉的行走吉祥物，干净的瑞士风格排版\"},{\"position\":\"中上\",\"type\":\"食品包装实拍\",\"count\":1,\"details\":\"手持牛皮纸包裹的烤肉，纸上印有重复的吉祥物图案，顶部开口露出色彩丰富的纯素烤肉馅料，包括蔬菜、配菜、酱汁和植物基肉块\"},{\"position\":\"右上\",\"type\":\"发光外立面招牌\",\"count\":1,\"text\":[\"KEVA\",\"KEBABS\",\"100% VEGANOS\"],\"details\":\"安装在石墙上的深绿色灯箱招牌，白色吉祥物线条画，适合夜间使用的店面标识，在温暖的环境光下拍摄\"},{\"position\":\"左中\",\"type\":\"购物袋样机\",\"count\":1,\"text\":[\"KEVA\",\"100% VEGANOS\"],\"details\":\"柜台上的牛皮纸外卖袋，中心印有大型吉祥物插画，下方为醒目的品牌名称\"},{\"position\":\"正中\",\"type\":\"包装盒样机\",\"count\":1,\"text\":[\"KEVA\",\"nostà ueno\"],\"details\":\"阳光照射下的哑光深绿色长方形外卖盒，盒盖中心印有极简 Logo，角落处印有小型吉祥物\"},{\"position\":\"右中\",\"type\":\"室内菜单一角\",\"count\":1,\"details\":\"小型餐厅内部，混凝土质感墙面，黑色吊灯，不锈钢柜台，椭圆形墙面 Logo 牌，装裱的深绿色菜单项目\"},{\"position\":\"左下\",\"type\":\"服装样机\",\"count\":1,\"details\":\"身穿超大号白色 T 恤的人的背影，背部印有大型深绿色吉祥物，吉祥物正踩着滑板并手持烤肉\"},{\"position\":\"中下\",\"type\":\"编辑海报变体\",\"count\":1,\"text\":[\"KEVA\",\"KEBABS\",\"100% VEGANOS\",\"CON ACTITUD, SABOR Y FLOW.\",\"nostà ueno\"],\"details\":\"海报采用超大堆叠字体横跨页面，较小的文案右对齐，吉祥物位于右下角，带有树叶投下的艺术感阴影\"},{\"position\":\"右下\",\"type\":\"图案特写\",\"count\":1,\"details\":\"印有重复吉祥物插画的牛皮纸特写，斜向阳光与阴影营造出触感丰富的包装研究\"}]},\"mascot\":{\"count\":4,\"variants\":[\"手持烤肉的行走角色，填充插画版\",\"手持烤肉的行走角色，招牌线条画版\",\"T 恤背部印花，手持烤肉的滑板角色\",\"包装纸上的小型重复吉祥物图案\"]},\"environment\":{\"materials\":[\"纹理石膏墙\",\"石材或混凝土表面\",\"深绿色瓷砖\",\"不锈钢\",\"牛皮纸\"],\"mood\":\"冷静、设计导向、手工快餐品牌展示\"},\"camera\":\"品牌案例研究拼贴，逼真的产品可视化，略带电影感的编辑摄影，一致的暖色阴影，干净的构图\",\"quality\":\"高端样机真实感，为虚构餐厅发布提供的连贯品牌系统展示\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "KEVA 纯素烤肉品牌项目：一个包含九个板块的品牌形象拼贴画，展示了一个虚构的纯素烤肉品牌，涵盖海报、包装、标识、服装以及室内菜单样机，适用于作品集或概念品牌演示。",
+      "subject": "空间",
+      "scene": "产品/电商",
+      "composition": [
+        "centered",
+        "close-up",
+        "grid"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "editorial",
+        "premium"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, close-up, grid]。\n\nVisual style:\n[参考风格: realistic, cinematic, editorial, premium]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15264",
+      "14177",
+      "15639",
+      "15688",
+      "15262",
+      "14812"
+    ]
+  }
+}

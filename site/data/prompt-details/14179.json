@@ -1,0 +1,40 @@
+{
+  "id": "14179",
+  "prompt": "A high-quality Japanese food advertisement banner. The background features a warm, softly blurred wooden table with golden rice stalks. On the center-right, {argument name=\"main dish\" default=\"a bowl of steaming white rice topped with a raw egg yolk and soy sauce being poured over it\"} sits in a vertically striped ceramic bowl. To the right, a small white dish contains exactly 3 slices of pickles (one green cucumber, one orange carrot, one white radish), alongside a blurred wooden miso soup bowl. In the top-left corner, large elegant Japanese typography reads {argument name=\"headline text\" default=\"甘み、つや、粘り。三拍子そろったおいしさ。\"} with a smaller subheadline below reading {argument name=\"subheadline text\" default=\"日本の食卓に、最高の一杯を。\"}. In the bottom-left corner, a 5kg plastic bag of rice is displayed with the label {argument name=\"product name\" default=\"新潟県産 こしひかり\"}. In the top-right corner, a circular gold foil award badge displays the text {argument name=\"badge text\" default=\"米の食味ランキング 特A 獲得\"}. Small fine print runs along the bottom right edge. The lighting is warm, appetizing, and professional, highlighting the glossy texture of the rice and egg.",
+  "translatedPrompt": "A high-quality Japanese food advertisement banner. The background features a warm, softly blurred wooden table with golden rice stalks. On the center-right, {argument name=\"main dish\" default=\"a bowl of steaming white rice topped with a raw egg yolk and soy sauce being poured over it\"} sits in a vertically striped ceramic bowl. To the right, a small white dish contains exactly 3 slices of pickles (one green cucumber, one orange carrot, one white radish), alongside a blurred wooden miso soup bowl. In the top-left corner, large elegant Japanese typography reads {argument name=\"headline text\" default=\"甘み、つや、粘り。三拍子そろったおいしさ。\"} with a smaller subheadline below reading {argument name=\"subheadline text\" default=\"日本の食卓に、最高の一杯を。\"}. In the bottom-left corner, a 5kg plastic bag of rice is displayed with the label {argument name=\"product name\" default=\"新潟県産 こしひかり\"}. In the top-right corner, a circular gold foil award badge displays the text {argument name=\"badge text\" default=\"米の食味ランキング 特A 獲得\"}. Small fine print runs along the bottom right edge. The lighting is warm, appetizing, and professional, highlighting the glossy texture of the rice and egg.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Japanese Rice Advertisement Banner：Generates a professional food advertisement banner featuring a rice dish, product packaging, and promotional typography.",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14259",
+      "15243",
+      "15413",
+      "15527",
+      "15773",
+      "14553"
+    ]
+  }
+}

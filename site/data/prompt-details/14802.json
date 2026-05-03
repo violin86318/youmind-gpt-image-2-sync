@@ -1,0 +1,36 @@
+{
+  "id": "14802",
+  "prompt": "make a 16:9 image of some {argument name=\"models\" default=\"models\"} wearing dope limited edition shirts and merch based off recent {argument name=\"brand\" default=\"framer\"} releases. multiple images, use {argument name=\"reference URL\" default=\"https://framer.com\"} as reference. images should look like they're shot on film for an editorial streetwear lifestyle fashion shoot, flash photography.",
+  "translatedPrompt": "生成一张 16:9 的图片，展示几位 {argument name=\"models\" default=\"models\"} 穿着基于近期 {argument name=\"brand\" default=\"framer\"} 发布产品的限量版潮牌衬衫和周边。多张图片，请参考 {argument name=\"reference URL\" default=\"https://framer.com\"}。图片应呈现出胶片拍摄的编辑风格街头潮流时尚大片质感，并带有闪光灯摄影效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "编辑风格街头潮流周边：一份用于生成高端街头时尚摄影的详细提示词，包含定制周边商品，旨在呈现胶片拍摄的编辑风格及闪光灯摄影效果。",
+      "subject": "服饰",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "editorial"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体",
+        "风格"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: editorial]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15207",
+      "15523",
+      "14824",
+      "15412",
+      "14441",
+      "15525"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "14013",
+  "prompt": "{\n  \"type\": \"logo concept presentation sheet\",\n  \"theme\": \"{argument name=\\\"industry theme\\\" default=\\\"AI education school\\\"}\",\n  \"color_palette\": \"{argument name=\\\"main color\\\" default=\\\"mint green\\\"} gradients, dark gray text, white background\",\n  \"layout\": {\n    \"grid\": \"2 rows by 3 columns\",\n    \"count\": 6,\n    \"common_elements\": [\n      \"graphic mark\",\n      \"primary text: {argument name=\\\"company name\\\" default=\\\"株式会社エヌイチ\\\"}\",\n      \"secondary text: unique Japanese subtitle about AI and learning\"\n    ],\n    \"variants\": [\n      { \"position\": \"top-left\", \"mark\": \"rounded 'Ni' with a 4-point sparkle\" },\n      { \"position\": \"top-center\", \"mark\": \"serif 'N1' intersected by an orbital ring\" },\n      { \"position\": \"top-right\", \"mark\": \"open book forming 'N1' with scattering digital pixels\" },\n      { \"position\": \"bottom-left\", \"mark\": \"'N1' enclosed in a circular outline with a dot\" },\n      { \"position\": \"bottom-center\", \"mark\": \"geometric 'N1' with left leg breaking into digital dots\" },\n      { \"position\": \"bottom-right\", \"mark\": \"human head profile outline containing a sprouting plant and sparkles\" }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"Logo 概念展示表\",\n  \"theme\": \"{argument name=\\\"行业主题\\\" default=\\\"AI 教育学校\\\"}\",\n  \"color_palette\": \"{argument name=\\\"主色调\\\" default=\\\"薄荷绿\\\"} 渐变色，深灰色文字，白色背景\",\n  \"layout\": {\n    \"grid\": \"2 行 3 列\",\n    \"count\": 6,\n    \"common_elements\": [\n      \"图形标志\",\n      \"主标题：{argument name=\\\"公司名称\\\" default=\\\"株式会社エヌイチ\\\"}\",\n      \"副标题：关于 AI 与学习的独特日文副标题\"\n    ],\n    \"variants\": [\n      { \"position\": \"左上\", \"mark\": \"带有 4 点星光的圆润“Ni”字样\" },\n      { \"position\": \"中上\", \"mark\": \"被轨道环交叉的衬线体“N1”\" },\n      { \"position\": \"右上\", \"mark\": \"形成“N1”形状的打开书籍，带有分散的数字像素\" },\n      { \"position\": \"左下\", \"mark\": \"带有圆点并由圆形轮廓包裹的“N1”\" },\n      { \"position\": \"中下\", \"mark\": \"左腿呈现数字点阵效果的几何体“N1”\" },\n      { \"position\": \"右下\", \"mark\": \"包含萌芽植物和星光的人头轮廓\" }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "6 格企业 Logo 设计概念表：为公司生成包含排版、图标和副标题在内的多种 Logo 设计方案网格。",
+      "subject": "人物",
+      "scene": "综合视觉",
+      "composition": [
+        "grid"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "风格对比、产品系列、前后对照、角色变体",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 综合视觉 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14162",
+      "15812",
+      "14181",
+      "14186",
+      "14192",
+      "14895"
+    ]
+  }
+}

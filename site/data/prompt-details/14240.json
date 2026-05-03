@@ -1,0 +1,47 @@
+{
+  "id": "14240",
+  "prompt": "A realistic 3D mockup of a softcover book standing upright at a slight angle on a plain off-white background, revealing both the front cover and the spine. The cover features a minimalist, serene illustration of a white arched doorway opening to a bright pastel sunrise over a calm sea, with a woman in a flowing white dress standing in the archway looking toward the horizon. Large, elegant vertical Japanese text in a Mincho serif font dominates the right and left sides of the arch, reading {argument name=\"main title\" default=\"我慢をやめたら、人生が動き出した。\"}. In the top left corner, smaller horizontal text reads {argument name=\"subtitle\" default=\"自分の人生を取り戻す 7つのステップ\"}. The bottom third of the book is wrapped in a light pink belly band. The band features a prominent horizontal catchphrase reading {argument name=\"obi catchphrase\" default=\"もう、他人軸で生きなくていい。\"}, with smaller text above it separated by a dotted line mentioning work, relationships, love, and future anxiety. On the right side of the band is a white circular badge with a small crown icon and text reading {argument name=\"sales badge text\" default=\"累計 20万部 突破!\"}. At the very bottom of the band are exactly 4 small rectangular boxes containing keywords about self-esteem, time management, mental organization, and ideal future, followed by the text \"Everything will change!\". The spine is white and displays the main title, subtitle, a placeholder for the author's name, and a placeholder for the publisher.",
+  "translatedPrompt": "A realistic 3D mockup of a softcover book standing upright at a slight angle on a plain off-white background, revealing both the front cover and the spine. The cover features a minimalist, serene illustration of a white arched doorway opening to a bright pastel sunrise over a calm sea, with a woman in a flowing white dress standing in the archway looking toward the horizon. Large, elegant vertical Japanese text in a Mincho serif font dominates the right and left sides of the arch, reading {argument name=\"main title\" default=\"我慢をやめたら、人生が動き出した。\"}. In the top left corner, smaller horizontal text reads {argument name=\"subtitle\" default=\"自分の人生を取り戻す 7つのステップ\"}. The bottom third of the book is wrapped in a light pink belly band. The band features a prominent horizontal catchphrase reading {argument name=\"obi catchphrase\" default=\"もう、他人軸で生きなくていい。\"}, with smaller text above it separated by a dotted line mentioning work, relationships, love, and future anxiety. On the right side of the band is a white circular badge with a small crown icon and text reading {argument name=\"sales badge text\" default=\"累計 20万部 突破!\"}. At the very bottom of the band are exactly 4 small rectangular boxes containing keywords about self-esteem, time management, mental organization, and ideal future, followed by the text \"Everything will change!\". The spine is white and displays the main title, subtitle, a placeholder for the author's name, and a placeholder for the publisher.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Japanese Self-Help Book Cover Mockup：Generates a realistic 3D mockup of a Japanese self-help book with customizable title, subtitle, and promotional belly band text.",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "3d",
+        "minimalist"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, 3d, minimalist]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14969",
+      "15609",
+      "14188",
+      "14975",
+      "14042",
+      "14561"
+    ]
+  }
+}

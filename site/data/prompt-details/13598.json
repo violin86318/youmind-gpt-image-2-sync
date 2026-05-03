@@ -1,0 +1,43 @@
+{
+  "id": "13598",
+  "prompt": "{ \"type\": \"infographic\", \"style\": \"clean, corporate, flat design, soft pastel colors, rounded corners, white background\", \"header\": { \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"ChatGPTで画像を作るコツ\\\"}\", \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"良いプロンプトの書き方と、効果的な修正方法（2026年4月10日公開の要点）\\\"}\", \"top_right_badge\": \"OpenAI Academy / Creating images with ChatGPT\" }, \"layout\": { \"columns\": [ { \"color_theme\": \"blue\", \"header\": \"{argument name=\\\"column 1 title\\\" default=\\\"1 良いプロンプトの書き方 (1〜3文で簡潔に)\\\"}\", \"item_count\": 5, \"icons\": [\"target\", \"landscape picture\", \"map pin\", \"paintbrush\", \"sliders\"] }, { \"color_theme\": \"green\", \"header\": \"{argument name=\\\"column 2 title\\\" default=\\\"2 結果をよくする修正のコツ\\\"}\", \"item_count\": 4, \"icons\": [\"checkmark\", \"checkmark\", \"checkmark\", \"A/B comparison\"] }, { \"color_theme\": \"orange\", \"header\": \"3 少し高度な使い方\", \"item_count\": 4, \"icons\": [\"multiple images\", \"letter T\", \"bar chart\", \"magic wand\"] }, { \"color_theme\": \"purple\", \"header\": \"4 注意点\", \"item_count\": 4, \"icons\": [\"shield with check\", \"star\", \"document with check\", \"gavel\"] } ], \"footer\": { \"left_section\": { \"title\": \"{argument name=\\\"bottom left title\\\" default=\\\"プロンプト例 (1〜3文)\\\"}\", \"item_count\": 3, \"thumbnails\": [\"orange tabby cat\", \"coffee cup on white background\", \"blue bar chart\"] }, \"right_section\": { \"title\": \"ワークフロー\", \"step_count\": 4, \"icons\": [\"upload arrow\", \"sparkles\", \"A/B boxes\", \"checkmark\"], \"flow_style\": \"horizontal with dashed arrows\" } } } }",
+  "translatedPrompt": "{\n  \"type\": \"信息图速查表\",\n  \"style\": \"简洁、现代、扁平化设计、企业风格、日语文本\",\n  \"header\": {\n    \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"ChatGPT 图像生成技巧\\\"}\",\n    \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"优质提示词写法与高效修正方法（2026 年 4 月 10 日发布要点）\\\"}\",\n    \"badge\": \"OpenAI Academy / 使用 ChatGPT 创建图像\"\n  },\n  \"layout\": {\n    \"main_grid\": {\n      \"columns\": 4,\n      \"sections\": [\n        {\n          \"column\": 1,\n          \"color_theme\": \"blue\",\n          \"header\": \"1 {argument name=\\\"column 1 title\\\" default=\\\"优质提示词写法（1-3 句简明扼要）\\\"}\",\n          \"item_count\": 5,\n          \"labels\": [\"目的\", \"主题\", \"场景/地点\", \"画风/风格\", \"约束/指定\"]\n        },\n        {\n          \"column\": 2,\n          \"color_theme\": \"teal green\",\n          \"header\": \"2 {argument name=\\\"column 2 title\\\" default=\\\"优化结果的修正技巧\\\"}\",\n          \"item_count\": 4,\n          \"labels\": [\"微调具体细节\", \"使用肯定句指令\", \"明确需保留的元素\", \"对比选择\"]\n        },\n        {\n          \"column\": 3,\n          \"color_theme\": \"orange\",\n          \"header\": \"3 进阶用法\",\n          \"item_count\": 4,\n          \"labels\": [\"利用多张图像\", \"图像内文本\", \"图解/信息图\", \"逐步精炼\"]\n        },\n        {\n          \"column\": 4,\n          \"color_theme\": \"purple\",\n          \"header\": \"4 注意事项\",\n          \"item_count\": 4,\n          \"labels\": [\"真实人物生成\", \"避免过度模仿特定品牌/作品\", \"署名标注\", \"遵守使用政策\"]\n        }\n      ]\n    },\n    \"bottom_section\": {\n      \"left_panel\": {\n        \"title\": \"{argument name=\\\"examples title\\\" default=\\\"提示词示例 (1-3 句)\\\"}\",\n        \"item_count\": 3,\n        \"thumbnails\": [\"橘猫\", \"桌上的咖啡杯\", \"蓝色柱状图\"]\n      },\n      \"right_panel\": {\n        \"title\": \"工作流程\",\n        \"step_count\": 4,\n        \"labels\": [\"创建\", \"微调\", \"对比\", \"完成\"]\n      }\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "ChatGPT 图像生成信息图：一份结构化的四栏日语信息图，详细介绍了使用 ChatGPT 生成图像的技巧、工作流程和示例。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "grid",
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13821",
+      "13639",
+      "13599",
+      "13688",
+      "13789",
+      "13656"
+    ]
+  }
+}

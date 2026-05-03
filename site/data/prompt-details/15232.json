@@ -1,0 +1,35 @@
+{
+  "id": "15232",
+  "prompt": "{argument name=\"対象\" default=\"映画ポスター\"}作って\nこのポスターを参考に{argument name=\"時間\" default=\"15秒\"}のCM用の絵コンテ作って",
+  "translatedPrompt": "创建一个 {argument name=\"target\" default=\"电影海报\"}\n以这张海报为参考，为一段 {argument name=\"duration\" default=\"15 秒\"} 的商业广告创建一个分镜脚本",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "图片转分镜脚本提示词：根据角色图片生成电影海报的指令，随后请求基于该新海报制作 15 秒商业广告的分镜脚本。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

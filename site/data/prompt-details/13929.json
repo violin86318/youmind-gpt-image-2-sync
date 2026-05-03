@@ -1,0 +1,41 @@
+{
+  "id": "13929",
+  "prompt": "{\n  \"type\": \"vending machine design\",\n  \"setting\": \"{argument name=\\\"setting\\\" default=\\\"outdoor park with green grass and a wooden bench\\\"}\",\n  \"machine_wrap\": \"{argument name=\\\"machine pattern\\\" default=\\\"green background with white daisies\\\"}\",\n  \"layout\": {\n    \"right_side\": {\n      \"element\": \"character illustration\",\n      \"character\": {\n        \"species\": \"{argument name=\\\"character species\\\" default=\\\"anthropomorphic white cat\\\"}\",\n        \"hair\": \"green bob\",\n        \"eyes\": \"large green anime eyes\",\n        \"accessories\": \"flower crown with pink and white daisies\",\n        \"outfit\": \"{argument name=\\\"character outfit\\\" default=\\\"green sleeveless dress with white ruffles\\\"}\"\n      },\n      \"hardware_overlay\": \"coin slot, bill acceptor, return lever, digital display showing '販売中' integrated into the character's skirt area\"\n    },\n    \"top_left\": {\n      \"element\": \"product display window\",\n      \"rows\": 3,\n      \"bottles_per_row\": 5,\n      \"total_bottles\": 15,\n      \"bottle_details\": \"clear plastic bottles with colored liquids (greens, yellows, pink, purple), white labels, blue price tags (¥150 to ¥190)\",\n      \"row_1_labels\": [\"森香るハーブティー\", \"やさしさ育む麦茶\", \"花咲くジャスミン\", \"朝摘みグリーンティー\", \"すっきりクロレラ\"],\n      \"row_2_labels\": [\"葉っぱサイダー\", \"心ととのうブレンド\", \"清らかミント水\", \"やすらぎルイボス\", \"森の果実水\"],\n      \"row_3_labels\": [\"まろやか玄米茶\", \"緑の野菜ミックス\", \"澄んだレモングラス\", \"おいしいよもぎ\", \"やわらぎラベンダー\"]\n    },\n    \"bottom_left\": {\n      \"element\": \"branding and badges\",\n      \"main_signage\": {\n        \"shape\": \"scalloped oval plaque\",\n        \"top_text\": \"植物由来飲料\",\n        \"main_text\": \"{argument name=\\\"main brand name\\\" default=\\\"みどりのしずく\\\"}\",\n        \"sub_text\": \"森の恵みで、ひとやすみ。\"\n      },\n      \"badges\": {\n        \"count\": 3,\n        \"shape\": \"circular with leaf icons\",\n        \"labels\": [\"やさしい味わい\", \"植物のちから\", \"気分リフレッシュ\"]\n      }\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"自动售货机设计\",\n  \"setting\": \"{argument name=\\\"setting\\\" default=\\\"带有绿草地和木质长椅的户外公园\\\"}\",\n  \"machine_wrap\": \"{argument name=\\\"machine pattern\\\" default=\\\"绿色背景配白色雏菊\\\"}\",\n  \"layout\": {\n    \"right_side\": {\n      \"element\": \"角色插画\",\n      \"character\": {\n        \"species\": \"{argument name=\\\"character species\\\" default=\\\"拟人化白猫\\\"}\",\n        \"hair\": \"绿色波波头\",\n        \"eyes\": \"大型绿色动漫眼睛\",\n        \"accessories\": \"粉白雏菊花环\",\n        \"outfit\": \"{argument name=\\\"character outfit\\\" default=\\\"带有白色荷叶边的绿色无袖连衣裙\\\"}\"\n      },\n      \"hardware_overlay\": \"投币口、纸币接收器、退币杆、显示“販売中”的数字显示屏，集成在角色裙子区域\"\n    },\n    \"top_left\": {\n      \"element\": \"产品展示窗\",\n      \"rows\": 3,\n      \"bottles_per_row\": 5,\n      \"total_bottles\": 15,\n      \"bottle_details\": \"装有彩色液体（绿色、黄色、粉色、紫色）的透明塑料瓶，白色标签，蓝色价格标签（¥150 至 ¥190）\",\n      \"row_1_labels\": [\"森香るハーブティー\", \"やさしさ育む麦茶\", \"花咲くジャスミン\", \"朝摘みグリーンティー\", \"すっきりクロレラ\"],\n      \"row_2_labels\": [\"葉っぱサイダー\", \"心ととのうブレンド\", \"清らかミント水\", \"やすらぎルイボス\", \"森の果実水\"],\n      \"row_3_labels\": [\"まろやか玄米茶\", \"緑の野菜ミックス\", \"澄んだレモングラス\", \"おいしいよもぎ\", \"やわらぎラベンダー\"]\n    },\n    \"bottom_left\": {\n      \"element\": \"品牌与徽章\",\n      \"main_signage\": {\n        \"shape\": \"扇形椭圆牌匾\",\n        \"top_text\": \"植物由来飲料\",\n        \"main_text\": \"{argument name=\\\"main brand name\\\" default=\\\"みどりのしずく\\\"}\",\n        \"sub_text\": \"森の恵みで、ひとやすみ。\"\n      },\n      \"badges\": {\n        \"count\": 3,\n        \"shape\": \"带有叶子图标的圆形\",\n        \"labels\": [\"やさしい味わい\", \"植物のちから\", \"気分リフレッシュ\"]\n      }\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "定制动漫自动售货机设计：生成高度精细的主题自动售货机，包含大型角色插画、品牌标牌以及特定的产品标签。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13877",
+      "14025",
+      "14060",
+      "15024",
+      "13740",
+      "14230"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "15003",
+  "prompt": "A highly detailed anime-style smartphone lock screen wallpaper in a vertical 9:16 composition, themed entirely in sparkling pink idol aesthetics. The scene features {argument name=\"character name\" default=\"Akari\"}, a cheerful teenage magical-idol girl with very long voluminous {argument name=\"hair color\" default=\"pastel pink\"} twin-tail hair, bright green eyes, fair skin, and a playful expressive face. She wears an ornate frilly stage costume in layered pink, lavender, and white with gold trim, ribbons, heart motifs, lace cuffs, a choker bow, star earrings, and floral heart hair accessories. The background is a dreamy glitter-filled pink haze with bokeh, sparkles, and soft glow effects. Design it as a fake phone lock screen with a large white lock icon near the top center, cellular status icons in the upper right, and the date in Japanese reading 5月22日 木曜日 above a large glowing time display reading {argument name=\"time display\" default=\"22:22\"}. Include 5 visible character depictions of the same girl: 1 large central half-body figure winking and holding one finger to her lips in a teasing pose, 1 upper-left bust portrait laughing with eyes closed, 1 upper-right full or three-quarter body pose joyfully raising a small wand or key-like object, 1 lower-left smaller figure partly obscured by a blurred pink rectangle over the face while reaching outward, and 1 lower-right crouching figure with another blurred pink rectangle over the face while interacting with a large physical lock. Add handwritten Japanese sound-effect style text around the figures, including playful exclamations and notes. Show 2 message notification banners styled like iPhone alerts, both from メッセージ and お兄ちゃん with the text 今どこ〜？, one tilted on the left and one upright on the right. Across the lower middle, place a rounded translucent slider bar with Japanese text スライドでロック解除 and a lock icon. Make the unlocking concept literal by attaching an oversized brass padlock and latch mechanism to the slider, with the lower-right character appearing to unlock it using a key; add nearby handwritten Japanese text suggesting lock removal and a metallic click sound. In the lower left, include 2 circular utility icons, a flashlight and a trash can, plus a comic-style speech bubble reading ポイッ！. Add a camera icon in a dark circular button at the lower right and a thin white home indicator at the very bottom. Render everything with polished glossy anime illustration quality, soft lighting, dense sparkles, layered transparency, and a cute mischievous mood, as if an idol character has taken over and physically prevented the phone from being unlocked.",
+  "translatedPrompt": "一张细节极其丰富的动漫风格智能手机锁屏壁纸，采用 9:16 竖屏构图，整体采用闪耀的粉色偶像美学主题。画面主角是 {argument name=\"character name\" default=\"Akari\"}，一位活泼的魔法偶像少女，留着超长且蓬松的 {argument name=\"hair color\" default=\"柔粉色\"} 双马尾，拥有明亮的绿色双眸、白皙的皮肤和俏皮生动的表情。她身穿华丽的褶边舞台装，配色为粉色、淡紫色和白色的叠层，配有金色镶边、丝带、心形图案、蕾丝袖口、颈圈蝴蝶结、星星耳环和花朵心形发饰。背景是充满梦幻感的粉色雾气，点缀着光斑、闪光和柔和的辉光效果。设计为仿手机锁屏界面，顶部中央有一个巨大的白色锁图标，右上角有蜂窝网络状态图标，日期显示为日语“5月22日 木曜日”，上方是巨大的发光时间显示 {argument name=\"time display\" default=\"22:22\"}。画面中包含同一角色的 5 个形象：1 个位于中央的半身像，正眨眼并用一根手指抵住嘴唇，做出调皮的姿势；1 个位于左上角的胸像，闭眼大笑；1 个位于右上角的全身或四分之三身位，正欢快地举起一根小魔杖或钥匙状物体；1 个位于左下角的小型形象，脸部被一个模糊的粉色矩形遮挡，正向外伸手；以及 1 个位于右下角的蹲姿形象，脸部同样被模糊的粉色矩形遮挡，正与一把巨大的实体锁互动。在人物周围添加手写风格的日语拟声词，包括俏皮的感叹和注释。展示 2 个仿 iPhone 样式的消息通知横幅，均来自“メッセージ”和“お兄ちゃん”，内容为“今どこ〜？”，一个向左倾斜，另一个垂直放置在右侧。在画面中下部放置一个圆角半透明滑动条，带有日语文字“スライドでロック解除”和一个锁图标。通过在滑动条上附加一个超大的黄铜挂锁和插销装置，将解锁概念实体化，右下角的角色正试图用钥匙打开它；附近添加手写日语文字，暗示锁的移除和金属点击声。左下角包含 2 个圆形实用工具图标：手电筒和垃圾桶，以及一个漫画风格的气泡框，写着“ポイッ！”。右下角有一个深色圆形按钮内的相机图标，最底部有一条细长的白色主屏幕指示条。整体采用精致光亮的动漫插画质量渲染，光线柔和，闪光密集，具有层次透明感和可爱顽皮的氛围，仿佛偶像角色接管了手机并物理阻止了屏幕解锁。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "粉色偶像动漫锁屏：一款闪闪发光的动漫风格智能手机锁屏壁纸，展示了一位粉色头发的偶像少女，她摆出五种俏皮的姿势，画面包含通知、UI 元素以及一个将“解锁”动作实体化的趣味设计。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [
+        "soft light",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[参考光线镜头: soft light, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15797",
+      "15034",
+      "15381",
+      "14485",
+      "14428",
+      "15706"
+    ]
+  }
+}

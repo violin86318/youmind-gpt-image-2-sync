@@ -1,0 +1,48 @@
+{
+  "id": "14805",
+  "prompt": "Create a dramatic studio food advertisement poster on a dark black textured background with moody, high-contrast lighting and rich warm orange tones. The composition is vertical and split visually: bold stacked ad copy on the left, hero food action on the right. Show a deep rustic bowl overflowing with triangular cheddar corn chips in the lower center-right, with thick glossy cheese sauce being poured in a continuous stream from a tilted dark metal saucepan entering from the upper right. The cheese lands heavily on top of the chips and drapes over them in thick molten folds. Behind the bowl on the left, place 1 upright red snack bag with a large yellow-orange starburst graphic and the brand text {argument name=\"brand name\" default=\"CRUNCHY CHIPZ\"} in big white outlined letters, plus smaller flavor text {argument name=\"flavor text\" default=\"ZESTY CHEDDAR\"} and tiny subtitle \"FLAVORED CORN SNACKS\". Print tiny text near the lower left of the bag: \"SAVORY TRIANGLES\". Add 2 small condiment bowls on the dark tabletop: 1 shallow bowl of shredded cheddar in the bottom left corner and 1 tiny bowl of reddish seasoning near the bottom center-right. Scatter a few crumbs and cheese shreds across the table, with a dark napkin tucked under the main bowl. Include bold distressed condensed uppercase typography in a vintage poster style. On the upper left, stack the headline in 5 lines reading: {argument name=\"headline text\" default=\"THE ULTIMATE MUNCH.\"} with \"THE\" on line 1, \"ULTIMATE\" on line 2, and \"MUNCH.\" on line 3 in large type, followed by line 4 \"EXPERIENCE\" and line 5 \"TRUE UMAMI.\" in smaller white text. Beneath that, add 2 promotional lines in orange: {argument name=\"review text\" default=\"OVER 300 REVIEWS.\"}. In the bottom right, place a 3-line orange callout reading {argument name=\"tagline text\" default=\"DIP, POUR, MUNCH.\"}. Use cinematic food photography styling, sharp focus on chips and cheese stream, appetizing glossy textures, commercial packaging realism, premium snack-brand ad aesthetic.",
+  "translatedPrompt": "创作一张极具戏剧性的摄影棚美食广告海报，背景为黑色质感底色，采用情绪化的高对比度灯光，色调呈现浓郁的暖橙色。构图为垂直布局，视觉上分为左右两部分：左侧为醒目的堆叠式广告文案，右侧为核心美食动态展示。在右下方展示一个深色的乡村风格碗，里面堆满了三角形的切达玉米片，右上角倾斜的深色金属平底锅正源源不断地淋下浓稠亮泽的芝士酱。芝士厚重地覆盖在薯片上，形成浓郁的熔岩状褶皱。在左侧碗后方放置 1 袋直立的红色零食包装袋，袋上印有醒目的黄橙色星爆图形，并以巨大的白色描边字体显示品牌名称 {argument name=\"brand name\" default=\"CRUNCHY CHIPZ\"}，下方配有较小的口味说明 {argument name=\"flavor text\" default=\"ZESTY CHEDDAR\"} 以及微小的副标题“FLAVORED CORN SNACKS”。在包装袋左下方印上微小文字：“SAVORY TRIANGLES”。在深色桌面上放置 2 个小型调料碗：左下角为 1 个盛有切达干酪碎的浅碗，右下角附近为 1 个盛有红色调味料的小碗。桌面上散落着些许碎屑和芝士丝，主碗下方垫着一张深色餐巾。使用复古海报风格的粗体做旧压缩大写字体。在左上方分 5 行堆叠标题，内容为 {argument name=\"headline text\" default=\"THE ULTIMATE MUNCH.\"}，其中第 1 行“THE”、第 2 行“ULTIMATE”、第 3 行“MUNCH.”使用大号字体，随后第 4 行“EXPERIENCE”和第 5 行“TRUE UMAMI.”使用较小的白色字体。在其下方添加 2 行橙色的促销文案：{argument name=\"review text\" default=\"OVER 300 REVIEWS.\"}。在右下方放置 3 行橙色的宣传标语：{argument name=\"tagline text\" default=\"DIP, POUR, MUNCH.\"}。采用电影级美食摄影风格，薯片和芝士流细节清晰，呈现诱人的光泽质感，具备商业包装的真实感及高端零食品牌的广告美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "芝士薯片零食广告海报：此提示词可生成一张风格大胆的芝士玉米片品牌商业美食海报，非常适合用于广告、包装样机及社交媒体推广。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "callout",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "vintage",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: callout, vertical]。\n\nVisual style:\n[参考风格: cinematic, vintage, premium, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14545",
+      "15089",
+      "15817",
+      "15773",
+      "14652",
+      "14850"
+    ]
+  }
+}

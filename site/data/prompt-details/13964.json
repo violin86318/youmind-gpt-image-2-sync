@@ -1,0 +1,48 @@
+{
+  "id": "13964",
+  "prompt": "An extreme top-down god's-eye perspective looking directly down at a vast, glowing {argument name=\"city style\" default=\"ancient Chinese city\"} extending to the horizon, where the curvature of the planet is visible. In the foreground, a lone {argument name=\"character type\" default=\"swordsman\"} in traditional robes stands on the edge of an ornate, dark-tiled ancient palace roof, looking down. Below lies an endless sea of ancient architecture illuminated by warm glowing lights, bustling streets, and dense crowds. Soft mist and fog layers drift through the sprawling metropolis. Photorealistic fantasy concept art, Chinese Xianxia aesthetics, extreme wide angle, massive depth of field. Grand, lonely, and poetic atmosphere with strong color contrast and a moody {argument name=\"color palette\" default=\"dark blue and warm gold\"} color palette.",
+  "translatedPrompt": "极致的上帝视角俯瞰，直接向下望向广阔且发光的 {argument name=\"city style\" default=\"中国古代城市\"}，城市一直延伸至地平线，甚至可以看到星球的弧度。在前景中，一位孤独的 {argument name=\"character type\" default=\"剑客\"} 身着传统长袍，站在装饰华丽的深色瓦片古宫殿屋檐边缘向下眺望。下方是无尽的古代建筑群，被温暖的灯光点亮，街道熙熙攘攘，人群密集。柔和的薄雾在广阔的都市中缭绕。照片级写实的奇幻概念艺术，中国仙侠美学，超广角，巨大的景深。宏大、孤独且富有诗意的氛围，具有强烈的色彩对比和深沉的 {argument name=\"color palette\" default=\"深蓝与暖金\"} 色调。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "上帝视角下的仙侠城市景观：生成令人惊叹的极致高空俯瞰视角奇幻城市景观，画面中一位孤独的身影俯瞰着广袤且灯火辉煌的古代大都市。",
+      "subject": "空间",
+      "scene": "信息图/图解",
+      "composition": [
+        "top-down"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "depth of field"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "城市美食地图、活动导览、园区地图、旅行视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: top-down]。\n\nVisual style:\n[参考风格: realistic, photorealistic, fantasy]。\n\nLighting and camera:\n[参考光线镜头: depth of field]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14045",
+      "14086",
+      "14009",
+      "15063",
+      "15309",
+      "14088"
+    ]
+  }
+}

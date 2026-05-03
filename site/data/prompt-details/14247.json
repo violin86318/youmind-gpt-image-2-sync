@@ -1,0 +1,40 @@
+{
+  "id": "14247",
+  "prompt": "A {argument name=\"art style\" default=\"traditional Japanese Ukiyo-e woodblock print\"} landscape featuring an {argument name=\"main character\" default=\"anthropomorphic glass of beer with a frothy head, a happy smiling face, stick-like yellow arms and legs, and traditional sandals\"} walking on a dirt path. The character holds a blue round fan displaying the kanji \"{argument name=\"fan text\" default=\"涼\"}\". The background includes a large pine tree and a wooden bridge on the right with 3 small figures crossing, plus 3 more figures walking on the path. To the left, tall reeds border a river leading to a distant {argument name=\"background mountain\" default=\"snow-capped Mount Fuji\"} under a gradient sky. A traditional text cartouche in the top left reads \"{argument name=\"top left text\" default=\"東海道 五十三次之内 由井\"}\" next to red artist seals, with a matching cartouche in the bottom left. The image has vintage, muted colors and authentic woodblock paper textures.",
+  "translatedPrompt": "A {argument name=\"art style\" default=\"traditional Japanese Ukiyo-e woodblock print\"} landscape featuring an {argument name=\"main character\" default=\"anthropomorphic glass of beer with a frothy head, a happy smiling face, stick-like yellow arms and legs, and traditional sandals\"} walking on a dirt path. The character holds a blue round fan displaying the kanji \"{argument name=\"fan text\" default=\"涼\"}\". The background includes a large pine tree and a wooden bridge on the right with 3 small figures crossing, plus 3 more figures walking on the path. To the left, tall reeds border a river leading to a distant {argument name=\"background mountain\" default=\"snow-capped Mount Fuji\"} under a gradient sky. A traditional text cartouche in the top left reads \"{argument name=\"top left text\" default=\"東海道 五十三次之内 由井\"}\" next to red artist seals, with a matching cartouche in the bottom left. The image has vintage, muted colors and authentic woodblock paper textures.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Ukiyo-e Mascot Landscape：Generates a traditional Japanese woodblock print featuring a customizable mascot character in a classic Mount Fuji landscape.",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "vintage"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: vintage]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13970",
+      "14402",
+      "15441",
+      "13788",
+      "15428",
+      "15273"
+    ]
+  }
+}

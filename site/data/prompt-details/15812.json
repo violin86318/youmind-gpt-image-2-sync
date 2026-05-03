@@ -1,0 +1,48 @@
+{
+  "id": "15812",
+  "prompt": "A pixel-art style mosaic illustration of a tropical parrot perched on a short brown branch in the middle of dense jungle foliage, created as if assembled from a tight uniform square grid of tiny colored tiles with thin dark outlines around every square. The single bird is shown in side profile facing right, with a large curved black beak, a pale cream face, a bright red-orange forehead and throat, a vivid yellow neck, a bright green body, and long wings and tail feathers in saturated blue and cyan. The parrot is centered vertically and slightly left of center, standing upright on the branch, with the tail extending downward. Surround the bird with lush layered leaves in many shades of green, from deep forest green to lime, filling the entire frame with no sky visible. Use strong contrast, crisp black contouring, and a glowing light green area behind the parrot to separate it from the darker foliage. The overall image should look like retro pixel art or stained-glass mosaic, highly detailed, colorful, square format, and edge-to-edge tiled texture.",
+  "translatedPrompt": "一幅像素艺术风格的马赛克插画，描绘了一只栖息在茂密丛林叶丛中短棕色树枝上的热带鹦鹉。画面仿佛由紧密均匀的微小彩色方形瓷砖拼合而成，每个方块周围都有细细的深色轮廓线。鹦鹉呈侧面朝右，有着巨大的黑色弯曲鸟喙、浅奶油色的面部、鲜艳的红橙色前额和喉部、亮黄色的颈部，以及呈现饱和蓝色和青色的长翅膀和尾羽。鹦鹉垂直居中且略偏左，直立在树枝上，尾羽向下延伸。鹦鹉周围环绕着层次丰富的茂密叶片，色调涵盖从深森林绿到亮绿的多种绿色，填满整个画面，不留天空。运用强烈的对比度、清晰的黑色轮廓，并在鹦鹉后方设置一个发光的浅绿色区域，将其与较暗的叶丛区分开来。整体图像应呈现出复古像素艺术或彩色玻璃马赛克的质感，细节丰富、色彩鲜艳、方形构图，并具有满版平铺的纹理。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "像素马赛克丛林鹦鹉：此提示词可生成一幅色彩斑斓的方形像素马赛克风格热带鹦鹉图，背景为茂密的绿色叶丛，非常适合用于复古风格海报、壁纸或装饰性数字艺术。",
+      "subject": "人物",
+      "scene": "综合视觉",
+      "composition": [
+        "centered",
+        "grid",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "retro",
+        "pixel art"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "风格对比、产品系列、前后对照、角色变体",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 综合视觉 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, grid, layered, vertical]。\n\nVisual style:\n[参考风格: retro, pixel art]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15439",
+      "15671",
+      "14162",
+      "14895",
+      "14013",
+      "14181"
+    ]
+  }
+}

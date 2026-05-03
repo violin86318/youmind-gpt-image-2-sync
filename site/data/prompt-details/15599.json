@@ -1,0 +1,36 @@
+{
+  "id": "15599",
+  "prompt": "이 {argument name=\"기기\" default=\"아이폰\"}으로 촬영한 {argument name=\"대상\" default=\"음식\"} 사진을 전문 푸드 화보처럼 보이도록 보정해줘. 시네마틱한 조명을 적용하고, 색감은 깊고 풍부하게 보이도록 강화하며, {argument name=\"대상\" default=\"음식\"}의 질감과 디테일이 또렷하게 살아나도록 선명도를 높여줘. 전체적으로 고급 레스토랑에서 촬영한 것 같은 분위기로 만들고, 배경은 살짝 어둡고 자연스럽게 흐리게 처리해 {argument name=\"대상\" default=\"음식\"}이 더 돋보이게 해줘. 사진 한쪽 여백에는 손으로 그린 듯한 자연스러운 감성의 텍스트를 작고 은은하게 추가해줘. 인스타그램에 바로 올릴 수 있는 감각적이고 완성도 높은 푸드 사진 스타일로 만들어줘.",
+  "translatedPrompt": "将这张由 {argument name=\"device\" default=\"iPhone\"} 拍摄的 {argument name=\"subject\" default=\"food\"} 照片进行精修，使其呈现出专业美食摄影的效果。应用电影级光影，增强色彩深度与质感，并提高锐度以凸显 {argument name=\"subject\" default=\"food\"} 的纹理与细节。营造出高端餐厅的氛围，将背景适当调暗并进行自然虚化，使 {argument name=\"subject\" default=\"food\"} 更加突出。在侧面添加一行带有自然手写感的小巧精致文字。打造出适合 Instagram 的时尚高质量美食摄影风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "专业美食摄影增强：将随手拍摄的手机美食照片转化为具有电影级光影和定制艺术字体的顶级餐厅风格广告大片。",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "App Store 截图、产品概念、移动工具界面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13583",
+      "13585",
+      "13645",
+      "13648",
+      "13708",
+      "13710"
+    ]
+  }
+}

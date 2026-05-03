@@ -1,0 +1,41 @@
+{
+  "id": "13483",
+  "prompt": "{\n  \"type\": \"UI/UX Design System presentation board\",\n  \"theme\": \"Dark mode, nature-inspired, glowing iridescent aesthetics\",\n  \"header\": {\n    \"title\": \"NATURE INSPIRED UI\\n{argument name=\\\"system title\\\" default=\\\"BUTTERFLY IRIDESCENCE\\\"}\\nUI/UX Design System\",\n    \"description\": \"{argument name=\\\"chinese description\\\" default=\\\"从蝴蝶翅膀中汲取灵感，将结构色的虹彩光泽与深邃蓝融入界面设计，创造轻盈、灵动、充满生命力的数字体验。\\\"}\",\n    \"hero_image\": \"Large, highly detailed, glowing blue and purple iridescent butterfly wing\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"INSPIRATION\",\n        \"count\": 4,\n        \"description\": \"Square thumbnails showing close-ups of iridescent butterfly wings and light refractions\"\n      },\n      {\n        \"title\": \"KEYWORDS\",\n        \"count\": 5,\n        \"labels\": [\"虹彩\", \"灵动\", \"轻盈\", \"深邃\", \"自然\"]\n      },\n      {\n        \"title\": \"COLOR SYSTEM\",\n        \"subsections\": [\n          { \"title\": \"PRIMARY\", \"count\": 3, \"labels\": [\"Morpho Blue #1E5BFF\", \"Iridescent Purple #7A5CFF\", \"Sky Glow #00E6FF\"] },\n          { \"title\": \"NEUTRAL\", \"count\": 3, \"labels\": [\"Midnight #0B0F19\", \"Soft Navy #141A2E\", \"Pearl #F3F6FC\"] },\n          { \"title\": \"ACCENT & GRADIENT\", \"count\": 2, \"labels\": [\"Rainbow Sheen\", \"Butterfly Glow\"] }\n        ]\n      },\n      {\n        \"title\": \"TYPOGRAPHY\",\n        \"content\": \"Aa Poppins Light / Regular / Medium / SemiBold\"\n      },\n      {\n        \"title\": \"APP STORE ICON\",\n        \"count\": 1,\n        \"text\": \"App Name {argument name=\\\"app name\\\" default=\\\"Winglet\\\"} Light. Alive. Beautiful.\"\n      },\n      {\n        \"title\": \"UI COMPONENTS\",\n        \"subsections\": [\n          { \"title\": \"BUTTONS\", \"count\": 6, \"labels\": [\"Primary\", \"Secondary\", \"Glass\", \"heart icon\", \"glowing sphere icon\", \"toggle switch\"] },\n          { \"title\": \"OTHER ELEMENTS\", \"count\": 5, \"labels\": [\"Search bar\", \"Tag (New)\", \"Progress bar (72%)\", \"Card (Blue Morph)\", \"Slider\"] }\n        ]\n      },\n      {\n        \"title\": \"MOBILE UI\",\n        \"count\": 3,\n        \"screens\": [\"Explore screen\", \"Today screen with large butterfly wing\", \"Audio player screen with waveform\"]\n      },\n      {\n        \"title\": \"WEB DESIGN PREVIEW\",\n        \"count\": 1,\n        \"details\": \"Desktop browser mockup, hero section with '{argument name=\\\"web hero headline\\\" default=\\\"LIGHT IS ALIVE\\\"}' and 'Explore Now' button\"\n      },\n      {\n        \"title\": \"VISUAL BACKGROUNDS\",\n        \"count\": 4,\n        \"description\": \"Rectangular thumbnails showing abstract iridescent waves\"\n      }\n    ],\n    \"footer\": \"Design with Nature, Made for Experience.\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"UI/UX 设计系统展示项目\",\n  \"theme\": \"深色模式，自然灵感，发光虹彩美学\",\n  \"header\": {\n    \"title\": \"自然灵感 UI\\n{argument name=\\\"system title\\\" default=\\\"蝴蝶虹彩\\\"}\\nUI/UX 设计系统\",\n    \"description\": \"{argument name=\\\"chinese description\\\" default=\\\"从蝴蝶翅膀中汲取灵感，将结构色的虹彩光泽与深邃蓝融入界面设计，创造轻盈、灵动、充满生命力的数字体验。\\\"}\",\n    \"hero_image\": \"大型、高细节、发光的蓝紫色虹彩蝴蝶翅膀\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"设计灵感\",\n        \"count\": 4,\n        \"description\": \"展示虹彩蝴蝶翅膀特写和光线折射的方形缩略图\"\n      },\n      {\n        \"title\": \"关键词\",\n        \"count\": 5,\n        \"labels\": [\"虹彩\", \"灵动\", \"轻盈\", \"深邃\", \"自然\"]\n      },\n      {\n        \"title\": \"色彩系统\",\n        \"subsections\": [\n          { \"title\": \"主色\", \"count\": 3, \"labels\": [\"大闪蝶蓝 #1E5BFF\", \"虹彩紫 #7A5CFF\", \"天空光 #00E6FF\"] },\n          { \"title\": \"中性色\", \"count\": 3, \"labels\": [\"午夜黑 #0B0F19\", \"柔和海军蓝 #141A2E\", \"珍珠白 #F3F6FC\"] },\n          { \"title\": \"强调色与渐变\", \"count\": 2, \"labels\": [\"彩虹光泽\", \"蝴蝶光芒\"] }\n        ]\n      },\n      {\n        \"title\": \"排版\",\n        \"content\": \"Aa Poppins Light / Regular / Medium / SemiBold\"\n      },\n      {\n        \"title\": \"应用图标\",\n        \"count\": 1,\n        \"text\": \"应用名称 {argument name=\\\"app name\\\" default=\\\"Winglet\\\"} 轻盈。灵动。优美。\"\n      },\n      {\n        \"title\": \"UI 组件\",\n        \"subsections\": [\n          { \"title\": \"按钮\", \"count\": 6, \"labels\": [\"主要按钮\", \"次要按钮\", \"玻璃质感\", \"心形图标\", \"发光球体图标\", \"开关\"] },\n          { \"title\": \"其他元素\", \"count\": 5, \"labels\": [\"搜索栏\", \"标签 (New)\", \"进度条 (72%)\", \"卡片 (Blue Morph)\", \"滑块\"] }\n        ]\n      },\n      {\n        \"title\": \"移动端 UI\",\n        \"count\": 3,\n        \"screens\": [\"探索页面\", \"带有大型蝴蝶翅膀的今日页面\", \"带有波形图的音频播放页面\"]\n      },\n      {\n        \"title\": \"网页设计预览\",\n        \"count\": 1,\n        \"details\": \"桌面浏览器模型，首屏区域包含 '{argument name=\\\"web hero headline\\\" default=\\\"光之生命\\\"}' 和 '立即探索' 按钮\"\n      },\n      {\n        \"title\": \"视觉背景\",\n        \"count\": 4,\n        \"description\": \"展示抽象虹彩波纹的矩形缩略图\"\n      }\n    ],\n    \"footer\": \"源于自然的设计，为体验而生。\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Iridescent Butterfly UI/UX 设计系统：生成一个全面的深色模式 UI/UX 设计系统项目，包含受虹彩蝴蝶翅膀启发的配色方案、排版、移动端界面和网页预览。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "close-up"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14403",
+      "14623",
+      "14457",
+      "14891",
+      "14909",
+      "15795"
+    ]
+  }
+}

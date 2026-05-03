@@ -1,0 +1,49 @@
+{
+  "id": "15701",
+  "prompt": "A full-body anime-style 3D virtual idol girl viewed from a high angle, standing on a plain light gray studio background with a soft cast shadow to the lower right. She has long straight {argument name=\"hair color\" default=\"blue-green teal\"} hair reaching past her waist, with blunt bangs, 2 large black ribbon bows on her head, and a dramatic red spider-lily-style floral hair accessory on one side. Her face is cute and youthful, with a trendy alt-idol gyaru-goth aesthetic, and she is posing with 1 raised hand making a peace sign close to her face while the other arm rests naturally by her side. Outfit: an oversized pink top with 2 black horizontal stripes on each sleeve and distressed black graphic print across the chest, layered under a black strappy harness dress or camisole with metal studs; a pink plaid pleated mini skirt with frayed hem; 2 black belts at the waist with silver rings and chain details; 1 hanging plush keychain pouch attached at the hip; 1 black choker and multiple layered silver necklaces. Legwear: 2 matching pink-and-black striped loose leg warmers or thigh-high coverings, with one black garter strap visible on the upper thigh. Footwear: 2 chunky black platform shoes with metal hardware. The overall fashion is Japanese jirai kei, punk, and gothic streetwear in pink and black, with glossy fabric, metallic accessories, and highly detailed clothing textures. Clean character render, crisp lighting, high detail, stylized proportions, polished game-avatar quality, centered composition.",
+  "translatedPrompt": "一张高角度俯视的全身动漫风格 3D 虚拟偶像少女渲染图，背景为简洁的浅灰色摄影棚，右下方带有柔和的投影。她留着及腰的长直发，发色为 {argument name=\"hair color\" default=\"蓝绿色\"}，配有齐刘海、头上饰有 2 个巨大的黑色蝴蝶结，一侧还别着一朵极具视觉冲击力的红色彼岸花风格发饰。她面容可爱年轻，呈现出时尚的另类偶像辣妹哥特风（alt-idol gyaru-goth），一只手抬起在脸旁比出剪刀手，另一只手自然垂在身侧。服装：一件超大款粉色上衣，每侧袖子上有 2 条黑色横纹，胸前印有做旧的黑色图案，外搭一件带有金属铆钉的黑色绑带吊带裙；下身穿着粉色格纹百褶短裙，裙边有磨损设计；腰间系着 2 条带有银色圆环和链条装饰的黑色腰带；胯部挂着 1 个毛绒钥匙扣小包；颈部佩戴 1 个黑色颈圈和多层叠戴的银色项链。腿部：穿着 2 只配套的粉黑条纹宽松腿套或过膝袜，大腿上可见 1 条黑色吊带。鞋履：2 只带有金属配件的黑色厚底鞋。整体风格为日系地雷系（jirai kei）、朋克和哥特街头风，采用粉黑配色，材质光泽感强，金属配饰丰富，服装纹理细节高度还原。角色渲染干净，光影清晰，细节丰富，比例风格化，具备精致的游戏头像品质，构图居中。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "朋克粉色系动漫少女全身渲染图：此提示词可生成一张高角度全身动漫少女角色渲染图，采用粉黑配色朋克街头风，非常适合用于 VTuber、虚拟形象或角色设计视觉图。",
+      "subject": "服饰",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "full-body",
+        "layered",
+        "horizontal"
+      ],
+      "style": [
+        "anime",
+        "3d",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, full-body, layered, horizontal]。\n\nVisual style:\n[参考风格: anime, 3d, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15014",
+      "15805",
+      "15041",
+      "15340",
+      "14944",
+      "15364"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "15179",
+  "prompt": "Flatten 3D packaging into 2D net. Expand all panels and tabs. Orthographic projection, no distortion. Map textures precisely. Add contrasting die-lines. {argument name=\"background\" default=\"Pure white background\"}.",
+  "translatedPrompt": "将 3D 包装展平为 2D 平面图。展开所有面板和标签。采用正交投影，无畸变。精确映射纹理。添加对比鲜明的模切线。{argument name=\"background\" default=\"纯白色背景\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "3D 包装转 2D 平面展开图：一个用于工业设计的技术提示词，旨在将 3D 包装展开为带有精确纹理映射和模切线的 2D 平面图。",
+      "subject": "产品",
+      "scene": "信息图/图解",
+      "composition": [],
+      "style": [
+        "3d"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "城市美食地图、活动导览、园区地图、旅行视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: 3d]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13747",
+      "14086",
+      "15063",
+      "13651",
+      "13743",
+      "13964"
+    ]
+  }
+}

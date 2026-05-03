@@ -1,0 +1,51 @@
+{
+  "id": "15700",
+  "prompt": "Square Japanese dark electro pop album cover, cinematic and ethereal, set at night in a rainy empty urban alley with wet reflective pavement and deep blue-black shadows. Center a ghostly elegant woman standing directly in front of a glowing vending machine filled with visible drink cans, the machine casting icy blue-white light around her while small red indicator lights glow on the right side. She has extremely long flowing silver-lavender hair, pale skin, and an enigmatic faceless or obscured-face treatment with the face hidden in shadow or a smooth blurred void. She wears an off-shoulder translucent {argument name=\"dress style\" default=\"shimmering gray tulle gown\"} with delicate sparkle texture, sheer draped sleeves, and ornate crystal jewelry at the neck and chest. Her pose is solemn and prayer-like, one hand raised holding a coin near her lips, the other hand gently clasping her wrist. Add 2 glowing red stigmata-like cross marks, one on the wrist and one on the hand, emitting subtle light. The mood is melancholic, mystical, futuristic, sacred, and slightly gothic. Use a high-contrast palette of cold neon blue, silver, black, and crimson accents, with mist, drizzle, soft bloom, fine film grain, and dramatic backlighting from the vending machine. Integrate ornate vintage border decorations in all 4 corners and a thin frame line around the cover. At the top center, place the artist name {argument name=\"artist name\" default=\"AYANO YUKIMURA\"} in elegant serif capitals with a smaller Japanese line beneath: {argument name=\"artist name in Japanese\" default=\"アヤノ ユキムラ\"}. Along the left side, create a vertical black panel with 3 text areas: the artist name at the top, a long vertical Japanese quote in white in the middle, and at the bottom the stacked genre text {argument name=\"genre text\" default=\"JAPANESE DARK ELECTRO POP ALBUM\"}. Across the bottom center, place the album title {argument name=\"album title\" default=\"VENDING MACHINE STIGMATA\"} in very large luminous cracked silver serif typography spanning 2 lines, with subtle star-like sparkles and ornamental flourishes. Premium fantasy-photoreal key art, ultra-detailed, polished CD jacket design.",
+  "translatedPrompt": "正方形日系暗黑电子流行乐专辑封面，电影感且空灵，背景设定在雨夜空旷的城市小巷，地面湿润且具有反射感，笼罩在深蓝黑色的阴影中。画面中心是一位优雅的幽灵般女性，她正对着一台发光的自动贩卖机，机内可见饮料罐，贩卖机散发出冰冷的蓝白色光芒，右侧亮着微小的红色指示灯。她拥有极长的飘逸银薰衣草色头发，皮肤苍白，面部处理神秘，或隐藏在阴影中，或呈现为平滑模糊的虚空。她身穿露肩半透明 {argument name=\"dress style\" default=\"闪烁的灰色薄纱礼服\"}，带有精致的闪光质感、透视垂坠袖口，颈部和胸前佩戴华丽的水晶饰品。她的姿势庄重如祈祷，一只手举起，硬币靠近嘴唇，另一只手轻轻握住手腕。在手腕和手背处各添加 2 个发光的红色圣痕状十字标记，散发出微弱的光芒。氛围忧郁、神秘、充满未来感、神圣且略带哥特风。采用冷霓虹蓝、银色、黑色和深红色点缀的高对比度调色板，辅以薄雾、细雨、柔光、细腻的胶片颗粒感以及来自自动贩卖机的戏剧性背光。在四个角落集成华丽的复古边框装饰，并在封面周围添加细边框线。在顶部中心，放置艺术家名称 {argument name=\"artist name\" default=\"AYANO YUKIMURA\"}，使用优雅的衬线大写字母，下方配有一行较小的日语：{argument name=\"artist name in Japanese\" default=\"アヤノ ユキムラ\"}。沿左侧创建一个垂直黑色面板，包含 3 个文本区域：顶部为艺术家名称，中间为长条垂直的白色日语引文，底部为堆叠的流派文本 {argument name=\"genre text\" default=\"JAPANESE DARK ELECTRO POP ALBUM\"}。在底部中心，放置专辑标题 {argument name=\"album title\" default=\"VENDING MACHINE STIGMATA\"}，采用超大发光的裂纹银色衬线字体，跨越 2 行，并带有细微的星光闪烁和装饰性花纹。顶级奇幻写实关键视觉图，超精细，精致的 CD 封套设计。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "暗黑电子乐专辑封面：一款充满情绪感的奇幻写实风格 CD 封套提示词，用于生成日系暗黑电子流行乐专辑封面，包含神秘女性、霓虹自动贩卖机及华丽的排版设计。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "vintage",
+        "fantasy",
+        "premium"
+      ],
+      "lightingCamera": [
+        "backlight",
+        "neon",
+        "film grain"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: cinematic, vintage, fantasy, premium]。\n\nLighting and camera:\n[参考光线镜头: backlight, neon, film grain]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15096",
+      "15302",
+      "14918",
+      "15734",
+      "14930",
+      "15801"
+    ]
+  }
+}

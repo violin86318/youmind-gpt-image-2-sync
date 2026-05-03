@@ -1,0 +1,35 @@
+{
+  "id": "15581",
+  "prompt": "{argument name=\"雰囲気\" default=\"エモーショナル\"}な雰囲気で、{argument name=\"時間帯\" default=\"夕暮れ時\"}の柔らかな光に包まれた日本人女子大生の自撮り写真。彼女の表情は少し憂いを帯びており、背景には都会のネオンがぼんやりと滲んでいる。浅い被写界深度で、彼女の顔にピントが合っている。",
+  "translatedPrompt": "一张日本大学生在 {argument name=\"atmosphere\" default=\"情绪化\"} 氛围下的自拍，沐浴在 {argument name=\"time of day\" default=\"黄昏\"} 的柔和光线中。她的表情略带忧郁，背景中的城市灯光呈现出淡淡的虚化效果。浅景深，焦点集中在她的面部。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "情绪化的日本学生自拍：一份关于日本大学生写实自拍的详细描述性提示词，包含柔和的日落光影和城市背景虚化效果。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

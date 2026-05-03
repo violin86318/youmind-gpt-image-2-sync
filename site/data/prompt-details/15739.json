@@ -1,0 +1,50 @@
+{
+  "id": "15739",
+  "prompt": "A cinematic medieval shot-reverse-shot pair presented as a gritty historical film still in an ultrawide 21:9 aspect ratio, overcast natural light, muted earth tones, damp autumn atmosphere, realistic muddy textures, shallow depth of field, and strong foreground shoulder framing. Set the scene on a rutted muddy country road running through a rural valley with rough wooden wattle fences on both sides, low rolling hills covered with sparse trees in the distance, open fields, and a small pale stone farmhouse or chapel on the far right hillside. The two characters face each other on the road. One is a weary medieval peasant man in a dirty brown tunic and cap, average build, carrying a wood-handled axe resting on his shoulder with a leather strap across his chest. The other is a knight or armed traveler in dark weathered chainmail and a worn hooded surcoat, standing still with a guarded posture. Create this as a grammar-of-cinema countershot demonstration: first frame shows the {argument name=\"foreground character\" default=\"peasant man with axe\"} from behind in the right foreground, his shoulder and back occupying the near right side of the frame, while the {argument name=\"background character\" default=\"knight in chainmail\"} stands full figure in the left midground facing camera on the muddy road; second frame reverses the angle and shows the knight’s shoulder and hooded back blurred in the left foreground while the peasant stands in the right midground holding the axe on his shoulder. Keep both shots consistent in location, weather, costume continuity, lens feel, and character spacing, with subdued dramatic realism and a tense conversational standoff.",
+  "translatedPrompt": "一组电影级的中世纪正反打镜头，呈现为具有颗粒感的历史电影剧照，采用 21:9 超宽画幅，阴天自然光，柔和的大地色调，潮湿的秋季氛围，逼真的泥泞质感，浅景深，以及强烈的过肩构图。场景设定在一条穿越乡村山谷的泥泞乡间小路上，两侧有粗糙的木制篱笆，远处是覆盖着稀疏树木的低矮连绵丘陵、开阔的田野，以及右侧远方山坡上的一座浅色石制农舍或教堂。两个角色在路上相对而立。其中一人是疲惫的中世纪农民，身穿脏兮兮的棕色束腰外衣和帽子，身材中等，肩上扛着一把木柄斧头，胸前斜跨着皮带。另一人是身穿深色风化锁子甲和破旧连帽罩衫的骑士或武装旅人，姿态戒备地站着。请将其制作成电影语法中的反打镜头演示：第一帧展示 {argument name=\"foreground character\" default=\"扛斧头的农民\"} 从右侧前景的背面视角，他的肩膀和背部占据了画面右侧近景，而 {argument name=\"background character\" default=\"穿锁子甲的骑士\"} 则在左侧中景全身出镜，面向镜头站在泥泞的道路上；第二帧反转角度，展示骑士的肩膀和连帽背影在左侧前景虚化，而农民站在右侧中景，肩扛斧头。保持两个镜头在地点、天气、服装连贯性、镜头质感和角色间距上的一致性，呈现出克制的戏剧写实感和紧张的对峙氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "中世纪正反打镜头：一个电影级的双角度中世纪反打场景，用于展示过肩构图和正反打镜头组合。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "natural light",
+        "overcast",
+        "shallow depth",
+        "depth of field",
+        "lens",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: natural light, overcast, shallow depth, depth of field, lens, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15096",
+      "15515",
+      "15307",
+      "15690",
+      "15698",
+      "15766"
+    ]
+  }
+}

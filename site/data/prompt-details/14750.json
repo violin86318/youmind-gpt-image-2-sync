@@ -1,0 +1,35 @@
+{
+  "id": "14750",
+  "prompt": "极简东方美学 × 商业插画风格，主题“{argument name=\"主题\" default=\"妙笔生花\"}”，\n\n竖版构图，采用S型流动视觉动线，画面简洁但具有设计感，\n\n背景为{argument name=\"背景色\" default=\"浅米色\"}宣纸质感，带柔和渐变，\n\n一支毛笔作为起点，笔触延展为流动的彩色墨迹，墨迹在空中逐渐转化为盛开的花朵，花朵造型优雅、适度写实，\n\n色彩体系协调丰富：\n{argument name=\"配色\" default=\"青绿 + 粉色 + 淡橙 + 鎏金\"}点缀，颜色柔和通透不过饱和，\n\n加入轻微粒子光效与流动感，局部金色细线勾勒轮廓，\n\n整体风格：高级商业插画，东方意境 + 现代设计融合，\n\n画面干净、有呼吸感，视觉中心明确，适合海报或品牌KV\n\n高精度细节，柔和光影，细腻质感，优雅格调，电影级画面质感，潮流风格，数字艺术质感，现代图形设计元素。",
+  "translatedPrompt": "极简东方美学 × 商业插画风格，主题“{argument name=\"theme\" default=\"笔尖奇迹\"}”，竖构图，S 型流动视觉动线，画面简洁且富有设计感。背景为 {argument name=\"background color\" default=\"浅米色\"} 宣纸纹理，带有柔和的渐变效果。以毛笔作为起点，笔触延伸出流动的彩色墨迹，并逐渐幻化为空中绽放的花朵；花朵优雅且具有适度的写实感。和谐且丰富的配色系统：{argument name=\"color scheme\" default=\"青蓝色 + 粉色 + 浅橙色 + 金箔\"} 点缀，色彩柔和通透，不过分饱和。添加细微的颗粒光效与流动感，并以精细的金线勾勒细节。整体风格：高端商业插画，融合东方意境与现代设计。画面干净且具有呼吸感，视觉中心明确，适用于海报或品牌 KV。高精度细节，柔和光影，细腻纹理，优雅风格，电影级视觉质量，潮流风格，数字艺术质感，现代平面设计元素。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "极简东方商业插画：一份用于创作高端极简插画的详尽提示词，融合了传统东方美学与现代商业设计。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13449",
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686"
+    ]
+  }
+}

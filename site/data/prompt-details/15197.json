@@ -1,0 +1,36 @@
+{
+  "id": "15197",
+  "prompt": "风格：截取一张{argument name=\"角色\" default=\"雅儿贝德 cos\"} 的 ins 快拍写真\n- 内容：{argument name=\"姿势\" default=\"蹲在地上正对镜头\"}，双手做夸张叛逆手势，翻白眼，表情嚣张又不屑",
+  "translatedPrompt": "风格：一张 Instagram 快拍快照，主角为 {argument name=\"character\" default=\"阿贝多 Cosplay\"}\n- 内容：{argument name=\"pose\" default=\"蹲在地上直视镜头\"}，做出夸张的叛逆手势，翻着白眼，表情傲慢且不屑",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Instagram Cosplay 快拍快照：一个旨在模拟社交媒体快拍风格的叛逆风 Cosplay 快照提示词，包含特定的姿势和面部表情。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13587",
+      "13616",
+      "13685",
+      "13715",
+      "13720",
+      "13723"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "14935",
+  "prompt": "Create a polished Japanese landing page hero image for a fictional divorce-law firm, designed like a high-conversion listing ad LP. Use a soft, elegant, feminine legal-brand aesthetic with a white background, blush pink accents, light gray dividers, and subtle botanical line art. The layout is a single wide desktop web hero split into two main columns: text-heavy content on the left and a lifestyle photo on the right. In the upper left, place the law firm logo and name: a delicate scripted monogram “D” with leaf ornament, followed by the Japanese office name and small English subtitle, shown as {argument name=\"firm name\" default=\"法律事務所D\"} and “LAW OFFICE D”. At the top right, include 2 rounded contact boxes: the first is a white phone box with a small phone icon and “24h”, short Japanese support text above, and the large phone number {argument name=\"phone number\" default=\"0120-456-789\"}; the second is a pink email consultation button with an envelope icon and Japanese text indicating 24-hour reception. The main headline on the left is a large Japanese serif/mincho-style statement in 3 lines: “もう一人で悩まないで。” then “新しい一歩を、” in pink, then “一緒に考えます。” mixing black and pink emphasis. Below it, add a short supporting paragraph in Japanese about supporting clients with divorce-related worries and helping find the best solution, with one phrase highlighted in pink. On the right side, show a bright, airy photo of a Japanese woman in her 30s with short dark brown hair, wearing a loose white top, seated indoors on a sofa by a window, resting her face lightly on one hand and looking thoughtful; her face is obscured by a large rectangular blur block for privacy. Near her shoulder, place a pale pink circular badge with Japanese text saying that many female lawyers are on staff and consultations can be made with peace of mind. Across the lower middle, place 4 evenly spaced rounded white feature cards with thin borders and pink line icons. Card 1 shows a speech-bubble icon and text for “初回相談 60分無料” with a smaller line saying online consultation is also available. Card 2 shows a heart-in-hands icon and text about handling children’s issues carefully, with a smaller line mentioning custody and visitation. Card 3 shows stacked coins with a yen symbol and text about relieving anxiety over fees with a clear pricing structure, plus a smaller line about installment consultation. Card 4 shows a padlock icon and text about privacy protection and strict confidentiality, with a smaller line encouraging safe consultation. At the bottom, add a large curved pink-and-white call-to-action band spanning the width. On the left side of this band, include a circular phone icon, small Japanese text encouraging casual consultation and 24/365 reception, then the large repeated phone number {argument name=\"phone number\" default=\"0120-456-789\"}, and beneath it smaller reception hours text. On the right side of the band, place a large pink rounded email button with envelope icon and Japanese text saying email consultation is available 24 hours. Along the very bottom, place 3 slim footer-style trust points separated horizontally: one about focusing on divorce consultation for women, one about consultations from family and friends also welcome, and one about nationwide and online consultations. Use refined Japanese typography, spacious layout, soft shadows, premium legal-advertising design, and realistic web-LP composition. Keep all visible text in Japanese except the small English subtitle “LAW OFFICE D”.",
+  "translatedPrompt": "为一家虚构的离婚律师事务所创建一个精致的日本落地页首屏图像，设计风格参考高转化率的列表广告 LP。采用柔和、优雅、女性化的法律品牌美学，以白色为背景，搭配淡粉色点缀、浅灰色分割线和精致的植物线条艺术。布局为单栏宽屏桌面网页首屏，分为左右两部分：左侧为文字密集的内容，右侧为生活方式照片。在左上方放置律师事务所的 Logo 和名称：一个带有叶片装饰的精致手写体字母“D”，后跟日文事务所名称及小型英文副标题，显示为 {argument name=\"firm name\" default=\"法律事務所D\"} 和“LAW OFFICE D”。在右上角，包含 2 个圆角联系框：第一个是带有小型电话图标和“24h”的白色电话框，上方有简短的日文支持文字，并显示大号电话号码 {argument name=\"phone number\" default=\"0120-456-789\"}；第二个是带有信封图标和表示 24 小时接待的日文文字的粉色邮件咨询按钮。左侧的主标题为 3 行大号日文衬线/明朝体声明：“もう一人で悩まないで。”（不要再一个人烦恼了。），接着是粉色的“新しい一歩を、”（迈出新的一步，），然后是混合黑色与粉色强调的“一緒に考えます。”（我们与您共同思考。）。下方添加一段简短的日文支持段落，介绍如何支持有离婚相关困扰的客户并帮助找到最佳解决方案，其中一个短语用粉色高亮显示。在右侧，展示一张明亮、通透的照片，照片中是一位 30 多岁的日本女性，留着深棕色短发，身穿宽松的白色上衣，坐在窗边的沙发上，单手托腮，神情若有所思；为了保护隐私，她的面部被一个大的矩形模糊块遮挡。在她的肩膀附近，放置一个淡粉色圆形徽章，上面写着有许多女性律师在职，可以安心咨询。在下方中部，放置 4 个间距均匀的圆角白色功能卡片，带有细边框和粉色线条图标。卡片 1 显示对话气泡图标和“初回相談 60分無料”（首次咨询 60 分钟免费）的文字，并附有一行较小的文字说明也提供在线咨询。卡片 2 显示心形托手图标和关于谨慎处理儿童问题的文字，并附有一行较小的文字提及监护权和探视权。卡片 3 显示带有日元符号的堆叠硬币图标，以及关于通过清晰的定价结构缓解费用焦虑的文字，并附有一行关于分期咨询的较小文字。卡片 4 显示挂锁图标和关于隐私保护与严格保密的文字，并附有一行鼓励安全咨询的较小文字。在底部，添加一个横跨页面宽度的巨大弧形粉白相间行动号召（CTA）带。在该带的左侧，包含一个圆形电话图标、鼓励轻松咨询和 24/365 接待的小型日文文字，然后是重复的大号电话号码 {argument name=\"phone number\" default=\"0120-456-789\"}，下方是较小的接待时间文字。在该带的右侧，放置一个带有信封图标的大号粉色圆角邮件按钮，以及表示 24 小时提供邮件咨询的日文文字。在最底部，横向排列 3 个细长的页脚式信任点：一个关于专注于女性离婚咨询，一个关于欢迎家人和朋友代为咨询，以及一个关于全国及在线咨询。采用精致的日文排版、宽敞的布局、柔和的阴影、高端法律广告设计和写实的网页 LP 构图。除小型英文副标题“LAW OFFICE D”外，所有可见文字均保持为日文。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "优雅的日本离婚法律服务 LP 首屏设计：此内容用于生成一个精致的日本律师事务所离婚咨询广告落地页首屏，适用于法律营销样机和 LP 设计概念。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[参考风格: realistic, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14936",
+      "13507",
+      "14966",
+      "15464",
+      "15113",
+      "14496"
+    ]
+  }
+}

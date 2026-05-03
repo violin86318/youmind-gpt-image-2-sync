@@ -1,0 +1,42 @@
+{
+  "id": "14032",
+  "prompt": "An anime illustration of an {argument name=\"character description\" default=\"elf girl with long white twintails and pointy ears\"}. She wears {argument name=\"eyewear\" default=\"dark sunglasses\"} and a {argument name=\"outfit\" default=\"white capelet with gold trim, striped shirt, and white skirt\"}. She is {argument name=\"pose\" default=\"sitting on a large wet rock in a clear river\"}, leaning back with a detached expression. The scene is set in a {argument name=\"environment\" default=\"lush green forest with a cascading waterfall in the background\"}. Cinematic lighting, dappled sunlight, and detailed water textures enhance the vibrant anime style.",
+  "translatedPrompt": "一张动漫风格的插画，主角是 {argument name=\"character description\" default=\"留着白色双马尾、长着尖耳朵的精灵少女\"}。她戴着 {argument name=\"eyewear\" default=\"深色墨镜\"}，身穿 {argument name=\"outfit\" default=\"带有金色饰边的白色斗篷、条纹衬衫和白色短裙\"}。她 {argument name=\"pose\" default=\"坐在清澈溪流中的一块大湿岩石上\"}，向后倚靠，表情悠闲。场景设定在 {argument name=\"environment\" default=\"郁郁葱葱的森林中，背景是层叠的瀑布\"}。电影级光效、斑驳的阳光和细腻的水面质感，进一步增强了生动的动漫风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "在森林溪流中放松的动漫精灵少女：生成一张高质量的动漫插画，描绘一个角色在茂密森林环境中的河边岩石上放松的场景。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14929",
+      "13607",
+      "13613",
+      "13632",
+      "13654",
+      "13679"
+    ]
+  }
+}

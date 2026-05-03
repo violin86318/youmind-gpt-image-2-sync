@@ -1,0 +1,42 @@
+{
+  "id": "13808",
+  "prompt": "A full-body anime illustration of {argument name=\"character name\" default=\"Hoshimachi Suisei\"} featuring long {argument name=\"hair color\" default=\"light blue\"} hair styled in voluminous twin tails secured with dark blue striped ribbons. She has soft purple eyes and a gentle smile. She is wearing a {argument name=\"outfit\" default=\"school uniform consisting of a white collared shirt, a blue tie, a beige cardigan worn slightly off the shoulders, and a grey plaid pleated mini skirt\"}. Her outfit is completed with dark blue ankle socks and black loafers. She is {argument name=\"pose\" default=\"standing with her hands clasped gently in front of her waist, legs slightly crossed in a relaxed posture\"}. The background is a {argument name=\"background\" default=\"simple light grey gradient\"}, emphasizing the character's clean lines and soft, high-quality anime shading.",
+  "translatedPrompt": "一张 {argument name=\"character name\" default=\"星街彗星\"} 的动漫全身插画，她留着长长的 {argument name=\"hair color\" default=\"浅蓝色\"} 头发，扎成蓬松的双马尾，并用深蓝色条纹丝带固定。她有着柔和的紫色双眸和温柔的微笑。她身着 {argument name=\"outfit\" default=\"校服，包括白色翻领衬衫、蓝色领带、一件微微滑落肩头的米色开衫，以及一条灰色格纹百褶短裙\"}。她的装束搭配深蓝色短袜和黑色乐福鞋。她 {argument name=\"pose\" default=\"双手轻扣于腰前，双腿微微交叉，姿态放松地站立\"}。背景为 {argument name=\"background\" default=\"简洁的浅灰色渐变\"}，突显出角色干净的线条和柔和的高品质动漫阴影。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫女学生全身肖像：生成一张身着校服、背景简洁的动漫风格全身角色插画。",
+      "subject": "服饰",
+      "scene": "人物/角色",
+      "composition": [
+        "full-body"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15153",
+      "15689",
+      "14637",
+      "15269",
+      "15701",
+      "13695"
+    ]
+  }
+}

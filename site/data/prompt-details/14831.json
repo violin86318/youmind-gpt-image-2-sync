@@ -1,0 +1,50 @@
+{
+  "id": "14831",
+  "prompt": "A detailed high-speed macro photograph of a {argument name=\"mug material and color\" default=\"white ceramic\"} coffee mug shattering on impact on a {argument name=\"floor surface\" default=\"concrete cafe floor\"}, shot at {argument name=\"shutter speed\" default=\"1/8000 second\"}. The mug is centered low in the frame with the handle visible on the right side, broken into many large jagged pieces that still loosely hold the cup shape while smaller shards fly outward. A splash of {argument name=\"drink type and color\" default=\"dark coffee\"} erupts upward and outward from the fractured mug, with suspended droplets and tiny specks frozen crisply in mid-air. Ground-level perspective, extreme shallow depth of field, ultra-sharp focus on the mug, fragments, and liquid splash, with a softly blurred modern cafe interior in the background. Warm indoor lighting with elongated ceiling lights rendered as bokeh, subtle reflections and wet splashes on the floor around the base, realistic textures, cinematic contrast, photorealistic product-ad style, dramatic moment of impact.",
+  "translatedPrompt": "一张详尽的高速微距摄影作品，展示了一个 {argument name=\"mug material and color\" default=\"白色陶瓷\"} 咖啡杯在 {argument name=\"floor surface\" default=\"混凝土咖啡馆地面\"} 上撞击破碎的瞬间，拍摄速度为 {argument name=\"shutter speed\" default=\"1/8000 秒\"}。咖啡杯位于画面下方中心，杯柄位于右侧，破碎成许多巨大的锯齿状碎片，仍大致保持着杯子的形状，同时较小的碎片向外飞溅。一团 {argument name=\"drink type and color\" default=\"深色咖啡\"} 从破裂的杯中向上及向外喷溅，悬浮的液滴和细小的颗粒在半空中清晰定格。地面视角，极浅的景深，对杯子、碎片和液体飞溅处进行超清晰对焦，背景为柔和模糊的现代咖啡馆室内环境。温暖的室内灯光，天花板灯光呈现出长条状的虚化效果，地面周围有细微的反射和湿润的溅痕，纹理逼真，电影级对比度，超写实产品广告风格，捕捉撞击的戏剧性瞬间。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "高速破碎咖啡杯：此提示词可生成一张陶瓷咖啡杯在咖啡馆地面上炸裂的超写实微距动作照片，适用于戏剧性的产品风格、动态捕捉或广告图像。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15778",
+      "14806",
+      "15419",
+      "15792",
+      "15105",
+      "15410"
+    ]
+  }
+}

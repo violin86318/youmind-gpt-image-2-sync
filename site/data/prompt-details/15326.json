@@ -1,0 +1,47 @@
+{
+  "id": "15326",
+  "prompt": "Create a bold Japanese YouTube thumbnail for the theme {argument name=\"headline text\" default=\"初心者でもできる AI×動画編集\"}, in a futuristic neon-blue cyberpunk style. Use a wide 16:9 composition with a dark electric-blue background filled with glowing circuit lines, digital streaks, lens flares, and high-energy motion. Place a slanted glowing banner in the upper left containing the Japanese text {argument name=\"top banner text\" default=\"初心者でもできる\"}, with the first part in bright yellow and the rest in white. Make the main headline dominate the left and center: gigantic white glowing text “AI×” above even larger white glowing text “動画編集”, with thick blue neon outer glow, slight italic forward motion, beveled 3D shading, and dramatic perspective. In the upper right, add a circular holographic interface with the letters {argument name=\"ai badge text\" default=\"AI\"} in the center, surrounded by concentric rings and tiny HUD marks. Near it, include exactly 3 floating app-style icons: a play button icon, a square “Pr” icon, and an audio waveform icon, all glowing blue. Across the lower right, show a sleek angled video editing monitor displaying a neon city night road scene with a play symbol overlay; beneath the preview, include a timeline with exactly 4 visible tracks: 2 rows of video thumbnails and 2 colored audio bars, one magenta and one cyan-green. Along the bottom, add exactly 3 glowing rounded feature badges with icons and Japanese text: a book icon with “知識ゼロOK”, a clock icon with “時短でカンタン”, and a sparkle icon with “プロ級の仕上がり”. Add a tall solid blue vertical rectangle near the top center-right as a placeholder block. Overall design should feel dynamic, high-contrast, polished, techy, and optimized for maximum click-through as a modern AI and video-editing tutorial thumbnail.",
+  "translatedPrompt": "制作一张大胆的日式 YouTube 缩略图，主题为 {argument name=\"headline text\" default=\"初心者でもできる AI×動画編集\"}，采用未来感霓虹蓝赛博朋克风格。使用 16:9 宽屏构图，背景为深电蓝色，布满发光的电路线条、数字条纹、镜头光晕和高能量的动态效果。在左上角放置一个倾斜的发光横幅，包含日文文本 {argument name=\"top banner text\" default=\"初心者でもできる\"}，其中第一部分为亮黄色，其余部分为白色。主标题应占据左侧和中心位置：巨大的白色发光文字“AI×”位于更大的白色发光文字“動画編集”上方，带有厚实的蓝色霓虹外发光、轻微的前倾斜动态感、斜面 3D 阴影和强烈的透视效果。在右上角，添加一个圆形全息界面，中心带有字母 {argument name=\"ai badge text\" default=\"AI\"}，周围环绕着同心圆和微小的 HUD 标记。在其附近，包含 3 个浮动的应用风格图标：一个播放按钮图标、一个方形“Pr”图标和一个音频波形图标，全部呈现蓝色发光效果。在右下角，展示一个时尚的倾斜视频剪辑监视器，显示霓虹城市夜景道路场景，并覆盖有播放符号；在预览下方，包含一个时间轴，显示 4 个可见轨道：2 行视频缩略图和 2 条彩色音频条，分别为洋红色和青绿色。在底部，添加 3 个发光的圆形功能徽章，带有图标和日文文本：带有“知識ゼロOK”的书本图标、带有“時短でカンタン”的时钟图标以及带有“プロ級の仕上がり”的闪光图标。在顶部中心偏右处添加一个高大的纯蓝色垂直矩形作为占位块。整体设计应具有动态感、高对比度、精致感和科技感，并针对现代 AI 和视频剪辑教程缩略图的最高点击率进行了优化。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "霓虹蓝 AI 视频剪辑缩略图：一款极具冲击力的未来感日式 YouTube 缩略图，专为 AI 驱动的视频剪辑教程设计，非常适合面向初学者的科技与创作者内容。",
+      "subject": "界面",
+      "scene": "图标/贴纸",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "3d"
+      ],
+      "lightingCamera": [
+        "neon",
+        "lens"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "图标包、贴纸、表情、产品功能图标",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 图标/贴纸 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: 3d]。\n\nLighting and camera:\n[参考光线镜头: neon, lens]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14664",
+      "14442",
+      "14559",
+      "15059",
+      "14517",
+      "14196"
+    ]
+  }
+}

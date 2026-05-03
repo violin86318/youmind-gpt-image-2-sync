@@ -1,0 +1,48 @@
+{
+  "id": "14560",
+  "prompt": "A highly realistic smartphone app screenshot mockup of a social media interface almost identical to X/Twitter, shown on an iPhone-style full-screen display with rounded corners against a dark blue-black background. The status bar at the top shows the time 9:41 on the left and cellular, Wi‑Fi, and battery icons on the right. The screen displays a French-language profile page for {argument name=\"profile name\" default=\"Marie Dubois\"}, with a large cover photo of the Eiffel Tower and the Seine at sunset under a dramatic orange-blue sky. A circular profile photo overlaps the lower-left of the header, partially obscuring the face. A back arrow button appears in a dark translucent circle at top left, and a three-dot menu button in a matching circle at top right. Below the header, show the verified profile name {argument name=\"profile name\" default=\"Marie Dubois\"} with a blue verification badge, the handle {argument name=\"handle\" default=\"@MarieDubois\"}, a short bio in French reading \"Journaliste | Paris\" on one line and \"✨ Curieuse & voyageuse\" on the next, then \"Rejoint en mai 2012\" beneath. Show follower stats in French: \"1 245 Abonnements\" and \"32,8 k Abonnés\". Add a tab bar with exactly 4 tabs labeled \"Publications\", \"Réponses\", \"Médias\", and \"J'aime\", with \"Publications\" selected and underlined in blue. In the feed, include exactly 3 visible posts. Post 1 is by {argument name=\"profile name\" default=\"Marie Dubois\"} with blue verified badge and the French caption {argument name=\"post caption\" default=\"Balade matinale le long des quais de la Seine ☀️ #Paris #Promenade\"}, followed by a 4-image collage in one row: 1) Eiffel Tower by the river at golden hour, 2) a Paris riverside walkway with a bridge and autumn trees, 3) a cozy terrace café with Eiffel Tower view, 4) a coffee cup beside an open notebook overlooking water. Below it, show engagement icons and counts: reply 258, repost 642, like 3,1 k. Post 2 is from verified news account \"Le Monde\" with handle \"@LeMonde\", black circular avatar with white monogram, and French text: \"Dernières infos : Le nouveau gouvernement français a été annoncé 📰 Tous les details ici ↓\" followed by a blue link \"lemonde.fr/article123\"; below it show counts 187, 512, and 2,7 k. Post 3 is from \"Thomas Lefevre\" with handle \"@Thomas_Lf\" and text \"Juste incroyable ! 😍 Le Mont-Saint-Michel vu du ciel 📷\", followed by a wide aerial photo of Mont-Saint-Michel. At the bottom, include an iOS-style navigation bar with exactly 5 elements: home icon, search icon, notifications bell with a red badge showing 4, messages envelope with a red badge showing 4, and a large floating blue compose button with a white quill/feather icon. Add the thin black iPhone home indicator centered at the very bottom. Use crisp modern UI typography, subtle gray dividers, realistic spacing, authentic X-like iconography, polished mobile app rendering, and near-photographic screenshot realism.",
+  "translatedPrompt": "一张高度逼真的智能手机 App 截图模型，展示了几乎与 X/Twitter 一致的社交媒体界面，呈现于带有圆角的 iPhone 风格全屏显示器上，背景为深蓝黑色。顶部状态栏左侧显示时间 9:41，右侧显示蜂窝网络、Wi‑Fi 和电池图标。屏幕显示 {argument name=\"profile name\" default=\"Marie Dubois\"} 的法文个人资料页面，顶部为一张埃菲尔铁塔与塞纳河在日落时分、橙蓝色戏剧性天空下的巨幅封面图。圆形头像覆盖在页眉左下方，部分遮挡了面部。左上角有一个深色半透明圆形返回箭头按钮，右上角有一个匹配的圆形三点菜单按钮。页眉下方显示带有蓝色认证徽章的个人资料名称 {argument name=\"profile name\" default=\"Marie Dubois\"}，账号 {argument name=\"handle\" default=\"@MarieDubois\"}，以及法文简介：第一行显示“Journaliste | Paris”，第二行显示“✨ Curieuse & voyageuse”，下方显示“Rejoint en mai 2012”。以法文显示关注者统计数据：“1 245 Abonnements”和“32,8 k Abonnés”。添加一个包含 4 个标签的选项卡栏，标签分别为“Publications”、“Réponses”、“Médias”和“J'aime”，其中“Publications”处于选中状态并带有蓝色下划线。在信息流中，包含 3 条可见帖子。第 1 条帖子由 {argument name=\"profile name\" default=\"Marie Dubois\"} 发布，带有蓝色认证徽章和法文标题 {argument name=\"post caption\" default=\"Balade matinale le long des quais de la Seine ☀️ #Paris #Promenade\"}，后接一行 4 张图片的拼贴：1) 黄金时刻河畔的埃菲尔铁塔，2) 带有桥梁和秋叶的巴黎河畔步道，3) 可俯瞰埃菲尔铁塔的舒适露台咖啡馆，4) 水边打开的笔记本旁的一杯咖啡。下方显示互动图标及计数：回复 258，转发 642，点赞 3,1 k。第 2 条帖子来自认证新闻账号“Le Monde”，账号为“@LeMonde”，头像为白色字母的黑色圆形图标，法文内容为：“Dernières infos : Le nouveau gouvernement français a été annoncé 📰 Tous les details ici ↓”，后接蓝色链接“lemonde.fr/article123”；下方显示计数 187、512 和 2,7 k。第 3 条帖子来自“Thomas Lefevre”，账号为“@Thomas_Lf”，内容为“Juste incroyable ! 😍 Le Mont-Saint-Michel vu du ciel 📷”，后接一张圣米歇尔山的宽幅航拍照片。底部包含一个 iOS 风格的导航栏，共有 5 个元素：主页图标、搜索图标、带有红色数字 4 标记的通知铃铛、带有红色数字 4 标记的消息信封，以及一个带有白色羽毛笔图标的大型蓝色悬浮发布按钮。在最底部居中添加细长的黑色 iPhone 主屏幕指示条。使用清晰的现代 UI 排版、微妙的灰色分割线、逼真的间距、地道的 X 风格图标、精美的移动端 App 渲染效果，以及近乎摄影级的截图真实感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "逼真的 X 风格法文个人资料界面：此提示词可生成高度逼真的法文版 iPhone 风格社交媒体个人资料及信息流界面，适用于 UI 原型设计、产品演示或 AI 生成的 App 截图对比。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [
+        "golden hour"
+      ],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "App Store 截图、产品概念、移动工具界面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[参考光线镜头: golden hour]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14892",
+      "14661",
+      "14480",
+      "14542",
+      "14540",
+      "15427"
+    ]
+  }
+}

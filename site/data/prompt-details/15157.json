@@ -1,0 +1,36 @@
+{
+  "id": "15157",
+  "prompt": "iPhone candid shot, the {argument name=\"speaker\" default=\"bride speaking on stage at a wedding\"}, with the {argument name=\"foreground subject\" default=\"father’s back visible as he sits at a banquet table below\"}.",
+  "translatedPrompt": "iPhone 风格抓拍，{argument name=\"speaker\" default=\"新娘在婚礼舞台上致辞\"}，前景为 {argument name=\"foreground subject\" default=\"坐在下方宴席桌旁的父亲背影\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "婚礼致辞抓拍照片：一个用于生成 iPhone 风格婚礼致辞抓拍照片的提示词，捕捉舞台上新娘的情感流露以及前景中父亲的身影。",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "App Store 截图、产品概念、移动工具界面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13583",
+      "13585",
+      "13645",
+      "13648",
+      "13708",
+      "13710"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "15158",
+  "prompt": "Create a cinematic commercial storyboard sheet.\\n\\nLAYOUT:\\n- Fixed 6-panel grid (2x3), evenly spaced\\n- Clean white or neutral background\\n- Each panel clearly separated, no UI, no clutter\\n\\nGLOBAL STYLE:\\n- Cinematic realism, high-end commercial look\\n- Soft controlled lighting, consistent across all panels\\n- No character or environment drift\\n\\nSTORY ARC (strict order):\\n1. Setup\\n2. Tension\\n3. Product reveal\\n4. Product interaction\\n5. Transformation (impact)\\n6. Clean closing shot\\n\\nSCENE CONCEPT:\\n{argument name=\"story concept\" default=\"A woman lives in a quiet apartment with a tense, unpredictable tiger. The tiger behaves like a domestic cat but carries constant danger. When she serves the product (cat food), the tiger visibly relaxes and transforms into a calm domestic house cat.\"}\\n\\nPANEL REQUIREMENTS (for EACH panel include):\\n- Cinematic frame (clear composition, subject readable)\\n- Shot / Action (focused on character + product when applicable)\\n- Camera (shot type, angle, movement)\\n\\nPRODUCT RULES:\\n- Product must be sharp, readable, and well-lit in panels 3, 4, 6\\n- No distortion, no redesign\\n- Packaging must remain consistent\\n\\nVISUAL PRIORITIES:\\n- Strong contrast between tension (tiger) and relief (cat)\\n- Clear readability in every frame\\n- No abstract or surreal distortion, grounded realism\\n\\nTEXT:\\n- Minimal, small, professional labels only (panel number + short shot note)\\n- No extra graphics",
+  "translatedPrompt": "创建一个电影级商业分镜表。\n\n布局：\n- 固定 6 格网格 (2x3)，间距均匀\n- 干净的白色或中性背景\n- 每个面板清晰分隔，无 UI，无杂乱元素\n\n全局风格：\n- 电影级写实感，高端商业视觉效果\n- 柔和且受控的灯光，在所有面板中保持一致\n- 角色或环境无偏移\n\n故事弧线（严格顺序）：\n1. 铺垫\n2. 紧张感\n3. 产品展示\n4. 产品互动\n5. 转变（影响）\n6. 简洁的收尾镜头\n\n场景概念：\n{argument name=\"story concept\" default=\"一位女性住在一个安静的公寓里，身边有一只紧张且难以预测的老虎。老虎表现得像家猫，但时刻带有危险气息。当她奉上产品（猫粮）时，老虎明显放松下来，并转变为一只平静的家猫。\"}\n\n面板要求（每个面板需包含）：\n- 电影级画面（构图清晰，主体易读）\n- 镜头 / 动作（聚焦于角色 + 产品，如适用）\n- 摄影（镜头类型、角度、运动）\n\n产品规则：\n- 产品在第 3、4、6 面板中必须清晰、易读且光照充足\n- 无畸变，无重新设计\n- 包装必须保持一致\n\n视觉优先级：\n- 紧张感（老虎）与放松感（猫）之间的强烈对比\n- 每一帧都具备清晰的易读性\n- 无抽象或超现实的扭曲，基于现实主义\n\n文字：\n- 极简，仅使用小型专业标签（面板编号 + 简短镜头备注）\n- 无额外图形",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "商业广告分镜布局：一个高度结构化的提示词，用于生成包含一致角色和叙事进程的六格商业分镜布局。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [
+        "grid"
+      ],
+      "style": [
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "要求可读；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[参考风格: cinematic]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n要求可读；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14693",
+      "15178",
+      "15365",
+      "13497",
+      "14616",
+      "14613"
+    ]
+  }
+}

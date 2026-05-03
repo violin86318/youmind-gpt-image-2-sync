@@ -1,0 +1,47 @@
+{
+  "id": "15035",
+  "prompt": "{\"type\":\"anime character profile sheet web page\",\"style\":\"clean modern Japanese anime promotional character page, white and deep navy color scheme with thin technical UI lines and faint chemistry diagram motifs, crisp vector-like cel shading, polished studio website design\",\"brand\":{\"logo\":\"BLOCKBUST ART\",\"footer\":\"© BLOCKBUST ART STUDIO All Rights Reserved.\"},\"character\":{\"name_large\":\"{argument name=\\\"character name\\\" default=\\\"くすり\\\"}\",\"name_small\":\"叢雲（創薬ちゃん）\",\"cv\":\"CV：???\",\"appearance\":{\"gender_presentation\":\"young woman\",\"build\":\"tall, slim\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"very dark navy-black with vivid red streaks\\\"}\",\"style\":\"very long straight hair with blunt bangs and side locks, reaching below the knees\"},\"outfit\":{\"count\":8,\"pieces\":[\"white long lab coat with bold blue zigzag trim and flowing tails\",\"white collared shirt\",\"red necktie\",\"short black skirt\",\"black thigh-high stockings\",\"black high heels with red soles and red heels\",\"brown utility belt pouch with colorful medicine vials and tools\",\"three capsule-like test tubes clipped to the upper thigh\"]},\"props\":{\"count\":1,\"items\":[\"small laboratory vial or ampule with blue liquid held in one hand\"]},\"pose\":\"full-body standing pose, one arm extended toward the viewer with an open hand, the other hand holding the vial, confident and energetic stance\",\"expression\":\"determined, intelligent, straightforward\"},\"layout\":{\"sections\":[{\"title\":\"header navigation\",\"position\":\"top\",\"count\":9,\"labels\":[\"BLOCKBUST ART\",\"NEWS\",\"ON AIR\",\"STORY\",\"CHARACTER\",\"STAFF/CAST\",\"GOODS\",\"twitter icon\",\"youtube icon\",\"instagram icon\"]},{\"title\":\"main name block\",\"position\":\"upper left\",\"count\":4,\"labels\":[\"むらくも\",\"叢雲（創薬ちゃん）\",\"くすり\",\"CV：???\"]},{\"title\":\"profile\",\"position\":\"left middle\",\"count\":3,\"labels\":[\"身長 170.0 cm\",\"体重 51 kg\",\"スリーサイズ 86(E65)-58-85\"]},{\"title\":\"expression\",\"position\":\"lower middle\",\"count\":4,\"labels\":[\"front-facing neutral portrait\",\"slight smile portrait\",\"serious portrait\",\"side-looking portrait\"]},{\"title\":\"about\",\"position\":\"bottom left\",\"count\":1,\"labels\":[\"ABOUT\"]},{\"title\":\"keyword\",\"position\":\"bottom center-right\",\"count\":3,\"labels\":[\"#創薬\",\"#研究者\",\"#負けず嫌い\"]},{\"title\":\"footer\",\"position\":\"bottom\",\"count\":3,\"labels\":[\"BLOCKBUST ART\",\"© BLOCKBUST ART STUDIO All Rights Reserved.\",\"PAGE TOP\"]}],\"centerpiece\":\"large full-body character illustration occupying the right half of the page\",\"background\":\"mostly white page with large angular deep navy geometric panels on the right and bottom, faint molecular structure overlays, subtle gray infographic-like texture behind text blocks\"},\"text_blocks\":{\"bio\":\"{argument name=\\\"bio text\\\" default=\\\"天才的なひらめきと強い信念を持つ若き創薬科学者。人々の笑顔を守る『くすり』を創るため、日夜研究に明け暮れている。実直でまっすぐな性格だが、負けず嫌いな一面も。\\\"}\",\"about\":\"{argument name=\\\"about text\\\" default=\\\"幼い頃に病で苦しむ人を救ってくれた『くすり』に憧れ、創薬の道を志す。持ち前の探究心と行動力で、数々の難題に挑み続けている。\\\"}\"},\"composition\":\"portrait-oriented full-page character reference and promotional sheet with strong asymmetry, text-heavy left side and figure-heavy right side, premium anime franchise website aesthetic\"}",
+  "translatedPrompt": "{\"type\":\"动漫角色资料网页\",\"style\":\"简洁现代的日系动漫宣传角色页，采用白色与深海军蓝配色，搭配纤细的科技感 UI 线条和淡雅的化学结构图纹，清晰的矢量风格赛璐珞上色，精致的动画工作室官网设计\",\"brand\":{\"logo\":\"BLOCKBUST ART\",\"footer\":\"© BLOCKBUST ART STUDIO All Rights Reserved.\"},\"character\":{\"name_large\":\"{argument name=\\\"character name\\\" default=\\\"くすり\\\"}\",\"name_small\":\"丛云（创药酱）\",\"cv\":\"CV：???\",\"appearance\":{\"gender_presentation\":\"年轻女性\",\"build\":\"高挑、苗条\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"极深海军黑，带有鲜艳的红色挑染\\\"}\",\"style\":\"超长直发，齐刘海与鬓角，长度过膝\"},\"outfit\":{\"count\":8,\"pieces\":[\"白色长款实验服，带有醒目的蓝色锯齿状饰边和飘逸的衣摆\",\"白色翻领衬衫\",\"红色领带\",\"黑色短裙\",\"黑色过膝袜\",\"黑色高跟鞋，配红色鞋底和红色鞋跟\",\"棕色多功能腰包，装有彩色药瓶和工具\",\"三支胶囊状试管夹在左大腿上\"]},\"props\":{\"count\":1,\"items\":[\"单手持有一个装有蓝色液体的实验室小药瓶或安瓿瓶\"]},\"pose\":\"全身站立姿势，一只手臂向观众伸出，手掌张开，另一只手拿着药瓶，姿态自信且充满活力\",\"expression\":\"坚定、聪明、直率\"},\"layout\":{\"sections\":[{\"title\":\"页眉导航\",\"position\":\"顶部\",\"count\":9,\"labels\":[\"BLOCKBUST ART\",\"NEWS\",\"ON AIR\",\"STORY\",\"CHARACTER\",\"STAFF/CAST\",\"GOODS\",\"twitter 图标\",\"youtube 图标\",\"instagram 图标\"]},{\"title\":\"主名称块\",\"position\":\"左上\",\"count\":4,\"labels\":[\"むらくも\",\"丛云（创药酱）\",\"くすり\",\"CV：???\"]},{\"title\":\"个人资料\",\"position\":\"左中\",\"count\":3,\"labels\":[\"身高 170.0 cm\",\"体重 51 kg\",\"三围 86(E65)-58-85\"]},{\"title\":\"表情\",\"position\":\"左下中\",\"count\":4,\"labels\":[\"正面中性肖像\",\"轻微微笑肖像\",\"严肃肖像\",\"侧视肖像\"]},{\"title\":\"关于\",\"position\":\"左下\",\"count\":1,\"labels\":[\"ABOUT\"]},{\"title\":\"关键词\",\"position\":\"右下中\",\"count\":3,\"labels\":[\"#创药\",\"#研究者\",\"#不服输\"]},{\"title\":\"页脚\",\"position\":\"底部\",\"count\":3,\"labels\":[\"BLOCKBUST ART\",\"© BLOCKBUST ART STUDIO All Rights Reserved.\",\"PAGE TOP\"]}],\"centerpiece\":\"占据页面右侧的大型全身角色插画\",\"background\":\"页面主体为白色，右侧和底部配有大型深海军蓝几何面板，带有淡淡的分子结构叠加层，文本块后方有微妙的灰色信息图表质感\"},\"text_blocks\":{\"bio\":\"{argument name=\\\"bio text\\\" default=\\\"拥有天才般的灵感与坚定信念的年轻创药科学家。为了创造守护人们笑容的『药物』，日夜埋头于研究之中。性格诚实直率，但也有着不服输的一面。\\\"}\",\"about\":\"{argument name=\\\"about text\\\" default=\\\"憧憬着幼年时期曾拯救过病痛之人的『药物』，从而立志走上创药之路。凭借与生俱来的探究心与行动力，不断挑战着各种难题。\\\"}\"},\"composition\":\"纵向全页角色参考与宣传页，具有强烈的非对称性，左侧文本丰富，右侧人物突出，呈现出高级动漫系列官网的美学风格\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫角色资料网页设计模板：生成精美的动漫系列风格角色资料页，包含全身女主角插画、日文 UI 文本块、属性数据、表情展示以及品牌化网页布局元素。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "full-body",
+        "front-facing"
+      ],
+      "style": [
+        "anime",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body, front-facing]。\n\nVisual style:\n[参考风格: anime, premium, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14980",
+      "14607",
+      "14978",
+      "15338",
+      "15340",
+      "15732"
+    ]
+  }
+}

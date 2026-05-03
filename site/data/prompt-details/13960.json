@@ -1,0 +1,51 @@
+{
+  "id": "13960",
+  "prompt": "A striking black and white close-up portrait of a {argument name=\"subject description\" default=\"handsome young Asian man\"} with {argument name=\"hair style\" default=\"messy wet hair sticking to his forehead\"}. His face and neck are glistening, covered in highly detailed {argument name=\"skin texture detail\" default=\"water droplets and sweat\"}. He has an intense, melancholic gaze directed off-camera to the left. The lighting is dramatic and high-contrast, emphasizing his sharp jawline, full lips, and specular highlights on the wet skin against a {argument name=\"background\" default=\"pitch-black background\"}. Shot in a photorealistic, high-fashion editorial style with cinematic chiaroscuro.",
+  "translatedPrompt": "一张引人注目的黑白特写肖像，主角是 {argument name=\"subject description\" default=\"一位英俊的年轻亚洲男性\"}，留着 {argument name=\"hair style\" default=\"凌乱且贴在额头上的湿发\"}。他的脸部和颈部闪烁着光泽，布满了高度精细的 {argument name=\"skin texture detail\" default=\"水珠和汗水\"}。他眼神深邃忧郁，凝视着镜头左侧。光影效果戏剧且对比强烈，突显了他棱角分明的下颌线、丰满的嘴唇以及湿润皮肤上在 {argument name=\"background\" default=\"纯黑背景\"} 衬托下的高光细节。采用写实的高级时尚编辑风格拍摄，呈现出电影般的明暗对照效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "戏剧性湿发肖像摄影：生成一张高度逼真、高对比度的黑白肖像，强调湿润的皮肤质感和戏剧性的光影效果。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "editorial"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, editorial]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14568",
+      "14059",
+      "13961",
+      "14732",
+      "15237",
+      "15706"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "15173",
+  "prompt": "A highly detailed realistic photo of the back side of a {argument name=\"origin\" default=\"Pakistani\"} decorated truck on a highway road in daylight. The truck is painted in {argument name=\"primary color\" default=\"bright turquoise blue\"} with traditional Pakistani truck art floral borders in orange, yellow, and red. On the back panel there is a large hand-painted portrait of a man with long wavy hair and glasses, painted in a realistic illustration style. Above the portrait, bold 3D truck-art text reads “{argument name=\"main text\" default=\"TU JA RE...\"}” in white and orange. Below the portrait, small boxed text reads “SIDE SE JA RE”. The truck has yellow license plates that say “JAMAILA” on both sides. The background shows an empty road with electric poles and a blurred rural landscape. Cinematic composition, centered truck rear view, ultra sharp, vibrant colors, 4K, realistic truck art style, professional photography lighting.",
+  "translatedPrompt": "一张高度精细且逼真的照片，展示了在日光下行驶于高速公路上的 {argument name=\"origin\" default=\"巴基斯坦\"} 装饰卡车车尾。卡车漆面为 {argument name=\"primary color\" default=\"明亮的绿松石蓝\"}，并配有橙色、黄色和红色的传统巴基斯坦卡车艺术花卉边框。在后挡板上，有一幅采用写实插画风格绘制的留长波浪发、戴眼镜男子的巨幅手绘肖像。肖像上方，醒目的 3D 卡车艺术字体以白色和橙色写着 “{argument name=\"main text\" default=\"TU JA RE...\"}”。肖像下方，小方框内的文字写着 “SIDE SE JA RE”。卡车挂着黄色车牌，两侧均写有 “JAMAILA”。背景展示了一条空旷的道路，配有电线杆和模糊的乡村景观。电影级构图，居中的卡车后视图，超清晰，色彩鲜艳，4K 分辨率，逼真的卡车艺术风格，专业摄影布光。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "巴基斯坦卡车艺术肖像：生成一张高度逼真的巴基斯坦装饰卡车车尾照片，特色在于定制的手绘肖像和传统的鲜艳花卉边框。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "3d"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic, cinematic, 3d]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14538",
+      "14568",
+      "14578",
+      "14901",
+      "15064",
+      "15533"
+    ]
+  }
+}

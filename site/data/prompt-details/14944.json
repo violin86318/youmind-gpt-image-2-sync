@@ -1,0 +1,50 @@
+{
+  "id": "14944",
+  "prompt": "{\"type\":\"fashion reference sheet\",\"subject\":{\"garment\":\"children's fantasy hooded dress and cape ensemble\",\"model\":{\"age_appearance\":\"young girl\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"golden blonde\\\"}\",\"style\":\"long loose ringlets visible beneath the hood\"},\"face\":\"intentionally blurred and indistinct\",\"pose\":\"standing straight with arms hidden under the cape, barefoot\"},\"outfit\":{\"primary_color\":\"{argument name=\\\"outfit color\\\" default=\\\"deep navy blue\\\"}\",\"inner_dress\":\"floor-length dress with a square neckline, pale decorative trim, silver embroidery with floral vines and small stars on the front panel, asymmetrical embroidered hem detail, and a soft gray-blue tulle underskirt peeking out at the bottom\",\"cape\":\"full-length hooded cape in matching navy with pale patterned trim running along the hood edge, front opening, side vertical borders, and hem\",\"decorations\":{\"count\":5,\"items\":[\"silver floral vine embroidery\",\"small star motifs\",\"draped chain-like beaded garlands across the chest and back\",\"2 white tassels hanging at the upper front and upper back\",\"ornamental trim in a pale silver-white geometric lace pattern\"]},\"accessories\":{\"count\":1,\"items\":[\"dark choker necklace\"]}},\"studio\":{\"background\":\"plain light gray studio wall\",\"floor\":\"medium-toned wooden floor\",\"lighting\":\"soft even catalog lighting\",\"framing\":\"full body, centered, consistent scale across all views\"},\"layout\":{\"background\":\"white page with three vertical image panels\",\"sections\":[{\"title\":\"正面図\",\"position\":\"left\",\"count\":1,\"labels\":[\"front view\"]},{\"title\":\"側面図\",\"position\":\"center\",\"count\":1,\"labels\":[\"side view\"]},{\"title\":\"背面図\",\"position\":\"right\",\"count\":1,\"labels\":[\"back view\"]}],\"total_views\":3},\"style\":\"clean apparel documentation photo, ecommerce costume specification sheet, high detail fabric texture, realistic folds, accurate garment construction, symmetrical presentation\",\"instructions\":\"Create a three-view clothing reference sheet of {argument name=\\\"garment name\\\" default=\\\"a navy fantasy hooded dress for a child\\\"}, showing front, side, and back views. Include the Japanese headings 正面図, 側面図, and 背面図 above the three panels. Emphasize the large pointed hood, silver-white trim, embroidered celestial and floral motifs, draped chain details, tassels, and layered tulle hem. Keep the face blurred, the background minimal, and the overall look like a professional costume catalog image.\"}",
+  "translatedPrompt": "{\"type\":\"服装参考图\",\"subject\":{\"garment\":\"儿童奇幻连帽礼服与斗篷套装\",\"model\":{\"age_appearance\":\"小女孩\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"金黄色\\\"}\",\"style\":\"长卷发，从兜帽下露出\"},\"face\":\"刻意模糊，不清晰\",\"pose\":\"直立，双臂藏在斗篷下，赤脚\"},\"outfit\":{\"primary_color\":\"{argument name=\\\"outfit color\\\" default=\\\"深海军蓝\\\"}\",\"inner_dress\":\"及地长裙，方领，浅色装饰边，前襟饰有花藤与小星星图案的银色刺绣，不对称刺绣下摆细节，底部露出浅灰蓝色薄纱衬裙\",\"cape\":\"全长连帽斗篷，颜色与礼服相配，兜帽边缘、前开口、侧面垂直边框及下摆饰有浅色花纹边饰\",\"decorations\":{\"count\":5,\"items\":[\"银色花藤刺绣\",\"小星星图案\",\"胸前与背部垂坠的链状串珠花环\",\"前后上方各悬挂 2 个白色流苏\",\"浅银白色几何蕾丝装饰边\"]},\"accessories\":{\"count\":1,\"items\":[\"深色颈圈项链\"]}},\"studio\":{\"background\":\"纯浅灰色摄影棚背景墙\",\"floor\":\"中色调木地板\",\"lighting\":\"柔和均匀的目录摄影灯光\",\"framing\":\"全身，居中，所有视图比例一致\"},\"layout\":{\"background\":\"白色页面，包含三个垂直图像面板\",\"sections\":[{\"title\":\"正面図\",\"position\":\"左\",\"count\":1,\"labels\":[\"正面视图\"]},{\"title\":\"側面図\",\"position\":\"中\",\"count\":1,\"labels\":[\"侧面视图\"]},{\"title\":\"背面図\",\"position\":\"右\",\"count\":1,\"labels\":[\"背面视图\"]}],\"total_views\":3},\"style\":\"简洁的服装文档照片，电商服装规格表，高细节面料纹理，逼真的褶皱，准确的服装结构，对称展示\",\"instructions\":\"创建一个三视图服装参考图，展示 {argument name=\\\"garment name\\\" default=\\\"儿童海军蓝奇幻连帽礼服\\\"}，包含正面、侧面和背面视图。在三个面板上方添加日语标题 正面図、側面図 和 背面図。强调大尖兜帽、银白色饰边、刺绣天体与花卉图案、垂坠链条细节、流苏以及层叠的薄纱下摆。保持面部模糊，背景简洁，整体呈现专业服装目录图像的风格。\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "三视图连帽奇幻礼服参考图：此提示词可生成一张摄影棚风格的三视图服装参考图，展示一名身着华丽连帽奇幻礼服的儿童，适用于服装设计展示或目录文档。",
+      "subject": "服饰",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "fantasy",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, layered, vertical]。\n\nVisual style:\n[参考风格: realistic, fantasy, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15014",
+      "15041",
+      "15091",
+      "15364",
+      "15446",
+      "15701"
+    ]
+  }
+}

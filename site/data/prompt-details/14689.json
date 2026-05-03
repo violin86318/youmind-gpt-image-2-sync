@@ -1,0 +1,45 @@
+{
+  "id": "14689",
+  "prompt": "Create a bright pastel anime promotional poster for a fictional slice-of-life comedy series. The composition is a single-page Japanese key visual with one central heroine surrounded by 5 inset moments and blocks of Japanese promotional text, like an anime announcement poster. The main character is {argument name=\"character name\" default=\"もち子さん\"}, a cute anime girl with short white hair fading slightly to silver, large vivid blue eyes, soft blush, and twin low ponytails tied near the shoulders. She wears an oversized black hood shaped like floppy dog ears, round silver goggles resting on top of her head, a black choker with a metallic round ornament, a futuristic white-and-black cropped sleeveless top with dark trim and a small emblem on the chest, detached black arm sleeves, very short white shorts with black edging, a thigh strap on one leg, and a small side pouch on her hip. Her body proportions are youthful anime stylization with a slim, petite build and slightly exaggerated chest, rendered in polished modern moe character design. In the center she stands full body, smiling gently and holding a pen in one hand as if she is about to make a mistake while writing, facing the viewer in a confident but sweet pose. Around her place 5 supporting vignette images of the same character: 1) upper left, a chibi-style scene of her outside with both hands thrown forward, crying dramatically with a huge open mouth; 2) lower left, a comic scene of her collapsed face-down on a desk or floor with scattered papers, exhausted and flustered; 3) upper right, a bust shot where she holds up a paper sign with Japanese writing, looking apologetic; 4) lower right, a cheerful half-body portrait with closed smiling eyes and one fist raised in encouragement; 5) a small background portrait in the top-right area behind text, used like a character callout. Include exactly 2 small white mascot creatures near the bottom center, both round and mochi-like with tiny dot eyes and tiny mouths, one larger and one smaller, floating or standing beside the heroine. Use a soft spring palette with pink, sky blue, mint green, peach, cream, and white, with scattered cherry blossom petals and rounded graphic shapes in the background. The background should feel airy and celebratory, with subtle outdoor scenery blur and decorative swooshes, stars, and bubbles. Fill the poster with Japanese typography in a playful commercial-anime style: a large multicolored title at top left, small header text above it, a red seasonal broadcast announcement, a pink \"あらすじ\" synopsis box on the left with several lines of body text, a blue explanatory box at bottom left, vertical and angled exclamatory phrases around the character, and a pink production-credit block at bottom right. Add a prominent character name banner in the upper right. Keep all text looking like authentic printed Japanese promotional copy, using rounded colorful fonts for the title and clean magazine-style fonts for the smaller text. Overall mood: adorable, comedic, slightly chaotic, professionally designed anime key art for a new TV series announcement in 16:9 landscape format.",
+  "translatedPrompt": "创作一张明亮柔和色调的动漫宣传海报，用于一部虚构的日常喜剧系列。构图为单页日本动画主视觉图，中心为一位女主角，周围环绕 5 个插图瞬间和日文宣传文字块，呈现出动漫宣传海报的风格。主角是 {argument name=\"character name\" default=\"もち子さん\"}，一位可爱的动漫少女，留着发梢渐变为银色的短白发，拥有明亮的大蓝眼睛、柔和的腮红，以及系在肩部附近的低双马尾。她戴着一个形状像垂耳狗的超大黑色兜帽，头顶架着一副圆形银色护目镜，脖子上戴着带有金属圆饰的黑色项圈，身穿一件未来感十足的黑白配色露肩短上衣，胸前饰有小徽章，配有分离式黑色袖套、带黑色镶边的超短白短裤、单腿腿带，以及腰间的一个小侧包。她的身体比例采用年轻化的动漫风格，身材纤细娇小，胸部略微夸张，呈现出精致的现代萌系角色设计。她全身立于画面中央，面带温柔微笑，一只手拿着笔，仿佛正准备在书写时犯错，以自信而甜美的姿态面向观众。在她周围放置 5 个相同角色的辅助小插图：1) 左上角，Q 版风格场景，她身处户外，双手向前伸出，张大嘴巴戏剧性地大哭；2) 左下角，喜剧场景，她因疲惫和慌乱而脸朝下趴在桌子或地板上，周围散落着纸张；3) 右上角，半身像，她举着一张写有日文的纸牌，表情歉意；4) 右下角，欢快的半身肖像，闭眼微笑，一只拳头举起以示鼓励；5) 右上角文字后方的一个小型背景肖像，用作角色标注。在底部中心附近包含 2 个白色小吉祥物生物，它们圆润如麻薯，有着小圆点眼睛和小嘴巴，一大一小，漂浮或站在女主角身边。使用柔和的春季色调，包括粉色、天蓝色、薄荷绿、桃色、奶油色和白色，背景中散落着樱花花瓣和圆润的图形形状。背景应营造出轻盈和庆典的氛围，带有微妙的户外风景模糊以及装饰性的弧线、星星和气泡。海报中填满俏皮商业动漫风格的日文排版：左上角有一个巨大的多色标题，上方有小标题文字，一个红色的季节性播出公告，左侧有一个粉色的“あらすじ”（剧情简介）方框，内含多行正文，左下角有一个蓝色说明框，角色周围环绕着垂直和倾斜的感叹短语，右下角有一个粉色的制作人员名单块。在右上角添加一个醒目的角色名称横幅。所有文字应看起来像地道的印刷版日本宣传文案，标题使用圆润多彩的字体，较小的文字使用简洁的杂志风格字体。整体氛围：可爱、喜剧、略带混乱，专业设计的动漫主视觉图，适用于 16:9 横屏格式的新番动画宣传。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "柔和色调动漫宣传海报：一张色彩斑斓的日本动漫宣传海报，主角是一位白发吉祥物少女，画面包含多个喜剧插图场景，非常适合重现电视动画系列的主视觉图或恶搞宣传艺术。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "callout",
+        "vertical"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: callout, vertical]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14212",
+      "14904",
+      "14911",
+      "14915",
+      "15404",
+      "14460"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "15301",
+  "prompt": "A vintage hand-drawn Chinese infographic on textured off-white paper with torn deckled edges, printed in a limited two-ink palette of deep purple and bright cyan accents, with halftone shading and poster-like comic line art. The composition compares intuitive manual cooking versus tool-assisted cooking and externalized cognition. On the left, a large adult cook in an apron is dramatically stir-frying in a wok with flames, flying ingredients, smoke swirls, and energetic motion lines; the cook’s face is obscured by a rectangular blur block. Above the head is a glowing brain-like thought bubble containing 3 small icons: a seasoning bottle, a flame, and a timer/clock, with rays radiating outward. At the lower left, a broken chain hangs beside large bold Chinese text reading “全凭手感”. Below the cook, a smaller confused person mixing in a bowl looks worried, surrounded by exactly 4 question marks. In the center, multiple thick arrows point from the cook’s intuition toward a structured cooking workflow. At upper center is large Chinese text “照着做”. Beneath it, a hand holds a smartphone recipe screen showing visible Chinese text including “5克盐” and “中火3分钟”, with a finger tapping the screen. Around the phone are measured cooking tools and ingredients: 2 measuring spoons, 1 measuring cup, 1 digital scale, and 6 small bowls arranged neatly, plus a pot on a stove with steam rising and a finished plated dish nearby. Near the plated dish is Chinese text “七八分” and a 5-star rating row with exactly 4 filled stars and 1 empty star. On the right, show a concept map of externalized cognition around a simple smiling stick-figure cook standing behind a table of food. The node network is connected with cyan lines and includes exactly 6 tool/info nodes: a smart oven at the top, 2 seasoning packets labeled “调料包” and “榨酱包”, 1 clipboard labeled “精准配方”, 1 blender, 1 rice cooker, and 1 recipe note sheet. Centered in this network is large Chinese text “认知外化”. The table in front of the figure holds exactly 5 dishes/bowls/plates of prepared food. Along the bottom is a simplified cognition equation: a large brain icon, then an arrow to a smaller brain icon, then a cluster of external tools/documents including a phone screen, a microwave-like appliance, and 3 paper/manual items, then an equals sign, then a muscular human silhouette with gears inside the torso and an upward arrow near the shoulder. Beneath or beside this equation is bold Chinese text “脑 + 外部工具 = 更强能力”, with the first “脑” also shown separately under the left brain icon. Use expressive sketched arrows, doodle lightning bolts, comic emphasis marks, and a balanced left-to-right flow that visually communicates the transition from pure instinct to repeatable systems and augmented ability.",
+  "translatedPrompt": "一张复古手绘风格的中式信息图，印在带有撕边效果的米白色纹理纸上，采用深紫色和亮青色双色调印刷，结合了半色调阴影和海报般的漫画线条。画面对比了直觉式手工烹饪与工具辅助烹饪及认知外化。左侧，一位穿着围裙的成年厨师正在锅中进行夸张的翻炒，伴有火焰、飞溅的食材、烟雾旋涡和充满活力的运动线条；厨师的面部被一个矩形模糊块遮挡。头顶上方是一个发光的脑状思维气泡，内含 3 个小图标：调料瓶、火焰和计时器/时钟，并向外放射光芒。左下角，一条断裂的锁链悬挂在醒目的中文大字“全凭手感”旁。厨师下方，一个小人正困惑地搅拌着碗，神情焦虑，周围环绕着正好 4 个问号。画面中央，多支粗箭头从厨师的直觉指向结构化的烹饪工作流。上方中央是醒目的中文大字“照着做”。下方，一只手拿着智能手机，屏幕上显示着清晰的中文文本，包括“5 克盐”和“中火 3 分钟”，手指正在点击屏幕。手机周围摆放着量具和食材：2 把量勺、1 个量杯、1 台电子秤和 6 个整齐排列的小碗，旁边是一个冒着蒸汽的锅和一道成品菜肴。成品菜肴旁有中文文本“七八分”以及一行 5 星评分，其中 4 颗星为实心，1 颗星为空心。右侧展示了一个认知外化的概念图，一位微笑的火柴人厨师站在餐桌后。节点网络由青色线条连接，包含正好 6 个工具/信息节点：顶部的智能烤箱、2 包分别标注为“调料包”和“榨酱包”的调料、1 个标注为“精准配方”的剪贴板、1 台搅拌机、1 台电饭煲和 1 张食谱笔记。网络中心是醒目的中文大字“认知外化”。火柴人面前的桌子上摆放着正好 5 盘/碗准备好的食物。底部是一个简化的认知公式：一个大脑图标，指向一个较小的大脑图标，接着是一组外部工具/文档（包括手机屏幕、类似微波炉的设备和 3 件纸质/手册类物品），然后是一个等号，最后是一个躯干内带有齿轮的肌肉发达的人类剪影，肩部附近有一个向上箭头。在此公式下方或旁边是粗体中文文本“脑 + 外部工具 = 更强能力”，第一个“脑”字也单独显示在左侧大脑图标下方。使用富有表现力的草图箭头、涂鸦闪电、漫画强调符号，以及平衡的从左到右的流程，直观地传达从纯粹直觉到可重复系统及增强能力的转变。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "中式烹饪认知信息图：一张复古漫画风格的中式信息图，展示了从凭直觉烹饪到基于食谱、工具辅助烹饪的转变，适用于关于 AI、工作流和认知外化的文章或社交媒体帖子。",
+      "subject": "界面",
+      "scene": "插画/漫画",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "vintage",
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "动漫分镜、战斗场景、运动瞬间、夸张叙事图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 插画/漫画 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: vintage, hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13538",
+      "15800",
+      "14432",
+      "15295",
+      "14270",
+      "14528"
+    ]
+  }
+}

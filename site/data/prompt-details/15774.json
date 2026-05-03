@@ -1,0 +1,52 @@
+{
+  "id": "15774",
+  "prompt": "{\"type\":\"split-screen ecommerce advertisement poster\",\"style\":\"clean modern product ad, minimalist studio photography, social-media square format\",\"language\":\"Spanish\",\"format\":\"1:1 vertical split composition\",\"background\":{\"left\":\"soft gray monochrome interior with sheer curtains and muted tabletop\",\"right\":\"bright warm neutral interior with soft natural light, blurred plant in background, light tabletop\"},\"layout\":{\"sections\":[{\"title\":\"ANTES\",\"position\":\"top-left\",\"count\":3,\"labels\":[\"No encuentras lo que buscas\",\"Todo mezclado\",\"Bolso incómodo\"]},{\"title\":\"DESPUÉS\",\"position\":\"top-right\",\"count\":3,\"labels\":[\"Todo organizado y al alcance\",\"Diseño funcional\",\"Cómodo, práctico y listo para ti\"]}],\"center_divider\":\"vertical split down the middle\",\"inset_count\":1},\"branding\":{\"watermark\":\"Pollo.ai\",\"position\":\"top-right corner\",\"color\":\"white\"},\"left_panel\":{\"headline\":\"ANTES\",\"headline_color\":\"black\",\"subheadline\":\"Caos y desorden\",\"image\":\"open dark gray leather handbag shown from above on a table, messy interior with tangled white earphones, a phone, cosmetic tube, glasses case, and small personal items spilling together, desaturated grayscale look\",\"icon_list_style\":\"three red circular icons with white X marks next to each complaint\",\"mood\":\"cluttered, inconvenient, disorganized\"},\"right_panel\":{\"headline\":\"DESPUÉS\",\"headline_color\":\"{argument name=\\\"accent color\\\" default=\\\"orange\\\"}\",\"subheadline\":\"Todo en su lugar, siempre lista\",\"image\":\"structured tote bag in {argument name=\\\"bag color\\\" default=\\\"mustard yellow\\\"} with black handles, black trim, and black drawstring-like front details, photographed upright in a polished studio lifestyle setting, neat and premium appearance\",\"bag_details\":\"the front of the bag has vertical black text reading 'think' on one side and 'different' on the other side\",\"icon_list_style\":\"three green circular icons with white check marks next to each benefit\",\"mood\":\"organized, stylish, practical\"},\"inset\":{\"position\":\"bottom center overlapping both panels\",\"shape\":\"circular cutout\",\"image\":\"top-down view inside the organized yellow tote, showing tidy compartments with wallet, lipstick, keys, small bottle, and accessories neatly separated\"},\"text\":{\"left_bullets\":[{\"icon\":\"red X\",\"title\":\"No encuentras lo que buscas\",\"subtitle\":\"lo que buscas\"},{\"icon\":\"red X\",\"title\":\"Todo mezclado\",\"subtitle\":\"y sin organización\"},{\"icon\":\"red X\",\"title\":\"Bolso incómodo\",\"subtitle\":\"y poco práctico\"}],\"right_bullets\":[{\"icon\":\"green check\",\"title\":\"Todo organizado\",\"subtitle\":\"y al alcance\"},{\"icon\":\"green check\",\"title\":\"Diseño funcional\",\"subtitle\":\"y con estilo\"},{\"icon\":\"green check\",\"title\":\"Cómodo, práctico\",\"subtitle\":\"y listo para ti\"}]},\"product\":{\"category\":\"women's organizer tote handbag\",\"target_use\":\"ecommerce ad for product benefits comparison\",\"materials\":\"smooth leather or faux leather exterior, structured body, soft matte finish\",\"lighting\":\"soft diffused natural studio lighting, higher contrast on product, subtle shadows\",\"quality\":\"high-end commercial photography, crisp details, realistic textures\"}}",
+  "translatedPrompt": "{\"type\":\"分屏电商广告海报\",\"style\":\"简洁现代产品广告，极简主义摄影风格，社交媒体方形格式\",\"language\":\"西班牙语\",\"format\":\"1:1 垂直分屏构图\",\"background\":{\"left\":\"柔和的灰色单色室内背景，配有透明窗帘和柔和的桌面\",\"right\":\"明亮温暖的中性室内背景，自然光柔和，背景有模糊的植物，浅色桌面\"},\"layout\":{\"sections\":[{\"title\":\"使用前\",\"position\":\"左上\",\"count\":3,\"labels\":[\"找不到想要的东西\",\"杂乱无章\",\"包包不便携\"]},{\"title\":\"使用后\",\"position\":\"右上\",\"count\":3,\"labels\":[\"井井有条，触手可及\",\"功能性设计\",\"舒适、实用，随时出发\"]}],\"center_divider\":\"中间垂直分割\",\"inset_count\":1},\"branding\":{\"watermark\":\"Pollo.ai\",\"position\":\"右上角\",\"color\":\"白色\"},\"left_panel\":{\"headline\":\"使用前\",\"headline_color\":\"黑色\",\"subheadline\":\"混乱与无序\",\"image\":\"从上方俯视桌面上打开的深灰色皮包，内部杂乱，缠绕的白色耳机、手机、化妆品管、眼镜盒和各种小物件混在一起，呈现去饱和的灰度色调\",\"icon_list_style\":\"三个红色圆形图标，旁边带有白色 X 标记，对应每个痛点\",\"mood\":\"杂乱、不便、无序\"},\"right_panel\":{\"headline\":\"使用后\",\"headline_color\":\"{argument name=\\\"accent color\\\" default=\\\"orange\\\"}\",\"subheadline\":\"一切各就各位，随时准备就绪\",\"image\":\"结构化的托特包，颜色为 {argument name=\\\"bag color\\\" default=\\\"芥末黄\\\"}，配有黑色手柄、黑色饰边和黑色抽绳式前部细节，在精致的摄影棚生活方式场景中直立拍摄，外观整洁且高端\",\"bag_details\":\"包包正面有垂直的黑色文字，一侧写着 'think'，另一侧写着 'different'\",\"icon_list_style\":\"三个绿色圆形图标，旁边带有白色勾选标记，对应每个优点\",\"mood\":\"有序、时尚、实用\"},\"inset\":{\"position\":\"底部中心，覆盖两个面板\",\"shape\":\"圆形剪裁\",\"image\":\"从上方俯视整理后的黄色托特包内部，展示了整齐的隔层，钱包、口红、钥匙、小瓶子和配饰被井然有序地分开\"},\"text\":{\"left_bullets\":[{\"icon\":\"红色 X\",\"title\":\"找不到想要的东西\",\"subtitle\":\"找不到你需要的\"},{\"icon\":\"红色 X\",\"title\":\"杂乱无章\",\"subtitle\":\"缺乏组织\"},{\"icon\":\"红色 X\",\"title\":\"包包不便携\",\"subtitle\":\"且不实用\"}],\"right_bullets\":[{\"icon\":\"绿色勾选\",\"title\":\"井井有条\",\"subtitle\":\"触手可及\"},{\"icon\":\"绿色勾选\",\"title\":\"功能性设计\",\"subtitle\":\"兼具时尚感\"},{\"icon\":\"绿色勾选\",\"title\":\"舒适、实用\",\"subtitle\":\"随时为你准备\"}]},\"product\":{\"category\":\"女士收纳托特包\",\"target_use\":\"产品优势对比电商广告\",\"materials\":\"光滑皮革或人造皮革外层，结构化包身，柔和哑光质感\",\"lighting\":\"柔和的漫反射自然摄影棚光线，产品对比度较高，阴影细腻\",\"quality\":\"高端商业摄影，细节清晰，纹理真实\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "手提包使用前后对比广告：这是一张西班牙语电商分屏广告，对比了凌乱的手提包与整理后时尚托特包的效果，非常适合产品营销和在线商店推广。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [
+        "top-down",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "minimalist",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting",
+        "natural light"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: top-down, vertical]。\n\nVisual style:\n[参考风格: realistic, minimalist, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting, natural light]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15447",
+      "14878",
+      "15639",
+      "15600",
+      "15081",
+      "14889"
+    ]
+  }
+}

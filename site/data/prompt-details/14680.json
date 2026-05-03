@@ -1,0 +1,44 @@
+{
+  "id": "14680",
+  "prompt": "Create a clean Japanese corporate training banner in a wide horizontal web-header format with a white background and deep navy blue branding. The layout is a single unified promotional banner for an AI programming course. On the left, place a small headline in bold Japanese text reading \"AIを使いこなす開発者へ\" above a very large dominant title reading \"{argument name=\"main title\" default=\"ClaudeCode研修\"}\" in heavy sans-serif dark navy lettering, with \"ClaudeCode\" especially large and the final Japanese word attached on the right in the same style. Beneath the title, add a long horizontal blue gradient bar from medium blue to very light blue containing white bold Japanese text: \"{argument name=\"subheadline text\" default=\"AI時代の開発を、あなたの武器に。\"}\". Along the bottom left, arrange exactly 3 circular navy icon badges in a horizontal row, each with a short two-line caption in Japanese to the right of the icon. Badge 1 shows a code symbol </> and the text \"Claude Codeの 基本から実践まで\". Badge 2 shows a light bulb and the text \"業務効率を高める AI活用スキル\". Badge 3 shows an upward bar chart and the text \"すぐに使える 実践的な内容\". On the right half, place a confident Japanese businessman from the waist up with arms crossed, wearing a dark navy suit, white shirt, and blue striped tie, facing forward; his face is intentionally soft-focused or anonymized. Behind him, add layered geometric navy and blue diagonal shapes sweeping in from the top right and bottom right, plus a dark blue tech-themed panel with faint code lines and a glowing curly-braces symbol {}. Use a polished B2B seminar advertisement style, crisp typography, strong negative space, subtle gradients, high contrast, and a professional AI/engineering training atmosphere.",
+  "translatedPrompt": "创建一个简洁的日语企业培训横幅，采用宽横幅网页页眉格式，背景为白色，并配以深海军蓝品牌色。布局为一个统一的 AI 编程课程促销横幅。在左侧，放置一个醒目的粗体日语小标题“AI を使いこなす開発者へ”，其下方是一个非常醒目的大标题“{argument name=\"main title\" default=\"ClaudeCode 研修\"}”，采用粗体无衬线深海军蓝字体，其中“ClaudeCode”字号特别大，末尾的日语单词以相同风格紧随其后。在标题下方，添加一条从深蓝到浅蓝的水平渐变长条，内含白色粗体日语文字：“{argument name=\"subheadline text\" default=\"AI 时代的开发，成为你的利器。\"}”。在左下角，横向排列 3 个圆形海军蓝图标徽章，每个图标右侧配有简短的两行日语说明。徽章 1 显示代码符号 </>，文字为“Claude Code 的基本から実践まで”。徽章 2 显示灯泡图标，文字为“业务效率を高める AI 活用技能”。徽章 3 显示向上趋势图，文字为“すぐに使える実践的な内容”。在右半部分，放置一位自信的日本商务人士半身像，双臂交叉，身着深海军蓝西装、白衬衫和蓝条纹领带，面向前方；其面部经过柔焦或匿名化处理。在他身后，添加从右上角和右下角扫过的分层几何海军蓝与蓝色斜线形状，以及一个带有淡代码行和发光花括号 {} 的深蓝色科技主题面板。采用精致的 B2B 研讨会广告风格，排版清晰，留白充裕，运用微妙的渐变，对比度高，营造出专业的 AI/工程培训氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日语 AI 编程培训横幅：此提示词用于生成一张精致的横向日语企业横幅，旨在推广 AI 驱动的编程或开发者培训项目。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [
+        "layered",
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14496",
+      "14815",
+      "14498",
+      "14922",
+      "13907",
+      "14601"
+    ]
+  }
+}

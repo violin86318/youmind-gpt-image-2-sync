@@ -1,0 +1,47 @@
+{
+  "id": "15738",
+  "prompt": "A highly detailed concept illustration of a customized vintage step-through motorcycle inspired by a Honda Super Cub, shown in a clean studio-like three-quarter left side view on a plain light gray background. The bike has a rugged post-apocalyptic street-build aesthetic with a black, white, and muted gray color scheme accented by small pink stickers and decals. Emphasize heavy weathering: chipped paint, scratches, oil stains, grime, rust flecks, ink splatter, worn edges, and layered sticker residue across the entire body. The front has 1 square headlight with an X-shaped light pattern and 2 smaller stacked auxiliary lights beneath it. Use spoked wheels, thick all-terrain tires, visible front suspension, exposed mechanical detail, chain drive, and a sturdy center stand touching the ground. The leg shield and side panels are covered in graphic decals, Japanese-style warning labels, numbers, symbols, and distressed typography, including a bold large kanji mark on the front fairing. Add 2 hard side cargo boxes on the rear, one larger box on the far side and 1 nearer black box with extra stickers, plus 1 hanging vertical tag charm attached near the rear case. Include 1 long black ribbed seat, rear rack framing, exposed wiring, metal brackets, bolts, and compact utility accessories that make it feel hand-modified and functional. Render it like an industrial design sketch mixed with polished anime mech concept art: precise linework, watercolor wash shadows, soft gray ground shadow, high-detail mechanical realism, slightly messy inked edges, and a collectible custom-bike illustration feel.",
+  "translatedPrompt": "一张高度精细的概念插图，展示了一辆受 Honda Super Cub 启发、经过深度改装的复古弯梁摩托车，采用干净的摄影棚风格，呈现左侧 4/3 视角，背景为纯浅灰色。这辆摩托车具有粗犷的后启示录街头改装美学，采用黑、白、灰的低饱和度配色，并点缀有少量粉色贴纸和涂装。重点强调强烈的风化效果：车身各处布满掉漆、划痕、油渍、污垢、锈斑、墨迹飞溅、边缘磨损以及层叠的贴纸残胶。车头配有 1 个方形大灯（带 X 型灯光图案）以及下方 2 个较小的堆叠式辅助灯。使用辐条轮毂、厚实的越野轮胎、可见的前悬挂、裸露的机械细节、链条传动，以及一个触地的坚固中心支架。腿部护板和侧板上覆盖着图形贴纸、日式警告标签、数字、符号和做旧的字体，前整流罩上有一个醒目的大号汉字标记。后部加装 2 个硬质侧边货箱，远侧为一个较大的货箱，近侧为一个贴有额外贴纸的黑色货箱，后箱附近还挂着 1 个垂直的吊牌挂饰。配备 1 个长条黑色条纹坐垫、后货架框架、裸露的线路、金属支架、螺栓以及紧凑的实用配件，使其看起来既有手工改装感又具备实用功能。渲染风格融合了工业设计草图与精致的动漫机甲概念艺术：精准的线条、水彩渲染的阴影、柔和的灰色地面投影、高细节的机械写实感、略显凌乱的墨线边缘，以及一种收藏级定制摩托车插画的质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "风化定制版 Cub 概念摩托车：此提示词可生成一张高度定制的复古多功能摩托车概念艺术插图，非常适合车辆设计、机甲艺术或后启示录工业美学风格。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "vintage",
+        "watercolor",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical]。\n\nVisual style:\n[参考风格: anime, vintage, watercolor, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14947",
+      "15351",
+      "15709",
+      "15094",
+      "14808",
+      "15715"
+    ]
+  }
+}

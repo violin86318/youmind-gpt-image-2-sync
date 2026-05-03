@@ -1,0 +1,50 @@
+{
+  "id": "14408",
+  "prompt": "A minimalist monochrome portrait made entirely from millions of tiny white point-cloud dots on a pitch-black background, showing 1 adult man from the chest up in a formal dark blazer and light collared dress shirt. The subject is centered slightly to the right, facing forward with a subtle three-quarter turn, with neatly combed short hair and one visible ear sharply defined by dense lidar-like particles. Render the figure as raw 3D scan data mixed with topological contour logic: ultra-dense stippling, precise geometric dot placement, faint isoline structure, and clean depth shaping across the hair, jacket lapels, collar, neck, and shoulders. Keep the face intentionally obscured by 1 large vertical rectangular censor block in dark gray to black, perfectly centered over the facial area from forehead to below the nose, creating a stark privacy-mask effect. Use matte texture, crisp edges, sharp focus, high contrast, no glow, no bloom, no neon, no fog, no motion blur, no chromatic aberration, no painterly strokes. Add 1 small four-point sparkle icon in light gray in the bottom-right corner. The overall image should feel mathematical, forensic, and futuristic, like a high-resolution lidar scan portrait in 8k.",
+  "translatedPrompt": "一张极简主义的单色肖像，完全由漆黑背景上数百万个微小的白色点云颗粒组成，展示了 1 位成年男性从胸部以上的半身像，身穿正式的深色西装外套和浅色翻领衬衫。主体略微偏右居中，正面朝向并带有微妙的三分之二侧转，梳理整齐的短发，一只可见的耳朵由致密的激光雷达式粒子清晰勾勒。将人物渲染为原始 3D 扫描数据与拓扑轮廓逻辑的结合：超致密的点画、精确的几何点位、微弱的等高线结构，以及在头发、西装翻领、衣领、颈部和肩部呈现清晰的深度塑形。面部由 1 个位于深灰色至黑色的大型垂直矩形审查块刻意遮挡，该遮挡块完美居中于从前额到鼻下方的面部区域，营造出鲜明的隐私遮罩效果。使用哑光质感、清晰的边缘、锐利对焦、高对比度，无光晕、无泛光、无霓虹、无雾气、无动态模糊、无色差，无绘画笔触。在右下角添加 1 个浅灰色的小型四角星形图标。整体图像应具有数学感、取证感和未来感，如同 8k 分辨率的激光雷达扫描肖像。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "审查点云肖像：此提示词可生成一张鲜明的黑白激光雷达风格肖像，画面由致密的白色粒子构成，描绘了一位身着西装的男士，非常适合科技类编辑视觉、隐私主题或未来感身份识别图像。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "3d",
+        "minimalist"
+      ],
+      "lightingCamera": [
+        "neon",
+        "high contrast"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: 3d, minimalist]。\n\nLighting and camera:\n[参考光线镜头: neon, high contrast]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14679",
+      "15533",
+      "15741",
+      "14816",
+      "14901",
+      "14965"
+    ]
+  }
+}

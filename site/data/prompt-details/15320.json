@@ -1,0 +1,50 @@
+{
+  "id": "15320",
+  "prompt": "A dramatic vintage Chinese martial-arts movie poster in a luxurious dark-gold and amber palette, styled like a classic historical epic. Center the composition on a young imperial man seated in front, wearing an ornate black-and-gold dragon robe and a Qing dynasty red-tasseled official hat, posed with one hand near his mouth in a sly, playful, confident manner. Surround him with exactly 8 beautiful court women in layered silk hanfu and gauzy robes, arranged tightly around him in a glamorous harem-like group portrait, with 4 women in the upper row and 4 women in the lower row. Each woman has an elegant updo with elaborate gold hairpins, floral ornaments, dangling earrings, and soft warm makeup; their expressions are alluring, gentle, or curious. Render the women in champagne, blush, peach, rose, and pale jade fabrics with translucent sleeves, embroidered bodices, and richly textured jewelry. Behind the group, place a large aged wooden plaque with carved golden Chinese calligraphy reading “鹿鼎记”, with a smaller line above it reading “金庸武侠经典”. Add vertical cast-name text in Chinese placed beside different figures: on the far left “苏荃”, below left “陈圆圆”, upper middle-left “阿珂”, upper middle-right “建宁公主”, far right upper “沐剑屏”, right middle “方怡”, lower right-middle “双儿”, and far lower right “曾柔”. Also add a vertical poetic slogan along the upper left margin in Chinese: “小人物，大智慧，游走江湖庙堂，玩转天下，抱得美人归”. At the bottom, blend in a secondary cinematic scene: an ancient palace gate and courtyard with soldiers and banners forming a grand processional crowd, with one lone figure centered in the foreground walking toward the viewer. Finish with a narrow line of Chinese tagline text across the bottom edge: “一部颠覆传统的英雄传奇 一段令人捧腹的江湖神话”. The whole image should feel opulent, theatrical, romantic, and slightly mischievous, with smoky sepia shadows, glowing rim light, rich texture, symmetrical poster composition, and polished high-end period-drama key art.",
+  "translatedPrompt": "一张极具戏剧感的复古中国武侠电影海报，采用奢华的暗金与琥珀色调，呈现经典历史史诗风格。构图中心为一名坐在前方的年轻皇室男子，身穿华丽的黑金龙袍，头戴清朝红缨官帽，单手掩口，神情狡黠、自信且顽皮。周围环绕着 8 位身着层叠丝绸汉服与轻纱长袍的美丽宫廷女子，她们以迷人的后宫群像风格紧密排列，上排 4 人，下排 4 人。每位女子都梳着优雅的发髻，佩戴精致的金钗、花饰和垂坠耳环，妆容柔和温暖；神情或妩媚、或温柔、或好奇。女子们的服饰采用香槟色、腮红粉、桃色、玫瑰色和淡玉色面料，配以半透明袖口、刺绣胸衣和质感丰富的珠宝。在人物后方放置一块刻有金色中文字样“鹿鼎记”的陈旧木匾，上方配有一行较小的文字“金庸武侠经典”。在不同人物旁添加竖排中文演员名：最左侧为“苏荃”，左下为“陈圆圆”，中左上为“阿珂”，中右上为“建宁公主”，右侧上方为“沐剑屏”，右侧中部为“方怡”，右侧中下为“双儿”，最右下方为“曾柔”。在左上边缘添加竖排中文诗意标语：“小人物，大智慧，游走江湖庙堂，玩转天下，抱得美人归”。底部融入一个次要的电影场景：古老的宫门与庭院，士兵和旗帜组成宏大的游行队伍，前景中心有一位孤独的身影正走向观众。底部边缘以一行窄小的中文标语收尾：“一部颠覆传统的英雄传奇 一段令人捧腹的江湖神话”。整张图像应呈现出华丽、戏剧化、浪漫且略带俏皮的氛围，伴有烟熏感的深褐色阴影、发光的轮廓光、丰富的纹理、对称的海报构图以及精致的高端古装剧主视觉效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "金碧辉煌武侠宫廷海报：一款奢华的中国历史电影海报提示词，用于生成包含一名皇室男子、八名女性、华丽排版及史诗级宫廷背景的武侠剧群像图。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "vintage"
+      ],
+      "lightingCamera": [
+        "rim light"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, layered, vertical]。\n\nVisual style:\n[参考风格: cinematic, vintage]。\n\nLighting and camera:\n[参考光线镜头: rim light]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14472",
+      "14902",
+      "14610",
+      "14598",
+      "14522",
+      "15715"
+    ]
+  }
+}

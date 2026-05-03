@@ -1,0 +1,43 @@
+{
+  "id": "13788",
+  "prompt": "A highly detailed, {argument name=\"art style\" default=\"hyper-realistic cinematic 3D render\"} of an {argument name=\"historical setting\" default=\"ancient Chinese street scene inspired by Along the River During the Qingming Festival\"}. The elevated, wide-angle perspective looks down upon a bustling dirt crossroad surrounded by traditional wooden buildings with intricate grey tiled roofs. On the left, a building features a sign reading \"安居客栈\" with red lanterns hanging outside. The scene is densely populated with dozens of villagers, merchants, and travelers in traditional period clothing. People are engaged in various activities: carrying woven baskets on shoulder poles, tending to market stalls under large wooden parasols, riding horses, and pulling a wooden cart with large spoked wheels in the lower right. A large, leafy green tree stands centrally among the shops, and weeping willow branches frame the extreme left foreground. The atmosphere is lively and dusty, illuminated by {argument name=\"lighting\" default=\"warm afternoon sunlight\"} that casts sharp, intricate shadows across the highly textured, hyper-detailed environment.",
+  "translatedPrompt": "一幅高度细节化的 {argument name=\"art style\" default=\"超写实电影级 3D 渲染图\"}，展现了 {argument name=\"historical setting\" default=\"灵感源自《清明上河图》的中国古代街景\"}。采用俯瞰的广角视角，俯瞰着一个熙熙攘攘的土路十字路口，四周环绕着带有精致灰瓦屋顶的传统木质建筑。左侧的一座建筑挂着写有“安居客栈”的招牌，门外悬挂着红灯笼。场景中挤满了数十名身着传统古装的村民、商人和旅人。人们正在进行各种活动：挑着担子运送编织篮、在大型木伞下照看摊位、骑马，右下角还有人拉着一辆带有大辐条轮的木车。商店中央矗立着一棵枝繁叶茂的绿树，垂柳枝条勾勒出最左侧的前景。氛围生动且带有尘土气息，在 {argument name=\"lighting\" default=\"温暖的午后阳光\"} 的照耀下，在纹理丰富、细节极其精细的环境中投射出清晰而复杂的阴影。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "写实的中国古代街景：生成一幅灵感源自中国古典卷轴画、细节极其丰富且熙熙攘攘的历史街景。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic",
+        "3d"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic, 3d]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15441",
+      "15428",
+      "15273",
+      "15720",
+      "14235",
+      "14653"
+    ]
+  }
+}

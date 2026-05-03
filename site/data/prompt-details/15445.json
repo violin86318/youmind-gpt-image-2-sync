@@ -1,0 +1,50 @@
+{
+  "id": "15445",
+  "prompt": "{\"type\":\"anime mecha girl plastic model kit product showcase poster\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"TENNEN\\\"}\",\"series\":\"HOBBY MODEL SERIES\"},\"product\":{\"title\":\"{argument name=\\\"product title\\\" default=\\\"KNIGHT MECHA GIRL\\\"}\",\"subtitle\":\"ナイト・メカガール\",\"scale\":\"1/7 SCALE\",\"category\":\"FULL ACTION PLASTIC MODEL KIT\"},\"subject\":{\"character\":\"faceless female knight mecha maid android\",\"pose\":\"full-body standing pose, facing slightly left, holding an oversized red mechanical sword angled downward in the right hand, a massive red tower shield resting at the left side and covering much of the body\",\"design\":{\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"light brown\\\"}\",\"style\":\"long straight hair with blunt bangs\"},\"headwear\":\"white maid-style frilled headband combined with dark mechanical horn-like side headgear\",\"face\":\"intentionally blurred or obscured face with no visible features\",\"armor\":\"sleek feminine mechanical armor in matte white, charcoal gray, and vivid crimson red, segmented chest plate with central red core, black bodysuit underlayer, exposed mechanical joints at shoulders, hips, knees, and ankles, copper-toned circular joint details\",\"legs\":\"high-tech armored thigh and shin units with red accents and pointed armored heels\",\"back\":\"long spear or lance mounted diagonally behind the back\"},\"weapons\":[\"1 oversized red mechanical sword with gray cutting edges and copper joint assembly\",\"1 tall red kite shield with dark gray frame, central circular module marked 19, and small emblem near the top\"]},\"layout\":{\"background\":\"clean white studio background with faint technical linework and thin red border accents\",\"style\":\"premium Japanese hobby figure advertisement layout, minimal and elegant, high-end catalog design\",\"sections\":[{\"title\":\"main hero render\",\"position\":\"left-center\",\"count\":1,\"labels\":[\"full-body product image\"]},{\"title\":\"DETAIL CLOSE-UP\",\"position\":\"upper-right\",\"count\":5,\"labels\":[\"face and headgear close-up\",\"upper body\",\"shield\",\"large sword\",\"leg unit\"]},{\"title\":\"feature text blocks\",\"position\":\"left and right margins\",\"count\":6,\"labels\":[\"steel will and silent knight copy\",\"beauty and precision copy\",\"face and headgear\",\"upper body\",\"large sword\",\"leg unit\"]},{\"title\":\"bottom information bar\",\"position\":\"bottom\",\"count\":6,\"labels\":[\"1/7 SCALE\",\"FULL ACTION PLASTIC MODEL KIT\",\"FULL ACTION\",\"PRECISION\",\"MULTI COLOR\",\"PREMIUM QUALITY\"]},{\"title\":\"brand marks\",\"position\":\"top-right and bottom-right\",\"count\":2,\"labels\":[\"TENNEN\",\"TENNEN\"]}],\"text\":\"use Japanese product-ad style typography with large serif headline at top left, smaller Japanese subtitle below it, compact explanatory copy in black, thin red divider lines, and small disclaimer-like fine print along the bottom\"},\"rendering\":{\"camera\":\"straight-on product poster composition with slight perspective on the figure\",\"lighting\":\"soft studio lighting, crisp reflections on armor, subtle shadows, premium collectible photography feel\",\"materials\":\"painted plastic model kit surfaces with matte and satin finishes, precise panel lines, metallic joints, clean assembly\",\"quality\":\"ultra-detailed, sharp, polished, commercial-grade promotional image\"},\"color_palette\":{\"primary\":[\"white\",\"charcoal gray\",\"crimson red\"],\"accent\":[\"copper bronze\",\"black\"]}}",
+  "translatedPrompt": "{\"type\":\"动漫机甲少女塑料模型套件产品展示海报\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"TENNEN\\\"}\",\"series\":\"HOBBY MODEL SERIES\"},\"product\":{\"title\":\"{argument name=\\\"product title\\\" default=\\\"KNIGHT MECHA GIRL\\\"}\",\"subtitle\":\"ナイト・メカガール\",\"scale\":\"1/7 比例\",\"category\":\"全可动塑料模型套件\"},\"subject\":{\"character\":\"无面女性骑士机甲女仆仿生人\",\"pose\":\"全身站立姿势，身体微向左侧，右手持一把向下倾斜的超大红色机械剑，左侧配有一面巨大的红色塔盾，遮挡了大部分身体\",\"design\":{\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"浅棕色\\\"}\",\"style\":\"长直发，齐刘海\"},\"headwear\":\"白色女仆风荷叶边发带，搭配深色机械角状侧面头饰\",\"face\":\"刻意模糊或遮挡的面部，无可见五官\",\"armor\":\"精致的女性化机械装甲，采用哑光白、炭灰和鲜红色调，分段式胸甲中心带有红色核心，内衬黑色紧身衣，肩部、髋部、膝盖和脚踝处露出机械关节，带有铜色圆形关节细节\",\"legs\":\"高科技装甲大腿和小腿组件，带有红色装饰和尖头装甲高跟\",\"back\":\"背部斜向安装的长矛或长枪\"},\"weapons\":[\"1 把超大红色机械剑，带有灰色刀刃和铜色关节组件\",\"1 面高大的红色风筝盾，带有深灰色边框，中心圆形模块标有 19，顶部附近有小型徽章\"]},\"layout\":{\"background\":\"干净的白色摄影棚背景，带有淡淡的技术线条和细红色边框装饰\",\"style\":\"高端日式模型手办广告布局，简约优雅，高端目录设计\",\"sections\":[{\"title\":\"主视觉渲染\",\"position\":\"左中\",\"count\":1,\"labels\":[\"全身产品图\"]},{\"title\":\"细节特写\",\"position\":\"右上\",\"count\":5,\"labels\":[\"面部与头饰特写\",\"上半身\",\"盾牌\",\"大剑\",\"腿部组件\"]},{\"title\":\"功能文本块\",\"position\":\"左右页边距\",\"count\":6,\"labels\":[\"钢铁意志与沉默骑士文案\",\"美感与精度文案\",\"面部与头饰\",\"上半身\",\"大剑\",\"腿部组件\"]},{\"title\":\"底部信息栏\",\"position\":\"底部\",\"count\":6,\"labels\":[\"1/7 比例\",\"全可动塑料模型套件\",\"全可动\",\"高精度\",\"多色成型\",\"优质品质\"]},{\"title\":\"品牌标识\",\"position\":\"右上及右下\",\"count\":2,\"labels\":[\"TENNEN\",\"TENNEN\"]}],\"text\":\"使用日式产品广告风格排版，左上角采用大号衬线标题，下方配以较小的日文副标题，黑色紧凑的说明性文案，细红色分割线，底部配有类似免责声明的小字\"},\"rendering\":{\"camera\":\"正面产品海报构图，人物带有轻微透视\",\"lighting\":\"柔和的摄影棚灯光，装甲上清晰的反射，细腻的阴影，高端收藏品摄影质感\",\"materials\":\"涂装塑料模型套件表面，哑光与丝绸质感，精确的刻线，金属关节，干净的组装效果\",\"quality\":\"超精细、清晰、精致、商业级宣传图像\"},\"color_palette\":{\"primary\":[\"白色\",\"炭灰色\",\"深红色\"],\"accent\":[\"铜青铜色\",\"黑色\"]}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "骑士机甲少女模型套件海报：一款为虚构动漫机甲少女塑料模型套件设计的日式高端产品展示海报，非常适合爱好品牌样机展示和收藏级手办广告。",
+      "subject": "人物",
+      "scene": "产品/电商",
+      "composition": [
+        "close-up",
+        "full-body"
+      ],
+      "style": [
+        "anime",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting",
+        "camera"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, full-body]。\n\nVisual style:\n[参考风格: anime, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting, camera]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15447",
+      "15616",
+      "14943",
+      "15081",
+      "15755",
+      "14576"
+    ]
+  }
+}

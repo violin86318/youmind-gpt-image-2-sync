@@ -1,0 +1,47 @@
+{
+  "id": "15395",
+  "prompt": "Using the provided reference image, transform the casual poolside selfie into a clean professional head-and-shoulders studio portrait. Keep the same person and the same polo shirt, but remove the outdoor resort background, other people, furniture, pool, and all vacation context. Reframe to a centered portrait crop with the subject facing the camera, shoulders visible, and the selfie angle corrected into a formal straight-on composition. Add a smooth dark teal studio backdrop with subtle vignetting and soft, flattering portrait lighting for a polished corporate profile-photo look.",
+  "translatedPrompt": "使用提供的参考图像，将随意的泳池边自拍转换为干净、专业的半身影棚肖像。保持人物和 Polo 衫不变，但需移除户外度假背景、其他人物、家具、泳池以及所有与度假相关的元素。重新构图为居中的肖像剪裁，使主体面向镜头，露出肩膀，并将自拍角度校正为正式的正面构图。添加平滑的深青色影棚背景，辅以微妙的暗角效果和柔和、修饰肤色的肖像光影，打造出精致的企业形象照风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "自拍转为影棚级职业照：此提示词可将随意的自拍参考图转换为精致的专业影棚级头像，适用于商务个人资料、LinkedIn 照片及企业形象照。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "studio"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: studio]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14861",
+      "15004",
+      "15028",
+      "15394",
+      "15463",
+      "15030"
+    ]
+  }
+}

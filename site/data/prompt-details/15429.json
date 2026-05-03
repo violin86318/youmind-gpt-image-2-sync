@@ -1,0 +1,54 @@
+{
+  "id": "15429",
+  "prompt": "A futuristic luxury skincare product advertisement in a cool icy blue palette, shot as a high-end studio beauty campaign. Center a frosted white pump bottle labeled {argument name=\"brand name\" default=\"SECURE-IP\"} with minimalist navy text reading {argument name=\"product name\" default=\"IP ADDRESS CLEANSER\"}, plus smaller lines \"for risk-free connections\", \"pour des connexions sans risque\", and \"75 ml / 2.5 fl. oz. - Data Stream Purifier\" near the bottom. Place the bottle upright on a glossy wet reflective surface covered with realistic water droplets, with the translucent round cap lying off to the right behind the bottle. Surround the product with floating sharp-edged transparent glass shards and crystal fragments, suspended in midair like shattered ice. Several larger shards act as labeled callout panels: exactly 6 text shards reading \"TEXTURE\" on the left over a close-up of dewy skin, \"SHIELD\" in the upper right, \"HYDRATION\" on the right over a close-up of a blue eye and wet skin, \"SECURITY SHIELD\" in the lower left over a subtle hexagonal honeycomb pattern, \"PROTECT\" at bottom left, and \"CLEANSE\" at lower right. Integrate beauty-image fragments inside some of the shards: one shard shows cheek and lips with luminous skin texture, one shows a female eye with long lashes and water droplets on the skin, and one shows a scientific honeycomb barrier pattern. Add a tall soft rectangular frosted panel hovering behind the pump head in the upper center to create layered depth. Include two iridescent glass spheres on the wet surface, one at the lower left corner and one at the lower right corner. Use bright sparkling highlights, prismatic rainbow refractions, glowing rim light, floating mist, micro-particles, and a crisp 4K cosmetic advertising finish. The composition should feel premium, clean, protective, and cyber-skincare themed, blending hydration science with digital security metaphors.",
+  "translatedPrompt": "一则采用冷冰蓝色调的未来感奢华护肤品广告，以高端摄影棚美妆大片风格呈现。画面中心放置一个磨砂白泵头瓶，标签为 {argument name=\"brand name\" default=\"SECURE-IP\"}，并印有极简主义海军蓝文字 {argument name=\"product name\" default=\"IP ADDRESS CLEANSER\"}，底部附近有较小的文字行：“for risk-free connections”、“pour des connexions sans risque”以及“75 ml / 2.5 fl. oz. - Data Stream Purifier”。将瓶子垂直放置在带有真实水珠的亮面湿润反射表面上，半透明圆形瓶盖位于瓶子右后方。产品周围环绕着悬浮在半空中、如碎冰般锋利的透明玻璃碎片和水晶碎块。几块较大的碎片作为标注面板：左侧 6 块文字碎片分别写着“TEXTURE”（覆盖在水润肌肤特写上）、右上角“SHIELD”、右侧“HYDRATION”（覆盖在蓝色眼睛和湿润肌肤特写上）、左下角“SECURITY SHIELD”（覆盖在微妙的六边形蜂窝图案上）、左下角“PROTECT”以及右下角“CLEANSE”。在部分碎片中融入美妆图像片段：一块碎片展示了具有光泽感的脸颊和嘴唇，一块展示了带有长睫毛和皮肤水珠的女性眼睛，另一块展示了科学的蜂窝屏障图案。在泵头后方上方中心处添加一个高大的磨砂长方形悬浮面板，以营造层次深度。在湿润表面上放置两个虹彩玻璃球，分别位于左下角和右下角。使用明亮的闪烁高光、棱镜彩虹折射、发光的轮廓光、漂浮的薄雾、微粒，以及清晰的 4K 化妆品广告质感。整体构图应体现高端、洁净、防护和网络护肤主题，将水合科学与数字安全隐喻完美融合。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "未来感网络护肤品广告：此提示词可生成 4K 高光美妆产品广告，包含冰感玻璃碎片、护肤卖点标注以及网络安全美学，适用于高端社交媒体或平面营销。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [
+        "close-up",
+        "callout",
+        "layered"
+      ],
+      "style": [
+        "realistic",
+        "minimalist",
+        "luxury",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "rim light"
+      ],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, callout, layered]。\n\nVisual style:\n[参考风格: realistic, minimalist, luxury, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: rim light]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15447",
+      "14807",
+      "15067",
+      "15310",
+      "15639",
+      "14889"
+    ]
+  }
+}

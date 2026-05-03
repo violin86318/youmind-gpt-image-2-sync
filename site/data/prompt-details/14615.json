@@ -1,0 +1,53 @@
+{
+  "id": "14615",
+  "prompt": "A richly layered maximalist collage poster in portrait orientation, designed as a celebration of art, science, history, and human creativity. At the exact center, place a large irregular black ink-splatter or torn-paper void with radiant multicolored streaks around it, containing elegant large serif typography reading {argument name=\"headline text\" default=\"Create Everything at Once\"} in warm ivory. Surround the center with a dense scrapbook-style arrangement of exactly 33 visible items overlapping edge to edge like a curated mood board: 1 illuminated medieval manuscript page with ornate floral border in the top left, 1 botanical mushroom study sheet near it, 1 star chart or astronomical diagram page, 1 solar system illustration across the upper top center with planets on orbit lines against deep space, 1 periodic table chart in the upper middle-left, 1 circular night-sky constellation map in the upper middle-right, 1 cluster of blue crystals, 1 alpine mountain landscape painting, 1 geometric mosaic tile fragment in the top right corner, 1 blue-and-white ceramic teapot on the right edge, 1 antique tribal mask on the right-center, 1 torn vertical calligraphy page with multilingual writing, 1 small isometric polyhedron or gemstone drawing, 1 pixel-art rocket icon card, 1 multicolored wayfinding sign with arrows and transport symbols, 1 black-and-white architectural sketch page along the right side, 1 iridescent feather in the lower-right edge, 1 underwater coral reef photo in the bottom-right corner, 1 purple amethyst cluster, 1 triangular geometric mosaic textile or tile pattern, 1 colorful woven textile swatch, 1 circular carved stone calendar disk, 1 black-and-white city skyline print, 1 botanical flower drawing near the bottom center, 1 stained-glass window illustration, 1 blue architectural blueprint sheet, 1 color wheel chart, 1 abstract blue cell-like or mineral micrograph image, 1 Great Wave-style Japanese seascape print on the lower left, 1 ancient Greek pottery fragment, 1 anatomical human muscle illustration on the left side, 1 butterfly specimen card, and 1 vintage silver camera just left of center. Add a second small botanical flower sketch near the lower-left center and a parchment map fragment tucked behind the camera area as subtle fillers while keeping the total primary featured objects at 33. Blend media styles including engraving, scientific diagrams, vintage prints, fine art painting, photography, textile patterns, blueprints, and digital design UI. Near the bottom left, include 1 dark computer interface panel showing node-based creative software and color grading tools with charts and a circular color selector, suggesting modern AI-assisted creation. Use torn paper edges, aged parchment textures, ink stains, saturated jewel tones, deep blues, golds, creams, and pops of neon cyan, magenta, orange, and violet. The composition should feel exuberant, intelligent, and inspirational, with every object sharply readable and carefully arranged into a seamless museum-meets-studio collage. High detail, editorial poster design, premium print look, balanced chaos, dramatic contrast, soft paper shadows, subtle depth from layered overlaps, no empty background beyond the collage.",
+  "translatedPrompt": "一张构图丰富、层次分明的极繁主义拼贴海报，采用纵向布局，旨在歌颂艺术、科学、历史与人类创造力。在正中央放置一个巨大的不规则黑色墨迹或撕纸留白，周围环绕着放射状的多彩条纹，留白处以优雅的大号衬线字体书写着 {argument name=\"headline text\" default=\"Create Everything at Once\"}，字体颜色为暖象牙色。在中心周围，以密集的剪贴簿风格排列 33 个清晰可见的物品，边缘相互重叠，如同一个精心策划的 mood board：左上角是一页带有华丽花卉边框的精美中世纪手稿，旁边是一张植物学蘑菇研究图，一张星图或天文图页，顶部正中是一张太阳系插图，行星轨道线映衬在深邃的太空中，中左侧是一张元素周期表，中右侧是一张圆形夜空星座图，一簇蓝色晶体，一幅高山风景油画，右上角是一块几何马赛克瓷砖碎片，右边缘是一个青花瓷茶壶，右中是一个古老的部落面具，一张撕裂的垂直书法页，上面有多种语言文字，一个小型的等轴测多面体或宝石绘图，一张像素艺术火箭图标卡片，一个带有箭头和交通符号的多彩导视牌，右侧是一张黑白建筑草图，右下边缘是一根虹彩羽毛，右下角是一张水下珊瑚礁照片，一簇紫色紫水晶，一个三角形几何马赛克纺织品或瓷砖图案，一个彩色编织纺织品样本，一个圆形雕刻石历盘，一张黑白城市天际线印刷品，底部中心附近是一幅植物花卉绘图，一张彩色玻璃窗插图，一张蓝色建筑蓝图，一张色轮图，一张抽象的蓝色细胞状或矿物显微照片，左下角是一幅“神奈川冲浪里”风格的日本海景印刷品，一个古希腊陶器碎片，左侧是一幅人体肌肉解剖插图，一张蝴蝶标本卡片，以及中心左侧的一台复古银色相机。在左下中心附近添加第二个小型植物花卉草图，并在相机区域后方塞入一张羊皮纸地图碎片作为细微的填充物，同时保持主要展示对象总数为 33 个。融合多种媒介风格，包括版画、科学图表、复古印刷品、美术绘画、摄影、纺织图案、蓝图和数字设计 UI。在左下角附近，加入 1 个深色计算机界面面板，显示基于节点的创意软件和带有图表及圆形颜色选择器的调色工具，暗示现代 AI 辅助创作。使用撕纸边缘、陈旧的羊皮纸纹理、墨渍、饱和的宝石色调、深蓝色、金色、奶油色，以及点缀的霓虹青色、洋红色、橙色和紫色。整体构图应显得生机勃勃、充满智慧且富有启发性，每个物体都清晰可辨，并精心排列成一个博物馆与工作室相结合的无缝拼贴画。高细节，编辑海报设计，高级印刷质感，平衡的混乱感，强烈的对比，柔和的纸张阴影，通过层叠重叠产生微妙的深度，拼贴画之外无空白背景。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "极繁主义“创造万物”海报：一张以醒目的励志标题为中心的密集编辑风格拼贴海报，非常适合用于生成涵盖科学、艺术、文化和技术的创意艺术作品。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "isometric",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "editorial",
+        "vintage",
+        "isometric",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "neon",
+        "camera"
+      ],
+      "text": "要求精确文字；要求可读；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: isometric, layered, vertical]。\n\nVisual style:\n[参考风格: editorial, vintage, isometric, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: neon, camera]。\n\nText requirements:\n要求精确文字；要求可读；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15444",
+      "14842",
+      "14881",
+      "15668",
+      "14874",
+      "15072"
+    ]
+  }
+}

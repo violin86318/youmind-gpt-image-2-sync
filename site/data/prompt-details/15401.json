@@ -1,0 +1,41 @@
+{
+  "id": "15401",
+  "prompt": "A soft, muted anime-style illustration of a young woman seated indoors at a table, shown from a slightly elevated close-up angle as if taken in a casual selfie. Her face is fully obscured by a centered square censor block in a warm taupe tone. She has long, slightly tousled {argument name=\"hair color\" default=\"medium brown\"} hair with delicate strands falling over her shoulders and chest, natural shine, and a gentle layered cut. She wears an oversized {argument name=\"top color\" default=\"off-white\"} sweatshirt over a visible gray inner collar, plus a thin silver necklace with a small drop pendant. Her pose is relaxed and intimate, with one arm extending toward the viewer, shoulders slightly angled, and her body turned diagonally across the frame. The background is minimal and calm: a beige wall, a dark bench or chair back, and the corner of a wooden tabletop visible at the lower right. Include a tan skirt or folded beige fabric near her lap at the bottom right. Use subdued earth tones, soft shading, painterly linework, a cozy everyday mood, and a clean contemporary Japanese illustration aesthetic.",
+  "translatedPrompt": "一张柔和、低饱和度的动漫风格插画，描绘了一位年轻女性坐在室内桌前，采用略微俯视的特写视角，如同随意的自拍。她的面部被一个居中的方形遮挡块完全掩盖，遮挡块呈温暖的灰褐色。她留着长发，发色为 {argument name=\"hair color\" default=\"中棕色\"}，头发略显蓬松，细碎的发丝垂落在肩头和胸前，带有自然光泽，呈现出柔和的层次感。她穿着一件超大款 {argument name=\"top color\" default=\"米白色\"} 卫衣，内搭可见灰色衣领，并佩戴一条带有小吊坠的细银项链。姿态放松而亲密，一只手臂向镜头方向伸出，双肩微斜，身体在画面中呈对角线转向。背景简洁宁静：一面米色墙壁、一张深色长凳或椅背，右下角可见木质桌面的一角。在右下角膝盖附近加入一条棕褐色裙子或折叠的米色布料。采用柔和的大地色调、细腻的阴影、绘画感的线条，营造出舒适的日常氛围，并呈现出干净的现代日本插画美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫少女自拍肖像（已打码）：此提示词可生成一张柔和、亲密的动漫风格肖像，画面中的年轻女性坐着，面部被遮挡块掩盖，非常适合用作头像或营造氛围感的社交媒体视觉素材。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "close-up",
+        "layered"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体",
+        "构图",
+        "风格"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, close-up, layered]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14488",
+      "14817",
+      "15319",
+      "15641",
+      "14126",
+      "14173"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "14746",
+  "prompt": "东方幻想风格{argument name=\"角色性别\" default=\"女性\"}，半身肖像，回眸侧脸，气质空灵优雅，柔和神性美感，细腻五官，微垂眼神，冷白细腻肌肤，淡雅橘粉妆容，金色高光点缀\n\n长发飘动，发丝中融入彩色花朵与光粒（红、蓝、橙、紫），头发具有流动感与空气感\n\n身穿半透明丝绸礼服与披肩，材质轻盈通透，布料随风飘动，表面带有鎏金纹理与闪耀颗粒。\n\n整体光影为暖金色逆光，强边缘光，体积光明显，光粒漂浮，柔光泛光，梦幻氛围\n\n背景干净浅色渐变，带微光与粒子效果，整体氛围空灵、梦境、神圣\n\n风格：高端CG插画，超精细，电影级光影，柔光渲染，8K细节，artstation 热门作品风格",
+  "translatedPrompt": "东方奇幻风格 {argument name=\"gender\" default=\"female\"}，半身肖像，侧身回眸，气质空灵优雅，柔美神圣，五官精致，眼帘微垂，冷白细腻的肌肤，淡橘粉色妆容，点缀金色高光。\n\n长发飘逸，发丝间融入了彩色花朵与光点（红色、蓝色、橙色、紫色）；头发具有流动感与空气感。\n\n身着半透明丝绸长裙与披肩，材质轻盈透亮，织物随风飘动，表面带有鎏金纹理与闪烁颗粒。\n\n整体光影为暖金色背光，强轮廓光，明显的体积光，漂浮的光点，柔和光晕，营造出梦幻般的氛围。\n\n背景简洁，带有浅色渐变，呈现出微光与粒子特效；整体氛围空灵、梦幻且神圣。\n\n风格：高端 CG 插画，超精细，电影级光影，柔光渲染，8K 细节，ArtStation 热门风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "东方奇幻女性肖像提示词：一份高精度的东方奇幻女性肖像提示词，包含电影级光影效果与细腻的丝绸质感。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

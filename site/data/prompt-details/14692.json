@@ -1,0 +1,51 @@
+{
+  "id": "14692",
+  "prompt": "{\"type\":\"anime beauty magazine double-page editorial spread\",\"theme\":\"soft strength created by thick eyebrows\",\"style\":\"polished contemporary shoujo-inspired anime illustration with premium Japanese fashion magazine design, delicate spring lighting, glossy print finish, airy feminine layout, pastel pink and cream palette\",\"format\":\"two-page spread\",\"subject\":{\"gender\":\"girl\",\"age_appearance\":\"teenage\",\"character\":\"pretty high school girl in side profile and close-up beauty shots\",\"hair\":{\"color\":\"dark brown to black\",\"style\":\"short wavy bob gathered into a loose small side ponytail or mini updo\",\"details\":\"wispy strands, soft volume, decorated with 4 pink cherry blossom hair ornaments and a few falling petals\"},\"face\":{\"eyes\":\"large warm brown anime eyes with glossy highlights\",\"eyebrows\":\"thick, natural, softly arched eyebrows as the beauty focus\",\"expression\":\"gentle, confident, serene\"},\"clothing\":{\"top\":\"light blue collared shirt\",\"layer\":\"cream sweater vest\",\"accessory\":\"large deep red ribbon bow at the collar\"},\"season\":\"spring\"},\"environment\":{\"background\":\"soft-focus cherry blossom trees in bloom against a pale blue sky\",\"atmosphere\":\"romantic, breezy, elegant, fresh\"},\"layout\":{\"left_page\":{\"dominant_element\":\"large full-page side-profile portrait of the girl looking upward\",\"text_blocks_count\":5,\"text_blocks\":[\"small header label at top left\",\"large Japanese headline\",\"pink subheadline near upper left-middle\",\"vertical body copy near left side of portrait\",\"small cover girl caption near bottom left\"],\"footer_elements_count\":2},\"right_page\":{\"image_panels_count\":5,\"image_panels\":[\"1 top rectangular side-profile crop of the girl among cherry blossoms\",\"1 medium rectangular close-up of both eyes and eyebrows with subtle white guide lines\",\"1 small lower-left portrait crop\",\"1 rectangular eyebrow close-up panel\",\"1 tiny profile thumbnail at bottom right\"],\"text_sections_count\":7,\"text_sections\":[\"small English phrase at top right margin\",\"main Japanese title block about eyebrow charm\",\"section about eye-area balance\",\"section listing points of natural thick eyebrows with 4 checklist bullets\",\"section about spring and thick eyebrow compatibility\",\"section for eyebrow close-up explanation\",\"bottom makeup tips and profile area\"],\"product_items_count\":2,\"product_items\":[\"1 eyebrow mascara cosmetic tube\",\"1 brow powder palette compact\"]},\"overall_design\":\"clean editorial grid with thin divider lines, generous white margins, blush pink accent text, scattered sakura petal motifs\"},\"visible_text\":{\"headline\":\"太眉がつくる、やわらかな強さ。\",\"small_header\":\"BEAUTY 特集\",\"english_tagline\":\"Eyebrow is my strength.\",\"right_intro\":\"Why Thick Eyebrow?\",\"section_titles\":[\"太眉の魅力って?\",\"目元とのバランス\",\"ナチュラル太眉のポイント\",\"春と太眉の相性\",\"眉のクローズアップ\",\"MAKE-UP TIPS\",\"PROFILE\"],\"page_footer\":\"April 2024 | BLOOM\"},\"quality\":\"high-resolution, refined magazine mockup, realistic paper texture, luxury beauty editorial composition\"}",
+  "translatedPrompt": "{\"type\":\"动漫美妆杂志双页编辑排版\",\"theme\":\"粗眉打造的柔和力量感\",\"style\":\"精致的当代少女漫风格插画，融合高端日本时尚杂志设计，柔和的春日光影，光面印刷质感，轻盈的女性化布局，粉色与奶油色调\",\"format\":\"双页排版\",\"subject\":{\"gender\":\"少女\",\"age_appearance\":\"青少年\",\"character\":\"侧脸与美妆特写的漂亮高中女生\",\"hair\":{\"color\":\"深棕色至黑色\",\"style\":\"短波波头，扎成松散的小侧马尾或迷你盘发\",\"details\":\"发丝轻盈，蓬松柔软，装饰有 4 个粉色樱花发饰及几片飘落的花瓣\"},\"face\":{\"eyes\":\"带有光泽感的大型暖棕色动漫眼睛\",\"eyebrows\":\"粗而自然、弧度柔和的眉毛，作为美妆焦点\",\"expression\":\"温柔、自信、宁静\"},\"clothing\":{\"top\":\"浅蓝色衬衫\",\"layer\":\"奶油色针织背心\",\"accessory\":\"领口处系有深红色大蝴蝶结\"},\"season\":\"春季\"},\"environment\":{\"background\":\"淡蓝色天空下柔焦的盛开樱花树\",\"atmosphere\":\"浪漫、清爽、优雅、清新\"},\"layout\":{\"left_page\":{\"dominant_element\":\"女孩向上看的全页侧脸肖像\",\"text_blocks_count\":5,\"text_blocks\":[\"左上角小型标题标签\",\"大型日文标题\",\"左上中部的粉色副标题\",\"肖像左侧的垂直正文\",\"左下角的小型封面人物说明\"],\"footer_elements_count\":2},\"right_page\":{\"image_panels_count\":5,\"image_panels\":[\"1 张顶部矩形侧脸剪裁，背景为樱花\",\"1 张中型矩形特写，展示双眼与眉毛，带有细微的白色引导线\",\"1 张左下角小型肖像剪裁\",\"1 个矩形眉毛特写面板\",\"1 个右下角微型侧脸缩略图\"],\"text_sections_count\":7,\"text_sections\":[\"右上页边距的小型英文短语\",\"关于眉妆魅力的日文主标题块\",\"关于眼部平衡的板块\",\"列出自然粗眉要点的板块，包含 4 个清单项目\",\"关于春季与粗眉搭配的板块\",\"眉毛特写说明板块\",\"底部美妆技巧与个人资料区\"],\"product_items_count\":2,\"product_items\":[\"1 支眉毛膏\",\"1 盒眉粉盘\"]},\"overall_design\":\"整洁的编辑网格，带有细分割线，宽敞的留白，腮红粉色强调文字，散落的樱花花瓣图案\"},\"visible_text\":{\"headline\":\"太眉がつくる、やわらかな強さ。\",\"small_header\":\"BEAUTY 特集\",\"english_tagline\":\"Eyebrow is my strength.\",\"right_intro\":\"Why Thick Eyebrow?\",\"section_titles\":[\"太眉の魅力って?\",\"目元とのバランス\",\"ナチュラル太眉のポイント\",\"春と太眉の相性\",\"眉のクローズアップ\",\"MAKE-UP TIPS\",\"PROFILE\"],\"page_footer\":\"2024 年 4 月 | BLOOM\"},\"quality\":\"高分辨率，精致的杂志样机，逼真的纸张纹理，高端美妆编辑构图\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫美妆杂志眉妆专题：此提示词用于生成精美的双页动漫风格日本美妆杂志内页，聚焦于少女、春季樱花以及粗眉妆容的编辑设计。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up",
+        "grid",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "editorial",
+        "anime",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, grid, vertical]。\n\nVisual style:\n[参考风格: realistic, editorial, anime, luxury, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15026",
+      "15787",
+      "15682",
+      "15684",
+      "15685",
+      "14963"
+    ]
+  }
+}

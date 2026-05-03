@@ -1,0 +1,48 @@
+{
+  "id": "14250",
+  "prompt": "{\n  \"type\": \"manga page\",\n  \"style\": \"anime illustration, full color\",\n  \"characters\": {\n    \"woman\": {\n      \"appearance\": \"long {argument name=\\\"hair color\\\" default=\\\"black\\\"} hair, purple eyes\",\n      \"outfit\": \"{argument name=\\\"shirt color\\\" default=\\\"grey\\\"} long-sleeve shirt, dark grey skinny jeans, barefoot\"\n    },\n    \"delivery_man\": {\n      \"appearance\": \"bald, older man, thick eyebrows\",\n      \"outfit\": \"blue work jacket over a grey shirt\"\n    }\n  },\n  \"layout\": {\n    \"description\": \"Page split vertically. Left side contains 4 stacked horizontal panels. Right side is a single tall vertical panel.\",\n    \"left_column_panels\": [\n      {\n        \"panel_number\": 1,\n        \"scene\": \"Woman sitting on a grey sofa in a living room, holding a white mug.\",\n        \"text_elements\": [\n          { \"type\": \"speech_bubble\", \"text\": \"?\" },\n          { \"type\": \"sound_effect\", \"text\": \"ピンポーン♪\", \"description\": \"doorbell ringing\" }\n        ]\n      },\n      {\n        \"panel_number\": 2,\n        \"scene\": \"Woman opening the front door. Delivery man standing outside holding a cardboard box, smiling.\",\n        \"text_elements\": [\n          { \"type\": \"speech_bubble\", \"speaker\": \"delivery_man\", \"text\": \"{argument name=\\\"delivery greeting\\\" default=\\\"こんにちは〜！宅配便で〜す！\\\"}\" },\n          { \"type\": \"speech_bubble\", \"speaker\": \"woman\", \"text\": \"は、はい…ありがとうございます\" }\n        ]\n      },\n      {\n        \"panel_number\": 3,\n        \"scene\": \"Close-up of the delivery man laughing enthusiastically with a sparkly pink background.\",\n        \"text_elements\": [\n          { \"type\": \"speech_bubble\", \"speaker\": \"delivery_man\", \"text\": \"{argument name=\\\"creepy compliment\\\" default=\\\"おや〜？いや〜美人さんですなあ！こんな綺麗な方がお一人でお住まいなんて、もったいないなあ〜♪\\\"}\" }\n        ]\n      },\n      {\n        \"panel_number\": 4,\n        \"scene\": \"Close-up of the woman looking disgusted and uncomfortable, sweating slightly. The back of the delivery man's head is visible in the foreground.\",\n        \"text_elements\": [\n          { \"type\": \"speech_bubble\", \"speaker\": \"delivery_man\", \"text\": \"それにしてもお肌が綺麗！スタイルも抜群だし〜モデルさんみたいですよ！\" },\n          { \"type\": \"thought_bubble\", \"speaker\": \"woman\", \"text\": \"{argument name=\\\"woman reaction\\\" default=\\\"え…？何この人…ちょっと気持ち悪いかも…\\\"}\" },\n          { \"type\": \"caption_box\", \"text\": \"この後も延々と褒め続ける配達員だった…\" }\n        ]\n      }\n    ],\n    \"right_column_panel\": {\n      \"panel_number\": 5,\n      \"scene\": \"Full-body portrait of the woman standing indoors, looking annoyed and suspicious with her arms crossed.\",\n      \"text_elements\": [\n        { \"type\": \"thought_bubble\", \"speaker\": \"woman\", \"text\": \"誰かしら…？\" }\n      ]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"manga page\",\n  \"style\": \"anime illustration, full color\",\n  \"characters\": {\n    \"woman\": {\n      \"appearance\": \"long {argument name=\\\"hair color\\\" default=\\\"black\\\"} hair, purple eyes\",\n      \"outfit\": \"{argument name=\\\"shirt color\\\" default=\\\"grey\\\"} long-sleeve shirt, dark grey skinny jeans, barefoot\"\n    },\n    \"delivery_man\": {\n      \"appearance\": \"bald, older man, thick eyebrows\",\n      \"outfit\": \"blue work jacket over a grey shirt\"\n    }\n  },\n  \"layout\": {\n    \"description\": \"Page split vertically. Left side contains 4 stacked horizontal panels. Right side is a single tall vertical panel.\",\n    \"left_column_panels\": [\n      {\n        \"panel_number\": 1,\n        \"scene\": \"Woman sitting on a grey sofa in a living room, holding a white mug.\",\n        \"text_elements\": [\n          { \"type\": \"speech_bubble\", \"text\": \"?\" },\n          { \"type\": \"sound_effect\", \"text\": \"ピンポーン♪\", \"description\": \"doorbell ringing\" }\n        ]\n      },\n      {\n        \"panel_number\": 2,\n        \"scene\": \"Woman opening the front door. Delivery man standing outside holding a cardboard box, smiling.\",\n        \"text_elements\": [\n          { \"type\": \"speech_bubble\", \"speaker\": \"delivery_man\", \"text\": \"{argument name=\\\"delivery greeting\\\" default=\\\"こんにちは〜！宅配便で〜す！\\\"}\" },\n          { \"type\": \"speech_bubble\", \"speaker\": \"woman\", \"text\": \"は、はい…ありがとうございます\" }\n        ]\n      },\n      {\n        \"panel_number\": 3,\n        \"scene\": \"Close-up of the delivery man laughing enthusiastically with a sparkly pink background.\",\n        \"text_elements\": [\n          { \"type\": \"speech_bubble\", \"speaker\": \"delivery_man\", \"text\": \"{argument name=\\\"creepy compliment\\\" default=\\\"おや〜？いや〜美人さんですなあ！こんな綺麗な方がお一人でお住まいなんて、もったいないなあ〜♪\\\"}\" }\n        ]\n      },\n      {\n        \"panel_number\": 4,\n        \"scene\": \"Close-up of the woman looking disgusted and uncomfortable, sweating slightly. The back of the delivery man's head is visible in the foreground.\",\n        \"text_elements\": [\n          { \"type\": \"speech_bubble\", \"speaker\": \"delivery_man\", \"text\": \"それにしてもお肌が綺麗！スタイルも抜群だし〜モデルさんみたいですよ！\" },\n          { \"type\": \"thought_bubble\", \"speaker\": \"woman\", \"text\": \"{argument name=\\\"woman reaction\\\" default=\\\"え…？何この人…ちょっと気持ち悪いかも…\\\"}\" },\n          { \"type\": \"caption_box\", \"text\": \"この後も延々と褒め続ける配達員だった…\" }\n        ]\n      }\n    ],\n    \"right_column_panel\": {\n      \"panel_number\": 5,\n      \"scene\": \"Full-body portrait of the woman standing indoors, looking annoyed and suspicious with her arms crossed.\",\n      \"text_elements\": [\n        { \"type\": \"thought_bubble\", \"speaker\": \"woman\", \"text\": \"誰かしら…？\" }\n      ]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "5-Panel Manga Page: Creepy Delivery Man：Generates a full-color, 5-panel manga page depicting a woman's uncomfortable encounter with an overly enthusiastic delivery worker.",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "full-body",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "anime",
+        "manga"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, full-body, vertical, horizontal]。\n\nVisual style:\n[参考风格: anime, manga]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14468",
+      "15047",
+      "14404",
+      "13807",
+      "14413",
+      "14523"
+    ]
+  }
+}

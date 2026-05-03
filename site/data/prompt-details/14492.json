@@ -1,0 +1,47 @@
+{
+  "id": "14492",
+  "prompt": "{\"type\":\"4-panel romantic manga illustration\",\"style\":\"clean hand-drawn anime line art with warm beige and soft brown limited palette, light cream background, cozy and gentle mood, minimal shading, sketch-like strokes, cute heart doodles\",\"format\":\"square social media comic\",\"title_text\":\"夫婦の日\",\"bottom_caption\":\"いつもそばにいてくれて、ありがとう。\",\"characters\":{\"count\":2,\"relationship\":\"married couple\",\"male\":{\"appearance\":\"young adult man with messy light brown hair, round glasses, fair skin, oversized light hoodie, gentle expression, slightly tall and slim\"},\"female\":{\"appearance\":\"young adult woman with long light brown hair tied in a low loose bun, fair skin, white long-sleeve top under a warm brown sweater vest, crossbody strap visible, soft cheerful expression\"}},\"layout\":{\"grid\":\"2x2 panels with thin dark brown borders\",\"sections\":[{\"title\":\"1\",\"position\":\"top-left\",\"count\":1,\"scene\":\"the couple standing close together, the man behind the woman with one hand resting on her shoulder, both looking upward affectionately\",\"text\":\"今日は夫婦の日！\",\"decorations\":{\"hearts\":4}},{\"title\":\"2\",\"position\":\"top-right\",\"count\":1,\"scene\":\"the couple sitting side by side indoors holding mugs and smiling at each other\",\"text\":\"いつもありがとう。一緒にいられることが、いちばんの幸せだよ。\",\"decorations\":{\"sparkles\":2}},{\"title\":\"3\",\"position\":\"bottom-left\",\"count\":1,\"scene\":\"the couple cooking together in a kitchen, stirring a pan on the stove, shelves and small plants in the background\",\"text\":\"これからも、笑い合って、支え合って、一緒にいろんな景色を見ていこうね。\",\"background_details_count\":4,\"background_details\":[\"kitchen shelf\",\"jars or cups\",\"potted plant\",\"countertop cookware\"]},{\"title\":\"4\",\"position\":\"bottom-right\",\"count\":1,\"scene\":\"close affectionate embrace, the man kissing the woman on the forehead while holding her shoulder, the woman leaning into him shyly\",\"text\":\"大好きだよ。これからも、よろしくね！\",\"decorations\":{\"hearts\":3}}],\"centerpiece\":\"a sweet day-in-the-life comic celebrating a married couple\"},\"composition\":\"balanced margins, large handwritten Japanese speech bubbles, circled panel numbers in the top-left of each panel, simple uncluttered backgrounds, warm romantic storytelling\"}",
+  "translatedPrompt": "{\"type\":\"四格浪漫漫画插画\",\"style\":\"干净的手绘动漫线条，采用温暖的米色和浅棕色单色调，奶油色背景，简约阴影，营造舒适温柔的氛围，具有社交媒体帖子的美感\",\"format\":\"方形 2x2 漫画布局，带有细棕色边框\",\"headline\":{\"text\":\"{argument name=\\\"headline text\\\" default=\\\"夫妇の日\\\"}\",\"position\":\"顶部居中\",\"decorations\":{\"count\":2,\"items\":[\"左侧小爱心\",\"右侧小爱心\"]}},\"panels\":[{\"panel\":1,\"count\":2,\"scene\":\"年轻夫妻的站立肖像\",\"composition\":\"丈夫站在妻子身后，一只手搭在她的肩上，两人神情平静且充满爱意\",\"characters\":[{\"role\":\"man\",\"appearance\":\"凌乱的浅棕色头发，戴眼镜，奶油色连帽衫，身材高挑纤细\"},{\"role\":\"woman\",\"appearance\":\"浅棕色头发扎成松散的低发髻，几缕发丝垂在脸侧，白色长袖衬衫，暖棕色针织背心，可见肩包背带\"}],\"text\":[\"今日は\",\"夫婦の日！\"],\"decorations\":{\"count\":3,\"items\":[\"小爱心\",\"小爱心\",\"小爱心\"]}},{\"panel\":2,\"count\":2,\"scene\":\"夫妻在室内坐在一起，手持马克杯，相视而笑\",\"characters\":[{\"role\":\"man\",\"appearance\":\"同样的眼镜和连帽衫，手持柔和的绿色马克杯\"},{\"role\":\"woman\",\"appearance\":\"同样的发型和装束，手持浅色马克杯\"}],\"speech_bubble\":{\"speaker\":\"man\",\"text\":\"いつもありがとう。 一緒にいられることが、 いちばんの幸せだよ。\"},\"decorations\":{\"count\":4,\"items\":[\"小闪光\",\"小闪光\",\"小圆点簇\",\"小圆点簇\"]}},{\"panel\":3,\"count\":2,\"scene\":\"夫妻在厨房一起做饭，两人都在搅拌锅里的食物\",\"background\":\"简单的架子和盆栽，以柔和的草图细节呈现\",\"characters\":[{\"role\":\"man\",\"appearance\":\"同样的眼镜和连帽衫\"},{\"role\":\"woman\",\"appearance\":\"同样的发髻和叠穿装束\"}],\"speech_bubble\":{\"speaker\":\"man\",\"text\":\"これからも、 笑い合って、支え合って、 一緒にいろんな景色を 見ていこうね。\"}},{\"panel\":4,\"count\":2,\"scene\":\"亲密的拥抱，丈夫亲吻妻子的额头，同时扶着她的肩膀\",\"characters\":[{\"role\":\"man\",\"appearance\":\"同样的眼镜和连帽衫\"},{\"role\":\"woman\",\"appearance\":\"同样的发型和装束，靠在他怀里\"}],\"speech_bubble\":{\"speaker\":\"man\",\"text\":\"大好きだよ。 これからも、 よろしくね！\"},\"decorations\":{\"count\":3,\"items\":[\"小爱心\",\"小爱心\",\"小爱心\"]}}],\"footer\":{\"text\":\"{argument name=\\\"footer text\\\" default=\\\"いつもそばにいてくれて、ありがとう。\\\"}\",\"position\":\"底部居中\",\"decorations\":{\"count\":1,\"items\":[\"小爱心\"]}},\"character_design\":{\"count\":2,\"items\":[{\"role\":\"husband\",\"hair color\":\"{argument name=\\\"hair color\\\" default=\\\"light brown\\\"}\",\"expression\":\"和蔼、温柔、深情\"},{\"role\":\"wife\",\"hair color\":\"{argument name=\\\"hair color\\\" default=\\\"light brown\\\"}\",\"expression\":\"温柔微笑、充满爱意、略带羞涩\"}]},\"rendering_notes\":\"保持所有文字为日文手写体，使用大量留白，保留夫妻纪念帖所需的甜蜜氛围，线条处理应略显随性，呈现草图感而非精细墨线\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "温馨四格夫妻漫画：此提示词可生成温馨浪漫的四格日式漫画，旨在赞美夫妻生活，非常适合用于社交媒体发帖、纪念插画或以情感为主题的漫画创作。",
+      "subject": "人物",
+      "scene": "综合视觉",
+      "composition": [
+        "grid",
+        "2x2"
+      ],
+      "style": [
+        "anime",
+        "manga",
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "风格对比、产品系列、前后对照、角色变体",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 综合视觉 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, 2x2]。\n\nVisual style:\n[参考风格: anime, manga, hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14639",
+      "13952",
+      "14519",
+      "15671",
+      "14162",
+      "14192"
+    ]
+  }
+}

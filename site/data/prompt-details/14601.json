@@ -1,0 +1,41 @@
+{
+  "id": "14601",
+  "prompt": "A sepia-toned ancient Chinese scroll painting reimagined as a visionary propaganda-style scene. In the center stands a scholarly robed figure styled like an imperial sage or philosopher, wearing flowing blue-gray hanfu with ornate trim, addressing a crowd of exactly 8 followers seen mostly from behind in the foreground. The sage’s face is intentionally obscured by a plain rectangular blur, and 3 members of the crowd also have blurred rectangular faces. The central figure raises one hand in a teaching gesture and holds a glowing geometric polyhedron crystal in the other hand. Behind him is a monumental hanging banner or framed plaque displaying the Google DeepMind logo and the words “Google DeepMind.” The background is a richly detailed traditional shanshui landscape with layered mountains, mist, trees, rocky formations, and a pagoda temple on the right. Along the upper right side, include vertical Chinese calligraphy text headed by “德米斯願景圖,” followed by several elegant columns of classical-style writing, plus a smaller vertical signature line and 2 red seal stamps. Use aged paper texture, muted brown ink, faded mineral pigments, fine linework, and the composition of a historic Chinese hanging scroll or literati painting, but with subtle anachronistic modern-AI symbolism. The overall mood is solemn, mythic, intellectual, and satirical, blending traditional East Asian art with corporate AI iconography.",
+  "translatedPrompt": "一幅深褐色调的中国古代卷轴画，被重新构想为具有愿景感的宣传风格场景。画面中央站着一位学者模样的长袍人物，造型如同帝国圣贤或哲学家，身着饰有华丽镶边的飘逸蓝灰色汉服，正对着前景中 8 位主要以背影示人的追随者讲学。圣贤的面部被刻意用一个纯色矩形模糊处理，人群中也有 3 位成员的面部呈现同样的矩形模糊。中央人物一手做出教导的手势，另一只手托着一颗发光的几何多面体水晶。在他身后是一面巨大的悬挂横幅或牌匾，上面展示着 Google DeepMind 的标志和“Google DeepMind”字样。背景是细节丰富的传统山水景观，包含层峦叠嶂、云雾、树木、岩石构造以及右侧的一座宝塔。在右上侧，加入以“德米斯願景圖”为标题的竖排中文书法，随后是几列优雅的古典风格文字，外加一行较小的竖排签名和 2 枚红色印章。采用陈旧的纸张纹理、柔和的棕色墨水、褪色的矿物颜料、细腻的线条，以及历史悠久的中国挂轴或文人画构图，但融入了微妙的时代错位现代 AI 象征意义。整体氛围庄重、神圣、知性且具有讽刺意味，将东亚传统艺术与企业 AI 图像学融为一体。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Ancient Scroll Google DeepMind Vision：此提示词旨在生成一幅仿古中国卷轴画，以讽刺手法将 Google DeepMind 描绘为古代神话背景下的哲学愿景。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [
+        "layered",
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14602",
+      "15521",
+      "14539",
+      "13891",
+      "14262",
+      "14266"
+    ]
+  }
+}

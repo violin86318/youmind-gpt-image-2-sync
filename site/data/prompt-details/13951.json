@@ -1,0 +1,38 @@
+{
+  "id": "13951",
+  "prompt": "{\n  \"type\": \"character avatar icon set\",\n  \"theme\": \"{argument name=\\\"theme\\\" default=\\\"Journey to the West characters\\\"}\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"clean flat vector illustration, cartoon style, solid colors, thick outlines\\\"}\",\n  \"background\": \"{argument name=\\\"background\\\" default=\\\"light gray textured background\\\"}\",\n  \"layout\": {\n    \"description\": \"2 rows of 4 circular portraits, each with Chinese and English text labels underneath\",\n    \"center_text\": \"{argument name=\\\"watermark\\\" default=\\\"@austinit\\\"}\"\n  },\n  \"avatars\": [\n    {\n      \"chinese_label\": \"孙悟空\",\n      \"english_label\": \"Sun Wukong\",\n      \"visuals\": \"monkey with golden headband, yellow shirt, blue scarf, holding a golden cudgel\"\n    },\n    {\n      \"chinese_label\": \"唐僧\",\n      \"english_label\": \"Tang Sanzang\",\n      \"visuals\": \"serene monk in red and gold robes, ornate five-lobed crown, holding a monk's staff\"\n    },\n    {\n      \"chinese_label\": \"猪八戒\",\n      \"english_label\": \"Zhu Bajie\",\n      \"visuals\": \"smiling pig-man in black robe, holding a nine-tooth rake\"\n    },\n    {\n      \"chinese_label\": \"沙悟净\",\n      \"english_label\": \"Sha Wujing\",\n      \"visuals\": \"bearded man with crescent headband, green robe, large beaded necklace, holding a crescent-moon spade\"\n    },\n    {\n      \"chinese_label\": \"白龙马\",\n      \"english_label\": \"White Dragon Horse\",\n      \"visuals\": \"white horse head with a decorative bridle\"\n    },\n    {\n      \"chinese_label\": \"太上老君\",\n      \"english_label\": \"Taishang Laojun\",\n      \"visuals\": \"elderly sage with long white beard, yellow robe, golden halo behind head, hand raised in a teaching gesture\"\n    },\n    {\n      \"chinese_label\": \"观音菩萨\",\n      \"english_label\": \"Guanyin\",\n      \"visuals\": \"serene goddess in white hooded robes, ornate jewelry, hand raised in blessing\"\n    },\n    {\n      \"chinese_label\": \"牛魔王\",\n      \"english_label\": \"Bull Demon King\",\n      \"visuals\": \"fierce blue-skinned minotaur with black horns, red hair, wearing armor and a red scarf\"\n    }\n  ]\n}",
+  "translatedPrompt": "{\n  \"type\": \"角色头像图标集\",\n  \"theme\": \"{argument name=\\\"theme\\\" default=\\\"西游记角色\\\"}\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"简洁扁平矢量插画，卡通风格，纯色，粗轮廓\\\"}\",\n  \"background\": \"{argument name=\\\"background\\\" default=\\\"浅灰色纹理背景\\\"}\",\n  \"layout\": {\n    \"description\": \"2 行 4 列圆形肖像，下方均带有中英文文本标签\",\n    \"center_text\": \"{argument name=\\\"watermark\\\" default=\\\"@austinit\\\"}\"\n  },\n  \"avatars\": [\n    {\n      \"chinese_label\": \"孙悟空\",\n      \"english_label\": \"Sun Wukong\",\n      \"visuals\": \"戴着金箍的猴子，身穿黄衫，系着蓝色围巾，手持金箍棒\"\n    },\n    {\n      \"chinese_label\": \"唐僧\",\n      \"english_label\": \"Tang Sanzang\",\n      \"visuals\": \"神态安详的僧人，身穿红金袈裟，头戴华丽的五佛冠，手持禅杖\"\n    },\n    {\n      \"chinese_label\": \"猪八戒\",\n      \"english_label\": \"Zhu Bajie\",\n      \"visuals\": \"面带微笑的猪头人身形象，身穿黑袍，手持九齿钉耙\"\n    },\n    {\n      \"chinese_label\": \"沙悟净\",\n      \"english_label\": \"Sha Wujing\",\n      \"visuals\": \"留着胡须的男子，戴着月牙头带，身穿绿袍，佩戴大念珠，手持降妖宝杖\"\n    },\n    {\n      \"chinese_label\": \"白龙马\",\n      \"english_label\": \"White Dragon Horse\",\n      \"visuals\": \"带有装饰性马笼头的白马头像\"\n    },\n    {\n      \"chinese_label\": \"太上老君\",\n      \"english_label\": \"Taishang Laojun\",\n      \"visuals\": \"留着长白胡须的年长圣人，身穿黄袍，脑后有金色光环，单手举起作讲经状\"\n    },\n    {\n      \"chinese_label\": \"观音菩萨\",\n      \"english_label\": \"Guanyin\",\n      \"visuals\": \"神态安详的女神，身穿白色连帽长袍，佩戴华丽首饰，单手举起作祝福状\"\n    },\n    {\n      \"chinese_label\": \"牛魔王\",\n      \"english_label\": \"Bull Demon King\",\n      \"visuals\": \"凶猛的蓝色皮肤牛头人，长着黑色犄角，红发，身穿盔甲并系着红色围巾\"\n    }\n  ]\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "西游记角色头像网格：生成一个 2x4 的圆形角色头像网格，并附带双语标签，非常适合 UI/UX 原型设计或游戏素材。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13511",
+      "13547",
+      "13684",
+      "13767",
+      "13795",
+      "13925"
+    ]
+  }
+}

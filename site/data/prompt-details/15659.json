@@ -1,0 +1,48 @@
+{
+  "id": "15659",
+  "prompt": "A dreamy, cinematic fantasy illustration in vertical poster format, showing {argument name=\"celebrity model\" default=\"Liu Yifei\"} in side profile walking barefoot across a perfectly still midnight-blue lake under a luminous full moon and a richly detailed star-filled sky with the Milky Way stretching diagonally behind her. She is a graceful East Asian woman with shoulder-length dark hair, wearing a shimmering silver sleeveless evening gown with a flowing skirt and a thigh slit, the fabric sparkling like stardust. Her expression is calm and introspective, and she faces to the right as one foot touches the water, creating delicate glowing ripples. Two small dark islands sit low on the horizon, one on each side, emphasizing the vast open water and sky. A glowing vine of soft white roses and petals wraps around her body in an elegant S-curve, beginning behind her upper back, spiraling around her waist and legs, and continuing downward into the reflection. Beneath the water, instead of a normal reflection, create a large luminous line-art tiger formed from fine white neon-like contours, upside down relative to the woman above, with its body curled dynamically and its head near a large glowing white rose at the lower right; the tiger should feel majestic, lean, and ethereal rather than aggressive. The overall palette is cool blue, silver, and white, with gentle moonlight, soft bloom, mirror-like reflections, magical realism, ultra-clean composition, high detail, romantic fantasy mood. Add elegant cursive text centered near the bottom that reads {argument name=\"quote\" default=\"In me the tiger sniffs the rose.\"}, plus one small four-point star icon near the lower right corner. Make it refined, poetic, and visually symbolic of inner strength and tenderness.",
+  "translatedPrompt": "一张梦幻般的电影级奇幻插画，采用竖版海报格式。画面展示了 {argument name=\"celebrity model\" default=\"刘亦菲\"} 的侧影，她赤脚走在平静如镜的午夜蓝色湖面上，头顶是明亮的满月和细节丰富的星空，银河在身后斜向延伸。她是一位优雅的东亚女性，留着齐肩黑发，身穿闪烁着星尘般光芒的银色无袖晚礼服，裙摆飘逸且带有高开叉。她神情平静而内省，面向右侧，一只脚触碰水面，激起细腻的发光涟漪。地平线两侧各有一座低矮的小岛，突显出广阔的水域与天空。一株发光的柔美白玫瑰藤蔓以优雅的 S 型曲线缠绕在她的身上，从她后背上方开始，盘旋过腰部和腿部，并向下延伸至水中的倒影里。在水面之下，倒影并非普通的镜像，而是一只由纤细白色霓虹轮廓构成的巨大发光线条虎，与上方女子呈倒置关系，虎身动态蜷曲，虎头靠近右下角一朵巨大的发光白玫瑰；这只虎应显得威严、精瘦且空灵，而非具有攻击性。整体色调为冷蓝色、银色与白色，伴有柔和月光、光晕效果、镜面反射、魔幻现实主义、极简构图、高细节，营造出浪漫的奇幻氛围。在底部中心添加优雅的草书文字 {argument name=\"quote\" default=\"心有猛虎，细嗅蔷薇。\"}，并在右下角添加一个小巧的四角星图标。整体风格精致、富有诗意，视觉上象征着内在的力量与温柔。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "月光下的虎与玫瑰奇幻海报：此提示词可生成一张充满诗意的竖版奇幻海报，画面描绘了月光下水面上的女子，伴有发光的虎影倒影与玫瑰藤蔓，非常适合用于艺术引语配图及象征性 AI 艺术创作。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: cinematic, fantasy]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15466",
+      "15663",
+      "15694",
+      "14593",
+      "15740",
+      "13769"
+    ]
+  }
+}

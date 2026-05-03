@@ -1,0 +1,45 @@
+{
+  "id": "15290",
+  "prompt": "A cute hand-drawn scrapbook-style horizontal educational infographic in Chinese on a warm beige paper background with rounded borders, pastel doodles, tape stickers, tiny stars, and a classroom-notebook aesthetic. The top center has a large headline in playful handwritten Chinese: \"什么是分词？\" with the second half in coral pink and the rest in dark brown. On the upper left, a chibi Shiba Inu teacher character stands facing forward, wearing a pale yellow shirt and blue necktie, holding a pointer stick upward, with a speech bubble that says \"今天来学习分词(Tokenization)!\". On the upper right, a cute blue square token mascot labeled \"TOKEN\" sits smiling, with blush cheeks, tiny legs and arms, and a magnifying glass; next to it is a speech bubble saying \"我是 Token！被切得越合理，模型越聪明！\". Near the right edge, add a small hanging notepad card reading \"知识点 收藏夹\" with a heart icon. Beneath the headline, place a rounded dashed text box containing the definition: \"分词是将人类可读的文本切分成 Token 的过程。\" with the word \"Token\" highlighted in blue. Below that, add a line of explanatory text: \"下面以 “程序员Left” 和 “人工智能” 为例，看看不同的分词方式：\" with \"程序员Left\" highlighted in light blue and \"人工智能\" highlighted in pink. The lower half contains exactly 4 rounded pastel panels arranged left to right, each with a numbered badge and title. Panel 1 is mint green and titled \"1 词级分词\". It includes the subtitle \"按完整语义划分文本\" and exactly 3 token bubbles: \"程序员\", \"Left\", \"人工智能\". At the bottom of this panel, show the Shiba Inu teacher giving a thumbs up with a speech bubble saying \"语义完整，容易理解！\". Panel 2 is pale yellow and titled \"2 字符级分词\". It includes the subtitle \"逐字切分文本\" and exactly 9 circular token bubbles arranged in rows: \"程\", \"序\", \"员\", \"L\", \"e\", \"f\", \"t\", \"人\", \"工\", \"智\", \"能\"—visually presented as individual characters from the example text, in a compact grid. At the bottom, show the blue token mascot holding a pencil, with a speech bubble saying \"粒度最细，但序列会很长~\". Panel 3 is pale pink and titled \"3 子词分词\". It includes the subtitle \"按词根以及前后缀划分\" and exactly 5 token bubbles: \"程序\", \"员\", \"Left\", \"人工\", \"智能\". At the bottom, show the Shiba Inu teacher thinking with one paw at its mouth and a question mark above the head, with a speech bubble saying \"折中方案，效果 often 很好！\". Panel 4 is pale blue and titled \"4 字节级分词\". It includes the subtitle \"将字词转为字节编码，根据转换后的内容进行组合和划分\" and displays exactly 14 small circular code bubbles: \"E7\", \"A8\", \"8B\", \"...\", \"66\", \"74\", \"E4\", \"BA\", \"BA\", \"E8\", \"83\", \"BD\", \"...\" arranged in multiple rows like encoded bytes. At the bottom, show the blue token mascot again, smiling, with a speech bubble saying \"适合处理任意文本！\" and a tiny light bulb doodle nearby. Across the very bottom, place a rounded banner note that reads: \"不同分词方式各有优势，实际应用中会根据任务和数据选择合适的方案哦！\". Use soft pastel green, yellow, pink, and blue for the four panels, dark brown handwritten text, subtle shadows, rounded shapes, and adorable kawaii expressions throughout. Keep the composition balanced, clean, and friendly, like a polished social-media science explainer poster.",
+  "translatedPrompt": "一张可爱的横版手绘剪贴簿风格中文科普信息图，背景为暖米色纸张，带有圆角边框、马卡龙色涂鸦、胶带贴纸、小星星，充满课堂笔记本的氛围。顶部中央有醒目的手写体中文标题：“什么是分词？”，其中后半部分为珊瑚粉色，其余部分为深棕色。左上方有一只 Q 版柴犬老师角色，身穿淡黄色衬衫，系着蓝色领带，正面向前方，手持教鞭向上，旁边的对话气泡写着：“今天来学习分词 (Tokenization)！”。右上方有一个可爱的蓝色方形 Token 吉祥物，上面标有“TOKEN”，正微笑着，脸颊红润，长着细小的四肢，手里拿着放大镜；旁边有一个对话气泡写着：“我是 Token！被切得越合理，模型越聪明！”。在右边缘附近，添加一张悬挂的小记事卡，上面写着“知识点 收藏夹”，并配有一个爱心图标。在标题下方，放置一个圆角虚线文本框，包含定义：“分词是将人类可读的文本切分成 Token 的过程。”，其中“Token”一词用蓝色高亮显示。下方添加一行说明文字：“下面以 “程序员Left” 和 “人工智能” 为例，看看不同的分词方式：”，其中“程序员Left”用浅蓝色高亮，“人工智能”用粉色高亮。下半部分包含 4 个从左到右排列的圆角马卡龙色面板，每个面板都有编号徽章和标题。面板 1 为薄荷绿，标题为“1 词级分词”，副标题为“按完整语义划分文本”，包含 3 个 Token 气泡：“程序员”、“Left”、“人工智能”。在此面板底部，展示柴犬老师竖起大拇指，对话气泡写着：“语义完整，容易理解！”。面板 2 为淡黄色，标题为“2 字符级分词”，副标题为“逐字切分文本”，包含 9 个排列成行的圆形 Token 气泡：“程”、“序”、“员”、“L”、“e”、“f”、“t”、“人”、“工”、“智”、“能”——以紧凑的网格形式呈现示例中的单个字符。底部展示蓝色 Token 吉祥物手持铅笔，对话气泡写着：“粒度最细，但序列会很长~”。面板 3 为淡粉色，标题为“3 子词分词”，副标题为“按词根以及前后缀划分”，包含 5 个 Token 气泡：“程序”、“员”、“Left”、“人工”、“智能”。底部展示柴犬老师正在思考，一只爪子放在嘴边，头顶上方有一个问号，对话气泡写着：“折中方案，效果 often 很好！”。面板 4 为淡蓝色，标题为“4 字节级分词”，副标题为“将字词转为字节编码，根据转换后的内容进行组合和划分”，展示 14 个圆形小代码气泡：“E7”、“A8”、“8B”、“...”、“66”、“74”、“E4”、“BA”、“BA”、“E8”、“83”、“BD”、“...”像编码字节一样排列成多行。底部再次展示微笑的蓝色 Token 吉祥物，对话气泡写着：“适合处理任意文本！”，旁边有一个微小的灯泡涂鸦。在最底部，放置一个圆角横幅备注，写着：“不同分词方式各有优势，实际应用中会根据任务和数据选择合适的方案哦！”。四个面板使用柔和的马卡龙绿、黄、粉、蓝色，搭配深棕色手写字体、细腻的阴影、圆润的形状和可爱的表情。整体构图平衡、简洁且友好，如同精美的社交媒体科普海报。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "可爱的中文分词科普信息图：此提示词用于生成一张手绘风格的横版中文科普信息图，背景采用柔和的马卡龙色调，由柴犬老师和蓝色 Token 吉祥物共同讲解四种分词方法，非常适合社交媒体的科普分享。",
+      "subject": "产品",
+      "scene": "图标/贴纸",
+      "composition": [
+        "grid",
+        "horizontal"
+      ],
+      "style": [
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "图标包、贴纸、表情、产品功能图标",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 图标/贴纸 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, horizontal]。\n\nVisual style:\n[参考风格: hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14993",
+      "14665",
+      "15029",
+      "13534",
+      "13994",
+      "14196"
+    ]
+  }
+}

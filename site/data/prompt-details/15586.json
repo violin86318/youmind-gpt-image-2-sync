@@ -1,0 +1,36 @@
+{
+  "id": "15586",
+  "prompt": "画像を参照して、特撮映画「{argument name=\"映画タイトル\" default=\"ダイケンジャーVSグランデイン\"}」のポスターを作ってください。上映館やスケジュールなども入れてリアルな感じにしてください。",
+  "translatedPrompt": "参考该图像，请为特摄电影“{argument name=\"movie title\" default=\"Daikenger VS Grandein\"}”制作一张海报。通过加入放映影院和排片时间表，使其看起来更加逼真。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "特摄电影海报生成器：一个用于创建逼真特摄电影海报的提示词，包含影院排片和特定电影标题等细节，专为配合参考图像使用而设计。",
+      "subject": "综合主体",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13973",
+      "14331",
+      "14358",
+      "14365",
+      "14764",
+      "15220"
+    ]
+  }
+}

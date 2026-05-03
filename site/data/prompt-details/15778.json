@@ -1,0 +1,54 @@
+{
+  "id": "15778",
+  "prompt": "A luxurious cinematic product photograph of a classic rectangular perfume bottle inspired by {argument name=\"brand label\" default=\"N°5 CHANEL PARIS PARFUM\"}, placed upright on a glossy black marble surface with white veining. The bottle is centered slightly to the right, made of clear faceted glass with a large transparent crystal stopper, filled with rich amber-gold perfume that glows from within. Tiny condensation droplets cover the glass, adding texture and realism. Dramatic warm lighting from the upper left creates golden highlights, deep reflections on the marble, and a soft luminous bloom in the background. Wisps of elegant smoke curl around the bottle on both sides, enhancing a moody high-end advertisement feel. Dark background, shallow depth of field, ultra-detailed studio product photography, luxury beauty campaign aesthetic, crisp focus on the bottle, realistic reflections, warm black-and-gold color palette. Add a small white {argument name=\"corner logo\" default=\"Pollo.ai\"} in the top-right corner. Square composition, premium commercial ad, photorealistic, high contrast, refined and sophisticated.",
+  "translatedPrompt": "一张奢华的电影级产品摄影图，展示了一款经典的矩形香水瓶，灵感源自 {argument name=\"brand label\" default=\"N°5 CHANEL PARIS PARFUM\"}，垂直放置在带有白色纹理的亮面黑色大理石台面上。瓶身位于画面中心偏右位置，由透明切面玻璃制成，配有大型透明水晶瓶盖，瓶内盛满散发着内在光泽的浓郁琥珀金色香水。细小的冷凝水珠覆盖在玻璃表面，增添了质感与真实感。来自左上方的戏剧性暖光营造出金色高光、大理石上的深邃倒影，以及背景中柔和的发光晕影。优雅的烟雾缭绕在瓶身两侧，增强了高端广告的氛围感。深色背景，浅景深，超精细摄影棚产品摄影，奢华美妆广告美学，瓶身焦点清晰，逼真的倒影，温暖的黑金配色方案。在右上角添加一个小型的白色 {argument name=\"corner logo\" default=\"Pollo.ai\"}。方形构图，高端商业广告，照片级逼真，高对比度，精致且高级。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奢华琥珀香水广告：一张照片级逼真的奢华香水广告图片，非常适合美妆品牌推广、高端产品营销活动及社交媒体宣传。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "luxury",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "high contrast",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, luxury, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: high contrast, shallow depth, depth of field]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15419",
+      "14806",
+      "15410",
+      "14808",
+      "14831",
+      "14598"
+    ]
+  }
+}

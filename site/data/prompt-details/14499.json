@@ -1,0 +1,47 @@
+{
+  "id": "14499",
+  "prompt": "Create a flashy Japanese YouTube thumbnail in a high-impact anime promotional style with explosive lighting, dense spark effects, and dramatic contrast. The composition is a single unified scene with a dark black-and-neon-green background, gold glitter bursts, and a subtle city skyline silhouette along the bottom edge. On the right side, show a cute chibi anime boy from the waist up with messy dark brown to black hair accented by vivid neon green streaks and a small red accent near one side, huge bright green eyes, an open excited smile, and an energetic pose pointing directly toward the viewer with one hand while the other fist is raised. He wears a black hoodie layered under a green jacket with glossy highlights. On the left side, place 1 glowing green hourglass with swirling green energy inside. Fill the image with intense starbursts, lens flares, golden particles, and speed-line energy for a viral thumbnail look. Add 5 bold Japanese text elements in oversized display typography: a red ribbon banner across the upper left reading {argument name=\"top banner text\" default=\"4月28日スタート\"} in thick yellow letters with white edging; the main central headline in massive metallic gold kanji reading {argument name=\"main headline\" default=\"ついに解禁\"} with heavy black shadow and bright gold texture; a large white-and-green subheadline across the lower left reading {argument name=\"subheadline\" default=\"AI副業で人生変わる\"}; 1 green rounded badge near the lower center-right reading {argument name=\"bonus badge text\" default=\"無料10大特典\"} in bold white and yellow text; and 1 black slanted banner in the lower right reading {argument name=\"corner banner text\" default=\"近日公開\"} with smaller white English text beneath it saying COMING SOON. Make everything feel urgent, celebratory, and attention-grabbing, like a high-CTR launch announcement thumbnail, with thick outlines, glowing edges, metallic text, and layered depth.",
+  "translatedPrompt": "制作一张极具冲击力的动漫宣传风格日本 YouTube 缩略图，包含爆炸性光效、密集的火花特效和强烈的对比度。构图为一个统一的场景，背景为深黑色与霓虹绿结合，点缀金色闪光，底部边缘带有微妙的城市天际线剪影。画面右侧展示一名可爱的 Q 版动漫男孩，半身像，凌乱的深棕色至黑色头发，带有鲜艳的霓虹绿挑染和一侧的小红点装饰，拥有巨大的亮绿色眼睛，张嘴大笑，姿势充满活力，一只手指向观众，另一只手握拳举起。他身穿黑色连帽衫，外搭一件带有光泽感的绿色夹克。画面左侧放置 1 个发光的绿色沙漏，内部有旋转的绿色能量。用强烈的星芒、镜头光晕、金色粒子和速度线能量填充画面，打造病毒式传播的缩略图效果。添加 5 个醒目的日语文本元素，使用超大号展示型字体：左上角横跨一条红色丝带横幅，上面写着 {argument name=\"top banner text\" default=\"4月28日スタート\"}，采用粗体黄色字母配白色描边；中央主标题使用巨大的金属质感金色汉字，写着 {argument name=\"main headline\" default=\"ついに解禁\"}，带有厚重的黑色阴影和明亮的金色纹理；左下方横跨一行巨大的白绿配色副标题，写着 {argument name=\"subheadline\" default=\"AI副業で人生変わる\"}；右下中心附近放置 1 个绿色圆形徽章，写着 {argument name=\"bonus badge text\" default=\"無料10大特典\"}，采用粗体白色和黄色文字；右下角放置 1 个黑色斜向横幅，写着 {argument name=\"corner banner text\" default=\"近日公開\"}，下方附带较小的白色英文文本“COMING SOON”。整体氛围营造出紧迫感、庆典感和极强的吸睛效果，如同高点击率的发布会缩略图，具备粗轮廓、发光边缘、金属质感文字和丰富的层次感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "爆款动漫风发布会缩略图：一款大胆的动漫风格日本宣传缩略图，适用于发布会公告、在线课程广告或 AI 商业营销视觉素材。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "layered"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [
+        "neon",
+        "lens"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[参考光线镜头: neon, lens]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14460",
+      "14593",
+      "15740",
+      "15653",
+      "14505",
+      "14518"
+    ]
+  }
+}

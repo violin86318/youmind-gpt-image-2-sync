@@ -1,0 +1,41 @@
+{
+  "id": "14206",
+  "prompt": "A watercolor illustration of a children's picture book cover. The main subject is a {argument name=\"character appearance\" default=\"cute furry kemonomimi girl with short green hair, cat ears, and green eyes\"}. She is {argument name=\"action\" default=\"smiling happily while holding up her middle finger\"} with a white-furred hand. She wears a green garment with a fluffy white collar. The background features soft, painted green foliage and small yellow flowers on textured paper. At the top, large hand-drawn green Japanese text reads \"{argument name=\"main title\" default=\"なかゆびさん\"}\". Below it, brown Japanese text reads \"{argument name=\"subtitle\" default=\"こんにちは\"}\". On the middle-left, smaller black text reads \"{argument name=\"author text\" default=\"さく・え：とらの\"}\". The image has a visible book spine on the left edge, emphasizing the physical book format.",
+  "translatedPrompt": "A watercolor illustration of a children's picture book cover. The main subject is a {argument name=\"character appearance\" default=\"cute furry kemonomimi girl with short green hair, cat ears, and green eyes\"}. She is {argument name=\"action\" default=\"smiling happily while holding up her middle finger\"} with a white-furred hand. She wears a green garment with a fluffy white collar. The background features soft, painted green foliage and small yellow flowers on textured paper. At the top, large hand-drawn green Japanese text reads \"{argument name=\"main title\" default=\"なかゆびさん\"}\". Below it, brown Japanese text reads \"{argument name=\"subtitle\" default=\"こんにちは\"}\". On the middle-left, smaller black text reads \"{argument name=\"author text\" default=\"さく・え：とらの\"}\". The image has a visible book spine on the left edge, emphasizing the physical book format.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Watercolor Picture Book Cover：Generates a soft watercolor-style children's book cover featuring a cute character and customizable Japanese title text.",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "watercolor",
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: watercolor, hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13524",
+      "13556",
+      "13659",
+      "13682",
+      "13796",
+      "13871"
+    ]
+  }
+}

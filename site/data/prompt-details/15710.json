@@ -1,0 +1,46 @@
+{
+  "id": "15710",
+  "prompt": "A vibrant anime-style DJ girl in a cute, dreamy rave aesthetic, centered in a close-up upper-body composition behind a professional DJ controller. She wears oversized rainbow bunny ears on a headband and large rainbow over-ear headphones, with one hand pressing the right headphone cup and the other hand touching the left turntable as if cueing the next track. Use a slightly low-angle viewpoint looking up at her to create an energetic, emotional performance mood. Give her a short straight bob haircut with blunt bangs in {argument name=\"hair color\" default=\"pastel blonde with rainbow-tinted ends\"}. Her face should show a playful DJ expression: one eye winking and a wide mischievous grin, as if she is about to drop the beat. Dress her in a white hoodie with rainbow-striped cuffs and two small red heart patches on the chest and sleeve. The DJ setup should include exactly 2 turntables, 1 central mixer section, 4 vertical channel faders, 3 EQ knob rows, and 2 small display screens with glowing waveform-like graphics. Fill the background with a soft lavender-to-pink gradient, tiny sparkles, floating pastel hearts, and exactly 6 colorful music-note icons scattered around the character. Render it in polished, glossy, high-detail anime illustration style with luminous rainbow lighting, soft shading, clean line art, saturated colors, cute idol-meets-club energy, and an extra emotive, magical, “emo” atmosphere.",
+  "translatedPrompt": "一位充满活力的动漫风格 DJ 女孩，身处可爱梦幻的锐舞美学场景中，画面为半身特写，位于专业 DJ 控制台后方。她戴着超大号彩虹兔耳发箍和大型彩虹头戴式耳机，一只手按在右侧耳机罩上，另一只手触碰左侧唱盘，仿佛正在准备下一首曲目。采用略微仰视的视角，营造出充满活力和情感的表演氛围。为她设计一款短直波波头，配上齐刘海，发色为 {argument name=\"hair color\" default=\"带有彩虹发梢的浅金色\"}。她的面部表情应展现出俏皮的 DJ 神态：一只眼睛眨眼，嘴角露出调皮的笑容，仿佛正准备引爆全场。她身穿一件白色连帽衫，袖口带有彩虹条纹，胸前和袖子上各有一个红色小爱心补丁。DJ 设备应包含 2 个唱盘、1 个中央混音台、4 个垂直通道推子、3 排均衡器旋钮以及 2 个带有发光波形图的小显示屏。背景填充柔和的淡紫色到粉色的渐变，点缀着微小的闪光、漂浮的柔和爱心，以及 6 个围绕在角色周围的彩色音符图标。采用精致、光亮、高细节的动漫插画风格渲染，配合发光的彩虹灯效、柔和的阴影、干净的线条、饱和的色彩，展现出偶像与夜店碰撞的可爱能量，以及一种极具感染力的魔法“emo”氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "彩虹兔 DJ 动漫肖像：一个色彩斑斓的动漫 DJ 肖像提示词，用于创作带有彩虹配饰和俏皮眨眼表情的可爱、充满情感的夜店主题角色插画。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "close-up",
+        "vertical"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, close-up, vertical]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14534",
+      "15090",
+      "15017",
+      "15375",
+      "15635",
+      "15805"
+    ]
+  }
+}

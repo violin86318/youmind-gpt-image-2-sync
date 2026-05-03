@@ -1,0 +1,44 @@
+{
+  "id": "13504",
+  "prompt": "A genuinely low-quality, grainy, black-and-white CCTV security camera still showing a {argument name=\"subject\" default=\"classic grey alien with a large head and skinny body\"} standing next to a gas pump at a {argument name=\"setting\" default=\"deserted gas station at night\"}. The gas pump has the word \"UNLEADED\" printed on the top canopy and a large number \"2\" on the side. In the bottom left corner, there is a digital timestamp overlay reading \"{argument name=\"camera label\" default=\"CAM 2\"}\", \"{argument name=\"date\" default=\"OCT 27 2004\"}\", and \"12:04:16 AM\" in a retro pixelated font. The overall aesthetic is authentic early-2000s surveillance footage with heavy noise, poor contrast, and VHS-style artifacts.",
+  "translatedPrompt": "一张画质粗糙、带有颗粒感的黑白 CCTV 安防监控静态图像，画面中显示一个 {argument name=\"subject\" default=\"有着大头和瘦小身体的经典灰色外星人\"} 正站在 {argument name=\"setting\" default=\"深夜荒无人烟的加油站\"} 的加油泵旁。加油泵顶部遮阳棚上印有“UNLEADED”字样，侧面有一个大大的数字“2”。左下角叠加了数字时间戳，显示为“{argument name=\"camera label\" default=\"CAM 2\"}”、“{argument name=\"date\" default=\"OCT 27 2004\"}”以及“12:04:16 AM”，字体采用复古像素风格。整体视觉效果呈现出 21 世纪初真实的监控录像质感，带有强烈的噪点、低对比度以及 VHS 风格的伪影。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "CCTV 安防监控录像：生成一张逼真的、低画质的黑白监控摄像头静态图像，支持自定义主体和时间戳。",
+      "subject": "文字符号",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "retro"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: retro]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13761",
+      "13683",
+      "13826",
+      "13963",
+      "14487",
+      "14512"
+    ]
+  }
+}

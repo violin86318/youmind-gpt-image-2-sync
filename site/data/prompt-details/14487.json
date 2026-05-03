@@ -1,0 +1,44 @@
+{
+  "id": "14487",
+  "prompt": "Using the provided reference image, keep the same garden, pond, trees, hillside, and wooden deck viewpoint, but reposition the decorative sign installation so it stands on the wooden deck in the foreground instead of in the water. Enlarge it and center it more prominently in front of the camera while preserving a believable outdoor perspective, natural daylight, and consistent shadows. Keep the installation structure as a 3-column by 3-row set of 9 circular sign panels on slim green stands with the top header sign reading “对着镜子笑一场”. Make the panels look more reflective and mirror-like, showing realistic reflections of the surrounding greenery, while retaining the cute face graphics and Chinese text on the circles. The result should look like a realistic ad mockup/composite photo of the same display placed correctly in the scene.",
+  "translatedPrompt": "使用提供的参考图像，保持相同的花园、池塘、树木、山坡和木质露台视角，但将装饰性标识装置重新定位，使其立在前景的木质露台上，而不是水中。将其放大并更显眼地置于镜头中心，同时保持逼真的户外透视、自然日光和一致的阴影。保持装置结构为 3 列 3 行共 9 个圆形标识面板，放置在细长的绿色支架上，顶部标题栏文字为“对着镜子笑一场”。使面板看起来更具反光感和镜面效果，呈现周围绿植的逼真倒影，同时保留圆形面板上的可爱表情图案和中文字符。最终效果应呈现为一张逼真的广告样机/合成照片，展示该装置在场景中正确放置的状态。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "将展示架移至露台上：此提示词旨在将参考促销展示架放置在同一户外场景的木质露台上，以制作逼真的环境广告样机。",
+      "subject": "综合主体",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13504",
+      "15226",
+      "13667",
+      "13676",
+      "13696",
+      "13732"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "14392",
+  "prompt": "مخطوطة بالخط الحر بتكوين طولي كل كلمة في سطر باتزان متكافئ وخلفها هايلايت مذهل، الكلمات تكون حولها ستروك مع حليات بشكل هندسي جميل، في الخلفية بنمط مينيمال جميل ثنائي الابعاد بطابع الليستريشن رايزوقراف مع فايبرانت كلرز بدرجات {argument name=\"الألوان\" default=\"البنفسجي والبرتقال و الابيض\"} مع تاثير فيلم قرين ورايزوغراف، الجملة \"{argument name=\"الجملة\" default=\"كن طموحا لاتقيده الحدود\"}\" والجو العام بتاثير جماليات {argument name=\"النمط\" default=\"حكايات الاطفال\"} مع حدة في المخرجات ووضوع عاليا وابراز للتفاصيل بشكل مبهر",
+  "translatedPrompt": "采用竖构图的手写书法，每个词都处于平衡的行间，背后带有令人惊艳的高光效果。文字轮廓由精美的几何装饰勾勒。背景为精美的极简 2D 孔版印刷插画，色彩鲜艳，色调为 {argument name=\"colors\" default=\"紫色、橙色和白色\"}，并带有胶片颗粒感和孔版印刷效果。短语为“{argument name=\"phrase\" default=\"Be ambitious, let no boundaries limit you\"}”，整体氛围受 {argument name=\"style\" default=\"儿童故事\"} 美学影响，输出锐利、清晰度高且细节令人赞叹。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "充满活力的插画风格书法设计：一份详细的提示词，用于创作采用竖构图手写字体的书法艺术，背景为充满活力的橙色和紫色调孔版印刷（Risograph）插画。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13449",
+      "13520",
+      "13610",
+      "13646",
+      "13687",
+      "13702"
+    ]
+  }
+}

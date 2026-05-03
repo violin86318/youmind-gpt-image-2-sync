@@ -1,0 +1,39 @@
+{
+  "id": "14303",
+  "prompt": "Generate an image of a {argument name=\"subject\" default=\"funny guy\"} that is live-streaming on {argument name=\"platform\" default=\"tiktok\"} and has {argument name=\"decorations\" default=\"3d cartoon characters\"} around him - design something funny.",
+  "translatedPrompt": "生成一张 {argument name=\"subject\" default=\"搞笑男\"} 的图片，他正在 {argument name=\"platform\" default=\"tiktok\"} 上直播，周围环绕着 {argument name=\"decorations\" default=\"3D 卡通角色\"} —— 设计出一些有趣的内容。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "有趣的 TikTok 直播，配有卡通角色：一个创意提示词，用于生成一个人在 TikTok 上直播，周围环绕着滑稽的 3D 卡通角色的场景。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "3d"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: 3d]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15147",
+      "13830",
+      "13755",
+      "13758",
+      "14761",
+      "15180"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "13718",
+  "prompt": "9:16 的图片，生成一张{argument name=\"平台\" default=\"哔哩哔哩\"}直播的截图，里面是 {argument name=\"人物\" default=\"户晨风\"}在直播，户晨风表情开心，手里拿着牌子，牌子里写着 “{argument name=\"文字\" default=\"Austin总太性情了，大家给Austin总点点关注。\"}”",
+  "translatedPrompt": "一张 9:16 的图像，生成一张 {argument name=\"platform\" default=\"Bilibili\"} 直播截图，画面中 {argument name=\"person\" default=\"胡晨峰\"} 正在直播，表情愉悦，手中拿着一块写有“{argument name=\"text\" default=\"Austin CEO 太大方了，大家快关注他。\"}”的标语牌。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Bilibili 直播场景：一个用于生成 9:16 竖屏图像的提示词，模拟 Bilibili 直播间场景，包含特定人物及自定义标语。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13725",
+      "14311",
+      "14861",
+      "15395",
+      "15516",
+      "15535"
+    ]
+  }
+}

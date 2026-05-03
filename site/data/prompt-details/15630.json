@@ -1,0 +1,47 @@
+{
+  "id": "15630",
+  "prompt": "A luminous impressionistic watercolor-style illustration of a young woman standing on a lakeside shore beneath a leafy tree in bright summer sunlight. She is shown in side profile, facing right toward the water, with her face mostly obscured by angle and light. Her dark brown hair is loosely gathered into a messy low ponytail with soft wisps blowing in the breeze. She wears a flowing ankle-length white dress with sheer, airy fabric and loose sleeves, gently billowing as if caught by a warm wind. One hand rests behind her on a dark rock or tree-rooted boulder at the left edge, while her body leans slightly back in a relaxed, reflective pose. The foreground is filled with a dense cluster of wild cosmos flowers in exactly 2 main colors, vivid orange and golden yellow, with thin green stems and a few tiny white blossoms mixed in. A large tree trunk rises on the left, and an overhead canopy of fresh green leaves filters sparkling sunlight, creating dappled light, glowing highlights, and soft bokeh-like flecks across the scene. To the right, calm turquoise-blue water stretches into the distance with pale ripples and a hazy shoreline or low mountains far away. Use a high-key palette of fresh greens, aqua, white, yellow, and orange; soft painterly brushwork; airy atmosphere; romantic seasonal feeling; elegant composition; vertical framing; detailed flowers in the foreground; bright natural backlighting; and a serene, dreamlike mood.",
+  "translatedPrompt": "一幅明亮的印象派水彩风格插画，描绘了一位年轻女性站在夏日明媚阳光下、绿树成荫的湖畔。她呈侧面轮廓，面向右侧的水面，面部大部分被角度和光线遮挡。她深棕色的头发松散地扎成一个凌乱的低马尾，几缕发丝在微风中轻轻飘动。她身着一件飘逸的及踝白色长裙，面料轻盈透气，袖口宽松，在暖风中轻轻起伏。她的一只手向后撑在左侧边缘的一块深色岩石或树根上，身体微微后倾，姿态放松而沉思。前景中布满了茂密的野生波斯菊，主要由鲜艳的橙色和金黄色两种颜色组成，点缀着纤细的绿色茎秆和少量白色小花。左侧是一棵粗壮的树干，头顶上方茂密的绿叶过滤着闪烁的阳光，在画面上营造出斑驳的光影、明亮的亮部以及柔和的虚化光斑。右侧，平静的绿松石色湖水向远方延伸，泛起淡淡的涟漪，远处可见朦胧的岸线或低矮的山峦。采用高调配色，以清新的绿色、水蓝色、白色、黄色和橙色为主；运用柔和的绘画笔触；营造轻盈的氛围、浪漫的季节感和优雅的构图；采用竖构图；前景花卉细节丰富；呈现明亮的自然逆光效果；整体氛围宁静且如梦似幻。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "夏日湖畔的印象派女性：此提示词可生成一幅明亮的油画风格湖畔肖像，描绘了一位身着白裙的女性置身于橙黄色野花丛中，非常适合创作梦幻般的季节性插画艺术。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "watercolor"
+      ],
+      "lightingCamera": [
+        "backlight"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: watercolor]。\n\nLighting and camera:\n[参考光线镜头: backlight]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14414",
+      "14454",
+      "15032",
+      "15381",
+      "14084",
+      "14301"
+    ]
+  }
+}

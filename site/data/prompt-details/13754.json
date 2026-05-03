@@ -1,0 +1,42 @@
+{
+  "id": "13754",
+  "prompt": "Photorealistic portrait of a female cosplayer at a {argument name=\"setting\" default=\"crowded anime convention hall\"}. She has long {argument name=\"hair color\" default=\"teal\"} hair, {argument name=\"eye color\" default=\"heterochromia, one blue and one amber\"} eyes, and wears {argument name=\"headwear\" default=\"deer antlers and a small purple crown\"} with a yellow rose clip. Her outfit is a {argument name=\"outfit style\" default=\"teal two-piece idol costume with ruffled skirt\"}, gold trim, wave patterns, gem choker, black fingerless gloves, and fishnet tights. She poses with a peace sign and one hand on her hip against a blurred background of convention attendees and bokeh lighting.",
+  "translatedPrompt": "一位女性 Cosplayer 在 {argument name=\"setting\" default=\"拥挤的动漫展厅\"} 的照片级写实肖像。她留着长长的 {argument name=\"hair color\" default=\"青色\"} 头发，有着 {argument name=\"eye color\" default=\"异色瞳，一只蓝色一只琥珀色\"} 的眼睛，佩戴着 {argument name=\"headwear\" default=\"鹿角和小巧的紫色皇冠\"} 以及黄色玫瑰发夹。她的装扮是 {argument name=\"outfit style\" default=\"青色两件套偶像服装，配有荷叶边裙摆\"}，带有金色饰边、波浪纹样、宝石颈圈、黑色露指手套和渔网袜。她摆出剪刀手姿势，一只手叉腰，背景是模糊的漫展参与者和虚化灯光。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "漫展 Cosplayer 肖像：生成一张在繁忙漫展上摆姿势的 Cosplayer 照片级写实图像，非常适合角色可视化或活动摄影样机。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13448",
+      "13451",
+      "13653",
+      "13697",
+      "13698",
+      "13757"
+    ]
+  }
+}

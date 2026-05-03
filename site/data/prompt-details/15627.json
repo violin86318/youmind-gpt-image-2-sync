@@ -1,0 +1,52 @@
+{
+  "id": "15627",
+  "prompt": "Luxury fashion advertisement, cinematic editorial portrait of a tall elegant woman wearing a dramatic two-tone belted trench coat in burnt orange and deep black, layered over a cream ribbed turtleneck sweater, one hand in the pocket, shown from mid-thigh up, centered and facing forward with windswept {argument name=\"hair color\" default=\"copper red\"} hair loosely tied back, face intentionally obscured by shadow or stylized cropping for a mysterious high-fashion look. The scene is framed by torn pieces of orange and dark fabric around all four edges like ripped textile layers opening onto the subject. Behind her, a stormy sky with towering glowing clouds at sunset, rich amber and bronze light, moody atmosphere, subtle flying sparks and smoky haze near the bottom. Add a luxury brand campaign aesthetic, ultra-detailed fabric texture, visible stitching, polished belt hardware, strong contrast, warm orange color grading, photorealistic lighting, premium magazine ad composition. Place a large white luxury-style horse-and-carriage emblem above bold centered serif text reading {argument name=\"brand name\" default=\"HERMES\"} across the chest area, clean high-end typography, vertical poster layout for a mobile-generated fashion ad.",
+  "translatedPrompt": "奢华时尚广告，电影级编辑人像，一位高挑优雅的女性身着一件引人注目的双色系带风衣，配色为焦橙色与深黑色，内搭奶油色罗纹高领毛衣，单手插兜，半身构图，居中正对镜头，被风吹拂的 {argument name=\"hair color\" default=\"铜红色\"} 头发松散地束在脑后，面部有意通过阴影或风格化裁剪进行遮挡，营造出神秘的高级时尚感。画面四周由撕裂的橙色与深色布料碎片环绕，如同层层撕开的织物，露出中心的主体。背景是日落时分风暴密布的天空，耸立的云层散发着琥珀色与青铜色的光芒，氛围忧郁，底部伴有细微的飞溅火花与烟雾。融入奢华品牌宣传美学，超细腻的织物纹理，可见的缝线，精致的腰带五金，强烈的对比度，温暖的橙色调色，照片级写实光影，高端杂志广告构图。在胸部区域上方放置一个大型白色奢华风格马车徽标，其下方为居中的粗体衬线文字 {argument name=\"brand name\" default=\"HERMES\"}，采用简洁的高端排版，专为移动端生成的时尚广告设计的竖版海报布局。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奢华时尚广告人像：一张电影质感的奢华品牌时尚海报，主角是一位身着双色风衣的神秘模特，非常适合高端服饰广告和编辑类宣传视觉。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "poster layout",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "editorial",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, poster layout, layered, vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, editorial, luxury, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15077",
+      "15400",
+      "14824",
+      "14836",
+      "14648",
+      "14842"
+    ]
+  }
+}

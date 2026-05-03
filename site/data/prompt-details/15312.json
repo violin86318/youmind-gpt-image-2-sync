@@ -1,0 +1,44 @@
+{
+  "id": "15312",
+  "prompt": "A poetic, cinematic macro illustration of the cover of {argument name=\"book title\" default=\"Wind, Sand and Stars\"} by {argument name=\"author name\" default=\"Antoine de Saint-Exupéry\"}, rendered as a surreal desert world emerging directly from the textured paper page. A large human hand holds a glossy black and gold fountain pen near the top right, the engraved gold nib touching the paper and releasing a dark stream of ink that becomes a winding path across a miniature Sahara landscape. The composition is vertical, warmly lit in amber and sepia tones, with dramatic side lighting, deep shadows, and ultra-detailed paper grain, skin texture, dust, and metallic reflections. On the upper left, the printed title text appears in elegant serif typography, with the author name below it and a short italic quote in smaller script beneath. The page transforms into a detailed map-like desert tableau with exactly 16 tiny human figures scattered across the scene: 1 lone standing figure balanced beside the pen nib, 3 figures near a small campfire, 2 central robed men in conversation, 3 figures gathered beside the biplane, 1 solitary figure walking near the lower middle, 2 riders on camels at the lower left, 3 standing figures near the truck at the lower right, and 1 tiny seated figure near the wreckage at the lower left. Include exactly 1 vintage biplane parked on the right with visible markings, exactly 1 old expedition truck at the bottom right, exactly 1 windsock near the center-right, exactly 1 desert oasis town with palm trees on the right, exactly 1 ruined sandcastle-like mound on the left, exactly 1 dark tent encampment on the left-center, exactly 1 wrecked engine or fuselage fragment in the lower left corner, and exactly 1 compass rose printed at the bottom left. The ink trail should branch through dunes and cracked earth like a route on an old map, connecting landmarks labeled with place names including {argument name=\"map label one\" default=\"Tamanrasset\"}, {argument name=\"map label two\" default=\"Agadir\"}, and {argument name=\"map label three\" default=\"Dakar\"}. Blend antique cartography, literary symbolism, and miniature diorama realism, evoking exploration, memory, loneliness, and the romance of early aviation.",
+  "translatedPrompt": "一幅充满诗意与电影感的微距插画，呈现了由 {argument name=\"book title\" default=\"风沙星辰\"}（作者：{argument name=\"author name\" default=\"安托万·德·圣埃克苏佩里\"}）构成的书籍封面，画面展现了一个从质感纸页中浮现出的超现实沙漠世界。一只巨大的人手在右上角握着一支亮面黑金钢笔，雕刻精美的金质笔尖触碰纸面，流淌出一道深色的墨迹，化作蜿蜒穿过微型撒哈拉景观的路径。构图呈垂直状，采用琥珀色和棕褐色调的暖光，配以戏剧性的侧光、深邃的阴影，以及超高清的纸张纹理、皮肤质感、尘埃和金属反光。左上方印有优雅衬线字体的书名，下方为作者姓名，底部则是一行较小的斜体引文。书页化作一幅详尽的地图式沙漠场景，画面中散布着 16 个微小的人像：笔尖旁站立着 1 个孤独的身影，小营火旁有 3 人，中央有 2 名长袍男子正在交谈，双翼飞机旁聚集着 3 人，左下中段有 1 人独自前行，左下角有 2 名骑骆驼的人，右下角卡车旁站着 3 人，左下角残骸旁坐着 1 个微小的人影。画面包含 1 架停在右侧且带有清晰标识的复古双翼飞机、1 辆位于右下角的旧式探险卡车、1 个位于中右侧的风向袋、1 个位于右侧且带有棕榈树的沙漠绿洲城镇、1 个位于左侧的沙堡状废墟土丘、1 个位于左中部的深色帐篷营地、1 个位于左下角的引擎或机身残骸，以及 1 个印在左下角的罗盘玫瑰。墨迹穿过沙丘和干裂的土地，如同古地图上的路线，连接着标注有地名的地标，包括 {argument name=\"map label one\" default=\"塔曼拉塞特\"}、{argument name=\"map label two\" default=\"阿加迪尔\"} 和 {argument name=\"map label three\" default=\"达喀尔\"}。融合了古老制图术、文学象征主义与微型立体模型写实风格，唤起人们对探索、记忆、孤独及早期航空浪漫情怀的共鸣。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "超现实主义《风沙星辰》书籍世界：一幅细节丰富的文学超现实主义插画，描绘了书页化作微型沙漠探险地图的场景，非常适合编辑艺术、书籍海报概念及经典冒险封面设计。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "vintage"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: cinematic, vintage]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15045",
+      "15061",
+      "14552",
+      "15048",
+      "14484",
+      "15320"
+    ]
+  }
+}

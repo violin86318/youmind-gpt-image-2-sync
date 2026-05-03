@@ -1,0 +1,53 @@
+{
+  "id": "14422",
+  "prompt": "A hyper-realistic full-body studio portrait of a disturbing humanoid alien standing alone against a dark, smoky blue-black backdrop. The creature is extremely tall and emaciated, with elongated limbs, a narrow waist, long thin fingers, and oversized bare feet planted on a dim studio floor. Its skin is smooth but leathery and subtly wrinkled, colored deep charcoal blue with cold gray highlights, showing sharply defined ribs, sternum, collarbones, tendons, and stringy musculature across the chest, abdomen, shoulders, and neck. The torso is hairless and gaunt, with an eerie anatomical realism that feels biologically plausible but unsettling. The head is bald, enlarged, and slightly bulbous with a classic extraterrestrial silhouette, attached to an unnaturally long neck; keep the face obscure, unreadable, and deeply uncanny rather than expressive. Pose the alien front-facing with a slight three-quarter angle, arms hanging loosely at its sides, posture upright but subtly predatory, centered in frame from head to feet. Use low-key cinematic lighting with a faint cool rim light and soft overhead illumination that sculpts every crease and contour while keeping the overall scene dark, moody, and oppressive. Desaturated palette, ultra-detailed skin texture, photoreal creature design, sharp focus, high contrast, ominous atmosphere, no clothing, no props, no environment details beyond the shadowy studio background.",
+  "translatedPrompt": "一张超写实的全身体外星人摄影棚肖像，画面中一个令人不安的人形外星人独自站在昏暗、烟雾缭绕的蓝黑色背景前。该生物身材极高且消瘦，四肢修长，腰部狭窄，手指细长，巨大的赤脚踩在昏暗的摄影棚地面上。其皮肤光滑但呈皮革质感，带有细微褶皱，呈现深炭蓝色并伴有冷灰色高光，清晰地勾勒出肋骨、胸骨、锁骨、肌腱以及胸部、腹部、肩部和颈部紧绷的肌肉线条。躯干无毛且干瘪，具有一种生物学上看似合理却令人不安的诡异解剖真实感。头部光秃、肥大，呈略微球状，具有经典的外星人轮廓，连接着异常修长的脖子；面部保持模糊、不可读且极度诡异，而非具有表情。外星人呈正面站立，略带四分之三侧角，双臂自然垂在身体两侧，姿态挺拔但带有微妙的掠食感，全身居中于画面。采用低调的电影级布光，辅以微弱的冷色轮廓光和柔和的顶部照明，雕刻出每一处褶皱和轮廓，同时保持整体场景的阴暗、压抑和沉重感。低饱和度色调，超精细皮肤纹理，写实生物设计，焦点清晰，高对比度，氛围阴森，无衣物，无道具，除阴影笼罩的摄影棚背景外无其他环境细节。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "诡异的全身体外星人肖像：一张深色写实风格的瘦削人形外星人摄影棚图像，适用于生物概念艺术、科幻关键视觉图或令人不安的模型能力演示。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "full-body",
+        "front-facing"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "studio"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "high contrast"
+      ],
+      "text": "要求可读",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, full-body, front-facing]。\n\nVisual style:\n[参考风格: realistic, cinematic, studio]。\n\nLighting and camera:\n[参考光线镜头: rim light, high contrast]。\n\nText requirements:\n要求可读。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15757",
+      "14668",
+      "14855",
+      "15610",
+      "15626",
+      "15703"
+    ]
+  }
+}

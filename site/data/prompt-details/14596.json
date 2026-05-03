@@ -1,0 +1,46 @@
+{
+  "id": "14596",
+  "prompt": "A faithful oil-painting parody of the Mona Lisa in the style of a High Renaissance museum masterpiece, waist-up seated portrait with folded hands, dark brown dress, translucent veil, soft golden-brown sfumato lighting, and the classic hazy landscape with winding paths, water, and rocky hills in the background. Replace the entire face area with a single flat rectangular censor block in {argument name=\"censor color\" default=\"medium brown\"}, centered over the head and covering from forehead to chin, with clean hard edges that contrast against the painterly surface. Keep the hair visible around the block, including light brown hair parted at the top and falling over the shoulders. Preserve the aged varnish look, muted earthy palette, subtle craquelure-like texture, and solemn museum-quality composition. Vertical framing, centered subject, realistic proportions, old master brushwork, dramatic but soft shading.",
+  "translatedPrompt": "一幅忠实于文艺复兴盛期博物馆杰作风格的蒙娜丽莎油画恶搞作品，半身坐姿肖像，双手交叠，身着深棕色长裙，佩戴半透明面纱，采用柔和的棕金色晕涂法（sfumato）光影，背景为经典的朦胧风景，包含蜿蜒小径、水域和岩石山丘。将整个面部区域替换为一个平整的矩形审查遮挡块，颜色为 {argument name=\"censor color\" default=\"medium brown\"}，位于头部中心，覆盖范围从前额至下巴，边缘清晰硬朗，与绘画质感形成鲜明对比。保留遮挡块周围可见的头发，包括顶部中分并垂在肩上的浅棕色秀发。保留陈旧的清漆感、柔和的大地色调、细微的裂纹质感以及庄重的博物馆级构图。竖构图，主体居中，比例写实，大师级笔触，光影戏剧性且柔和。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "蒙娜丽莎审查版油画：此提示词可生成一幅文艺复兴风格的蒙娜丽莎恶搞画作，将其面部替换为纯色审查遮挡块，非常适合超现实主义艺术编辑和博物馆风格的模因创作。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14594",
+      "14679",
+      "15028",
+      "15317",
+      "15533",
+      "15741"
+    ]
+  }
+}

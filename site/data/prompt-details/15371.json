@@ -1,0 +1,51 @@
+{
+  "id": "15371",
+  "prompt": "{\"type\":\"single-page anime manga\",\"format\":\"vertical 8-panel comic page, 2 columns by 4 rows\",\"style\":\"softly rendered modern anime illustration with clean manga panel borders, warm indoor lighting, cinematic domestic romance, detailed clothing frills, subtle blush, gentle comedy-drama tone\",\"page\":{\"background\":\"white page with thin black panel borders\",\"title_top\":\"恋するメイドロボと、気付かないマスター\",\"subtitle_top\":\"第６話　それは、気のせいじゃない\"},\"setting\":{\"location\":\"cozy modern apartment interior\",\"areas\":[\"kitchen with counter, bowl, whisk, ingredients, glass and warm ceiling lights\",\"living room with sofa, framed wall art, shelf and potted plant\"],\"time\":\"evening\"},\"characters\":{\"count\":2,\"primary\":{\"description\":\"beautiful maid robot girl, late-teen to young adult appearance, very long silver hair with soft lavender tint, straight bangs, black ribbon bows at the sides, fair skin, large violet eyes, wearing a classic black-and-white maid dress with white frilled headband, white apron, puff sleeves, lace cuffs and black bow at the collar\",\"emotion_arc\":[\"focused but low-energy\",\"startled by close contact\",\"flustered and speechless\",\"deeply embarrassed and lovestruck\"]},\"secondary\":{\"description\":\"unaware master, young adult man with short messy black hair, light stubble-free face, wearing a dark charcoal button-up shirt with sleeves casually loose, calm and slightly concerned demeanor\"}},\"layout\":{\"sections\":[{\"title\":\"1\",\"position\":\"top-left\",\"count\":1,\"labels\":[\"maid robot in kitchen mixing batter in a metal bowl with a whisk, ingredients on counter, vertical caption box says 動作精度、低下中…\"]},{\"title\":\"2\",\"position\":\"top-right\",\"count\":1,\"labels\":[\"master stands close behind her and steadies her while she holds up a drinking glass, speech bubble says 危ない\"]},{\"title\":\"3\",\"position\":\"middle-left\",\"count\":1,\"labels\":[\"intimate close-up of the maid blushing hard as the master leans near her face, speech bubble says ……っ\"]},{\"title\":\"4\",\"position\":\"middle-right\",\"count\":1,\"labels\":[\"master alone in living room, hand at chin, looking puzzled, speech bubble says 最近、様子おかしくないか？\"]},{\"title\":\"5\",\"position\":\"lower-middle-left\",\"count\":1,\"labels\":[\"maid seated on sofa, head lowered, clutching chest, blushing, speech bubble says 問題　ありません\"]},{\"title\":\"6\",\"position\":\"lower-middle-right\",\"count\":1,\"labels\":[\"master sitting back on sofa with arms folded, still unconvinced, speech bubble says そうか…？\"]},{\"title\":\"7\",\"position\":\"bottom-left\",\"count\":1,\"labels\":[\"close-up of maid hands nervously fidgeting with apron fabric on her lap, vertical caption box says 原因特定済み\"]},{\"title\":\"8\",\"position\":\"bottom-right\",\"count\":1,\"labels\":[\"front view of maid on sofa holding a hand to her chest, unable to confess, speech bubble says ……言えません\"]}],\"centerpiece\":\"the emotional contrast between a lovestruck maid robot and a completely oblivious master\"},\"visual_direction\":{\"camera\":\"varied manga framing with medium shots, close-ups, and hand detail insert\",\"color_palette\":\"warm beige, cream, soft brown interiors contrasted with black-and-white maid outfit and cool silver-lavender hair\",\"expression_focus\":\"strong blush, shy eyes, hesitant lips, concerned male expression\",\"rendering_notes\":\"high-detail hair strands, delicate frills, glossy eyes, soft depth of field in backgrounds, polished webtoon-quality panel art\"}}",
+  "translatedPrompt": "{\"type\":\"单页动漫漫画\",\"format\":\"垂直 8 分镜漫画页，2 列 4 行\",\"style\":\"柔和渲染的现代动漫插画，带有清晰的漫画分镜边框，温暖的室内光线，电影般的居家浪漫氛围，精致的衣物褶边，细腻的脸红效果，轻柔的喜剧剧情基调\",\"page\":{\"background\":\"白色页面，带有细黑色分镜边框\",\"title_top\":\"恋するメイドロボと、気付かないマスター\",\"subtitle_top\":\"第 6 话　それは、気のせいじゃない\"},\"setting\":{\"location\":\"舒适的现代公寓室内\",\"areas\":[\"带吧台的厨房，碗、打蛋器、食材、玻璃杯和温暖的吸顶灯\",\"带沙发、墙面装饰画、置物架和盆栽的客厅\"],\"time\":\"傍晚\"},\"characters\":{\"count\":2,\"primary\":{\"description\":\"美丽的机器人女仆，外表为青少年至年轻成年人，极长的银色长发带有柔和的淡紫色调，齐刘海，两侧有黑色丝带蝴蝶结，皮肤白皙，大大的紫罗兰色眼睛，穿着经典的黑白女仆装，配有白色褶边发带、白色围裙、泡泡袖、蕾丝袖口和领口的黑色蝴蝶结\",\"emotion_arc\":[\"专注但精力不足\",\"因近距离接触而受惊\",\"慌乱且说不出话\",\"深感尴尬且坠入爱河\"]},\"secondary\":{\"description\":\"迟钝的主人，年轻男性，留着凌乱的黑色短发，面部干净无胡茬，穿着深炭灰色衬衫，袖子随意卷起，神情冷静且略带关切\"}},\"layout\":{\"sections\":[{\"title\":\"1\",\"position\":\"左上\",\"count\":1,\"labels\":[\"女仆机器人在厨房用打蛋器搅拌金属碗里的面糊，台面上放着食材，垂直标题框写着 動作精度、低下中…\"]},{\"title\":\"2\",\"position\":\"右上\",\"count\":1,\"labels\":[\"主人站在她身后，在她举起玻璃杯时扶住她，对话框写着 危ない\"]},{\"title\":\"3\",\"position\":\"中左\",\"count\":1,\"labels\":[\"女仆脸红的特写镜头，主人靠近她的脸，对话框写着 ……っ\"]},{\"title\":\"4\",\"position\":\"中右\",\"count\":1,\"labels\":[\"主人独自在客厅，手托下巴，神情困惑，对话框写着 最近、様子おかしくないか？\"]},{\"title\":\"5\",\"position\":\"中下左\",\"count\":1,\"labels\":[\"女仆坐在沙发上，低着头，紧抓胸口，脸红，对话框写着 問題　ありません\"]},{\"title\":\"6\",\"position\":\"中下右\",\"count\":1,\"labels\":[\"主人靠在沙发上交叉双臂，依然半信半疑，对话框写着 そうか…？\"]},{\"title\":\"7\",\"position\":\"左下\",\"count\":1,\"labels\":[\"女仆双手紧张地摆弄膝盖上的围裙布料的特写，垂直标题框写着 原因特定済み\"]},{\"title\":\"8\",\"position\":\"右下\",\"count\":1,\"labels\":[\"女仆坐在沙发上的正面视角，手按胸口，无法告白，对话框写着 ……言えません\"]}],\"centerpiece\":\"坠入爱河的女仆机器人与完全迟钝的主人之间的情感反差\"},\"visual_direction\":{\"camera\":\"多样的漫画构图，包括中景、特写和手部细节插入\",\"color_palette\":\"温暖的米色、奶油色、柔和的棕色室内色调，与黑白女仆装及冷色调的银紫色头发形成对比\",\"expression_focus\":\"强烈的脸红、害羞的眼神、迟疑的嘴唇、男性关切的表情\",\"rendering_notes\":\"高细节发丝、精致褶边、光泽感眼睛、背景柔和的景深，精美的网漫质量分镜艺术\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "浪漫女仆机器人漫画页面：此提示词可生成精美的单页动漫浪漫喜剧漫画，包含 8 个分镜，非常适合连载 AI 漫画叙事。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "manga"
+      ],
+      "lightingCamera": [
+        "depth of field",
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, vertical]。\n\nVisual style:\n[参考风格: cinematic, anime, manga]。\n\nLighting and camera:\n[参考光线镜头: depth of field, camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14534",
+      "15352",
+      "15370",
+      "14413",
+      "14531",
+      "15060"
+    ]
+  }
+}

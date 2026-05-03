@@ -1,0 +1,43 @@
+{
+  "id": "14543",
+  "prompt": "A smartphone screenshot of an AI chat app interface in portrait orientation, showing a clean white iOS-style screen with a top bar containing a hamburger menu on the left, the blue title “Thinking” with a small chevron, and two icons on the right for compose and more options. Near the top is a rounded light-gray user message bubble in Japanese reading “Attention機構を人体に喩えて細かくラベルを付けて。医学書の精緻な挿絵風に。” Below it, faint gray system text reads “Thought for 5s” and “画像が作成されました”. The lower half of the screen displays the generated image as a detailed medical textbook-style anatomical poster. The poster shows a realistic three-quarter back view of an adult woman from head to upper thighs, with her head turned slightly left and her dark brown hair tied into a messy bun. Her skin and outer tissues are removed across most of the body to reveal musculature, nerves, blood vessels, and fibrous structures, rendered in extremely detailed vintage medical illustration style on a warm cream paper background. A rectangular cutout obscures the center of the face from forehead to jaw, creating a censored blank block over the facial area. Fine glowing network lines and nodes are overlaid through the exposed brain and body to visualize the attention mechanism as if it were an anatomical system. Surrounding the figure are 6 numbered explanatory panels and 2 additional text blocks, all densely filled with Japanese and English bilingual labels, formulas, arrows, and diagrams. The main poster title at upper left is “アテンション機構の解剖学的構造” with the English subtitle “The Anatomy of the Attention Mechanism”. At the top right is a flowchart labeled “Overall Flow of Attention” containing 5 connected boxes describing the process from input to output. Down the left side are 3 stacked explanatory sections with equations and mapping tables. Down the right side are 3 more numbered sections, each with technical notes and a small chart or matrix; the visible mini-diagrams include 1 purple heatmap matrix, 1 blue bar chart, and 1 multicolored cube graphic. Along the bottom edge are 5 small brain inset illustrations with captions showing stages of information flow. The overall aesthetic should feel like a highly polished AI-generated screenshot documenting a surreal scientific illustration request, with crisp UI, lots of tiny readable labels, and a convincing fusion of transformer attention diagrams and classical anatomical plate design.",
+  "translatedPrompt": "一张竖屏的 AI 聊天应用界面截图，显示了简洁的 iOS 风格白色屏幕。顶部栏左侧有一个汉堡菜单，中间是蓝色的“Thinking”标题及一个小箭头，右侧有两个图标分别用于新建和更多选项。顶部附近有一个圆角浅灰色用户消息气泡，内容为日语：“Attention機構を人体に喩えて細かくラベルを付けて。医学書の精緻な挿絵風に。”（请将注意力机制比作人体并进行详细标注。采用医学书籍中精致插图的风格。）下方有浅灰色的系统文字显示“Thought for 5s”和“画像が作成されました”。屏幕下半部分展示了生成的图像，这是一张详尽的医学教科书风格解剖学海报。海报展示了一名成年女性从头部到大腿上部的逼真四分之三背影，她头部微向左转，深棕色头发扎成凌乱的发髻。身体大部分的皮肤和外层组织被移除，露出肌肉、神经、血管和纤维结构，以极其细腻的复古医学插图风格呈现在暖色调的米黄色纸张背景上。一个矩形切口遮挡了从前额到下颌的面部中心，在面部区域形成了一个被审查的空白块。细微的发光网络线条和节点叠加在暴露的大脑和身体上，将注意力机制可视化为一种解剖系统。人物周围有 6 个带编号的解释面板和 2 个附加文本块，全部密密麻麻地填满了日语和英语双语标签、公式、箭头和图表。海报左上角的主标题为“アテンション機構の解剖学的構造”，副标题为“The Anatomy of the Attention Mechanism”。右上角是一个标有“Overall Flow of Attention”的流程图，包含 5 个相连的方框，描述了从输入到输出的过程。左侧是 3 个堆叠的解释部分，包含方程式和映射表。右侧是另外 3 个带编号的部分，每个部分都有技术说明和小型图表或矩阵；可见的小型图表包括 1 个紫色热力图矩阵、1 个蓝色柱状图和 1 个多色立方体图形。底边有 5 个带有说明文字的小型大脑插图，展示了信息流的各个阶段。整体美学应呈现为一张经过高度润色的 AI 生成截图，记录了一个超现实的科学插图请求，具有清晰的 UI、大量微小可读的标签，以及 Transformer 注意力图表与古典解剖图设计的完美融合。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "AI 聊天截图与解剖学海报：一张逼真的智能手机聊天应用截图，展示了日语提示词及其生成的密集医学风格解剖学信息图，非常适合用于重现病毒式传播的 AI 图像演示帖。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [],
+      "style": [
+        "realistic",
+        "vintage"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "教程流程、方法论、商业流程、食谱步骤",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, vintage]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14130",
+      "13883",
+      "14048",
+      "13924",
+      "13611",
+      "14870"
+    ]
+  }
+}

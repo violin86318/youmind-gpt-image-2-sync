@@ -1,0 +1,41 @@
+{
+  "id": "13637",
+  "prompt": "An aerial drone photograph of a sprawling, lush green university campus on a sunny day. In the foreground, a wide multi-lane road with cars passes through a large concrete entrance gate bearing the large white text \"{argument name=\"university name\" default=\"ODTÜ METÜ\"}\". To the right of the gate, two tall flagpoles fly a {argument name=\"flag 1\" default=\"Turkish flag\"} and a {argument name=\"flag 2\" default=\"white flag with a red circular logo\"}. The midground features a long rectangular reflecting pool surrounded by green lawns and pedestrian paths, flanked by various modernist concrete academic buildings. Notable structures include a cylindrical building with red and white horizontal stripes on the left and a large pyramid-shaped building on the right. In the background, a dense city skyline representing {argument name=\"city skyline\" default=\"Ankara\"} stretches across the horizon, featuring a prominent tall observation tower, backed by rolling hills and mountains under a clear blue sky with scattered white clouds.",
+  "translatedPrompt": "一张晴天下的广阔、绿意盎然的大学校园无人机航拍照片。前景中，一条宽阔的多车道公路上车辆穿行，经过一座巨大的混凝土入口大门，门上刻有醒目的白色文字“{argument name=\"university name\" default=\"ODTÜ METÜ\"}”。大门右侧有两根高耸的旗杆，分别悬挂着“{argument name=\"flag 1\" default=\"土耳其国旗\"}”和“{argument name=\"flag 2\" default=\"带有红色圆形标志的白旗\"}”。中景处设有一个长方形倒影池，周围环绕着草坪和人行道，两侧分布着各式现代主义风格的混凝土教学楼。显著建筑包括左侧一座带有红白水平条纹的圆柱形建筑，以及右侧一座巨大的金字塔形建筑。背景中，代表“{argument name=\"city skyline\" default=\"安卡拉\"}”的密集城市天际线在地平线上延伸，其中包含一座醒目的高大观景塔，远处是连绵起伏的丘陵和山脉，天空湛蓝，点缀着零星的白云。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "大学校园航拍图：生成一张逼真的大学校园航拍照片，包含特定的建筑地标、入口大门以及远处的城市天际线。",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13696",
+      "13893",
+      "14033",
+      "13752",
+      "13826",
+      "13992"
+    ]
+  }
+}

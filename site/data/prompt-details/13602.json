@@ -1,0 +1,48 @@
+{
+  "id": "13602",
+  "prompt": "{\n  \"type\": \"photorealistic top-down still life\",\n  \"setting\": \"{argument name=\\\"desk surface\\\" default=\\\"wooden table\\\"}\",\n  \"objects\": [\n    {\n      \"item\": \"open notebook\",\n      \"style\": \"{argument name=\\\"notebook style\\\" default=\\\"dot-grid paper with neat handwritten Japanese notes in black and red ink\\\"}\",\n      \"layout\": {\n        \"left_page\": {\n          \"header\": \"{argument name=\\\"subject topic\\\" default=\\\"政治学 第6回\\\"}\",\n          \"section_count\": 4,\n          \"sections\": [\n            { \"title\": \"選挙とは？\", \"details\": \"definition text\" },\n            { \"title\": \"選挙の機能\", \"details\": \"numbered list 1-4\", \"doodle\": \"cat with scarf holding '一票!!' sign\" },\n            { \"title\": \"選挙制度の種類\", \"details\": \"bullet points with red arrow to '小選挙区比例代表並立制！'\" },\n            { \"title\": \"投票率の問題\", \"details\": \"text about youth turnout\", \"doodle\": \"girl with '18才から選挙に行けるよ！' bubble and a top 3 ranked list box\" }\n          ]\n        },\n        \"right_page\": {\n          \"section_count\": 5,\n          \"sections\": [\n            { \"title\": \"政党とは？\", \"details\": \"definition text\" },\n            { \"title\": \"政党の役割\", \"details\": \"numbered list 1-4\", \"doodle\": \"government building sketch\" },\n            { \"title\": \"政党の種類\", \"details\": \"bullet points\" },\n            { \"title\": \"最近の日本の政治と課題\", \"details\": \"bullet points\", \"doodle\": \"girl thinking '政治って難しそうで、意外と生活とつながってるだよね。'\" },\n            { \"title\": \"まとめ\", \"details\": \"summary with red underlines\", \"doodle\": \"girl reading and a pink flower\" }\n          ]\n        }\n      }\n    },\n    {\n      \"item\": \"printed photograph\",\n      \"placement\": \"overlapping the right edge of the notebook\",\n      \"content\": \"{argument name=\\\"photo subject\\\" default=\\\"family of four posing in front of cherry blossoms and a Ferris wheel\\\"}\",\n      \"style\": \"vintage, slightly faded snapshot\"\n    }\n  ]\n}",
+  "translatedPrompt": "{\n  \"type\": \"照片级逼真的静物俯视图\",\n  \"setting\": \"{argument name=\\\"desk surface\\\" default=\\\"木质桌面\\\"}\",\n  \"objects\": [\n    {\n      \"item\": \"打开的笔记本\",\n      \"style\": \"{argument name=\\\"notebook style\\\" default=\\\"点阵纸，上面有整齐的黑色和红色墨水手写日语笔记\\\"}\",\n      \"layout\": {\n        \"left_page\": {\n          \"header\": \"{argument name=\\\"subject topic\\\" default=\\\"政治学 第6回\\\"}\",\n          \"section_count\": 4,\n          \"sections\": [\n            { \"title\": \"選挙とは？\", \"details\": \"定义文本\" },\n            { \"title\": \"選挙の機能\", \"details\": \"1-4 编号列表\", \"doodle\": \"戴着围巾的猫，举着写有“一票!!”的牌子\" },\n            { \"title\": \"選挙制度の種類\", \"details\": \"带有红色箭头的项目符号，指向“小選挙区比例代表並立制！”\" },\n            { \"title\": \"投票率の問題\", \"details\": \"关于青年投票率的文本\", \"doodle\": \"女孩带着写有“18才から選挙に行けるよ！”的气泡框，以及一个前 3 名的排名列表框\" }\n          ]\n        },\n        \"right_page\": {\n          \"section_count\": 5,\n          \"sections\": [\n            { \"title\": \"政党とは？\", \"details\": \"定义文本\" },\n            { \"title\": \"政党の役割\", \"details\": \"1-4 编号列表\", \"doodle\": \"政府大楼草图\" },\n            { \"title\": \"政党の種類\", \"details\": \"项目符号\" },\n            { \"title\": \"最近の日本の政治と課題\", \"details\": \"项目符号\", \"doodle\": \"女孩思考着“政治って難しそうで、意外と生活とつながってるだよね。”\" },\n            { \"title\": \"まとめ\", \"details\": \"带有红色下划线的总结\", \"doodle\": \"正在阅读的女孩和一朵粉色花朵\" }\n          ]\n        }\n      }\n    },\n    {\n      \"item\": \"打印照片\",\n      \"placement\": \"覆盖在笔记本的右边缘\",\n      \"content\": \"{argument name=\\\"photo subject\\\" default=\\\"一家四口在樱花和摩天轮前合影\\\"}\",\n      \"style\": \"复古、略微褪色的快照\"\n    }\n  ]\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "手写日语学习笔记与照片：生成一张照片级逼真的俯视图，展示一本打开的笔记本，上面写满了详细的日语学习笔记、涂鸦，以及一张放在页面上的打印全家福照片。",
+      "subject": "界面",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "top-down",
+        "grid"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "vintage"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: top-down, grid]。\n\nVisual style:\n[参考风格: realistic, photorealistic, vintage]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15254",
+      "14821",
+      "14860",
+      "14417",
+      "14440",
+      "14674"
+    ]
+  }
+}

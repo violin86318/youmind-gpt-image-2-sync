@@ -1,0 +1,47 @@
+{
+  "id": "15015",
+  "prompt": "A cozy indoor lifestyle photo of a fluffy long-haired calico cat sleeping with its eyes closed and its chin gently resting on top of a glossy white cylindrical appliance shaped like a rounded tube, viewed from the front at table height. The cat has a thick tricolor coat with orange, black, and white fur, a white muzzle, pink nose, large pointed ears, and a very soft, plush appearance. Its body is draped behind and around the appliance on a long matte-black tabletop with natural light wood edges, creating a centered composition with the appliance in the foreground and the cat filling the upper half of the frame. The appliance has a circular front opening with a metallic inner ring and a small oval control window near the bottom. The setting is a warm, sunlit modern home interior with a window directly behind the subject, soft daylight coming in, a pale wall, warm wooden floor, and 1 small potted plant on the windowsill at the top right. Shallow depth of field, gentle warm color grading, realistic fur detail, natural reflections on the appliance, calm sleepy mood, high-resolution candid pet photography.",
+  "translatedPrompt": "一张温馨的室内生活方式照片，展示了一只毛茸茸的长毛三花猫，它闭着眼睛，下巴轻轻靠在一个圆柱形的光滑白色家电上，从桌子高度正面拍摄。这只猫有着厚实的三色毛发（橙色、黑色和白色）、白色的口鼻部、粉色的鼻子、大而尖的耳朵，外表看起来非常柔软蓬松。它的身体环绕在设备后方，趴在一张长长的哑光黑色桌面（带有天然浅色木质边缘）上，构图居中，设备位于前景，猫咪占据了画面的上半部分。该设备正面有一个圆形开口，带有金属内环，底部附近有一个小椭圆形控制窗。场景设定在温暖、阳光充足的现代家居室内，主体后方有一扇窗户，柔和的日光洒入，背景是浅色墙壁、温暖的木地板，右上角的窗台上摆放着一盆小植物。浅景深，柔和的暖色调，逼真的毛发细节，设备上的自然反光，宁静的睡意氛围，高分辨率的抓拍宠物摄影。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "白色家电上熟睡的三花猫：一张温馨、写实的宠物照片，展示了一只毛茸茸的三花猫在光滑的白色设备上打盹，非常适合营造舒适的生活方式或家居室内氛围。",
+      "subject": "界面",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [
+        "natural light",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[参考光线镜头: natural light, shallow depth, depth of field]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14811",
+      "14821",
+      "15031",
+      "14674",
+      "14427",
+      "14440"
+    ]
+  }
+}

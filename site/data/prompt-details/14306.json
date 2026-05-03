@@ -1,0 +1,36 @@
+{
+  "id": "14306",
+  "prompt": "Create an {argument name=\"format\" default=\"infographic\"} for {argument name=\"platform\" default=\"Instagram post\"} about {argument name=\"topic\" default=\"how advertisers can use cognitive biases\"}",
+  "translatedPrompt": "为 {argument name=\"platform\" default=\"Instagram 帖子\"} 创建一个 {argument name=\"format\" default=\"信息图\"}，主题是 {argument name=\"topic\" default=\"广告商如何利用认知偏差\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "认知偏差 Instagram 信息图：一个用于创建包含复杂文本信息的专业社交媒体图形的提示词。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14722",
+      "13445",
+      "14127",
+      "13633",
+      "13794",
+      "14720"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "14510",
+  "prompt": "{\"type\":\"cute character outfit sheet\",\"subject\":{\"species\":\"chibi kitten\",\"design\":\"round cream-colored cat with a large golden-yellow patch covering the left side of the face and ear, tiny black oval eyes, small pink mouth, rosy cheeks, simple whiskers, thick yellow tail, kawaii hand-drawn style with soft colored-pencil texture and thin sketchy outlines\"},\"style\":{\"aesthetic\":\"Sanrio-like, children’s dress-up illustration, pastel, whimsical, clean isolated figures\",\"background\":\"solid soft pink paper-like backdrop\"},\"layout\":{\"grid\":{\"rows\":3,\"columns\":3},\"count\":9,\"arrangement\":\"nine evenly spaced full-body kitten variants, each centered in its own area with tiny floating hearts, flowers, or sparkles\"},\"variants\":[{\"position\":\"top-left\",\"outfit\":\"light blue frilly dress with white lace trim and blue ribbon at the chest\",\"accessories\":[\"large blue bow on right ear\",\"small white daisy held in paw\"],\"expression\":\"winking, cheerful open smile\",\"decor\":[\"3 small pastel flowers at lower left\",\"1 blue heart at left\"]},{\"position\":\"top-center\",\"outfit\":\"navy-and-white sailor uniform with blue neckerchief and blue shorts\",\"accessories\":[\"white sailor cap with blue trim and anchor emblem\",\"small white flag with pink heart\"],\"expression\":\"winking, cheerful open smile\",\"decor\":[\"2 blue hearts\"]},{\"position\":\"top-right\",\"outfit\":\"soft beige cardigan over pale green top and loose green plaid pants\",\"accessories\":[\"green beret with clover-like embellishment\"],\"expression\":\"closed happy eyes, paws clasped under chin\",\"decor\":[\"2 green hearts\"]},{\"position\":\"middle-left\",\"outfit\":\"pale yellow sundress with frilly hem\",\"accessories\":[\"wide straw hat with sunflower and ribbon ties\",\"brown teddy bear held in arms\"],\"expression\":\"closed happy eyes, gentle smile\",\"decor\":[\"2 yellow hearts\"]},{\"position\":\"middle-center\",\"outfit\":\"purple witch dress with layered skirt and star brooch\",\"accessories\":[\"purple pointed witch hat with pink band\",\"magic wand with star tip\"],\"expression\":\"winking, cheerful open smile\",\"decor\":[\"2 yellow stars\",\"2 sparkles\"]},{\"position\":\"middle-right\",\"outfit\":\"brown detective ensemble with plaid capelet and double-breasted coat\",\"accessories\":[\"brown deerstalker hat\",\"magnifying glass held to one eye\"],\"expression\":\"winking, cheerful open smile\",\"decor\":[\"2 orange emphasis marks\"]},{\"position\":\"bottom-left\",\"outfit\":\"cream knit sweater dress with blue scarf\",\"accessories\":[\"blue knit beanie with white pom-pom\"],\"expression\":\"closed peaceful eyes, shy smile, paws clasped\",\"decor\":[\"3 blue hearts\"]},{\"position\":\"bottom-center\",\"outfit\":\"formal gray suit with pale blue vest, blue bow tie, and short cape\",\"accessories\":[\"black top hat with blue band\",\"blue rose held in paw\"],\"expression\":\"winking, cheerful open smile\",\"decor\":[\"2 sparkles\"]},{\"position\":\"bottom-right\",\"outfit\":\"lavender floral kimono with yellow obi\",\"accessories\":[\"pink paper parasol\",\"pink flower hair ornament\"],\"expression\":\"closed peaceful eyes, gentle smile\",\"decor\":[\"3 pink cherry blossom flowers\"]}],\"rendering\":{\"lighting\":\"flat and soft\",\"detail\":\"simple, adorable, readable at a glance\",\"composition\":\"entire 3x3 costume collection visible with generous spacing, no text, no borders\"}}",
+  "translatedPrompt": "{\"type\":\"可爱角色服装设定图\",\"subject\":{\"species\":\"Q 版小猫\",\"design\":\"圆润的奶油色小猫，左侧脸部和耳朵有大块金黄色斑点，黑色小椭圆眼睛，粉色小嘴，红润脸颊，简单的胡须，粗壮的黄色尾巴，卡哇伊手绘风格，带有柔和的彩色铅笔质感和细致的素描轮廓\"},\"style\":{\"aesthetic\":\"类似 Sanrio 风格，儿童装扮插画，柔和色调，异想天开，干净的独立形象\",\"background\":\"纯色柔和粉色纸质背景\"},\"layout\":{\"grid\":{\"rows\":3,\"columns\":3},\"count\":9,\"arrangement\":\"九个均匀分布的全身小猫变体，每个形象居中，周围点缀着微小的漂浮爱心、花朵或闪光\"},\"variants\":[{\"position\":\"左上\",\"outfit\":\"带有白色蕾丝边和胸前蓝色丝带的浅蓝色荷叶边连衣裙\",\"accessories\":[\"右耳上的大蓝色蝴蝶结\",\"爪子里拿着的小白雏菊\"],\"expression\":\"眨眼，开心的露齿笑\",\"decor\":[\"左下角 3 朵小巧的柔和色花朵\",\"左侧 1 个蓝色爱心\"]},{\"position\":\"中上\",\"outfit\":\"海军蓝白相间的水手服，配有蓝色领巾和蓝色短裤\",\"accessories\":[\"带有蓝色饰边和锚徽章的白色水手帽\",\"带有粉色爱心的小白旗\"],\"expression\":\"眨眼，开心的露齿笑\",\"decor\":[\"2 个蓝色爱心\"]},{\"position\":\"右上\",\"outfit\":\"浅绿色上衣外搭柔和米色开衫，配宽松绿色格子裤\",\"accessories\":[\"带有三叶草装饰的绿色贝雷帽\"],\"expression\":\"闭眼开心状，爪子合十放在下巴下\",\"decor\":[\"2 个绿色爱心\"]},{\"position\":\"左中\",\"outfit\":\"带有荷叶边下摆的浅黄色夏日连衣裙\",\"accessories\":[\"带有向日葵和丝带系带的宽檐草帽\",\"怀里抱着棕色泰迪熊\"],\"expression\":\"闭眼开心状，温柔微笑\",\"decor\":[\"2 个黄色爱心\"]},{\"position\":\"正中\",\"outfit\":\"带有分层裙摆和星星胸针的紫色女巫裙\",\"accessories\":[\"带有粉色带子的紫色尖顶女巫帽\",\"星星尖端的魔法棒\"],\"expression\":\"眨眼，开心的露齿笑\",\"decor\":[\"2 个黄色星星\",\"2 个闪光\"]},{\"position\":\"右中\",\"outfit\":\"棕色侦探套装，配有格子斗篷和双排扣大衣\",\"accessories\":[\"棕色猎鹿帽\",\"放在一只眼睛前的放大镜\"],\"expression\":\"眨眼，开心的露齿笑\",\"decor\":[\"2 个橙色强调符号\"]},{\"position\":\"左下\",\"outfit\":\"奶油色针织毛衣裙，配蓝色围巾\",\"accessories\":[\"带有白色绒球的蓝色针织帽\"],\"expression\":\"闭眼平静状，害羞的微笑，爪子合十\",\"decor\":[\"3 个蓝色爱心\"]},{\"position\":\"中下\",\"outfit\":\"正式灰色西装，配浅蓝色背心、蓝色领结和短斗篷\",\"accessories\":[\"带有蓝色带子的黑色高礼帽\",\"爪子里拿着的蓝色玫瑰\"],\"expression\":\"眨眼，开心的露齿笑\",\"decor\":[\"2 个闪光\"]},{\"position\":\"右下\",\"outfit\":\"淡紫色花卉和服，配黄色腰带\",\"accessories\":[\"粉色纸伞\",\"粉色花朵发饰\"],\"expression\":\"闭眼平静状，温柔微笑\",\"decor\":[\"3 朵粉色樱花\"]}],\"rendering\":{\"lighting\":\"平坦且柔和\",\"detail\":\"简单、可爱、一目了然\",\"composition\":\"完整的 3x3 服装系列，间距充足，无文字，无边框\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "九款 Q 版小猫服装变体：一张展示九套可爱小猫装扮的淡粉色角色设定图，非常适合用于卡哇伊风格贴纸艺术、周边设计概念或服装变体生成。",
+      "subject": "服饰",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "full-body",
+        "grid",
+        "layered"
+      ],
+      "style": [
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读；禁止额外文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, full-body, grid, layered]。\n\nVisual style:\n[参考风格: hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读；禁止额外文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15014",
+      "14607",
+      "14825",
+      "14445",
+      "15364",
+      "13910"
+    ]
+  }
+}

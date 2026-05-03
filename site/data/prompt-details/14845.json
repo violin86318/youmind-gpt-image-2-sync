@@ -1,0 +1,54 @@
+{
+  "id": "14845",
+  "prompt": "A cinematic vertical smartphone photo of a glamorous young woman sitting in the front passenger seat of a car at night, shot from slightly above chest level in a tight mid-shot. She has {argument name=\"hair color\" default=\"dark brown\"} hair pulled back loosely with soft strands near the ears, and is wearing a fitted ribbed brown zip-front top or dress with a deep neckline, partially unzipped, creating a sleek nightlife look. Her face is mostly out of frame or obscured, keeping the focus on pose, outfit, and mood rather than identity. She holds 1 large black tub of caramel popcorn in her lap with one hand, while her other hand is raised lightly near her chin in a casual, candid pose. The setting is the interior of a car with 1 visible beige passenger seat, 1 visible door panel with window controls, and a side window showing blurred colorful city lights outside, suggesting nighttime urban traffic. Use warm low-key lighting from the front-left, realistic skin texture, glossy highlights on the collarbone and fabric, shallow depth of field, bokeh streetlights, photorealistic detail, intimate composition, luxury nightlife atmosphere, and a moody editorial aesthetic. Outfit and palette should stay in coordinated brown and neutral tones, with the popcorn sharply detailed and slightly glossy from caramel coating. Render as realistic photography, high contrast, soft shadows, vertical 9:16 framing.",
+  "translatedPrompt": "一张电影感竖版手机摄影作品，画面为一位迷人的年轻女性在夜间坐在汽车副驾驶座位上，采用略高于胸部水平的紧凑中景拍摄。她留着 {argument name=\"hair color\" default=\"dark brown\"} 的头发，松散地向后扎起，耳边留有几缕柔和的发丝；身穿一件修身的棕色罗纹拉链上衣或连衣裙，深领口设计，拉链半开，营造出时尚的夜生活造型。她的面部大部分处于画面之外或被遮挡，将焦点集中在姿势、服装和氛围上，而非个人身份。她的一只手放在膝盖上，拿着一个黑色的大桶焦糖爆米花，另一只手轻轻抬起靠近下巴，姿态随意自然。场景为汽车内部，可见 1 个米色副驾驶座椅、1 个带有车窗控制按钮的车门内饰板，侧窗外是模糊的彩色城市灯光，暗示着夜间的城市交通。使用来自左前方的暖色调低调照明，呈现真实的皮肤质感，锁骨和织物上有光泽感的高光，浅景深，街道灯光呈现虚化效果，细节写实，构图亲密，充满奢华的夜生活氛围和忧郁的编辑风格。服装和色调应保持协调的棕色和中性色，爆米花细节清晰，焦糖涂层略带光泽。渲染为写实摄影风格，高对比度，柔和阴影，9:16 竖版构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "夜间车内吃爆米花人像：此提示词可生成一张氛围感十足的写实风格竖版人像，画面中一位时尚女性在夜间车内手持一桶焦糖爆米花，非常适合电影感生活方式或夜生活主题的影像创作。",
+      "subject": "空间",
+      "scene": "人物/角色",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "editorial",
+        "luxury"
+      ],
+      "lightingCamera": [
+        "high contrast",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, editorial, luxury]。\n\nLighting and camera:\n[参考光线镜头: high contrast, shallow depth, depth of field]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15790",
+      "15757",
+      "14506",
+      "15259",
+      "14693",
+      "15703"
+    ]
+  }
+}

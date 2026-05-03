@@ -1,0 +1,48 @@
+{
+  "id": "15273",
+  "prompt": "A candid family snapshot styled like a consumer digital camera photo from around {argument name=\"year\" default=\"2008\"}, showing a Chinese family of three posing closely together in a public park in springtime. The mother is on the left, crouching and leaning in, wearing a purple cardigan over a dark patterned top, blue jeans, and carrying a black shoulder bag. The child is in the center, standing or half-squatting between the parents, wearing a navy zip-up jacket with white and red striped sleeves and a large \"86\" print on the chest, with olive or brown pants. The father is on the right, crouching close to the child, wearing a black long-sleeve shirt, blue jeans, a wristwatch, and a gray backpack with visible shoulder straps. All three are gathered tightly and looking toward the camera in a typical casual family-photo pose. Place them on a light stone walkway beside a calm pond edged with large ornamental rocks. In the background, show lush green trees with fresh leaves, a traditional Chinese pavilion with a gray tiled roof, and small groups of park visitors scattered along the path and bridge area. Lighting is soft bright daytime with slight haze, realistic early-spring colors, and the modest image quality of an older compact camera: slightly flat contrast, mild blur, natural noise, and an authentic point-and-shoot snapshot feel. Add a yellow digital camera timestamp in the bottom right corner reading {argument name=\"timestamp text\" default=\"2008/04/26 10:25\"}. Composition should feel like a real family travel photo taken informally in China in the late 2000s, horizontal framing, eye-level perspective, documentary realism, no stylization.",
+  "translatedPrompt": "一张来自 {argument name=\"year\" default=\"2008\"} 年左右的写实数码相机照片，展示了一个中国三口之家在中国某公园内的合影。场景看起来就像是用早期的消费级卡片机拍摄的普通周末家庭快照，带有轻微的柔焦、淡淡的雾感、自然日光，以及 2000 年代末期小型数码相机摄影特有的随性写实感。一家人位于前景中心，蹲在平静池塘边的一条铺砌小路旁。照片中共有 3 人：左侧是母亲，中间是小男孩，右侧是父亲。母亲身穿紫色开衫，内搭深色上衣，下着蓝色牛仔裤，背着一个黑色单肩包；小男孩穿着一件未拉拉链的深蓝色运动外套，袖子上有白色和红色的条纹，胸前印有清晰的“86”字样，下着橄榄色或棕色长裤；父亲穿着深蓝色或黑色长袖衬衫，搭配蓝色牛仔裤，戴着手表，背着一个带有明显肩带的背包。他们的头向内倾斜，摆出亲密的家庭姿势，对着镜头微笑。背景中可以看到水对面有一座灰瓦屋顶的中国传统凉亭、池塘边不规则的装饰性岩石、长满嫩绿叶片的春季树木，以及远处零星的公园游客。构图应呈现出真实的个人旅行或家庭相册照片的感觉，而非精致的专业肖像。使用 4:3 的长宽比，平视构图，色彩饱满但色调略显柔和，天空有轻微的过曝感，右下角带有经典的黄色数码相机时间戳，显示为 {argument name=\"timestamp\" default=\"2008/04/26 10:25\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "2008 年中国家庭公园快照：一张 2000 年代末期风格的写实家庭合影，由小型数码相机拍摄，三人在中国公园的池塘边摆拍，适用于怀旧的日常生活影像。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[参考风格: realistic, documentary]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15720",
+      "14235",
+      "15274",
+      "15441",
+      "14450",
+      "14653"
+    ]
+  }
+}

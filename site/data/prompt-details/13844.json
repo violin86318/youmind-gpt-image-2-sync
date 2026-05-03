@@ -1,0 +1,42 @@
+{
+  "id": "13844",
+  "prompt": "{\n  \"type\": \"social media short video app interface mockup\",\n  \"main_image\": {\n    \"subject\": \"{argument name=\\\"subject description\\\" default=\\\"young Asian woman with long dark hair wearing a white off-the-shoulder top\\\"}\",\n    \"pose\": \"looking back over her shoulder at the camera, gentle smile, hair blowing slightly in the wind\",\n    \"setting\": \"{argument name=\\\"background location\\\" default=\\\"riverside promenade at sunset with a tall modern tower and city skyline\\\"}\",\n    \"lighting\": \"golden hour, warm sunlight reflecting on the river\"\n  },\n  \"ui_layout\": {\n    \"top_bar\": {\n      \"status_icons\": [\"time 9:41\", \"cellular signal\", \"wifi\", \"battery 100\"],\n      \"navigation\": {\n        \"left\": \"menu icon\",\n        \"center_tabs\": [\"经验\", \"团购\", \"关注\", \"{argument name=\\\"active top tab\\\" default=\\\"推荐\\\"}\"],\n        \"right\": \"search icon\"\n      }\n    },\n    \"right_sidebar\": {\n      \"count\": 6,\n      \"elements\": [\n        \"profile picture with pink plus button\",\n        \"heart icon with text '23.6万'\",\n        \"chat bubble icon with text '1.6万'\",\n        \"star icon with text '2.8万'\",\n        \"share arrow icon with text '3.7万'\",\n        \"spinning music record icon\"\n      ]\n    },\n    \"bottom_left_overlay\": {\n      \"username\": \"{argument name=\\\"username\\\" default=\\\"@小鹿的日常\\\"}\",\n      \"caption\": \"{argument name=\\\"caption text\\\" default=\\\"吹着晚风，看着日落，这一刻好治愈~ 🌅\\\"}\",\n      \"audio_track\": \"🎵 原声 @小鹿的日常创作的原声\"\n    },\n    \"bottom_navigation_bar\": {\n      \"count\": 5,\n      \"tabs\": [\n        \"首页\",\n        \"朋友 (with red badge '2')\",\n        \"central plus button in rounded square\",\n        \"消息 (with red badge '5')\",\n        \"我\"\n      ]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"社交媒体短视频 App 界面模型\",\n  \"main_image\": {\n    \"subject\": \"{argument name=\\\"subject description\\\" default=\\\"一位留着深色长发、身穿白色露肩上衣的年轻亚裔女性\\\"}\",\n    \"pose\": \"回头看向镜头，面带温柔微笑，头发在微风中轻轻飘动\",\n    \"setting\": \"{argument name=\\\"background location\\\" default=\\\"日落时分的滨江步道，背景有高大的现代塔楼和城市天际线\\\"}\",\n    \"lighting\": \"黄金时刻，温暖的阳光映照在河面上\"\n  },\n  \"ui_layout\": {\n    \"top_bar\": {\n      \"status_icons\": [\"时间 9:41\", \"蜂窝信号\", \"Wi-Fi\", \"电池 100\"],\n      \"navigation\": {\n        \"left\": \"菜单图标\",\n        \"center_tabs\": [\"经验\", \"团购\", \"关注\", \"{argument name=\\\"active top tab\\\" default=\\\"推荐\\\"}\"],\n        \"right\": \"搜索图标\"\n      }\n    },\n    \"right_sidebar\": {\n      \"count\": 6,\n      \"elements\": [\n        \"带有粉色加号按钮的头像\",\n        \"带有“23.6万”文本的心形图标\",\n        \"带有“1.6万”文本的聊天气泡图标\",\n        \"带有“2.8万”文本的星形图标\",\n        \"带有“3.7万”文本的分享箭头图标\",\n        \"旋转的音乐唱片图标\"\n      ]\n    },\n    \"bottom_left_overlay\": {\n      \"username\": \"{argument name=\\\"username\\\" default=\\\"@小鹿的日常\\\"}\",\n      \"caption\": \"{argument name=\\\"caption text\\\" default=\\\"吹着晚风，看着日落，这一刻好治愈~ 🌅\\\"}\",\n      \"audio_track\": \"🎵 原声 @小鹿的日常创作的原声\"\n    },\n    \"bottom_navigation_bar\": {\n      \"count\": 5,\n      \"tabs\": [\n        \"首页\",\n        \"朋友 (带红色角标 '2')\",\n        \"圆角方形中央加号按钮\",\n        \"消息 (带红色角标 '5')\",\n        \"我\"\n      ]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "社交媒体视频 App UI 模型：生成一个逼真的全屏移动端 App 界面，类似于短视频平台，包含可自定义的主图和 UI 叠加层。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "golden hour",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: golden hour, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13557",
+      "13822",
+      "13828",
+      "13833",
+      "13918",
+      "14695"
+    ]
+  }
+}

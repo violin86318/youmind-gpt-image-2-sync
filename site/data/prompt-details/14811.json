@@ -1,0 +1,46 @@
+{
+  "id": "14811",
+  "prompt": "A bright, high-resolution outdoor action photograph of a small {argument name=\"dog breed\" default=\"pug\"} running toward the camera on a narrow rocky hiking trail through an alpine meadow. The dog is centered slightly low in the frame, mid-stride with one front paw lifted, mouth open, tongue out, ears perked, and an excited expression, wearing a {argument name=\"harness color\" default=\"navy blue\"} chest harness. The trail curves gently back into rolling green hills and is bordered on both sides by dense wildflowers and grasses, including visible clusters of blue, purple, yellow, white, and pink blooms. In the distance, place 3 tiny hikers on the trail for scale. The background features a dramatic panoramic mountain range with 4 prominent snow-capped peaks, rugged rocky faces, and patches of glacier under a clear vivid {argument name=\"sky color\" default=\"blue\"} summer sky with a few thin wispy clouds. Use crisp natural daylight, vibrant but realistic colors, deep depth and clarity from foreground flowers to distant mountains, eye-level low-angle perspective, documentary travel photography style, sharp focus on the running dog, and a joyful adventurous hiking mood.",
+  "translatedPrompt": "一张明亮、高分辨率的户外动作照片，画面中一只小型 {argument name=\"dog breed\" default=\"哈巴狗\"} 正沿着高山草甸中狭窄的岩石徒步小径向镜头奔跑。狗狗位于画面偏下方中心位置，正处于奔跑中，一只前爪抬起，张着嘴，舌头伸出，耳朵竖起，表情兴奋，身穿一件 {argument name=\"harness color\" default=\"藏蓝色\"} 的胸背带。小径向连绵的绿色山丘蜿蜒延伸，两侧环绕着茂密的野花和草丛，可见成簇的蓝色、紫色、黄色、白色和粉色花朵。在远处，放置 3 名微小的徒步者以体现比例感。背景展现了壮观的全景山脉，有 4 座显眼的雪峰、崎岖的岩壁和冰川斑点，天空是清澈明亮的 {argument name=\"sky color\" default=\"蓝色\"} 夏季天空，点缀着几缕薄云。采用清脆的自然光，色彩鲜艳且真实，从前景的花朵到远处的山脉都具有深度的层次感和清晰度，使用平视低角度视角，纪实旅行摄影风格，焦点清晰地对准奔跑的狗狗，营造出一种欢乐、充满冒险感的徒步氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奔跑在高山步道上的哈巴狗：此提示词可生成一张充满活力的旅行风格动作照片，画面中一只快乐的哈巴狗正沿着鲜花盛开的山间徒步小径奔跑，非常适合用于探险、宠物和自然主题的宣传视觉素材。",
+      "subject": "界面",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic, documentary]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14440",
+      "15031",
+      "14821",
+      "14427",
+      "15602",
+      "15015"
+    ]
+  }
+}

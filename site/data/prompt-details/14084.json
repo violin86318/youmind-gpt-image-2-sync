@@ -1,0 +1,48 @@
+{
+  "id": "14084",
+  "prompt": "A full-body portrait of a person standing in a {argument name=\"setting\" default=\"narrow wet cobblestone alleyway at night\"}. The person is wearing a {argument name=\"clothing\" default=\"dark jacket and dark trousers\"}, with one hand resting against the rough, textured wall on the left and the other hand casually tucked into their pocket. Their face is completely obscured by a {argument name=\"face replacement\" default=\"large yellow smiling emoji with blushing cheeks\"}. The scene is illuminated by a single vintage street lamp mounted on the right wall, casting warm yellow light that reflects beautifully off the wet paving stones, creating deep, moody shadows. In the background, a small illuminated sign reads \"{argument name=\"background sign text\" default=\"三条小路\"}\". The artwork is a {argument name=\"art style\" default=\"modern digital illustration with high contrast lighting and subtle shin-hanga influences\"}, featuring a red square seal in the bottom right corner with the text \"新版画\" and a blank white vertical signature box with a tiny red seal in the bottom left.",
+  "translatedPrompt": "一幅全身肖像，描绘了一个人站在 {argument name=\"setting\" default=\"夜晚潮湿狭窄的鹅卵石巷弄\"} 中。此人身穿 {argument name=\"clothing\" default=\"深色夹克和深色长裤\"}，一只手靠在左侧粗糙且富有质感的墙壁上，另一只手随意地插在口袋里。他们的脸被一个 {argument name=\"face replacement\" default=\"带有红晕的大型黄色笑脸表情包\"} 完全遮住。场景由安装在右侧墙壁上的一盏复古路灯照亮，投射出温暖的黄色光芒，在潮湿的铺路石上形成美丽的倒影，营造出深邃且富有情绪的阴影。背景中，一块发光的小招牌上写着“{argument name=\"background sign text\" default=\"三条小路\"}”。这件艺术品是一种 {argument name=\"art style\" default=\"具有高对比度光影和微妙新版画风格的现代数字插画\"}，右下角有一个红色方形印章，上面写着“新版画”，左下角有一个空白的白色垂直签名框，带有一个微小的红色印章。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "雨夜巷弄中的表情包人物：生成一张充满情绪感、高对比度的插画，描绘一个面部为表情包的人物站在潮湿且灯火通明的巷弄中。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "full-body",
+        "vertical"
+      ],
+      "style": [
+        "vintage"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body, vertical]。\n\nVisual style:\n[参考风格: vintage]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14679",
+      "14408",
+      "15533",
+      "15741",
+      "14609",
+      "14816"
+    ]
+  }
+}

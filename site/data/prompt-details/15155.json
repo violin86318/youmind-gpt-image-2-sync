@@ -1,0 +1,37 @@
+{
+  "id": "15155",
+  "prompt": "Create a detailed {argument name=\"infographic topic\" default=\"medical infographic of the human body\"} showing major organs and how long a person can survive without each. Use a central transparent body, labeled organs, and a clean {argument name=\"design style\" default=\"modern poster design\"}.",
+  "translatedPrompt": "创建一个详细的 {argument name=\"infographic topic\" default=\"人体医疗信息图\"}，展示主要器官以及人在失去每个器官后能存活的时间。使用一个中央透明的人体模型、标注清晰的器官，并采用简洁的 {argument name=\"design style\" default=\"现代海报设计\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "医疗信息图提示词：一份用于创建人体现代医疗信息图的详细提示词，非常适合制作教育海报。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13804",
+      "14070",
+      "13609",
+      "13834",
+      "14053",
+      "14423"
+    ]
+  }
+}

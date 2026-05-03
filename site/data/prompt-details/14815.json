@@ -1,0 +1,48 @@
+{
+  "id": "14815",
+  "prompt": "A centered black-and-white vintage ink illustration of a medieval knight’s helmet and upper neck guard, shown as a bust on a plain light gray background with lots of negative space. The helmet is angled slightly to the left in three-quarter view, with a rounded domed top, a narrow horizontal visor slit, and a faceplate featuring 6 vertical ventilation slits. Include a riveted gorget with visible metal studs and a draped cloth or cape falling over the right shoulder. Render it in an engraved woodcut or etching style with bold black outlines, dense stippling, scratchy crosshatching, and high contrast shading, like an old heraldic emblem or antique book illustration. Clean isolated composition, no text, no border, no additional objects.",
+  "translatedPrompt": "一幅简洁的极简主义黑白墨水风格中世纪骑士头盔半身像插图，居中置于纯浅灰色背景上，留有大量负空间。头盔为经典的封闭式大头盔（Great Helm），带有狭窄的水平面罩缝、面甲上的 6 条垂直呼吸缝、圆顶，太阳穴附近有明显的圆形侧铆钉，以及带有小铆钉的分层护颈。在肩部和颈部周围加入垂褶布料或斗篷。采用复古雕刻、蚀刻或木刻风格渲染，具有粗犷的黑色轮廓、密集的点画、凌乱的交叉排线以及强烈的对比阴影。骑士呈四分之三侧面视角，面向左侧。无文字、无边框、无额外物体，仅为一个悬浮在中心、清晰的徽章式肖像。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古雕刻风格骑士头盔：此提示词可生成居中的单色中世纪头盔插图，采用复古雕刻风格，适用于 Logo、印刷品、图标或纹身风格的艺术创作。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [
+        "centered",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "vintage"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "禁止额外文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical, horizontal]。\n\nVisual style:\n[参考风格: vintage]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n禁止额外文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14914",
+      "14966",
+      "14554",
+      "14936",
+      "15321",
+      "14496"
+    ]
+  }
+}

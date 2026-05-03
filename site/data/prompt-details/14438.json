@@ -1,0 +1,52 @@
+{
+  "id": "14438",
+  "prompt": "A cinematic vertical sci-fi personal brand poster in a dark blue cyberpunk style, designed like a futuristic profile infographic for {argument name=\"profile name\" default=\"Meta_wu\"}. The composition centers on a young Asian man shown from the back and in partial side profile, standing confidently in a glossy black futuristic jacket with luminous blue accents and the text “META_WU” and “WEB3 × AI” printed on the back. His face is intentionally obscured by a rectangular blur block. Behind him is a dramatic outer-space scene with a large glowing Earth filling the upper background, dense stars, a futuristic megacity skyline at night, neon road light trails, and 1 small flying spaceship near the left-middle area. At the very top, place a huge metallic ice-textured title reading “{argument name=\"main title\" default=\"Meta_wu\"}” in bold beveled silver letters with blue rim light. Directly below it, add 2 centered lines of Chinese text: the first line is a role tagline reading “BTC矿工｜币安夏普比率No.1交易员｜程序员｜专注web3+AI交叉”, and the second line reads “投资观察-加密货币&美股&A股”. Surround the character with glowing holographic HUD panels in transparent dark glass with cyan neon borders. On the left side, create 4 stacked panels: panel 1 is an “关于我” card containing 4 lines of profile info, “科技｜Hongkong 🇭🇰”, “github.com/Ferwoo”, “出生于 1999年5月1日”, and “2016年10月 加入”; panel 2 is a social stats card with 3 large metrics, “1,950 正在关注”, “3,906 关注者”, and “1 置顶推文”; panel 3 is a “BTC MINER” card showing 1 large gold Bitcoin coin and a server-mining rack scene; panel 4 is a “交易哲学” card with 3 lines of text, “数据驱动 × 理性决策”, “长期主义 × 价值投资”, and a glowing upward candlestick chart. On the right side, create 6 stacked panels: panel 1 shows a globe icon and “被全球KOLs关注 1”; panel 2 shows a group icon and “被中文KOLs关注 93”; panel 3 shows a chart icon and “全球影响力排名 62,434 /200K”; panel 4 shows a trophy icon and “华语影响力 5,053 /10K”; panel 5 is a “TRADER” card with subtitle “币安夏普比率 No.1” and a golden rising line graph, plus the small text “SHARPE RATIO TOP 1”; panel 6 is a “DEVELOPER” card with code-like text lines “// Code is law”, “// Web3 is future”, “// AI x Crypto”, “function build() {”, “return change_the_world();”, “}” and a GitHub-style icon. In the lower center, add a bold Chinese slogan in large glowing white text: “{argument name=\"slogan text\" default=\"探索未来的交叉点\"}”. Beneath it, add a smaller subtitle line: “在web3与AI的浪潮中，构建价值与未来”. At the bottom, include 3 rectangular category cards aligned horizontally: card 1 labeled “加密货币” with a Bitcoin icon and tiny market chart; card 2 labeled “美股” with Tesla and Apple logos; card 3 labeled “A股” with a rising bar-and-line market graph. At the very bottom center, place 4 Chinese keywords separated by vertical bars, “科技｜投资｜自由｜影响力”, and below them the English words “TECHNOLOGY · INVESTMENT · FREEDOM · INFLUENCE”. Use a high-contrast blue-and-silver color scheme with subtle gold accents, ultra-detailed sci-fi UI, crisp and accurate typography, volumetric glow, reflective surfaces, dramatic rim lighting, premium poster design, clean layout symmetry, sharp focus, and a polished high-end GPT-image-2 futuristic promotional aesthetic.",
+  "translatedPrompt": "一张电影质感的竖版科幻个人品牌海报，采用深蓝色赛博朋克风格，设计为 {argument name=\"profile name\" default=\"Meta_wu\"} 的未来感个人资料信息图。构图中心是一位年轻亚裔男性的背影及部分侧脸，他自信地穿着一件带有发光蓝色装饰的亮面黑色未来感夹克，背部印有“META_WU”和“WEB3 × AI”字样。他的面部被一个矩形模糊块刻意遮挡。背景是壮丽的外太空场景，上方背景是一个巨大的发光地球，布满繁星，下方是未来感十足的夜间大都市天际线、霓虹灯路轨，左中位置有一艘小型飞行飞船。在最上方，放置一个巨大的金属冰晶质感标题，以粗体斜面银色字母书写“{argument name=\"main title\" default=\"Meta_wu\"}”，并带有蓝色边缘光。正下方添加两行居中的中文文本：第一行是角色标语“BTC矿工｜币安夏普比率No.1交易员｜程序员｜专注web3+AI交叉”，第二行是“投资观察-加密货币&美股&A股”。在人物周围环绕透明深色玻璃材质的发光全息 HUD 面板，并配有青色霓虹边框。左侧创建 4 个堆叠面板：面板 1 是“关于我”卡片，包含 4 行个人资料信息，“科技｜Hongkong 🇭🇰”、“github.com/Ferwoo”、“出生于 1999年5月1日”和“2016年10月 加入”；面板 2 是社交数据卡片，包含 3 个大指标，“1,950 正在关注”、“3,906 关注者”和“1 置顶推文”；面板 3 是“BTC MINER”卡片，展示一枚巨大的金色比特币和服务器挖矿机架场景；面板 4 是“交易哲学”卡片，包含 3 行文本，“数据驱动 × 理性决策”、“长期主义 × 价值投资”以及一个发光的向上 K 线图。右侧创建 6 个堆叠面板：面板 1 显示地球图标和“被全球KOLs关注 1”；面板 2 显示群组图标和“被中文KOLs关注 93”；面板 3 显示图表图标和“全球影响力排名 62,434 /200K”；面板 4 显示奖杯图标和“华语影响力 5,053 /10K”；面板 5 是“TRADER”卡片，副标题为“币安夏普比率 No.1”，配有金色上升折线图，以及小字“SHARPE RATIO TOP 1”；面板 6 是“DEVELOPER”卡片，包含类似代码的文本行“// Code is law”、“// Web3 is future”、“// AI x Crypto”、“function build() {”、“return change_the_world();”、“}”以及 GitHub 风格图标。在下方中心，添加一句醒目的中文口号，使用巨大的发光白色文字：“{argument name=\"slogan text\" default=\"探索未来的交叉点\"}”。在其下方添加一行较小的副标题：“在web3与AI的浪潮中，构建价值与未来”。底部包含 3 个水平对齐的矩形分类卡片：卡片 1 标记为“加密货币”，带有比特币图标和微型市场图表；卡片 2 标记为“美股”，带有特斯拉和苹果标志；卡片 3 标记为“A股”，带有上升的柱状和折线市场图。在最底部中心，放置 4 个由竖线分隔的中文关键词：“科技｜投资｜自由｜影响力”，下方是对应的英文单词“TECHNOLOGY · INVESTMENT · FREEDOM · INFLUENCE”。采用高对比度的蓝银配色方案，点缀微妙的金色，超精细的科幻 UI，清晰准确的排版，体积光效果，反射表面，戏剧性的边缘照明，高级海报设计，整洁的布局对称性，焦点清晰，呈现出精致的高端 GPT-image-2 未来感宣传美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "赛博朋克 Web3 AI 个人资料海报：一张充满未来感的个人品牌海报，展示了 Web3 和 AI 风格的个人形象，配有全息数据面板，非常适合社交媒体介绍、个人资料横幅或科技创业者的自我推广。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "cinematic",
+        "sci-fi",
+        "premium"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "neon",
+        "volumetric"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical, horizontal]。\n\nVisual style:\n[参考风格: cinematic, sci-fi, premium]。\n\nLighting and camera:\n[参考光线镜头: rim light, neon, volumetric]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15302",
+      "14472",
+      "15373",
+      "14946",
+      "15016",
+      "15458"
+    ]
+  }
+}

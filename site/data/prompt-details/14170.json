@@ -1,0 +1,54 @@
+{
+  "id": "14170",
+  "prompt": "{\n  \"type\": \"technical infographic\",\n  \"subject\": \"{argument name=\\\"subject matter\\\" default=\\\"digital photography process\\\"}\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"一张照片诞生的因果链 THE CAUSAL CHAIN OF A PHOTOGRAPH\\\"}\",\n    \"subtitle\": \"从世界，到图像 FROM WORLD TO IMAGE\"\n  },\n  \"centerpiece\": {\n    \"description\": \"Exploded isometric view of a modern mirrorless camera\",\n    \"model\": \"{argument name=\\\"camera model\\\" default=\\\"Canon EOS R5\\\"}\",\n    \"labeled_parts_count\": 12,\n    \"labeled_parts\": [\n      \"EVF\",\n      \"Body Structure\",\n      \"Control Dials\",\n      \"Thermal Design\",\n      \"Optical Axis\",\n      \"IBIS Stabilizer\",\n      \"Shutter Unit\",\n      \"Full-Frame Sensor\",\n      \"{argument name=\\\"processor name\\\" default=\\\"DIGIC X Processor\\\"}\",\n      \"Main PCB\",\n      \"High-Speed Bus\",\n      \"Card Slot\"\n    ]\n  },\n  \"layout\": {\n    \"left_column\": {\n      \"description\": \"Chronological causal chain\",\n      \"count\": 13,\n      \"steps\": [\n        \"01 REALITY EXISTS\",\n        \"02 PHOTONS LEAVE THE WORLD\",\n        \"03 LENS ACCEPTS & BENDS LIGHT\",\n        \"04 APERTURE SELECTS\",\n        \"05 SHUTTER CUTS TIME\",\n        \"06 FOCUS SETS PRIORITY\",\n        \"07 SENSOR RECEIVES EVENT\",\n        \"08 LIGHT BECOMES CHARGE\",\n        \"09 ANALOG READOUT\",\n        \"10 A/D CONVERSION\",\n        \"11 COMPUTATION RECONSTRUCTS\",\n        \"12 IMAGE APPEARS\",\n        \"13 MEMORY OUTLIVES\"\n      ]\n    },\n    \"right_column\": {\n      \"title\": \"八大模块 / 8 MODULES\",\n      \"count\": 8,\n      \"modules\": [\n        \"1 ORIGIN OF LIGHT\",\n        \"2 LENS SHAPES REALITY\",\n        \"3 APERTURE & SHUTTER EDIT THE WORLD\",\n        \"4 FOCUS DECIDES CLARITY\",\n        \"5 SENSOR MEASURES LIGHT\",\n        \"6 SIGNAL BORN & AMPLIFIED\",\n        \"7 COMPUTATION BUILDS IMAGE\",\n        \"8 FILE BECOMES MEMORY\"\n      ]\n    },\n    \"side_diagrams\": {\n      \"count\": 7,\n      \"descriptions\": [\n        \"Ray cone & image formation\",\n        \"Aperture & depth of field\",\n        \"Shutter & motion\",\n        \"Focal plane & clarity\",\n        \"Pixel structure\",\n        \"Photoelectric conversion\",\n        \"Analog signal waveform\"\n      ]\n    },\n    \"footer\": {\n      \"count\": 5,\n      \"description\": \"Philosophical summary points\"\n    }\n  },\n  \"style\": \"technical, precise, wireframe elements, glowing data lines, photorealistic camera components, clean typography, dual-language\"\n}",
+  "translatedPrompt": "{\n  \"type\": \"technical infographic\",\n  \"subject\": \"{argument name=\\\"subject matter\\\" default=\\\"digital photography process\\\"}\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"一张照片诞生的因果链 THE CAUSAL CHAIN OF A PHOTOGRAPH\\\"}\",\n    \"subtitle\": \"从世界，到图像 FROM WORLD TO IMAGE\"\n  },\n  \"centerpiece\": {\n    \"description\": \"Exploded isometric view of a modern mirrorless camera\",\n    \"model\": \"{argument name=\\\"camera model\\\" default=\\\"Canon EOS R5\\\"}\",\n    \"labeled_parts_count\": 12,\n    \"labeled_parts\": [\n      \"EVF\",\n      \"Body Structure\",\n      \"Control Dials\",\n      \"Thermal Design\",\n      \"Optical Axis\",\n      \"IBIS Stabilizer\",\n      \"Shutter Unit\",\n      \"Full-Frame Sensor\",\n      \"{argument name=\\\"processor name\\\" default=\\\"DIGIC X Processor\\\"}\",\n      \"Main PCB\",\n      \"High-Speed Bus\",\n      \"Card Slot\"\n    ]\n  },\n  \"layout\": {\n    \"left_column\": {\n      \"description\": \"Chronological causal chain\",\n      \"count\": 13,\n      \"steps\": [\n        \"01 REALITY EXISTS\",\n        \"02 PHOTONS LEAVE THE WORLD\",\n        \"03 LENS ACCEPTS & BENDS LIGHT\",\n        \"04 APERTURE SELECTS\",\n        \"05 SHUTTER CUTS TIME\",\n        \"06 FOCUS SETS PRIORITY\",\n        \"07 SENSOR RECEIVES EVENT\",\n        \"08 LIGHT BECOMES CHARGE\",\n        \"09 ANALOG READOUT\",\n        \"10 A/D CONVERSION\",\n        \"11 COMPUTATION RECONSTRUCTS\",\n        \"12 IMAGE APPEARS\",\n        \"13 MEMORY OUTLIVES\"\n      ]\n    },\n    \"right_column\": {\n      \"title\": \"八大模块 / 8 MODULES\",\n      \"count\": 8,\n      \"modules\": [\n        \"1 ORIGIN OF LIGHT\",\n        \"2 LENS SHAPES REALITY\",\n        \"3 APERTURE & SHUTTER EDIT THE WORLD\",\n        \"4 FOCUS DECIDES CLARITY\",\n        \"5 SENSOR MEASURES LIGHT\",\n        \"6 SIGNAL BORN & AMPLIFIED\",\n        \"7 COMPUTATION BUILDS IMAGE\",\n        \"8 FILE BECOMES MEMORY\"\n      ]\n    },\n    \"side_diagrams\": {\n      \"count\": 7,\n      \"descriptions\": [\n        \"Ray cone & image formation\",\n        \"Aperture & depth of field\",\n        \"Shutter & motion\",\n        \"Focal plane & clarity\",\n        \"Pixel structure\",\n        \"Photoelectric conversion\",\n        \"Analog signal waveform\"\n      ]\n    },\n    \"footer\": {\n      \"count\": 5,\n      \"description\": \"Philosophical summary points\"\n    }\n  },\n  \"style\": \"technical, precise, wireframe elements, glowing data lines, photorealistic camera components, clean typography, dual-language\"\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Camera Exploded View Infographic：Generates a highly detailed, multi-step technical infographic featuring an exploded view diagram of a complex device.",
+      "subject": "产品",
+      "scene": "信息图/图解",
+      "composition": [
+        "isometric",
+        "exploded view"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "isometric"
+      ],
+      "lightingCamera": [
+        "depth of field",
+        "lens",
+        "camera"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "硬件拆解、产品卖点、技术说明、科普图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: isometric, exploded view]。\n\nVisual style:\n[参考风格: realistic, photorealistic, isometric]。\n\nLighting and camera:\n[参考光线镜头: depth of field, lens, camera]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13460",
+      "14956",
+      "14261",
+      "15110",
+      "14151",
+      "15000"
+    ]
+  }
+}

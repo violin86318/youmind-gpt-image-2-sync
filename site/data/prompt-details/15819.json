@@ -1,0 +1,47 @@
+{
+  "id": "15819",
+  "prompt": "{\"type\":\"Japanese insurance company staff directory webpage mockup\",\"brand\":{\"company_name\":\"ほげほげ生命\",\"romanized_name\":\"HOGEHOGE LIFE\",\"theme\":\"friendly, trustworthy, feminine corporate design in bright pink and white\"},\"page\":{\"title\":\"営業担当一覧\",\"subtitle\":\"ご相談内容やご希望に応じて、担当希望をお出しいただけます。\",\"format\":\"full-page website screenshot, square composition, dense card grid layout\"},\"layout\":{\"header\":{\"left\":\"company logo with flower icon and company name\",\"center\":\"large pink title banner\",\"right\":{\"count\":3,\"labels\":[\"簡単希望の出し方\",\"よくあるご質問\",\"お問い合わせ\"]}},\"intro\":{\"headline\":\"安心の未来を、ご一緒にかんがえちゃうぞ♪\",\"body\":\"保険のこと、将来のこと、ちょっとした疑問でも大丈夫。 ほげほげ生命の担当者は、あなたの『話しやすいパートナー』です。 ライフステージや価値観に寄り添い、最適なプランをご提案します。\",\"features\":{\"count\":6,\"items\":[\"生命保険・医療保険・がん保険\",\"学資保険・個人年金・介護保険\",\"ライフプラン相談・見直し相談\",\"資産形成・NISA・iDeCo\",\"相続・贈与・事業承継サポート\",\"やさしい言葉で丁寧に案内\"]},\"cta_box\":{\"title\":\"担当希望の出し方\",\"body\":\"気になる担当者の『担当希望する』ボタンから、ご希望の相談内容とともにお申し込みください。\",\"button\":\"担当希望の申し込みはこちら\"}},\"staff_grid\":{\"count\":12,\"numbered_cards\":true,\"columns\":4,\"rows\":3,\"card_style\":\"rounded white cards with thin gray border, pink accents, each card has a small colored number tab on the top left\",\"shared_elements\":[\"upper-body portrait photo of a smiling Japanese female consultant with intentionally blurred face\",\"name and age line\",\"job title and profile text in Japanese\",\"multiple pink category labels\",\"short friendly catchphrase near bottom\",\"bright pink CTA button labeled 担当希望する\"],\"cards\":[{\"number\":1,\"name\":\"小林 ゆい\",\"age\":\"27歳\",\"photo\":\"light blue shirt, hand near chin, soft indoor background\",\"catchphrase\":\"はじめての保険相談も安心しておまかせください♪\"},{\"number\":2,\"name\":\"田中 ひより\",\"age\":\"29歳\",\"photo\":\"cream blouse, shoulder-length hair, thoughtful pose\",\"catchphrase\":\"お客様の夢や目標の実現を全力でサポートします！\"},{\"number\":3,\"name\":\"佐藤 あかり\",\"age\":\"31歳\",\"photo\":\"beige jacket, finger near lips, long dark hair\",\"catchphrase\":\"お子さまの未来に向けたプラン作りが得意です♪\"},{\"number\":4,\"name\":\"高橋 まなみ\",\"age\":\"34歳\",\"photo\":\"blue striped shirt, hair up, hand near cheek\",\"catchphrase\":\"将来の『もしも』に備える安心づくりをお手伝いします♡\"},{\"number\":5,\"name\":\"山口 さやか\",\"age\":\"28歳\",\"photo\":\"yellow cardigan, seated by window, soft smile\",\"catchphrase\":\"資産形成の小さな一歩を一緒にサポートします♪\"},{\"number\":6,\"name\":\"中村 ひかる\",\"age\":\"32歳\",\"photo\":\"pink blouse, bob haircut, gentle pose\",\"catchphrase\":\"ご家族と会社の未来を一緒に考えます♡\"},{\"number\":7,\"name\":\"石井 里奈\",\"age\":\"25歳\",\"photo\":\"navy blazer, braided or tied hair, confident pose\",\"catchphrase\":\"ライフステージの変化に合わせて、やさしくご提案します♡\"},{\"number\":8,\"name\":\"松本 真咲\",\"age\":\"30歳\",\"photo\":\"dark blouse, one hand raised near face, casual office portrait\",\"catchphrase\":\"企業さまの課題に寄り添い、最適な保険を提案します♪\"},{\"number\":9,\"name\":\"加藤 さつき\",\"age\":\"33歳\",\"photo\":\"lavender top, hand near chin, bright background\",\"catchphrase\":\"将来に向けた安心を一緒にカタチにします♡\"},{\"number\":10,\"name\":\"渡辺 優花\",\"age\":\"29歳\",\"photo\":\"white blouse, short bob, clean minimal portrait\",\"catchphrase\":\"いざという時に安心してご相談いただけます♪\"},{\"number\":11,\"name\":\"宮下 由紀\",\"age\":\"31歳\",\"photo\":\"beige jacket, hand near face, warm indoor lighting\",\"catchphrase\":\"今の備えと一緒に見直して、未来の安心につなげます♡\"},{\"number\":12,\"name\":\"長谷川 彩\",\"age\":\"26歳\",\"photo\":\"pale yellow top, holding a smartphone, natural smile\",\"catchphrase\":\"オンラインでも安心してご相談くださいね♪\"}]},\"footer\":{\"count\":5,\"items\":[\"担当者の変更も可能です。お気軽にご相談ください。\",\"相談無料\",\"秘密厳守\",\"オンライン相談可\",\"土日相談OK（予約制）\"],\"note\":\"※各担当者のスケジュールにより、ご希望に添えない場合がございます。\"}},\"style\":{\"visual_tone\":\"cute, polished Japanese corporate advertising, trustworthy but playful\",\"color_palette\":{\"primary\":\"hot pink\",\"secondary\":\"soft pink\",\"background\":\"very light pink and white\",\"text\":\"dark gray with pink highlights\"},\"typography\":\"clean Japanese sans-serif with handwritten-style pink headline accents\",\"rendering\":\"high-resolution web UI mockup, realistic portrait photography embedded in designed cards, crisp Japanese text, symmetrical spacing, professional ecommerce-style landing page\"}}",
+  "translatedPrompt": "{\"type\":\"日本保险公司员工名录网页演示稿\",\"brand\":{\"company_name\":\"ほげほげ生命\",\"romanized_name\":\"HOGEHOGE LIFE\",\"theme\":\"明亮的粉色与白色搭配，呈现出亲切、值得信赖且柔美的企业设计风格\"},\"page\":{\"title\":\"营业担当一览\",\"subtitle\":\"您可以根据咨询内容或个人意愿，提交担当申请。\",\"format\":\"全页网站截图，方形构图，密集的卡片网格布局\"},\"layout\":{\"header\":{\"left\":\"带有花朵图标的公司 Logo 及名称\",\"center\":\"大型粉色标题横幅\",\"right\":{\"count\":3,\"labels\":[\"简单申请流程\",\"常见问题\",\"联系我们\"]}},\"intro\":{\"headline\":\"让我们一起构思安心的未来吧♪\",\"body\":\"关于保险、未来规划，哪怕是微小的疑问也没关系。 ほげほげ生命 的担当者是您『易于沟通的伙伴』。 我们将贴合您的生活阶段与价值观，为您提供最优方案。\",\"features\":{\"count\":6,\"items\":[\"人寿保险・医疗保险・癌症保险\",\"教育保险・个人养老金・护理保险\",\"生活规划咨询・保单重审\",\"资产配置・NISA・iDeCo\",\"继承・赠与・事业继承支持\",\"用通俗易懂的语言细致引导\"]},\"cta_box\":{\"title\":\"如何申请担当\",\"body\":\"请点击心仪担当者下方的『申请担当』按钮，并填写您的咨询内容进行预约。\",\"button\":\"点击此处申请担当\"}},\"staff_grid\":{\"count\":12,\"numbered_cards\":true,\"columns\":4,\"rows\":3,\"card_style\":\"圆角白色卡片，带有细灰色边框及粉色点缀，每张卡片左上角有一个彩色数字标签\",\"shared_elements\":[\"面带微笑的日本女性顾问半身照，面部经过模糊处理\",\"姓名与年龄行\",\"日语职位与个人简介\",\"多个粉色分类标签\",\"底部简短亲切的宣传语\",\"亮粉色 CTA 按钮，标注为“申请担当”\"],\"cards\":[{\"number\":1,\"name\":\"小林 ゆい\",\"age\":\"27岁\",\"photo\":\"浅蓝色衬衫，手托下巴，柔和的室内背景\",\"catchphrase\":\"即使是第一次保险咨询，也请放心交给我♪\"},{\"number\":2,\"name\":\"田中 ひより\",\"age\":\"29岁\",\"photo\":\"米色衬衫，齐肩发，思考姿势\",\"catchphrase\":\"全力支持您实现梦想与目标！\"},{\"number\":3,\"name\":\"佐藤 あかり\",\"age\":\"31岁\",\"photo\":\"米色外套，手指轻触唇部，长直发\",\"catchphrase\":\"擅长为您制定面向孩子未来的计划♪\"},{\"number\":4,\"name\":\"高桥 まなみ\",\"age\":\"34岁\",\"photo\":\"蓝白条纹衬衫，盘发，手托脸颊\",\"catchphrase\":\"协助您为未来的『万一』做好安心准备♡\"},{\"number\":5,\"name\":\"山口 さやか\",\"age\":\"28岁\",\"photo\":\"黄色开衫，窗边就坐，温柔微笑\",\"catchphrase\":\"与您一同迈出资产配置的一小步♪\"},{\"number\":6,\"name\":\"中村 ひかる\",\"age\":\"32岁\",\"photo\":\"粉色衬衫，波波头，温和姿势\",\"catchphrase\":\"与您共同构思家庭与公司的未来♡\"},{\"number\":7,\"name\":\"石井 里奈\",\"age\":\"25岁\",\"photo\":\"深蓝色西装，编发或扎发，自信姿势\",\"catchphrase\":\"根据您生活阶段的变化，为您提供贴心的建议♡\"},{\"number\":8,\"name\":\"松本 真咲\",\"age\":\"30岁\",\"photo\":\"深色衬衫，单手轻触脸部，休闲办公照\",\"catchphrase\":\"贴合企业客户的需求，提供最优保险方案♪\"},{\"number\":9,\"name\":\"加藤 さつき\",\"age\":\"33岁\",\"photo\":\"淡紫色上衣，手托下巴，明亮背景\",\"catchphrase\":\"与您一同将未来的安心变为现实♡\"},{\"number\":10,\"name\":\"渡辺 優花\",\"age\":\"29岁\",\"photo\":\"白色衬衫，短波波头，简洁明快的肖像\",\"catchphrase\":\"在您需要时，随时可以放心咨询♪\"},{\"number\":11,\"name\":\"宮下 由紀\",\"age\":\"31岁\",\"photo\":\"米色外套，手部靠近脸部，温暖室内光\",\"catchphrase\":\"结合现有保障进行重审，连接未来的安心♡\"},{\"number\":12,\"name\":\"長谷川 彩\",\"age\":\"26岁\",\"photo\":\"淡黄色上衣，手持智能手机，自然微笑\",\"catchphrase\":\"即使是线上咨询也请放心哦♪\"}]},\"footer\":{\"count\":5,\"items\":[\"支持更换担当者，欢迎随时咨询。\",\"免费咨询\",\"严格保密\",\"支持线上咨询\",\"周末可咨询（需预约）\"],\"note\":\"※根据各担当者的日程安排，可能无法满足您的预约需求。\"}},\"style\":{\"visual_tone\":\"可爱、精致的日本企业广告风格，既值得信赖又充满活力\",\"color_palette\":{\"primary\":\"热粉色\",\"secondary\":\"柔粉色\",\"background\":\"极浅粉色与白色\",\"text\":\"深灰色配粉色高亮\"},\"typography\":\"简洁的日文无衬线字体，搭配手写风格的粉色标题\",\"rendering\":\"高分辨率网页 UI 演示稿，设计感卡片中嵌入真实肖像摄影，清晰的日语文本，对称间距，专业的电商风格落地页\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日本保险公司员工名录演示稿：一个精致的粉色系日本保险公司网页，展示了 12 张顾问个人资料卡片，适用于演示密集的日语文本渲染及企业落地页设计。",
+      "subject": "文字符号",
+      "scene": "UI/界面",
+      "composition": [
+        "symmetrical",
+        "grid"
+      ],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: symmetrical, grid]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15397",
+      "15617",
+      "14403",
+      "15714",
+      "14457",
+      "14581"
+    ]
+  }
+}

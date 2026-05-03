@@ -1,0 +1,37 @@
+{
+  "id": "13989",
+  "prompt": "书桌上摆着两本摊开的书，一本书是{argument name=\"第一本书\" default=\"小学语文课本\"}，一本是{argument name=\"第二本书\" default=\"小学数学课本\"}，课本内容清晰。",
+  "translatedPrompt": "桌面上放着两本打开的书，一本是 {argument name=\"first textbook\" default=\"小学语文课本\"}，另一本是 {argument name=\"second textbook\" default=\"小学数学课本\"}，书中的内容清晰可见。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "逼真的教科书桌面场景：一个旨在测试模型文本渲染能力和真实感的详细提示词，通过描绘桌面上的语文和数学教科书来实现。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13707",
+      "13719",
+      "13853",
+      "14752",
+      "14790",
+      "15149"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "14599",
+  "prompt": "An ancient Chinese ink-and-wash style portrait on aged tan parchment, composed like a classical hanging scroll. A scholarly East Asian man in flowing gray-blue robes sits side-saddle atop a long serpentine Chinese dragon emerging through swirling clouds. His face is intentionally obscured by a flat rectangular blur block in parchment-brown tones. He has short dark curly hair and wears layered traditional robes with ornate patterned trim, a dark sash belt, and two modern OpenAI knot emblems worked into the costume: one printed on the chest and one on a round hand fan he holds upright in his right hand. His left hand rests near the dragon's mane as if holding the creature steady. The dragon is large and detailed, with blue-green scales, a pale underbelly, reddish-brown mane and fin accents, antler-like horns, whiskers, bared teeth, and a fierce expressive face in the lower left foreground, while its body coils upward to the upper right. Surround the figures with mist, stylized clouds, and steep craggy mountain peaks fading into the background. Add a vertical column of black Chinese calligraphy at the upper left and 3 red seal stamps near the lower part of the inscription area. The palette is muted, dusty, and antique: parchment beige, faded teal, moss green, smoky gray, sepia, and rust. Overall feeling: mythical, scholarly, dignified, slightly surreal, blending classical Chinese scroll painting with subtle modern AI iconography. Highly detailed brushwork, weathered paper texture, elegant composition, no border, full-frame vertical artwork.",
+  "translatedPrompt": "一幅中国水墨风格的古老肖像，绘于陈旧的棕褐色羊皮纸上，构图如同古典立轴。一位东亚学者身着飘逸的灰蓝色长袍，侧身骑在一条穿梭于云雾间的长身中国龙背上。他的面部被一块羊皮纸棕色的矩形模糊色块刻意遮挡。他留着深色短卷发，身穿带有华丽花边饰边的多层传统长袍，系着深色腰带；服装上巧妙融入了两个现代 OpenAI 结状徽章：一个印在胸前，另一个印在他右手竖持的圆形团扇上。他的左手靠近龙鬃，仿佛在稳住龙身。巨龙体型庞大且细节丰富，拥有蓝绿色的鳞片、苍白的腹部、红棕色的鬃毛与鳍状装饰、鹿角状的角、龙须、露出的牙齿，以及左下角前景中那张凶猛而生动的面孔，龙身则向右上角盘旋而上。人物周围环绕着薄雾、风格化的云朵以及逐渐淡入背景的陡峭山峰。在左上方添加一列黑色中国书法，并在题字区域下方添加 3 枚红色印章。色调柔和、陈旧且充满古韵：羊皮纸米色、褪色的青色、苔藓绿、烟灰色、深褐色和铁锈红。整体意境：神话感、书卷气、庄重且略带超现实感，将中国古典卷轴画与微妙的现代 AI 图标融为一体。笔触细腻，纸张纹理斑驳，构图优雅，无边框，全画幅垂直艺术作品。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "骑龙古卷学者：此提示词可生成一幅中国古典卷轴风格的奇幻肖像，描绘了一位身着长袍的学者骑在龙背上的场景，融合了书法与微妙的现代 AI 符号，非常适合海报艺术或风格化编辑图像。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "layered",
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14437",
+      "14488",
+      "15303",
+      "15641",
+      "14817",
+      "14126"
+    ]
+  }
+}

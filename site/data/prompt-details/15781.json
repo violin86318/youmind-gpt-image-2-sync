@@ -1,0 +1,48 @@
+{
+  "id": "15781",
+  "prompt": "A candid {argument name=\"time period\" default=\"1990s\"} beach scene in {argument name=\"location\" default=\"Spain\"}, photographed like a real family snapshot on color film, vertical composition. A crowded urban beach under bright midday summer sun, with warm beige sand in the foreground, calm blue sea to the right, and a long curve of densely packed apartment buildings and low hills across the bay in the background. In the center foreground, a shirtless middle-aged man with dark hair sits on a towel with his back partly toward the camera, wearing bright blue swim trunks, relaxed and slightly slouched. Around him are {argument name=\"number of children\" default=\"3\"} small children playing in the sand, one standing in red swim briefs and two seated nearby in light-colored swimsuits. Scatter beach towels, coolers, bags, sandals, and personal belongings across the sand. Include exactly 3 prominent beach umbrellas: 1 multicolored floral umbrella on the left, 1 red-and-white striped umbrella near the center-left, and 1 solid pink umbrella on the right. Fill the midground with many sunbathers and swimmers in natural, unstaged poses, evoking everyday summer life rather than tourism advertising. The mood is nostalgic, ordinary, and authentic, with slight film grain, soft faded colors, mild haze, and the imperfect realism of a 1990s consumer camera. Documentary photography, zero stock-photo polish, believable skin tones, ambient beach clutter, spontaneous composition, subtle vintage print texture. Add a small modern app watermark in the top-right corner reading {argument name=\"watermark text\" default=\"Pollo AI\"}.",
+  "translatedPrompt": "一张在 {argument name=\"location\" default=\"西班牙\"} 拍摄的 {argument name=\"time period\" default=\"20 世纪 90 年代\"} 真实海滩场景，采用竖构图，如同真实的家庭胶片快照。画面展示了明媚夏日正午时分拥挤的城市海滩，前景是温暖的米色沙滩，右侧是平静的蓝色大海，背景是海湾对面连绵的公寓楼群和低矮山丘。画面中心前景处，一位留着深色头发的中年男子赤裸上身，背对镜头坐在毛巾上，身穿亮蓝色泳裤，姿态放松且略显慵懒。他周围有 {argument name=\"number of children\" default=\"3\"} 个在沙滩上玩耍的小孩，其中一个站着，身穿红色泳裤，另外两个坐在附近，身穿浅色泳衣。沙滩上散落着沙滩巾、冷藏箱、包袋、凉鞋和个人物品。画面中需包含 3 把显眼的遮阳伞：左侧一把多色花卉图案遮阳伞，中左侧一把红白条纹遮阳伞，右侧一把纯粉色遮阳伞。中景处填充许多姿态自然、未经摆拍的日光浴者和游泳者，营造出日常夏日生活气息，而非旅游广告风格。整体氛围怀旧、平凡且真实，带有轻微的胶片颗粒感、柔和褪色的色彩、淡淡的雾气，以及 20 世纪 90 年代消费级相机特有的不完美写实感。纪实摄影风格，无商业图库的修饰感，肤色自然真实，充满生活化的海滩杂物，构图随性，具有细腻的复古照片质感。在右上角添加一个小型的现代应用水印，文字为 {argument name=\"watermark text\" default=\"Pollo AI\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "20 世纪 90 年代西班牙家庭海滩快照：此提示词可生成一张充满怀旧感、写实风格的彩色胶片海滩照片，展现 20 世纪 90 年代西班牙的夏日日常生活，非常适合复古生活方式和记忆风格的视觉创作。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "vintage",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "film grain",
+        "camera"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: vintage, documentary]。\n\nLighting and camera:\n[参考光线镜头: film grain, camera]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15705",
+      "14667",
+      "14819",
+      "14820",
+      "15602",
+      "14318"
+    ]
+  }
+}

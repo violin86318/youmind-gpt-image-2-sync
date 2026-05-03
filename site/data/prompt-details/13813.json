@@ -1,0 +1,49 @@
+{
+  "id": "13813",
+  "prompt": "{\n  \"type\": \"YouTube thumbnail graphic\",\n  \"style\": \"anime, edgy, neon pink and black color scheme, grunge and splatter accents\",\n  \"character\": {\n    \"appearance\": \"anime girl, {argument name=\\\"hair color\\\" default=\\\"silver\\\"} hair, cat ears, purple eyes\",\n    \"expression\": \"{argument name=\\\"expression\\\" default=\\\"shocked and sweating\\\"}, mouth open\",\n    \"accessories\": \"black cat hairclip with pink cross, black choker with heart ring\",\n    \"action\": \"holding a pink smartphone with a swirl logo\"\n  },\n  \"layout\": {\n    \"main_title\": {\n      \"position\": \"bottom center\",\n      \"style\": \"huge, bold, 3D typography, grunge texture\",\n      \"lines\": [\n        { \"text\": \"{argument name=\\\"main title top\\\" default=\\\"스레드 논란\\\"}\", \"color\": \"neon pink\" },\n        { \"text\": \"{argument name=\\\"main title bottom\\\" default=\\\"읽어드림 ;;\\\"}\", \"color\": \"white\" }\n      ]\n    },\n    \"ui_elements\": [\n      {\n        \"type\": \"social media feed mockup\",\n        \"position\": \"mid-left\",\n        \"header\": \"← 스레드\",\n        \"post_count\": 3,\n        \"details\": \"avatars, Korean text, interaction icons for like, comment, repost\"\n      },\n      {\n        \"type\": \"live chat mockup\",\n        \"position\": \"right edge\",\n        \"message_count\": 4,\n        \"details\": \"pink user icons, Korean text\"\n      }\n    ],\n    \"text_callouts\": [\n      {\n        \"type\": \"spiky speech bubble\",\n        \"position\": \"center top\",\n        \"text\": \"{argument name=\\\"speech bubble text\\\" default=\\\"이게 맞아?;;\\\"}\"\n      },\n      {\n        \"type\": \"neon box\",\n        \"position\": \"top right\",\n        \"text\": \"실시간 반응 중\"\n      },\n      {\n        \"type\": \"floating grunge text\",\n        \"position\": \"far left\",\n        \"line_count\": 3,\n        \"text\": [\"OO 논란\", \"충격 실화\", \"역대급 사건\"]\n      },\n      {\n        \"type\": \"handwritten text with arrow\",\n        \"position\": \"bottom right\",\n        \"text\": \"여러분의 생각은 어떠신가요?\"\n      }\n    ],\n    \"logos\": [\n      {\n        \"type\": \"app icon\",\n        \"position\": \"top left\",\n        \"description\": \"white swirl logo on black rounded square\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"YouTube 缩略图\",\n  \"style\": \"动漫风格，前卫，霓虹粉与黑色配色，带有颓废风和喷溅装饰\",\n  \"character\": {\n    \"appearance\": \"动漫少女，{argument name=\\\"hair color\\\" default=\\\"银色\\\"} 头发，猫耳，紫色双眸\",\n    \"expression\": \"{argument name=\\\"expression\\\" default=\\\"震惊且冒汗\\\"}，张嘴\",\n    \"accessories\": \"带有粉色十字架的黑色猫咪发夹，带有心形环的黑色颈圈\",\n    \"action\": \"手持带有漩涡标志的粉色智能手机\"\n  },\n  \"layout\": {\n    \"main_title\": {\n      \"position\": \"底部居中\",\n      \"style\": \"巨大、粗体、3D 字体，带有颓废质感\",\n      \"lines\": [\n        { \"text\": \"{argument name=\\\"main title top\\\" default=\\\"争议话题\\\"}\", \"color\": \"霓虹粉\" },\n        { \"text\": \"{argument name=\\\"main title bottom\\\" default=\\\"在线阅读 ;;\\\"}\", \"color\": \"白色\" }\n      ]\n    },\n    \"ui_elements\": [\n      {\n        \"type\": \"社交媒体信息流模拟\",\n        \"position\": \"中左\",\n        \"header\": \"← 话题\",\n        \"post_count\": 3,\n        \"details\": \"头像，中文文本，点赞、评论、转发的交互图标\"\n      },\n      {\n        \"type\": \"实时聊天模拟\",\n        \"position\": \"右侧边缘\",\n        \"message_count\": 4,\n        \"details\": \"粉色用户图标，中文文本\"\n      }\n    ],\n    \"text_callouts\": [\n      {\n        \"type\": \"尖刺状对话气泡\",\n        \"position\": \"顶部居中\",\n        \"text\": \"{argument name=\\\"speech bubble text\\\" default=\\\"这真的对吗？;;\\\"}\"\n      },\n      {\n        \"type\": \"霓虹灯箱\",\n        \"position\": \"右上角\",\n        \"text\": \"实时反应中\"\n      },\n      {\n        \"type\": \"漂浮的颓废风文字\",\n        \"position\": \"最左侧\",\n        \"line_count\": 3,\n        \"text\": [\"OO 争议\", \"震惊真相\", \"史诗级事件\"]\n      },\n      {\n        \"type\": \"带有箭头的手写文字\",\n        \"position\": \"右下角\",\n        \"text\": \"你们怎么看？\"\n      }\n    ],\n    \"logos\": [\n      {\n        \"type\": \"应用图标\",\n        \"position\": \"左上角\",\n        \"description\": \"黑色圆角方块上的白色漩涡标志\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫 VTuber 反应视频缩略图：生成一张前卫的霓虹主题 YouTube 缩略图，展示动漫角色对社交媒体帖子和实时聊天内容做出震惊反应的画面。",
+      "subject": "文字符号",
+      "scene": "UI/界面",
+      "composition": [
+        "callout"
+      ],
+      "style": [
+        "anime",
+        "3d"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: callout]。\n\nVisual style:\n[参考风格: anime, 3d]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15737",
+      "14649",
+      "15714",
+      "15617",
+      "13956",
+      "14512"
+    ]
+  }
+}

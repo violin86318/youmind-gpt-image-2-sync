@@ -1,0 +1,42 @@
+{
+  "id": "14003",
+  "prompt": "A cinematic sci-fi anime movie poster featuring a towering, battle-weathered {argument name=\"mecha color\" default=\"white\"} mecha with glowing red accents and intricate mechanical details standing in a ruined industrial cityscape. In the foreground, a {argument name=\"pilot description\" default=\"young male anime character with black hair in a sleek black pilot suit\"} stands confidently, holding a helmet. Both the pilot and mecha have the number '08' on their shoulders. The background shows a dramatic sunset sky with dark clouds, smoke rising from the ruins, flying drones, and a wet, reflective ground. At the top, a tagline reads \"{argument name=\"top tagline\" default=\"守護の名で生まれ、破壊の命で目覚めた。\"}\". At the bottom, a large, elegant serif main title reads \"{argument name=\"main title\" default=\"鋼鉄の盾\"}\" with the English subtitle \"S T E E L  S H I E L D\" just below it. At the very bottom edge, a smaller text line reads \"{argument name=\"bottom tagline\" default=\"2096年、東京湾岸第八埋立層。最後の防衛機兵、反逆起動。\"}\". The overall mood is epic, dystopian, and highly detailed.",
+  "translatedPrompt": "一张电影质感的科幻动画电影海报，画面中是一台高耸入云、历经战火的 {argument name=\"mecha color\" default=\"白色\"} 机甲，带有发光的红色装饰和复杂的机械细节，伫立在破败的工业城市废墟中。前景中，一位 {argument name=\"pilot description\" default=\"留着黑发、身穿黑色流线型驾驶服的年轻男性动画角色\"} 自信地站立着，手中拿着头盔。驾驶员和机甲的肩部都印有数字“08”。背景展示了戏剧性的日落天空，乌云密布，废墟中烟雾缭绕，无人机在空中盘旋，地面湿润且带有倒影。海报顶部是一句标语：“{argument name=\"top tagline\" default=\"守護の名で生まれ、破壊の命で目覚めた。\"}”。底部是一个醒目且优雅的衬线体主标题：“{argument name=\"main title\" default=\"鋼鉄の盾\"}”，下方配有英文副标题“S T E E L  S H I E L D”。在最底部的边缘，有一行较小的文字：“{argument name=\"bottom tagline\" default=\"2096年、東京湾岸第八埋立層。最後の防衛機兵、反逆起動。\"}”。整体氛围宏大、具有反乌托邦色彩且细节丰富。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "科幻机甲电影海报：生成一张电影质感的科幻电影海报，包含巨型机甲、驾驶员以及可自定义的日文字体。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "anime",
+        "sci-fi"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, anime, sci-fi]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14203",
+      "13556",
+      "13682",
+      "13796",
+      "13998",
+      "15096"
+    ]
+  }
+}

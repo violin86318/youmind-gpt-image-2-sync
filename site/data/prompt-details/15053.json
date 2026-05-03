@@ -1,0 +1,48 @@
+{
+  "id": "15053",
+  "prompt": "{\"type\":\"vintage illustrated Spanish recipe poster\",\"subject\":\"a large golden tortilla de patatas shown on a blue-and-white ceramic platter, with one triangular slice removed to reveal layered potato interior\",\"style\":{\"overall\":\"antique cookbook poster, rustic Mediterranean food illustration, aged parchment background, hand-inked linework, watercolor and gouache texture, ornate decorative flourishes, warm sepia-toned print look\",\"mood\":\"traditional, artisanal, nostalgic, appetizing\"},\"text\":{\"top_brand\":\"{argument name=\\\"brand text\\\" default=\\\"Pollo AI GPT Image 2\\\"}\",\"main_title_top\":\"Auténtica\",\"main_title\":\"{argument name=\\\"headline text\\\" default=\\\"Tortilla de Patatas\\\"}\",\"ingredients_banner\":\"INGREDIENTES\",\"method_banner\":\"MÉTODO\",\"bottom_quote\":\"{argument name=\\\"quote\\\" default=\\\"El plato más querido de España, jugoso y perfecto!\\\"}\"},\"layout\":{\"format\":\"vertical poster\",\"sections\":[{\"title\":\"hero dish\",\"position\":\"upper center\",\"count\":1,\"labels\":[\"whole tortilla with one slice removed\"]},{\"title\":\"ingredient row\",\"position\":\"middle\",\"count\":5,\"labels\":[\"1. 4 Patatas grandes\",\"2. 2 Cebollas\",\"3. 8 Huevos grandes\",\"4. Aceite de Oliva virgen\",\"5. Sal\"]},{\"title\":\"method grid\",\"position\":\"lower middle\",\"count\":6,\"labels\":[\"1 SLICE POTATOES AND ONIONS\",\"2 FRY SLOWLY IN OLIVE OIL\",\"3 BEAT EGGS IN A BOWL\",\"4 COMBINE FILLINGS\",\"5 POUR INTO HOT PAN\",\"6 FLIP WITH SKILL!\"]},{\"title\":\"bottom decorative strip\",\"position\":\"bottom\",\"count\":2,\"labels\":[\"Spanish village illustration on the left\",\"wine bottle, wine glass, olives and plate on the right\"]}]},\"objects\":{\"hero_surroundings_count\":2,\"hero_surroundings\":[\"glass cruet of olive oil with olives and leaves on the right of the plate\",\"small ceramic bowl of olive oil in front of the cruet\"],\"ingredient_illustrations_count\":5,\"ingredient_illustrations\":[\"4 whole potatoes\",\"2 onions with one cut open\",\"basket of eggs with one egg outside\",\"olive oil bottle with olives and branch\",\"small bowl of salt with spoon and spilled salt\"],\"method_panels_count\":6,\"method_panel_details\":[\"sliced potatoes and onion rings on a cutting board with a knife\",\"potatoes frying in olive oil in a black pan\",\"eggs being whisked in a patterned bowl\",\"potato-onion mixture being poured into beaten eggs\",\"egg mixture being poured into a hot black pan\",\"finished tortilla being flipped with a decorative plate over a pan\"]},\"composition\":{\"ornamentation\":\"scroll banners, floral corner motifs, curling filigree, inked borders, engraved poster layout\",\"background\":\"weathered cream parchment with subtle stains and fibers\",\"color_palette\":\"golden brown, olive green, cream, faded blue, warm beige, sepia, dark ink\"},\"rendering_notes\":\"highly legible decorative typography, authentic Spanish culinary poster design, dense text integrated cleanly into the artwork, balanced infographic layout, richly textured food illustration, no modern minimalism\",\"aspect_ratio\":\"2:3\"}",
+  "translatedPrompt": "{\"type\":\"复古插画风格西班牙食谱海报\",\"subject\":\"一张放在蓝白瓷盘上的金黄色西班牙土豆饼（tortilla de patatas），切掉一块三角形以展示内部层叠的土豆\",\"style\":{\"overall\":\"古董食谱海报，乡村地中海美食插画，陈旧羊皮纸背景，手绘线条，水彩和水粉质感，华丽的装饰花纹，温暖的深褐色印刷外观\",\"mood\":\"传统，手工，怀旧，令人垂涎\"},\"text\":{\"top_brand\":\"{argument name=\\\"brand text\\\" default=\\\"Pollo AI GPT Image 2\\\"}\",\"main_title_top\":\"Auténtica\",\"main_title\":\"{argument name=\\\"headline text\\\" default=\\\"Tortilla de Patatas\\\"}\",\"ingredients_banner\":\"食材\",\"method_banner\":\"烹饪方法\",\"bottom_quote\":\"{argument name=\\\"quote\\\" default=\\\"El plato más querido de España, jugoso y perfecto!\\\"}\"},\"layout\":{\"format\":\"竖版海报\",\"sections\":[{\"title\":\"主菜\",\"position\":\"上中\",\"count\":1,\"labels\":[\"完整的土豆饼，切掉一块\"]},{\"title\":\"食材行\",\"position\":\"中间\",\"count\":5,\"labels\":[\"1. 4 个大土豆\",\"2. 2 个洋葱\",\"3. 8 个大鸡蛋\",\"4. 特级初榨橄榄油\",\"5. 盐\"]},{\"title\":\"方法网格\",\"position\":\"中下\",\"count\":6,\"labels\":[\"1 切土豆和洋葱\",\"2 用橄榄油慢煎\",\"3 在碗中打散鸡蛋\",\"4 混合馅料\",\"5 倒入热锅\",\"6 运用 技能 翻面！\"]},{\"title\":\"底部装饰条\",\"position\":\"底部\",\"count\":2,\"labels\":[\"左侧西班牙乡村插画\",\"右侧葡萄酒瓶、酒杯、橄榄和盘子\"]}]},\"objects\":{\"hero_surroundings_count\":2,\"hero_surroundings\":[\"盘子右侧装有橄榄和叶子的橄榄油玻璃瓶\",\"瓶前的橄榄油小瓷碗\"],\"ingredient_illustrations_count\":5,\"ingredient_illustrations\":[\"4 个完整的土豆\",\"2 个洋葱，其中一个切开\",\"一篮鸡蛋，旁边放着一个鸡蛋\",\"橄榄油瓶，配有橄榄和枝条\",\"装有盐的小碗，配有勺子和洒出的盐\"],\"method_panels_count\":6,\"method_panel_details\":[\"切好的土豆和洋葱圈放在案板上，旁边有一把刀\",\"土豆在黑锅中用橄榄油煎炸\",\"鸡蛋在花纹碗中打散\",\"土豆洋葱混合物倒入打好的蛋液中\",\"蛋液混合物倒入热的黑锅中\",\"成品土豆饼用装饰盘盖在锅上进行翻面\"]},\"composition\":{\"ornamentation\":\"卷轴横幅，花卉边角图案，卷曲的花丝，墨线边框，雕刻海报布局\",\"background\":\"风化的奶油色羊皮纸，带有细微的污渍和纤维感\",\"color_palette\":\"金棕色，橄榄绿，奶油色，褪色蓝，暖米色，深褐色，深色墨水\"},\"rendering_notes\":\"高度清晰的装饰字体，地道的西班牙美食海报设计，密集的文字与艺术作品完美融合，平衡的信息图表布局，质感丰富的食物插画，拒绝现代极简主义\",\"aspect_ratio\":\"2:3\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古西班牙土豆饼食谱海报：此提示词可生成一张华丽的古董风格西班牙美食海报，以土豆饼为主体，配有标注的食材和六步插画版烹饪方法，非常适合用于编辑、菜单或社交媒体。",
+      "subject": "信息结构",
+      "scene": "海报/封面",
+      "composition": [
+        "grid",
+        "poster layout",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "vintage",
+        "watercolor"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, poster layout, layered, vertical]。\n\nVisual style:\n[参考风格: vintage, watercolor]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14873",
+      "14913",
+      "14859",
+      "15077",
+      "14874",
+      "15298"
+    ]
+  }
+}

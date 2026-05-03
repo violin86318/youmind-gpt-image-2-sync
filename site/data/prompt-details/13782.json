@@ -1,0 +1,41 @@
+{
+  "id": "13782",
+  "prompt": "{\n  \"type\": \"mobile livestream UI mockup\",\n  \"subject\": {\n    \"person\": \"{argument name=\\\"host name\\\" default=\\\"Sam Altman\\\"}\",\n    \"action\": \"reaching right hand out towards the camera\",\n    \"clothing\": \"dark green sweater\"\n  },\n  \"background\": {\n    \"setting\": \"office\",\n    \"left_wall\": \"large OpenAI logo\",\n    \"right_shelf\": \"wooden shelf with 3 dark bottles and 2 small signs reading 'AGI' and 'OpenAI'\"\n  },\n  \"layout\": {\n    \"top_bar\": {\n      \"elements\": [\"time 20:34\", \"signal bars\", \"wifi icon\", \"battery 774\"]\n    },\n    \"header\": {\n      \"left_section\": [\"profile picture\", \"{argument name=\\\"account name\\\" default=\\\"OpenAI\\\"}\", \"48.3万本场点赞\", \"关注 button\"],\n      \"right_section\": [\"3 viewer avatars\", \"10万+\", \"X close button\"],\n      \"sub_tags\": [\"OpenAI官方旗舰店榜第1名\", \"更多直播\"]\n    },\n    \"floating_widgets\": {\n      \"left\": \"red envelope icon with 00:12\",\n      \"right\": \"pink gift box icon with 520好礼季 抖音商城推荐\"\n    },\n    \"bottom_left_chat\": {\n      \"host_announcement\": [\"avatar\", \"山姆奥特曼 Sam Altman 直播中\", \"{argument name=\\\"host message\\\" default=\\\"大家好，我是山姆奥特曼，邀你加入Kevin的学堂\\\"}\"],\n      \"viewer_comments_count\": 5,\n      \"viewer_comments_labels\": [\n        \"AI新手小白: 刚好想学，来了！\",\n        \"小凯: 终于开播了，冲冲冲！\",\n        \"打工人Kevin: 一人公司太香了！\",\n        \"智创未来: 已关注，期待干货！\",\n        \"AI副业指南: 怎么加入？\"\n      ]\n    },\n    \"bottom_right_overlay\": {\n      \"qr_code\": \"large scannable QR code with blue KEVIN logo in center\",\n      \"text\": \"{argument name=\\\"qr code title\\\" default=\\\"零基础做AI一人公司 将创业变赚钱生意\\\"}\",\n      \"button\": \"{argument name=\\\"qr code button text\\\" default=\\\"扫码加入\\\"}\"\n    },\n    \"bottom_action_bar\": {\n      \"input_field\": \"说点什么...\",\n      \"icons_count\": 5,\n      \"icons_labels\": [\"smiley face\", \"shopping cart\", \"heart\", \"gift box\", \"three dots\"]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"移动端直播界面设计稿\",\n  \"scene\": {\n    \"subject\": \"{argument name=\\\"main subject\\\" default=\\\"Sam Altman\\\"} 的肖像，身穿深绿色毛衣，直视镜头，右手向前伸出，做出邀请的手势。\",\n    \"background\": \"办公室演播室场景。左侧为巨大的 'OpenAI' 墙面 Logo。右侧为木质搁架，上面摆放着 3 瓶深色葡萄酒和 2 块小型方形铭牌，其中一块写着 'AGI'，另一块写着 'OpenAI'。\"\n  },\n  \"layout\": {\n    \"top_overlay\": {\n      \"status_bar\": \"时间 '20:34'，蜂窝信号栏，Wi-Fi 图标，电量 '774'\",\n      \"host_profile\": \"OpenAI Logo，名称 'OpenAI'，副标题 '483k 人喜欢本场直播'，红色 '关注' 按钮\",\n      \"viewer_stats\": \"3 个用户头像，文本 '100k+'，'X' 关闭图标\",\n      \"banners\": [\n        \"顶部排名横幅，显示 'OpenAI 官方旗舰店排名 #1'\",\n        \"链接显示 '更多直播 >'\",\n        \"红包倒计时图标 '00:12'\",\n        \"礼盒图标，显示 '520 礼遇季抖音商城推荐'\"\n      ]\n    },\n    \"bottom_left_overlay\": {\n      \"pinned_host_message\": {\n        \"avatar\": \"主播肖像\",\n        \"name\": \"Sam Altman\",\n        \"badge\": \"直播中\",\n        \"message\": \"{argument name=\\\"host message\\\" default=\\\"大家好，我是山姆奥特曼，邀你加入Kevin的学堂\\\"}\"\n      },\n      \"live_chat\": {\n        \"count\": 5,\n        \"messages\": [\n          \"32 级勋章，用户 'AI beginner'，内容 '只是想来学习，我到了！'\",\n          \"18 级勋章，用户 'Xiaokai'，内容 '终于开播了，冲冲冲！'\",\n          \"7 级勋章，用户 'Worker Kevin'，内容 '一人公司太棒了！'\",\n          \"26 级勋章，用户 'Smart Future'，内容 '已关注，期待内容！'\",\n          \"5 级勋章，用户 'AI Side Hustle Guide'，内容 '怎么加入？'\"\n        ]\n      }\n    },\n    \"bottom_right_overlay\": {\n      \"qr_code_card\": {\n        \"graphic\": \"大型可扫描二维码，中心带有蓝色 Logo，写着 'KEVIN'\",\n        \"primary_text\": \"{argument name=\\\"promo headline\\\" default=\\\"零基础做AI一人公司\\\"}\",\n        \"secondary_text\": \"{argument name=\\\"promo subheadline\\\" default=\\\"将创业变赚钱生意\\\"}\",\n        \"call_to_action_button\": \"红色按钮，显示 {argument name=\\\"button text\\\" default=\\\"扫码加入\\\"}\"\n      }\n    },\n    \"bottom_navigation_bar\": {\n      \"input_field\": \"文本框显示 '说点什么...'\",\n      \"icons_count\": 5,\n      \"icons\": [\n        \"笑脸表情图标\",\n        \"购物车图标\",\n        \"爱心图标\",\n        \"礼盒图标\",\n        \"三点菜单图标\"\n      ],\n      \"system\": \"底部 iOS 主屏幕指示条\"\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "移动端直播界面设计稿：生成高度精细的移动端直播界面，包含主播、实时聊天浮层以及促销二维码卡片。",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13652",
+      "13836",
+      "13790",
+      "13956",
+      "13826",
+      "13992"
+    ]
+  }
+}

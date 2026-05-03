@@ -1,0 +1,40 @@
+{
+  "id": "15508",
+  "prompt": "A collage of {argument name=\"count\" default=\"12\"} photos capturing a {argument name=\"subject\" default=\"young Taiwanese couple traveling in Kenting, Taiwan\"}. The images feel spontaneous, as if casually taken on a phone, with an emotional and nostalgic tone. The overall aesthetic has a faded film look, like fragments of memories. Scenes include: riding a scooter together along a coastal road, a distant view of the Eluanbi Lighthouse, neon lights on Kenting Night Market street, and a sunset at Baisha Bay. Each frame resembles cinematic moments, with slight camera shake, imperfect composition, and a raw, everyday feel filled with grain and noise.",
+  "translatedPrompt": "由 {argument name=\"count\" default=\"12\"} 张照片组成的拼贴画，捕捉了 {argument name=\"subject\" default=\"一对在台湾垦丁旅行的年轻情侣\"} 的瞬间。画面呈现出一种即兴感，仿佛是用手机随手拍摄，带有感性且怀旧的基调。整体美学具有褪色的胶片质感，如同记忆的碎片。场景包括：两人骑着机车沿海岸公路行驶、远眺鹅銮鼻灯塔、垦丁大街的霓虹灯，以及白沙湾的日落。每一帧都如同电影瞬间，带有轻微的相机抖动、不完美的构图，以及充满颗粒感和噪点的原始生活气息。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "台湾怀旧旅行拼贴：一个捕捉台湾即兴旅行瞬间的怀旧拼贴提示词，带有电影胶片美学风格。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "neon",
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic]。\n\nLighting and camera:\n[参考光线镜头: neon, camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14372",
+      "15167",
+      "15791",
+      "14043",
+      "14018",
+      "13729"
+    ]
+  }
+}

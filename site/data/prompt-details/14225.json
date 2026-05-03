@@ -1,0 +1,40 @@
+{
+  "id": "14225",
+  "prompt": "A luxurious cosmetic product advertisement featuring a single elegant glass jar with a shiny gold lid resting on a round, light-colored marble slab. The jar has gold text reading {argument name=\"brand name\" default=\"LUMIÉRE\"} and {argument name=\"product type\" default=\"MOISTURE RICH CREAM\"} with \"AGING CARE*\" below it. The background consists of soft, draped, shimmering champagne-colored silk fabric with delicate white flowers on the left. The lighting is warm, ethereal, and sun-drenched with soft bokeh. At the top center, elegant dark brown Japanese typography reads {argument name=\"main headline\" default=\"肌に、静かな贅沢を。\"} above a small decorative gold divider and the text {argument name=\"subheadline\" default=\"高保湿×エイジングケア*\"}. To the right of the jar, a thin gold circle contains Japanese text meaning 'With dense moisture, high-quality firmness and radiance'. At the bottom center is a dark rectangular call-to-action button with a thin gold border containing the text {argument name=\"button text\" default=\"詳しく見る\"} and a right-pointing chevron. In the bottom right corner, tiny fine print contains Japanese text meaning '*Care according to age'.",
+  "translatedPrompt": "A luxurious cosmetic product advertisement featuring a single elegant glass jar with a shiny gold lid resting on a round, light-colored marble slab. The jar has gold text reading {argument name=\"brand name\" default=\"LUMIÉRE\"} and {argument name=\"product type\" default=\"MOISTURE RICH CREAM\"} with \"AGING CARE*\" below it. The background consists of soft, draped, shimmering champagne-colored silk fabric with delicate white flowers on the left. The lighting is warm, ethereal, and sun-drenched with soft bokeh. At the top center, elegant dark brown Japanese typography reads {argument name=\"main headline\" default=\"肌に、静かな贅沢を。\"} above a small decorative gold divider and the text {argument name=\"subheadline\" default=\"高保湿×エイジングケア*\"}. To the right of the jar, a thin gold circle contains Japanese text meaning 'With dense moisture, high-quality firmness and radiance'. At the bottom center is a dark rectangular call-to-action button with a thin gold border containing the text {argument name=\"button text\" default=\"詳しく見る\"} and a right-pointing chevron. In the bottom right corner, tiny fine print contains Japanese text meaning '*Care according to age'.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Luxury Cosmetic Web Advertisement：Generates a high-end cosmetic product advertisement with elegant typography, a glowing background, and a call-to-action button.",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "luxury"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: luxury]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15525",
+      "13442",
+      "14272",
+      "15243",
+      "15527",
+      "15773"
+    ]
+  }
+}

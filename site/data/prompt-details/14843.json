@@ -1,0 +1,52 @@
+{
+  "id": "14843",
+  "prompt": "A minimalist fashion moodboard on a pale sage green background, laid out as a wide horizontal comparison sheet with four portrait panels of young male models wearing oversized white sports T-shirts. Use a soft editorial studio look with cool periwinkle-blue backdrops inside the portrait frames, subtle film grain, muted contrast, and a highly consistent color palette of sage green, cyan trim, off-white, deep shadow, and blue-lavender. On the far left, include 1 large cropped reference portrait that is partially cut off by the canvas edge, showing the left side of a dark-skinned male model’s shaved or closely buzzed head, ear, jawline, neck, and shoulder in profile, wearing a white shirt with a bright aqua ribbed collar; place 2 overlapping semi-opaque rectangular blocks over the face area, creating a graphic censorship/collage effect. To the right, place 3 rounded-corner portrait cards in a row, evenly spaced, each featuring a different young male model from the chest up against the same blue studio background: card 1 shows a light- to medium-skinned man with short slicked-back dark hair, facing slightly left, wearing a white athletic shirt with aqua collar trim and a small Nike swoosh on the lower right chest; card 2 shows a light-skinned man with medium dark hair swept back, turned three-quarters left, wearing a white Nike shirt with a black swoosh centered on the chest; card 3 shows a dark-skinned man with a short fade haircut, turned three-quarters right, wearing a white Adidas shirt with a cyan Adidas logo centered on the chest and a small hoop or cross earring. Add 3 face-obscuring gradient rectangles, one over each smaller portrait face, in dark green fading to gray-green, aligned vertically like graphic overlays. Include 2 thin horizontal divider lines across the full composition, one near the top and one near the lower third, in a slightly lighter sage tone. At the bottom, add small uppercase monospaced editorial text: near the lower center-left write \"MJ REFERENCE\" and near the lower right write \"KREA  //  GPT 2\". The overall image should feel like a premium AI-fashion comparison board, graphic design presentation, or concept consistency sheet, with clean spacing, flat background, and polished art-direction.",
+  "translatedPrompt": "一个以浅鼠尾草绿为背景的极简时尚项目，采用宽幅水平对比排版，包含四个身穿超大款白色运动 T 恤的年轻男性模特肖像面板。采用柔和的编辑式摄影棚风格，肖像框内为冷长春花蓝背景，带有细腻的胶片颗粒感、柔和的对比度，以及鼠尾草绿、青色饰边、灰白色、深阴影和蓝薰衣草色组成的极具一致性的调色板。最左侧包含 1 张被画布边缘部分裁切的大幅参考肖像，展示了一位深肤色男性模特剃光或修剪极短的头部、耳朵、下颌线、颈部和肩部的侧影，身穿带有亮水蓝色罗纹领口的白色衬衫；在脸部区域放置 2 个半透明的重叠矩形块，营造出图形化的审查/拼贴效果。右侧并排放置 3 张圆角肖像卡片，间距均匀，每张卡片展示了不同的年轻男性模特，胸部以上出镜，背景均为相同的蓝色摄影棚背景：卡片 1 展示了一位浅至中等肤色的男性，留着短背头，微向左侧，身穿带有水蓝色领口饰边和右下胸部带有小 Nike Swoosh 标志的白色运动衫；卡片 2 展示了一位浅肤色男性，留着中长深色背头，向左侧转四分之三角度，身穿胸前带有黑色 Swoosh 标志的白色 Nike 衬衫；卡片 3 展示了一位深肤色男性，留着短渐变发型，向右侧转四分之三角度，身穿胸前带有青色 Adidas 标志的白色 Adidas 衬衫，佩戴小圆环或十字耳环。在每张较小的肖像脸部上方各添加 1 个遮挡脸部的渐变矩形，颜色由深绿色渐变为灰绿色，垂直对齐，如同图形叠加层。在整个构图中添加 2 条细水平分割线，一条靠近顶部，一条靠近下三分之一处，颜色为略浅的鼠尾草色。在底部添加小型大写等宽编辑文本：在左下方附近书写“MJ REFERENCE”，在右下方附近书写“KREA // GPT 2”。整体图像应呈现出高端 AI 时尚对比项目、平面设计演示或概念一致性表的感觉，具备整洁的间距、平整的背景和精致的艺术指导。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "极简 AI 时尚对比项目：一种简洁的编辑式对比布局，展示了四个带有运动品牌风格的男性肖像面板，适用于项目、AI 概念一致性演示以及时尚美学研究。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "editorial",
+        "minimalist",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "film grain"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical, horizontal]。\n\nVisual style:\n[参考风格: editorial, minimalist, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: film grain]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15317",
+      "15650",
+      "14736",
+      "14569",
+      "14679",
+      "14485"
+    ]
+  }
+}

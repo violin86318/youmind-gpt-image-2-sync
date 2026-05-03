@@ -1,0 +1,50 @@
+{
+  "id": "15413",
+  "prompt": "A dramatic vertical concert poster photograph shot from the audience at stage level, showing a single male performer in full-body silhouette standing powerfully at center stage with legs apart, holding a microphone to his mouth in one hand. He wears a dark oversized t-shirt, very baggy cargo pants, a cap, and a chain necklace, with his face mostly hidden in shadow. Behind him is a massive packed indoor arena with thousands of fans, glowing phone lights, raised hands, and a curved stadium seating bowl. The lighting is intense magenta, purple, and pink with haze, backlight, lens bloom, and atmospheric smoke, creating a high-energy reggaeton or urban pop concert mood. Confetti pieces float through the air across the frame. In the foreground, exactly 5 visible audience smartphones are raised and recording the performance, framing the scene from the crowd perspective. At the top center, add large bold brush-script lettering in Spanish reading {argument name=\"headline text\" default=\"La noche es nuestra.\"}, with “La noche” in white and “es nuestra.” in vivid hot pink, including a painted underline swoosh beneath the pink text. Place a small clean white {argument name=\"brand name\" default=\"Pollo.ai\"} logo in the top-right corner. High contrast, cinematic live-event photography, glossy social-media ad aesthetic, sharp crowd detail with a silhouetted artist, vibrant neon nightlife energy, optimized for a mobile promotional poster.",
+  "translatedPrompt": "一张极具戏剧性的竖版演唱会海报照片，从舞台水平的观众视角拍摄。画面中心是一位全身剪影的男性表演者，他双腿分开站立，姿态有力，一手拿着麦克风放在嘴边。他身穿深色超大号 T 恤、非常宽松的工装裤，戴着帽子和链条项链，面部大部分隐藏在阴影中。他身后是一个巨大的室内竞技场，挤满了成千上万的粉丝，闪烁的手机灯光、高举的双手以及弧形的体育场看台尽收眼底。灯光为强烈的洋红色、紫色和粉色，伴有薄雾、背光、镜头光晕和大气烟雾，营造出高能量的雷鬼或城市流行演唱会氛围。碎纸屑在画面中飘浮。前景中，清晰可见 5 部观众举起并正在录制表演的智能手机，从人群视角构成了画面框架。在顶部中央，添加醒目的大号毛笔字样西班牙语标题 {argument name=\"headline text\" default=\"La noche es nuestra.\"}，其中“La noche”为白色，“es nuestra.”为鲜艳的亮粉色，并在粉色文字下方添加一道手绘下划线。在右上角放置一个简洁的白色 {argument name=\"brand name\" default=\"Pollo.ai\"} 标志。高对比度，电影级现场活动摄影，光泽感社交媒体广告美学，清晰的人群细节与剪影艺术家，充满活力的霓虹夜生活能量，专为移动端宣传海报优化。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "霓虹竞技场演唱会广告海报：此提示词可生成一张充满活力的竖版演唱会广告图片，包含剪影歌手、庞大的人群、霓虹紫灯光以及醒目的西班牙语标题文字，适用于音乐、夜生活或移动应用营销。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "full-body",
+        "vertical"
+      ],
+      "style": [
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "backlight",
+        "neon",
+        "high contrast",
+        "lens"
+      ],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body, vertical]。\n\nVisual style:\n[参考风格: cinematic]。\n\nLighting and camera:\n[参考光线镜头: backlight, neon, high contrast, lens]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15817",
+      "14652",
+      "15740",
+      "15066",
+      "15430",
+      "14161"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "14657",
+  "prompt": "A minimalist vector-style illustration on a flat light gray background showing a pelican riding a bicycle, drawn from simple geometric shapes with thick dark charcoal outlines. The composition is wide and centered, with the bicycle occupying the lower two-thirds of the image and the bird’s head floating slightly above and forward of the handlebars in a deliberately abstract, diagram-like way. The bicycle is a simple black road-bike silhouette in side view with exactly 2 large wheels, each with a thick outer rim and exactly 4 visible spoke lines forming a cross, a straight horizontal ground line beneath both wheels, a triangular frame, a short black saddle, and simplified crank and pedal details near the rear of the frame. The pelican is constructed from clean abstract pieces: a white rounded head with a small black circular eye, a long open beak pointing left made of 2 parts with an upper orange triangular section and a lower pale pink pouch section, a short dark curve on top of the head, a small separate white oval neck/body connector, a larger white rounded body positioned over the bike, and a single white wing-like shape angled upward over the back. Add exactly 2 orange leg shapes, long narrow rectangles leaning downward from the body toward the bicycle frame, suggesting the bird is pedaling. Keep the forms intentionally sparse and slightly surreal, like a logo test or simple code-editor doodle, with no shading, no gradients, no textures, no text, and lots of negative space.",
+  "translatedPrompt": "一张极简矢量风格插图，背景为平整的浅灰色，展示了一只正在骑自行车的鹈鹕。插图由简单的几何形状构成，并带有粗犷的深炭灰色轮廓。构图宽阔且居中，自行车占据了图像下方的三分之二，鸟头位于车把上方稍靠前的位置，呈现出一种刻意抽象的示意图感。自行车为简单的黑色公路车侧影，拥有 2 个大轮子，每个轮子都有厚实的外圈和 4 条形成十字形的辐条，轮下有一条笔直的水平地面线，配有三角形车架、短小的黑色车座，以及车架后部简化的曲柄和踏板细节。鹈鹕由简洁的抽象部件构成：白色的圆形头部配有一只黑色小圆眼；向左张开的长喙由两部分组成，上部为橙色三角形，下部为淡粉色喉囊；头顶有一道短小的深色曲线；颈部与身体连接处有一个独立的小白色椭圆；身体为位于自行车上方的大型白色圆形；背部上方有一个向上倾斜的白色翅膀状形状。添加 2 个橙色腿部形状，即从身体向下延伸至车架的长窄矩形，暗示鸟儿正在踩踏板。保持形态的刻意稀疏和些许超现实感，类似于 Logo 测试或简单的代码编辑器涂鸦，无阴影、无渐变、无纹理、无文字，并留有大量负空间。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "极简鹈鹕骑自行车：此提示词可生成一张鹈鹕骑自行车的简约几何矢量插图，适用于测试简单形状构图或创作趣味十足的抽象图标风格图像。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "centered",
+        "horizontal"
+      ],
+      "style": [
+        "minimalist"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；禁止额外文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "硬件拆解、产品卖点、技术说明、科普图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, horizontal]。\n\nVisual style:\n[参考风格: minimalist]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；禁止额外文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14662",
+      "15110",
+      "14151",
+      "15000",
+      "13811",
+      "14261"
+    ]
+  }
+}

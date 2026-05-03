@@ -1,0 +1,49 @@
+{
+  "id": "14467",
+  "prompt": "A humorous, highly detailed composite image showing a modern smartphone displaying a Chinese social-media Moments post about the Xuanwu Gate Incident, placed on the left side of the frame, with the posted battle image expanded into a large cinematic historical scene filling the right side. The phone should look like a black iPhone with thin bezels and a top notch, shown front-facing. On the phone screen, the app header bar is dark gray-black and reads “朋友圈” in white, with a back arrow on the left and a camera icon on the right. Below it is a social post from {argument name=\"poster name\" default=\"唐王世民\"}, with a small square profile avatar of an ancient Chinese warrior in armor and helmet. Under the name is a location pin and the text “长安·玄武门”, and a timestamp line “唐武德九年六月初四 巳时”. The main post text in Chinese says: “吾为国家除逆贼，请社稷。今日玄武门，功在千秋！⚔️💪”. Beneath the text is a square battle image preview matching the large scene on the right. Below the image is a metadata row showing exactly three items: “3.8万次浏览”, “赞 (666)”, and “(128)” beside a comment icon. Under that is a comments box with exactly 5 visible commenters, each with a tiny avatar and Chinese text styled like supportive social-media replies from historical figures. The comments should include these names in Chinese: “尉迟恭”, “房玄龄”, “李渊”, “杜如晦”, and “长孙无忌”, with the tone praising the success of the action; one comment line should suggest the emperor is shocked and the state is secured. The right side is a dramatic Tang-dynasty battle painting at sunset outside {argument name=\"gate name\" default=\"玄武门\"}, with a massive gray stone gate tower and the gate plaque reading “玄武门”. In the center foreground, a mounted armored archer in red-plumed helmet draws a bow while riding a brown horse; around him are exactly 7 clearly visible mounted or standing soldiers in Tang armor, plus 1 fallen armored figure on the ground pointing upward. Multiple yellow battle flags with the large black character “唐” wave through the dust; show at least 4 visible flags. Arrows fly through the sky, horses rear and turn, and the air is filled with dust, warm sunset light, and battlefield motion. The visual style is realistic historical epic key art with painterly detail, but the overall concept is comedic and anachronistic because it presents an ancient coup as a social-media朋友圈 post. Keep all visible interface text in Chinese, maintain believable mobile UI spacing, and blend the phone mockup with the expanded battle artwork in one widescreen composition.",
+  "translatedPrompt": "一张幽默且细节丰富的合成图像，画面左侧是一部显示玄武门之变朋友圈动态的现代智能手机，右侧则是动态中发布的战场图像，延伸为宏大的电影级历史场景。手机应为黑色 iPhone，边框极窄，带有顶部刘海，正面朝向。手机屏幕上，应用标题栏为深灰黑色，显示白色文字“朋友圈”，左侧有返回箭头，右侧有相机图标。下方是来自 {argument name=\"poster name\" default=\"唐王世民\"} 的社交动态，配有一个身着盔甲、头戴战盔的中国古代武士方形头像。名字下方有定位图标和文字“长安·玄武门”，以及时间戳“唐武德九年六月初四 巳时”。朋友圈正文内容为：“吾为国家除逆贼，请社稷。今日玄武门，功在千秋！⚔️💪”。正文下方是与右侧大场景相呼应的方形战场图片预览。图片下方是元数据行，精确显示三项内容：“3.8万次浏览”、“赞 (666)”以及评论图标旁的“(128)”。下方评论区可见 5 条评论，每条评论配有微型头像，文字风格模仿历史人物的社交媒体回复。评论者应包含以下中文名称：“尉迟恭”、“房玄龄”、“李渊”、“杜如晦”和“长孙无忌”，语气需赞美行动的成功；其中一条评论应暗示皇帝震惊且国家局势已定。右侧是 {argument name=\"gate name\" default=\"玄武门\"} 外日落时分的唐代史诗战场画作，背景是一座巨大的灰色石质城楼，门匾上书“玄武门”。画面中央前景处，一名头戴红缨盔的骑马甲胄弓箭手正在拉弓，胯下骑着一匹棕马；周围有 7 名清晰可见的骑马或站立的唐军甲士，地上还有 1 名倒地并向上指点的甲士。多面印有黑色大字“唐”的黄色战旗在尘土中飘扬，至少可见 4 面旗帜。天空中箭矢飞掠，战马嘶鸣腾跃，空气中弥漫着尘土、温暖的夕阳余晖和战场动感。视觉风格为写实历史史诗艺术，带有绘画质感，但整体概念具有喜剧性和时代错位感，将古代政变呈现为社交媒体朋友圈动态。所有可见的界面文字均需使用中文，保持合理的移动端 UI 间距，并将手机模型与扩展的战场艺术作品融为一体，呈现为宽屏构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "玄武门之变朋友圈动态：此提示词旨在生成一张讽刺风格的图像，将玄武门之变呈现为中国社交媒体朋友圈动态，并结合电影质感的唐代战场场景。",
+      "subject": "界面",
+      "scene": "人物/角色",
+      "composition": [
+        "front-facing"
+      ],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: front-facing]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15037",
+      "14422",
+      "15367",
+      "14314",
+      "14693",
+      "14727"
+    ]
+  }
+}

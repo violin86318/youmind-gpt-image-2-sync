@@ -1,0 +1,46 @@
+{
+  "id": "14853",
+  "prompt": "A highly detailed, whimsical anime cafe illustration in a vertical composition, featuring a chibi girl mascot standing at the center of a cozy fantasy coffee shop during golden sunrise. She has extremely long, voluminous hair with a vivid rainbow gradient that begins as {argument name=\"hair color\" default=\"deep blue at the crown\"} and flows through cyan, green, yellow, orange, pink, and purple at the tips, with glossy highlights and thick bangs framing large sparkling blue eyes. She wears oversized silver headphones with green four-leaf clover emblems on both earcups, a red leather jacket, a white T-shirt with a yellow smiley face, fitted blue jeans, and white high-top sneakers with red accents. She smiles warmly and holds a white coffee mug decorated with a green clover symbol. Add a speech bubble near her head containing Japanese text: {argument name=\"speech bubble text\" default=\"おはよう。今日も、ひとくち目の幸せから。\"}. The cafe interior is richly decorated with dark polished wood, hanging banners, shelves filled with glass bottles and jars, trailing green plants, glowing crystal ornaments, and warm amber lighting. On the left upper area, hang a blackboard menu sign labeled {argument name=\"cafe name\" default=\"AriteAL Cafe Menu\"} with Japanese handwritten menu items and small coffee doodles. In the right background, place tall arched windows showing a dreamy pastel sunrise sky and storybook castle-like towers outside. Include exactly 2 mascot creatures: 1 small blue penguin barista on the left beside stacked clover mugs, and 1 small black cat-like creature with tiny bat wings and a red bow tie near a chalkboard sign on the lower right. In the foreground on a round table, show exactly 4 featured food and drink items: 1 thick slice of toast topped with a green clover garnish, 1 cup of latte art coffee in a clover cup, 1 glass jar of honey, and 1 tall rainbow parfait layered with colorful jelly, whipped cream, berries, strawberry slices, and crystal-like candy shards. Also place a teapot and additional clover-pattern cups on side tables in the midground. Add a small standing chalkboard sign on the lower right with Japanese welcome text and the cafe name. The whole image should feel magical, cheerful, polished, and richly rendered, with soft sparkles, warm morning light, saturated colors, intricate decorative details, and premium gpt-image-2 anime illustration quality.",
+  "translatedPrompt": "一幅细节极其丰富、充满奇幻色彩的竖构图动漫咖啡馆插画，描绘了一位 Q 版少女站在清晨温馨的奇幻咖啡馆中央。她拥有极长且蓬松的头发，呈现出鲜艳的彩虹渐变色，从顶部的深蓝色过渡到发梢的青色、绿色、黄色、橙色、粉色和紫色；她有着闪烁的大眼睛，嘴角带着开心的笑容。她佩戴着超大号银色耳机，耳罩上有绿色四叶草标志，身穿红色皮夹克、印有黄色笑脸的白色 T 恤、修身蓝色牛仔裤，以及带有红色鞋带的厚底白色高帮运动鞋。她一手拿着印有绿色四叶草的白色马克杯，姿态轻松友好。她周围是温暖、充满魔法的咖啡馆内部，由抛光的深色木材打造，摆满了悬挂植物、装满瓶瓶罐罐的架子、发光的晶体、茶壶、马克杯，金色的晨光透过高大的拱形窗户洒入室内。窗外是梦幻般的欧式奇幻小镇，在柔和的晨曦天空下矗立着塔楼和屋顶。画面中包含 2 个小型吉祥物：左侧是一个穿着小马甲和领结、正在端着四叶草马克杯的圆滚滚蓝色企鹅咖啡师；右下方是一个有着红眼睛、小翅膀和红色领结的黑色蝙蝠猫生物。画面中包含 3 个清晰可见的菜单或项目：左上方悬挂着一块写有“AriteAL Cafe Menu”及下方日语条目的大型黑板；少女右上方有一个写着日语“おはよう。今日も、ひとくち目の幸せから。”的对话气泡；右下方有一块写有日语 AriteAL Cafe 字样的小型黑色欢迎项目。前景的圆桌上摆放着 4 样特色餐饮：一个盘子里放着一片点缀着绿色四叶草的厚吐司、一杯带有拉花的四叶草马克杯拿铁、一杯分层装有彩色果冻或水果、鲜奶油、草莓、浆果和水晶装饰的高脚彩虹芭菲，以及一个小玻璃蜂蜜或糖浆罐。场景中随处可见四叶草图案，装饰在杯子、项目和陈设上。采用高饱和度色彩、光泽高光、复杂的线条、柔和的魔法闪光、黄金时刻的轮廓光，营造出迷人的奇幻咖啡馆氛围，呈现出精致的高端动漫插画品质。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奇幻咖啡馆中的彩虹发色 Q 版少女：一幅充满活力的动漫风格奇幻咖啡馆场景，包含一位彩虹发色的 Q 版少女、魔法吉祥物以及细节丰富的早餐装饰，非常适合用于奇思妙想的角色艺术或咖啡馆主题的宣传图。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "fantasy",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical]。\n\nVisual style:\n[参考风格: anime, fantasy, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15447",
+      "15402",
+      "15600",
+      "15601",
+      "14878",
+      "15774"
+    ]
+  }
+}

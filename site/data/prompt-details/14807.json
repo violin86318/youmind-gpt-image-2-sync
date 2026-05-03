@@ -1,0 +1,54 @@
+{
+  "id": "14807",
+  "prompt": "A minimalist luxury skincare product photograph of a frosted glass serum bottle standing upright at the center of a large shallow beige ceramic tray with a slightly raised rim. The bottle has a matte silver pump dispenser with a short side nozzle and a clean cylindrical form. On the bottle, elegant black serif typography reads {argument name=\"brand name\" default=\"AURA\"} on the top line and {argument name=\"product name\" default=\"Hydrating Serum\"} below. Around the bottle on the tray are exactly 4 small off-white paper cards placed loosely in the foreground and right side, each printed with a short phrase in a different language: one English card reading \"Quiet skin, every morning\", one French card reading \"Peau calme, chaque matin\", one vertical East Asian text card, and one Arabic text card. Warm natural morning sunlight streams in from the upper left, casting long soft-edged shadows of the bottle and cards across the sandy textured tray surface. The background is softly blurred and neutral, with creamy beige architectural shapes and a calm editorial spa aesthetic. Photorealistic studio lifestyle product shot, high-end beauty campaign look, soft warm tones, subtle texture, shallow depth of field, refined minimalist composition, premium packaging photography.",
+  "translatedPrompt": "一张极简主义奢华护肤品摄影作品，主体为一个磨砂玻璃精华瓶，垂直放置在一个边缘微凸的大型浅米色陶瓷托盘中央。瓶身呈简洁的圆柱形，配有哑光银色泵头和短侧喷嘴。瓶身上印有优雅的黑色衬线字体，第一行显示 {argument name=\"brand name\" default=\"AURA\"}，下方显示 {argument name=\"product name\" default=\"Hydrating Serum\"}。托盘上瓶身周围散落着 4 张米白色小纸卡，分别位于前景和右侧，每张卡片上印有不同语言的短语：一张英文卡片写着“Quiet skin, every morning”，一张法文卡片写着“Peau calme, chaque matin”，一张竖排东亚文字卡片，以及一张阿拉伯文卡片。温暖的自然晨光从左上方射入，在沙质纹理的托盘表面投射出瓶子和卡片长而柔和的阴影。背景经过柔焦处理，呈现中性色调，带有奶油米色的建筑线条，营造出宁静的编辑类 SPA 美学。照片级写实工作室生活方式产品拍摄，高端美妆广告质感，柔和暖色调，细腻纹理，浅景深，精致的极简主义构图，高端包装摄影。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "极简主义保湿精华产品拍摄：此提示词可生成温暖、高级的护肤品照片，非常适合美妆品牌推广、电商首页大图以及编辑类广告视觉。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "editorial",
+        "minimalist",
+        "luxury",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, editorial, minimalist, luxury, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15775",
+      "15310",
+      "15067",
+      "15776",
+      "15536",
+      "15316"
+    ]
+  }
+}

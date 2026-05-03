@@ -1,0 +1,56 @@
+{
+  "id": "14667",
+  "prompt": "{\"type\":\"cinematic 3-frame sequential film stills\",\"style\":\"ultra-realistic, moody, natural light, shallow depth of field, muted earthy color grading, soft overcast atmosphere, subtle film grain\",\"subject\":{\"count\":1,\"description\":\"young woman traveler with dark brown hair in a messy bun, wearing a dark oversized sweater, brown trousers, and hiking boots\",\"face_visibility\":\"face turned away or in profile in all 3 frames\"},\"layout\":{\"orientation\":\"vertical triptych with 3 stacked horizontal frames separated by thin borders\",\"sections\":[{\"title\":\"top frame\",\"position\":\"top\",\"count\":1,\"labels\":[\"woman leaning with folded arms on a wooden fence, looking to the right\"]},{\"title\":\"middle frame\",\"position\":\"center\",\"count\":1,\"labels\":[\"woman sitting alone in the middle of an empty winding road, holding a folded paper map, looking left\"]},{\"title\":\"bottom frame\",\"position\":\"bottom\",\"count\":1,\"labels\":[\"rear view of woman wearing a rugged backpack, standing and looking over a lake and mountain valley\"]}]},\"environment\":{\"location\":\"remote highland landscape with rolling hills, sparse leafless trees, heather and brush, distant mountains, and a lake\",\"weather\":\"cloudy, cool, slightly misty\"},\"camera\":{\"framing\":\"cinematic storytelling sequence, medium portrait in top frame, full-body seated shot in middle frame, medium back view in bottom frame\",\"lens\":\"shallow-focus documentary photography look\",\"aspect\":\"tall vertical image\"},\"details\":{\"props_count\":3,\"props\":[\"wooden fence with a small circular trail marker sign showing a white house-like icon\",\"folded paper map\",\"brown canvas hiking backpack\"]}}",
+  "translatedPrompt": "{\"type\":\"电影感 3 帧连续电影剧照\",\"style\":\"超写实、忧郁、自然光、浅景深、柔和的大地色调、柔和的阴天氛围、细腻的胶片颗粒感\",\"subject\":{\"count\":1,\"description\":\"年轻女性旅行者，深棕色凌乱发髻，身穿深色廓形毛衣、棕色长裤和登山靴\",\"face_visibility\":\"3 帧中均为侧脸或背影\"},\"layout\":{\"orientation\":\"竖版三联画，由 3 个堆叠的横向画幅组成，中间有细边框分隔\",\"sections\":[{\"title\":\"顶部画幅\",\"position\":\"顶部\",\"count\":1,\"labels\":[\"女性双臂交叉倚靠在木栅栏上，向右看\"]},{\"title\":\"中间画幅\",\"position\":\"中心\",\"count\":1,\"labels\":[\"女性独自坐在空旷蜿蜒的道路中央，手持折叠纸质地图，向左看\"]},{\"title\":\"底部画幅\",\"position\":\"底部\",\"count\":1,\"labels\":[\"女性背影，背着粗犷的登山包，站立着眺望湖泊和山谷\"]}]},\"environment\":{\"location\":\"偏远的高地景观，有连绵起伏的丘陵、稀疏的落叶树木、石楠花和灌木丛、远处的山脉以及湖泊\",\"weather\":\"多云、凉爽、微雾\"},\"camera\":{\"framing\":\"电影叙事序列，顶部画幅为中景人像，中间画幅为全身坐姿，底部画幅为中景背影\",\"lens\":\"浅焦纪录片摄影风格\",\"aspect\":\"高竖版图像\"},\"details\":{\"props_count\":3,\"props\":[\"木栅栏，带有一个小的圆形路径标记牌，上面有白色房屋图标\",\"折叠纸质地图\",\"棕色帆布登山包\"]}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影感 3 帧单人旅行剧照：一组写实的竖版三联画，展现了一位女性独自旅行者在三个忧郁户外场景中的画面，适用于电影叙事、旅行编辑视觉效果或电影剧照风格的图像生成。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "full-body",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "natural light",
+        "overcast",
+        "shallow depth",
+        "depth of field",
+        "film grain",
+        "lens"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body, vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, cinematic, documentary]。\n\nLighting and camera:\n[参考光线镜头: natural light, overcast, shallow depth, depth of field, film grain, lens]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14614",
+      "15602",
+      "15705",
+      "14819",
+      "15651",
+      "14810"
+    ]
+  }
+}

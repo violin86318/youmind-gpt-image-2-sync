@@ -1,0 +1,46 @@
+{
+  "id": "14585",
+  "prompt": "A premium ultra-detailed collectible trading card illustration of {argument name=\"hero name\" default=\"Kamen Rider Kuuga\"} in {argument name=\"form name\" default=\"Amazing Mighty Form\"}, designed like a high-rarity SSR card. The composition is a dramatic front-facing action portrait with the armored hero centered and dominating the frame from thighs up, wearing glossy black and deep metallic crimson armor, a gold horned crest on the helmet, large faceted red compound eyes, and a detailed transformation belt with a red core. The hero extends one gloved hand toward the viewer holding a smaller card featuring his own image, creating a recursive card-within-card effect, while the other hand is open in a battle-ready pose. The background is a ruined city street at night filled with sparks, embers, debris, smoke, and multiple enemy monsters leaping and attacking from all sides; exactly 8 background figures are visible: 3 airborne enemies in the upper background, 3 standing or lunging enemies on the right side, and 2 smaller enemies near the lower left and bottom edge. Use intense cinematic lighting, glittering particle effects, holographic foil texture, gold filigree linework, and a luxurious black-and-gold art deco frame. Include ornate card UI text and badges integrated into the border: top center title \"MASKED RIDER\" above large metallic serif text \"KAMEN RIDER KUUGA\", a circular emblem in the top left, an iridescent shield badge in the top right with \"SSR\" and 5 gold stars beneath it, a bottom left label panel reading \"CARD TYPE\" and \"CHARACTER\", a bottom center nameplate reading \"KAMEN RIDER KUUGA\" with Japanese text \"仮面ライダークウガ\", a barcode below, and the subtitle \"AMAZING MIGHTY FORM\" at the very bottom. Add a large gold cursive artist-style signature at the lower right reading {argument name=\"signature text\" default=\"NickZag\"}. Overall style: hyper-detailed tokusatsu character art, explosive poster energy, premium trading card game rarity, shimmering holographic highlights, crisp focus on the central hero, epic collectible showcase.",
+  "translatedPrompt": "一张高级且细节丰富的 {argument name=\"hero name\" default=\"假面骑士空我\"} {argument name=\"form name\" default=\"惊异全能形态\"} 收藏级集换式卡牌插画，设计呈现出高稀有度 SSR 卡牌的质感。构图为极具张力的正面动作肖像，身披黑色亮面与深金属深红色盔甲的英雄位于画面中央，占据了大腿以上的主要空间，头盔配有金色犄角冠饰，巨大的多面红色复眼，以及带有红色核心的精细变身腰带。英雄一只戴着手套的手伸向观众，手中拿着一张印有其自身形象的小卡片，营造出卡中卡的递归效果，另一只手则保持战斗姿态。背景是夜晚被摧毁的城市街道，充斥着火花、余烬、碎片、烟雾，以及从四面八方跳跃攻击的多个敌方怪人；背景中可见 8 个敌方角色：上方背景有 3 个空中敌人，右侧有 3 个站立或突袭的敌人，左下角和底部边缘附近有 2 个较小的敌人。使用强烈的电影级光效、闪烁的粒子特效、全息箔纹理、金色花丝线条以及奢华的黑金装饰艺术风格边框。边框内集成了华丽的卡牌 UI 文字和徽章：顶部中央标题为“MASKED RIDER”，下方为巨大的金属衬线字体“KAMEN RIDER KUUGA”，左上角有一个圆形徽章，右上角有一个带有“SSR”字样及下方 5 颗金星的虹彩盾牌徽章，左下角标签栏显示“CARD TYPE”和“CHARACTER”，底部中央铭牌显示“KAMEN RIDER KUUGA”及日文“仮面ライダークウガ”，下方附有条形码，最底部为副标题“AMAZING MIGHTY FORM”。右下角添加一个大型金色草书艺术家签名，内容为 {argument name=\"signature text\" default=\"NickZag\"}。整体风格：超精细特摄角色艺术、爆发性海报能量、高级集换式卡牌稀有度、闪烁的全息高光、聚焦于中央英雄的清晰画质、史诗级收藏展示。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "SSR 假面骑士空我卡牌：此提示词可生成一张高级全息风格的 SSR 假面骑士空我集换式卡牌插画，非常适合用于收藏卡牌艺术、粉丝海报以及特摄风格的宣传视觉图。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "front-facing"
+      ],
+      "style": [
+        "cinematic",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, front-facing]。\n\nVisual style:\n[参考风格: cinematic, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15635",
+      "14422",
+      "14855",
+      "15367",
+      "14927",
+      "14989"
+    ]
+  }
+}

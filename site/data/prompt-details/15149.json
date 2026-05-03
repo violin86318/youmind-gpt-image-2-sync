@@ -1,0 +1,43 @@
+{
+  "id": "15149",
+  "prompt": "{argument name=\"subject\" default=\"a cute animal\"}, crayon drawing illustration, hand-drawn with soft waxy texture, visible scribble marks, uneven coloring, playful childlike style, simple shapes, charming imperfections, layered crayon strokes, textured paper surface, warm nostalgic feeling, vibrant colors, clean white background",
+  "translatedPrompt": "{argument name=\"subject\" default=\"a cute animal\"}, 蜡笔画插图，手绘风格，柔和的蜡质感，可见的涂鸦痕迹，不均匀的着色，俏皮的童趣风格，简单的形状，迷人的瑕疵，层叠的蜡笔笔触，纹理纸张表面，温暖的怀旧感，鲜艳的色彩，干净的白色背景",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "蜡笔画风格提示词：用于生成怀旧蜡笔画风格插图的提示词，具有柔和的质感和俏皮的手绘瑕疵。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [
+        "layered"
+      ],
+      "style": [
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered]。\n\nVisual style:\n[参考风格: hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13853",
+      "13707",
+      "13719",
+      "13946",
+      "13989",
+      "14155"
+    ]
+  }
+}

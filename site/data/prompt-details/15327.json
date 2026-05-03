@@ -1,0 +1,44 @@
+{
+  "id": "15327",
+  "prompt": "A dreamy anime end-card illustration of a relaxed young woman sitting sideways in a whimsical library of roses and books, surrounded by floating petals and open books. She has {argument name=\"hair color\" default=\"vivid purple\"} hair in a high ponytail tied with a black scrunchie, loose bangs, small gold earrings, and a tiny gold hair clip reading \"AI\" near her bangs. Her face is mostly obscured by a soft rectangular blur, but the composition still treats her as the central heroine. She wears a turquoise T-shirt with large white text {argument name=\"shirt text\" default=\"AITuber\"}, an oversized pastel windbreaker in icy blue with pink paint-splatter accents, and pale denim shorts. She holds 1 red rose in her right hand and 1 dark blue hardcover book in her left hand titled {argument name=\"book title\" default=\"Roses & Books\"}. Pose her lounging casually with one leg extended and one bent, like a stylish anime ending-card key visual. The setting is an ornate fantasy reading nook with 2 towering stacks of books framing her on the left and right, entwined with blooming rose vines in red and pink. Include exactly 6 clearly readable book spines or covers with decorative serif titles: \"Poems & Books\", \"Roses & Books\", \"Dreams\", \"Memories\", \"Letters\", and \"Language of Flowers\". Add 1 takeaway coffee cup at the lower left with the printed phrase {argument name=\"cup text\" default=\"Read. Write. Bloom.\"}. Place 1 open notebook with a pen in the foreground near her legs, showing a rose sketch and notes, plus 1 additional open illustrated botanical book at the lower right. In the upper area, include exactly 4 floating open books and several loose pages drifting in the air. Behind her, create a bright arched window revealing a pastel fairytale city with a cathedral-like spire against a clear sky-blue background. Fill the whole image with scattered red and pink rose petals, sparkles, soft painterly light, decorative floral details, and richly colored book covers in navy, pink, and cream. Use polished anime illustration styling, highly detailed linework, luminous pastel highlights, romantic fantasy atmosphere, balanced symmetrical framing, and the feel of a commemorative spring book-and-rose themed visual for {argument name=\"occasion\" default=\"Sant Jordi Day\"}.",
+  "translatedPrompt": "一张梦幻般的动漫片尾插画，描绘了一位年轻女性侧坐在充满奇幻色彩的玫瑰与书籍图书馆中，周围环绕着飘落的花瓣和翻开的书籍。她留着 {argument name=\"hair color\" default=\"鲜艳紫色\"} 的高马尾，用黑色发圈束起，留有随意的刘海，戴着小巧的金耳环，刘海旁别着一个写有“AI”字样的微型金色发夹。她的面部大部分被柔和的矩形模糊处理，但构图上她依然是核心主角。她身穿一件印有醒目白色文字 {argument name=\"shirt text\" default=\"AITuber\"} 的青绿色 T 恤，外搭一件冰蓝色超大款粉色泼墨风衣，下身穿着浅色牛仔短裤。她右手拿着 1 朵红玫瑰，左手拿着一本深蓝色精装书，书名显示为 {argument name=\"book title\" default=\"Roses & Books\"}。让她以一种时尚动漫片尾主视觉图的姿态随意地斜倚着，一条腿伸直，另一条腿弯曲。场景是一个华丽的奇幻阅读角，左右两侧各堆叠着 2 摞高耸的书籍，并缠绕着盛开的红粉色玫瑰藤蔓。画面中需包含 6 个清晰可见、带有装饰性衬线字体的书脊或封面，标题分别为：“Poems & Books”、“Roses & Books”、“Dreams”、“Memories”、“Letters” 和 “Language of Flowers”。在左下角放置 1 个外带咖啡杯，杯上印有 {argument name=\"cup text\" default=\"Read. Write. Bloom.\"} 字样。在前景的双腿附近放置 1 本打开的笔记本和一支笔，展示着玫瑰素描和笔记，右下角另有 1 本打开的植物学插画书。在上方区域，加入 4 本悬浮的打开书籍和几页在空中飘散的纸张。在她身后，设计一扇明亮的拱形窗户，透出窗外粉彩色的童话城市，背景是带有大教堂式尖顶的晴朗天蓝色天空。整幅画面充满散落的红粉色玫瑰花瓣、闪光点、柔和的绘画光影、装饰性花卉细节，以及海军蓝、粉色和奶油色等色彩丰富的书封。采用精致的动漫插画风格，线条细腻，高光呈现出明亮的粉彩质感，营造出浪漫的奇幻氛围，构图平衡对称，呈现出适合 {argument name=\"occasion\" default=\"圣乔治节\"} 的春日书籍与玫瑰主题纪念视觉效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫风格玫瑰与书籍片尾插画：一张精致的动漫风格纪念插画，描绘了一位被玫瑰和书籍环绕的少女，非常适合作为节日主视觉图、社交媒体配图或片尾插画。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "symmetrical"
+      ],
+      "style": [
+        "anime",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；要求可读",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: symmetrical]。\n\nVisual style:\n[参考风格: anime, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；要求可读。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14600",
+      "15036",
+      "14918",
+      "15734",
+      "13916",
+      "15334"
+    ]
+  }
+}

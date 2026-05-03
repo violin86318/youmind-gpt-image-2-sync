@@ -1,0 +1,42 @@
+{
+  "id": "14190",
+  "prompt": "A dynamic anime illustration of a girl with spiky {argument name=\"hair color\" default=\"blonde\"} hair tied in a high ponytail with a black bow, striking teal eyes, and a {argument name=\"outfit style\" default=\"dark purple and black magical uniform with gold trim and diamond gems\"}. She is in an intense crouching superhero landing pose, one hand pressed to the ground and the other raised, casting {argument name=\"magic color\" default=\"glowing purple\"} magic circles. She is shattering through a glass barrier, with sharp, jagged glass shards flying outward toward the viewer. Through the broken frame behind her, a {argument name=\"background scene\" default=\"stylized silhouette of a gothic city with tall spires against a vibrant purple and orange sunset sky\"} is visible. The artwork features {argument name=\"art style\" default=\"sharp angles, high contrast cel-shading, and vibrant colors\"}.",
+  "translatedPrompt": "A dynamic anime illustration of a girl with spiky {argument name=\"hair color\" default=\"blonde\"} hair tied in a high ponytail with a black bow, striking teal eyes, and a {argument name=\"outfit style\" default=\"dark purple and black magical uniform with gold trim and diamond gems\"}. She is in an intense crouching superhero landing pose, one hand pressed to the ground and the other raised, casting {argument name=\"magic color\" default=\"glowing purple\"} magic circles. She is shattering through a glass barrier, with sharp, jagged glass shards flying outward toward the viewer. Through the broken frame behind her, a {argument name=\"background scene\" default=\"stylized silhouette of a gothic city with tall spires against a vibrant purple and orange sunset sky\"} is visible. The artwork features {argument name=\"art style\" default=\"sharp angles, high contrast cel-shading, and vibrant colors\"}.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Dynamic Anime Magic Action Scene：Generates a highly stylized, dynamic anime illustration of a magical character breaking through glass with glowing effects.",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15269",
+      "13595",
+      "13616",
+      "14547",
+      "13467",
+      "13618"
+    ]
+  }
+}

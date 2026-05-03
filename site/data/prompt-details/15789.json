@@ -1,0 +1,44 @@
+{
+  "id": "15789",
+  "prompt": "A side-by-side comparison graphic on a black background demonstrating a camera-angle change in the same restaurant scene. At the top, large white sans-serif text reads: \"Show me the POV from someone standing behind the bar looking out over this crowded restaurant. Change NOTHING in the scene other than the pov\". Below, place 2 stacked rectangular photos centered vertically: the top image labeled \"Source\" in large white text on the left, and the bottom image labeled \"Output\" in large white text on the left. The top photo shows a warmly lit, upscale, crowded restaurant interior seen from the dining room side, facing a tall back bar filled with many illuminated liquor bottles on wall-to-wall shelves, with bartenders and guests in front, amber lighting, globe pendant lights, wood ceiling, beige columns, and tightly packed seated diners in the foreground. The bottom photo shows the exact same restaurant, same crowd density, same warm lighting, same decor, same bar shelving, same globe pendant lights, and same overall composition elements, but now from the point of view of someone standing behind the bar and looking outward across the crowded restaurant; the foreground includes the bar counter with glassware, metal bar tools, bottles, and a point-of-sale screen visible at the lower left, while guests and staff fill the middle ground and the dining room extends into the background. Preserve the sense that only the camera position changed between the 2 images, with no other scene alterations.",
+  "translatedPrompt": "一张黑色背景下的并排对比图，展示了同一餐厅场景中摄像机角度的变化。顶部为醒目的白色无衬线大字，内容为：“向我展示有人站在吧台后俯瞰这家拥挤餐厅的视角。除了视角外，不要改变场景中的任何内容”。下方垂直居中放置两张堆叠的矩形照片：顶部图片左侧用白色大字标注为“源图像”（Source），底部图片左侧用白色大字标注为“输出图像”（Output）。顶部照片展示了一个灯光温暖、高档且拥挤的餐厅内部，视角从餐厅用餐区看向吧台，吧台后方的整面墙架上摆满了发光的酒瓶，吧台前有调酒师和顾客，环境采用琥珀色灯光，配有球形吊灯、木质天花板、米色立柱，前景坐满了用餐的客人。底部照片展示了完全相同的餐厅、相同的客流密度、相同的暖色灯光、相同的装饰、相同的吧台货架、相同的球形吊灯以及相同的整体构图元素，但视角变成了站在吧台后向外俯瞰整个拥挤的餐厅；前景包括带有玻璃器皿、金属吧台工具、酒瓶和左下角可见的销售终端（POS）屏幕的吧台，中间区域挤满了顾客和员工，用餐区延伸至背景。请保持两张图片之间仅摄像机位置发生变化，场景中没有其他改动的视觉观感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "餐厅视角转换对比：一张社交媒体风格的对比图，展示了仅改变摄像机视角前后拥挤餐厅的画面，用于演示图像模型的视角控制能力。",
+      "subject": "空间",
+      "scene": "综合视觉",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "风格对比、产品系列、前后对照、角色变体",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 综合视觉 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14556",
+      "14983",
+      "15812",
+      "15728",
+      "14186",
+      "14920"
+    ]
+  }
+}

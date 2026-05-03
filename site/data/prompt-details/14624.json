@@ -1,0 +1,52 @@
+{
+  "id": "14624",
+  "prompt": "{\"type\":\"Spanish archaeology magazine cover poster\",\"style\":\"high-impact editorial cover design, cinematic photorealism mixed with infographic collage, dark blue and gold color palette, dramatic desert lighting, polished magazine typography\",\"format\":\"vertical portrait cover\",\"publication\":{\"masthead\":\"ARQUEOLOGÍA\",\"top categories\":[\"HISTORIA\",\"ARQUEOLOGÍA\",\"CIVILIZACIONES\"],\"tagline\":\"DESCUBRIR NUESTRO PASADO PARA COMPRENDER NUESTRO FUTURO\",\"issue box\":{\"label\":\"NÚMERO\",\"number\":\"{argument name=\\\"issue number\\\" default=\\\"7\\\"}\",\"date\":\"{argument name=\\\"issue date\\\" default=\\\"MAYO DE 2026\\\"}\"}},\"main scene\":{\"background\":\"clear blue sky over the Giza plateau at golden hour\",\"centerpiece\":\"a massive sunlit pyramid seen from the front, glowing at the apex with a bright halo of sunlight\",\"foreground right\":\"a middle-aged male archaeologist-explorer in a brown fedora and beige field shirt, waist-up, pointing upward with his right index finger, rugged beard, documentary-host presence\",\"crowd\":\"small scattered human figures at the base of the pyramid for scale\",\"mood\":\"grand, educational, revelatory\"},\"cover lines\":{\"kicker\":\"BIENVENIDOS AL APOGEO DEL\",\"main headline\":\"{argument name=\\\"main headline\\\" default=\\\"REINO ANTIGUO\\\"}\",\"deck\":\"Hace más de 4500 años, los faraones de la IV Dinastía construyeron las pirámides de Guiza, las inmensas \\\"máquinas de resurrección\\\" definitivas de Egipto.\",\"host credit\":\"CON {argument name=\\\"host name\\\" default=\\\"JAVIER RUBIO DONZÉ\\\"} DE ACADEMIA PLAY\"},\"layout\":{\"sections\":[{\"title\":\"main cover story\",\"position\":\"upper left to center\",\"count\":4,\"labels\":[\"BIENVENIDOS AL APOGEO DEL\",\"REINO\",\"ANTIGUO\",\"Hace más de 4500 años, los faraones de la IV Dinastía construyeron las pirámides de Guiza, las inmensas \\\"máquinas de resurrección\\\" definitivas de Egipto.\"]},{\"title\":\"myth debunk box\",\"position\":\"left middle\",\"count\":3,\"labels\":[\"¿FUERON LOS EXTRATERRESTRES CON TECNOLOGÍA LÁSER?\",\"¡PARA NADA!\",\"En este video desmontamos los mitos pseudocientíficos usando pura arqueología e ingeniería.\"]},{\"title\":\"papyrus feature\",\"position\":\"center right middle\",\"count\":2,\"labels\":[\"EL PAPIRO DE MERER\",\"La prueba que demuestra que los constructores no eran esclavos maltratados, sino obreros privilegiados, muy bien alimentados y estructurados.\"]},{\"title\":\"bottom feature cards\",\"position\":\"bottom row\",\"count\":3,\"labels\":[\"INGENIERÍA SIN HIERRO\",\"FUERZA, AGUA Y FRICCIÓN\",\"TEORÍAS DE CONSTRUCCIÓN\"]},{\"title\":\"footer\",\"position\":\"bottom edge\",\"count\":2,\"labels\":[\"CIENCIA · ARQUEOLOGÍA · EXPERIMENTACIÓN\",\"EL CONOCIMIENTO DEL PASADO, AL ALCANCE DE TODOS.\"]}],\"additional visual elements\":{\"count\":6,\"labels\":[\"small white pyramid diagram with red guide lines and a curved golden arrow\",\"aged papyrus illustration showing ancient Egyptian boats and figures\",\"bottom-left card image of a worker cutting or polishing stone blocks by hand\",\"bottom-center card image of several workers hauling a massive stone block on a wooden sledge\",\"bottom-right card image of a pyramid construction cutaway or ramp system model with red ramp lines\",\"bottom-right play-logo text ACADEMIA PLAY !\"]}},\"typography\":{\"masthead\":\"very large condensed uppercase serif in textured metallic gold\",\"headlines\":\"bold uppercase sans serif in white and yellow\",\"body text\":\"compact editorial sans serif in white\",\"issue box\":\"gold outlined dark panel with stacked uppercase text\"},\"composition\":\"the masthead dominates the top third, the pyramid and pointing host occupy the center, text blocks wrap around the figure, three equally sized feature panels span the bottom third\",\"quality\":\"ultra-detailed, sharp print-ready layout, realistic textures, premium documentary magazine aesthetic\"}",
+  "translatedPrompt": "{\"type\":\"西班牙考古杂志封面海报\",\"style\":\"高冲击力编辑封面设计，电影级写实风格与信息图拼贴相结合，深蓝色与金色配色方案，戏剧性的沙漠光影，精致的杂志排版\",\"format\":\"竖版肖像封面\",\"publication\":{\"masthead\":\"ARQUEOLOGÍA\",\"top categories\":[\"HISTORIA\",\"ARQUEOLOGÍA\",\"CIVILIZACIONES\"],\"tagline\":\"DESCUBRIR NUESTRO PASADO PARA COMPRENDER NUESTRO FUTURO\",\"issue box\":{\"label\":\"NÚMERO\",\"number\":\"{argument name=\\\"issue number\\\" default=\\\"7\\\"}\",\"date\":\"{argument name=\\\"issue date\\\" default=\\\"MAYO DE 2026\\\"}\"}},\"main scene\":{\"background\":\"吉萨高原黄金时刻的晴朗蓝天\",\"centerpiece\":\"一座巨大的金字塔在阳光下，塔尖闪烁着明亮的光晕\",\"foreground right\":\"一位中年男性考古探险家，戴着棕色软呢帽，身穿米色野外衬衫，半身像，右手食指向上指，留着粗犷的胡须，具有纪录片主持人的风采\",\"crowd\":\"金字塔底部散布着微小的人物以体现比例感\",\"mood\":\"宏大、教育性、启发性\"},\"cover lines\":{\"kicker\":\"BIENVENIDOS AL APOGEO DEL\",\"main headline\":\"{argument name=\\\"main headline\\\" default=\\\"REINO ANTIGUO\\\"}\",\"deck\":\"Hace más de 4500 años, los faraones de la IV Dinastía construyeron las pirámides de Guiza, las inmensas \\\"máquinas de resurrección\\\" definitivas de Egipto.\",\"host credit\":\"CON {argument name=\\\"host name\\\" default=\\\"JAVIER RUBIO DONZÉ\\\"} DE ACADEMIA PLAY\"},\"layout\":{\"sections\":[{\"title\":\"main cover story\",\"position\":\"upper left to center\",\"count\":4,\"labels\":[\"BIENVENIDOS AL APOGEO DEL\",\"REINO\",\"ANTIGUO\",\"Hace más de 4500 años, los faraones de la IV Dinastía construyeron las pirámides de Guiza, las inmensas \\\"máquinas de resurrección\\\" definitivas de Egipto.\"]},{\"title\":\"myth debunk box\",\"position\":\"left middle\",\"count\":3,\"labels\":[\"¿FUERON LOS EXTRATERRESTRES CON TECNOLOGÍA LÁSER?\",\"¡PARA NADA!\",\"En este video desmontamos los mitos pseudocientíficos usando pura arqueología e ingeniería.\"]},{\"title\":\"papyrus feature\",\"position\":\"center right middle\",\"count\":2,\"labels\":[\"EL PAPIRO DE MERER\",\"La prueba que demuestra que los constructores no eran esclavos maltratados, sino obreros privilegiados, muy bien alimentados y estructurados.\"]},{\"title\":\"bottom feature cards\",\"position\":\"bottom row\",\"count\":3,\"labels\":[\"INGENIERÍA SIN HIERRO\",\"FUERZA, AGUA Y FRICCIÓN\",\"TEORÍAS DE CONSTRUCCIÓN\"]},{\"title\":\"footer\",\"position\":\"bottom edge\",\"count\":2,\"labels\":[\"CIENCIA · ARQUEOLOGÍA · EXPERIMENTACIÓN\",\"EL CONOCIMIENTO DEL PASADO, AL ALCANCE DE TODOS.\"]}],\"additional visual elements\":{\"count\":6,\"labels\":[\"small white pyramid diagram with red guide lines and a curved golden arrow\",\"aged papyrus illustration showing ancient Egyptian boats and figures\",\"bottom-left card image of a worker cutting or polishing stone blocks by hand\",\"bottom-center card image of several workers hauling a massive stone block on a wooden sledge\",\"bottom-right card image of a pyramid construction cutaway or ramp system model with red ramp lines\",\"bottom-right play-logo text ACADEMIA PLAY !\"]}},\"typography\":{\"masthead\":\"very large condensed uppercase serif in textured metallic gold\",\"headlines\":\"bold uppercase sans serif in white and yellow\",\"body text\":\"compact editorial sans serif in white\",\"issue box\":\"gold outlined dark panel with stacked uppercase text\"},\"composition\":\"刊头占据顶部三分之一，金字塔和指向的主持人占据中心位置，文本块环绕人物，三个大小相等的专题面板横跨底部三分之一\",\"quality\":\"超精细，清晰的印刷级布局，逼真的纹理，高级纪录片杂志美学\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "西班牙考古杂志封面：此提示词可生成一张关于埃及金字塔的、具有戏剧性的西班牙语考古杂志封面，适用于编辑海报、YouTube 缩略图或教育类历史媒体品牌推广。",
+      "subject": "信息结构",
+      "scene": "海报/封面",
+      "composition": [
+        "cutaway",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "editorial",
+        "documentary",
+        "premium"
+      ],
+      "lightingCamera": [
+        "golden hour"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: cutaway, vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic, editorial, documentary, premium]。\n\nLighting and camera:\n[参考光线镜头: golden hour]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15026",
+      "14164",
+      "14489",
+      "15448",
+      "14692",
+      "15011"
+    ]
+  }
+}

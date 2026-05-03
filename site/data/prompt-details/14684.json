@@ -1,0 +1,48 @@
+{
+  "id": "14684",
+  "prompt": "{\"type\":\"mobile app promo poster mockup\",\"style\":\"clean modern Korean edtech marketing graphic, soft light gray background, premium iPhone-style device renders, rounded UI cards, subtle shadows, blue and purple gradient accent palette, minimalist sans-serif typography\",\"subject\":\"English learning mobile app advertisement layout\",\"branding\":{\"app icon\":\"rounded square icon with a blue-to-purple gradient background, large white letters EN, small sparkle star in the top right\",\"headline\":[\"매일 10분,\",\"영어가\",\"습관이 되는 시간\"],\"body\":\"재미있는 학습과 실전 표현으로 영어 자신감을 키워보세요.\"},\"layout\":{\"canvas\":\"wide horizontal poster\",\"sections\":[{\"title\":\"left marketing text column\",\"position\":\"far left\",\"count\":3,\"labels\":[\"다양한 학습 콘텐츠\",\"실전 회화 연습\",\"학습 현황 관리\"]},{\"title\":\"main app home screen\",\"position\":\"center-left phone\",\"count\":6,\"labels\":[\"header greeting\",\"today lesson banner\",\"progress card\",\"weekday mini tracker\",\"recommended content card 1\",\"recommended content card 2\"]},{\"title\":\"conversation practice screen\",\"position\":\"center phone\",\"count\":6,\"labels\":[\"top progress bar\",\"instruction header\",\"speaker A message card\",\"speaker B message card\",\"key phrase card\",\"bottom microphone button\"]},{\"title\":\"word learning screen\",\"position\":\"top-right phone\",\"count\":5,\"labels\":[\"top progress bar\",\"large vocabulary word\",\"part-of-speech and meaning line\",\"example sentence block\",\"2 bottom choice buttons\"]},{\"title\":\"study statistics screen\",\"position\":\"bottom-right phone\",\"count\":5,\"labels\":[\"tab selector\",\"date range row\",\"2 summary stat cards\",\"weekly bar chart\",\"chart labels\"]}],\"phone_count\":4},\"screens\":{\"home\":{\"status_bar_time\":\"9:41\",\"greeting\":\"안녕하세요, {argument name=\\\"character name\\\" default=\\\"지민님\\\"}! 👋\",\"streak\":\"🔥 7\",\"banner\":{\"korean_label\":\"오늘의 학습\",\"title\":\"Daily Conversation\",\"subtitle\":\"일상에서 자주 쓰는 표현 배우기\",\"button\":\"시작하기\",\"illustration\":\"coffee cup and small EN flashcard on a blue gradient panel\"},\"progress\":{\"section_title\":\"학습 진행 상황\",\"completion\":\"75%\",\"monthly_goal_text\":\"이번 주 목표\",\"monthly_goal_value\":\"3/4일 학습 완료\",\"weekday_count\":7,\"weekday_labels\":[\"월\",\"화\",\"수\",\"목\",\"금\",\"토\",\"일\"]},\"recommendations\":{\"section_title\":\"추천 콘텐츠\",\"items\":[{\"title\":\"Travel English\",\"subtitle\":\"여행에서 유용한 표현\",\"level\":\"초급\",\"thumbnail\":\"airplane window or travel scene\"},{\"title\":\"Business English\",\"subtitle\":\"비즈니스 상황별 표현\",\"level\":\"중급\",\"thumbnail\":\"two business people in suits\"}]},\"bottom_nav\":{\"count\":4,\"labels\":[\"홈\",\"학습\",\"복습\",\"마이페이지\"]}},\"conversation\":{\"title\":\"Daily Conversation\",\"progress\":\"2/10\",\"header\":\"다음 대화를 읽고 따라 해보세요.\",\"subheader\":\"Read the conversation and repeat.\",\"messages\":[{\"speaker\":\"A\",\"bubble_text\":\"What are you doing this weekend?\",\"translation\":\"이번 주말에 뭐 할 거야?\"},{\"speaker\":\"B\",\"bubble_text\":\"I'm planning to go hiking with my friends.\",\"translation\":\"친구들과 등산 갈 계획이야.\"}],\"phrase_box\":{\"label\":\"핵심 표현\",\"phrase\":\"be planning to ~\",\"meaning\":\"~할 계획이다\",\"button\":\"이문 보기\"},\"bottom_hint\":\"눌러서 말해보세요\",\"controls\":{\"microphone\":true,\"keyboard\":true}},\"vocabulary\":{\"title\":\"단어 학습\",\"progress\":\"5/12\",\"word\":\"{argument name=\\\"vocabulary word\\\" default=\\\"adventure\\\"}\",\"pronunciation\":\"[ədˈventʃər]\",\"meta\":\"명사  모험, 탐험\",\"example_en\":\"It was a great adventure.\",\"example_ko\":\"그것은 멋진 모험이었다.\",\"illustration\":\"misty mountain landscape with a lone hiker wearing a backpack\",\"buttons\":[\"모르는 단어\",\"아는 단어\"]},\"stats\":{\"title\":\"학습 통계\",\"tabs\":{\"count\":3,\"labels\":[\"주간\",\"월간\",\"전체\"]},\"date_range\":\"5월 12일 - 5월 18일\",\"summary_cards\":[{\"label\":\"학습 시간\",\"value\":\"3시간 45분\"},{\"label\":\"연속 학습\",\"value\":\"7일\"}],\"chart\":{\"type\":\"weekly vertical bar chart\",\"bar_count\":7,\"x_labels\":[\"월\",\"화\",\"수\",\"목\",\"금\",\"토\",\"일\"],\"y_labels\":[\"0분\",\"30분\",\"60분\"]}}},\"decor\":{\"background_shapes\":[\"large soft blue organic wave in the bottom-left corner\",\"3 small sparkle stars scattered around the composition\"]},\"rendering\":\"high-resolution product marketing render, straight-on front view phones, balanced spacing, crisp Korean UI text, polished app-store presentation\"}",
+  "translatedPrompt": "{\"type\":\"移动端 App 宣传海报样机\",\"style\":\"简洁现代的韩语教育科技营销图形，柔和的浅灰色背景，高端 iPhone 风格设备渲染，圆角 UI 卡片，细腻阴影，蓝色与紫色渐变配色，极简无衬线字体\",\"subject\":\"英语学习移动端 App 广告排版\",\"branding\":{\"app icon\":\"圆角方形图标，采用蓝紫渐变背景，大号白色字母 EN，右上角带有小闪烁星形\",\"headline\":[\"每天 10 分钟，\",\"让英语\",\"成为你的习惯\"],\"body\":\"通过有趣的课程和实战表达，提升你的英语自信心。\"},\"layout\":{\"canvas\":\"宽幅横向海报\",\"sections\":[{\"title\":\"左侧营销文案栏\",\"position\":\"最左侧\",\"count\":3,\"labels\":[\"多样化学习内容\",\"实战口语练习\",\"学习进度管理\"]},{\"title\":\"App 主页屏幕\",\"position\":\"左中手机\",\"count\":6,\"labels\":[\"顶部问候语\",\"今日课程横幅\",\"进度卡片\",\"工作日迷你追踪器\",\"推荐内容卡片 1\",\"推荐内容卡片 2\"]},{\"title\":\"对话练习屏幕\",\"position\":\"中间手机\",\"count\":6,\"labels\":[\"顶部进度条\",\"指令标题\",\"A 说话人消息卡片\",\"B 说话人消息卡片\",\"核心短语卡片\",\"底部麦克风按钮\"]},{\"title\":\"单词学习屏幕\",\"position\":\"右上手机\",\"count\":5,\"labels\":[\"顶部进度条\",\"大号词汇\",\"词性与含义行\",\"例句块\",\"底部 2 个选项按钮\"]},{\"title\":\"学习统计屏幕\",\"position\":\"右下手机\",\"count\":5,\"labels\":[\"标签选择器\",\"日期范围行\",\"2 张统计摘要卡片\",\"周度柱状图\",\"图表标签\"]}],\"phone_count\":4},\"screens\":{\"home\":{\"status_bar_time\":\"9:41\",\"greeting\":\"你好，{argument name=\\\"character name\\\" default=\\\"Jimin\\\"}！👋\",\"streak\":\"🔥 7\",\"banner\":{\"korean_label\":\"今日学习\",\"title\":\"日常对话\",\"subtitle\":\"学习日常生活中常用的表达\",\"button\":\"开始学习\",\"illustration\":\"蓝色渐变面板上的咖啡杯和小型 EN 闪卡\"},\"progress\":{\"section_title\":\"学习进度\",\"completion\":\"75%\",\"monthly_goal_text\":\"本周目标\",\"monthly_goal_value\":\"已完成 3/4 天学习\",\"weekday_count\":7,\"weekday_labels\":[\"一\",\"二\",\"三\",\"四\",\"五\",\"六\",\"日\"]},\"recommendations\":{\"section_title\":\"推荐内容\",\"items\":[{\"title\":\"旅游英语\",\"subtitle\":\"旅行中的实用表达\",\"level\":\"初级\",\"thumbnail\":\"飞机窗或旅行场景\"},{\"title\":\"商务英语\",\"subtitle\":\"商务场景下的表达\",\"level\":\"中级\",\"thumbnail\":\"两名穿西装的商务人士\"}]},\"bottom_nav\":{\"count\":4,\"labels\":[\"首页\",\"学习\",\"复习\",\"我的\"]}},\"conversation\":{\"title\":\"日常对话\",\"progress\":\"2/10\",\"header\":\"请阅读并跟随练习以下对话。\",\"subheader\":\"阅读对话并跟读。\",\"messages\":[{\"speaker\":\"A\",\"bubble_text\":\"What are you doing this weekend?\",\"translation\":\"这个周末你打算做什么？\"},{\"speaker\":\"B\",\"bubble_text\":\"I'm planning to go hiking with my friends.\",\"translation\":\"我计划和朋友们去徒步。\"}],\"phrase_box\":{\"label\":\"核心短语\",\"phrase\":\"be planning to ~\",\"meaning\":\"计划做某事\",\"button\":\"查看例句\"},\"bottom_hint\":\"点击并说话\",\"controls\":{\"microphone\":true,\"keyboard\":true}},\"vocabulary\":{\"title\":\"单词学习\",\"progress\":\"5/12\",\"word\":\"{argument name=\\\"vocabulary word\\\" default=\\\"adventure\\\"}\",\"pronunciation\":\"[ədˈventʃər]\",\"meta\":\"名词 冒险、探险\",\"example_en\":\"It was a great adventure.\",\"example_ko\":\"这是一次伟大的冒险。\",\"illustration\":\"带有背着背包的徒步者的多雾山景\",\"buttons\":[\"不认识\",\"认识\"]},\"stats\":{\"title\":\"学习统计\",\"tabs\":{\"count\":3,\"labels\":[\"周度\",\"月度\",\"全部\"]},\"date_range\":\"5 月 12 日 - 5 月 18 日\",\"summary_cards\":[{\"label\":\"学习时长\",\"value\":\"3 小时 45 分钟\"},{\"label\":\"连续学习\",\"value\":\"7 天\"}],\"chart\":{\"type\":\"周度垂直柱状图\",\"bar_count\":7,\"x_labels\":[\"一\",\"二\",\"三\",\"四\",\"五\",\"六\",\"日\"],\"y_labels\":[\"0 分钟\",\"30 分钟\",\"60 分钟\"]}}},\"decor\":{\"background_shapes\":[\"左下角大型柔和蓝色有机波浪\",\"散布在构图周围的 3 个小闪烁星形\"]},\"rendering\":\"高分辨率产品营销渲染图，正视视角手机，平衡的间距，清晰的韩语 UI 文字，精致的 App Store 展示效果\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "韩语英语学习 App 宣传海报：一张精美的宣传海报，展示了四款用于韩语英语学习 App 的智能手机屏幕界面，适用于 App 营销、落地页或社交媒体发布。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "minimalist",
+        "premium"
+      ],
+      "lightingCamera": [
+        "soft light"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical, horizontal]。\n\nVisual style:\n[参考风格: minimalist, premium]。\n\nLighting and camera:\n[参考光线镜头: soft light]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14698",
+      "15088",
+      "15072",
+      "14844",
+      "14852",
+      "14887"
+    ]
+  }
+}

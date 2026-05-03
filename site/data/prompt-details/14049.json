@@ -1,0 +1,38 @@
+{
+  "id": "14049",
+  "prompt": "{\"type\": \"live stream interface mockup\", \"layout\": {\"main_feed\": {\"content\": \"video game scene, cowboy silhouette looking at a grave with a celtic cross at sunset\", \"subtitle\": \"{argument name=\\\"game subtitle\\\" default=\\\"Arthur I gave you all I had.\\\"}\", \"ui_elements\": [\"circular minimap in bottom left\"]}, \"webcam\": {\"position\": \"top left\", \"subject\": \"{argument name=\\\"webcam subject\\\" default=\\\"Sam Altman\\\"} looking intently and slightly sad\", \"background\": \"room with a plant and a glowing lamp\"}, \"stream_info\": {\"position\": \"bottom\", \"profile\": {\"name\": \"{argument name=\\\"streamer name\\\" default=\\\"SamAltman\\\"}\", \"verified\": true, \"avatar\": \"grayscale portrait of the streamer\", \"live_badge\": \"LIVE\"}, \"details\": {\"title\": \"{argument name=\\\"stream title\\\" default=\\\"first playthrough of RDR2 (no spoilers please!)\\\"}\", \"category\": \"{argument name=\\\"game title\\\" default=\\\"Red Dead Redemption 2\\\"}\", \"tags\": [\"English\", \"AMA\", \"OpenAI\", \"CEO\", \"Artificial Intelligence\"]}, \"stats\": {\"viewers\": \"141,572\", \"uptime\": \"3:42:17\"}, \"buttons\": [\"Follow\", \"Subscribe\"]}, \"chat_sidebar\": {\"position\": \"right\", \"header\": \"STREAM CHAT\", \"messages_count\": 17, \"message_examples\": [\"spaghetti_code: don't cry\", \"nicodemus88: we're all gonna make it\", \"quantumlance: peak fiction\", \"souljaboytellem: LUMBAGO\", \"m4xw311: ride high cowboy\"], \"input_area\": \"Send a message box with a purple Chat button\"}}}",
+  "translatedPrompt": "{\"type\": \"直播界面模型\", \"layout\": {\"main_feed\": {\"content\": \"电子游戏场景，牛仔剪影在日落时分凝视着带有凯尔特十字架的墓碑\", \"subtitle\": \"{argument name=\\\"game subtitle\\\" default=\\\"Arthur I gave you all I had.\\\"}\", \"ui_elements\": [\"左下角的圆形小地图\"]}, \"webcam\": {\"position\": \"左上角\", \"subject\": \"{argument name=\\\"webcam subject\\\" default=\\\"Sam Altman\\\"} 神情专注且略显忧伤\", \"background\": \"带有植物和发光台灯的房间\"}, \"stream_info\": {\"position\": \"底部\", \"profile\": {\"name\": \"{argument name=\\\"streamer name\\\" default=\\\"SamAltman\\\"}\", \"verified\": true, \"avatar\": \"主播的灰度肖像\", \"live_badge\": \"直播中\"}, \"details\": {\"title\": \"{argument name=\\\"stream title\\\" default=\\\"first playthrough of RDR2 (no spoilers please!)\\\"}\", \"category\": \"{argument name=\\\"game title\\\" default=\\\"Red Dead Redemption 2\\\"}\", \"tags\": [\"英语\", \"AMA\", \"OpenAI\", \"CEO\", \"人工智能\"]}, \"stats\": {\"viewers\": \"141,572\", \"uptime\": \"3:42:17\"}, \"buttons\": [\"关注\", \"订阅\"]}, \"chat_sidebar\": {\"position\": \"右侧\", \"header\": \"直播聊天\", \"messages_count\": 17, \"message_examples\": [\"spaghetti_code: 别哭\", \"nicodemus88: 我们都会成功的\", \"quantumlance: 巅峰之作\", \"souljaboytellem: 腰痛 (LUMBAGO)\", \"m4xw311: 骑行高地，牛仔\"], \"input_area\": \"带有紫色“发送”按钮的消息输入框\"}}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "直播界面模型：生成一个逼真的直播平台界面，包含游戏画面、摄像头叠加层、直播详情以及活跃的聊天侧边栏。",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13772",
+      "13835",
+      "14019",
+      "14063",
+      "14092",
+      "14884"
+    ]
+  }
+}

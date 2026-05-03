@@ -1,0 +1,47 @@
+{
+  "id": "14532",
+  "prompt": "{\"type\":\"four-panel manga page\",\"style\":\"soft pastel anime chibi, warm beige and cream palette, gentle morning light, rounded panel borders, clean readable Japanese dialogue, cozy comedic fantasy office slice-of-life\",\"page\":{\"orientation\":\"vertical\",\"panel_count\":4,\"gutter\":\"thin white spacing\",\"border\":\"rounded brown outlines\"},\"setting\":{\"location\":\"small management office interior\",\"details\":[\"wooden floor\",\"sunlit window\",\"desk with papers\",\"wooden chairs\",\"bookshelves full of files and books\",\"stacked boxes and office supplies\",\"soft dust motes and sparkles in the light\"]},\"characters\":[{\"role\":\"main character\",\"appearance\":\"tiny chibi sheep girl clerk with short fluffy blond bob hair, one blue eye and one amber eye, small elf-like ears, large curled ram horns, fluffy sheep hood shaped like a sheep face, white blouse, red necktie, pale pink apron dress, small pen in apron pocket\"},{\"role\":\"secondary character\",\"appearance\":\"round fluffy white sheep with tiny face and short legs, very plush and cloud-like\"}],\"layout\":{\"sections\":[{\"title\":\"panel 1\",\"position\":\"top\",\"count\":3,\"labels\":[\"sheep girl opening the office door and looking inside\",\"small sheep peeking beside her\",\"one oval speech bubble on the left and one small oval bubble on the right\"]},{\"title\":\"panel 2\",\"position\":\"upper middle\",\"count\":3,\"labels\":[\"sheep girl standing by a desk with one hand on hip and one hand pointing to documents\",\"small sheep sitting by the desk\",\"single large oval speech bubble on the left\"]},{\"title\":\"panel 3\",\"position\":\"lower middle\",\"count\":3,\"labels\":[\"sleeping fluffy sheep sprawled on top of paperwork\",\"partial close-up of the sheep girl peeking in from the upper left with a tired expression\",\"purple sleeping sound effect text on the right\"]},{\"title\":\"panel 4\",\"position\":\"bottom\",\"count\":4,\"labels\":[\"sheep girl asleep at the desk with closed eyes and a faint smile\",\"fluffy sheep sleeping beside her on the paperwork\",\"warm sunlight streaming from the left window\",\"small rectangular caption box at bottom right\"]}]},\"text\":{\"language\":\"Japanese\",\"elements\":[{\"kind\":\"speech bubble\",\"panel\":1,\"text\":\"管理人室、ここにしよう… ほわあ\"},{\"kind\":\"speech bubble\",\"panel\":1,\"text\":\"メェ\"},{\"kind\":\"speech bubble\",\"panel\":2,\"text\":\"おい、住民の名簿をまとめなさい\"},{\"kind\":\"speech bubble\",\"panel\":3,\"text\":\"…名簿が もふもふに…\"},{\"kind\":\"sound effect\",\"panel\":3,\"text\":\"Zzz…\"},{\"kind\":\"speech bubble\",\"panel\":4,\"text\":\"あったかいから… まあいっか…\"},{\"kind\":\"caption\",\"panel\":4,\"text\":\"{argument name=\"caption text\" default=\"管理業務、進捗ゼロ\"}\"}]},\"composition\":\"keep all four panels in the same office for continuity; emphasize cute facial expressions, fluffy textures, and the joke that office work stops because the sheep and clerk fall asleep together on the paperwork; make the documents clearly visible in panels 2 through 4; preserve a calm, sleepy, heartwarming tone\"}",
+  "translatedPrompt": "{\"type\":\"四格漫画页\",\"style\":\"柔和粉彩动漫 Q 版，温暖的米色和奶油色调，柔和的晨光，圆角分镜框，清晰易读的日语对话，温馨幽默的奇幻办公室生活片段\",\"page\":{\"orientation\":\"垂直\",\"panel_count\":4,\"gutter\":\"细白间距\",\"border\":\"圆角棕色轮廓\"},\"setting\":{\"location\":\"小型管理办公室内部\",\"details\":[\"木地板\",\"阳光明媚的窗户\",\"放着文件的办公桌\",\"木椅\",\"堆满文件和书籍的书架\",\"堆叠的盒子和办公用品\",\"光线中柔和的尘埃和闪光\"]},\"characters\":[{\"role\":\"主角\",\"appearance\":\"娇小的 Q 版羊角少女职员，留着蓬松的金色短波波头，一只蓝眼睛和一只琥珀色眼睛，小巧的精灵耳，巨大的卷曲羊角，戴着羊脸形状的蓬松羊头套，身穿白衬衫、红领带、淡粉色围裙裙，围裙口袋里插着一支小笔\"},{\"role\":\"配角\",\"appearance\":\"圆滚滚、毛茸茸的白绵羊，有着小小的脸和短腿，看起来非常柔软，像云朵一样\"}],\"layout\":{\"sections\":[{\"title\":\"第一格\",\"position\":\"顶部\",\"count\":3,\"labels\":[\"羊角少女打开办公室门向内看\",\"小绵羊在她身边探头探脑\",\"左侧有一个椭圆形对话框，右侧有一个小椭圆形对话框\"]},{\"title\":\"第二格\",\"position\":\"中上\",\"count\":3,\"labels\":[\"羊角少女站在桌边，一手叉腰，一手指向文件\",\"小绵羊坐在桌旁\",\"左侧有一个大型椭圆形对话框\"]},{\"title\":\"第三格\",\"position\":\"中下\",\"count\":3,\"labels\":[\"毛茸茸的绵羊趴在文件上睡觉\",\"羊角少女从左上方探出头，表情疲惫\",\"右侧有紫色的睡眠拟声词\"]},{\"title\":\"第四格\",\"position\":\"底部\",\"count\":4,\"labels\":[\"羊角少女在桌边睡着了，闭着眼睛，带着淡淡的微笑\",\"毛茸茸的绵羊在文件上陪她一起睡觉\",\"温暖的阳光从左侧窗户射入\",\"右下角有一个小型矩形标题框\"]}]},\"text\":{\"language\":\"日语\",\"elements\":[{\"kind\":\"对话框\",\"panel\":1,\"text\":\"管理人室、ここにしよう… ほわあ\"},{\"kind\":\"对话框\",\"panel\":1,\"text\":\"メェ\"},{\"kind\":\"对话框\",\"panel\":2,\"text\":\"おい、住民の名簿をまとめなさい\"},{\"kind\":\"对话框\",\"panel\":3,\"text\":\"…名簿が もふもふに…\"},{\"kind\":\"拟声词\",\"panel\":3,\"text\":\"Zzz…\"},{\"kind\":\"对话框\",\"panel\":4,\"text\":\"あったかいから… まあいっか…\"},{\"kind\":\"标题\",\"panel\":4,\"text\":\"{argument name=\"caption text\" default=\"管理业务，进度为零\"}\"}]},\"composition\":\"保持所有四个分镜在同一个办公室以确保连贯性；强调可爱的面部表情、毛茸茸的质感，以及办公室工作因为绵羊和职员一起在文件上睡着而停滞的笑点；使文件在第二格到第四格中清晰可见；保持平静、慵懒、温馨的基调\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "可爱的羊角少女办公室漫画页：一页四格柔和色调的奇幻办公室漫画，描绘了一位长着羊角的职员和一只毛茸茸的绵羊，将文书工作变成了一个慵懒舒适的搞笑场景。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "manga",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, vertical]。\n\nVisual style:\n[参考风格: anime, manga, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14404",
+      "14250",
+      "14525",
+      "15370",
+      "14468",
+      "14523"
+    ]
+  }
+}

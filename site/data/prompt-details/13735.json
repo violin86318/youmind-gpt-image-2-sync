@@ -1,0 +1,41 @@
+{
+  "id": "13735",
+  "prompt": "{\n  \"type\": \"two-panel meme comic\",\n  \"layout\": {\n    \"structure\": \"vertical split with black divider bars containing white text\",\n    \"top_header_text\": \"{argument name=\\\"top panel header\\\" default=\\\"MEANWHILE...\\\"}\",\n    \"middle_divider_text\": \"{argument name=\\\"bottom panel header\\\" default=\\\"USERS AFTER A WEEK OF CRYPTIC VAGUE-POSTING:\\\"}\"\n  },\n  \"panels\": [\n    {\n      \"position\": \"top\",\n      \"setting\": \"bright office environment\",\n      \"character\": \"smug man with a beard, wearing a black hoodie with 'OpenAI' text, eyes closed, smiling, holding a black mug with the OpenAI logo and rising steam\",\n      \"ui_elements\": {\n        \"count\": 2,\n        \"items\": [\n          \"Tweet mockup: Profile 'OpenAI Employee' with verified checkmark, handle '@openai', text '{argument name=\\\"tweet text\\\" default=\\\"feeling codexy today 😎\\\"}', date '4:41 PM · Apr 16, 2026'\",\n          \"Notification mockup: Dark theme, orange lightning bolt icon, text 'ANTHROPIC Releases Opus 4.7 3:00 PM BST'\"\n        ]\n      },\n      \"sticky_notes\": {\n        \"count\": 3,\n        \"items\": [\n          \"Yellow note: 'big week soon™'\",\n          \"Light blue note: 'can't say much... ;)'\",\n          \"Pink note: 'stay tuned!'\"\n        ]\n      }\n    },\n    {\n      \"position\": \"bottom\",\n      \"setting\": \"dark, cobweb-filled room at a messy desk\",\n      \"character\": \"skeleton wearing a dark hoodie with '{argument name=\\\"skeleton hoodie text\\\" default=\\\"REFRESH ADDICT\\\"}', resting its skull on its bony hand in despair\",\n      \"desk_objects\": {\n        \"count\": 6,\n        \"items\": [\n          \"Computer monitor displaying the X (Twitter) dark mode interface\",\n          \"Black mug with text 'C'MON OPENAI'\",\n          \"Smartphone screen showing '11:59:59 refreshing...' with a loading spinner\",\n          \"Digital clock displaying red text '12:00:01 AM'\",\n          \"3 energy drink cans\",\n          \"Scattered crumpled paper balls\"\n        ]\n      },\n      \"sticky_notes_and_signs\": {\n        \"count\": 4,\n        \"items\": [\n          \"Yellow note (left): 'Day 7 still no news...'\",\n          \"Green note (on monitor): 'stop vague posting and DROP SOMETHING AMAZING!'\",\n          \"Pink note (right): '{argument name=\\\"user complaint note\\\" default=\\\"just release SPUD or the Codex super app already!\\\"}'\",\n          \"Cardboard sign (far right): 'MAKE SOMETHING AMAZING. PLEASE.'\"\n        ]\n      }\n    }\n  ]\n}",
+  "translatedPrompt": "{\n  \"type\": \"双格梗漫画\",\n  \"layout\": {\n    \"structure\": \"垂直分割，中间有黑色分隔条，内含白色文字\",\n    \"top_header_text\": \"{argument name=\\\"top panel header\\\" default=\\\"与此同时...\\\"}\",\n    \"middle_divider_text\": \"{argument name=\\\"bottom panel header\\\" default=\\\"在经历了一周的神秘模糊动态后，用户们：\\\"}\"\n  },\n  \"panels\": [\n    {\n      \"position\": \"上\",\n      \"setting\": \"明亮的办公环境\",\n      \"character\": \"留着胡子的自鸣得意男子，穿着印有 'OpenAI' 字样的黑色连帽衫，闭着眼睛微笑，手里拿着印有 OpenAI 标志且冒着热气的黑色马克杯\",\n      \"ui_elements\": {\n        \"count\": 2,\n        \"items\": [\n          \"推文模拟：个人资料 'OpenAI Employee'，带有认证对勾，账号 '@openai'，文字 '{argument name=\\\"tweet text\\\" default=\\\"今天感觉很 codexy 😎\\\"}'，日期 '2026 年 4 月 16 日 下午 4:41'\",\n          \"通知模拟：深色主题，橙色闪电图标，文字 'ANTHROPIC 发布 Opus 4.7 下午 3:00 BST'\"\n        ]\n      },\n      \"sticky_notes\": {\n        \"count\": 3,\n        \"items\": [\n          \"黄色便签：'big week soon™'\",\n          \"浅蓝色便签：'不能说太多... ;)'\",\n          \"粉色便签：'敬请期待！'\"\n        ]\n      }\n    },\n    {\n      \"position\": \"下\",\n      \"setting\": \"昏暗、布满蜘蛛网的房间，桌子凌乱\",\n      \"character\": \"穿着印有 '{argument name=\\\"skeleton hoodie text\\\" default=\\\"刷新成瘾者\\\"}' 黑色连帽衫的骷髅，绝望地用骨头手托着头骨\",\n      \"desk_objects\": {\n        \"count\": 6,\n        \"items\": [\n          \"显示 X (Twitter) 深色模式界面的电脑显示器\",\n          \"印有 'C'MON OPENAI' 字样的黑色马克杯\",\n          \"显示 '11:59:59 刷新中...' 和加载图标的智能手机屏幕\",\n          \"显示红色文字 '12:00:01 AM' 的数字时钟\",\n          \"3 罐能量饮料\",\n          \"散落的揉皱纸团\"\n        ]\n      },\n      \"sticky_notes_and_signs\": {\n        \"count\": 4,\n        \"items\": [\n          \"黄色便签（左）：'第 7 天，还是没消息...'\",\n          \"绿色便签（在显示器上）：'别再发模糊动态了，赶紧发布点惊人的东西吧！'\",\n          \"粉色便签（右）：'{argument name=\\\"user complaint note\\\" default=\\\"赶紧发布 SPUD 或者那个 Codex 超级应用吧！\\\"}'\",\n          \"纸板标语（最右侧）：'做出点惊人的东西吧。求你了。'\"\n        ]\n      }\n    }\n  ]\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "双格科技梗漫画：生成一张双格梗图，对比自鸣得意的科技公司员工发布模糊动态，与用户在等待发布时枯坐成骷髅的场景。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14891",
+      "15795",
+      "14581",
+      "13905",
+      "14623",
+      "14008"
+    ]
+  }
+}

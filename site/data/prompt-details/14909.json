@@ -1,0 +1,49 @@
+{
+  "id": "14909",
+  "prompt": "A cute anime-style vertical selfie illustration of a smiling young man with short {argument name=\"hair color\" default=\"dark brown\"} hair and large round glasses holding a hairless Sphynx cat in a black sling bag outdoors. The man is shown close-up from the left side of the frame, wearing a black hoodie or jacket, with a cheerful open-mouth smile and bright sparkling eyes, as if taking a selfie. His right hand is raised at the top right, lifting a yellow leash strap. The Sphynx cat is centered and tucked inside the front sling bag, with very large ears, pale pink wrinkled skin, big glossy blue-gray eyes, and a calm slightly curious expression. The cat wears a warm brown sweater with tiny colorful confetti-like shapes and a yellow collar or harness. In the background, show the exterior of a modern transit station or large public building with curved steel beams and glass, under a soft blue sky. Add a decorative sign floating near the upper center with the Chinese text “带皮子出去玩” in a cute ornamental frame. Include soft pastel sparkles, tiny hearts, paw-print accents, star shapes, and a subtle lens flare near the lower left to create a warm playful mood. Clean polished line art, soft shading, pastel lighting, glossy highlights on the glasses and eyes, wholesome slice-of-life anime aesthetic, highly appealing social-media illustration.",
+  "translatedPrompt": "一张可爱的动漫风格竖版自拍插画，画面中一位面带微笑的年轻人留着 {argument name=\"hair color\" default=\"深棕色\"} 的短发，戴着圆圆的大眼镜，在户外背着一个黑色斜挎包，包里装着一只无毛斯芬克斯猫。画面左侧为人物特写，他穿着黑色连帽衫或夹克，张嘴开心地笑着，眼睛明亮闪烁，仿佛正在自拍。他的右手举在右上角，拉着一根黄色的牵引绳。斯芬克斯猫位于画面中心，蜷缩在前面的斜挎包里，有着非常大的耳朵、淡粉色的褶皱皮肤、大而有光泽的蓝灰色眼睛，表情平静且略带好奇。猫咪穿着一件温暖的棕色毛衣，上面有细小的彩色五彩纸屑图案，并戴着黄色的项圈或背带。背景展示了现代交通枢纽或大型公共建筑的外部，有着弯曲的钢梁和玻璃，天空呈现柔和的蓝色。在上方中心附近添加一个装饰性浮动标志，框内带有可爱的中文文字“带皮子出去玩”。加入柔和的粉彩闪光、小爱心、爪印装饰、星星形状，并在左下角添加微妙的镜头光晕，营造出温暖俏皮的氛围。线条干净利落，阴影柔和，灯光呈粉彩色，眼镜和眼睛带有光泽感，呈现出治愈系的日常动漫美学，是一幅极具吸引力的社交媒体插画。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "与斯芬克斯猫的动漫自拍：此提示词可生成一张精致的动漫风格自拍，描绘了一位年轻人带着斯芬克斯猫在户外的情景，非常适合可爱的宠物主题社交媒体帖子或角色插画。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "centered",
+        "close-up",
+        "vertical"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [
+        "lens"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, close-up, vertical]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[参考光线镜头: lens]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14891",
+      "15795",
+      "14984",
+      "14623",
+      "14008",
+      "14435"
+    ]
+  }
+}

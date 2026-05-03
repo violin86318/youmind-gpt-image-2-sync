@@ -1,0 +1,41 @@
+{
+  "id": "13848",
+  "prompt": "{\n  \"type\": \"live stream interface mockup\",\n  \"scene\": {\n    \"subject\": \"{argument name=\\\"subject description\\\" default=\\\"young Asian male architect wearing glasses and a brown canvas apron\\\"}\",\n    \"action\": \"focused on building a detailed white architectural scale model of a modern house using tweezers\",\n    \"setting\": \"dimly lit design studio, green cutting mat, desk lamp, architectural blueprints on the wall in the background\"\n  },\n  \"ui_elements\": {\n    \"top_left\": {\n      \"profile\": \"avatar, username '{argument name=\\\"username\\\" default=\\\"建筑师阿凯\\\"}', stats '2.3万本场点赞', pink '关注' button\",\n      \"ranking\": \"yellow flame icon '小时榜第6名'\"\n    },\n    \"top_right\": {\n      \"viewers\": \"4 user avatars, count '2336', 'X' close button\",\n      \"ranking_link\": \"pink dot '更多直播 >', '抖音直播榜 专业设计师榜' with bar chart icon\"\n    },\n    \"mid_left_overlay\": {\n      \"title\": \"正在做：\",\n      \"subtitle\": \"{argument name=\\\"current task\\\" default=\\\"山地住宅概念模型\\\"}\",\n      \"bullet_points_count\": 4,\n      \"bullet_points\": [\n        \"· 场地分析\",\n        \"· 体块推敲\",\n        \"· 材料搭建\",\n        \"· 细节刻画\"\n      ]\n    },\n    \"bottom_left_chat\": {\n      \"message_count\": 6,\n      \"messages\": [\n        \"Badge 32 粉丝团 建筑小白: {argument name=\\\"chat message 1\\\" default=\\\"这个模型比例是多大呀？\\\"}\",\n        \"Badge 7 清风徐来: 太厉害了，细节好棒！\",\n        \"Badge 11 回笙: 用的什么材料呀？\",\n        \"主播 {argument name=\\\"username\\\" default=\\\"建筑师阿凯\\\"}: {argument name=\\\"host reply\\\" default=\\\"主要是卡纸、泡沫板、和balsa木，等会会展示👍\\\"}\",\n        \"Badge 26 设计师文文: 这个设计好治愈🌿\",\n        \"Badge 5 一只奶盖: 学到了，感谢分享！\"\n      ]\n    },\n    \"bottom_right_interactions\": \"floating colorful icons including hearts, thumbs up, and smiley faces\",\n    \"bottom_bar\": \"input field '说点什么...', smiley icon, yellow shopping cart icon, pink heart icon, pink gift box icon, '...' icon\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"直播界面模型\",\n  \"scene\": {\n    \"subject\": \"{argument name=\\\"subject description\\\" default=\\\"戴眼镜、穿棕色帆布围裙的年轻亚裔男建筑师\\\"}\",\n    \"action\": \"专注于使用镊子制作一个现代住宅的白色建筑比例模型\",\n    \"setting\": \"光线昏暗的设计工作室，绿色切割垫，台灯，背景墙上贴有建筑蓝图\"\n  },\n  \"ui_elements\": {\n    \"top_left\": {\n      \"profile\": \"头像，用户名 '{argument name=\\\"username\\\" default=\\\"建筑师阿凯\\\"}'，数据 '2.3万本场点赞'，粉色 '关注' 按钮\",\n      \"ranking\": \"黄色火焰图标 '小时榜第6名'\"\n    },\n    \"top_right\": {\n      \"viewers\": \"4 个用户头像，人数 '2336'，'X' 关闭按钮\",\n      \"ranking_link\": \"粉色圆点 '更多直播 >'，'抖音直播榜 专业设计师榜' 及柱状图图标\"\n    },\n    \"mid_left_overlay\": {\n      \"title\": \"正在做：\",\n      \"subtitle\": \"{argument name=\\\"current task\\\" default=\\\"山地住宅概念模型\\\"}\",\n      \"bullet_points_count\": 4,\n      \"bullet_points\": [\n        \"· 场地分析\",\n        \"· 体块推敲\",\n        \"· 材料搭建\",\n        \"· 细节刻画\"\n      ]\n    },\n    \"bottom_left_chat\": {\n      \"message_count\": 6,\n      \"messages\": [\n        \"勋章 32 粉丝团 建筑小白: {argument name=\\\"chat message 1\\\" default=\\\"这个模型比例是多大呀？\\\"}\",\n        \"勋章 7 清风徐来: 太厉害了，细节好棒！\",\n        \"勋章 11 回笙: 用的什么材料呀？\",\n        \"主播 {argument name=\\\"username\\\" default=\\\"建筑师阿凯\\\"}: {argument name=\\\"host reply\\\" default=\\\"主要是卡纸、泡沫板、和 balsa 木，等会会展示👍\\\"}\",\n        \"勋章 26 设计师文文: 这个设计好治愈🌿\",\n        \"勋章 5 一只奶盖: 学到了，感谢分享！\"\n      ]\n    },\n    \"bottom_right_interactions\": \"浮动的彩色图标，包括爱心、点赞和笑脸\",\n    \"bottom_bar\": \"输入框 '说点什么...'，笑脸图标，黄色购物车图标，粉色爱心图标，粉色礼盒图标，'...' 图标\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "建筑师直播界面 UI 模型：生成一个真实的建筑师制作比例模型的直播界面，包含可自定义的聊天消息和任务浮层。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13601",
+      "13777",
+      "14649",
+      "13752",
+      "13778",
+      "13781"
+    ]
+  }
+}

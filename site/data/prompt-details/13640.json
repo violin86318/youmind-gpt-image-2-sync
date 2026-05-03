@@ -1,0 +1,42 @@
+{
+  "id": "13640",
+  "prompt": "{\n  \"type\": \"infographic dashboard\",\n  \"style\": \"corporate presentation slide, dense information layout, flat design\",\n  \"header\": {\n    \"left_title\": \"{argument name=\\\"main title\\\" default=\\\"ChatGPTに『gpt-image-2』は来たのか？\\\"}\",\n    \"right_subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"公式確認で読む ChatGPT Images / GPT Image 1.5 曼荼羅\\\"}\",\n    \"background_color\": \"{argument name=\\\"theme color 1\\\" default=\\\"dark blue\\\"}\"\n  },\n  \"layout\": {\n    \"columns\": 3,\n    \"sections\": [\n      {\n        \"id\": 1,\n        \"title\": \"① 噂の整理 / 公式名称\",\n        \"color\": \"{argument name=\\\"theme color 2\\\" default=\\\"red\\\"}\",\n        \"content_type\": \"3 bullet points\"\n      },\n      {\n        \"id\": 2,\n        \"title\": \"② 進化タイムライン\",\n        \"color\": \"gold\",\n        \"content_type\": \"3 timeline bullet points\"\n      },\n      {\n        \"id\": 3,\n        \"title\": \"③ 小さい文字・レイアウト・説明図\",\n        \"color\": \"blue\",\n        \"content_type\": \"2 embedded images showing text document and icon grid\"\n      },\n      {\n        \"id\": 4,\n        \"title\": \"④ ChatGPTでの操作フロー\",\n        \"color\": \"green\",\n        \"content_type\": \"UI mockups showing chat interface and dog image\"\n      },\n      {\n        \"id\": \"central\",\n        \"title\": \"中央結論：なにが『凄い』のか\",\n        \"color\": \"dark blue\",\n        \"subtitle\": \"{argument name=\\\"central conclusion\\\" default=\\\"“綺麗な絵”から“使える画像生成”へ軸足が移った\\\"}\",\n        \"content_type\": \"2 columns of 4 bullet points each\"\n      },\n      {\n        \"id\": 5,\n        \"title\": \"⑤ 編集の強さ：保持しながら変える\",\n        \"color\": \"red\",\n        \"content_type\": \"3 sequential images showing photo editing progression\"\n      },\n      {\n        \"id\": 6,\n        \"title\": \"⑥ 何が改善したか：比較で見る\",\n        \"color\": \"gold\",\n        \"content_type\": \"6 comparison images (This time vs Before) for posters, crowds, textures\"\n      },\n      {\n        \"id\": 7,\n        \"title\": \"⑦ API / 実務で刺さる理由\",\n        \"color\": \"blue\",\n        \"content_type\": \"3 bullet points\"\n      },\n      {\n        \"id\": 8,\n        \"title\": \"⑧ 制約・地雷・過信禁止ポイント\",\n        \"color\": \"red\",\n        \"content_type\": \"3 bullet points\"\n      },\n      {\n        \"id\": 9,\n        \"title\": \"⑨ 安全・出所・ガバナンス\",\n        \"color\": \"gold\",\n        \"content_type\": \"3 bullet points\"\n      },\n      {\n        \"id\": 10,\n        \"title\": \"⑩ ソース要約 / 読み筋\",\n        \"color\": \"dark blue\",\n        \"content_type\": \"list of 7 sources and a summary box\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"信息图仪表板\",\n  \"style\": \"企业演示 Slides，密集信息布局，扁平化设计\",\n  \"header\": {\n    \"left_title\": \"{argument name=\\\"main title\\\" default=\\\"ChatGPT 是否迎来了『gpt-image-2』？\\\"}\",\n    \"right_subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"通过官方确认解读 ChatGPT Images / GPT Image 1.5 曼荼罗\\\"}\",\n    \"background_color\": \"{argument name=\\\"theme color 1\\\" default=\\\"深蓝色\\\"}\"\n  },\n  \"layout\": {\n    \"columns\": 3,\n    \"sections\": [\n      {\n        \"id\": 1,\n        \"title\": \"① 传闻梳理 / 官方名称\",\n        \"color\": \"{argument name=\\\"theme color 2\\\" default=\\\"红色\\\"}\",\n        \"content_type\": \"3 个要点\"\n      },\n      {\n        \"id\": 2,\n        \"title\": \"② 进化时间轴\",\n        \"color\": \"金色\",\n        \"content_type\": \"3 个时间轴要点\"\n      },\n      {\n        \"id\": 3,\n        \"title\": \"③ 小字、布局与说明图\",\n        \"color\": \"蓝色\",\n        \"content_type\": \"2 张展示文本文档和图标网格的嵌入式图像\"\n      },\n      {\n        \"id\": 4,\n        \"title\": \"④ ChatGPT 操作流程\",\n        \"color\": \"绿色\",\n        \"content_type\": \"展示聊天界面和狗图像的 UI 模型\"\n      },\n      {\n        \"id\": \"central\",\n        \"title\": \"核心结论：究竟『厉害』在哪里\",\n        \"color\": \"深蓝色\",\n        \"subtitle\": \"{argument name=\\\"central conclusion\\\" default=\\\"重心从“精美图片”转向“实用图像生成”\\\"}\",\n        \"content_type\": \"2 列，每列 4 个要点\"\n      },\n      {\n        \"id\": 5,\n        \"title\": \"⑤ 编辑能力：在保持原样中进行修改\",\n        \"color\": \"红色\",\n        \"content_type\": \"3 张展示照片编辑过程的连续图像\"\n      },\n      {\n        \"id\": 6,\n        \"title\": \"⑥ 改进之处：对比分析\",\n        \"color\": \"金色\",\n        \"content_type\": \"6 张对比图像（本次 vs 之前），涵盖海报、人群、纹理\"\n      },\n      {\n        \"id\": 7,\n        \"title\": \"⑦ API / 实际业务中的核心价值\",\n        \"color\": \"蓝色\",\n        \"content_type\": \"3 个要点\"\n      },\n      {\n        \"id\": 8,\n        \"title\": \"⑧ 限制、雷区与切忌盲目信任的要点\",\n        \"color\": \"红色\",\n        \"content_type\": \"3 个要点\"\n      },\n      {\n        \"id\": 9,\n        \"title\": \"⑨ 安全、出处与治理\",\n        \"color\": \"金色\",\n        \"content_type\": \"3 个要点\"\n      },\n      {\n        \"id\": 10,\n        \"title\": \"⑩ 来源汇总 / 阅读指南\",\n        \"color\": \"深蓝色\",\n        \"content_type\": \"7 个来源列表及一个总结框\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复杂 AI 模型分析信息图：生成一份高度详细的 3 列演示 Slides，通过 10 个不同部分和嵌入式对比图像来分析 AI 模型功能。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "grid"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14403",
+      "14695",
+      "14457",
+      "15438",
+      "15468",
+      "14581"
+    ]
+  }
+}

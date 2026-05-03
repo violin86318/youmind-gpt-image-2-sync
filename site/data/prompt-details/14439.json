@@ -1,0 +1,48 @@
+{
+  "id": "14439",
+  "prompt": "A cinematic ultra-detailed wide-angle cityscape of {argument name=\"city name\" default=\"Mumbai\"} reimagined as a futuristic megacity at sunset, viewed from an elevated overlook above the coastline. The skyline is packed with dozens of towering futuristic skyscrapers of varied silhouettes, including 6 especially prominent supertall towers with sleek glass facades, sharp angular forms, and neon accents, mixed with dense mid-rise urban buildings below. On the right side, a long sea bridge resembling the Bandra-Worli Sea Link curves dramatically from the foreground into the distance over calm coastal water, with flowing streams of headlights and taillights. The sun sits low near the horizon over the Arabian Sea, casting glowing golden reflections across the water and bathing the scene in intense orange, amber, pink, and magenta light under richly layered clouds. In the lower left foreground, include a grand historic domed building inspired by South Mumbai heritage architecture, warmly illuminated, juxtaposed against the futuristic skyline; above it, add a hovering circular UFO-like platform with blue light. Also place 2 visible illuminated billboards in the lower-left and center-right urban area: one large sign reading \"MUMBAI\", \"मुंबई\", and \"THE CITY OF DREAMS\", and one smaller sign reading \"NAVI MUMBAI\". Add 1 small flying vehicle or drone near the central towers. Place large clean white uppercase text near the top center reading {argument name=\"top text\" default=\"CHATGPT\"}. The overall mood is epic, aspirational, glossy, highly detailed, vibrant, cinematic sci-fi urban fantasy, with atmospheric haze, glowing windows, reflective glass, dramatic contrast, and a polished concept-art finish.",
+  "translatedPrompt": "一张电影级、超精细的广角城市景观图，将 {argument name=\"city name\" default=\"Mumbai\"} 重新构想为日落时分的未来主义超级城市，视角位于海岸线上方的俯瞰点。天际线密布着数十座轮廓各异的未来主义摩天大楼，其中包括 6 座格外显眼的超高层塔楼，它们拥有光滑的玻璃幕墙、锐利的几何造型和霓虹灯点缀，与下方密集的城市中层建筑交织在一起。在右侧，一座类似于班德拉-沃里海湾大桥（Bandra-Worli Sea Link）的长跨海大桥从前景戏剧性地延伸至远方平静的海岸水域，桥上车流汇聚成流动的头灯和尾灯光带。太阳低悬在阿拉伯海上方的地平线附近，在水面上投射出金色的光辉，使整个场景沐浴在浓郁的橙色、琥珀色、粉色和洋红色的光影中，云层层次丰富。在左下角前景处，加入一座受南孟买历史建筑启发、灯光温暖的宏伟圆顶建筑，与未来主义天际线形成鲜明对比；在其上方，添加一个带有蓝色灯光的悬浮圆形 UFO 平台。此外，在左下角和中右侧的城市区域放置 2 个可见的照明广告牌：一个大型标志，上面写着 \"MUMBAI\"、\"मुंबई\" 和 \"THE CITY OF DREAMS\"，另一个较小的标志写着 \"NAVI MUMBAI\"。在中央塔楼附近添加 1 个小型飞行器或无人机。在顶部中央放置醒目、整洁的白色大写文字 {argument name=\"top text\" default=\"CHATGPT\"}。整体氛围宏大、充满抱负、光泽感强、细节丰富，呈现出充满大气霾感、窗户发光、玻璃反射、对比鲜明且精致的概念艺术风格，属于科幻城市幻想题材。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "未来主义风格孟买日落天际线：一个电影级科幻城市景观提示词，用于生成孟买未来主义日落天际线，包含沿海大桥车流、密集摩天大楼以及醒目的标题文字。",
+      "subject": "空间",
+      "scene": "海报/封面",
+      "composition": [
+        "layered"
+      ],
+      "style": [
+        "cinematic",
+        "sci-fi",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered]。\n\nVisual style:\n[参考风格: cinematic, sci-fi, fantasy]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15782",
+      "14896",
+      "15734",
+      "14469",
+      "14586",
+      "15074"
+    ]
+  }
+}

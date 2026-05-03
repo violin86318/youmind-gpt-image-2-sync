@@ -1,0 +1,35 @@
+{
+  "id": "15189",
+  "prompt": "请观察照片中的元素，并为每个元素添加有意义的手绘注释。【画面里的东西】{argument name=\"画面内容\" default=\"冰美式、面包、窗边、阳光\"}【画法要求】・用白色细线，像手绘笔一样・一笔画风格，线条随意一点，不要太工整・沿着物体边缘轻轻描一圈轮廓・适当加箭头 / 虚线，引导视线【文字风格】・中文手写感，偏口语一点・句子要短，像随手写的・语气像日常碎碎念 / 小情绪【小装饰】・可以加一点点：热气、小星星、爱心、简单表情",
+  "translatedPrompt": "请观察照片中的元素，并为每个元素添加富有意义的手绘标注。[视觉元素] {argument name=\"visual elements\" default=\"冰美式，面包，窗边，阳光\"} [绘画要求] - 使用细白线条，呈现手绘笔触 - 单线绘图风格，线条应随性，不必过于工整 - 沿着物体边缘轻轻勾勒轮廓 - 适当添加箭头或虚线以引导视觉焦点 [文字风格] - 中文手写感，更口语化 - 句子应简短，如同随手写下 - 语气如同日常闲聊或小情绪 [小装饰] - 可以适当添加：蒸汽、小星星、爱心、简单的表情符号",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "手绘风格照片标注：一个用于 GPT Image 2 的复杂提示词，旨在分析照片并添加时尚的手绘风格标注与评论。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "15168",
+  "prompt": "Classic Bathtime Portrait of a {argument name=\"subject\" default=\"Chicken\"} in a Miniature Clawfoot Tub\n\nAn anime-style chicken mid-leap with a tiny {argument name=\"weapon\" default=\"katana\"} in its wing, slashing through drifting sakura petals. The background is a blurred pastel forest of blooming cherry blossoms. The chicken wears a {argument name=\"clothing\" default=\"mint-green ninja scarf\"} fluttering behind, and the light glows with soft pink and gold.",
+  "translatedPrompt": "在迷你猫脚浴缸中沐浴的 {argument name=\"subject\" default=\"小鸡\"} 经典肖像\n\n一只动漫风格的小鸡正在半空中跃起，翅膀中握着一把微型 {argument name=\"weapon\" default=\"武士刀\"}，挥刀斩落飘散的樱花花瓣。背景是模糊的粉彩樱花林。小鸡佩戴着一条在身后飘动的 {argument name=\"clothing\" default=\"薄荷绿忍者围巾\"}，光影呈现出柔和的粉色与金色。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "武士鸡沐浴肖像：一个动漫风格的提示词，描绘了一只身处樱花丛中、手持武士刀的战士鸡，融合了可爱与动作元素。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13739",
+      "14731",
+      "13866",
+      "14862",
+      "15177",
+      "15591"
+    ]
+  }
+}

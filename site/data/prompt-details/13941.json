@@ -1,0 +1,43 @@
+{
+  "id": "13941",
+  "prompt": "{\n  \"type\": \"idol unit setting material collection\",\n  \"unit_details\": {\n    \"name\": \"{argument name=\\\"unit name\\\" default=\\\"Lumière Noir\\\"}\",\n    \"concept\": \"{argument name=\\\"unit style\\\" default=\\\"Classical x Academic x Monotone\\\"}\",\n    \"catchphrase\": \"{argument name=\\\"catchphrase\\\" default=\\\"白と黒のあわいで、感情は歌になる。\\\"}\",\n    \"uniform\": \"{argument name=\\\"uniform description\\\" default=\\\"white tailored jacket, black ribbon tie, black and grey tiered check skirt\\\"}\"\n  },\n  \"layout\": {\n    \"left_sidebar\": {\n      \"sections\": [\n        \"Unit Logo and Title\",\n        \"Group Illustration featuring 5 members\",\n        \"Group Concept Text\",\n        \"Common Visual Specifications\",\n        \"Group Information Table\",\n        \"Group Relationship Diagram with 1 pentagon network\"\n      ]\n    },\n    \"main_content\": {\n      \"title\": \"MEMBER PROFILE\",\n      \"columns\": 5,\n      \"shared_elements_per_column\": [\n        \"Member ID (M1 to M5) and Name\",\n        \"3 descriptive keywords\",\n        \"Image Color and Motif\",\n        \"2 full-body views (front and back)\",\n        \"2 headshots (front and side)\",\n        \"Profile Stats Table\",\n        \"Character Setting Text\",\n        \"Stage Role Text\",\n        \"Direction Text\",\n        \"1 Keyword Mood Image\"\n      ],\n      \"members\": [\n        { \"id\": \"M1\", \"hair\": \"short black hair\", \"color\": \"silver-gray\" },\n        { \"id\": \"M2\", \"hair\": \"long straight black hair\", \"color\": \"white-navy\" },\n        { \"id\": \"M3\", \"hair\": \"short black bob\", \"color\": \"pearl-mauve\" },\n        { \"id\": \"M4\", \"hair\": \"black twin tails\", \"color\": \"milky-white\" },\n        { \"id\": \"M5\", \"hair\": \"long wavy black hair\", \"color\": \"smoky-black\" }\n      ]\n    },\n    \"middle_inserts\": {\n      \"visual_key\": \"1 full-body model with 5 callout labels for uniform parts\",\n      \"hair_and_accessory\": \"3 accessory illustrations\",\n      \"color_palette\": \"5 color swatches\"\n    },\n    \"bottom_footer\": {\n      \"sections\": [\n        \"SUITABLE MUSIC\",\n        \"CATCH COPY\",\n        \"UNIT IMAGE with 3 small mood board photos\",\n        \"DESIGN NOTES\"\n      ]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"偶像组合设定集\",\n  \"unit_details\": {\n    \"name\": \"{argument name=\\\"unit name\\\" default=\\\"Lumière Noir\\\"}\",\n    \"concept\": \"{argument name=\\\"unit style\\\" default=\\\"古典 x 学术 x 单色调\\\"}\",\n    \"catchphrase\": \"{argument name=\\\"catchphrase\\\" default=\\\"白と黒のあわいで、感情は歌になる。\\\"}\",\n    \"uniform\": \"{argument name=\\\"uniform description\\\" default=\\\"白色修身西装外套，黑色丝带领结，黑灰格纹层叠裙\\\"}\"\n  },\n  \"layout\": {\n    \"left_sidebar\": {\n      \"sections\": [\n        \"组合 Logo 与标题\",\n        \"5 人组合插画\",\n        \"组合概念文案\",\n        \"通用视觉规格\",\n        \"组合信息表\",\n        \"包含 1 个五边形网络图的组合关系图\"\n      ]\n    },\n    \"main_content\": {\n      \"title\": \"成员档案\",\n      \"columns\": 5,\n      \"shared_elements_per_column\": [\n        \"成员 ID (M1 至 M5) 与姓名\",\n        \"3 个描述性关键词\",\n        \"代表色与主题元素\",\n        \"2 张全身视图（正面与背面）\",\n        \"2 张头像（正面与侧面）\",\n        \"个人属性表\",\n        \"角色设定文案\",\n        \"舞台定位文案\",\n        \"指导文案\",\n        \"1 张关键词氛围图\"\n      ],\n      \"members\": [\n        { \"id\": \"M1\", \"hair\": \"黑色短发\", \"color\": \"银灰色\" },\n        { \"id\": \"M2\", \"hair\": \"黑色长直发\", \"color\": \"白海军蓝\" },\n        { \"id\": \"M3\", \"hair\": \"黑色短波波头\", \"color\": \"珍珠紫红\" },\n        { \"id\": \"M4\", \"hair\": \"黑色双马尾\", \"color\": \"乳白色\" },\n        { \"id\": \"M5\", \"hair\": \"黑色长卷发\", \"color\": \"烟黑色\" }\n      ]\n    },\n    \"middle_inserts\": {\n      \"visual_key\": \"1 个带有 5 个制服部件标注的全身模型\",\n      \"hair_and_accessory\": \"3 个配饰插图\",\n      \"color_palette\": \"5 个色卡\"\n    },\n    \"bottom_footer\": {\n      \"sections\": [\n        \"适合音乐\",\n        \"宣传标语\",\n        \"包含 3 张小型氛围板照片的组合形象\",\n        \"设计说明\"\n      ]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "偶像组合概念参考表：为 5 人偶像组合生成一份高度详细的多栏参考表，包括角色三视图、属性、组合关系图以及制服设计说明。",
+      "subject": "信息结构",
+      "scene": "人物/角色",
+      "composition": [
+        "full-body",
+        "callout"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body, callout]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13880",
+      "14445",
+      "15675",
+      "15677",
+      "14607",
+      "14979"
+    ]
+  }
+}

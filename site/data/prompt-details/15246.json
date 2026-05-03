@@ -1,0 +1,51 @@
+{
+  "id": "15246",
+  "prompt": "A high-end studio editorial portrait, half-body framing, featuring a {argument name=\"subject gender\" default=\"woman\"} in her mid-30s to early 40s with a naturally fit build. She stands facing the camera in a relaxed, confident pose with both hands tucked into her pants pockets, shoulders soft, posture upright, and a calm neutral self-assured expression. She has shoulder-length to slightly longer dark brown wavy hair with a natural side part and loose volume. She wears 3 visible clothing pieces: an olive green lightweight casual jacket with a slightly worn cotton texture, zip front and a single chest flap pocket; a plain dark charcoal or black crew-neck t-shirt underneath; and dark fitted pants with a black belt and simple square buckle. Shot at eye level with an 85mm portrait lens, shallow depth of field around f/2.8, keeping the subject crisp and detailed while the background falls softly out of focus. Use professional studio lighting with 3 clear light components: 1 softbox key light from the front, 1 subtle fill light to soften shadows, and 1 gentle rim light from behind to separate the hair and shoulders from the backdrop. Background is a seamless clean studio backdrop with a warm beige-to-taupe neutral gradient, smooth and distraction-free. The overall image should feel highly realistic, polished, and modern, like an understated fashion campaign or lifestyle magazine portrait. Natural balanced color grading, realistic skin tones, ultra-detailed fabric texture and hair strands, no noise, no motion blur, no stylization, no cartoon elements, no anatomical distortions, 8K quality.",
+  "translatedPrompt": "一张高端摄影棚时尚杂志风格肖像，半身构图，主角为一位 {argument name=\"subject gender\" default=\"女性\"}，年龄在 30 岁中期至 40 岁出头，身材匀称。她面对镜头，姿态放松自信，双手插在裤兜里，双肩自然下垂，体态挺拔，表情平静、中性且充满自信。她留着齐肩或稍长的深棕色波浪卷发，自然侧分，发量蓬松。身着 3 件可见服饰：一件橄榄绿色轻便休闲夹克，带有轻微磨损的棉质纹理，前襟拉链，胸前有一个翻盖口袋；内搭一件纯色深炭灰色或黑色圆领 T 恤；下身穿着深色修身长裤，配有黑色腰带和简约方形扣。采用 85mm 人像镜头平视拍摄，光圈 f/2.8 营造浅景深，使主体清晰细腻，背景柔和虚化。使用专业摄影棚布光，包含 3 种明确的光源：1 个正面柔光箱主光，1 个柔和阴影的补光灯，以及 1 个从后方照射的轻微轮廓光，以勾勒发丝和肩部轮廓，使其与背景分离。背景为无缝纯净摄影棚背景，呈现暖米色至灰褐色的中性渐变，平滑且无干扰。整体图像应具有高度的真实感、精致感和现代感，如同低调的时尚广告或生活方式杂志肖像。色彩分级自然平衡，肤色真实，织物纹理和发丝细节丰富，无噪点，无运动模糊，无风格化处理，无卡通元素，无解剖结构畸变，8K 画质。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "橄榄绿夹克时尚杂志风格肖像：此提示词可生成逼真的半身时尚摄影肖像，采用低调休闲的造型，适用于杂志头像、生活方式广告及专业肖像对比。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "editorial",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting",
+        "rim light",
+        "shallow depth",
+        "depth of field",
+        "lens",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, editorial, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting, rim light, shallow depth, depth of field, lens, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15523",
+      "15764",
+      "15010",
+      "15243",
+      "15644",
+      "14416"
+    ]
+  }
+}

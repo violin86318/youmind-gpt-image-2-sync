@@ -1,0 +1,38 @@
+{
+  "id": "13520",
+  "prompt": "一幅超现实主义数字插画风格，采用低角度仰拍视角。画面描绘了一条{argument name=\"主体\" default=\"巨型彩色锦鲤\"}遨游在梦幻般的星云中，四周环绕着色彩鲜艳的星云与气泡。 画面中央还站着一个小人，背对观众，神情平静地仰望空中这条巨大的锦鲤，锦鲤头向下看着小人。 整体画面呈现出强烈的大小对比，氛围空灵又梦幻。比例9:16",
+  "translatedPrompt": "一种超现实主义数字插画风格，使用 {argument name=\"camera angle\" default=\"低角度拍摄\"}。画面描绘了一条巨型彩色 {argument name=\"subject\" default=\"锦鲤\"} 在梦幻般的星云中游动，周围环绕着色彩鲜艳的星云和气泡。画面中央站着一个背对观众的小人，正平静地仰望着天空中的巨型锦鲤，而锦鲤则俯视着那个人。整体画面展现出强烈的尺寸对比，营造出空灵且梦幻的氛围。长宽比 {argument name=\"aspect ratio\" default=\"9:16\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "超现实主义锦鲤插画提示词：一个关于超现实主义数字插画的提示词，画面描绘了一条在星云中游动的巨型彩色锦鲤，并以微小的人类形象作为比例参照。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13610",
+      "13646",
+      "13686",
+      "13687",
+      "13702"
+    ]
+  }
+}

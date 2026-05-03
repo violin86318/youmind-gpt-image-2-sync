@@ -1,0 +1,41 @@
+{
+  "id": "13763",
+  "prompt": "A black and white infrared trail camera photo taken at night in a dense coniferous forest. In the foreground on the left, a large black bear is walking past, appearing slightly motion-blurred. In the center of the clearing, there is a perfectly circular, dark, barren patch of dirt on the forest floor. Hovering just above the ground at the far edge of this dark circle is a bright, glowing, spherical orb of light. The image features a grainy night vision aesthetic with visible underbrush, pine tree trunks, and a tree stump in the bottom right corner. A black data bar runs across the bottom edge containing white text: on the far left, an oval logo reading \"{argument name=\"camera brand\" default=\"RECONYX\"}\", followed by the timestamp \"{argument name=\"timestamp\" default=\"03:14:22 11-OCT-2023\"}\", then \"{argument name=\"temperature\" default=\"TEMP: 4°C\"}\", and on the far right, \"{argument name=\"trigger info\" default=\"TRIGGER: MOTION DUAL TRIGGER\"}\".",
+  "translatedPrompt": "一张在深夜针叶林中拍摄的黑白红外相机照片。前景左侧，一只巨大的黑熊正走过，带有轻微的动态模糊。林间空地中央，地面上有一块完美的圆形、黑暗且贫瘠的泥土地。在那片黑暗圆圈的最边缘，离地悬浮着一个明亮、发光的球体。图像呈现出颗粒感的夜视美学，可以看到底部的灌木丛、松树树干以及右下角的树桩。底部边缘有一条黑色数据栏，上面印有白色文字：最左侧是一个椭圆形标志，写着“{argument name=\"camera brand\" default=\"RECONYX\"}”，接着是时间戳“{argument name=\"timestamp\" default=\"03:14:22 11-OCT-2023\"}”，然后是“{argument name=\"temperature\" default=\"TEMP: 4°C\"}”，最右侧是“{argument name=\"trigger info\" default=\"TRIGGER: MOTION DUAL TRIGGER\"}”。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "超自然红外相机抓拍：生成一张带有野生动物、神秘发光球体以及逼真相机数据叠加层的惊悚红外相机照片。",
+      "subject": "文字符号",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "B2B 产品概念图、后台系统、数据看板",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14497",
+      "13492",
+      "13503",
+      "15391",
+      "13458",
+      "15389"
+    ]
+  }
+}

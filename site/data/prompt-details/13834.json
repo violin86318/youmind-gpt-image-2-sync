@@ -1,0 +1,43 @@
+{
+  "id": "13834",
+  "prompt": "A cinematic, high-quality advertisement poster featuring two older Asian men sitting at a rustic wooden table in a warmly lit, moody environment. The man on the left has grey hair and a mustache, smiling enthusiastically, holding one glass of dark soda with a Pepsi logo. The man on the right has short hair and round glasses, looking forward with a subtle smile, holding one glass of dark soda with a Coca-Cola logo. Between them is one large, steaming dark ceramic pot filled with {argument name=\"dish description\" default=\"braised green beans and pork belly\"}. On the table in the front left is one blue Pepsi can, and on the front right is one red Coca-Cola can. The poster features elegant, bold Chinese typography. At the top, a collaboration logo of Pepsi and Coca-Cola sits above the main headline {argument name=\"main headline\" default=\"炖豆角 可乐\"}. Vertical text on the left reads {argument name=\"left character text\" default=\"赵本山 饰 马大帅 倾情代言\"}. Vertical text on the right reads {argument name=\"right character text\" default=\"范伟 饰 彪哥 倾情代言\"}. At the bottom center, an ornate badge contains the tagline {argument name=\"bottom tagline\" default=\"东北硬菜 遇见经典\"}, with smaller fine print below it. The lighting is dramatic, highlighting the steam rising from the food and the condensation on the cold drinks.",
+  "translatedPrompt": "一张电影感十足的高质量广告海报，画面中两位年长的亚洲男性坐在质朴的木桌旁，环境光影氛围浓郁且温暖。左侧男子留着灰白头发和胡须，正热情地微笑着，手中拿着一杯带有 Pepsi 标志的深色汽水。右侧男子留着短发，戴着圆框眼镜，神情淡定地看向前方，手中拿着一杯带有 Coca-Cola 标志的深色汽水。两人中间放着一个巨大的、热气腾腾的深色陶锅，里面盛着 {argument name=\"dish description\" default=\"炖豆角配五花肉\"}。桌子左前方放着一罐蓝色 Pepsi，右前方放着一罐红色 Coca-Cola。海报采用了优雅且醒目的中文字体。顶部是 Pepsi 与 Coca-Cola 的联名标志，下方是主标题 {argument name=\"main headline\" default=\"炖豆角 可乐\"}。左侧竖排文字为 {argument name=\"left character text\" default=\"赵本山 饰 马大帅 倾情代言\"}。右侧竖排文字为 {argument name=\"right character text\" default=\"范伟 饰 彪哥 倾情代言\"}。底部中央的精美徽章内印有标语 {argument name=\"bottom tagline\" default=\"东北硬菜 遇见经典\"}，下方配有较小的说明文字。灯光效果极具戏剧性，突显了食物升腾的热气以及冷饮杯壁上的水珠。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影感餐饮联名海报：生成一张极具戏剧张力的高质量广告海报，展示两位角色共同用餐及竞争饮料品牌，并配有可自定义的排版设计。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "cinematic"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: cinematic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14416",
+      "14828",
+      "15627",
+      "14462",
+      "14505",
+      "14518"
+    ]
+  }
+}

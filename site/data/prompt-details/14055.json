@@ -1,0 +1,44 @@
+{
+  "id": "14055",
+  "prompt": "{\n  \"type\": \"promotional poster advertisement\",\n  \"theme\": \"{argument name=\\\"band theme\\\" default=\\\"anime rock band\\\"} beverage collaboration\",\n  \"text_elements\": {\n    \"top_left_badge\": \"数量限定\",\n    \"top_right\": \"LIMITED DROP\",\n    \"main_headline\": \"{argument name=\\\"main headline\\\" default=\\\"感情、弾けろ。\\\"}\",\n    \"sub_headline\": \"{argument name=\\\"sub headline\\\" default=\\\"その一口が、ステージになる。\\\"}\",\n    \"bottom_text\": \"ライブの余韻、そのままに。\"\n  },\n  \"layout\": {\n    \"upper_section\": {\n      \"description\": \"5 anime girls in matching black leather punk rock outfits performing on a fiery stage\",\n      \"characters\": [\n        {\"position\": \"far left\", \"appearance\": \"blonde twin tails, holding drumsticks, smiling\"},\n        {\"position\": \"mid-left\", \"appearance\": \"long black hair, holding a blue electric guitar\"},\n        {\"position\": \"center\", \"appearance\": \"red hair, singing into a microphone, wearing a red plaid tie\"},\n        {\"position\": \"mid-right\", \"appearance\": \"dark hair, wearing a hoodie under leather jacket, holding a purple bass\"},\n        {\"position\": \"far right\", \"appearance\": \"short black hair with green highlights, holding a black electric guitar\"}\n      ]\n    },\n    \"lower_section\": {\n      \"description\": \"5 beverage cans lined up horizontally, each featuring the exact portrait of the girl standing directly above it\",\n      \"product_name\": \"{argument name=\\\"product name\\\" default=\\\"BLOOD ORANGE SPARK\\\"}\",\n      \"can_count\": 5,\n      \"surroundings\": \"splashing liquid, fiery embers, and sliced {argument name=\\\"flavor theme\\\" default=\\\"blood orange\\\"} halves floating around the cans\"\n    },\n    \"background\": \"explosive concert stage lighting with fire effects and a silhouette of a cheering crowd at the very bottom\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"宣传海报广告\",\n  \"theme\": \"{argument name=\\\"band theme\\\" default=\\\"动漫摇滚乐队\\\"} 联名饮料\",\n  \"text_elements\": {\n    \"top_left_badge\": \"数量限定\",\n    \"top_right\": \"LIMITED DROP\",\n    \"main_headline\": \"{argument name=\\\"main headline\\\" default=\\\"感情、弾けろ。\\\"}\",\n    \"sub_headline\": \"{argument name=\\\"sub headline\\\" default=\\\"その一口が、ステージになる。\\\"}\",\n    \"bottom_text\": \"ライブの余韻、そのままに。\"\n  },\n  \"layout\": {\n    \"upper_section\": {\n      \"description\": \"5 名身穿黑色皮革朋克摇滚套装的动漫少女在火热的舞台上表演\",\n      \"characters\": [\n        {\"position\": \"最左侧\", \"appearance\": \"金色双马尾，手持鼓棒，面带微笑\"},\n        {\"position\": \"左中\", \"appearance\": \"黑色长发，手持蓝色电吉他\"},\n        {\"position\": \"中央\", \"appearance\": \"红色头发，对着麦克风演唱，系着红色格子领带\"},\n        {\"position\": \"右中\", \"appearance\": \"深色头发，皮夹克内搭连帽衫，手持紫色贝斯\"},\n        {\"position\": \"最右侧\", \"appearance\": \"黑色短发挑染绿色，手持黑色电吉他\"}\n      ]\n    },\n    \"lower_section\": {\n      \"description\": \"5 罐饮料水平排列，每罐上印有正上方对应角色的肖像\",\n      \"product_name\": \"{argument name=\\\"product name\\\" default=\\\"BLOOD ORANGE SPARK\\\"}\",\n      \"can_count\": 5,\n      \"surroundings\": \"液体飞溅、火星四射，以及切开的 {argument name=\\\"flavor theme\\\" default=\\\"血橙\\\"} 半块漂浮在罐子周围\"\n    },\n    \"background\": \"充满爆发力的演唱会舞台灯光，带有火焰特效，底部有欢呼人群的剪影\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫摇滚乐队联名饮料宣传海报：生成一张包含 5 人动漫摇滚乐队及其对应角色联名饮料罐的宣传海报。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13807",
+      "14238",
+      "14468",
+      "15779",
+      "15007",
+      "14250"
+    ]
+  }
+}

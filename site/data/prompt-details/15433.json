@@ -1,0 +1,51 @@
+{
+  "id": "15433",
+  "prompt": "A cinematic, moody heist-planning scene in a dimly lit office at night, shot in a realistic thriller style. A single adult man stands with his back mostly to the camera, slightly turned in profile, writing on a huge whiteboard filled edge to edge with tactical notes, building sketches, floor plans, arrows, routes, and hand-drawn diagrams. He has wavy dark hair and wears a dark olive or charcoal casual jacket over dark trousers, giving the impression of a mastermind strategist. The whiteboard is the focal point and contains multiple readable planning areas: the top left title says \"OPERATION NIGHTHAWK\"; the left column has 3 sections labeled \"OBJECTIVE,\" \"TARGET,\" and \"TIMELINE\"; the upper right has 2 labeled diagram areas, \"ENTRY PLAN\" and \"CAMERA NETWORK\"; the lower middle-right has 4 labeled planning blocks, \"TRANSIT,\" \"EQUIPMENT,\" \"HOTEL ROUTE,\" and \"CONTINGENCIES.\" Include sketched building elevations, a rooftop access drawing, loading bay notes, room labels, arrows in black and red marker, and a small van sketch near the lower center. The room is warm and shadowy with amber practical lighting. On the left side of the frame, show a desk lamp glowing over a dark wooden desk with scattered papers, and a wall with 3 framed black-and-white photographs arranged vertically. Composition is a medium-wide over-the-shoulder shot, the man centered slightly left, the whiteboard dominating the background. High contrast, soft filmic grain, tense atmosphere, realistic textures, prestige TV crime-drama aesthetic similar to a brilliant planner preparing a robbery, but not depicting any specific copyrighted character. Add a white \"Pollo.ai\" watermark in the top-right corner.",
+  "translatedPrompt": "一幅电影感十足、氛围阴郁的劫案策划场景，背景为深夜昏暗的办公室，采用写实的惊悚片风格拍摄。一名成年男子背对镜头，侧身站立，正在一块巨大的白板上书写，白板写满了战术笔记、建筑草图、平面图、箭头、路线和手绘图表。他留着深色卷发，身穿深橄榄色或炭灰色休闲夹克，搭配深色长裤，展现出策划大师的形象。白板是视觉焦点，包含多个可读的规划区域：左上角标题写着“OPERATION NIGHTHAWK”；左侧栏分为 3 个部分，分别标注为“OBJECTIVE”（目标）、“TARGET”（目标对象）和“TIMELINE”（时间线）；右上角有 2 个标注的图表区域，分别为“ENTRY PLAN”（进入计划）和“CAMERA NETWORK”（监控网络）；中右下方有 4 个标注的规划区块，分别为“TRANSIT”（交通）、“EQUIPMENT”（装备）、“HOTEL ROUTE”（酒店路线）和“CONTINGENCIES”（应急预案）。包含建筑立面草图、屋顶通道图、装卸区笔记、房间标签、黑色和红色记号笔绘制的箭头，以及下方中心附近的一辆小型货车草图。房间光线温暖且阴影重重，带有琥珀色的实用照明。画面左侧展示了一盏台灯，照亮了摆满散乱文件的深色木质书桌，墙上垂直悬挂着 3 张黑白照片。构图为中远景过肩镜头，男子位于画面偏左中心，白板占据背景主导地位。高对比度，柔和的电影颗粒感，紧张的氛围，写实的质感，呈现出类似于天才策划者准备劫案的精品犯罪剧美学，但不描绘任何特定的受版权保护的角色。在右上角添加白色的“Pollo.ai”水印。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "白板前的电影级劫案策划大师：此提示词可生成一幅充满悬疑犯罪剧氛围的场景：一名孤胆战略家正在白板上规划劫案，非常适合用于惊悚片海报、社交媒体宣传或电影概念艺术。",
+      "subject": "信息结构",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "hand-drawn"
+      ],
+      "lightingCamera": [
+        "high contrast",
+        "camera"
+      ],
+      "text": "要求可读；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic, hand-drawn]。\n\nLighting and camera:\n[参考光线镜头: high contrast, camera]。\n\nText requirements:\n要求可读；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14808",
+      "14902",
+      "15267",
+      "15308",
+      "15766",
+      "15105"
+    ]
+  }
+}

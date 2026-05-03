@@ -1,0 +1,37 @@
+{
+  "id": "14328",
+  "prompt": "Create a screenshot of an X post by {argument name=\"company\" default=\"OpenAI\"} announcing {argument name=\"person\" default=\"Sundar Pichai\"} As their new {argument name=\"job title\" default=\"CEO\"}",
+  "translatedPrompt": "创建一个由 {argument name=\"company\" default=\"OpenAI\"} 发布的 X 推文截图，宣布 {argument name=\"person\" default=\"Sundar Pichai\"} 为其新任 {argument name=\"job title\" default=\"CEO\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "OpenAI CEO 公告模拟图：一个用于创建 OpenAI 宣布新 CEO 的虚假 X 推文截图的提示词，旨在展示该模型在文本和 UI 模拟方面的技能。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13984",
+      "14387",
+      "14782",
+      "13662",
+      "13730",
+      "13915"
+    ]
+  }
+}

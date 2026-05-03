@@ -1,0 +1,36 @@
+{
+  "id": "15553",
+  "prompt": "KUNOICHI CRISIS {argument name=\"角色名\" default=\"くノ一 ユリア\"} {argument name=\"身份\" default=\"旅芸人\"}に扮して 観客目線",
+  "translatedPrompt": "KUNOICHI CRISIS {argument name=\"character name\" default=\"Kunoichi Yulia\"}，伪装成 {argument name=\"role\" default=\"巡回表演者\"}，观众视角",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日本女忍者（Kunoichi）角色提示词：一个用于 GPT Image 2 的日语提示词，旨在从观众视角创作一名伪装成表演者的女性忍者角色。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13587",
+      "13616",
+      "13685",
+      "13715",
+      "13720",
+      "13723"
+    ]
+  }
+}

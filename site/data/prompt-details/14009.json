@@ -1,0 +1,39 @@
+{
+  "id": "14009",
+  "prompt": "A breathtaking, panoramic view of a {argument name=\"setting\" default=\"fantasy coastal city\"}. The scene is dominated by a {argument name=\"prominent landmark\" default=\"large stone castle on a hill\"} overlooking the vibrant blue ocean. Below the castle, a bustling town features {argument name=\"architecture style\" default=\"European half-timbered houses\"} with brown roofs, nestled among lush green trees and palm trees. A clear turquoise inlet flows through the center of the town, lined with stone quays, sandy beaches, and small wooden boats. In the distance, several large sailing ships navigate the deep blue sea. The sky is clear blue with fluffy white clouds on a {argument name=\"time of day\" default=\"bright sunny day\"}. The overall aesthetic is {argument name=\"art style\" default=\"highly detailed digital illustration, classic RPG concept art\"}, with vibrant colors and intricate architectural details.",
+  "translatedPrompt": "一幅令人惊叹的 {argument name=\"setting\" default=\"奇幻沿海城市\"} 全景图。画面主体是一座 {argument name=\"prominent landmark\" default=\"山顶上的大型石砌城堡\"}，俯瞰着湛蓝的海洋。城堡下方是一个繁华的城镇，拥有 {argument name=\"architecture style\" default=\"欧洲半木结构房屋\"} 和棕色屋顶，掩映在郁郁葱葱的树木和棕榈树丛中。一条清澈的绿松石色小河穿过城镇中心，河岸边是石砌码头、沙滩和小型木船。远处，几艘大型帆船在深蓝色的海面上航行。天空晴朗湛蓝，点缀着朵朵白云，呈现出 {argument name=\"time of day\" default=\"明媚晴天\"} 的景象。整体美学风格为 {argument name=\"art style\" default=\"高度精细的数字插画，经典 RPG 概念艺术\"}，色彩鲜艳，建筑细节错综复杂。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奇幻沿海城市景观：生成一幅细节丰富、充满活力的沿海城镇景观，包含一座城堡，非常适合 RPG 背景设定或奇幻世界构建。",
+      "subject": "空间",
+      "scene": "信息图/图解",
+      "composition": [],
+      "style": [
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "城市美食地图、活动导览、园区地图、旅行视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13964",
+      "14045",
+      "13486",
+      "13512",
+      "14086",
+      "14759"
+    ]
+  }
+}

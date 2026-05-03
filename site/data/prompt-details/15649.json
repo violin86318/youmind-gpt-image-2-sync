@@ -1,0 +1,53 @@
+{
+  "id": "15649",
+  "prompt": "Create a premium neumorphic smart-home and media control UI kit on a clean light gray background, arranged as a balanced dashboard-style composition of floating rounded cards and circular controls with soft extruded shadows, subtle inner highlights, frosted white surfaces, and elegant teal-and-orange accents. The overall style is minimalist, futuristic, tactile, and highly polished, like a high-end mobile interface concept. Include exactly 18 discrete UI modules and icons: 1 large circular volume knob card in the upper left with a glossy deep teal center, dotted perimeter, plus and minus symbols, and the text “VOLUME 67%”; 1 vertical volume slider card with the label “VOLUME”, a white knob, orange level bars, small speaker icons, and “67%”; 1 large circular balance dial at the top center-right with numeric markings 25, 50, 75, 100, the central value “72%”, the label “BALANCE”, and a small orange indicator dot; 1 circular compass widget in the upper right with N, E, S, W labels, a metallic teal compass needle, and a small orange accent dot on the rim; 1 smaller circular min-max knob on the left middle with a teal center, textured white dial edge, orange indicator dot, and “MIN” and “MAX” labels; 3 small circular utility buttons beneath it in one row, showing a power symbol, a connectivity or wireless symbol, and a heart outline; 1 horizontal toggle switch below those buttons with a teal knob and the text “ON”; 1 large media player card in the center with a square album cover showing abstract layered teal dunes or waves, the track title “Beyond The Horizon”, the artist name “Aurora Nights”, a heart icon in the top right, a waveform progress display, timestamps “1:45” and “3:58”, and 4 playback controls along the bottom row: shuffle, previous, central orange play button, next, and repeat; 6 rounded-square app icons in two columns on the right side, arranged in 3 rows, showing exactly these symbols: paper plane arrow, stacked layers, shield with check mark, cloud, bell with a small orange notification dot, and gear; 1 rectangular clock card at the bottom left with a circular analog clock face, large digital time “10:58 AM”, the date line “Thursday, May 23”, and sunrise/sunset times “06:15 AM” and “08:24 PM”; 1 weather card at the bottom center with the location “San Francisco”, current temperature “18°”, condition “Partly Cloudy”, high/low “H: 21°  L: 13°”, a large sun-behind-cloud illustration, and a 5-column hourly forecast labeled “11 AM”, “12 PM”, “1 PM”, “2 PM”, “3 PM”; 1 pill-shaped tab selector at the lower right with 3 tabs, where the left tab is active in teal with an audio waveform icon, and the other 2 tabs show a user icon and a folder icon; 1 search bar directly beneath it with a magnifying glass and placeholder text “Search...” ; 1 horizontal slider below the search bar with a teal progress line and a white knob; 1 large rounded CTA button at the bottom right reading “{argument name=\"button text\" default=\"EXPLORE\"}” with a right-facing orange arrow; and 5 circular bottom navigation icons centered along the bottom edge, showing home, bar chart, calendar with “23”, chat bubble, and user profile, plus 2 floating action buttons beside them: a camera icon and an orange plus sign. Use a restrained palette with white and very light gray surfaces, deep teal-green gradients for active states, and warm orange for highlights and notifications. Emphasize depth through soft ambient shadows, subtle bevels, glossy reflections, and realistic material rendering. Keep the layout spacious, symmetric but not rigid, and suitable for a luxury mobile app concept presentation.",
+  "translatedPrompt": "在干净的浅灰色背景上创建一个高端的拟态智能家居与媒体控制 UI 套件，以平衡的仪表盘风格布局排列，包含悬浮圆角卡片和带有柔和挤压阴影、细腻内部高光、磨砂白色表面以及优雅青色与橙色点缀的圆形控件。整体风格极简、具有未来感、触感真实且高度精致，如同高端移动端界面概念。包含 18 个独立的 UI 模块和图标：左上角 1 个大型圆形音量旋钮卡片，中心为深青色光泽，带有圆点边缘、加减符号以及文字“VOLUME 67%”；1 个垂直音量滑块卡片，带有“VOLUME”标签、白色旋钮、橙色电平条、小型扬声器图标和“67%”；顶部中右侧 1 个大型圆形平衡拨盘，带有 25、50、75、100 的数字刻度，中心数值为“72%”，标签为“BALANCE”，以及一个小型橙色指示点；右上角 1 个圆形指南针小部件，带有 N、E、S、W 标签、金属青色指针以及边缘的一个小型橙色强调点；左侧中部 1 个较小的圆形最小-最大旋钮，带有青色中心、纹理白色拨盘边缘、橙色指示点以及“MIN”和“MAX”标签；下方一行 3 个小型圆形功能按钮，分别显示电源符号、连接或无线符号以及心形轮廓；这些按钮下方 1 个水平切换开关，带有青色旋钮和文字“ON”；中心 1 个大型媒体播放器卡片，带有显示抽象层叠青色沙丘或波浪的方形专辑封面，曲目名称“Beyond The Horizon”，艺术家名称“Aurora Nights”，右上角心形图标，波形进度显示，时间戳“1:45”和“3:58”，以及底部一行的 4 个播放控件：随机播放、上一首、中央橙色播放按钮、下一首和循环播放；右侧两列 3 行共 6 个圆角方形应用图标，精确显示以下符号：纸飞机箭头、堆叠图层、带勾选标记的盾牌、云朵、带有小型橙色通知点的铃铛以及齿轮；左下角 1 个矩形时钟卡片，带有圆形模拟时钟表盘、大型数字时间“10:58 AM”、日期行“Thursday, May 23”以及日出/日落时间“06:15 AM”和“08:24 PM”；底部中心 1 个天气卡片，显示位置“San Francisco”、当前温度“18°”、天气状况“Partly Cloudy”、最高/最低温“H: 21° L: 13°”、大型云后太阳插图，以及标注为“11 AM”、“12 PM”、“1 PM”、“2 PM”、“3 PM”的 5 列小时预报；右下角 1 个药丸状标签选择器，包含 3 个标签，左侧标签为激活状态（青色，带音频波形图标），另外 2 个标签显示用户图标和文件夹图标；其正下方 1 个搜索栏，带有放大镜和占位符文字“Search...”；搜索栏下方 1 个水平滑块，带有青色进度线和白色旋钮；右下角 1 个大型圆角 CTA 按钮，文字为“{argument name=\"button text\" default=\"EXPLORE\"}”，并带有一个向右的橙色箭头；底部边缘居中 5 个圆形底部导航图标，分别显示主页、柱状图、带有“23”的日历、聊天气泡和用户个人资料，旁边还有 2 个悬浮操作按钮：相机图标和橙色加号。使用以白色和极浅灰色表面为主的克制色调，激活状态使用深青绿色渐变，高亮和通知使用暖橙色。通过柔和的环境阴影、细腻的斜面、光泽反射和逼真的材质渲染来强调深度。保持布局宽敞、对称但不僵硬，适合高端移动应用概念演示。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "拟态智能 UI 套件：一套精致的拟态界面项目，包含智能控件、媒体小部件、天气卡片和应用图标，非常适合生成高端仪表盘或移动端 UI 概念图。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "layered",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "minimalist",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, layered, vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, minimalist, luxury, premium]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15647",
+      "14869",
+      "15156",
+      "14598",
+      "14857",
+      "14574"
+    ]
+  }
+}

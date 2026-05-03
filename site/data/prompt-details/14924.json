@@ -1,0 +1,50 @@
+{
+  "id": "14924",
+  "prompt": "A cute anime chibi girl walking toward the camera on the tree-lined pedestrian approach outside {argument name=\"stadium name\" default=\"YOKOHAMA STADIUM\"}, shown in a realistic modern Japanese city photo background under bright midday sunlight with a blue sky peeking through the trees. The stadium fills the upper background with its large white structural beams and a dark blue sign reading {argument name=\"stadium name\" default=\"YOKOHAMA STADIUM\"}. On the right side, there are 2 tall blue vertical banners on lampposts with a stylized B logo and welcome text for Yokohama Stadium, plus 2 smaller matching blue banners farther down the walkway. The paved plaza is wide and open, with 2 short black bollards visible in the foreground-left area, green hedges and mature trees along both sides, and small pedestrians scattered in the distance for scale. In the center foreground, place 1 super-deformed catgirl character composited naturally into the scene: petite chibi proportions, oversized head, soft anime shading, pale skin, long slightly tousled dark hair with bangs, fluffy cat ears, and a small black cat tail. She wears an oversized {argument name=\"hoodie color\" default=\"forest green\"} hoodie that falls like a short dress, black low-cut shoes, and 1 small black crossbody bag with a flap and tiny charm hanging from it. She is holding 1 wrapped burger or sandwich with both hands near her mouth as if eating while walking. Her pose is slightly pigeon-toed and casual, one leg crossing in front of the other, giving a shy adorable feeling. Use a whimsical contrast between highly realistic street photography and a polished anime sticker-like character with clean outlines and subtle shadowing on the pavement. Keep the face centered but obscured by a large square mosaic blur censor block.",
+  "translatedPrompt": "一位可爱的动漫 Q 版女孩正朝着镜头走来，背景是 {argument name=\"stadium name\" default=\"YOKOHAMA STADIUM\"} 外绿树成荫的人行步道。画面呈现出逼真的现代日本城市摄影背景，正午阳光明媚，蓝天透过树叶缝隙隐约可见。体育场占据了背景上方，展示着巨大的白色结构梁，以及写有 {argument name=\"stadium name\" default=\"YOKOHAMA STADIUM\"} 的深蓝色标牌。右侧的灯柱上悬挂着 2 面蓝色的垂直长旗，上面印有风格化的 B 标志和横滨体育场的欢迎文字，步道远处还有 2 面较小的配套蓝色旗帜。铺设的广场宽阔开阔，左前方可见 2 根矮小的黑色系缆桩，两侧是绿篱和成熟的树木，远处散布着零星的行人以衬托比例。在画面中心前景处，自然地合成 1 个超变形（super-deformed）猫娘角色：娇小的 Q 版比例，大头，柔和的动漫阴影，白皙的皮肤，长而略显凌乱的深色头发配有刘海，毛茸茸的猫耳，以及一条黑色小猫尾巴。她穿着一件超大号的 {argument name=\"hoodie color\" default=\"forest green\"} 连帽衫，衣摆像短裙一样垂下，脚穿黑色低帮鞋，背着 1 个带有翻盖和挂有小吊饰的黑色斜挎包。她双手拿着 1 个包装好的汉堡或三明治放在嘴边，仿佛边走边吃。她的姿势略带内八字，显得随意自然，双腿交叠，流露出害羞可爱的感觉。利用高度逼真的街头摄影与精致的动漫贴纸风格角色之间的奇妙对比，角色轮廓清晰，地面上有微妙的阴影。保持面部居中，但用一个大的方形马赛克模糊块遮挡。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "横滨体育场前的 Q 版猫娘：此提示词可生成一张逼真的体育场步道场景，并合成一个动漫风格的 Q 版猫娘，非常适合用于趣味性的地点相关角色艺术创作或社交媒体视觉内容。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "anime"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: realistic, anime]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15352",
+      "14476",
+      "15071",
+      "15757",
+      "14431",
+      "14491"
+    ]
+  }
+}

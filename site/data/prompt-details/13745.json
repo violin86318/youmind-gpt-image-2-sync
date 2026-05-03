@@ -1,0 +1,47 @@
+{
+  "id": "13745",
+  "prompt": "A cinematic anime illustration of a mature woman looking into a dark mirror, but her reflection shows her as a young child. The foreground features the tall, mature woman seen from behind in a three-quarter view, with long straight {argument name=\"hair color\" default=\"blonde\"} hair, pale skin, and wearing a dark dress adorned with black feather-like accents on the shoulders. She is reaching out to touch the mirror with her right hand. The mirror reflects a young child version of herself with {argument name=\"eye color\" default=\"golden\"} eyes, slightly pointed ears, and a simple white dress with red ribbon bows. The child's hand is pressed against the glass, perfectly aligning with the older woman's hand. The scene has dark, moody, cinematic lighting with a muted, almost sepia-toned color palette, creating high contrast between the pale skin and the dark background. Vertical Japanese text is placed on the left reading {argument name=\"left text\" default=\"吸血鬼の始祖 怪異の王 キスショット・アセロラオリオン・ハートアンダーブレード\"} and on the right reading {argument name=\"right text\" default=\"私は・私の中にいる もう一人の私\"}.",
+  "translatedPrompt": "一张电影质感的动漫插画，描绘了一位成熟女性注视着一面昏暗的镜子，而镜中的倒影却是她年幼时的模样。前景中，这位成熟女性以四分之三侧背影示人，留着长直的 {argument name=\"hair color\" default=\"金色\"} 头发，皮肤白皙，身穿一件肩部饰有黑色羽毛状装饰的深色连衣裙。她正伸出右手触碰镜面。镜中映出的是她年幼时的样子，有着 {argument name=\"eye color\" default=\"金色\"} 的双眸、微微尖起的耳朵，身穿一件带有红色丝带蝴蝶结的简约白色连衣裙。孩子的掌心紧贴镜面，与成熟女性的手完美重合。场景采用昏暗、忧郁的电影级光影，色调柔和且近乎棕褐色，在苍白的肤色与深邃的背景之间形成强烈对比。左侧垂直排布的日文文字为 {argument name=\"left text\" default=\"吸血鬼の始祖 怪異の王 キスショット・アセロラオリオン・ハートアンダーブレード\"}，右侧文字为 {argument name=\"right text\" default=\"私は・私の中にいる もう一人の私\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫风格：镜中映出的年幼自我：生成一张充满情绪感的动漫插画，描绘角色注视镜子时，镜中映出其年幼模样的场景，并支持自定义氛围文字。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "anime"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: cinematic, anime]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14236",
+      "15793",
+      "14504",
+      "14788",
+      "14561",
+      "14930"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "14153",
+  "prompt": "{\n  \"type\": \"video game screenshot\",\n  \"style\": \"{argument name=\\\"game style\\\" default=\\\"classic LEGO video game\\\"}\",\n  \"scene\": {\n    \"environment\": \"dark alleyway with purple brick walls on the left, grey brick walls on the right, wet cobblestone ground with reflections\",\n    \"props\": [\"1 green dumpster\", \"1 wooden plank with studs\", \"1 metal trash can\", \"1 wooden barrel\", \"3 green glass bottles\", \"1 bone-shaped sign reading 'DOG'\"],\n    \"collectibles\": \"10 floating studs (4 silver, 4 gold, 2 blue)\"\n  },\n  \"characters\": [\n    {\n      \"description\": \"{argument name=\\\"player character\\\" default=\\\"CatDog\\\"} rendered as a blocky plastic figure\",\n      \"action\": \"standing in the center on a glowing blue and green circular player marker\"\n    },\n    {\n      \"description\": \"bulldog rendered as a plastic minifigure\",\n      \"action\": \"standing in a doorway\"\n    }\n  ],\n  \"layout\": {\n    \"ui_elements\": [\n      {\n        \"position\": \"top-left\",\n        \"description\": \"Player HUD\",\n        \"components\": [\"circular character portrait\", \"text '{argument name=\\\"player name\\\" default=\\\"CatDog\\\"}'\", \"4 red hearts\", \"gold coin icon with text '{argument name=\\\"score\\\" default=\\\"23,470\\\"}'\"]\n      },\n      {\n        \"position\": \"top-center\",\n        \"description\": \"yellow and black cylindrical progress meter\"\n      },\n      {\n        \"position\": \"top-right\",\n        \"description\": \"circular character portrait of a bulldog\"\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"description\": \"circular minimap with purple border, map layout, and a yellow star icon\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"video game screenshot\",\n  \"style\": \"{argument name=\\\"game style\\\" default=\\\"classic LEGO video game\\\"}\",\n  \"scene\": {\n    \"environment\": \"dark alleyway with purple brick walls on the left, grey brick walls on the right, wet cobblestone ground with reflections\",\n    \"props\": [\"1 green dumpster\", \"1 wooden plank with studs\", \"1 metal trash can\", \"1 wooden barrel\", \"3 green glass bottles\", \"1 bone-shaped sign reading 'DOG'\"],\n    \"collectibles\": \"10 floating studs (4 silver, 4 gold, 2 blue)\"\n  },\n  \"characters\": [\n    {\n      \"description\": \"{argument name=\\\"player character\\\" default=\\\"CatDog\\\"} rendered as a blocky plastic figure\",\n      \"action\": \"standing in the center on a glowing blue and green circular player marker\"\n    },\n    {\n      \"description\": \"bulldog rendered as a plastic minifigure\",\n      \"action\": \"standing in a doorway\"\n    }\n  ],\n  \"layout\": {\n    \"ui_elements\": [\n      {\n        \"position\": \"top-left\",\n        \"description\": \"Player HUD\",\n        \"components\": [\"circular character portrait\", \"text '{argument name=\\\"player name\\\" default=\\\"CatDog\\\"}'\", \"4 red hearts\", \"gold coin icon with text '{argument name=\\\"score\\\" default=\\\"23,470\\\"}'\"]\n      },\n      {\n        \"position\": \"top-center\",\n        \"description\": \"yellow and black cylindrical progress meter\"\n      },\n      {\n        \"position\": \"top-right\",\n        \"description\": \"circular character portrait of a bulldog\"\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"description\": \"circular minimap with purple border, map layout, and a yellow star icon\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "LEGO Video Game Mockup：A JSON-structured prompt for generating a fake screenshot of a classic LEGO video game featuring custom characters, environments, and a full HUD.",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13612",
+      "13636",
+      "14159",
+      "14822",
+      "15511",
+      "13603"
+    ]
+  }
+}

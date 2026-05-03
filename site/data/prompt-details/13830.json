@@ -1,0 +1,39 @@
+{
+  "id": "13830",
+  "prompt": "A black and white line art illustration of a cute fluffy {argument name=\"animal\" default=\"alpaca\"} wearing over-ear headphones. It has its eyes closed and a peaceful smile. It is holding a classic {argument name=\"device\" default=\"MP3 player\"} with a click wheel, connected to the headphones by a wire. The device is resting near 2 stacked books. Floating around the character are 4 music notes and 1 {argument name=\"floating symbol\" default=\"heart\"}. The style is minimalist, {argument name=\"art style\" default=\"coloring book style\"}, featuring thick black outlines on a pure white background.",
+  "translatedPrompt": "一张 {argument name=\"art style\" default=\"极简主义黑白线条艺术\"} 插画，主角是一只可爱的 {argument name=\"animal type\" default=\"毛茸茸的羊驼\"}，它闭着双眼，神情安详，嘴角带着温柔的微笑，戴着一副大型头戴式耳机。这只动物的爪子里拿着一个 {argument name=\"device\" default=\"带有转盘的复古 MP3 播放器\"}，并通过一根细线与耳机相连。设备屏幕上显示着一个音符。这只动物正靠在一叠刚好 2 本的书旁边。在动物头部周围漂浮着刚好 3 个音符和 1 个小爱心，突显出轻松的音乐氛围。画风采用粗犷、流畅、纯黑的线条，没有阴影或色彩，背景为纯白色，看起来就像简单的可爱涂色书涂鸦。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "可爱线条艺术动物听音乐：生成一张可爱的、极简主义黑白线条艺术插画，描绘动物享受音乐的场景，非常适合作为涂色页或简单的贴纸。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "minimalist"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: minimalist]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15147",
+      "13755",
+      "13758",
+      "14303",
+      "13908",
+      "14761"
+    ]
+  }
+}

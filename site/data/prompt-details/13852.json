@@ -1,0 +1,37 @@
+{
+  "id": "13852",
+  "prompt": "Handwritten Recipe → {argument name=\"output format\" default=\"Professional Cookbook Page\"} Upload a messy handwritten {argument name=\"recipe source\" default=\"family recipe\"}; the model searches for accurate modern measurements/nutrition, then generates a {argument name=\"visual style\" default=\"polished, magazine-style\"} double-page spread with step-by-step flat lays, perfect ingredient labels, and calorie breakdowns.",
+  "translatedPrompt": "手写食谱 → {argument name=\"output format\" default=\"专业食谱页面\"} 上传一份杂乱的手写 {argument name=\"recipe source\" default=\"家传食谱\"}；模型会自动检索准确的现代计量单位与营养信息，随后生成一个 {argument name=\"visual style\" default=\"精致的杂志风格\"} 双页排版，包含分步平铺摄影图、完美的配料标签以及卡路里分析。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "专业食谱排版生成器：这是一个适用于 GPT-Image-2 的工作流提示词，旨在将非正式的手写食谱转换为具有分步图像和营养成分分析的专业杂志风格食谱排版。",
+      "subject": "信息结构",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14131",
+      "14734",
+      "15504",
+      "15532",
+      "13764",
+      "14164"
+    ]
+  }
+}

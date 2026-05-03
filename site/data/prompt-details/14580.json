@@ -1,0 +1,43 @@
+{
+  "id": "14580",
+  "prompt": "{\"type\":\"Windows 11 promotional UI mockup\",\"style\":\"clean modern product marketing render, soft glassmorphism cards, subtle shadows, rounded corners, light blue and white palette, crisp vector-like interface, polished presentation slide aesthetic\",\"scene\":{\"background\":\"pale icy blue gradient background with a large abstract Windows 11 blue ribbon swirl wallpaper centered behind the interface\",\"headline\":{\"text\":\"{argument name=\\\"headline text\\\" default=\\\"Windows 11\\\"}\",\"subtext\":\"{argument name=\\\"tagline\\\" default=\\\"Designed for focus.\\\"}\",\"position\":\"top center\"}},\"layout\":{\"type\":\"desktop UI showcase\",\"sections\":[{\"title\":\"left sidebar\",\"position\":\"far left vertical dock\",\"count\":8,\"labels\":[\"Windows logo\",\"Home\",\"Apps\",\"Files\",\"Cloud\",\"Settings\",\"Ava profile\",\"Power\"]},{\"title\":\"productivity widgets\",\"position\":\"left column cards\",\"count\":3,\"labels\":[\"Good morning, Ava\",\"Weather\",\"Calendar\"]},{\"title\":\"center start menu\",\"position\":\"lower center\",\"count\":3,\"labels\":[\"Search bar\",\"Pinned\",\"Recommended\"]},{\"title\":\"right column cards\",\"position\":\"upper and middle and lower right\",\"count\":3,\"labels\":[\"Ava's Phone\",\"Notifications\",\"Quick settings\"]},{\"title\":\"taskbar\",\"position\":\"bottom full width\",\"count\":10,\"labels\":[\"Weather summary\",\"Start\",\"Search\",\"Task View\",\"Microsoft Edge\",\"File Explorer\",\"Microsoft Store\",\"Outlook\",\"OneDrive\",\"Teams\"]}],\"centerpiece\":\"large Windows 11 Start menu floating in front of the blue abstract wallpaper\"},\"widgets\":{\"greeting_card\":{\"title\":\"Good morning, Ava\",\"subtitle\":\"Let's make today productive.\",\"focus_block\":{\"label\":\"Focus\",\"time\":\"Until 12:00 PM\",\"timer\":\"45 min\",\"button\":\"Focus timer\"}},\"weather_card\":{\"location\":\"{argument name=\\\"weather location\\\" default=\\\"Seattle, WA\\\"}\",\"temperature\":\"18°\",\"condition\":\"Partly cloudy\",\"range\":\"H: 21°  L: 13°\",\"forecast_count\":5,\"forecast_labels\":[\"Now 18°\",\"11AM 19°\",\"12PM 20°\",\"1PM 21°\",\"2PM 21°\"]},\"calendar_card\":{\"date\":\"May 20, Monday\",\"events_count\":3,\"event_labels\":[\"11:00 AM Design sync, Teams Meeting\",\"1:30 PM Lunch with Mia, Downtown\",\"3:00 PM Project update, Conf Room 32/1B\"],\"button\":\"Open Calendar\"},\"phone_card\":{\"device_name\":\"{argument name=\\\"device name\\\" default=\\\"Ava's Phone\\\"}\",\"status\":\"Connected\",\"actions_count\":3,\"action_labels\":[\"Messages\",\"Calls\",\"Photos\"],\"battery\":\"100%\"},\"notifications_card\":{\"title\":\"Notifications\",\"action\":\"Clear all\",\"items_count\":3,\"item_labels\":[\"Teams — Design sync at 11:00 AM — 2m ago\",\"Outlook — New email from Mia — 10m ago\",\"Calendar — Lunch with Mia at 1:30 PM — 30m ago\"]},\"quick_settings_card\":{\"title\":\"Quick settings\",\"toggles_count\":6,\"toggle_labels\":[\"Wi‑Fi\",\"Bluetooth\",\"Airplane mode\",\"Dark mode\",\"Focus assist\",\"Accessibility\"],\"active_toggles\":[\"Wi‑Fi\",\"Bluetooth\"],\"sliders_count\":2,\"slider_labels\":[\"Brightness\",\"Volume\"],\"wifi_network\":\"Contoso_5G\"},\"start_menu\":{\"search_placeholder\":\"Search for apps, files, settings...\",\"pinned_count\":18,\"pinned_labels\":[\"Edge\",\"Word\",\"Excel\",\"PowerPoint\",\"Outlook\",\"Teams\",\"Photos\",\"Store\",\"Notepad\",\"Spotify\",\"Figma\",\"Clock\",\"Calculator\",\"Settings\",\"Files\",\"Movies & TV\",\"Snipping Tool\",\"More\"],\"recommended_count\":4,\"recommended_labels\":[\"Project Overview\",\"Q2 Financial Report\",\"Brand Guidelines\",\"My Notes\"]}},\"composition\":\"symmetrical product showcase with the Start menu centered, three stacked cards on the left, three cards on the right, generous spacing, all elements floating slightly above the background, bottom taskbar spanning edge to edge\",\"rendering\":\"high-resolution UI concept art for a desktop operating system launch page, immaculate typography, Microsoft-inspired iconography without extra branding clutter\"}",
+  "translatedPrompt": "{\"type\":\"Windows 11 宣传 UI 样机\",\"style\":\"简洁现代的产品营销渲染，柔和的毛玻璃卡片，细腻的阴影，圆角设计，浅蓝与白色调，清晰的矢量风格界面，精致的演示 Slides 美学\",\"scene\":{\"background\":\"淡冰蓝色渐变背景，界面中心衬托着巨大的抽象 Windows 11 蓝色丝带漩涡壁纸\",\"headline\":{\"text\":\"{argument name=\\\"headline text\\\" default=\\\"Windows 11\\\"}\",\"subtext\":\"{argument name=\\\"tagline\\\" default=\\\"专为专注而设计。\\\"}\",\"position\":\"顶部居中\"}},\"layout\":{\"type\":\"桌面 UI 展示\",\"sections\":[{\"title\":\"左侧边栏\",\"position\":\"最左侧垂直停靠栏\",\"count\":8,\"labels\":[\"Windows 徽标\",\"主页\",\"应用\",\"文件\",\"云端\",\"设置\",\"Ava 个人资料\",\"电源\"]},{\"title\":\"效率小组件\",\"position\":\"左侧列卡片\",\"count\":3,\"labels\":[\"早上好，Ava\",\"天气\",\"日历\"]},{\"title\":\"中心开始菜单\",\"position\":\"底部居中\",\"count\":3,\"labels\":[\"搜索栏\",\"已固定\",\"推荐\"]},{\"title\":\"右侧列卡片\",\"position\":\"右侧上、中、下\",\"count\":3,\"labels\":[\"Ava 的手机\",\"通知\",\"快速设置\"]},{\"title\":\"任务栏\",\"position\":\"底部全宽\",\"count\":10,\"labels\":[\"天气摘要\",\"开始\",\"搜索\",\"任务视图\",\"Microsoft Edge\",\"文件资源管理器\",\"Microsoft Store\",\"Outlook\",\"OneDrive\",\"Teams\"]}],\"centerpiece\":\"巨大的 Windows 11 开始菜单悬浮在蓝色抽象壁纸前方\"},\"widgets\":{\"greeting_card\":{\"title\":\"早上好，Ava\",\"subtitle\":\"让我们高效地完成今天的工作。\",\"focus_block\":{\"label\":\"专注\",\"time\":\"至中午 12:00\",\"timer\":\"45 分钟\",\"button\":\"专注计时器\"}},\"weather_card\":{\"location\":\"{argument name=\\\"weather location\\\" default=\\\"西雅图，华盛顿州\\\"}\",\"temperature\":\"18°\",\"condition\":\"多云转晴\",\"range\":\"最高：21° 最低：13°\",\"forecast_count\":5,\"forecast_labels\":[\"现在 18°\",\"上午 11 点 19°\",\"中午 12 点 20°\",\"下午 1 点 21°\",\"下午 2 点 21°\"]},\"calendar_card\":{\"date\":\"5 月 20 日，周一\",\"events_count\":3,\"event_labels\":[\"上午 11:00 设计同步，Teams 会议\",\"下午 1:30 与 Mia 午餐，市中心\",\"下午 3:00 项目更新，会议室 32/1B\"],\"button\":\"打开日历\"},\"phone_card\":{\"device_name\":\"{argument name=\\\"device name\\\" default=\\\"Ava 的手机\\\"}\",\"status\":\"已连接\",\"actions_count\":3,\"action_labels\":[\"信息\",\"通话\",\"照片\"],\"battery\":\"100%\"},\"notifications_card\":{\"title\":\"通知\",\"action\":\"全部清除\",\"items_count\":3,\"item_labels\":[\"Teams — 上午 11:00 设计同步 — 2 分钟前\",\"Outlook — 来自 Mia 的新邮件 — 10 分钟前\",\"日历 — 下午 1:30 与 Mia 午餐 — 30 分钟前\"]},\"quick_settings_card\":{\"title\":\"快速设置\",\"toggles_count\":6,\"toggle_labels\":[\"Wi‑Fi\",\"蓝牙\",\"飞行模式\",\"深色模式\",\"专注助手\",\"辅助功能\"],\"active_toggles\":[\"Wi‑Fi\",\"蓝牙\"],\"sliders_count\":2,\"slider_labels\":[\"亮度\",\"音量\"],\"wifi_network\":\"Contoso_5G\"},\"start_menu\":{\"search_placeholder\":\"搜索应用、文件、设置...\",\"pinned_count\":18,\"pinned_labels\":[\"Edge\",\"Word\",\"Excel\",\"PowerPoint\",\"Outlook\",\"Teams\",\"照片\",\"商店\",\"记事本\",\"Spotify\",\"Figma\",\"时钟\",\"计算器\",\"设置\",\"文件\",\"电影和电视\",\"截图工具\",\"更多\"],\"recommended_count\":4,\"recommended_labels\":[\"项目概览\",\"第二季度财务报告\",\"品牌指南\",\"我的笔记\"]}},\"composition\":\"对称的产品展示，开始菜单居中，左侧堆叠三张卡片，右侧三张卡片，间距宽敞，所有元素轻微悬浮于背景之上，底部任务栏横跨边缘\",\"rendering\":\"用于桌面操作系统发布页面的高分辨率 UI 概念艺术，完美的排版，受 Microsoft 启发的图标设计，无多余的品牌杂乱感\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Windows 11 专注模式 UI 展示：一款精致的 Windows 11 风格桌面宣传样机，包含多个小组件和面板，非常适合用于重现现代操作系统营销视觉效果。",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14635",
+      "15615",
+      "15795",
+      "15617",
+      "15714",
+      "14581"
+    ]
+  }
+}

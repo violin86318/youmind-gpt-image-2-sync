@@ -1,0 +1,50 @@
+{
+  "id": "15468",
+  "prompt": "Using the provided reference image as the brand style guide, generate a dark creative-generation app interface showing 4 billboard ad concepts in a 2x2 grid for {argument name=\"brand name\" default=\"Netflix\"}. Apply the exact brand palette and overall visual identity from the reference: deep black background, red accent, white typography, charcoal overlays, and clean modern sans-serif styling. Turn the reference from a static brand settings page into an image-generation results screen with a left sidebar model picker containing 2 model cards, and a main canvas displaying 4 generated concept thumbnails. Each thumbnail should be a cinematic nighttime outdoor billboard mockup with dramatic lighting, glossy reflections, and a person wearing a VR headset. Use bold billboard copy reading {argument name=\"headline text\" default=\"NETFLIX VR\"}, {argument name=\"subheadline text\" default=\"COMING SOON\"}, and {argument name=\"date text\" default=\"28TH MAY\"}. Add small UI chips and labels on the right summarizing the prompt, plus generation-time badges above each of the 4 images. Keep the result looking like a premium creative tool screenshot for branded ad ideation.",
+  "translatedPrompt": "以提供的参考图作为品牌风格指南，生成一个深色调的创意生成应用界面，以 2x2 网格形式展示 {argument name=\"brand name\" default=\"Netflix\"} 的 4 个广告牌概念。应用参考图中的精确品牌调色板和整体视觉识别系统：深黑色背景、红色点缀、白色排版、炭灰色叠加层以及简洁现代的无衬线字体风格。将参考图从静态的品牌设置页面转变为图像生成结果屏幕，左侧边栏包含 2 个模型卡片的模型选择器，主画布显示 4 个生成的概念缩略图。每个缩略图应为电影质感的夜间户外广告牌模型，具有戏剧性的光影、光泽反射以及佩戴 VR 头显的人物。使用醒目的广告牌文案，内容为 {argument name=\"headline text\" default=\"NETFLIX VR\"}、{argument name=\"subheadline text\" default=\"COMING SOON\"} 以及 {argument name=\"date text\" default=\"28TH MAY\"}。在右侧添加小型 UI 标签和说明以概括提示词，并在 4 张图像上方添加生成时间徽章。确保最终效果呈现出用于品牌广告构思的高级创意工具截图质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "广告概念 UI 品牌指南：此提示词可将品牌风格参考转化为精美的 AI 创意工具截图，展示四个符合品牌调性的广告牌概念，适用于营销演示或产品演示。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "grid",
+        "2x2"
+      ],
+      "style": [
+        "cinematic",
+        "premium"
+      ],
+      "lightingCamera": [
+        "dramatic lighting"
+      ],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, 2x2]。\n\nVisual style:\n[参考风格: cinematic, premium]。\n\nLighting and camera:\n[参考光线镜头: dramatic lighting]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14403",
+      "14649",
+      "14457",
+      "14695",
+      "15438",
+      "14581"
+    ]
+  }
+}

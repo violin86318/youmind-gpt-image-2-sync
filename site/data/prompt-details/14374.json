@@ -1,0 +1,42 @@
+{
+  "id": "14374",
+  "prompt": "Hyper-realistic digital illustration of {argument name=\"scene\" default=\"the historic Shanghai Bund waterfront looking across the Huangpu River to the futuristic Lujiazui district\"}, presented as a single continuous composition showcasing the cycle of seasons. The scene flows seamlessly from left to right in a natural progression: Winter, Spring, Summer, and Autumn. The left side features cold snowy winter elements, gradually thawing into the fresh green buds and blooms of spring, then morphing into the lush vibrant vegetation and bright sunlight of summer, and finally transitioning into the golden, orange, and red hues of autumn on the far right. There are no visible dividing lines between seasons; the weather, lighting, and vegetation blend smoothly to create a unified and harmonious panorama. Rich in detail, symbolic of the passage of time, cinematic lighting, 8k resolution, highly detailed textures. --ar 4:3",
+  "translatedPrompt": "超写实数字插画，场景为 {argument name=\"scene\" default=\"从历史悠久的上海滩滨水区眺望黄浦江对岸未来感十足的陆家嘴区域\"}，以单一连续构图呈现四季轮回。画面从左至右自然过渡：冬、春、夏、秋。\n\n左侧呈现寒冷的冬雪元素，逐渐融化为春季清新的绿芽与花朵，随后演变为夏季郁郁葱葱的植被与明媚阳光，最后在最右侧过渡为秋季的金黄、橙色与红色调。\n\n季节之间没有明显的分割线；天气、光影与植被平滑融合，营造出统一而和谐的全景效果。细节丰富，象征时光流逝，电影级光影，8k 分辨率，高细节纹理。 --ar 4:3",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "四季更迭全景图：一个复杂的提示词，旨在通过上海滩滨水区这一场景，在单幅全景数字插画中展现四季无缝过渡的效果。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14430",
+      "14713",
+      "15618",
+      "15045",
+      "15048",
+      "13799"
+    ]
+  }
+}

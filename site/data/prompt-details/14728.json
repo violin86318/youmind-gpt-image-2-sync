@@ -1,0 +1,38 @@
+{
+  "id": "14728",
+  "prompt": "Create an \"{argument name=\"meme style\" default=\"Out the Window\"}\" meme-style four-panel comic titled \"{argument name=\"title\" default=\"How to Improve Development Efficiency with AI? 如何借助 AI 提升开发效率？\"}\", featuring dialogues in speech bubbles. \n\n--ar 9:16\n\nCharacters:\n\n- Boss: Asian male wearing a suit, with neatly parted hair.\n- Employee Xiaoming: Male, wearing a blue checkered shirt.\n- Employee Xiaohong: Female.\n- Employee Xiaohu: Female, Asian, straight bangs hairstyle, wearing red-framed glasses.\n\nPanel Descriptions:\n\n- Top panel (single wide panel):\n  The boss asks during a meeting: \"How can we use AI to improve development efficiency? 我们要如何借助 AI 提升开发效率？\"\n\n  Three employees sit listening.\n\n- Second panel (single wide panel):\n  Each employee responds individually:\n\n  - Xiaoming: \"We use AI to write unit tests. 我们用 AI 写单元测试\"\n  - Xiaohong: \"We use AI for code reviews. 我们用 AI 做代码审查\"\n  - Xiaohu: “Vibe Coding。”\n\n- Third row (two panels):\n  - Left panel: The boss looks furious.\n  - Right panel: Employee Xiaohu is humorously kicked out of a high-rise window.",
+  "translatedPrompt": "创建一个“{argument name=\"meme style\" default=\"Out the Window\"}”模因风格的四格漫画，标题为“{argument name=\"title\" default=\"How to Improve Development Efficiency with AI? 如何借助 AI 提升开发效率？\"}”，并包含对话气泡。\n\n--ar 9:16\n\n角色：\n\n- 老板：亚裔男性，身穿西装，发型整齐。\n- 员工小明：男性，身穿蓝色格子衬衫。\n- 员工小红：女性。\n- 员工小虎：女性，亚裔，齐刘海，佩戴红框眼镜。\n\n分镜描述：\n\n- 第一格（单幅宽屏）：\n  老板在会议中问道：“How can we use AI to improve development efficiency? 我们要如何借助 AI 提升开发效率？”\n\n  三名员工坐着聆听。\n\n- 第二格（单幅宽屏）：\n  每位员工分别回答：\n\n  - 小明：“We use AI to write unit tests. 我们用 AI 写单元测试”\n  - 小红：“We use AI for code reviews. 我们用 AI 做代码审查”\n  - 小虎：“Vibe Coding。”\n\n- 第三行（两格）：\n  - 左侧分镜：老板看起来非常愤怒。\n  - 右侧分镜：员工小虎被滑稽地踢出了高层窗户。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "“Out the Window” 模因漫画提示词：一份详细的提示词，用于生成“Out the Window”模因风格的四格漫画，包含角色描述和分镜内容。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13467",
+      "13596",
+      "13607",
+      "13632",
+      "13673",
+      "13679"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "14832",
+  "prompt": "Create a bold static SaaS ad on a matte black background with a premium editorial look and highly accurate typography. At the top, place a large stacked serif headline in off-white reading: \"Your analytics stack\" on the first line, \"shouldn’t cost more\" on the second line in bright magenta italic serif, and \"than your rent.\" on the third line in off-white serif. Center the composition around a large curled, crumpled receipt made of white thermal paper, angled slightly from upper left to lower right, with visible paper texture, soft shadows, and rolled ends on both the upper right and lower left. On the receipt, show exactly 5 line items in black monospaced or receipt-style text aligned in two columns: \"GA4\" with \"$0\", \"Hotjar\" with \"$99\", \"Optimizely\" with \"$2,450\", \"GTM setup (dev hours)\" with \"$1,800\", and \"Tag manager debug\" with \"$400\". Highlight the word \"Optimizely\" with a jagged magenta starburst sticker behind it. Add a dashed divider line below the items, then a bold \"TOTAL\" label on the lower left of the receipt. On the lower right of the receipt, place a large price reading \"{argument name=\"monthly price\" default=\"$19/mo\"}\" in heavy black type, circled with 2 hand-drawn magenta marker loops. Add 3 handwritten magenta annotation elements: on the left side, the words \"{argument name=\"left annotation\" default=\"one tool\"}\" in brush script with an underline and a curved arrow pointing to the receipt; near the bottom center, a curved magenta arrow pointing upward toward the circled price; and at the bottom right, the handwritten tagline \"{argument name=\"tagline text\" default=\"One script. One price.\"}\" with an underline. In the bottom-right corner, add a small block of white sans-serif body copy, right-aligned, reading \"{argument name=\"body copy\" default=\"Analytics, heatmaps, A/B testing, and revenue attribution.\"}\". Use an editorial ad-photography style with crisp text placement, clean hierarchy, high contrast, subtle paper realism, and a limited palette of black, white, and hot pink.",
+  "translatedPrompt": "在哑光黑色背景上创作一则醒目的静态 SaaS 广告，呈现高级编辑风格和极其精准的排版。在顶部放置一个巨大的堆叠式衬线标题，颜色为灰白色：第一行显示 \"Your analytics stack\"，第二行使用亮洋红色斜体衬线字体显示 \"shouldn’t cost more\"，第三行使用灰白色衬线字体显示 \"than your rent.\"。构图中心是一张巨大的、卷曲且揉皱的白色热敏纸收据，从左上角向右下角略微倾斜，具有明显的纸张质感、柔和的阴影，以及右上角和左下角的卷边。在收据上，显示 5 行黑色等宽或收据风格的文本，分为两列对齐：\"GA4\" 对应 \"$0\"，\"Hotjar\" 对应 \"$99\"，\"Optimizely\" 对应 \"$2,450\"，\"GTM setup (dev hours)\" 对应 \"$1,800\"，以及 \"Tag manager debug\" 对应 \"$400\"。在 \"Optimizely\" 一词后方添加一个锯齿状的洋红色星形贴纸以示强调。在项目下方添加一条虚线分割线，然后在收据左下方标注加粗的 \"TOTAL\"。在收据右下方，放置一个巨大的价格，内容为 \"{argument name=\"monthly price\" default=\"$19/mo\"}\"，使用粗体黑色字，并用 2 个手绘的洋红色记号笔圆圈圈起。添加 3 个手写洋红色标注元素：在左侧，用笔刷字体书写 \"{argument name=\"left annotation\" default=\"one tool\"}\"，下方带有下划线，并配有一个指向收据的弯曲箭头；在底部中心附近，有一个指向圈起价格的洋红色弯曲箭头；在右下角，书写手写标语 \"{argument name=\"tagline text\" default=\"One script. One price.\"}\" 并带有下划线。在右下角，添加一小段右对齐的白色无衬线正文，内容为 \"{argument name=\"body copy\" default=\"Analytics, heatmaps, A/B testing, and revenue attribution.\"}\"。采用编辑广告摄影风格，要求文本排版清晰、层级分明、对比度高、纸张质感逼真，并使用黑、白、亮粉色的有限配色方案。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "编辑风格 SaaS 收据广告：此提示词用于生成高对比度的初创公司广告，包含揉皱的收据、醒目的编辑排版，以及用于分析定价活动的粉色手写标注。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "editorial",
+        "premium",
+        "hand-drawn"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: editorial, premium, hand-drawn]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15653",
+      "15077",
+      "15764",
+      "14854",
+      "15400",
+      "15663"
+    ]
+  }
+}

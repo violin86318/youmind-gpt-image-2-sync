@@ -1,0 +1,42 @@
+{
+  "id": "14636",
+  "prompt": "Using the provided reference image, colorize the original black-and-white WWII paratrooper photo into a realistic, historically accurate color restoration. Preserve the exact composition, pose, gear, weapon, cropped face block, background, and photographic framing. Add natural period-appropriate colors: khaki/tan uniform and jump gear, olive drab pack, brown leather boots and straps, wood-toned rifle stock, dark metal gun body, muted earth tones for the dirt road and building, green trees, and a soft pale blue sky. Make the 82nd Airborne shoulder patch historically correct with 1 visible patch in red, white, and blue. Keep the result looking like a faithful documentary-era restoration rather than a modern stylized repaint.",
+  "translatedPrompt": "使用提供的参考图像，将原始的二战伞兵黑白照片进行写实且符合历史事实的色彩还原。保留原有的构图、姿势、装备、武器、面部裁剪区域、背景以及摄影取景。添加自然且符合时代特征的色彩：卡其色/棕褐色制服和跳伞装备、橄榄绿背包、棕色皮革靴子和绑带、木质色调的步枪枪托、深色金属枪身，泥土路和建筑使用柔和的土色调，树木呈现绿色，天空为柔和的淡蓝色。确保第 82 空降师的肩章符合历史事实，即 1 个清晰可见的红、白、蓝三色肩章。最终效果应呈现为忠实于纪录片时代的修复作品，而非现代风格的重绘。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "二战历史照片上色：此提示词可将黑白战争参考照片还原为写实且符合历史事实的彩色图像，适用于档案保存、编辑出版或教育用途。",
+      "subject": "界面",
+      "scene": "摄影/真实场景",
+      "composition": [],
+      "style": [
+        "realistic",
+        "documentary"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, documentary]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15031",
+      "14427",
+      "14440",
+      "14073",
+      "14821",
+      "15015"
+    ]
+  }
+}

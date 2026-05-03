@@ -1,0 +1,37 @@
+{
+  "id": "13946",
+  "prompt": "An Ishihara color blindness test plate consisting of a large circular field filled with densely packed dots of varying sizes. The background dots within the circle are shades of {argument name=\"background colors\" default=\"olive green and yellow\"}. Embedded in the center is the number {argument name=\"hidden number\" default=\"67\"}, formed by dots in contrasting shades of {argument name=\"number colors\" default=\"muted red and coral\"}. The area outside the main circle is filled with darker, muted brownish-green dots, creating a seamless pointillism texture typical of medical optical illusions.",
+  "translatedPrompt": "一张石原氏色盲测试图，由一个巨大的圆形区域组成，内部填充了大小不一的密集圆点。圆圈内的背景圆点采用 {argument name=\"background color palette\" default=\"橄榄绿和芥末黄\"} 色调。在中心位置，由 {argument name=\"number color palette\" default=\"淡粉色和鲑鱼粉\"} 的对比色圆点构成了隐藏数字 {argument name=\"hidden number\" default=\"67\"}。主圆圈外的周围区域填充了颜色更深、更柔和的绿色和棕色圆点，营造出经典的医学视错觉效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "石原氏色盲测试图：生成一张自定义的石原氏色盲测试图，在对比鲜明的圆点颜色中隐藏一个数字。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13853",
+      "14790",
+      "15149",
+      "15239",
+      "13707",
+      "13719"
+    ]
+  }
+}

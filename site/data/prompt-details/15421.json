@@ -1,0 +1,55 @@
+{
+  "id": "15421",
+  "prompt": "{\"type\":\"botanical scientific infographic poster\",\"style\":\"highly detailed antique botanical atlas plate, watercolor and ink natural history illustration, ivory paper background, elegant educational poster design, fine line annotations, soft sepia labeling, museum-quality print\",\"subject\":{\"primary\":\"{argument name=\\\"plant species\\\" default=\\\"pomegranate\\\"} plant shown from seed to fruit with full roots, trunk, branches, leaves, flowers, buds, immature fruit, ripe fruit, and cutaway fruit\",\"latin_name\":\"Punica granatum\",\"composition\":\"single tall central specimen occupying most of the page, vertically oriented, with surrounding circular and rectangular callout diagrams connected by thin leader lines and arrows\"},\"text\":{\"main_title_cn\":\"植物生命路径剖面\",\"main_title_en\":\"BOTANICAL GROWTH ATLAS\",\"subtitle_cn\":\"从种子到果实，一株植物如何展开自己\",\"subtitle_en\":\"FROM SEED TO FRUIT\",\"quote_cn\":\"\"},\"layout\":{\"sections\":[{\"title\":\"1 种子结构\",\"position\":\"upper left\",\"count\":3,\"labels\":[\"seed cutaway\",\"microscopic seed cell cluster\",\"two small detached seed views\"]},{\"title\":\"2 萌发机制\",\"position\":\"left upper-middle\",\"count\":5,\"labels\":[\"seed\",\"cracked seed\",\"early sprout\",\"emerging root\",\"young seedling\"]},{\"title\":\"3 根系与地下网络\",\"position\":\"left lower-middle\",\"count\":3,\"labels\":[\"full root mass\",\"circular root close-up\",\"soil microbiome/network inset\"]},{\"title\":\"4 茎叶生长与维管系统\",\"position\":\"right middle\",\"count\":4,\"labels\":[\"stem vascular tissue cross-section\",\"single leaf front view\",\"leaf internal cross-section\",\"small vascular bundle inset\"]},{\"title\":\"5 光合作用与能量转换\",\"position\":\"right lower-middle\",\"count\":3,\"labels\":[\"leaf tissue diagram\",\"chloroplast close-up\",\"photosynthesis equation flow diagram\"]},{\"title\":\"6 花芽分化与开花机制\",\"position\":\"upper right\",\"count\":3,\"labels\":[\"large flower longitudinal cutaway\",\"side flower cutaway\",\"seasonal flowering timing chart\"]},{\"title\":\"7 授粉与结果路径\",\"position\":\"right upper-middle\",\"count\":5,\"labels\":[\"bee pollinating flower\",\"flower cutaway with pollen path\",\"ovary development sequence\",\"small developing fruit\",\"ripe fruit icon\"]},{\"title\":\"8 果实成熟与种子循环\",\"position\":\"right lower\",\"count\":6,\"labels\":[\"large opened fruit\",\"small split fruit\",\"scattered seeds\",\"seed dispersal sketch\",\"cycle renewal seedling sequence\",\"small whole fruit stages\"]},{\"title\":\"环境触发因素\",\"position\":\"lower left\",\"count\":6,\"labels\":[\"light\",\"temperature\",\"soil\",\"water\",\"nutrients\",\"air circulation\"]},{\"title\":\"bottom lifecycle strip\",\"position\":\"bottom full width\",\"count\":19,\"labels\":[\"dormancy\",\"imbibition\",\"repair\",\"radicle\",\"primary root\",\"shoot emergence\",\"seedling\",\"leafing\",\"root spread\",\"upright stem\",\"buds\",\"flowering\",\"young fruit\",\"fruit set\",\"ripening\",\"split fruit\",\"seed maturity\",\"seed release\",\"cycle renewal\"]}],\"centerpiece\":\"full botanical portrait of a mature {argument name=\\\"plant species common name\\\" default=\\\"pomegranate\\\"} tree with exposed root system, multiple coral-red blossoms, unopened buds, green young fruits, one ripe whole fruit at top, and one large cut-open fruit near the lower right of the trunk showing glossy ruby seeds\",\"page_elements\":{\"count\":7,\"labels\":[\"main bilingual title block\",\"intro text block\",\"section number medallions\",\"thin dotted connector lines\",\"small arrows between processes\",\"latin species label near trunk\",\"bottom numbered development timeline\"]}},\"palette\":{\"count\":6,\"labels\":[\"ivory parchment\",\"olive green leaves\",\"warm brown branches\",\"coral-red flowers\",\"ruby red seeds\",\"sepia text and diagram lines\"]},\"rendering\":{\"detail\":\"extremely high detail, precise botanical anatomy, realistic textures, transparent watercolor layering, clean scientific draftsmanship\",\"lighting\":\"soft even studio illustration lighting with no harsh shadows\",\"camera\":\"straight-on flat poster view\",\"aspect_ratio\":\"2:3\"}}",
+  "translatedPrompt": "{\"type\":\"植物科学信息图海报\",\"style\":\"高度详尽的古董植物图谱版画，水彩与墨水自然历史插画，象牙色纸张背景，优雅的教育海报设计，精细的线条注释，柔和的棕褐色标签，博物馆级印刷品质\",\"subject\":{\"primary\":\"{argument name=\\\"plant species\\\" default=\\\"石榴\\\"} 植物从种子到果实的展示，包含完整的根、茎、枝、叶、花、花蕾、未成熟果实、成熟果实以及果实剖面\",\"latin_name\":\"Punica granatum\",\"composition\":\"单株高大的中心标本占据页面大部分空间，垂直构图，周围环绕着通过细引线和箭头连接的圆形及矩形标注图\"},\"text\":{\"main_title_cn\":\"植物生命路径剖面\",\"main_title_en\":\"BOTANICAL GROWTH ATLAS\",\"subtitle_cn\":\"从种子到果实，一株植物如何展开自己\",\"subtitle_en\":\"FROM SEED TO FRUIT\",\"quote_cn\":\"\"},\"layout\":{\"sections\":[{\"title\":\"1 种子结构\",\"position\":\"左上\",\"count\":3,\"labels\":[\"种子剖面\",\"显微种子细胞簇\",\"两个独立的小种子视图\"]},{\"title\":\"2 萌发机制\",\"position\":\"左中上\",\"count\":5,\"labels\":[\"种子\",\"裂开的种子\",\"早期芽\",\"萌发的根\",\"幼苗\"]},{\"title\":\"3 根系与地下网络\",\"position\":\"左中下\",\"count\":3,\"labels\":[\"完整根系\",\"根部圆形特写\",\"土壤微生物群/网络插图\"]},{\"title\":\"4 茎叶生长与维管系统\",\"position\":\"右中\",\"count\":4,\"labels\":[\"茎部维管组织横截面\",\"单片叶正面视图\",\"叶片内部横截面\",\"小型维管束插图\"]},{\"title\":\"5 光合作用与能量转换\",\"position\":\"右中下\",\"count\":3,\"labels\":[\"叶片组织图\",\"叶绿体特写\",\"光合作用方程式流程图\"]},{\"title\":\"6 花芽分化与开花机制\",\"position\":\"右上\",\"count\":3,\"labels\":[\"大型花朵纵剖面\",\"侧面花朵剖面\",\"季节性开花时间表\"]},{\"title\":\"7 授粉与结果路径\",\"position\":\"右中上\",\"count\":5,\"labels\":[\"蜜蜂授粉\",\"带有花粉路径的花朵剖面\",\"子房发育序列\",\"小型发育中果实\",\"成熟果实图标\"]},{\"title\":\"8 果实成熟与种子循环\",\"position\":\"右下\",\"count\":6,\"labels\":[\"大型开口果实\",\"小型裂开果实\",\"散落的种子\",\"种子传播草图\",\"循环更新幼苗序列\",\"小型完整果实阶段\"]},{\"title\":\"环境触发因素\",\"position\":\"左下\",\"count\":6,\"labels\":[\"光照\",\"温度\",\"土壤\",\"水分\",\"养分\",\"空气流通\"]},{\"title\":\"底部生命周期带\",\"position\":\"底部全宽\",\"count\":19,\"labels\":[\"休眠\",\"吸胀\",\"修复\",\"胚根\",\"主根\",\"芽萌发\",\"幼苗\",\"长叶\",\"根系扩展\",\"直立茎\",\"花蕾\",\"开花\",\"幼果\",\"坐果\",\"成熟\",\"裂果\",\"种子成熟\",\"种子散布\",\"循环更新\"]}],\"centerpiece\":\"成熟 {argument name=\\\"plant species common name\\\" default=\\\"石榴\\\"} 树的完整植物肖像，展示了暴露的根系、多朵珊瑚红花朵、未开的花蕾、绿色幼果、顶部的一颗成熟完整果实，以及树干右下方一颗切开的大果实，露出光泽的红宝石色种子\",\"page_elements\":{\"count\":7,\"labels\":[\"主双语标题块\",\"介绍文本块\",\"章节数字圆章\",\"细虚线连接线\",\"过程间的小箭头\",\"树干附近的拉丁学名标签\",\"底部编号发育时间轴\"]}},\"palette\":{\"count\":6,\"labels\":[\"象牙色羊皮纸\",\"橄榄绿叶片\",\"暖棕色枝干\",\"珊瑚红花朵\",\"红宝石色种子\",\"棕褐色文字与图表线条\"]},\"rendering\":{\"detail\":\"极高细节，精确的植物解剖结构，逼真的纹理，透明水彩分层，干净的科学绘图风格\",\"lighting\":\"柔和均匀的摄影棚插画光效，无强烈阴影\",\"camera\":\"正视平面海报视角\",\"aspect_ratio\":\"2:3\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "植物生长图谱海报：一张详尽的复古风格科学海报，展示了石榴植物的完整生命周期和解剖结构，非常适合用于植物学教育信息图表和自然历史印刷品。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "close-up",
+        "cutaway",
+        "annotations",
+        "callout",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "watercolor",
+        "studio"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": "得分 80；构图: close-up, cutaway, annotations, callout, vertical；风格: realistic, watercolor, studio；包含标注/说明"
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, cutaway, annotations, callout, vertical]。\n\nVisual style:\n[参考风格: realistic, watercolor, studio]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15768",
+      "15683",
+      "14866",
+      "15662",
+      "15769",
+      "14464"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "14859",
+  "prompt": "Create a clean, symmetrical Chinese feng shui infographic poster in a traditional almanac style on a warm light beige background. The main title at the top is large dark red Chinese calligraphy text reading {argument name=\"headline text\" default=\"2026年九宫飞星图\"}, with a smaller subtitle beneath in black reading {argument name=\"subtitle text\" default=\"（丙午年）\"}. Add a decorative compass rose in the upper left corner labeled with the four cardinal directions in Chinese: 南 at top, 北 at bottom, 东 at left, 西 at right. Center the composition around a 3x3 grid of 9 bordered square panels with thin ornamental Chinese-style corners, evenly spaced and perfectly aligned. Each square contains a large colored number, a Chinese star name, one line beginning with 吉星 or 凶星, and an illustrative symbolic object. Top row has 3 panels: top-left labeled 东南 with a purple-framed panel for number 9 and text 九紫右弼星, plus 吉星: 喜庆、姻缘、贵人, illustrated with purple balloons, a gift box, and a small firework burst; top-center labeled 正南 with an orange-framed panel for number 5 and text 五黄廉贞星, plus 凶星: 灾祸、意外、疾病, illustrated with a gold gourd and ancient Chinese coins tied with a red tassel; top-right labeled 西南 with a gold-framed panel for number 7 and text 七赤破军星, plus 凶星: 破财、口舌、盗贼, illustrated with a brass bell and a silver sword. Middle row has 3 panels: middle-left aligned with 正东 in large vertical side text, a green-framed panel for number 8 and text 八白左辅星, plus 吉星: 财运、置业、积蓄, illustrated with a bonsai-like money tree and gold ingots; middle-center labeled 中宫 in a blue capsule tag overlapping the top edge of the center square, a blue-framed panel for number 1 and text 一白贪狼星, plus 吉星: 人缘、感情、智慧, illustrated with a crystal ball on a wooden stand; middle-right aligned with 正西 in large vertical side text, a green-framed panel for number 3 and text 三碧禄存星, plus 凶星: 是非、口舌、争执, illustrated with bamboo and a small stacked rock fountain. Bottom row has 3 panels: bottom-left labeled 东北 with a green-framed panel for number 4 and text 四绿文曲星, plus 吉星: 学业、文昌、考试, illustrated with an open book, brush pen, and ink stone with bamboo leaves behind; bottom-center labeled 正北 with a gold-framed panel for number 6 and text 六白武曲星, plus 吉星: 权力、贵人、偏财, illustrated with a golden guardian lion statue on a pedestal holding a ball; bottom-right labeled 西北 with a gray-framed panel for number 2 and text 二黑巨门星, plus 凶星: 病痛、伤害、阻滞, illustrated with a stone pagoda and a small incense burner. Use exactly 6 outer direction labels around the grid: 东南, 正南, 西南 above the top row, and 东北, 正北, 西北 below the bottom row, each inside rounded capsules matching the panel colors. Add exactly 2 large vertical side direction labels outside the grid: 正东 on the left side and 正西 on the right side. At the bottom center, add a pill-shaped legend with 2 segments: a red segment reading 吉星: 1、4、6、8、9 and a dark gray segment reading 凶星: 2、3、5、7. Include faint pale cloud motifs behind some objects for traditional atmosphere. Style is crisp vector-infographic with soft watercolor-like object rendering, high readability, balanced spacing, and an elegant Chinese metaphysical chart aesthetic.",
+  "translatedPrompt": "创作一张风格简洁、对称的中文风水信息图海报，采用传统历法风格，背景为暖浅米色。顶部主标题为醒目的深红色中文书法字体，内容为 {argument name=\"headline text\" default=\"2026 年九宫飞星图\"}，下方配有较小的黑色副标题 {argument name=\"subtitle text\" default=\"（丙午年）\"}。在左上角添加一个装饰性的罗盘，标有四个中文方位：上南、下北、左东、右西。构图中心为一个 3x3 的九宫格，包含 9 个带细致中式边角的方形面板，间距均匀且对齐完美。每个方格内包含一个大号彩色数字、一个中文星名、一行以“吉星”或“凶星”开头的文字，以及一个象征性的插图。顶行 3 个面板：左上角标注“东南”，紫色边框面板内为数字 9 和文字“九紫右弼星”，以及“吉星：喜庆、姻缘、贵人”，配以紫色气球、礼盒和小型烟花爆竹插图；顶部中央标注“正南”，橙色边框面板内为数字 5 和文字“五黄廉贞星”，以及“凶星：灾祸、意外、疾病”，配以金葫芦和系有红绳的古钱币插图；右上角标注“西南”，金色边框面板内为数字 7 和文字“七赤破军星”，以及“凶星：破财、口舌、盗贼”，配以铜铃和银剑插图。中行 3 个面板：左侧对齐“正东”大号垂直侧边文字，绿色边框面板内为数字 8 和文字“八白左辅星”，以及“吉星：财运、置业、积蓄”，配以盆景式摇钱树和金元宝插图；中间中央上方覆盖一个蓝色胶囊标签，标注“中宫”，蓝色边框面板内为数字 1 和文字“一白贪狼星”，以及“吉星：人缘、感情、智慧”，配以木架水晶球插图；右侧对齐“正西”大号垂直侧边文字，绿色边框面板内为数字 3 和文字“三碧禄存星”，以及“凶星：是非、口舌、争执”，配以竹子和小型叠石喷泉插图。底行 3 个面板：左下角标注“东北”，绿色边框面板内为数字 4 和文字“四绿文曲星”，以及“吉星：学业、文昌、考试”，配以打开的书本、毛笔和砚台，背景衬有竹叶；底部中央标注“正北”，金色边框面板内为数字 6 和文字“六白武曲星”，以及“吉星：权力、贵人、偏财”，配以底座上持球的金色石狮子雕像插图；右下角标注“西北”，灰色边框面板内为数字 2 和文字“二黑巨门星”，以及“凶星：病痛、伤害、阻滞”，配以石塔和小香炉插图。在网格周围使用 6 个外部方位标签：顶行上方为“东南”、“正南”、“西南”，底行下方为“东北”、“正北”、“西北”，每个标签均位于与面板颜色匹配的圆角胶囊内。在网格两侧添加 2 个大号垂直侧边方位标签：左侧为“正东”，右侧为“正西”。在底部中心添加一个药丸形状的图例，分为两段：红色段显示“吉星：1、4、6、8、9”，深灰色段显示“凶星：2、3、5、7”。在部分物体后方加入淡淡的云纹，营造传统氛围。整体风格为清晰的矢量信息图，物体渲染带有柔和的水彩质感，具备高可读性、平衡的间距以及优雅的中国玄学图表美感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "2026 年九宫飞星图：此提示词可生成一张精美的中文风水年度九宫飞星信息图海报，适用于参考、教育内容或社交媒体分享。",
+      "subject": "信息结构",
+      "scene": "海报/封面",
+      "composition": [
+        "symmetrical",
+        "grid",
+        "vertical"
+      ],
+      "style": [
+        "watercolor"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: symmetrical, grid, vertical]。\n\nVisual style:\n[参考风格: watercolor]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15460",
+      "14873",
+      "15053",
+      "14976",
+      "15653",
+      "14567"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "15163",
+  "prompt": "{argument name=\"aesthetic\" default=\"Japanese negative film\"} aesthetic, {argument name=\"setting\" default=\"convenience store scene at dusk\"}, mixed cool indoor light and warm outside light, slight highlight bloom, low contrast, muted colors, subtle grain, {argument name=\"subject\" default=\"subject standing in front of refrigerator section, casually reaching for a drink\"}, body slightly leaning, relaxed posture, soft unfocused expression, reflections on glass door, imperfect composition, quiet mundane atmosphere, nostalgic everyday life --2:3",
+  "translatedPrompt": "{argument name=\"aesthetic\" default=\"日系负片胶片感\"} 美学，{argument name=\"setting\" default=\"黄昏时的便利店场景\"}，室内冷光与室外暖光交织，轻微的高光溢出，低对比度，低饱和度色彩，细腻的颗粒感，{argument name=\"subject\" default=\"人物站在冷柜前，随手拿取饮料\"}，身体微微前倾，姿态放松，神情柔和而失焦，玻璃门上的倒影，不完美的构图，安静平凡的氛围，怀旧的日常生活 --2:3",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日系负片胶片感：捕捉日式便利店中怀旧、日常的氛围，采用负片胶片美学，呈现柔和的光影与低饱和度的色彩。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "low contrast"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: low contrast]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15510",
+      "15513",
+      "15613",
+      "13869",
+      "14307",
+      "14338"
+    ]
+  }
+}

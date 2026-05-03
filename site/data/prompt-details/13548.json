@@ -1,0 +1,45 @@
+{
+  "id": "13548",
+  "prompt": "Using the provided reference image, redesign the poster layout by horizontally flipping the macro composition. Move the large primary profile face to the right side, looking left. Move the main title {argument name=\"main title\" default=\"LEONARDO A LIFE IN ROLES\"} to the top right. Relocate the filmography timeline to the right column beneath the title, and append new era category labels to the far right: \"YOUTH 1990s\", \"ASCENT 2000s\", \"EXCESS 2010s\", and \"SURVIVAL 2020s\". Shift the blended character montage to the left side and lower middle, featuring exactly 12 distinct smaller character portraits (including a pilot, a man yelling into a microphone, a tuxedoed man toasting, and a bearded frontiersman). In the bottom left corner, introduce new elements not in the reference: a vintage pocket watch on a chain, blood splatter, and an axe handle. At the bottom right, add a new quote {argument name=\"quote text\" default=\"HE DOESN'T JUST PLAY CHARACTERS. HE HOLDS UP A MIRROR TO THE CENTURY.\"} and exactly 2 award laurel graphics reading \"ACADEMY AWARD WINNER\" and \"A CAREER FOR THE AGES\". Add a final bottom-center tagline {argument name=\"tagline\" default=\"SAME MAN. ENDLESS TRUTHS.\"} above the signature.",
+  "translatedPrompt": "使用提供的参考图像，对海报布局进行重组。将主标题 {argument name=\"main title\" default=\"LEONARDO A LIFE IN ROLES\"} 移至右上角。将中央的大幅侧面肖像移至右上象限，并将其水平翻转使其朝向右侧。将时间轴文本重新定位到右侧，并在最右侧添加 4 个新的时代分类：{argument name=\"era categories\" default=\"YOUTH 1990s, ASCENT 2000s, EXCESS 2010s, SURVIVAL 2020s\"}。在左侧和底部聚拢 13 个较小的角色肖像。在这些肖像后方整合新的背景元素：{argument name=\"background elements\" default=\"Titanic ship, airplane, cityscapes, Hollywood sign, oil derrick\"}。在左下角添加一个 {argument name=\"added objects\" default=\"pocket watch with chain and blood splatters\"}。更新底部文本，加入 2 个月桂花环图标以及标语 {argument name=\"bottom tagline\" default=\"SAME MAN. ENDLESS TRUTHS.\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "海报布局重组与主题元素添加：通过镜像处理主体、将文本右移并添加特定的背景主题元素及时代分类，对蒙太奇海报进行重新布局。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "poster layout",
+        "horizontal"
+      ],
+      "style": [
+        "vintage"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: poster layout, horizontal]。\n\nVisual style:\n[参考风格: vintage]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13547",
+      "13925",
+      "14084",
+      "14609",
+      "14816",
+      "13791"
+    ]
+  }
+}

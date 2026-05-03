@@ -1,0 +1,51 @@
+{
+  "id": "15663",
+  "prompt": "A vertical social-media comparison poster on a black background with a subtle gray grid, designed like a clean tech review graphic. At the top are two large side-by-side headings: on the left, bright yellow text reading “GPT image 2”; on the right, white text reading “Nano Banana”. Below the headings are 2 tall poster mockups placed side by side with narrow spacing, each in an off-white paper style. The left mockup shows a traditional Chinese ink-wash fantasy poster inspired by Journey to the West, with large vertical Chinese calligraphy “西游记” near the upper left, muted sepia and gray watercolor mountains, cliffs, mist, temple architecture, and 4 tiny human figures visible in the composition: 2 heroic figures near the upper middle on a rocky ledge, plus 2 travelers lower in the scene; a swirling luminous mist vortex appears near the lower area. The right mockup shows a more graphic surreal poster built inside the side-profile silhouette of a human head facing left, filled with a Chinese fantasy landscape including pagodas, water, paths, figures, and the vertical title “西游记” inside the silhouette; the silhouette is painted in dark navy and black watercolor with cream paper around it. Each of the 2 posters has a large centered vertical rectangular blur censor block over the middle area, with soft edges and gray-beige color. Along the bottom is a rounded black caption panel with a thin white outline. Attached to its upper left corner is a bright yellow pill-shaped label containing the Chinese text “提示词” in bold black. Inside the bottom panel is a block of bold white Chinese text in multiple lines. The text should read: “西游记主题收藏版史诗海报，人物侧脸剪影中生长出完整世界观与经典场景。整体偏电影海报和梦幻水彩插画风，安静、宏大、神圣、怀旧，带纸张颗粒、轻雾感、飞白刷痕与高级留白。” The overall style is a polished Chinese tech comparison thumbnail, high contrast, editorial layout, centered composition, 4:5 portrait aspect ratio.",
+  "translatedPrompt": "一张垂直的社交媒体对比海报，背景为黑色并带有细微的灰色网格，设计风格如同简洁的科技测评图。顶部有两个并排的大标题：左侧为亮黄色文字“GPT image 2”；右侧为白色文字“Nano Banana”。标题下方是两个间距较窄、并排摆放的高大海报样机，均采用米白色纸张风格。左侧样机展示了一张受《西游记》启发的传统中国水墨奇幻海报，左上方有巨大的竖排中文书法“西游记”，画面包含柔和的深褐色和灰色水墨山峦、悬崖、云雾、寺庙建筑，以及 4 个微小的人物剪影：2 个英雄人物位于中上部的岩架上，另有 2 个旅人位于场景下方；画面下部出现了一个旋转的发光云雾漩涡。右侧样机展示了一张更具图形感的超现实海报，画面构建在一个向左侧的人头剪影内，内部填充了包含宝塔、水流、小径、人物的中国奇幻景观，剪影内有竖排标题“西游记”；剪影以深海军蓝和黑色水墨绘制，周围环绕着奶油色纸张。两张海报的中间区域均覆盖有一个居中的垂直长方形模糊遮挡块，边缘柔和，呈灰米色。底部是一个带有细白边框的圆角黑色说明面板。其左上角附有一个亮黄色胶囊状标签，内含加粗黑色中文文字“提示词”。底部面板内是一段多行的加粗白色中文文字。文字内容应为：“西游记主题收藏版史诗海报，人物侧脸剪影中生长出完整世界观与经典场景。整体偏电影海报和梦幻水彩插画风，安静、宏大、神圣、怀旧，带纸张颗粒、轻雾感、飞白刷痕与高级留白。” 整体风格为精致的中文科技对比缩略图，高对比度，编辑排版，居中构图，4:5 竖屏比例。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "AI 海报对比缩略图：一张精致的社交媒体对比图，展示了并排的两个《西游记》海报输出结果，并配有中文标签，适用于 AI 图像模型对比帖或测评缩略图。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "grid",
+        "vertical"
+      ],
+      "style": [
+        "editorial",
+        "fantasy",
+        "watercolor"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, grid, vertical]。\n\nVisual style:\n[参考风格: editorial, fantasy, watercolor]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14854",
+      "14977",
+      "15087",
+      "15653",
+      "14877",
+      "15077"
+    ]
+  }
+}

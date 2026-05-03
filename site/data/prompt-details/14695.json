@@ -1,0 +1,51 @@
+{
+  "id": "14695",
+  "prompt": "A clean modern YouTube thumbnail on a bright white background, split visually between bold text on the left and a cropped presenter on the right. On the left, place a massive stacked headline in heavy black sans-serif uppercase reading {argument name=\"headline text\" default=\"CLAUDE DESIGN\"}, aligned top-left across two lines. Below it, add a large rounded rectangular orange banner with a subtle drop shadow containing bold white uppercase text with an orange outline that reads {argument name=\"subheadline text\" default=\"IN 6 MINS\"}. Near the headline, include 2 orange starburst spark shapes, one small beside the text and one much larger in the far right background. In the lower-left quadrant, show a floating app interface mockup for a design tool dashboard with a soft off-white panel, thin borders, rounded corners, and a faint shadow. The interface should have a left sidebar with 4 menu items labeled exactly: \"Recent\", \"Your designs\", \"Examples\", and \"Design systems\". The main panel header should say \"Recent\" and contain 3 project cards arranged in a grid, labeled exactly: \"Thumio Design System\", \"Thumio Startup\", and \"Design System\". On the right half, show a cropped photorealistic young adult man from chest up wearing a white turtleneck sweater, with messy light brown hair and light facial hair, positioned close to camera. His face is intentionally obscured by a solid tan rectangle placeholder covering most of the face area. He points with one hand toward the interface panel on the left, finger extended. Use a warm orange and white brand palette, high contrast, minimal clutter, polished creator-economy thumbnail styling, subtle shadows, and a composition designed for tech tutorial content.",
+  "translatedPrompt": "一张简洁现代的 YouTube 缩略图，采用明亮的白色背景，视觉上分为左侧的粗体文字和右侧的半身演示者。在左侧，放置一个巨大的堆叠式标题，使用加粗的黑色无衬线大写字母，内容为 {argument name=\"headline text\" default=\"CLAUDE DESIGN\"}，左对齐并分两行显示。在其下方，添加一个带有细微投影的大型圆角橙色横幅，内含加粗的白色大写文字，并带有橙色轮廓，内容为 {argument name=\"subheadline text\" default=\"IN 6 MINS\"}。在标题附近，加入 2 个橙色星爆形状，一个较小，位于文字旁，另一个较大，位于远处的背景右侧。在左下象限，展示一个设计工具仪表盘的悬浮应用界面模型，面板呈柔和的灰白色，带有细边框、圆角和淡淡的阴影。界面左侧边栏应包含 4 个菜单项，标签分别为：“Recent”、“Your designs”、“Examples” 和 “Design systems”。主面板标题应显示为 “Recent”，并包含 3 个网格排列的“项目”卡片，标签分别为：“Thumio Design System”、“Thumio Startup” 和 “Design System”。在右半部分，展示一位胸部以上的写实风格年轻男性，身穿白色高领毛衣，留着凌乱的浅棕色头发和浅浅的胡茬，位置靠近镜头。他的脸部被一个覆盖大部分区域的纯棕色矩形占位符刻意遮挡。他的一只手指向左侧的界面面板，手指伸出。采用温暖的橙白品牌配色，高对比度，极简布局，精致的创作者经济缩略图风格，带有细微阴影，构图专为科技教程内容设计。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "科技教程缩略图及 UI 模型：一张醒目的 YouTube 风格缩略图，包含教程标题、设计应用仪表盘模型，以及一位指向界面的演示者，适用于品牌推广或设计系统相关内容。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "grid"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [
+        "high contrast",
+        "camera"
+      ],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[参考光线镜头: high contrast, camera]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14984",
+      "14403",
+      "14891",
+      "13828",
+      "14008",
+      "14435"
+    ]
+  }
+}

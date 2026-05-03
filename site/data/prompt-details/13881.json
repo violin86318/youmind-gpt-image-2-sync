@@ -1,0 +1,48 @@
+{
+  "id": "13881",
+  "prompt": "{\n  \"type\": \"photorealistic Japanese broadsheet newspaper front page\",\n  \"style\": \"hyper-realistic, shot from a slight overhead angle resting on a surface, natural lighting, crisp typography\",\n  \"header\": {\n    \"date\": \"{argument name=\\\"publication date\\\" default=\\\"2026年 (令和8年) 4月23日 木曜日\\\"}\",\n    \"title\": \"{argument name=\\\"newspaper name\\\" default=\\\"朝日新聞\\\"}\",\n    \"sponsor_ad\": \"~くらしとともに~ 水と生きる SUNTORY\"\n  },\n  \"layout\": {\n    \"headlines\": [\n      \"{argument name=\\\"main headline\\\" default=\\\"OpenAI 新モデル「Spud」発表\\\"}\",\n      \"{argument name=\\\"secondary headline\\\" default=\\\"「Codex SuperApp」も同時公開\\\"}\"\n    ],\n    \"sub_banner\": \"サイバー攻撃・コーディング性能で既存ベンチマークを圧倒\",\n    \"centerpiece_image\": {\n      \"description\": \"dark blue background with text '{argument name=\\\"embedded image subject\\\" default=\\\"Codex SuperApp\\\"}' and 3 mobile phone UI screens displaying app interfaces\",\n      \"caption\": \"Codex SuperAppのイメージ (OpenAI提供)\"\n    },\n    \"vertical_side_text\": [\n      \"「AGI時代の基盤に」\",\n      \"開発競争、さらに激化\"\n    ],\n    \"article_sections\": [\n      {\n        \"sub_headline\": \"「圧倒的な前進」専門家ら評価\",\n        \"bullet_points_count\": 3,\n        \"bullet_points\": [\n          \"サイバー攻撃の自動検知・対処能力が従来比で4.2倍\",\n          \"コーディング支援ベンチでSWE-bench最高スコア更新\",\n          \"自然言語理解・推論能力も大幅強化\"\n        ],\n        \"body_text\": \"dense columns of Japanese body copy discussing the AI model release and quotes from Sam Altman\"\n      }\n    ],\n    \"bottom_teasers\": {\n      \"count\": 3,\n      \"items\": [\n        \"関税交渉 日米が再協議へ (経済・3面)\",\n        \"九州で大雨 2人けが (社会・28面)\",\n        \"オピニオン AIとどう向き合うか\"\n      ]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"照片级真实感的日本大报头版\",\n  \"style\": \"超写实，以轻微俯视角度拍摄并放置在平面上，自然光，排版清晰\",\n  \"header\": {\n    \"date\": \"{argument name=\\\"publication date\\\" default=\\\"2026 年 (令和 8 年) 4 月 23 日 星期四\\\"}\",\n    \"title\": \"{argument name=\\\"newspaper name\\\" default=\\\"朝日新闻\\\"}\",\n    \"sponsor_ad\": \"~くらしとともに~ 水と生きる SUNTORY\"\n  },\n  \"layout\": {\n    \"headlines\": [\n      \"{argument name=\\\"main headline\\\" default=\\\"OpenAI 新模型“Spud”发布\\\"}\",\n      \"{argument name=\\\"secondary headline\\\" default=\\\"“Codex SuperApp”同步公开\\\"}\"\n    ],\n    \"sub_banner\": \"在网络攻击与编码性能方面全面超越现有基准测试\",\n    \"centerpiece_image\": {\n      \"description\": \"深蓝色背景，带有文字“{argument name=\\\"embedded image subject\\\" default=\\\"Codex SuperApp\\\"}”以及 3 个显示应用界面的手机 UI 屏幕\",\n      \"caption\": \"Codex SuperApp 概念图 (由 OpenAI 提供)\"\n    },\n    \"vertical_side_text\": [\n      \"“成为 AGI 时代的基石”\",\n      \"开发竞争进一步加剧\"\n    ],\n    \"article_sections\": [\n      {\n        \"sub_headline\": \"“压倒性的进步”专家给予高度评价\",\n        \"bullet_points_count\": 3,\n        \"bullet_points\": [\n          \"网络攻击的自动检测与应对能力较以往提升 4.2 倍\",\n          \"在编码辅助基准测试中刷新 SWE-bench 最高分\",\n          \"自然语言理解与推理能力大幅增强\"\n        ],\n        \"body_text\": \"密集的日语正文栏目，讨论 AI 模型发布及 Sam Altman 的引述\"\n      }\n    ],\n    \"bottom_teasers\": {\n      \"count\": 3,\n      \"items\": [\n        \"关税谈判：日美将重新协商 (经济版·3 面)\",\n        \"九州地区遭遇大雨，2 人受伤 (社会版·28 面)\",\n        \"观点：如何面对 AI\"\n      ]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "照片级真实感的日本报纸头版：生成一张高度精细、照片级真实感的日本报纸头版，支持自定义标题、日期以及嵌入式文章图片。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [
+        "natural light"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[参考光线镜头: natural light]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15631",
+      "14919",
+      "13882",
+      "13886",
+      "14481",
+      "14846"
+    ]
+  }
+}

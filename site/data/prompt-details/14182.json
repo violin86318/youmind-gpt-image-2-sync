@@ -1,0 +1,42 @@
+{
+  "id": "14182",
+  "prompt": "{\n  \"type\": \"website landing page mockup\",\n  \"theme\": \"futuristic memory-to-food 3D printer\",\n  \"header\": {\n    \"logo\": \"{argument name=\\\"brand name\\\" default=\\\"KIOKU BITE\\\"} with a cloud and bite mark icon\",\n    \"navigation_links\": {\n      \"count\": 6,\n      \"labels\": [\"特徴\", \"仕組み\", \"メニュー\", \"ギャラリー\", \"ギフト\", \"よくある質問\"]\n    },\n    \"icons\": [\"user profile\", \"shopping cart with a zero badge\"]\n  },\n  \"layout\": {\n    \"left_column\": {\n      \"headline\": \"{argument name=\\\"headline text\\\" default=\\\"思い出を、食べられる。\\\"}\",\n      \"headline_style\": \"large, colorful, rounded font\",\n      \"subheadline\": \"{argument name=\\\"product description\\\" default=\\\"写真・音声・位置情報から感情の輪郭を読み取り、味・食感・温度で記憶を再現するメモリーデザートプリンター。\\\"}\",\n      \"call_to_action_buttons\": {\n        \"count\": 2,\n        \"primary\": \"gradient background with text '{argument name=\\\"primary button text\\\" default=\\\"思い出を印刷\\\"} >'\",\n        \"secondary\": \"white background, black border, text 'メニューを見る >'\"\n      },\n      \"feature_badges\": {\n        \"count\": 3,\n        \"style\": \"pill-shaped with icons\",\n        \"labels\": [\"感情の味覚変換 (brain icon)\", \"3分プリント (clock icon)\", \"ギフトにも (gift icon)\"]\n      }\n    },\n    \"right_column\": {\n      \"main_product\": \"sleek, white, futuristic 3D food printer appliance\",\n      \"printer_screen\": \"digital display showing 'プリント中...' (Printing...), a 100% progress circle, and a thumbnail of a {argument name=\\\"printing scene\\\" default=\\\"sunset beach with two figures\\\"}\",\n      \"printer_interior\": \"glowing, translucent cube-shaped dessert being printed, containing a miniature 3D diorama of the {argument name=\\\"printing scene\\\" default=\\\"sunset beach with two figures\\\"}\",\n      \"floating_elements\": {\n        \"count\": 4,\n        \"description\": \"translucent memory bubbles containing an audio wave, a sunset photo, a smiling child, and a map pin, surrounded by floating pink flower petals\"\n      }\n    },\n    \"foreground\": {\n      \"plated_desserts\": {\n        \"count\": 4,\n        \"descriptions\": [\n          \"snow globe dome containing a cherry blossom scene with a person on a bridge\",\n          \"cloud-like white dessert with a pink heart center\",\n          \"cylindrical cake resembling a swirling blue ocean wave\",\n          \"faceted, gem-like purple galaxy dessert\"\n        ]\n      }\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"website landing page mockup\",\n  \"theme\": \"futuristic memory-to-food 3D printer\",\n  \"header\": {\n    \"logo\": \"{argument name=\\\"brand name\\\" default=\\\"KIOKU BITE\\\"} with a cloud and bite mark icon\",\n    \"navigation_links\": {\n      \"count\": 6,\n      \"labels\": [\"特徴\", \"仕組み\", \"メニュー\", \"ギャラリー\", \"ギフト\", \"よくある質問\"]\n    },\n    \"icons\": [\"user profile\", \"shopping cart with a zero badge\"]\n  },\n  \"layout\": {\n    \"left_column\": {\n      \"headline\": \"{argument name=\\\"headline text\\\" default=\\\"思い出を、食べられる。\\\"}\",\n      \"headline_style\": \"large, colorful, rounded font\",\n      \"subheadline\": \"{argument name=\\\"product description\\\" default=\\\"写真・音声・位置情報から感情の輪郭を読み取り、味・食感・温度で記憶を再現するメモリーデザートプリンター。\\\"}\",\n      \"call_to_action_buttons\": {\n        \"count\": 2,\n        \"primary\": \"gradient background with text '{argument name=\\\"primary button text\\\" default=\\\"思い出を印刷\\\"} >'\",\n        \"secondary\": \"white background, black border, text 'メニューを見る >'\"\n      },\n      \"feature_badges\": {\n        \"count\": 3,\n        \"style\": \"pill-shaped with icons\",\n        \"labels\": [\"感情の味覚変換 (brain icon)\", \"3分プリント (clock icon)\", \"ギフトにも (gift icon)\"]\n      }\n    },\n    \"right_column\": {\n      \"main_product\": \"sleek, white, futuristic 3D food printer appliance\",\n      \"printer_screen\": \"digital display showing 'プリント中...' (Printing...), a 100% progress circle, and a thumbnail of a {argument name=\\\"printing scene\\\" default=\\\"sunset beach with two figures\\\"}\",\n      \"printer_interior\": \"glowing, translucent cube-shaped dessert being printed, containing a miniature 3D diorama of the {argument name=\\\"printing scene\\\" default=\\\"sunset beach with two figures\\\"}\",\n      \"floating_elements\": {\n        \"count\": 4,\n        \"description\": \"translucent memory bubbles containing an audio wave, a sunset photo, a smiling child, and a map pin, surrounded by floating pink flower petals\"\n      }\n    },\n    \"foreground\": {\n      \"plated_desserts\": {\n        \"count\": 4,\n        \"descriptions\": [\n          \"snow globe dome containing a cherry blossom scene with a person on a bridge\",\n          \"cloud-like white dessert with a pink heart center\",\n          \"cylindrical cake resembling a swirling blue ocean wave\",\n          \"faceted, gem-like purple galaxy dessert\"\n        ]\n      }\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Futuristic 3D Food Printer Landing Page：Generates a website mockup for a sci-fi appliance that prints memories as magical desserts, featuring UI elements and detailed product visuals.",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "3d",
+        "sci-fi"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: 3d, sci-fi]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13902",
+      "13905",
+      "14403",
+      "15795",
+      "14623",
+      "14649"
+    ]
+  }
+}

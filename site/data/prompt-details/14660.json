@@ -1,0 +1,47 @@
+{
+  "id": "14660",
+  "prompt": "A cinematic ultra-detailed dystopian sci-fi scene showing a colossal humanoid robot leaning in toward a lone woman standing on a small rusted balcony attached to a crumbling concrete high-rise. The composition is wide and dramatic: the woman is positioned on the far left, tiny in scale, while the robot dominates the entire right side of the frame. The giant machine has a weathered white-gray metal shell covered in scratches, grime, rust streaks, exposed joints, cables, pistons, and circular mechanical assemblies, with one glowing icy-blue eye. Its massive open hand is extended gently toward the woman, palm up, as if offering help or inviting trust. The woman appears to be a young adult with dark hair tied back, wearing a muted green hooded jacket and dark pants, standing upright and looking up at the robot without fear. Behind them is a dense, worn urban skyline of low rooftops and distant modern skyscrapers fading into haze, under a heavy overcast sky with thick gray storm clouds. The mood is melancholic, intimate, and awe-inspiring, blending post-apocalyptic realism with emotional scale contrast. Use photorealistic rendering, cinematic lighting, desaturated colors, sharp industrial textures, atmospheric perspective, dramatic cloud detail, and a sense of quiet connection between human and machine.",
+  "translatedPrompt": "一个电影级反乌托邦科幻场景，采用宽画幅、写实风格：一个巨大的风化人形机器人占据了画面右侧，正向左侧远端一个狭小生锈公寓阳台上的孤独女子俯身。机器人高达数层楼，拥有圆形的头盔状头部，一只可见的蓝色发光眼睛，密集的裸露机械关节、分层装甲板、电缆、活塞，以及布满划痕的白灰色金属，覆盖着铁锈、污垢和战斗痕迹。它巨大的右臂向女子伸出，手掌张开并向上，呈现出温柔的馈赠姿态，其精巧的金属手指和巨大的前臂占据了画面下方中心位置。相比之下，女子显得非常渺小，侧身站立，抬头看着机器人，表情平静而沉思；她穿着深绿色连帽夹克和深色裤子，深色头发扎成低马尾。将她置于一个狭窄且腐蚀的阳台上，阳台带有生锈的栏杆，附着在一栋破败的混凝土高层建筑上，左侧边缘可见 2 层阳台及破损废弃的建筑细节。背景展示了一座密集、灰暗、被雨水浸透的超级城市，紧密排列的低层建筑逐渐隐入远处的现代摩天大楼和朦胧的山脉中。采用戏剧性的阴天光照，厚重的风暴云，柔和的钢灰色和炭黑色调，细腻的大气透视，淡淡的薄雾，营造出巨大的尺度感、孤独感以及人机之间意想不到的温柔。超精细纹理，逼真的金属磨损，电影级景深，情绪化的色彩分级，高对比度云层，以及严肃的未来主义基调。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "巨型机器人与阳台上的女子：此提示词可生成一张电影级写实科幻图像，描绘了一个高耸且破旧的机器人向阳台上孤独的女子温柔伸手的场景，非常适合反乌托邦概念艺术或戏剧性的 AI 展示视觉效果。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "sci-fi"
+      ],
+      "lightingCamera": [
+        "overcast"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, sci-fi]。\n\nLighting and camera:\n[参考光线镜头: overcast]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14077",
+      "15758",
+      "15355",
+      "15308",
+      "15443",
+      "15515"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "15346",
+  "prompt": "A dreamy cinematic fantasy night scene on a calm reflective sea under a deep indigo star-filled sky, with 1 large full moon in the upper left and the Milky Way stretching diagonally across the background. In the center, a slender woman with {argument name=\"hair color\" default=\"black\"} long straight hair walks barefoot across the shallow mirror-like water from left to right, shown in elegant full body profile. She wears a shimmering translucent silver evening gown with a fitted sparkling bodice, thin straps, a flowing gauzy skirt, and a high slit revealing one leg, the fabric trailing in the breeze. Around her right side, a curved arc of glowing magical particles forms 1 crescent-shaped trail made of luminous white roses, petals, and tiny lights, rising from the water near her reflection and curling upward beside her. Beneath her on the reflective surface appears a fantastical mirrored image: 1 glowing transparent white tiger lying on its side, rendered like liquid light and stardust, detailed with bright stripes and a softly radiant face. The water is glassy with subtle ripples and crisp reflections of the woman, moon, stars, and magical light. Low dark islands sit on the distant horizon. At the bottom center, add elegant luminous cursive text reading {argument name=\"quote\" default=\"In me the tiger sniffs the rose\"}. Ultra-detailed, ethereal, poetic, photoreal fantasy art, soft moonlight, cool blue palette, high contrast, gentle bloom, mystical atmosphere, widescreen composition.",
+  "translatedPrompt": "一幅梦幻般的电影质感奇幻夜景，背景是深靛蓝色的星空，平静的海面如镜面般倒映着一切。左上方悬挂着 1 轮巨大的满月，银河斜向横跨整个背景。画面中央，一位身材修长的女子留着 {argument name=\"hair color\" default=\"黑色\"} 的长直发，赤脚走在浅浅的镜面水域上，从左向右行进，呈现出优雅的全身侧影。她身穿一件闪烁的半透明银色晚礼服，紧身胸衣闪闪发光，细肩带设计，裙摆轻盈飘逸，高开叉露出一条腿，裙摆在微风中摇曳。在她右侧，一道弯曲的魔法粒子弧线形成 1 条新月形轨迹，由发光的白玫瑰、花瓣和微小的光点组成，从她倒影附近的水面升起，并在她身旁向上盘旋。在她下方的水面上倒映着一个奇幻的镜像：1 只发光的透明白虎侧卧着，呈现出如液态光芒和星尘般的质感，带有明亮的条纹和柔和光亮的脸庞。水面如玻璃般平滑，带有细微的涟漪，清晰地倒映出女子、月亮、星星和魔法光芒。远处的地平线上坐落着低矮的深色岛屿。在底部中央，添加优雅的发光草书文字 {argument name=\"quote\" default=\"心有猛虎，细嗅蔷薇\"}。超精细、空灵、诗意、写实奇幻艺术，柔和月光，冷色调，高对比度，柔光效果，神秘氛围，宽银幕构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "月光下的女子与虎影：一幅电影质感的奇幻艺术作品，描绘了一位身着闪亮礼服的女子走在倒映着水面的地方，伴随着发光的虎影和如魔法玫瑰般的光迹，非常适合作为诗意海报或超现实主义书籍封面。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, fantasy]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14484",
+      "15746",
+      "14600",
+      "15308",
+      "15618",
+      "15673"
+    ]
+  }
+}

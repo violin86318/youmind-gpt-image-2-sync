@@ -1,0 +1,54 @@
+{
+  "id": "15081",
+  "prompt": "{\"type\":\"luxury watch product specification poster\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"CENDRÉ MINUIT\\\"}\",\"tagline\":\"MANUFACTURE\",\"monogram\":\"CM\"},\"subject\":{\"product\":\"dress wristwatch\",\"case\":{\"diameter\":\"{argument name=\\\"case size\\\" default=\\\"38mm\\\"}\",\"material\":\"{argument name=\\\"case material\\\" default=\\\"rose gold\\\"}\",\"finish\":\"high-polish warm rose gold tone\",\"shape\":\"round ultra-thin case with elegant curved lugs\",\"crown\":\"fluted crown with engraved monogram\"},\"dial\":{\"color\":\"{argument name=\\\"dial color\\\" default=\\\"charcoal black\\\"}\",\"style\":\"minimalist sector-textured dial\",\"markers\":{\"count\":10,\"details\":\"8 slim baton indices plus Arabic numerals at 12, 3, and 9, with no marker at 6 because of subdial\"},\"hands\":\"leaf-shaped rose gold hour and minute hands\",\"subdials\":{\"count\":1,\"type\":\"small seconds at 6 o'clock\"},\"text\":[\"CENDRÉ MINUIT\",\"MANUFACTURE\",\"SWISS MADE\"]},\"strap\":{\"material\":\"{argument name=\\\"strap material\\\" default=\\\"black alligator leather\\\"}\",\"color\":\"black\",\"attachment\":\"quick-release spring bar system\"},\"movement\":{\"type\":\"mechanical hand-finished movement\",\"visible_caseback\":true,\"power_reserve\":\"72HR\"}},\"layout\":{\"background\":\"soft warm light gray with thin double-line border around the full canvas\",\"orientation\":\"vertical poster\",\"sections\":[{\"title\":\"hero product shot\",\"position\":\"top\",\"count\":1,\"labels\":[\"main watch\"]},{\"title\":\"1. HAND-FINISHED MOVEMENT\",\"position\":\"middle left\",\"count\":1,\"labels\":[\"Visible through sapphire caseback\"]},{\"title\":\"2. CASE CONSTRUCTION\",\"position\":\"middle center\",\"count\":1,\"labels\":[\"Cross-section view\",\"10.25mm TOTAL THICKNESS\",\"1.80mm SAPPHIRE CRYSTAL (ANTI-REFLECTIVE)\",\"7.45mm CASE MIDDLE\",\"0.90mm SAPPHIRE CASEBACK (ANTI-REFLECTIVE)\"]},{\"title\":\"3. STRAP ATTACHMENT\",\"position\":\"middle right\",\"count\":1,\"labels\":[\"Quick-release spring bar system\"]},{\"title\":\"feature list left\",\"position\":\"bottom left\",\"count\":4,\"labels\":[\"CENDRÉ MINUIT\",\"38mm ROSE GOLD CASE\",\"HAND-FINISHED MOVEMENT\",\"72HR POWER RESERVE\"]},{\"title\":\"feature list right\",\"position\":\"bottom right\",\"count\":3,\"labels\":[\"ANTI-REFLECTIVE SAPPHIRE\",\"50m WATER RESISTANT\",\"ALLIGATOR LEATHER STRAP\"]}],\"dividers\":\"thin gray vertical and horizontal rules separating sections\"},\"visual_style\":{\"look\":\"premium Swiss watch advertisement and technical spec sheet\",\"lighting\":\"soft studio lighting with realistic metal reflections and subtle shadows\",\"camera\":\"hero watch shown in large three-quarter front view angled slightly right, strap extending off frame; detailed macro closeups in lower panels\",\"typography\":\"refined uppercase luxury sans-serif with generous letter spacing\",\"render_quality\":\"photorealistic, high-end catalog, precise engraving, realistic leather grain, crisp technical diagram lines\"}}",
+  "translatedPrompt": "{\"type\":\"奢华腕表产品规格海报\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"CENDRÉ MINUIT\\\"}\",\"tagline\":\"MANUFACTURE\",\"monogram\":\"CM\"},\"subject\":{\"product\":\"正装腕表\",\"case\":{\"diameter\":\"{argument name=\\\"case size\\\" default=\\\"38mm\\\"}\",\"material\":\"{argument name=\\\"case material\\\" default=\\\"玫瑰金\\\"}\",\"finish\":\"高抛光暖色玫瑰金调\",\"shape\":\"圆形超薄表壳，配以优雅的弧形表耳\",\"crown\":\"镌刻品牌字母组合的凹槽表冠\"},\"dial\":{\"color\":\"{argument name=\\\"dial color\\\" default=\\\"炭黑色\\\"}\",\"style\":\"极简扇形纹理表盘\",\"markers\":{\"count\":10,\"details\":\"8 枚纤细条形刻度，12、3、9 点位为阿拉伯数字，6 点位因小秒盘无刻度\"},\"hands\":\"叶形玫瑰金时针和分针\",\"subdials\":{\"count\":1,\"type\":\"6 点位小秒盘\"},\"text\":[\"CENDRÉ MINUIT\",\"MANUFACTURE\",\"SWISS MADE\"]},\"strap\":{\"material\":\"{argument name=\\\"strap material\\\" default=\\\"黑色鳄鱼皮\\\"}\",\"color\":\"黑色\",\"attachment\":\"快拆生耳系统\"},\"movement\":{\"type\":\"机械手工打磨机芯\",\"visible_caseback\":true,\"power_reserve\":\"72 小时\"}},\"layout\":{\"background\":\"柔和暖灰色，画布四周环绕纤细双线边框\",\"orientation\":\"竖版海报\",\"sections\":[{\"title\":\"主视觉产品图\",\"position\":\"顶部\",\"count\":1,\"labels\":[\"主腕表\"]},{\"title\":\"1. 手工打磨机芯\",\"position\":\"中左\",\"count\":1,\"labels\":[\"透过蓝宝石底盖可见\"]},{\"title\":\"2. 表壳结构\",\"position\":\"中中\",\"count\":1,\"labels\":[\"横截面视图\",\"总厚度 10.25mm\",\"1.80mm 蓝宝石水晶玻璃（防反射）\",\"7.45mm 表壳中框\",\"0.90mm 蓝宝石底盖（防反射）\"]},{\"title\":\"3. 表带连接\",\"position\":\"中右\",\"count\":1,\"labels\":[\"快拆生耳系统\"]},{\"title\":\"左侧功能列表\",\"position\":\"底部左侧\",\"count\":4,\"labels\":[\"CENDRÉ MINUIT\",\"38mm 玫瑰金表壳\",\"手工打磨机芯\",\"72 小时动力储备\"]},{\"title\":\"右侧功能列表\",\"position\":\"底部右侧\",\"count\":3,\"labels\":[\"防反射蓝宝石玻璃\",\"50 米防水\",\"鳄鱼皮表带\"]}],\"dividers\":\"纤细的灰色垂直和水平线分隔各区域\"},\"visual_style\":{\"look\":\"高端瑞士腕表广告及技术规格表\",\"lighting\":\"柔和摄影棚灯光，呈现逼真的金属反射与细腻阴影\",\"camera\":\"主腕表以大尺寸四分之三正面视角呈现，略向右倾斜，表带延伸至画框外；下方板块展示精细微距特写\",\"typography\":\"精致的大写奢华无衬线字体，字间距宽裕\",\"render_quality\":\"照片级真实感，高端产品目录品质，精准的镌刻细节，逼真的皮革纹理，清晰的技术图解线条\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奢华腕表技术海报：一款专为奢华机械腕表设计的高端产品海报，将精美的主视觉图与技术图解及功能标注相结合，适用于品牌宣传活动或产品目录页面。",
+      "subject": "信息结构",
+      "scene": "产品/电商",
+      "composition": [
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "minimalist",
+        "luxury",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting",
+        "camera"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, photorealistic, minimalist, luxury, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting, camera]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15447",
+      "14576",
+      "15774",
+      "15776",
+      "15600",
+      "15601"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "13764",
+  "prompt": "{\n  \"type\": \"two-page yoga instruction book spread\",\n  \"subject\": \"Asian woman with hair in a high bun, wearing {argument name=\\\"subject outfit\\\" default=\\\"blue sports bra and matching leggings\\\"}\",\n  \"layout\": {\n    \"left_page\": {\n      \"header\": {\n        \"title_english\": \"{argument name=\\\"pose name english\\\" default=\\\"Eka Pada Koundinyasana I\\\"}\",\n        \"subtitle_english\": \"One-Legged Sage Koundinya's Pose I\",\n        \"title_korean\": \"{argument name=\\\"pose name korean\\\" default=\\\"에카 파다 콘디니아사나 I\\\"}\",\n        \"subtitle_korean\": \"한 다리로 균형을 잡는 현자의 자세 I\"\n      },\n      \"main_image\": \"large photo of the subject performing the full arm balance pose on a grey yoga mat\",\n      \"description\": \"paragraph of Korean text explaining the pose\",\n      \"bottom_columns\": [\n        { \"title\": \"효과\", \"count\": 3, \"description\": \"list of physical benefits\" },\n        { \"title\": \"준비 자세\", \"count\": 3, \"description\": \"list of preparatory poses\" }\n      ],\n      \"footer\": \"page {argument name=\\\"page number left\\\" default=\\\"102\\\"} and section title\"\n    },\n    \"right_page\": {\n      \"header\": \"HOW TO DO / 따라 해보기\",\n      \"steps_grid\": {\n        \"count\": 4,\n        \"description\": \"numbered steps 1 to 4 with Korean instructions and progression photos\",\n        \"images\": [\n          \"Step 1: sitting, preparing arm and leg\",\n          \"Step 2: leaning forward, hands on mat\",\n          \"Step 3: lifting off the ground\",\n          \"Step 4: full balanced pose\"\n        ]\n      },\n      \"tip_box\": { \"title\": \"TIP\", \"count\": 3, \"description\": \"bulleted Korean text lines in a shaded box\" },\n      \"footer\": \"section title and page {argument name=\\\"page number right\\\" default=\\\"103\\\"}\"\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"双页瑜伽指导书排版\",\n  \"subject\": \"扎着高丸子头的亚洲女性，身穿 {argument name=\\\"subject outfit\\\" default=\\\"蓝色运动内衣和配套紧身裤\\\"}\",\n  \"layout\": {\n    \"left_page\": {\n      \"header\": {\n        \"title_english\": \"{argument name=\\\"pose name english\\\" default=\\\"Eka Pada Koundinyasana I\\\"}\",\n        \"subtitle_english\": \"One-Legged Sage Koundinya's Pose I\",\n        \"title_korean\": \"{argument name=\\\"pose name korean\\\" default=\\\"에카 파다 콘디니아사나 I\\\"}\",\n        \"subtitle_korean\": \"한 다리로 균형을 잡는 현자의 자세 I\"\n      },\n      \"main_image\": \"一张主体在灰色瑜伽垫上完成完整手臂平衡姿势的大幅照片\",\n      \"description\": \"一段解释该姿势的韩文文本\",\n      \"bottom_columns\": [\n        { \"title\": \"功效\", \"count\": 3, \"description\": \"身体益处列表\" },\n        { \"title\": \"准备姿势\", \"count\": 3, \"description\": \"准备动作列表\" }\n      ],\n      \"footer\": \"第 {argument name=\\\"page number left\\\" default=\\\"102\\\"} 页及章节标题\"\n    },\n    \"right_page\": {\n      \"header\": \"HOW TO DO / 动作要领\",\n      \"steps_grid\": {\n        \"count\": 4,\n        \"description\": \"包含韩文说明和进阶照片的 1 至 4 步编号指南\",\n        \"images\": [\n          \"第 1 步：坐姿，准备手臂和腿部\",\n          \"第 2 步：身体前倾，双手撑在垫子上\",\n          \"第 3 步：离地抬起\",\n          \"第 4 步：完成平衡姿势\"\n        ]\n      },\n      \"tip_box\": { \"title\": \"提示\", \"count\": 3, \"description\": \"阴影框内的韩文要点列表\" },\n      \"footer\": \"章节标题及第 {argument name=\\\"page number right\\\" default=\\\"103\\\"} 页\"\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "瑜伽书双页排版：为瑜伽指导手册生成逼真的双页布局，包含主姿势照片、分步指南以及双语文本。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "grid"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13597",
+      "13945",
+      "14243",
+      "14692",
+      "14963",
+      "15707"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "13910",
+  "prompt": "{\n  \"type\": \"anime character design document\",\n  \"character\": {\n    \"concept\": \"{argument name=\\\"character concept\\\" default=\\\"cybernetic maid with elf ears\\\"}\",\n    \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"light blue\\\"} short bob with headband\",\n    \"eyes\": \"{argument name=\\\"eye color\\\" default=\\\"red\\\"}\",\n    \"outfit\": \"{argument name=\\\"outfit style\\\" default=\\\"black and white maid dress\\\"}\",\n    \"features\": \"mechanical joints on arms and legs, cybernetic neck\"\n  },\n  \"layout\": {\n    \"style\": \"clean technical blueprint style with grid lines and numbered sections\",\n    \"sections\": [\n      {\n        \"number\": \"01\",\n        \"title\": \"TURNAROUND\",\n        \"count\": 3,\n        \"description\": \"full-body views: front, side, back\"\n      },\n      {\n        \"number\": \"02\",\n        \"title\": \"EXPRESSION SHEET\",\n        \"count\": 5,\n        \"labels\": [\"NEUTRAL\", \"SOFT SMILE\", \"SLIGHTLY SAD\", \"FOCUSED / SERIOUS\", \"FAINTLY SURPRISED\"]\n      },\n      {\n        \"number\": \"03\",\n        \"title\": \"PARTS BREAKDOWN\",\n        \"count\": 4,\n        \"components\": [\n          {\"name\": \"Maid Outfit\", \"labels\": [\"HEADBAND & RIBBON\", \"UPPER FRILL LAYER\", \"ELBOW JOINT\", \"APRON\", \"SKIRT LAYER\", \"LACE / UNDERSKIRT\"]},\n          {\"name\": \"ARM (RIGHT)\", \"labels\": [\"UPPER ARM PANEL\", \"SHOULDER JOINT\", \"ELBOW JOINT\", \"FOREARM PANEL\", \"WRIST JOINT\", \"HAND UNIT\"]},\n          {\"name\": \"NECK INTERFACE\", \"labels\": [\"CYBERNETIC SPINE CONNECTOR\"]},\n          {\"name\": \"LEG (RIGHT)\", \"labels\": [\"THIGH PANEL\", \"HIP JOINT\", \"KNEE JOINT\", \"SHIN PANEL\", \"ANKLE JOINT\", \"FOOT UNIT\"]}\n        ]\n      },\n      {\n        \"number\": \"04\",\n        \"title\": \"COLOR PALETTE\",\n        \"count\": 8,\n        \"swatches\": [\n          {\"label\": \"HAIR\", \"hex\": \"#87CEEB\"},\n          {\"label\": \"EYES\", \"hex\": \"#C62828\"},\n          {\"label\": \"OUTFIT - BLACK\", \"hex\": \"#1A1A1A\"},\n          {\"label\": \"OUTFIT - WHITE\", \"hex\": \"#FFFFFF\"},\n          {\"label\": \"LACE / FRILL\", \"hex\": \"#E6E6EA\"},\n          {\"label\": \"MECHANICAL - WHITE\", \"hex\": \"#F2F4F7\"},\n          {\"label\": \"MECHANICAL - DARK\", \"hex\": \"#121417\"},\n          {\"label\": \"ACCENT (BLUE)\", \"hex\": \"#00BFFF\"}\n        ]\n      },\n      {\n        \"number\": \"05\",\n        \"title\": \"WORLD NOTE\",\n        \"text\": \"{argument name=\\\"world note text\\\" default=\\\"A cybernetic maintenance unit disguised as a maid. She inhabits a vast gothic megastructure, endlessly maintaining forgotten architecture. Despite her mechanical body, she retains quiet emotions and autonomy.\\\"}\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"动漫角色设计文档\",\n  \"character\": {\n    \"concept\": \"{argument name=\\\"character concept\\\" default=\\\"带有精灵耳的赛博格女仆\\\"}\",\n    \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"浅蓝色\\\"} 短波波头，配有发带\",\n    \"eyes\": \"{argument name=\\\"eye color\\\" default=\\\"红色\\\"}\",\n    \"outfit\": \"{argument name=\\\"outfit style\\\" default=\\\"黑白女仆装\\\"}\",\n    \"features\": \"手臂和腿部的机械关节，赛博格颈部\"\n  },\n  \"layout\": {\n    \"style\": \"简洁的技术蓝图风格，带有网格线和编号分区\",\n    \"sections\": [\n      {\n        \"number\": \"01\",\n        \"title\": \"三视图\",\n        \"count\": 3,\n        \"description\": \"全身视图：正面、侧面、背面\"\n      },\n      {\n        \"number\": \"02\",\n        \"title\": \"表情图表\",\n        \"count\": 5,\n        \"labels\": [\"中性\", \"温柔微笑\", \"略显忧伤\", \"专注 / 严肃\", \"轻微惊讶\"]\n      },\n      {\n        \"number\": \"03\",\n        \"title\": \"部件拆解\",\n        \"count\": 4,\n        \"components\": [\n          {\"name\": \"女仆装\", \"labels\": [\"发带与丝带\", \"上层荷叶边\", \"肘部关节\", \"围裙\", \"裙摆层\", \"蕾丝 / 内衬裙\"]},\n          {\"name\": \"手臂（右）\", \"labels\": [\"上臂面板\", \"肩部关节\", \"肘部关节\", \"前臂面板\", \"腕部关节\", \"手部单元\"]},\n          {\"name\": \"颈部接口\", \"labels\": [\"赛博格脊柱连接器\"]},\n          {\"name\": \"腿部（右）\", \"labels\": [\"大腿面板\", \"髋关节\", \"膝关节\", \"小腿面板\", \"踝关节\", \"足部单元\"]}\n        ]\n      },\n      {\n        \"number\": \"04\",\n        \"title\": \"配色方案\",\n        \"count\": 8,\n        \"swatches\": [\n          {\"label\": \"头发\", \"hex\": \"#87CEEB\"},\n          {\"label\": \"眼睛\", \"hex\": \"#C62828\"},\n          {\"label\": \"服装 - 黑色\", \"hex\": \"#1A1A1A\"},\n          {\"label\": \"服装 - 白色\", \"hex\": \"#FFFFFF\"},\n          {\"label\": \"蕾丝 / 荷叶边\", \"hex\": \"#E6E6EA\"},\n          {\"label\": \"机械 - 白色\", \"hex\": \"#F2F4F7\"},\n          {\"label\": \"机械 - 深色\", \"hex\": \"#121417\"},\n          {\"label\": \"强调色（蓝色）\", \"hex\": \"#00BFFF\"}\n        ]\n      },\n      {\n        \"number\": \"05\",\n        \"title\": \"世界观备注\",\n        \"text\": \"{argument name=\\\"world note text\\\" default=\\\"一个伪装成女仆的赛博格维护单元。她居住在一座巨大的哥特式巨型建筑中，无休止地维护着被遗忘的建筑。尽管拥有机械身体，她仍保留着安静的情感和自主意识。\\\"}\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "赛博格角色参考图表：生成一份详尽的技术性角色参考图表，包含三视图、表情、部件拆解和配色方案。",
+      "subject": "服饰",
+      "scene": "人物/角色",
+      "composition": [
+        "full-body",
+        "grid"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body, grid]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14510",
+      "14445",
+      "15364",
+      "15434",
+      "13797",
+      "14025"
+    ]
+  }
+}

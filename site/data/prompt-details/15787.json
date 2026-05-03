@@ -1,0 +1,52 @@
+{
+  "id": "15787",
+  "prompt": "{\"type\":\"minimal skincare brand book spread\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"rhode\\\"}\",\"industry\":\"skincare\",\"style\":\"quiet luxury, clean, editorial, minimalist, soft neutral tones\"},\"canvas\":{\"background\":\"very light warm gray\",\"format\":\"wide landscape presentation board\",\"grid\":\"2 rows x 3 columns\",\"count\":6,\"gutters\":\"thin white spacing between panels\"},\"layout\":{\"sections\":[{\"title\":\"cover\",\"position\":\"top-left\",\"count\":1,\"elements\":[\"cropped beauty portrait of a woman with slicked-back dark hair and visible ear, neck, and shoulder\",\"large lowercase wordmark over the portrait\",\"small subtitle reading brand kit and a season-year line\",\"soft taupe-gray background\",\"a large square color block overlay obscuring the center-left of the face\"]},{\"title\":\"01. OUR BRAND\",\"position\":\"top-center\",\"count\":1,\"elements\":[\"small section number and title at top\",\"left-aligned paragraph block\",\"headline stating that the brand is a skincare brand with one of everything really good\",\"short supporting body copy in small light gray text\",\"large creamy skincare smear image on the right side\"]},{\"title\":\"02. BRAND PILLARS\",\"position\":\"top-right\",\"count\":1,\"elements\":[\"small section number and title at top\",\"4 icon-and-text columns\",\"labels: ESSENTIAL, EFFECTIVE, INTENTIONAL, INCLUSIVE\",\"icons: tube, smiley face, heart, interlocking circles\",\"one short descriptor paragraph under each pillar\"]},{\"title\":\"03. VISUAL IDENTITY\",\"position\":\"bottom-left\",\"count\":1,\"elements\":[\"small section number and title at top\",\"large central lowercase wordmark\",\"logo variations row with 3 variants\",\"labels for supporting subareas including logo, logo variation, clear space, minimum size\",\"clear space diagram\",\"minimum size example\"]},{\"title\":\"04. COLOR PALETTE\",\"position\":\"bottom-center\",\"count\":1,\"elements\":[\"small section number and title at top\",\"5 vertical rectangular color swatches\",\"labels: PEPTIDE GRAY, GLAZE, VANILLA SKIN, PINK GLAZE, TOAST\",\"tiny specification lines under each swatch\"]},{\"title\":\"05. TYPOGRAPHY\",\"position\":\"bottom-right\",\"count\":1,\"elements\":[\"small section number and title at top\",\"large sample text for primary typeface\",\"primary typeface name shown as {argument name=\\\"primary typeface\\\" default=\\\"NEUE HAAS GROTESK\\\"}\",\"alphabet and numerals sample\",\"3 weight samples labeled 55 ROMAN, 65 MEDIUM, 75 BOLD with the line 'The quick brown fox'\",\"secondary typeface line showing Georgia Regular\",\"small usage notes blocks\"]}],\"footer\":\"tiny page markers and brand kit captions on each panel\"},\"palette\":{\"overall\":[\"warm off-white\",\"light gray\",\"taupe\",\"beige\",\"blush pink\",\"soft brown\"]},\"typography\":{\"wordmark\":\"bold rounded lowercase sans serif\",\"body\":\"small understated editorial sans serif\",\"mood\":\"premium, restrained, airy\"},\"rendering\":{\"look\":\"high-end brand guidelines presentation mockup\",\"lighting\":\"soft flat studio lighting\",\"detail\":\"crisp layout, subtle contrast, lots of negative space\"}}",
+  "translatedPrompt": "{\"type\":\"极简护肤品牌手册排版\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"rhode\\\"}\",\"industry\":\"护肤\",\"style\":\"静奢风、干净、编辑感、极简主义、柔和中性色调\"},\"canvas\":{\"background\":\"极浅暖灰色\",\"format\":\"宽屏横向演示项目\",\"grid\":\"2 行 x 3 列\",\"count\":6,\"gutters\":\"面板间细白间距\"},\"layout\":{\"sections\":[{\"title\":\"封面\",\"position\":\"左上\",\"count\":1,\"elements\":[\"女性美容特写，梳着后梳深色发型，露出耳朵、颈部和肩膀\",\"肖像上方大号小写字标\",\"小标题显示品牌指南及季节年份行\",\"柔和灰褐色背景\",\"一个遮盖脸部左中位置的大型方形色块覆盖层\"]},{\"title\":\"01. 品牌介绍\",\"position\":\"中上\",\"count\":1,\"elements\":[\"顶部小节编号和标题\",\"左对齐段落块\",\"标题声明该品牌是一个追求精简、品质至上的护肤品牌\",\"小号浅灰色文本的简短正文\",\"右侧大面积奶油质感护肤品涂抹图\"]},{\"title\":\"02. 品牌支柱\",\"position\":\"右上\",\"count\":1,\"elements\":[\"顶部小节编号和标题\",\"4 列图标与文本\",\"标签：ESSENTIAL（核心）、EFFECTIVE（高效）、INTENTIONAL（专注）、INCLUSIVE（包容）\",\"图标：软管、笑脸、爱心、互锁圆环\",\"每个支柱下方一段简短的描述性文字\"]},{\"title\":\"03. 视觉识别\",\"position\":\"左下\",\"count\":1,\"elements\":[\"顶部小节编号和标题\",\"中央大号小写字标\",\"包含 3 种变体的标志变体行\",\"包括标志、标志变体、留白区域、最小尺寸在内的辅助区域标签\",\"留白区域示意图\",\"最小尺寸示例\"]},{\"title\":\"04. 色彩方案\",\"position\":\"中下\",\"count\":1,\"elements\":[\"顶部小节编号和标题\",\"5 个垂直矩形色块\",\"标签：PEPTIDE GRAY（肽灰）、GLAZE（釉光）、VANILLA SKIN（香草肌）、PINK GLAZE（粉釉）、TOAST（烤色）\",\"每个色块下方细小的规格说明线\"]},{\"title\":\"05. 字体排版\",\"position\":\"右下\",\"count\":1,\"elements\":[\"顶部小节编号和标题\",\"主字体大号示例文本\",\"主字体名称显示为 {argument name=\\\"primary typeface\\\" default=\\\"NEUE HAAS GROTESK\\\"}\",\"字母和数字示例\",\"3 种字重样本，标注为 55 ROMAN、65 MEDIUM、75 BOLD，并附带 'The quick brown fox' 样句\",\"显示 Georgia Regular 的次级字体行\",\"小型用法说明块\"]}],\"footer\":\"每个面板上的微型页面标记和品牌指南说明\"},\"palette\":{\"overall\":[\"暖米白\",\"浅灰\",\"灰褐\",\"米色\",\"腮红粉\",\"柔棕\"]},\"typography\":{\"wordmark\":\"粗体圆润小写无衬线字体\",\"body\":\"小型低调的编辑风格无衬线字体\",\"mood\":\"高端、克制、通透\"},\"rendering\":{\"look\":\"高端品牌指南演示样机\",\"lighting\":\"柔和均匀的摄影棚光效\",\"detail\":\"清晰的排版、微妙的对比度、大量的留白\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "极简护肤品牌指南项目：一个为高端护肤品牌设计的简洁编辑风格品牌指南项目，适用于生成极简主义的品牌形象演示文稿和情绪板。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "grid",
+        "vertical"
+      ],
+      "style": [
+        "editorial",
+        "minimalist",
+        "luxury",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, vertical]。\n\nVisual style:\n[参考风格: editorial, minimalist, luxury, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14963",
+      "15026",
+      "14692",
+      "15384",
+      "15682",
+      "15685"
+    ]
+  }
+}

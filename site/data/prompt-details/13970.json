@@ -1,0 +1,43 @@
+{
+  "id": "13970",
+  "prompt": "A photograph of a piece of aged, slightly textured paper featuring traditional Chinese calligraphy and an ink wash painting. The upper and left portions of the paper are filled with handwritten Chinese text in elegant running script, with the centered title \"{argument name=\"title text\" default=\"赤壁赋\"}\" and the author \"{argument name=\"author name\" default=\"苏轼\"}\" written next to it. The text flows across multiple lines, resembling a classical poem. Integrated into the bottom right section of the paper is a traditional Chinese ink wash painting depicting {argument name=\"painting subject\" default=\"a serene nighttime river scene with craggy, misty mountains\"}. A single pale full moon hangs in the sky, casting a shimmering reflection on the rippling water below. In the foreground, there is {argument name=\"boat details\" default=\"a small wooden boat with a woven canopy carrying 2 figures in traditional robes\"}. A single square red seal stamp is stamped in the extreme bottom right corner. The image has a warm, historical aesthetic, capturing the authentic look of ink on traditional rice paper.",
+  "translatedPrompt": "一张带有传统中国书法和水墨画的陈年、微纹理纸张照片。纸张的上部和左侧布满了优雅行书手写的中文文本，居中标题为“{argument name=\"title text\" default=\"赤壁赋\"}”，旁边写着作者“{argument name=\"author name\" default=\"苏轼\"}”。文本分多行排列，宛如一首古典诗词。纸张右下角融入了一幅中国传统水墨画，描绘了“{argument name=\"painting subject\" default=\"宁静的夜间江景，伴有嶙峋的雾中山峦\"}”。天空中悬挂着一轮苍白的满月，在下方波光粼粼的水面上投下闪烁的倒影。前景中是“{argument name=\"boat details\" default=\"一艘带有编织顶棚的小木船，载着 2 位身着传统长袍的人物\"}”。在最右下角盖有一枚方形红色印章。整张图片具有温暖的历史美感，捕捉到了墨迹在传统宣纸上的真实质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "中国传统书法与水墨画：生成一张写实风格的照片，展示带有手写中国书法和传统水墨画的陈年纸张。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "ink wash"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: ink wash]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15441",
+      "14126",
+      "15720",
+      "15337",
+      "14247",
+      "14402"
+    ]
+  }
+}

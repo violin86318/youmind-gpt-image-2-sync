@@ -1,0 +1,45 @@
+{
+  "id": "13748",
+  "prompt": "A photorealistic automotive shot of a sleek, glossy black {argument name=\"car model\" default=\"Bugatti Chiron\"} parked on a cobblestone plaza. The hypercar features its signature horseshoe grille with a red emblem, illuminated quad rectangular LED headlights, black alloy wheels, and striking {argument name=\"brake caliper color\" default=\"blue\"} brake calipers. Its highly reflective surface mirrors the surroundings. In the background stands the majestic {argument name=\"landmark\" default=\"Notre-Dame Cathedral\"} in Paris, showcasing its intricate Gothic architecture, twin towers, central rose window, and arched entryways. Classic Parisian apartment buildings are visible to the left, and ornate vintage street lamps line the right side. A few pedestrians stroll in the distance under an {argument name=\"weather/sky\" default=\"overcast\"} sky. The image is captured from a slightly low angle to emphasize the car's aggressive, aerodynamic stance.",
+  "translatedPrompt": "一张照片级的汽车摄影作品，展示了一辆停在鹅卵石广场上的时尚、光泽黑色 {argument name=\"car model\" default=\"Bugatti Chiron\"}。这辆超级跑车拥有标志性的马蹄形格栅和红色徽标、明亮的四方形 LED 前大灯、黑色合金轮毂以及引人注目的 {argument name=\"brake caliper color\" default=\"blue\"} 制动卡钳。其高反射表面映照出周围的环境。背景中矗立着巴黎宏伟的 {argument name=\"landmark\" default=\"Notre-Dame Cathedral\"}，展现了其复杂的哥特式建筑风格、双塔、中央玫瑰窗和拱形入口。左侧可见经典的巴黎公寓楼，右侧排列着华丽的复古路灯。远处，几名行人走在 {argument name=\"weather/sky\" default=\"overcast\"} 的天空下。图像采用略微低的角度拍摄，以强调汽车极具侵略性的空气动力学姿态。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "停在历史地标前的超级跑车：生成一张停在著名建筑地标前的豪华汽车照片级图像，非常适合汽车爱好者和建筑展示使用。",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "vintage"
+      ],
+      "lightingCamera": [
+        "overcast"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, vintage]。\n\nLighting and camera:\n[参考光线镜头: overcast]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13696",
+      "15613",
+      "13836",
+      "14794",
+      "15226",
+      "13667"
+    ]
+  }
+}

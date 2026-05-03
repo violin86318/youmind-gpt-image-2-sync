@@ -1,0 +1,31 @@
+{
+  "id": "15594",
+  "prompt": "低画質な使い捨てカメラで撮影した1枚の日常写真。{argument name=\"撮影者\" default=\"日本の高校生\"}が撮影した下手くそな写真。{argument name=\"シーン\" default=\"修学旅行\"}",
+  "translatedPrompt": "一张由低画质一次性相机拍摄的日常照片。一张由 {argument name=\"photographer\" default=\"日本高中生\"} 拍摄的拙劣照片。场景：{argument name=\"scene\" default=\"学校远足\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "怀旧一次性相机快照提示词：生成低画质、业余风格的照片，类似于学生在旅行期间用一次性相机拍摄的快照。",
+      "subject": "综合主体",
+      "scene": "摄影/真实场景",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13876",
+      "15507",
+      "15526",
+      "15524",
+      "13661",
+      "13677"
+    ]
+  }
+}

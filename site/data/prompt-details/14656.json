@@ -1,0 +1,46 @@
+{
+  "id": "14656",
+  "prompt": "{\"type\":\"editorial portfolio website landing page mockup\",\"style\":\"clean modern web design, airy premium aesthetic, soft editorial typography, pastel coastal palette, subtle glassmorphism, high-end startup portfolio feel\",\"canvas\":{\"aspect_ratio\":\"3:2\",\"background\":\"soft blue sky outside the browser frame\"},\"browser\":{\"type\":\"desktop browser window mockup\",\"top_bar\":{\"traffic_lights\":3,\"address_text\":\"angaisb._ai\",\"right_icons\":3},\"corner_radius\":\"large\",\"shadow\":\"soft floating shadow\"},\"brand\":{\"logo_text\":\"Angaisb_\"},\"header\":{\"nav_count\":5,\"nav_items\":[\"Home\",\"Projects\",\"Writing\",\"Tools\",\"About\"],\"active_item\":\"Home\",\"cta_button\":{\"text\":\"{argument name=\\\"button text\\\" default=\\\"Contact\\\"}\",\"style\":\"rounded yellow pill\"}},\"hero\":{\"layout\":\"split editorial hero with text on left and image scene on right blending across full width\",\"background_scene\":\"sunny coastal overlook with blue ocean horizon, fluffy white clouds, pink and orange flowers in the foreground, soft dreamy atmosphere\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"AI, ideas, and optimistic futures\\\"}\",\"subheadline\":\"{argument name=\\\"subheadline text\\\" default=\\\"Experiments, tools, and thoughts on artificial intelligence\\\"}\",\"primary_cta\":{\"text\":\"Explore Projects\",\"style\":\"yellow rounded button with arrow\"},\"secondary_cta\":{\"text\":\"Read the latest\",\"style\":\"text link with arrow\"},\"human_figure\":{\"count\":1,\"description\":\"young man seen from behind, short brown hair, wearing a bright yellow sweater, centered-right in the hero, looking toward the ocean\"},\"overlay_card\":{\"count\":1,\"style\":\"translucent frosted glass rounded card\",\"icon\":\"small yellow circular icon\",\"text_lines\":[\"Building with curiosity.\",\"Designing for impact.\",\"Sharing openly.\"]},\"network_graphic\":{\"count\":1,\"description\":\"delicate white node-and-line constellation graphic in the upper-right sky\"}},\"main_sections\":[{\"title\":\"Featured\",\"position\":\"upper content area\",\"count\":3,\"labels\":[\"BloomBench\",\"ThoughtGarden\",\"Open Prompts\"],\"cards\":[{\"title\":\"BloomBench\",\"tag\":\"Research\",\"description\":\"A benchmark for evaluating multimodal LLMs on reasoning about real-world visuals.\",\"thumbnail\":\"flowers by the sea with light UI overlay\"},{\"title\":\"ThoughtGarden\",\"tag\":\"Tool\",\"description\":\"A personal knowledge garden where ideas connect and evolve.\",\"thumbnail\":\"rolling green hills under blue sky with translucent interface panels\"},{\"title\":\"Open Prompts\",\"tag\":\"Resources\",\"description\":\"A collection of prompts, patterns, and pipelines for practical AI builders.\",\"thumbnail\":\"flowers and sky with translucent interface panels\"}],\"top_right_link\":\"View all projects\"},{\"title\":\"Latest Writing\",\"position\":\"bottom left\",\"count\":1,\"labels\":[\"The Optimism Loop in AI\"],\"card\":{\"title\":\"The Optimism Loop in AI\",\"description\":\"Why optimism is a force multiplier for creativity, research, and responsible AI.\",\"date\":\"May 12, 2024\",\"thumbnail\":\"rear-view person in yellow sweater standing among flowers\"},\"top_right_link\":\"View all\"},{\"title\":\"Currently Exploring\",\"position\":\"bottom center\",\"count\":3,\"labels\":[\"Multimodal Reasoning\",\"AI for Scientific Discovery\",\"Human-AI Collaboration\"],\"style\":\"three soft rounded topic pills with small icons\"},{\"title\":\"About\",\"position\":\"bottom right\",\"count\":1,\"labels\":[\"More about me\"],\"text\":\"I’m an AI creator and researcher who believes technology should amplify human potential and help build a better future.\",\"decoration\":\"delicate pink flower illustration in the lower-right corner\"}],\"visual_details\":{\"cards\":\"white rounded cards with thin light-gray borders and soft shadows\",\"spacing\":\"generous whitespace and balanced grid\",\"typography\":\"large elegant serif display headline paired with clean sans-serif UI text\",\"colors\":{\"primary_text\":\"deep navy\",\"accent\":\"warm yellow\",\"background\":\"white and pale sky blue\",\"secondary_accents\":\"soft pink, green, and lavender\"}}}",
+  "translatedPrompt": "{\"type\":\"编辑风格作品集网站落地页模型\",\"style\":\"简洁现代的网页设计，轻盈高级的审美，柔和的编辑排版，海岸风情的柔和色调，微妙的磨砂玻璃效果，高端初创公司作品集质感\",\"canvas\":{\"aspect_ratio\":\"3:2\",\"background\":\"浏览器框架外柔和的蓝天\"},\"browser\":{\"type\":\"桌面浏览器窗口模型\",\"top_bar\":{\"traffic_lights\":3,\"address_text\":\"angaisb._ai\",\"right_icons\":3},\"corner_radius\":\"大\",\"shadow\":\"柔和的浮动阴影\"},\"brand\":{\"logo_text\":\"Angaisb_\"},\"header\":{\"nav_count\":5,\"nav_items\":[\"首页\",\"项目\",\"写作\",\"工具\",\"关于\"],\"active_item\":\"首页\",\"cta_button\":{\"text\":\"{argument name=\\\"button text\\\" default=\\\"联系我\\\"}\",\"style\":\"黄色圆角胶囊按钮\"}},\"hero\":{\"layout\":\"左右分割的编辑风格首屏，左侧文字，右侧图像场景，横跨全宽\",\"background_scene\":\"阳光明媚的海岸观景台，蓝色海洋地平线，蓬松的白云，前景有粉色和橙色花朵，氛围柔和梦幻\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"AI、创意与乐观的未来\\\"}\",\"subheadline\":\"{argument name=\\\"subheadline text\\\" default=\\\"关于人工智能的实验、工具与思考\\\"}\",\"primary_cta\":{\"text\":\"探索项目\",\"style\":\"带箭头的黄色圆角按钮\"},\"secondary_cta\":{\"text\":\"阅读最新文章\",\"style\":\"带箭头的文字链接\"},\"human_figure\":{\"count\":1,\"description\":\"一名年轻男子背影，短棕发，身穿亮黄色毛衣，位于首屏中右侧，眺望海洋\"},\"overlay_card\":{\"count\":1,\"style\":\"半透明磨砂玻璃圆角卡片\",\"icon\":\"小型黄色圆形图标\",\"text_lines\":[\"怀揣好奇心进行构建。\",\"为影响力而设计。\",\"开放分享。\"]},\"network_graphic\":{\"count\":1,\"description\":\"右上角天空中精致的白色节点与线条星座图形\"}},\"main_sections\":[{\"title\":\"精选项目\",\"position\":\"上部内容区\",\"count\":3,\"labels\":[\"BloomBench\",\"ThoughtGarden\",\"Open Prompts\"],\"cards\":[{\"title\":\"BloomBench\",\"tag\":\"研究\",\"description\":\"一个用于评估多模态 LLM 在现实世界视觉推理能力的基准测试。\",\"thumbnail\":\"海边花朵与轻量级 UI 叠加\"},{\"title\":\"ThoughtGarden\",\"tag\":\"工具\",\"description\":\"一个让创意相互连接并演进的个人知识花园。\",\"thumbnail\":\"蓝天下的连绵绿丘与半透明界面面板\"},{\"title\":\"Open Prompts\",\"tag\":\"资源\",\"description\":\"为 AI 构建者提供的提示词、模式和流水线集合。\",\"thumbnail\":\"花朵与天空，配有半透明界面面板\"}],\"top_right_link\":\"查看所有项目\"},{\"title\":\"最新写作\",\"position\":\"左下角\",\"count\":1,\"labels\":[\"AI 中的乐观循环\"],\"card\":{\"title\":\"AI 中的乐观循环\",\"description\":\"为什么乐观是创造力、研究和负责任 AI 的倍增器。\",\"date\":\"2024 年 5 月 12 日\",\"thumbnail\":\"身穿黄色毛衣站在花丛中的人物背影\"},\"top_right_link\":\"查看全部\"},{\"title\":\"当前探索\",\"position\":\"底部中心\",\"count\":3,\"labels\":[\"多模态推理\",\"科学发现 AI\",\"人机协作\"],\"style\":\"三个带有小图标的柔和圆角主题胶囊\"},{\"title\":\"关于\",\"position\":\"右下角\",\"count\":1,\"labels\":[\"更多关于我\"],\"text\":\"我是一名 AI 创作者和研究员，坚信技术应放大人类潜能，助力构建更美好的未来。\",\"decoration\":\"右下角精致的粉色花朵插画\"}],\"visual_details\":{\"cards\":\"带有细浅灰色边框和柔和阴影的白色圆角卡片\",\"spacing\":\"充裕的留白与平衡的网格\",\"typography\":\"优雅的大号衬线标题字体搭配简洁的无衬线 UI 文字\",\"colors\":{\"primary_text\":\"深海军蓝\",\"accent\":\"暖黄色\",\"background\":\"白色与浅天蓝色\",\"secondary_accents\":\"柔和的粉色、绿色和薰衣草色\"}}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "乐观主义 AI 作品集落地页：一个精致的个人 AI 作品集主页模型，采用明亮的编辑风格网页设计，用于展示项目、写作和研究主题。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "grid"
+      ],
+      "style": [
+        "editorial",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, grid]。\n\nVisual style:\n[参考风格: editorial, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14567",
+      "14418",
+      "14882",
+      "15404",
+      "15085",
+      "15444"
+    ]
+  }
+}

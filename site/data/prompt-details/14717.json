@@ -1,0 +1,50 @@
+{
+  "id": "14717",
+  "prompt": "A premium fast-food commercial product photograph of a gourmet cheeseburger centered against a warm golden-yellow seamless studio background. The burger features a glossy sesame seed bun, fresh lettuce, tomato slices, onion rings, melted cheese, a juicy grilled beef patty, and rich sauce. Soft studio lighting, subtle shadows, mouthwatering texture, sharp focus, ultra realistic food advertisement photography, clean composition, 8K. Create a hyper-realistic exploded vertical infographic composition of a gourmet cheeseburger. At the top, a glossy sesame seed bun top with crisp texture. Below it, fresh green lettuce leaves, tomato slices, onion rings, melted cheese, a juicy grilled beef patty, a sauce layer, and a soft bun base. All ingredients are evenly spaced and perfectly aligned vertically. Warm yellow seamless studio background, soft commercial food lighting, subtle realistic shadows under each floating element, ultra-sharp focus, DSLR macro food photography, premium fast-food ad aesthetic, 8K. Add clean infographic text labels with thin pointer lines pointing to each element using these exact labels: “Bun Top” “Lettuce” “Tomato” “Onion” “Cheese” “Patty” “Sauce” “Bun Base”",
+  "translatedPrompt": "一张高端快餐商业产品摄影照片，主体为居中的精品芝士汉堡，背景为温暖的金色无缝摄影棚背景。汉堡配有光泽感的芝麻面包、新鲜生菜、番茄片、洋葱圈、融化的芝士、多汁的烤牛肉饼和浓郁的酱汁。柔和的摄影棚灯光，细腻的阴影，令人垂涎的质感，焦点清晰，超写实美食广告摄影，构图简洁，8K 分辨率。创建一个超写实的精品芝士汉堡垂直爆炸式信息图构图。顶部是质感酥脆的光泽感芝麻面包顶，下方依次为新鲜的绿色生菜叶、番茄片、洋葱圈、融化的芝士、多汁的烤牛肉饼、酱汁层以及柔软的面包底。所有食材均匀分布并完美垂直对齐。温暖的黄色无缝摄影棚背景，柔和的商业美食灯光，每个悬浮元素下方带有细腻逼真的阴影，超清晰对焦，DSLR 微距美食摄影，高端快餐广告美学，8K 分辨率。添加简洁的信息图文字标签，并使用细引线指向每个元素，标签名称如下：“Bun Top”、“Lettuce”、“Tomato”、“Onion”、“Cheese”、“Patty”、“Sauce”、“Bun Base”",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "精品汉堡商业摄影：一份用于精品芝士汉堡的专业美食摄影提示词，包含一个爆炸视图信息图版本。",
+      "subject": "信息结构",
+      "scene": "产品/电商",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting"
+      ],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: realistic, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15161",
+      "14889",
+      "15775",
+      "15081",
+      "15600",
+      "15616"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "14751",
+  "prompt": "图片1：{argument name=\"广告产品\" default=\"奶茶\"}广告图，粉色少女风，珍珠奶茶特写，夏日清凉感\n\n图片2：小红书种草封面，{argument name=\"产品类目\" default=\"护肤品\"}的ins风摆拍，日系清新滤镜",
+  "translatedPrompt": "图片 1：{argument name=\"ad product\" default=\"奶茶\"} 广告，粉色少女风，珍珠奶茶特写，夏季清爽感。\n\n图片 2：小红书推荐封面，{argument name=\"product category\" default=\"护肤品\"} Instagram 风格平铺图，日系清新滤镜。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "社交媒体广告设计：用于生成奶茶和护肤品等商业广告内容的提示词，涵盖热门社交媒体风格。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13709",
+      "14134",
+      "14304",
+      "14308",
+      "14336",
+      "14355"
+    ]
+  }
+}

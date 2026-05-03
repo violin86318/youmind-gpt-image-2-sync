@@ -1,0 +1,41 @@
+{
+  "id": "13927",
+  "prompt": "{\n  \"type\": \"manga page\",\n  \"style\": \"black and white, screentones, left-to-right reading\",\n  \"characters\": [\n    { \"name\": \"Takumi\", \"appearance\": \"messy dark hair, t-shirt\" },\n    { \"name\": \"Friend\", \"appearance\": \"short dark hair, hoodie\" }\n  ],\n  \"layout\": {\n    \"rows\": 4,\n    \"panels\": [\n      {\n        \"position\": \"row 1, full width\",\n        \"scene\": \"Takumi typing at computer.\",\n        \"text\": [\n          \"{argument name=\\\"takumi prompt text\\\" default=\\\"よし……「自然体で、でも圧倒的に美しく、しかし作り物っぽさはゼロ」……\\\"}\",\n          \"タクミは真剣にプロンプトを入力していた。\",\n          \"カタカタカタ\"\n        ]\n      },\n      {\n        \"position\": \"row 2, left\",\n        \"scene\": \"Friend looking at monitor.\",\n        \"text\": [\n          \"{argument name=\\\"friend critique text\\\" default=\\\"矛盾だけで文章できてるやん\\\"}\"\n        ]\n      },\n      {\n        \"position\": \"row 2, right\",\n        \"scene\": \"Cursor clicking generate button.\",\n        \"text\": [\n          \"生成\",\n          \"ふっ……これで完璧だ\",\n          \"いくぞ……AIよ、頼んだ！\",\n          \"ポチッ\"\n        ]\n      },\n      {\n        \"position\": \"row 3, full width\",\n        \"scene\": \"Characters reacting to AI girl with 6 hands on monitor.\",\n        \"text\": [\n          \"{argument name=\\\"takumi praise text\\\" default=\\\"うわっ、顔はいい！\\\"}\",\n          \"{argument name=\\\"friend observation text\\\" default=\\\"手、6本あるけど\\\"}\",\n          \"生成結果\"\n        ]\n      },\n      {\n        \"position\": \"row 4, left\",\n        \"scene\": \"Takumi looking satisfied.\",\n        \"text\": [\n          \"魅力の情報量が多いってことか……\",\n          \"むしろ個性的だよな…\"\n        ]\n      },\n      {\n        \"position\": \"row 4, right\",\n        \"scene\": \"Friend yelling angrily.\",\n        \"text\": [\n          \"{argument name=\\\"friend yell text\\\" default=\\\"ポジティブに受け止めるな！千手観音系美女になっとる！\\\"}\",\n          \"ツッコミ\"\n        ]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"漫画页面\",\n  \"style\": \"黑白，网点纸，从左至右阅读\",\n  \"characters\": [\n    { \"name\": \"Takumi\", \"appearance\": \"凌乱的深色头发，T 恤\" },\n    { \"name\": \"朋友\", \"appearance\": \"短发，连帽衫\" }\n  ],\n  \"layout\": {\n    \"rows\": 4,\n    \"panels\": [\n      {\n        \"position\": \"第 1 行，通栏\",\n        \"scene\": \"Takumi 在电脑前打字。\",\n        \"text\": [\n          \"{argument name=\\\"takumi prompt text\\\" default=\\\"好……『自然体，但要美得惊人，且不能有任何人工痕迹』……\\\"}\",\n          \"Takumi 正在认真地输入提示词。\",\n          \"噼里啪啦\"\n        ]\n      },\n      {\n        \"position\": \"第 2 行，左侧\",\n        \"scene\": \"朋友看着显示器。\",\n        \"text\": [\n          \"{argument name=\\\"friend critique text\\\" default=\\\"你这全是矛盾的词汇啊\\\"}\"\n        ]\n      },\n      {\n        \"position\": \"第 2 行，右侧\",\n        \"scene\": \"光标点击生成按钮。\",\n        \"text\": [\n          \"生成\",\n          \"哼……这样就完美了\",\n          \"上吧……AI，拜托了！\",\n          \"点击\"\n        ]\n      },\n      {\n        \"position\": \"第 3 行，通栏\",\n        \"scene\": \"角色们看着显示器上 6 只手的 AI 女孩，反应各异。\",\n        \"text\": [\n          \"{argument name=\\\"takumi praise text\\\" default=\\\"哇，脸长得真好看！\\\"}\",\n          \"{argument name=\\\"friend observation text\\\" default=\\\"手有 6 只啊喂\\\"}\",\n          \"生成结果\"\n        ]\n      },\n      {\n        \"position\": \"第 4 行，左侧\",\n        \"scene\": \"Takumi 一脸满足。\",\n        \"text\": [\n          \"这说明魅力信息量很大……\",\n          \"反而很有个性不是吗……\"\n        ]\n      },\n      {\n        \"position\": \"第 4 行，右侧\",\n        \"scene\": \"朋友愤怒地大喊。\",\n        \"text\": [\n          \"{argument name=\\\"friend yell text\\\" default=\\\"别往好处想啊！这都变成千手观音系美女了！\\\"}\",\n          \"吐槽\"\n        ]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "AI 绘画漫画页面：一页 6 格漫画，描绘了两个朋友生成 AI 图像，结果却画出了一个拥有 6 只手的动漫女孩。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "manga"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: manga]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14152",
+      "13845",
+      "13932",
+      "13953",
+      "14022",
+      "14051"
+    ]
+  }
+}

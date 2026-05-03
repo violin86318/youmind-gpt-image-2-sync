@@ -1,0 +1,53 @@
+{
+  "id": "15435",
+  "prompt": "A cinematic, gritty heist-team group portrait inspired by a Spanish crime thriller, showing exactly 5 robbers standing shoulder to shoulder in a grand historic bank interior. The scene is framed symmetrically in a low-angle medium full-body shot, with the tallest figure centered in front as the leader and 2 teammates on each side. All 5 wear identical deep red hooded jumpsuits zipped up the front, black straps and backpack harnesses, and their hoods up, creating a menacing anonymous look. The far-left and far-right robbers stand with arms crossed; the second-left and second-right robbers stand with arms relaxed at their sides; the center robber stands squarely facing camera with hands down and a dominant posture. Their faces are intentionally obscured and featureless, hidden in shadow and blur beneath the hoods. The setting is an opulent old bank hall with dark polished wood, brass safety deposit boxes lining both side walls, ornate columns, balcony railings, classical architectural details, and warm globe lamps. A bright golden overhead light pours down from the ceiling behind the group, creating dramatic backlighting, rim light on the red suits, long shadows, and a tense high-contrast atmosphere. Color palette: crimson red, black, dark brown, brass, and warm gold. Style: ultra-realistic cinematic photography, suspenseful crime-drama poster aesthetic, highly detailed fabric texture, moody lighting, symmetrical composition, shallow haze in the background, sharp focus on the team. Add a white {argument name=\"watermark text\" default=\"Pollo.ai\"} logo in the top-right corner.",
+  "translatedPrompt": "一张受西班牙犯罪惊悚片启发、具有电影质感且粗粝的劫匪团队群像，画面中准确展示了 5 名劫匪并肩站在宏伟的历史银行内部。场景采用对称构图，通过低角度中景全身镜头拍摄，最高大的人物作为首领居中，两侧各站 2 名队友。5 人均穿着统一的深红色连体连帽衫，前襟拉链拉上，佩戴黑色绑带和背包背带，兜帽戴起，营造出一种充满威胁感的匿名形象。最左侧和最右侧的劫匪双臂交叉；左二和右二的劫匪双臂自然下垂；中间的劫匪正对镜头，双手下垂，姿态强势。他们的面部被刻意遮挡，隐藏在兜帽下的阴影和模糊中，无法辨认。背景是富丽堂皇的旧银行大厅，配有深色抛光木材、沿两侧墙壁排列的黄铜保险箱、华丽的圆柱、阳台栏杆、古典建筑细节以及温暖的球形灯。明亮的金色顶光从团队后方的天花板倾泻而下，营造出戏剧性的逆光效果、红色套装上的轮廓光、长长的阴影以及紧张的高对比度氛围。调色板：深红色、黑色、深棕色、黄铜色和暖金色。风格：超写实电影摄影、悬疑犯罪剧海报美学、高度精细的织物纹理、情绪化布光、对称构图、背景中带有浅薄的雾气，团队焦点清晰。在右上角添加一个白色的 {argument name=\"watermark text\" default=\"Pollo.ai\"} 标志。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "银行内电影质感的红色劫匪团队：此提示词可生成一张电影海报风格的戏剧性图像，画面展示了五名身穿红色连体衣的蒙面劫匪站在宏伟的古老银行内，非常适合惊悚片宣传及犯罪剧风格的视觉创作。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "full-body"
+      ],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "backlight",
+        "camera"
+      ],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": "得分 84；构图: centered, symmetrical, full-body；风格: realistic, cinematic；要求精确文字；文字是主视觉"
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, full-body]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: rim light, backlight, camera]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15762",
+      "14420",
+      "15718",
+      "14736",
+      "15704",
+      "14679"
+    ]
+  }
+}

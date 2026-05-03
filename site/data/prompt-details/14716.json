@@ -1,0 +1,44 @@
+{
+  "id": "14716",
+  "prompt": "Assemble the dieline into a flawless 3D box with accurate panels, clean folds, undistorted type, and artwork preserved exactly. shoot it upright at a refined ¾ angle in a {argument name=\"setting\" default=\"minimal premium studio setting\"} with a soft neutral background, diffused light, subtle shadows, no props, true colours, {argument name=\"texture\" default=\"matte paperboard texture\"}, and realistic editorial detail",
+  "translatedPrompt": "将刀模组装成完美的 3D 包装盒，确保面板准确、折痕清晰、文字无畸变，并完整保留设计稿。以精致的 ¾ 视角将其直立拍摄，置于 {argument name=\"setting\" default=\"极简高端摄影棚场景\"} 中，搭配柔和的中性背景、漫射光、细腻的阴影，无多余道具，色彩真实，呈现 {argument name=\"texture\" default=\"哑光纸板质感\"} 以及逼真的编辑级细节。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "3D 产品包装盒刀模可视化：一份详细的提示词，用于将平面的刀模设计图转换为高端摄影棚场景下的专业 3D 包装盒渲染图。",
+      "subject": "综合主体",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "editorial",
+        "3d",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, editorial, 3d, premium, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15523",
+      "14133",
+      "15247",
+      "15248",
+      "15527",
+      "15243"
+    ]
+  }
+}

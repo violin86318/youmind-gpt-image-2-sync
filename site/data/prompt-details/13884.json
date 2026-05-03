@@ -1,0 +1,42 @@
+{
+  "id": "13884",
+  "prompt": "{\n  \"type\": \"e-commerce product infographic\",\n  \"theme\": \"dark mode with {argument name=\\\"accent color\\\" default=\\\"orange\\\"} accents\",\n  \"product\": {\n    \"brand\": \"{argument name=\\\"brand name\\\" default=\\\"MEAN WELL\\\"}\",\n    \"model\": \"{argument name=\\\"product model\\\" default=\\\"ELG-100-24B\\\"}\",\n    \"description\": \"100W Constant Current LED Driver, rectangular silver metal housing with black cables on both ends and detailed specification label\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"name\": \"Hero Section\",\n        \"elements\": [\n          \"Brand logo top left\",\n          \"Headline: '{argument name=\\\"main headline\\\" default=\\\"Stable Power For Outdoors\\\"}'\",\n          \"Subtext: Wide input voltage, protected housing...\",\n          \"Large angled product shot\",\n          \"Faded '100W' watermark in background\"\n        ]\n      },\n      {\n        \"name\": \"Feature Highlights\",\n        \"count\": 3,\n        \"panels\": [\n          { \"title\": \"Precision Build\", \"visual\": \"Close-up of the specification label\" },\n          { \"title\": \"Secure Connection\", \"visual\": \"Close-up of the cable entry and mounting ear\" },\n          { \"title\": \"Key Features\", \"visual\": \"Angled product shot with 3 callout lines pointing to text: '100~305VAC Input', 'Constant Current', 'IP67 / IP65 Housing'\" }\n        ]\n      },\n      {\n        \"name\": \"Applications\",\n        \"count\": 4,\n        \"panels\": [\n          { \"title\": \"For Street Lighting\", \"visual\": \"Nighttime highway illuminated by streetlights\" },\n          { \"title\": \"For Outdoor Projects\", \"visual\": \"Modern building exterior with architectural landscape lighting\" },\n          { \"title\": \"For Indoor Systems\", \"visual\": \"Modern commercial hallway with linear ceiling lights\" },\n          { \"title\": \"For Dimming Control\", \"visual\": \"Electrical control box with 4 labels: '0-10V', 'PWM', 'RESISTOR', 'DALI'\" }\n        ]\n      },\n      {\n        \"name\": \"Environmental Protection\",\n        \"elements\": [\n          \"Product resting on a wet surface with water droplets and rain effect\",\n          \"Headline: 'Protected Performance'\",\n          \"Description text about indoor/outdoor use and active PFC\",\n          \"Badge: '{argument name=\\\"warranty years\\\" default=\\\"5\\\"}-Year Warranty'\"\n        ]\n      },\n      {\n        \"name\": \"Technical Specifications\",\n        \"elements\": [\n          \"Headline: 'Lighting Power Technology'\",\n          \"4 checkmark bullet points: '100~305VAC Input', 'Active PFC', 'Low Standby <0.5W', '0~10V / PWM / Resistor / DALI'\",\n          \"Product shot glowing on a high-tech circuit board background\"\n        ]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"电商产品信息图\",\n  \"theme\": \"深色模式，搭配 {argument name=\\\"accent color\\\" default=\\\"橙色\\\"} 点缀\",\n  \"product\": {\n    \"brand\": \"{argument name=\\\"brand name\\\" default=\\\"MEAN WELL\\\"}\",\n    \"model\": \"{argument name=\\\"product model\\\" default=\\\"ELG-100-24B\\\"}\",\n    \"description\": \"100W 恒流 LED 驱动器，长方形银色金属外壳，两端配有黑色电缆，并带有详细的规格标签\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"name\": \"首屏展示区\",\n        \"elements\": [\n          \"左上角品牌 Logo\",\n          \"主标题：'{argument name=\\\"main headline\\\" default=\\\"户外稳定供电\\\"}'\",\n          \"副标题：宽电压输入，防护型外壳……\",\n          \"大型产品斜侧面展示图\",\n          \"背景中淡化的 '100W' 水印\"\n        ]\n      },\n      {\n        \"name\": \"功能亮点\",\n        \"count\": 3,\n        \"panels\": [\n          { \"title\": \"精密制造\", \"visual\": \"规格标签特写\" },\n          { \"title\": \"稳固连接\", \"visual\": \"电缆入口及安装耳特写\" },\n          { \"title\": \"核心特性\", \"visual\": \"产品斜侧面展示图，配有 3 条指向文字的引线：'100~305VAC 输入'、'恒流输出'、'IP67 / IP65 防护外壳'\" }\n        ]\n      },\n      {\n        \"name\": \"应用场景\",\n        \"count\": 4,\n        \"panels\": [\n          { \"title\": \"街道照明\", \"visual\": \"路灯照亮的夜间高速公路\" },\n          { \"title\": \"户外工程\", \"visual\": \"带有建筑景观照明的现代建筑外观\" },\n          { \"title\": \"室内系统\", \"visual\": \"安装有线性吸顶灯的现代商业走廊\" },\n          { \"title\": \"调光控制\", \"visual\": \"带有 4 个标签的电气控制箱：'0-10V'、'PWM'、'电阻'、'DALI'\" }\n        ]\n      },\n      {\n        \"name\": \"环境防护\",\n        \"elements\": [\n          \"产品置于潮湿表面，带有水滴和雨水效果\",\n          \"标题：'防护性能'\",\n          \"关于室内/户外使用及主动式 PFC 的描述文本\",\n          \"徽章：'{argument name=\\\"warranty years\\\" default=\\\"5\\\"} 年质保'\"\n        ]\n      },\n      {\n        \"name\": \"技术规格\",\n        \"elements\": [\n          \"标题：'照明电源技术'\",\n          \"4 个带勾选标记的要点：'100~305VAC 输入'、'主动式 PFC'、'低待机功耗 <0.5W'、'0~10V / PWM / 电阻 / DALI'\",\n          \"产品在科技感电路板背景上发光的展示图\"\n        ]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电商 LED 驱动器信息图：一份全面的亚马逊 A+ 风格产品详情信息图，详细介绍了工业级 LED 驱动器的功能、应用场景及技术规格。",
+      "subject": "信息结构",
+      "scene": "产品/电商",
+      "composition": [
+        "close-up",
+        "callout"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, callout]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15693",
+      "15429",
+      "14889",
+      "15161",
+      "15447",
+      "14646"
+    ]
+  }
+}

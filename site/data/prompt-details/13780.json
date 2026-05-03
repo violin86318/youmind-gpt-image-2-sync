@@ -1,0 +1,43 @@
+{
+  "id": "13780",
+  "prompt": "{\n  \"type\": \"comprehensive breed encyclopedia infographic\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"猫咪全品种科普图鉴\\\"}\",\n    \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"涵盖全球所有猫咪品种 | 名称 & 性格特点\\\"}\",\n    \"decorations\": [\"paw prints\"]\n  },\n  \"layout\": {\n    \"style\": \"grid-based chart with horizontal color-coded bands\",\n    \"columns\": 9\n  },\n  \"sections\": [\n    {\n      \"title\": \"{argument name=\\\"category 1 name\\\" default=\\\"短毛猫\\\"}\",\n      \"background_color\": \"light green\",\n      \"total_cats\": 18,\n      \"rows\": 2,\n      \"labels\": [\"美国短毛猫\", \"英国短毛猫\", \"欧洲短毛猫\", \"中国狸花猫\", \"暹罗猫\", \"缅甸猫\", \"阿比西尼亚猫\", \"孟加拉猫\", \"埃及猫\", \"奥西猫\", \"东方短毛猫\", \"柯尼斯卷毛猫\", \"德文卷毛猫\", \"斯芬克斯猫\", \"彼得秃猫\", \"美国刚毛猫\", \"日本短尾猫\", \"曼岛猫\"],\n      \"item_format\": \"cat portrait + breed name + personality description\"\n    },\n    {\n      \"title\": \"{argument name=\\\"category 2 name\\\" default=\\\"长毛猫\\\"}\",\n      \"background_color\": \"light pink\",\n      \"total_cats\": 18,\n      \"rows\": 2,\n      \"labels\": [\"波斯猫\", \"缅因猫\", \"布偶猫\", \"挪威森林猫\", \"西伯利亚猫\", \"土耳其安哥拉猫\", \"土耳其梵猫\", \"伯曼猫\", \"美国长毛猫\", \"金吉拉猫\", \"喜马拉雅猫\", \"苏格兰折耳长毛猫\", \"塞尔凯克卷毛猫\", \"拉邦猫\", \"索马里猫\", \"巴厘猫\", \"东方长毛猫\", \"狮子猫\"],\n      \"item_format\": \"cat portrait + breed name + personality description\"\n    },\n    {\n      \"title\": \"{argument name=\\\"category 3 name\\\" default=\\\"稀有及特色猫\\\"}\",\n      \"background_color\": \"light yellow\",\n      \"total_cats\": 18,\n      \"rows\": 2,\n      \"labels\": [\"布里蒂猫\", \"俄罗斯蓝猫\", \"沙特尔猫\", \"哈瓦那棕猫\", \"新加坡猫\", \"孟买猫\", \"斯诺鞋猫\", \"玩具虎猫\", \"威尔士猫\", \"美国卷耳猫\", \"苏格兰折耳猫(短毛)\", \"异国短毛猫\", \"加菲猫\", \"美国反耳猫\", \"薮猫(萨凡纳猫)\", \"狞猫(卡拉卡尔)\", \"狮子猫(大型)\", \"豹猫(亚洲豹猫)\"],\n      \"item_format\": \"cat portrait + breed name + personality description\"\n    },\n    {\n      \"title\": \"无毛及卷毛猫\",\n      \"background_color\": \"light blue\",\n      \"total_cats\": 9,\n      \"rows\": 1,\n      \"labels\": [\"顿斯科伊猫\", \"彼得秃猫(巴尔德)\", \"精灵猫(双耳卷)\", \"加拿大无毛猫\", \"乌克兰勒夫科伊猫\", \"明斯金猫(短腿无毛)\", \"拉邦猫(卷毛无毛)\", \"德文卷毛猫\", \"柯尼斯卷毛猫\"],\n      \"item_format\": \"cat portrait + breed name + personality description\"\n    }\n  ],\n  \"footer\": {\n    \"left_section\": {\n      \"title\": \"小贴士:\",\n      \"content\": \"3 numbered bullet points with pet care advice\"\n    },\n    \"right_section\": {\n      \"title\": \"图例说明:\",\n      \"content\": \"4 color-coded legend boxes matching the section backgrounds\"\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"猫咪全品种科普图鉴\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"猫咪全品种科普图鉴\\\"}\",\n    \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"涵盖全球所有猫咪品种 | 名称 & 性格特点\\\"}\",\n    \"decorations\": [\"猫爪印\"]\n  },\n  \"layout\": {\n    \"style\": \"基于网格的图表，配有水平色块分区\",\n    \"columns\": 9\n  },\n  \"sections\": [\n    {\n      \"title\": \"{argument name=\\\"category 1 name\\\" default=\\\"短毛猫\\\"}\",\n      \"background_color\": \"浅绿色\",\n      \"total_cats\": 18,\n      \"rows\": 2,\n      \"labels\": [\"美国短毛猫\", \"英国短毛猫\", \"欧洲短毛猫\", \"中国狸花猫\", \"暹罗猫\", \"缅甸猫\", \"阿比西尼亚猫\", \"孟加拉猫\", \"埃及猫\", \"奥西猫\", \"东方短毛猫\", \"柯尼斯卷毛猫\", \"德文卷毛猫\", \"斯芬克斯猫\", \"彼得秃猫\", \"美国刚毛猫\", \"日本短尾猫\", \"曼岛猫\"],\n      \"item_format\": \"猫咪肖像 + 品种名称 + 性格描述\"\n    },\n    {\n      \"title\": \"{argument name=\\\"category 2 name\\\" default=\\\"长毛猫\\\"}\",\n      \"background_color\": \"浅粉色\",\n      \"total_cats\": 18,\n      \"rows\": 2,\n      \"labels\": [\"波斯猫\", \"缅因猫\", \"布偶猫\", \"挪威森林猫\", \"西伯利亚猫\", \"土耳其安哥拉猫\", \"土耳其梵猫\", \"伯曼猫\", \"美国长毛猫\", \"金吉拉猫\", \"喜马拉雅猫\", \"苏格兰折耳长毛猫\", \"塞尔凯克卷毛猫\", \"拉邦猫\", \"索马里猫\", \"巴厘猫\", \"东方长毛猫\", \"狮子猫\"],\n      \"item_format\": \"猫咪肖像 + 品种名称 + 性格描述\"\n    },\n    {\n      \"title\": \"{argument name=\\\"category 3 name\\\" default=\\\"稀有及特色猫\\\"}\",\n      \"background_color\": \"浅黄色\",\n      \"total_cats\": 18,\n      \"rows\": 2,\n      \"labels\": [\"布里蒂猫\", \"俄罗斯蓝猫\", \"沙特尔猫\", \"哈瓦那棕猫\", \"新加坡猫\", \"孟买猫\", \"斯诺鞋猫\", \"玩具虎猫\", \"威尔士猫\", \"美国卷耳猫\", \"苏格兰折耳猫(短毛)\", \"异国短毛猫\", \"加菲猫\", \"美国反耳猫\", \"薮猫(萨凡纳猫)\", \"狞猫(卡拉卡尔)\", \"狮子猫(大型)\", \"豹猫(亚洲豹猫)\"],\n      \"item_format\": \"猫咪肖像 + 品种名称 + 性格描述\"\n    },\n    {\n      \"title\": \"无毛及卷毛猫\",\n      \"background_color\": \"浅蓝色\",\n      \"total_cats\": 9,\n      \"rows\": 1,\n      \"labels\": [\"顿斯科伊猫\", \"彼得秃猫(巴尔德)\", \"精灵猫(双耳卷)\", \"加拿大无毛猫\", \"乌克兰勒夫科伊猫\", \"明斯金猫(短腿无毛)\", \"拉邦猫(卷毛无毛)\", \"德文卷毛猫\", \"柯尼斯卷毛猫\"],\n      \"item_format\": \"猫咪肖像 + 品种名称 + 性格描述\"\n    }\n  ],\n  \"footer\": {\n    \"left_section\": {\n      \"title\": \"小贴士:\",\n      \"content\": \"3 条带编号的宠物护理建议\"\n    },\n    \"right_section\": {\n      \"title\": \"图例说明:\",\n      \"content\": \"4 个与各分区背景色对应的颜色图例框\"\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "猫咪全品种科普图鉴：生成一张高度详尽的网格化猫咪品种百科海报，按毛发类型分类，包含 63 种不同猫咪的肖像，并附带名称及性格特点。",
+      "subject": "人物",
+      "scene": "信息图/图解",
+      "composition": [
+        "grid",
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14189",
+      "13899",
+      "13599",
+      "13639",
+      "13688",
+      "13789"
+    ]
+  }
+}

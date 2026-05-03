@@ -1,0 +1,51 @@
+{
+  "id": "15735",
+  "prompt": "{\"type\":\"four-panel cinematic fantasy illustration collage\",\"subject\":{\"primary duo\":\"a small white-haired girl and a tall weathered humanoid robot\",\"companion animal\":\"one small white goat\",\"relationship\":\"quiet protective companionship across different times of day and seasons\",\"girl\":{\"age_appearance\":\"young child\",\"hair\":\"short bob haircut, white or silver hair, straight bangs\",\"clothing\":\"simple loose white dress, dark ankle boots, in one panel a pale cloak or blanket wrapped around her shoulders\",\"expression\":\"calm, gentle, contemplative\",\"features\":\"soft anime-inspired face, petite build\"},\"robot\":{\"scale\":\"very tall compared to the girl\",\"design\":\"aged battle-worn humanoid machine with dark iron armor plates, exposed cables and mechanical joints, broad shoulders, long limbs\",\"head\":\"angular helmet-like head with clusters of glowing red sensor lights\",\"surface\":\"rust, scratches, worn metal, slightly overgrown or dirt-stained in places\"},\"animal\":{\"species\":\"goat\",\"appearance\":\"small white goat with short horns\",\"behavior\":\"quietly stays beside the girl in every panel\"}},\"layout\":{\"grid\":\"2x2\",\"panel_count\":4,\"gutters\":\"thin white borders between panels\",\"sections\":[{\"title\":\"top-left\",\"position\":\"upper left\",\"count\":3,\"labels\":[\"girl standing in shallow rainwater holding a large leaf like an umbrella\",\"robot walking beside her with head lowered protectively\",\"goat walking at her other side\"]},{\"title\":\"top-right\",\"position\":\"upper right\",\"count\":3,\"labels\":[\"girl seated on a grassy overlook facing away\",\"robot seated beside her watching the sunset\",\"goat sitting near them overlooking a glowing valley and lake\"]},{\"title\":\"bottom-left\",\"position\":\"lower left\",\"count\":3,\"labels\":[\"girl crouching beside a forest stream touching the water\",\"robot crouched close behind her observing gently\",\"goat drinking from the stream\"]},{\"title\":\"bottom-right\",\"position\":\"lower right\",\"count\":4,\"labels\":[\"girl sitting by a small campfire holding a mug\",\"robot crouched beside the fire warming itself\",\"goat curled up asleep near the fire\",\"black kettle hanging over the flames\"]}]},\"environments\":{\"top-left\":\"rainy ruined path with puddles, misty gray atmosphere, faint overgrown structures in the background\",\"top-right\":\"golden sunset landscape with warm clouds, distant mountains, reflective water, grassy hill\",\"bottom-left\":\"sun-dappled green forest beside a clear shallow stream, bright bokeh light through leaves\",\"bottom-right\":\"snowy blue forest at night with falling snow, intimate firelight contrasting the cold surroundings\"},\"style\":{\"genre\":\"melancholic sci-fi fantasy\",\"rendering\":\"highly detailed painterly anime illustration\",\"lighting\":\"dramatic cinematic lighting in each panel, with strong mood shifts between rain, sunset, daylight forest, and firelit snow night\",\"color_palette\":\"muted grays and blue-greens balanced with warm amber sunset and orange firelight\",\"composition\":\"emotionally tender companionship scenes, robot often leaning or crouching to match the child's scale, evocative storytelling, soft depth of field\"}}",
+  "translatedPrompt": "{\"type\":\"四格电影感奇幻插画拼贴\",\"subject\":{\"primary duo\":\"一名白发小女孩和一名高大饱经风霜的人形机器人\",\"companion animal\":\"一只小白山羊\",\"relationship\":\"在不同时间和季节里安静而充满保护欲的陪伴\",\"girl\":{\"age_appearance\":\"幼童\",\"hair\":\"短波波头，白色或银色头发，直刘海\",\"clothing\":\"简约宽松的白裙，深色踝靴，其中一格中肩膀上裹着浅色斗篷或毯子\",\"expression\":\"平静、温柔、沉思\",\"features\":\"柔和的动漫风格面孔，娇小的体型\"},\"robot\":{\"scale\":\"与女孩相比非常高大\",\"design\":\"老旧且饱经战火的人形机械，带有深色铁质装甲板，裸露的电缆和机械关节，宽阔的肩膀，长肢\",\"head\":\"棱角分明的头盔状头部，带有成簇的红色发光传感器\",\"surface\":\"锈迹、划痕、磨损的金属，局部略有植被覆盖或沾染泥土\"},\"animal\":{\"species\":\"山羊\",\"appearance\":\"带有短角的小白山羊\",\"behavior\":\"在每一格中都安静地待在女孩身边\"}},\"layout\":{\"grid\":\"2x2\",\"panel_count\":4,\"gutters\":\"格间细白边框\",\"sections\":[{\"title\":\"左上\",\"position\":\"左上\",\"count\":3,\"labels\":[\"女孩站在浅雨水中，像撑伞一样拿着一片大叶子\",\"机器人低头保护性地走在她身边\",\"山羊走在她的另一侧\"]},{\"title\":\"右上\",\"position\":\"右上\",\"count\":3,\"labels\":[\"女孩坐在草地高处背对镜头\",\"机器人坐在她身边注视着日落\",\"山羊坐在他们附近，俯瞰着发光的山谷和湖泊\"]},{\"title\":\"左下\",\"position\":\"左下\",\"count\":3,\"labels\":[\"女孩蹲在森林溪流旁触摸水面\",\"机器人蹲在身后温柔地观察\",\"山羊在溪边喝水\"]},{\"title\":\"右下\",\"position\":\"右下\",\"count\":4,\"labels\":[\"女孩坐在小篝火旁拿着马克杯\",\"机器人蹲在火堆旁取暖\",\"山羊蜷缩在火堆旁睡觉\",\"黑色的水壶悬挂在火焰上方\"]}]},\"environments\":{\"top-left\":\"雨中废墟小径，有水洼，雾蒙蒙的灰色氛围，背景中有模糊的杂草丛生的建筑\",\"top-right\":\"金色的日落景观，带有温暖的云彩、远山、反光的湖水和草坡\",\"bottom-left\":\"阳光斑驳的绿色森林，旁边有一条清澈的浅溪，透过树叶的明亮光斑\",\"bottom-right\":\"夜晚的蓝色雪林，飘着雪花，亲密的火光与寒冷的周围环境形成对比\"},\"style\":{\"genre\":\"忧郁的科幻奇幻\",\"rendering\":\"高度精细的绘画风格动漫插画\",\"lighting\":\"每一格都有戏剧性的电影级布光，在雨天、日落、森林白昼和火光雪夜之间有强烈的氛围转换\",\"color_palette\":\"柔和的灰色和蓝绿色，与温暖的琥珀色日落和橙色火光相平衡\",\"composition\":\"情感细腻的陪伴场景，机器人经常倾斜或蹲下以配合孩子的身高，富有感染力的叙事，柔和的景深\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "四格漫画：女孩、机器人与山羊的故事：一组电影感十足的四格奇幻拼贴画，展现了一名白发小女孩、一个守护型机器人和一只小山羊，在雨天、日落、森林白昼和雪夜篝火等不同场景下建立深厚情谊的画面。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "grid",
+        "2x2"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "sci-fi",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "depth of field"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, 2x2]。\n\nVisual style:\n[参考风格: cinematic, anime, sci-fi, fantasy]。\n\nLighting and camera:\n[参考光线镜头: depth of field]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14483",
+      "14522",
+      "15806",
+      "13916",
+      "14549",
+      "14187"
+    ]
+  }
+}

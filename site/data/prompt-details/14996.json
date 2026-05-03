@@ -1,0 +1,51 @@
+{
+  "id": "14996",
+  "prompt": "A realistic first-person perspective photo in a softly lit minimalist bedroom at night, as if the viewer is standing very close to a standing mirror and looking at their own reflection. In the foreground, strands of long dark hair hang down from the top edge and both sides of the frame, partially obscuring the view, with one hand raised near the left side of the face as if touching the cheek or hair. In the mirror reflection, a young woman with {argument name=\"hair color\" default=\"dark brown\"} long straight hair is centered, wearing a loose ivory or off-white long-sleeve pajama top with delicate tiny floral texture and oversized sleeves. She poses shyly with both hands tucked under her chin, elbows inward, giving a soft, intimate, slightly bashful mood. Her face is hidden or obscured, creating an anonymous point-of-view self-portrait feeling. The mirror has a simple white frame and sits on a white vanity surface. In the background reflected in the mirror is a neatly arranged warm beige bedroom with 1 unmade bed covered in white bedding, 1 small wooden nightstand or low shelf, 1 glowing table lamp with a square white shade, and 2 tiny decorative objects beside the lamp. On the right side of the vanity are 2 clear skincare or cosmetic bottles and 1 small round white container. Use warm ambient lighting, creamy neutral tones, shallow depth of field, gentle realism, smartphone-photo composition, cozy Japanese apartment aesthetic, candid domestic atmosphere, and subtle imperfections rather than studio polish.",
+  "translatedPrompt": "一张逼真的第一人称视角照片，场景设定在夜晚光线柔和的极简主义卧室中，仿佛观看者正站在落地镜前注视着自己的倒影。前景中，长长的深色发丝从画面顶部和两侧垂下，部分遮挡了视线；一只手抬起靠近脸部左侧，仿佛正在触碰脸颊或头发。在镜中倒影里，一位留着 {argument name=\"hair color\" default=\"深棕色\"} 直长发的年轻女性位于画面中心，身穿一件宽松的象牙白或米白色长袖睡衣，睡衣带有精致的微小花卉纹理，袖口宽大。她害羞地摆出姿势，双手托在下巴下方，手肘内收，营造出一种柔和、亲密且略带羞涩的氛围。她的面部被隐藏或遮挡，营造出一种匿名视角的自拍感。镜子配有简约的白色边框，放置在白色的梳妆台面上。镜中映出的背景是一个布置整洁的暖米色卧室，内有 1 张铺着白色床品的凌乱床铺、1 个小型木制床头柜或矮架、1 盏带有方形白色灯罩的暖光台灯，以及台灯旁 2 个微小的装饰物。梳妆台右侧放有 2 个透明护肤品或化妆品瓶和 1 个小型圆形白色容器。采用温暖的环境光、奶油色中性色调、浅景深、柔和的写实感、智能手机摄影构图、舒适的日式公寓美学、随性的家居氛围，并保留微妙的瑕疵而非影棚级的精修质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "第一人称镜面卧室照片：此提示词可生成一个逼真的亲密 POV 镜面自拍场景，背景为温馨的极简主义卧室，适用于生活方式摄影、电影感家居视觉效果或第一人称 AI 图像实验。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic",
+        "minimalist",
+        "studio"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic, minimalist, studio]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15463",
+      "15533",
+      "14628",
+      "14679",
+      "15028",
+      "15528"
+    ]
+  }
+}

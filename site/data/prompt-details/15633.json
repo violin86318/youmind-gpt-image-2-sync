@@ -1,0 +1,45 @@
+{
+  "id": "15633",
+  "prompt": "A nostalgic watercolor anime poster on textured off-white paper, composed as a vertical double-exposure illustration inspired by late-1990s adventure anime. The main silhouette is the left-side profile of a young boy wearing large swim goggles pushed up on his head, his face turned to the right, with the silhouette filled by a dreamlike montage of memories and fantasy scenes. Inside the upper center of the silhouette, show 8 children from behind standing together on a ridge and looking toward a glowing, distant crystalline tower beneath a circular celestial portal in a cloudy blue-violet sky; include 7 small creature companions among them. On the upper right inside the silhouette, place a large dragon-like monster emerging from the clouds. Near the center, add a glowing round handheld digital device with a small screen, radiating light. In the middle-lower area, depict 2 iconic small dinosaur-like creatures sitting above an old shrine approach, one purple horned creature and one small yellow reptilian creature. In the lower area, show a mossy torii gate, overgrown stone steps, utility poles, and a small rural train on the right, all wrapped in mist and foliage. At the very bottom, include the 8 children again as tiny silhouettes walking away together along a path, reinforcing the theme of friendship and remembrance. Use soft ink-and-watercolor washes, muted blues, indigo, lavender, sepia, and warm golden highlights, with splattered pigment edges and painterly cloud textures. Keep the composition airy and elegant, with a refined modern poster-design sensibility and almost no generic AI gloss. Add vertical Japanese text on the right side reading あの日、僕たちは選ばれた。あの日、デジモンと出会った。 and place a Japanese title logo at the lower left reading デジモンアドベンチャー, with a small English subtitle “DIGIMON ADVENTURE” and the date line “1999 - 永遠の冒険”.",
+  "translatedPrompt": "一张印在纹理米白色纸张上的怀旧水彩动漫海报，采用受 20 世纪 90 年代末冒险动漫启发的竖版双重曝光插画构图。主体轮廓为一名年轻男孩的左侧侧脸，头上戴着一副向上推起的护目镜，面部朝向右侧，轮廓内填充着如梦似幻的记忆与奇幻场景蒙太奇。在轮廓上方的中心位置，展示 8 名儿童背对镜头站立在山脊上，望向云雾缭绕的蓝紫色天空中一个圆形天体传送门下方发光的远方水晶塔；他们身旁伴有 7 只小型生物伙伴。在轮廓内部的右上角，放置一只从云层中显现的巨型龙状怪物。在中心附近，添加一个发光的圆形手持数字设备，屏幕微亮，向外辐射光芒。在中下部区域，描绘 2 只标志性的小型恐龙状生物坐在古老的神社参道上方，其中一只是紫色长角生物，另一只是小型黄色爬行类生物。在底部区域，展示一座长满青苔的鸟居、杂草丛生的石阶、电线杆以及右侧的一列小型乡村火车，所有景物都笼罩在薄雾与植被之中。在最底部，再次呈现 8 名儿童作为微小剪影沿着小路并肩远去的画面，强化友谊与回忆的主题。使用柔和的水墨与水彩渲染，色调为柔和的蓝色、靛蓝、薰衣草紫、深褐色以及温暖的金色高光，并带有飞溅的颜料边缘和绘画感的云层纹理。保持构图的通透与优雅，具备精致的现代海报设计感，几乎没有常见的 AI 塑料感。在右侧添加竖排日文文字“あの日、僕たちは選ばれた。あの日、デジモンと出会った。”，并在左下角放置日文标题 Logo“デジモンアドベンチャー”，配以小型英文副标题“DIGIMON ADVENTURE”以及日期行“1999 - 永遠の冒険”。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "怀旧水彩动漫冒险海报：此提示词可生成一张具有绘画感的复古动漫纪念海报，包含双重曝光的儿童侧影、奇幻蒙太奇场景以及优雅的日文排版，适用于系列作品致敬艺术或收藏级印刷品。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "fantasy",
+        "watercolor"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: anime, fantasy, watercolor]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15348",
+      "15322",
+      "15386",
+      "15663",
+      "14558",
+      "14655"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "13919",
+  "prompt": "An anime-style illustration of a cute girl with {argument name=\"animal ears\" default=\"fluffy dark brown fox ears\"} and long flowing {argument name=\"hair color\" default=\"dark brown\"} hair. She is wearing a detailed {argument name=\"clothing\" default=\"red and white floral kimono with fur trim\"} and a floral hair accessory with red tassels. She has a {argument name=\"expression\" default=\"bright happy smile with a slight blush\"} and warm amber eyes, reaching both hands forward towards the viewer in a welcoming hug. The perspective features strong foreshortening on her hands, which are slightly out of focus. The scene is set with {argument name=\"environment\" default=\"falling snow against a bright white background\"}, illuminated by soft, warm, ethereal lighting.",
+  "translatedPrompt": "一张动漫风格的插画，主角是一位可爱的少女，长着 {argument name=\"animal ears\" default=\"毛茸茸的深棕色狐狸耳朵\"}，留着一头飘逸的 {argument name=\"hair color\" default=\"深棕色\"} 长发。她身穿一件精致的 {argument name=\"clothing\" default=\"红白相间的花卉和服，带有毛绒饰边\"}，头上戴着带有红色流苏的花卉发饰。她脸上带着 {argument name=\"expression\" default=\"灿烂幸福的笑容，略显羞涩\"}，拥有一双温暖的琥珀色眼睛，双手向前伸向观众，做出欢迎拥抱的姿势。画面采用了强烈的透视效果，突出她伸出的双手，手部略微失焦。场景设定在 {argument name=\"environment\" default=\"大雪纷飞的背景中，背景明亮洁白\"}，在柔和、温暖且空灵的灯光照耀下。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫风狐狸少女求抱抱：一个生成动漫风格插画的提示词，描绘了一位身穿和服的狐狸少女在雪中伸手求抱抱的场景。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13754",
+      "13802",
+      "13841",
+      "15020",
+      "14694",
+      "15571"
+    ]
+  }
+}

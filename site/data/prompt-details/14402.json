@@ -1,0 +1,44 @@
+{
+  "id": "14402",
+  "prompt": "A dynamic anime action illustration of two young martial-arts women fighting inside a traditional Japanese-style wooden dojo. The left fighter is in the foreground, a black-haired girl with a neat bun tied by a yellow ribbon, wearing a sleeveless yellow Chinese kung fu tunic with black trim, loose black pants, and black cloth shoes. She is in a deep low stance on the wooden floor, one fist pulled back and the other punching forward, surrounded by bright red energy trails that arc around her body and sweep across the scene. Water splashes dramatically around her feet as if her movement skims through a shallow layer of water. The right fighter is airborne in the midground, a pale-skinned girl with light lavender hair in two round buns, wearing a short black-and-white cheongsam-inspired battle dress with gold trim, black sheer tights, and black shoes. She performs a flying side kick while a vivid blue energy spiral curls around her in a circular motion. The collision of force between them has cracked and exploded the wooden floor at center-right, with debris and wood fragments flying outward, while dust and smoke billow across the lower right corner. The dojo interior has exposed timber beams, tatami edging, shoji-style windows, and warm natural light entering from the left. Hang a wooden sign above them with the Chinese text {argument name=\"sign text\" default=\"币安 vs OKX\"}. Use a dramatic wide-angle composition, strong foreshortening, cinematic motion blur, intense speed lines, high-detail anime rendering, glossy highlights, clean line art, energetic combat choreography, and a polished poster-like finish. Add exactly 2 visible fighters, 1 overhead wooden sign, 1 cracked floor impact point, 1 red energy effect around the left fighter, and 1 blue energy effect around the right fighter. Optionally place a subtle watermark-like text at the lower right reading {argument name=\"watermark text\" default=\"UM YouMind\"}.",
+  "translatedPrompt": "一张充满动感的动漫动作插画，描绘了两名年轻武术少女在传统的日式木质道场内对战的场景。左侧的格斗者位于前景，是一位黑发少女，扎着整齐的发髻，系着黄色丝带，身穿无袖黄色中国功夫上衣，配黑色滚边、宽松黑裤和黑色布鞋。她正以低姿势蹲在木地板上，一手后拉，另一手向前出拳，身体周围环绕着明亮的红色能量轨迹，并横扫整个画面。水花在她脚下剧烈飞溅，仿佛她的动作掠过了浅浅的水面。右侧的格斗者位于中景的半空中，是一位皮肤白皙的少女，留着淡紫色双丸子头，身穿黑白相间的短款旗袍风格战斗服，配金色滚边、黑色透肉连裤袜和黑色鞋子。她正在施展飞踢，一道鲜艳的蓝色能量螺旋呈圆形环绕着她。两人力量的碰撞使得中右侧的木地板开裂并炸开，碎片和木屑向外飞溅，尘土和烟雾在右下角翻滚。道场内部有裸露的木梁、榻榻米边缘、障子风格的窗户，温暖的自然光从左侧射入。在她们上方悬挂一块木牌，上面写着中文文本 {argument name=\"sign text\" default=\"币安 vs OKX\"}。采用戏剧性的广角构图、强烈的透视缩短、电影级的动态模糊、强烈的速度线、高细节的动漫渲染、光泽高光、干净的线条艺术、充满活力的战斗编排以及精致的海报级质感。添加 2 名可见的格斗者、1 块头顶木牌、1 个开裂的地板撞击点、1 个环绕左侧格斗者的红色能量特效，以及 1 个环绕右侧格斗者的蓝色能量特效。可选择在右下角放置一段微妙的水印式文本，内容为 {argument name=\"watermark text\" default=\"UM YouMind\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫武术道场对决：此提示词可生成一张充满活力的动漫风格双少女武术对战场景，背景设于木质道场内，非常适合用于戏剧性的宣传海报或社交媒体视觉素材。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "anime"
+      ],
+      "lightingCamera": [
+        "natural light"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, anime]。\n\nLighting and camera:\n[参考光线镜头: natural light]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14653",
+      "15441",
+      "15337",
+      "13788",
+      "13970",
+      "15319"
+    ]
+  }
+}

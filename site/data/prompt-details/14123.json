@@ -1,0 +1,44 @@
+{
+  "id": "14123",
+  "prompt": "创作一张超高细节等距像素艺术时间线插画（3:4，4K），融合细节密度、象征性与隐喻。用户指定的主题为【{argument name=\"主题\" default=\"Western Art Development\"}】。\n\n首先，围绕{argument name=\"主题\" default=\"Western Art Development\"}进行推理，确定：主题的中英文标题、涵盖的最早与最近历史时期、起始阶段标签与结束阶段标签，以及3-5个关键演进阶段及其各自的象征性元素与色彩方案。\n\n然后构建一个以\"{argument name=\"主题\" default=\"Western Art Development\"}\"为主题的等距\"演进博物馆\"，每个展馆区域代表一个演进阶段，空间推进即代表时间演变。采用标准等距视角（2:1），丰富的层次深度与流畅过渡。每个阶段分配3-5个与主题强烈关联的象征元素，并用差异化色彩暗示时间流动。在场景中融入双语像素字体标题：中文\"[主题中文]演进史\"与英文\"EVOLUTION OF {argument name=\"主题\" default=\"Western Art Development\"}\"，加上起止阶段的双语副标题及关键时间节点标记。整体风格专业且具视觉张力，适合学术分析与对比可视化，直接出图。",
+  "translatedPrompt": "Create an ultra-high detail isometric pixel art timeline illustration (3:4, 4K) that blends detail density, symbolism, and metaphor. The user-specified theme is \"{argument name=\"theme\" default=\"Western Art Development\"}\".\n\nFirst, perform reasoning around {argument name=\"theme\" default=\"Western Art Development\"} to determine: the bilingual Chinese and English titles, the earliest and most recent historical periods covered, the starting and ending phase labels, and 3-5 key evolution stages with their respective symbolic elements and color schemes.\n\nThen construct an isometric \"Evolution Museum\" themed around \"{argument name=\"theme\" default=\"Western Art Development\"}\", where each gallery area represents an evolution stage, and spatial progression represents temporal evolution. Use a standard isometric perspective (2:1) with rich depth layers and smooth transitions. Assign 3-5 symbolic elements strongly associated with the theme to each stage, using differentiated colors to suggest the flow of time. Incorporate bilingual pixel font titles in the scene: Chinese \"[Theme in Chinese] Evolution History\" and English \"EVOLUTION OF {argument name=\"theme\" default=\"Western Art Development\"}\", along with bilingual subtitles for the start and end phases and key time node markers. The overall style should be professional and visually striking, suitable for academic analysis and comparative visualization, directly generating the image.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Isometric Pixel Art Evolution Museum：A detailed prompt for creating an isometric pixel art timeline illustration that depicts the evolution of a subject, such as Western Art, in a museum gallery format.",
+      "subject": "信息结构",
+      "scene": "海报/封面",
+      "composition": [
+        "isometric"
+      ],
+      "style": [
+        "pixel art",
+        "isometric"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: isometric]。\n\nVisual style:\n[参考风格: pixel art, isometric]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14313",
+      "13526",
+      "14075",
+      "15433",
+      "13515",
+      "13619"
+    ]
+  }
+}

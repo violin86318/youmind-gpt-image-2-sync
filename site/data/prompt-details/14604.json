@@ -1,0 +1,47 @@
+{
+  "id": "14604",
+  "prompt": "A surreal black-and-white photograph of a {argument name=\"horse color\" default=\"white\"} horse riding an astronaut on the moon. The astronaut in a bulky {argument name=\"spacesuit color\" default=\"white\"} EVA suit is on all fours on the dusty lunar surface, acting like a mount, while the horse sits upright on the astronaut’s back in a humanlike riding posture with its front legs raised and bent as if holding balance. The horse wears a saddle and bridle with reins draped down toward the astronaut. The astronaut’s helmet has a dark reflective visor, and the figure is facing slightly right with hands and knees pressed into the regolith. The landscape is a barren moon terrain with scattered rocks and gentle low hills, under a completely black sky with no stars visible. Strong directional lighting creates crisp shadows and high contrast, mimicking documentary Apollo-era lunar photography. Center the paired subjects in a medium-wide composition, realistic textures, deadpan absurdity, photorealistic detail, vintage monochrome film look.",
+  "translatedPrompt": "一张超现实的黑白照片，画面中一匹 {argument name=\"horse color\" default=\"white\"} 的马骑在月球上的一名宇航员背上。身穿笨重 {argument name=\"spacesuit color\" default=\"white\"} EVA 宇航服的宇航员四肢着地趴在布满尘埃的月球表面，充当坐骑，而马则以类似人类的骑姿直立在宇航员背上，前腿抬起并弯曲，仿佛在保持平衡。马身上配有马鞍和缰绳，缰绳垂向宇航员。宇航员的头盔带有深色反光面罩，人物略微朝右，手膝压在月壤中。背景是荒凉的月球地形，散布着岩石和低矮的丘陵，天空漆黑一片，看不见星星。强烈的定向光营造出清晰的阴影和高对比度，模仿了阿波罗时代的月球纪实摄影风格。将这对主体置于中景构图的中心，呈现逼真的质感、冷幽默的荒诞感、照片级的细节以及复古单色胶片外观。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "超现实月球骑手：一张超现实的黑白写实摄影作品，描绘了马骑在宇航员背上的月球场景，非常适合荒诞派艺术或复古太空摄影提示词。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "vintage",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, vintage, documentary]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13604",
+      "15705",
+      "15808",
+      "14674",
+      "14145",
+      "14595"
+    ]
+  }
+}

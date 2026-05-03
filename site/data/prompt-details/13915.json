@@ -1,0 +1,44 @@
+{
+  "id": "13915",
+  "prompt": "A highly detailed sci-fi illustration of a {argument name=\"robot style\" default=\"cute chibi robot\"} floating in space, {argument name=\"action\" default=\"welding a massive metallic megastructure\"}. The robot has a large round head with {argument name=\"eye color\" default=\"glowing blue\"} eyes and a white and black mechanical body. It is holding a tool that emits bright orange sparks against the framework. The megastructure is enormous, curving through the scene, built as a {argument name=\"structure type\" default=\"dark metal lattice covered in thousands of tiny glowing yellow lights\"}. In the background, a {argument name=\"star color\" default=\"brilliant glowing blue\"} star shines brightly against a deep space backdrop filled with stars and cosmic dust. The image features hyper-detailed textures, cinematic lighting, high contrast, and a dense, intricate mechanical design.",
+  "translatedPrompt": "一张高度精细的科幻插图，画面中是一个 {argument name=\"robot style\" default=\"可爱的 Q 版机器人\"} 漂浮在太空中，正在 {argument name=\"action\" default=\"焊接一个巨大的金属巨型结构\"}。该机器人拥有一个圆圆的大脑袋，配有 {argument name=\"eye color\" default=\"发光的蓝色\"} 眼睛，身体为黑白相间的机械结构。它手中拿着的工具在框架上迸发出明亮的橙色火花。这个巨型结构极其宏大，在场景中蜿蜒延伸，呈现为 {argument name=\"structure type\" default=\"覆盖着数千个微小黄色亮点的深色金属网格\"}。背景中，一颗 {argument name=\"star color\" default=\"璀璨发光的蓝色\"} 恒星在布满繁星和宇宙尘埃的深空背景下熠熠生辉。该图像具有超精细的纹理、电影级的灯光效果、高对比度以及密集而复杂的机械设计。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "科幻 Q 版机器人太空焊接场景：生成一张高度精细的电影级科幻场景，描绘了一个小机器人在星空背景下修复大型太空结构的过程。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "sci-fi"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, sci-fi]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13799",
+      "13662",
+      "14484",
+      "15346",
+      "15746",
+      "14203"
+    ]
+  }
+}

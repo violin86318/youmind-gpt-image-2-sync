@@ -1,0 +1,45 @@
+{
+  "id": "13678",
+  "prompt": "{\n  \"type\": \"smartphone advertisement poster\",\n  \"subject\": {\n    \"setting\": \"2 smartphones resting on dark jagged rocks, dramatic lighting.\",\n    \"phone_1\": \"Foreground, back view, titanium grey, flat edges, 5 circular camera lenses.\",\n    \"phone_2\": \"Background, front view, abstract gold arc wallpaper, center hole-punch camera.\"\n  },\n  \"typography\": {\n    \"top_left\": \"{argument name=\\\"brand name\\\" default=\\\"SAMSUNG\\\"}\",\n    \"headline\": \"{argument name=\\\"product name\\\" default=\\\"Galaxy S30\\\"}\",\n    \"subheadline\": \"{argument name=\\\"tagline\\\" default=\\\"Beyond brilliance\\\"}\",\n    \"bottom_features\": [\n      { \"title\": \"Epic nights\", \"subtitle\": \"Advanced low-light AI\" },\n      { \"title\": \"Power that keeps up\", \"subtitle\": \"All-day battery life\" },\n      { \"title\": \"Made to last\", \"subtitle\": \"Stronger than ever\" }\n    ],\n    \"disclaimer\": \"Image simulated. Color availability may vary by region.\"\n  },\n  \"style\": \"Commercial photography, sleek, dark aesthetic, cinematic lighting.\"\n}",
+  "translatedPrompt": "{\n  \"type\": \"产品广告海报\",\n  \"brand_logo\": \"{argument name=\\\"brand name\\\" default=\\\"SAMSUNG\\\"}\",\n  \"typography\": {\n    \"headline\": \"{argument name=\\\"product name\\\" default=\\\"Galaxy S30\\\"}\",\n    \"subtitle\": \"{argument name=\\\"tagline\\\" default=\\\"超越卓越\\\"}\"\n  },\n  \"visuals\": {\n    \"setting\": \"纯黑色背景，配以戏剧性的摄影棚灯光\",\n    \"base\": \"{argument name=\\\"background element\\\" default=\\\"锯齿状深色岩石结构\\\"}\",\n    \"subjects\": [\n      {\n        \"description\": \"正面朝向的智能手机\",\n        \"position\": \"左侧，略靠后\",\n        \"screen_display\": \"抽象壁纸，深色背景上带有发光的重叠金色弧线\"\n      },\n      {\n        \"description\": \"背面朝向的智能手机\",\n        \"position\": \"右侧，前景突出\",\n        \"color\": \"{argument name=\\\"phone color\\\" default=\\\"钛灰色\\\"}\",\n        \"features\": \"平坦的金属边缘，垂直排列的 3 个大摄像头镜头，右侧有 2 个较小的圆形传感器，底部印有品牌 Logo\"\n      }\n    ]\n  },\n  \"layout\": {\n    \"footer\": {\n      \"count\": 3,\n      \"sections\": [\n        {\n          \"title\": \"史诗级夜拍\",\n          \"subtitle\": \"先进的低光 AI\"\n        },\n        {\n          \"title\": \"持久动力\",\n          \"subtitle\": \"全天候电池续航\"\n        },\n        {\n          \"title\": \"经久耐用\",\n          \"subtitle\": \"比以往更坚固\"\n        }\n      ],\n      \"fine_print\": \"图片仅供模拟。颜色可用性可能因地区而异。\"\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "智能手机产品广告海报：生成一张时尚、专业的智能手机产品广告海报，包含戏剧性的灯光效果、排版设计以及功能亮点标注。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "dramatic lighting",
+        "lens",
+        "camera"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic]。\n\nLighting and camera:\n[参考光线镜头: dramatic lighting, lens, camera]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15095",
+      "15012",
+      "15066",
+      "15413",
+      "14846",
+      "15810"
+    ]
+  }
+}

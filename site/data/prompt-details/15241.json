@@ -1,0 +1,44 @@
+{
+  "id": "15241",
+  "prompt": "{\n  \"scene\": \"A young woman posing in the middle of a city street at night\",\n  \"subject\": {\n    \"gender\": \"female\",\n    \"appearance\": {\n      \"hair\": \"{argument name=\"hair color\" default=\"red/auburn\"}, tied up in a loose bun with strands framing the face\",\n      \"skin\": \"fair with a smooth, softly highlighted glow\",\n      \"expression\": \"calm, confident, slightly serious gaze\"\n    },\n    \"outfit\": {\n      \"dress\": \"short satin slip dress in {argument name=\"dress color\" default=\"champagne/gold\"} tone with thin straps\",\n      \"accessories\": [\n        \"small hoop earrings\"\n      ]\n    },\n    \"pose\": \"kneeling on the street, both hands raised adjusting her hair\"\n  },\n  \"environment\": {\n    \"location\": \"{argument name=\"location\" default=\"urban street at night\"}\",\n    \"background\": \"blurred city buildings, cars, and streetlights creating bokeh effect\",\n    \"lighting\": \"warm streetlights combined with soft flash, cinematic nighttime atmosphere\"\n  },\n  \"style\": \"cinematic street photography, shallow depth of field, high detail, warm tones, editorial fashion aesthetic\"\n}",
+  "translatedPrompt": "{\n  \"scene\": \"一位年轻女性在夜晚的城市街道中央摆拍\",\n  \"subject\": {\n    \"gender\": \"女性\",\n    \"appearance\": {\n      \"hair\": \"{argument name=\"hair color\" default=\"红/赤褐色\"}，扎成松散的发髻，几缕发丝垂在脸颊两侧\",\n      \"skin\": \"白皙，带有平滑且柔和的高光质感\",\n      \"expression\": \"冷静、自信，眼神略显严肃\"\n    },\n    \"outfit\": {\n      \"dress\": \"短款缎面吊带裙，色调为 {argument name=\"dress color\" default=\"香槟/金色\"}\",\n      \"accessories\": [\n        \"小巧的圆环耳环\"\n      ]\n    },\n    \"pose\": \"跪在街道上，双手抬起整理头发\"\n  },\n  \"environment\": {\n    \"location\": \"{argument name=\"location\" default=\"夜晚的城市街道\"}\",\n    \"background\": \"模糊的城市建筑、汽车和路灯，营造出虚化效果\",\n    \"lighting\": \"温暖的路灯与柔和的闪光灯结合，呈现电影般的夜间氛围\"\n  },\n  \"style\": \"电影感街头摄影，浅景深，高细节，暖色调，时尚编辑审美\"\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影感夜间街头摄影：一个高度结构化的 JSON 提示词，用于生成女性在城市背景下的电影感夜间肖像，包含发型、服装和光影的具体风格设定。",
+      "subject": "服饰",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "editorial"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, editorial]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15153",
+      "14506",
+      "15403",
+      "14451",
+      "14845",
+      "15027"
+    ]
+  }
+}

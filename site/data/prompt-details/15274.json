@@ -1,0 +1,51 @@
+{
+  "id": "15274",
+  "prompt": "A candid-looking consumer digital camera photo from around {argument name=\"year\" default=\"2008\"}, showing a {argument name=\"family size\" default=\"three-person\"} Chinese family posing in a public park in Beijing on a mild sunny day. The father stands on the left, tall and slightly leaning in, wearing a navy jacket over a dark striped polo shirt, blue jeans, sneakers, and a brown backpack. The mother stands in the center wearing a pink knit sweater, dark jeans, and sneakers, holding a small child on her right side. The child wears a bright red hooded jacket, patterned brown pants, and small shoes, and holds a festive red cartoon helium balloon on a stick. All three face the camera in a relaxed snapshot pose. The setting is a lakeside park with a wide stone walkway sloping down toward the water, many casually dressed visitors walking or standing around, several small pedal boats and rowboats on the lake, drooping willow trees, and a traditional Chinese pavilion on the right with a dark green signboard and gold Chinese characters reading {argument name=\"park sign text\" default=\"童尤公园\"}. In the far background, faint mid-rise city buildings are visible beyond the trees. Use natural midday lighting, soft shadows, slightly muted colors, realistic skin tones, and the look of an ordinary family photo taken with a mid-2000s compact camera. The composition should feel authentic and unstaged, with the family centered in the foreground and the busy park scene behind them. Add a glowing orange digital camera date stamp in the bottom right corner reading {argument name=\"date stamp\" default=\"'08 10 12\"}. Photorealistic, documentary snapshot aesthetic, shallow to moderate depth of field, subtle lens softness, slight compression artifacts, and nostalgic late-2000s China atmosphere.",
+  "translatedPrompt": "一张 2008 年左右在中国拍摄的家庭抓拍照片，呈现出当时家用数码相机的质感。画面中，一家三口在一个阳光明媚的秋日里，站在湖边的公园内合影。父亲站在左侧，身材高大，神态轻松，身穿海军蓝夹克，内搭深色条纹 Polo 衫，下身穿着蓝色牛仔裤和运动鞋，单肩背着一个棕色背包，一只手搂着母亲。母亲站在中间，身穿粉色针织毛衣、深色牛仔裤和运动鞋，怀里抱着年幼的孩子。孩子穿着鲜红色的连帽夹克、花纹棕色裤子和小鞋子，手里拿着一个系在棍子上的红色卡通气球。他们站在一条向湖面平缓倾斜的宽阔石板路上。背景是生机勃勃的中国公园景象：平静的湖面上漂浮着几艘脚踏船和划艇，岸边有行人漫步或驻足，垂柳和其他树木呈现出柔和的秋色，左侧远景处有一座小拱桥，右侧则是一座带有深色瓦顶的中国传统凉亭，凉亭上挂着一块写有 {argument name=\"park sign text\" default=\"童尤公园\"} 的牌匾。在树木后方隐约可见几栋远处的城市中层建筑。构图应呈现出真实的手持家庭摄影感，全身取景，主体居中，透视略有压缩，自然光照射，阴影柔和，景深适中，肤色和衣物纹理真实，带有轻微的复古数码相机色彩渲染，以及旧式“傻瓜相机”照片中常见的细微瑕疵。在右下角添加一个橙色的数字日期戳，显示为 {argument name=\"date stamp\" default=\"'08 10 12\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "2008 年中国家庭公园快照：一张充满怀旧感的“傻瓜相机”风格家庭合影，记录了一对中国夫妇和孩子在湖畔公园的场景，适用于重现 21 世纪初的日常纪实影像。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "depth of field",
+        "lens",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic, photorealistic, documentary]。\n\nLighting and camera:\n[参考光线镜头: depth of field, lens, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15720",
+      "14450",
+      "14173",
+      "15319",
+      "15442",
+      "15273"
+    ]
+  }
+}

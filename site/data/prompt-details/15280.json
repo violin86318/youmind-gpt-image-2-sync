@@ -1,0 +1,45 @@
+{
+  "id": "15280",
+  "prompt": "A minimalist editorial illustration about cross-strait relations and dialogue, in a muted flat-paper collage style with soft grain texture and rounded shapes. Show 2 human figures seated across a table in profile, facing each other: on the left a man in dark desaturated blue, resting his chin on one hand in a thoughtful pose; on the right a woman in warm brown, gesturing with one hand as if explaining. Both faces are intentionally anonymized with soft blurred rectangular blocks over the facial area. Centered between them is a dark blue balance scale, upright and symmetrical, symbolizing justice, negotiation, and equilibrium. Above the figures are 2 overlapping speech bubbles, one blue-gray on the left and one pale beige on the right, indicating conversation and contested viewpoints. At the bottom center, place 1 white silhouette of a human head in side profile containing a simple growing plant with stem and leaves, symbolizing peace, understanding, or constructive thinking. Use a cream background with 4 large translucent abstract circular forms around the composition, including a pale gray shape on the far left, a beige shape behind the upper center-right, a warm tan shape on the far right, and a darker blue-gray semicircular shape along the bottom foreground. Keep the composition balanced, calm, symbolic, and poster-like, with no text, no sharp outlines, no photorealism, and a subdued palette of dusty blue, slate, beige, cream, and brown.",
+  "translatedPrompt": "一幅关于海峡两岸关系与对话的极简主义社论插画，采用柔和的扁平纸艺拼贴风格，带有细腻的颗粒质感和圆润的形状。画面展示了 2 个侧面相对而坐的人物：左侧是一名身着深低饱和度蓝色衣服的男性，单手托腮，姿态沉思；右侧是一名身着暖棕色衣服的女性，单手比划，仿佛正在解释。两人的面部均经过处理，用柔和模糊的矩形色块遮盖，以保持匿名。两人中间放置着一个深蓝色的平衡天平，垂直且对称，象征着公正、谈判与平衡。人物上方有 2 个重叠的对话气泡，左侧为蓝灰色，右侧为浅米色，象征着交流与不同观点。底部中心放置 1 个白色的人头侧影剪影，内部包含一株简单的生长植物（带有茎和叶），象征和平、理解或建设性思维。背景为奶油色，构图周围分布着 4 个大型半透明抽象圆形，包括最左侧的浅灰色形状、右上方的米色形状、最右侧的暖棕褐色形状，以及底部前景中深蓝灰色的半圆形。保持构图平衡、冷静、具有象征意义且如同海报一般，无文字，无锐利轮廓，非写实风格，色调采用灰蓝色、板岩色、米色、奶油色和棕色的柔和配色。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "海峡两岸对话社论插画：一幅具有象征意义的社论风格插画，展示了两个匿名人物隔着桌子进行讨论，配有天平和对话气泡，适用于关于海峡两岸关系、谈判和公共话语的文章。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "symmetrical"
+      ],
+      "style": [
+        "editorial",
+        "minimalist"
+      ],
+      "lightingCamera": [],
+      "text": "禁止额外文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical]。\n\nVisual style:\n[参考风格: editorial, minimalist]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n禁止额外文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15604",
+      "15400",
+      "14421",
+      "15018",
+      "15272",
+      "15663"
+    ]
+  }
+}

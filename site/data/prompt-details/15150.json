@@ -1,0 +1,43 @@
+{
+  "id": "15150",
+  "prompt": "Create a clean product kit for \"{argument name=\"product name\" default=\"Purrre\"}\" ({argument name=\"product type\" default=\"Cat food\"}). Show the same product in multiple consistent views (front, back, side, 3/4, open package). Style: studio product photography, neutral background, soft lighting, high detail, no design drift, no text.",
+  "translatedPrompt": "为“{argument name=\"product name\" default=\"Purrre\"}”（{argument name=\"product type\" default=\"猫粮\"}）创建一个简洁的产品套件。展示同一产品在多个视角下的一致性视图（正面、背面、侧面、3/4 视角、包装打开状态）。风格：摄影棚产品摄影、中性背景、柔和光照、高细节、无设计偏差、无文字。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "一致的产品套件摄影：一个用于展示单个产品多角度一致性视图的摄影提示词，适用于营销套件。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [],
+      "style": [
+        "studio"
+      ],
+      "lightingCamera": [
+        "soft light"
+      ],
+      "text": "禁止额外文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: studio]。\n\nLighting and camera:\n[参考光线镜头: soft light]。\n\nText requirements:\n禁止额外文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15002",
+      "15536",
+      "13958",
+      "14575",
+      "14690",
+      "14807"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "15077",
+  "prompt": "Create a dramatic vertical football tribute poster in a dark cinematic mixed-media style, combining fine-art portraiture, sports branding, textured grunge painting, and premium editorial typography. The central subject is a waist-up portrait of {argument name=\"historical figure\" default=\"Rabindranath Tagore\"} reimagined as an FC Barcelona icon, facing slightly to the right, with long wavy silver-gray hair, a long flowing beard, aged features, and a calm legendary presence. Dress him in a classic FC Barcelona home jersey with deep red and navy vertical stripes, visible Nike swoosh on the left side, and the FCB crest on the chest. Use moody rim lighting and painterly highlights around the hair and shoulders so the figure feels monumental and almost divine. Set the background as an abstract brush-texture composition in Barcelona colors, dark indigo, crimson, burgundy, and muted gold, with 3 major graphic elements behind the portrait: a large faded FC Barcelona crest near the top center, a vertical block of handwritten Bengali manuscript text on the left side, and a large gold handwritten signature-style script running vertically on the right. At the top left, place 5 lines of elegant serif text: the first line reads \"RABINDRANATH\", the second much larger line reads \"TAGORE\", the third line reads \"1861-1941\", the fourth line is the quote \"Where the mind is without fear and the head is held high...\", and the fifth line is a cursive signature reading \"Rabindranath Tagore\". In the middle-lower area, add 5 centered text lines in a refined poster layout: \"MORE THAN A POET.\", then a large gold handwritten line reading \"A timeless spirit.\", then \"A {argument name=\"club nickname\" default=\"CULER\"} FOREVER.\", then a thin horizontal red-and-blue accent line, and then a small centered FCB crest beneath it. At the bottom, show a wide view of Camp Nou at dusk with glowing stadium lights and a dramatic sunset horizon, packed stands, and a giant crowd mosaic reading exactly {argument name=\"stadium slogan\" default=\"MES QUE UN CLUB\"}. In the foreground place 1 football centered on the wet reflective pitch with the Barcelona crest visible on the ball. The entire image should feel like a luxury fan-made heritage poster, ultra-detailed, painterly, emotional, reverential, high contrast, textured, epic, and suitable for a premium social media football graphic or wall poster. Use a tall 2:3 poster composition with layered depth, subtle sparks, paint streaks, and gold accents. Optionally replace the visible club identity with {argument name=\"football club\" default=\"FC Barcelona\"} while preserving the same elite tribute-poster aesthetic.",
+  "translatedPrompt": "创作一张极具电影质感的竖版足球致敬海报，采用混合媒介风格，融合美术肖像、体育品牌元素、纹理质感绘画以及高端编辑排版。画面主体为 {argument name=\"historical figure\" default=\"Rabindranath Tagore\"} 的半身肖像，将其重塑为 FC Barcelona 的标志性人物，身体微向右转，留着飘逸的银灰色长发和长胡须，面容沧桑，神态沉稳且充满传奇色彩。让他身穿经典的 FC Barcelona 主场球衣，球衣带有深红色和海军蓝的竖条纹，左侧可见 Nike 标志，胸前印有 FCB 队徽。运用深沉的轮廓光和围绕头发与肩部的绘画式高光，使人物看起来宏伟且近乎神圣。背景采用 Barcelona 配色的抽象笔触构图，包含深靛蓝、深红、酒红和柔和的金色，肖像后方有 3 个主要的图形元素：顶部中央是一个巨大的褪色 FC Barcelona 队徽，左侧是一块竖排的手写孟加拉语手稿文字，右侧是一行巨大的金色手写体签名风格文字。在左上角放置 5 行优雅的衬线字体：第一行写着 \"RABINDRANATH\"，第二行（字号更大）写着 \"TAGORE\"，第三行写着 \"1861-1941\"，第四行是引言 \"Where the mind is without fear and the head is held high...\"，第五行是草书签名 \"Rabindranath Tagore\"。在中下部区域，以精致的海报布局添加 5 行居中文字：\"MORE THAN A POET.\"，接着是一行巨大的金色手写体 \"A timeless spirit.\"，然后是 \"A {argument name=\"club nickname\" default=\"CULER\"} FOREVER.\"，随后是一条纤细的红蓝水平装饰线，下方是一个居中的小型 FCB 队徽。底部展示黄昏时分 Camp Nou 的广角视野，球场灯光闪烁，夕阳地平线壮丽，看台座无虚席，巨大的观众拼图文字清晰显示为 {argument name=\"stadium slogan\" default=\"MES QUE UN CLUB\"}。前景中放置 1 个足球，居中于湿润且具有反射感的球场草坪上，球上可见 Barcelona 队徽。整张图片应呈现出奢华的粉丝自制传承海报质感，细节丰富、具有绘画感、情感充沛、庄重、高对比度、纹理感强、史诗感十足，非常适合作为高端足球社交媒体图形或墙面海报。采用 2:3 的竖版海报构图，具有层次深度、细微火花、油漆笔触和金色点缀。可选择将可见的俱乐部标识替换为 {argument name=\"football club\" default=\"FC Barcelona\"}，同时保持相同的精英级致敬海报美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "史诗级 FC Barcelona 传承海报：此提示词可生成一张电影质感的足球致敬海报，将历史文化偶像与 FC Barcelona 品牌元素融合，适用于高端粉丝艺术、社交媒体发帖或极具冲击力的体育海报打印。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "poster layout",
+        "layered",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "cinematic",
+        "editorial",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "high contrast"
+      ],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": "得分 95；构图: centered, poster layout, layered, vertical, horizontal；风格: cinematic, editorial, luxury, premium；要求精确文字；文字是主视觉"
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, poster layout, layered, vertical, horizontal]。\n\nVisual style:\n[参考风格: cinematic, editorial, luxury, premium]。\n\nLighting and camera:\n[参考光线镜头: rim light, high contrast]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15400",
+      "14842",
+      "15627",
+      "14836",
+      "14887",
+      "14518"
+    ]
+  }
+}

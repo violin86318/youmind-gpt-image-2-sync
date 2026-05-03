@@ -1,0 +1,42 @@
+{
+  "id": "14028",
+  "prompt": "A photorealistic selfie of a young man with short wavy dark hair and light stubble on an indoor basketball court. He wears a black athletic t-shirt with a white swoosh. He holds a {argument name=\"ball color\" default=\"green\"} basketball featuring a large white {argument name=\"logo design\" default=\"OpenAI logo\"}. The background shows a hardwood floor, black wall pads, and a basketball hoop against a concrete wall. Bright indoor gym lighting with a casual social media aesthetic.",
+  "translatedPrompt": "一张年轻男子的写实风格自拍，他留着深色短卷发，留着浅浅的胡茬，身处室内篮球场。他穿着一件带有白色耐克勾标志的黑色运动 T 恤。他手中拿着一个 {argument name=\"ball color\" default=\"绿色\"} 篮球，上面印有一个醒目的白色 {argument name=\"logo design\" default=\"OpenAI logo\"}。背景展示了硬木地板、黑色墙垫以及混凝土墙上的篮球架。明亮的室内健身房灯光，呈现出休闲的社交媒体美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "定制 Logo 篮球自拍：生成一张年轻男子在室内球场手持带有特定 Logo 的定制配色篮球的写实风格自拍。",
+      "subject": "人物",
+      "scene": "字体/Logo",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14021",
+      "14267",
+      "15767",
+      "14990",
+      "13606",
+      "14213"
+    ]
+  }
+}

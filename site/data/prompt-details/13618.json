@@ -1,0 +1,41 @@
+{
+  "id": "13618",
+  "prompt": "A cute anthropomorphic cat-girl with white fur, {argument name=\"hair color\" default=\"short green hair\"}, a prominent ahoge, and large {argument name=\"eye color\" default=\"green\"} anime eyes. She has fluffy green cat ears and a long white tail. She is wearing a loose, oversized {argument name=\"outfit\" default=\"green off-the-shoulder tunic\"} and sitting peacefully on the ground with her legs tucked to the side and paws resting gently in front of her. The setting is a lush {argument name=\"setting\" default=\"alpine meadow filled with small white and yellow wildflowers\"}. In the background, there is a sweeping valley, pine forests, and majestic snow-capped mountains under a bright blue sky with fluffy clouds. The art style blends an anime character design with a highly realistic, {argument name=\"style\" default=\"photographic landscape\"} featuring bright, natural sunlight.",
+  "translatedPrompt": "一只可爱的拟人化猫娘，拥有白色皮毛、{argument name=\"hair color\" default=\"短绿发\"}、显眼的呆毛，以及一双硕大的 {argument name=\"eye color\" default=\"绿色\"} 动漫眼睛。她长着毛茸茸的绿色猫耳和一条长长的白色尾巴。她穿着一件宽松的 {argument name=\"outfit\" default=\"绿色露肩长袍\"}，安静地坐在地上，双腿侧向蜷缩，爪子轻轻地放在身前。背景是一片郁郁葱葱的 {argument name=\"setting\" default=\"开满白色和黄色小野花的阿尔卑斯草甸\"}。远景处是广阔的山谷、松树林和雄伟的雪山，头顶是蓝天白云。艺术风格将动漫角色设计与高度写实的 {argument name=\"style\" default=\"摄影级景观\"} 相结合，呈现出明亮、自然的阳光感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "阿尔卑斯草甸中的写实风动漫猫娘：生成一张 2.5D 插画，描绘一个拟人化的动漫角色坐在一片细节丰富、照片级逼真的自然景观中。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13616",
+      "14152",
+      "13441",
+      "13595",
+      "13635",
+      "13654"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "14075",
+  "prompt": "{\n  \"type\": \"highly detailed cartographic world map\",\n  \"style\": \"{argument name=\\\"color palette\\\" default=\\\"realistic topographical and bathymetric colors\\\"}\",\n  \"map_features\": {\n    \"terrain\": \"shaded relief showing mountains, valleys, and plains in greens, browns, and whites\",\n    \"oceans\": \"depth shading in various tones of blue, with lighter blues for continental shelves and darker blues for deep trenches\",\n    \"grid\": \"latitude and longitude lines spanning the entire map\",\n    \"labels\": \"major continents, countries, oceans, and seas clearly labeled in serif and sans-serif typography\"\n  },\n  \"layout\": {\n    \"overlays\": [\n      {\n        \"type\": \"compass rose\",\n        \"position\": \"mid-left, over the Pacific Ocean\",\n        \"description\": \"classic 8-point nautical compass\"\n      },\n      {\n        \"type\": \"legend\",\n        \"position\": \"bottom left\",\n        \"title\": \"{argument name=\\\"map title\\\" default=\\\"EARTH\\\"}\",\n        \"subtitle\": \"{argument name=\\\"map type\\\" default=\\\"Physical Map\\\"}\",\n        \"contents\": \"elevation color key, map symbols, and distance scale\"\n      }\n    ],\n    \"bottom_panels\": {\n      \"count\": 5,\n      \"position\": \"horizontal row along the bottom edge\",\n      \"labels\": [\n        \"THE WORLD\",\n        \"LARGEST COUNTRIES\",\n        \"LONGEST MOUNTAIN RANGES\",\n        \"LARGEST OCEANS\",\n        \"LONGEST RIVERS\"\n      ]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"高度详细的制图世界地图\",\n  \"style\": \"{argument name=\\\"color palette\\\" default=\\\"逼真的地形和测深色彩\\\"}\",\n  \"map_features\": {\n    \"terrain\": \"阴影浮雕，以绿色、棕色和白色显示山脉、山谷和平原\",\n    \"oceans\": \"不同色调的蓝色深度阴影，浅蓝色代表大陆架，深蓝色代表深海沟\",\n    \"grid\": \"覆盖整个地图的经纬线\",\n    \"labels\": \"主要大洲、国家、海洋和海域，以衬线和无衬线字体清晰标注\"\n  },\n  \"layout\": {\n    \"overlays\": [\n      {\n        \"type\": \"罗盘玫瑰\",\n        \"position\": \"中左侧，位于太平洋上方\",\n        \"description\": \"经典的 8 向航海罗盘\"\n      },\n      {\n        \"type\": \"图例\",\n        \"position\": \"左下角\",\n        \"title\": \"{argument name=\\\"map title\\\" default=\\\"地球\\\"}\",\n        \"subtitle\": \"{argument name=\\\"map type\\\" default=\\\"物理地图\\\"}\",\n        \"contents\": \"海拔颜色键、地图符号和距离比例尺\"\n      }\n    ],\n    \"bottom_panels\": {\n      \"count\": 5,\n      \"position\": \"沿底部的水平行\",\n      \"labels\": [\n        \"世界概况\",\n        \"最大国家\",\n        \"最长山脉\",\n        \"最大海洋\",\n        \"最长河流\"\n      ]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "带有信息面板的详细物理世界地图：生成一张高度详细的地形世界地图，包含图例、罗盘玫瑰以及底部的五个信息数据面板。",
+      "subject": "信息结构",
+      "scene": "海报/封面",
+      "composition": [
+        "grid",
+        "horizontal"
+      ],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, horizontal]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13515",
+      "14869",
+      "15433",
+      "14042",
+      "14195",
+      "14240"
+    ]
+  }
+}

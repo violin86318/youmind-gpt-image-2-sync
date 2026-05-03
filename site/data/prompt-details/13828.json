@@ -1,0 +1,47 @@
+{
+  "id": "13828",
+  "prompt": "{\n  \"type\": \"mobile short video app screenshot\",\n  \"style\": \"photorealistic, highly detailed\",\n  \"main_image\": {\n    \"subject\": \"{argument name=\\\"subject description\\\" default=\\\"young Asian woman with long dark hair, wearing a white top, looking back over her shoulder\\\"}\",\n    \"lighting\": \"golden hour, sunset backlight, warm glowing light\",\n    \"background\": \"{argument name=\\\"background location\\\" default=\\\"riverfront at sunset with a tall twisted tower skyline\\\"}\"\n  },\n  \"ui_overlay\": {\n    \"top_bar\": {\n      \"left\": \"time 9:41, menu icon\",\n      \"center_tabs\": [\"经验\", \"团购\", \"关注\", \"推荐\"],\n      \"right\": \"signal, wifi, battery 100, search icon\"\n    },\n    \"right_sidebar\": {\n      \"count\": 6,\n      \"elements\": [\n        \"profile picture with red plus button\",\n        \"heart icon with text '{argument name=\\\"like count\\\" default=\\\"23.6万\\\"}'\",\n        \"comment bubble icon with text '1.6万'\",\n        \"star icon with text '2.8万'\",\n        \"share arrow icon with text '3.7万'\",\n        \"spinning record album icon\"\n      ]\n    },\n    \"bottom_left_info\": {\n      \"username\": \"{argument name=\\\"username\\\" default=\\\"@小鹿的日常\\\"}\",\n      \"caption\": \"{argument name=\\\"caption\\\" default=\\\"吹着晚风，看着日落，这一刻好治愈~ 🌅\\\"}\",\n      \"audio_track\": \"🎵 原声 @小鹿的日常创作的原声\"\n    },\n    \"bottom_nav\": {\n      \"count\": 5,\n      \"tabs\": [\n        \"首页\",\n        \"朋友 (with red badge 2)\",\n        \"central square plus button\",\n        \"消息 (with red badge 5)\",\n        \"我\"\n      ],\n      \"footer\": \"white home indicator line\"\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"移动端短视频 App 截图\",\n  \"style\": \"照片级真实感，高度细节化\",\n  \"main_image\": {\n    \"subject\": \"{argument name=\\\"subject description\\\" default=\\\"一位留着深色长发、身穿白色上衣的年轻亚洲女性，回头看向镜头\\\"}\",\n    \"lighting\": \"黄金时刻，日落逆光，温暖的柔光\",\n    \"background\": \"{argument name=\\\"background location\\\" default=\\\"日落时分的河畔，背景为高耸的扭曲塔楼天际线\\\"}\"\n  },\n  \"ui_overlay\": {\n    \"top_bar\": {\n      \"left\": \"时间 9:41，菜单图标\",\n      \"center_tabs\": [\"经验\", \"团购\", \"关注\", \"推荐\"],\n      \"right\": \"信号，WiFi，电池 100，搜索图标\"\n    },\n    \"right_sidebar\": {\n      \"count\": 6,\n      \"elements\": [\n        \"带有红色加号按钮的头像\",\n        \"心形图标，文字为 '{argument name=\\\"like count\\\" default=\\\"23.6万\\\"}'\",\n        \"评论气泡图标，文字为 '1.6万'\",\n        \"星标图标，文字为 '2.8万'\",\n        \"分享箭头图标，文字为 '3.7万'\",\n        \"旋转的唱片图标\"\n      ]\n    },\n    \"bottom_left_info\": {\n      \"username\": \"{argument name=\\\"username\\\" default=\\\"@小鹿的日常\\\"}\",\n      \"caption\": \"{argument name=\\\"caption\\\" default=\\\"吹着晚风，看着日落，这一刻好治愈~ 🌅\\\"}\",\n      \"audio_track\": \"🎵 原声 @小鹿的日常创作的原声\"\n    },\n    \"bottom_nav\": {\n      \"count\": 5,\n      \"tabs\": [\n        \"首页\",\n        \"朋友 (带红色角标 2)\",\n        \"中央方形加号按钮\",\n        \"消息 (带红色角标 5)\",\n        \"我\"\n      ],\n      \"footer\": \"白色主页指示条\"\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "照片级真实感短视频 App 截图：生成一张高度逼真的移动端短视频 App 截图，包含可自定义的人物肖像和 UI 界面叠加层。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [
+        "backlight",
+        "golden hour"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[参考光线镜头: backlight, golden hour]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14695",
+      "14984",
+      "14008",
+      "14435",
+      "14891",
+      "15795"
+    ]
+  }
+}

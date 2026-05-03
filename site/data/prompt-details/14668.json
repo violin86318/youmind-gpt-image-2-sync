@@ -1,0 +1,49 @@
+{
+  "id": "14668",
+  "prompt": "A whimsical studio portrait of 3 full-body chickens standing side by side against a clean light gray seamless background, centered with soft diffused lighting and subtle shadows beneath their feet. Each chicken is sculpted entirely from layered flower petals and blossoms while keeping realistic chicken anatomy, skinny scaly legs, clawed feet, beaks, wattles, and combs. The left chicken is cream and ivory colored, fluffy and rounded, decorated with pale white blossoms and tiny sprigs of baby's breath, with oversized round googly eyes and a surprised, innocent expression. The center chicken is dusty pink and blush colored, built from dense overlapping petals and medium flower heads, with a long drooping pink comb falling over one eye, a stern intense expression, and floral detailing around the neck and body. The right chicken is vivid orange, amber, and golden yellow, made of marigold-like petals and warm autumn flowers, with narrowed sleepy eyes, a tall red-orange comb, and a grumpy unimpressed expression. Emphasize intricate botanical texture, handcrafted floral sculpture realism, playful character design, high detail, sharp focus, symmetrical lineup composition, and a cute surreal fine-art aesthetic.",
+  "translatedPrompt": "一张充满奇趣的摄影棚肖像，展示了 3 只完全由层叠花瓣和花朵构成的风格化小鸡，它们并排站在浅灰色纯色背景前，光线柔和均匀，地面带有淡淡的阴影。左侧的小鸡呈奶油色和象牙色，由浅色花瓣和白色小野花构成，表情惊讶，有着非常大的圆形滑稽眼睛、小巧的浅色鸡冠、下垂的粉色肉垂和细长的黄色鸡腿。中间的小鸡圆润蓬松，由深浅不一的浓密粉色花瓣和花朵构成，表情严肃且略带不满，眯着眼睛，喙部较大且呈浅色，有着超大的粉色肉垂，以及垂在前额的类似粉色花朵的鸡冠。右侧的小鸡呈亮橙色和金色，由鲜艳的橙色花瓣和类似万寿菊的花朵构成，点缀着几片绿叶和黄色嫩枝，表情困倦且不屑，半眯着眼睛，有着高耸的红橙色鸡冠、红色肉垂和黄色鸡腿。让这 3 只小鸡都具备高度细节，可爱、古怪且具有手工质感，将逼真的花卉纹理排列成令人信服的鸡体结构，采用居中构图、全身视角、干净简约的背景，呈现出精致的奇幻编辑摄影美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "花卉小鸡三人组肖像：此提示词可生成一张可爱且高细节的摄影棚图像，展示三只由花朵构成的小鸡，非常适合用于奇幻风格的角色艺术或装饰性动物图像。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "full-body",
+        "layered"
+      ],
+      "style": [
+        "realistic",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, full-body, layered]。\n\nVisual style:\n[参考风格: realistic, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15757",
+      "14422",
+      "14607",
+      "15332",
+      "15340",
+      "15717"
+    ]
+  }
+}

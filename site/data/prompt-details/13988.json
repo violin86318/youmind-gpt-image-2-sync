@@ -1,0 +1,35 @@
+{
+  "id": "13988",
+  "prompt": "青丝如瀑且乌黑柔顺的{argument name=\"佳人\" default=\"婉约佳人\"}凝神伫立，眉眼间蕴着古典的含蓄气韵。{argument name=\"衣着\" default=\"月白织锦与缠枝暗绣交织的宽袍广袖\"}垂顺而下，传统丝绦与温润玉佩随步履轻摇。鎏金漫染与暮色微醺的落日余晖倾泻天际，为身形镀上柔和琥珀光晕。{argument name=\"背景场景\" default=\"玻璃冷映与几何构筑的现代楼宇\"}隐于景深，以宣纸留白的手法铺展古今对话的疏朗构图。古韵绵长且虚实相生的东方诗境悄然融入都市街巷，于冷暖交织中定格一幅时光错位的静谧长卷。",
+  "translatedPrompt": "一位 {argument name=\"subject\" default=\"优雅的女子\"}，如瀑布般顺滑的黑发倾泻而下，她静静伫立，眼中流露出古典而内敛的韵味。她身着 {argument name=\"attire\" default=\"月白色锦缎宽袖长袍，饰有精致的花卉刺绣\"}，衣袂飘飘，传统的丝绸飘带与温润的玉佩随步履轻摇。金色的夕阳洒满天际，为她的身影镀上一层柔和的琥珀色光晕。{argument name=\"background scene\" default=\"带有冷色调玻璃反射和几何结构的现代建筑\"} 渐隐于景深之中，运用传统水墨画的“留白”技法，营造出一种古今对话的空灵构图。悠长的东方诗意氛围在虚实交织间，悄然融入城市街头，在冷暖色调的碰撞中，定格出一幅超脱于时空的静谧画卷。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "现代都市落日下的古典之美：这是一段旨在生成高质量图像的提示词，描绘了现代城市天际线下古典中国美人的形象，强调丰富的质感与文化碰撞。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

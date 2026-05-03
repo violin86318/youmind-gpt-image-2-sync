@@ -1,0 +1,47 @@
+{
+  "id": "14565",
+  "prompt": "A highly detailed full-screen steampunk video-streaming website interface in a dark bronze, brass, and sepia color palette, designed like an antique Victorian industrial dashboard. The page is framed by ornate metal borders, rivets, pipes, gears, pressure gauges, and glowing Edison bulbs, with rich engraved textures and warm low-key lighting. At the top left, a modern white and red brand mark reads \"Pollo AI\" with smaller white text \"GPT Image 2\" beneath it, overlaid on the interface. Centered across the top is a large embossed brass title plaque reading \"ElectroVid\" with a smaller engraved tagline below, \"THE FUTURE IN MOTION\". A horizontal navigation bar sits under the title with exactly 6 items: a home icon button, \"TRENDING\", \"INNOVATIONS\", \"DOCUMENTARIES\", \"ENTERTAINMENT\", and a search field showing placeholder text \"Search ElectroVid...\" followed by a search icon. On the upper right, include 1 round vintage gauge dial built into the metal frame.\n\nThe main content area is split into 2 columns. The left sidebar is a framed panel titled \"POPULAR CHANNELS\" containing exactly 3 stacked channel cards, each with a circular emblem, a channel name, subscriber count, and a brass subscribe button labeled \"SUBSCRIBE\". Card 1: emblem with an eagle seal, channel name \"THE PATENT OFFICE\", subscriber text \"27.4K SUBSCRIBERS\". Card 2: emblem with a royal crest, channel name \"THE ROYAL SOCIETY\", subscriber text \"18.7K SUBSCRIBERS\". Card 3: blue circular GE-style logo, channel name \"GENERAL ELECTRIC\", subscriber text \"35.1K SUBSCRIBERS\".\n\nThe large central featured video panel has an ornate metal frame and shows a sepia historical scene of two famous inventors in suits debating in front of a chalkboard marked \"AC vs. DC\" with lightning illustrations. Their faces are obscured by 2 soft rectangular blur blocks, one over each face. Add an old-film, archival-photo look. Along the bottom of the video frame, show a player control bar with exactly 7 visible UI elements: play icon, volume icon, red progress bar, timestamp \"08:47 / 22:31\", settings gear, small rectangle screen icon, and fullscreen icon. Beneath the video, show the title \"The Truth About AC vs. DC: The Final Debate\". Below that, display channel metadata with a small circular avatar, channel name \"The Electrical Age\", and stats text \"142K views • 3 days ago\". On the right side of this metadata row, place a brass like button labeled \"LIKE\" with count \"5.8K\".\n\nBelow, add a section header \"LATEST VIDEOS\" above exactly 3 thumbnail cards in one row. Card 1: title \"My New Incandescent Bulb\", thumbnail of a man holding a glowing bulb with his face obscured by 1 blur block, duration label \"10:12\", creator \"Thomas Edison\", stats \"89K views • 5 days ago\". Card 2: title \"The Wonders of the Wardenclyffe Tower\", thumbnail of a dramatic Tesla tower under lightning, duration \"15:36\", creator \"Nikola Tesla\", stats \"120K views • 1 week ago\". Card 3: title \"The Automobile Revolution\", thumbnail of an early automobile with driver in a city street, duration \"12:08\", creator \"Henry Ford\", stats \"110K views • 1 week ago\". Under the thumbnails, add a centered brass button reading \"VIEW ALL VIDEOS\".\n\nAt the bottom center, include a footer plaque with the text \"© 1893 ElectroVid, Ltd. All rights reserved.\". Add additional decorative machinery in the corners and edges, including exposed pipes, cogs, filigree, and 1 more round gauge near the bottom right. The whole composition should feel like a believable antique YouTube homepage reimagined as a Victorian steampunk invention, with crisp readable typography, symmetrical layout, parchment panels, embossed brass UI components, and cinematic sepia contrast.",
+  "translatedPrompt": "创建一个全屏的虚构视频流媒体网站首页，采用细节丰富的蒸汽朋克维多利亚复古未来主义风格，设计成类似古董黄铜与木质机械的界面。页面包含 1 个主标题栏、1 个顶部导航栏、1 个左侧边栏、1 个精选视频面板、1 个包含 3 个缩略图的最新视频区、1 个中央行动号召按钮以及 1 个页脚铭牌。整体色调为深青铜色、陈旧黄铜色、棕褐色、发黑的钢色和羊皮纸米色，配以温暖的琥珀色灯光、雕刻边框、管道、齿轮、铆钉、装饰性花丝和模拟仪表细节。在左上角，放置一个现代品牌徽章，显示“Pika {argument name=\"brand tag\" default=\"AI\"}”，在其上方或旁边标注“GPT Image 2”，与古董界面形成对比。在深色铭牌上居中放置浮雕衬线金金属风格的大型网站标题“{argument name=\"site name\" default=\"ElectroVid\"}”，下方配以副标题“THE FUTURE IN MOTION”。在左上方添加一个发光的爱迪生灯泡，右上方添加一个圆形压力表或时钟表盘。在标题下方，包含一个水平导航栏，包含 6 个元素：一个主页图标、“TRENDING”、“INNOVATIONS”、“DOCUMENTARIES”、“ENTERTAINMENT”，以及一个带有占位符文本“Search ElectroVid...”的搜索框和一个搜索按钮。在左侧边栏中，添加一个标题为“POPULAR CHANNELS”的框架区域，垂直堆叠 3 张频道卡片，每张卡片包含一个圆形徽标、频道名称、订阅者数量和一个订阅按钮：“THE PATENT OFFICE”及“27.4K SUBSCRIBERS”、“THE ROYAL SOCIETY”及“18.7K SUBSCRIBERS”、“GENERAL ELECTRIC”及“35.1K SUBSCRIBERS”。在主要内容区域，展示一个大型精选视频播放器，播放棕褐色调的视频片段，内容为两位早期电气先驱在写有“AC vs. DC”及闪电图案的黑板前辩论；用柔和的矩形模糊块遮挡两人的面部。包含一个逼真的视频播放器控制栏，带有播放图标、进度条、音量、设置、全屏以及时间戳“08:47 / 22:31”。在播放器下方，以大号衬线字体显示标题“{argument name=\"featured title\" default=\"The Truth About AC vs. DC: The Final Debate\"}”。在其下方，显示“The Electrical Age”的频道行，包含一个小圆形头像、“142K views”和“3 days ago”，并在右侧放置一个写有“LIKE 5.8K”的黄铜按钮。下方创建一个标题为“LATEST VIDEOS”的区域，包含 3 张视频卡片：1) “Thomas Edison”发布的“My New Incandescent Bulb”，“89K views”，“5 days ago”，时长“10:12”，缩略图显示一名男子手持发光灯泡，面部模糊；2) “Nikola Tesla”发布的“The Wonders of the Wardenclyffe Tower”，“120K views”，“1 week ago”，时长“15:36”，缩略图显示风暴云下的特斯拉塔；3) “Henry Ford”发布的“The Automobile Revolution”，“110K views”，“1 week ago”，时长“12:08”，缩略图显示城市街道上的早期复古汽车。在卡片下方居中放置一个写有“VIEW ALL VIDEOS”的金属按钮。在底部，添加一个深色雕刻页脚板，文字为“© 1893 ElectroVid, Ltd. All rights reserved.”。用装饰性的黄铜边角、管道、齿轮、螺丝和小型仪表框住整个构图，使其看起来像一个功能性的维多利亚工业仪表盘。图像应呈现出精致的电影级网站设计稿质感，对称且高度清晰，具有逼真的纹理、分层深度、细微的污垢感以及高级海报般的渲染质量。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "蒸汽朋克风格 ElectroVid 首页设计稿：一份详尽的蒸汽朋克风格视频平台首页设计稿，用于创作复古未来主义网页 UI 概念、海报或关于 AI 图像文本渲染的社交媒体视觉素材。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "horizontal"
+      ],
+      "style": [
+        "cinematic",
+        "vintage"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "B2B 产品概念图、后台系统、数据看板",
+      "whySelected": "得分 75；构图: centered, symmetrical, horizontal；风格: cinematic, vintage；要求精确文字；要求可读；包含标注/说明；文字是主视觉"
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, horizontal]。\n\nVisual style:\n[参考风格: cinematic, vintage]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14627",
+      "15391",
+      "15389",
+      "14446",
+      "14447",
+      "15725"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "15044",
+  "prompt": "{\"type\":\"manga-style social media comic poster\",\"format\":\"vertical Instagram-style page\",\"style\":{\"overall\":\"high-contrast black-and-white ink manga with selective muted color accents\",\"influences\":[\"shonen manga action paneling\",\"hand-drawn screentone shading\",\"dramatic speed lines\",\"comic sound effects\"],\"accent_colors\":[\"burnt orange hair\",\"dark forest green hoodie\",\"warm gold lettering and icons\"],\"rendering\":\"detailed line art, expressive faces, foamy water texture, dynamic perspective\"},\"subject\":{\"character\":{\"count\":1,\"description\":\"teen surfer with huge tight curly orange hair, very pale skin, exaggerated round manga eyes, elastic cartoon expressions\",\"wardrobe\":[\"dark green oversized hoodie covered with graffiti-like handwritten phrases and doodles\",\"black knee-length shorts\"],\"barefoot\":true},\"prop\":{\"count\":1,\"description\":\"white short surfboard with black fin and black leash plug, hand-drawn sun symbol near the nose, large handwritten text 'BEST FRIEND' with a small heart\"}},\"layout\":{\"background\":\"dark teal outer border framing the comic page\",\"sections\":[{\"title\":\"top-left panel\",\"position\":\"upper left\",\"count\":1,\"labels\":[\"ゴォォォォォ!!\",\"WHOOSH!!\"],\"description\":\"large action panel of the surfer crouching low on the board inside a curling wave, grinning wildly with one arm stretched forward and one arm back, city shoreline silhouettes faintly visible in the distance, speech bubble in Spanish showing excitement at finally arriving\"},{\"title\":\"top-right panel\",\"position\":\"upper right\",\"count\":1,\"labels\":[\"BEST FRIEND\"],\"description\":\"close-up portrait hugging the surfboard with an intense happy grin, small gold hearts floating around the head, speech bubble in Spanish talking directly to the wave or surfing partner with excited encouragement\"},{\"title\":\"middle-left panel\",\"position\":\"center left\",\"count\":1,\"labels\":[\"ガシャーン!!\",\"CRASH!!\"],\"description\":\"wipeout moment as the surfer loses balance, arms flailing, board tilting away while white spray explodes around them, shocked screaming face and Spanish exclamation in a speech bubble\"},{\"title\":\"middle-right panel\",\"position\":\"center right\",\"count\":1,\"labels\":[\"ドボン!!\",\"SPLASH!!\"],\"description\":\"impact panel showing the character almost fully submerged in a violent burst of water, only curly hair and one raised hand still visible\"},{\"title\":\"bottom-left panel\",\"position\":\"lower left\",\"count\":1,\"labels\":[\"BEST FRIEND\"],\"description\":\"underwater view of the surfer beside the upright surfboard, one hand pressed to the board with a guilty, worried expression, bubbles rising everywhere, hoodie back covered with graffiti text, Spanish apology in a speech bubble\"},{\"title\":\"bottom-center panel\",\"position\":\"lower center\",\"count\":1,\"labels\":[\"グワ!!\",\"GWAH!!\"],\"description\":\"frontal close-up of the surfer surfacing and shouting with clenched fist, bulging eyes, soaking wet curls, determined expression, Spanish declaration that they still have a wave to catch\"},{\"title\":\"bottom-right panel\",\"position\":\"lower right\",\"count\":1,\"labels\":[\"BORN TO SURF\",\"BEST FRIEND\"],\"description\":\"rear three-quarter view of the surfer paddling back out on the board toward a massive incoming wave on the horizon, calmer but determined mood, birds in the sky, Spanish speech bubble saying to wait because they will recover and return\"}],\"section_count\":7,\"footer\":{\"count\":3,\"elements\":[\"creator handle '@IAPULSEFLOW' at bottom left\",\"three white social media icons centered near the bottom: heart, speech bubble, bookmark-style icon\",\"italic script text 'desliza →' at bottom right\"]}},\"text_treatment\":{\"dialogue_language\":\"Spanish\",\"sound_effect_language\":\"Japanese with English translations\",\"allow_text\":true},\"composition\":{\"camera\":\"varied manga panel shots including wide action view, close-up portrait, underwater medium shot, and rear paddling shot\",\"mood\":\"chaotic, funny, heartfelt, determined\",\"theme\":\"a surfer treating the surfboard like a best friend through a dramatic wipeout\"}}",
+  "translatedPrompt": "{\"type\":\"漫画风格社交媒体漫画海报\",\"format\":\"竖版 Instagram 风格页面\",\"style\":{\"overall\":\"高对比度黑白水墨漫画，点缀柔和色彩\",\"influences\":[\"少年漫画动作分镜\",\"手绘网点纸阴影\",\"戏剧性速度线\",\"漫画拟声词\"],\"accent_colors\":[\"焦橙色头发\",\"深森林绿连帽衫\",\"暖金色字体与图标\"],\"rendering\":\"细腻线稿、生动表情、泡沫水纹质感、动态透视\"},\"subject\":{\"character\":{\"count\":1,\"description\":\"青少年冲浪者，拥有一头浓密卷曲的橙色长发，皮肤白皙，夸张的圆形漫画大眼，表情生动且富有弹性\"},\"wardrobe\":[\"深绿色超大款连帽衫，上面布满了涂鸦风格的手写短语和涂鸦\",\"黑色及膝短裤\"],\"barefoot\":true},\"prop\":{\"count\":1,\"description\":\"白色短款冲浪板，配有黑色尾鳍和黑色脚绳塞，板头附近有手绘太阳符号，并写有大号手写体 'BEST FRIEND' 字样及一颗小爱心\"}},\"layout\":{\"background\":\"深青色外边框，勾勒漫画页面\",\"sections\":[{\"title\":\"左上分镜\",\"position\":\"左上\",\"count\":1,\"labels\":[\"ゴォォォォォ!!\",\"WHOOSH!!\"],\"description\":\"大幅动作分镜，冲浪者在卷起的浪花中低身蹲伏，狂野地咧嘴大笑，一只手向前伸展，另一只手向后，远处隐约可见城市海岸线轮廓，对话框内为西班牙语，表达终于抵达的兴奋之情\"},{\"title\":\"右上分镜\",\"position\":\"右上\",\"count\":1,\"labels\":[\"BEST FRIEND\"],\"description\":\"特写镜头，深情拥抱冲浪板，露出灿烂的笑容，头顶漂浮着金色小爱心，对话框内为西班牙语，直接对着海浪或冲浪伙伴进行兴奋的鼓励\"},{\"title\":\"左中分镜\",\"position\":\"左中\",\"count\":1,\"labels\":[\"ガシャーン!!\",\"CRASH!!\"],\"description\":\"Wipeout 瞬间，冲浪者失去平衡，双臂挥舞，冲浪板倾斜，周围水花四溅，脸上露出震惊的尖叫表情，对话框内为西班牙语感叹词\"},{\"title\":\"右中分镜\",\"position\":\"右中\",\"count\":1,\"labels\":[\"ドボン!!\",\"SPLASH!!\"],\"description\":\"冲击分镜，展示角色几乎完全没入剧烈的水花中，仅可见卷曲的头发和一只举起的手\"},{\"title\":\"左下分镜\",\"position\":\"左下\",\"count\":1,\"labels\":[\"BEST FRIEND\"],\"description\":\"水下视角，冲浪者在直立的冲浪板旁，一只手按在板上，表情愧疚担忧，周围气泡升腾，连帽衫背面布满涂鸦文字，对话框内为西班牙语道歉语\"},{\"title\":\"中下分镜\",\"position\":\"中下\",\"count\":1,\"labels\":[\"グワ!!\",\"GWAH!!\"],\"description\":\"正面特写，冲浪者浮出水面，握紧拳头大喊，双眼圆睁，卷发湿透，表情坚定，对话框内为西班牙语宣言，表示还有海浪等着去征服\"},{\"title\":\"右下分镜\",\"position\":\"右下\",\"count\":1,\"labels\":[\"BORN TO SURF\",\"BEST FRIEND\"],\"description\":\"后侧方视角，冲浪者划水向地平线上的巨浪冲去，心情平静而坚定，天上有飞鸟，对话框内为西班牙语，喊话让浪等等，因为他们会恢复并归来\"}],\"section_count\":7,\"footer\":{\"count\":3,\"elements\":[\"左下角创作者 ID '@IAPULSEFLOW'\",\"底部居中三个白色社交媒体图标：爱心、对话框、书签图标\",\"右下角斜体文字 'desliza →' \"]}},\"text_treatment\":{\"dialogue_language\":\"西班牙语\",\"sound_effect_language\":\"日语配英语翻译\",\"allow_text\":true},\"composition\":{\"camera\":\"多样的漫画分镜拍摄，包括广角动作镜头、特写肖像、水下中景以及后方划水镜头\",\"mood\":\"混乱、幽默、感人、坚定\",\"theme\":\"冲浪者在经历戏剧性的 Wipeout 后，将冲浪板视为挚友的叙事\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "冲浪漫画风格 Wipeout 漫画海报：此内容可生成一张七格漫画风格的冲浪主题海报，包含戏剧性的动作场面、西班牙语对话，以及适合社交媒体分享的个性化角色叙事布局。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "close-up",
+        "vertical"
+      ],
+      "style": [
+        "manga",
+        "hand-drawn"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, close-up, vertical]。\n\nVisual style:\n[参考风格: manga, hand-drawn]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15706",
+      "14998",
+      "14910",
+      "15741",
+      "14568",
+      "14679"
+    ]
+  }
+}

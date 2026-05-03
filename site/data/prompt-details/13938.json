@@ -1,0 +1,45 @@
+{
+  "id": "13938",
+  "prompt": "{\n  \"type\": \"retro Japanese video game magazine advertisement\",\n  \"style\": \"photograph of a glossy magazine page, slightly curved with visible page edges on the left\",\n  \"game_info\": {\n    \"title_logo\": \"{argument name=\\\"game title\\\" default=\\\"シェンムー III ~Shenmue III~\\\"}\",\n    \"console\": \"{argument name=\\\"console name\\\" default=\\\"Dreamcast\\\"}\",\n    \"release_date\": \"{argument name=\\\"release year\\\" default=\\\"1999年 発売予定\\\"}\",\n    \"publisher\": \"SEGA\"\n  },\n  \"main_visual\": {\n    \"character\": \"{argument name=\\\"main character description\\\" default=\\\"3D CGI male character with spiky black hair, a band-aid on his cheek, wearing a brown leather jacket\\\"}\",\n    \"background\": \"traditional Asian village with wooden buildings, a river, and mountains under a cloudy sky\",\n    \"overlay\": \"faint dragon graphic behind the main logo\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"Top Header\",\n        \"position\": \"top\",\n        \"elements\": [\n          \"Dreamcast swirl logo\",\n          \"Large horizontal catchphrase: {argument name=\\\"main catchphrase\\\" default=\\\"あれから——涼、再び旅立つ。\\\"}\"\n        ]\n      },\n      {\n        \"title\": \"Vertical Copy\",\n        \"position\": \"left and right edges\",\n        \"elements\": [\n          \"Left vertical text: 人は、運命のために生まれてくるのか——\",\n          \"Right vertical text: シェンムー、ついに完結へ。\"\n        ]\n      },\n      {\n        \"title\": \"Feature Screenshots\",\n        \"position\": \"mid-right\",\n        \"count\": 4,\n        \"labels\": [\n          \"さらなる強敵たちとの出会い。\",\n          \"広大な世界、進化したグラフィック。\",\n          \"新たな仲間たちとの絆。\",\n          \"すべての謎が、ここに結ばれる。\"\n        ]\n      },\n      {\n        \"title\": \"Footer Information\",\n        \"position\": \"bottom\",\n        \"elements\": [\n          \"Presented by SEGA logo\",\n          \"Game spec text block\",\n          \"Age rating box: 15才以上\",\n          \"Image of the Dreamcast console and controller\",\n          \"URL: http://www.sega.co.jp/\"\n        ]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"复古日式电子游戏杂志广告\",\n  \"style\": \"光面杂志页面的实拍图，页面略微弯曲，左侧可见页面边缘\",\n  \"game_info\": {\n    \"title_logo\": \"{argument name=\\\"game title\\\" default=\\\"シェンムー III ~莎木 III~\\\"}\",\n    \"console\": \"{argument name=\\\"console name\\\" default=\\\"Dreamcast\\\"}\",\n    \"release_date\": \"{argument name=\\\"release year\\\" default=\\\"1999 年 预定发售\\\"}\",\n    \"publisher\": \"SEGA\"\n  },\n  \"main_visual\": {\n    \"character\": \"{argument name=\\\"main character description\\\" default=\\\"3D CGI 男性角色，黑色刺猬头，脸颊贴着创可贴，身穿棕色皮夹克\\\"}\",\n    \"background\": \"传统的亚洲村庄，有木质建筑、河流和多云天空下的山脉\",\n    \"overlay\": \"主 Logo 后方隐约可见的龙形图案\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"顶部标题\",\n        \"position\": \"顶部\",\n        \"elements\": [\n          \"Dreamcast 旋涡 Logo\",\n          \"大型横向宣传语：{argument name=\\\"main catchphrase\\\" default=\\\"あれから——涼、再び旅立つ。\\\"}\"\n        ]\n      },\n      {\n        \"title\": \"竖排文案\",\n        \"position\": \"左右两侧\",\n        \"elements\": [\n          \"左侧竖排文字：人は、運命のために生まれてくるのか——\",\n          \"右侧竖排文字：シェンムー、ついに完結へ。\"\n        ]\n      },\n      {\n        \"title\": \"特色游戏截图\",\n        \"position\": \"中右部\",\n        \"count\": 4,\n        \"labels\": [\n          \"与更多强敌的邂逅。\",\n          \"广阔的世界，进化的图形表现。\",\n          \"与新伙伴们的羁绊。\",\n          \"所有的谜团，在此汇聚。\"\n        ]\n      },\n      {\n        \"title\": \"底部信息\",\n        \"position\": \"底部\",\n        \"elements\": [\n          \"SEGA 出品 Logo\",\n          \"游戏规格文本块\",\n          \"年龄分级框：15 岁以上\",\n          \"Dreamcast 主机与手柄图像\",\n          \"URL: http://www.sega.co.jp/\"\n        ]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古日式游戏杂志广告：生成高度结构化、复古风格的日式电子游戏杂志广告，包含游戏截图、硬件渲染图以及风格化的排版设计。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "3d",
+        "retro"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical, horizontal]。\n\nVisual style:\n[参考风格: 3d, retro]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14949",
+      "15702",
+      "14841",
+      "15258",
+      "14246",
+      "14830"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "15460",
+  "prompt": "{\"type\":\"futuristic infographic poster\",\"subject\":\"a square 10x10 grid map of 100 AI companies for the year 2026\",\"style\":\"clean dark-tech editorial infographic, flat vector logos on a deep navy background, thin glowing grid lines, crisp high-contrast typography, modern startup ecosystem poster\",\"aspect_ratio\":\"1:1\",\"background\":{\"color\":\"very dark navy blue\",\"texture\":\"subtle gradient with faint glow\"},\"title_block\":{\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"AI COMPANIES IN 2026\\\"}\",\"position\":\"top center\",\"style\":\"very large bold sans-serif uppercase, white text with the word '2026' in a blue-to-purple gradient\"},\"layout\":{\"type\":\"grid poster\",\"grid\":{\"columns\":10,\"rows\":10,\"cell_count\":100,\"numbering\":\"cells numbered 1 through 100 in small white numerals at the top-left of each cell\",\"cell_style\":\"uniform square cells with thin pale blue borders and centered company logos plus company names\"},\"left_sidebar\":{\"count\":10,\"position\":\"far left vertical column of category labels aligned to each row\",\"style\":\"small uppercase cyan and magenta text with matching simple line icons\",\"labels\":[\"FRONTIER LABS & BIG TECH\",\"AI APPLICATIONS & PLATFORMS\",\"CREATIVE AI & MEDIA\",\"AUTONOMY & ROBOTICS\",\"AI HARDWARE & CHIPS\",\"AI DEV TOOLS & INFRA\",\"HEALTHCARE AI\",\"PRODUCTIVITY & WORK\",\"ENTERPRISE & LEGAL AI\",\"SERVICES & SYSTEMS INTEGRATORS\"]},\"sections\":[{\"title\":\"FRONTIER LABS & BIG TECH\",\"position\":\"row 1\",\"count\":10,\"labels\":[\"OpenAI\",\"Anthropic\",\"Google DeepMind\",\"Microsoft\",\"Meta\",\"Amazon\",\"Apple\",\"NVIDIA\",\"xAI\",\"IBM\"]},{\"title\":\"AI APPLICATIONS & PLATFORMS\",\"position\":\"row 2\",\"count\":10,\"labels\":[\"Adobe\",\"Salesforce\",\"Oracle\",\"Databricks\",\"Snowflake\",\"Palantir\",\"Scale AI\",\"Cohere\",\"Mistral AI\",\"Inflection AI\"]},{\"title\":\"CREATIVE AI & MEDIA\",\"position\":\"row 3\",\"count\":10,\"labels\":[\"Perplexity AI\",\"Character.AI\",\"Hugging Face\",\"Stability AI\",\"Runway\",\"Pika Labs\",\"Luma AI\",\"Midjourney\",\"ElevenLabs\",\"Synthesia\"]},{\"title\":\"AUTONOMY & ROBOTICS\",\"position\":\"row 4\",\"count\":10,\"labels\":[\"Waymo\",\"Tesla AI\",\"Zoox\",\"Cruise\",\"Figure AI\",\"Boston Dynamics\",\"Agility Robotics\",\"Covariant\",\"Skydio\",\"Shield AI\"]},{\"title\":\"AI HARDWARE & CHIPS\",\"position\":\"row 5\",\"count\":10,\"labels\":[\"TSMC\",\"Broadcom\",\"AMD\",\"Intel\",\"Graphcore\",\"Cerebras\",\"Groq\",\"SambaNova\",\"Tenstorrent\",\"d-Matrix\"]},{\"title\":\"AI DEV TOOLS & INFRA\",\"position\":\"row 6\",\"count\":10,\"labels\":[\"LangChain\",\"Weights & Biases\",\"OctoML\",\"Anyscale\",\"Replicate\",\"Modal\",\"Together AI\",\"Fireworks AI\",\"Vercel AI\",\"Replit\"]},{\"title\":\"HEALTHCARE AI\",\"position\":\"row 7\",\"count\":10,\"labels\":[\"DeepL\",\"Duolingo\",\"Khan Academy\",\"Quizlet\",\"Abridge\",\"Tempus\",\"Insilico Medicine\",\"Recursion\",\"PathAI\",\"Owkin\"]},{\"title\":\"PRODUCTIVITY & WORK\",\"position\":\"row 8\",\"count\":10,\"labels\":[\"Notion\",\"Grammarly\",\"QuillBot\",\"Jasper\",\"Copy.ai\",\"HubSpot\",\"Canva\",\"Figma\",\"Framer\",\"Wix\"]},{\"title\":\"ENTERPRISE & LEGAL AI\",\"position\":\"row 9\",\"count\":10,\"labels\":[\"Glean\",\"Harvey\",\"Ironclad\",\"Lexion\",\"Hebbia\",\"Adept AI\",\"Humans&\",\"AMI\",\"World Labs\",\"Mithril\"]},{\"title\":\"SERVICES & SYSTEMS INTEGRATORS\",\"position\":\"row 10\",\"count\":10,\"labels\":[\"SpaceX AI\",\"Project Prometheus\",\"Onix\",\"ServiceNow\",\"EPAM Systems\",\"Accenture\",\"TCS\",\"Infosys\",\"Capgemini\",\"C3 AI\"]}]},\"branding\":{\"footer\":\"small centered footer text reading 'COMPANIES SHAPING THE FUTURE OF AI IN 2026'\"},\"logo_treatment\":\"each company shown with a simplified recognizable logo mark in its brand colors above or beside its name; logos are centered within each tile and scaled consistently\",\"color_palette\":{\"primary\":\"deep navy\",\"grid\":\"muted blue-gray\",\"text\":\"white\",\"accent\":\"cyan, purple, magenta, electric blue, orange, green depending on brand logos\"},\"rendering_notes\":\"symmetrical poster composition, infographic precision, no perspective distortion, sharp vector edges, evenly spaced margins, polished social-media-shareable design\"}",
+  "translatedPrompt": "{\"type\":\"未来感信息图海报\",\"subject\":\"一张 2026 年 100 家 AI 公司的 10x10 方形网格地图\",\"style\":\"简洁的深色科技风格编辑信息图，深海军蓝背景上的扁平矢量 Logo，纤细的发光网格线，清晰的高对比度排版，现代初创企业生态系统海报\",\"aspect_ratio\":\"1:1\",\"background\":{\"color\":\"深海军蓝\",\"texture\":\"带有微弱光晕的细腻渐变\"},\"title_block\":{\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"2026 年 AI 公司\\\"}\",\"position\":\"顶部居中\",\"style\":\"超大粗体无衬线大写字母，白色文本，其中“2026”一词采用蓝紫色渐变\"},\"layout\":{\"type\":\"网格海报\",\"grid\":{\"columns\":10,\"rows\":10,\"cell_count\":100,\"numbering\":\"每个单元格左上角有 1 到 100 的小型白色数字编号\",\"cell_style\":\"统一的方形单元格，带有纤细的淡蓝色边框，中心放置公司 Logo 和公司名称\"},\"left_sidebar\":{\"count\":10,\"position\":\"最左侧垂直列，类别标签与每一行对齐\",\"style\":\"小型大写青色和洋红色文本，配有相匹配的简洁线条图标\",\"labels\":[\"前沿实验室与大型科技公司\",\"AI 应用与平台\",\"创意 AI 与媒体\",\"自动驾驶与机器人\",\"AI 硬件与芯片\",\"AI 开发工具与基础设施\",\"医疗 AI\",\"生产力与办公\",\"企业与法律 AI\",\"服务与系统集成商\"]},\"sections\":[{\"title\":\"前沿实验室与大型科技公司\",\"position\":\"第 1 行\",\"count\":10,\"labels\":[\"OpenAI\",\"Anthropic\",\"Google DeepMind\",\"Microsoft\",\"Meta\",\"Amazon\",\"Apple\",\"NVIDIA\",\"xAI\",\"IBM\"]},{\"title\":\"AI 应用与平台\",\"position\":\"第 2 行\",\"count\":10,\"labels\":[\"Adobe\",\"Salesforce\",\"Oracle\",\"Databricks\",\"Snowflake\",\"Palantir\",\"Scale AI\",\"Cohere\",\"Mistral AI\",\"Inflection AI\"]},{\"title\":\"创意 AI 与媒体\",\"position\":\"第 3 行\",\"count\":10,\"labels\":[\"Perplexity AI\",\"Character.AI\",\"Hugging Face\",\"Stability AI\",\"Runway\",\"Pika Labs\",\"Luma AI\",\"Midjourney\",\"ElevenLabs\",\"Synthesia\"]},{\"title\":\"自动驾驶与机器人\",\"position\":\"第 4 行\",\"count\":10,\"labels\":[\"Waymo\",\"Tesla AI\",\"Zoox\",\"Cruise\",\"Figure AI\",\"Boston Dynamics\",\"Agility Robotics\",\"Covariant\",\"Skydio\",\"Shield AI\"]},{\"title\":\"AI 硬件与芯片\",\"position\":\"第 5 行\",\"count\":10,\"labels\":[\"TSMC\",\"Broadcom\",\"AMD\",\"Intel\",\"Graphcore\",\"Cerebras\",\"Groq\",\"SambaNova\",\"Tenstorrent\",\"d-Matrix\"]},{\"title\":\"AI 开发工具与基础设施\",\"position\":\"第 6 行\",\"count\":10,\"labels\":[\"LangChain\",\"Weights & Biases\",\"OctoML\",\"Anyscale\",\"Replicate\",\"Modal\",\"Together AI\",\"Fireworks AI\",\"Vercel AI\",\"Replit\"]},{\"title\":\"医疗 AI\",\"position\":\"第 7 行\",\"count\":10,\"labels\":[\"DeepL\",\"Duolingo\",\"Khan Academy\",\"Quizlet\",\"Abridge\",\"Tempus\",\"Insilico Medicine\",\"Recursion\",\"PathAI\",\"Owkin\"]},{\"title\":\"生产力与办公\",\"position\":\"第 8 行\",\"count\":10,\"labels\":[\"Notion\",\"Grammarly\",\"QuillBot\",\"Jasper\",\"Copy.ai\",\"HubSpot\",\"Canva\",\"Figma\",\"Framer\",\"Wix\"]},{\"title\":\"企业与法律 AI\",\"position\":\"第 9 行\",\"count\":10,\"labels\":[\"Glean\",\"Harvey\",\"Ironclad\",\"Lexion\",\"Hebbia\",\"Adept AI\",\"Humans&\",\"AMI\",\"World Labs\",\"Mithril\"]},{\"title\":\"服务与系统集成商\",\"position\":\"第 10 行\",\"count\":10,\"labels\":[\"SpaceX AI\",\"Project Prometheus\",\"Onix\",\"ServiceNow\",\"EPAM Systems\",\"Accenture\",\"TCS\",\"Infosys\",\"Capgemini\",\"C3 AI\"]}]},\"branding\":{\"footer\":\"底部居中的小型页脚文本，内容为“塑造 2026 年 AI 未来的公司”\"},\"logo_treatment\":\"每家公司在名称上方或旁边显示其品牌颜色的简化识别 Logo；Logo 在每个方格内居中并保持一致的缩放比例\",\"color_palette\":{\"primary\":\"深海军蓝\",\"grid\":\"柔和的蓝灰色\",\"text\":\"白色\",\"accent\":\"根据品牌 Logo 分别使用青色、紫色、洋红色、电光蓝、橙色、绿色\"},\"rendering_notes\":\"对称的海报构图，信息图的精确度，无透视畸变，清晰的矢量边缘，均匀的边距，精致且适合社交媒体分享的设计\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "2026 年 AI 公司网格海报：一张深色、精致的信息图海报，展示了 100 家 AI 公司，排列在编号为 10x10 的网格中，适用于社交媒体、趋势地图和生态系统概览。",
+      "subject": "信息结构",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "grid",
+        "vertical"
+      ],
+      "style": [
+        "editorial"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, grid, vertical]。\n\nVisual style:\n[参考风格: editorial]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14567",
+      "15770",
+      "14859",
+      "14873",
+      "14642",
+      "15296"
+    ]
+  }
+}

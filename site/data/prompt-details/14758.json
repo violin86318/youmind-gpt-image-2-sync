@@ -1,0 +1,36 @@
+{
+  "id": "14758",
+  "prompt": "生成一个 {argument name=\"风格\" default=\"侠盗飞车 罪恶都市\"} 的游戏截图，只不过地址是在{argument name=\"地点\" default=\"河南安阳\"}，{argument name=\"地标\" default=\"河南安阳的文峰塔\"}北向南看的角度的，模型风格肯定是游戏风格的，只是尽可能的写实。然后是白天，路上有行人，主角在路中央，站在一辆汽车上看着文峰塔。",
+  "translatedPrompt": "生成一张游戏截图，风格为 {argument name=\"style\" default=\"Grand Theft Auto: Vice City\"}，但地点设定在 {argument name=\"location\" default=\"河南安阳\"}，视角为从北向南俯瞰 {argument name=\"landmark\" default=\"安阳文峰塔\"}。画面风格需具备游戏感，同时尽可能保持写实。时间为白天，路上有行人，主角站在马路中央的一辆车上，正望向文峰塔。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "GTA 安阳概念截图：一个将《GTA: Vice City》风格与河南安阳文峰塔实景相结合的创意提示词。",
+      "subject": "空间",
+      "scene": "信息图/图解",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "城市美食地图、活动导览、园区地图、旅行视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13486",
+      "13857",
+      "14370",
+      "14796",
+      "13512",
+      "13964"
+    ]
+  }
+}

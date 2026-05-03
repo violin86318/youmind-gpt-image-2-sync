@@ -1,0 +1,56 @@
+{
+  "id": "15462",
+  "prompt": "Luxury natural skincare ad campaign shot in a sun-dappled forest clearing, styled like a premium editorial beauty poster for {argument name=\"brand name\" default=\"WILLOW & ROOT\"}. Center a beautiful young woman with sun-kissed skin and loose blonde hair in a thick side braid, wearing a soft beige spaghetti-strap slip dress, seated behind a rustic moss-covered log table, holding delicate white wildflowers near her face. Her face is obscured by a clean rectangular block in a warm tan tone, creating an anonymous model effect. In the foreground on the log, arrange exactly 5 beauty products in a polished e-commerce lineup from left to right: a green glass dropper bottle labeled organic face oil with bamboo cap, a round cream blush compact with dusty rose lid, a tinted lip balm stick in muted terracotta packaging, a frosted pale-green pump bottle labeled dewy serum with bamboo pump, and a closed bamboo compact engraved with the brand name. Add soft white wildflowers and lush green foliage around the products and edges of the frame. Use warm golden-hour backlighting, creamy bokeh, shallow depth of field, soft lens glow, natural green and beige palette, high-end botanical wellness aesthetic, photorealistic skin and packaging, centered composition, vertical 4:5 layout. Overlay elegant dark serif typography at the top with the headline {argument name=\"headline text\" default=\"Rooted in Radiance\"} on two lines, a smaller sans-serif tagline beneath reading {argument name=\"tagline\" default=\"Nature-Powered. Skin-Loving.\"}, separated by a small leaf icon and thin horizontal divider lines. Add 2 circular promotional badges: on the upper left, an olive-green badge with a leaf icon and the text {argument name=\"left badge text\" default=\"PLANT-BASED + CRUELTY FREE\"}; on the upper right, a beige badge with the text {argument name=\"discount text\" default=\"15% OFF FIRST ORDER\"}. Place a small white Pollo.ai watermark in the top-right corner. Premium beauty advertising, clean luxury composition, modern mobile-first e-commerce campaign.",
+  "translatedPrompt": "在阳光斑驳的森林空地拍摄的奢华天然护肤品广告，风格类似于 {argument name=\"brand name\" default=\"WILLOW & ROOT\"} 的高端美妆海报。画面中央是一位美丽的年轻女性，她拥有被阳光亲吻过的肌肤和松散的金色侧编发，身穿柔软的米色吊带裙，坐在铺满苔藓的乡村原木桌后，手持精致的白色野花靠近脸部。她的脸部被一个暖棕色的简洁矩形色块遮挡，营造出匿名模特的艺术效果。在前景的原木上，从左至右整齐排列 5 款精致的电商产品：一瓶标有有机面部精油的绿色玻璃滴管瓶（配竹制盖）、一个带有灰粉色盖子的圆形腮红膏、一支哑光陶土色包装的润色唇膏、一瓶标有水润精华的磨砂浅绿色泵头瓶（配竹制泵头），以及一个刻有品牌名称的封闭式竹制粉饼盒。在产品周围和画面边缘点缀柔和的白色野花和茂密的绿色植物。采用温暖的黄金时刻背光、奶油般虚化的背景、浅景深、柔和的镜头光晕、自然的绿色与米色调、高端植物健康美学、照片级真实的皮肤与包装质感、居中构图、竖版 4:5 布局。在顶部叠加优雅的深色衬线字体，显示两行标题 {argument name=\"headline text\" default=\"Rooted in Radiance\"}，下方配以较小的无衬线标语 {argument name=\"tagline\" default=\"Nature-Powered. Skin-Loving.\"}，中间由一个小叶子图标和细水平分割线隔开。添加 2 个圆形促销徽章：左上角为一个带有叶子图标和 {argument name=\"left badge text\" default=\"PLANT-BASED + CRUELTY FREE\"} 文字的橄榄绿徽章；右上角为一个带有 {argument name=\"discount text\" default=\"15% OFF FIRST ORDER\"} 文字的米色徽章。在右上角放置一个小型的白色 Pollo.ai 水印。高端美妆广告，简洁奢华构图，现代移动端优先的电商营销活动。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奢华植物护肤品森林广告：此提示词可为天然护肤品牌生成高端竖版美妆广告，非常适合电商促销、社交媒体广告及编辑风格的产品营销。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "editorial",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [
+        "backlight",
+        "shallow depth",
+        "depth of field",
+        "lens"
+      ],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, photorealistic, editorial, luxury, premium]。\n\nLighting and camera:\n[参考光线镜头: backlight, shallow depth, depth of field, lens]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14850",
+      "14813",
+      "14829",
+      "15088",
+      "15729",
+      "15430"
+    ]
+  }
+}

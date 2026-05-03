@@ -1,0 +1,41 @@
+{
+  "id": "13482",
+  "prompt": "{\n  \"type\": \"photograph of a computer monitor displaying an academic technical report\",\n  \"style\": \"slightly angled screen photo, visible moire pattern, LCD pixel grid, slight glare, LaTeX document formatting, serif fonts\",\n  \"document_header\": {\n    \"left\": \"4 Benchmark Evaluation\",\n    \"right\": \"{argument name=\\\"report title\\\" default=\\\"DeepSeek-V4 Technical Report\\\"}\"\n  },\n  \"introductory_text\": \"Paragraph summarizing comprehensive evaluation of {argument name=\\\"main model name\\\" default=\\\"DeepSeek-V4\\\"} against {argument name=\\\"competitor model 1\\\" default=\\\"GPT-5.3\\\"}, {argument name=\\\"competitor model 2\\\" default=\\\"Claude Opus 4.6\\\"}, and {argument name=\\\"competitor model 3\\\" default=\\\"Gemini 3.1 Pro Preview\\\"}.\",\n  \"visualizations\": {\n    \"legend\": \"5 items with color codes: dark blue, grey, light grey, blue striped, light blue\",\n    \"bar_charts\": {\n      \"count\": 6,\n      \"labels\": [\n        \"MMLU-Pro (EM)\",\n        \"GPQA-Diamond (Pass@1)\",\n        \"AIME 2025 (Pass@1)\",\n        \"LiveCodeBench (Pass@1-COT)\",\n        \"SWE-bench Verified (Resolved)\",\n        \"Tau-bench (Average)\"\n      ]\n    },\n    \"caption\": \"Figure 1 | Performance comparison on core benchmarks. DeepSeek-V4 achieves state-of-the-art results across the majority of benchmarks.\"\n  },\n  \"data_table\": {\n    \"columns\": [\n      \"Benchmark\",\n      \"{argument name=\\\"main model name\\\" default=\\\"DeepSeek-V4\\\"}\",\n      \"{argument name=\\\"competitor model 1\\\" default=\\\"GPT-5.3\\\"}\",\n      \"{argument name=\\\"competitor model 2\\\" default=\\\"Claude Opus 4.6\\\"}\",\n      \"{argument name=\\\"competitor model 3\\\" default=\\\"Gemini 3.1 Pro Preview\\\"}\",\n      \"GPT-4.1\"\n    ],\n    \"categories\": {\n      \"count\": 4,\n      \"rows\": [\n        {\"label\": \"General\", \"icon\": \"globe/network\", \"sub_items\": 3},\n        {\"label\": \"Reasoning & Math\", \"icon\": \"calculator/clipboard\", \"sub_items\": 3},\n        {\"label\": \"Code\", \"icon\": \"code brackets\", \"sub_items\": 3},\n        {\"label\": \"Agent\", \"icon\": \"robot face\", \"sub_items\": 3}\n      ]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"显示学术技术报告的电脑显示器照片\",\n  \"style\": \"轻微倾斜的屏幕照片，可见摩尔纹，LCD 像素网格，轻微反光，LaTeX 文档排版，衬线字体\",\n  \"document_header\": {\n    \"left\": \"4 基准评估\",\n    \"right\": \"{argument name=\\\"report title\\\" default=\\\"DeepSeek-V4 技术报告\\\"}\"\n  },\n  \"introductory_text\": \"总结 {argument name=\\\"main model name\\\" default=\\\"DeepSeek-V4\\\"} 对比 {argument name=\\\"competitor model 1\\\" default=\\\"GPT-5.3\\\"}、{argument name=\\\"competitor model 2\\\" default=\\\"Claude Opus 4.6\\\"} 以及 {argument name=\\\"competitor model 3\\\" default=\\\"Gemini 3.1 Pro Preview\\\"} 的综合评估段落。\",\n  \"visualizations\": {\n    \"legend\": \"5 个带有颜色代码的项目：深蓝色、灰色、浅灰色、蓝色条纹、浅蓝色\",\n    \"bar_charts\": {\n      \"count\": 6,\n      \"labels\": [\n        \"MMLU-Pro (EM)\",\n        \"GPQA-Diamond (Pass@1)\",\n        \"AIME 2025 (Pass@1)\",\n        \"LiveCodeBench (Pass@1-COT)\",\n        \"SWE-bench Verified (Resolved)\",\n        \"Tau-bench (Average)\"\n      ]\n    },\n    \"caption\": \"图 1 | 核心基准测试性能对比。DeepSeek-V4 在大多数基准测试中均取得了业界领先的成果。\"\n  },\n  \"data_table\": {\n    \"columns\": [\n      \"基准测试\",\n      \"{argument name=\\\"main model name\\\" default=\\\"DeepSeek-V4\\\"}\",\n      \"{argument name=\\\"competitor model 1\\\" default=\\\"GPT-5.3\\\"}\",\n      \"{argument name=\\\"competitor model 2\\\" default=\\\"Claude Opus 4.6\\\"}\",\n      \"{argument name=\\\"competitor model 3\\\" default=\\\"Gemini 3.1 Pro Preview\\\"}\",\n      \"GPT-4.1\"\n    ],\n    \"categories\": {\n      \"count\": 4,\n      \"rows\": [\n        {\"label\": \"通用\", \"icon\": \"globe/network\", \"sub_items\": 3},\n        {\"label\": \"推理与数学\", \"icon\": \"calculator/clipboard\", \"sub_items\": 3},\n        {\"label\": \"代码\", \"icon\": \"code brackets\", \"sub_items\": 3},\n        {\"label\": \"Agent\", \"icon\": \"robot face\", \"sub_items\": 3}\n      ]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "泄露的 AI 基准测试报告照片：生成一张逼真的电脑屏幕照片，屏幕上显示着包含柱状图和详细性能表格的学术技术报告。",
+      "subject": "文字符号",
+      "scene": "综合视觉",
+      "composition": [
+        "grid"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "风格对比、产品系列、前后对照、角色变体",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 综合视觉 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14521",
+      "14556",
+      "14895",
+      "15608",
+      "13480",
+      "14011"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "15295",
+  "prompt": "An isometric real-time-strategy game battle scene viewed from a high oblique angle, showing a fortified coastal military outpost under naval attack in a desert oasis environment. The base sits in the lower left and center foreground, enclosed by pale concrete walls with defensive corner towers and several cylindrical turret emplacements. Inside the compound are 5 major structures: a large central metallic command or factory building with a curved roof and landing-pad markings, 1 long segmented industrial generator on the left, 1 smaller smokestack power structure near the bottom center, and 2 green cylindrical reactor or storage buildings on the right. Show dirt tracks, scattered crates, utility details, and a paved gray yard inside the walls. A large orange fireball explosion is erupting inside the base near the right-center interior, with smoke and debris. Another smaller explosion is happening outside the walls at the upper left on a dirt road near 2 red ground vehicles or launchers, with black smoke rising. The shoreline curves around shallow blue-green water with sandy banks, rocky cliffs, and many palm trees, creating a tropical desert cove. In the water on the right side, depict 5 gray modern warships in formation, angled diagonally, each leaving white wakes as they move. Count 8 missiles total with bright flaming trails arcing from the ships toward the land and base defenses; one missile is striking the nearest ship-side target area with a bright blue-white impact flash over the waterline, while others arc toward the compound and shore. Include tiny infantry figures near the beach and walls, some fallen, to suggest an active assault. The style should look like a polished high-detail strategy game screenshot, with realistic military sci-fi architecture, cinematic lighting, sharp textures, dynamic explosions, and readable spatial depth.",
+  "translatedPrompt": "一张从高斜角俯瞰的等轴视角即时战略游戏战斗场景，展示了沙漠绿洲环境中一个遭受海军攻击的加固型海岸军事前哨。基地位于左下方和中心前景，被带有防御角塔和数个圆柱形炮塔阵地的浅色混凝土墙包围。基地内部有 5 座主要建筑：一座位于中央的带有弧形屋顶和停机坪标记的大型金属指挥或工厂建筑，左侧有一座长条形分段式工业发电机，底部中心附近有一座较小的烟囱动力结构，右侧有两座绿色的圆柱形反应堆或仓储建筑。展示墙内的土路、散落的板条箱、公用设施细节以及铺设好的灰色场地。基地右中内部正爆发出一团巨大的橙色火球，伴随着烟雾和碎片。墙外左上方的一条土路上，靠近 2 辆红色地面载具或发射器的地方发生了另一次较小的爆炸，并升起黑烟。海岸线环绕着浅蓝绿色的水域，配有沙岸、岩石悬崖和许多棕榈树，营造出一个热带沙漠海湾。在右侧水域中，描绘 5 艘呈对角线编队航行的灰色现代战舰，每艘战舰移动时都留下了白色的尾迹。总共 8 枚导弹带着明亮的火焰轨迹从战舰射向陆地和基地防御设施；其中一枚导弹正击中靠近战舰一侧的目标区域，在水面上方产生明亮的蓝白色冲击闪光，其他导弹则呈弧线射向基地和海岸。在海滩和围墙附近加入微小的步兵模型，其中一些已经倒下，以体现激烈的突袭感。整体风格应呈现为精致的高细节战略游戏截图，具备写实的军事科幻建筑、电影级光影、锐利的纹理、动态爆炸效果以及清晰的空间深度。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "等轴视角下的海军突袭海岸基地：该提示词可生成一张细节丰富的 RTS 风格等轴视角战斗场景图，描绘了沙漠海岸围墙基地遭受导弹战舰轰炸的画面，非常适合游戏概念艺术或电影级战略插图。",
+      "subject": "界面",
+      "scene": "插画/漫画",
+      "composition": [
+        "isometric"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "sci-fi",
+        "isometric"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "动漫分镜、战斗场景、运动瞬间、夸张叙事图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 插画/漫画 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: isometric]。\n\nVisual style:\n[参考风格: realistic, cinematic, sci-fi, isometric]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14270",
+      "15297",
+      "15800",
+      "15379",
+      "13538",
+      "14432"
+    ]
+  }
+}

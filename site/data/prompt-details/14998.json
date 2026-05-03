@@ -1,0 +1,48 @@
+{
+  "id": "14998",
+  "prompt": "A cleanly colored manga page in a modern romantic-comedy style, presented as a 6-panel comic layout with crisp black panel borders on a white page. The scene takes place outdoors on a bright day with blue sky, soft clouds, leafy green trees, paved walkway, and queue posts with chain barriers. The main subject is a teenage anime girl with a short blond bob haircut, loose windblown strands, large golden-brown eyes, light blush, and a serious slightly embarrassed expression. She wears a floppy dog-ear hat with cream fur and a small blue polka-dot cap detail, a blue school-style cardigan or blazer over a white shirt, and a red patterned necktie, while holding a pink swirled soft-serve ice cream cone. A teenage boy in a dark blue sweater and white collared shirt appears in 3 panels, his face obscured by a soft rectangular blur, also wearing a matching floppy dog-ear hat. The page should have exactly 6 panels: 2 small panels across the top row, 1 large central close-up panel spanning the width, and 3 panels along the bottom row. Top-left panel: the boy faces forward with the girl turning sharply toward him, her hair and hat flaring from motion, outdoor background with a signboard, and hand-drawn manga sound effects in black. Top-right panel: a small chibi-style version of the girl stands near the chain barrier, looking smug and flustered while holding the ice cream, with a speech bubble that says \"THAT'S A LOOK OF ACCOMPLISHMENT.\" and small floating sound-effect text near her head. Center panel: a dramatic close-up portrait of the girl against open sky, hair blowing across her face, one strand crossing her mouth, dog ears visible, staring forward with a calm, stunned look; include a vertical speech bubble on the right with Japanese text and a small English sound effect reading \"PLOP\". Bottom-left panel: the boy, face blurred, speaking with a speech bubble that says \"I'VE BEEN THINKING THIS FOR A WHILE, BUT...\" Bottom-middle panel: the girl in side view lifting a hand toward her mouth while holding the pink ice cream in the other hand, with a speech bubble saying \"THANKS.\" Bottom-right panel: the boy reaches toward the girl's mouth or cheek with his hand as if wiping off cream, with a speech bubble that says \"YOU GOT SOME CREAM OVER HERE.\" Keep all visible comic text and sound effects integrated into the art, including \"WAH!\", \"FWSH\", and the English dialogue. Use polished manga coloring over inked line art: soft cel shading, slightly textured watercolor-like fills, warm skin tones, glossy eyes, fine crosshatching accents, and expressive linework. Emphasize romantic tension, wind movement, and the contrast between comedic chibi reaction and tender close-up drama.",
+  "translatedPrompt": "一张采用现代浪漫喜剧风格的精美彩色漫画页面，呈现为 6 格漫画布局，白色背景上带有清晰的黑色边框。场景设定在阳光明媚的户外，背景包括蓝天、柔和的云朵、绿树成荫、铺设好的步道以及带有链条护栏的排队立柱。主角是一位十几岁的动漫少女，留着金色短波波头，发丝随风飘动，有着大大的金棕色眼睛、淡淡的红晕，表情严肃且略显尴尬。她戴着一顶带有奶油色绒毛的垂耳狗帽，帽子上有蓝色波点细节，身穿蓝色校服风格开衫或西装外套，内搭白色衬衫和红色花纹领带，手中拿着一个粉色螺旋状软冰淇淋。一名身穿深蓝色毛衣和白色翻领衬衫的少年出现在 3 个分格中，他的脸部被柔和的矩形模糊处理，同样戴着一顶配套的垂耳狗帽。页面应包含 6 个分格：顶部一行 2 个小格，中间一个横跨宽度的特写大格，底部一行 3 个分格。左上格：少年面向前方，少女猛地转向他，她的头发和帽子因动作而飘起，背景是带有指示牌的户外，并配有手绘的黑色漫画音效字。右上格：Q 版风格的少女站在链条护栏旁，表情得意又慌乱，手中拿着冰淇淋，配有气泡对话框写着“THAT'S A LOOK OF ACCOMPLISHMENT.”，头部附近有漂浮的小音效文字。中心格：少女面对蓝天的戏剧性特写肖像，头发吹过脸庞，一缕发丝掠过嘴唇，垂耳帽清晰可见，眼神平静而惊愕地注视前方；右侧包含一个垂直气泡对话框，内有日文，并配有一个写着“PLOP”的小型英文音效字。左下格：脸部模糊的少年正在说话，气泡对话框写着“I'VE BEEN THINKING THIS FOR A WHILE, BUT...”。中下格：少女侧面视角，一只手抬向嘴边，另一只手拿着粉色冰淇淋，气泡对话框写着“THANKS.”。右下格：少年伸手向少女的嘴边或脸颊，仿佛在帮她擦掉奶油，气泡对话框写着“YOU GOT SOME CREAM OVER HERE.”。请将所有可见的漫画文字和音效字融入画面中，包括“WAH!”、“FWSH”以及英文对话。在墨线稿上使用精致的漫画上色：柔和的赛璐珞阴影、略带质感的水彩填充、温暖的肤色、光泽感的眼睛、细腻的排线细节以及富有表现力的线条。强调浪漫张力、风的动感，以及 Q 版喜剧反应与细腻特写戏剧性之间的对比。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "彩色漫画浪漫喜剧页面：此提示词可生成一张全彩多格漫画页面，描绘了充满浪漫喜剧色彩的校园约会场景，非常适合漫画上色测试和动漫插画创作。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "manga",
+        "watercolor",
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, vertical]。\n\nVisual style:\n[参考风格: anime, manga, watercolor, hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15034",
+      "15797",
+      "15044",
+      "15381",
+      "14606",
+      "14965"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "14126",
+  "prompt": "新中式水墨山水海报，竖版9:16构图，东方极简美学风格，\n大面积留白，整体色调为春日清晨氛围（青绿色、雾蓝、淡灰、浅墨），低饱和、清透柔和，高级质感。\n画面主体为奇峻巍峨的群山，从中间平静湖面的两侧拔地而起，占据左右两侧画面，\n山体以水墨晕染表现，浓淡干湿变化丰富，局部融入淡青绿色渲染，体现春意生机。\n山峰被湿润轻柔的晨雾包裹，雾气层层递进，与浅青蓝天空自然融合，形成空气透视与空间纵深。\n\n湖面如镜面般平静，呈现微青绿色调，倒映山体与天空，反射略带柔焦与雾化扩散效果，增强春日湿润与梦幻氛围。\n中景一艘带弧形篷顶的小木舟缓慢漂浮，船桨轻触水面形成细腻涟漪，水纹自然扩散，整体保持极静状态。\n\n船上为一位红衣渔女，体量较小（远景比例），人物简化处理为水墨剪影 + 轻微设色，\n身着低饱和朱砂红传统服饰（非鲜艳红），颜色略被雾气柔化，\n人物面部不刻画细节，仅保留轮廓与姿态（如轻扶船篷或执桨），\n红色在水面形成淡淡倒影，作为画面唯一暖色视觉焦点。\n\n岸边点缀疏林与春季新生植被，采用淡墨 + 淡青绿点染，虚实结合，增强节奏与生命气息。\n\n少量飞鸟在远空掠过，轻盈疏散分布，增强空间层次与灵动感。\n\n画面顶部居中竖排书法：“{argument name=\"标题\" default=\"东方美学\"}”，采用传统手写行书或行草风格（王羲之笔意），\n笔触自然起伏、提按分明，带飞白与墨韵扩散效果，避免字体感。\n书法颜色为深墨青或柔和墨黑，与整体画面统一。\n整体风格：水墨 + 现代极简设计融合，春日禅意、空灵湿润、宁静氛围，\n冷暖对比克制，电影感光影，高级艺术海报质感，8K超清细节。",
+  "translatedPrompt": "New Chinese style ink wash landscape poster, vertical 9:16 composition, oriental minimalist aesthetic style. Large areas of white space, overall color palette of a spring morning (cyan-green, misty blue, light gray, pale ink), low saturation, clear and soft, high-end texture. The main subject consists of steep, majestic mountains rising from both sides of a calm lake, occupying the left and right sides of the frame. The mountains are rendered with ink wash techniques showing rich variations in wetness and density, with local pale green tints reflecting spring vitality. Peaks are enveloped in moist, soft morning mist that layers into the pale blue-gray sky, creating atmospheric perspective and spatial depth.\n\nThe lake surface is as calm as a mirror with a slight green tint, reflecting the mountains and sky with a soft focus and atomized diffusion effect, enhancing the moist and dreamy spring atmosphere. In the middle ground, a small wooden boat with a curved canopy floats slowly, oars lightly touching the water to create fine ripples that spread naturally, maintaining total stillness. On the boat is a fisherwoman in red, small in scale (distant perspective), simplified into an ink silhouette with light coloring. She wears a low-saturation cinnabar red traditional dress (not bright red), the color softened by the mist. No facial details, only the silhouette and posture (e.g., lightly touching the canopy or holding an oar). The red forms a faint reflection on the water, serving as the only warm visual focus.\n\nThe banks are dotted with sparse woods and new spring vegetation, using light ink and pale green dots, combining solid and void to enhance rhythm and life. A few birds soar in the distant sky, lightly and sparsely distributed to enhance spatial hierarchy and nimbleness. Centered at the top is vertical calligraphy: \"{argument name=\"title\" default=\"Oriental Aesthetics\"}\", in traditional hand-written running or cursive style (in the spirit of Wang Xizhi), with natural brushstrokes, clear transitions, and ink smudge effects to avoid a digital font feel. Calligraphy color is deep ink-blue or soft black, unified with the scene. Style: Fusion of ink wash and modern minimalist design, spring Zen, ethereal and moist, serene atmosphere, restrained warm-cool contrast, cinematic lighting, high-end artistic poster quality, 8K ultra-clear details.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Oriental Aesthetics Ink Wash Poster：A prompt for a minimalist New Chinese style ink wash landscape poster featuring misty mountains, a mirror-like lake, and a small boat with a red-clothed figure.",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "minimalist",
+        "ink wash"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": "得分 71；构图: centered, vertical；风格: cinematic, minimalist, ink wash；包含文字或排版元素"
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: cinematic, minimalist, ink wash]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14817",
+      "14488",
+      "15319",
+      "15442",
+      "14437",
+      "14450"
+    ]
+  }
+}

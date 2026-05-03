@@ -1,0 +1,31 @@
+{
+  "id": "15212",
+  "prompt": "参照画像の{argument name=\"スタイル\" default=\"２Dセルアニメキャラクター\"}を使って、{argument name=\"環境\" default=\"リアル世界\"}で色んなことしてる{argument name=\"レイアウト\" default=\"グリッド分割\"}した画像作ってぇ。",
+  "translatedPrompt": "使用参考图像中的 {argument name=\"style\" default=\"2D 赛璐珞风格动漫角色\"}，创建一个 {argument name=\"layout\" default=\"网格样式\"} 的图像，展示他们在 {argument name=\"environment\" default=\"现实世界\"} 中进行各种活动的情景。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "现实世界网格中的动漫角色：一个将动漫角色置于各种现实场景中，并使用网格布局进行展示的提示词。",
+      "subject": "综合主体",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15196",
+      "15213",
+      "13586",
+      "13852",
+      "14131",
+      "14734"
+    ]
+  }
+}

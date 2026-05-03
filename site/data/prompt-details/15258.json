@@ -1,0 +1,47 @@
+{
+  "id": "15258",
+  "prompt": "Create a square 1:1 macro photography image of an open antique history book on a clean white background, styled like an edible history pop-up book. The book is thick, vintage, leather-bound, and lying open flat at 180 degrees. Its pages are aged parchment with yellowed paper, worn edges, and visible paper texture. On the left page, show an abundant, slightly messy cocoa harvest spread partially covering the printed text: exactly 5 whole or split cacao pods in deep red-orange and brown tones, 1 wooden bowl filled with cacao nibs, a large scatter of loose cacao beans, broken cacao shells, small piles of nibs, and several glossy green leaves tucked among the ingredients. Everything should feel organic, overflowing, and tactile. On the right page, create a large 3D pop-up sculpture of assorted Swiss chocolate built entirely from chocolate and confectionery materials: exactly 8 visible chocolate bars or bar segments in mixed dark, milk, and white chocolate, arranged in a bouquet-like upright structure with 5 large leaf-shaped cacao or chocolate leaves behind them, curled pale chocolate shavings at the base, scattered cacao crumbs, and a wrapped paper base with a vintage label reading “CHOCOLAT SUISSE” and smaller text “Maison de Qualité”. Beside it, place a tiny 1:35 scale Victorian-era chocolatier gentleman in an apron, actively presenting and adjusting the chocolate display with both hands. Print on the right page in bold black serif text: “Vevey, 1875”. Below that, include a short faded cursive lore paragraph about cacao and Swiss chocolate culture. The paragraph should read: “From the cacao pod’s humble shell emerges a confection of elegance. In Swiss chocolate houses, cacao is refined into a treasured delicacy, shared in salons and homes alike, prized for comfort, celebration, and the craft of sweet invention.” Lighting is soft, warm museum lighting focused at the center of the open book. Mood is educational, whimsical, and richly textural. Emphasize photorealism, shallow depth of field, miniature world aesthetic, premium editorial styling, and extremely high material texture fidelity.",
+  "translatedPrompt": "创作一张 1:1 正方形的微距摄影图片，背景为干净的白色，主体是一本翻开的古董历史书，风格如同“可食用的历史”立体书。书本厚重、复古，采用皮革装订，平铺呈 180 度打开。书页为陈旧的羊皮纸，纸张泛黄，边缘磨损，纸张纹理清晰可见。在左页，展示丰富且略显凌乱的可可收获场景，部分覆盖了印刷文字：精确放置 5 个深红橙色和棕色调的完整或裂开的可可豆荚、1 个装满可可碎粒的木碗、大量散落的可可豆、破碎的可可壳、几小堆可可碎粒，以及几片夹在食材间的亮绿色叶子。整体感觉应自然、充盈且具有触感。在右页，创作一个大型 3D 立体雕塑，由各种瑞士巧克力组成，完全由巧克力和糖果材料构建：精确展示 8 块可见的巧克力排块或片段，混合了黑巧克力、牛奶巧克力和白巧克力，排列成花束般的直立结构，后方衬有 5 片大型叶状可可或巧克力叶，底部有卷曲的浅色巧克力屑、散落的可可碎末，以及一个带有复古标签的包装纸底座，上面印有“CHOCOLAT SUISSE”字样和较小的“Maison de Qualité”文字。在旁边放置一个 1:35 比例的维多利亚时代巧克力工匠小人，身穿围裙，双手正在展示和调整巧克力陈列。右页印有粗体黑色衬线文字：“Vevey, 1875”。下方包含一段简短、褪色的草书文字，讲述关于可可和瑞士巧克力文化的传说。段落内容应为：“From the cacao pod’s humble shell emerges a confection of elegance. In Swiss chocolate houses, cacao is refined into a treasured delicacy, shared in salons and homes alike, prized for comfort, celebration, and the craft of sweet invention.” 灯光采用柔和、温暖的博物馆式灯光，聚焦于翻开书本的中心。氛围具有教育意义、奇幻感且纹理丰富。强调超写实主义、浅景深、微缩世界美学、高端编辑风格以及极高的材质纹理保真度。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "“可食用的历史”巧克力立体书：一张超写实的微距编辑类图片，展示了一本古董翻开书被改造成奇幻的可可与瑞士巧克力立体场景，非常适合美食叙事、历史主题活动以及高端生成式艺术对比。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "editorial",
+        "3d",
+        "vintage",
+        "premium"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: editorial, 3d, vintage, premium]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15702",
+      "15682",
+      "14888",
+      "15324",
+      "15011",
+      "15598"
+    ]
+  }
+}

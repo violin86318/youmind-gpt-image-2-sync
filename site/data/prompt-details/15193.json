@@ -1,0 +1,35 @@
+{
+  "id": "15193",
+  "prompt": "「太阳系行星指南」竖版信息图海报，太阳系侧视图为主体，每颗行星旁配一张「身份证」卡片包含直径、自转周期、卫星数量，冥王星在边缘用小字标注「曾经的第九行星·2006年被降级」并配委屈表情，深蓝星空底，数据图形化设计",
+  "translatedPrompt": "“太阳系行星指南”垂直信息图海报，以太阳系的侧视图为主题，每颗行星旁配有“身份证”，包含直径、自转周期和卫星数量等信息。冥王星被标注在边缘，并附有小字：“前第九大行星，于 2006 年被降级”，旁边配有一个悲伤的表情。深蓝色星空背景，图形化数据设计。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "太阳系信息图海报：一个用于制作太阳系垂直信息图海报的复杂提示词，包含特定的数据卡片以及冥王星的个性化描述。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

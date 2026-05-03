@@ -1,0 +1,48 @@
+{
+  "id": "14498",
+  "prompt": "Create a high-impact Japanese YouTube thumbnail in a flashy internet-marketing style, 16:9 landscape, with an explosive black-and-gold background filled with sparkles, lens flares, glowing particles, and dramatic light streaks. The composition is dense and energetic, with giant layered typography dominating the left and center, and an anime-style male character on the right. At the very top, place a curved red ribbon banner with gold trim and bold white-and-yellow Japanese text reading {argument name=\"headline text\" default=\"実績者が教える\"}. Below it, make the main headline extremely large, glossy, and three-dimensional with heavy black outlines and gold glow: a huge metallic gold \"10\", followed by bold white \"日で\", then a giant neon green glowing \"X\", then stacked white text \"収益化\", and at the bottom the largest gold text \"達成\". Behind the headline, add a bright green upward-trending bar graph with an arrow pointing to the upper right to symbolize growth. On the left side, include 3 social-and-money elements: a tilted black smartphone displaying the white X logo, a green chat bubble with a white heart, and a smaller green chat bubble with a white user silhouette. At the lower left, add 2 stacks of shiny gold coins and 1 gold coin with a yen symbol. On the right side, show 1 anime-style young man from about thigh-up, with messy dark brown hair accented by vivid green streaks, fair skin, and a confident pose with crossed arms, wearing a black jacket with green inner clothing; his face area is obscured by a simple rectangular blur block. Near his lower right side, place 1 gold award seal with laurel decoration and a small crown, containing the Japanese text \"成功者続出\", and attach a red ribbon across the bottom of the seal with the text \"再現性あり\". Along the bottom, place 3 glowing green rectangular feature boxes with gold borders and black interiors. The first box contains 1 beginner mark icon and the text \"X初心者でも 簡単収益化\". The second box contains 1 clock icon and the text \"1日1時間の 作業でOK\". The third box contains 1 calendar icon with a green check and the text \"最短10日で 収益化条件達成\". Use oversized bold Japanese fonts, metallic gold gradients, white text with thick black stroke, vivid neon green highlights, extreme contrast, and a polished click-through-rate optimized thumbnail aesthetic.",
+  "translatedPrompt": "创建一个具有高冲击力的日式 YouTube 缩略图，采用炫酷的互联网营销风格，16:9 横屏比例，背景为充满火花、镜头光晕、发光粒子和戏剧性光束的爆炸式黑金配色。构图紧凑且充满活力，左侧和中心由巨大的分层排版占据，右侧是一位动漫风格的男性角色。在最上方，放置一条带有金色饰边的弧形红色丝带横幅，上面写着醒目的白黄色日文文本 {argument name=\"headline text\" default=\"実績者が教える\"}。在下方，将主标题制作得极其巨大、具有光泽且呈现 3D 立体感，配以厚重的黑色描边和金色光晕：一个巨大的金属质感金色“10”，紧随其后的是醒目的白色“日で”，接着是一个巨大的霓虹绿发光“X”，然后是堆叠的白色文本“収益化”，最底部是最大的金色文本“達成”。在标题后方，添加一个明亮的绿色上升柱状图，箭头指向右上角以象征增长。在左侧，包含 3 个社交与金钱元素：一部倾斜的黑色智能手机，显示着白色的 X 标志；一个带有白色爱心的绿色聊天气泡；以及一个较小的带有白色用户轮廓的绿色聊天气泡。在左下角，添加 2 堆闪亮的金币和 1 枚带有日元符号的金币。在右侧，展示 1 位大腿以上部位的动漫风格年轻男性，留着凌乱的深棕色头发并带有鲜艳的绿色挑染，皮肤白皙，双臂交叉，姿势自信，身穿黑色夹克，内搭绿色衣服；他的面部区域被一个简单的矩形模糊块遮挡。在他右下方附近，放置 1 个带有月桂装饰和皇冠的金色奖章，内含日文文本“成功者続出”，并在奖章底部附上一条红色丝带，上面写着“再現性あり”。沿底部放置 3 个带有金色边框和黑色内衬的发光绿色矩形功能框。第一个框包含 1 个新手标记图标和文本“X初心者でも 簡単収益化”。第二个框包含 1 个时钟图标和文本“1日1時間の 作業でOK”。第三个框包含 1 个带有绿色勾选的日历图标和文本“最短10日で 収益化条件達成”。使用超大号加粗日文字体、金属金色渐变、带有厚黑色描边的白色文本、鲜艳的霓虹绿高光、极高的对比度，以及经过优化的点击率（CTR）缩略图美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "吸睛的 X 平台变现 YouTube 缩略图：此提示词可生成一种大胆的日式营销风格缩略图，适用于关于如何快速实现 X 平台变现的视频，非常适合社交媒体增长或在线收入类内容。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [
+        "layered"
+      ],
+      "style": [
+        "anime",
+        "3d"
+      ],
+      "lightingCamera": [
+        "neon",
+        "lens"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered]。\n\nVisual style:\n[参考风格: anime, 3d]。\n\nLighting and camera:\n[参考光线镜头: neon, lens]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14496",
+      "15321",
+      "14966",
+      "14539",
+      "14602",
+      "14922"
+    ]
+  }
+}

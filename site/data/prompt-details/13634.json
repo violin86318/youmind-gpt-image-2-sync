@@ -1,0 +1,46 @@
+{
+  "id": "13634",
+  "prompt": "{\n  \"type\": \"3-panel vertical promotional infographic\",\n  \"theme\": \"sci-fi anime, dynamic action, glowing effects, high-tech interface\",\n  \"character_design\": {\n    \"gender\": \"female\",\n    \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"orange\\\"}, short\",\n    \"outfit\": \"futuristic black, white, and grey bodysuit with glowing yellow accents\"\n  },\n  \"layout\": {\n    \"structure\": \"vertical stack of 3 horizontal banners\",\n    \"panels\": [\n      {\n        \"position\": \"top\",\n        \"model_name\": \"{argument name=\\\"top model name\\\" default=\\\"MAI-Image-2\\\"}\",\n        \"header_text\": \"AI ART | PROMPT ENGINEERING | IMAGE GENERATION\",\n        \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"DESIGN COURSE\\\"}\",\n        \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"AIが拓く、画像生成の未来\\\"}\",\n        \"character_pose\": \"flying horizontally to the right, profile view, clean flat anime style\",\n        \"left_text_block\": \"ゼロから始める、プロンプト\\n級のクリエイティブ。\\nMAI-Image-2を活用した\\n次世代の制作フローを習得。\",\n        \"featuring_list\": {\n          \"title\": \"FEATURING\",\n          \"count\": 4,\n          \"items\": [\"- プロンプトの基礎\", \"- 画像生成の実践\", \"- 高品質な出力\", \"- 著作権について\"]\n        },\n        \"bottom_right_tag\": \"#001 | MAI-Image-2 EDITION\"\n      },\n      {\n        \"position\": \"middle\",\n        \"model_name\": \"{argument name=\\\"middle model name\\\" default=\\\"GPT-IMAGE-2\\\"}\",\n        \"header_text\": \"AI ART | PROMPT ENGINEERING | IMAGE GENERATION\",\n        \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"DESIGN COURSE\\\"}\",\n        \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"AIが拓く、画像生成の未来\\\"}\",\n        \"character_pose\": \"flying horizontally to the right, highly detailed, dynamic lighting, glowing particles, intense expression, mecha details\",\n        \"left_text_block\": \"ゼロから始める、\\nプロ級のクリエイティブ。\\nGPT-Image-2を活用した\\n次世代の制作フローを習得。\",\n        \"featuring_list\": {\n          \"title\": \"FEATURING\",\n          \"count\": 4,\n          \"items\": [\"- プロンプトの基礎\", \"- 画像生成の実践\", \"- 高品質な出力\", \"- 著作権について\"]\n        },\n        \"bottom_right_tag\": \"#001 | GPT-IMAGE-2 EDITION\"\n      },\n      {\n        \"position\": \"bottom\",\n        \"model_name\": \"NANO BANANA PRO\",\n        \"header_text\": \"AI ART | PROMPT ENGINEERING | MONETIZATION\",\n        \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"DESIGN COURSE\\\"}\",\n        \"subtitle\": \"AIが拓く、デザインの未来\",\n        \"character_pose\": \"flying towards the viewer, reaching out with left hand, dynamic perspective, starry space background\",\n        \"left_text_block\": \"ゼロから始める、\\nプロ級のクリエイティブ。\\nAIを活用した\\n次世代の制作フローを習得。\",\n        \"featuring_list\": {\n          \"title\": \"FEATURING\",\n          \"count\": 4,\n          \"items\": [\"- プロンプトの基礎\", \"- 収益化ノウハウ\", \"- 高品質な出力\", \"- 著作権について\"]\n        },\n        \"bottom_right_tag\": \"#001 | AI EDITION\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"3 面垂直宣传信息图\",\n  \"theme\": \"展示不同 AI 模型的科幻动漫角色\",\n  \"global_elements\": {\n    \"character_base\": {\n      \"gender\": \"女性\",\n      \"hair\": \"{argument name=\\\"character hair color\\\" default=\\\"橙色\\\"}\",\n      \"attire\": \"未来感科幻紧身衣\"\n    },\n    \"main_typography\": \"{argument name=\\\"main title\\\" default=\\\"设计课程\\\"}\",\n    \"subtitle_typography\": \"{argument name=\\\"japanese subtitle\\\" default=\\\"AI が拓く、画像生成の未来\\\"}\"\n  },\n  \"layout\": {\n    \"structure\": \"3 个堆叠的水平面板\",\n    \"panels\": [\n      {\n        \"position\": \"顶部\",\n        \"model_name\": \"{argument name=\\\"top model name\\\" default=\\\"MAI-Image-2\\\"}\",\n        \"art_style\": \"扁平动漫阴影，线条简洁，极简科幻背景\",\n        \"character_pose\": \"向左水平飞行\",\n        \"text_elements\": {\n          \"header\": \"AI 艺术 | 提示词工程 | 图像生成\",\n          \"left_paragraph\": \"4 行关于从零开始的日语文本\",\n          \"featuring_list\": {\n            \"title\": \"包含内容\",\n            \"count\": 4,\n            \"items\": [\"- プロントの基礎\", \"- 画像生成の実践\", \"- 高品質な出力\", \"- 著作権について\"]\n          },\n          \"tag\": \"#001 | MAI-Image-2 版本\"\n        }\n      },\n      {\n        \"position\": \"中部\",\n        \"model_name\": \"{argument name=\\\"middle model name\\\" default=\\\"GPT-IMAGE-2\\\"}\",\n        \"art_style\": \"高度细节，发光粒子，强烈光效，复杂的机甲元素\",\n        \"character_pose\": \"向右水平飞行\",\n        \"text_elements\": {\n          \"header\": \"AI 艺术 | 提示词工程 | 图像生成\",\n          \"left_paragraph\": \"4 行关于专业级创作的日语文本\",\n          \"featuring_list\": {\n            \"title\": \"包含内容\",\n            \"count\": 4,\n            \"items\": [\"- プロンプトの基礎\", \"- 画像生成の実践\", \"- 高品質な出力\", \"- 著作権について\"]\n          },\n          \"tag\": \"#001 | GPT-IMAGE-2 版本\"\n        }\n      },\n      {\n        \"position\": \"底部\",\n        \"model_name\": \"NANO BANANA PRO\",\n        \"art_style\": \"动态视角，明亮的蓝色能量背景，色彩鲜艳\",\n        \"character_pose\": \"向观众飞来，左手伸出\",\n        \"text_elements\": {\n          \"header\": \"AI 艺术 | 提示词工程 | 变现\",\n          \"subtitle\": \"AI が拓く、デザインの未来\",\n          \"left_paragraph\": \"5 行关于下一代工作流程的日语文本\",\n          \"featuring_list\": {\n            \"title\": \"包含内容\",\n            \"count\": 4,\n            \"items\": [\"- プロンプトの基礎\", \"- 収益化ノウハウ\", \"- 高品質な出力\", \"- 著作権について\"]\n          },\n          \"tag\": \"#001 | AI 版本\"\n        }\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "3 面 AI 模型对比信息图：生成一张三面垂直信息图，通过不同艺术风格渲染的科幻动漫角色来对比不同的 AI 模型。",
+      "subject": "界面",
+      "scene": "人物/角色",
+      "composition": [
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "anime",
+        "sci-fi"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical, horizontal]。\n\nVisual style:\n[参考风格: anime, sci-fi]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15278",
+      "15446",
+      "14250",
+      "14468",
+      "15364",
+      "14544"
+    ]
+  }
+}

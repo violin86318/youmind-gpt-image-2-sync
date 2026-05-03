@@ -1,0 +1,44 @@
+{
+  "id": "14152",
+  "prompt": "A realistic photograph of a whiteboard with a highly detailed {argument name=\"marker color\" default=\"green\"} dry-erase marker drawing of {argument name=\"subject\" default=\"a samurai with a messy topknot and facial hair, hands clasped in prayer\"}. The character is drawn in a {argument name=\"art style\" default=\"detailed manga sketch\"} style, shown in profile with eyes closed, wearing a traditional kimono with a katana tucked into his belt. To the left of the character, handwritten text in all-caps reads \"{argument name=\"text line 1\" default=\"VAGABOND\"}\" with \"{argument name=\"text line 2\" default=\"MUSASHI\"}\" written directly below it. The whiteboard has a glossy surface with realistic light reflections and glare on the left side, and a thin metallic frame is visible at the bottom edge, giving the impression of an authentic classroom or office environment.",
+  "translatedPrompt": "A realistic photograph of a whiteboard with a highly detailed {argument name=\"marker color\" default=\"green\"} dry-erase marker drawing of {argument name=\"subject\" default=\"a samurai with a messy topknot and facial hair, hands clasped in prayer\"}. The character is drawn in a {argument name=\"art style\" default=\"detailed manga sketch\"} style, shown in profile with eyes closed, wearing a traditional kimono with a katana tucked into his belt. To the left of the character, handwritten text in all-caps reads \"{argument name=\"text line 1\" default=\"VAGABOND\"}\" with \"{argument name=\"text line 2\" default=\"MUSASHI\"}\" written directly below it. The whiteboard has a glossy surface with realistic light reflections and glare on the left side, and a thin metallic frame is visible at the bottom edge, giving the impression of an authentic classroom or office environment.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Whiteboard Marker Anime Sketch：Generates a realistic photograph of a highly detailed anime-style sketch drawn on a glossy whiteboard with dry-erase marker.",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "anime",
+        "manga"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, anime, manga]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13467",
+      "13596",
+      "13613",
+      "13618",
+      "13632",
+      "13679"
+    ]
+  }
+}

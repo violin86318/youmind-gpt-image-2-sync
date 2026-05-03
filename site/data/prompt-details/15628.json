@@ -1,0 +1,49 @@
+{
+  "id": "15628",
+  "prompt": "A dramatic photojournalistic street-level scene in lower Manhattan showing the World Trade Center during the September 11 attacks, viewed from several blocks away on a bright clear blue morning. The composition centers on the Twin Towers, with the left tower engulfed near the upper floors by a massive orange-and-black fireball, thick dark gray smoke billowing horizontally across the sky, and debris falling downward. The right tower stands adjacent with its antenna visible, partially obscured by smoke. In the foreground, exactly 6 visible bystanders stand in the street and on the sidewalk with their backs to the camera, watching in shock; the closest is a man in a light blue dress shirt at lower left. Surrounding the avenue are mid-rise city buildings, including a beige building with black construction scaffolding on the left, older brick and stone facades at street level, a tall curved streetlamp near center, traffic signs, and a dense urban canyon leading the eye toward the towers. Realistic documentary photography, high detail, natural daylight, long-lens compression, urgent historical-news atmosphere, sharp focus, no text, no watermark.",
+  "translatedPrompt": "一张极具冲击力的纪实风格街头照片，拍摄于曼哈顿下城，展示了 9/11 袭击期间的世界贸易中心，视角位于几个街区外，背景是明亮晴朗的蓝天。构图以双子塔为中心，左侧塔楼高层被巨大的橙黑色火球吞没，浓厚的深灰色烟雾在天空中水平翻滚，碎片向下坠落。右侧塔楼紧邻其旁，天线清晰可见，部分被烟雾遮挡。前景中，有 6 位清晰可见的旁观者背对镜头站在街道和人行道上，神情震惊地注视着前方；最靠近镜头的是左下方一名身穿浅蓝色衬衫的男子。大道两侧是中层城市建筑，包括左侧带有黑色建筑脚手架的米色大楼、街面古老的砖石外墙、中心附近高大的弧形路灯、交通标志，以及将视线引向塔楼的密集城市峡谷。写实纪录片摄影，高细节，自然日光，长焦镜头压缩感，紧迫的历史新闻氛围，焦点清晰，无文字，无水印。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "9/11 双子塔街头摄影：此提示词可生成一张写实的纪录片风格图像，呈现从曼哈顿街道视角目击世界贸易中心遇袭的场景，适用于历史或编辑类视觉呈现。",
+      "subject": "空间",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "lens",
+        "camera"
+      ],
+      "text": "要求精确文字；禁止额外文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[参考风格: realistic, documentary]。\n\nLighting and camera:\n[参考光线镜头: lens, camera]。\n\nText requirements:\n要求精确文字；禁止额外文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14614",
+      "14667",
+      "14810",
+      "15251",
+      "14440",
+      "14427"
+    ]
+  }
+}

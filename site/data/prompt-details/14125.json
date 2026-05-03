@@ -1,0 +1,42 @@
+{
+  "id": "14125",
+  "prompt": "9:16 的图片比例，生成一张抖音直播的截图，里面是 {argument name=\"人物\" default=\"刘亦菲\"} 在直播，{argument name=\"人物\" default=\"刘亦菲\"} 手里拿着牌子，牌子里写着 {argument name=\"牌子内容\" default=\"今晚直播，欢迎来参亦菲畅聊！\"}",
+  "translatedPrompt": "A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where {argument name=\"celebrity\" default=\"Liu Yifei\"} is broadcasting, holding a sign that says \"{argument name=\"sign text\" default=\"Streaming tonight, welcome to join Yifei's chat!\"}\"",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Douyin Livestream Screenshot Prompt：A prompt for generating a realistic screenshot of a Douyin livestream featuring a celebrity holding a personalized sign.",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13676",
+      "13667",
+      "13732",
+      "13824",
+      "14273",
+      "15514"
+    ]
+  }
+}

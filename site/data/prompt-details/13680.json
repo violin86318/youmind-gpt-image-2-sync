@@ -1,0 +1,38 @@
+{
+  "id": "13680",
+  "prompt": "{\n  \"type\": \"dark mode web page UI mockup\",\n  \"theme\": \"sleek, modern, dark theme with white and light grey text\",\n  \"header\": {\n    \"logo\": \"{argument name=\\\"company name\\\" default=\\\"OpenAI\\\"}\",\n    \"navigation\": [\"Research\", \"Products\", \"Safety\", \"Company\"],\n    \"actions\": [\"Search icon\", \"Log in\", \"Try ChatGPT button\"]\n  },\n  \"layout\": {\n    \"left_column\": {\n      \"label\": \"PRICING\",\n      \"headline\": \"{argument name=\\\"model name\\\" default=\\\"GPT-8\\\"}\",\n      \"subheading\": \"{argument name=\\\"main tagline\\\" default=\\\"Our most powerful model yet.\\\"}\",\n      \"description\": \"GPT-8 is designed for intelligence, reliability, and real-world impact. Built with multimodal reasoning, long-context understanding, and advanced tool use.\",\n      \"button\": \"GET STARTED\",\n      \"features\": {\n        \"count\": 3,\n        \"items\": [\n          {\"icon\": \"brain\", \"title\": \"Frontier intelligence\", \"desc\": \"State-of-the-art reasoning, coding, and problem solving.\"},\n          {\"icon\": \"shield\", \"title\": \"Trusted by design\", \"desc\": \"Stronger safety, more steerability, and enterprise-grade reliability.\"},\n          {\"icon\": \"lightning bolt\", \"title\": \"Built for builders\", \"desc\": \"Native tool use, structured outputs, and long-context workflows.\"}\n        ]\n      }\n    },\n    \"right_column\": {\n      \"type\": \"pricing card\",\n      \"header\": \"PRICING - Simple, token-based pricing. No hidden fees.\",\n      \"toggle\": [\"INPUT\", \"CACHE READ\"],\n      \"token_pricing\": {\n        \"count\": 5,\n        \"rows\": [\n          {\"name\": \"Text tokens\", \"unit\": \"Per 1M tokens\", \"price\": \"{argument name=\\\"text token price\\\" default=\\\"$3.00\\\"}\"},\n          {\"name\": \"Image tokens\", \"unit\": \"Per 1M tokens\", \"price\": \"$10.00\"},\n          {\"name\": \"Audio tokens\", \"unit\": \"Per 1M tokens\", \"price\": \"$6.00\"},\n          {\"name\": \"Video tokens\", \"unit\": \"Per 1M tokens\", \"price\": \"$15.00\"},\n          {\"name\": \"Output tokens\", \"unit\": \"Per 1M tokens\", \"price\": \"{argument name=\\\"output token price\\\" default=\\\"$12.00\\\"}\"}\n        ]\n      },\n      \"additional_features\": {\n        \"count\": 2,\n        \"rows\": [\n          {\"name\": \"Caching\", \"desc\": \"Save on repeated inputs with caching.\", \"price\": \"$0.30 / 1M tokens\"},\n          {\"name\": \"Batch API (50% discount)\", \"desc\": \"Lower costs for asynchronous workloads.\", \"price\": \"-50%\"}\n        ]\n      },\n      \"footer_links\": [\"LEARN MORE\", \"Model docs\", \"Pricing details\"]\n    }\n  },\n  \"footer\": \"Prices are in USD. View the full pricing table in our docs.\"\n}",
+  "translatedPrompt": "{\n  \"type\": \"深色模式网页 UI 模型\",\n  \"theme\": \"时尚、现代的深色主题，配有白色和浅灰色文字\",\n  \"header\": {\n    \"logo\": \"{argument name=\\\"company name\\\" default=\\\"OpenAI\\\"}\",\n    \"navigation\": [\"研究\", \"产品\", \"安全\", \"公司\"],\n    \"actions\": [\"搜索图标\", \"登录\", \"试用 ChatGPT 按钮\"]\n  },\n  \"layout\": {\n    \"left_column\": {\n      \"label\": \"定价\",\n      \"headline\": \"{argument name=\\\"model name\\\" default=\\\"GPT-8\\\"}\",\n      \"subheading\": \"{argument name=\\\"main tagline\\\" default=\\\"Our most powerful model yet.\\\"}\",\n      \"description\": \"GPT-8 专为智能、可靠性和实际应用而设计。具备多模态推理、长上下文理解和高级工具使用能力。\",\n      \"button\": \"开始使用\",\n      \"features\": {\n        \"count\": 3,\n        \"items\": [\n          {\"icon\": \"brain\", \"title\": \"前沿智能\", \"desc\": \"最先进的推理、编码和问题解决能力。\"},\n          {\"icon\": \"shield\", \"title\": \"值得信赖的设计\", \"desc\": \"更强的安全性、更高的可控性以及企业级的可靠性。\"},\n          {\"icon\": \"lightning bolt\", \"title\": \"为开发者而生\", \"desc\": \"原生工具使用、结构化输出和长上下文工作流。\"}\n        ]\n      }\n    },\n    \"right_column\": {\n      \"type\": \"定价卡片\",\n      \"header\": \"定价 - 简单、基于 Token 的定价。无隐藏费用。\",\n      \"toggle\": [\"输入\", \"缓存读取\"],\n      \"token_pricing\": {\n        \"count\": 5,\n        \"rows\": [\n          {\"name\": \"文本 Token\", \"unit\": \"每 100 万 Token\", \"price\": \"{argument name=\\\"text token price\\\" default=\\\"$3.00\\\"}\"},\n          {\"name\": \"图像 Token\", \"unit\": \"每 100 万 Token\", \"price\": \"$10.00\"},\n          {\"name\": \"音频 Token\", \"unit\": \"每 100 万 Token\", \"price\": \"$6.00\"},\n          {\"name\": \"视频 Token\", \"unit\": \"每 100 万 Token\", \"price\": \"$15.00\"},\n          {\"name\": \"输出 Token\", \"unit\": \"每 100 万 Token\", \"price\": \"{argument name=\\\"output token price\\\" default=\\\"$12.00\\\"}\"}\n        ]\n      },\n      \"additional_features\": {\n        \"count\": 2,\n        \"rows\": [\n          {\"name\": \"缓存\", \"desc\": \"通过缓存节省重复输入费用。\", \"price\": \"$0.30 / 100 万 Token\"},\n          {\"name\": \"批量 API (5 折优惠)\", \"desc\": \"降低异步工作负载的成本。\", \"price\": \"-50%\"}\n        ]\n      },\n      \"footer_links\": [\"了解更多\", \"模型文档\", \"定价详情\"]\n    }\n  },\n  \"footer\": \"价格以美元计算。请在我们的文档中查看完整定价表。\"\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "深色模式 AI API 定价页面模型：为 AI 模型的定价页面生成一个时尚的深色主题网页 UI 模型，包含首屏区域和详细的 Token 定价卡片。",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14037",
+      "13803",
+      "13826",
+      "13893",
+      "13898",
+      "14036"
+    ]
+  }
+}

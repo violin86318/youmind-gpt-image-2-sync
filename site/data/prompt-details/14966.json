@@ -1,0 +1,55 @@
+{
+  "id": "14966",
+  "prompt": "{\"type\":\"fitness gym website hero section mockup\",\"style\":\"ultra-polished modern Japanese landing page, premium sports branding, dark neon blue color grading, high contrast, cinematic advertising look, realistic photo composited with glossy UI design\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"BLUE IMPACT GYM\\\"}\",\"logo\":\"sharp angular blue-and-white lightning emblem to the left of the brand name\"},\"canvas\":{\"aspect_ratio\":\"16:9\",\"composition\":\"single full-width first-view website header\"},\"background\":{\"theme\":\"dark luxury gym interior with blurred equipment and dramatic blue light streaks\",\"effects\":[\"electric blue diagonal motion lines\",\"lens flares\",\"glowing highlights\",\"subtle smoky depth\",\"metallic reflections\"]},\"navigation\":{\"position\":\"top bar\",\"count\":5,\"items\":[\"特徴\",\"プラン・料金\",\"店舗情報\",\"資料請求\",\"お問い合わせ\"],\"style\":\"white Japanese text links centered, two outlined/glowing CTA buttons on the right\"},\"main_visual\":{\"subject\":\"muscular Asian male personal trainer in his 20s to 30s, upper body prominently shown on the right half, holding a black dumbbell near his torso, wearing a fitted black sleeveless athletic tank top, sweaty skin, defined shoulders and arms, intense premium fitness campaign look\",\"face\":\"partially frontal portrait with confident posture\",\"lighting\":\"hard rim light and cool blue highlights emphasizing muscle definition\"},\"headline\":{\"position\":\"left-center\",\"text\":\"{argument name=\\\"headline text\\\" default=\\\"限界を、超えろ。\\\"}\",\"style\":\"very large bold distressed Japanese display typography in white, dynamic slanted layout, gritty texture\"},\"subcopy\":{\"position\":\"left-lower under headline\",\"text\":\"20代〜30代男性のための、本気で変わるトレーニング空間。理想のカラダづくりを最短でサポート。\",\"style\":\"smaller white Japanese text, 2 lines, clean sans-serif\"},\"trainer_profile\":{\"position\":\"right side vertical text beside the model\",\"count\":3,\"items\":[\"全日本マッスル協会 副会長\",\"筋肉 凄蔵\",\"トレーナー歴12年・累計生徒数2000人以上\"],\"style\":\"vertical white Japanese text, premium editorial arrangement\"},\"cta_area\":{\"position\":\"lower left to center\",\"count\":3,\"buttons\":[{\"label\":\"無料体験はこちら\",\"style\":\"primary glowing blue gradient rounded rectangle\"},{\"label\":\"料金プランを見る\",\"style\":\"dark transparent rounded rectangle with white border\"},{\"label\":\"お問合せ\",\"style\":\"dark transparent rounded rectangle with white border\"}]},\"campaign_banner\":{\"position\":\"lower right overlapping the subject\",\"count\":3,\"texts\":[\"今なら\",\"入会金0円\",\"キャンペーン実施中！\"],\"style\":\"bold blue translucent ribbon banner, oversized white numeral 0, energetic promotional emphasis\"},\"feature_row\":{\"position\":\"bottom full width\",\"count\":4,\"items\":[{\"icon\":\"24 in a circle\",\"title\":\"24時間営業\",\"description\":\"いつでも好きな時間にトレーニング。\"},{\"icon\":\"downward arrow/leaf-like emblem in a circle\",\"title\":\"初心者歓迎\",\"description\":\"初めてでも安心のサポート体制。\"},{\"icon\":\"map pin in a circle\",\"title\":\"駅近3分\",\"description\":\"通いやすい好立地で続けやすい。\"},{\"icon\":\"person with tie in a circle\",\"title\":\"プロトレーナー在籍\",\"description\":\"目標達成を専門トレーナーが支援。\"}]},\"palette\":{\"primary\":\"electric blue\",\"secondary\":\"deep navy\",\"text\":\"white\",\"accent\":\"glow cyan\"},\"design_notes\":[\"make it look like an AI-generated high-end web design concept for a gym landing page\",\"keep the layout clean, persuasive, and conversion-focused\",\"emphasize a premium but aggressive transformation message\",\"all visible interface text should be in Japanese\",\"use sharp modern sans-serif fonts for UI and bold display lettering for the headline\"]}",
+  "translatedPrompt": "{\"type\":\"健身房网站首屏模型\",\"style\":\"超精致现代日本落地页，高端运动品牌感，深霓虹蓝调色，高对比度，电影级广告质感，写实照片与精致 UI 设计合成\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"BLUE IMPACT GYM\\\"}\",\"logo\":\"品牌名称左侧带有锐利棱角的蓝白闪电标志\"},\"canvas\":{\"aspect_ratio\":\"16:9\",\"composition\":\"单屏全宽网站页眉\"},\"background\":{\"theme\":\"深色奢华健身房内部，背景虚化器材与戏剧性的蓝色光束\",\"effects\":[\"电光蓝对角线运动线条\",\"镜头光晕\",\"发光高光\",\"微妙的烟雾深度\",\"金属质感反射\"]},\"navigation\":{\"position\":\"顶部栏\",\"count\":5,\"items\":[\"特点\",\"计划与价格\",\"门店信息\",\"资料索取\",\"联系我们\"],\"style\":\"居中的白色日文文本链接，右侧有两个带轮廓/发光的 CTA 按钮\"},\"main_visual\":{\"subject\":\"20 至 30 岁肌肉发达的亚裔男性私人教练，右半部分突出显示上半身，躯干附近握着黑色哑铃，穿着修身黑色无袖运动背心，皮肤带汗，肩部和手臂线条分明，强烈的顶级健身广告风格\",\"face\":\"部分正面肖像，姿态自信\",\"lighting\":\"硬朗的轮廓光和冷蓝色高光，强调肌肉线条\"},\"headline\":{\"position\":\"左中\",\"text\":\"{argument name=\\\"headline text\\\" default=\\\"限界を、超えろ。\\\"}\",\"style\":\"超大号粗体做旧日文标题字体，白色，动态倾斜布局，颗粒质感\"},\"subcopy\":{\"position\":\"标题下方左侧\",\"text\":\"20 代〜30 代男性のための、本気で変わるトレーニング空間。理想のカラダづくりを最短でサポート。\",\"style\":\"较小的白色日文文本，2 行，简洁无衬线字体\"},\"trainer_profile\":{\"position\":\"模特旁边的右侧竖排文字\",\"count\":3,\"items\":[\"全日本肌肉协会副会长\",\"筋肉 凄蔵\",\"教练经验 12 年，累计学员 2000 人以上\"],\"style\":\"竖排白色日文文本，高端排版设计\"},\"cta_area\":{\"position\":\"左下至中心\",\"count\":3,\"buttons\":[{\"label\":\"免费体验请点击这里\",\"style\":\"主色调发光蓝色渐变圆角矩形\"},{\"label\":\"查看价格计划\",\"style\":\"深色透明圆角矩形，带白色边框\"},{\"label\":\"联系我们\",\"style\":\"深色透明圆角矩形，带白色边框\"}]},\"campaign_banner\":{\"position\":\"右下角覆盖主体\",\"count\":3,\"texts\":[\"现在加入\",\"入会费 0 元\",\"活动进行中！\"],\"style\":\"粗体蓝色半透明丝带横幅，超大白色数字 0，充满活力的促销强调\"},\"feature_row\":{\"position\":\"底部全宽\",\"count\":4,\"items\":[{\"icon\":\"圆圈中的 24\",\"title\":\"24 小时营业\",\"description\":\"随时随地，想练就练。\"},{\"icon\":\"圆圈中的向下箭头/叶状标志\",\"title\":\"欢迎新手\",\"description\":\"即使是初学者也能安心的支援体制。\"},{\"icon\":\"圆圈中的地图定位图标\",\"title\":\"车站步行 3 分钟\",\"description\":\"交通便利，轻松坚持。\"},{\"icon\":\"圆圈中的领带人士图标\",\"title\":\"专业教练在籍\",\"description\":\"专业教练协助您达成目标。\"}]},\"palette\":{\"primary\":\"电光蓝\",\"secondary\":\"深海军蓝\",\"text\":\"白色\",\"accent\":\"发光青色\"},\"design_notes\":[\"使其看起来像 AI 生成的高端健身房落地页网页设计概念\",\"保持布局简洁、具有说服力且以转化为导向\",\"强调高端且具有冲击力的蜕变信息\",\"所有可见的界面文本应为日文\",\"UI 使用锐利的现代无衬线字体，标题使用粗体展示字体\"]}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日本健身房 Hero 落地页：此内容用于生成高端日本健身房的 AI 风格首屏网站模型，适用于落地页概念设计及作品集风格的网页视觉呈现。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "editorial",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "neon",
+        "high contrast",
+        "lens"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic, editorial, luxury, premium]。\n\nLighting and camera:\n[参考光线镜头: rim light, neon, high contrast, lens]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15321",
+      "14634",
+      "15464",
+      "15329",
+      "15409",
+      "14539"
+    ]
+  }
+}

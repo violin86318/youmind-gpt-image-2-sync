@@ -1,0 +1,44 @@
+{
+  "id": "14734",
+  "prompt": "Preserve the face, proportions, and external features of the model as in the reference. {argument name=\"subject\" default=\"8-year-old boy\"} in a dark, moody studio rehearsal hall. Dramatic rim lighting and a single overhead spotlight creating a silhouette effect. He holds a {argument name=\"instrument\" default=\"silver electric guitar\"} with visible metallic string textures. Motion blur from a strobe light effect, high-contrast, commercial magazine shoot, fashion editorial realism, intense focused expression.",
+  "translatedPrompt": "保留参考图中模特的脸部、比例和外部特征。{argument name=\"subject\" default=\"8 岁男孩\"} 位于昏暗、忧郁的排练厅中。戏剧性的轮廓光和单一的头顶聚光灯营造出剪影效果。他拿着一把 {argument name=\"instrument\" default=\"银色电吉他\"}，可见金属琴弦纹理。频闪灯效果带来的动态模糊，高对比度，商业杂志拍摄，时尚编辑写实风格，神情专注而强烈。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "忧郁吉他手肖像：这是一份为排练厅中的儿童吉他手准备的高对比度时尚编辑提示词，利用戏剧性的灯光和剪影效果，营造出商业杂志的视觉美感。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "editorial",
+        "studio"
+      ],
+      "lightingCamera": [
+        "rim light"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: editorial, studio]。\n\nLighting and camera:\n[参考光线镜头: rim light]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14676",
+      "15504",
+      "15532",
+      "15787",
+      "15684",
+      "15680"
+    ]
+  }
+}

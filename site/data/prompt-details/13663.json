@@ -1,0 +1,44 @@
+{
+  "id": "13663",
+  "prompt": "{\n  \"type\": \"website landing page mockup\",\n  \"industry\": \"{argument name=\\\"industry\\\" default=\\\"luxury aesthetics clinic\\\"}\",\n  \"style\": {\n    \"color_palette\": \"{argument name=\\\"color theme\\\" default=\\\"warm golden and bronze\\\"}\",\n    \"typography\": \"elegant serif fonts\",\n    \"atmosphere\": \"high-end, luxurious, glowing bokeh background\"\n  },\n  \"layout\": {\n    \"header\": {\n      \"logo\": \"{argument name=\\\"brand name\\\" default=\\\"Elysian\\\"} AESTHETICS\",\n      \"navigation_links\": [\"About\", \"Treatments\", \"Gallery\"],\n      \"cta_button\": \"Book Consultation\"\n    },\n    \"hero_section\": {\n      \"imagery\": \"portrait of an {argument name=\\\"hero subject\\\" default=\\\"elegant woman with glowing skin and closed eyes touching her neck\\\"}, wearing a sparkly bronze dress and diamond drop earrings\",\n      \"typography\": {\n        \"headline\": \"{argument name=\\\"headline text\\\" default=\\\"Timeless Beauty, Expertly Refined\\\"}\",\n        \"subheadline\": \"Discover the art of aesthetic perfection with personalized treatments tailored to enhance your natural radiance.\"\n      },\n      \"buttons\": [\n        {\"text\": \"Book Your Consultation\", \"style\": \"solid light cream\"},\n        {\"text\": \"Learn More\", \"style\": \"outline\"}\n      ]\n    },\n    \"features_section\": {\n      \"count\": 3,\n      \"columns\": [\n        {\n          \"title\": \"Our Services\",\n          \"subtitle\": \"Advanced Treatments for Timeless Beauty\",\n          \"icon\": \"syringe\"\n        },\n        {\n          \"title\": \"The Elysian Experience\",\n          \"subtitle\": \"Luxury, Expertise, & Exceptional Care\",\n          \"icon\": \"lotus flower\"\n        },\n        {\n          \"title\": \"Before & After\",\n          \"subtitle\": \"Witness Stunning Transformations\",\n          \"icon\": \"half-face mask\"\n        }\n      ],\n      \"divider\": \"thin vertical lines between columns\"\n    },\n    \"footer\": {\n      \"tagline\": \"Where Elegance Meets Aesthetics.\",\n      \"styling\": \"flanked by horizontal lines\"\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"网站首页样稿\",\n  \"theme\": \"高端医美诊所\",\n  \"color_palette\": \"{argument name=\\\"primary color theme\\\" default=\\\"暖金色与古铜色\\\"}，搭配深棕色背景和柔和的散景光效\",\n  \"header\": {\n    \"logo\": \"{argument name=\\\"brand name\\\" default=\\\"Elysian\\\"} AESTHETICS\",\n    \"navigation_links\": [\"关于我们\", \"治疗项目\", \"案例展示\"],\n    \"cta_button\": \"预约咨询\"\n  },\n  \"hero_section\": {\n    \"background_image\": \"{argument name=\\\"hero subject\\\" default=\\\"一位皮肤光泽、闭着双眼、手触颈部的绝美女性\\\"}，身穿闪亮的古铜色礼服，佩戴钻石吊坠耳环，柔和的电影级灯光\",\n    \"typography\": {\n      \"headline\": \"{argument name=\\\"hero headline\\\" default=\\\"永恒之美，精雕细琢\\\"}\",\n      \"subheadline\": \"探索医美艺术，通过量身定制的方案提升您的自然光彩。\"\n    },\n    \"buttons\": [\n      { \"style\": \"实心浅色\", \"text\": \"预约您的咨询\" },\n      { \"style\": \"轮廓线\", \"text\": \"了解更多\" }\n    ]\n  },\n  \"features_section\": {\n    \"divider\": \"带有小型中央花卉装饰的细金线\",\n    \"columns_count\": 3,\n    \"columns\": [\n      {\n        \"title\": \"我们的服务\",\n        \"description\": \"助力永恒之美的先进疗法\",\n        \"icon\": \"注射器\"\n      },\n      {\n        \"title\": \"Elysian 体验\",\n        \"description\": \"奢华、专业与卓越的护理\",\n        \"icon\": \"莲花\"\n      },\n      {\n        \"title\": \"蜕变案例\",\n        \"description\": \"见证惊艳的改变\",\n        \"icon\": \"半脸面具\"\n      }\n    ]\n  },\n  \"footer\": {\n    \"text\": \"优雅与医美的完美邂逅。\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "高端医美诊所网站设计样稿：一个用于生成高端、优雅的医美或美容诊所网站首页样稿的 JSON 结构化提示词。",
+      "subject": "人物",
+      "scene": "字体/Logo",
+      "composition": [
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "luxury"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical, horizontal]。\n\nVisual style:\n[参考风格: luxury]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14021",
+      "14937",
+      "14991",
+      "13943",
+      "14178",
+      "14267"
+    ]
+  }
+}

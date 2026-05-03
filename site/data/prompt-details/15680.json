@@ -1,0 +1,50 @@
+{
+  "id": "15680",
+  "prompt": "A high-fashion editorial magazine cover set inside a modern open-plan office, photographed in a polished realistic style with soft commercial lighting and a luxury fashion mood. Center the full-body figure of a tall slim East Asian businesswoman walking confidently down the aisle between desks as if on a runway, shoulders back, arms relaxed, gaze forward. She wears a fitted ribbed knit short-sleeve top in {argument name=\"top color\" default=\"powder blue\"}, tucked into a long high-waisted ribbed mermaid skirt in {argument name=\"skirt color\" default=\"white\"}, with clean white pointed heels. Her hair is dark brown to black, styled in a high ponytail. The office around her is bright, elegant, and contemporary, with rows of desks on both sides, flat computer monitors, ergonomic white-and-gray office chairs, glass meeting room walls, warm wood panels, ceiling strip lights, and several blurred office workers seated and working, plus one suited figure standing in the background. Compose it like a premium fashion magazine cover with the woman dominating the center frame and the office receding in perspective behind her. Add large masthead text across the very top in oversized pale blue serif letters reading {argument name=\"magazine title\" default=\"OFFICESTYLE\"}. Add small white cover line text near the upper left: {argument name=\"issue text\" default=\"SUMMER 2024\"}, and near the upper right: \"FASHION & INSPIRATION\". On the left side, place a large white serif headline broken over three lines: \"Grace in Motion\", with 2 smaller Japanese teaser blocks beneath it. On the lower left, add a blue serif subheadline: \"Blue & White\" with 2 lines of smaller Japanese text below. On the right side, add a white serif headline: \"Modern Elegance\" with 2 lines of smaller Japanese text below. In the lower right corner, place a large pale blue circle containing the white serif text \"More inside\" with 3 short lines of smaller Japanese teaser text beneath. Keep the overall palette airy and refined, dominated by blue, white, gray, and soft beige, with a clean magazine-cover layout, luxurious typography, subtle depth of field, and an aspirational office couture aesthetic.",
+  "translatedPrompt": "一张置于现代开放式办公室内的时尚杂志封面，采用精致写实的摄影风格，配以柔和的商业灯光和奢华的时尚氛围。画面中心是一位身材高挑纤细的东亚女商务人士，她正自信地走在办公桌间的过道上，宛如走在 T 台上，双肩后展，双臂自然放松，目光直视前方。她身着一件 {argument name=\"top color\" default=\"粉蓝色\"} 的修身罗纹针织短袖上衣，下搭一条 {argument name=\"skirt color\" default=\"白色\"} 的高腰长款罗纹鱼尾裙，脚踩干净利落的白色尖头高跟鞋。她留着深棕色至黑色的高马尾发型。周围的办公室明亮、优雅且充满现代感，两侧排列着办公桌、纯平电脑显示器、符合人体工程学的黑白办公椅、玻璃会议室隔断、暖色调木质镶板和天花板条形灯；背景中有几位模糊的办公人员正在座位上工作，还有一位身着西装的人物站立。构图采用高级时尚杂志封面风格，女性占据画面中心，办公室在背景中呈现出纵深感。在顶部添加超大号的淡蓝色衬线字体作为刊头，内容为 {argument name=\"magazine title\" default=\"OFFICESTYLE\"}。在左上角添加小号白色封面标题：{argument name=\"issue text\" default=\"2024 年夏季\"}，右上角添加 \"FASHION & INSPIRATION\"。在左侧放置一个分三行排列的大号白色衬线标题：\"Grace in Motion\"，下方配有两个较小的日语预告块。在左下角添加一个蓝色衬线副标题：\"Blue & White\"，下方配有两行较小的日语文本。在右侧添加一个白色衬线标题：\"Modern Elegance\"，下方配有两行较小的日语文本。在右下角放置一个淡蓝色大圆圈，内含白色衬线文字 \"More inside\"，下方配有三行简短的日语预告文本。整体色调保持轻盈精致，以蓝色、白色、灰色和柔和的米色为主，呈现出干净的杂志封面排版、奢华的字体设计、微妙的景深效果以及令人向往的职场高定美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "办公室时尚杂志封面：此提示词可生成一张奢华编辑风格的杂志封面，画面中一位时尚女性走在现代办公室内，非常适合时尚品牌推广、杂志封面样稿及职场时尚风格的视觉宣传。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "full-body"
+      ],
+      "style": [
+        "realistic",
+        "editorial",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [
+        "depth of field"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body]。\n\nVisual style:\n[参考风格: realistic, editorial, luxury, premium]。\n\nLighting and camera:\n[参考光线镜头: depth of field]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15682",
+      "14676",
+      "15026",
+      "15787",
+      "15685",
+      "14692"
+    ]
+  }
+}

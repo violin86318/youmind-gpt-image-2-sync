@@ -1,0 +1,46 @@
+{
+  "id": "14942",
+  "prompt": "A clean anime-style full-body character illustration of a young woman squatting low on a plain light gray background, centered in frame, with a soft studio shadow beneath her. She has {argument name=\"hair color\" default=\"dark brown\"} short bob hair with blunt straight bangs, slightly tousled ends, and a few loose strands around the face. Her expression is {argument name=\"expression\" default=\"spiral half-lidded annoyed eyes\"}, giving a tired, gloomy, slightly irritated look. She is wearing 4 visible clothing items: an oversized light gray hoodie with drawstrings and ribbed cuffs, dark blue denim short shorts with frayed hems, white scrunched ankle socks, and black low-top skate sneakers with white side stripes, white laces, and white soles. Her pose is a compact crouch with both knees up, one elbow resting on a knee, one hand partly covering the lower face or cheek, and the other hand hanging down near the front shoe. The art style is polished modern manga/anime key visual art with thin clean linework, smooth cel-shaded rendering, subtle fabric folds, natural skin highlights on the legs, and slightly oversized hoodie proportions. Emphasize a casual, moody, introverted vibe, minimalist composition, and a high-quality character-focused illustration.",
+  "translatedPrompt": "一张简洁的动漫风格全身角色插画，描绘了一位蹲在浅灰色纯色背景中央的年轻女性，脚下带有柔和的摄影棚阴影。她留着 {argument name=\"hair color\" default=\"深棕色\"} 的短波波头，带有整齐的平刘海，发梢略显凌乱，脸颊旁有几缕碎发。她的表情为 {argument name=\"expression\" default=\"半睁的螺旋眼，带着一丝烦躁\"}，呈现出疲惫、忧郁且略显恼火的神态。她穿着 4 件可见的单品：一件带有抽绳和罗纹袖口的大码浅灰色连帽衫、深蓝色毛边牛仔短裤、白色堆堆袜，以及带有白色侧条纹、白色鞋带和白色鞋底的黑色低帮滑板鞋。她的姿势是紧凑的蹲姿，双膝抬起，一只手肘靠在膝盖上，一只手半遮住下脸或脸颊，另一只手垂在前方鞋子附近。艺术风格为精致的现代漫画/动漫主视觉图，线条简洁流畅，采用平滑的赛璐珞渲染，布料褶皱细腻，腿部带有自然的皮肤高光，连帽衫比例略显宽大。强调休闲、忧郁、内向的氛围，构图极简，呈现高质量的角色聚焦插画。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "身穿大码连帽衫蹲姿的动漫少女：此提示词可生成一张简洁的全身动漫角色插画，描绘了一位忧郁的街头风少女，适用于角色设计、社交媒体头像或漫画风格的插画创作。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "full-body"
+      ],
+      "style": [
+        "anime",
+        "manga",
+        "minimalist",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, full-body]。\n\nVisual style:\n[参考风格: anime, manga, minimalist, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14927",
+      "15686",
+      "14422",
+      "14668",
+      "15332",
+      "15703"
+    ]
+  }
+}

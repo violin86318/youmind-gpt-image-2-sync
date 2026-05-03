@@ -1,0 +1,35 @@
+{
+  "id": "15578",
+  "prompt": "{argument name=\"飲み物\" default=\"お茶\"}の広告バナーをお願い。女性を入れて。宣材として{argument name=\"アイテム\" default=\"紙袋、うちわ、クリアファイル\"}に展開して。",
+  "translatedPrompt": "请为 {argument name=\"beverage\" default=\"茶饮\"} 创建一张广告横幅。画面中需包含一位女性。并将该设计扩展到 {argument name=\"items\" default=\"纸袋、扇子和透明文件夹\"} 等促销物料中。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "茶饮品牌产品广告样机：这是一个为 GPT Image 2 设计的推广提示词，旨在创作包含模特在内的品牌饮料广告，并将其应用到纸袋、扇子等多种周边商品上。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "13948",
+  "prompt": "{\"type\":\"anime costume design reference sheet\",\"document_info\":{\"title\":\"{argument name=\\\"document title\\\" default=\\\"Lumière Noir\\\"}\",\"subtitle\":\"{argument name=\\\"document subtitle\\\" default=\\\"衣装設定図\\\"}\",\"theme\":\"{argument name=\\\"costume description\\\" default=\\\"black and white classical school idol uniform\\\"}\"},\"layout\":{\"sections\":[{\"title\":\"全体デザイン\",\"position\":\"top-center\",\"count\":3,\"labels\":[\"FRONT\",\"SIDE\",\"BACK\"],\"description\":\"Full-body anime girl ({argument name=\\\"character model name\\\" default=\\\"M2 一ノ瀬 透花\\\"}) modeling the outfit\"},{\"title\":\"カラーパレット / マテリアル\",\"position\":\"mid-left\",\"count\":8,\"labels\":[\"White\",\"Silver\",\"Charcoal\",\"Black\",\"Jacket\",\"Skirt\",\"Lace\",\"Ribbon\"],\"description\":\"4 circular color swatches ({argument name=\\\"color palette\\\" default=\\\"White, Silver, Charcoal, Black\\\"}) and 4 square fabric texture swatches\"},{\"title\":\"シルエット・デザインコンセプト\",\"position\":\"bottom-left\",\"count\":3,\"description\":\"Line-art silhouette sketches of the outfit from front, side, and back\"},{\"title\":\"ディテールアップ\",\"position\":\"top-inner-right\",\"count\":6,\"labels\":[\"襟元・リボン\",\"胸元エンブレム\",\"ジャケットボタン\",\"袖口デザイン\",\"スカート生地・柄\",\"ウエストリボン（背面）\"],\"description\":\"Close-up detail panels of the costume parts\"},{\"title\":\"アクセサリー / ヘアパーツ\",\"position\":\"top-outer-right\",\"count\":4,\"description\":\"Illustrations of 4 different hair accessories\"},{\"title\":\"靴・ソックス\",\"position\":\"mid-outer-right\",\"count\":2,\"description\":\"Illustrations of black strap shoes and white frill socks\"},{\"title\":\"メンバー別ヘアアクセサリー・ポイント\",\"position\":\"bottom-center\",\"count\":5,\"labels\":[\"M1 霧島 レイ\",\"M2 一ノ瀬 透花\",\"M3 白瀬 真珠\",\"M4 天羽 みこと\",\"M5 九条 玲那\"],\"description\":\"Bust portraits of 5 different anime girls showing unique hairstyles and accessories\"},{\"title\":\"衣装設定メモ & 参考イメージ\",\"position\":\"bottom-right\",\"count\":4,\"description\":\"Text memo and 4 small photographic reference images of gothic architecture and fabric details\"}]}}",
+  "translatedPrompt": "{\"type\":\"动漫服装设计参考图\",\"document_info\":{\"title\":\"{argument name=\\\"document title\\\" default=\\\"Lumière Noir\\\"}\",\"subtitle\":\"{argument name=\\\"document subtitle\\\" default=\\\"衣装設定図\\\"}\",\"theme\":\"{argument name=\\\"costume description\\\" default=\\\"黑白经典校园偶像制服\\\"}\"},\"layout\":{\"sections\":[{\"title\":\"全体设计\",\"position\":\"top-center\",\"count\":3,\"labels\":[\"正面\",\"侧面\",\"背面\"],\"description\":\"全身动漫少女（{argument name=\\\"character model name\\\" default=\\\"M2 一ノ瀬 透花\\\"}）服装展示\"},{\"title\":\"配色方案 / 材质\",\"position\":\"mid-left\",\"count\":8,\"labels\":[\"白色\",\"银色\",\"炭灰色\",\"黑色\",\"外套\",\"裙子\",\"蕾丝\",\"丝带\"],\"description\":\"4 个圆形色卡（{argument name=\\\"color palette\\\" default=\\\"白色, 银色, 炭灰色, 黑色\\\"}）和 4 个方形面料纹理样本\"},{\"title\":\"轮廓与设计理念\",\"position\":\"bottom-left\",\"count\":3,\"description\":\"服装的正面、侧面和背面线条轮廓草图\"},{\"title\":\"细节放大\",\"position\":\"top-inner-right\",\"count\":6,\"labels\":[\"领口・丝带\",\"胸前徽章\",\"外套纽扣\",\"袖口设计\",\"裙摆面料・花纹\",\"腰部丝带（背面）\"],\"description\":\"服装部件的特写细节面板\"},{\"title\":\"配饰 / 发饰\",\"position\":\"top-outer-right\",\"count\":4,\"description\":\"4 种不同发饰的插图\"},{\"title\":\"鞋子・袜子\",\"position\":\"mid-outer-right\",\"count\":2,\"description\":\"黑色系带鞋和白色荷叶边袜的插图\"},{\"title\":\"成员专属发饰・要点\",\"position\":\"bottom-center\",\"count\":5,\"labels\":[\"M1 雾岛 礼\",\"M2 一之濑 透花\",\"M3 白濑 真珠\",\"M4 天羽 美琴\",\"M5 九条 玲那\"],\"description\":\"5 位不同动漫少女的半身像，展示独特的发型和配饰\"},{\"title\":\"服装设定笔记 & 参考图像\",\"position\":\"bottom-right\",\"count\":4,\"description\":\"文字笔记及 4 张关于哥特式建筑和面料细节的小型参考照片\"}]}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "偶像服装设计图：生成高度详细的动漫风格服装参考图，包含多视角、材质细节和角色变体。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "full-body"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, full-body]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13736",
+      "13807",
+      "14007",
+      "14250",
+      "14620",
+      "14978"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "15601",
+  "prompt": "Luxury feminine skincare advertisement, vertical 9:16 composition, ultra-realistic studio beauty product shot with dreamy soft focus and warm golden morning sunlight. Center a single elegant pump bottle serum in the foreground on a fluffy lavender-purple faux fur surface. The bottle is translucent pastel lavender glass with a shiny metallic gold pump and collar, premium glossy reflections, soft shadows, and subtle sparkle in the liquid. The front label reads {argument name=\"brand name\" default=\"LUMIÈRE\"} in gold serif lettering, with smaller text below reading {argument name=\"product name\" default=\"RADIANCE ELIXIR\"}, then “NOURISH • HYDRATE • GLOW” and “FOR SOFT, SMOOTH & GLOWING SKIN,” plus tiny size text at the bottom. Surround the bottle with a luxurious vanity setup: an ornate vintage mirror in the background, 1 ribbed glass candle jar with a lit flame on the lower left, 1 faceted glass perfume bottle with a gold neck on the right, strings of cream pearls draped across the surface, and airy white baby’s breath flowers framing both sides and the lower right foreground. Use a soft beige and blush background with creamy bokeh and a cozy high-end beauty branding mood.\n\nAdd cute white and purple hand-drawn doodle elements: exactly 3 heart doodles, 2 sparkle/star doodles, 1 small zigzag doodle, 1 curved arrow pointing toward the bottle, and 2 short accent line clusters above the headline. Add exactly 4 handwritten paper-note stickers with torn edges and taped scrapbook styling: left note says “Self care ♡ Everyday”, upper-right note says “For Soft, Smooth & Glowing Skin.♡”, lower-right note says “Radiant Confident You ♡”, and a purple heart-shaped sticker near the candle says “Glow is my favorite color ♡”. Place large hand-lettered headline text across the upper half reading {argument name=\"headline text\" default=\"Glowy Skin In A Bottle\"} in white brush-script with a soft lavender outline or glow. Beneath it, place a horizontal lavender paint-stroke banner with the subheading {argument name=\"tagline text\" default=\"Nourish • Hydrate • Glow\"} in white handwritten lettering. Clean composition, premium soft feminine branding, Instagram/TikTok-friendly viral beauty ad style, polished editorial product photography, pastel purple and gold color palette, cozy glamorous atmosphere.",
+  "translatedPrompt": "奢华女性护肤品广告，9:16 竖屏构图，超写实摄影棚美妆产品特写，带有梦幻般的柔焦效果和温暖的金色晨光。画面中央前景处放置一瓶优雅的按压式精华液，置于蓬松的薰衣草紫人造毛皮表面上。瓶身为半透明淡紫色玻璃材质，配有闪亮的金属金泵头和瓶颈，具有高级的光泽反射、柔和的阴影以及液体中细微的闪光。正面标签上用金色衬线字体印有 {argument name=\"brand name\" default=\"LUMIÈRE\"}，下方较小的文字为 {argument name=\"product name\" default=\"RADIANCE ELIXIR\"}，接着是“NOURISH • HYDRATE • GLOW”和“FOR SOFT, SMOOTH & GLOWING SKIN”，底部还有极小的规格文字。瓶身周围环绕着奢华的梳妆台布置：背景是一个华丽的复古镜子，左下方有一个点燃的罗纹玻璃蜡烛罐，右侧有一个带金颈的切面玻璃香水瓶，表面铺着一串奶油色珍珠，两侧及右下角前景点缀着轻盈的白色满天星。背景采用柔和的米色和腮红粉色，带有奶油般的虚化效果，营造出舒适的高端美妆品牌氛围。\n\n添加可爱的白色和紫色手绘涂鸦元素：正好 3 个心形涂鸦、2 个闪光/星星涂鸦、1 个小锯齿形涂鸦、1 个指向瓶身的弯曲箭头，以及标题上方 2 组短装饰线条。添加正好 4 个带有撕边效果和胶带剪贴簿风格的手写便签贴纸：左侧便签写着“Self care ♡ Everyday”，右上角便签写着“For Soft, Smooth & Glowing Skin.♡”，右下角便签写着“Radiant Confident You ♡”，蜡烛旁贴着一个紫色心形贴纸，写着“Glow is my favorite color ♡”。在上半部分放置醒目的大号手写标题文字 {argument name=\"headline text\" default=\"Glowy Skin In A Bottle\"}，采用白色笔刷字体，带有柔和的淡紫色轮廓或光晕。下方放置一个水平的淡紫色笔触横幅，上面写着副标题 {argument name=\"tagline text\" default=\"Nourish • Hydrate • Glow\"}，采用白色手写字体。构图简洁，具有高级柔美的品牌感，适合 Instagram/TikTok 的病毒式美妆广告风格，精致的编辑级产品摄影，淡紫色与金色配色方案，舒适而迷人的氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奢华薰衣草护肤品广告：一款高级淡紫色护肤品广告，配有手写涂鸦覆盖层和梳妆台道具，非常适合美妆品牌推广及社交媒体视觉宣传。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "editorial",
+        "vintage",
+        "luxury",
+        "premium",
+        "hand-drawn",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, editorial, vintage, luxury, premium, hand-drawn, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15447",
+      "15600",
+      "15776",
+      "14807",
+      "15081",
+      "15639"
+    ]
+  }
+}

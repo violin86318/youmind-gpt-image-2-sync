@@ -1,0 +1,46 @@
+{
+  "id": "13952",
+  "prompt": "{\n  \"type\": \"4-quadrant character design reference sheet\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"anime concept art, detailed character design sheet\\\"}\",\n  \"layout\": {\n    \"structure\": \"2x2 grid\",\n    \"quadrants\": [\n      {\n        \"position\": \"top-left\",\n        \"title\": \"{argument name=\\\"world title\\\" default=\\\"獣響界アルドラン - Aldran, the Beast-Sworn World\\\"}\",\n        \"sections\": [\n          { \"name\": \"Color Palette\", \"count\": 5, \"type\": \"swatches\" },\n          { \"name\": \"Height Scale\", \"count\": 4, \"type\": \"character silhouettes\" },\n          { \"name\": \"Character Intros\", \"count\": 4, \"type\": \"portraits with weapons\", \"labels\": [\"HC-01 カラス\", \"HC-02 ガルド\", \"HC-03 アイラ\", \"HC-04 シロ\"] },\n          { \"name\": \"Expressions\", \"count\": 4, \"type\": \"sets of 3 faces per character\" },\n          { \"name\": \"Physical Details\", \"count\": 4, \"type\": \"sets of 3 close-ups per character\" },\n          { \"name\": \"Party/Equipment\", \"count\": 3, \"type\": \"group and gear illustrations\" }\n        ]\n      },\n      {\n        \"position\": \"top-right\",\n        \"title\": \"{argument name=\\\"character 1 name\\\" default=\\\"ガルド (虎族)\\\"}\",\n        \"description\": \"Tiger-kin heavy warrior\",\n        \"sections\": [\n          { \"name\": \"Full Body\", \"count\": 3, \"labels\": [\"全身 正面\", \"全身 後面\", \"全身 左側面\"] },\n          { \"name\": \"3/4 View\", \"count\": 1, \"labels\": [\"三面図補助 (斜め前)\"] },\n          { \"name\": \"Expressions\", \"count\": 3, \"labels\": [\"通常 (平常時)\", \"戦闘時 (集中)\", \"稀な柔和 (信頼時)\"] },\n          { \"name\": \"Anatomy Details\", \"count\": 2, \"labels\": [\"耳の形状・内側の毛色\", \"尻尾の縞パターン\"] },\n          { \"name\": \"Equipment Details\", \"count\": 2, \"labels\": [\"右ポルドロン詳細\", \"右手のタリスマン / 手の特徴\"] },\n          { \"name\": \"Weapon\", \"count\": 1, \"labels\": [\"大剣「鋼嵐 (コウラン)」\"] },\n          { \"name\": \"Scale\", \"count\": 1, \"labels\": [\"スケール比較\"] }\n        ]\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"title\": \"{argument name=\\\"character 2 name\\\" default=\\\"シロ (白狐族)\\\"}\",\n        \"description\": \"White Fox-kin mage\",\n        \"sections\": [\n          { \"name\": \"Full Body\", \"count\": 3, \"labels\": [\"全身 正面\", \"全身 後面\", \"全身 左側面\"] },\n          { \"name\": \"3/4 View\", \"count\": 1, \"labels\": [\"三面図補助 (斜め前)\"] },\n          { \"name\": \"Expressions\", \"count\": 3, \"labels\": [\"通常 (静謐)\", \"魔力集中時\", \"稀な微笑み\"] },\n          { \"name\": \"Anatomy Details\", \"count\": 2, \"labels\": [\"尻尾の配置\", \"耳の形状\"] },\n          { \"name\": \"Equipment Details\", \"count\": 2, \"labels\": [\"袖内側の封印紋様\", \"衣装ディテール / 足元\"] },\n          { \"name\": \"Weapon\", \"count\": 1, \"labels\": [\"魔杖「灯魂杖 (トコンジョウ)」\"] },\n          { \"name\": \"Scale\", \"count\": 1, \"labels\": [\"スケール比較\"] }\n        ]\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"title\": \"{argument name=\\\"character 3 name\\\" default=\\\"カラス (狼族)\\\"}\",\n        \"description\": \"Wolf-kin protagonist\",\n        \"sections\": [\n          { \"name\": \"Full Body\", \"count\": 3, \"labels\": [\"全身 正面\", \"全身 後面\", \"全身 左側面\"] },\n          { \"name\": \"3/4 View\", \"count\": 1, \"labels\": [\"三面図補助 (斜め前)\"] },\n          { \"name\": \"Expressions\", \"count\": 3, \"labels\": [\"通常 (警戒)\", \"戦闘集中\", \"稀なリラックス\"] },\n          { \"name\": \"Anatomy Details\", \"count\": 2, \"labels\": [\"耳の可動状態\", \"尾の先端テクスチャ\"] },\n          { \"name\": \"Equipment Details\", \"count\": 3, \"labels\": [\"旅装クローク着用\", \"戦闘態勢\", \"装備ディテール / ブーツ裏面デザイン\"] },\n          { \"name\": \"Weapon\", \"count\": 1, \"labels\": [\"武器「牙斬 (キバキリ)」\"] },\n          { \"name\": \"Scale\", \"count\": 1, \"labels\": [\"スケール比較\"] }\n        ]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"四象限角色设计参考表\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"动漫概念艺术，精细角色设计表\\\"}\",\n  \"layout\": {\n    \"structure\": \"2x2 网格\",\n    \"quadrants\": [\n      {\n        \"position\": \"左上\",\n        \"title\": \"{argument name=\\\"world title\\\" default=\\\"獣響界アルドラン - 兽响界 Aldran\\\"}\",\n        \"sections\": [\n          { \"name\": \"配色方案\", \"count\": 5, \"type\": \"色卡\" },\n          { \"name\": \"身高比例\", \"count\": 4, \"type\": \"角色剪影\" },\n          { \"name\": \"角色介绍\", \"count\": 4, \"type\": \"持武器肖像\", \"labels\": [\"HC-01 卡拉斯 (Karasu)\", \"HC-02 加尔德 (Gardo)\", \"HC-03 艾拉 (Aira)\", \"HC-04 希罗 (Shiro)\"] },\n          { \"name\": \"表情\", \"count\": 4, \"type\": \"每位角色 3 种表情\" },\n          { \"name\": \"身体细节\", \"count\": 4, \"type\": \"每位角色 3 处特写\" },\n          { \"name\": \"队伍/装备\", \"count\": 3, \"type\": \"团队与装备插图\" }\n        ]\n      },\n      {\n        \"position\": \"右上\",\n        \"title\": \"{argument name=\\\"character 1 name\\\" default=\\\"加尔德 (虎族)\\\"}\",\n        \"description\": \"虎族重装战士\",\n        \"sections\": [\n          { \"name\": \"全身\", \"count\": 3, \"labels\": [\"全身 正面\", \"全身 背面\", \"全身 左侧面\"] },\n          { \"name\": \"3/4 视图\", \"count\": 1, \"labels\": [\"三视图辅助 (斜前)\"] },\n          { \"name\": \"表情\", \"count\": 3, \"labels\": [\"通常 (平常)\", \"战斗 (专注)\", \"罕见柔和 (信任)\"] },\n          { \"name\": \"身体细节\", \"count\": 2, \"labels\": [\"耳朵形状与内侧毛色\", \"尾巴条纹图案\"] },\n          { \"name\": \"装备细节\", \"count\": 2, \"labels\": [\"右肩甲细节\", \"右手护身符 / 手部特征\"] },\n          { \"name\": \"武器\", \"count\": 1, \"labels\": [\"大剑“钢岚 (Kouran)”\"] },\n          { \"name\": \"比例\", \"count\": 1, \"labels\": [\"比例尺对比\"] }\n        ]\n      },\n      {\n        \"position\": \"左下\",\n        \"title\": \"{argument name=\\\"character 2 name\\\" default=\\\"希罗 (白狐族)\\\"}\",\n        \"description\": \"白狐族法师\",\n        \"sections\": [\n          { \"name\": \"全身\", \"count\": 3, \"labels\": [\"全身 正面\", \"全身 背面\", \"全身 左侧面\"] },\n          { \"name\": \"3/4 视图\", \"count\": 1, \"labels\": [\"三视图辅助 (斜前)\"] },\n          { \"name\": \"表情\", \"count\": 3, \"labels\": [\"通常 (静谧)\", \"魔力集中时\", \"罕见微笑\"] },\n          { \"name\": \"身体细节\", \"count\": 2, \"labels\": [\"尾巴布局\", \"耳朵形状\"] },\n          { \"name\": \"装备细节\", \"count\": 2, \"labels\": [\"袖内封印纹样\", \"服装细节 / 足部\"] },\n          { \"name\": \"武器\", \"count\": 1, \"labels\": [\"魔杖“灯魂杖 (Tokonjou)”\"] },\n          { \"name\": \"比例\", \"count\": 1, \"labels\": [\"比例尺对比\"] }\n        ]\n      },\n      {\n        \"position\": \"右下\",\n        \"title\": \"{argument name=\\\"character 3 name\\\" default=\\\"卡拉斯 (狼族)\\\"}\",\n        \"description\": \"狼族主角\",\n        \"sections\": [\n          { \"name\": \"全身\", \"count\": 3, \"labels\": [\"全身 正面\", \"全身 背面\", \"全身 左侧面\"] },\n          { \"name\": \"3/4 视图\", \"count\": 1, \"labels\": [\"三视图辅助 (斜前)\"] },\n          { \"name\": \"表情\", \"count\": 3, \"labels\": [\"通常 (警惕)\", \"战斗专注\", \"罕见放松\"] },\n          { \"name\": \"身体细节\", \"count\": 2, \"labels\": [\"耳朵活动状态\", \"尾尖纹理\"] },\n          { \"name\": \"装备细节\", \"count\": 3, \"labels\": [\"旅行斗篷\", \"战斗姿态\", \"装备细节 / 靴底设计\"] },\n          { \"name\": \"武器\", \"count\": 1, \"labels\": [\"武器“牙斩 (Kibakiri)”\"] },\n          { \"name\": \"比例\", \"count\": 1, \"labels\": [\"比例尺对比\"] }\n        ]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "四象限 RPG 角色设计表：一份高度详细、包含多角色的参考表，分为四个象限，展示了世界观概览以及三位角色的深度设定，包括三视图、表情和装备细节。",
+      "subject": "人物",
+      "scene": "综合视觉",
+      "composition": [
+        "close-up",
+        "grid",
+        "2x2"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "风格对比、产品系列、前后对照、角色变体",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 综合视觉 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, grid, 2x2]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14639",
+      "14192",
+      "14492",
+      "14162",
+      "14519",
+      "14521"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "13894",
+  "prompt": "{\n  \"type\": \"{argument name=\\\"layout style\\\" default=\\\"2x2 grid infographic\\\"}\",\n  \"panels\": [\n    {\n      \"position\": \"top-left\",\n      \"title\": \"{argument name=\\\"animal one\\\" default=\\\"ヒマラヤマーモット\\\"}\",\n      \"image_description\": \"Himalayan marmot sitting on rocks with a snowy mountain background\",\n      \"text_content\": \"Detailed biological facts including distribution, habitat, diet, behavior, sociality, hibernation, and characteristics\",\n      \"icon_count\": 4,\n      \"icons\": [\n        {\"color\": \"blue\", \"symbol\": \"mountain\", \"label\": \"高山性\"},\n        {\"color\": \"brown\", \"symbol\": \"cave\", \"label\": \"巣穴生活\"},\n        {\"color\": \"yellow\", \"symbol\": \"sun\", \"label\": \"昼行性\"},\n        {\"color\": \"blue\", \"symbol\": \"snowflake\", \"label\": \"長期冬眠\"}\n      ]\n    },\n    {\n      \"position\": \"top-right\",\n      \"title\": \"{argument name=\\\"animal two\\\" default=\\\"ウォンバット\\\"}\",\n      \"image_description\": \"Wombat standing on dirt ground\",\n      \"text_content\": \"Detailed biological facts including distribution, habitat, diet, behavior, digging ability, excretion, defense, and reproduction\",\n      \"icon_count\": 4,\n      \"icons\": [\n        {\"color\": \"purple\", \"symbol\": \"moon\", \"label\": \"夜行性\"},\n        {\"color\": \"brown\", \"symbol\": \"digging animal\", \"label\": \"穴掘り名人\"},\n        {\"color\": \"green\", \"symbol\": \"leaf\", \"label\": \"草食\"},\n        {\"color\": \"brown\", \"symbol\": \"acorn\", \"label\": \"有袋類\"}\n      ]\n    },\n    {\n      \"position\": \"bottom-left\",\n      \"title\": \"{argument name=\\\"animal three\\\" default=\\\"レッサーパンダ\\\"}\",\n      \"image_description\": \"Red panda resting on a mossy tree branch\",\n      \"text_content\": \"Detailed biological facts including distribution, habitat, diet, behavior, physical characteristics, sociality, conservation, and charm\",\n      \"icon_count\": 4,\n      \"icons\": [\n        {\"color\": \"green\", \"symbol\": \"tree\", \"label\": \"樹上生活\"},\n        {\"color\": \"green\", \"symbol\": \"bamboo\", \"label\": \"竹を食べる\"},\n        {\"color\": \"orange\", \"symbol\": \"tail\", \"label\": \"長い尾\"},\n        {\"color\": \"green\", \"symbol\": \"mountain\", \"label\": \"山地森林\"}\n      ]\n    },\n    {\n      \"position\": \"bottom-right\",\n      \"title\": \"{argument name=\\\"animal four\\\" default=\\\"ハイラックス\\\"}\",\n      \"image_description\": \"Rock hyrax standing on a rocky outcrop\",\n      \"text_content\": \"Detailed biological facts including distribution, habitat, diet, behavior, sociality, mobility, taxonomy, and characteristics\",\n      \"icon_count\": 4,\n      \"icons\": [\n        {\"color\": \"grey\", \"symbol\": \"rock\", \"label\": \"岩場適応\"},\n        {\"color\": \"purple\", \"symbol\": \"group of people\", \"label\": \"群れ生活\"},\n        {\"color\": \"yellow\", \"symbol\": \"sun\", \"label\": \"昼行性\"},\n        {\"color\": \"orange\", \"symbol\": \"sun\", \"label\": \"日光浴\"}\n      ]\n    }\n  ],\n  \"styling\": {\n    \"layout\": \"4 equal quadrants separated by white borders\",\n    \"text_panel\": \"Semi-transparent white vertical rectangle on the right side of each quadrant\",\n    \"typography\": \"Large bold Japanese title at the top left of each quadrant, dense informational text in the white panel\",\n    \"icon_style\": \"Row of 4 circular colored icons with white silhouettes and black text labels placed at the bottom edge of each quadrant\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"{argument name=\\\"layout style\\\" default=\\\"2x2 网格信息图\\\"}\",\n  \"panels\": [\n    {\n      \"position\": \"左上\",\n      \"title\": \"{argument name=\\\"animal one\\\" default=\\\"喜马拉雅旱獭\\\"}\",\n      \"image_description\": \"喜马拉雅旱獭坐在岩石上，背景为雪山\",\n      \"text_content\": \"详细的生物学事实，包括分布、栖息地、饮食、行为、社会性、冬眠和特征\",\n      \"icon_count\": 4,\n      \"icons\": [\n        {\"color\": \"blue\", \"symbol\": \"mountain\", \"label\": \"高山性\"},\n        {\"color\": \"brown\", \"symbol\": \"cave\", \"label\": \"穴居生活\"},\n        {\"color\": \"yellow\", \"symbol\": \"sun\", \"label\": \"昼行性\"},\n        {\"color\": \"blue\", \"symbol\": \"snowflake\", \"label\": \"长期冬眠\"}\n      ]\n    },\n    {\n      \"position\": \"右上\",\n      \"title\": \"{argument name=\\\"animal two\\\" default=\\\"袋熊\\\"}\",\n      \"image_description\": \"袋熊站在泥地上\",\n      \"text_content\": \"详细的生物学事实，包括分布、栖息地、饮食、行为、挖掘能力、排泄、防御和繁殖\",\n      \"icon_count\": 4,\n      \"icons\": [\n        {\"color\": \"purple\", \"symbol\": \"moon\", \"label\": \"夜行性\"},\n        {\"color\": \"brown\", \"symbol\": \"digging animal\", \"label\": \"挖掘高手\"},\n        {\"color\": \"green\", \"symbol\": \"leaf\", \"label\": \"草食性\"},\n        {\"color\": \"brown\", \"symbol\": \"acorn\", \"label\": \"有袋类\"}\n      ]\n    },\n    {\n      \"position\": \"左下\",\n      \"title\": \"{argument name=\\\"animal three\\\" default=\\\"小熊猫\\\"}\",\n      \"image_description\": \"小熊猫在长满苔藓的树枝上休息\",\n      \"text_content\": \"详细的生物学事实，包括分布、栖息地、饮食、行为、身体特征、社会性、保护状况和魅力点\",\n      \"icon_count\": 4,\n      \"icons\": [\n        {\"color\": \"green\", \"symbol\": \"tree\", \"label\": \"树栖生活\"},\n        {\"color\": \"green\", \"symbol\": \"bamboo\", \"label\": \"以竹为食\"},\n        {\"color\": \"orange\", \"symbol\": \"tail\", \"label\": \"长尾巴\"},\n        {\"color\": \"green\", \"symbol\": \"mountain\", \"label\": \"山地森林\"}\n      ]\n    },\n    {\n      \"position\": \"右下\",\n      \"title\": \"{argument name=\\\"animal four\\\" default=\\\"蹄兔\\\"}\",\n      \"image_description\": \"蹄兔站在岩石露头上\",\n      \"text_content\": \"详细的生物学事实，包括分布、栖息地、饮食、行为、社会性、移动能力、分类和特征\",\n      \"icon_count\": 4,\n      \"icons\": [\n        {\"color\": \"grey\", \"symbol\": \"rock\", \"label\": \"岩石适应性\"},\n        {\"color\": \"purple\", \"symbol\": \"group of people\", \"label\": \"群居生活\"},\n        {\"color\": \"yellow\", \"symbol\": \"sun\", \"label\": \"昼行性\"},\n        {\"color\": \"orange\", \"symbol\": \"sun\", \"label\": \"日光浴\"}\n      ]\n    }\n  ],\n  \"styling\": {\n    \"layout\": \"由白色边框分隔的 4 个等分象限\",\n    \"text_panel\": \"每个象限右侧的半透明白色垂直矩形\",\n    \"typography\": \"每个象限左上角的大号加粗中文标题，白色面板内为密集的详细信息文本\",\n    \"icon_style\": \"每个象限底部边缘排列的 4 个彩色圆形图标，内含白色剪影和黑色文字标签\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "4 格动物信息图网格：生成 2x2 网格的动物信息图，每格包含一张照片、详细的文字介绍和四个描述性图标。",
+      "subject": "人物",
+      "scene": "信息图/图解",
+      "composition": [
+        "grid",
+        "2x2",
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, 2x2, vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15660",
+      "15664",
+      "13780",
+      "14184",
+      "14189",
+      "14465"
+    ]
+  }
+}

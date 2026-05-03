@@ -1,0 +1,50 @@
+{
+  "id": "15748",
+  "prompt": "A cinematic, ultra-detailed noir-style scene of 7 anthropomorphic domestic cats gathered around a round green felt poker table in a dim, smoky backroom bar. The central cat is the boss: a serious tabby wearing a dark pinstripe suit, white shirt, tie, black fedora, and black sunglasses, calmly smoking a thick cigar with dramatic smoke curling upward into the overhead lamp. Around him sit 6 other cats, each holding playing cards and dressed like underworld gamblers: on the far left a gray tabby in a textured flat cap and round dark sunglasses; next a ginger cat in a dark fedora, chunky gold chain, and dark glasses; to the right of center a fluffy gray cat in a brown fedora; further right a white-and-tabby cat in a dark New York Yankees baseball cap and pendant necklace; in the near right foreground a striped cat in a fedora and sunglasses seen in profile; all styled as mobsters. The table is crowded with exact poker details: 7 cats total, each with cards in paw, multiple stacks of red, blue, white, and black poker chips, scattered US dollar bills, a short whiskey glass in the front right, and 5 community cards face up in the middle. Use warm amber overhead lighting from a single large hanging lamp, deep shadows, richly textured fur, realistic whiskers, reflective sunglasses, and dense atmospheric cigar smoke. Background should be a dark wood-paneled gambling den with framed vintage posters and signs including a large poker poster on the left and an \"ALL IN OR FOLD\" sign on the right, plus bottles on shelves. Composition is eye-level and slightly wide-angle, centered on the smoking cat, with a gritty, luxurious gangster mood, photorealistic, dramatic depth, high contrast, and filmic color grading.",
+  "translatedPrompt": "一个电影级、超细节的黑色电影风格场景，7 只拟人化的家猫围坐在圆形的绿色毛毡扑克桌旁，身处昏暗且烟雾缭绕的地下酒吧。中间的猫是老大：一只表情严肃的虎斑猫，身穿深色细条纹西装、白衬衫、系着领带，戴着黑色软呢帽和黑色墨镜，正从容地抽着一支粗雪茄，戏剧性的烟雾向上缭绕至头顶的灯具。周围坐着另外 6 只猫，它们都手持扑克牌，打扮得像黑社会赌徒：最左边是一只戴着质感鸭舌帽和圆形墨镜的灰虎斑猫；旁边是一只戴着深色软呢帽、粗金链和墨镜的姜黄色猫；中心右侧是一只戴着棕色软呢帽的毛茸茸灰猫；再往右是一只戴着深色纽约洋基队棒球帽和吊坠项链的白虎斑猫；右前方近处是一只戴着软呢帽和墨镜的侧身条纹猫；所有猫都呈现出黑帮造型。桌上堆满了精确的扑克细节：总共 7 只猫，每只猫爪中都拿着牌，桌上有成堆的红、蓝、白、黑筹码，散落的美元钞票，右前方放着一个威士忌酒杯，中间面朝上摆放着 5 张公共牌。使用来自上方单盏大吊灯的温暖琥珀色灯光，营造出深邃的阴影、质感丰富的毛发、逼真的胡须、反光的墨镜以及浓郁的雪茄烟雾氛围。背景应为一个深色木镶板的赌博窝点，墙上挂着复古海报和标志，包括左侧的一张大型扑克海报和右侧写有“ALL IN OR FOLD”的标牌，架子上还摆放着酒瓶。构图为平视视角且略带广角，以抽雪茄的猫为中心，营造出粗粝而奢华的黑帮氛围，具有照片级真实感、戏剧性的景深、高对比度以及电影级的色彩分级。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "黑帮猫咪打扑克：一个电影级超写实提示词，用于创作七只黑帮猫咪在昏暗地下牌室打扑克的黑色电影风格场景。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "vintage"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, vintage]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14652",
+      "15012",
+      "14545",
+      "15412",
+      "14850",
+      "15099"
+    ]
+  }
+}

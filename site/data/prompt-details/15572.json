@@ -1,0 +1,35 @@
+{
+  "id": "15572",
+  "prompt": "左下の{argument name=\"被写体\" default=\"ラーメン\"}画像を元に、まるで{argument name=\"店舗\" default=\"ラーメン屋\"}でランチ中に{argument name=\"用途\" default=\"instagramに載せる用\"}の写真を取ったような写真を生成して　n=4",
+  "translatedPrompt": "基于左下角的 {argument name=\"subject\" default=\"拉面\"} 图片，生成一张看起来像是为 {argument name=\"purpose\" default=\"午餐时段的 Instagram\"} 而拍摄的照片，地点位于 {argument name=\"location\" default=\"拉面店\"} n=4",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "逼真的社交媒体美食摄影：基于食物参考图生成一张休闲的 Instagram 风格午餐照片，模拟真实餐厅环境的视觉效果。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "15791",
+  "prompt": "A whimsical, photorealistic action shot of a penguin riding a carnival roller coaster in broad daylight. The penguin is centered in the frame, black and white with a sleek body, wearing a bright red safety helmet and blue wraparound goggles, beak wide open in an excited scream, with both flippers stretched outward like it is enjoying the ride. The roller coaster car is small and glossy black with vivid yellow-to-orange flame graphics along the sides and a silver safety bar across the front. The car is tipping down a steep curve on a bright orange track in the left foreground, creating strong motion and energy. In the background, show a colorful county fair with rainbow-striped tents, a large Ferris wheel lit with multicolored lights, tall amusement rides, and a pink cotton candy stand with a visible “COTTON CANDY” sign. Use a shallow depth of field and slight motion blur in the background to emphasize speed, while keeping the penguin and coaster car sharp. Bright saturated colors, playful surreal humor, dynamic composition, sunny outdoor fairground atmosphere, high detail, cinematic realism.",
+  "translatedPrompt": "一张充满奇趣、写实的动作捕捉照片，画面中一只企鹅在光天化日之下乘坐嘉年华过山车。企鹅位于画面中心，黑白相间的身体线条流畅，戴着鲜红色的安全头盔和蓝色环绕式护目镜，喙部大张，仿佛在兴奋地尖叫，双鳍向外伸展，尽情享受着乘骑的乐趣。过山车车厢小巧且呈亮黑色，侧面绘有生动的黄橙色火焰图案，前方设有银色安全杆。车厢正沿着明亮的橙色轨道向下俯冲，位于画面左前方，营造出强烈的动感与活力。背景展示了一个色彩缤纷的乡村集市，包括彩虹条纹帐篷、亮着五彩灯光的大型摩天轮、高耸的游乐设施，以及一个带有明显“COTTON CANDY”标志的粉色棉花糖摊位。使用浅景深效果，背景带有轻微的动态模糊以强调速度感，同时保持企鹅和过山车车厢清晰锐利。色彩明亮饱和，充满超现实的幽默感，构图动态十足，呈现出阳光明媚的户外游乐场氛围，细节丰富，具有电影般的写实感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "嘉年华过山车上的企鹅：此提示词可生成一张幽默且写实的游乐园场景图，画面中一只兴奋的企鹅正乘坐着绘有火焰图案的过山车，非常适合用于制作病毒式传播的超现实图像和趣味 AI 艺术作品。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14831",
+      "15778",
+      "14372",
+      "14806",
+      "15419",
+      "15410"
+    ]
+  }
+}

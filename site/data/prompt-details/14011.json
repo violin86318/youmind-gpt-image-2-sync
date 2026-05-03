@@ -1,0 +1,45 @@
+{
+  "id": "14011",
+  "prompt": "{\n  \"type\": \"corporate presentation slide\",\n  \"theme\": \"high-tech, futuristic, dark mode, glowing neon blue and purple accents, abstract digital particle wave background\",\n  \"header\": {\n    \"title_primary\": \"{argument name=\\\"main chinese title\\\" default=\\\"业务影响\\\"}\",\n    \"title_secondary\": \"{argument name=\\\"main english title\\\" default=\\\"Business Impact\\\"}\",\n    \"tagline\": \"{argument name=\\\"tagline\\\" default=\\\"用数据说话，用结果证明价值\\\"}\"\n  },\n  \"layout\": {\n    \"left_section\": {\n      \"type\": \"line chart\",\n      \"title\": \"效率与产能提升趋势\",\n      \"y_axis\": [\"0%\", \"100%\", \"200%\", \"300%\", \"400%\", \"500%\", \"600%\"],\n      \"x_axis\": [\"Q1\", \"Q2\", \"Q3\", \"Q4\", \"现在\"],\n      \"lines\": [\n        {\n          \"label\": \"交付效率 (相对值)\",\n          \"color\": \"neon blue\",\n          \"trend\": \"upward curve\",\n          \"annotation\": \"效率持续提升\"\n        },\n        {\n          \"label\": \"单位成本 (相对值)\",\n          \"color\": \"neon purple\",\n          \"trend\": \"downward curve\",\n          \"annotation\": \"成本显著下降\"\n        }\n      ]\n    },\n    \"right_section\": {\n      \"type\": \"kpi grid\",\n      \"count\": 4,\n      \"arrangement\": \"2x2 grid\",\n      \"cards\": [\n        {\n          \"icon\": \"rocket\",\n          \"title\": \"效率提升\",\n          \"value\": \"{argument name=\\\"kpi 1 value\\\" default=\\\"+120%\\\"}\",\n          \"subtext\": \"交付效率显著提升\"\n        },\n        {\n          \"icon\": \"coins with down arrow\",\n          \"title\": \"成本降低\",\n          \"value\": \"{argument name=\\\"kpi 2 value\\\" default=\\\"-200%\\\"}\",\n          \"subtext\": \"单位交付成本下降\"\n        },\n        {\n          \"icon\": \"bar chart with up arrow\",\n          \"title\": \"产能提升\",\n          \"value\": \"5倍\",\n          \"subtext\": \"团队整体产能跃升\"\n        },\n        {\n          \"icon\": \"people group\",\n          \"title\": \"覆盖团队\",\n          \"value\": \"10个\",\n          \"subtext\": \"业务团队规模化受益\"\n        }\n      ]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"企业演示 Slides\",\n  \"theme\": \"高科技、未来感、深色模式、发光霓虹蓝与紫色点缀、抽象数字粒子波背景\",\n  \"header\": {\n    \"title_primary\": \"{argument name=\\\"main chinese title\\\" default=\\\"业务影响\\\"}\",\n    \"title_secondary\": \"{argument name=\\\"main english title\\\" default=\\\"Business Impact\\\"}\",\n    \"tagline\": \"{argument name=\\\"tagline\\\" default=\\\"用数据说话，用结果证明价值\\\"}\"\n  },\n  \"layout\": {\n    \"left_section\": {\n      \"type\": \"折线图\",\n      \"title\": \"效率与产能提升趋势\",\n      \"y_axis\": [\"0%\", \"100%\", \"200%\", \"300%\", \"400%\", \"500%\", \"600%\"],\n      \"x_axis\": [\"Q1\", \"Q2\", \"Q3\", \"Q4\", \"现在\"],\n      \"lines\": [\n        {\n          \"label\": \"交付效率 (相对值)\",\n          \"color\": \"霓虹蓝\",\n          \"trend\": \"上升曲线\",\n          \"annotation\": \"效率持续提升\"\n        },\n        {\n          \"label\": \"单位成本 (相对值)\",\n          \"color\": \"霓虹紫\",\n          \"trend\": \"下降曲线\",\n          \"annotation\": \"成本显著下降\"\n        }\n      ]\n    },\n    \"right_section\": {\n      \"type\": \"KPI 网格\",\n      \"count\": 4,\n      \"arrangement\": \"2x2 网格\",\n      \"cards\": [\n        {\n          \"icon\": \"火箭\",\n          \"title\": \"效率提升\",\n          \"value\": \"{argument name=\\\"kpi 1 value\\\" default=\\\"+120%\\\"}\",\n          \"subtext\": \"交付效率显著提升\"\n        },\n        {\n          \"icon\": \"带有向下箭头的硬币\",\n          \"title\": \"成本降低\",\n          \"value\": \"{argument name=\\\"kpi 2 value\\\" default=\\\"-200%\\\"}\",\n          \"subtext\": \"单位交付成本下降\"\n        },\n        {\n          \"icon\": \"带有向上箭头的柱状图\",\n          \"title\": \"产能提升\",\n          \"value\": \"5 倍\",\n          \"subtext\": \"团队整体产能跃升\"\n        },\n        {\n          \"icon\": \"人群\",\n          \"title\": \"覆盖团队\",\n          \"value\": \"10 个\",\n          \"subtext\": \"业务团队规模化受益\"\n        }\n      ]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "高科技企业 KPI 演示 Slides：生成一张极具未来感的深色主题演示 Slides，包含双线图表和 2x2 的 KPI 卡片网格，非常适合业务影响报告。",
+      "subject": "产品",
+      "scene": "综合视觉",
+      "composition": [
+        "grid",
+        "2x2"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "风格对比、产品系列、前后对照、角色变体",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 综合视觉 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, 2x2]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13480",
+      "14215",
+      "14221",
+      "15608",
+      "15728",
+      "14556"
+    ]
+  }
+}

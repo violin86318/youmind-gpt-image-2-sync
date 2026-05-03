@@ -1,0 +1,46 @@
+{
+  "id": "15436",
+  "prompt": "{\"type\":\"mecha character turnaround sheet\",\"subject\":{\"category\":\"humanoid combat robot\",\"design\":\"sleek biomechanical sci-fi exosuit with sharp angular armor plating and exposed mechanical joints\",\"primary color\":\"{argument name=\\\"armor color\\\" default=\\\"pale olive gray\\\"}\",\"secondary color\":\"dark graphite metal\",\"accent color\":\"tiny red sensor lights\",\"head\":{\"shape\":\"narrow armored helmet with a pointed faceplate and 2 long upward horn-like antennae\",\"eyes\":\"small glowing red visor-like sensors\"},\"torso\":{\"build\":\"broad armored chest with layered segmented plates and a tapered waist\",\"details\":\"dense pistons, cables, vents, and internal machinery visible between armor gaps\"},\"arms\":{\"right arm\":\"integrated long rifle-like weapon running along the forearm\",\"left arm\":\"hand plus a large elongated shield blade mounted along the forearm\"},\"legs\":{\"style\":\"digitigrade mechanical legs with heavy thigh armor, exposed knee mechanisms, and pointed armored feet\"},\"back\":{\"attachments\":\"2 long rear-mounted blade or fin appendages and a central spine-like backpack assembly\"}},\"layout\":{\"background\":\"plain light gray studio backdrop\",\"presentation\":\"clean concept art sheet\",\"views\":[{\"position\":\"left\",\"view\":\"front view\",\"count\":1},{\"position\":\"center\",\"view\":\"left side profile\",\"count\":1},{\"position\":\"right\",\"view\":\"back view\",\"count\":1}],\"total_views\":3},\"style\":{\"rendering\":\"high-detail industrial concept art\",\"linework\":\"precise hard-surface mechanical drawing with crisp edges\",\"surface\":\"worn matte armor with subtle scratches and panel seams\",\"lighting\":\"soft neutral even lighting\",\"composition\":\"full-body figures centered vertically with ample spacing between views\"}}",
+  "translatedPrompt": "{\"type\":\"机甲角色三视图\",\"subject\":{\"category\":\"人形战斗机器人\",\"design\":\"流线型生物机械科幻外骨骼，配有锋利的棱角装甲板和外露的机械关节\",\"primary color\":\"{argument name=\\\"armor color\\\" default=\\\"浅橄榄灰\\\"}\",\"secondary color\":\"深石墨金属色\",\"accent color\":\"微小的红色传感器灯\",\"head\":{\"shape\":\"窄型装甲头盔，带有尖头面罩和 2 个向上延展的长角状天线\",\"eyes\":\"小型发光红色护目镜式传感器\"},\"torso\":{\"build\":\"宽阔的装甲胸部，带有分层式装甲板和收窄的腰部\",\"details\":\"装甲缝隙间可见密集的活塞、线缆、通风口和内部机械结构\"},\"arms\":{\"right arm\":\"集成在小臂上的长步枪式武器\",\"left arm\":\"手部及安装在小臂上的大型长条形盾刃\"},\"legs\":{\"style\":\"趾行式机械腿，配有厚重的腿部装甲、外露的膝部机械结构和尖头装甲足\"},\"back\":{\"attachments\":\"2 个后置长刃或鳍状附属物，以及一个中央脊柱式背包组件\"}},\"layout\":{\"background\":\"纯浅灰色摄影棚背景\",\"presentation\":\"简洁的概念艺术图\",\"views\":[{\"position\":\"左\",\"view\":\"正面视图\",\"count\":1},{\"position\":\"中\",\"view\":\"左侧视图\",\"count\":1},{\"position\":\"右\",\"view\":\"背面视图\",\"count\":1}],\"total_views\":3},\"style\":{\"rendering\":\"高细节工业概念艺术\",\"linework\":\"精准的硬表面机械绘图，线条清晰锐利\",\"surface\":\"磨损的哑光装甲，带有细微划痕和面板接缝\",\"lighting\":\"柔和的中性均匀光照\",\"composition\":\"全身像垂直居中排列，视图间留有充足空间\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "科幻机甲三视图：一份详细的人形战斗机器人三视图概念图，适用于机甲设计、游戏概念艺术以及工业风科幻角色开发。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "full-body",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "sci-fi",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, full-body, layered, vertical]。\n\nVisual style:\n[参考风格: sci-fi, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15805",
+      "15090",
+      "15375",
+      "14527",
+      "15041",
+      "15091"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "14896",
+  "prompt": "A moody storybook-style digital painting of a {argument name=\"character age\" default=\"young girl\"} sitting sideways on a cushioned window seat inside an old European attic room, hugging her knees and gazing out through a large rain-streaked window. She has {argument name=\"hair color\" default=\"chestnut brown\"} slightly messy shoulder-length hair, a cozy oversized cable-knit sweater, and soft striped socks, with bare legs tucked close to her body. The composition is intimate and contemplative, viewed from inside the room at a slight angle, with the child placed in the lower left foreground and the rainy city filling the right side and background. Outside the window is a dense cluster of steep-roofed old town houses, chimneys, crooked rooftops, and 2 tall vintage street lamps visible near the window, all under a dramatic overcast sky with heavy layered storm clouds and visible falling rain. The glass is covered with raindrops, rivulets, and wet reflections, and the rooftops outside are mostly muted gray, while the interior glows with warm amber light from the left, creating a strong contrast between the cozy room and the cold storm outside. Include a patterned cushion behind her, a worn upholstered bench with subtle floral fabric, dark curtains framing the left edge, and soft painterly textures with detailed brushwork on wood, fabric, hair, and rain. Color palette: warm browns, beige, muted gold, slate gray, charcoal, and soft silver. Atmosphere: melancholic, quiet, nostalgic, cinematic, whimsical, and emotionally tender. Highly detailed, painterly illustration, children’s book fantasy realism, dramatic lighting, depth through layered rooftops, no text, no watermark.",
+  "translatedPrompt": "一幅充满情绪的绘本风格数字绘画，画面中一位 {argument name=\"character age\" default=\"小女孩\"} 侧身坐在老式欧洲阁楼房间的软垫窗台上，双膝相拥，凝视着窗外雨水冲刷的景象。她留着 {argument name=\"hair color\" default=\"栗棕色\"} 略显凌乱的齐肩短发，穿着一件舒适的超大号麻花针织毛衣和柔软的条纹袜，赤裸的双腿蜷缩在身体旁。构图亲密且富有沉思感，从室内侧向视角观察，女孩位于左下角前景，雨中的城市占据了右侧和背景。窗外是密集的尖顶老式联排房屋、烟囱、歪斜的屋顶，窗边可见 2 盏高大的复古路灯，天空阴沉，层叠的暴雨云层密布，雨水清晰可见。玻璃上布满了雨滴、水痕和湿润的倒影，窗外的屋顶多为柔和的灰色，而室内左侧则散发着温暖的琥珀色光芒，营造出温馨室内与寒冷风暴之间的强烈对比。画面包含她身后的花纹靠垫、带有精致花卉面料的磨损软垫长凳、勾勒左侧边缘的深色窗帘，以及在木材、织物、头发和雨水上呈现出细腻笔触的柔和绘画质感。调色板：暖棕色、米色、柔和金、板岩灰、炭黑色和柔和银色。氛围：忧郁、宁静、怀旧、电影感、奇幻且情感细腻。高度细节化，绘画风格插画，童书奇幻写实主义，戏剧性光影，通过层叠屋顶展现深度，无文字，无水印。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "雨中窗边的女孩：此提示词可生成一幅既温馨又带有一丝忧郁的绘画风格场景，描绘了一个孩子在老欧洲屋顶上空观看暴风雨的画面，非常适合绘本艺术或氛围感概念插画。",
+      "subject": "空间",
+      "scene": "海报/封面",
+      "composition": [
+        "layered"
+      ],
+      "style": [
+        "cinematic",
+        "vintage",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "dramatic lighting",
+        "overcast"
+      ],
+      "text": "禁止额外文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered]。\n\nVisual style:\n[参考风格: cinematic, vintage, fantasy]。\n\nLighting and camera:\n[参考光线镜头: dramatic lighting, overcast]。\n\nText requirements:\n禁止额外文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14439",
+      "15411",
+      "15715",
+      "15782",
+      "15634",
+      "14429"
+    ]
+  }
+}

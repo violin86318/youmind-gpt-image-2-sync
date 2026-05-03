@@ -1,0 +1,44 @@
+{
+  "id": "14230",
+  "prompt": "An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She has long {argument name=\"hair color\" default=\"pink with light blue inner highlights\"} hair, blue eyes, and wears black and white cat-ear headphones with a boom mic. She wears a white collared shirt with a black and pink star ribbon and a black choker, smiling with one hand near her chin. The background is a gaming room with {argument name=\"room lighting\" default=\"purple and blue neon\"} lighting, showing a desk equipped with 1 white keyboard, 1 mug, 1 glowing cat figure, 1 game controller, and 1 streaming microphone. The left side features large, bold, pop-art Japanese typography: a bright pink top word \"{argument name=\"main text line 1\" default=\"雑談\"}\" and a bright blue bottom word \"{argument name=\"main text line 2\" default=\"配信\"}\". Below is a pink banner reading \"{argument name=\"subtitle text\" default=\"今夜もゆるっとトーク!\"}\". A red \"LIVE\" badge sits in the top left. Floating speech bubbles, stars, and hearts decorate the composition.",
+  "translatedPrompt": "An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She has long {argument name=\"hair color\" default=\"pink with light blue inner highlights\"} hair, blue eyes, and wears black and white cat-ear headphones with a boom mic. She wears a white collared shirt with a black and pink star ribbon and a black choker, smiling with one hand near her chin. The background is a gaming room with {argument name=\"room lighting\" default=\"purple and blue neon\"} lighting, showing a desk equipped with 1 white keyboard, 1 mug, 1 glowing cat figure, 1 game controller, and 1 streaming microphone. The left side features large, bold, pop-art Japanese typography: a bright pink top word \"{argument name=\"main text line 1\" default=\"雑談\"}\" and a bright blue bottom word \"{argument name=\"main text line 2\" default=\"配信\"}\". Below is a pink banner reading \"{argument name=\"subtitle text\" default=\"今夜もゆるっとトーク!\"}\". A red \"LIVE\" badge sits in the top left. Floating speech bubbles, stars, and hearts decorate the composition.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "VTuber Stream Thumbnail：Generates an anime-style YouTube live stream thumbnail featuring a VTuber character, a gaming setup, and bold, customizable typography.",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14251",
+      "14613",
+      "14964",
+      "13877",
+      "13929",
+      "15024"
+    ]
+  }
+}

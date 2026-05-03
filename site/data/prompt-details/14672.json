@@ -1,0 +1,55 @@
+{
+  "id": "14672",
+  "prompt": "{\"type\":\"comic book page promotional infographic\",\"style\":\"bold modern comic-book art with thick black panel borders, saturated colors, halftone shading, dynamic speech bubbles, yellow caption boxes with black uppercase lettering, polished digital illustration\",\"format\":\"portrait page\",\"theme\":\"showcase what {argument name=\\\"product name\\\" default=\\\"GPT IMAGE 2\\\"} can do\",\"layout\":{\"grid\":{\"columns\":3,\"rows\":4},\"sections\":[{\"title\":\"header hero panel\",\"position\":\"top full width\",\"count\":4,\"labels\":[\"WHAT CAN GPT IMAGE 2 DO?\",\"GPT IMAGE 2 IS OPENAI'S MOST CAPABLE IMAGE MODEL YET—DELIVERING BEAUTIFUL, USEFUL, AND CREATIVE IMAGES FOR EVERY NEED!\",\"HERE ARE JUST SOME OF THE THINGS IT CAN DO!\",\"main character pointing upward\"]},{\"title\":\"1\",\"position\":\"row 2 left\",\"count\":3,\"labels\":[\"INCREDIBLE REALISM AND DETAIL\",\"photoreal alpine lake with rocky shore, pine forest, and snowy mountains\",\"STUNNINGLY REALISTIC IMAGES WITH RICH DETAIL, LIGHTING, AND TEXTURES.\"]},{\"title\":\"2\",\"position\":\"row 2 center\",\"count\":3,\"labels\":[\"ACCURATE TEXT RENDERING\",\"coffee shop sandwich board sign reading \\\"COFFEE MAKES EVERYTHING BETTER\\\" with a small coffee cup icon\",\"CLEAR, LEGIBLE TEXT IN SCENES, SIGNS, POSTERS, AND MORE.\"]},{\"title\":\"3\",\"position\":\"row 2 right\",\"count\":3,\"labels\":[\"COMPLEX SCENES AND COMPOSITION\",\"elaborate fantasy city of towers, bridges, cliffs, and waterfalls at sunset\",\"HANDLES BUSY, DETAILED SCENES WITH MULTIPLE ELEMENTS AND GREAT COMPOSITION.\"]},{\"title\":\"4\",\"position\":\"row 3 left\",\"count\":3,\"labels\":[\"ART STYLES AND CREATIVITY\",\"retro sci-fi desert scene with a lone astronaut under a huge moon, orange-red palette\",\"VERSATILE STYLES: CARTOON, ANIME, PAINTING, SKETCH, 3D, AND EVERYTHING IN BETWEEN.\"]},{\"title\":\"5\",\"position\":\"row 3 center\",\"count\":4,\"labels\":[\"CHARACTERS AND EXPRESSIONS\",\"one large portrait plus 3 smaller portrait variations\",\"EXPRESSIVE CHARACTERS WITH EMOTION, POSE, AND PERSONALITY.\",\"4 total face/expression panels\"]},{\"title\":\"6\",\"position\":\"row 3 right\",\"count\":3,\"labels\":[\"ACCURATE OBJECTS AND ENVIRONMENTS\",\"vintage camera beside a ceramic mug and an open illustrated book on a wooden table\",\"REAL-WORLD OBJECTS, PLACES, AND MATERIALS RENDERED WITH PRECISION.\"]},{\"title\":\"7\",\"position\":\"row 4 left\",\"count\":9,\"labels\":[\"FOLLOWING COMPLEX INSTRUCTIONS\",\"off-grid cabin plan illustration\",\"SOLAR PANELS\",\"RAINWATER COLLECTION\",\"LOFT BEDROOM\",\"WOOD STOVE\",\"COMPOST TOILET\",\"STORAGE\",\"FOLD-DOWN TABLE + DESK\"]},{\"title\":\"8\",\"position\":\"row 4 center\",\"count\":3,\"labels\":[\"CONSISTENCY AND ITERATION\",\"4 lighthouse image variations shown side-by-side from day to night lighting consistency\",\"MAINTAINS CONSISTENCY ACROSS VARIATIONS AND ITERATIONS.\"]},{\"title\":\"closing panel\",\"position\":\"row 4 right\",\"count\":4,\"labels\":[\"FROM IDEAS TO MASTERPIECES, GPT IMAGE 2 HELPS YOU BRING ANY VISION TO LIFE.\",\"IMAGINE IT! CREATE IT! SHARE IT!\",\"THE ONLY LIMIT IS YOUR IMAGINATION!\",\"main character giving thumbs up\"]}]},\"character\":{\"role\":\"friendly comic host\",\"appearance\":\"young woman with short dark hair, dark hoodie over a gray shirt, expressive pose\",\"placements\":[\"top header panel, half-body, pointing upward\",\"bottom-right closing panel, half-body, thumbs up\"]},\"typography\":{\"headline\":\"large explosive comic title in a white starburst with black outline and orange gradient emphasis on {argument name=\\\"headline wordmark\\\" default=\\\"GPT IMAGE 2\\\"}\",\"caption_boxes\":\"yellow rectangular boxes with black borders and uppercase comic lettering\",\"speech_bubbles\":\"white speech bubbles with black outline and uppercase comic text\"},\"color_palette\":{\"primary\":\"comic blue, yellow, orange, black, and white\",\"accents\":\"warm sunset fantasy tones, cool photoreal blues, sepia object-study browns\"},\"text\":{\"main_title\":\"WHAT CAN {argument name=\\\"product name\\\" default=\\\"GPT IMAGE 2\\\"} DO?\",\"intro_bubble\":\"GPT IMAGE 2 IS OPENAI'S MOST CAPABLE IMAGE MODEL YET—DELIVERING BEAUTIFUL, USEFUL, AND CREATIVE IMAGES FOR EVERY NEED!\",\"top_right_bubble\":\"HERE ARE JUST SOME OF THE THINGS IT CAN DO!\",\"closing_box\":\"FROM IDEAS TO MASTERPIECES, GPT IMAGE 2 HELPS YOU BRING ANY VISION TO LIFE.\",\"burst_text\":\"{argument name=\\\"callout text\\\" default=\\\"IMAGINE IT! CREATE IT! SHARE IT!\\\"}\",\"final_bubble\":\"THE ONLY LIMIT IS YOUR IMAGINATION!\"},\"rendering_notes\":\"clean readable embedded text, balanced comic page composition, each panel visually distinct, high detail, professional editorial poster/comic hybrid, no watermarks\"}",
+  "translatedPrompt": "{\"type\":\"漫画书页宣传信息图\",\"style\":\"大胆的现代漫画艺术风格，带有粗黑边框、饱和色彩、网点阴影、动态对话气泡、带有黑色大写字母的黄色标题框、精致的数字插画\",\"format\":\"竖版页面\",\"theme\":\"展示 {argument name=\\\"product name\\\" default=\\\"GPT IMAGE 2\\\"} 的功能\",\"layout\":{\"grid\":{\"columns\":3,\"rows\":4},\"sections\":[{\"title\":\"顶部主图面板\",\"position\":\"顶部全宽\",\"count\":4,\"labels\":[\"GPT IMAGE 2 能做什么？\",\"GPT IMAGE 2 是 OpenAI 迄今为止能力最强的图像模型——为各种需求提供精美、实用且富有创意的图像！\",\"以下仅是它能实现的部分功能！\",\"主角向上指引\"]},{\"title\":\"1\",\"position\":\"第 2 行左侧\",\"count\":3,\"labels\":[\"令人难以置信的写实感与细节\",\"带有岩石海岸、松树林和雪山的逼真高山湖泊\",\"具有丰富细节、光影和纹理的惊人写实图像。\"]},{\"title\":\"2\",\"position\":\"第 2 行中央\",\"count\":3,\"labels\":[\"精准的文本渲染\",\"咖啡店三明治板招牌，上面写着 \\\"COFFEE MAKES EVERYTHING BETTER\\\"，带有一个小咖啡杯图标\",\"在场景、招牌、海报等中呈现清晰易读的文本。\"]},{\"title\":\"3\",\"position\":\"第 2 行右侧\",\"count\":3,\"labels\":[\"复杂的场景与构图\",\"日落时分由塔楼、桥梁、悬崖和瀑布组成的精致奇幻城市\",\"处理包含多个元素且构图精良的复杂、细节丰富的场景。\"]},{\"title\":\"4\",\"position\":\"第 3 行左侧\",\"count\":3,\"labels\":[\"艺术风格与创造力\",\"复古科幻沙漠场景，巨大的月亮下有一位孤独的宇航员，橙红色调\",\"多样的风格：卡通、动漫、绘画、素描、3D 以及介于两者之间的所有风格。\"]},{\"title\":\"5\",\"position\":\"第 3 行中央\",\"count\":4,\"labels\":[\"角色与表情\",\"一张大肖像加上 3 张较小的肖像变体\",\"富有情感、姿态和个性的表现力角色。\",\"共 4 个面部/表情面板\"]},{\"title\":\"6\",\"position\":\"第 3 行右侧\",\"count\":3,\"labels\":[\"精准的物体与环境\",\"木桌上放着复古相机、陶瓷马克杯和一本打开的插画书\",\"精准渲染现实世界的物体、地点和材质。\"]},{\"title\":\"7\",\"position\":\"第 4 行左侧\",\"count\":9,\"labels\":[\"遵循复杂指令\",\"离网小屋平面图插画\",\"太阳能电池板\",\"雨水收集\",\"阁楼卧室\",\"燃木炉\",\"堆肥厕所\",\"储物空间\",\"折叠桌 + 书桌\"]},{\"title\":\"8\",\"position\":\"第 4 行中央\",\"count\":3,\"labels\":[\"一致性与迭代\",\"4 个灯塔图像变体并排展示，从白天到夜晚的光照一致性\",\"在变体和迭代中保持一致性。\"]},{\"title\":\"结尾面板\",\"position\":\"第 4 行右侧\",\"count\":4,\"labels\":[\"从创意到杰作，GPT IMAGE 2 助你将任何愿景变为现实。\",\"想象它！创造它！分享它！\",\"唯一的限制就是你的想象力！\",\"主角竖起大拇指\"]}]},\"character\":{\"role\":\"友好的漫画主持人\",\"appearance\":\"留着短黑发的年轻女性，灰色衬衫外搭深色连帽衫，表情生动\",\"placements\":[\"顶部标题面板，半身像，向上指引\",\"右下角结尾面板，半身像，竖起大拇指\"]},\"typography\":{\"headline\":\"大型爆炸式漫画标题，位于白色星爆框内，带有黑色轮廓和橙色渐变，强调 {argument name=\\\"headline wordmark\\\" default=\\\"GPT IMAGE 2\\\"}\",\"caption_boxes\":\"带有黑色边框和大写漫画字体字母的黄色矩形框\",\"speech_bubbles\":\"带有黑色轮廓和大写漫画文本的白色对话气泡\"},\"color_palette\":{\"primary\":\"漫画蓝、黄、橙、黑和白色\",\"accents\":\"温暖的日落奇幻色调、冷色调的写实蓝、棕褐色物体研究色\"},\"text\":{\"main_title\":\"{argument name=\\\"product name\\\" default=\\\"GPT IMAGE 2\\\"} 能做什么？\",\"intro_bubble\":\"GPT IMAGE 2 是 OpenAI 迄今为止能力最强的图像模型——为各种需求提供精美、实用且富有创意的图像！\",\"top_right_bubble\":\"以下仅是它能实现的部分功能！\",\"closing_box\":\"从创意到杰作，GPT IMAGE 2 助你将任何愿景变为现实。\",\"burst_text\":\"{argument name=\\\"callout text\\\" default=\\\"想象它！创造它！分享它！\\\"}\",\"final_bubble\":\"唯一的限制就是你的想象力！\"},\"rendering_notes\":\"清晰易读的嵌入文本，平衡的漫画页面构图，每个面板视觉上各具特色，高细节，专业的编辑海报/漫画混合体，无水印\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "GPT IMAGE 2 功能展示漫画页：这是一张精致的漫画风格宣传页，重点展示了多种图像生成优势，非常适合产品营销、社交媒体发布或功能展示图。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "grid",
+        "callout"
+      ],
+      "style": [
+        "realistic",
+        "editorial",
+        "anime",
+        "3d",
+        "vintage",
+        "retro",
+        "sci-fi"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, callout]。\n\nVisual style:\n[参考风格: realistic, editorial, anime, 3d, vintage, retro, sci-fi]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14912",
+      "14992",
+      "15644",
+      "15730",
+      "14563",
+      "14938"
+    ]
+  }
+}

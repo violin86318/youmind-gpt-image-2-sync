@@ -1,0 +1,41 @@
+{
+  "id": "13683",
+  "prompt": "{\n  \"type\": \"video game main menu UI mockup\",\n  \"background\": {\n    \"setting\": \"Miami-style city skyline across water at sunset\",\n    \"sky\": \"vibrant pink and purple with scattered clouds\",\n    \"elements\": [\n      \"wooden dock in foreground left\",\n      \"boat bow in foreground right\",\n      \"palm trees framing left and right edges\",\n      \"helicopter with spotlight\",\n      \"airplane in distance\",\n      \"speedboat on water\",\n      \"neon sign on right shore reading '{argument name=\\\"city sign text\\\" default=\\\"VICE CITY WELCOME YOU\\\"}'\"\n    ]\n  },\n  \"ui_layout\": {\n    \"top_left\": {\n      \"logo\": \"{argument name=\\\"game title\\\" default=\\\"grand theft auto VI\\\"}\",\n      \"style\": \"stacked white text, 'VI' is a neon pink/purple gradient with palm tree silhouettes\"\n    },\n    \"top_right\": {\n      \"text\": \"Signed in as: {argument name=\\\"username\\\" default=\\\"GTAVI_01\\\"}\"\n    },\n    \"mid_left\": {\n      \"menu_count\": 5,\n      \"menu_items\": [\n        \"{argument name=\\\"highlighted menu item\\\" default=\\\"START GAME\\\"} (highlighted with pink gradient bar and '>' arrow)\",\n        \"SETTINGS\",\n        \"ONLINE\",\n        \"SOCIAL CLUB\",\n        \"QUIT GAME\"\n      ]\n    },\n    \"bottom_left\": {\n      \"logo\": \"R* icon\"\n    },\n    \"bottom_right\": {\n      \"text\": \"Account Picker Y, Select A\"\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"电子游戏主菜单 UI 模型\",\n  \"background_scene\": {\n    \"setting\": \"日落时分的海滨城市天际线，类似迈阿密风格，天空呈现鲜艳的粉色和紫色，平静的水面反射着城市灯光\",\n    \"foreground\": \"左下角有木质码头，右下角停靠着一艘深色快艇，左右两侧有棕榈树剪影作为边框\",\n    \"midground\": \"快艇在水面上行驶并留下尾迹，右侧岸边的霓虹灯招牌显示为 '{argument name=\\\"city sign\\\" default=\\\"VICE CITY WELCOME\\\"}'\",\n    \"sky\": \"零星云朵，带有明亮探照灯的直升机，远处的飞机\"\n  },\n  \"ui_elements\": {\n    \"main_logo\": {\n      \"position\": \"左上角\",\n      \"text\": \"{argument name=\\\"game title\\\" default=\\\"grand theft auto VI\\\"}\",\n      \"style\": \"主标题采用经典的白色小写字体，巨大的罗马数字样式，内部带有霓虹粉/紫/橙渐变色及棕榈树剪影\"\n    },\n    \"main_menu\": {\n      \"position\": \"左侧中部，主 Logo 下方\",\n      \"count\": 5,\n      \"items\": [\n        \"{argument name=\\\"menu option 1\\\" default=\\\"START GAME\\\"} (高亮显示，带有亮粉色背景和白色向右箭头)\",\n        \"{argument name=\\\"menu option 2\\\" default=\\\"SETTINGS\\\"}\",\n        \"ONLINE\",\n        \"SOCIAL CLUB\",\n        \"QUIT GAME\"\n      ]\n    },\n    \"user_info\": {\n      \"position\": \"右上角\",\n      \"text\": \"当前登录用户：{argument name=\\\"username\\\" default=\\\"GTAVI_01\\\"}\"\n    },\n    \"developer_logo\": {\n      \"position\": \"左下角\",\n      \"description\": \"R* Logo (带星星的 R)\"\n    },\n    \"button_prompts\": {\n      \"position\": \"右下角\",\n      \"count\": 2,\n      \"items\": [\n        \"账户选择 (带有黄色 Y 按钮图标)\",\n        \"选择 (带有绿色 A 按钮图标)\"\n      ]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Vice City 风格游戏菜单模型：生成一个充满活力的合成器波 (synthwave) 风格电子游戏主菜单界面，背景为海滨城市日落，并包含可自定义的 UI 元素。",
+      "subject": "文字符号",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13504",
+      "13761",
+      "13813",
+      "15737",
+      "13897",
+      "13657"
+    ]
+  }
+}

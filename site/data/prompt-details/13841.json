@@ -1,0 +1,42 @@
+{
+  "id": "13841",
+  "prompt": "An anime-style illustration of a young girl with {argument name=\"hair color\" default=\"silver\"} hair styled in long twin tails secured with black ribbons, and {argument name=\"eye color\" default=\"pink\"} eyes. She has a {argument name=\"expression\" default=\"smug smile with a slight blush\"} and is looking directly at the viewer. She is posing dynamically, leaning forward slightly with one hand making a peace sign near her cheek and the other hand resting on her hip. She is wearing a white long-sleeved blouse featuring ruffles down the center and at the cuffs, a black ribbon tied at the collar, and a black high-waisted skirt with a ruffled hem and corset-style lacing. The background is a solid {argument name=\"background color\" default=\"vibrant pink\"} with a subtle vignette effect. The art style is high-quality, detailed anime illustration with soft lighting and glossy hair highlights.",
+  "translatedPrompt": "一张动漫风格的少女插画，拥有 {argument name=\"hair color\" default=\"银色\"} 的双马尾长发，并用黑色丝带扎起，配有 {argument name=\"eye color\" default=\"粉色\"} 的双眼。她带着 {argument name=\"expression\" default=\"略带红晕的俏皮微笑\"}，直视着观众。她姿态生动，身体微微前倾，一只手在脸颊旁比出剪刀手，另一只手叉在腰间。她身穿白色长袖衬衫，领口和袖口饰有荷叶边，领口系着黑色丝带，下身穿着黑色高腰裙，裙摆带有荷叶边和束腰式系带设计。背景为纯色 {argument name=\"background color\" default=\"亮粉色\"}，并带有微妙的晕影效果。艺术风格为高质量、细节丰富的动漫插画，光影柔和，发丝光泽感十足。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫少女俏皮剪刀手肖像：生成一张动漫风格的少女剪刀手肖像，发色、眼色及背景颜色均可自定义。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [
+        "soft light"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[参考光线镜头: soft light]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14694",
+      "15393",
+      "13754",
+      "13802",
+      "13919",
+      "15020"
+    ]
+  }
+}

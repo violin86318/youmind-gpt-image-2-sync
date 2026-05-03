@@ -1,0 +1,46 @@
+{
+  "id": "15394",
+  "prompt": "Using the provided reference image, keep the same person and the same blue polo shirt, but transform the casual poolside selfie into a clean professional studio head-and-shoulders portrait. Remove the entire outdoor resort background and replace it with a solid warm orange backdrop. Reframe the shot so the subject is centered, facing the camera straight-on, cropped from mid-chest upward, with even soft studio lighting and a sharp, polished photo quality. Eliminate the selfie feel, background distractions, and other people, and add a small white four-point sparkle icon in the bottom-right corner.",
+  "translatedPrompt": "使用提供的参考图像，保持人物和蓝色 Polo 衫不变，将随意的泳池边自拍转化为干净、专业的影棚半身肖像。移除整个户外度假村背景，并将其替换为纯暖橙色背景。重新构图，使主体居中，正对镜头，裁剪范围从胸部中部向上，采用均匀柔和的影棚布光，呈现清晰、精致的照片质感。消除自拍感、背景干扰和其他人物，并在右下角添加一个白色四角星形图标。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "将度假自拍转化为影棚级肖像：此提示词可将随意的参考自拍转化为居中的专业影棚风格肖像，适用于个人资料照片或精致的个人品牌形象。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting",
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting, camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14861",
+      "15395",
+      "15028",
+      "15004",
+      "13965",
+      "15317"
+    ]
+  }
+}

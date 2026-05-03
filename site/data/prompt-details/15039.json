@@ -1,0 +1,50 @@
+{
+  "id": "15039",
+  "prompt": "Using REFERENCE_0 as the hero food photo, transform it into a polished one-page restaurant branding board for a fried chicken and waffle-fries concept named {argument name=\"brand name\" default=\"Can Dende\"}. Keep the yellow-table food photography as the visual anchor, but redesign the output as a clean square brand guideline sheet on a warm off-white background with a cheerful, retro, hand-drawn fast-casual identity. Add a large logo area in the upper left with bold vintage red lettering, a small illustrated fried-food mascot above it, and the tagline “FRIED CHICKEN & RUFFLES”. Build the page as a structured multi-panel layout with 9 sections: 1) logo/hero area, 2) brand story text block, 3) top-right hero photo crop from the reference, 4) color palette showing exactly 5 swatches with hex labels, 5) typography section with a large display sample of the brand name plus 3 text styles labeled header, subhead, and body, 6) patterns and textures section with exactly 4 playful assets: a yellow wavy stripe pattern, a red checker pattern, a handwritten phrase, and a small doodle heart, 7) iconography section with exactly 5 simple icons: chicken, bottle, fries, smiley face, and heart, 8) photography style section with a 2x2 grid of exactly 4 food-photo crops derived from the reference and matching close-up shots, plus a short bullet list of photography guidelines, and 9) brand applications section with exactly 5 mockups labeled signage, takeout packaging, menu design, social media, and staff apparel. Include a circular badge near the hero photo that says {argument name=\"badge text\" default=\"CRISPY GOOD MOOD\"}. Use the palette {argument name=\"primary palette\" default=\"yellow, tomato red, deep navy, leaf green, soft pink\"}. Add a bottom banner with 2 sections titled “VOICE & VIBE” and a short brand summary paragraph. Overall feel: modern branding presentation, vibrant, appetizing, playful, sunny, editorial, highly legible, premium-but-fun.",
+  "translatedPrompt": "以 REFERENCE_0 作为主打食物照片，将其转化为一张精美的餐厅品牌项目单页，用于展示名为 {argument name=\"brand name\" default=\"Can Dende\"} 的炸鸡和华夫薯条概念。保留以黄色餐桌为背景的食物摄影作为视觉核心，但将输出重新设计为一张简洁的正方形品牌指南页，背景采用温暖的米白色，并融入欢快、复古、手绘风格的快餐品牌形象。在左上角设置一个大面积的 Logo 区，使用醒目的复古红色字体，上方配有一个小型炸鸡吉祥物插画，并标注标语“FRIED CHICKEN & RUFFLES”。将页面构建为包含 9 个部分的结构化多面板布局：1) Logo/主视觉区，2) 品牌故事文本块，3) 右上角从参考图中截取的主视觉照片，4) 展示 5 个带有十六进制颜色代码的色板，5) 排版部分，包含品牌名称的大号展示样本以及分别标注为标题、副标题和正文的 3 种文本样式，6) 图案和纹理部分，包含 4 个趣味素材：黄色波浪条纹、红色方格纹、手写短语和一个小涂鸦爱心，7) 图标部分，包含 5 个简单图标：鸡肉、瓶子、薯条、笑脸和爱心，8) 摄影风格部分，包含一个 2x2 的网格，展示 4 张从参考图及匹配的特写镜头中截取的食物照片，并附带一份简短的摄影指南要点，9) 品牌应用部分，包含 5 个分别标注为招牌、外卖包装、菜单设计、社交媒体和员工制服的样机。在主视觉照片附近添加一个圆形徽章，文字为 {argument name=\"badge text\" default=\"CRISPY GOOD MOOD\"}。使用配色方案 {argument name=\"primary palette\" default=\"yellow, tomato red, deep navy, leaf green, soft pink\"}。在底部添加一个横幅，分为“VOICE & VIBE”和一段简短的品牌总结两个部分。整体风格：现代品牌展示、充满活力、令人垂涎、俏皮、阳光、编辑感、高易读性、高端且有趣。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古快餐品牌项目：此提示词可将参考食物照片转化为完整的餐厅品牌展示项目，用于呈现 Logo、配色、排版、摄影风格及品牌应用。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [
+        "close-up",
+        "grid",
+        "2x2"
+      ],
+      "style": [
+        "editorial",
+        "vintage",
+        "retro",
+        "premium",
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": "得分 94；构图: close-up, grid, 2x2；风格: editorial, vintage, retro, premium, hand-drawn；要求精确文字；要求可读；包含标注/说明；文字是主视觉"
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, grid, 2x2]。\n\nVisual style:\n[参考风格: editorial, vintage, retro, premium, hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15451",
+      "14554",
+      "14564",
+      "14001",
+      "13507",
+      "14634"
+    ]
+  }
+}

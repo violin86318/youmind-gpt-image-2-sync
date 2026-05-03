@@ -1,0 +1,42 @@
+{
+  "id": "14895",
+  "prompt": "A moody surreal painting of a woman leaning forward through an old window frame, shown from behind and cropped tightly so the composition centers on her wildly windblown {argument name=\"hair color\" default=\"dark brown with copper highlights\"} hair streaming left across the image in long tangled strands. Her bare shoulders and upper back are mostly hidden by her hair, and both hands rest on a worn wooden windowsill at the bottom center, with 2 visible fingers on each side gripping the ledge. The face is completely obscured by hair and angle. Behind her is a weathered multi-pane window with 6 rectangular panes in a 3-by-2 grid, painted in cold gray-blue tones with grime, scratches, drips, and distressed edges. Use an expressive mixed-media style combining charcoal, ink, dry brush, scratched lines, and textured oil paint on rough canvas, with sketchy white and black linework layered over muted industrial colors. The mood is introspective, stormy, and haunting, as if wind or emotion is pulling the figure apart. Soft diffused light, subtle contrast, painterly realism fused with abstract expressionism, square composition.",
+  "translatedPrompt": "一幅忧郁的超现实主义画作，描绘了一位女性从旧窗框中探出身子，画面采用背影视角并进行紧凑裁剪，构图聚焦于她被风吹得凌乱的 {argument name=\"hair color\" default=\"深棕色带铜色挑染\"} 头发，发丝向左飘散，缠绕成缕。她裸露的肩膀和上背部大半被头发遮住，双手搭在底部的旧木窗台上，每侧各有 2 根手指抓着窗沿。面部完全被头发和角度遮挡。背景是一扇饱经风霜的多格窗户，采用 3x2 的网格布局，呈现出带有污垢、划痕、水渍和磨损边缘的冷灰蓝色调。采用表现主义的混合媒介风格，结合木炭、墨水、干画笔、划痕线条以及粗糙画布上的纹理油画效果，并在柔和的工业色调上叠加写意的黑白线条。整体氛围内省、狂暴且令人难忘，仿佛风或情绪正在将人物撕裂。柔和的漫射光，微妙的对比度，融合了抽象表现主义的绘画写实风格，方形构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "窗前的超现实女性：此提示词可生成一张方形、充满氛围感的艺术肖像，描绘了一位在旧窗前被风吹乱头发的女性，适用于创作富有情感的超现实主义编辑类或画廊风格图像。",
+      "subject": "人物",
+      "scene": "综合视觉",
+      "composition": [
+        "grid",
+        "layered"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "风格对比、产品系列、前后对照、角色变体",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 综合视觉 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, layered]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15812",
+      "14013",
+      "14162",
+      "14181",
+      "14186",
+      "14492"
+    ]
+  }
+}

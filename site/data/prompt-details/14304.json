@@ -1,0 +1,42 @@
+{
+  "id": "14304",
+  "prompt": "Create a hyper-realistic {argument name=\"style\" default=\"Japanese-style\"} {argument name=\"subject\" default=\"futuristic product advertisement\"}, insanely detailed with rich micro-details, cinematic lighting, ultra-clean premium layout, {argument name=\"aesthetic\" default=\"minimalist high-end design aesthetics\"}.",
+  "translatedPrompt": "创作一个超写实的 {argument name=\"style\" default=\"日式风格\"} {argument name=\"subject\" default=\"未来感产品广告\"}，细节极其丰富且精细，采用电影级光影，超简洁的高端布局，{argument name=\"aesthetic\" default=\"极简主义高端设计美学\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "未来感日式产品广告：一个用于创作简洁、极简且超写实、具备电影级光影效果的产品广告的高端提示词。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic",
+        "minimalist",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic, minimalist, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15067",
+      "15310",
+      "14807",
+      "14878",
+      "15402",
+      "15429"
+    ]
+  }
+}

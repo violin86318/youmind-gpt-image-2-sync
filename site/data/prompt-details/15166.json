@@ -1,0 +1,41 @@
+{
+  "id": "15166",
+  "prompt": "Diagram of an ultra-futuristic {argument name=\"colors\" default=\"white-and-orange\"} {argument name=\"subject\" default=\"muscle car\"}, internal structure diagram, cutaway view, labeled infographic, cyberpunk scientific illustration, clean layout, high-level detail, dark background, cyberpunk style.",
+  "translatedPrompt": "超未来感 {argument name=\"colors\" default=\"白橙配色\"} {argument name=\"subject\" default=\"肌肉车\"} 的图解，内部结构示意图，剖面视图，带标签的信息图，赛博朋克科学插画，布局简洁，高细节度，深色背景，赛博朋克风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "未来感肌肉车信息图：用于生成未来感肌肉车详细信息图的提示词，包含剖面视图和赛博朋克风格的技术标签。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "cutaway"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "硬件拆解、产品卖点、技术说明、科普图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: cutaway]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14165",
+      "14000",
+      "14147",
+      "14662",
+      "15000",
+      "13983"
+    ]
+  }
+}

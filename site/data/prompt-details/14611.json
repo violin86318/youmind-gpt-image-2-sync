@@ -1,0 +1,50 @@
+{
+  "id": "14611",
+  "prompt": "A highly polished studio photograph of a {argument name=\"animal\" default=\"chameleon\"} entirely covered in tiny mirrored disco-ball tiles, perched on top of a large mirrored disco ball sphere. Side profile facing right, with a curled tail, four visible legs gripping the sphere, a prominent casque-like head crest, round glossy black eye, and a delicate row of small scales along the jawline. The mosaic tiles should reflect silver, pale blue, and cool white highlights, creating sparkling specular reflections across both the animal and the sphere. Use a soft glamorous disco atmosphere with a smooth teal-blue gradient background, shallow depth of field, and scattered circular bokeh lights in the background. Soft diffused lighting with bright glints on the mirrored surfaces, ultra-detailed texture, photorealistic materials, centered composition, elegant and whimsical luxury aesthetic.",
+  "translatedPrompt": "一张高度抛光的摄影级工作室照片，主角是一只全身覆盖着微小镜面迪斯科球瓷砖的 {argument name=\"animal\" default=\"chameleon\"}，它栖息在一个巨大的镜面迪斯科球体之上。侧面朝右，有着卷曲的尾巴，四条清晰可见的腿抓着球体，头部有显著的头冠，圆润且有光泽的黑色眼睛，下颌线处有一排精致的小鳞片。马赛克瓷砖应反射出银色、淡蓝色和冷白色的高光，在动物和球体表面营造出闪烁的镜面反射效果。采用柔和迷人的迪斯科氛围，搭配平滑的青蓝色渐变背景，浅景深效果，背景中散布着圆形的焦外成像光斑。柔和的漫射光线在镜面表面形成明亮的闪光，超精细的纹理，写实的材质，居中构图，呈现出优雅且奇幻的奢华美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "迪斯科球变色龙：此提示词可生成一张摄影级工作室风格的图片，展示了置于迪斯科球上的镜面变色龙雕塑，非常适合超现实主义奢华动物艺术或引人注目的社交媒体视觉内容。",
+      "subject": "综合主体",
+      "scene": "海报/封面",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "luxury",
+        "studio"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic, photorealistic, luxury, studio]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15778",
+      "15419",
+      "14831",
+      "15609",
+      "15766",
+      "14806"
+    ]
+  }
+}

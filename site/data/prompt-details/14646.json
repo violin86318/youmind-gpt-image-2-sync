@@ -1,0 +1,53 @@
+{
+  "id": "14646",
+  "prompt": "A sleek Chinese social-media style screenshot on a dark charcoal black interface, minimalist and premium, with a large rounded rectangular image card placed in the lower left-center and a small rounded chat bubble in the upper right. The overall canvas is mostly empty dark space, giving a clean tech presentation feel. At the top left of the main area, show one line of bold white Chinese text reading: “换成小米汽车，我做一张更像发布会级别的整车爆炸分解图。” In the upper right, include a single gray rounded speech bubble with white Chinese text: “小米汽车的产品拆解图”. Below, display one featured poster-like infographic card with rounded corners and a glossy black background. Inside that card, create a highly polished exploded-view automotive product presentation for a turquoise {argument name=\"car model\" default=\"Xiaomi SU7\"} electric sedan, shown in dramatic three-quarter front view, with the car body separated into many components suspended around the chassis. The hood is open, trunk lid lifted, four side doors detached and floating outward, front bumper and fascia separated, headlights isolated, interior exposed, and major mechanical and structural modules arranged neatly in layers beneath and around the body. The visual style should resemble a premium launch-event keynote slide: cinematic studio lighting, realistic reflections, sharp detail, dark background, subtle blue highlights, and precise technical composition. In the upper left of the infographic card, place large white Chinese title text in three lines: “小米汽车 SU7”, “产品拆解图”, “科技跨越，人车合一”. Add an orange square Xiaomi-style logo in the upper right corner of the card. Surround the car with 14 Chinese callout labels connected by thin white leader lines, identifying visible parts and systems. On the left side, include 6 labels for features such as integrated closed front fascia, LED headlights, front trunk design, high-voltage battery, front motor assembly, front double-wishbone suspension, and Brembo four-piston brake caliper. On the right side, include 8 labels for features such as electric tailgate, through-type taillight, frameless doors, hidden door handles, rear motor assembly, rear motor specs, all-aluminum alloy chassis, five-link rear suspension, and Michelin performance tires. Beneath the exploded car body, clearly show the battery pack, front and rear drive units, suspension subframes, wheel assemblies, braking components, front and rear seats, center console parts, underbody panels, and structural floor elements, all separated and floating in a carefully organized exploded arrangement. At the bottom of the infographic card, add a horizontal information strip divided into 5 columns of small Chinese specification text with headings for vehicle dimensions, power performance, range, intelligent driving, and safety structure. In the lower left of the card, place a bold white Chinese label “编辑”. In the lower center, include a circular down-arrow icon, and in the lower right, a share/export icon. The composition should look like a real screenshot from a Chinese AI chat app showcasing an automatically generated high-end car teardown infographic, with modern UI spacing, crisp typography, and a luxurious black-and-cyan color palette.",
+  "translatedPrompt": "一张采用深炭黑色界面的时尚中文社交媒体风格截图，设计简约且高端，左下中心位置放置一张大型圆角矩形图片卡片，右上角有一个小型圆角聊天气泡。整体画布留白较多，营造出简洁的科技展示感。在主区域左上方，显示一行加粗的白色中文字符：“换成小米汽车，我做一张更像发布会级别的整车爆炸分解图。” 在右上角，包含一个灰色的圆角气泡，内含白色中文字符：“小米汽车的产品拆解图”。下方展示一张海报风格的圆角信息图卡片，背景为亮黑色。在卡片内部，为绿松石色的 {argument name=\"car model\" default=\"Xiaomi SU7\"} 电动轿车制作一张精美的爆炸分解式产品展示图，采用极具张力的前侧 45 度视角，车身分解为多个组件，悬浮在底盘周围。引擎盖开启，后备箱盖升起，四个侧门拆卸并向外悬浮，前保险杠和前脸分离，大灯独立展示，内饰可见，主要的机械和结构模块整齐地分层排列在车身下方和周围。视觉风格应类似于高端发布会的 Slides：电影级摄影棚灯光、逼真的反射、锐利的细节、深色背景、微妙的蓝色高光以及精确的技术构图。在信息图卡片的左上方，放置三行大型白色中文标题：“小米汽车 SU7”、“产品拆解图”、“科技跨越，人车合一”。在卡片右上角添加一个橙色方形的小米风格 Logo。在汽车周围环绕 14 个中文标注，通过细白色引线连接，标示出可见的部件和系统。左侧包含 6 个功能标注，例如一体化封闭式前脸、LED 大灯、前备箱设计、高压电池、前电机总成、前双叉臂悬架和 Brembo 四活塞制动卡钳。右侧包含 8 个功能标注，例如电动尾门、贯穿式尾灯、无框车门、隐藏式门把手、后电机总成、后电机参数、全铝合金底盘、五连杆后悬架和米其林高性能轮胎。在爆炸分解的车身下方，清晰展示电池包、前后驱动单元、悬架副车架、轮毂组件、制动部件、前后座椅、中控台零件、底盘护板和结构地板元件，所有部件均经过精心组织，呈爆炸式悬浮排列。在信息图卡片底部，添加一个水平信息条，分为 5 列小型中文规格文本，标题分别为车辆尺寸、动力性能、续航里程、智能驾驶和安全结构。在卡片左下角，放置一个加粗的白色中文标签“编辑”。在底部中心包含一个圆形向下箭头图标，右下角包含一个分享/导出图标。整体构图应看起来像是一张来自中国 AI 聊天 App 的真实截图，展示自动生成的汽车拆解信息图，具有现代化的 UI 间距、清晰的排版以及奢华的黑青色调。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "小米 SU7 爆炸图聊天截图：此内容用于生成一张深色调的中文 App 风格截图，展示一张具有发布会级别的高端小米 SU7 电动汽车爆炸分解图，适用于 AI 演示视觉效果和科技产品展示模型。",
+      "subject": "界面",
+      "scene": "产品/电商",
+      "composition": [
+        "callout",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "minimalist",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: callout, horizontal]。\n\nVisual style:\n[参考风格: realistic, cinematic, minimalist, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15447",
+      "15648",
+      "15086",
+      "14177",
+      "14449",
+      "14889"
+    ]
+  }
+}

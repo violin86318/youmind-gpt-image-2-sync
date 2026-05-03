@@ -1,0 +1,46 @@
+{
+  "id": "15656",
+  "prompt": "A candid street-fashion portrait of a young woman standing at a busy Tokyo crosswalk in daylight, framed from the upper torso up and turned slightly away from the camera so her bare shoulder is prominent. She has a short messy bob haircut in {argument name=\"hair color\" default=\"platinum blonde\"}, soft wispy texture, and a delicate build. She wears an airy off-shoulder blouse in {argument name=\"clothing color\" default=\"white\"}, made of thin semi-sheer fabric with loose drape and a romantic, lightweight feel. Place her in the foreground left-of-center, with a shallow depth of field and a crowded urban background full of pedestrians crossing the street. Behind her, include a large curved glass building with the visible sign {argument name=\"background sign\" default=\"TSUTAYA\"}, evoking Shibuya. Use a warm vintage film aesthetic with faded colors, noticeable grain, slight blur, soft sunlight, muted contrast, and a nostalgic analog snapshot mood. The overall tone should feel stylish, spontaneous, and cinematic, like a fashion photo captured in the middle of a bustling city.",
+  "translatedPrompt": "一张年轻女性站在繁忙的东京十字路口白天的街拍时尚肖像，取景范围为上半身，她微微背对镜头，突显出裸露的肩部。她留着一头凌乱的短波波头，发色为 {argument name=\"hair color\" default=\"铂金色\"}，质感轻盈柔和，身形娇小。她穿着一件 {argument name=\"clothing color\" default=\"白色\"} 的露肩上衣，面料轻薄半透明，垂坠感十足，营造出浪漫轻盈的氛围。将她置于画面左侧前景，采用浅景深效果，背景是熙熙攘攘的过街行人。在她身后，加入一栋带有弧形玻璃的建筑，并可见 {argument name=\"background sign\" default=\"TSUTAYA\"} 的标志，以此呈现涩谷风情。采用温暖的复古胶片美学，色调略显褪色，带有明显的颗粒感、轻微模糊、柔和的阳光、柔和的对比度，以及怀旧的模拟快照氛围。整体基调应显得时尚、自然且具有电影感，如同在繁华都市中抓拍的时尚大片。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古涩谷街头肖像：此提示词可生成一张充满怀旧时尚感的年轻女性街拍肖像，背景为繁忙的东京十字路口，非常适合 AI 杂志美学及街头摄影风格的图像创作。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "vintage"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, vintage]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14614",
+      "15602",
+      "13604",
+      "15520",
+      "15705",
+      "14595"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "15322",
+  "prompt": "{\"type\":\"anime boxing event poster\",\"style\":\"dramatic Japanese fight poster, glossy high-contrast digital illustration, muscular shonen anime aesthetic, intense arena lighting, sparks and energy streaks, premium metallic typography, promotional key visual\",\"event\":{\"header_small\":\"Nekome Höseki Promotion & Bullet Promotion Presents\",\"headline\":\"Cat's Eye Boxing Vol.5×Bullet of Roses\",\"date\":\"6月19日(金)\",\"venue\":\"一拳東市体育館\",\"ticket_banner\":\"チケット好評発売中！\",\"footer_notes\":[\"主催：猫目宝石プロモーション／バレット・プロモーション\",\"協力：拳東市ボクシング協会　後援：拳東市／拳東市委員会\",\"お問い合わせ：Cat's Eye Boxing事務局　TEL: 03-1234-5678\"]},\"layout\":{\"orientation\":\"vertical poster\",\"sections\":[{\"title\":\"FINAL\",\"position\":\"upper center\",\"count\":2,\"subtitle\":\"51.5kg 契約戦\",\"matchup\":{\"left_name\":\"ナット・イッティポーンチャイ\",\"right_name\":\"山本京介\"}},{\"title\":\"SEMI FINAL\",\"position\":\"lower middle\",\"count\":2,\"subtitle\":\"日本ユースタイトルマッチ8回戦\",\"matchup\":{\"left_name\":\"日入レオ\",\"right_name\":\"一条凛吾\"}},{\"title\":\"ticket prices\",\"position\":\"bottom left\",\"count\":4,\"labels\":[\"SRS席 15,000円\",\"RS席 10,000円\",\"指定A席 7,000円\",\"指定B席 5,000円\"]},{\"title\":\"same-day ticket notice\",\"position\":\"bottom right\",\"count\":2,\"labels\":[\"当日券あり\",\"開場 16:00\",\"試合開始 17:00\"]}],\"center_dividers\":2},\"fighters\":{\"count\":4,\"top_left\":{\"role\":\"final left fighter\",\"build\":\"compact, lean, muscular\",\"skin_tone\":\"tan\",\"hair\":\"short dark spiky hair\",\"gloves\":\"bright red boxing gloves\",\"trunks\":\"blue boxing trunks with white and red side stripes\",\"pose\":\"orthodox guard, left glove raised near face, right glove forward, torso angled toward center\",\"side_effects\":\"surrounded by red light streaks and sparks\"},\"top_right\":{\"role\":\"final right fighter\",\"build\":\"very tall, heavily muscular, broad chest and arms\",\"skin_tone\":\"light tan\",\"hair\":\"medium-length brown hair swept back with loose strands\",\"gloves\":\"blue boxing gloves\",\"trunks\":\"green boxing trunks with a thick white waistband\",\"pose\":\"guard stance leaning inward, both gloves up, dominating foreground\",\"side_effects\":\"surrounded by blue light streaks and sparks\"},\"bottom_left\":{\"role\":\"semi final left fighter\",\"build\":\"lean athletic muscular\",\"skin_tone\":\"light tan\",\"hair\":\"short dark hair\",\"gloves\":\"red boxing gloves\",\"trunks\":\"dark trunks with red waistband\",\"pose\":\"tight guard stance facing center\"},\"bottom_right\":{\"role\":\"semi final right fighter\",\"build\":\"lean defined muscular\",\"skin_tone\":\"pale\",\"hair\":\"short silver-white hair\",\"gloves\":\"blue boxing gloves\",\"trunks\":\"blue trunks with white waistband and visible text patches 'REXEX' and 'BXXN'\",\"pose\":\"guard stance facing center\",\"details\":\"small black tattoo-like emblem on left shoulder\"}},\"background\":{\"setting\":\"packed indoor boxing arena\",\"ring\":{\"visible\":true,\"ropes_count\":3},\"crowd\":\"dark audience silhouettes and distant spectators\",\"lighting\":\"split red-versus-blue color scheme, fiery red on the left and electric blue on the right, bright lens flares, overhead spotlights, ember particles\"},\"text_style\":{\"main_title\":\"large distressed gold brush lettering\",\"section_titles\":\"huge metallic gold serif capitals\",\"fighter_names\":\"bold Japanese lettering on red and blue slashed nameplates\",\"overall\":\"cinematic, loud, championship-poster typography\"}}",
+  "translatedPrompt": "{\"type\":\"动漫拳击赛事海报\",\"style\":\"戏剧性日式格斗海报，高光高对比度数字插画，肌肉感少年漫美学，强烈的竞技场灯光，火花与能量流，高级金属质感排版，宣传主视觉图\",\"event\":{\"header_small\":\"Nekome Höseki Promotion & Bullet Promotion 联合呈现\",\"headline\":\"Cat's Eye Boxing Vol.5 × 玫瑰之弹\",\"date\":\"6月19日 (周五)\",\"venue\":\"一拳东市体育馆\",\"ticket_banner\":\"门票火热发售中！\",\"footer_notes\":[\"主办：猫目宝石推广／Bullet 推广\",\"协办：拳东市拳击协会 后援：拳东市／拳东市委员会\",\"咨询：Cat's Eye Boxing 事务局 电话：03-1234-5678\"]},\"layout\":{\"orientation\":\"竖版海报\",\"sections\":[{\"title\":\"决赛\",\"position\":\"上中\",\"count\":2,\"subtitle\":\"51.5kg 契约战\",\"matchup\":{\"left_name\":\"纳特·伊提蓬猜\",\"right_name\":\"山本京介\"}},{\"title\":\"半决赛\",\"position\":\"下中\",\"count\":2,\"subtitle\":\"日本青年冠军赛 8 回合\",\"matchup\":{\"left_name\":\"日入雷欧\",\"right_name\":\"一条凛吾\"}},{\"title\":\"票价\",\"position\":\"左下\",\"count\":4,\"labels\":[\"SRS 席 15,000 日元\",\"RS 席 10,000 日元\",\"指定 A 席 7,000 日元\",\"指定 B 席 5,000 日元\"]},{\"title\":\"当日票通知\",\"position\":\"右下\",\"count\":2,\"labels\":[\"提供当日票\",\"开场 16:00\",\"比赛开始 17:00\"]}],\"center_dividers\":2},\"fighters\":{\"count\":4,\"top_left\":{\"role\":\"决赛左侧选手\",\"build\":\"紧凑、精瘦、肌肉发达\",\"skin_tone\":\"古铜色\",\"hair\":\"短款深色尖刺发型\",\"gloves\":\"亮红色拳击手套\",\"trunks\":\"带有白红侧条纹的蓝色拳击短裤\",\"pose\":\"正架防守，左手套靠近脸部，右手套向前，躯干朝向中心\",\"side_effects\":\"被红色光流和火花环绕\"},\"top_right\":{\"role\":\"决赛右侧选手\",\"build\":\"身材高大、肌肉极其发达、胸部和手臂宽阔\",\"skin_tone\":\"浅古铜色\",\"hair\":\"中长棕色后梳发型，带有几缕碎发\",\"gloves\":\"蓝色拳击手套\",\"trunks\":\"带有厚白色腰带的绿色拳击短裤\",\"pose\":\"向内倾斜的防守姿态，双手套举起，占据前景主导地位\",\"side_effects\":\"被蓝色光流和火花环绕\"},\"bottom_left\":{\"role\":\"半决赛左侧选手\",\"build\":\"精瘦且肌肉线条明显\",\"skin_tone\":\"浅古铜色\",\"hair\":\"短深色发型\",\"gloves\":\"红色拳击手套\",\"trunks\":\"带有红色腰带的深色短裤\",\"pose\":\"面向中心的紧凑防守姿态\"},\"bottom_right\":{\"role\":\"半决赛右侧选手\",\"build\":\"精瘦且肌肉线条清晰\",\"skin_tone\":\"苍白\",\"hair\":\"短银白色发型\",\"gloves\":\"蓝色拳击手套\",\"trunks\":\"带有白色腰带的蓝色短裤，可见 'REXEX' 和 'BXXN' 文字补丁\",\"pose\":\"面向中心的防守姿态\",\"details\":\"左肩有小型黑色纹身状徽章\"}},\"background\":{\"setting\":\"座无虚席的室内拳击竞技场\",\"ring\":{\"visible\":true,\"ropes_count\":3},\"crowd\":\"黑暗的观众剪影和远处的观众\",\"lighting\":\"红蓝对决的色彩方案，左侧为炽热的红色，右侧为电光蓝色，明亮的镜头光晕，头顶射灯，余烬颗粒\",\"text_style\":{\"main_title\":\"大型做旧金色笔刷字体\",\"section_titles\":\"巨大的金属质感金色衬线大写字母\",\"fighter_names\":\"红蓝斜切名牌上的粗体日文字体\",\"overall\":\"电影感、震撼、冠军赛海报排版\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫拳击比赛海报：一张极具戏剧性的日式动漫拳击赛事海报，展示了红蓝对决竞技场中的两场焦点对决，非常适合格斗推广或虚构体育赛事艺术创作。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "premium"
+      ],
+      "lightingCamera": [
+        "lens"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: cinematic, anime, premium]。\n\nLighting and camera:\n[参考光线镜头: lens]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15265",
+      "15387",
+      "15388",
+      "15414",
+      "15668",
+      "14842"
+    ]
+  }
+}

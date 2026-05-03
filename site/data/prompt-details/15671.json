@@ -1,0 +1,51 @@
+{
+  "id": "15671",
+  "prompt": "{\"type\":\"AI capability comparison poster collage\",\"style\":\"clean promotional infographic, premium tech marketing visual, dark navy background with thin white panel dividers, square 2x2 grid layout\",\"theme\":\"showcase advanced image generation capabilities for text rendering, character consistency, social media creative generation, and multilingual support\",\"layout\":{\"grid\":{\"rows\":2,\"columns\":2,\"count\":4},\"sections\":[{\"position\":\"top-left\",\"title\":\"日本語テキスト描画\",\"count\":1,\"panel\":{\"type\":\"Japanese menu poster mockup\",\"background\":\"aged beige paper with subtle grain texture and dark border frame\",\"decorations\":{\"count\":3,\"items\":[\"vertical red seal stamp on the upper right\",\"bamboo illustration on the lower right\",\"traditional wave pattern on the lower left\"]},\"text\":{\"headline\":\"本日のおすすめ\",\"columns\":{\"count\":3,\"items\":[{\"rank\":\"①\",\"name\":\"特製海鮮丼\",\"price\":\"¥1,280\"},{\"rank\":\"②\",\"name\":\"炙りサーモン定食\",\"price\":\"¥980\"},{\"rank\":\"③\",\"name\":\"抹茶パフェ\",\"price\":\"¥650\"}]}}}},{\"position\":\"top-right\",\"title\":\"キャラクター一貫性\",\"count\":3,\"panel\":{\"type\":\"anime character turnaround and action sheet\",\"background\":\"plain white studio backdrop\",\"subject\":{\"gender_presentation\":\"young female anime character\",\"face\":\"softly blurred face with no detailed features\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"deep blue\\\"}\",\"style\":\"short layered bob with side-swept bangs and small tied section at the back\"},\"outfit\":{\"count\":8,\"items\":[\"white oversized cropped jacket with dark trim\",\"black high-neck crop top\",\"navy pleated mini skirt\",\"utility belt with straps and small pouches\",\"green ribbon and cord accents hanging from the waist\",\"black fingerless gloves\",\"dark crew socks with patterned bands\",\"chunky navy sneakers\"]}},\"poses\":{\"count\":3,\"items\":[\"front full-body standing pose\",\"side profile standing pose\",\"dynamic action pose holding a short blade\"]}}},{\"position\":\"bottom-left\",\"title\":\"SNS素材生成\",\"count\":1,\"panel\":{\"type\":\"summer sale social media banner\",\"branding\":\"{argument name=\\\"brand name\\\" default=\\\"LUMINA STUDIO\\\"}\",\"scene\":\"bright beach product ad with pale blue sky gradient, soft palm leaf shadows from above, sand foreground, seashells and straw hat as props\",\"product\":{\"count\":1,\"item\":\"canvas tote bag with navy handles and navy bottom panel, centered label patch with brand mark\"},\"text\":{\"headline\":\"SUMMER SALE\",\"discount\":\"最大 70% OFF\",\"button\":\"SHOP NOW\"}}},{\"position\":\"bottom-right\",\"title\":\"16言語対応\",\"count\":4,\"panel\":{\"type\":\"four multilingual ad variants in a 2x2 mini-grid\",\"variants\":{\"count\":4,\"items\":[{\"language\":\"Japanese\",\"headline\":\"夏のセール\",\"discount\":\"最大 70% OFF\",\"button\":\"SHOP NOW\"},{\"language\":\"English\",\"headline\":\"Summer Sale\",\"discount\":\"70% OFF\",\"button\":\"SHOP NOW\"},{\"language\":\"Korean\",\"headline\":\"여름 세일\",\"discount\":\"최대 70% OFF\",\"button\":\"SHOP NOW\"},{\"language\":\"Chinese\",\"headline\":\"夏季特卖\",\"discount\":\"最高 70% OFF\",\"button\":\"SHOP NOW\"}]},\"shared_design\":\"same tote bag beach ad layout repeated consistently across all four language versions\"}}]},\"composition\":\"all four white or beige content panels evenly spaced on a dark navy square canvas, each section title centered below its panel in white Japanese text\",\"quality\":\"sharp typography, polished ad design, highly legible multilingual text, consistent branding, modern commercial presentation\"}",
+  "translatedPrompt": "{\"type\":\"AI 能力对比海报拼贴\",\"style\":\"简洁的宣传信息图，高端科技营销视觉，深蓝色背景配以细白色面板分割线，2x2 正方形网格布局\",\"theme\":\"展示在文本渲染、角色一致性、社交媒体创意生成和多语言支持方面的先进图像生成能力\",\"layout\":{\"grid\":{\"rows\":2,\"columns\":2,\"count\":4},\"sections\":[{\"position\":\"top-left\",\"title\":\"日语文本渲染\",\"count\":1,\"panel\":{\"type\":\"日式菜单海报样机\",\"background\":\"带有细微颗粒质感的复古米色纸张，配有深色边框\",\"decorations\":{\"count\":3,\"items\":[\"右上角垂直红色印章\",\"右下角竹子插画\",\"左下角传统波浪纹样\"]},\"text\":{\"headline\":\"本日のおすすめ\",\"columns\":{\"count\":3,\"items\":[{\"rank\":\"①\",\"name\":\"特製海鮮丼\",\"price\":\"¥1,280\"},{\"rank\":\"②\",\"name\":\"炙りサーモン定食\",\"price\":\"¥980\"},{\"rank\":\"③\",\"name\":\"抹茶パフェ\",\"price\":\"¥650\"}]}}}},{\"position\":\"top-right\",\"title\":\"角色一致性\",\"count\":3,\"panel\":{\"type\":\"动漫角色三视图及动作展示\",\"background\":\"纯白色摄影棚背景\",\"subject\":{\"gender_presentation\":\"年轻女性动漫角色\",\"face\":\"面部柔和模糊，无详细特征\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"深蓝色\\\"}\",\"style\":\"短款层次感波波头，配有侧分刘海和后部小束发\"},\"outfit\":{\"count\":8,\"items\":[\"白色超大款短夹克，配深色饰边\",\"黑色高领短款上衣\",\"海军蓝百褶迷你裙\",\"带有绑带和小袋的功能性腰带\",\"腰间悬挂的绿色丝带和绳饰\",\"黑色露指手套\",\"带有图案条纹的深色中筒袜\",\"厚底海军蓝运动鞋\"]}},\"poses\":{\"count\":3,\"items\":[\"正面全身站立姿势\",\"侧面站立姿势\",\"手持短刃的动态动作\"]}}},{\"position\":\"bottom-left\",\"title\":\"SNS 素材生成\",\"count\":1,\"panel\":{\"type\":\"夏季促销社交媒体横幅\",\"branding\":\"{argument name=\\\"brand name\\\" default=\\\"LUMINA STUDIO\\\"}\",\"scene\":\"明亮的沙滩产品广告，配以浅蓝色天空渐变，上方有柔和的棕榈叶阴影，前景为沙滩，配有贝壳和草帽作为道具\",\"product\":{\"count\":1,\"item\":\"帆布托特包，配有海军蓝提手和底部面板，中心贴有品牌标识标签\"},\"text\":{\"headline\":\"SUMMER SALE\",\"discount\":\"最大 70% OFF\",\"button\":\"SHOP NOW\"}}},{\"position\":\"bottom-right\",\"title\":\"16 语言支持\",\"count\":4,\"panel\":{\"type\":\"2x2 小网格中的四种多语言广告变体\",\"variants\":{\"count\":4,\"items\":[{\"language\":\"日语\",\"headline\":\"夏のセール\",\"discount\":\"最大 70% OFF\",\"button\":\"SHOP NOW\"},{\"language\":\"英语\",\"headline\":\"Summer Sale\",\"discount\":\"70% OFF\",\"button\":\"SHOP NOW\"},{\"language\":\"韩语\",\"headline\":\"여름 세일\",\"discount\":\"최대 70% OFF\",\"button\":\"SHOP NOW\"},{\"language\":\"中文\",\"headline\":\"夏季特卖\",\"discount\":\"最高 70% OFF\",\"button\":\"SHOP NOW\"}]},\"shared_design\":\"所有四个语言版本均采用统一的托特包沙滩广告布局\"}}]},\"composition\":\"四个白色或米色内容面板均匀分布在深蓝色正方形画布上，每个部分标题以白色日语文本居中显示在面板下方\",\"quality\":\"清晰的排版，精美的广告设计，高度可读的多语言文本，一致的品牌形象，现代商业呈现\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "AI 图像功能宣传网格：一个四格宣传信息图，展示了精准的日语文本渲染、一致的动漫角色生成、现成的社交媒体广告创作以及用于营销的多语言设计变体。",
+      "subject": "产品",
+      "scene": "综合视觉",
+      "composition": [
+        "centered",
+        "full-body",
+        "grid",
+        "2x2",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "风格对比、产品系列、前后对照、角色变体",
+      "whySelected": "得分 79；构图: centered, full-body, grid, 2x2, layered, vertical；风格: anime, premium, studio；要求可读；包含标注/说明；文字是主视觉"
+    },
+    "copyTemplate": "Create a 综合视觉 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, full-body, grid, 2x2, layered, vertical]。\n\nVisual style:\n[参考风格: anime, premium, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14521",
+      "15608",
+      "14920",
+      "14519",
+      "14520",
+      "14221"
+    ]
+  }
+}

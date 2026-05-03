@@ -1,0 +1,45 @@
+{
+  "id": "14670",
+  "prompt": "Using the provided reference image, turn the cat into a realistic human portrait while keeping the same lounging pose, camera angle, framing, and the same plush turquoise chair background. Preserve the cat’s orange-and-white color pattern as inspiration for the human look: make the person a fair-skinned young woman with warm ginger hair and a soft, calm expression. Dress her in cozy off-white loungewear: 1 loose knit V-neck sweater and 1 pair of cream drawstring pants, seated naturally in the chair with relaxed body language. Make it photorealistic, soft natural indoor lighting, editorial lifestyle photo quality.",
+  "translatedPrompt": "使用提供的参考图像，将猫咪转换为写实的人类肖像，同时保持相同的慵懒姿势、摄像机角度、构图以及相同的毛绒绿松石色椅子背景。以猫咪的橙白相间花纹为灵感，将其转化为人类外观：将人物设定为一位皮肤白皙的年轻女性，拥有温暖的姜黄色头发和柔和、平静的表情。让她穿着舒适的米白色居家服：1 件宽松的针织 V 领毛衣和 1 条奶油色抽绳长裤，身体自然地坐在椅子上，姿态放松。要求照片级写实，采用柔和的室内自然光，呈现杂志生活方式摄影的质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "猫咪变身人类肖像：此提示词可将猫咪参考照片转换为写实风格的人类肖像，同时保留原始姿势、构图和背景，打造趣味十足的“宠物变人”肖像。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "editorial"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, editorial]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13960",
+      "13448",
+      "13451",
+      "13653",
+      "13697",
+      "13698"
+    ]
+  }
+}

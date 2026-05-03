@@ -1,0 +1,51 @@
+{
+  "id": "14567",
+  "prompt": "{\"type\":\"luxury promotional email newsletter layout\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"MAISON LUXE\\\"}\",\"tagline\":\"EST. 1925\",\"style\":\"elegant Art Deco inspired home decor branding with thin gold linework and refined typography\"},\"canvas\":{\"aspect_ratio\":\"9:16 vertical\",\"background\":\"warm ivory\",\"border\":\"double thin metallic gold frame with delicate corner ornaments\"},\"palette\":{\"colors\":[\"ivory\",\"soft blush pink\",\"pale sage green\",\"muted beige\",\"metallic gold\",\"charcoal text\"]},\"layout\":{\"sections\":[{\"title\":\"hero\",\"position\":\"top\",\"count\":3,\"labels\":[\"left decorative arch panel\",\"center brand and headline block\",\"right decorative arch panel with vase\"]},{\"title\":\"feature highlights\",\"position\":\"upper middle\",\"count\":3,\"labels\":[\"CURATED COLLECTIONS\",\"EXCEPTIONAL QUALITY\",\"INSPIRED SPACES\"]},{\"title\":\"seasonal promotion\",\"position\":\"middle lower\",\"count\":2,\"labels\":[\"interior photo with accent chair and side table\",\"SPRING REFRESH text panel\"]},{\"title\":\"social footer\",\"position\":\"bottom\",\"count\":4,\"labels\":[\"Instagram\",\"Pinterest\",\"Facebook\",\"Email\"]},{\"title\":\"utility footer\",\"position\":\"very bottom\",\"count\":5,\"labels\":[\"Free shipping on orders over $150\",\"Easy returns\",\"Worldwide delivery\",\"Unsubscribe\",\"View in Browser\"]}],\"spacing\":\"symmetrical editorial grid with generous margins and centered alignment\",\"dividers\":\"thin gold rules and vertical separators between feature columns\"},\"hero\":{\"logo\":\"fan-shaped Art Deco emblem above the brand name\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"Timeless Elegance, Modern Living\\\"}\",\"body\":\"Discover refined pieces and curated inspiration to elevate your everyday with a touch of timeless luxury.\",\"cta\":{\"text\":\"{argument name=\\\"button text\\\" default=\\\"EXPLORE THE COLLECTION\\\"}\",\"style\":\"gold rectangular button with white uppercase text\"},\"left_panel\":{\"arch\":\"tall Art Deco arch in pale sage\",\"details\":\"minimal geometric fan and line motifs in gold\"},\"right_panel\":{\"arch\":\"tall Art Deco arch in blush pink\",\"object\":\"faceted gold vase with slender leafy stems on stacked blush display plinths\"}},\"features\":{\"icons\":3,\"items\":[{\"title\":\"CURATED COLLECTIONS\",\"description\":\"Handpicked pieces that blend classic charm with modern sophistication.\",\"icon\":\"fan shell emblem\"},{\"title\":\"EXCEPTIONAL QUALITY\",\"description\":\"Crafted with care using premium materials designed to last a lifetime.\",\"icon\":\"diamond line emblem\"},{\"title\":\"INSPIRED SPACES\",\"description\":\"Ideas and inspiration to create a home that reflects your unique sense of style.\",\"icon\":\"arched window emblem\"}]},\"promo\":{\"image_side\":\"left\",\"image\":{\"scene\":\"luxurious living room corner\",\"objects_count\":4,\"objects\":[\"mint green scallop-back velvet accent chair with gold legs\",\"round side table with dark top and gold frame\",\"small gold table lamp with dome shade\",\"partial gold sunburst mirror on paneled wall\"],\"floor\":\"light textured rug\",\"framing\":\"large circular crop nested into an arch outline\"},\"text_side\":\"right\",\"title\":\"{argument name=\\\"promo title\\\" default=\\\"SPRING REFRESH\\\"}\",\"body\":\"Brighten your space with our new spring collection. Fresh hues, elegant finishes, and timeless details await.\",\"cta\":{\"text\":\"{argument name=\\\"secondary button text\\\" default=\\\"SHOP NEW ARRIVALS\\\"}\",\"style\":\"gold rectangular button with white uppercase text\"},\"background\":\"soft blush with gold corner flourishes\"},\"footer\":{\"social_header\":\"LET’S STAY CONNECTED\",\"social_icons_count\":4,\"shipping_bar\":{\"background\":\"pale sage strip\",\"items_count\":3,\"items\":[\"Free shipping on orders over $150\",\"Easy returns\",\"Worldwide delivery\"]},\"legal\":\"You are receiving this email because you subscribed to Maison Luxe.\"},\"render_style\":\"high-end email marketing mockup, clean luxury editorial design, crisp vector line art mixed with soft realistic product photography, balanced negative space, polished premium aesthetic\"}",
+  "translatedPrompt": "{\"type\":\"奢华促销邮件通讯排版\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"MAISON LUXE\\\"}\",\"tagline\":\"EST. 1925\",\"style\":\"优雅的装饰艺术风格家居装饰品牌，采用纤细的金色线条和精致的排版\"},\"canvas\":{\"aspect_ratio\":\"9:16 竖版\",\"background\":\"暖象牙白\",\"border\":\"双层纤细金属金边框，配有精致的边角装饰\"},\"palette\":{\"colors\":[\"象牙白\",\"柔和腮红粉\",\"浅鼠尾草绿\",\"柔和米色\",\"金属金\",\"炭灰色文字\"]},\"layout\":{\"sections\":[{\"title\":\"首屏\",\"position\":\"顶部\",\"count\":3,\"labels\":[\"左侧装饰拱门面板\",\"中央品牌及标题块\",\"右侧带花瓶的装饰拱门面板\"]},{\"title\":\"特色亮点\",\"position\":\"中上部\",\"count\":3,\"labels\":[\"精选系列\",\"卓越品质\",\"灵感空间\"]},{\"title\":\"季节性促销\",\"position\":\"中下部\",\"count\":2,\"labels\":[\"带有装饰椅和边桌的室内照片\",\"SPRING REFRESH 文字面板\"]},{\"title\":\"社交媒体页脚\",\"position\":\"底部\",\"count\":4,\"labels\":[\"Instagram\",\"Pinterest\",\"Facebook\",\"电子邮件\"]},{\"title\":\"实用信息页脚\",\"position\":\"最底部\",\"count\":5,\"labels\":[\"订单满 150 美元免运费\",\"轻松退货\",\"全球配送\",\"取消订阅\",\"在浏览器中查看\"]}],\"spacing\":\"对称的编辑网格，留白充裕且居中对齐\",\"dividers\":\"细金线和特色栏之间的垂直分隔符\"},\"hero\":{\"logo\":\"品牌名称上方的扇形装饰艺术标志\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"永恒优雅，现代生活\\\"}\",\"body\":\"探索精致单品与精选灵感，以一丝永恒的奢华感提升您的日常生活。\",\"cta\":{\"text\":\"{argument name=\\\"button text\\\" default=\\\"探索系列\\\"}\",\"style\":\"金色矩形按钮，配白色大写文字\"},\"left_panel\":{\"arch\":\"浅鼠尾草绿色的高大装饰艺术拱门\",\"details\":\"金色的简约几何扇形和线条图案\"},\"right_panel\":{\"arch\":\"腮红粉色的高大装饰艺术拱门\",\"object\":\"叠放的腮红粉展示台上的多面金色花瓶，插有纤细的叶茎\"}},\"features\":{\"icons\":3,\"items\":[{\"title\":\"精选系列\",\"description\":\"融合经典魅力与现代精致感的精选单品。\",\"icon\":\"扇贝标志\"},{\"title\":\"卓越品质\",\"description\":\"精心打造，采用旨在终身使用的优质材料。\",\"icon\":\"菱形线条标志\"},{\"title\":\"灵感空间\",\"description\":\"为您提供创意与灵感，打造彰显独特风格的家居空间。\",\"icon\":\"拱形窗标志\"}]},\"promo\":{\"image_side\":\"左\",\"image\":{\"scene\":\"奢华客厅角落\",\"objects_count\":4,\"objects\":[\"带有金色椅腿的薄荷绿扇形靠背天鹅绒装饰椅\",\"深色台面配金色框架的圆形边桌\",\"带有圆顶灯罩的小型金色台灯\",\"镶板墙上部分的金色太阳放射状镜子\"],\"floor\":\"浅色纹理地毯\",\"framing\":\"嵌入拱形轮廓的大型圆形裁剪\"},\"text_side\":\"右\",\"title\":\"{argument name=\\\"promo title\\\" default=\\\"春季焕新\\\"}\",\"body\":\"用我们的春季新品系列点亮您的空间。清新的色调、优雅的饰面和永恒的细节等待着您。\",\"cta\":{\"text\":\"{argument name=\\\"secondary button text\\\" default=\\\"选购新品\\\"}\",\"style\":\"金色矩形按钮，配白色大写文字\"},\"background\":\"带有金色边角装饰的柔和腮红粉色\"},\"footer\":{\"social_header\":\"保持联系\",\"social_icons_count\":4,\"shipping_bar\":{\"background\":\"浅鼠尾草绿条纹\",\"items_count\":3,\"items\":[\"订单满 150 美元免运费\",\"轻松退货\",\"全球配送\"]},\"legal\":\"您收到此邮件是因为您订阅了 Maison Luxe。\"},\"render_style\":\"高端邮件营销模板，简洁的奢华编辑设计，清爽的矢量线条艺术与柔和写实的产品摄影相结合，平衡的负空间，精致的高端美学\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奢华装饰艺术风格家居装饰邮件：一款为奢华家居装饰品牌设计的精致竖版邮件通讯模板，非常适合重现高端营销活动或优雅的促销排版。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "grid",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "editorial",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, grid, vertical]。\n\nVisual style:\n[参考风格: realistic, editorial, luxury, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15085",
+      "15444",
+      "15668",
+      "14882",
+      "15404",
+      "14813"
+    ]
+  }
+}

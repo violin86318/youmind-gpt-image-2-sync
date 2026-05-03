@@ -1,0 +1,35 @@
+{
+  "id": "14719",
+  "prompt": "{argument name=\"story idea\" default=\"your simple story idea\"}, american comic multi-panel illustration, diagonal layout, six panels, cinematic storytelling, clear reading flow, with speech bubbles.",
+  "translatedPrompt": "{argument name=\"story idea\" default=\"你的简单故事构思\"}, 美式漫画多格插图, 对角线布局, 六格漫画, 电影感叙事, 清晰的阅读流向, 带有对话气泡。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "美式漫画条漫模板：一个可复用的模板，用于创作具有电影叙事元素的多格美式漫画插图。",
+      "subject": "综合主体",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "风格"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14331",
+      "14222",
+      "15049",
+      "14058",
+      "14330",
+      "14337"
+    ]
+  }
+}

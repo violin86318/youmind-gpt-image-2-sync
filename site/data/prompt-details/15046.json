@@ -1,0 +1,52 @@
+{
+  "id": "15046",
+  "prompt": "A highly detailed photorealistic LEGO diorama of {argument name=\"landmark\" default=\"the Alhambra in Granada\"}, shown as an ornate Moorish courtyard at golden-hour sunset. The scene is built entirely from LEGO bricks and minifigure parts, with warm amber light, cinematic depth, and rich texture. Center the composition on a long narrow reflective water channel leading toward 1 small round fountain in the middle distance and a grand horseshoe arch beyond it. Surround the courtyard with intricate tan stone-like LEGO walls, carved-looking geometric relief patterns, slender columns, tiled archways, and terracotta rooflines made from densely layered reddish-brown pieces. In the background, include 2 main towers and several additional palace structures rising behind the courtyard, plus 6 tall dark green cypress trees silhouetted against a glowing orange sky. Add blue, green, and white mosaic-style tile details around the central arch and lower walls. Populate the courtyard with exactly 9 LEGO tourists and visitors: 1 traveler in a tan hat and light outfit, 1 visitor in a blue jacket beside them, 1 person with a green backpack at the left foreground, 1 photographer holding a camera in the left foreground, 1 kneeling visitor examining the garden at the right edge of the water channel, 2 standing visitors chatting in the right midground, and 2 seated visitors on a tiled bench in the right foreground. Frame the water channel with low manicured hedges and small pink flowers. Use a low eye-level perspective from the start of the reflecting pool, shallow depth of field, crisp focus on the central courtyard, glossy water reflections, realistic LEGO stud texture, and a mood that feels majestic, playful, and museum-quality.",
+  "translatedPrompt": "一张高度精细、照片级的 {argument name=\"landmark\" default=\"格拉纳达阿尔罕布拉宫\"} 乐高立体模型，展现了黄金时刻日落下的华丽摩尔式庭院。整个场景完全由乐高积木和人仔零件拼搭而成，带有温暖的琥珀色光影、电影般的景深和丰富的质感。构图中心为一个狭长的反射水渠，通向中景处的一座小型圆形喷泉以及后方宏伟的马蹄形拱门。庭院四周环绕着错综复杂的棕褐色石质乐高墙壁，饰有雕刻感的几何浮雕图案、纤细的柱子、瓷砖拱门，以及由致密层叠的红褐色零件制成的赤陶屋顶线条。背景中包含 2 座主塔和几座耸立在庭院后的宫殿建筑，以及 6 棵高大的深绿色柏树，在橙色发光的天空映衬下呈现出剪影。在中央拱门和下层墙壁周围加入蓝色、绿色和白色的马赛克风格瓷砖细节。庭院内精确布置 9 名乐高游客：1 名戴着棕褐色帽子、身穿浅色服装的旅行者，其身旁 1 名穿着蓝色夹克的游客，左侧前景 1 名背着绿色背包的人，左侧前景 1 名拿着相机的摄影师，水渠右侧边缘 1 名跪着观察花园的游客，右侧中景 2 名站立交谈的游客，以及右侧前景 1 张瓷砖长椅上坐着的 2 名游客。水渠两侧饰有低矮的修剪整齐的树篱和粉色小花。采用从反射池起点出发的低视角，浅景深，中央庭院焦点清晰，水面光泽倒影，呈现真实的乐高颗粒质感，营造出一种宏伟、俏皮且具有博物馆品质的氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "乐高版阿尔罕布拉宫庭院日落：此提示词可生成一张电影级、高度精细的乐高风格阿尔罕布拉宫庭院场景，包含游客、倒影水池以及温暖的日落写实感，适用于旅游艺术或建筑展示图像。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [
+        "layered"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, camera]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14693",
+      "15178",
+      "15367",
+      "15757",
+      "14613",
+      "14616"
+    ]
+  }
+}

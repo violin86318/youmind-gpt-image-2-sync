@@ -1,0 +1,47 @@
+{
+  "id": "13967",
+  "prompt": "{\n  \"type\": \"split-panel cinematic movie poster and production design reference sheet\",\n  \"left_panel\": {\n    \"type\": \"movie poster\",\n    \"title\": \"{argument name=\\\"movie title\\\" default=\\\"RED ORBIT\\\"}\",\n    \"taglines\": [\n      \"{argument name=\\\"main tagline\\\" default=\\\"HUMANITY WAS NOT THE FIRST. HUMANITY WILL NOT BE THE LAST.\\\"}\",\n      \"THE VERDICT IS NOT A QUESTION. IT IS A FACT.\"\n    ],\n    \"characters\": [\n      {\n        \"name\": \"{argument name=\\\"lead character one\\\" default=\\\"COMMANDER VERA OKAFOR\\\"}\",\n        \"description\": \"Black woman, serious expression, dark sci-fi spacesuit collar\"\n      },\n      {\n        \"name\": \"{argument name=\\\"lead character two\\\" default=\\\"DR. SOREN MALIS\\\"}\",\n        \"description\": \"Older white man, intense expression, dark sci-fi spacesuit collar\"\n      }\n    ],\n    \"imagery\": \"Large cratered moon, black eclipse, massive ringed spaceship, smaller dropship, bottom control room view, bottom credits block\"\n  },\n  \"right_panel\": {\n    \"type\": \"production design sheet\",\n    \"title\": \"RED ORBIT SCALE & SETTING SHEET\",\n    \"sections\": [\n      {\n        \"title\": \"Spacecraft & Scale\",\n        \"elements\": [\n          \"Red planet and black eclipse graphics\",\n          \"Massive spaceship {argument name=\\\"main spaceship\\\" default=\\\"CR_01 THE VERDICT\\\"}\",\n          \"3 scale comparison silhouettes\",\n          \"Smaller ship VK_01 HERALD\",\n          \"2 character scale figures\",\n          \"3 launch sequence thumbnails\"\n        ]\n      },\n      {\n        \"title\": \"COMMANDER VERA OKAFOR\",\n        \"elements\": [\n          \"4 full-body turnarounds (front, back, side, 3/4)\",\n          \"3 facial expression portraits\",\n          \"8 detail callouts (suit, helmet, gloves, boots, tablet)\",\n          \"2 full-body spacesuit figures\"\n        ]\n      },\n      {\n        \"title\": \"DR. SOREN MALIS\",\n        \"elements\": [\n          \"4 full-body turnarounds (front, back, side, 3/4)\",\n          \"3 facial expression portraits\",\n          \"6 detail callouts (tablet, storage, arm scar, boots)\",\n          \"1 extra portrait\"\n        ]\n      },\n      {\n        \"title\": \"RED ORBIT STATION\",\n        \"elements\": [\n          \"1 exterior orthographic overview\",\n          \"1 longitudinal cross-section cutaway\",\n          \"6 structural details, interior corridor, and material reference thumbnails\"\n        ]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"分屏式电影海报与制作设计参考图\",\n  \"left_panel\": {\n    \"type\": \"电影海报\",\n    \"title\": \"{argument name=\\\"movie title\\\" default=\\\"RED ORBIT\\\"}\",\n    \"taglines\": [\n      \"{argument name=\\\"main tagline\\\" default=\\\"HUMANITY WAS NOT THE FIRST. HUMANITY WILL NOT BE THE LAST.\\\"}\",\n      \"判决并非疑问，而是事实。\"\n    ],\n    \"characters\": [\n      {\n        \"name\": \"{argument name=\\\"lead character one\\\" default=\\\"COMMANDER VERA OKAFOR\\\"}\",\n        \"description\": \"黑人女性，表情严肃，深色科幻太空服领口\"\n      },\n      {\n        \"name\": \"{argument name=\\\"lead character two\\\" default=\\\"DR. SOREN MALIS\\\"}\",\n        \"description\": \"年长白人男性，表情强烈，深色科幻太空服领口\"\n      }\n    ],\n    \"imagery\": \"巨大的环形山月球、黑色日食、巨大的环形宇宙飞船、小型登陆艇、底部控制室视角、底部演职员表区域\"\n  },\n  \"right_panel\": {\n    \"type\": \"制作设计图\",\n    \"title\": \"RED ORBIT 比例与设定图\",\n    \"sections\": [\n      {\n        \"title\": \"宇宙飞船与比例\",\n        \"elements\": [\n          \"红色行星与黑色日食图形\",\n          \"巨型宇宙飞船 {argument name=\\\"main spaceship\\\" default=\\\"CR_01 THE VERDICT\\\"}\",\n          \"3 个比例对比剪影\",\n          \"小型飞船 VK_01 HERALD\",\n          \"2 个角色比例人偶\",\n          \"3 个发射序列缩略图\"\n        ]\n      },\n      {\n        \"title\": \"COMMANDER VERA OKAFOR\",\n        \"elements\": [\n          \"4 个全身转向图（正面、背面、侧面、3/4 侧面）\",\n          \"3 个面部表情肖像\",\n          \"8 个细节标注（太空服、头盔、手套、靴子、平板电脑）\",\n          \"2 个全身太空服人偶\"\n        ]\n      },\n      {\n        \"title\": \"DR. SOREN MALIS\",\n        \"elements\": [\n          \"4 个全身转向图（正面、背面、侧面、3/4 侧面）\",\n          \"3 个面部表情肖像\",\n          \"6 个细节标注（平板电脑、存储装置、手臂伤疤、靴子）\",\n          \"1 个额外肖像\"\n        ]\n      },\n      {\n        \"title\": \"RED ORBIT 空间站\",\n        \"elements\": [\n          \"1 个外部正投影概览\",\n          \"1 个纵向剖面图\",\n          \"6 个结构细节、内部走廊及材质参考缩略图\"\n        ]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "科幻电影海报与制作设计图：生成一种分屏布局，左侧为电影级科幻电影海报，右侧为高度详细的多部分角色与载具制作设计参考图。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "full-body",
+        "cutaway",
+        "callout"
+      ],
+      "style": [
+        "cinematic",
+        "sci-fi"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body, cutaway, callout]。\n\nVisual style:\n[参考风格: cinematic, sci-fi]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14202",
+      "15103",
+      "14438",
+      "14600",
+      "15431",
+      "15731"
+    ]
+  }
+}

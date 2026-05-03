@@ -1,0 +1,43 @@
+{
+  "id": "15113",
+  "prompt": "Create a bold Japanese logo on a clean light gray background for a fictional racing-themed eel character brand. The main text should be large stylized katakana/kanji reading {argument name=\"main logo text\" default=\"ウナ娘\"}, with a smaller subtitle banner below reading {argument name=\"subtitle text\" default=\"ヌルヌルダービー\"}. Integrate exactly 2 eel illustrations into the lettering: one dark navy eel curling over the top left of the first character with a cute smiling face and pale belly markings, and one second eel forming a sweeping curl around the right side of the final character. Use a vivid aquatic palette with deep cobalt blue, electric blue, cyan, teal, white highlights, and metallic gold edging. The lettering should have thick white inner borders, gold outer trim, subtle drop shadows, and a glossy high-energy arcade mascot style. Add dynamic water splash effects around the bottom left and lower right, flowing wave ribbons beneath the text, exactly 6 gold star-shaped sparkles scattered around the logo, and exactly 4 small blue diamond-like sparkle accents near the center and top. Behind the subtitle, include a blue-and-white checkered racing flag pattern stretching horizontally. The overall composition should feel playful, premium, and fast-paced, combining marine motifs with horse-racing or derby energy, rendered as crisp vector-like logo art with polished gradients and strong sticker-style outlines.",
+  "translatedPrompt": "在干净的浅灰色背景上创作一个大胆的日本风格 Logo，用于一个虚构的赛车主题鳗鱼角色品牌。主文字应为醒目的日文片假名/汉字，内容为 {argument name=\"main logo text\" default=\"ウナ娘\"}，下方配有一个较小的副标题横幅，内容为 {argument name=\"subtitle text\" default=\"ヌルヌルダービー\"}。将 2 条鳗鱼插画精确融入文字中：第一条深海军蓝色的鳗鱼盘绕在第一个字符的左上方，带有可爱的笑脸和浅色腹部斑纹；第二条鳗鱼在最后一个字符的右侧形成一个大弧度的卷曲。使用鲜艳的水系配色，包括深钴蓝色、电光蓝、青色、蓝绿色、白色高光以及金属金色边缘。文字应带有厚实的白色内边框、金色外饰边、细腻的投影，并呈现出光泽感强、充满活力的街机吉祥物风格。在左下角和右下角添加动态水花特效，文字下方加入流动的波浪丝带，Logo 周围散布 6 个金色的星形闪光，并在中心和顶部附近添加 4 个小型蓝色钻石状闪光装饰。在副标题后方，加入水平延伸的蓝白方格赛车旗图案。整体构图应兼具趣味性、高级感与快节奏，将海洋元素与赛马或大赛的活力相结合，呈现出清晰的矢量风格 Logo 艺术效果，并带有精致的渐变和强烈的贴纸风格轮廓。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日本鳗鱼大赛 Logo：此提示词可生成精美的日本吉祥物 Logo，融合了鳗鱼元素字体、水流特效及赛车风格装饰，适用于品牌推广或社交媒体视觉设计。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[参考风格: premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13507",
+      "14936",
+      "14815",
+      "14935",
+      "14496",
+      "14511"
+    ]
+  }
+}

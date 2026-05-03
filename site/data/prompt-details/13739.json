@@ -1,0 +1,44 @@
+{
+  "id": "13739",
+  "prompt": "A photorealistic automotive shot of a {argument name=\"car color\" default=\"bright red\"} {argument name=\"car model\" default=\"Ferrari sports car\"} parked on a {argument name=\"setting\" default=\"coastal road\"}. The vehicle is angled toward the camera, displaying sleek aerodynamic curves, silver five-spoke alloy wheels, and a sharp front fascia with black intakes. The background features a {argument name=\"background\" default=\"scenic ocean view with a rocky coastline\"}, deep blue water, and a clear sky. Bright, sunny daylight casts distinct shadows on the asphalt, emphasizing the car's glossy finish.",
+  "translatedPrompt": "一张逼真的汽车摄影作品，展示了一辆 {argument name=\"car color\" default=\"亮红色\"} {argument name=\"car model\" default=\"法拉利跑车\"} 停在 {argument name=\"setting\" default=\"沿海公路\"} 上。车辆以一定角度朝向镜头，展现出流畅的空气动力学曲线、银色五辐合金轮毂以及带有黑色进气口的锋利前脸。背景为 {argument name=\"background\" default=\"带有岩石海岸线的壮丽海景\"}、深蓝色的海水和晴朗的天空。明亮的日光在柏油路上投下清晰的阴影，突显了汽车光泽的漆面。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "逼真的海岸跑车摄影：生成一张停在风景优美的沿海公路上、高分辨率且逼真的豪华跑车图像，非常适合汽车展示。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14731",
+      "13866",
+      "13448",
+      "13451",
+      "13653",
+      "13697"
+    ]
+  }
+}

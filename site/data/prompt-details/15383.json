@@ -1,0 +1,44 @@
+{
+  "id": "15383",
+  "prompt": "A lavish dark fantasy anime illustration of 11 elegant young women gathered in a grand gothic library at night, composed like an elite magical academy coven portrait. The room is filled wall-to-wall with towering wooden bookshelves, rolling ladders, crimson velvet banners with occult gold sigils, carved paneling, candlelight, a warm table lamp on the far left, red upholstered armchairs and sofas, stacked antique books, potion bottles, crystal orbs, brass instruments, and a tall arched window showing a deep violet night sky. The overall palette is black, crimson, gold, and purple, with dramatic low-key lighting, rich shadows, glossy highlights, and a luxurious, sinister atmosphere. All 11 characters wear coordinated occult-school uniforms: black tailored jackets with gold embroidery and crest details, white shirts, red ties or ribbons, layered belts and chains, short skirts or fitted bottoms, black thigh-high stockings, and black capes lined in dark red. Place 3 seated prominently in the middle on ornate red chairs and sofa, 3 in the back row standing among the shelves, 3 in the front row on the floor or leaning close to the table, and 2 reclining at the far left and far right edges. Vary their hair colors and styles across the group, including {argument name=\"hair color\" default=\"blonde\"}, silver, black, red, blue, brown, and purple; use long wavy hair, twin tails, straight long hair, side ponytail, and loose layered cuts. Give each woman a calm, confident, slightly dangerous expression, as if they are genius witches or aristocratic students. Count and include 6 clearly visible magical effects or props being actively handled: 1 red flame floating above a raised hand in the back center, 1 glowing purple orb held by a standing girl near the upper right center, 1 swirling purple magic circle over an open book at the lower left, 1 faint purple arcane flame near the lap of the seated silver-haired girl on the right-center, 1 dark violet smoky aura around the far-right reclined girl, and 1 glowing purple crystal lamp or alchemical vessel on the central coffee table. Also include 4 additional glass vessels in the foreground and side tables: 1 crystal ball at the bottom left, 1 tall red potion bottle at the bottom right, and 2 smaller laboratory bottles beside it. Add multiple open and closed grimoires across laps, tables, and the floor, with at least 8 visible books in total. The central focal character is a poised blonde girl seated in the largest armchair, legs crossed, hand near her face, framed as the leader. Render in highly detailed polished anime style, ultra-detailed fabrics, intricate gold trim, subtle facial shading, luminous eyes, cinematic composition, wide group shot, fantasy key art quality, moody gothic academia, magical sisterhood, sharp focus, ornate environment, no modern objects.",
+  "translatedPrompt": "一张奢华的暗黑奇幻动漫插画，描绘了 11 位优雅的年轻女性在深夜的宏伟哥特式图书馆中聚集，构图如同精英魔法学院的集会肖像。房间内堆满了高耸的木制书架、移动梯子、带有神秘金色符号的深红色天鹅绒横幅、雕花护墙板、烛光，最左侧有一盏温暖的台灯，配有红色软垫扶手椅和沙发、成堆的古籍、药水瓶、水晶球、黄铜仪器，以及一扇可以看到深紫色夜空的高大拱窗。整体色调为黑色、深红色、金色和紫色，采用戏剧性的低调照明，阴影浓郁，高光亮丽，营造出一种奢华而阴森的氛围。所有 11 位角色均身穿统一的神秘学院制服：带有金色刺绣和徽章细节的黑色修身夹克、白衬衫、红领带或丝带、多层腰带和链条、短裙或修身下装、黑色过膝袜以及内衬为深红色的黑色斗篷。安排 3 人坐在中间华丽的红色椅子和沙发上，3 人站在后排书架间，3 人在前排坐在地板上或靠近桌子，2 人分别斜靠在最左侧和最右侧边缘。角色的发色和发型各异，包括 {argument name=\"hair color\" default=\"金色\"}、银色、黑色、红色、蓝色、棕色和紫色；发型涵盖长卷发、双马尾、直长发、侧马尾和层次感碎发。赋予每位女性冷静、自信且略带危险的神情，仿佛她们是天才女巫或贵族学生。画面中需包含 6 个清晰可见的魔法效果或正在使用的道具：后方中心处悬浮在举起手上的 1 团红色火焰，右上中心附近站立少女手中持有的 1 个发光的紫色球体，左下方打开的书本上方 1 个旋转的紫色魔法阵，右中位置银发少女膝盖附近 1 团微弱的紫色奥术火焰，最右侧斜靠少女周围 1 圈深紫色烟雾光环，以及中央咖啡桌上 1 个发光的紫色水晶灯或炼金容器。此外，在前景和侧桌上增加 4 个额外的玻璃容器：左下角 1 个水晶球，右下角 1 个高大的红色药水瓶，以及旁边的 2 个小型实验瓶。在膝盖、桌子和地板上放置多个打开和合上的魔法书，总计至少 8 本。中心焦点角色是一位姿态从容的金色头发少女，她坐在最大的扶手椅上，双腿交叠，手靠近脸部，呈现出领袖的姿态。采用高度精细的抛光动漫风格渲染，展现超细腻的织物纹理、复杂的金色饰边、微妙的面部阴影、明亮的眼睛、电影级构图、宽幅群像镜头、奇幻主视觉图品质、忧郁的哥特学院风、魔法姐妹会、清晰对焦、华丽环境，无现代物品。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "哥特动漫风魔法图书馆群像：此提示词可生成一张电影质感的暗黑学院风动漫群像，描绘了 11 位时尚的魔法学院少女在华丽的哥特式图书馆中的合影，非常适合作为奇幻艺术主视觉图或角色群像海报。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "layered"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered]。\n\nVisual style:\n[参考风格: cinematic, anime, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14957",
+      "14865",
+      "15797",
+      "14508",
+      "14886",
+      "15003"
+    ]
+  }
+}

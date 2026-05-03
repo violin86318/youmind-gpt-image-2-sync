@@ -1,0 +1,42 @@
+{
+  "id": "13744",
+  "prompt": "{\n  \"type\": \"comprehensive anime character reference sheet\",\n  \"character\": {\n    \"name\": \"{argument name=\\\"character name\\\" default=\\\"SHIBUYA SHION\\\"}\",\n    \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"black bob with purple inner color\\\"}\",\n    \"eyes\": \"{argument name=\\\"eye color\\\" default=\\\"purple\\\"}\",\n    \"style\": \"{argument name=\\\"theme\\\" default=\\\"urban minimalist street fashion\\\"}\"\n  },\n  \"layout\": {\n    \"top_left\": {\n      \"sections\": [\n        \"PROFILE\",\n        \"CONCEPT\",\n        \"KEYWORD\"\n      ]\n    },\n    \"top_center\": {\n      \"title\": \"◆ 三面図 (THREE VIEWS)\",\n      \"count\": 3,\n      \"labels\": [\"FRONT\", \"SIDE\", \"BACK\"],\n      \"outfit\": \"{argument name=\\\"main outfit\\\" default=\\\"lavender hoodie, denim shorts, black backpack, black high-top sneakers\\\"}\"\n    },\n    \"top_right\": {\n      \"title\": \"◆ 表情 (EXPRESSIONS)\",\n      \"count\": 6,\n      \"labels\": [\"ニュートラル\", \"微笑み\", \"真剣\", \"驚き\", \"照れ\", \"笑顔\"]\n    },\n    \"bottom_left\": {\n      \"title\": \"◆ ディテール (DETAILS)\",\n      \"count\": 6,\n      \"labels\": [\"目 (EYES)\", \"髪 (HAIR)\", \"ピアス (EARRING)\", \"パーカー (HOODIE)\", \"バックパック (BACKPACK)\", \"スニーカー (SNEAKERS)\"]\n    },\n    \"bottom_right\": {\n      \"title\": \"◆ 衣装バリエーション (OUTFIT VARIATIONS)\",\n      \"count\": 3,\n      \"labels\": [\"デイリー (DAILY)\", \"モノトーン (MONOTONE)\", \"クリエイター (CREATOR)\"]\n    },\n    \"footer\": {\n      \"palettes\": [\n        {\n          \"title\": \"◆ カラーパレット (COLOR PALETTE)\",\n          \"count\": 6,\n          \"labels\": [\"HAIR\", \"EYES\", \"HOODIE\", \"DENIM\", \"SHOES\", \"SKIN\"]\n        },\n        {\n          \"title\": \"◆ 素材・質感 (MATERIALS)\",\n          \"count\": 4,\n          \"labels\": [\"HOODIE FABRIC\", \"DENIM\", \"BACKPACK CANVAS\", \"METAL\"]\n        }\n      ],\n      \"notes\": {\n        \"title\": \"◆ 備考 (NOTES)\",\n        \"project_info\": \"PROJECT: SHIBUYA ARTIST, DATE: DEC 2025\"\n      }\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"综合动漫角色参考表\",\n  \"character\": {\n    \"name\": \"{argument name=\\\"character name\\\" default=\\\"SHIBUYA SHION\\\"}\",\n    \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"黑色波波头，内侧紫色\\\"}\",\n    \"eyes\": \"{argument name=\\\"eye color\\\" default=\\\"紫色\\\"}\",\n    \"style\": \"{argument name=\\\"theme\\\" default=\\\"都市极简街头风\\\"}\"\n  },\n  \"layout\": {\n    \"top_left\": {\n      \"sections\": [\n        \"个人资料 (PROFILE)\",\n        \"概念 (CONCEPT)\",\n        \"关键词 (KEYWORD)\"\n      ]\n    },\n    \"top_center\": {\n      \"title\": \"◆ 三面图 (THREE VIEWS)\",\n      \"count\": 3,\n      \"labels\": [\"正面\", \"侧面\", \"背面\"],\n      \"outfit\": \"{argument name=\\\"main outfit\\\" default=\\\"淡紫色连帽衫、牛仔短裤、黑色双肩包、黑色高帮运动鞋\\\"}\"\n    },\n    \"top_right\": {\n      \"title\": \"◆ 表情 (EXPRESSIONS)\",\n      \"count\": 6,\n      \"labels\": [\"中性\", \"微笑\", \"认真\", \"惊讶\", \"害羞\", \"大笑\"]\n    },\n    \"bottom_left\": {\n      \"title\": \"◆ 细节 (DETAILS)\",\n      \"count\": 6,\n      \"labels\": [\"眼睛 (EYES)\", \"头发 (HAIR)\", \"耳环 (EARRING)\", \"连帽衫 (HOODIE)\", \"双肩包 (BACKPACK)\", \"运动鞋 (SNEAKERS)\"]\n    },\n    \"bottom_right\": {\n      \"title\": \"◆ 服装变体 (OUTFIT VARIATIONS)\",\n      \"count\": 3,\n      \"labels\": [\"日常 (DAILY)\", \"单色 (MONOTONE)\", \"创作者 (CREATOR)\"]\n    },\n    \"footer\": {\n      \"palettes\": [\n        {\n          \"title\": \"◆ 调色板 (COLOR PALETTE)\",\n          \"count\": 6,\n          \"labels\": [\"头发\", \"眼睛\", \"连帽衫\", \"牛仔\", \"鞋子\", \"皮肤\"]\n        },\n        {\n          \"title\": \"◆ 材质与质感 (MATERIALS)\",\n          \"count\": 4,\n          \"labels\": [\"连帽衫面料\", \"牛仔布\", \"双肩包帆布\", \"金属\"]\n        }\n      ],\n      \"notes\": {\n        \"title\": \"◆ 备注 (NOTES)\",\n        \"project_info\": \"项目：SHIBUYA ARTIST，日期：2025 年 12 月\"\n      }\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "综合角色设计表：生成一份高度详细的动漫角色参考文档，包含多角度视图、表情、服装变体及材质调色板。",
+      "subject": "服饰",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime",
+        "minimalist"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime, minimalist]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13930",
+      "13935",
+      "14544",
+      "15366",
+      "13910",
+      "14637"
+    ]
+  }
+}

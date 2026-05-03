@@ -1,0 +1,45 @@
+{
+  "id": "15054",
+  "prompt": "A dramatic vertical football transfer announcement poster in Boca Juniors colors, designed like a polished social media graphic. Show a half-body portrait of {argument name=\"player name\" default=\"Paulo Dybala\"} wearing the modern Boca Juniors home jersey, dark royal blue with a wide gold chest band, gold shoulder stripes, Adidas logo on the right chest, CABJ crest on the left chest, and “betsson” sponsor across the yellow band. The player is centered slightly to the right, cropped from upper torso to top of head, with short dark hair and athletic build, turning his head slightly to his left while pointing with his right index finger directly at the club crest on his chest. Do not show facial details clearly; keep the face obscured or out of focus. Use a deep blue textured stadium-themed background with glowing highlights and subtle grunge overlays. In the lower left background, include La Bombonera stadium facade with visible signage reading “LA BOMBONERA” and “CLUB ATLÉTICO BOCA JUNIORS.” Add small floating gold confetti particles throughout the scene for celebratory energy. Place a large CABJ shield logo in the upper right. Typography must be bold and poster-like: at the top left in small gold uppercase text, “BIENVENIDO A LA BOMBONERA”; below it a small gold star; then a huge stacked headline on the left with “BIENVENIDO” in tall white condensed uppercase and “DYBALA” in oversized gold condensed uppercase. Below the name, add smaller white uppercase text reading “PAULO DYBALA,” flanked by thin gold lines and a small gold star. At the bottom, place a thin gold horizontal line across the width and centered gold uppercase text reading “| JUGADOR DE BOCA |” with a gold star beneath it. Use high contrast, glossy sports-poster lighting, rich navy and gold color grading, sharp fabric detail, and an elite club announcement aesthetic.",
+  "translatedPrompt": "一张采用博卡青年队标志性配色的竖版足球转会官宣海报，设计风格如同精致的社交媒体海报。展示 {argument name=\"player name\" default=\"Paulo Dybala\"} 的半身肖像，他身穿现代博卡青年队主场球衣，球衣为深宝蓝色，胸前有宽大的金色横条，肩部带有金色条纹，右胸印有 Adidas 标志，左胸印有 CABJ 队徽，黄色横条上印有“betsson”赞助商标志。球员位于画面偏右侧，取景范围从上半身到头部，留着深色短发，体格健壮，头部微微向左转，右手食指指向胸前的队徽。无需清晰展示面部细节；保持面部模糊或虚化。使用带有发光高光和细微磨损纹理的深蓝色体育场主题背景。在左下角背景中，加入博卡青年队主场糖果盒球场 (La Bombonera) 的外观，并清晰可见写有“LA BOMBONERA”和“CLUB ATLÉTICO BOCA JUNIORS”的标牌。在整个场景中添加少量漂浮的金色纸屑，营造庆祝氛围。在右上角放置一个巨大的 CABJ 盾形队徽。排版需采用醒目的海报风格：左上方使用小号金色大写文字书写“BIENVENIDO A LA BOMBONERA”；下方配有一颗小金星；左侧为主标题，采用堆叠式排版，其中“BIENVENIDO”为高大的白色压缩大写字体，“DYBALA”为超大号金色压缩大写字体。在名字下方，添加较小的白色大写文字“PAULO DYBALA”，两侧配以细金线和一颗小金星。底部放置一条横跨画面宽度的细金线，居中书写金色大写文字“| JUGADOR DE BOCA |”，下方配有一颗金星。采用高对比度、光泽感十足的体育海报灯光，浓郁的深蓝与金色调，锐利的织物细节，呈现顶级俱乐部官宣的视觉美感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "博卡青年队欢迎海报：一款极具视觉冲击力的足球签约官宣海报，适用于社交媒体，非常适合展示加盟博卡青年队 (Boca Juniors) 的明星球员。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical, horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14463",
+      "14842",
+      "14854",
+      "14558",
+      "14833",
+      "15265"
+    ]
+  }
+}

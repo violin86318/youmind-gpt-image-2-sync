@@ -1,0 +1,43 @@
+{
+  "id": "13599",
+  "prompt": "{\n  \"type\": \"complex speculative tech infographic\",\n  \"style\": \"{argument name=\\\"color palette\\\" default=\\\"dark blue background with gold, red, and cyan glowing accents\\\"}, highly dense, cyber-investigation board, mind-map layout\",\n  \"centerpiece\": {\n    \"description\": \"{argument name=\\\"central emblem\\\" default=\\\"glowing golden circular emblem with an eye\\\"}\",\n    \"text\": [\"{argument name=\\\"main title\\\" default=\\\"GPT-Image-2\\\"}\", \"ChatGPT\", \"{argument name=\\\"subtitle\\\" default=\\\"Silent Update Rumor April 2026\\\"}\"]\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"Inner Nodes\",\n        \"position\": \"surrounding center\",\n        \"count\": 4,\n        \"labels\": [\"凄さ①\", \"凄さ②\", \"凄さ③\", \"凄さ④\"],\n        \"description\": \"glowing circular text nodes highlighting core strengths\"\n      },\n      {\n        \"title\": \"Top Leak Panels\",\n        \"position\": \"top row\",\n        \"count\": 4,\n        \"labels\": [\"リーク画像①\", \"リーク画像②\", \"リーク画像③\", \"ユーザー既視(X)\"],\n        \"description\": \"before/after image comparisons\"\n      },\n      {\n        \"title\": \"User Reactions\",\n        \"position\": \"top right\",\n        \"count\": 1,\n        \"labels\": [\"ユーザー反応(X/Reddit)\"],\n        \"description\": \"panel containing 5 quote bubbles\"\n      },\n      {\n        \"title\": \"Practical Examples\",\n        \"position\": \"far right column\",\n        \"count\": 5,\n        \"labels\": [\"実用例①\", \"実用例②\", \"実用例③\", \"実用例④\", \"実用例⑤\"],\n        \"description\": \"use-case image grids including e-commerce, flyers, LINE stamps, education, and thumbnails\"\n      },\n      {\n        \"title\": \"Comparisons\",\n        \"position\": \"far left column\",\n        \"count\": 3,\n        \"labels\": [\"比較①\", \"比較②\", \"構図③・世界観\"],\n        \"description\": \"version comparison image pairs\"\n      },\n      {\n        \"title\": \"Bottom Data Panels\",\n        \"position\": \"bottom row above gallery\",\n        \"count\": 5,\n        \"labels\": [\"技術的進化ポイント\", \"コードネーム＆リーク\", \"比較表\", \"注目の改善点まとめ\", \"未来予測ロードマップ\"],\n        \"description\": \"bulleted lists, a hacker portrait, and a 3-column star-rating comparison table\"\n      },\n      {\n        \"title\": \"Style Gallery\",\n        \"position\": \"bottom strip\",\n        \"count\": 10,\n        \"labels\": [\"建築・パース\", \"ポスター\", \"日本語テキスト\", \"インフォグラフィック\", \"ファンタジー\", \"スチームパンク\", \"ミニマルデザイン\", \"食べ物\", \"車・乗り物\", \"水中宇宙\"],\n        \"description\": \"horizontal row of thumbnail images showcasing different generation styles\"\n      }\n    ],\n    \"footer\": {\n      \"text\": \"{argument name=\\\"footer text\\\" default=\\\"ChatGPT画像生成革命\\\"}\",\n      \"position\": \"bottom edge\"\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"复杂科技推测信息图\",\n  \"style\": \"{argument name=\\\"color palette\\\" default=\\\"深蓝色背景，配以金色、红色和青色发光点缀\\\"}, 高密度，网络调查项目，思维导图布局\",\n  \"centerpiece\": {\n    \"description\": \"{argument name=\\\"central emblem\\\" default=\\\"带有眼睛图案的发光金色圆形徽章\\\"}\",\n    \"text\": [\"{argument name=\\\"main title\\\" default=\\\"GPT-Image-2\\\"}\", \"ChatGPT\", \"{argument name=\\\"subtitle\\\" default=\\\"2026 年 4 月静默更新传闻\\\"}\"]\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"内部节点\",\n        \"position\": \"围绕中心\",\n        \"count\": 4,\n        \"labels\": [\"核心优势 ①\", \"核心优势 ②\", \"核心优势 ③\", \"核心优势 ④\"],\n        \"description\": \"突出核心优势的发光圆形文本节点\"\n      },\n      {\n        \"title\": \"顶部泄露面板\",\n        \"position\": \"顶行\",\n        \"count\": 4,\n        \"labels\": [\"泄露图片 ①\", \"泄露图片 ②\", \"泄露图片 ③\", \"用户既视感 (X)\"],\n        \"description\": \"对比前后差异的图片\"\n      },\n      {\n        \"title\": \"用户反应\",\n        \"position\": \"右上角\",\n        \"count\": 1,\n        \"labels\": [\"用户反应 (X/Reddit)\"],\n        \"description\": \"包含 5 个引用气泡的面板\"\n      },\n      {\n        \"title\": \"实用案例\",\n        \"position\": \"最右侧列\",\n        \"count\": 5,\n        \"labels\": [\"实用案例 ①\", \"实用案例 ②\", \"实用案例 ③\", \"实用案例 ④\", \"实用案例 ⑤\"],\n        \"description\": \"包含电子商务、传单、LINE 贴纸、教育和缩略图的应用场景图片网格\"\n      },\n      {\n        \"title\": \"对比分析\",\n        \"position\": \"最左侧列\",\n        \"count\": 3,\n        \"labels\": [\"对比 ①\", \"对比 ②\", \"构图 ③・世界观\"],\n        \"description\": \"版本对比图片对\"\n      },\n      {\n        \"title\": \"底部数据面板\",\n        \"position\": \"图库上方的底行\",\n        \"count\": 5,\n        \"labels\": [\"技术进化点\", \"代号与泄露\", \"对比表\", \"重点改进总结\", \"未来预测路线图\"],\n        \"description\": \"包含项目符号列表、黑客肖像以及 3 列星级评分对比表\"\n      },\n      {\n        \"title\": \"风格图库\",\n        \"position\": \"底部条\",\n        \"count\": 10,\n        \"labels\": [\"建筑・透视\", \"海报\", \"日语文本\", \"信息图\", \"奇幻\", \"蒸汽朋克\", \"极简设计\", \"食物\", \"汽车・交通工具\", \"水下宇宙\"],\n        \"description\": \"展示不同生成风格的水平缩略图行\"\n      }\n    ],\n    \"footer\": {\n      \"text\": \"{argument name=\\\"footer text\\\" default=\\\"ChatGPT 图像生成革命\\\"}\",\n      \"position\": \"底边缘\"\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复杂科技推测信息图：生成一张高密度、思维导图风格的信息图，详细说明 AI 模型的前瞻性功能、对比及应用场景。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "grid",
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13639",
+      "13656",
+      "13688",
+      "13789",
+      "13821",
+      "14465"
+    ]
+  }
+}

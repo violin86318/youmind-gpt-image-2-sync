@@ -1,0 +1,33 @@
+{
+  "id": "14078",
+  "prompt": "Create an image consisting of {argument name=\"panel count\" default=\"five\"} sub-images, each with a different style: 1) An analogue clock showing {argument name=\"time\" default=\"7:42\"}. 2) A woman holding cards in her hands. 3) A glass of wine filled to the brim. 4) Real photography of a physical chessboard, fully visible, with all the pieces in their standard starting positions. 5) Two dice, with the numbers clearly visible.",
+  "translatedPrompt": "创建一个由 {argument name=\"panel count\" default=\"five\"} 个子图像组成的图像，每个子图像具有不同的风格：1) 一个显示 {argument name=\"time\" default=\"7:42\"} 的模拟时钟。2) 一位手中拿着牌的女性。3) 一杯倒满的葡萄酒。4) 一张实体国际象棋棋盘的真实摄影图，清晰可见，所有棋子均处于标准起始位置。5) 两颗骰子，数字清晰可见。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "五面板基准测试挑战：一个复杂的多部分提示词，用于在五个不同的风格和主题（包括时钟、人物、液体和游戏）中对 AI 性能进行基准测试。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13650",
+      "13750",
+      "13806",
+      "15159",
+      "13590",
+      "13593"
+    ]
+  }
+}

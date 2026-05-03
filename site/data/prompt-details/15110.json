@@ -1,0 +1,53 @@
+{
+  "id": "15110",
+  "prompt": "A photorealistic close-up tabletop scene showing a large mound of uncooked long-grain white rice poured onto a warm brown wooden surface, filling almost the entire frame. The camera is slightly elevated and angled toward the pile so the rice forms a broad dome centered in the image, with thousands of individual grains sharply visible and softly lit by warm indoor lighting. Hide a tiny easter egg in the rice: exactly 1 unusual rice grain near the lower-left area is rotated horizontally and has the text \"{argument name=\"engraved text\" default=\"GPT Image 2\"}\" neatly engraved on its surface in small legible letters. Add a circular magnified callout in the bottom-left corner with a bright red outline, zooming in on that single engraved grain among surrounding rice grains so the text becomes readable. Also add exactly 1 small picture-in-picture inset in the bottom-right corner showing a casual indoor livestream or interview setting with 4 seated people around a round wooden table and an open laptop, warm ambient lighting, and faces slightly indistinct; the inset should feel like a secondary contextual thumbnail, much smaller than the main rice image. Prioritize realistic texture, convincing macro detail, natural shadows, subtle ivory color variation in the rice, and clear but believable engraved text on the highlighted grain.",
+  "translatedPrompt": "一张照片级逼真的桌面特写场景，展示了一大堆倒在温暖棕色木质表面上的生白长粒米，几乎填满了整个画面。相机位置略高并朝向米堆倾斜，使米堆在画面中心形成一个宽阔的圆顶，数千粒米清晰可见，并被温暖的室内光线柔和地照亮。在米堆中隐藏一个小彩蛋：左下角区域附近有 1 粒特殊的米粒，它水平旋转，表面整齐地刻有“{argument name=\"engraved text\" default=\"GPT Image 2\"}”字样，字体清晰易读。在左下角添加一个带有亮红色轮廓的圆形放大标注，聚焦于那粒刻字米粒，使其文字清晰可见。此外，在右下角添加 1 个画中画小窗口，展示一个休闲的室内直播或访谈场景，4 个人围坐在圆木桌旁，桌上放着一台打开的笔记本电脑，环境光温暖，人物面部略显模糊；该小窗口应呈现为次要的背景缩略图，尺寸远小于主图。优先考虑逼真的纹理、令人信服的微距细节、自然的阴影、米粒细微的象牙色变化，以及高亮米粒上清晰且真实可信的刻字。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "隐藏的刻字米粒：此提示词可生成一张逼真的米堆特写，并配有放大展示的刻字米粒，适用于彩蛋视觉效果或 AI 演示图像。",
+      "subject": "人物",
+      "scene": "信息图/图解",
+      "composition": [
+        "centered",
+        "close-up",
+        "callout",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "要求精确文字；要求可读；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "硬件拆解、产品卖点、技术说明、科普图",
+      "whySelected": "得分 74；构图: centered, close-up, callout, horizontal；风格: realistic, photorealistic；要求精确文字；要求可读；包含标注/说明"
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, close-up, callout, horizontal]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n要求精确文字；要求可读；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14956",
+      "15000",
+      "13460",
+      "14170",
+      "14657",
+      "14151"
+    ]
+  }
+}

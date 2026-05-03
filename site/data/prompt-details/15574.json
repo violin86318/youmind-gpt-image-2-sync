@@ -1,0 +1,35 @@
+{
+  "id": "15574",
+  "prompt": "一枚目の画像を参照にキャラクターのフォトリアルな痛バッグを作成してください,\n痛バックのカラーは「{argument name=\"カラー\" default=\"好きなカラー\"}」,\n「{argument name=\"カラー\" default=\"好きなカラー\"}」のリボンやチャームが飾られている,\n痛バッグの中にはキャラクターの缶バッチ20個とキャラクターのモチーフ「{argument name=\"モチーフ\" default=\"好きなモチーフ\"}」とキャラクターがデフォルメされたぬいぐるみを入れてください,\nフォトリアルなナチュラルテイストのお部屋,\n木製のテーブルの上に痛バッグが置かれている",
+  "translatedPrompt": "请根据第一张图片，创作一个该角色的照片级真实感痛包。包的颜色应为“{argument name=\"color\" default=\"你喜欢的颜色\"}”，并装饰有“{argument name=\"color\" default=\"你喜欢的颜色\"}”的丝带和挂件。包内需包含 20 枚角色徽章、“{argument name=\"motif\" default=\"你喜欢的主题\"}”元素，以及一个该角色的 Q 版毛绒公仔。场景设定为一个照片级真实感的自然风格房间，痛包放置在一张木桌上。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫角色痛包制作：一份用于生成照片级真实感“痛包”（一种装饰有特定动漫角色徽章、毛绒挂件等元素的粉丝包）的详细提示词，支持自定义颜色和主题。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

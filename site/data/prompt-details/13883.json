@@ -1,0 +1,48 @@
+{
+  "id": "13883",
+  "prompt": "{\n  \"type\": \"chalkboard style infographic\",\n  \"style\": \"dark slate background, white text, hand-drawn accents, clean typography\",\n  \"colors\": {\n    \"background\": \"dark slate grey\",\n    \"text\": \"white\",\n    \"accents\": [\"{argument name=\\\"accent color 1\\\" default=\\\"orange\\\"}\", \"{argument name=\\\"accent color 2\\\" default=\\\"light blue\\\"}\", \"yellow\", \"pink\"]\n  },\n  \"header\": {\n    \"badge\": \"NEW!\",\n    \"title\": \"{argument name=\\\"main headline\\\" default=\\\"Claude Opus 4.7 リリース!!\\\"}\",\n    \"subtitles\": [\"史上最高の思考力と実行力を、すべての人に。\", \"非エンジニアでも使いこなせる、次世代AIの決定版\"]\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"id\": \"1\",\n        \"title\": \"1. Opus 4.7 とは?\",\n        \"content\": \"Description text, 5 bullet points, profile head illustration with glowing neural nodes\"\n      },\n      {\n        \"id\": \"2\",\n        \"title\": \"2. 性能ハイライト (ベンチマーク比較)\",\n        \"content\": \"Grouped bar chart comparing 5 models across 5 categories: コーディング, 推論力, エージェント検索, マルチリンガル, 総合評価\"\n      },\n      {\n        \"id\": \"3\",\n        \"title\": \"3. 得意分野 (エージェント的タスクに強い!)\",\n        \"content\": \"2x3 grid of 6 strengths with icons: コーディング, 情報検索・分析, 長文読解・要約, データ分析・可視化, 資料作成・ライティング, マルチモーダル理解\"\n      },\n      {\n        \"id\": \"4\",\n        \"title\": \"4. 他モデルとの立ち位置 (マトリクス)\",\n        \"content\": \"2x2 positioning matrix with 4 quadrants: {argument name=\\\"product name\\\" default=\\\"Claude Opus 4.7\\\"}, Claude Sonnet 4.6, GPT-5.4, Gemini 3.1 Pro\"\n      },\n      {\n        \"id\": \"5\",\n        \"title\": \"5. 活用シーン (ビジネスでの使い方)\",\n        \"content\": \"List of 8 business use cases with icons and arrows\"\n      },\n      {\n        \"id\": \"6\",\n        \"title\": \"6. 安全性と信頼性\",\n        \"content\": \"3 vertical items with shield/lock icons: 高度な安全対策, 透明性の向上, プライバシー保護\"\n      },\n      {\n        \"id\": \"7\",\n        \"title\": \"7. 料金・利用プラン (目安)\",\n        \"content\": \"Data table with 3 columns and 4 rows for pricing tiers: 無料プラン, Proプラン, Teamプラン, Enterpriseプラン\"\n      },\n      {\n        \"id\": \"8\",\n        \"title\": \"8. 導入のステップ\",\n        \"content\": \"Horizontal flowchart with 5 numbered steps connected by arrows\"\n      },\n      {\n        \"id\": \"9\",\n        \"title\": \"9. ユーザーの声\",\n        \"content\": \"3 user testimonials with profile icons: マーケティング担当, 経営企画担当, 研究者\"\n      },\n      {\n        \"id\": \"10\",\n        \"title\": \"10. まとめ: 今すぐ体験しよう!\",\n        \"content\": \"3 bullet points, call to action, URL {argument name=\\\"website url\\\" default=\\\"https://claude.ai\\\"}, and a QR code\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"黑板风格信息图\",\n  \"style\": \"深板岩色背景，白色文字，手绘风格装饰，简洁排版\",\n  \"colors\": {\n    \"background\": \"深板岩灰\",\n    \"text\": \"白色\",\n    \"accents\": [\"{argument name=\\\"accent color 1\\\" default=\\\"橙色\\\"}\", \"{argument name=\\\"accent color 2\\\" default=\\\"浅蓝色\\\"}\", \"黄色\", \"粉色\"]\n  },\n  \"header\": {\n    \"badge\": \"全新发布！\",\n    \"title\": \"{argument name=\\\"main headline\\\" default=\\\"Claude Opus 4.7 发布！！\\\"}\",\n    \"subtitles\": [\"为每个人提供史上最强的思考与执行能力。\", \"非技术人员也能轻松驾驭的下一代 AI 决定版\"]\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"id\": \"1\",\n        \"title\": \"1. 什么是 Opus 4.7？\",\n        \"content\": \"描述文本，5 个要点，带有发光神经节点的个人资料头像插图\"\n      },\n      {\n        \"id\": \"2\",\n        \"title\": \"2. 性能亮点（基准测试对比）\",\n        \"content\": \"分组柱状图，对比 5 个模型在 5 个类别中的表现：编码、推理能力、Agent 搜索、多语言能力、综合评估\"\n      },\n      {\n        \"id\": \"3\",\n        \"title\": \"3. 擅长领域（强大的 Agent 任务处理能力！）\",\n        \"content\": \"2x3 网格，展示 6 项优势及对应图标：编码、信息检索与分析、长文阅读与摘要、数据分析与可视化、文档编写与写作、多模态理解\"\n      },\n      {\n        \"id\": \"4\",\n        \"title\": \"4. 与其他模型的定位对比（矩阵图）\",\n        \"content\": \"2x2 定位矩阵，包含 4 个象限：{argument name=\\\"product name\\\" default=\\\"Claude Opus 4.7\\\"}、Claude Sonnet 4.6、GPT-5.4、Gemini 3.1 Pro\"\n      },\n      {\n        \"id\": \"5\",\n        \"title\": \"5. 应用场景（商业用途）\",\n        \"content\": \"包含 8 个商业用例的列表，配有图标和箭头\"\n      },\n      {\n        \"id\": \"6\",\n        \"title\": \"6. 安全性与可靠性\",\n        \"content\": \"3 个垂直排列的项目，配有盾牌/锁图标：高级安全措施、透明度提升、隐私保护\"\n      },\n      {\n        \"id\": \"7\",\n        \"title\": \"7. 价格与套餐（参考）\",\n        \"content\": \"3 列 4 行的数据表格，展示定价层级：免费版、Pro 版、Team 版、Enterprise 版\"\n      },\n      {\n        \"id\": \"8\",\n        \"title\": \"8. 部署步骤\",\n        \"content\": \"水平流程图，包含 5 个由箭头连接的编号步骤\"\n      },\n      {\n        \"id\": \"9\",\n        \"title\": \"9. 用户评价\",\n        \"content\": \"3 条用户感言，配有个人资料图标：市场营销人员、经营企划人员、研究人员\"\n      },\n      {\n        \"id\": \"10\",\n        \"title\": \"10. 总结：立即体验！\",\n        \"content\": \"3 个要点，行动号召，URL {argument name=\\\"website url\\\" default=\\\"https://claude.ai\\\"}，以及一个二维码\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Chalkboard AI 产品信息图：为软件发布生成一份高度详细、包含 10 个板块的黑板风格信息图，内含图表、矩阵和表格。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "grid",
+        "2x2",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "教程流程、方法论、商业流程、食谱步骤",
+      "whySelected": "得分 68；构图: grid, 2x2, vertical, horizontal；风格: hand-drawn；文字是主视觉"
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, 2x2, vertical, horizontal]。\n\nVisual style:\n[参考风格: hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14048",
+      "14870",
+      "15292",
+      "13605",
+      "13924",
+      "14866"
+    ]
+  }
+}

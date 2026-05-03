@@ -1,0 +1,51 @@
+{
+  "id": "14529",
+  "prompt": "A Japanese theatrical romance movie poster in a tall smartphone-style vertical layout with rounded corners, designed like a polished anime key visual. The main image shows a beautiful teenage billboard girl heroine standing on an outdoor balcony at dusk, turning back over her shoulder to look at the viewer with a soft, wistful expression. She has very long silver-white twin-tail hair tied with dark ribbons, pale skin, and large pink-violet eyes. She wears a delicate white frilled blouse with voluminous sleeves and a dark high-waisted dress or corset-like skirt, creating an elegant, slightly gothic school-romance look. The atmosphere is dreamy and emotional, filled with glowing bokeh lights, drifting petals or snow-like sparkles, sunset pink and lavender light, and a luminous cityscape in the blurred background. Use rich cinematic anime rendering, ultra-detailed hair strands, soft rim light, glossy eyes, and a bittersweet first-love mood. Add Japanese poster typography integrated into the composition: a large vertical pink poetic tagline on the right, a vertical white tagline on the left, a very large main title near the lower left reading {argument name=\"title text\" default=\"看板娘\"}, and a smaller subtitle beside it reading {argument name=\"subtitle text\" default=\"君と紡ぐ恋物語\"}. Include 5 small rectangular film-strip preview stills aligned across the lower middle, each showing the same heroine in different emotional close-ups. Add dense credits, festival-style laurels, and small release information at the top and bottom in Japanese, with the overall feel of a premium romance anime film poster advertising a tragic, beautiful love story. Use a pastel palette of mauve, blush pink, violet, pearl white, and midnight navy, with soft bloom, shallow depth of field, and elegant poster composition.",
+  "translatedPrompt": "一张日式爱情电影院线海报，采用适合智能手机的圆角竖构图，设计风格如同精致的动漫主视觉图。画面主体是一位美丽的少女看板娘，她站在黄昏的户外阳台上，回眸看向观众，神情柔和而忧伤。她留着极长的银白色双马尾，用深色丝带系住，皮肤白皙，有着粉紫色的明亮大眼睛。她身穿精致的白色荷叶边衬衫，袖子蓬松，搭配深色高腰裙或束腰式裙装，展现出优雅且略带哥特风的校园恋爱感。氛围梦幻而感性，充满发光的虚化光点、飘落的花瓣或雪花般的闪光，笼罩在日落粉色与淡紫色的光影中，背景是模糊的璀璨城市景观。采用丰富的电影级动漫渲染，呈现超精细的发丝、柔和的轮廓光、明亮的双眸以及苦涩初恋的情绪。将日文海报排版融入构图：右侧为巨大的竖排粉色诗意标语，左侧为竖排白色标语，左下方为超大的主标题 {argument name=\"title text\" default=\"看板娘\"}，旁边是较小的副标题 {argument name=\"subtitle text\" default=\"君と紡ぐ恋物語\"}。在下方中部排列 5 张小型矩形电影胶片预览图，每张图展示同一位女主角不同的情感特写。顶部和底部添加密集的制作人员名单、电影节奖项标识以及小字号的发行信息，整体呈现出高端爱情动漫电影海报的质感，传达出一段凄美动人的爱情故事。色调采用淡紫色、腮红粉、紫罗兰色、珍珠白和午夜蓝，并运用柔光效果、浅景深以及优雅的海报构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫爱情电影海报：此提示词可生成一张精致的日式动漫风格爱情电影院线海报，非常适合用于电影主视觉图、模拟电影广告或以角色为中心的戏剧性海报设计。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "premium"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, vertical]。\n\nVisual style:\n[参考风格: cinematic, anime, premium]。\n\nLighting and camera:\n[参考光线镜头: rim light, shallow depth, depth of field]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15096",
+      "15016",
+      "15793",
+      "15094",
+      "15731",
+      "14472"
+    ]
+  }
+}

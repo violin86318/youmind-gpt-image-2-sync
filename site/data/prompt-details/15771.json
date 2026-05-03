@@ -1,0 +1,43 @@
+{
+  "id": "15771",
+  "prompt": "Create a colorful humorous comic-style poster in Spanish, vertical format, with a retro cartoon look, thick black outlines, warm orange and yellow palette, halftone texture, and exaggerated expressive characters. The layout has 4 distinct panels: 1 large title panel across the top and 3 equal vertical panels along the bottom row. In the top panel, show a smug orange tabby cat handyman standing upright like a person in a cozy living room workshop, holding a screwdriver in one paw and the other paw on the hip, wearing a utility belt with visible tools. The cat has narrowed confident eyes and a sly grin. On the left side of this top panel, place a large jagged comic burst with the Spanish headline in bold distressed lettering: \"3 PASOS PARA ARRUINAR ALGO FÁCIL\", with \"ARRUINAR\" in red and the rest in black. Below it, add a taped paper strip that says \"edición casera\". In the background of the top panel, include a framed sign on the wall that reads \"YO PUEDO SOLO\" with a small paw print, a small potted plant, shelves, and dynamic radial lines behind the cat. In the bottom row, create 3 labeled step panels, each with a yellow header box and bold black text. Panel 1 header: \"PASO 1\". Show the same orange cat sitting calmly on the floor beside a standing lamp, eyes closed with overconfidence, casually holding a screwdriver. Add a speech bubble that says \"Tranqui, esto lo arreglo en 2 minutos.\" Include a small open toolbox and a few screws on the floor. Panel 2 header: \"PASO 2\". Show the cat mid-repair, now alarmed with wide eyes, awkwardly unscrewing the wrong part of the lamp while pieces and screws fly through the air. Add a speech bubble that says \"Ups...\" and a sticky note near the bottom that says \"tocar lo que no era\". Include visual motion lines, scattered debris, and a toppled plant pot. Panel 3 header: \"PASO 3\". Show the aftermath: the lamp is broken and smoking with exposed wires and sparks, the room is messy with shattered parts everywhere, and the cat sits stunned holding the screwdriver. A brown dog stands to the right, looking disappointed, asking in a speech bubble \"¿Qué hiciste?\" The cat replies in another speech bubble \"No sé... se complicó solo.\" Add a taped label at the bottom that says \"resultado final\". Make the entire image playful, chaotic, and meme-like, with polished digital illustration, expressive faces, comic lettering, and a DIY disaster tone.",
+  "translatedPrompt": "创作一张色彩鲜艳、风格幽默的西班牙语漫画海报，采用竖版格式，具有复古卡通外观、粗黑轮廓、暖橙色和黄色调、半色调纹理以及夸张生动的角色。布局分为 4 个独立的画格：顶部是一个大标题画格，底部一行是 3 个等大的竖向画格。在顶部画格中，展示一只自鸣得意的橘色虎斑猫修理工，像人一样直立在舒适的客厅工作室里，一只爪子拿着螺丝刀，另一只爪子叉在腰间，戴着装有明显工具的工具带。猫咪眯着自信的眼睛，带着狡黠的笑容。在此画格左侧，放置一个巨大的锯齿状漫画爆炸框，内含粗体做旧字体的西班牙语标题：“3 PASOS PARA ARRUINAR ALGO FÁCIL”，其中“ARRUINAR”为红色，其余为黑色。下方添加一条写有“edición casera”的胶带纸条。在顶部画格背景中，墙上挂着一个写有“YO PUEDO SOLO”的牌子，旁边有一个小爪印，还有一盆小植物、架子以及猫咪身后动态的放射线。在底部一行，创建 3 个带标签的步骤画格，每个画格都有一个黄色标题框和粗体黑色文字。画格 1 标题：“PASO 1”。展示同一只橘猫平静地坐在落地灯旁，闭着眼睛，一脸过度自信，随意地拿着螺丝刀。添加一个对话气泡，写着“Tranqui, esto lo arreglo en 2 minutos.”。包含一个打开的小工具箱和地板上的几颗螺丝。画格 2 标题：“PASO 2”。展示猫咪正在修理中，现在惊慌失措，眼睛瞪大，笨拙地拆卸着灯具错误的部分，碎片和螺丝在空中飞舞。添加一个写着“Ups...”的对话气泡，并在底部附近贴一张写着“tocar lo que no era”的便签。包含视觉运动线、散落的碎片和倒下的花盆。画格 3 标题：“PASO 3”。展示后果：灯具损坏并冒着烟，电线裸露且伴有火花，房间一片狼藉，到处都是破碎的零件，猫咪惊呆地坐着，手里拿着螺丝刀。右侧站着一只棕色狗，看起来很失望，在对话气泡中问道：“¿Qué hiciste?”。猫咪在另一个对话气泡中回答：“No sé... se complicó solo.”。在底部添加一个写有“resultado final”的胶带标签。使整张图片充满趣味、混乱和表情包感，采用精美的数字插画、生动的表情、漫画字体和 DIY 灾难的基调。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "趣味 DIY 灾难猫咪漫画：一张复古漫画海报，展示了一只自鸣得意的橘猫如何将简单的家居维修搞砸，分为三个西班牙语标注的步骤，非常适合制作表情包、社交媒体帖子和幽默的 DIY 内容。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "retro"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: retro]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13769",
+      "14212",
+      "14253",
+      "14460",
+      "14462",
+      "14645"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "13653",
+  "prompt": "A photorealistic portrait of a smiling older Caucasian couple sitting at a rustic wooden table inside a {argument name=\"setting\" default=\"cozy traditional pub\"}. The man on the left has white hair and a full white beard, wearing a {argument name=\"man's clothing\" default=\"green fleece jacket\"} over a maroon shirt. The woman on the right has short grey hair and glasses, wearing a {argument name=\"woman's clothing\" default=\"blue denim jacket and cream scarf\"}. They are looking directly at the camera, each holding one of the 2 {argument name=\"beverage\" default=\"glasses of beer\"}. On the table in the foreground, there is 1 small lit brass lantern and 1 {argument name=\"table snacks\" default=\"bowl of potato chips\"}. The background features warm lighting, wooden paneled walls with framed pictures, windows on the left, and blurred patrons, creating a shallow depth of field.",
+  "translatedPrompt": "一张写实风格的肖像，一对面带微笑的老年夫妇正坐在 {argument name=\"setting\" default=\"温馨传统酒馆\"} 内一张质朴的木桌旁。左侧的男士留着白发和浓密的白胡子，身穿一件 {argument name=\"man's clothing\" default=\"橄榄绿抓绒夹克\"}。右侧的女士留着灰色短发并戴着眼镜，身穿 {argument name=\"woman's clothing\" default=\"蓝色牛仔夹克和白色围巾\"}。他们都直视镜头，每人手中各拿着一杯 {argument name=\"beverage\" default=\"品脱啤酒\"}。桌子前方放着一 {argument name=\"table snack\" default=\"碗薯片\"} 和一盏点亮的小型复古灯笼。背景呈现出温暖诱人的灯光，采用浅景深效果，虚化了木镶板墙壁、挂框照片以及其他几位顾客。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "温馨酒馆里的老年夫妇：生成一张写实风格的肖像，展现一对老年夫妇在传统酒馆里享用饮品和小吃的场景。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13448",
+      "13451",
+      "13697",
+      "14017",
+      "13961",
+      "15762"
+    ]
+  }
+}

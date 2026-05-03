@@ -1,0 +1,50 @@
+{
+  "id": "15420",
+  "prompt": "{\"type\":\"promotional fast-food crossover poster\",\"style\":\"hyper-polished commercial advertising, glossy 3D product render, high contrast, dramatic lighting, ultra-detailed, social media ad design, near-photoreal with stylized brand graphics\",\"format\":\"vertical poster\",\"aspect_ratio\":\"2:3\",\"scene\":{\"background\":\"split vertically down the middle, left half glowing green and right half glowing red, with radiant light streaks, lens flares, floating particles, and a bright seam of light at the center\",\"surface\":\"wet reflective black tabletop with scattered ice cubes, coffee beans, cookie pieces, splashes, and condensation\"},\"branding\":{\"top_left\":{\"logo\":\"McDonald's golden arches\",\"subtext\":\"McDonald’s\",\"small_text\":\"Established 1955\"},\"top_right\":{\"logo\":\"Starbucks siren logo\",\"subtext\":\"Starbucks\",\"small_text\":\"Coffee Masters Since 1971\"},\"top_center\":\"white x symbol between the two brands\"},\"headline\":{\"main\":\"{argument name=\\\"headline text\\\" default=\\\"McDonald’s x Starbucks\\\"}\",\"subheadline\":\"SWEET DUEL, DOUBLE JOY\",\"banner_text\":\"FIRST EVER CO-BRAND | ICONIC PAIRING\"},\"products\":{\"count\":2,\"items\":[{\"position\":\"left foreground\",\"name\":\"McFlurry with Oreo\",\"cup\":\"white and red McDonald's McFlurry cup with Oreo cookie graphics and yellow arches logo\",\"topping\":\"swirl of vanilla soft serve with glossy chocolate sauce\",\"mix_ins\":\"visible Oreo cookie chunks around and on the cup\",\"spoon\":\"black McFlurry spoon inserted into the dessert dome area\",\"temperature\":\"cold with ice and splash effects\"},{\"position\":\"right foreground\",\"name\":\"iced Starbucks chocolate drink\",\"cup\":\"clear plastic Starbucks cup with domed lid and green siren logo\",\"drink\":\"rich blended or iced chocolate coffee beverage with dark chocolate drizzle coating the inside of the cup\",\"topping\":\"whipped cream topped with chocolate syrup\",\"temperature\":\"cold with condensation, ice cubes nearby, dramatic chocolate splash around the base\"}]},\"badges\":{\"count\":2,\"items\":[{\"position\":\"left mid\",\"shape\":\"green starburst seal\",\"text\":\"NEW RELEASE\"},{\"position\":\"right mid\",\"shape\":\"red starburst seal\",\"text\":\"LIMITED OFFER\"}]},\"character\":{\"count\":1,\"position\":\"bottom left corner\",\"description\":\"small cheerful McDonald's mascot-style golden arches character with big cartoon eyes, smiling face, white gloves, red shoes, posing while holding a tiny burger\"},\"bottom_cta\":{\"main_bar\":\"LIMITED TIME ONLY | TRY NOW\",\"accent\":\"yellow lightning bolt at the right end\"},\"feature_row\":{\"count\":3,\"items\":[{\"icon\":\"snowflake in circle\",\"text\":\"ICE COOL\"},{\"icon\":\"coffee bean in circle\",\"text\":\"BOLD FLAVOR\"},{\"icon\":\"heart in circle\",\"text\":\"PERFECT MATCH\"}]},\"floating_elements\":{\"count\":6,\"types\":[\"coffee beans\",\"Oreo cookies\",\"ice cubes\",\"water splashes\",\"chocolate splashes\",\"spark particles\"]},\"color_palette\":{\"primary\":[\"McDonald's green branding glow\",\"Starbucks red promotional glow\",\"white text\",\"yellow accents\",\"dark brown chocolate\",\"black coffee\",\"icy blue highlights\"]},\"composition\":\"symmetrical versus-style layout with both drinks dominating the center, oversized embossed typography across the upper middle, energetic splash effects around each beverage, dense commercial poster layering, crisp readable text, premium co-branded launch aesthetic\"}",
+  "translatedPrompt": "{\"type\":\"快餐联名促销海报\",\"style\":\"超精致商业广告风格，光泽感 3D 产品渲染，高对比度，戏剧性光影，超高细节，社交媒体广告设计，近乎照片级的写实感与风格化品牌图形结合\",\"format\":\"垂直海报\",\"aspect_ratio\":\"2:3\",\"scene\":{\"background\":\"中间垂直分割，左半部分呈现发光绿色，右半部分呈现发光红色，带有放射状光束、镜头光晕、漂浮颗粒，中心有一条明亮的光缝\",\"surface\":\"湿润且具有反射感的黑色桌面，散落着冰块、咖啡豆、饼干碎、水花和冷凝水珠\"},\"branding\":{\"top_left\":{\"logo\":\"McDonald's 金色拱门\",\"subtext\":\"McDonald’s\",\"small_text\":\"始于 1955 年\"},\"top_right\":{\"logo\":\"Starbucks 海妖标志\",\"subtext\":\"Starbucks\",\"small_text\":\"咖啡大师，始于 1971 年\"},\"top_center\":\"两个品牌之间的白色 x 符号\"},\"headline\":{\"main\":\"{argument name=\\\"headline text\\\" default=\\\"McDonald’s x Starbucks\\\"}\",\"subheadline\":\"甜蜜对决，双重快乐\",\"banner_text\":\"首次联名 | 标志性搭配\"},\"products\":{\"count\":2,\"items\":[{\"position\":\"左侧前景\",\"name\":\"奥利奥麦旋风\",\"cup\":\"带有奥利奥饼干图案和黄色拱门标志的红白相间 McDonald's 麦旋风杯\",\"topping\":\"香草软冰淇淋旋涡，淋上光泽感巧克力酱\",\"mix_ins\":\"杯身周围和顶部可见奥利奥饼干碎\",\"spoon\":\"黑色麦旋风勺插入甜点圆顶区域\",\"temperature\":\"冷饮，带有冰块和水花效果\"},{\"position\":\"右侧前景\",\"name\":\"Starbucks 冰巧克力饮品\",\"cup\":\"带有圆顶盖和绿色海妖标志的透明 Starbucks 塑料杯\",\"drink\":\"浓郁的混合或冰巧克力咖啡饮品，杯内壁涂有黑巧克力酱\",\"topping\":\"奶油顶，淋上巧克力糖浆\",\"temperature\":\"冷饮，带有冷凝水珠，周围有冰块，底座周围有戏剧性的巧克力溅射效果\"}]},\"badges\":{\"count\":2,\"items\":[{\"position\":\"左侧中部\",\"shape\":\"绿色星形印章\",\"text\":\"新品发布\"},{\"position\":\"右侧中部\",\"shape\":\"红色星形印章\",\"text\":\"限时优惠\"}]},\"character\":{\"count\":1,\"position\":\"左下角\",\"description\":\"一个小巧欢快的 McDonald's 吉祥物风格金色拱门角色，有着大大的卡通眼睛、微笑的脸庞、白色手套和红色鞋子，摆出姿势，手里拿着一个小汉堡\"},\"bottom_cta\":{\"main_bar\":\"限时供应 | 立即尝试\",\"accent\":\"右端的黄色闪电符号\"},\"feature_row\":{\"count\":3,\"items\":[{\"icon\":\"圆圈中的雪花\",\"text\":\"冰爽酷感\"},{\"icon\":\"圆圈中的咖啡豆\",\"text\":\"浓郁风味\"},{\"icon\":\"圆圈中的爱心\",\"text\":\"绝佳搭配\"}]},\"floating_elements\":{\"count\":6,\"types\":[\"咖啡豆\",\"奥利奥饼干\",\"冰块\",\"水花\",\"巧克力溅射\",\"火花颗粒\"]},\"color_palette\":{\"primary\":[\"McDonald's 绿色品牌光晕\",\"Starbucks 红色促销光晕\",\"白色文字\",\"黄色点缀\",\"深棕色巧克力\",\"黑色咖啡\",\"冰蓝色高光\"]},\"composition\":\"对称的对决式布局，两款饮品占据中心位置，中上部采用超大浮雕字体，每款饮品周围有充满活力的溅射效果，紧凑的商业海报图层，清晰易读的文字，高端联名发布美学\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "McDonald's x Starbucks 联名宣传海报：一张大胆的垂直联名广告海报，展示了并排的两款冷饮甜点，非常适合社交媒体营销、新品发布公告以及快餐促销图形设计。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "symmetrical",
+        "vertical"
+      ],
+      "style": [
+        "3d",
+        "premium"
+      ],
+      "lightingCamera": [
+        "dramatic lighting",
+        "high contrast",
+        "lens"
+      ],
+      "text": "要求可读；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: symmetrical, vertical]。\n\nVisual style:\n[参考风格: 3d, premium]。\n\nLighting and camera:\n[参考光线镜头: dramatic lighting, high contrast, lens]。\n\nText requirements:\n要求可读；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14545",
+      "14652",
+      "14887",
+      "15279",
+      "15653",
+      "14161"
+    ]
+  }
+}

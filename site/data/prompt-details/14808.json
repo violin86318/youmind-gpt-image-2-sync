@@ -1,0 +1,51 @@
+{
+  "id": "14808",
+  "prompt": "A dramatic studio product photograph of a standing bag of {argument name=\"brand name\" default=\"CRUNCHY CHIPZ\"} centered on a rough black stone pedestal against a deep black background. The packaging is a glossy dark red metallic snack bag with a large orange-yellow comic-style starburst behind the main logo, bold oversized white block letters with black outline for the brand name, and flavor text on the right reading {argument name=\"flavor text\" default=\"ZESTY CHEDDAR\"} with smaller subtitle text below it. Show exactly 2 triangular orange corn chips printed on the lower front of the bag. Add small fine-print text near the bottom left of the bag reading {argument name=\"small label\" default=\"SAVORY TRIANGLES\"}. Light the scene with intense warm orange side lighting from the upper left, creating strong highlights and glossy reflections on the bag. Surround the product with airborne orange seasoning dust and smoky spice clouds, especially behind the bag and to the left side. Scatter coarse salt crystals and orange-red seasoning powder across the pedestal and foreground surface. The pedestal should be a thick, jagged, matte-black rock slab with sharp fractured edges. Emphasize high contrast, cinematic shadows, crisp product focus, premium commercial advertising style, dramatic food photography, vertical composition, ultra-detailed texture, realistic packaging, and a fiery zesty cheddar mood.",
+  "translatedPrompt": "一张极具戏剧性的摄影棚产品照，画面中心是一个立着的 {argument name=\"brand name\" default=\"CRUNCHY CHIPZ\"} 包装袋，放置在粗糙的黑色石台上，背景为深黑色。包装袋采用亮面深红色金属质感，主标志后方有一个巨大的橙黄色漫画风格星爆图案，品牌名称为醒目的超大白色块状字体并带有黑色描边，右侧印有口味文字 {argument name=\"flavor text\" default=\"ZESTY CHEDDAR\"}，下方配有较小的副标题。包装袋正面下方印有 2 片三角形橙色玉米片。包装袋左下角附近添加一行小字 {argument name=\"small label\" default=\"SAVORY TRIANGLES\"}。场景采用来自左上方的强烈暖橙色侧光照明，在包装袋上形成强烈的亮部和光泽反射。产品周围环绕着悬浮的橙色调料粉末和烟雾状香料云，尤其是在包装袋后方和左侧。在石台和前景表面散落粗盐颗粒和橙红色调料粉。石台应为厚实、参差不齐的哑光黑色岩板，边缘锋利且有断裂感。强调高对比度、电影级阴影、清晰的产品焦点、高端商业广告风格、戏剧性美食摄影、竖构图、超精细纹理、写实的包装效果以及火辣浓郁的切达干酪氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "香辣零食包装产品广告：此提示词可生成一张极具戏剧性的商业产品照：黑色石台上的鲜红色薯片包装袋，配以火热的橙色调料特效，非常适合零食品牌宣传和广告样机制作。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14806",
+      "15419",
+      "15778",
+      "14598",
+      "15267",
+      "14589"
+    ]
+  }
+}

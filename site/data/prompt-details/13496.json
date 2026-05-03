@@ -1,0 +1,46 @@
+{
+  "id": "13496",
+  "prompt": "{\n  \"type\": \"anime character profile sheet\",\n  \"theme\": \"{argument name=\\\"theme color\\\" default=\\\"light blue and white\\\"} digital cyber aesthetic with glowing particles and grid patterns\",\n  \"character\": {\n    \"name\": \"{argument name=\\\"character name\\\" default=\\\"メタかみたん\\\"}\",\n    \"appearance\": {\n      \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"brown\\\"} messy high ponytail with ahoge\",\n      \"eyes\": \"{argument name=\\\"eye color\\\" default=\\\"blue\\\"}\",\n      \"accessories\": \"blue goggles on forehead, large white angel wings, silver key necklace\",\n      \"outfit\": \"{argument name=\\\"outfit\\\" default=\\\"oversized white hoodie, white shorts, white sneakers\\\"}\"\n    }\n  },\n  \"layout\": {\n    \"header\": \"Top left text reading 'CHARACTER' and 'キャラクター紹介'\",\n    \"sections\": [\n      {\n        \"title\": \"Profile Text\",\n        \"position\": \"left column\",\n        \"content\": \"Detailed character stats including height '165cm', image colors '白, 水色', and multiple quote blocks in Japanese\"\n      },\n      {\n        \"title\": \"Full Body Portrait\",\n        \"position\": \"right side\",\n        \"description\": \"Standing character facing forward, smiling, relaxed pose\"\n      },\n      {\n        \"title\": \"Chibi Illustration\",\n        \"position\": \"bottom left\",\n        \"count\": 1,\n        \"description\": \"Chibi version of the character sitting on a chair using a laptop\"\n      },\n      {\n        \"title\": \"Expression Variants\",\n        \"position\": \"bottom center\",\n        \"count\": 2,\n        \"description\": \"Square panels showing close-up face expressions, both smiling with hands near the face\"\n      },\n      {\n        \"title\": \"Action Close-up\",\n        \"position\": \"bottom right\",\n        \"description\": \"Large rectangular panel showing the character leaning forward, resting head on hand, reaching towards the viewer\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"动漫角色资料表\",\n  \"theme\": \"{argument name=\\\"theme color\\\" default=\\\"浅蓝与白色\\\"} 带有发光粒子和网格图案的数字赛博美学\",\n  \"character\": {\n    \"name\": \"{argument name=\\\"character name\\\" default=\\\"メタかみたん\\\"}\",\n    \"appearance\": {\n      \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"棕色\\\"} 凌乱的高马尾，带有呆毛\",\n      \"eyes\": \"{argument name=\\\"eye color\\\" default=\\\"蓝色\\\"}\",\n      \"accessories\": \"额头上的蓝色护目镜、巨大的白色天使翅膀、银色钥匙项链\",\n      \"outfit\": \"{argument name=\\\"outfit\\\" default=\\\"超大款白色连帽衫、白色短裤、白色运动鞋\\\"}\"\n    }\n  },\n  \"layout\": {\n    \"header\": \"左上角文字显示“CHARACTER”和“キャラクター紹介”\",\n    \"sections\": [\n      {\n        \"title\": \"资料文本\",\n        \"position\": \"左侧栏\",\n        \"content\": \"详细的角色属性，包括身高“165cm”、印象色“白, 水色”以及多个日语引用块\"\n      },\n      {\n        \"title\": \"全身肖像\",\n        \"position\": \"右侧\",\n        \"description\": \"角色正面站立，微笑，姿态放松\"\n      },\n      {\n        \"title\": \"Q 版插画\",\n        \"position\": \"左下角\",\n        \"count\": 1,\n        \"description\": \"角色 Q 版形象，坐在椅子上使用笔记本电脑\"\n      },\n      {\n        \"title\": \"表情变体\",\n        \"position\": \"底部中央\",\n        \"count\": 2,\n        \"description\": \"方形面板展示面部特写表情，均为双手靠近脸部的微笑表情\"\n      },\n      {\n        \"title\": \"动作特写\",\n        \"position\": \"右下角\",\n        \"description\": \"大型矩形面板，展示角色身体前倾、手托腮、向观众伸手\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫角色资料表：生成一份详细的动漫角色参考表，包含全身肖像、Q 版变体、表情及资料文本块。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "grid"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, grid]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13807",
+      "13937",
+      "15370",
+      "13497",
+      "13736",
+      "13948"
+    ]
+  }
+}

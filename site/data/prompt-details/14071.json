@@ -1,0 +1,45 @@
+{
+  "id": "14071",
+  "prompt": "{\n  \"type\": \"3D platform fighting game screenshot\",\n  \"style\": \"high-fidelity 3D render, vibrant colors, dynamic action camera angle, video game UI overlay\",\n  \"environment\": {\n    \"stage\": \"{argument name=\\\"stage background\\\" default=\\\"circular stone platform with glowing blue runes, surrounded by jagged blue crystal formations, waterfalls, ocean, and floating islands in the sky\\\"}\"\n  },\n  \"characters\": [\n    {\n      \"role\": \"Player 1\",\n      \"description\": \"{argument name=\\\"player 1 character\\\" default=\\\"Wakka from Final Fantasy X, wearing yellow and orange outfit with blue headband\\\"}\",\n      \"action\": \"lunging forward and throwing a {argument name=\\\"projectile\\\" default=\\\"blue and white blitzball\\\"} with white motion blur trails\",\n      \"position\": \"left side\"\n    },\n    {\n      \"role\": \"Player 2\",\n      \"description\": \"{argument name=\\\"player 2 character\\\" default=\\\"Hu Tao from Genshin Impact, wearing black and brown outfit with a floral hat\\\"}\",\n      \"action\": \"getting hit by the projectile, reeling backward with a large stylized yellow and red impact flash\",\n      \"position\": \"right side, mid-air\"\n    }\n  ],\n  \"ui_components\": [\n    {\n      \"position\": \"top right\",\n      \"type\": \"match timer\",\n      \"text\": \"5:47.23\"\n    },\n    {\n      \"position\": \"bottom left\",\n      \"type\": \"player 1 HUD\",\n      \"elements\": [\n        \"character portrait of Player 1\",\n        \"nameplate reading 'WAKKA'\",\n        \"damage meter showing '56.2%' in yellow text\",\n        \"3 small character stock icons\"\n      ]\n    },\n    {\n      \"position\": \"bottom right\",\n      \"type\": \"player 2 HUD\",\n      \"elements\": [\n        \"character portrait of Player 2\",\n        \"nameplate reading 'HU TAO'\",\n        \"damage meter showing '103.7%' in red text\",\n        \"3 small character stock icons\"\n      ]\n    },\n    {\n      \"position\": \"bottom center\",\n      \"type\": \"match status overlay\",\n      \"main_text\": \"{argument name=\\\"center text\\\" default=\\\"WAKKA LEAD!\\\"}\",\n      \"sub_text\": \"1 - 0\"\n    }\n  ]\n}",
+  "translatedPrompt": "{\n  \"type\": \"3D 平台格斗游戏截图\",\n  \"style\": \"高保真 3D 渲染，色彩鲜艳，动态动作摄像机视角，电子游戏 UI 覆盖层\",\n  \"environment\": {\n    \"stage\": \"{argument name=\\\"stage background\\\" default=\\\"圆形石台，带有发光的蓝色符文，周围环绕着参差不齐的蓝色水晶结构、瀑布、海洋以及天空中漂浮的岛屿\\\"}\"\n  },\n  \"characters\": [\n    {\n      \"role\": \"玩家 1\",\n      \"description\": \"{argument name=\\\"player 1 character\\\" default=\\\"《最终幻想 X》中的瓦卡 (Wakka)，身穿黄橙色服装，戴着蓝色头带\\\"}\",\n      \"action\": \"向前冲刺并投掷一个带有白色动态模糊轨迹的 {argument name=\\\"projectile\\\" default=\\\"蓝白相间的闪电球\\\"}\",\n      \"position\": \"左侧\"\n    },\n    {\n      \"role\": \"玩家 2\",\n      \"description\": \"{argument name=\\\"player 2 character\\\" default=\\\"《原神》中的胡桃 (Hu Tao)，身穿黑棕色服装，戴着花卉装饰的帽子\\\"}\",\n      \"action\": \"被投射物击中，伴随着巨大的黄色和红色风格化冲击闪光向后踉跄\",\n      \"position\": \"右侧，空中\"\n    }\n  ],\n  \"ui_components\": [\n    {\n      \"position\": \"右上角\",\n      \"type\": \"比赛计时器\",\n      \"text\": \"5:47.23\"\n    },\n    {\n      \"position\": \"左下角\",\n      \"type\": \"玩家 1 HUD\",\n      \"elements\": [\n        \"玩家 1 角色头像\",\n        \"显示为 'WAKKA' 的铭牌\",\n        \"显示为黄色字体 '56.2%' 的伤害计量表\",\n        \"3 个小型角色剩余生命图标\"\n      ]\n    },\n    {\n      \"position\": \"右下角\",\n      \"type\": \"玩家 2 HUD\",\n      \"elements\": [\n        \"玩家 2 角色头像\",\n        \"显示为 'HU TAO' 的铭牌\",\n        \"显示为红色字体 '103.7%' 的伤害计量表\",\n        \"3 个小型角色剩余生命图标\"\n      ]\n    },\n    {\n      \"position\": \"底部中心\",\n      \"type\": \"比赛状态覆盖层\",\n      \"main_text\": \"{argument name=\\\"center text\\\" default=\\\"WAKKA 领先！\\\"}\",\n      \"sub_text\": \"1 - 0\"\n    }\n  ]\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "跨界平台格斗游戏截图：生成一张高度精细的 3D 格斗游戏截图，包含自定义角色、动态战斗特效以及逼真的 UI 覆盖层。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "3d",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: 3d, fantasy]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14486",
+      "14408",
+      "14454",
+      "14508",
+      "14535",
+      "14910"
+    ]
+  }
+}

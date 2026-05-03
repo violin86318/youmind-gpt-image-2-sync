@@ -1,0 +1,43 @@
+{
+  "id": "13495",
+  "prompt": "A photorealistic fashion magazine cover featuring a portrait of a beautiful young Asian woman. She has {argument name=\"hair style\" default=\"light brown hair with blonde highlights and a braided crown\"}, soft elegant makeup, and a gentle expression. She is wearing a {argument name=\"clothing\" default=\"white ribbed off-the-shoulder top with spaghetti straps\"} and delicate gold drop earrings. The background is a soft, textured neutral gray. The layout includes elegant typography: a large masthead at the top reading \"{argument name=\"magazine title\" default=\"LUMINA\"}\" in a classic serif font. On the left side, text reads \"THE NEW ERA OF AI BEAUTY\" above a larger \"{argument name=\"main headline\" default=\"STYLE EVOLUTION\"}\". On the right side, text reads \"FUTURE FASHION\" above \"WHAT'S NEXT?\". At the bottom, text reads \"{argument name=\"bottom text\" default=\"BEAUTY SECRETS of TOMORROW\"}\" above \"ELEGANT & CHIC\". The overall lighting is soft, professional studio illumination.",
+  "translatedPrompt": "一张照片级写实的时尚杂志封面，主角是一位美丽的年轻亚裔女性肖像。她留着 {argument name=\"hair style\" default=\"浅棕色头发，带有金色挑染和编织发冠\"}，妆容柔和优雅，表情温婉。她身穿一件 {argument name=\"clothing\" default=\"白色罗纹露肩吊带上衣\"}，佩戴着精致的金色垂坠耳环。背景为质感柔和的中性灰色。版式设计包含优雅的排版：顶部是大号刊头，以经典的衬线字体写着 \"{argument name=\"magazine title\" default=\"LUMINA\"}\"。左侧文字为 \"THE NEW ERA OF AI BEAUTY\"，下方是更大的 \"{argument name=\"main headline\" default=\"STYLE EVOLUTION\"}\"。右侧文字为 \"FUTURE FASHION\"，下方是 \"WHAT'S NEXT?\"。底部文字为 \"{argument name=\"bottom text\" default=\"BEAUTY SECRETS of TOMORROW\"}\"，下方是 \"ELEGANT & CHIC\"。整体光效为柔和的专业影棚照明。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "照片级写实时尚杂志封面：生成一张高度逼真的杂志封面，包含女性肖像，并支持自定义排版和造型。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13775",
+      "13524",
+      "14089",
+      "14660",
+      "15355",
+      "15515"
+    ]
+  }
+}

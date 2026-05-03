@@ -1,0 +1,46 @@
+{
+  "id": "15638",
+  "prompt": "A realistic documentary-style photo of the entrance area inside {argument name=\"station name\" default=\"Jing'an Temple Station\"} on {argument name=\"subway line\" default=\"Line 2\"} in Shanghai Metro, viewed from a passenger's eye level while walking toward the fare gates. The scene is a wide indoor station concourse with a modern ceiling made of dark brown curved wooden slats and long linear white lights. In the center hangs a large dark overhead wayfinding sign with a green square route marker showing the number 2 and the text “2号线 / Line 2,” the main station name “静安寺站 / Jing'an Temple Station,” and a service center icon with the bilingual text “服务中心 / Service Center.” Below the sign are multiple stainless steel fare gates, with exactly 6 visible gate lanes in the foreground, some showing green arrow indicators and at least one showing a red no-entry symbol. Show a busy but orderly flow of commuters, around 10 to 15 adults in everyday autumn clothing, seen mostly from behind, walking into the station through the gates; include jackets, jeans, backpacks, shoulder bags, and neutral colors. On the left wall, include ticket or vending machines and another smaller green Line 2 sign. On the right wall, create a decorative white station wall with large black Chinese calligraphy reading “静安寺” and subtle wave-like graphic lines, plus a small green Line 2 marker nearby. Materials should feel authentic: polished gray speckled stone floor, metallic columns, tiled walls, and realistic transit fixtures. Lighting is bright, even, and fluorescent, with a clean public-transport atmosphere. Compose it as a slightly wide-angle smartphone photo, centered on the overhead sign and gate area, highly realistic, candid, detailed, and true to an actual Shanghai metro station interior.",
+  "translatedPrompt": "一张写实纪录片风格的照片，展示了上海地铁 {argument name=\"station name\" default=\"静安寺站\"} {argument name=\"subway line\" default=\"2 号线\"} 站内的入口区域，视角为乘客走向闸机时的平视视角。场景为一个宽敞的室内站厅，天花板采用现代风格的深棕色弧形木条装饰，并配有长条形线性白光灯。中央悬挂着一块大型深色导向标识，上面印有绿色的 2 号线方形图标，文字显示“2号线 / Line 2”、主站名“静安寺站 / Jing'an Temple Station”以及带有双语文字“服务中心 / Service Center”的图标。标识下方是多台不锈钢闸机，前景可见 6 条闸机通道，部分显示绿色箭头指示，至少有一个显示红色禁止进入符号。画面展示了繁忙而有序的通勤人流，约 10 到 15 名身着秋季日常服装的成年人，大多以背影呈现，正穿过闸机进入车站；人物穿着包括夹克、牛仔裤、背包、单肩包，色调中性。左侧墙壁设有自动售票机或自动售货机，以及另一个较小的绿色 2 号线标识。右侧墙壁为装饰性的白色站台墙，上面印有醒目的黑色书法字体“静安寺”及微妙的波浪形线条，附近还有一个小的绿色 2 号线标记。材质需体现真实感：磨光灰色斑点石材地面、金属立柱、瓷砖墙面以及写实的交通设施。光线明亮均匀，呈现出整洁的公共交通氛围。构图采用略带广角效果的手机摄影视角，以头顶标识和闸机区域为中心，高度写实、自然、细节丰富，还原真实的上海地铁站内部环境。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "静安寺站 2 号线入口：此提示词可生成一张写实风格的手机摄影照片，展示通勤者进入上海地铁 2 号线静安寺站的场景，适用于交通、城市写实或基于地点的场景生成。",
+      "subject": "文字符号",
+      "scene": "信息图/图解",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic",
+        "documentary"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "城市美食地图、活动导览、园区地图、旅行视觉",
+      "whySelected": "得分 68；构图: centered；风格: realistic, documentary；要求精确文字"
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic, documentary]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14400",
+      "14409",
+      "14663",
+      "15612",
+      "14088",
+      "14401"
+    ]
+  }
+}

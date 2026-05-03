@@ -1,0 +1,49 @@
+{
+  "id": "15631",
+  "prompt": "A side-by-side social media comparison graphic on a dark black background, showing a camera-angle transformation test for a busy restaurant interior. At the very top, large white sans-serif text reads: {argument name=\"headline text\" default=\"Show me the POV from someone standing behind the bar looking out over this crowded restaurant. Change NOTHING in the scene other than the pov\"}. Below that, centered on the page, are 2 vertically stacked rectangular photos with rounded corners. To the left of the top image, large white text reads \"Source\"; to the left of the bottom image, large white text reads \"Output\". The top image shows the original restaurant scene from the customer side facing the back bar: a warm, upscale, crowded restaurant at night with a massive illuminated wall of liquor bottles on shelves, wood ceiling beams, hanging globe pendant lights, bartenders and servers working, and many seated guests in the foreground and midground. The lower image shows the same restaurant with the same lighting, décor, crowd density, bottle wall, pendant lights, and overall atmosphere, but from a new viewpoint: the camera is now standing behind the bar looking outward across the crowded dining room. In the foreground of the lower image, include the bar counter surface with glassware, bottles, metal bar tools, and a glowing POS touchscreen at front left, reinforcing the behind-the-bar POV. Keep both photos photorealistic, warm amber lighting, lively evening ambiance, and maintain the sense that the lower image is the same scene with only the camera angle changed. Add subtle social-post styling with generous margins and clean layout, suitable for a tweet screenshot or AI image comparison post.",
+  "translatedPrompt": "一张深黑色背景下的并排社交媒体对比图，展示了繁忙餐厅内部的摄像机角度转换测试。最上方是大号白色无衬线文字，内容为：{argument name=\"headline text\" default=\"向我展示从吧台后方看向这间拥挤餐厅的视角。除视角外，场景中的任何内容都不要改变\"}。页面中央垂直堆叠着两张圆角矩形照片。上方图片左侧有大号白色文字“原始视角 (Source)”；下方图片左侧有大号白色文字“输出结果 (Output)”。上方图片展示了从顾客侧看向后方吧台的原始餐厅场景：夜晚温馨、高档且拥挤的餐厅，背景是巨大的发光酒瓶陈列墙、木质天花板横梁、悬挂的球形吊灯，吧台调酒师和服务员正在工作，前景和中景坐满了客人。下方图片展示了同一间餐厅，保持了相同的灯光、装饰、人群密度、酒瓶墙、吊灯和整体氛围，但视角发生了变化：摄像机现在位于吧台后方，向外俯瞰拥挤的餐厅。在下方图片的前景中，包含吧台台面、玻璃器皿、酒瓶、金属吧台工具以及左前方发光的 POS 触摸屏，以强化“吧台后方”的视角。两张照片均需保持照片级真实感、温暖的琥珀色灯光和生动的夜晚氛围，并确保下方图片看起来与上方是同一场景，仅改变了摄像机角度。采用简洁的社交媒体发布风格，留有充足的边距和整洁的布局，适合作为推文截图或 AI 图像对比贴使用。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "餐厅视角转换对比：一张社交媒体风格的对比图，展示了拥挤餐厅场景在剧烈摄像机角度切换前后的效果，适用于演示 AI 的视角一致性。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14919",
+      "13881",
+      "15412",
+      "14481",
+      "14846",
+      "15102"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "14934",
+  "prompt": "Create a polished Japanese landing-page hero banner for a fictional combined law firm and tax accountant office, with a clean corporate style, high trust, soft daylight, and a white background with faint modern city buildings on the far right. Use a wide horizontal web header layout. At the very top, place a large navy Japanese headline reading {argument name=\"headline text\" default=\"あなたの『不安』に、確かな専門力で寄り添います。\"}, and beneath it a smaller gold-accented Japanese subheadline reading {argument name=\"subheadline text\" default=\"法律 × 税務のワンストップサポートで、最善の解決へ\"}. Below the headline, arrange 4 equal vertical service cards side by side across the center. Card 1 is for criminal defense, with a circular icon showing handcuffs at the top, a cool blue color scheme, the large title \"刑事事件\", supporting copy \"迅速な対応で、あなたの未来を守ります\", a photo of a suited male professional seated with hands clasped across a desk, and a dark blue bottom band listing exactly 2 bullet lines with checkmarks: \"逮捕・勾留対応\" and \"示談交渉・不起訴の獲得\". Card 2 is for traffic accidents, with a circular icon showing a car crash at the top, a green color scheme, the title \"交通事故\", supporting copy \"適正な補償を受けられるよう、全力でサポートします\", a bright desk scene with 2 miniature cars colliding on documents, and a dark green bottom band listing exactly 2 bullet lines: \"後遺障害・慰謝料の増額\" and \"保険会社との交渉代行\". Card 3 is for inheritance tax, with a circular icon showing a house at the top, a warm gold color scheme, the title \"相続税\", supporting copy \"円満な相続と、最適な税務対策をサポート\", a tabletop scene with a model house, papers, and a calculator, and a mustard-gold bottom band listing exactly 2 bullet lines: \"相続税の申告・節税対策\" and \"生前対策・事業承継支援\". Card 4 is for divorce, with a circular icon showing a broken heart at the top, a rose-pink color scheme, the title \"離婚\", supporting copy \"あなたの未来のために、納得できる解決を目指します\", a soft professional consultation scene with a woman in a white blouse resting her hand near her chin while speaking across a desk, and a dusty-rose bottom band listing exactly 2 bullet lines: \"親権・養育費・財産分与\" and \"離婚協議・調停・裁判対応\". In the bottom area, add the firm identity on the left in Japanese: a small line \"法律事務所・税理士事務所\", a large firm name {argument name=\"firm name\" default=\"架空総合法律税務事務所\"}, and a smaller line \"弁護士・税理士が連携するワンストップサービス\". In the lower center, place 3 compact white feature boxes with navy line icons and short Japanese text: box 1 shows a group-of-people icon and says \"各分野の専門家が対応\", box 2 shows a handshake icon and says \"相談者様に寄り添う親身なサポート\", box 3 shows a document icon and says \"初回相談60分無料\". Add a small disclaimer beneath them: \"※ご相談の内容によっては有料となる場合がございます。\" On the lower right, create a prominent navy call-to-action panel with rounded corners. Include a small Japanese line \"まずはお気軽にご相談ください\", a large white phone number with phone icon {argument name=\"phone number\" default=\"03-1234-5678\"}, and a gold pill-shaped strip at the bottom reading {argument name=\"business hours\" default=\"平日 9:00〜18:00（土日祝は事前予約で対応可）\"}. Use refined Japanese Mincho-style typography for major headings, crisp spacing, balanced margins, subtle shadows, and premium legal-professional branding.",
+  "translatedPrompt": "创建一个精致的日本落地页首屏横幅，适用于一家虚构的综合律师事务所与税务师事务所，风格简洁专业，具有高度信任感，采用柔和的日光照明，背景为白色，右侧带有淡淡的现代城市建筑轮廓。采用宽幅横向网页页眉布局。在最上方，放置一个醒目的海军蓝日文大标题 {argument name=\"headline text\" default=\"你的“不安”，由我们以确凿的专业能力守护。\"}，下方放置一个带有金色点缀的较小日文副标题 {argument name=\"subheadline text\" default=\"法律 × 税务一站式支持，助您达成最佳解决方案\"}。在标题下方，横向排列 4 张等宽的垂直服务卡片。卡片 1 为刑事辩护，顶部带有手铐圆形图标，采用冷蓝色调，大标题为“刑事事件”，辅助文案为“以迅速的应对，守护您的未来”，配图为一名身着西装的专业男性坐在桌前双手交叠，底部深蓝色区域列出 2 条带勾选标记的要点：“逮捕・拘留应对”和“示谈交涉・争取不起诉”。卡片 2 为交通事故，顶部带有车祸圆形图标，采用绿色调，标题为“交通事故”，辅助文案为“全力支持您获得合理的赔偿”，配图为明亮的桌面场景，文件上有 2 辆微型车碰撞，底部深绿色区域列出 2 条要点：“后遗症障碍・慰问金增额”和“代办与保险公司的交涉”。卡片 3 为遗产税，顶部带有房屋圆形图标，采用暖金色调，标题为“遗产税”，辅助文案为“支持圆满的遗产继承与最优的税务对策”，配图为桌面场景，摆放着房屋模型、文件和计算器，底部芥末金色区域列出 2 条要点：“遗产税申报・节税对策”和“生前对策・事业继承支援”。卡片 4 为离婚，顶部带有破碎的心形图标，采用玫瑰粉色调，标题为“离婚”，辅助文案为“为了您的未来，旨在达成令您满意的解决方案”，配图为柔和的专业咨询场景，一名身穿白色衬衫的女性在桌对面说话时手托下巴，底部灰粉色区域列出 2 条要点：“亲权・抚养费・财产分割”和“离婚协议・调停・裁判应对”。在底部区域，左侧添加事务所标识，包括一行小字“法律事务所・税务师事务所”，一个大字事务所名称 {argument name=\"firm name\" default=\"架空综合法律税务事务所\"}，以及一行较小的字“律师与税务师协作的一站式服务”。在下方中央，放置 3 个紧凑的白色功能框，带有海军蓝线条图标和简短的日文说明：框 1 显示人群图标，文字为“各领域专家应对”；框 2 显示握手图标，文字为“贴近咨询者的亲切支持”；框 3 显示文档图标，文字为“首次咨询 60 分钟免费”。在下方添加一行小字免责声明：“※根据咨询内容，可能收取费用。”在右下方，创建一个醒目的海军蓝圆角行动号召（CTA）面板。包含一行小字“请随时咨询”，一个带有电话图标的白色大字电话号码 {argument name=\"phone number\" default=\"03-1234-5678\"}，以及底部一个金色的胶囊状条带，文字为 {argument name=\"business hours\" default=\"平日 9:00〜18:00（周末及节假日可提前预约）\"}。主要标题使用精致的日文明朝体排版，间距清晰，边距平衡，带有微妙的阴影，体现高端法律专业品牌形象。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日本法律与税务服务 LP 首屏设计：一个为虚构法律与税务事务所设计的优质日本落地页首屏横幅，用于宣传四个服务领域，通过强有力的视觉效果建立信任，并包含咨询行动号召（CTA）。",
+      "subject": "人物",
+      "scene": "空间/场景",
+      "composition": [
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "空间概念、建筑场景、游戏场景、产品场景盒子",
+      "whySelected": "得分 66；构图: vertical, horizontal；风格: premium；要求精确文字；文字是主视觉"
+    },
+    "copyTemplate": "Create a 空间/场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical, horizontal]。\n\nVisual style:\n[参考风格: premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14185",
+      "14686",
+      "15405",
+      "13971",
+      "13690",
+      "14255"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "13608",
+  "prompt": "A photorealistic, cinematic portrait of a young East Asian woman sitting on a dark chair. She has shoulder-length bob hair with straight bangs colored {argument name=\"hair color\" default=\"teal\"}. She is wearing a {argument name=\"top clothing\" default=\"navy blue tank top\"} and {argument name=\"bottom clothing\" default=\"light beige linen shorts\"}. She is leaning slightly forward with her hands resting near her knees, looking directly at the camera with a {argument name=\"expression\" default=\"neutral, calm\"} expression. The scene features {argument name=\"lighting style\" default=\"dramatic shadows from venetian blinds\"}, casting distinct horizontal stripes of warm, golden light across her face, body, and the plain warm-toned wall behind her. A window with closed blinds is visible on the right side of the frame. High contrast, moody atmosphere, highly detailed.",
+  "translatedPrompt": "一张逼真的电影感肖像，拍摄对象是一位坐在深色椅子上的东亚年轻女性。她留着齐肩波波头，配有直刘海，发色为 {argument name=\"hair color\" default=\"蓝绿色\"}。她身穿 {argument name=\"top clothing\" default=\"海军蓝背心\"} 和 {argument name=\"bottom clothing\" default=\"浅米色亚麻短裤\"}。她身体微微前倾，双手放在膝盖附近，正视镜头，表情 {argument name=\"expression\" default=\"中性且平静\"}。场景采用了 {argument name=\"lighting style\" default=\"百叶窗投射出的戏剧性阴影\"}，在她的脸部、身体以及身后暖色调的素色墙面上，投射出清晰的水平条纹状金色暖光。画面右侧可见一扇关着百叶窗的窗户。高对比度，氛围感强，细节丰富。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "百叶窗光影下的电影感肖像：生成一张具有戏剧性光影效果的逼真肖像，人物坐姿，身上投射出明显的百叶窗阴影。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "high contrast",
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: high contrast, camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14568",
+      "14233",
+      "14485",
+      "14515",
+      "14414",
+      "14619"
+    ]
+  }
+}

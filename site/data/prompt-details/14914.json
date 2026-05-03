@@ -1,0 +1,42 @@
+{
+  "id": "14914",
+  "prompt": "Create a clean, modern Japanese webinar thumbnail in a wide 16:9 layout with a corporate tech-design aesthetic. Use a very light gray background with subtle diagonal translucent panels and bold electric-blue geometric accents, including 3 angular blue-and-white ribbon shapes on the right side behind the speaker. The composition is split into 2 main horizontal sections: a large hero area on top and an information bar across the bottom. In the top-left hero area, place a large bold sans-serif Japanese headline in vivid blue on 2 lines reading {argument name=\"headline text\" default=\"AI×デザインで\\n新事業を創出\"}. Beneath it, add a dark-blue rectangular banner with centered white bold text reading {argument name=\"subheadline text\" default=\"〜社員AI活用率90%超・デザイン費削減達成する方法〜\"}. On the right half, show a sharply lit half-body portrait of {argument name=\"speaker name\" default=\"川合 卓也\"}, an East Asian man in his 30s with short black hair, wearing a navy blazer over a white crew-neck shirt, arms folded, facing slightly left toward the headline. His face is intentionally obscured by a square skin-tone blur block centered over the face. Next to his torso, place a white rectangular name card with 2 lines of small black Japanese text above a larger bold black name: {argument name=\"speaker title\" default=\"株式会社SHIFT AI\\nデザイン部長/講師\"} and {argument name=\"speaker name\" default=\"川合 卓也\"}. Across the bottom, create a white info bar with thin blue vertical dividers and 4 visual components from left to right: 1) a blue gradient angular K logo with the brand text KAWAI DESIGN in black uppercase sans-serif, 2) the date in large blue text reading 2026/2/9, 3) a blue filled circle containing the white Japanese weekday 月 followed by the time 21:30〜22:30 in large blue text, 4) a blue outlined laptop-and-chat icon followed by the blue text オンライン. Keep typography bold and highly legible, with strong hierarchy, generous spacing, precise alignment, minimal clutter, and a polished webinar promotional design suitable for a business landing page or social media thumbnail.",
+  "translatedPrompt": "创建一个简洁、现代的 16:9 宽屏日语网络研讨会缩略图，采用企业科技设计风格。使用极浅的灰色背景，搭配微妙的对角半透明面板和醒目的电光蓝几何装饰，包括演讲者身后右侧的 3 个角状蓝白丝带形状。构图分为 2 个主要水平部分：顶部的巨大主视觉区和底部的横向信息栏。在左上角的主视觉区，放置一行醒目的粗体无衬线日语标题，颜色为亮蓝色，分为 2 行，内容为 {argument name=\"headline text\" default=\"AI×设计\\n创造新业务\"}。在其下方，添加一个深蓝色矩形横幅，中间带有白色粗体文字，内容为 {argument name=\"subheadline text\" default=\"〜员工 AI 使用率超 90%・实现削减设计成本的方法〜\"}。在右半部分，展示一张光线明亮的半身肖像，人物为 {argument name=\"speaker name\" default=\"川合 卓也\"}，一位 30 多岁的东亚男性，留着黑色短发，身穿海军蓝西装外套内搭白色圆领衫，双臂交叉，身体略微向左侧向标题方向。他的面部被一个居中的肤色模糊方块有意遮挡。在他的躯干旁边，放置一张白色矩形名片，上面有 2 行较小的黑色日语文字，下方是较大的粗体黑色姓名：{argument name=\"speaker title\" default=\"株式会社 SHIFT AI\\n设计部长/讲师\"} 和 {argument name=\"speaker name\" default=\"川合 卓也\"}。在底部，创建一个白色信息栏，带有细蓝色垂直分隔线，从左到右包含 4 个视觉组件：1) 一个蓝色渐变角状 K 标志，旁边是黑色的 KAWAI DESIGN 大写无衬线品牌文字，2) 以蓝色大字显示的日期 2026/2/9，3) 一个蓝色填充圆圈，内含白色日语星期几“月”，后跟蓝色大字显示的 21:30〜22:30 时间，4) 一个蓝色轮廓的笔记本电脑与聊天图标，后跟蓝色文字“在线”。保持排版粗体且高度易读，具有强烈的层级感、充裕的留白、精确的对齐和极简的布局，打造出适合商业落地页或社交媒体缩略图的精致网络研讨会宣传设计。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日语 AI 设计网络研讨会缩略图：一张精致的企业网络研讨会缩略图，包含醒目的日语排版、演讲者肖像以及用于推广在线商业活动的结构化信息栏。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [
+        "centered",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "要求可读；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical, horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14815",
+      "15321",
+      "14602",
+      "14936",
+      "14966",
+      "14554"
+    ]
+  }
+}

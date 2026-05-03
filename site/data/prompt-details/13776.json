@@ -1,0 +1,40 @@
+{
+  "id": "13776",
+  "prompt": "A bright, refreshing commercial photography shot of a {argument name=\"subject description\" default=\"young handsome East Asian man with dark bangs\"} wearing a {argument name=\"clothing\" default=\"light blue crewneck sweater\"}. He is smiling gently at the camera and holding up a clear plastic water bottle with condensation and a blue label that reads \"{argument name=\"product name\" default=\"POCARI SWEAT\"}\". The background is a soft-focus, airy room with light blue walls, framed pictures, a warm lamp, and a bright blue sky visible through a window on the left. In the bottom left corner, there is white overlay text that reads \"{argument name=\"overlay text line 1\" default=\"포카리 스웨트\"}\" above a second line reading \"{argument name=\"overlay text line 2\" default=\"이온을 채워, 순간을 살아\"}\", underlined by a dynamic white swoosh graphic. The lighting is soft, natural, and inviting, emphasizing a clean and hydrating aesthetic.",
+  "translatedPrompt": "一张明亮清爽的商业摄影作品，主角为一位 {argument name=\"subject description\" default=\"留着黑色短发的帅气年轻亚裔男性\"}，身穿一件 {argument name=\"clothing\" default=\"浅蓝色针织毛衣\"}。他面带柔和微笑，直视镜头，手中拿着一瓶挂着水珠的透明塑料水瓶。瓶身贴有亮蓝色标签，上面印有白色文字“{argument name=\"product label\" default=\"POCARI SWEAT\"}”。背景分为两部分：左侧窗外可见清澈的浅蓝色天空，右侧为柔焦处理的温馨室内，配有相框和暖色调台灯。左下角有清晰的白色叠加文字，显示为“{argument name=\"overlay text line 1\" default=\"포카리 스웨트\"}”，下方是一行更大的文字“{argument name=\"overlay text line 2\" default=\"이온을 채워, 순간을 살아\"}”，并配有底部的白色弧形动感图形。整体光线柔和、自然且通透，营造出一种纯净、补水的氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "清爽饮料商业人像：生成一张明亮、商业风格的人像，展示人物手持品牌饮料并带有促销文字叠加。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15150",
+      "13958",
+      "14201",
+      "14198",
+      "14204",
+      "14943"
+    ]
+  }
+}

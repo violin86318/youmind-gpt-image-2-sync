@@ -1,0 +1,44 @@
+{
+  "id": "13826",
+  "prompt": "{\n  \"type\": \"mobile livestream interface mockup\",\n  \"broadcaster\": {\n    \"person\": \"{argument name=\\\"broadcaster name\\\" default=\\\"Elon Musk\\\"}\",\n    \"action\": \"smiling warmly, holding up a jar of {argument name=\\\"product name\\\" default=\\\"Lao Gan Ma chili crisp\\\"} to the camera\",\n    \"attire\": \"black t-shirt and black blazer\"\n  },\n  \"environment\": {\n    \"setting\": \"modern studio or office\",\n    \"background_left\": {\n      \"sign_text\": \"{argument name=\\\"promo sign text\\\" default=\\\"全网独家首发 老干妈风味 地球人都爱吃\\\"}\",\n      \"foreground_item\": \"paper shopping bag with '老干妈' branding\"\n    },\n    \"background_right\": {\n      \"shelf_items\": [\n        \"3 jars of Lao Gan Ma chili crisp\",\n        \"{argument name=\\\"background prop\\\" default=\\\"SpaceX Falcon 9 rocket model\\\"}\"\n      ]\n    }\n  },\n  \"ui_overlay\": {\n    \"top_left\": {\n      \"profile_name\": \"Elon Musk\",\n      \"subtitle\": \"1.2亿本场点赞\",\n      \"button\": \"关注\",\n      \"ranking_tag\": \"🔥 带货总榜第1名\"\n    },\n    \"top_right\": {\n      \"viewer_count\": \"10万+\",\n      \"link\": \"更多直播 >\",\n      \"banner\": \"抖音618好物节 6.1-6.18 火热抢购中\"\n    },\n    \"bottom_left_chat\": {\n      \"count\": 6,\n      \"messages\": [\n        \"@宇宙第一辣妹 加入了直播间\",\n        \"铁粉 星辰大海: 支持马总！支持老干妈！\",\n        \"火星居民: 这个一定要买，配饭绝了！\",\n        \"用户8872: 没想到马斯克也爱吃老干妈！\",\n        \"特斯拉车主: 求上链接！立刻下单！\",\n        \"老干妈真香: 从不打广告，却征服了全世界的味道！\"\n      ]\n    },\n    \"bottom_right_product_card\": {\n      \"sales_tag\": \"🔥 热卖x 18.9万\",\n      \"status\": \"讲解中\",\n      \"price\": \"{argument name=\\\"product price\\\" default=\\\"¥39.9\\\"}\",\n      \"title\": \"老干妈风味豆豉油辣椒 280g*2瓶\",\n      \"features\": \"正品保障 坏了包退 极速发货\"\n    },\n    \"bottom_bar\": {\n      \"input_placeholder\": \"说点什么...\",\n      \"icon_count\": 5,\n      \"icons\": [\"smiley face\", \"shopping cart\", \"heart\", \"gift box\", \"three dots\"]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"移动端直播界面原型\",\n  \"broadcaster\": {\n    \"person\": \"{argument name=\\\"broadcaster name\\\" default=\\\"埃隆·马斯克\\\"}\",\n    \"action\": \"面带暖意微笑，向镜头展示一罐 {argument name=\\\"product name\\\" default=\\\"老干妈风味豆豉油辣椒\\\"}\",\n    \"attire\": \"黑色 T 恤搭配黑色西装外套\"\n  },\n  \"environment\": {\n    \"setting\": \"现代风格演播室或办公室\",\n    \"background_left\": {\n      \"sign_text\": \"{argument name=\\\"promo sign text\\\" default=\\\"全网独家首发 老干妈风味 地球人都爱吃\\\"}\",\n      \"foreground_item\": \"印有“老干妈”品牌标识的纸质购物袋\"\n    },\n    \"background_right\": {\n      \"shelf_items\": [\n        \"3 罐老干妈风味豆豉油辣椒\",\n        \"{argument name=\\\"background prop\\\" default=\\\"SpaceX 猎鹰 9 号火箭模型\\\"}\"\n      ]\n    }\n  },\n  \"ui_overlay\": {\n    \"top_left\": {\n      \"profile_name\": \"埃隆·马斯克\",\n      \"subtitle\": \"1.2 亿本场点赞\",\n      \"button\": \"关注\",\n      \"ranking_tag\": \"🔥 带货总榜第 1 名\"\n    },\n    \"top_right\": {\n      \"viewer_count\": \"10 万+\",\n      \"link\": \"更多直播 >\",\n      \"banner\": \"抖音 618 好物节 6.1-6.18 火热抢购中\"\n    },\n    \"bottom_left_chat\": {\n      \"count\": 6,\n      \"messages\": [\n        \"@宇宙第一辣妹 加入了直播间\",\n        \"铁粉 星辰大海: 支持马总！支持老干妈！\",\n        \"火星居民: 这个一定要买，配饭绝了！\",\n        \"用户 8872: 没想到马斯克也爱吃老干妈！\",\n        \"特斯拉车主: 求上链接！立刻下单！\",\n        \"老干妈真香: 从不打广告，却征服了全世界的味道！\"\n      ]\n    },\n    \"bottom_right_product_card\": {\n      \"sales_tag\": \"🔥 热卖 x 18.9 万\",\n      \"status\": \"讲解中\",\n      \"price\": \"{argument name=\\\"product price\\\" default=\\\"¥39.9\\\"}\",\n      \"title\": \"老干妈风味豆豉油辣椒 280g*2 瓶\",\n      \"features\": \"正品保障 坏了包退 极速发货\"\n    },\n    \"bottom_bar\": {\n      \"input_placeholder\": \"说点什么...\",\n      \"icon_count\": 5,\n      \"icons\": [\"笑脸\", \"购物车\", \"爱心\", \"礼盒\", \"更多选项\"]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电商直播 UI 原型设计：生成高度精细的移动端直播界面，包含可自定义的明星主播带货场景，并配有实时聊天和 UI 覆盖层。",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "studio"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: studio]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13836",
+      "13992",
+      "13956",
+      "13898",
+      "13995",
+      "13652"
+    ]
+  }
+}

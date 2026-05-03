@@ -1,0 +1,56 @@
+{
+  "id": "14534",
+  "prompt": "{\"type\":\"cinematic manga page\",\"style\":\"high-detail anime illustration with painterly lighting, dramatic sci-fi fantasy atmosphere, polished commercial manga composition\",\"page\":{\"reading\":\"right-to-left manga layout\",\"panel_count\":6,\"gutter_color\":\"black\",\"panels\":[{\"position\":\"top full-width\",\"scene\":\"a vast ruined cathedral-like archive hall with towering broken windows, iron balconies, dust-filled light rays, and a black grand piano centered on the floor beneath an enormous floating spherical mass made of tangled dark machinery, red cables, glowing threads, and hundreds of flying music sheets and documents\",\"text_boxes\":[{\"shape\":\"vertical narration box\",\"side\":\"right\",\"text\":\"音が、記憶をつないでいる世界がある。\"},{\"shape\":\"vertical narration box\",\"side\":\"left\",\"text\":\"誰にも忘れられたはずの、このホールで—\"}]},{\"position\":\"middle full-width\",\"scene\":\"a young man with messy dark hair and a long dark coat stands beneath the floating sphere, holding a sheet of music and looking upward; loose pages drift around him; the hall and the giant archive sphere loom overhead\",\"speech_bubbles\":[{\"shape\":\"oval\",\"side\":\"right\",\"text\":\"これが、…“記憶の楽星”。\"}]},{\"position\":\"lower row left\",\"scene\":\"close-up of several printed pages and photographs in his hands, showing sepia-toned images and text as if old memories are embedded in the documents\",\"counted_elements\":{\"printed pages visible\":3},\"sound_effects\":[{\"text\":\"ザワ…\",\"placement\":\"left\"}]},{\"position\":\"lower row right\",\"scene\":\"close-up side profile of the young man reading the score, face mostly in shadow, with floating papers and warm backlight\",\"speech_bubbles\":[{\"shape\":\"oval\",\"side\":\"right\",\"text\":\"もし君が、本当に音でできているなら……\"}]},{\"position\":\"bottom row left\",\"scene\":\"the young man sits at the grand piano and reaches toward the keys, posture quiet and deliberate, framed by the cavernous hall and the floating memory sphere above\",\"speech_bubbles\":[{\"shape\":\"oval\",\"side\":\"left\",\"text\":\"返事をして。\"}]},{\"position\":\"bottom row right\",\"scene\":\"wide dramatic shot from behind the pianist as he plays; glowing orange-red musical lines, treble clef symbols, and circular energy trails spiral around the piano and rise toward the huge suspended sphere, which begins to light up with blue and red accents\",\"sound_effects\":[{\"text\":\"ポーン\",\"placement\":\"right\"}]}]},\"subject\":{\"character\":{\"type\":\"anime boy\",\"age_appearance\":\"older teenager\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"dark blue-black\\\"}\",\"style\":\"messy short hair with uneven bangs\"},\"outfit\":[\"long dark academy-style coat\",\"high-collar inner shirt\",\"dark trousers\"],\"expression\":\"serious, introspective\"},\"environment\":{\"location\":\"{argument name=\\\"location\\\" default=\\\"ruined memory archive concert hall\\\"}\",\"key_elements\":[\"1 black grand piano\",\"1 giant floating archive sphere\",\"hundreds of suspended papers\",\"glowing red cable-like strands\",\"tall shattered windows\",\"multi-level bookcases and balconies\"]}},\"art_direction\":{\"mood\":\"melancholic, mysterious, awe-inspiring, emotionally charged\",\"palette\":[\"deep navy\",\"slate blue\",\"warm ivory light\",\"crimson red\",\"orange glow\"],\"lighting\":\"strong backlight through tall windows with volumetric rays, mixed with internal red-orange magical glow\",\"camera\":\"alternates between epic wide shots, medium character shot, close-up insert, and over-the-shoulder performance shot\",\"detail\":\"intricate environmental storytelling, dense linework, textured papers, elaborate architecture, dynamic debris and cables\"},\"customization\":{\"theme\":\"{argument name=\\\"core theme\\\" default=\\\"music connecting memory\\\"}\",\"character name\":\"{argument name=\\\"character name\\\" default=\\\"unnamed young pianist\\\"}\",\"page tone\":\"{argument name=\\\"page tone\\\" default=\\\"solemn and wondrous\\\"}\"}}",
+  "translatedPrompt": "{\"type\":\"电影感漫画页面\",\"style\":\"高细节动漫插画，带有绘画感光影，戏剧性的科幻奇幻氛围，精致的商业漫画构图\",\"page\":{\"reading\":\"从右向左的漫画排版\",\"panel_count\":6,\"gutter_color\":\"黑色\",\"panels\":[{\"position\":\"顶部通栏\",\"scene\":\"一个宏大且破败的教堂式档案大厅，有高耸的碎裂窗户、铁艺阳台、充满尘埃的光束，地板中央放置着一架黑色三角钢琴，上方悬浮着一个巨大的球体，由纠缠的黑色机械、红色线缆、发光的丝线以及数百张飞舞的乐谱和文档组成\",\"text_boxes\":[{\"shape\":\"竖排旁白框\",\"side\":\"右\",\"text\":\"音が、記憶をつないでいる世界がある。\"},{\"shape\":\"竖排旁白框\",\"side\":\"左\",\"text\":\"誰にも忘れられたはずの、このホールで—\"}]},{\"position\":\"中部通栏\",\"scene\":\"一位留着凌乱深色头发、身穿长款深色外套的年轻人站在悬浮球体下方，手中拿着乐谱抬头仰望；零散的纸张在他周围飘动；大厅和巨大的档案球体在头顶上方显得压迫感十足\",\"speech_bubbles\":[{\"shape\":\"椭圆\",\"side\":\"右\",\"text\":\"これが、…“記憶の楽星”。\"}]},{\"position\":\"下排左侧\",\"scene\":\"特写他手中的几页印刷纸和照片，显示出深褐色调的图像和文字，仿佛旧记忆被嵌入在文档中\",\"counted_elements\":{\"printed pages visible\":3},\"sound_effects\":[{\"text\":\"ザワ…\",\"placement\":\"左\"}]},{\"position\":\"下排右侧\",\"scene\":\"年轻人阅读乐谱的侧脸特写，面部大部分处于阴影中，周围有飘浮的纸张和温暖的背光\",\"speech_bubbles\":[{\"shape\":\"椭圆\",\"side\":\"右\",\"text\":\"もし君が、本当に音でできているなら……\"}]},{\"position\":\"底部左侧\",\"scene\":\"年轻人坐在三角钢琴前，伸手触碰琴键，姿态安静而专注，背景是空旷的大厅和上方悬浮的记忆球体\",\"speech_bubbles\":[{\"shape\":\"椭圆\",\"side\":\"左\",\"text\":\"返事をして。\"}]},{\"position\":\"底部右侧\",\"scene\":\"从钢琴家身后拍摄的宽幅戏剧性镜头，随着他的演奏，橙红色的发光音符线条、高音谱号符号以及环形能量轨迹围绕着钢琴盘旋，并向巨大的悬浮球体升起，球体开始闪烁着蓝色和红色的光芒\",\"sound_effects\":[{\"text\":\"ポーン\",\"placement\":\"右\"}]}]},\"subject\":{\"character\":{\"type\":\"动漫少年\",\"age_appearance\":\"青少年\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"深蓝黑色\\\"}\",\"style\":\"凌乱短发，刘海不规则\"},\"outfit\":[\"长款深色学院风外套\",\"高领内搭\",\"深色长裤\"],\"expression\":\"严肃，沉思\"},\"environment\":{\"location\":\"{argument name=\\\"location\\\" default=\\\"废弃的记忆档案音乐厅\\\"}\",\"key_elements\":[\"1 架黑色三角钢琴\",\"1 个巨大的悬浮档案球体\",\"数百张悬浮的纸张\",\"发光的红色线缆状丝线\",\"高大的碎裂窗户\",\"多层书架和阳台\"]}},\"art_direction\":{\"mood\":\"忧郁、神秘、令人敬畏、充满情感张力\",\"palette\":[\"深海军蓝\",\"板岩蓝\",\"温暖的象牙白光\",\"深红色\",\"橙色光芒\"],\"lighting\":\"透过高窗的强烈背光，带有体积感光束，混合内部红橙色魔法光芒\",\"camera\":\"在史诗级广角镜头、角色中景、特写插入镜头和肩后演奏镜头之间切换\",\"detail\":\"复杂的环境叙事，密集的线条，纸张纹理，精致的建筑，动态的碎片和线缆\"},\"customization\":{\"theme\":\"{argument name=\\\"core theme\\\" default=\\\"音乐连接记忆\\\"}\",\"character name\":\"{argument name=\\\"character name\\\" default=\\\"未命名的年轻钢琴家\\\"}\",\"page tone\":\"{argument name=\\\"page tone\\\" default=\\\"庄重而奇妙\\\"}\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "记忆档案漫画页面：一幅极具戏剧性的多格漫画页面，描绘了一位年轻钢琴家在废墟大厅中面对巨大记忆球体的场景，非常适合生成充满氛围感的科幻奇幻漫画画面。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "close-up",
+        "wide shot",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "manga",
+        "sci-fi",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "backlight",
+        "volumetric",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, close-up, wide shot, vertical]。\n\nVisual style:\n[参考风格: cinematic, anime, manga, sci-fi, fantasy]。\n\nLighting and camera:\n[参考光线镜头: backlight, volumetric, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14413",
+      "14527",
+      "15352",
+      "15371",
+      "15090",
+      "15091"
+    ]
+  }
+}

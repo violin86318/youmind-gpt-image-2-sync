@@ -1,0 +1,37 @@
+{
+  "id": "14752",
+  "prompt": "经典影视角色鬼畜表情包，配上\"{argument name=\"文字\" default=\"你说的都对\"}\"文字气泡",
+  "translatedPrompt": "一张关于经典电影角色的趣味“恶搞”梗图，包含一个写着“{argument name=\"text\" default=\"你说得太对了\"}”的对话气泡。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "梗图生成提示词：一个用于创作包含经典角色和对话气泡的趣味网络梗图的提示词。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13707",
+      "13719",
+      "13853",
+      "13989",
+      "14790",
+      "15149"
+    ]
+  }
+}

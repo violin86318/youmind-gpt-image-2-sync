@@ -1,0 +1,37 @@
+{
+  "id": "15461",
+  "prompt": "A warm, cute digital illustration in a cozy desk setting celebrating a new subscription. On the left is a friendly humanoid robot mascot with a glossy black face screen showing pixelated purple LED eyes and a smiling mouth, wearing a tall black top hat with a purple band and a dark hoodie with a small American flag patch on one sleeve and the text \"USN VET MSSP\" on the chest. The robot gives a thumbs-up with one hand and holds a small rectangular sign in the other that reads \"Subscribed!\" with a purple heart underneath. On the right is a delighted young woman with long wavy {argument name=\"hair color\" default=\"golden blonde\"} hair, seated at the desk with hands clasped near her chin in an excited grateful pose, wearing a white long-sleeve top with red and blue striped trim and a small chest logo. Her face is obscured by a simple square censor block. Above them, large playful handwritten text says \"{argument name=\"headline text\" default=\"Nick subscribed Sharon!\"}\". Beneath the headline is a rounded notification card showing a circular avatar of the same robot mascot, the name \"{argument name=\"subscriber name\" default=\"Nick\"}\", and the text \"Subscribed to {argument name=\"creator name\" default=\"Sharon Riley\"}\" followed by a purple heart. A speech bubble next to the woman says \"{argument name=\"speech bubble text\" default=\"Thank you!\"}\". Scatter exactly 7 pink heart doodles around the composition and add 1 small white sparkle near the center. Place everything on a wooden tabletop. On the left side of the desk, include 1 black mug with the text \"CRYPTO CAN'T BE EVIL\" and 1 gold coin featuring a Shiba Inu dog face. In the center-right foreground, include 1 white mug reading \"AI FOR GOOD\" with a blue heart. On the far right, stack exactly 3 books with visible spine titles: \"AI & CREATIVITY\", \"ENTERTAINMENT\", and \"DREAM BIG\" with a heart, beside 1 small potted plant. Use a softly blurred home-office background with shelves, pastel decor, and a framed letter X on the wall. Soft peach and beige lighting, painterly shading, rounded shapes, wholesome streamer fan-art aesthetic, polished storybook-style digital painting.",
+  "translatedPrompt": "一幅温暖可爱的数字插画，背景为温馨的桌面环境，正在庆祝新的订阅。左侧是一个友好的类人机器人吉祥物，它有着光亮的黑色面屏，屏幕上显示着像素化的紫色 LED 眼睛和微笑的嘴巴，头戴饰有紫色带子的黑色高礼帽，身穿深色连帽衫，袖子上有一个小小的美国国旗补丁，胸前印有“USN VET MSSP”字样。机器人一只手竖起大拇指，另一只手拿着一块写着“Subscribed!”的小长方形标牌，下方画着一颗紫色爱心。右侧是一位欣喜若狂的年轻女性，留着长长的波浪形 {argument name=\"hair color\" default=\"金色\"} 头发，坐在桌边，双手合十放在下巴附近，做出兴奋而感激的姿势，身穿带有红蓝条纹装饰和胸前小标志的白色长袖上衣。她的脸被一个简单的方形遮挡块遮住。在他们上方，巨大的俏皮手写文字写着“{argument name=\"headline text\" default=\"Nick 订阅了 Sharon!\"}”。标题下方是一张圆角的通知卡片，显示着同一个机器人吉祥物的圆形头像、名称“{argument name=\"subscriber name\" default=\"Nick\"}”，以及“Subscribed to {argument name=\"creator name\" default=\"Sharon Riley\"}”的文字，后面跟着一颗紫色爱心。女子旁边的对话气泡写着“{argument name=\"speech bubble text\" default=\"谢谢你！\"}”。在构图中散布 7 个粉色爱心涂鸦，并在中心附近添加 1 个白色小闪光。将所有元素放置在木质桌面上。在桌子左侧，放置 1 个印有“CRYPTO CAN'T BE EVIL”文字的黑色马克杯和 1 枚印有柴犬头像的金币。在右前方中心，放置 1 个印有“AI FOR GOOD”字样和蓝色爱心的白色马克杯。在最右侧，堆叠 3 本书，书脊标题清晰可见：“AI & CREATIVITY”、“ENTERTAINMENT”和带有爱心的“DREAM BIG”，旁边放 1 盆小盆栽。使用柔和模糊的家庭办公室背景，包括书架、柔和色调的装饰以及墙上带字母 X 的相框。柔和的桃色和米色灯光，绘画般的阴影，圆润的形状，治愈系主播同人画美学，精致的绘本风格数字绘画。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "可爱的订阅庆祝插画：此提示词可生成温馨的同人画风格感谢场景，展示机器人吉祥物与创作者庆祝新订阅者，非常适合社交媒体发布和粉丝互动。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13671",
+      "13997",
+      "14026",
+      "14253",
+      "14399",
+      "14460"
+    ]
+  }
+}

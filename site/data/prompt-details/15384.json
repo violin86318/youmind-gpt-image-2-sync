@@ -1,0 +1,50 @@
+{
+  "id": "15384",
+  "prompt": "{\"type\":\"editorial infographic poster\",\"style\":\"Swiss-modern graphic design with brutalist typography, minimalist grid layout, monochrome base with acid-lime accents, halftone textures, collage elements, clean negative space, high-contrast black text on a very light warm gray background\",\"subject\":\"an infographic explaining the lifecycle of internet memes as a cultural system\",\"canvas\":{\"orientation\":\"portrait\",\"background\":\"very light gray paper texture\"},\"layout\":{\"headline_block\":{\"position\":\"top-left\",\"title\":\"The Meme Lifecycle\",\"subtitle_top\":\"Viral today, gone tomorrow.\",\"body\":\"Memes move fast. They're born, spread, evolve, peak, and fade—only to be remembered, remixed, or forgotten. This is the cycle.\"},\"intro_icon\":{\"position\":\"upper-left near headline\",\"description\":\"small outlined square containing a globe icon with short caption to the right\",\"caption\":\"// a universal cycle in the attention economy\"},\"left_sidebar\":{\"position\":\"far-left vertical\",\"count\":4,\"items\":[\"heart outline icon\",\"speech bubble outline icon\",\"repost/retweet outline icon\",\"bookmark outline icon\"]},\"main_sections\":{\"count\":5,\"path\":\"connected by thin black curved arrows forming a looping cycle across the page\",\"sections\":[{\"number\":\"01\",\"title\":\"BIRTH\",\"position\":\"upper-right\",\"visual\":\"black-and-white halftone cat portrait facing forward, wearing oversized neon-lime star-shaped sunglasses; behind the cat are a jagged acid-lime starburst with a lowercase letter 'a' on it and a lime dotted rectangle\",\"body\":\"A spark of an idea. New format, new joke, new context. It's niche. It's everything.\"},{\"number\":\"02\",\"title\":\"SPREAD\",\"position\":\"center-right\",\"visual\":\"large warped black wordmark reading 'SPREAD' stretched vertically and liquified, with several small acid-lime square arrow icons around it and tiny black crop/corner marks\",\"body\":\"Shared, reposted, reshared. It escapes its original context. It finds the people.\"},{\"number\":\"03\",\"title\":\"EVOLVE\",\"position\":\"mid-left\",\"visual\":\"collage of 4 overlapping elements: a browser-window-framed grayscale Mona Lisa crop, a huge lowercase acid-lime 'e' in front, a black-and-white pixel-art block shape on the right, and a small acid-lime note box listing the word 'evolve' 5 times with the last line faded\",\"body\":\"Remixed. Recontextualized. It mutates into new forms. The joke adapts or dies.\"},{\"number\":\"04\",\"title\":\"PEAK\",\"position\":\"mid-right lower than spread\",\"visual\":\"lime bell-curve histogram made of thin vertical bars inside a black measurement frame with a small central crosshair\",\"body\":\"Maximum visibility. Mainstream adoption. Everyone gets it. Then it starts to get old.\"},{\"number\":\"05\",\"title\":\"FADE\",\"position\":\"lower-left to lower-center\",\"visual\":\"the word 'fade' in bold black lowercase, disintegrating into scattered black particles toward the right\",\"body\":\"Interest drops. New memes take over. It fades into obscurity—or legacy.\"}]},\"bottom_callout\":{\"position\":\"lower-left\",\"icon\":\"small black square with white asterisk/star symbol\",\"text\":\"Memes are temporary. Impact isn't...\",\"button\":\"What will you create?\"},\"footer\":{\"position\":\"bottom full width\",\"count\":4,\"columns\":[{\"label\":\"FORMAT:\",\"value\":\"Digital culture artifact\"},{\"label\":\"CYCLE TIME:\",\"value\":\"Seconds to years (maybe forever)\"},{\"label\":\"FUEL:\",\"value\":\"Creativity, context, community\"},{\"label\":\"OUTCOME:\",\"value\":\"Laughter, connection, culture\"}],\"extra_icon\":\"small target/crosshair icon at the far bottom-right\"}},\"typography\":{\"headline\":\"extra-large bold neo-grotesk sans serif\",\"section_numbers\":\"very large bold condensed sans serif\",\"section_titles\":\"uppercase bold sans serif with acid-lime underline accent\",\"body\":\"small clean sans serif, flush-left\",\"footer\":\"small uppercase labels with lighter body text\"},\"color_palette\":{\"base\":\"black and off-white\",\"accent\":\"acid lime / chartreuse\",\"secondary\":\"grayscale halftone\"},\"composition_notes\":\"editorial poster balance with oversized title on the left and modular infographic panels on the right, lots of open space, precise alignment, contemporary design-magazine aesthetic, crisp vector lines mixed with distressed raster collage textures\"}",
+  "translatedPrompt": "{\"type\":\"编辑信息图海报\",\"style\":\"瑞士现代平面设计，融合粗野主义排版、极简网格布局、单色基调配以酸橙色点缀、半色调纹理、拼贴元素、简洁的留白，以及在极浅暖灰色背景上的高对比度黑色文字\",\"subject\":\"一张解释互联网 Meme 作为一种文化系统生命周期的信息图\",\"canvas\":{\"orientation\":\"纵向\",\"background\":\"极浅灰色纸张纹理\"},\"layout\":{\"headline_block\":{\"position\":\"左上角\",\"title\":\"Meme 生命周期\",\"subtitle_top\":\"今日爆火，明日即逝。\",\"body\":\"Meme 的传播速度极快。它们诞生、传播、演变、达到顶峰并逐渐消退——最终被铭记、重混或遗忘。这就是循环。\"},\"intro_icon\":{\"position\":\"左上角标题附近\",\"description\":\"一个小型的轮廓正方形，内含一个地球图标，右侧带有简短说明\",\"caption\":\"// 注意力经济中的通用循环\"},\"left_sidebar\":{\"position\":\"最左侧垂直排列\",\"count\":4,\"items\":[\"心形轮廓图标\",\"对话气泡轮廓图标\",\"转发/转推轮廓图标\",\"书签轮廓图标\"]},\"main_sections\":{\"count\":5,\"path\":\"由细黑色曲线箭头连接，在页面上形成一个循环路径\",\"sections\":[{\"number\":\"01\",\"title\":\"诞生\",\"position\":\"右上角\",\"visual\":\"黑白半色调猫咪肖像，正视前方，戴着超大霓虹酸橙色星形太阳镜；猫咪身后是一个带有小写字母 'a' 的锯齿状酸橙色星爆图案和一个酸橙色虚线矩形\",\"body\":\"灵感的火花。新的格式，新的笑话，新的语境。它是小众的。它是一切。\"},{\"number\":\"02\",\"title\":\"传播\",\"position\":\"中右侧\",\"visual\":\"巨大的变形黑色文字 'SPREAD'，垂直拉伸并液化，周围有几个小型酸橙色方形箭头图标和微小的黑色裁剪/角标\",\"body\":\"分享、转发、再分享。它脱离了原始语境。它找到了受众。\"},{\"number\":\"03\",\"title\":\"演变\",\"position\":\"中左侧\",\"visual\":\"4 个重叠元素的拼贴：一个带有浏览器窗口边框的灰度蒙娜丽莎裁剪图，前方有一个巨大的小写酸橙色 'e'，右侧是一个黑白像素艺术块形状，以及一个小的酸橙色便签框，列出了 5 次 'evolve' 一词，最后一行逐渐淡出\",\"body\":\"重混。重新语境化。它变异成新的形式。笑话要么适应，要么消亡。\"},{\"number\":\"04\",\"title\":\"巅峰\",\"position\":\"中右侧（低于传播）\",\"visual\":\"由细垂直条组成的酸橙色钟形曲线直方图，位于黑色测量框内，带有一个小型中心十字准线\",\"body\":\"最高可见度。主流采纳。每个人都懂了。然后它开始变得陈旧。\"},{\"number\":\"05\",\"title\":\"消退\",\"position\":\"左下至中下\",\"visual\":\"粗体黑色小写单词 'fade'，向右逐渐分解为散落的黑色颗粒\",\"body\":\"兴趣下降。新的 Meme 取而代之。它逐渐淡出，走向默默无闻——或成为遗产。\"}]},\"bottom_callout\":{\"position\":\"左下角\",\"icon\":\"带有白色星号/星形符号的小型黑色正方形\",\"text\":\"Meme 是暂时的。但影响力不是……\",\"button\":\"你会创造什么？\"},\"footer\":{\"position\":\"底部全宽\",\"count\":4,\"columns\":[{\"label\":\"格式：\",\"value\":\"数字文化产物\"},{\"label\":\"周期时长：\",\"value\":\"几秒到几年（或许永远）\"},{\"label\":\"燃料：\",\"value\":\"创造力、语境、社区\"},{\"label\":\"结果：\",\"value\":\"欢笑、连接、文化\"}],\"extra_icon\":\"最右下角的小型目标/十字准线图标\"}},\"typography\":{\"headline\":\"超大号粗体新格罗特斯克无衬线字体\",\"section_numbers\":\"超大号粗体压缩无衬线字体\",\"section_titles\":\"大写粗体无衬线字体，配有酸橙色下划线强调\",\"body\":\"小型简洁无衬线字体，左对齐\",\"footer\":\"小型大写标签，配以较轻的正文文字\"},\"color_palette\":{\"base\":\"黑色和灰白色\",\"accent\":\"酸橙色 / 黄绿色\",\"secondary\":\"灰度半色调\"},\"composition_notes\":\"编辑海报平衡感，左侧为超大标题，右侧为模块化信息图面板，大量留白，精确对齐，当代设计杂志美学，清晰的矢量线条与粗糙的栅格拼贴纹理混合\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Meme 生命周期编辑信息图：一张现代海报风格的信息图，展示了 Meme 的五个生命周期阶段，非常适合编辑设计、社会评论或趋势文化演示。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "grid",
+        "callout",
+        "vertical"
+      ],
+      "style": [
+        "editorial",
+        "minimalist"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, callout, vertical]。\n\nVisual style:\n[参考风格: editorial, minimalist]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15787",
+      "14963",
+      "15786",
+      "15684",
+      "14551",
+      "15026"
+    ]
+  }
+}

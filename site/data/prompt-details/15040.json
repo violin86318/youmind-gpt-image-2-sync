@@ -1,0 +1,40 @@
+{
+  "id": "15040",
+  "prompt": "Using the provided reference image as the brand inspiration, transform the fried chicken burger and waffle fries meal into a polished one-page logo guidelines board for a restaurant brand named {argument name=\"brand name\" default=\"Can Dende\"}. Create a cheerful, modern fast-casual identity derived from the food in the reference: turn the crispy fried topping into a playful mascot/icon above the wordmark, and build a bold custom logo in a warm palette inspired by the photo. Design the output as a clean editorial brand sheet on an off-white background with navy and red typography, yellow scalloped borders at the top and bottom, and small sparkle doodles. Include these exact sections and counts: 1 main header reading \"LOGO GUIDELINES\" with the brand name beneath it; 1 \"PRIMARY LOGO\" section with the main logo and an \"ABOUT THE LOGO\" text block; 1 \"LOGO VARIANTS\" section with 3 variants labeled \"FULL COLOR\", \"SINGLE COLOR\", and \"REVERSED\"; 1 \"COLOR VARIATIONS\" section with 4 tiles labeled \"YELLOW BACKGROUND\", \"NAVY BACKGROUND\", \"PINK BACKGROUND\", and \"NAVY ON CREAM\"; 1 \"MINIMUM SIZE\" section showing the logo with a width guide and the text \"1.25 in / 120 px MINIMUM WIDTH\"; 1 \"CLEAR SPACE\" section with a spacing diagram based on the height of the letter C; 1 \"INCORRECT USAGE\" section with 4 wrong examples labeled \"Don't change the colors\", \"Don't stretch or distort\", \"Don't rotate the logo\", and \"Don't add effects or shadows\"; 1 \"USAGE NOTES\" section with 4 bullet points; and a handwritten-style closing tagline at bottom right that says {argument name=\"tagline text\" default=\"It's a vibe. It's a smile. It's yours.\"}. Keep the composition crisp, print-ready, highly legible, and presentation-quality, like a real branding deliverable for a restaurant.",
+  "translatedPrompt": "以提供的参考图片作为品牌灵感，将炸鸡汉堡和华夫薯条餐点转化为一份精美的单页 Logo 指南项目，用于名为 {argument name=\"brand name\" default=\"Can Dende\"} 的餐厅品牌。根据参考图片中的食物，打造一种欢快、现代的快休闲品牌形象：将酥脆的炸鸡配料转化为文字标识上方俏皮的吉祥物/图标，并以照片中的暖色调为灵感，构建一个醒目的定制 Logo。将输出设计为一张简洁的编辑风格品牌页，背景为米白色，搭配海军蓝和红色字体，顶部和底部带有黄色扇形边框，并点缀少量闪光涂鸦。请包含以下确切部分及数量：1 个主标题，内容为“LOGO GUIDELINES”，下方标注品牌名称；1 个“PRIMARY LOGO”部分，包含主 Logo 和一段“ABOUT THE LOGO”文本块；1 个“LOGO VARIANTS”部分，包含 3 个变体，分别标注为“FULL COLOR”、“SINGLE COLOR”和“REVERSED”；1 个“COLOR VARIATIONS”部分，包含 4 个色块，分别标注为“YELLOW BACKGROUND”、“NAVY BACKGROUND”、“PINK BACKGROUND”和“NAVY ON CREAM”；1 个“MINIMUM SIZE”部分，展示带有宽度引导线的 Logo，并附带文本“1.25 in / 120 px MINIMUM WIDTH”；1 个“CLEAR SPACE”部分，包含基于字母 C 高度的间距示意图；1 个“INCORRECT USAGE”部分，包含 4 个错误示例，分别标注为“Don't change the colors”、“Don't stretch or distort”、“Don't rotate the logo”和“Don't add effects or shadows”；1 个“USAGE NOTES”部分，包含 4 个要点；以及右下角手写风格的结束语，内容为 {argument name=\"tagline text\" default=\"It's a vibe. It's a smile. It's yours.\"}。保持构图清晰、适合打印、高度易读且具备演示质量，如同真实的餐厅品牌交付成果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "餐厅 Logo 指南项目：此提示词可将食物照片转化为精美的餐厅品牌指南页面，适用于 Logo 概念演示及快速视觉识别开发。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [],
+      "style": [
+        "editorial"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: editorial]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15039",
+      "14966",
+      "13939",
+      "14262",
+      "14266",
+      "14511"
+    ]
+  }
+}

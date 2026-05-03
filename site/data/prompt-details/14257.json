@@ -1,0 +1,42 @@
+{
+  "id": "14257",
+  "prompt": "A cinematic photograph of an {argument name=\"subject\" default=\"elderly Asian woman\"} sitting in a dimly lit kitchen, looking out a square window at a {argument name=\"window view\" default=\"calm ocean with a distant island\"} during {argument name=\"time of day\" default=\"twilight\"}. She is viewed in profile, holding 1 clear glass. She sits at a small table with 1 silver thermos and 1 bowl of dark fruit. There are 2 wooden chairs at the table, one occupied by the woman and the other draped with a dark cloth. The interior is in deep shadow, featuring 1 metal kettle on the left counter, and 1 round wall clock, 1 hanging net bag, and 1 light switch on the right wall. Small seashells line the window sill. The atmosphere is {argument name=\"mood\" default=\"contemplative and quiet\"}, with soft natural light from the window illuminating her face against the dark room.",
+  "translatedPrompt": "A cinematic photograph of an {argument name=\"subject\" default=\"elderly Asian woman\"} sitting in a dimly lit kitchen, looking out a square window at a {argument name=\"window view\" default=\"calm ocean with a distant island\"} during {argument name=\"time of day\" default=\"twilight\"}. She is viewed in profile, holding 1 clear glass. She sits at a small table with 1 silver thermos and 1 bowl of dark fruit. There are 2 wooden chairs at the table, one occupied by the woman and the other draped with a dark cloth. The interior is in deep shadow, featuring 1 metal kettle on the left counter, and 1 round wall clock, 1 hanging net bag, and 1 light switch on the right wall. Small seashells line the window sill. The atmosphere is {argument name=\"mood\" default=\"contemplative and quiet\"}, with soft natural light from the window illuminating her face against the dark room.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Contemplative Window View Portrait：Generates a moody, cinematic photograph of a person sitting in a dark room looking out a window at a scenic view.",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "natural light"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic]。\n\nLighting and camera:\n[参考光线镜头: natural light]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14059",
+      "13448",
+      "13451",
+      "13698",
+      "14017",
+      "14741"
+    ]
+  }
+}

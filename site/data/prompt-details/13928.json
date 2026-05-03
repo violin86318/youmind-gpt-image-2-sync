@@ -1,0 +1,44 @@
+{
+  "id": "13928",
+  "prompt": "{\n  \"type\": \"2x2 advertising banner grid\",\n  \"layout\": \"4 distinct quadrants, each featuring a different industry advertisement\",\n  \"quadrants\": [\n    {\n      \"position\": \"top-left\",\n      \"industry\": \"skincare\",\n      \"visuals\": \"Asian woman touching cheek, floating water droplets, white pump bottle\",\n      \"brand\": \"BALANCÉE\",\n      \"copy\": {\n        \"headline\": \"{argument name=\\\"skincare headline\\\" default=\\\"素肌が、目覚める。\\\"}\",\n        \"subheadline\": \"透明感あふれる、新しいわたしへ。\",\n        \"features_count\": 3,\n        \"features_labels\": [\"高保湿\", \"肌荒れ予防\", \"美白ケア*\"]\n      }\n    },\n    {\n      \"position\": \"top-right\",\n      \"industry\": \"restaurant food\",\n      \"visuals\": \"close-up of spaghetti bolognese with grated cheese and parsley, dark moody lighting\",\n      \"brand\": \"Trattoria Luce\",\n      \"copy\": {\n        \"headline\": \"{argument name=\\\"food headline\\\" default=\\\"このパスタ、事件級。\\\"}\",\n        \"badge\": \"期間限定\",\n        \"description\": \"黒毛和牛のボロネーゼ 〜トリュフの香り〜\"\n      }\n    },\n    {\n      \"position\": \"bottom-left\",\n      \"industry\": \"travel\",\n      \"visuals\": \"woman with backpack facing a scenic mountain lake, bright daylight\",\n      \"brand\": \"NATURE JOURNEY\",\n      \"copy\": {\n        \"headline\": \"{argument name=\\\"travel headline\\\" default=\\\"わたしを、解き放つ旅へ。\\\"}\",\n        \"subheadline\": \"自然の中で、心が動き出す。\",\n        \"script\": \"Find your freedom.\",\n        \"banner_details\": [\"初夏の特別キャンペーン\", \"6.1 SAT - 6.30 SUN\", \"最大 20%OFF\", \"今だけの特別プラン多数！\"]\n      }\n    },\n    {\n      \"position\": \"bottom-right\",\n      \"industry\": \"SaaS app\",\n      \"visuals\": \"smartphone displaying a task management app interface with 4 schedule items\",\n      \"brand\": \"{argument name=\\\"app brand name\\\" default=\\\"Taskme\\\"}\",\n      \"copy\": {\n        \"headline\": \"{argument name=\\\"app headline\\\" default=\\\"タスク管理を、もっとシンプルに、スマートに。\\\"}\",\n        \"circle_badge\": \"1日を、デザインしよう。\",\n        \"features_count\": 3,\n        \"features_labels\": [\"直感的な操作性\", \"チームで共有可能\", \"どこでもアクセス\"],\n        \"bottom_banner\": \"7日間無料トライアル実施中！\"\n      }\n    }\n  ]\n}",
+  "translatedPrompt": "{\n  \"type\": \"2x2 广告横幅网格\",\n  \"layout\": \"4 个独立的象限，每个象限展示不同行业的广告\",\n  \"quadrants\": [\n    {\n      \"position\": \"左上\",\n      \"industry\": \"护肤\",\n      \"visuals\": \"亚洲女性轻触脸颊，漂浮的水滴，白色按压式瓶装产品\",\n      \"brand\": \"BALANCÉE\",\n      \"copy\": {\n        \"headline\": \"{argument name=\\\"skincare headline\\\" default=\\\"素肌が、目覚める。\\\"}\",\n        \"subheadline\": \"迈向充满透明感的新自我。\",\n        \"features_count\": 3,\n        \"features_labels\": [\"高保湿\", \"预防肌肤粗糙\", \"美白护理*\"]\n      }\n    },\n    {\n      \"position\": \"右上\",\n      \"industry\": \"餐饮食品\",\n      \"visuals\": \"特写镜头下的肉酱意大利面，撒有磨碎的奶酪和欧芹，深色调氛围光\",\n      \"brand\": \"Trattoria Luce\",\n      \"copy\": {\n        \"headline\": \"{argument name=\\\"food headline\\\" default=\\\"このパスタ、事件級。\\\"}\",\n        \"badge\": \"限时供应\",\n        \"description\": \"黑毛和牛波隆那肉酱面 〜松露香气〜\"\n      }\n    },\n    {\n      \"position\": \"左下\",\n      \"industry\": \"旅游\",\n      \"visuals\": \"背着背包的女性面对风景秀丽的高山湖泊，明亮的日光\",\n      \"brand\": \"NATURE JOURNEY\",\n      \"copy\": {\n        \"headline\": \"{argument name=\\\"travel headline\\\" default=\\\"わたしを、解き放つ旅へ。\\\"}\",\n        \"subheadline\": \"在自然中，让心动起来。\",\n        \"script\": \"Find your freedom.\",\n        \"banner_details\": [\"初夏特别活动\", \"6 月 1 日 周六 - 6 月 30 日 周日\", \"最高 20% 折扣\", \"现有多项限时特别方案！\"]\n      }\n    },\n    {\n      \"position\": \"右下\",\n      \"industry\": \"SaaS 应用\",\n      \"visuals\": \"智能手机显示着一个包含 4 个日程项目的任务管理应用界面\",\n      \"brand\": \"{argument name=\\\"app brand name\\\" default=\\\"Taskme\\\"}\",\n      \"copy\": {\n        \"headline\": \"{argument name=\\\"app headline\\\" default=\\\"タスク管理を、もっとシンプルに、スマートに。\\\"}\",\n        \"circle_badge\": \"设计你的一天。\",\n        \"features_count\": 3,\n        \"features_labels\": [\"直观的操作体验\", \"支持团队共享\", \"随时随地访问\"],\n        \"bottom_banner\": \"7 天免费试用进行中！\"\n      }\n    }\n  ]\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "4 格广告网格概念：生成一个 2x2 的网格，展示涵盖护肤、食品、旅游和科技行业的 4 种不同日式广告。",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [
+        "close-up",
+        "grid",
+        "2x2"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "B2B 产品概念图、后台系统、数据看板",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, grid, 2x2]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14199",
+      "13774",
+      "14447",
+      "15389",
+      "14497",
+      "14627"
+    ]
+  }
+}

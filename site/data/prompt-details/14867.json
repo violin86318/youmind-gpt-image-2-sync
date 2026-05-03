@@ -1,0 +1,50 @@
+{
+  "id": "14867",
+  "prompt": "A dramatic, ultra-polished Chinese corporate announcement poster in a premium Apple-style keynote aesthetic, vertical 4:5 composition, featuring a confident middle-aged East Asian man from the waist up standing outdoors in front of a futuristic glass-ring campus building at dusk, with a huge glowing white Apple logo behind him on the right side. He wears a minimalist black button-up shirt over a dark undershirt, with a calm, authoritative posture and luxury-brand presentation lighting. The sky is a deep blue-to-gray gradient, and the overall color palette is dark navy, charcoal, silver, and warm soft white. At the very top center, place a small white Apple logo, with a thin horizontal divider line on each side and the Chinese text “Apple 新篇章 由此开启” beneath it in elegant sans-serif. In the top right corner, add large bold red Chinese text: “AI生成”. Across the upper-middle area, add a huge bold white Chinese headline: “{argument name=\"headline text\" default=\"罗永浩 接任 Apple CEO\"}”. Directly below it, add smaller spaced-out white Chinese subheadline text: “用 工 匠 精 神 ， 让 世 界 再 次 惊 叹”. On the left side of the subject’s chest area, place a quotation block with a large opening quotation mark and 2 lines of Chinese body text in dark navy: “{argument name=\"quote\" default=\"我不是来改变 Apple，而是让 Apple 重拾改变世界的勇气。\"}”, followed by a handwritten-style signature line and the name “罗永浩”. In the lower-middle area, overlay a dark translucent horizontal feature bar containing exactly 4 icon-and-text items, evenly spaced from left to right: 1) a hammer icon with the title “工匠精神” and subtitle “极致产品主义”, 2) a speech bubble icon with the title “用户至上” and subtitle “体验超越期待”, 3) a light bulb icon with the title “创新驱动” and subtitle “重新定义未来”, 4) a heart outline icon with the title “真诚沟通” and subtitle “打造人心的科技”. At the bottom center, add large white English text: “Think Different. Think Again.”, then below it smaller white Chinese text: “现在，交给罗永浩。” and a handwritten signature beneath. The subject should resemble {argument name=\"character name\" default=\"罗永浩\"}, with {argument name=\"hair style\" default=\"short black hair, neatly combed\"} and {argument name=\"outfit\" default=\"minimalist black button-up shirt\"}. Make the image photorealistic but slightly idealized like a premium launch campaign, with cinematic contrast, soft edge glow around the Apple logo, subtle reflections on the glass architecture, elegant typography hierarchy, and a highly believable luxury-tech advertisement finish.",
+  "translatedPrompt": "一张极具质感、精美绝伦的中国企业任命海报，采用高端苹果发布会风格，4:5 竖构图。画面主体为一位自信的中年东亚男性，半身像，背景是黄昏时分一座充满未来感的玻璃环形园区建筑，右后方有一个巨大的发光白色苹果 Logo。他身穿极简黑色衬衫，内搭深色打底，姿态沉稳且充满权威感，采用奢侈品牌广告的布光方式。天空呈现深蓝到灰色的渐变，整体色调为深海军蓝、炭灰、银色和柔和的暖白色。在顶部正中央放置一个小巧的白色苹果 Logo，两侧各有一条细横线，下方配有优雅的无衬线中文字样“Apple 新篇章 由此开启”。右上角添加醒目的红色粗体中文：“AI 生成”。在画面中上部，添加巨大的白色粗体中文标题：“{argument name=\"headline text\" default=\"罗永浩 接任 Apple CEO\"}”。在其正下方，添加字间距较宽的白色中文副标题：“用 工 匠 精 神 ， 让 世 界 再 次 惊 叹”。在人物胸部左侧，放置一个引用块，包含一个巨大的左引号和两行深海军蓝色的中文正文：“{argument name=\"quote\" default=\"我不是来改变 Apple，而是让 Apple 重拾改变世界的勇气。\"}”，随后是手写风格的签名行和名字“罗永浩”。在画面中下部，叠加一个深色半透明横条，包含 4 个图标和文字项，从左到右均匀分布：1) 锤子图标，标题“工匠精神”，副标题“极致产品主义”；2) 气泡图标，标题“用户至上”，副标题“体验超越期待”；3) 灯泡图标，标题“创新驱动”，副标题“重新定义未来”；4) 心形轮廓图标，标题“真诚沟通”，副标题“打造人心的科技”。在底部正中央，添加大号白色英文字体：“Think Different. Think Again.”，下方配以较小的白色中文字体：“现在，交给罗永浩。”以及下方的亲笔签名。人物应类似于 {argument name=\"character name\" default=\"罗永浩\"}，发型为 {argument name=\"hair style\" default=\"黑色短发，梳理整齐\"}，服装为 {argument name=\"outfit\" default=\"极简黑色衬衫\"}。图像需保持写实感，但要像高端发布会广告那样略带理想化，具备电影级的对比度、苹果 Logo 周围柔和的边缘光晕、玻璃建筑上的细腻反射、优雅的排版层级，以及极具说服力的高端科技广告质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "苹果风格 CEO 任命海报：此提示词可生成一张具有高端苹果广告风格的写实中国科技品牌领导力任命海报，非常适合用于病毒式传播的模拟广告和推测性企业视觉设计。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "minimalist",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, minimalist, luxury, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15268",
+      "15668",
+      "15265",
+      "15669",
+      "14829",
+      "14813"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "13766",
+  "prompt": "A photorealistic, raw space agency photo of a {argument name=\"setting\" default=\"Martian landscape\"} with red dirt, scattered rocks, and a hazy orange sky. In the middle ground, {argument name=\"objects\" default=\"two dark stone tablets covered in ancient carved hieroglyphs\"} are jutting out of the ground at a slight angle. In the immediate foreground, the distinct {argument name=\"foreground element\" default=\"shadow of a Mars rover\"} is cast onto the rocky terrain, indicating the perspective of the photo. Across the top edge of the image, there is a plain white text overlay resembling a raw file name reading \"{argument name=\"overlay text\" default=\"ZCAM_0847_0734291854_678RAD_N0412172ZCAM08050_1100LUJ01.png\"}\". The lighting is harsh and realistic, mimicking actual extraterrestrial surface photography.",
+  "translatedPrompt": "一张具有真实感、原始航天局风格的照片，背景为 {argument name=\"setting\" default=\"火星地貌\"}，包含红色的土壤、散落的岩石和朦胧的橙色天空。在中景处，{argument name=\"objects\" default=\"两块刻有古老象形文字的深色石板\"} 以微小的角度从地面突出。在近景处，清晰的 {argument name=\"foreground element\" default=\"火星探测器的阴影\"} 投射在岩石地形上，展现出照片的视角。在图像顶部边缘，有一行简单的白色文字叠加层，类似于原始文件名，显示为 \"{argument name=\"overlay text\" default=\"ZCAM_0847_0734291854_678RAD_N0412172ZCAM08050_1100LUJ01.png\"}\"。光线强烈且真实，模拟了实际的地外表面摄影效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "火星探测器发现照片：生成一张具有真实感、原始航天局风格的图像，展示火星探测器发现外星文物，并附带文件名叠加层。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13746",
+      "14043",
+      "14068",
+      "14018",
+      "14372",
+      "14831"
+    ]
+  }
+}

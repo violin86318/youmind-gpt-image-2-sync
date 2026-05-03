@@ -1,0 +1,52 @@
+{
+  "id": "14538",
+  "prompt": "A realistic candid street portrait of a young East Asian woman standing centered on a quiet urban road at blue hour, photographed from chest-up with a shallow depth of field. She has {argument name=\"hair color\" default=\"very dark brown\"} long straight-to-softly-wavy hair with a center part, smooth natural texture, and a few loose strands framing the sides of her face. She wears a fitted {argument name=\"top color\" default=\"black\"} ribbed turtleneck sweater with long sleeves, minimal accessories, and no visible patterns. Her pose is relaxed and front-facing, shoulders slightly angled, with a calm understated mood. The setting is a narrow Japanese neighborhood street with 2 visible parked or passing cars in the blurred background, low-rise buildings on the left, a line of trees on the right, utility poles and overhead wires receding into the distance, and soft evening ambient light. Use natural skin tones, realistic photography, subtle cinematic color grading, gentle bokeh, crisp fabric detail, and an intimate moody atmosphere, as if shot on an 85mm lens at wide aperture.",
+  "translatedPrompt": "一张写实的街头抓拍肖像，一位年轻的东亚女性站在安静的城市道路中央，拍摄于蓝调时刻，采用半身取景，具有浅景深效果。她留着 {argument name=\"hair color\" default=\"深棕色\"} 的长发，发质顺滑自然，略带微卷，中分发型，几缕发丝自然垂落在脸颊两侧。她身穿一件修身的 {argument name=\"top color\" default=\"黑色\"} 罗纹高领毛衣，长袖设计，无明显配饰或图案。她的姿态放松，面向镜头，双肩略微倾斜，神情沉静内敛。背景为一条狭窄的日本街区街道，模糊的背景中可见 2 辆停放或经过的汽车，左侧为低矮建筑，右侧为一排树木，电线杆和架空电线向远处延伸，环境光为柔和的傍晚光线。采用自然肤色，写实摄影风格，细腻的电影感调色，柔和的焦外成像，清晰的织物细节，营造出一种亲密且富有情绪的氛围，如同使用 85mm 镜头在大光圈下拍摄的效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "黄昏时分的街头情绪肖像：该提示词可生成一张具有柔和焦外成像和低调晚间氛围的写实半身城市肖像，适用于生活方式摄影和电影感角色图像。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "front-facing"
+      ],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "lens"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, front-facing]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, lens]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14568",
+      "15064",
+      "15533",
+      "15706",
+      "15704",
+      "15250"
+    ]
+  }
+}

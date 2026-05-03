@@ -1,0 +1,53 @@
+{
+  "id": "14619",
+  "prompt": "A photorealistic, cinematic vertical portrait of a medieval or fantasy woman with {argument name=\"hair color\" default=\"long copper-red hair\"}, shown from the chest up, gently embracing a large white ram. The woman wears a dark moss-green wool dress or tunic with ornate embroidered cuffs and a heavy fur-trimmed cloak or shawl over her shoulders, evoking a Viking or highland aesthetic. Her hair is thick, wavy, and slightly windblown, with small braids woven into the crown. The ram has dense curly cream-white fleece, a calm expression with eyes closed, and prominent spiral horns curling outward and forward. The woman’s hand rests tenderly at the ram’s neck, conveying warmth, protection, and companionship. Set outdoors in a rugged, overcast landscape with softly blurred hills or moorland in the background, cool gray sky, shallow depth of field, natural diffused lighting, rich texture detail in hair, wool, fur, and fabric, earthy muted color palette, intimate framing, realistic skin and animal features. Add black text in the top-left corner reading {argument name=\"corner text\" default=\"GPT Image 2\"}.",
+  "translatedPrompt": "一幅照片级写实、电影质感的竖构图肖像，描绘了一位中世纪或奇幻风格的女子，拥有 {argument name=\"hair color\" default=\"长长的铜红色头发\"}，半身像，正温柔地拥抱着一只巨大的白公羊。女子身穿深苔藓绿色的羊毛连衣裙或束腰外衣，袖口有华丽的刺绣，肩上披着厚重的毛皮边斗篷或披肩，呈现出维京或高地风格。她的头发浓密、波浪状且略显凌乱，头顶编织着小辫子。公羊拥有浓密卷曲的乳白色羊毛，表情平静，双眼微闭，巨大的螺旋角向外和向前卷曲。女子的手温柔地放在公羊的脖子上，传达出温暖、保护与陪伴之感。背景设定在户外崎岖、阴云密布的景观中，远处是模糊的山丘或荒原，天空呈冷灰色，浅景深，自然漫射光，头发、羊毛、毛皮和织物呈现出丰富的纹理细节，大地色调，亲密的构图，写实的人物皮肤与动物特征。在左上角添加黑色文字 {argument name=\"corner text\" default=\"GPT Image 2\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奇幻女子拥抱白公羊：此提示词可生成一幅写实的中世纪奇幻肖像，描绘了一位红发女子拥抱长角白公羊的场景，非常适合用于氛围感角色艺术或编辑风格的奇幻视觉作品。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "overcast",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, fantasy]。\n\nLighting and camera:\n[参考光线镜头: overcast, shallow depth, depth of field]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14414",
+      "15706",
+      "14630",
+      "15350",
+      "15424",
+      "15533"
+    ]
+  }
+}

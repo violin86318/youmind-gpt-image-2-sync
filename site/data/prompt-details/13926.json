@@ -1,0 +1,45 @@
+{
+  "id": "13926",
+  "prompt": "{\n  \"type\": \"creature concept art reference sheet\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"vintage pencil sketch with light watercolor wash on parchment paper\\\"}\",\n  \"subject\": {\n    \"name\": \"{argument name=\\\"creature name\\\" default=\\\"Kuro\\\"}\",\n    \"species\": \"{argument name=\\\"creature species\\\" default=\\\"black cat\\\"}\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"森の小径の黒猫 Kuro -クロ-\",\n        \"position\": \"top-left\",\n        \"description\": \"Profile text block with botanical flourishes\"\n      },\n      {\n        \"title\": \"Main Illustration\",\n        \"position\": \"top-center\",\n        \"description\": \"Cat walking on a forest path\"\n      },\n      {\n        \"title\": \"住まい：森の洞窟\",\n        \"position\": \"top-right\",\n        \"description\": \"Exterior view of a {argument name=\\\"habitat type\\\" default=\\\"forest cave\\\"}\"\n      },\n      {\n        \"title\": \"洞窟の中の様子\",\n        \"position\": \"mid-right\",\n        \"description\": \"Interior view showing a nest and a fish\"\n      },\n      {\n        \"title\": \"三面図\",\n        \"position\": \"middle\",\n        \"count\": 4,\n        \"labels\": [\"左側面\", \"正面\", \"右側面\", \"後面\"],\n        \"description\": \"Orthographic views with horizontal alignment lines\"\n      },\n      {\n        \"title\": \"表情バリエーション\",\n        \"position\": \"bottom-left\",\n        \"count\": 4,\n        \"labels\": [\"リラックス\", \"警戒\", \"好奇心\", \"驚き\"]\n      },\n      {\n        \"title\": \"Details\",\n        \"position\": \"bottom-left\",\n        \"count\": 2,\n        \"labels\": [\"目のアップ\", \"肉球\"],\n        \"description\": \"Close-ups of one eye and one paw pad\"\n      },\n      {\n        \"title\": \"毛並み・体の特徴\",\n        \"position\": \"bottom-center\",\n        \"count\": 1,\n        \"description\": \"Full body anatomy breakdown\"\n      },\n      {\n        \"title\": \"サイズ（参考）\",\n        \"position\": \"bottom-right\",\n        \"count\": 1,\n        \"description\": \"Scale reference next to human legs\"\n      },\n      {\n        \"title\": \"歩き方の特徴\",\n        \"position\": \"bottom-right\",\n        \"count\": 3,\n        \"description\": \"Small walking cycle silhouettes\"\n      },\n      {\n        \"title\": \"巣の様子\",\n        \"position\": \"bottom-right\",\n        \"count\": 1,\n        \"description\": \"Detailed nest sketch\"\n      },\n      {\n        \"title\": \"持ち物・お気に入りのもの\",\n        \"position\": \"bottom-right\",\n        \"count\": 3,\n        \"labels\": [\"鳥の羽\", \"丸い石\", \"魚の骨\"],\n        \"description\": \"Collection of {argument name=\\\"favorite items\\\" default=\\\"bird feather, round stone, fish bone\\\"}\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"生物概念艺术参考图\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"羊皮纸上带有淡水彩晕染的复古铅笔素描\\\"}\",\n  \"subject\": {\n    \"name\": \"{argument name=\\\"creature name\\\" default=\\\"Kuro\\\"}\",\n    \"species\": \"{argument name=\\\"creature species\\\" default=\\\"黑猫\\\"}\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"森の小径の黒猫 Kuro -クロ-\",\n        \"position\": \"top-left\",\n        \"description\": \"带有植物装饰的个人资料文本框\"\n      },\n      {\n        \"title\": \"主插图\",\n        \"position\": \"top-center\",\n        \"description\": \"在森林小径上行走的猫\"\n      },\n      {\n        \"title\": \"住まい：森の洞窟\",\n        \"position\": \"top-right\",\n        \"description\": \"{argument name=\\\"habitat type\\\" default=\\\"森林洞穴\\\"} 的外观视图\"\n      },\n      {\n        \"title\": \"洞窟の中の様子\",\n        \"position\": \"mid-right\",\n        \"description\": \"展示巢穴和鱼的内部视图\"\n      },\n      {\n        \"title\": \"三面图\",\n        \"position\": \"middle\",\n        \"count\": 4,\n        \"labels\": [\"左侧面\", \"正面\", \"右侧面\", \"后面\"],\n        \"description\": \"带有水平对齐线的正交视图\"\n      },\n      {\n        \"title\": \"表情变化\",\n        \"position\": \"bottom-left\",\n        \"count\": 4,\n        \"labels\": [\"放松\", \"警惕\", \"好奇\", \"惊讶\"]\n      },\n      {\n        \"title\": \"细节\",\n        \"position\": \"bottom-left\",\n        \"count\": 2,\n        \"labels\": [\"眼睛特写\", \"肉球\"],\n        \"description\": \"一只眼睛和一只肉球的特写\"\n      },\n      {\n        \"title\": \"毛发与身体特征\",\n        \"position\": \"bottom-center\",\n        \"count\": 1,\n        \"description\": \"全身解剖结构分解\"\n      },\n      {\n        \"title\": \"尺寸（参考）\",\n        \"position\": \"bottom-right\",\n        \"count\": 1,\n        \"description\": \"与人类腿部对比的比例参考\"\n      },\n      {\n        \"title\": \"行走特征\",\n        \"position\": \"bottom-right\",\n        \"count\": 3,\n        \"description\": \"小型行走循环剪影\"\n      },\n      {\n        \"title\": \"巢穴概况\",\n        \"position\": \"bottom-right\",\n        \"count\": 1,\n        \"description\": \"详细的巢穴草图\"\n      },\n      {\n        \"title\": \"随身物品与喜爱之物\",\n        \"position\": \"bottom-right\",\n        \"count\": 3,\n        \"labels\": [\"鸟羽\", \"圆石\", \"鱼骨\"],\n        \"description\": \"{argument name=\\\"favorite items\\\" default=\\\"鸟羽、圆石、鱼骨\\\"} 的集合\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古生物概念设计图：生成一份详细的复古风格动物或生物参考图，包含正视图、表情、栖息地草图及物品清单。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up",
+        "horizontal"
+      ],
+      "style": [
+        "vintage",
+        "watercolor"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, horizontal]。\n\nVisual style:\n[参考风格: vintage, watercolor]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13916",
+      "14969",
+      "14042",
+      "14415",
+      "14997",
+      "15712"
+    ]
+  }
+}

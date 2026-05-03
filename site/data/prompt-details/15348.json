@@ -1,0 +1,43 @@
+{
+  "id": "15348",
+  "prompt": "A dreamy pastel pink Japanese mobile game advertisement poster in a vertical smartphone format, kawaii fantasy style, ultra-cute and glossy. The main subject is a fluffy white baby kitten with huge sparkling violet-blue eyes, soft blush on its cheeks, tiny pink nose, and a mischievous smile, lying on a pink cushion or blanket in the foreground while holding a baby bottle in its paws. The kitten is extremely fluffy and round, with soft glowing fur and a plush-toy feel, lit with warm magical highlights. The entire scene is filled with pink hearts, sparkles, lace details, soft bokeh, and candy-colored decorations, creating a soothing but playful atmosphere. In the background is a pastel pink bedroom or nursery interior with shelves holding exactly 3 stuffed animals: a pink rabbit, a mint-blue cat, and a lavender bear. Add translucent floating soap-bubble circles with white bone-shaped icons inside, small decorative charms, ribbons, and floral ornaments. On the left side, large bold vertical Japanese headline text in glossy bubble lettering reads 「脱出できない」 with smaller vertical text beside it reading 「かわいくて、」, all in bright pink with white glow and thick outline. Near the top inside a white lace-edged circular badge, include Japanese text reading 「もふもふ にゃんこと おへやから脱出？」 with a pink paw print icon beneath it. At the bottom, place a decorative game logo with large rounded Japanese text reading 「もふふミルクと にゃんこ」 and a ribbon banner below reading 「脱出ゲーム」, using pastel teal, cream, and pink colors with a shiny outlined style. Add a small rounded text plaque in the lower left that reads 「癒されるのに、意外とむずかしい…!?」 decorated with tiny flowers and a dangling baby bottle charm. Use a polished promotional key visual look for a cute indie app, highly detailed, soft airbrushed illustration, glossy typography, enchanting, comforting, and irresistibly adorable.",
+  "translatedPrompt": "一张梦幻粉彩风格的日式手机游戏宣传海报，采用竖版智能手机尺寸，卡哇伊幻想风格，超萌且具有光泽感。主体是一只毛茸茸的白色幼猫，有着巨大的闪烁紫蓝色眼睛、脸颊上带着淡淡的红晕、粉色的小鼻子和顽皮的微笑，它躺在前景的粉色坐垫或毯子上，爪子里抱着一个奶瓶。小猫极其蓬松圆润，毛发柔软发光，有着毛绒玩具般的质感，在温暖的魔法光影下显得格外可爱。整个场景充满了粉色爱心、闪光、蕾丝细节、柔和的虚化效果和糖果色装饰，营造出一种治愈又俏皮的氛围。背景是一个粉彩色的卧室或育婴室，架子上整齐地摆放着 3 个毛绒玩具：一只粉色兔子、一只薄荷蓝猫和一只薰衣草紫熊。添加半透明的漂浮肥皂泡，泡泡内有白色骨头形状的图标，以及小巧的装饰挂件、丝带和花卉装饰。左侧有醒目的垂直日文标题，采用光泽感的泡泡字体，写着「脱出できない」，旁边配有较小的垂直文字「かわいくて、」，均为亮粉色，带有白色光晕和粗轮廓。顶部是一个白色蕾丝边缘的圆形徽章，内含日文「もふもふ にゃんこと おへやから脱出？」，下方有一个粉色的猫爪印图标。底部放置一个装饰性的游戏 Logo，采用圆润的日文大字「もふふミルクと にゃんこ」，下方配有丝带横幅写着「脱出ゲーム」，配色采用粉蓝、奶油色和粉色，带有闪亮的轮廓风格。左下角添加一个圆润的小文本框，写着「癒されるのに、意外とむずかしい…!?」，并装饰有小花和悬挂的奶瓶挂件。采用精致的独立游戏宣传主视觉风格，细节丰富，柔和的喷绘插画，光泽感的排版，迷人、舒适且令人无法抗拒的可爱。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "可爱粉色小猫逃脱游戏广告：一张日式粉彩风格的手机逃脱游戏宣传海报，画面中有一只毛茸茸的幼猫，背景是梦幻的粉色育婴室。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15633",
+      "14558",
+      "14655",
+      "14833",
+      "15414",
+      "13510"
+    ]
+  }
+}

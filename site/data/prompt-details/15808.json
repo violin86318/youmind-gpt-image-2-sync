@@ -1,0 +1,52 @@
+{
+  "id": "15808",
+  "prompt": "A funny photorealistic meme-style candid outdoor photo of three well-known tech CEOs standing close together in an awkward, emotionally loaded triangle. On the left foreground, {argument name=\"left person name\" default=\"Sam Altman\"} is shown in a close-up three-quarter view, with dark curly hair, light skin, a dark crewneck shirt, and an exaggerated smug, pleased, slightly teary-eyed grin as he looks toward the man on the right. In the center background, {argument name=\"center person name\" default=\"Satya Nadella\"} stands between them, bald with glasses, medium-brown skin, wearing a dark zip-up jacket, giving a calm, knowing, faintly amused smile while looking toward the man on the right. On the right foreground, {argument name=\"right person name\" default=\"Elon Musk\"} is seen mostly from the back and side, with short dark hair and a black leather jacket, his face largely turned away from the camera. A large hand from the left person rests on the right person’s shoulder in the foreground, creating the comedic tension. Use a shallow depth of field, natural overcast daylight, soft realistic skin texture, and documentary-style photography. Add exactly 3 bold white meme labels with thick black outline placed near each person: {argument name=\"left label\" default=\"Sam Altman\"} at the lower left near the left man, {argument name=\"center label\" default=\"Satya Nadella\"} above the center man’s head, and {argument name=\"right label\" default=\"Elon Musk\"} at the lower right near the right man. Landscape composition, tight crop on faces and shoulder, realistic proportions, internet meme energy.",
+  "translatedPrompt": "一张有趣的写实风格模因式户外抓拍照，三位知名科技公司 CEO 紧挨在一起，呈现出一种尴尬且充满情绪张力的三角关系。左侧前景中，{argument name=\"left person name\" default=\"Sam Altman\"} 以四分之三侧面特写出镜，留着深色卷发，肤色较浅，身穿深色圆领衫，脸上带着夸张、自鸣得意、略显泪眼婆娑的笑容，望向右侧的男子。背景中央，{argument name=\"center person name\" default=\"Satya Nadella\"} 站在两人之间，秃顶并戴着眼镜，中等棕色肤色，身穿深色拉链夹克，表情冷静、心知肚明且带着一丝戏谑的微笑，看向右侧的男子。右侧前景中，{argument name=\"right person name\" default=\"Elon Musk\"} 主要以背影和侧面示人，留着深色短发，身穿黑色皮夹克，脸部大部分背对镜头。左侧男子的一只大手搭在右侧男子的肩膀上，营造出喜剧性的张力。采用浅景深、自然阴天光线、柔和真实的皮肤纹理以及纪实摄影风格。在每个人物附近添加 3 个带有粗黑色轮廓的加粗白色模因标签：左下角靠近左侧男子的 {argument name=\"left label\" default=\"Sam Altman\"}，中心男子头顶上方的 {argument name=\"center label\" default=\"Satya Nadella\"}，以及右下角靠近右侧男子的 {argument name=\"right label\" default=\"Elon Musk\"}。横向构图，紧凑的面部和肩部剪裁，比例真实，充满互联网模因感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "科技公司 CEO 尴尬梗图：此提示词可生成一张带有面部标签的写实风格三人科技梗图，适用于社交媒体调侃和互联网风格的反应表情包。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "close-up"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "overcast",
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up]。\n\nVisual style:\n[参考风格: realistic, photorealistic, documentary]。\n\nLighting and camera:\n[参考光线镜头: overcast, shallow depth, depth of field, camera]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15807",
+      "14614",
+      "14667",
+      "15602",
+      "15705",
+      "14674"
+    ]
+  }
+}

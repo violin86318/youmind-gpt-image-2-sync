@@ -1,0 +1,47 @@
+{
+  "id": "13966",
+  "prompt": "A photorealistic portrait of a young East Asian woman with short, choppy {argument name=\"hair color\" default=\"light purple\"} hair. She is leaning against a dark wall covered in vibrant neon graffiti, including the text \"{argument name=\"graffiti text\" default=\"VSC\"}\" and a smiley face. She is {argument name=\"pose\" default=\"making a heart shape with her hands\"} over her chest. She is wearing a {argument name=\"top clothing\" default=\"white buttoned crop top under an oversized, unbuttoned light blue striped shirt\"} that is falling off her shoulders, paired with {argument name=\"bottom clothing\" default=\"distressed black denim shorts\"}, white socks, and white sneakers. She has one knee slightly bent and lifted. The lighting is soft, hazy, and dreamy with cool tones, and the camera angle is slightly tilted, creating a stylish, urban streetwear aesthetic.",
+  "translatedPrompt": "一张写实风格的人像，主角是一位留着短碎发（发色：{argument name=\"hair color\" default=\"浅紫色\"}）的年轻东亚女性。她倚靠在一面布满鲜艳霓虹涂鸦的深色墙壁前，墙上绘有文字“{argument name=\"graffiti text\" default=\"VSC\"}”和一个笑脸图案。她正{argument name=\"pose\" default=\"用双手比出一个心形\"}放在胸前。她穿着一件{argument name=\"top clothing\" default=\"白色扣子短款上衣，外搭一件超大号、未扣扣子的浅蓝色条纹衬衫\"}，衬衫滑落至肩部，下身搭配{argument name=\"bottom clothing\" default=\"做旧黑色牛仔短裤\"}、白袜和白色运动鞋。她的一只膝盖微微弯曲抬起。光线柔和、朦胧且富有梦幻感，色调偏冷，镜头角度略微倾斜，营造出时尚的城市街头美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "城市街头涂鸦人像：生成一张年轻女性身着街头服饰，以涂鸦墙为背景的写实人像。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [
+        "neon",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[参考光线镜头: neon, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13960",
+      "13961",
+      "14059",
+      "14258",
+      "15762",
+      "13448"
+    ]
+  }
+}

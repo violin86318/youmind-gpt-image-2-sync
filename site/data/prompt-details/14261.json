@@ -1,0 +1,51 @@
+{
+  "id": "14261",
+  "prompt": "{\n  \"type\": \"technical overview infographic\",\n  \"style\": \"{argument name=\\\"visual style\\\" default=\\\"hand-drawn technical sketch with clean typography\\\"}\",\n  \"product\": {\n    \"name\": \"{argument name=\\\"product name\\\" default=\\\"MACBOOK NEO\\\"}\",\n    \"subtitle\": \"14-INCH {argument name=\\\"processor model\\\" default=\\\"M3 PRO\\\"} - TECHNICAL OVERVIEW\"\n  },\n  \"layout\": {\n    \"centerpiece\": {\n      \"description\": \"isometric view of an opened laptop revealing internal hardware components like dual fans, copper heat pipes, battery cells, and logic board\",\n      \"callouts_count\": 9,\n      \"callout_labels\": [\n        \"01 1080p CAMERA SYSTEM\",\n        \"02 DISPLAY ASSEMBLY\",\n        \"03 THERMAL SYSTEM\",\n        \"04 SENSOR SUITE\",\n        \"05 CONNECTIVITY BOARD\",\n        \"06 BATTERY PACK\",\n        \"07 {argument name=\\\"main component\\\" default=\\\"APPLE M3 PRO CHIP\\\"}\",\n        \"08 FORCE TOUCH TRACKPAD\",\n        \"09 SPEAKER SYSTEM\"\n      ]\n    },\n    \"sections\": [\n      {\n        \"title\": \"Header Text\",\n        \"position\": \"top-left\",\n        \"content\": \"Marketing blurb and 5-bullet specification list\"\n      },\n      {\n        \"title\": \"Legend\",\n        \"position\": \"top-center\",\n        \"content\": \"4 color-coded arrows indicating {argument name=\\\"accent colors\\\" default=\\\"red, blue, orange, green\\\"} flow lines for Power, Data, Thermal, and Sensors\"\n      },\n      {\n        \"title\": \"MATERIALS & QUANTITY\",\n        \"position\": \"top-right\",\n        \"type\": \"table\",\n        \"rows_count\": 7,\n        \"columns\": [\"#\", \"MATERIAL\", \"QTY\", \"NOTES\"]\n      },\n      {\n        \"title\": \"DIMENSIONS & WEIGHT\",\n        \"position\": \"mid-right\",\n        \"content\": \"Top and side views of closed laptop with measurements\"\n      },\n      {\n        \"title\": \"CROSS-SECTION (SIDE VIEW)\",\n        \"position\": \"bottom-left (top half)\",\n        \"content\": \"Side profile showing internal component layout with 6 labels\"\n      },\n      {\n        \"title\": \"REAR I/O (LEFT TO RIGHT)\",\n        \"position\": \"bottom-left (bottom half)\",\n        \"content\": \"Side profile showing 6 ports\"\n      },\n      {\n        \"title\": \"DATA / POWER FLOW DIAGRAM (TOP VIEW)\",\n        \"position\": \"bottom-right\",\n        \"content\": \"Wireframe top-down view with colored flow lines, legend, and scale bar\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"technical overview infographic\",\n  \"style\": \"{argument name=\\\"visual style\\\" default=\\\"hand-drawn technical sketch with clean typography\\\"}\",\n  \"product\": {\n    \"name\": \"{argument name=\\\"product name\\\" default=\\\"MACBOOK NEO\\\"}\",\n    \"subtitle\": \"14-INCH {argument name=\\\"processor model\\\" default=\\\"M3 PRO\\\"} - TECHNICAL OVERVIEW\"\n  },\n  \"layout\": {\n    \"centerpiece\": {\n      \"description\": \"isometric view of an opened laptop revealing internal hardware components like dual fans, copper heat pipes, battery cells, and logic board\",\n      \"callouts_count\": 9,\n      \"callout_labels\": [\n        \"01 1080p CAMERA SYSTEM\",\n        \"02 DISPLAY ASSEMBLY\",\n        \"03 THERMAL SYSTEM\",\n        \"04 SENSOR SUITE\",\n        \"05 CONNECTIVITY BOARD\",\n        \"06 BATTERY PACK\",\n        \"07 {argument name=\\\"main component\\\" default=\\\"APPLE M3 PRO CHIP\\\"}\",\n        \"08 FORCE TOUCH TRACKPAD\",\n        \"09 SPEAKER SYSTEM\"\n      ]\n    },\n    \"sections\": [\n      {\n        \"title\": \"Header Text\",\n        \"position\": \"top-left\",\n        \"content\": \"Marketing blurb and 5-bullet specification list\"\n      },\n      {\n        \"title\": \"Legend\",\n        \"position\": \"top-center\",\n        \"content\": \"4 color-coded arrows indicating {argument name=\\\"accent colors\\\" default=\\\"red, blue, orange, green\\\"} flow lines for Power, Data, Thermal, and Sensors\"\n      },\n      {\n        \"title\": \"MATERIALS & QUANTITY\",\n        \"position\": \"top-right\",\n        \"type\": \"table\",\n        \"rows_count\": 7,\n        \"columns\": [\"#\", \"MATERIAL\", \"QTY\", \"NOTES\"]\n      },\n      {\n        \"title\": \"DIMENSIONS & WEIGHT\",\n        \"position\": \"mid-right\",\n        \"content\": \"Top and side views of closed laptop with measurements\"\n      },\n      {\n        \"title\": \"CROSS-SECTION (SIDE VIEW)\",\n        \"position\": \"bottom-left (top half)\",\n        \"content\": \"Side profile showing internal component layout with 6 labels\"\n      },\n      {\n        \"title\": \"REAR I/O (LEFT TO RIGHT)\",\n        \"position\": \"bottom-left (bottom half)\",\n        \"content\": \"Side profile showing 6 ports\"\n      },\n      {\n        \"title\": \"DATA / POWER FLOW DIAGRAM (TOP VIEW)\",\n        \"position\": \"bottom-right\",\n        \"content\": \"Wireframe top-down view with colored flow lines, legend, and scale bar\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Laptop Technical Overview Infographic：A detailed, hand-drawn style technical spec sheet for a laptop, featuring internal component callouts, material tables, and flow diagrams.",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "top-down",
+        "isometric",
+        "callout"
+      ],
+      "style": [
+        "isometric",
+        "hand-drawn"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "硬件拆解、产品卖点、技术说明、科普图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: top-down, isometric, callout]。\n\nVisual style:\n[参考风格: isometric, hand-drawn]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13811",
+      "14170",
+      "14151",
+      "13460",
+      "15000",
+      "14662"
+    ]
+  }
+}

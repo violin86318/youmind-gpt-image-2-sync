@@ -1,0 +1,48 @@
+{
+  "id": "14059",
+  "prompt": "A highly realistic, professionally retouched photograph of a female cosplayer dressed as {argument name=\"character\" default=\"Miss Fortune from League of Legends\"}. She has a {argument name=\"facial features\" default=\"French woman's face\"} with subtle makeup, green eyes, and long, voluminous wavy {argument name=\"hair color\" default=\"red\"} hair. Her detailed pirate costume features a weathered black tricorn hat with gold filigree, a black leather corset with a deep neckline and gold accents, white ruffled off-the-shoulder sleeves, and a wide brown leather belt. She holds a large, ornate {argument name=\"prop\" default=\"flintlock pistol\"} with brass detailing in her right hand. The background shows the wooden masts and rope rigging of a sailing ship under a bright blue sky. The cinematic, natural lighting highlights the rich textures of leather, metal, and skin, creating a photorealistic editorial portrait.",
+  "translatedPrompt": "一张高度写实、经过专业修图的摄影作品，主角是一位身着 {argument name=\"character\" default=\"《英雄联盟》中赏金猎人厄运小姐\"} 的女性 Cosplayer。她拥有 {argument name=\"facial features\" default=\"法式面孔\"}，妆容精致，有着绿色双眸和一头蓬松的 {argument name=\"hair color\" default=\"红色\"} 波浪长发。她身着精致的海盗服饰，包括一顶带有金色花丝装饰的做旧黑色三角帽、一件带有深领口和金色点缀的黑色皮质束胸、白色荷叶边露肩袖以及一条宽大的棕色皮带。她的右手握着一把带有黄铜细节的华丽 {argument name=\"prop\" default=\"燧发枪\"}。背景呈现出明亮蓝天下帆船的木质桅杆和绳索索具。电影感十足的自然光线突显了皮革、金属和皮肤的丰富质感，营造出照片级的编辑肖像效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "写实海盗 Cosplay 肖像：生成一张高度写实、经过专业修图的女性 Cosplayer 肖像，身着精致的海盗服饰并手持道具武器。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "editorial"
+      ],
+      "lightingCamera": [
+        "natural light"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, editorial]。\n\nLighting and camera:\n[参考光线镜头: natural light]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13960",
+      "14258",
+      "14414",
+      "14732",
+      "15650",
+      "15762"
+    ]
+  }
+}

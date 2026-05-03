@@ -1,0 +1,45 @@
+{
+  "id": "14273",
+  "prompt": "{\n  \"type\": \"video game screenshot mockup\",\n  \"perspective\": \"third-person over-the-shoulder\",\n  \"character\": {\n    \"description\": \"male protagonist seen from behind\",\n    \"clothing\": \"grey tank top with graphic '{argument name=\\\"shirt graphic\\\" default=\\\"LEONIDA MARINE CENTER\\\"}', camouflage cargo shorts\"\n  },\n  \"environment\": {\n    \"setting\": \"tropical coastal town, dirt road, sunny daytime with scattered clouds\",\n    \"left_side\": \"wooden welcome sign reading 'Welcome to {argument name=\\\"location name\\\" default=\\\"LEONIDA KEYS\\\"} YOUR PARADISE', pink plastic flamingo, tropical foliage, distant water tower\",\n    \"center\": \"green building with 'FISH' sign and marlin graphic, sign reading 'BAIT TACKLE ICE BEER WINE', pedestrians walking\",\n    \"right_side\": \"two-story wooden building 'Brian's Boat Works & Marina', 'Brian's Bar' neon sign, parked pickup truck, jet skis on a trailer\"\n  },\n  \"ui_elements\": {\n    \"count\": 5,\n    \"components\": [\n      {\n        \"position\": \"top-left\",\n        \"type\": \"mission objective\",\n        \"text\": \"{argument name=\\\"mission title\\\" default=\\\"MEET RAUL\\\"}\\n{argument name=\\\"mission description\\\" default=\\\"Raul has some work for you at his boatyard\\\"}\"\n      },\n      {\n        \"position\": \"top-right\",\n        \"type\": \"status HUD\",\n        \"text\": \"13:47\\n$1,142\",\n        \"icon\": \"pink palm tree\"\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"type\": \"minimap\",\n        \"description\": \"circular map with purple border, white map icons including 'N' for north\"\n      },\n      {\n        \"position\": \"bottom-left, right of minimap\",\n        \"type\": \"location text\",\n        \"text\": \"{argument name=\\\"location name\\\" default=\\\"LEONIDA KEYS\\\"}\\nPALM ISLAND\"\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"type\": \"watermark\",\n        \"text\": \"{argument name=\\\"game title\\\" default=\\\"GTA VI\\\"}\\nPRE-ALPHA FOOTAGE\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"video game screenshot mockup\",\n  \"perspective\": \"third-person over-the-shoulder\",\n  \"character\": {\n    \"description\": \"male protagonist seen from behind\",\n    \"clothing\": \"grey tank top with graphic '{argument name=\\\"shirt graphic\\\" default=\\\"LEONIDA MARINE CENTER\\\"}', camouflage cargo shorts\"\n  },\n  \"environment\": {\n    \"setting\": \"tropical coastal town, dirt road, sunny daytime with scattered clouds\",\n    \"left_side\": \"wooden welcome sign reading 'Welcome to {argument name=\\\"location name\\\" default=\\\"LEONIDA KEYS\\\"} YOUR PARADISE', pink plastic flamingo, tropical foliage, distant water tower\",\n    \"center\": \"green building with 'FISH' sign and marlin graphic, sign reading 'BAIT TACKLE ICE BEER WINE', pedestrians walking\",\n    \"right_side\": \"two-story wooden building 'Brian's Boat Works & Marina', 'Brian's Bar' neon sign, parked pickup truck, jet skis on a trailer\"\n  },\n  \"ui_elements\": {\n    \"count\": 5,\n    \"components\": [\n      {\n        \"position\": \"top-left\",\n        \"type\": \"mission objective\",\n        \"text\": \"{argument name=\\\"mission title\\\" default=\\\"MEET RAUL\\\"}\\n{argument name=\\\"mission description\\\" default=\\\"Raul has some work for you at his boatyard\\\"}\"\n      },\n      {\n        \"position\": \"top-right\",\n        \"type\": \"status HUD\",\n        \"text\": \"13:47\\n$1,142\",\n        \"icon\": \"pink palm tree\"\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"type\": \"minimap\",\n        \"description\": \"circular map with purple border, white map icons including 'N' for north\"\n      },\n      {\n        \"position\": \"bottom-left, right of minimap\",\n        \"type\": \"location text\",\n        \"text\": \"{argument name=\\\"location name\\\" default=\\\"LEONIDA KEYS\\\"}\\nPALM ISLAND\"\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"type\": \"watermark\",\n        \"text\": \"{argument name=\\\"game title\\\" default=\\\"GTA VI\\\"}\\nPRE-ALPHA FOOTAGE\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Open-World Game Screenshot Mockup：Generates a realistic third-person video game screenshot with customizable UI elements, mission objectives, and environmental signage.",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13824",
+      "13667",
+      "13732",
+      "13676",
+      "14884",
+      "14125"
+    ]
+  }
+}

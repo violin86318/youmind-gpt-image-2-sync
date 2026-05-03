@@ -1,0 +1,53 @@
+{
+  "id": "15430",
+  "prompt": "A luxury futuristic skincare advertisement in a vertical 4K poster format, centered on a sleek matte-white spray bottle floating diagonally in the middle of the frame, slightly tilted to the right, with a soft cylindrical cap and fine condensation droplets across the upper body. The bottle label reads \"{argument name=\"brand name\" default=\"SECURE-IP\"}\" in clean navy sans-serif text, and below it: \"{argument name=\"product name\" default=\"IP ADDRESS CLEANSER\"}\" with smaller subtext \"for risk-free connections\" and \"pour des connexions sans risque,\" plus tiny footer text \"75 mL / 2.5 fl. oz. - Data Stream Purifier.\" Behind the bottle, enormous translucent serif typography fills most of the background, reading \"{argument name=\"headline text\" default=\"ULTRA-SECURE\"}\", split across two lines and partially obscured by the product. The environment is deep midnight blue with glowing translucent fabric-like liquid ribbons curling around the bottle from top left to bottom right and from the lower foreground upward, mixed with 2 prominent glassy tubular arcs and multiple floating crystal-like droplets or bubbles. Lighting is cold, cinematic, glossy, and high-end, with luminous icy blue highlights, soft bloom, refractive reflections, and a pristine premium beauty-campaign look. At the bottom center, elegant spaced-out small caps text reads \"{argument name=\"tagline\" default=\"ENCRYPTED BARRIER FORMULA\"}\". Beneath that is a row of 4 ingredient callouts separated evenly across the width: 1) \"CERAMIDE IP-07\" with two lines \"Strengthens\" and \"Lipid Defence\"; 2) \"SQUALANE ENCAPSULES\" with \"Reinforces\" and \"Moisture Lock\"; 3) \"NIACINAMIDE 5%\" with \"Calms Visible\" and \"Stress Signals\"; 4) \"HYALURONIC STACK\" with \"Multi-Layer\" and \"Hydration Matrix\". At the very bottom center, add a small shield icon and the words \"DEFEND. PURIFY. PROTECT.\" The overall style should blend luxury skincare product photography with cyber-security branding, ultra-polished commercial lighting, shallow depth of field, premium editorial composition, and production-ready ad design.",
+  "translatedPrompt": "一张奢华的未来感护肤品广告，采用竖版 4K 海报格式。画面中央是一个悬浮的哑光白喷雾瓶，呈对角线放置并向右微倾，瓶盖为柔和的圆柱形，瓶身上部附有细腻的冷凝水珠。瓶身标签以简洁的深蓝色无衬线字体印有“{argument name=\"brand name\" default=\"SECURE-IP\"}”，下方印有“{argument name=\"product name\" default=\"IP ADDRESS CLEANSER\"}”，并配有较小的副标题“for risk-free connections”和“pour des connexions sans risque”，以及底部的微小文字“75 mL / 2.5 fl. oz. - Data Stream Purifier”。瓶身背景中，巨大的半透明衬线字体占据了大部分空间，显示为“{argument name=\"headline text\" default=\"ULTRA-SECURE\"}”，分为两行，部分被产品遮挡。环境为深午夜蓝色，发光的半透明织物状液体丝带从左上角向右下角以及从前景下方向上缠绕瓶身，并混合了 2 个显眼的玻璃质感管状弧线，以及多个悬浮的晶体状水滴或气泡。光影冷峻、具有电影质感、光泽感强且高端，带有明亮的冰蓝色高光、柔和的辉光效果、折射反射，呈现出纯净的高级美妆广告质感。底部中央，优雅且间距适中的小型大写字母文字写着“{argument name=\"tagline\" default=\"ENCRYPTED BARRIER FORMULA\"}”。下方是一排 4 个成分说明，均匀分布在画面宽度上：1) “CERAMIDE IP-07”，配有两行文字“Strengthens”和“Lipid Defence”；2) “SQUALANE ENCAPSULES”，配有“Reinforces”和“Moisture Lock”；3) “NIACINAMIDE 5%”，配有“Calms Visible”和“Stress Signals”；4) “HYALURONIC STACK”，配有“Multi-Layer”和“Hydration Matrix”。在最底部中央，添加一个小盾牌图标和文字“DEFEND. PURIFY. PROTECT.”。整体风格应将奢华护肤品摄影与网络安全品牌形象相结合，具备极致精美的商业布光、浅景深、高级编辑排版以及可直接用于生产的广告设计感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "未来感网络安全护肤广告海报：此提示词可生成一张高端竖版产品广告，将奢华护肤美学与网络安全品牌形象完美融合，适用于社交媒体、印刷品或营销样机。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "callout",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "editorial",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, callout, vertical]。\n\nVisual style:\n[参考风格: cinematic, editorial, luxury, premium]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15416",
+      "15462",
+      "14652",
+      "14850",
+      "15243",
+      "15729"
+    ]
+  }
+}

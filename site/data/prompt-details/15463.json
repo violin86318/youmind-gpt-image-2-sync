@@ -1,0 +1,53 @@
+{
+  "id": "15463",
+  "prompt": "A photorealistic close-up portrait of a small tabby kitten styled like an early-2000s pop-punk rocker, sitting on a dark floor and facing the camera with a calm, slightly soulful expression. The kitten has large round eyes, soft striped fur, and long straight scene-kid hair in {argument name=\"hair color\" default=\"platinum blonde\"} with a bold {argument name=\"streak color\" default=\"pink\"} streak draped over one side of the face, partially covering one eye. It wears 4 visible fashion elements: a black band-style shirt with a distressed white graphic, a black-and-pink diagonal striped necktie, a black studded bracelet on one front paw, and the dramatic long wig-like hairstyle. The background is a gritty bedroom or rehearsal-space wall covered with punk posters and distressed textures; on the left is a black poster with large white text reading {argument name=\"poster text\" default=\"AVRIL LAVIGNE\"} above a pink heart-and-crossbones symbol, and on the right is a blurred poster of a person in dark clothing with a striped tie. Moody warm indoor lighting, shallow depth of field, highly detailed fur, realistic whiskers, subtle grunge atmosphere, centered composition, nostalgic emo aesthetic, studio-quality realism.",
+  "translatedPrompt": "一张逼真的小猫特写肖像，造型模仿 21 世纪初的流行朋克摇滚歌手，它坐在深色地板上，面朝镜头，表情冷静且略带忧郁。小猫有着圆圆的大眼睛、柔软的条纹毛发，以及一头长直的“场景小孩”（scene-kid）风格发型，颜色为 {argument name=\"hair color\" default=\"铂金色\"}，一侧脸颊垂下一缕醒目的 {argument name=\"streak color\" default=\"粉色\"} 发丝，遮住了部分眼睛。它佩戴了 4 个显眼的时尚元素：一件带有做旧白色图案的黑色乐队风格 T 恤、一条黑粉斜条纹领带、一只前爪上戴着黑色铆钉手环，以及那头夸张的长假发式发型。背景是贴满朋克海报且充满做旧质感的粗犷卧室或排练室墙壁；左侧是一张黑色海报，上面印有醒目的白色文字 {argument name=\"poster text\" default=\"AVRIL LAVIGNE\"}，下方是一个粉色的心形骷髅标志；右侧是一张模糊的海报，上面是一个穿着深色衣服、系着条纹领带的人。昏暗的室内暖光，浅景深，毛发细节丰富，胡须逼真，带有微妙的颓废氛围，居中构图，怀旧的情绪美学，影棚级写实效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "流行朋克情绪风小猫肖像：此提示词可生成一张具有情绪流行朋克风格的逼真小猫肖像，非常适合用于幽默的音乐主题角色艺术或病毒式社交媒体图片。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "close-up"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "studio"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, close-up]。\n\nVisual style:\n[参考风格: realistic, photorealistic, studio]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14568",
+      "15706",
+      "15028",
+      "15762",
+      "14996",
+      "15424"
+    ]
+  }
+}

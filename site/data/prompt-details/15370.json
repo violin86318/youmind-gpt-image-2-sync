@@ -1,0 +1,51 @@
+{
+  "id": "15370",
+  "prompt": "{\"type\":\"anime manga page\",\"style\":\"softly shaded romantic comedy manga, polished digital illustration, warm indoor lighting, clean panel borders, detailed character rendering, light novel aesthetic\",\"format\":\"single page with 8 panels arranged in a 2-column by 4-row grid\",\"page\":{\"title_top\":\"恋するメイドロボと、気付かないマスター\",\"subtitle\":\"第5話　それは、意識してしまいます\"},\"setting\":{\"location\":\"cozy modern living room connected to a kitchen\",\"details\":[\"sofa\",\"bookshelf\",\"framed wall art\",\"potted plant\",\"kitchen counter\",\"hanging pendant lights\",\"warm beige and brown interior\"]},\"characters\":[{\"role\":\"maid robot\",\"gender\":\"female\",\"appearance\":{\"age\":\"young adult anime girl\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"silver\\\"}\",\"style\":\"very long straight hair with soft waves, full bangs, black ribbon bows on the sides\"},\"eyes\":\"violet-blue\",\"outfit\":[\"black and white classic maid dress\",\"white frilled apron\",\"white lace maid headband\",\"black bow at the collar\",\"long sleeves with white frilled cuffs\"]},\"expression_arc\":[\"startled internal malfunction\",\"flustered acceptance\",\"nervous while receiving coffee\",\"embarrassed heat buildup\",\"unable to focus on reading\",\"deeply blushing beside master\"]},{\"role\":\"master\",\"gender\":\"male\",\"appearance\":{\"age\":\"young adult man\",\"hair\":\"short messy dark brown hair\",\"outfit\":[\"dark charcoal button-up shirt with sleeves rolled up\",\"dark pants\",\"black belt\"]},\"demeanor\":\"casual, kind, oblivious\"}],\"layout\":{\"sections\":[{\"title\":\"1\",\"position\":\"top-left\",\"count\":1,\"labels\":[\"maid robot sitting on sofa, one hand on chest, vertical narration box reads 内部異常…継続中\"]},{\"title\":\"2\",\"position\":\"top-right\",\"count\":1,\"labels\":[\"master standing in kitchen holding a white mug, speech bubble reads おーい、コーヒー淹れたぞ\"]},{\"title\":\"3\",\"position\":\"upper-middle-left\",\"count\":1,\"labels\":[\"maid turns around with surprised blush, speech bubble reads は、はいっ…！\"]},{\"title\":\"4\",\"position\":\"upper-middle-right\",\"count\":1,\"labels\":[\"close-up of hands exchanging a coffee mug, small speech bubble reads ……っ\"]},{\"title\":\"5\",\"position\":\"lower-middle-left\",\"count\":1,\"labels\":[\"maid holding hot mug near chest, vertical narration box reads 接触時、異常な熱量を確認\"]},{\"title\":\"6\",\"position\":\"lower-middle-right\",\"count\":1,\"labels\":[\"master sits close beside maid on sofa, both visible from waist up, speech bubble reads さっきの本、続き読むのか？\"]},{\"title\":\"7\",\"position\":\"bottom-left\",\"count\":1,\"labels\":[\"maid blushing intensely while holding an open book, speech bubble reads ……読めません\"]},{\"title\":\"8\",\"position\":\"bottom-right\",\"count\":1,\"labels\":[\"master leans in close looking concerned while maid blushes and holds coffee, speech bubbles read 顔、赤いぞ。大丈夫か？ and 原因：マスターです…\"]}],\"count\":8},\"composition\":{\"camera\":\"medium shots and close-ups mixed across panels\",\"mood\":\"sweet, awkward, romantic tension, comedic embarrassment\",\"color_palette\":\"muted warm browns, cream, black, white, and soft silver hair tones\",\"focus\":\"the maid robot becoming flustered and overheating from innocent interaction with her oblivious master\"}}",
+  "translatedPrompt": "{\"type\":\"动画漫画页面\",\"style\":\"柔和阴影浪漫喜剧漫画，精致数字插画，温暖室内光效，干净的分镜边框，细腻的角色渲染，轻小说美学\",\"format\":\"单页 8 格，采用 2 列 4 行布局\",\"page\":{\"title_top\":\"恋するメイドロボと、気付かないマスター\",\"subtitle\":\"第5话　それは、意識してしまいます\"},\"setting\":{\"location\":\"连接厨房的温馨现代客厅\",\"details\":[\"沙发\",\"书架\",\"墙上挂画\",\"盆栽\",\"厨房台面\",\"吊灯\",\"暖米色与棕色调室内装潢\"]},\"characters\":[{\"role\":\"女仆机器人\",\"gender\":\"女性\",\"appearance\":{\"age\":\"年轻动画少女\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"银色\\\"}\",\"style\":\"超长直发配柔和波浪，齐刘海，两侧带有黑色丝带蝴蝶结\"},\"eyes\":\"紫蓝色\",\"outfit\":[\"黑白经典女仆装\",\"白色荷叶边围裙\",\"白色蕾丝女仆发带\",\"领口黑色蝴蝶结\",\"长袖配白色荷叶边袖口\"]},\"expression_arc\":[\"惊慌的内部故障\",\"慌乱的接受\",\"接过咖啡时的紧张\",\"害羞导致的热量积聚\",\"无法专心阅读\",\"在主人身边深深脸红\"]},{\"role\":\"主人\",\"gender\":\"男性\",\"appearance\":{\"age\":\"年轻男性\",\"hair\":\"深棕色短碎发\",\"outfit\":[\"深炭灰色衬衫，袖口卷起\",\"深色长裤\",\"黑色皮带\"]},\"demeanor\":\"随和、善良、迟钝\"}],\"layout\":{\"sections\":[{\"title\":\"1\",\"position\":\"左上\",\"count\":1,\"labels\":[\"女仆机器人坐在沙发上，一只手放在胸口，垂直旁白框写着 内部異常…継続中\"]},{\"title\":\"2\",\"position\":\"右上\",\"count\":1,\"labels\":[\"主人站在厨房拿着白色马克杯，对话气泡写着 おーい、コーヒー淹れたぞ\"]},{\"title\":\"3\",\"position\":\"中左上\",\"count\":1,\"labels\":[\"女仆转身露出惊讶的红晕，对话气泡写着 は、はいっ…！\"]},{\"title\":\"4\",\"position\":\"中右上\",\"count\":1,\"labels\":[\"交换咖啡杯的手部特写，小对话气泡写着 ……っ\"]},{\"title\":\"5\",\"position\":\"中左下\",\"count\":1,\"labels\":[\"女仆将热马克杯贴近胸口，垂直旁白框写着 接触時、異常な熱量を確認\"]},{\"title\":\"6\",\"position\":\"中右下\",\"count\":1,\"labels\":[\"主人坐在沙发上靠近女仆，两人半身可见，对话气泡写着 さっきの本、続き読むのか？\"]},{\"title\":\"7\",\"position\":\"左下\",\"count\":1,\"labels\":[\"女仆拿着打开的书脸红不已，对话气泡写着 ……読めません\"]},{\"title\":\"8\",\"position\":\"右下\",\"count\":1,\"labels\":[\"主人凑近表现出关切，女仆脸红并拿着咖啡，对话气泡写着 顔、赤いぞ。大丈夫か？ 和 原因：マスターです…\"]}],\"count\":8},\"composition\":{\"camera\":\"中景与特写交替\",\"mood\":\"甜蜜、尴尬、浪漫张力、喜剧式害羞\",\"color_palette\":\"柔和的暖棕色、奶油色、黑色、白色以及柔和的银色发色\",\"focus\":\"女仆机器人因与迟钝主人的单纯互动而变得慌乱并过热\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "浪漫女仆机器人漫画页面：此提示词可生成一页 8 格日式浪漫喜剧漫画，描绘了一位慌乱的女仆机器人和她迟钝的主人在温馨居家环境中的互动。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "grid",
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "manga"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, grid, vertical]。\n\nVisual style:\n[参考风格: anime, manga]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15352",
+      "15371",
+      "14404",
+      "14250",
+      "14532",
+      "14534"
+    ]
+  }
+}

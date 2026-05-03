@@ -1,0 +1,50 @@
+{
+  "id": "14407",
+  "prompt": "{\"type\":\"educational physics infographic poster\",\"topic\":\"The Magnus Effect\",\"style\":\"minimal academic poster, premium textbook-meets-modern design, clean symmetry, balanced spacing, soft neutral cream background, thin teal border, elegant serif typography for headings, minimalist sans-serif for explanatory text, limited palette of teal, muted gold, dark gray, and light beige\",\"layout\":{\"orientation\":\"square poster\",\"sections\":[{\"title\":\"THE MAGNUS EFFECT\",\"position\":\"top center\",\"count\":1,\"labels\":[\"main title\"]},{\"title\":\"1. THE PHENOMENON DEFINED\",\"position\":\"upper section\",\"count\":2,\"labels\":[\"definition text block\",\"small top-right icon showing a spinning ball with a curved arrow and a gold force label F_M\"]},{\"title\":\"2. FLUID FLOW & SPIN INTERACTION\",\"position\":\"middle section\",\"count\":2,\"labels\":[\"No Spin (Symmetric Flow)\",\"With Spin (Asymmetric Flow)\"]},{\"title\":\"3. PRESSURE DIFFERENTIAL (BERNOULLI’S PRINCIPLE)\",\"position\":\"bottom left\",\"count\":4,\"labels\":[\"Lower Pressure (P1) / P1 < P2\",\"spinning ball with gold rotational arrows\",\"Higher Pressure (P2) / P2 > P1\",\"Bernoulli's Principle formula box\"]},{\"title\":\"4. NET FORCE & CURVED PATH\",\"position\":\"bottom right\",\"count\":4,\"labels\":[\"ball with pressure labels P1 < P2 on top and P1 < P2 on lower region\",\"upward gold arrow labeled F_M (Magnus Force)\",\"gray dashed Original Path arrow\",\"teal dashed curved trajectory arrow\"]}],\"dividers\":\"4 thin teal horizontal and vertical divider lines separating the poster into distinct bands and lower two-column panels\"},\"content_details\":{\"section_1\":{\"heading\":\"1. THE PHENOMENON DEFINED\",\"body\":\"The generation of a sideways force on a spinning object moving through a fluid (gas or liquid), causing it to curve from its principal flight path.\",\"diagram\":\"simple gray circular ball icon with a curved spin arrow above it, an outward curved motion arrow, and a small rounded gold box containing F_M\"},\"section_2\":{\"heading\":\"2. FLUID FLOW & SPIN INTERACTION\",\"panels\":[{\"title\":\"No Spin (Symmetric Flow)\",\"diagram\":\"gray sphere centered on a faint square grid, with 6 teal horizontal streamlines flowing left to right and bending symmetrically around the sphere; small teal arrows indicate equal flow speed above and below\"},{\"title\":\"With Spin (Asymmetric Flow)\",\"diagram\":\"gray sphere with 2 gold rotational arrows around it, centered on a faint square grid, with 6 teal streamlines compressed and faster above the sphere and more spaced below; right side labels read 'Faster Fluid, v↑' near the upper lines and 'Slower Fluid, v↓' near the lower lines; subtle gold highlight wedge behind the upper-right flow region\"}]},\"section_3\":{\"heading\":\"3. PRESSURE DIFFERENTIAL (BERNOULLI’S PRINCIPLE)\",\"elements\":[\"top rounded rectangle with lower pressure label\",\"center spinning sphere with gold curved arrows\",\"large vertical gold downward arrow labeled Pressure Gradient (ΔP)\",\"bottom rounded rectangle with higher pressure label\",\"wide formula box with Bernoulli equation\"],\"text_boxes\":{\"top\":\"Lower Pressure (P1)\\nP1 < P2\",\"bottom\":\"Higher Pressure (P2)\\nP2 > P1\",\"formula\":\"Bernoulli's Principle:\\nP + 1/2 ρv^2 = Constant ⇒ ΔP ∝ (v1^2 − v2^2)\",\"caption\":\"Faster fluid speed (v↑) results in lower pressure (P↓).\"}},\"section_4\":{\"heading\":\"4. NET FORCE & CURVED PATH\",\"diagram\":\"large central sphere filled with a teal-to-gold split shading, gold curved spin arrow wrapping around the left side, thick upward gold arrow emerging from the top labeled F_M (Magnus Force), thin gray dashed horizontal arrow labeled Original Path extending to the right, and a teal dashed curved path arcing upward to the top-right with an arrowhead\",\"caption_box\":\"The net Magnus Force (F_M) acts perpendicular to the spin axis and the direction of motion, creating lift or a curved trajectory.\"}},\"rendering\":\"crisp vector-style infographic, subtle paper texture, high legibility, light shadows only inside rounded label boxes, precise alignment, understated scientific elegance\"}",
+  "translatedPrompt": "{\"type\":\"教育物理信息图海报\",\"topic\":\"马格努斯效应\",\"style\":\"极简学术海报，高端教科书与现代设计结合，对称简洁，间距平衡，柔和中性奶油色背景，细青色边框，标题采用优雅衬线字体，说明文字采用极简无衬线字体，配色方案限定为青色、柔和金色、深灰色和浅米色\",\"layout\":{\"orientation\":\"方形海报\",\"sections\":[{\"title\":\"马格努斯效应\",\"position\":\"顶部居中\",\"count\":1,\"labels\":[\"主标题\"]},{\"title\":\"1. 现象定义\",\"position\":\"上部区域\",\"count\":2,\"labels\":[\"定义文本框\",\"右上角小图标，显示带有弯曲箭头和金色力标签 F_M 的旋转球体\"]},{\"title\":\"2. 流体流动与旋转交互\",\"position\":\"中部区域\",\"count\":2,\"labels\":[\"无旋转（对称流动）\",\"有旋转（非对称流动）\"]},{\"title\":\"3. 压力差（伯努利原理）\",\"position\":\"左下角\",\"count\":4,\"labels\":[\"低压 (P1) / P1 < P2\",\"带有金色旋转箭头的旋转球体\",\"高压 (P2) / P2 > P1\",\"伯努利原理公式框\"]},{\"title\":\"4. 合力与弯曲路径\",\"position\":\"右下角\",\"count\":4,\"labels\":[\"球体，顶部和底部标有压力标签 P1 < P2\",\"标有 F_M（马格努斯力）的向上金色箭头\",\"灰色虚线表示原始路径\",\"青色虚线表示弯曲轨迹\"]}],\"dividers\":\"4 条细青色水平和垂直分割线，将海报分为不同的区域和下方的双栏面板\"},\"content_details\":{\"section_1\":{\"heading\":\"1. 现象定义\",\"body\":\"当旋转物体在流体（气体或液体）中运动时，会产生侧向力，使其偏离原始飞行路径。\",\"diagram\":\"简单的灰色圆形球体图标，上方带有弯曲的旋转箭头，一个向外弯曲的运动箭头，以及一个包含 F_M 的小型圆角金色方框\"},\"section_2\":{\"heading\":\"2. 流体流动与旋转交互\",\"panels\":[{\"title\":\"无旋转（对称流动）\",\"diagram\":\"灰色球体位于浅色方格网格中心，6 条青色水平流线从左向右流动，并在球体周围对称弯曲；小型青色箭头表示球体上方和下方的流速相等\"},{\"title\":\"有旋转（非对称流动）\",\"diagram\":\"灰色球体周围带有 2 个金色旋转箭头，位于浅色方格网格中心，6 条青色流线在球体上方被压缩且流速更快，下方则较为稀疏；右侧标签显示上方流线附近为 '流速快, v↑'，下方流线附近为 '流速慢, v↓'；右上角流体区域后方有微妙的金色高亮楔形\"}]},\"section_3\":{\"heading\":\"3. 压力差（伯努利原理）\",\"elements\":[\"顶部圆角矩形，带有低压标签\",\"中心旋转球体，带有金色弯曲箭头\",\"大型垂直向下金色箭头，标注为压力梯度 (ΔP)\",\"底部圆角矩形，带有高压标签\",\"宽大的公式框，包含伯努利方程\"],\"text_boxes\":{\"top\":\"低压 (P1)\\nP1 < P2\",\"bottom\":\"高压 (P2)\\nP2 > P1\",\"formula\":\"伯努利原理：\\nP + 1/2 ρv^2 = 常数 ⇒ ΔP ∝ (v1^2 − v2^2)\",\"caption\":\"流速越快 (v↑)，压力越低 (P↓)。\"}},\"section_4\":{\"heading\":\"4. 合力与弯曲路径\",\"diagram\":\"大型中心球体，填充青色至金色的渐变色，左侧环绕金色弯曲旋转箭头，顶部伸出粗大的向上金色箭头，标注为 F_M（马格努斯力），细灰色虚线水平箭头标注为原始路径并向右延伸，青色虚线弯曲轨迹向上方右侧弧形延伸并带有箭头\",\"caption_box\":\"净马格努斯力 (F_M) 作用于垂直于旋转轴和运动方向的位置，从而产生升力或弯曲轨迹。\"}},\"rendering\":\"清晰的矢量风格信息图，微妙的纸张纹理，高可读性，仅在圆角标签框内有轻微阴影，精确对齐，低调的科学美感\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "极简马格努斯效应信息图：一张精美的学术海报，通过四个编号部分、流体流动图、压力方程以及简洁的教科书式视觉效果，解释了马格努斯效应，适用于教学或演示。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "grid",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "minimalist",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, grid, vertical, horizontal]。\n\nVisual style:\n[参考风格: minimalist, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14465",
+      "14866",
+      "13656",
+      "13789",
+      "15769",
+      "13821"
+    ]
+  }
+}

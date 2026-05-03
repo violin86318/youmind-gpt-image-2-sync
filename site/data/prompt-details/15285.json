@@ -1,0 +1,51 @@
+{
+  "id": "15285",
+  "prompt": "{\"type\":\"travel photo collage\",\"subject\":\"The Great Wall of China\",\"style\":\"high-resolution realistic travel photography, crisp daylight clarity, vivid natural colors, editorial tourism brochure look\",\"composition\":{\"format\":\"square collage\",\"grid\":{\"columns\":3,\"rows\":3,\"count\":8},\"borders\":\"thin white dividers between all images\",\"image_count\":8},\"scenes\":[{\"position\":\"top-left wide panel\",\"description\":\"a sweeping aerial-style landscape view of the Great Wall winding across densely forested green mountains under a bright blue sky with scattered white clouds\"},{\"position\":\"top-right wide panel\",\"description\":\"a straight-on perspective from atop the stone walkway of the Great Wall, leading toward a watchtower, with brick parapets on both sides and mountain ridges in the distance\"},{\"position\":\"middle-left panel\",\"description\":\"a close architectural view of a stone watchtower with dark traditional roof eaves, seen from below against a blue sky with fluffy clouds\"},{\"position\":\"middle-center panel\",\"description\":\"a golden sunset scene on the Great Wall, warm orange sun low over layered mountain silhouettes, the wall curving dramatically toward a watchtower\"},{\"position\":\"middle-right panel\",\"description\":\"a telephoto scenic view of the Great Wall zigzagging over steep green ridges, emphasizing its long serpentine form\"},{\"position\":\"bottom-left panel\",\"description\":\"an elevated frontal view down a long stretch of the wall with several small tourists walking along the central path toward a tower\"},{\"position\":\"bottom-center panel\",\"description\":\"a human-scale walkway view with a small group of tourists in casual summer clothing walking away from the camera along the Great Wall toward multiple watchtowers on lush hills\"},{\"position\":\"bottom-right panel\",\"description\":\"a scenic mountain panorama framed by a close-up section of the wall on the right and leafy tree branches at the upper edge, showing layered blue-green ridges fading into the distance\"}],\"environment\":{\"season\":\"summer\",\"vegetation\":\"dense green mountain foliage\",\"sky\":\"clear blue with scattered cumulus clouds, except one warm sunset panel\",\"lighting\":\"mostly bright midday sun with one golden-hour sunset image\"},\"details\":{\"architecture\":\"aged gray stone and brick wall, crenellations, stair-stepped pathways, multiple watchtowers\",\"people\":\"exactly 2 panels contain clearly visible tourists, plus tiny distant walkers in 1 additional panel\",\"mood\":\"majestic, adventurous, iconic world heritage destination\"}}",
+  "translatedPrompt": "{\"type\":\"旅行照片拼图\",\"subject\":\"中国长城\",\"style\":\"高分辨率写实旅行摄影，明亮的日光清晰度，生动的自然色彩，编辑级旅游手册风格\",\"composition\":{\"format\":\"正方形拼图\",\"grid\":{\"columns\":3,\"rows\":3,\"count\":8},\"borders\":\"所有图片间均有细白边框\",\"image_count\":8},\"scenes\":[{\"position\":\"左上宽幅\",\"description\":\"俯瞰视角，长城蜿蜒穿过郁郁葱葱的绿色山峦，背景是蓝天和零星白云\"},{\"position\":\"右上宽幅\",\"description\":\"从长城石阶路面平视拍摄，延伸至一座敌楼，两侧是砖砌垛口，远方可见山脊\"},{\"position\":\"中左面板\",\"description\":\"从下方仰拍石质敌楼的建筑细节，深色传统屋檐与蓝天白云形成对比\"},{\"position\":\"中中面板\",\"description\":\"长城金色日落场景，温暖的橙色阳光低垂在层叠的山峦剪影之上，长城蜿蜒曲折地延伸至敌楼\"},{\"position\":\"中右面板\",\"description\":\"长焦拍摄的风景，长城在陡峭的绿色山脊上曲折盘旋，强调其长龙般的形态\"},{\"position\":\"左下面板\",\"description\":\"高位俯瞰长城长段，几名游客正沿着中央路径向敌楼走去\"},{\"position\":\"中下面板\",\"description\":\"人视角的步道景观，一小群穿着夏季休闲装的游客背对镜头，沿着长城向郁郁葱葱山丘上的多座敌楼走去\"},{\"position\":\"右下面板\",\"description\":\"山景全景，右侧由长城近景和上方的绿叶枝条框定，展示了层叠的蓝绿色山脊延伸至远方\"}],\"environment\":{\"season\":\"夏季\",\"vegetation\":\"茂密的绿色山林\",\"sky\":\"晴朗蓝天伴有零星积云，仅一张为温暖日落场景\",\"lighting\":\"大部分为明亮的午后阳光，包含一张黄金时刻的日落照片\"},\"details\":{\"architecture\":\"古老的灰石砖墙、垛口、阶梯式步道、多座敌楼\",\"people\":\"仅 2 个面板包含清晰可见的游客，另有 1 个面板包含远处的微小行人\",\"mood\":\"宏伟、充满冒险感、标志性的世界遗产目的地\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "长城旅行拼图：一张正方形的多图拼图，从风景、建筑和日落等视角展示中国长城，非常适合旅行帖文或目的地宣传。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up",
+        "grid",
+        "layered"
+      ],
+      "style": [
+        "realistic",
+        "editorial"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": "得分 78；构图: close-up, grid, layered；风格: realistic, editorial；要求精确文字"
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, grid, layered]。\n\nVisual style:\n[参考风格: realistic, editorial]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14173",
+      "14926",
+      "15274",
+      "14437",
+      "15303",
+      "14450"
+    ]
+  }
+}

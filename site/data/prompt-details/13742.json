@@ -1,0 +1,46 @@
+{
+  "id": "13742",
+  "prompt": "A highly realistic video game screenshot in the style of a {argument name=\"game style\" default=\"Western open-world game\"}. Third-person over-the-shoulder view of a rugged cowboy walking away from the camera, wearing a weathered brown jacket, dark pants, a gun holster, and a classic cowboy hat. To his left is a saddled {argument name=\"horse type\" default=\"dark horse with white spots\"}. The setting is a {argument name=\"environment\" default=\"dusty desert landscape with dry tall grass, dirt trails, cacti, and towering red rock mesas\"} during a {argument name=\"time of day\" default=\"vibrant golden hour sunset\"}. In the hazy background, two distant silhouetted figures stand on the dirt path. The image features a video game HUD overlay: in the bottom left corner, a circular minimap with a player arrow and two red blips; in the bottom right corner, three lines of white text with button prompt icons reading 'DRAW WEAPON [RT]', 'HORSE CARGO [Cross D-pad]', and 'TENNESSEE WALKER [LT]'.",
+  "translatedPrompt": "一张高度写实的电子游戏截图，风格为 {argument name=\"game style\" default=\"西部开放世界游戏\"}。采用第三人称越肩视角，画面中一位粗犷的牛仔背对镜头行走，身穿磨损的棕色夹克、深色长裤，腰间配有枪套，头戴经典牛仔帽。他的左侧是一匹配有马鞍的 {argument name=\"horse type\" default=\"带有白斑的黑马\"}。场景设定在 {argument name=\"time of day\" default=\"充满活力的黄金时段日落\"} 下的 {argument name=\"environment\" default=\"尘土飞扬的沙漠景观，伴有干枯的高草、泥土小径、仙人掌和高耸的红岩台地\"}。在朦胧的背景中，两条远处的剪影伫立在泥土小径上。图像包含电子游戏 HUD 叠加层：左下角是一个带有玩家箭头和两个红色光点的圆形小地图；右下角有三行白色文字及按钮提示图标，分别显示“DRAW WEAPON [RT]”、“HORSE CARGO [Cross D-pad]”和“TENNESSEE WALKER [LT]”。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "西部开放世界游戏截图：生成一张写实的第三人称电子游戏截图，画面包含沙漠景观中的牛仔及其坐骑，并带有 HUD 元素。",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [
+        "golden hour",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "App Store 截图、产品概念、移动工具界面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[参考光线镜头: golden hour, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13701",
+      "14892",
+      "13837",
+      "13642",
+      "14540",
+      "14560"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "14812",
+  "prompt": "{\"type\":\"four-panel skincare product advertisement collage\",\"style\":\"studio-quality commercial product photography, hyper-realistic, glossy packaging, dramatic lighting, premium beauty ad aesthetic\",\"format\":\"square 2x2 grid\",\"background\":\"each quadrant has its own themed environment matching the product benefit\",\"products\":[{\"position\":\"top-left\",\"brand\":\"GARNIER\",\"product\":\"OIL CONTROL Face Wash\",\"packaging\":\"blue translucent squeeze tube with dark blue cap, water droplets on the tube\",\"scene\":\"tube standing upright in shallow water with a dynamic splash around the base\",\"lighting\":\"cool blue high-contrast lighting\",\"color_palette\":\"deep blue, cyan, white\",\"effects\":[\"water ripples\",\"splash crown\",\"droplets on packaging\"]},{\"position\":\"top-right\",\"brand\":\"POND'S\",\"product\":\"BRIGHT GLOW\",\"packaging\":\"gold-to-orange gradient squeeze tube with white cap, subtle glittery texture\",\"scene\":\"tube standing upright on reflective golden liquid with circular ripples\",\"lighting\":\"warm golden backlight with soft bokeh highlights\",\"color_palette\":\"gold, amber, orange, cream\",\"effects\":[\"golden reflections\",\"glow\",\"liquid ripple rings\"]},{\"position\":\"bottom-left\",\"brand\":\"Himalara HERBAAL CARE\",\"product\":\"PURE HERBAL CARE\",\"packaging\":\"white and translucent green squeeze tube with teal cap, herbal leaf graphic on front\",\"scene\":\"tube placed on a wet natural stone surrounded by fresh green leaves in an outdoor botanical setting\",\"lighting\":\"soft natural sunlight filtering through foliage\",\"color_palette\":\"green, white, teal, earthy stone tones\",\"effects\":[\"water droplets\",\"lush leaves\",\"fresh natural atmosphere\"]},{\"position\":\"bottom-right\",\"brand\":\"NIVEA\",\"product\":\"DEEP CLEAN CHARCOAL POWER\",\"packaging\":\"matte black squeeze tube with black cap and blue NIVEA circle logo\",\"scene\":\"tube standing on a dark wet surface surrounded by broken charcoal pieces\",\"lighting\":\"moody low-key directional lighting with subtle mist\",\"color_palette\":\"black, charcoal gray, deep blue\",\"effects\":[\"wet surface reflections\",\"charcoal chunks\",\"dramatic shadows\"]}],\"layout\":{\"grid\":{\"rows\":2,\"columns\":2},\"count\":4,\"panels\":[\"top-left Garnier water theme\",\"top-right Pond's glow theme\",\"bottom-left herbal green theme\",\"bottom-right Nivea charcoal theme\"]},\"branding\":{\"watermark\":{\"text\":\"Pollo.ai\",\"position\":\"top-right overall image\",\"color\":\"white\"}},\"camera\":\"front-facing centered packshot in each panel, eye-level product framing, sharp focus on tube, shallow depth of field in background\",\"quality\":\"ultra-detailed, advertising-ready, clean composition, crisp label readability\"}",
+  "translatedPrompt": "{\"type\":\"四格护肤品广告拼贴\",\"style\":\"摄影棚级商业产品摄影，超写实，光泽包装，戏剧性灯光，高级美妆广告美学\",\"format\":\"2x2 正方形网格\",\"background\":\"每个象限都有与产品功效相匹配的主题环境\",\"products\":[{\"position\":\"左上\",\"brand\":\"GARNIER\",\"product\":\"OIL CONTROL Face Wash\",\"packaging\":\"蓝色半透明挤压管，深蓝色瓶盖，管身带有水珠\",\"scene\":\"产品直立于浅水中，底部有动态水花溅起\",\"lighting\":\"冷蓝色高对比度灯光\",\"color_palette\":\"深蓝，青色，白色\",\"effects\":[\"水波纹\",\"水花皇冠\",\"包装上的水珠\"]},{\"position\":\"右上\",\"brand\":\"POND'S\",\"product\":\"BRIGHT GLOW\",\"packaging\":\"金橙色渐变挤压管，白色瓶盖，带有细微闪光质感\",\"scene\":\"产品直立于反射金光的液体之上，伴有圆形涟漪\",\"lighting\":\"温暖的金色背光，带有柔和的焦外成像高光\",\"color_palette\":\"金色，琥珀色，橙色，奶油色\",\"effects\":[\"金色反射\",\"光泽\",\"液体涟漪环\"]},{\"position\":\"左下\",\"brand\":\"Himalara HERBAAL CARE\",\"product\":\"PURE HERBAL CARE\",\"packaging\":\"白色与半透明绿色挤压管，青色瓶盖，正面印有草本叶片图案\",\"scene\":\"产品放置在潮湿的天然石块上，周围环绕着户外植物环境中的新鲜绿叶\",\"lighting\":\"透过叶片的柔和自然阳光\",\"color_palette\":\"绿色，白色，青色，大地石色调\",\"effects\":[\"水珠\",\"茂盛的叶片\",\"清新的自然氛围\"]},{\"position\":\"右下\",\"brand\":\"NIVEA\",\"product\":\"DEEP CLEAN CHARCOAL POWER\",\"packaging\":\"哑光黑色挤压管，黑色瓶盖，带有蓝色 NIVEA 圆形标志\",\"scene\":\"产品直立在潮湿的深色表面上，周围环绕着破碎的木炭块\",\"lighting\":\"带有轻微雾气的低调戏剧性定向灯光\",\"color_palette\":\"黑色，炭灰色，深蓝色\",\"effects\":[\"湿润表面反射\",\"木炭块\",\"戏剧性阴影\"]}],\"layout\":{\"grid\":{\"rows\":2,\"columns\":2},\"count\":4,\"panels\":[\"左上 Garnier 水主题\",\"右上 Pond's 光泽主题\",\"左下 草本绿色主题\",\"右下 Nivea 木炭主题\"]},\"branding\":{\"watermark\":{\"text\":\"Pollo.ai\",\"position\":\"整体图像右上角\",\"color\":\"白色\"}},\"camera\":\"每个面板均为正面居中产品拍摄，平视产品构图，产品焦点清晰，背景浅景深\",\"quality\":\"超精细，广告级，构图整洁，标签清晰易读\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "4 格洗面奶广告网格：此提示词可生成精美的四格护肤品广告拼贴图，展示不同洗面奶产品在主题摄影棚环境下的商业营销样机效果。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [
+        "centered",
+        "grid",
+        "2x2",
+        "front-facing"
+      ],
+      "style": [
+        "realistic",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "dramatic lighting",
+        "backlight",
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, grid, 2x2, front-facing]。\n\nVisual style:\n[参考风格: realistic, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: dramatic lighting, backlight, shallow depth, depth of field, camera]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15688",
+      "15639",
+      "15776",
+      "15264",
+      "14889",
+      "14943"
+    ]
+  }
+}

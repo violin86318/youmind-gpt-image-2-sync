@@ -1,0 +1,41 @@
+{
+  "id": "13765",
+  "prompt": "{\n  \"type\": \"photograph of a computer monitor displaying a Google Maps Street View interface\",\n  \"scene\": {\n    \"environment\": \"{argument name=\\\"environment\\\" default=\\\"barren desert landscape under a clear blue sky\\\"}\",\n    \"subject\": \"{argument name=\\\"subject\\\" default=\\\"massive ancient stone wall with perfectly fitted cyclopean masonry blocking a dirt road, with a rectangular doorway cut through the center\\\"}\",\n    \"foreground\": \"shadow of a Google Street View car with a 360-degree camera mounted on top cast onto the dirt road\"\n  },\n  \"ui_elements\": {\n    \"browser_bar\": \"URL bar at the top showing google.com/maps with latitude and longitude coordinates\",\n    \"top_left_panel\": \"black semi-transparent info box with text 'Unnamed Road', '{argument name=\\\"region\\\" default=\\\"Atacama Region\\\"}', and 'Street View - Sept 2022'\",\n    \"bottom_left_panel\": \"minimap inset with a yellow Pegman icon\",\n    \"bottom_right_panel\": \"minimap inset showing a blue route line, Pegman, zoom controls, and text '{argument name=\\\"distance text\\\" default=\\\"340 km from nearest town\\\"}'\",\n    \"bottom_bar\": \"Google logo in the bottom center, compass icon on the right, and copyright/capture date text along the bottom edge\"\n  },\n  \"style_details\": \"visible screen glare and slight monitor distortion to simulate a photograph taken of a physical screen with a smartphone\"\n}",
+  "translatedPrompt": "{\n  \"type\": \"显示 Google Maps Street View 界面的电脑显示器照片\",\n  \"scene\": {\n    \"environment\": \"{argument name=\\\"environment\\\" default=\\\"晴朗蓝天下的荒凉沙漠景观\\\"}\",\n    \"subject\": \"{argument name=\\\"subject\\\" default=\\\"巨大的古老石墙，带有完美契合的巨石砌筑，阻挡在土路上，中心处开有一个矩形门洞\\\"}\",\n    \"foreground\": \"投射在土路上的 Google Street View 车辆阴影，车顶装有 360 度全景摄像头\"\n  },\n  \"ui_elements\": {\n    \"browser_bar\": \"顶部的 URL 栏显示 google.com/maps 以及经纬度坐标\",\n    \"top_left_panel\": \"黑色半透明信息框，显示文本“Unnamed Road”、“{argument name=\\\"region\\\" default=\\\"阿塔卡马地区\\\"}”以及“Street View - 2022 年 9 月”\",\n    \"bottom_left_panel\": \"带有黄色 Pegman 图标的迷你地图插图\",\n    \"bottom_right_panel\": \"显示蓝色路线、Pegman、缩放控件以及文本“{argument name=\\\"distance text\\\" default=\\\"距最近城镇 340 公里\\\"}”的迷你地图插图\",\n    \"bottom_bar\": \"底部中央的 Google Logo、右侧的指南针图标，以及沿底部的版权/拍摄日期文本\"\n  },\n  \"style_details\": \"可见的屏幕反光和轻微的显示器畸变，以模拟用智能手机拍摄物理屏幕的效果\"\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Google Street View 异常景观屏幕照片：生成一张逼真的电脑屏幕照片，屏幕上显示着 Google Street View 界面，呈现出超现实或格格不入的建筑异常景观。",
+      "subject": "界面",
+      "scene": "信息图/图解",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "城市美食地图、活动导览、园区地图、旅行视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14400",
+      "14401",
+      "13514",
+      "14444",
+      "15063",
+      "15309"
+    ]
+  }
+}

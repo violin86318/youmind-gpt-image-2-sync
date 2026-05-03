@@ -1,0 +1,54 @@
+{
+  "id": "15643",
+  "prompt": "A cinematic parody streaming-poster in vertical 2:3 format, styled like a dark Netflix original teaser poster for a humorous AI programming drama. At the very top, small white text reads {argument name=\"top banner text\" default=\"A NETFLIX ORIGINAL\"}. Centered and dominating the composition, huge glowing sci-fi sans serif title text in icy white with a faint lavender-blue neon bloom reads {argument name=\"title text\" default=\"VIBE CODER\"}, stacked on two lines. Below it, smaller white text says \"STARRING\" and beneath that a pink cast name in bold all caps reads {argument name=\"cast name\" default=\"HUNKINS\"}. The scene shows a dim moody programmer bedroom or office at night lit by monitors and purple-blue neon. In the center foreground, a plush teddy-bear-like mascot with white fuzzy paws sits slouched in a black desk chair wearing a black hoodie, face mostly hidden in shadow for a mysterious comedic look. On the hoodie chest, 4 lines of small off-white text read exactly: \"// SHIP IT\", \"// VIBE CHECK\", \"// NO BUGS\", \"// JUST VIBES\". In front of the character is an open laptop covered with 4 visible stickers: \"vibe > spec\", \"DON'T THINK JUST PROMPT\", a smiley face sticker, and \"Claude 3.5\", plus an abstract AI-style logo sticker. Behind the laptop are 2 widescreen monitors displaying dense code on dark themes. The background includes 2 wall notes/signs on the left: a sticky note reading \"IDEAS > PLANS\" and, on the right, a whiteboard with 3 stacked handwritten lines reading \"BUILD FAST\", \"BREAK THINGS\", \"ASK AI\", and a fourth line \"REPEAT\" beneath, plus a hand-drawn smiley. Next to the whiteboard is a pink-purple neon </> code icon sign. On the desk at lower right sits a matte black drink can with pink text reading \"FOCUS (optional)\" and a cardboard pizza box edge labeled \"ITERATE LATER\". Use rich shadows, soft practical light, purple and cyan rim light, subtle monitor glow, shallow depth of field, high contrast, glossy premium poster finish, and a slightly absurd, self-aware startup-comedy tone. At the bottom, centered white tagline text reads {argument name=\"tagline text\" default=\"HE’S NOT A PROGRAMMER. HE’S A VIBE CODER.\"}, with the word \"VIBE\" highlighted in pink. Below that, a release line in white and red reads {argument name=\"release line\" default=\"ONLY ON NETFLIX | COMING SOON\"}, with \"NETFLIX\" in bold red. Make it look like a polished official teaser one-sheet for a fictional streaming series.",
+  "translatedPrompt": "一张 2:3 纵向比例的电影感戏仿流媒体海报，采用类似 Netflix 原创黑色幽默 AI 编程剧集的预告海报风格。最上方，小号白色文字显示 {argument name=\"top banner text\" default=\"A NETFLIX ORIGINAL\"}。画面中央占据主导地位的是巨大的发光科幻无衬线标题文字，呈冰白色，带有淡淡的淡紫色霓虹光晕，显示为 {argument name=\"title text\" default=\"VIBE CODER\"}，分两行排列。下方是较小的白色文字“STARRING”，再下方是粉色的加粗全大写演员姓名 {argument name=\"cast name\" default=\"HUNKINS\"}。场景展示了一个昏暗、情绪化的程序员卧室或办公室，夜晚由显示器和紫蓝色霓虹灯照亮。前景中央，一个毛绒泰迪熊般的吉祥物懒散地坐在黑色办公椅上，穿着黑色连帽衫，脸部大部分隐藏在阴影中，营造出一种神秘的喜剧感。连帽衫胸前有 4 行米白色小字，内容为：“// SHIP IT”、“// VIBE CHECK”、“// NO BUGS”、“// JUST VIBES”。角色前方是一台打开的笔记本电脑，上面贴着 4 张可见的贴纸：“vibe > spec”、“DON'T THINK JUST PROMPT”、一个笑脸贴纸、“Claude 3.5”，以及一个抽象的 AI 风格标志贴纸。笔记本电脑后方是 2 台宽屏显示器，显示着深色主题的密集代码。背景包括左侧的 2 张墙面便签/标语：一张写着“IDEAS > PLANS”的便签；右侧是一个项目，上面有 3 行手写文字“BUILD FAST”、“BREAK THINGS”、“ASK AI”，下方还有第四行“REPEAT”，以及一个手绘笑脸。项目旁边是一个粉紫色霓虹灯 </> 代码图标标志。右下角的桌子上放着一个哑光黑色饮料罐，上面用粉色文字写着“FOCUS (optional)”，还有一个写着“ITERATE LATER”的披萨盒边缘。运用丰富的阴影、柔和的实用光线、紫色和青色的轮廓光、微妙的显示器光晕、浅景深、高对比度、光面高级海报质感，以及一种略显荒诞、具有自我意识的初创公司喜剧基调。底部居中的白色标语文字显示 {argument name=\"tagline text\" default=\"HE’S NOT A PROGRAMMER. HE’S A VIBE CODER.\"}，其中“VIBE”一词以粉色高亮显示。下方是白色和红色的发布日期行 {argument name=\"release line\" default=\"ONLY ON NETFLIX | COMING SOON\"}，其中“NETFLIX”为加粗红色。使其看起来像是一部虚构流媒体剧集的精致官方预告海报。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Netflix 风格“氛围编码员”海报：一个黑色幽默风格的流媒体海报提示词，用于生成一张精致的伪 Netflix 风格预告海报，主角是在霓虹灯闪烁的程序员工作空间中工作的 AI “氛围编码员”。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "sci-fi",
+        "premium",
+        "hand-drawn"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "neon",
+        "high contrast",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: cinematic, sci-fi, premium, hand-drawn]。\n\nLighting and camera:\n[参考光线镜头: rim light, neon, high contrast, shallow depth, depth of field]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14598",
+      "15096",
+      "15016",
+      "15458",
+      "14900",
+      "15624"
+    ]
+  }
+}

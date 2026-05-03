@@ -1,0 +1,37 @@
+{
+  "id": "14712",
+  "prompt": "a stunning {argument name=\"subject\" default=\"asian woman\"}, pale skin, minimalistic makeup, calm and distant expression, long straight black hair, soft diffused lighting, clean background, cinematic composition, {argument name=\"style\" default=\"high-end fashion magazine style\"}, delicate details, ethereal mood, 8k realism",
+  "translatedPrompt": "一张令人惊艳的 {argument name=\"subject\" default=\"亚裔女性\"}，皮肤白皙，极简妆容，神情冷静而疏离，黑色长直发，柔和的漫射光，干净的背景，电影级构图，{argument name=\"style\" default=\"高端时尚杂志风格\"}，精致细节，空灵氛围，8k 写实感",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "空灵时尚人像：一份详细的提示词，用于创作具有柔和光影和高端杂志美感的极简主义电影感时尚人像。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "minimalist"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体",
+        "风格"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, minimalist]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13729",
+      "15592",
+      "14040",
+      "14254",
+      "13871",
+      "14313"
+    ]
+  }
+}

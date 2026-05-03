@@ -1,0 +1,44 @@
+{
+  "id": "14571",
+  "prompt": "A dramatic ultra-wide aerial tiny-planet photograph of {argument name=\"city name\" default=\"Canakkale\"}, Turkey, rendered as a full 360-degree stereographic projection so the city and waterfront form a compact spherical world surrounded by a swirling ring of blue sky and white clouds. The viewpoint is high above the shoreline in bright daytime with crisp summer light, realistic colors, and strong photographic detail. Place the large hillside sign reading {argument name=\"landmark sign text\" default=\"Canakkale\"} prominently across the center of the miniature planet. On the left-upper side of the sphere, show a tall pale stone clock tower with a small red Turkish flag at the top, surrounded by dense urban blocks with red-tiled roofs and mid-rise buildings. On the right side, include a vivid blue harbor with 2 white passenger ferries docked along the waterfront and a long curving coastline extending into the distance. In the lower-right quadrant, feature the monumental dark wooden Trojan horse statue on a circular plaza. In the lower-left quadrant, include the large rectangular concrete memorial structure set within green parkland. Cover the planet with winding pedestrian paths, lawns, trees, and landscaped gardens, with city streets and waterfront promenades visible around the edges. Use a highly realistic drone-photo look, deep depth of field, sharp textures, slightly exaggerated fisheye distortion from the tiny-planet projection, and a majestic travel-poster composition emphasizing the contrast between the green park, historic landmarks, and sparkling sea.",
+  "translatedPrompt": "一张极具视觉冲击力的超广角“小星球”航拍照片，拍摄地点为土耳其的 {argument name=\"city name\" default=\"恰纳卡莱\"}。画面采用 360 度全景立体投影，使城市与海滨融合成一个紧凑的球形世界，周围环绕着蓝天白云。拍摄视角位于海岸线上方的高空，呈现明亮的日间效果，光线清澈，色彩真实，摄影细节丰富。将写有 {argument name=\"landmark sign text\" default=\"恰纳卡莱\"} 的大型山坡标语醒目地置于微型星球的中心。在球体左上方，展示一座高耸的浅色石制钟楼，顶部悬挂着一面红色土耳其国旗，周围环绕着密集的红瓦屋顶城市街区和中层建筑。右侧呈现一片湛蓝的港口，两艘白色客轮停靠在岸边，长长的海岸线向远处延伸。在右下象限，展示圆形广场上那座宏伟的深色木制特洛伊木马雕像。在左下象限，包含坐落在绿地公园中的大型长方形混凝土纪念建筑。星球表面覆盖着蜿蜒的人行道、草坪、树木和景观花园，边缘处可见城市街道和海滨长廊。采用高度逼真的无人机摄影风格，具有深景深、锐利的纹理，以及由“小星球”投影带来的轻微夸张鱼眼畸变。整体构图呈现宏伟的旅游海报风格，强调了绿色公园、历史地标与波光粼粼的大海之间的鲜明对比。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "恰纳卡莱的“小星球”航拍视角：该提示词可生成一张逼真的 360 度“小星球”无人机视角图片，展示恰纳卡莱的海滨地标，非常适合用于旅游影像和城市海报设计。",
+      "subject": "空间",
+      "scene": "空间/场景",
+      "composition": [],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [
+        "depth of field"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "空间概念、建筑场景、游戏场景、产品场景盒子",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 空间/场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[参考光线镜头: depth of field]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15405",
+      "14067",
+      "14686",
+      "14897",
+      "15092",
+      "13614"
+    ]
+  }
+}

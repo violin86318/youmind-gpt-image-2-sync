@@ -1,0 +1,46 @@
+{
+  "id": "15337",
+  "prompt": "A hyper-detailed, ultra-colorful anime festival illustration of 2 kemonomimi girls jumping midair in a joyful pose, filling the center of a tall vertical composition. The girl on the right is a cheerful catgirl with white-blonde hair, large fluffy cat ears, bright blue eyes, one eye winking, and a big open smile, wearing a vivid blue floral kimono-inspired short dress with oversized sleeves, layered frilly white petticoat trim, a large multicolored obi bow, floral hair ornaments, white ankle socks, and geta sandals, with a fluffy pale tail visible behind her; her right arm is raised making a peace sign and her left hand is near her chest. The girl on the left is a doggirl with medium brown hair, fluffy brown-and-white dog ears, and a curled fluffy tail, wearing a vivid pink and magenta floral kimono-inspired short dress with layered frills, a large decorative obi bow, floral hair ornaments, white socks, and sandals; she is also leaping with one arm raised in a peace sign. Render the left girl's face as intentionally obscured by a soft rectangular blur block. Surround them with an explosive fantasy-Japanese backdrop packed with decorative detail: Mount Fuji centered in the upper background with radiant sunrise rays, a large rainbow arc swirling on the right, stylized Great Wave-like curling waves on both sides, dense pink cherry blossoms overhead, 2 glowing paper lanterns near the upper left and upper right edges, and 2 more paper lanterns near the lower left and lower right corners, plus a red arched bridge at the bottom left. Use a saturated candy-bright palette of pink, cyan, blue, gold, orange, violet, and white, with confetti-like petals, sparkling particles, paint splashes, and intricate floral patterns covering nearly every surface. The mood is festive, cute, ecstatic, and celebratory, with dynamic foreshortening, crisp linework, glossy highlights, layered textures, and a highly polished gacha-card style illustration.",
+  "translatedPrompt": "一幅超精细、色彩极其丰富的动漫祭典插画，画面中心是两位正在半空中欢快跳跃的兽耳娘（kemonomimi），构图呈高垂直状。右侧的少女是一位开朗的猫娘，有着白金色的头发、大而蓬松的猫耳、明亮的蓝色眼睛，一只眼睛眨着，笑容灿烂。她身穿一件鲜艳的蓝色花卉和服风格短裙，配有超大袖子、层叠的白色荷叶边衬裙、巨大的彩色腰带蝴蝶结、花朵发饰、白色短袜和木屐，身后隐约可见一条蓬松的浅色尾巴；她的右手举起比着剪刀手，左手靠近胸前。左侧的少女是一位狗娘，有着中棕色的头发、蓬松的棕白相间狗耳和卷曲的蓬松尾巴，身穿一件鲜艳的粉色和洋红色花卉和服风格短裙，配有层叠的荷叶边、巨大的装饰性腰带蝴蝶结、花朵发饰、白色短袜和凉鞋；她也在跳跃，一只手举起比着剪刀手。左侧少女的面部特意用柔和的矩形模糊块遮挡。背景是充满爆炸性幻想色彩的日式场景，细节装饰丰富：背景上方中央是富士山，伴随着灿烂的日出光芒，右侧环绕着巨大的彩虹弧线，两侧是风格化的“神奈川冲浪里”式卷浪，头顶是茂密的粉色樱花，左上角和右上角各有两个发光的纸灯笼，左下角和右下角也各有两个纸灯笼，左下角还有一座红色拱桥。采用粉色、青色、蓝色、金色、橙色、紫色和白色的饱和糖果色调，几乎每一处表面都覆盖着五彩纸屑般的花瓣、闪烁的微粒、油漆飞溅和复杂的碎花图案。整体氛围欢庆、可爱、狂喜且充满节庆感，具有动态的透视效果、清晰的线条、光泽感的高光、层叠的纹理，呈现出高度精致的抽卡游戏卡面风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "色彩斑斓的和服兽耳娘祭典：一幅充满活力的动漫风格祭典艺术作品，描绘了两位身着彩色和服、长着动物耳朵的少女在浓郁的日式幻想背景下欢快跳跃的场景，非常适合作为庆典角色艺术或引人注目的社交媒体插图。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, layered, vertical]。\n\nVisual style:\n[参考风格: anime, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14488",
+      "14653",
+      "15441",
+      "14876",
+      "15319",
+      "15641"
+    ]
+  }
+}

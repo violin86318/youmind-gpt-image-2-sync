@@ -1,0 +1,47 @@
+{
+  "id": "15347",
+  "prompt": "A high-impact anime promotional interview poster designed as a glossy two-page magazine spread for a futuristic live music event. The scene shows a packed nighttime concert arena filled with a crowd holding glowing light sticks in neon yellow, blue, and purple, with a huge illuminated stage in the background, laser beams, bokeh lights, haze, and a giant triangular play-icon screen reading \"AI SUPERLIVE SUMMER 2026\". In the center foreground are 2 anime-style female presenters seen from a dramatic side and back angle, both looking toward the stage. The left character is {argument name=\"left character name\" default=\"ソラ\"}, wearing a dark oversized hooded jacket with black and acid-lime accents, large lime-green headphones marked \"06\", and raising a bright yellow glow stick overhead; her face is partially obscured by a rectangular privacy block. The right character is {argument name=\"right character name\" default=\"ナギ\"}, with a short silver-white bob haircut and fair skin, wearing a pale oversized hooded coat, softly lit by stage lights, holding a white-blue glowing baton near her chest, with an emotional profile expression as she watches the show. Use cinematic rim lighting, richly saturated purple-blue concert colors, reflective fabric highlights, and detailed anime rendering with a polished editorial-advertising finish. Compose the layout like a Japanese special interview feature with dense text overlays, translucent dark panels, thin neon-yellow borders, and bold sans-serif typography. Include 8 distinct text blocks: 1 small header tag at top left reading \"/ SPECIAL INTERVIEW /\"; 1 large Japanese headline at upper left reading \"この夏、AIと音楽の未来がステージで輝く！\"; 1 event logo block at upper right reading \"AI SUPERLIVE SUMMER 2026\" and \"2026.7.18 SAT @ FUTURE ARENA ODAIBA\"; 3 question-and-answer panels stacked on the left with yellow-framed headers beginning with \"Q.\"; 3 question-and-answer panels stacked on the right with yellow-framed headers beginning with \"Q.\"; plus 2 character intro name boxes near the figures labeled \"ソラ\" and \"ナギ\". Add a bold closing Japanese tagline across the bottom left and center reading \"AIと音楽が響き合う、新しい夏がはじまる。 一緒に、未来を体験しよう！\". At the bottom right, include a footer block repeating the event name and date, plus a visible QR code and a small caption indicating the official website. The overall style should feel like a premium Japanese event flyer, interview article, and key visual combined, energetic, futuristic, emotional, and festival-like.",
+  "translatedPrompt": "一款极具视觉冲击力的动漫宣传访谈海报，设计为未来感现场音乐活动的精美杂志双页跨页。场景展示了一个座无虚席的夜间演唱会现场，观众挥舞着霓虹黄、蓝、紫色的荧光棒，背景是巨大的发光舞台、激光束、光斑、烟雾，以及一个巨大的三角形播放图标屏幕，上面写着“AI SUPERLIVE SUMMER 2026”。前景中央是两位动漫风格的女主持人，以戏剧性的侧后方视角呈现，两人都望向舞台。左侧角色为 {argument name=\"left character name\" default=\"ソラ\"}，身穿带有黑色和酸橙绿点缀的深色超大款连帽夹克，佩戴标有“06”的大型酸橙绿耳机，头顶举着一支亮黄色的荧光棒；她的脸部被一个矩形隐私遮挡块部分遮盖。右侧角色为 {argument name=\"right character name\" default=\"ナギ\"}，留着银白色短波波头，皮肤白皙，身穿浅色超大款连帽外套，在舞台灯光的柔和映照下，胸前握着一支蓝白色的发光指挥棒，侧脸表情动人，注视着演出。运用电影级的轮廓光、饱和度丰富的紫蓝色演唱会色调、反光织物高光，以及精致的动漫渲染，呈现出高级的编辑广告质感。排版仿照日本专题访谈风格，包含密集的文字覆盖、半透明深色面板、细霓虹黄边框以及醒目的无衬线字体。包含 8 个独特的文本块：左上角 1 个小型标题标签，写着“/ SPECIAL INTERVIEW /”；左上方 1 个大型日文标题，写着“この夏、AIと音楽の未来がステージで輝く！”；右上角 1 个活动 Logo 块，写着“AI SUPERLIVE SUMMER 2026”和“2026.7.18 SAT @ FUTURE ARENA ODAIBA”；左侧堆叠 3 个以“Q.”开头的黄色边框问答面板；右侧堆叠 3 个以“Q.”开头的黄色边框问答面板；以及人物附近标有“ソラ”和“ナギ”的 2 个角色介绍名称框。在底部左侧和中央添加一行醒目的日文结束语：“AIと音楽が響き合う、新しい夏がはじまる。 一緒に、未来を体験しよう！”。右下角包含一个重复活动名称和日期的页脚块，以及一个可见的二维码和标注官方网站的小字说明。整体风格融合了高端日本活动传单、访谈文章和主视觉图的特色，充满活力、未来感、情感张力与节日氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫演唱会访谈杂志内页：一款电影质感的动漫风格宣传海报，适用于未来感现场音乐活动，是演唱会海报、访谈专题及活动营销视觉图的理想之选。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "editorial",
+        "anime",
+        "premium"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "neon"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, editorial, anime, premium]。\n\nLighting and camera:\n[参考光线镜头: rim light, neon]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14842",
+      "15322",
+      "15414",
+      "14829",
+      "15449",
+      "15668"
+    ]
+  }
+}

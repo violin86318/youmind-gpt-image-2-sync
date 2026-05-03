@@ -1,0 +1,46 @@
+{
+  "id": "13638",
+  "prompt": "A YouTube thumbnail-style collage for a {argument name=\"overall mood\" default=\"dark, dramatic, true crime investigation\"}. In the center is a highly detailed, close-up portrait of an {argument name=\"central figure\" default=\"older man with grey hair and deep wrinkles resembling Jeffrey Epstein\"}, wearing a black polo shirt, with a faint red glowing outline separating him from the background. On the left side, a {argument name=\"left background scene\" default=\"tropical island with luxury villas and a flying airplane in a dark sky\"}. Below the island, a conspiracy board motif features exactly 2 red push pins connected by 3 thick red strings. On the top right side, a hazy, sepia-toned depiction of the {argument name=\"right background scene\" default=\"US Capitol building with the silhouettes of 3 men in suits facing it\"}. On the bottom right, an open manila folder containing a {argument name=\"document type\" default=\"heavily redacted dossier with thick black marker lines and a smaller photograph of the central man\"}. The overall composition is cinematic, intense, and heavily stylized for a documentary video.",
+  "translatedPrompt": "一张 YouTube 缩略图风格的拼贴画，主题为 {argument name=\"overall mood\" default=\"黑暗、戏剧性、真实犯罪调查\"}。中心是一张高度细节化的 {argument name=\"central figure\" default=\"一位留着灰发、满脸深皱纹，神似杰弗里·爱泼斯坦的老人\"} 的特写肖像，他身穿黑色 Polo 衫，边缘有一圈淡淡的红色发光轮廓，将其与背景区分开来。左侧是 {argument name=\"left background scene\" default=\"带有豪华别墅的热带岛屿，深色天空中有一架正在飞行的飞机\"}。岛屿下方是一个阴谋论 {argument name=\"board\" default=\"项目\"} 主题，包含 2 枚红色图钉，由 3 根粗红线连接。右上角是 {argument name=\"right background scene\" default=\"朦胧的棕褐色调美国国会大厦，前方有 3 名身穿西装的男士剪影\"}。右下角是一个打开的马尼拉文件夹，里面装着 {argument name=\"document type\" default=\"一份经过大量涂改的档案，上面有粗重的黑色记号笔线条，以及一张该男子的较小照片\"}。整体构图具有电影感和强烈的视觉冲击力，专为纪录片视频风格化设计。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "真实犯罪调查缩略图：为真实犯罪或阴谋论视频生成具有戏剧性的拼贴风格 YouTube 缩略图，包含中心人物肖像和主题背景元素。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up"
+      ],
+      "style": [
+        "cinematic",
+        "documentary",
+        "luxury"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up]。\n\nVisual style:\n[参考风格: cinematic, documentary, luxury]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14568",
+      "14886",
+      "15250",
+      "15706",
+      "14901",
+      "15064"
+    ]
+  }
+}

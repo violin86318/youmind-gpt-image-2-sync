@@ -1,0 +1,47 @@
+{
+  "id": "13892",
+  "prompt": "{\n  \"type\": \"video game screenshot mockup\",\n  \"style\": \"cinematic, realistic 3D graphics, overcast, rainy, desolate rocky landscape reminiscent of Death Stranding\",\n  \"character\": {\n    \"identity\": \"{argument name=\\\"character identity\\\" default=\\\"Sun Wukong\\\"}\",\n    \"features\": \"monkey face, golden headband, holding a golden staff\",\n    \"outfit\": \"yellow delivery jacket with black accents, large square black and yellow delivery backpack\",\n    \"branding\": \"kangaroo logo and text {argument name=\\\"delivery company\\\" default=\\\"美团外卖\\\"} on jacket and backpack\"\n  },\n  \"environment\": {\n    \"foreground\": \"rocky terrain with a flowing stream\",\n    \"background\": \"futuristic circular building with a tall antenna, glowing text {argument name=\\\"building name\\\" default=\\\"BRIDGES 配送中心\\\"}\"\n  },\n  \"layout\": {\n    \"ui_elements\": 7,\n    \"sections\": [\n      {\n        \"position\": \"top-left\",\n        \"type\": \"mission objective\",\n        \"text\": \"第3节：南部结点城 / {argument name=\\\"mission objective\\\" default=\\\"连接南部结点城，拓展开罗尔网络。\\\"} / [订单No.12] 美团外卖配送：南部结点城 / 将外卖送达给收件人。\"\n      },\n      {\n        \"position\": \"center-right\",\n        \"type\": \"destination marker\",\n        \"text\": \"目的地 / 南部结点城 / 约 1.8 km\",\n        \"icon\": \"star\"\n      },\n      {\n        \"position\": \"center\",\n        \"type\": \"weight info\",\n        \"text\": \"负重 / 28.5 kg / 125.0 kg\",\n        \"attached_to\": \"backpack\"\n      },\n      {\n        \"position\": \"middle-right\",\n        \"type\": \"order info\",\n        \"text\": \"订单信息 / [订单No.12] / 配送物品：外卖 / 收件人：南部结点城·工作人员 / 时限：30:00 / 报酬：+198 ¥520\"\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"type\": \"controls\",\n        \"text\": \"移动 / 保持平衡 / 切换视角 / 打开终端\",\n        \"icons\": \"controller buttons\"\n      },\n      {\n        \"position\": \"bottom-center\",\n        \"type\": \"subtitles\",\n        \"text\": \"孙悟空： / {argument name=\\\"subtitle text\\\" default=\\\"俺老孙来也！这外卖也要送到西天去！\\\"}\"\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"type\": \"HUD\",\n        \"elements\": \"blue health/stamina bars, D-pad tool icons\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"电子游戏截图样机\",\n  \"style\": \"电影感，写实 3D 画面，阴天，雨天，类似《死亡搁浅》(Death Stranding) 的荒凉岩石景观\",\n  \"character\": {\n    \"identity\": \"{argument name=\\\"character identity\\\" default=\\\"孙悟空\\\"}\",\n    \"features\": \"猴脸，金箍，手持金箍棒\",\n    \"outfit\": \"带有黑色点缀的黄色外卖夹克，巨大的方形黑黄配色外卖背包\",\n    \"branding\": \"夹克和背包上有袋鼠标志及 {argument name=\\\"delivery company\\\" default=\\\"美团外卖\\\"} 文字\"\n  },\n  \"environment\": {\n    \"foreground\": \"带有溪流的岩石地形\",\n    \"background\": \"带有高大天线的未来主义圆形建筑，发光文字 {argument name=\\\"building name\\\" default=\\\"BRIDGES 配送中心\\\"}\"\n  },\n  \"layout\": {\n    \"ui_elements\": 7,\n    \"sections\": [\n      {\n        \"position\": \"左上角\",\n        \"type\": \"任务目标\",\n        \"text\": \"第 3 节：南部结点城 / {argument name=\\\"mission objective\\\" default=\\\"连接南部结点城，拓展开罗尔网络。\\\"} / [订单 No.12] 美团外卖配送：南部结点城 / 将外卖送达给收件人。\"\n      },\n      {\n        \"position\": \"中右侧\",\n        \"type\": \"目的地标记\",\n        \"text\": \"目的地 / 南部结点城 / 约 1.8 km\",\n        \"icon\": \"星形\"\n      },\n      {\n        \"position\": \"中心\",\n        \"type\": \"负重信息\",\n        \"text\": \"负重 / 28.5 kg / 125.0 kg\",\n        \"attached_to\": \"背包\"\n      },\n      {\n        \"position\": \"中右侧偏下\",\n        \"type\": \"订单信息\",\n        \"text\": \"订单信息 / [订单 No.12] / 配送物品：外卖 / 收件人：南部结点城·工作人员 / 时限：30:00 / 报酬：+198 ¥520\",\n        \"attached_to\": \"背包\"\n      },\n      {\n        \"position\": \"右下角\",\n        \"type\": \"操作提示\",\n        \"text\": \"移动 / 保持平衡 / 切换视角 / 打开终端\",\n        \"icons\": \"手柄按键\"\n      },\n      {\n        \"position\": \"底部中心\",\n        \"type\": \"字幕\",\n        \"text\": \"孙悟空： / {argument name=\\\"subtitle text\\\" default=\\\"俺老孙来也！这外卖也要送到西天去！\\\"}\"\n      },\n      {\n        \"position\": \"左下角\",\n        \"type\": \"HUD\",\n        \"elements\": \"蓝色生命值/体力条，十字键工具图标\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影级游戏 UI 样机：生成一张逼真的电子游戏截图，展示一名自定义角色在荒凉景观中的形象，并包含 7 个详细的 HUD 和任务 UI 元素。",
+      "subject": "文字符号",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic",
+        "3d"
+      ],
+      "lightingCamera": [
+        "overcast"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic, 3d]。\n\nLighting and camera:\n[参考光线镜头: overcast]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14451",
+      "15041",
+      "14227",
+      "15415",
+      "14452",
+      "14613"
+    ]
+  }
+}

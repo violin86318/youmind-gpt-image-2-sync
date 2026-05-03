@@ -1,0 +1,41 @@
+{
+  "id": "15176",
+  "prompt": "A {argument name=\"style\" default=\"museum-grade, high-end mural\"} inspired by the “Crying Dragon” of {argument name=\"location\" default=\"Nikko Toshogu Shrine\"}, painted on a circular dome ceiling. The composition is strictly centered, viewed from a worm’s-eye perspective, creating a powerful sense of sacred architectural depth.\n\nA dragon of overwhelming presence emerges from the exact center of the dome, its head directed downward toward the viewer. Its body, claws, and surrounding clouds radiate outward in a swirling motion, forming a dynamic circular explosion from the center.\n\nThe entire scene is enveloped within the dome structure, with subtle architectural curvature and faint boundary cues that further emphasize the immersive sensation of looking up into an overhead space.\n\nLighting: a soft, sacred glow emanates from the center, gradually fading into darkness toward the edges. Mist, cloud voids, and delicate negative space create a breathable, atmospheric sense of depth.",
+  "translatedPrompt": "一种受 {argument name=\"location\" default=\"日光东照宫\"} “鸣龙”启发的 {argument name=\"style\" default=\"博物馆级高端壁画\"}，绘制于圆形穹顶天花板上。构图严格居中，采用仰视视角，营造出强烈的神圣建筑深度感。\n\n一条极具压迫感的巨龙从穹顶正中心浮现，龙头直指下方的观者。其躯干、利爪及周围的云雾向外呈旋涡状辐射，形成一种从中心向外爆发的动态圆环。\n\n整个场景被包裹在穹顶结构中，细微的建筑弧度与隐约的边界提示，进一步强化了仰望头顶空间时的沉浸感。\n\n光影：柔和而神圣的光芒从中心散发，并向边缘逐渐隐入黑暗。雾气、云间空隙以及精致的留白，营造出一种通透且极具氛围感的深度。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "博物馆级“鸣龙”穹顶壁画：一款高端提示词，用于生成以传统日本神社艺术为灵感、带有神圣光影的居中圆形穹顶龙形壁画。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14408",
+      "14473",
+      "14474",
+      "14508",
+      "14538",
+      "14568"
+    ]
+  }
+}

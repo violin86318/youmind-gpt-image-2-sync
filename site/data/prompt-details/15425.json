@@ -1,0 +1,47 @@
+{
+  "id": "15425",
+  "prompt": "A realistic dark-mode social media screenshot styled like an X/Twitter post on a black interface. At the top left is a profile avatar, the display name {argument name=\"profile name\" default=\"Deedy\"} with a blue verification badge, and the handle {argument name=\"handle\" default=\"@deedydas\"}. On the top right is a large white Subscribe button and small interface icons. The post text reads {argument name=\"post text\" default=\"Bring real menus to life with pictures of the food\"}. Below the caption is a side-by-side comparison image of 2 menu pages placed on a warm wooden tabletop. The left page is a minimalist fine-dining menu on white paper with sparse elegant typography, the restaurant name {argument name=\"restaurant name\" default=\"Nari\"} in teal handwritten script near the top right, small section headings for first course and second course, and a short list of dish names with prices in a clean editorial layout. The bottom left of the page says “Thai. Inspired.” in loose script, and a small boxed chef’s pick note appears at the lower right. The right page is a transformed illustrated menu version of the same restaurant, keeping the same restaurant name in teal script at the top and the subtitle “Thai Inspired. Bold flavors. Fresh ingredients. Made with heart.” This page is richly decorated with painted tropical leaves, flowers, and scenic borders in cream, green, and warm earth tones. It contains 2 labeled sections, “first course” at the upper left and “second course” near the middle-lower area. The first course section shows 8 plated dishes in a vertical arrangement with dish names, short descriptions, and green circular price badges: caviar, gaeng gradang tod, pretty hot sweetbreads, som tum khao po, yum polamai, naea khao tod, miang pla, and khao tung & ngor. The second course section shows 8 plated dishes with the same treatment: caramelized fish sauce cabbage, kua kling moo, giang bumbai aubergine, gaeng som pla, massaman ge, gaeng kiew wan nuea, grilled pork jowl, and naemtok moo. Near the upper right center of the illustrated page is a warm lifestyle painting of 3 diners sharing food at a table outdoors. Every dish is shown as an appetizing overhead or three-quarter plated food photo-illustration integrated into the menu layout. At the very bottom of the full screenshot, the post metadata line reads “2:52 AM · Apr 22, 2026 · 16.6K Views”. The overall image should feel like a polished viral demo screenshot showing before-and-after menu design enhancement, highly legible, photoreal UI framing with detailed editorial food-menu artwork.",
+  "translatedPrompt": "一张逼真的深色模式社交媒体截图，采用 X/Twitter 风格的黑色界面。左上角是个人资料头像、显示名称 {argument name=\"profile name\" default=\"Deedy\"}（带有蓝色认证徽章）以及账号名 {argument name=\"handle\" default=\"@deedydas\"}。右上角是一个醒目的白色“订阅”按钮和小型界面图标。帖子正文为 {argument name=\"post text\" default=\"用美食图片让菜单活起来\"}。正文下方是一张并排对比图，展示了放在暖色调木质桌面上的 2 页菜单。左侧页面是一份极简主义的高级餐厅菜单，白色纸张上排版简洁优雅，右上角印有青色手写体餐厅名称 {argument name=\"restaurant name\" default=\"Nari\"}，并设有“第一道菜”和“第二道菜”的小标题，菜名和价格以清晰的编辑布局呈现。页面左下角印有草书风格的“Thai. Inspired.”字样，右下角有一个小方框标注着“主厨推荐”。右侧页面是同一家餐厅经过插画改造后的菜单版本，保留了顶部青色的餐厅名称，副标题改为“Thai Inspired. Bold flavors. Fresh ingredients. Made with heart.”。该页面装饰着丰富的热带叶片、花卉和风景边框，色调为奶油色、绿色和温暖的大地色。页面包含 2 个标注区域：左上方的“first course”和中下方的“second course”。第一道菜区域垂直排列了 8 道菜品，配有菜名、简短描述和绿色圆形价格标签，包括：caviar、gaeng gradang tod、pretty hot sweetbreads、som tum khao po、yum polamai、naea khao tod、miang pla 和 khao tung & ngor。第二道菜区域以同样方式展示了 8 道菜品：caramelized fish sauce cabbage、kua kling moo、giang bumbai aubergine、gaeng som pla、massaman ge、gaeng kiew wan nuea、grilled pork jowl 和 naemtok moo。插画页面右上角中心附近有一幅温馨的生活方式插画，描绘了 3 位食客在户外餐桌共享美食的场景。每道菜都以令人垂涎的俯视或 45 度角美食摄影插图形式融入菜单布局中。在完整截图的最底部，帖子元数据行显示为“2:52 AM · 2026 年 4 月 22 日 · 16.6K 次浏览”。整体图像应呈现出一种精美的爆款演示截图感，展示菜单设计的升级前后对比，界面清晰易读，并具有逼真的 UI 框架和细腻的编辑级美食菜单艺术效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "爆款推文：菜单改造前后对比：一张逼真的社交媒体截图，展示了一个经过认证的帖子，对比了普通餐厅菜单与精美插画版美食菜单，非常适合展示由 AI 驱动的菜单重设计效果。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "editorial",
+        "minimalist"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "B2B 产品概念图、后台系统、数据看板",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, editorial, minimalist]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15389",
+      "14446",
+      "15391",
+      "14322",
+      "14015",
+      "14627"
+    ]
+  }
+}

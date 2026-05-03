@@ -1,0 +1,58 @@
+{
+  "id": "14531",
+  "prompt": "{\"type\":\"four-panel Japanese TV drama and anime parody poster collage\",\"style\":\"polished cinematic key visuals, high-detail Japanese entertainment poster design, dramatic lighting, glossy typography, realistic-to-stylized mix depending on panel\",\"format\":\"2x2 grid collage with 4 distinct poster panels separated by thin borders\",\"panels\":[{\"position\":\"top-left\",\"title\":\"おじさん、JKになる。\",\"genre\":\"body-swap school drama\",\"subtitle\":\"これは、人生やり直しの物語…のはずで、全然約束してない物語。\",\"tagline\":\"娘と同じ学校へ転校!? しかもなぜか女子高生の見た目に!?\",\"subject\":\"a middle-aged man transformed into a Japanese high school girl, standing on a quiet suburban street lined with houses and cherry blossoms\",\"appearance\":\"shoulder-length dark brown bob haircut with soft bangs, sailor-style school uniform with white blouse, navy collar and cuffs, red necktie, navy pleated skirt, carrying a dark school bag over one shoulder\",\"pose\":\"three-quarter back view, turning to look toward camera with a calm, slightly uncertain expression\",\"environment\":\"spring morning, blue sky, utility poles, petals drifting in the air, soft cinematic depth of field\",\"text_bottom\":\"2025年7月5日(土)より放送開始! TOKYO MX 毎週土曜 22:30〜／BS11 毎週土曜 23:00〜 ほか\"},{\"position\":\"top-right\",\"title\":\"推しはおじさん!?\",\"genre\":\"idol makeover comedy\",\"subtitle\":\"〜最年長アイドル、推されてます〜\",\"tagline\":\"アイドルを夢見るのに、遅すぎることなんて…転生しませんとなんでないよね!?\",\"subject\":\"a middle-aged man reimagined as a cute pink idol girl in a dressing room\",\"appearance\":\"long wavy brown hair, pink floral hair accessory, frilly pink dress with lace trim and puff sleeves, soft makeup, holding a makeup brush near her face\",\"pose\":\"seated at a vanity, seen from behind and slightly to the side, looking into a mirror framed by glowing round bulbs\",\"environment\":\"warm backstage dressing room, tabletop crowded with cosmetics, perfume bottles, brushes, and small containers, golden mirror light reflecting on wood surfaces\",\"text_bottom\":\"2025年10月3日(金)より放送開始! AT-X 毎週金曜 21:30〜／TOKYO MX 毎週金曜 22:00〜 ほか\"},{\"position\":\"bottom-left\",\"title\":\"湯けむり女装旅\",\"genre\":\"hot spring travel drama\",\"subtitle\":\"しがない凡人、ひとり旅に出しました。\",\"tagline\":\"誰にも言えないけど、温泉はいつだって、わたしを癒してくれる。\",\"subject\":\"a middle-aged man presented as an elegant woman in traditional clothing at an outdoor hot spring\",\"appearance\":\"formal dark blue kimono with floral patterning, pale obi sash, traditional updo hairstyle with decorative flower ornament\",\"pose\":\"sitting upright on a rock by the water with hands folded neatly in lap, composed and reflective\",\"environment\":\"misty mountain onsen landscape, river stones, gentle steam, soft natural daylight, serene scenic background\",\"text_bottom\":\"2025年4月12日(土)より放送開始! BS日テレ 毎週土曜 22:00〜／テレビ愛知 毎週土曜 26:35〜 ほか\"},{\"position\":\"bottom-right\",\"title\":\"魔法少女 おじ☆マギカ\",\"genre\":\"dark magical girl fantasy parody\",\"subtitle\":\"〜中年、魔法少女はじめました〜\",\"tagline\":\"おじさんだって、世界を救ってみせる! 戦ってみせる!\",\"subject\":\"a middle-aged man transformed into a magical girl heroine in a fantasy battlefield\",\"appearance\":\"very long blonde twin-tail hair tied with pink ribbons, ornate pink magical girl dress with layered ruffles, white gloves, oversized bow at the chest, heart-shaped wand topped with gold ornament\",\"pose\":\"full-body heroic stance facing forward, holding the wand upright as if ready for battle\",\"environment\":\"dark purple fantasy sky, ominous creatures and floating eyes in the background, magical glow, intense dramatic contrast between cute costume and threatening surroundings\",\"text_bottom\":\"2025年1月10日(金)より放送開始! MBS 毎週金曜 25:53〜／TBS 毎週金曜 26:23〜 ほか\"}],\"layout\":{\"count\":4,\"reading_order\":[\"top-left\",\"top-right\",\"bottom-left\",\"bottom-right\"],\"shared_design\":\"each panel uses large vertical or stacked Japanese title typography, a central transformed character, thematic background matching the spoof genre, and bold release-date text along the bottom\",\"color_story\":[\"spring blue and navy\",\"warm pink and gold\",\"natural blue and gray\",\"pink against dark violet\"]}}",
+  "translatedPrompt": "{\"type\":\"四格日本电视剧与动画恶搞海报拼贴\",\"style\":\"精致的电影级主视觉设计，高细节的日本娱乐海报风格，戏剧性灯光，亮面排版，根据面板不同呈现从写实到风格化的混合效果\",\"format\":\"2x2 网格拼贴，包含 4 个由细边框分隔的独立海报面板\",\"panels\":[{\"position\":\"top-left\",\"title\":\"おじさん、JKになる。\",\"genre\":\"互换身体校园剧\",\"subtitle\":\"这是关于重获新生的故事……本该如此，却完全不是约定的那样。\",\"tagline\":\"转学到女儿的学校!? 而且不知为何变成了女高中生的模样!?\",\"subject\":\"一位中年大叔变身为日本女高中生，站在种满樱花树的宁静郊区街道上\",\"appearance\":\"齐肩深棕色波波头，带有柔和的刘海，水手服风格校服，白色衬衫，深蓝色领子和袖口，红色领带，深蓝色百褶裙，单肩背着深色书包\",\"pose\":\"四分之三侧背影，转头看向镜头，表情冷静且略显不安\",\"environment\":\"春日清晨，蓝天，电线杆，花瓣在空中飘落，柔和的电影级景深\",\"text_bottom\":\"2025 年 7 月 5 日（周六）起开播！TOKYO MX 每周六 22:30〜／BS11 每周六 23:00〜 等\"},{\"position\":\"top-right\",\"title\":\"推しはおじさん!?\",\"genre\":\"偶像改造喜剧\",\"subtitle\":\"〜最年长偶像，被推崇中〜\",\"tagline\":\"想要成为偶像，永远都不嫌晚……除非转生了，对吧!?\",\"subject\":\"一位中年大叔在化妆间被重塑为可爱的粉色系偶像少女\",\"appearance\":\"长卷棕发，粉色花朵发饰，带有蕾丝边和泡泡袖的粉色荷叶边裙，淡妆，手持化妆刷靠近脸部\",\"pose\":\"坐在梳妆台前，从背后及侧面视角拍摄，注视着被明亮圆灯环绕的镜子\",\"environment\":\"温暖的后台化妆间，桌上摆满了化妆品、香水瓶、刷子和小容器，金色的镜面光反射在木质表面上\",\"text_bottom\":\"2025 年 10 月 3 日（周五）起开播！AT-X 每周五 21:30〜／TOKYO MX 每周五 22:00〜 等\"},{\"position\":\"bottom-left\",\"title\":\"湯けむり女装旅\",\"genre\":\"温泉旅行剧\",\"subtitle\":\"平凡无奇的普通人，踏上了独自旅行。\",\"tagline\":\"虽然无法对人言说，但温泉总是能治愈我。\",\"subject\":\"一位中年大叔在户外温泉中化身为身着传统服饰的优雅女性\",\"appearance\":\"正式的深蓝色花纹和服，浅色腰带，带有装饰性花朵发饰的传统盘发\",\"pose\":\"双手整齐地叠放在膝盖上，端坐在水边的岩石上，神态沉稳且若有所思\",\"environment\":\"雾气缭绕的温泉山景，河石，轻柔的蒸汽，柔和的自然日光，宁静的风景背景\",\"text_bottom\":\"2025 年 4 月 12 日（周六）起开播！BS 日テレ 每周六 22:00〜／爱知电视台 每周六 26:35〜 等\"},{\"position\":\"bottom-right\",\"title\":\"魔法少女 おじ☆マギカ\",\"genre\":\"暗黑魔法少女奇幻恶搞\",\"subtitle\":\"〜中年，开启魔法少女生涯〜\",\"tagline\":\"大叔我也能拯救世界！我也能战斗！\",\"subject\":\"一位中年大叔在奇幻战场中变身为魔法少女英雄\",\"appearance\":\"极长的金色双马尾，系着粉色丝带，华丽的粉色魔法少女裙，层叠的荷叶边，白色手套，胸前有巨大的蝴蝶结，手持顶部带有金色装饰的心形魔杖\",\"pose\":\"全身英雄姿态面向前方，高举魔杖，仿佛准备战斗\",\"environment\":\"深紫色奇幻天空，背景中有不祥的生物和漂浮的眼睛，魔法光芒，可爱的服装与威胁性的环境形成强烈的戏剧性对比\",\"text_bottom\":\"2025 年 1 月 10 日（周五）起开播！MBS 每周五 25:53〜／TBS 每周五 26:23〜 等\"}],\"layout\":{\"count\":4,\"reading_order\":[\"top-left\",\"top-right\",\"bottom-left\",\"bottom-right\"],\"shared_design\":\"每个面板均使用大型垂直或堆叠的日文标题排版，中心为变身后的角色，背景主题与恶搞类型相符，底部有醒目的开播日期文本\",\"color_story\":[\"春日蓝与海军蓝\",\"暖粉与金\",\"自然蓝与灰\",\"粉色与深紫色的对比\"]}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "四款日本大叔恶搞海报：这是一组 2x2 的仿日本电视节目与动画海报拼贴，展示了一位中年大叔变身为不同女性类型角色的形象，非常适合作为恶搞主视觉图和社交媒体宣传图。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "full-body",
+        "grid",
+        "2x2",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "anime",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "dramatic lighting",
+        "depth of field",
+        "camera"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body, grid, 2x2, layered, vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic, anime, fantasy]。\n\nLighting and camera:\n[参考光线镜头: dramatic lighting, depth of field, camera]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14413",
+      "14404",
+      "14527",
+      "14955",
+      "15367",
+      "14607"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "14979",
+  "prompt": "{\"type\":\"anime character reference sheet\",\"style\":\"highly polished cyberpunk streetwear concept art, clean white background, sharp linework, cel-shaded anime rendering, product-design presentation layout, black white and red graphic branding with light blue hair accents\",\"character\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"KIKYO\\\"}\",\"species\":\"elf cyborg girl\",\"age_appearance\":\"teenage-looking\",\"build\":\"petite and slim\",\"height_note\":\"142 cm shown in profile text\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"pale cyan blue\\\"}\",\"cut\":\"short blunt bob with straight bangs, slightly curved inward ends\",\"accessories\":[\"black hair clip with red 04 and a small cat face emblem on the left side\"]},\"face\":{\"eyes\":\"red, half-lidded, slightly sleepy and cool expression\",\"ears\":\"very long pointed elf ears extending horizontally\",\"expression\":\"calm, aloof, faintly pouty\"},\"outfit\":{\"main_layers\":[\"oversized white techwear jacket with black inner lining, straps, printed labels, and red accent tabs\",\"black glossy cybernetic bodysuit with mechanical panels and exposed tech components around the torso and hips\",\"black thigh strap on the left leg\",\"large black and white high-top platform sneakers with thick soles, buckles, laces, and red 04 markings\"]},\"cybernetics\":{\"legs\":\"both legs partially mechanical, especially the right leg with exposed joints, pistons, cables, and a black equipment module strapped to the thigh and shin\",\"hip_details\":\"hanging circular mechanical components and wires at the waist and upper thighs\",\"arm_details\":\"subtle black cybernetic detailing under the jacket sleeves\"},\"props\":[\"red hanging tag with white Japanese text and 04 attached at the chest\",\"black utility pouch on the right thigh with skull icon, QR-style graphic, and patches\"]},\"layout\":{\"background\":\"flat light gray-white\",\"left_panel\":{\"count\":10,\"items\":[\"large red 04 at top left\",\"PROJECT: ELF with smaller Japanese subtitle beneath\",\"black cat skull logo icon\",\"KIKYO street / cyber / elf brand block\",\"barcode with ELF-04-KIKYO text\",\"small warning-style square label\",\"triangular 04 symbol\",\"red Japanese name tag block\",\"system log text block listing ID, race, class, height, weight, affiliation\",\"small warning label at bottom\"]},\"centerpiece\":\"one large full-body front-facing character illustration, standing with one knee slightly bent and hands hidden in jacket pockets\",\"top_right_turnaround\":{\"title\":\"TURNAROUND\",\"count\":3,\"views\":[\"FRONT\",\"SIDE\",\"BACK\"]},\"mid_right_details\":{\"title\":\"DETAILS\",\"count\":4,\"items\":[\"close-up of jacket chest area with KIKYO text and QR-style patch\",\"close-up of red hanging tag with Japanese text and 04\",\"close-up of bodysuit pelvis and hip cybernetics\",\"close-up of black thigh utility pouch with skull graphic and patches\"]},\"bottom_right_graphics\":{\"title\":\"GRAPHIC LANGUAGE\",\"count\":15,\"items\":[\"large red 04\",\"black cat skull logo\",\"stylized K mark\",\"diagonal stripe block\",\"bold KIKYO wordmark\",\"small circular cat face icon\",\"barcode label with ELF-04-KIKYO\",\"red Japanese name block\",\"KIKYO street + cyber + elf text block\",\"small mechanical icon\",\"small red 04 graphic tile\",\"arrow/chevron symbol block\",\"warning text block with red triangle\",\"crossed tools or X symbol\",\"black rectangular Japanese logo block plus a small 04 tile\"]}},\"color_palette\":{\"count\":5,\"colors\":[\"light gray-white background\",\"pale cyan blue hair\",\"black bodysuit and accessories\",\"white jacket panels\",\"red accents and typography\"]},\"composition\":\"editorial character design board with the largest figure on the left occupying about two-thirds height, supporting reference views and callout boxes aligned on the right, dense branding scattered around the margins\",\"text_style\":\"mix of bold sans-serif English labels and Japanese graphic text, crisp printed layout, futuristic fashion-spec sheet aesthetic\"}",
+  "translatedPrompt": "{\"type\":\"动漫角色设定集\",\"style\":\"高质感赛博朋克街头风概念艺术，纯净白色背景，线条锐利，赛璐珞动漫渲染，产品设计展示布局，黑白红图形品牌标识，搭配浅蓝色发色点缀\",\"character\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"KIKYO\\\"}\",\"species\":\"精灵赛博格少女\",\"age_appearance\":\"青少年外貌\",\"build\":\"娇小纤细\",\"height_note\":\"侧视图标注 142 cm\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"浅青蓝色\\\"}\",\"cut\":\"短款齐刘海波波头，发尾微内扣\",\"accessories\":[\"左侧黑色发夹，带有红色 04 字样及小型猫脸徽章\"]},\"face\":{\"eyes\":\"红色，半睁眼，神情略显慵懒冷酷\",\"ears\":\"极长的尖精灵耳，向水平方向延伸\",\"expression\":\"冷静、疏离、微微嘟嘴\"},\"outfit\":{\"main_layers\":[\"超大款白色机能风夹克，配黑色内衬、绑带、印花标签及红色装饰片\",\"黑色亮面赛博格紧身衣，躯干和臀部周围带有机械面板及外露科技组件\",\"左腿黑色大腿绑带\",\"黑白配色高帮厚底运动鞋，配有搭扣、鞋带及红色 04 标记\"]},\"cybernetics\":{\"legs\":\"双腿部分机械化，特别是右腿，露出关节、活塞、线缆，大腿和小腿处绑有黑色装备模块\",\"hip_details\":\"腰部和上大腿处悬挂圆形机械组件及线缆\",\"arm_details\":\"夹克袖口下隐约可见黑色赛博格细节\"},\"props\":[\"胸前悬挂红色吊牌，印有白色日文及 04 字样\",\"右大腿黑色多功能袋，带有骷髅图标、二维码风格图形及补丁\"]},\"layout\":{\"background\":\"平铺浅灰白色\",\"left_panel\":{\"count\":10,\"items\":[\"左上角大型红色 04\",\"PROJECT: ELF 及下方较小的日文副标题\",\"黑色猫骷髅标志图标\",\"KIKYO 街头/赛博/精灵品牌块\",\"带有 ELF-04-KIKYO 字样的条形码\",\"小型警示风格方形标签\",\"三角形 04 符号\",\"红色日文名牌块\",\"系统日志文本块，列出 ID、种族、职业、身高、体重、所属\",\"底部小型警示标签\"]},\"centerpiece\":\"一幅大型全身正面角色插画，单膝微屈，双手插在夹克口袋中\",\"top_right_turnaround\":{\"title\":\"三视图\",\"count\":3,\"views\":[\"正面\",\"侧面\",\"背面\"]},\"mid_right_details\":{\"title\":\"细节\",\"count\":4,\"items\":[\"夹克胸部区域特写，含 KIKYO 字样及二维码风格补丁\",\"红色吊牌特写，含日文及 04 字样\",\"紧身衣骨盆及臀部赛博格细节特写\",\"黑色大腿多功能袋特写，含骷髅图形及补丁\"]},\"bottom_right_graphics\":{\"title\":\"图形语言\",\"count\":15,\"items\":[\"大型红色 04\",\"黑色猫骷髅标志\",\"风格化 K 标记\",\"斜条纹块\",\"粗体 KIKYO 字标\",\"小型圆形猫脸图标\",\"带有 ELF-04-KIKYO 的条形码标签\",\"红色日文名牌块\",\"KIKYO 街头 + 赛博 + 精灵文本块\",\"小型机械图标\",\"小型红色 04 图形块\",\"箭头/人字形符号块\",\"带有红色三角形的警示文本块\",\"交叉工具或 X 符号\",\"黑色矩形日文标志块及小型 04 块\"]}},\"color_palette\":{\"count\":5,\"colors\":[\"浅灰白色背景\",\"浅青蓝色头发\",\"黑色紧身衣及配饰\",\"白色夹克面板\",\"红色点缀及排版\"]},\"composition\":\"编辑类角色设计项目，左侧最大的人物占据约三分之二高度，右侧对齐排列参考视图及标注框，边缘散布密集的品牌元素\",\"text_style\":\"粗体无衬线英文标签与日文图形文本混合，排版清晰，具有未来时尚规格书美感\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "赛博精灵少女设定集：一份精致的动漫风格角色设计项目，展示了一位娇小的赛博朋克精灵少女，包含三视图、细节特写面板以及用于概念艺术或角色创作的品牌图形元素。",
+      "subject": "文字符号",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "full-body",
+        "front-facing",
+        "callout",
+        "horizontal"
+      ],
+      "style": [
+        "editorial",
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, full-body, front-facing, callout, horizontal]。\n\nVisual style:\n[参考风格: editorial, anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15675",
+      "15415",
+      "14404",
+      "14607",
+      "15364",
+      "14445"
+    ]
+  }
+}

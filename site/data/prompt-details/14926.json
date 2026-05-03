@@ -1,0 +1,48 @@
+{
+  "id": "14926",
+  "prompt": "{\"type\":\"historical manga page\",\"style\":\"dramatic Japanese comic illustration in a polished modern digital ink-and-color style, set in the late Edo Bakumatsu period\",\"format\":\"single page with 6 panels in a 2-column layout\",\"theme\":\"an anecdotal conversation between two samurai in a dojo, mixing serious historical dialogue with light comedic correction\",\"setting\":{\"location\":\"traditional Japanese dojo interior\",\"details\":[\"wooden plank floor with warm reflections\",\"timber beams and plaster walls\",\"shoji windows\",\"a hanging vertical scroll in the background reading 武士道\",\"low wooden weapon racks near the back wall\"],\"time\":\"daytime indoor ambient light\"},\"characters\":[{\"role\":\"speaker 1\",\"identity\":\"young Bakumatsu samurai resembling {argument name=\\\"character name\\\" default=\\\"Nakaoka Shintaro\\\"}\",\"appearance\":{\"gender\":\"male\",\"build\":\"slim to average\",\"hair\":\"dark brown samurai topknot with loose strands\",\"kimono\":\"deep green haori and kimono with white family crests and white cord ornaments\",\"hakama\":\"dark gray\",\"sword\":\"katana at the waist\"}},{\"role\":\"speaker 2\",\"identity\":\"young Bakumatsu samurai resembling {argument name=\\\"second character\\\" default=\\\"Sakamoto Ryoma\\\"}\",\"appearance\":{\"gender\":\"male\",\"build\":\"average\",\"hair\":\"dark brown tousled samurai hairstyle\",\"kimono\":\"bright blue haori and kimono with white family crests and white cord ornaments\",\"hakama\":\"gray\",\"sword\":\"katana at the waist\"}}],\"layout\":{\"panels\":[{\"position\":\"top-left\",\"count\":1,\"scene\":\"close two-shot, green-clad samurai in left foreground and blue-clad samurai seated beside him, both on the dojo floor\",\"text\":[\"おんしゃ、幕に容赦ない諫言する藤房卿みたいじゃ！\"]},{\"position\":\"top-right\",\"count\":1,\"scene\":\"wider two-shot of both samurai kneeling and facing each other in the dojo\",\"text\":[\"その話を聞いた土佐の道場で\",\"ほー？…\"]},{\"position\":\"middle-left\",\"count\":1,\"scene\":\"tight conversational panel, blue-clad samurai raises one finger while reacting\",\"text\":[\"よっ、藤房卿！\"]},{\"position\":\"middle-right\",\"count\":1,\"scene\":\"close-up of the green-clad samurai scratching the back of his neck awkwardly\",\"text\":[\"なんちゃあせん\"]},{\"position\":\"bottom-left\",\"count\":1,\"scene\":\"blue-clad samurai flustered, both hands partly raised, comedic vertical note box on the left\",\"text\":[\"な、なんで知っちょるがよ！\",\"坂本龍馬は元治元年の手紙で、新田義貞を引き合いに出しているが名前を間違えている（可愛い）\",\"新田忠常って書いた人（1864年6月28日）\"]},{\"position\":\"bottom-right\",\"count\":1,\"scene\":\"dramatic bust shot of the green-clad samurai with arms folded, radiant speed-line background, stern expression\",\"text\":[\"おんしは、新田義貞の名前を間違うたくせに\",\"藤房卿は覚えちょるんか\",\"ナカオカー!!!\"]}],\"total_panels\":6},\"visual_direction\":{\"camera\":\"alternates between medium two-shots and expressive close-ups\",\"mood\":\"earnest historical drama with humorous punchline\",\"effects\":[\"clean black panel borders\",\"manga speech balloons\",\"one explanatory rectangular narration box\",\"orange and blue emphasis lines in reaction panels\",\"large stylized sound-effect text in final panel\",\"warm brown and amber interior palette contrasted with green and blue robes\"]},\"quality\":\"highly detailed anime manga page, crisp line art, expressive gestures, readable Japanese comic lettering, historically inspired costume design\"}",
+  "translatedPrompt": "{\"type\":\"历史漫画页面\",\"style\":\"具有现代精致数字水墨与色彩风格的戏剧性日式漫画插画，背景设定在江户幕末时期\",\"format\":\"单页 6 格，采用 2 列布局\",\"theme\":\"两位武士在道场中的轶事对话，融合了严肃的历史对白与轻快的喜剧式纠正\",\"setting\":{\"location\":\"传统的日式道场内部\",\"details\":[\"带有暖色反光的木地板\",\"木梁与灰泥墙\",\"障子窗\",\"背景中悬挂着写有“武士道”的竖幅卷轴\",\"后墙附近有低矮的木制武器架\"],\"time\":\"日间室内环境光\"},\"characters\":[{\"role\":\"说话者 1\",\"identity\":\"年轻的幕末武士，外貌类似于 {argument name=\\\"character name\\\" default=\\\"中冈慎太郎\\\"}\",\"appearance\":{\"gender\":\"男性\",\"build\":\"身材偏瘦至中等\",\"hair\":\"深棕色武士发髻，带有几缕散落的发丝\",\"kimono\":\"深绿色羽织与和服，带有白色家纹和白色绳结装饰\",\"hakama\":\"深灰色\",\"sword\":\"腰间佩戴武士刀\"}},{\"role\":\"说话者 2\",\"identity\":\"年轻的幕末武士，外貌类似于 {argument name=\\\"second character\\\" default=\\\"坂本龙马\\\"}\",\"appearance\":{\"gender\":\"男性\",\"build\":\"中等身材\",\"hair\":\"深棕色凌乱的武士发型\",\"kimono\":\"亮蓝色羽织与和服，带有白色家纹和白色绳结装饰\",\"hakama\":\"灰色\",\"sword\":\"腰间佩戴武士刀\"}}],\"layout\":{\"panels\":[{\"position\":\"左上\",\"count\":1,\"scene\":\"近景双人镜头，身着绿衣的武士在左侧前景，身着蓝衣的武士坐在他身旁，两人均坐在道场地板上\",\"text\":[\"おんしゃ、幕に容赦ない諫言する藤房卿みたいじゃ！\"]},{\"position\":\"右上\",\"count\":1,\"scene\":\"两位武士在道场中跪坐并面对面的广角双人镜头\",\"text\":[\"その話を聞いた土佐の道場で\",\"ほー？…\"]},{\"position\":\"中左\",\"count\":1,\"scene\":\"紧凑的对话格，身着蓝衣的武士举起一根手指做出反应\",\"text\":[\"よっ、藤房卿！\"]},{\"position\":\"中右\",\"count\":1,\"scene\":\"身着绿衣的武士尴尬地挠着后颈的特写\",\"text\":[\"なんちゃあせん\"]},{\"position\":\"左下\",\"count\":1,\"scene\":\"身着蓝衣的武士显得慌乱，双手半举，左侧带有喜剧性的竖排注释框\",\"text\":[\"な、なんで知っちょるがよ！\",\"坂本龍馬は元治元年の手紙で、新田義貞を引き合いに出しているが名前を間違えている（可愛い）\",\"新田忠常って書いた人（1864年6月28日）\"]},{\"position\":\"右下\",\"count\":1,\"scene\":\"身着绿衣的武士双臂交叉的戏剧性半身像，背景为放射状速度线，表情严肃\",\"text\":[\"おんしは、新田義貞の名前を間違うたくせに\",\"藤房卿は覚えちょるんか\",\"ナカオカー!!!\"]}],\"total_panels\":6},\"visual_direction\":{\"camera\":\"在中景双人镜头与富有表现力的特写镜头之间切换\",\"mood\":\"严肃的历史剧与幽默的笑点\",\"effects\":[\"干净的黑色分镜边框\",\"漫画对话气泡\",\"一个解释性的矩形旁白框\",\"反应格中橙色与蓝色的强调线\",\"最后一格中巨大的风格化拟声词文字\",\"暖棕色与琥珀色的室内色调，与绿色和蓝色的长袍形成对比\"],\"quality\":\"高度精细的动画漫画页面，清晰的线条，生动的姿态，易读的日式漫画字体，具有历史感的服装设计\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "幕末武士道场漫画页面：一页六格历史漫画，展示了两位幕末时期的武士在木质道场中交谈，适用于故事插画、社交媒体发布或历史漫画场景。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up",
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "manga"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "要求可读",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, vertical]。\n\nVisual style:\n[参考风格: anime, manga]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n要求可读。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15319",
+      "15285",
+      "14488",
+      "15641",
+      "14173",
+      "14437"
+    ]
+  }
+}

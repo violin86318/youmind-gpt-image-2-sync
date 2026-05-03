@@ -1,0 +1,52 @@
+{
+  "id": "15795",
+  "prompt": "Create a modern government program landing page UI mockup for Indonesia in a clean, professional web design style, desktop widescreen aspect ratio. The page uses a white background with bold red accents, soft rounded corners, subtle gray dividers, and a polished frontend-dribbble presentation look. At the very top, build a horizontal navigation bar with 6 visible elements: the Indonesian Garuda emblem and the text \"PEMERINTAH REPUBLIK INDONESIA\" on the left, then 4 centered menu items labeled \"Program\", \"Dampak\", \"Menu\", and \"Pemantauan\", and on the far right a large red rounded button labeled \"Program MBG\" with a small people icon. Below it, design a hero section split into two columns. On the left, show a small program label line with a red bowl icon, the text \"MBG\", a vertical divider, and \"Makan Bergizi Gratis\". Under that, place a large bold headline reading \"{argument name=\"headline text\" default=\"Makan Bergizi, Anak Indonesia Kuat\"}\" in dark navy, spanning 3 lines. Add a short paragraph in Indonesian below: \"Program MBG mendukung gizi harian siswa SD dan SMP melalui menu seimbang, pemantauan sekolah, dan laporan dampak yang transparan.\" Then place 2 call-to-action buttons side by side: a solid red button labeled \"Lihat Dampak\" with a right arrow, and an outlined white button with red border labeled \"Panduan Sekolah\" with a right arrow. On the right side of the hero, place a rounded large photo-style image framed by a sweeping white curved divider and red corner background. The image shows an Indonesian elementary classroom with 5 visible schoolchildren in white uniforms with red ties, seated at desks, warm daylight from windows, shallow depth of field, documentary-photo realism. In the foreground, on a wooden desk, show a stainless steel compartment tray meal with exactly 5 food items: white rice, mixed vegetables, a piece of fried chicken, a banana, and watermelon cubes. Beside the tray, place 1 milk carton labeled \"SUSU SEGAR\". Under the hero, add a full-width red statistics band with 4 equally spaced metric cards separated by thin vertical dividers. Each card has a white circular icon and bold white text. The 4 metrics are: \"245.000+\" with label \"Sekolah Terlayani\", \"8,7 Juta+\" with label \"Siswa Penerima Manfaat\", \"1,2 Miliar+\" with label \"Porsi Disalurkan\", and \"98,6%\" with label \"Kepuasan Siswa\". At the bottom center, add a 3-dot carousel indicator with the left dot active in red and the other 2 dots gray. Include a faint Indonesia map texture in the lower-left background. Use crisp typography, generous whitespace, high-end fintech/government website aesthetics, realistic UI proportions, and a production-ready landing page mockup appearance.",
+  "translatedPrompt": "为印尼政府项目创建一个现代化的落地页 UI 模型，采用简洁、专业的网页设计风格，适配桌面宽屏比例。页面背景为白色，搭配醒目的红色点缀、柔和的圆角设计、细腻的灰色分割线，呈现出精致的 Dribbble 前端展示风格。在页面最上方，构建一个水平导航栏，包含 6 个可见元素：左侧为印尼 Garuda 国徽及文字“PEMERINTAH REPUBLIK INDONESIA”，中间为 4 个菜单项，标签分别为“Program”、“Dampak”、“Menu”和“Pemantauan”，最右侧是一个带有小型人物图标的红色大圆角按钮，标签为“Program MBG”。在下方设计一个双栏布局的首屏区域。左侧显示一行小型程序标签，包含一个红色碗状图标、文字“MBG”、一条垂直分割线以及“Makan Bergizi Gratis”。下方放置一个醒目的大标题，内容为“{argument name=\"headline text\" default=\"Makan Bergizi, Anak Indonesia Kuat\"}”，采用深蓝色，跨越 3 行。在下方添加一段印尼语短文：“Program MBG mendukung gizi harian siswa SD dan SMP melalui menu seimbang, pemantauan sekolah, dan laporan dampak yang transparan。”接着并排放置 2 个行动号召按钮：一个带有向右箭头的红色实心按钮，标签为“Lihat Dampak”；以及一个带有红色边框的白色轮廓按钮，标签为“Panduan Sekolah”，同样带有向右箭头。在首屏右侧，放置一张圆角大型照片风格的图片，由弧形白色分割线和红色背景角框定。图片展示了一间印尼小学教室，画面中有 5 名身穿白衣红领带校服的小学生坐在课桌前，窗外透进温暖的日光，景深较浅，具有纪录片式的写实感。在前景的木质课桌上，展示一个不锈钢分格餐盘，内含 5 种食物：白米饭、什锦蔬菜、一块炸鸡、一根香蕉和西瓜块。餐盘旁放置一盒标签为“SUSU SEGAR”的牛奶。在首屏下方，添加一个全宽的红色统计数据栏，包含 4 个等间距的指标卡片，由细垂直线分隔。每个卡片配有一个白色圆形图标和加粗的白色文字。4 个指标分别为：“245.000+”对应标签“Sekolah Terlayani”，“8,7 Juta+”对应标签“Siswa Penerima Manfaat”，“1,2 Miliar+”对应标签“Porsi Disalurkan”，以及“98,6%”对应标签“Kepuasan Siswa”。在底部中心添加一个 3 点式轮播指示器，左侧圆点为红色激活状态，其余 2 个为灰色。在左下角背景中加入淡淡的印尼地图纹理。使用清晰的排版、充裕的留白、高端金融科技/政府网站美学、真实的 UI 比例，打造一个可直接用于生产环境的落地页模型。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "印尼学校营养计划落地页：一个为印尼 MBG 学校营养计划设计的精美桌面端网站首屏模型，适用于政府、公民科技或前端设计展示。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "centered",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": "得分 71；构图: centered, vertical, horizontal；风格: realistic, documentary；要求精确文字；包含标注/说明；文字是主视觉"
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, documentary]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14891",
+      "15714",
+      "14581",
+      "13905",
+      "14008",
+      "14435"
+    ]
+  }
+}

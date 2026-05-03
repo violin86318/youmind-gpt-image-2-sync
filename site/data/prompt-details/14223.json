@@ -1,0 +1,40 @@
+{
+  "id": "14223",
+  "prompt": "An anime-style promotional illustration of 3 characters running forward dynamically amidst a joyful painting scene under a bright blue sky with fluffy clouds. On the left, a blonde young woman in an elegant white ruffled dress and gloves smiles brightly, holding a paintbrush dripping with pink paint. In the center, a black-haired young man in blue overalls and a black t-shirt looks excited, holding a roll of masking tape and a green paint roller. On the right, an older laughing man wears dark traditional Japanese work clothes with a white towel around his neck. Colorful paint splatters fly through the air alongside floating props including 2 paint buckets, 2 paintbrushes, and 2 rolls of masking tape. At the top is a stylized title logo reading {argument name=\"main title\" default=\"お嬢様は塗装を知らない\"} decorated with paint splatters. Below it is a banner ribbon reading {argument name=\"subtitle\" default=\"清楚なお嬢様 × 塗装男子\"}. At the bottom, a bold tagline reads {argument name=\"bottom tagline\" default=\"未知の世界でふたりの距離が縮まっていく…！\"}. The style features vibrant colors and a light novel cover aesthetic.",
+  "translatedPrompt": "An anime-style promotional illustration of 3 characters running forward dynamically amidst a joyful painting scene under a bright blue sky with fluffy clouds. On the left, a blonde young woman in an elegant white ruffled dress and gloves smiles brightly, holding a paintbrush dripping with pink paint. In the center, a black-haired young man in blue overalls and a black t-shirt looks excited, holding a roll of masking tape and a green paint roller. On the right, an older laughing man wears dark traditional Japanese work clothes with a white towel around his neck. Colorful paint splatters fly through the air alongside floating props including 2 paint buckets, 2 paintbrushes, and 2 rolls of masking tape. At the top is a stylized title logo reading {argument name=\"main title\" default=\"お嬢様は塗装を知らない\"} decorated with paint splatters. Below it is a banner ribbon reading {argument name=\"subtitle\" default=\"清楚なお嬢様 × 塗装男子\"}. At the bottom, a bold tagline reads {argument name=\"bottom tagline\" default=\"未知の世界でふたりの距離が縮まっていく…！\"}. The style features vibrant colors and a light novel cover aesthetic.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Anime Light Novel Cover with Painters：Generates a vibrant anime-style promotional illustration featuring characters painting, complete with stylized Japanese title logos and taglines.",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13682",
+      "13796",
+      "13936",
+      "13998",
+      "14003",
+      "14203"
+    ]
+  }
+}

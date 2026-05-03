@@ -1,0 +1,46 @@
+{
+  "id": "13820",
+  "prompt": "{\n  \"type\": \"desktop video platform UI mockup\",\n  \"theme\": \"dark mode\",\n  \"header\": {\n    \"logo\": \"YouTube IN\",\n    \"search_bar\": \"centered, with magnifying glass icon\",\n    \"right_icons\": {\n      \"count\": 4,\n      \"items\": [\"microphone\", \"+ Create button\", \"notifications bell\", \"user profile picture\"]\n    }\n  },\n  \"video_player\": {\n    \"scene\": \"Studio setting with two tech reviewers at a desk.\",\n    \"subjects\": [\n      \"{argument name=\\\"left person\\\" default=\\\"Marques Brownlee (MKBHD)\\\"} in black t-shirt\",\n      \"{argument name=\\\"right person\\\" default=\\\"Arun Maini (Mrwhosetheboss)\\\"} in green overshirt\",\n      \"{argument name=\\\"robot model\\\" default=\\\"Tesla Optimus humanoid robot\\\"} standing between them\"\n    ],\n    \"props\": [\"black mug with logo\", \"background screen with glowing blue neon M logo\"],\n    \"controls_bar\": {\n      \"progress_bar\": \"red, near the beginning\",\n      \"timestamp\": \"0:01 / 18:47\",\n      \"left_icons\": {\n        \"count\": 3,\n        \"items\": [\"play/pause\", \"next track\", \"volume\"]\n      },\n      \"right_icons\": {\n        \"count\": 6,\n        \"items\": [\"CC\", \"settings with 4K badge\", \"miniplayer\", \"theater mode\", \"cast\", \"fullscreen\"]\n      }\n    }\n  },\n  \"video_details\": {\n    \"title\": \"{argument name=\\\"video title\\\" default=\\\"Tesla Optimus Robot Review: Futures Are Here!\\\"}\",\n    \"channel_info\": {\n      \"name\": \"{argument name=\\\"channel name\\\" default=\\\"Mrwhosetheboss\\\"}\",\n      \"badges\": [\"verified checkmark\"],\n      \"subscribers\": \"20.5M subscribers\",\n      \"button\": \"white Subscribe button\"\n    },\n    \"action_buttons\": {\n      \"count\": 6,\n      \"items\": [\"Like (215K) / Dislike (4.2K) pill\", \"Share\", \"Download\", \"Clip\", \"Save\", \"More (...)\"]\n    }\n  },\n  \"description_box\": {\n    \"metadata\": \"3,278,456 views Apr 12, 2024 #7 on Trending\",\n    \"text\": \"MKBHD & I review Tesla's Optimus humanoid robot. We cover the design, walk, AI, hands-on & what it means for the future!\",\n    \"links\": [\"Marques's Channel: @mkbhd\"]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"桌面视频平台 UI 模型\",\n  \"theme\": \"深色模式\",\n  \"header\": {\n    \"logo\": \"YouTube IN\",\n    \"search_bar\": \"居中，带有放大镜图标\",\n    \"right_icons\": {\n      \"count\": 4,\n      \"items\": [\"麦克风\", \"+ 创建按钮\", \"通知铃铛\", \"用户头像\"]\n    }\n  },\n  \"video_player\": {\n    \"scene\": \"演播室场景，两位科技博主坐在桌前。\",\n    \"subjects\": [\n      \"{argument name=\\\"left person\\\" default=\\\"Marques Brownlee (MKBHD)\\\"} 身穿黑色 T 恤\",\n      \"{argument name=\\\"right person\\\" default=\\\"Arun Maini (Mrwhosetheboss)\\\"} 身穿绿色衬衫\",\n      \"{argument name=\\\"robot model\\\" default=\\\"Tesla Optimus 人形机器人\\\"} 站在他们中间\"\n    ],\n    \"props\": [\"带有 Logo 的黑色马克杯\", \"带有发光蓝色霓虹 M Logo 的背景屏幕\"],\n    \"controls_bar\": {\n      \"progress_bar\": \"红色，接近起始位置\",\n      \"timestamp\": \"0:01 / 18:47\",\n      \"left_icons\": {\n        \"count\": 3,\n        \"items\": [\"播放/暂停\", \"下一首\", \"音量\"]\n      },\n      \"right_icons\": {\n        \"count\": 6,\n        \"items\": [\"CC 字幕\", \"带有 4K 标志的设置\", \"迷你播放器\", \"影院模式\", \"投屏\", \"全屏\"]\n      }\n    }\n  },\n  \"video_details\": {\n    \"title\": \"{argument name=\\\"video title\\\" default=\\\"Tesla Optimus 机器人评测：未来已来！\\\"}\",\n    \"channel_info\": {\n      \"name\": \"{argument name=\\\"channel name\\\" default=\\\"Mrwhosetheboss\\\"}\",\n      \"badges\": [\"认证勾选标记\"],\n      \"subscribers\": \"2050 万订阅者\",\n      \"button\": \"白色订阅按钮\"\n    },\n    \"action_buttons\": {\n      \"count\": 6,\n      \"items\": [\"点赞 (21.5 万) / 点踩 (4200) 胶囊按钮\", \"分享\", \"下载\", \"剪辑\", \"保存\", \"更多 (...)\"]\n    }\n  },\n  \"description_box\": {\n    \"metadata\": \"3,278,456 次观看 2024 年 4 月 12 日 热门趋势第 7 名\",\n    \"text\": \"MKBHD 和我一起评测 Tesla 的 Optimus 人形机器人。我们涵盖了设计、行走、AI、实测以及它对未来的意义！\",\n    \"links\": [\"Marques 的频道: @mkbhd\"]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "YouTube 视频界面模型：生成逼真的桌面版 YouTube 界面，包含科技评测视频，支持自定义主持人、机器人主体及视频元数据。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "studio"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: studio]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15096",
+      "14236",
+      "15094",
+      "14438",
+      "14600",
+      "14669"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13973",
+  "prompt": "\"{argument name=\"标题\" default=\"宋朝人的朋友圈\"}\"/\"SONG DYNASTY SOCIAL MEDIA FEED\"，古今穿越幽默融合界面设计风格，画面模拟手机社交媒体界面，但内容全部是宋朝场景头像是宋代文人画像，用户名\"{argument name=\"用户名\" default=\"苏东坡SuShi_Official\"}\"，发布内容\"刚到黄州，被贬了但心情还行。今天自己做了东坡肉，味道绝了，附菜谱：\"，配图为工笔画风格的东坡肉特写，点赞列表\"黄庭坚、秦观、佛印等126人\"，评论区\"王安石：呵呵\"\"司马光：还是那个味道\"，界面元素如点赞图标用宋代花纹替代，状态栏显示\"大宋移动 5G\"和\"元丰三年\"，配色为手机深色模式搭配宋代雅致色调，历史与社交媒体的趣味碰撞杰作",
+  "translatedPrompt": "\"{argument name=\"title\" default=\"宋朝社交媒体动态\"}\"，一种古今界面设计风格的幽默融合。图像模拟了移动端社交媒体界面，但内容完全是宋朝场景。头像为宋代文人肖像。用户名：\"{argument name=\"username\" default=\"苏轼 SuShi_Official\"}\"。发布内容：“刚到黄州，虽被贬但心情尚可。今日亲手制作了东坡肉，味道绝佳。食谱附上：”。配图是一张工笔画风格的东坡肉特写。点赞列表：“黄庭坚、秦观、佛印等 126 人”。评论区：“王安石：呵呵”、“司马光：还是那个味儿”。点赞图标等界面元素替换为宋代纹样。状态栏显示“大宋移动 5G”和“元丰三年”。配色方案采用移动端深色模式，搭配典雅的宋代色调。这是一部历史与社交媒体碰撞的杰作。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "宋朝社交媒体动态：一个充满创意的提示词，构想了宋朝时期的社交媒体动态，并以苏轼为主角。",
+      "subject": "综合主体",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13488",
+      "14331",
+      "14358",
+      "14365",
+      "14764",
+      "15220"
+    ]
+  }
+}

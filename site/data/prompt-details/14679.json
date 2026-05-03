@@ -1,0 +1,54 @@
+{
+  "id": "14679",
+  "prompt": "A realistic indoor portrait photo of a slim young East Asian woman with {argument name=\"hair color\" default=\"long black\"} softly wavy hair, seated on a smooth concrete bench in a minimalist cafe interior. She is facing the camera with a shy, gentle posture, shoulders slightly angled, hands loosely clasped together on her lap, and legs crossed at the ankles. She wears a fitted white cropped T-shirt with small centered Japanese text reading \"{argument name=\"shirt text\" default=\"午後\"}\" and a dark high-waisted denim mini skirt. Natural window light from the left side creates soft, diffused shadows and a calm, muted atmosphere. The background shows a modern warm-toned cafe with 1 window frame on the upper left, 1 wooden counter on the right, 1 tall black stool, 1 woven basket on the floor, and a subtle shelf with glass bottles in soft focus. Shot vertically, medium full-body framing, eye-level perspective, shallow depth of field, understated editorial fashion photography, neutral colors, soft skin tones, quiet candid mood, highly realistic.",
+  "translatedPrompt": "一张写实室内肖像照，主角是一位身材苗条的年轻东亚女性，留着 {argument name=\"hair color\" default=\"黑色长发\"} 的柔顺波浪卷发，坐在极简风格咖啡馆内的平滑水泥长椅上。她面向镜头，姿态羞涩温柔，双肩微侧，双手自然交叠放在膝盖上，双脚脚踝交叉。她身穿一件修身白色短款 T 恤，中间印有小巧的日文文字“{argument name=\"shirt text\" default=\"午後\"}”，下身搭配深色高腰牛仔短裙。左侧的自然窗光营造出柔和、漫射的阴影以及宁静、柔和的氛围。背景展示了一间现代暖色调咖啡馆，左上方有一个窗框，右侧有一个木质柜台，配有一张黑色高脚凳，地板上放着一个编织篮，远处有一个摆放着玻璃瓶的架子，处于柔焦状态。竖向构图，中景全身取景，平视视角，浅景深，低调的编辑类时尚摄影，中性色调，柔和肤色，安静的抓拍氛围，高度写实。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "咖啡馆柔光年轻女性肖像：此提示词可生成一张年轻女性坐在极简风格咖啡馆内的写实竖版时尚肖像，非常适合生活方式摄影及柔和的编辑类人物图像。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "full-body",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "editorial",
+        "minimalist"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, full-body, vertical]。\n\nVisual style:\n[参考风格: realistic, editorial, minimalist]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15424",
+      "15028",
+      "14628",
+      "14910",
+      "14428",
+      "14569"
+    ]
+  }
+}

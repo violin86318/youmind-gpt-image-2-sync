@@ -1,0 +1,54 @@
+{
+  "id": "15730",
+  "prompt": "A polished high-fashion magazine cover portrait of a beautiful young office woman standing beside a floor-to-ceiling window in a bright modern corporate office, photographed in a refined editorial style. She faces slightly toward the camera with a calm, elegant, confident expression, her face intentionally obscured by a soft rectangular blur. She has long dark brown hair styled in a thick side braid draped over one shoulder. She wears a fitted ribbed mock-neck knit top in {argument name=\"top color\" default=\"deep navy blue\"} with short sleeves and three gold shoulder buttons on the left side, tucked into a high-waisted black pencil skirt with a slim black belt. Her right hand is raised, holding a folded light-colored cleaning cloth against the glass, suggesting a symbolic lifestyle-fashion scene rather than literal cleaning; her left arm rests naturally by her side. Warm daylight streams in from the window, creating soft highlights on her clothing and skin, subtle reflections on the glass, and a luminous cityscape of tall office buildings outside. The interior background is softly blurred, showing a minimalist office with 1 potted plant, 1 desk, and 1 office chair. Compose the image vertically like a premium magazine cover, full body cropped around mid-calf, with the model centered slightly right to leave room for typography on the left. Add elegant editorial cover text in a Japanese fashion-magazine style: a very large serif masthead reading {argument name=\"main title\" default=\"Office Muse\"} across the upper left, with \"Office\" in white and \"Muse\" in deep blue; small uppercase text at the top left reading \"CITY LIFE / BEAUTY / CAREER\"; small issue text at the top right reading \"JUNE 2024\" and \"VOL. 28\". Include 5 additional text blocks: 1 Japanese subtitle under the main title, 1 left-column beauty section with the heading \"BEAUTY\" and Japanese body text, 1 left-column career section with the heading \"CAREER\" and Japanese body text, 1 large lower-left headline reading \"Focus On You\" with a short Japanese subline, and 1 lower-right circular callout with the heading \"Interview\" and Japanese text inside a translucent pale circle. Add 3 small blue rectangular tags near the lower left reading {argument name=\"tag line 1\" default=\"SKINCARE ROUTINE\"}, {argument name=\"tag line 2\" default=\"WORK SMARTER\"}, and {argument name=\"tag line 3\" default=\"MINDFUL LIFE\"}. Overall mood: sophisticated, feminine, aspirational, urban, graceful, professional, luxurious, clean natural light, realistic digital photography with subtle fashion-retouching, premium Japanese magazine cover design.",
+  "translatedPrompt": "一张精致的高级时尚杂志封面肖像，拍摄了一位美丽的年轻职场女性，她站在明亮的现代企业办公室落地窗旁，采用精致的编辑风格拍摄。她微微侧身面对镜头，表情冷静、优雅且自信，面部被柔和的矩形模糊效果刻意遮挡。她留着深棕色长发，编成粗侧辫垂在肩上。她身穿一件 {argument name=\"top color\" default=\"深海军蓝\"} 的修身罗纹半高领针织衫，短袖设计，左肩饰有三颗金色纽扣，下身搭配高腰黑色铅笔裙和细黑色腰带。她的右手抬起，拿着一块浅色清洁布抵在玻璃上，呈现出一种象征性的生活方式时尚场景，而非真实的清洁动作；左臂自然垂在身侧。温暖的日光从窗外射入，在她的衣物和皮肤上形成柔和的高光，玻璃上带有微妙的倒影，窗外是高耸办公楼组成的明亮城市景观。室内背景经过柔焦处理，可见一个极简主义办公室，内有 1 盆植物、1 张办公桌和 1 把办公椅。构图采用高级杂志封面的垂直布局，全身照裁剪至小腿中部，模特略微偏右，以便在左侧留出排版空间。添加优雅的日系时尚杂志风格封面文字：左上角放置一个非常大的衬线字体刊头，文字为 {argument name=\"main title\" default=\"Office Muse\"}，“Office”为白色，“Muse”为深蓝色；左上角有小型大写文字“CITY LIFE / BEAUTY / CAREER”；右上角有小型期号文字“JUNE 2024”和“VOL. 28”。包含 5 个额外的文本块：主标题下方的一行日文副标题；左侧栏的“BEAUTY”美容板块及日文正文；左侧栏的“CAREER”职场板块及日文正文；左下角醒目的大标题“Focus On You”及一行日文副标题；右下角一个半透明浅色圆圈内的“Interview”访谈板块及日文文字。在左下角附近添加 3 个蓝色小矩形标签，内容分别为 {argument name=\"tag line 1\" default=\"SKINCARE ROUTINE\"}、{argument name=\"tag line 2\" default=\"WORK SMARTER\"} 和 {argument name=\"tag line 3\" default=\"MINDFUL LIFE\"}。整体氛围：精致、女性化、令人向往、都市感、优雅、专业、奢华、干净的自然光，具有微妙时尚修图感的写实数字摄影，高级日系杂志封面设计。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Office Muse 时尚封面：此提示词可生成一张精致的日系时尚杂志封面，展现了在阳光明媚的办公环境中，一位时尚职场女性的形象，非常适合编辑类和生活方式类的品牌视觉设计。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "callout",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "editorial",
+        "minimalist",
+        "premium"
+      ],
+      "lightingCamera": [
+        "natural light",
+        "camera"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, callout, vertical]。\n\nVisual style:\n[参考风格: realistic, editorial, minimalist, premium]。\n\nLighting and camera:\n[参考光线镜头: natural light, camera]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15729",
+      "15400",
+      "14648",
+      "14992",
+      "15077",
+      "14850"
+    ]
+  }
+}

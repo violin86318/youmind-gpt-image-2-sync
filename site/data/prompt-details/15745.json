@@ -1,0 +1,46 @@
+{
+  "id": "15745",
+  "prompt": "A highly polished anime banner illustration in a warm golden classroom-literature-club setting, wide cinematic composition. On the left half, a large elegant glowing script title reads {argument name=\"headline text\" default=\"Monika\"} in oversized calligraphy, colored white and pale green with a soft neon glow, metallic highlights, decorative flourishes, hearts, sparkles, and swirling ornamental lines around it. On the right half, a beautiful anime schoolgirl inspired by {argument name=\"character name\" default=\"Monika\"} sits at a wooden desk, facing slightly left, with long flowing {argument name=\"hair color\" default=\"chestnut brown\"} hair, a very large white ribbon bow, warm brown eyes, and a thoughtful, confident expression. She wears a Japanese high school uniform with exactly 4 visible clothing pieces: a brown blazer, white shirt, red ribbon tie, and brown argyle sweater vest. She holds a fountain pen over papers on the desk with one hand while the other rests near her face in a poised writing pose. The room is filled with sunset light streaming through tall windows, dust motes, trailing green ribbons, floating petals, handwritten notes pinned and hanging in the background, and a dark chalkboard covered with faint cursive writing and geometric doodles. Include exactly 9 prominent desk and room props: a bouquet of white roses at lower left, a stack of books at left, an hourglass near the center-left, a sealed envelope with a small green leaf emblem, scattered manuscript pages on the desk, a pen cap near the writing hand, a green-upholstered chair, a piano in the back right, and a stack of 4 books on the right. The 4 right-side book spines read, from top to bottom: \"Save Me\", \"My Feelings\", \"Poems for the Literature Club\", and \"Just Monika.\" Add lush volumetric lighting, glittering particles, green-and-gold color harmony, delicate linework, ultra-detailed painterly shading, romantic visual-novel key art quality, and a premium polished thumbnail/banner aesthetic.",
+  "translatedPrompt": "一张极其精致的动漫横幅插画，背景为温暖的金色文学部教室，采用宽幅电影感构图。左半部分是一个巨大的优雅发光手写标题，显示为 {argument name=\"headline text\" default=\"Monika\"}，采用超大书法字体，呈现白色和淡绿色，带有柔和的霓虹光晕、金属高光、装饰性花纹、爱心、闪光以及周围环绕的漩涡状装饰线条。右半部分是一位美丽的动漫女高中生，灵感源自 {argument name=\"character name\" default=\"Monika\"}，她坐在木质课桌前，身体略微朝左，留着长长的飘逸 {argument name=\"hair color\" default=\"栗棕色\"} 头发，系着一个巨大的白色蝴蝶结，有着温暖的棕色眼睛，表情沉思且自信。她身穿日本高中校服，包含 4 件清晰可见的服饰：棕色西装外套、白色衬衫、红色丝带领结和棕色菱格纹毛衣背心。她一只手拿着钢笔放在桌上的纸张上，另一只手靠近脸部，呈现出优雅的写作姿态。房间里充满了从高窗射入的夕阳余晖，空气中漂浮着尘埃微粒、飘带般的绿色丝带、花瓣，背景中挂着手写便签，黑板上写满了模糊的草书和几何涂鸦。画面中包含 9 个显眼的课桌和房间道具：左下角的一束白玫瑰、左侧的一叠书、中左侧的一个沙漏、一个带有绿色叶子徽章的密封信封、桌上散落的手稿页、书写手旁的一个笔帽、一把绿色软垫椅子、右后方的一架钢琴，以及右侧的一叠 4 本书。右侧 4 本书的书脊从上到下依次写着：“Save Me”、“My Feelings”、“Poems for the Literature Club” 和 “Just Monika”。添加丰富的体积光、闪烁的粒子、绿色与金色的色彩和谐、细腻的线条、超详细的绘画式阴影、浪漫视觉小说关键视觉图品质，以及高级精致的缩略图/横幅美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Monika 动漫横幅插画：此提示词可生成一张精致的动漫风格宽幅横幅，展现阳光明媚的文学部教室场景，非常适合作为缩略图、页眉和风格化同人艺术的品牌素材。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "anime",
+        "premium"
+      ],
+      "lightingCamera": [
+        "neon",
+        "volumetric"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, anime, premium]。\n\nLighting and camera:\n[参考光线镜头: neon, volumetric]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15744",
+      "15096",
+      "14438",
+      "15108",
+      "13627",
+      "14472"
+    ]
+  }
+}

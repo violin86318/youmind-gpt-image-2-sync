@@ -1,0 +1,50 @@
+{
+  "id": "14427",
+  "prompt": "A candid low-angle photograph of two adult men standing in front of a traditional East Asian wooden building with warm brown timber framing and repeating green lattice window panels, shot during golden hour with strong warm sunlight and deep shadows. The man on the left is much closer to the camera, partially cropped, wearing a black zip-up jacket with a large white OpenAI logo on the chest and a gray panel on the sleeve. His arm is extended directly toward the lens, holding a cigarette in the extreme foreground so the hand and cigarette dominate the lower-left area and appear slightly out of focus due to shallow depth of field. The man on the right stands farther back, wearing a loose black T-shirt with a bold white \"xAI\" style logo on the chest, one hand raised near his mouth as if smoking or thinking. Both men have their faces obscured by smooth rectangular blur blocks, preserving anonymity. Use a realistic documentary street-photo aesthetic, natural skin tones, subtle lens distortion from a wide-angle perspective, cinematic contrast, rich sunset lighting, and a casual confrontational composition that emphasizes the brands on their clothing and the cigarette thrust toward the viewer. Include exactly 2 men, 1 cigarette visible in the foreground, 1 black jacket with the OpenAI emblem, and 1 black T-shirt with the xAI logo.",
+  "translatedPrompt": "一张低角度抓拍照片，两名成年男子站在一座传统的东亚木质建筑前，背景是温暖的棕色木框架和重复的绿色格子窗棂。拍摄于黄金时刻，强烈的暖色阳光投下深邃的阴影。左侧男子距离镜头较近，处于部分裁剪状态，身穿黑色拉链夹克，胸前印有醒目的白色 OpenAI 标志，袖口带有灰色拼接。他的手臂直接伸向镜头，手中夹着一支香烟，位于画面极近的前景，使手部和香烟占据左下角，并因浅景深效果呈现出轻微的虚化。右侧男子站位较靠后，身穿宽松的黑色 T 恤，胸前印有醒目的白色“xAI”风格标志，一只手抬起靠近嘴边，仿佛正在抽烟或思考。两名男子的面部均被平滑的矩形模糊块遮挡，以保持匿名。采用写实纪实街拍美学，呈现自然的肤色、广角镜头带来的细微畸变、电影级对比度、浓郁的日落光影，以及强调服装品牌和伸向观众的香烟的随意对抗式构图。画面需包含 2 名男子，前景可见 1 支香烟，1 件带有 OpenAI 标志的黑色夹克，以及 1 件带有 xAI 标志的黑色 T 恤。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "黄金时刻科技巨头对峙肖像：此提示词可生成一张写实风格的社论照片，展示两名身着品牌黑色服装的匿名男子站在传统木质建筑外的场景，适用于社会评论、讽刺作品或科技文化视觉内容。",
+      "subject": "界面",
+      "scene": "摄影/真实场景",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "golden hour",
+        "shallow depth",
+        "depth of field",
+        "lens",
+        "camera"
+      ],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic, documentary]。\n\nLighting and camera:\n[参考光线镜头: golden hour, shallow depth, depth of field, lens, camera]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14614",
+      "15031",
+      "14667",
+      "15602",
+      "14440",
+      "14595"
+    ]
+  }
+}

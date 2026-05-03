@@ -1,0 +1,44 @@
+{
+  "id": "15019",
+  "prompt": "A dreamy pastel anime portrait of a young woman with {argument name=\"hair color\" default=\"pale blush pink\"} long flowing wavy hair, shown from the waist up against a clean white background with scattered tiny flowers, petals, and soft ribbon-like swirls. Her face is fully hidden by a centered vertical rectangle in a muted dusty blush color, creating a faceless profile-picture placeholder effect. Her hair is decorated with 2 large translucent ribbon bows, one on each side, and many small blossoms woven through the hair like a floral crown. She wears an off-shoulder frilly dress in very soft white, lavender, and pink with puff sleeves, lace trim, floral accents, and delicate bow details. She gently holds a small bouquet close to her chest with both hands; the bouquet contains pastel flowers in pink, cream yellow, white, and light blue. The composition is centered, elegant, and airy, with ultra-soft line art, watercolor-style shading, high detail, light sparkles, and a romantic shoujo illustration aesthetic. Use a pale color palette, ethereal lighting, subtle transparency in the ribbons, and a vertical poster-like composition.",
+  "translatedPrompt": "一张梦幻般的柔和色调动漫肖像，描绘了一位拥有 {argument name=\"hair color\" default=\"淡腮红粉色\"} 长波浪卷发的年轻女性。画面为半身像，背景为干净的白色，点缀着零星的小花、花瓣和柔和的丝带状漩涡。她的面部被一个位于中心、颜色为柔和灰粉色的垂直矩形完全遮挡，营造出一种无脸头像占位符的效果。她的头发上装饰着 2 个大型半透明丝带蝴蝶结（两侧各一个），许多小花像花冠一样编织在发间。她身穿一件露肩荷叶边连衣裙，色调为极柔和的白色、薰衣草色和粉色，配有泡泡袖、蕾丝饰边、花卉点缀和精致的蝴蝶结细节。她双手轻轻地将一束小花束捧在胸前；花束包含粉色、奶油黄色、白色和浅蓝色的柔和色调花朵。构图居中、优雅且轻盈，采用超柔和的线条艺术、水彩风格阴影、高细节、轻微闪光以及浪漫的少女漫画美学。使用淡雅的调色板、空灵的灯光、丝带的微妙透明感以及垂直海报式的构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "柔和色调无脸花卉动漫肖像：此提示词可生成一张柔美浪漫的动漫少女肖像，配有花卉装饰及中心无脸遮挡块，非常适合用作个人资料图、可编辑头像或柔和色调的角色视觉素材。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "watercolor"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: anime, watercolor]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15032",
+      "14965",
+      "14633",
+      "14865",
+      "15718",
+      "15393"
+    ]
+  }
+}

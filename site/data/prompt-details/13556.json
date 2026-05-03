@@ -1,0 +1,44 @@
+{
+  "id": "13556",
+  "prompt": "A cinematic, highly realistic image of a {argument name=\"subject\" default=\"cowboy\"} riding a {argument name=\"mount\" default=\"white horse\"} on the {argument name=\"setting\" default=\"surface of the moon\"}. The figure is seen from behind, wearing a classic hat and a long duster coat, looking out over the barren, grey, and cratered lunar landscape. In the dark, starry space sky above, a large, detailed {argument name=\"celestial object\" default=\"Earth\"} is prominently visible in the upper right. The lighting is dramatic and monochromatic in the foreground, highlighting the textures of the terrain and the rider's coat, contrasting with the blue and white hues of the distant planet to create a surreal yet photorealistic sci-fi western scene.",
+  "translatedPrompt": "一张电影感十足、高度逼真的图像，展示了 {argument name=\"subject\" default=\"牛仔\"} 骑着 {argument name=\"mount\" default=\"白马\"} 在 {argument name=\"setting\" default=\"月球表面\"} 上。画面从背后视角呈现，人物戴着经典牛仔帽，身穿长款防尘大衣，俯瞰着荒凉、灰暗且布满陨石坑的月球景观。在上方漆黑且繁星点点的太空中，一颗巨大而细节丰富的 {argument name=\"celestial object\" default=\"地球\"} 在右上角清晰可见。前景光影效果极具戏剧性且呈现单色调，突显了地形纹理和骑手大衣的质感，与远处行星的蓝白色调形成对比，营造出一种超现实而又照片级逼真的科幻西部场景。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "科幻西部：月球骑士：生成一张超现实、照片级逼真的图像，展示一名牛仔骑马在月球上眺望地球，非常适合科幻西部概念设计。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "sci-fi"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, sci-fi]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14660",
+      "15355",
+      "14077",
+      "13799",
+      "15806",
+      "13524"
+    ]
+  }
+}

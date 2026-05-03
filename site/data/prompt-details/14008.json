@@ -1,0 +1,49 @@
+{
+  "id": "14008",
+  "prompt": "{\n  \"type\": \"photograph of a printed Japanese newspaper page\",\n  \"style\": \"realistic newsprint texture, slightly angled top-down shot, natural lighting, slight paper wrinkling\",\n  \"header\": {\n    \"date\": \"{argument name=\\\"date\\\" default=\\\"2026年（令和8年）4月23日 木曜日\\\"}\",\n    \"newspaper_name\": \"{argument name=\\\"newspaper name\\\" default=\\\"朝日新聞\\\"}\",\n    \"publisher_info\": \"発行所：朝日新聞東京本社\",\n    \"top_right_ad\": \"水と生きる SUNTORY\"\n  },\n  \"main_headlines\": [\n    \"{argument name=\\\"main headline 1\\\" default=\\\"OpenAI 新モデル「Spud」発表\\\"}\",\n    \"{argument name=\\\"main headline 2\\\" default=\\\"「Codex SuperApp」も同時公開\\\"}\"\n  ],\n  \"sub_headline_bar\": \"サイバー攻撃・コーディング性能で既存ベンチマークを圧倒\",\n  \"layout\": {\n    \"sections\": [\n      {\n        \"position\": \"middle left\",\n        \"type\": \"article text column\",\n        \"content\": \"Japanese news text\"\n      },\n      {\n        \"position\": \"center\",\n        \"type\": \"embedded image\",\n        \"description\": \"Dark blue graphic showing 3 mobile phone UI mockups\",\n        \"overlay_text\": \"{argument name=\\\"center image text\\\" default=\\\"Codex SuperApp\\\"}\",\n        \"caption\": \"Codex SuperAppのイメージ（OpenAI提供）\"\n      },\n      {\n        \"position\": \"middle right\",\n        \"type\": \"vertical text headline\",\n        \"text\": \"「AGI時代の基盤に」開発競争、さらに激化\"\n      }\n    ]\n  },\n  \"lower_section\": {\n    \"headline\": \"「圧倒的な前進」専門家ら評価\",\n    \"columns\": 3,\n    \"left_column\": {\n      \"title\": \"■主な特徴\",\n      \"bullet_points_count\": 3\n    },\n    \"middle_column\": \"Japanese article text\",\n    \"right_column\": \"Japanese article text\"\n  },\n  \"footer_teasers\": {\n    \"count\": 3,\n    \"labels\": [\n      \"関税交渉 日米が再協議へ\",\n      \"九州で大雨 2人けが\",\n      \"オピニオン\"\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"印刷版日本报纸页面的照片\",\n  \"style\": \"逼真的新闻纸质感，轻微倾斜的俯拍视角，自然光，纸张有轻微褶皱\",\n  \"header\": {\n    \"date\": \"{argument name=\\\"date\\\" default=\\\"2026 年（令和 8 年）4 月 23 日 星期四\\\"}\",\n    \"newspaper_name\": \"{argument name=\\\"newspaper name\\\" default=\\\"朝日新闻\\\"}\",\n    \"publisher_info\": \"发行所：朝日新闻东京本社\",\n    \"top_right_ad\": \"水与生活 SUNTORY\"\n  },\n  \"main_headlines\": [\n    \"{argument name=\\\"main headline 1\\\" default=\\\"OpenAI 发布新模型“Spud”\\\"}\",\n    \"{argument name=\\\"main headline 2\\\" default=\\\"“Codex SuperApp”同步公开\\\"}\"\n  ],\n  \"sub_headline_bar\": \"在网络攻击与编码性能方面全面超越现有基准测试\",\n  \"layout\": {\n    \"sections\": [\n      {\n        \"position\": \"中左\",\n        \"type\": \"文章文本栏\",\n        \"content\": \"日语新闻文本\"\n      },\n      {\n        \"position\": \"中央\",\n        \"type\": \"嵌入式图像\",\n        \"description\": \"展示 3 个手机 UI 模拟图的深蓝色图形\",\n        \"overlay_text\": \"{argument name=\\\"center image text\\\" default=\\\"Codex SuperApp\\\"}\",\n        \"caption\": \"Codex SuperApp 概念图（由 OpenAI 提供）\"\n      },\n      {\n        \"position\": \"中右\",\n        \"type\": \"竖排文本标题\",\n        \"text\": \"“作为 AGI 时代的基石”开发竞争愈演愈烈\"\n      }\n    ]\n  },\n  \"lower_section\": {\n    \"headline\": \"“压倒性的进步”专家给予高度评价\",\n    \"columns\": 3,\n    \"left_column\": {\n      \"title\": \"■主要特征\",\n      \"bullet_points_count\": 3\n    },\n    \"middle_column\": \"日语文章文本\",\n    \"right_column\": \"日语文章文本\"\n  },\n  \"footer_teasers\": {\n    \"count\": 3,\n    \"labels\": [\n      \"关税谈判：日美将重新协商\",\n      \"九州地区遭遇大雨，2 人受伤\",\n      \"观点\"\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "逼真的日本报纸头版：生成一张照片级逼真的日本报纸头版，支持自定义标题、日期和嵌入式图形，非常适合制作近未来的模拟效果图。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "top-down",
+        "vertical"
+      ],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [
+        "natural light"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: top-down, vertical]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[参考光线镜头: natural light]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14435",
+      "14984",
+      "15795",
+      "14403",
+      "14623",
+      "14891"
+    ]
+  }
+}

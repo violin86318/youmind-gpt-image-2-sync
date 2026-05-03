@@ -1,0 +1,43 @@
+{
+  "id": "15343",
+  "prompt": "A dark, apocalyptic city street at night, viewed from ground level looking upward through a narrow canyon of ruined tall buildings on both sides. The architecture is heavily damaged and partially collapsed, with jagged silhouettes, broken facades, and blackened gothic-industrial details fading into shadow. A dense column of smoke and stormy cloud fills the center of the sky, backlit by a cold pale glow near the horizon, creating a dramatic high-contrast focal point. The overall palette is nearly monochrome deep navy, charcoal, black, and muted steel blue, with scattered tiny orange ember-like specks drifting through the air across the whole scene. The mood is bleak, ominous, and cinematic, like a post-disaster wasteland or bombed urban ruin. Painterly digital concept art, soft atmospheric haze, heavy texture, subtle film-grain feel, no people, no vehicles, no readable signs, wide composition, high detail in the ruined structures, strong vertical framing from the buildings, and a foreboding smoky sky dominating the upper half.",
+  "translatedPrompt": "这是一条夜晚黑暗的末日城市街道，从地面视角向上仰望，两侧是如峡谷般狭窄的破败高楼。建筑受损严重且部分坍塌，呈现出参差不齐的轮廓、破碎的立面以及融入阴影中的黑色哥特工业风细节。浓重的烟柱和风暴云层充斥着天空中央，地平线附近透出的冷冽苍白光芒为其提供了背光，营造出极具戏剧性的高对比度视觉焦点。整体色调接近单色，以深海军蓝、炭灰、黑和柔和的钢蓝色为主，空气中散布着细小的橙色余烬，在整个场景中飘浮。氛围凄凉、阴森且具有电影感，宛如灾后废土或被轰炸后的城市废墟。绘画风格的数字概念艺术，柔和的大气雾霾，厚重的质感，带有微妙的胶片颗粒感，画面中无人、无车辆、无清晰可见的标志，采用广角构图，废墟结构细节丰富，建筑形成的强烈垂直构图以及占据上半部分的压抑烟雾天空，营造出不祥的预感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "末日废墟城市街道：此提示词可生成一张黑暗电影质感的概念艺术场景，描绘了建筑倒塌、烟雾缭绕且余烬飘散的荒废城市街道，适用于反乌托邦或后末日风格的视觉创作。",
+      "subject": "空间",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "cinematic"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: cinematic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15782",
+      "14625",
+      "15074",
+      "14626",
+      "15411",
+      "14439"
+    ]
+  }
+}

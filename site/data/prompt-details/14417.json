@@ -1,0 +1,45 @@
+{
+  "id": "14417",
+  "prompt": "A highly detailed retro pixel art landscape of a bright alpine valley in summer, composed like a classic side-scrolling video game background but shown as a wide scenic vista. In the foreground, a winding tan dirt path curves from the bottom center into the middle distance through dense wildflower meadows, with a small blue stream at the lower right bordered by gray rocks and lush grass. Count 2 large foreground rock clusters, 1 winding path, and 1 visible stream. Fill the meadows with colorful flowers in vivid purple, yellow, red, pink, and white, with especially tall purple flower spikes on the left foreground and dense mixed blossoms on both sides of the path. On the left and right midground, place thick stands of leafy green trees and dark pine trees, framing the open valley center. In the background, show a dramatic mountain range with exactly 7 visible peaks: 1 dominant tall snow-capped peak slightly right of center, 2 medium purple peaks to its left, 2 smaller snowy blue peaks in the far center distance, 1 smaller purple peak to the right, and 1 cropped rocky mountain edge at the far left. Use vibrant greens and purples as the main palette, with cool blue shadows and lavender mountain faces. Above, render a bright blue sky with large creamy white clouds, halftone-dot shading throughout the sky and mountains, subtle vintage comic print texture, visible dithering, and crisp sharp pixel edges. Add exactly 4 small flying bird silhouettes in the sky. The whole image should feel colorful, nostalgic, scenic, and richly layered, with heavy halftone comic shading, retro print grain, no text, no UI, no characters, and no buildings.",
+  "translatedPrompt": "一幅细节丰富的复古像素艺术景观，描绘了夏季明亮的高山山谷，构图类似于经典的横版卷轴游戏背景，但呈现为广阔的风景视野。前景中，一条蜿蜒的棕褐色土路从底部中心向中景延伸，穿过茂密的野花草甸；右下角有一条蓝色小溪，边缘点缀着灰色岩石和茂盛的草地。包含 2 组大型前景岩石、1 条蜿蜒小路和 1 条可见小溪。草甸上布满了紫色、黄色、红色、粉色和白色的鲜艳花朵，左侧前景有特别高大的紫色花穗，小路两侧则是茂密的混合花丛。在中景的左右两侧，放置成片的绿叶树和深色松树，勾勒出开阔的山谷中心。背景展示了一座壮观的山脉，共有 7 座清晰可见的山峰：中心偏右有一座高耸的积雪主峰，左侧有 2 座中等高度的紫色山峰，远方中心有 2 座较小的蓝色雪峰，右侧有 1 座较小的紫色山峰，最左侧边缘有一处被截断的岩石山体。以鲜艳的绿色和紫色为主色调，搭配冷蓝色阴影和淡紫色的山体表面。上方渲染出明亮的蓝色天空，点缀着大朵乳白色云彩，天空和山脉处运用了半色调圆点阴影，带有微妙的复古漫画印刷质感、明显的抖动效果以及清晰锐利的像素边缘。天空中添加 4 个小型飞鸟剪影。整幅图像应呈现出色彩丰富、怀旧、优美且层次分明的质感，具有浓重的半色调漫画阴影和复古印刷颗粒感，画面中无文字、无 UI、无角色、无建筑。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古像素山谷：一幅充满活力的像素艺术高山景观，采用半色调漫画阴影效果，非常适合作为复古游戏背景、风景海报或怀旧环境艺术素材。",
+      "subject": "界面",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "layered"
+      ],
+      "style": [
+        "vintage",
+        "retro",
+        "pixel art"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；禁止额外文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered]。\n\nVisual style:\n[参考风格: vintage, retro, pixel art]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；禁止额外文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13602",
+      "14819",
+      "14821",
+      "15705",
+      "14440",
+      "14675"
+    ]
+  }
+}

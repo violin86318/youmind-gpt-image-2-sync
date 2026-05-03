@@ -1,0 +1,49 @@
+{
+  "id": "14561",
+  "prompt": "A moody graphic-novel style book cover illustration set in a snowy conifer forest at night, painted in deep blue tones with cinematic contrast. In the foreground, show exactly 4 human figures standing behind a low striped road barrier: 3 adults and 1 small child. The central adult is a tall broad-shouldered man in a dark winter jacket, holding the sleeping or limp child in his arms; the child wears a puffy {argument name=\"child coat color\" default=\"purple\"} snowsuit. To his left stands a teenage or young adult male with a backpack beside a dark parked SUV partially visible at the edge of the frame. To his right stands an adult woman in a dark hooded winter jacket, holding a flashlight that casts a warm cone of light onto the snow and the barrier. All faces should be mostly in shadow, unreadable, emphasizing mystery and danger. Place exactly 2 man-made warning elements in the foreground: 1 red-and-white striped gate blocking the path and 1 weathered warning sign on a wooden post showing a deer silhouette inside a red prohibition circle and slash. In the midground and background, fill the scene with tall black pine trees, a narrow snow-covered road or clearing, and a dead animal shape lying partly buried in the snow on the right side. In the far distance, show a rugged snow-streaked mountain under a star-filled sky. From behind the mountain, a single narrow vertical blue beam of light rises straight into the sky, acting as the focal point. Composition should be vertical, dramatic, and poster-like, suitable for a thriller or survival graphic novel cover for {argument name=\"book title\" default=\"La Réserve\"}. Style: detailed Franco-Belgian / realistic comic-book painting, inked outlines, textured brushwork, cold nocturnal atmosphere, subtle rim lighting, high contrast, ominous and suspenseful.",
+  "translatedPrompt": "一张充满情绪感的图像小说风格书籍封面插画，背景设定在夜晚的针叶雪林中，采用深蓝色调，具有电影般的对比度。在前景中，展示 4 个人物站在低矮的条纹路障后：3 名成年人和 1 名幼童。中间的成年人是一名身材高大、肩膀宽阔的男子，身穿深色冬装外套，怀里抱着一个正在睡觉或瘫软的孩子；孩子穿着一件 {argument name=\"child coat color\" default=\"紫色\"} 的雪服。在他左侧站着一名背着背包的少年或青年男性，旁边是一辆在画面边缘隐约可见的深色 SUV。在他右侧站着一名身穿深色连帽冬装外套的成年女性，手中拿着手电筒，将一束温暖的光锥投射在雪地和路障上。所有人的面部应大部分处于阴影中，无法辨认，以强调神秘感和危险感。在前景中放置 2 个明显的人造警示元素：1 个阻挡道路的红白条纹门，以及 1 个立在木柱上、带有红色禁止圆圈和斜杠的鹿形剪影警示牌。在中景和背景中，填充高大的黑松树、一条狭窄的积雪道路或空地，右侧雪地里半掩埋着一个动物尸体形状。在远方，展示一座在星空下布满积雪的崎岖山脉。从山后，一道狭窄的垂直蓝色光束直冲云霄，作为视觉焦点。构图应为垂直、具有戏剧性和海报感，适合作为 {argument name=\"book title\" default=\"La Réserve\"} 的惊悚或生存类图像小说封面。风格：细腻的法比漫画 / 写实漫画绘画风格，带有墨线轮廓，笔触质感丰富，寒冷的夜间氛围，微妙的轮廓光，高对比度，充满不祥与悬疑感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "暗夜森林惊悚小说封面：一张暗黑风格的图像小说封面，描绘了四名旅人在夜晚的雪林中被阻拦，上方有一道神秘的蓝色光束，非常适合惊悚或生存类小说。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "high contrast"
+      ],
+      "text": "要求精确文字；要求可读",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: rim light, high contrast]。\n\nText requirements:\n要求精确文字；要求可读。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14562",
+      "14902",
+      "15308",
+      "15766",
+      "15443",
+      "15453"
+    ]
+  }
+}

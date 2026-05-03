@@ -1,0 +1,37 @@
+{
+  "id": "15557",
+  "prompt": "中国传统青绿山水风格，新中式幻想插画，{argument name=\"场景\" default=\"月夜仙境\"}，竖版构图；\n\n层峦叠嶂的青蓝色山峰，山体呈现宝石般通透发光质感，蓝绿色渐变，山脉边缘带细腻鎏金描边与金色点缀，山间云雾缭绕；\n\n远处一轮巨大的明亮满月高悬天空，月光洒落群山与河流；\n\n前景有一座精致的中式古典亭阁，亭内暖光微亮，周围有苍劲松树、金色树木、溪流、瀑布、雾气、发光微粒，河道蜿蜒穿行于山谷之间；\n\n画面左上角添加竖版的手写书法字：{argument name=\"书法内容\" default=\"东方美学\"}，文字大小和间距合适；\n\n画面层次丰富，留白雅致，空灵静谧，梦幻唯美，工笔重彩，细节精致，光影柔和，电影级氛围，高级国风插画，超精细，8K，艺术感极强，诗意仙境，比例9:16",
+  "translatedPrompt": "传统中国青绿山水风格，新中式奇幻插画，{argument name=\"scene\" default=\"月下仙境\"}，竖构图；\n\n层峦叠嶂的青绿山峰，山体呈现出宝石般通透发光的质感，青绿色渐变，山脊边缘带有精致的金箔勾勒与金色点缀，山间云雾缭绕；\n\n远景处，一轮巨大的明月高悬于天际，月光洒满山川河流；\n\n近景处，一座精致的古典中式凉亭内透出暖光，四周环绕着苍劲的松树、金色的树木、溪流、瀑布、烟雾及发光粒子，一条河流蜿蜒穿过山谷；\n\n左上角添加竖排手写书法字：{argument name=\"calligraphy text\" default=\"东方美学\"}，字号与间距适中；\n\n层次丰富，留白优雅，空灵静谧，梦幻唯美，重彩工笔风格，细节精致，柔和光影，电影级氛围，高端国风插画，超精细，8K，强烈的艺术感，诗意仙境，9:16 比例",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "传统中国青绿山水：一份用于创作具有现代奇幻美感的高质量传统中国青绿山水插画的详细提示词。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14213",
+      "15222",
+      "13589",
+      "15767",
+      "14815",
+      "15521"
+    ]
+  }
+}

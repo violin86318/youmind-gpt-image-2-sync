@@ -1,0 +1,47 @@
+{
+  "id": "15281",
+  "prompt": "A highly detailed anime-style illustration of a cozy creative studio at golden hour, showing 5 young women gathered around a cluttered wooden worktable, lit by warm sunset light through large windows, hanging pendant lamps, and string lights. The mood is stylish, intelligent, playful, and slightly chaotic, like a startup loft mixed with an artist workspace. In the left foreground, a tall woman with {argument name=\"hair color\" default=\"long wavy auburn\"} hair wears a white daisy flower crown and a sleeveless rust-red dress with a belt; she stands closest to camera and holds up a handwritten paper sign that reads exactly: {argument name=\"sign text\" default=\"Claude is asking for your permission\"}, with a small heart doodle. Behind and to the right of her stands a second woman with platinum-blonde twin ponytails, a black gothic mini dress, black thigh-high stockings, and large headphones around her neck; she poses confidently with one hand on her hip near an open laptop covered in stickers, prominently featuring a large X logo. In the center background stands a petite girl with very long straight black hair and a dark navy dress, reserved and quiet, positioned in front of a wide monitor displaying a glowing Gemini star logo on a dark screen. To the right of center, a glamorous woman with a short black bob and earrings leans over the desk in a fitted red floral cheongsam-style dress, looking toward the papers and laptops. On the far right, a fifth woman with messy light-brown hair in a loose bun wears an oversized open shirt over a cropped white T-shirt with the OpenAI knot logo and casual pants, leaning over the table with one hand braced on the surface and the other near a drawing tablet. The room should contain 2 laptops visible on the desk, 1 central monitor, 3 mugs, 2 sticky notes, 1 paper sign, 1 notebook page titled \"Plans\", and many scattered creative objects like pens, cables, books, papers, and cans. The first laptop is covered with stickers including a large X logo; the second laptop has an OpenAI logo. The desk includes a black mug with a moon-and-text design, a white mug that says \"Good answer takes time.\", a white cup with an orange sunburst logo, an energy-drink can, a clear plastic drink cup, a closed notebook, loose handwritten notes, and a tablet on the far right. One sticky note says \"You got this\" with a heart, and another says \"One step at a time\" with a tiny flower. The notebook page on the desk reads \"Plans\" and lists 3 items: \"1. World peace\", \"2. More coffee\", \"3. Nap\", with a small cat doodle. The environment should include bookshelves, framed prints, potted plants, warm wood textures, and wall decor with visible posters and signs, including \"Anthropic\", \"Kindness intelligence\", \"DO GOOD BUILD COOL SHIT\", and a neon-style sign that says \"focus fuel\". Use cinematic composition, rich amber and sepia tones, intricate linework, soft painterly shading, detailed fabrics and hair, subtle glow on screens, and a polished modern anime illustration aesthetic. No blur, no distortion, no extra people, and no duplicated objects.",
+  "translatedPrompt": "一张高度精细的动漫风格插画，展现了黄金时段温馨的创意工作室。5 位年轻女性围聚在一张杂乱的木制工作台旁，温暖的夕阳透过大窗户、吊灯和串灯洒入室内。氛围时尚、知性、俏皮且略显杂乱，宛如创业阁楼与艺术家工作室的结合体。左侧前景中，一位高挑女性留着 {argument name=\"hair color\" default=\"长波浪红褐色\"} 头发，戴着白色雏菊头冠，身穿系腰带的无袖铁锈红连衣裙；她离镜头最近，举着一张手写纸牌，上面准确写着：{argument name=\"sign text\" default=\"Claude is asking for your permission\"}，并画有一个小爱心。在她后方右侧站着第二位女性，扎着白金双马尾，身穿黑色哥特式迷你裙，穿着黑色过膝袜，脖子上挂着大耳机；她自信地摆着姿势，一只手叉腰，身旁是一台贴满贴纸的笔记本电脑，上面显眼地印着一个巨大的 X 标志。背景中央站着一位娇小的女孩，留着极长的直黑发，身穿深海军蓝连衣裙，显得内敛安静，站在一台显示着深色背景下闪烁 Gemini 星形标志的宽屏显示器前。中心右侧，一位留着黑色短波波头、戴着耳环的迷人女性身穿修身红色花卉旗袍，正俯身看向桌上的文件和笔记本电脑。最右侧，第五位女性留着凌乱的浅棕色丸子头，穿着超大号开衫衬衫，内搭印有 OpenAI 结标志的白色短款 T 恤和休闲裤，一只手撑在桌面上，另一只手靠近绘图板。房间内应包含桌上的 2 台笔记本电脑、1 台中央显示器、3 个杯子、2 张便签、1 张纸牌、1 页标题为“Plans”的笔记本页面，以及许多散落的创意物品，如笔、电缆、书籍、纸张和罐装饮料。第一台笔记本电脑贴满了贴纸，包括一个巨大的 X 标志；第二台笔记本电脑上有 OpenAI 标志。桌上包括一个印有月亮和文字图案的黑色马克杯、一个写着“Good answer takes time.”的白色马克杯、一个印有橙色太阳光芒标志的白色杯子、一罐能量饮料、一个透明塑料饮料杯、一本合上的笔记本、零散的手写笔记以及最右侧的一块平板电脑。一张便签上写着“You got this”并画有一个爱心，另一张写着“One step at a time”并画有一朵小花。桌上的笔记本页面写着“Plans”，列出了 3 项内容：“1. World peace”、“2. More coffee”、“3. Nap”，并画有一只小猫涂鸦。环境应包括书架、装裱好的印刷品、盆栽植物、温暖的木质纹理以及墙面装饰，墙上可见海报和标语，包括“Anthropic”、“Kindness intelligence”、“DO GOOD BUILD COOL SHIT”以及一个写着“focus fuel”的霓虹灯风格招牌。采用电影级构图，运用浓郁的琥珀色和深褐色调，精细的线条，柔和的绘画式阴影，细腻的织物和头发质感，屏幕带有微妙的微光，呈现出精致的现代动漫插画美学。无模糊，无失真，无额外人物，无重复物体。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫 AI 工作室少女与日落：此提示词可生成一张精美的动漫风格群像图，描绘了 5 位时尚女性在温馨的创业工作室中，周围环绕着 AI 主题设备、笔记和品牌元素，非常适合用于编辑或社交媒体插画。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "anime",
+        "studio"
+      ],
+      "lightingCamera": [
+        "neon",
+        "golden hour",
+        "camera"
+      ],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, anime, studio]。\n\nLighting and camera:\n[参考光线镜头: neon, golden hour, camera]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15096",
+      "15094",
+      "14202",
+      "14549",
+      "15454",
+      "15788"
+    ]
+  }
+}

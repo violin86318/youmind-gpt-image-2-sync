@@ -1,0 +1,48 @@
+{
+  "id": "14871",
+  "prompt": "Create a clean modern Chinese tech blog cover in a wide 16:9 layout with a soft light-gray background, rounded-corner canvas, and minimalist dashboard aesthetic. On the left, place a small rounded category pill near the top with a yellow dot icon and the text “VPS 实测 · 购买参考”. Below it, set a very large bold dark navy Chinese headline in two stacked lines: “DMIT涨价之后” and “我把搬瓦工”. Under the headline, add a short yellow underline accent and then a medium-gray subheading reading “先看重点再下单”. The typography should feel premium, editorial, and highly legible, with strong contrast and generous spacing. On the right, show a floating desktop-app style server monitoring panel with a white card body, subtle shadow, rounded corners, and a pale beige browser top bar with three small circular window buttons. The panel header should read “BandwagonHost – CN2 GIA”, with a smaller line underneath “洛杉矶 · CN2 GIA” and a green status label “运行中”, plus on the top-right a small clock icon and the text “运行时长 27 天”. Inside the panel, include exactly 5 metric cards across the top row labeled “CPU” showing “12%”, “内存” showing “28%”, “硬盘” showing “18%”, “带宽” showing “1.2 Mbps”, and “延迟（本地）” showing “156 ms”, each with a small teal icon and a thin teal progress bar. Below, place a large line chart card on the left titled “稳定性（近 7 天）” with a top-right annotation “可用性 99.92%”, a teal fluctuating line, a vertical scale from 97% to 100%, and date labels from “05-13” through “05-19”. To the right of the chart, add a specs card titled “配置摘要” listing exactly 5 rows: “CPU 2 vCPU”, “内存 2 GB”, “硬盘 40 GB SSD”, “流量 1 TB/月”, and “系统 CentOS 7.9 64bit”. In the lower-left area overlapping between the text block and the dashboard, add a smaller white recommendation card with rounded corners and shadow. Its title line should include a yellow bookmark icon and read “购买参考 · 重点看这几项”. Inside, list exactly 4 rows: “线路质量  CN2 GIA”, “稳定性  ★★★★☆”, “性价比  中上”, and “适用场景  建站 / 中转 / 轻应用”. Add soft decorative elements in the background: a pale mint abstract rounded shape in the bottom-left corner, a faint dotted mint pattern above it, and a light dotted curved connector line arcing from the left text area toward the top of the dashboard, with a small yellow dot on the curve. Place a small rounded yellow name tag in the bottom-right corner of the canvas with the text “小墨同学”. Use a restrained palette of dark navy, teal, yellow, white, and light gray, with crisp vector-style rendering, subtle shadows, spacious composition, and a polished AI-generated editorial cover look for a VPS comparison article.",
+  "translatedPrompt": "创建一个简洁现代的中文科技博客封面，采用 16:9 宽屏布局，背景为柔和的浅灰色，画布采用圆角设计，并呈现极简的仪表盘美学。在左侧顶部放置一个带有黄色圆点图标的小型圆角分类标签，文字为“VPS 实测 · 购买参考”。下方设置两行堆叠的超大号深海军蓝中文标题：“DMIT 涨价之后”和“我把搬瓦工”。在标题下方添加一条短黄色下划线装饰，随后是中灰色的副标题“先看重点再下单”。排版应具有高级感、编辑感且易于阅读，对比度强烈，间距充裕。在右侧，展示一个悬浮的桌面应用风格服务器监控面板，主体为白色卡片，带有细腻阴影和圆角，顶部为浅米色浏览器栏，配有三个圆形窗口按钮。面板标题应为“BandwagonHost – CN2 GIA”，下方有一行较小的文字“洛杉矶 · CN2 GIA”以及绿色的“运行中”状态标签，右上角配有一个小型时钟图标和文字“运行时长 27 天”。面板内顶部一行包含 5 个指标卡片，标签分别为“CPU”显示“12%”、“内存”显示“28%”、“硬盘”显示“18%”、“带宽”显示“1.2 Mbps”以及“延迟（本地）”显示“156 ms”，每个指标配有一个青色小图标和一条细青色进度条。下方左侧放置一个大型折线图卡片，标题为“稳定性（近 7 天）”，右上角标注“可用性 99.92%”，图表内有一条青色波动曲线，纵轴刻度从 97% 到 100%，日期标签从“05-13”到“05-19”。图表右侧添加一个标题为“配置摘要”的规格卡片，列出 5 行内容：“CPU 2 vCPU”、“内存 2 GB”、“硬盘 40 GB SSD”、“流量 1 TB/月”以及“系统 CentOS 7.9 64bit”。在左下角文字块与仪表盘重叠区域，添加一张较小的白色圆角阴影推荐卡片。标题行包含一个黄色书签图标，文字为“购买参考 · 重点看这几项”。内部列出 4 行内容：“线路质量  CN2 GIA”、“稳定性  ★★★★☆”、“性价比  中上”以及“适用场景  建站 / 中转 / 轻应用”。在背景中添加柔和的装饰元素：左下角一个浅薄荷绿的抽象圆角形状，其上方为淡淡的薄荷绿点阵图案，并有一条浅色点状弧线从左侧文字区域延伸至仪表盘顶部，曲线上带有一个黄色小圆点。在画布右下角放置一个黄色圆角名牌，文字为“小墨同学”。整体使用深海军蓝、青色、黄色、白色和浅灰色的克制配色方案，呈现清晰的矢量风格渲染、细腻的阴影、宽敞的构图，打造出专业且精致的 AI 生成式 VPS 测评文章封面。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "中文 VPS 测评封面：一张精致的宽幅中文科技文章封面，包含醒目的标题、服务器监控仪表盘以及 VPS 测评内容的推荐卡片。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "editorial",
+        "minimalist",
+        "premium"
+      ],
+      "lightingCamera": [
+        "soft light"
+      ],
+      "text": "要求精确文字；要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: editorial, minimalist, premium]。\n\nLighting and camera:\n[参考光线镜头: soft light]。\n\nText requirements:\n要求精确文字；要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14842",
+      "15268",
+      "15668",
+      "15242",
+      "14813",
+      "14615"
+    ]
+  }
+}

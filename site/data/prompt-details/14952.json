@@ -1,0 +1,49 @@
+{
+  "id": "14952",
+  "prompt": "A bright, cheerful 2D side-scrolling platform game scene in a polished cartoon style, showing a cute white blob-like mascot character standing on a grassy dirt platform in the lower left foreground. The character is tiny and round with a smooth white body, stubby feet, big glossy black eyes with white highlights, and a small smiling mouth, facing slightly right. The environment is a futuristic fantasy landscape under a vivid blue sky with large soft white clouds. Across the scene are exactly 5 floating rectangular hover platforms with rounded corners, white tops, orange undersides, and glowing cyan light panels on the front; one is low near the character, one is center-low, one is center-middle, one is upper-right-middle, and one is top-right. Above the middle of the scene is an arc of exactly 5 glowing ring collectibles, alternating orange and cyan, with small sparkles and tiny white particle dots tracing the jump path between them. The level includes exactly 3 visible grassy ground platforms made of lush green turf over brown soil with rounded cutaway edges: one at far left foreground, one at lower center-left where the character stands, and one at far right foreground. In the background, add rolling green hills, atmospheric blue mountains, and a whimsical futuristic city with smooth white towers and domed buildings accented with cyan-blue windows. Include exactly 3 floating islands with grass tops and small dome structures: one mid-left, one mid-right, and one tiny distant island near the right side. Decorate the foreground with small flowers and bushes. Use saturated colors, clean vector-like outlines, soft lighting, gentle bloom around glowing objects, and a playful mobile-game aesthetic reminiscent of a friendly sci-fi platformer splash screen. Wide cinematic composition, side view, no UI, no text.",
+  "translatedPrompt": "一张明亮、欢快的 2D 横版平台跳跃游戏场景，采用精致的卡通风格。画面左下角前景处，一个可爱的白色团状吉祥物角色正站在草地泥土平台上。该角色体型圆润小巧，身体洁白光滑，有着短小的双脚、大而有光泽的黑色眼睛（带有白色高光）以及微笑着的小嘴，身体略微朝向右侧。环境是一个位于湛蓝天空下的未来科幻景观，天空中漂浮着大朵柔软的白云。场景中共有 5 个浮空的矩形悬浮平台，平台边缘圆润，顶部为白色，底部为橙色，正面带有发光的青色灯板；其中一个位于角色附近低处，一个位于中下部，一个位于中中部，一个位于右上中部，最后一个位于右上角。场景中部上方有一道由 5 个发光圆环组成的弧线，圆环颜色交替为橙色和青色，周围环绕着小火花，跳跃路径上点缀着微小的白色粒子。关卡包含 3 个清晰可见的草地平台，由茂密的绿草覆盖在棕色土壤上，边缘呈圆弧状：一个位于左侧远景前景，一个位于左中下部（角色站立处），另一个位于右侧远景前景。背景中加入连绵的绿色山丘、充满氛围感的蓝色山脉，以及一座奇幻的未来城市，城市中点缀着光滑的白色塔楼和带有青蓝色窗户的圆顶建筑。画面中包含 3 个顶部覆盖草地并带有小型圆顶结构的浮空岛：一个位于左中，一个位于右中，还有一个位于右侧远处的小型浮空岛。前景装饰着小花和灌木丛。使用高饱和度色彩、干净的矢量风格轮廓、柔和的灯光，发光物体周围带有柔和的光晕，呈现出类似友好科幻平台游戏启动画面的趣味手游美学。宽屏电影级构图，侧视图，无 UI，无文字。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "可爱的未来感平台跳跃游戏场景：此提示词可生成一张充满活力的横版过关游戏风格插图，包含可爱的吉祥物、浮空平台以及奇幻的科幻景观，适用于启动画面、概念艺术或宣传视觉图。",
+      "subject": "界面",
+      "scene": "人物/角色",
+      "composition": [
+        "cutaway"
+      ],
+      "style": [
+        "cinematic",
+        "sci-fi",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "soft light"
+      ],
+      "text": "要求精确文字；禁止额外文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: cutaway]。\n\nVisual style:\n[参考风格: cinematic, sci-fi, fantasy]。\n\nLighting and camera:\n[参考光线镜头: soft light]。\n\nText requirements:\n要求精确文字；禁止额外文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15037",
+      "14534",
+      "14613",
+      "15259",
+      "15305",
+      "15635"
+    ]
+  }
+}

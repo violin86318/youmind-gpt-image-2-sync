@@ -1,0 +1,36 @@
+{
+  "id": "15148",
+  "prompt": "William and Piggy shaped ice cream, pink square ice cream with pixel eyes and pig noses, strawberry flavor, served on a cone, cute food design. Egg Cone: A standard waffle cone, golden and crispy in color, with a “Minecraft” co-branded paper sleeve. The background is an outdoor theme park scene with a blue sky, white clouds, and brightly colored rides and buildings blurring into the background. The hand of the person holding the ice cream is clear, enhancing the realism of the “hands-on experience”. The overall style is bright, fun and playful, making it an eye-catching IP co-branded summer ice cream.",
+  "translatedPrompt": "William 和 Piggy 造型冰淇淋，带有像素眼睛和猪鼻子的粉色方形冰淇淋，草莓口味，装在甜筒里，可爱的食物设计。蛋筒：标准的华夫饼甜筒，色泽金黄酥脆，带有“Minecraft”联名纸套。背景是户外主题公园场景，蓝天白云，色彩鲜艳的游乐设施和建筑在背景中虚化。手持冰淇淋的手部清晰可见，增强了“上手体验”的真实感。整体风格明快、有趣且俏皮，是一款引人注目的夏季 IP 联名冰淇淋。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "联名 IP 冰淇淋设计：一个关于主题公园内趣味像素风草莓甜筒的创意提示词。",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13649",
+      "14263",
+      "14397",
+      "13667",
+      "13676",
+      "13732"
+    ]
+  }
+}

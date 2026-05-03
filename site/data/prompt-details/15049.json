@@ -1,0 +1,46 @@
+{
+  "id": "15049",
+  "prompt": "A cinematic ultra-realistic fantasy military scene in a dense woodland forest at ground level, showing 2 elf snipers concealed in camouflage while scouting a target. In the foreground, one elf with long pale-blond hair and clearly pointed ears lies prone behind a modern precision sniper rifle, aiming through a mounted scope. The rifle is long and tactical, fitted with a large suppressor, scope, and a deployed bipod planted in the mossy forest floor. The elf wears full modern woodland camouflage, tactical gloves, and a leaf-covered ghillie hood and shoulder covering that blends into the undergrowth. Behind and slightly to the right, a second elf crouches low, also with pointed ears and long light hair, wearing matching camouflage and a leafy ghillie cloak, holding binoculars to their eyes while observing. Add tactical chest gear and pouches on the rear scout. Set the scene in a shadowy temperate forest with tall thin trees, tangled branches, moss, roots, and scattered leaves, lit by soft early-morning natural sunlight filtering through the trees from the right side. Use muted green, brown, and gray tones, realistic textures, shallow depth of field, dramatic focus on the rifle and the two camouflaged elves, immersive war-photography composition, tense stealth atmosphere, and high-detail photorealism.",
+  "translatedPrompt": "一个电影级超写实的奇幻军事场景，位于茂密的林地森林地面视角，展示了 2 名伪装的精灵狙击手在侦察目标时的情景。前景中，一名留着浅金色长发、耳朵尖尖的精灵正俯卧在现代精密狙击步枪后，通过瞄准镜进行瞄准。步枪修长且具有战术感，配备了大型消音器、瞄准镜，以及支撑在长满苔藓的林地地面上的两脚架。该精灵身穿全套现代林地迷彩服、战术手套，并戴着覆盖叶片的吉利服头套和肩罩，与灌木丛融为一体。在后方稍靠右侧，第二名精灵低姿蹲伏，同样有着尖耳朵和浅色长发，穿着配套的迷彩服和多叶吉利斗篷，正举着望远镜观察。为后方的侦察兵添加战术胸挂和弹药包。场景设定在阴影笼罩的温带森林中，周围有高而细的树木、纠缠的树枝、苔藓、树根和散落的叶子，由从右侧穿过树木的柔和清晨自然光照亮。采用柔和的绿色、棕色和灰色调，具有逼真的纹理、浅景深，重点突出步枪和两名伪装的精灵，呈现沉浸式战争摄影构图、紧张的潜行氛围以及高细节的照片级真实感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "森林伏击中的精灵狙击小队：此提示词可生成一张照片级逼真的奇幻战斗图像，展示 2 名隐藏在森林中的精灵侦察兵，非常适合电影概念艺术、游戏主视觉图或桌面 RPG 视觉素材。",
+      "subject": "综合主体",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic, fantasy]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15096",
+      "15307",
+      "15739",
+      "14611",
+      "14222",
+      "14806"
+    ]
+  }
+}

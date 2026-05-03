@@ -1,0 +1,45 @@
+{
+  "id": "15753",
+  "prompt": "Create a vibrant tropical commercial poster for a citrus soda bottle, in a bright summer advertising style. Show a single large plastic bottle of {argument name=\"product name\" default=\"Soda\"} centered slightly to the right, tilted a little left, with a yellow cap and transparent bottle covered in cold condensation droplets, filled with glowing golden-orange soda. The label should feature sliced oranges and citrus artwork with the brand text \"{argument name=\"product name\" default=\"Soda\"}\", the phrase \"aux agrumes d'été\", and a small green \"500 ml\" mark. Use a sunny beach background with vivid blue sky, turquoise ocean, soft clouds, and blurred tropical palm leaves entering from the upper right corner. Add dramatic water splashes around the base of the bottle, scattered clear ice cubes, and 5 visible citrus pieces in the foreground: 2 orange wedges, 1 lime half, 1 grapefruit half, and 1 partial orange slice at the far right edge. Place large French promotional text on the left: a huge white headline \"{argument name=\"headline text\" default=\"Soda\"}\" with a small splash accent above it, then yellow script text \"aux agrumes d'été\" underneath. Add a yellow paint-stroke badge at mid-left with the text \"LA FRAÎCHEUR QUI PÉTILLE !\". Add a vertical feature list on the lower left with 3 round icons and French captions: \"SAVEURS NATURELLES\", \"SANS COLORANTS ARTIFICIELS\", and \"EXTRA RAFRAÎCHISSANT\". Add a green brushstroke banner at the bottom left reading \"FORMAT PRATIQUE 500 ml\". Add a round beige eco-style seal at the bottom right with green outline and leaf motif, containing the text \"{argument name=\"seal text\" default=\"PLAISIR FRUITÉ À CHAQUE GORGÉE\"}\". Lighting should be glossy and high-energy with strong sun flare from the upper left, saturated citrus colors, crisp packaging detail, realistic droplets, and polished supermarket-ad realism.",
+  "translatedPrompt": "创作一张充满活力的热带商业海报，展示一瓶柑橘汽水，采用明亮的夏季广告风格。将一瓶 {argument name=\"product name\" default=\"Soda\"} 塑料瓶置于画面中心偏右位置，略微向左倾斜；瓶盖为黄色，透明瓶身上覆盖着冰冷的凝结水珠，瓶内装满闪耀的金橙色汽水。标签上应印有橙子切片和柑橘图案，并带有品牌文字 \"{argument name=\"product name\" default=\"Soda\"}\"、短语 \"aux agrumes d'été\" 以及一个绿色的小型 \"500 ml\" 标志。背景使用阳光明媚的海滩，配以湛蓝的天空、绿松石色的海洋、柔和的云朵以及从右上角伸入的模糊热带棕榈叶。在瓶底周围添加富有动感的水花、散落的透明冰块，并在前景放置 5 个清晰可见的柑橘类水果：2 片橙子瓣、1 个青柠半块、1 个葡萄柚半块，以及最右侧边缘的 1 片橙子切片。在左侧放置醒目的法语促销文字：巨大的白色标题 \"{argument name=\"headline text\" default=\"Soda\"}\"，上方配有一个小水花装饰，下方为黄色的手写体文字 \"aux agrumes d'été\"。在左中部添加一个黄色笔触徽章，文字为 \"LA FRAÎCHEUR QUI PÉTILLE !\"。在左下方添加一个垂直的功能列表，包含 3 个圆形图标和法语说明：\"SAVEURS NATURELLES\"、\"SANS COLORANTS ARTIFICIELS\" 和 \"EXTRA RAFRAÎCHISSANT\"。在左下角添加一个绿色笔触横幅，文字为 \"FORMAT PRATIQUE 500 ml\"。在右下角添加一个圆形的米色生态风格印章，带有绿色轮廓和叶子图案，内含文字 \"{argument name=\"seal text\" default=\"PLAISIR FRUITÉ À CHAQUE GORGÉE\"}\"。光效应呈现出光泽感和高能量，左上方有强烈的太阳光晕，色彩饱和，包装细节清晰，水珠真实，具有精致的超市广告质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "热带柑橘汽水广告海报：一张明亮的法语饮料广告，展示了热带海滩上冰镇的柑橘汽水瓶，非常适合夏季产品营销和包装样机展示。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14652",
+      "15023",
+      "15085",
+      "14850",
+      "15416",
+      "15430"
+    ]
+  }
+}

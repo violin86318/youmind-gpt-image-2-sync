@@ -1,0 +1,36 @@
+{
+  "id": "14326",
+  "prompt": "make me look like a {argument name=\"persona\" default=\"greek god\"} riding a {argument name=\"mount\" default=\"lion\"} in the {argument name=\"setting\" default=\"plains of africa\"}.",
+  "translatedPrompt": "将我描绘成一位 {argument name=\"persona\" default=\"希腊神祇\"}，骑着一只 {argument name=\"mount\" default=\"狮子\"}，背景位于 {argument name=\"setting\" default=\"非洲大草原\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "骑狮的希腊神祇：一个电影感提示词，用于生成一幅史诗级图像：一位化身为希腊神祇的人物骑着狮子穿过非洲大草原。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13446",
+      "13698",
+      "13705",
+      "13716",
+      "13889",
+      "13990"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "13887",
+  "prompt": "{\n  \"type\": \"retro monochrome pixel art visual novel interface\",\n  \"style\": \"1-bit pixel art, black and white, dithered shading, classic Macintosh aesthetic\",\n  \"character\": {\n    \"description\": \"{argument name=\\\"character appearance\\\" default=\\\"anime girl with a high ponytail wearing a dark dress with a white collar\\\"}\",\n    \"pose\": \"standing, hand near chin, thoughtful expression\"\n  },\n  \"background\": {\n    \"setting\": \"room interior\",\n    \"details\": [\n      \"patterned wallpaper with small crosses\",\n      \"framed picture of a night city skyline with a crescent moon\",\n      \"window with curtains\",\n      \"small table with a vase of tulips\",\n      \"rug on the floor\"\n    ]\n  },\n  \"layout\": {\n    \"top_bar\": {\n      \"left\": \"{argument name=\\\"date text\\\" default=\\\"Apr 17\\\"}\",\n      \"center\": \"{argument name=\\\"time text\\\" default=\\\"21:35\\\"}\",\n      \"right\": \"Wi-Fi icon, speaker icon, 31%, battery icon\"\n    },\n    \"panels\": [\n      {\n        \"position\": \"mid-left\",\n        \"title\": \"{argument name=\\\"status panel title\\\" default=\\\"STATUS\\\"}\",\n        \"count\": 6,\n        \"rows\": [\n          \"smiley face icon with solid progress bar\",\n          \"lightning bolt icon with solid progress bar\",\n          \"fork and knife icon with solid progress bar\",\n          \"dollar sign icon with solid progress bar\",\n          \"clock icon with segmented progress bar\",\n          \"calendar icon with segmented progress bar\"\n        ]\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"elements\": [\n          \"audio waveform with a central {argument name=\\\"interaction icon\\\" default=\\\"cat face\\\"} icon\",\n          \"row of 10 hearts, 6 filled and 4 empty\"\n        ]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"复古单色像素艺术视觉小说界面\",\n  \"style\": \"1-bit 像素艺术，黑白配色，抖动阴影，经典 Macintosh 美学\",\n  \"character\": {\n    \"description\": \"{argument name=\\\"character appearance\\\" default=\\\"扎着高马尾的动漫少女，身穿带白色领子的深色连衣裙\\\"}\",\n    \"pose\": \"站立，手托下巴，表情若有所思\"\n  },\n  \"background\": {\n    \"setting\": \"室内场景\",\n    \"details\": [\n      \"带有小十字图案的壁纸\",\n      \"装裱好的新月夜景城市天际线画作\",\n      \"带窗帘的窗户\",\n      \"摆放郁金香花瓶的小桌子\",\n      \"地板上的地毯\"\n    ]\n  },\n  \"layout\": {\n    \"top_bar\": {\n      \"left\": \"{argument name=\\\"date text\\\" default=\\\"4 月 17 日\\\"}\",\n      \"center\": \"{argument name=\\\"time text\\\" default=\\\"21:35\\\"}\",\n      \"right\": \"Wi-Fi 图标、扬声器图标、31%、电池图标\"\n    },\n    \"panels\": [\n      {\n        \"position\": \"中左\",\n        \"title\": \"{argument name=\\\"status panel title\\\" default=\\\"状态\\\"}\",\n        \"count\": 6,\n        \"rows\": [\n          \"笑脸图标及实心进度条\",\n          \"闪电图标及实心进度条\",\n          \"刀叉图标及实心进度条\",\n          \"美元符号图标及实心进度条\",\n          \"时钟图标及分段进度条\",\n          \"日历图标及分段进度条\"\n        ]\n      },\n      {\n        \"position\": \"右下\",\n        \"elements\": [\n          \"带有中心 {argument name=\\\"interaction icon\\\" default=\\\"猫脸\\\"} 图标的音频波形\",\n          \"一行 10 颗心，6 颗填充，4 颗为空\"\n        ]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古像素风 UI 样机：生成一个 1-bit 单色像素艺术风格的视觉小说界面，包含角色、背景细节以及多个状态面板。",
+      "subject": "界面",
+      "scene": "空间/场景",
+      "composition": [],
+      "style": [
+        "anime",
+        "retro",
+        "pixel art"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "空间概念、建筑场景、游戏场景、产品场景盒子",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 空间/场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime, retro, pixel art]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15328",
+      "13690",
+      "13971",
+      "14067",
+      "14255",
+      "14686"
+    ]
+  }
+}

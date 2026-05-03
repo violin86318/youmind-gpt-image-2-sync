@@ -1,0 +1,49 @@
+{
+  "id": "14690",
+  "prompt": "Using the provided reference image, turn the technical engineering spec sheet into a clean studio product hero render of the same jellyfish-shaped kitchen utensil holder. Keep the overall product design, translucent blue dome cap, silver base, and the same 4 hanging utensils: 1 slotted spatula, 1 pasta server, and 2 spoons. Remove all blueprint elements, including the exploded view, dimension lines, labels, tables, notes, and title block. Show only the assembled product centered in frame, front-facing, isolated against a minimal light gray background with a white surface, soft diffused lighting, subtle realistic shadows, and glossy premium materials. Make it look like a contemporary industrial design catalog or e-commerce product photograph.",
+  "translatedPrompt": "使用提供的参考图像，将技术工程规格表转换为同一个水母形状厨房用具架的干净摄影级产品主图。保留整体产品设计、半透明蓝色圆顶盖、银色底座以及 4 件悬挂用具：1 个漏勺、1 个意面捞勺和 2 个汤勺。移除所有蓝图元素，包括爆炸图、尺寸线、标签、表格、注释和标题栏。仅展示居中对齐、正面朝向的组装成品，背景为极简浅灰色，置于白色平面上，采用柔和的漫射光，带有细腻逼真的阴影，并呈现出高级的光泽质感。使其看起来像是一张现代工业设计目录或电商产品摄影图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "从蓝图生成摄影级产品渲染图：此提示词可将技术产品图纸转换为适用于产品目录、工业设计或电商展示的极简写实风格主图。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [
+        "centered",
+        "exploded view",
+        "front-facing"
+      ],
+      "style": [
+        "realistic",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, exploded view, front-facing]。\n\nVisual style:\n[参考风格: realistic, premium, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14889",
+      "15639",
+      "15775",
+      "14812",
+      "15068",
+      "14954"
+    ]
+  }
+}

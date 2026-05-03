@@ -1,0 +1,31 @@
+{
+  "id": "13876",
+  "prompt": "{argument name=\"摄影风格\" default=\"35毫米胶片摄影\"}，温暖复古的{argument name=\"主题\" default=\"日式温泉旅馆\"}美学，{argument name=\"灯光\" default=\"柔和的木质灯笼灯光\"}与柔和的自然窗光交相辉映，胶片颗粒细腻，色彩柔和，营造出高雅的时尚大片风格。复古电影般的色彩调校，温暖的色调，肌肤呈现极其清晰却又柔和，发丝自然，水波荡漾，蒸汽缭绕，没有丝毫矫揉造作",
+  "translatedPrompt": "{argument name=\"photography style\" default=\"35mm 胶片摄影\"}，温暖复古的 {argument name=\"theme\" default=\"日式温泉旅馆\"} 美学，{argument name=\"lighting\" default=\"柔和的木质灯笼光\"} 与窗外自然光交织，细腻的胶片颗粒感，柔和的色彩，营造出优雅的时尚杂志风格。复古电影色调，暖色调，皮肤看起来既清晰又柔和，自然的头发丝，波光粼粼的水面，缭绕的蒸汽，没有任何人工痕迹",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古日式温泉摄影：一个用于生成电影感、35mm 胶片风格图像的精美提示词，描绘了传统日式温泉旅馆，具有温暖柔和的灯光和逼真的质感。",
+      "subject": "综合主体",
+      "scene": "摄影/真实场景",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15507",
+      "15526",
+      "15594",
+      "13661",
+      "15524",
+      "13677"
+    ]
+  }
+}

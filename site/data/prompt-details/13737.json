@@ -1,0 +1,37 @@
+{
+  "id": "13737",
+  "prompt": "A candid, warm-toned photograph of two men sitting at a table in a {argument name=\"setting\" default=\"dimly lit upscale restaurant at night\"}. On the left is a {argument name=\"left person description\" default=\"man with dark hair wearing a dark grey crewneck sweater\"}. On the right is a {argument name=\"right person description\" default=\"man with glasses and receding curly dark hair wearing a dark blue sweater over a collared shirt\"}. They are {argument name=\"emotion and action\" default=\"celebrating enthusiastically, mouths wide open cheering, clasping one hand together while raising their other fists in triumph\"}. The table is covered with a white tablecloth and features two menus with the text \"THE GREENE\", water glasses, a glass of red wine, and a small lit candle in a ribbed glass holder. The background shows blurred restaurant interiors and dark windows with distant city lights, creating an intimate and joyful atmosphere.",
+  "translatedPrompt": "一张色调温暖的抓拍照片，两名男子坐在 {argument name=\"setting\" default=\"夜晚灯光昏暗的高端餐厅\"} 的餐桌旁。左侧是 {argument name=\"left person description\" default=\"一位留着深色头发、身穿深灰色圆领毛衣的男子\"}。右侧是 {argument name=\"right person description\" default=\"一位戴着眼镜、留着深色卷发且发际线后移、身穿深蓝色毛衣内搭衬衫的男子\"}。他们正在 {argument name=\"emotion and action\" default=\"热情地庆祝，张大嘴巴欢呼，一只手紧紧握在一起，另一只手握拳高举，以示胜利\"}。餐桌上铺着白色桌布，摆放着两份印有“THE GREENE”字样的菜单、水杯、一杯红酒以及一个放在罗纹玻璃烛台里的小蜡烛。背景呈现出模糊的餐厅内景和带有远处城市灯光的深色窗户，营造出一种亲密而欢乐的氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "两名男子在餐厅庆祝：一张两名男子在高端餐厅餐桌旁热情庆祝的抓拍照片。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13524",
+      "13556",
+      "13659",
+      "13682",
+      "13796",
+      "13871"
+    ]
+  }
+}

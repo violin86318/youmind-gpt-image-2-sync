@@ -1,0 +1,41 @@
+{
+  "id": "13755",
+  "prompt": "A photorealistic, casual smartphone photo of a young woman with {argument name=\"hair style and color\" default=\"long blonde balayage hair\"} sitting at a table in a {argument name=\"setting\" default=\"wine bar\"}. She is wearing a {argument name=\"outfit\" default=\"dark brown leather blazer\"}. She is resting her chin on her right hand, which has a simple gold ring, and making a {argument name=\"expression\" default=\"playful pursed-lip expression while looking off to the side\"}. In the foreground on the white tablecloth, there is a water glass and a {argument name=\"drink\" default=\"large wine glass containing red wine\"}. The background features brightly illuminated modern shelving fully stocked with various wine bottles. Warm, inviting indoor lighting.",
+  "translatedPrompt": "一张写实风格的休闲手机摄影照片，展示了一位留着 {argument name=\"hair style and color\" default=\"金色挑染长发\"} 的年轻女性，正坐在 {argument name=\"setting\" default=\"葡萄酒吧\"} 的桌前。她身穿一件 {argument name=\"outfit\" default=\"深棕色皮质西装外套\"}。她用右手托着下巴，手上戴着一枚简约的金戒指，并做出一个 {argument name=\"expression\" default=\"俏皮地嘟起嘴看向一侧\"} 的表情。前景的白色桌布上放着一个水杯和一杯 {argument name=\"drink\" default=\"盛有红酒的大号高脚杯\"}。背景是灯光璀璨的现代货架，上面摆满了各种葡萄酒。室内光线温暖宜人。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "休闲酒吧人像：生成一张写实风格的抓拍人像，展示一个人坐在餐厅桌前，桌上有饮品，背景为灯光照亮的货架。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13758",
+      "13908",
+      "13816",
+      "13923",
+      "14016",
+      "14693"
+    ]
+  }
+}

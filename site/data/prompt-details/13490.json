@@ -1,0 +1,41 @@
+{
+  "id": "13490",
+  "prompt": "①场景 {argument name=\"场景描述\" default=\"跨海大桥的侧面\"}，dramatic cinematic angle。 巨型 bold sans-serif 文字「___②文字内容 {argument name=\"文字内容\" default=\"跨海大桥\"}」painted onto the surface of ___③主体物 无，从靠近镜头的前端开始，沿表面向远端 progressively foreshortens 逐渐透视压缩，letterforms conform to surface curvature 贴合物体曲面，surface-integrated not floating。 文字部分区域被 无___④前景遮挡物 无___ occluded and hidden，在间隙中露出， 形成 depth-layering 纵深穿插效果。 {argument name=\"文字颜色与样式\" default=\"Oversized bright yellow + sharp orange outline\"}，extreme perspective distortion aligned to vanishing point。Cinematic lighting, motion blur, poster-grade dynamic integrated typography, modern advertising aesthetics。",
+  "translatedPrompt": "① 场景 {argument name=\"scene description\" default=\"跨海大桥侧面\"}，戏剧性的电影级视角。巨大的粗体无衬线文字 \"___② 文字内容 {argument name=\"text content\" default=\"跨海大桥\"}\" 绘制在 ___③ 主体：无，从镜头前的近处向远端逐渐透视缩减。字形贴合表面曲率，与表面融为一体而非悬浮。部分文字区域被 ___④ 前景物体：无，遮挡，在缝隙中露出以营造深度层次感。{argument name=\"text color and style\" default=\"超大号亮黄色 + 锐利橙色轮廓\"}，极端的透视畸变与消失点对齐。电影级光影，运动模糊，海报级动态融合排版。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "3D 透视文字效果提示词：一个用于生成融入场景（如跨海大桥）且具有戏剧性电影级光影的 3D 透视文字的技术提示词。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "3d"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, 3d]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13957",
+      "13839",
+      "14905",
+      "13699",
+      "14842",
+      "14950"
+    ]
+  }
+}

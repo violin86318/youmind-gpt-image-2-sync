@@ -1,0 +1,55 @@
+{
+  "id": "14804",
+  "prompt": "{\"type\":\"brand book presentation board\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"YOYOYO\\\"}\",\"industry\":\"creative tech yoyo brand\",\"version\":\"VERSION 1.0\",\"website\":\"{argument name=\\\"website\\\" default=\\\"YOYOYO.COM\\\"}\",\"taglines\":[\"PLAY SERIOUSLY.\",\"CREATE OBSESSIVELY.\"],\"social\":\"@YOYOYO\"},\"style\":{\"overall\":\"premium futuristic graphic design, bold Swiss-inspired layout, black grid borders, high contrast editorial branding board\",\"palette\":[{\"name\":\"VOLUME\",\"hex\":\"#D9FF00\",\"description\":\"neon lime\"},{\"name\":\"POCKET ORANGE\",\"hex\":\"#FF6A00\",\"description\":\"bright orange\"},{\"name\":\"HYPER VIOLET\",\"hex\":\"#6A00FF\",\"description\":\"electric violet\"},{\"name\":\"ELECTRIC PINK\",\"hex\":\"#FF2BC2\",\"description\":\"hot magenta\"},{\"name\":\"CYBER MINT\",\"hex\":\"#A8FFD8\",\"description\":\"soft mint\"},{\"name\":\"DEEP BLACK\",\"hex\":\"#0A0A0A\",\"description\":\"rich black\"},{\"name\":\"PURE WHITE\",\"hex\":\"#FFFFFF\",\"description\":\"clean white\"},{\"name\":\"CHROME\",\"hex\":\"#C0C0C0\",\"description\":\"reflective silver\"}],\"materials\":[\"glossy translucent plastic\",\"chrome metal\",\"black matte surfaces\",\"neon gradients\"]},\"layout\":{\"format\":\"3 rows by 3 columns plus bottom footer strip\",\"sections\":[{\"index\":\"cover\",\"position\":\"top-left\",\"title\":\"brand kit cover\",\"count\":1,\"elements\":[\"large {argument name=\\\"brand name\\\" default=\\\"YOYOYO\\\"} wordmark across the top\",\"small text BRAND KIT\",\"small text VERSION 1.0\",\"oversized glossy macro yoyo render in orange, pink, and purple on neon lime background\",\"small slogan at bottom left: PLAY SERIOUSLY. CREATE OBSESSIVELY.\"]},{\"index\":\"01\",\"position\":\"top-center\",\"title\":\"BRAND OVERVIEW\",\"count\":2,\"elements\":[\"left-aligned white headline and body copy on black background\",\"large metallic chrome-purple robotic hand holding a neon lime yoyo on the right\"]},{\"index\":\"02\",\"position\":\"top-right\",\"title\":\"LOGO\",\"count\":4,\"elements\":[\"main black wordmark on white background\",\"small logo variation in black on white\",\"logo reversed on neon lime square\",\"round emblem or badge mark in black\"]},{\"index\":\"03\",\"position\":\"middle-left\",\"title\":\"COLOR SYSTEM\",\"count\":8,\"elements\":[\"8 labeled color swatches arranged in a clean grid: VOLUME, POCKET ORANGE, HYPER VIOLET, ELECTRIC PINK, CYBER MINT, DEEP BLACK, PURE WHITE, CHROME\",\"short paragraph describing the energetic futuristic palette\"]},{\"index\":\"04\",\"position\":\"middle-center\",\"title\":\"TYPOGRAPHY\",\"count\":2,\"elements\":[\"large sample text AaBbCc123\",\"weight list showing 4 styles: Neue Montreal Light, Neue Montreal Regular, Neue Montreal Medium, Neue Montreal Bold\",\"usage example with stacked slogan PLAY SERIOUSLY. CREATE OBSESSIVELY.\"]},{\"index\":\"05\",\"position\":\"middle-right\",\"title\":\"VISUAL LANGUAGE\",\"count\":6,\"elements\":[\"6 image tiles in a 2 by 3 collage\",\"abstract product photography\",\"purple radial texture with black center\",\"orange yoyo detail on pink background\",\"pink staircase scene\",\"silhouette figure in a pink-purple set\",\"floating chrome and purple pedestal object\"]},{\"index\":\"06\",\"position\":\"bottom-left\",\"title\":\"PRODUCT EXPLORATION\",\"count\":5,\"elements\":[\"5 floating yoyo product variants labeled HYPER LOOP LIME, HYPER LOOP ORANGE, HYPER LOOP CLEAR, HYPER LOOP VIOLET, HYPER LOOP NIGHT\",\"5 feature icons with captions: HIGH-SPIN BEARING, CNC ALUMINUM, RESPONSIVE SYSTEM, PRECISION BALANCED, DESIGNED TO FLOW\"]},{\"index\":\"07\",\"position\":\"bottom-center\",\"title\":\"PACKAGING DESIGN\",\"count\":4,\"elements\":[\"stacked packaging mockups on black background\",\"neon lime box\",\"iridescent gradient box\",\"black box with bold branding\",\"hot pink drawer-style box\"]},{\"index\":\"08\",\"position\":\"bottom-right\",\"title\":\"APPLICATIONS\",\"count\":6,\"elements\":[\"6 application mockups arranged in a grid\",\"smartphone ad\",\"billboard\",\"mobile app screen\",\"retail or event interior\",\"black t-shirt\",\"laptop website mockup\"]}],\"footer\":{\"count\":4,\"elements\":[\"small {argument name=\\\"brand name\\\" default=\\\"YOYOYO\\\"} wordmark at left\",\"tagline PLAY SERIOUSLY.\",\"tagline CREATE OBSESSIVELY.\",\"website and social handle at right\"]}},\"imagery\":{\"product\":\"sleek premium yo-yo rendered as a collectible tech object\",\"rendering\":\"hyper-real 3D CGI with glossy reflections, translucent rims, metallic cores, dramatic studio lighting\",\"mood\":\"energetic, obsessive, innovative, youth-tech luxury\"},\"composition\":{\"background\":\"alternating black and white panels with thin grid lines\",\"camera\":\"front-facing flat presentation board\",\"aspect_ratio\":\"16:9\",\"finish\":\"polished agency-style brand guidelines sheet suitable for pitch decks, launch decks, and social posts\"}}",
+  "translatedPrompt": "{\"type\":\"品牌手册演示项目\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"YOYOYO\\\"}\",\"industry\":\"创意科技溜溜球品牌\",\"version\":\"版本 1.0\",\"website\":\"{argument name=\\\"website\\\" default=\\\"YOYOYO.COM\\\"}\",\"taglines\":[\"PLAY SERIOUSLY.\",\"CREATE OBSESSIVELY.\"],\"social\":\"@YOYOYO\"},\"style\":{\"overall\":\"高端未来感图形设计，大胆的瑞士风格排版，黑色网格边框，高对比度编辑风格品牌项目\",\"palette\":[{\"name\":\"VOLUME\",\"hex\":\"#D9FF00\",\"description\":\"霓虹青柠色\"},{\"name\":\"POCKET ORANGE\",\"hex\":\"#FF6A00\",\"description\":\"亮橙色\"},{\"name\":\"HYPER VIOLET\",\"hex\":\"#6A00FF\",\"description\":\"电光紫\"},{\"name\":\"ELECTRIC PINK\",\"hex\":\"#FF2BC2\",\"description\":\"热粉色\"},{\"name\":\"CYBER MINT\",\"hex\":\"#A8FFD8\",\"description\":\"柔和薄荷色\"},{\"name\":\"DEEP BLACK\",\"hex\":\"#0A0A0A\",\"description\":\"深邃黑\"},{\"name\":\"PURE WHITE\",\"hex\":\"#FFFFFF\",\"description\":\"纯净白\"},{\"name\":\"CHROME\",\"hex\":\"#C0C0C0\",\"description\":\"反光银\"}],\"materials\":[\"光面半透明塑料\",\"镀铬金属\",\"哑光黑表面\",\"霓虹渐变\"]},\"layout\":{\"format\":\"3 行 3 列外加底部页脚条\",\"sections\":[{\"index\":\"cover\",\"position\":\"左上\",\"title\":\"品牌工具包封面\",\"count\":1,\"elements\":[\"顶部横跨大号 {argument name=\\\"brand name\\\" default=\\\"YOYOYO\\\"} 字标\",\"小字 BRAND KIT\",\"小字 版本 1.0\",\"霓虹青柠背景上超大号光面微距溜溜球渲染图，呈现橙、粉、紫三色\",\"左下角小标语：PLAY SERIOUSLY. CREATE OBSESSIVELY.\"]},{\"index\":\"01\",\"position\":\"中上\",\"title\":\"品牌概览\",\"count\":2,\"elements\":[\"黑色背景上左对齐的白色标题和正文\",\"右侧为巨大的金属铬紫色机械手握着霓虹青柠色溜溜球\"]},{\"index\":\"02\",\"position\":\"右上\",\"title\":\"LOGO\",\"count\":4,\"elements\":[\"白色背景上的主黑色字标\",\"白色背景上的小号 Logo 变体\",\"霓虹青柠色方块上的反色 Logo\",\"黑色圆形徽章或标志\"]},{\"index\":\"03\",\"position\":\"左中\",\"title\":\"色彩系统\",\"count\":8,\"elements\":[\"8 个带标签的色块整齐排列：VOLUME, POCKET ORANGE, HYPER VIOLET, ELECTRIC PINK, CYBER MINT, DEEP BLACK, PURE WHITE, CHROME\",\"描述充满活力、未来感调色板的简短段落\"]},{\"index\":\"04\",\"position\":\"正中\",\"title\":\"字体排版\",\"count\":2,\"elements\":[\"大号示例文本 AaBbCc123\",\"包含 4 种字重的列表：Neue Montreal Light, Neue Montreal Regular, Neue Montreal Medium, Neue Montreal Bold\",\"带有堆叠标语 PLAY SERIOUSLY. CREATE OBSESSIVELY. 的使用示例\"]},{\"index\":\"05\",\"position\":\"右中\",\"title\":\"视觉语言\",\"count\":6,\"elements\":[\"6 个图像板块组成的 2x3 拼贴画\",\"抽象产品摄影\",\"带黑色中心的紫色放射状纹理\",\"粉色背景上的橙色溜溜球细节\",\"粉色楼梯场景\",\"粉紫色布景中的剪影人物\",\"悬浮的铬紫色底座物体\"]},{\"index\":\"06\",\"position\":\"左下\",\"title\":\"产品探索\",\"count\":5,\"elements\":[\"5 个悬浮的溜溜球产品变体，分别标注为 HYPER LOOP LIME, HYPER LOOP ORANGE, HYPER LOOP CLEAR, HYPER LOOP VIOLET, HYPER LOOP NIGHT\",\"5 个带说明的功能图标：HIGH-SPIN BEARING, CNC ALUMINUM, RESPONSIVE SYSTEM, PRECISION BALANCED, DESIGNED TO FLOW\"]},{\"index\":\"07\",\"position\":\"中下\",\"title\":\"包装设计\",\"count\":4,\"elements\":[\"黑色背景上的堆叠包装样机\",\"霓虹青柠色包装盒\",\"幻彩渐变包装盒\",\"带有醒目品牌标识的黑色包装盒\",\"热粉色抽屉式包装盒\"]},{\"index\":\"08\",\"position\":\"右下\",\"title\":\"应用场景\",\"count\":6,\"elements\":[\"6 个网格排列的应用样机\",\"智能手机广告\",\"户外广告牌\",\"移动应用界面\",\"零售或活动室内设计\",\"黑色 T 恤\",\"笔记本电脑网页样机\"]}],\"footer\":{\"count\":4,\"elements\":[\"左侧小号 {argument name=\\\"brand name\\\" default=\\\"YOYOYO\\\"} 字标\",\"标语 PLAY SERIOUSLY.\",\"标语 CREATE OBSESSIVELY.\",\"右侧网站及社交账号\"]}},\"imagery\":{\"product\":\"渲染为收藏级科技产品的高端溜溜球\",\"rendering\":\"超写实 3D CGI，具有光面反射、半透明边缘、金属核心及戏剧性的摄影棚灯光\",\"mood\":\"充满活力、执着、创新、青年科技奢华感\"},\"composition\":{\"background\":\"交替的黑白面板，带有细网格线\",\"camera\":\"正视平面演示项目\",\"aspect_ratio\":\"16:9\",\"finish\":\"精致的代理商风格品牌指南页，适用于提案演示、发布演示及社交媒体发布\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "未来感溜溜球品牌手册项目：一个为未来感溜溜球公司设计的精致多板块品牌识别项目，适用于生成品牌手册、发布演示文稿及视觉识别展示。",
+      "subject": "界面",
+      "scene": "产品/电商",
+      "composition": [
+        "grid",
+        "front-facing"
+      ],
+      "style": [
+        "editorial",
+        "3d",
+        "luxury",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting",
+        "neon",
+        "high contrast",
+        "camera"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, front-facing]。\n\nVisual style:\n[参考风格: editorial, 3d, luxury, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting, neon, high contrast, camera]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15648",
+      "14933",
+      "14177",
+      "15616",
+      "14646",
+      "14889"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "13616",
+  "prompt": "Using REFERENCE_0 as the base, transform the flat coloring into a {argument name=\"rendering style\" default=\"highly detailed, glossy anime illustration style\"}. Apply deep shading, dramatic lighting, and bright specular highlights, particularly on the character's skin, hair, and tail. Enhance the clothing folds and give metallic accents a realistic sheen. Change the background to {argument name=\"background color\" default=\"solid black\"}.",
+  "translatedPrompt": "以 REFERENCE_0 为基础，将扁平配色转换为 {argument name=\"rendering style\" default=\"高细节、光泽感动漫插画风格\"}。应用深层阴影、戏剧性光影以及明亮的高光，特别是在角色的皮肤、头发和尾巴上。增强衣物褶皱感，并赋予金属装饰真实的质感。将背景更改为 {argument name=\"background color\" default=\"纯黑色\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "光泽感动漫渲染转换：将扁平配色的角色参考图转换为具有戏剧性光影和纯色背景的高渲染度光泽感动漫插画。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "anime"
+      ],
+      "lightingCamera": [
+        "dramatic lighting"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, anime]。\n\nLighting and camera:\n[参考光线镜头: dramatic lighting]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13618",
+      "13467",
+      "13595",
+      "13949",
+      "14016",
+      "14152"
+    ]
+  }
+}

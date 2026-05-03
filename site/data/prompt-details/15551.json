@@ -1,0 +1,35 @@
+{
+  "id": "15551",
+  "prompt": "{argument name=\"主题\" default=\"中国古代四大美女\"}明信片，西施浣纱昭君出塞貂蝉拜月贵妃醉酒。请依次生成四张图。",
+  "translatedPrompt": "{argument name=\"theme\" default=\"中国古代四大美女\"} 明信片，具体包括：西施浣纱、昭君出塞、貂蝉拜月以及贵妃醉酒。请按顺序生成四张图像。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "中国古代四大美女明信片提示词：一套使用 GPT-Image-2 生成中国古代四大美女主题明信片的提示词。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

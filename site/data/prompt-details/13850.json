@@ -1,0 +1,39 @@
+{
+  "id": "13850",
+  "prompt": "Generate an image as if it were taken at {argument name=\"location\" default=\"52.5186° N, 13.3762° E\"}, {argument name=\"date\" default=\"May 8, 1945, 16:00 hours\"}. Generate a single image in a {argument name=\"aspect ratio\" default=\"1:1\"} aspect ratio, arranged in a clean 2x2 grid with four equal panels showing different views.",
+  "translatedPrompt": "生成一张图像，模拟在 {argument name=\"location\" default=\"52.5186° N, 13.3762° E\"}，{argument name=\"date\" default=\"1945 年 5 月 8 日 16:00\"} 拍摄的效果。生成一张 {argument name=\"aspect ratio\" default=\"1:1\"} 长宽比的图像，以整洁的 2x2 网格排列，包含四个展示不同视角的等分面板。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "历史坐标网格生成：一个旨在根据特定地理坐标和 1945 年的历史时间戳生成 2x2 图像网格的提示词。",
+      "subject": "综合主体",
+      "scene": "综合视觉",
+      "composition": [
+        "grid",
+        "2x2"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "构图",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "风格对比、产品系列、前后对照、角色变体",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 综合视觉 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, 2x2]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14376",
+      "14162",
+      "14556",
+      "14895",
+      "14011",
+      "14181"
+    ]
+  }
+}

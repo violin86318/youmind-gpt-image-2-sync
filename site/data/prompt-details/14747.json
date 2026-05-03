@@ -1,0 +1,33 @@
+{
+  "id": "14747",
+  "prompt": "图片1：{argument name=\"派系A\" default=\"汽车人\"}全员月球基地集结，地球悬于身后星空，赛博坦旗帜飘扬\n\n图片2：{argument name=\"派系B\" default=\"霸天虎\"}全员列阵外星战舰甲板，威震天坐于王座俯视全军",
+  "translatedPrompt": "图片 1：所有 {argument name=\"faction A\" default=\"Autobots\"} 在月球基地集结，背景是星空中悬挂的地球，Cybertron 的旗帜在飘扬。\n\n图片 2：所有 {argument name=\"faction B\" default=\"Decepticons\"} 在外星战舰甲板上列阵，Megatron 坐在王座上俯瞰整支军队。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "变形金刚太空场景提示词：用于生成变形金刚（Autobots 和 Decepticons）太空场景电影感画面的提示词。",
+      "subject": "文字符号",
+      "scene": "图标/贴纸",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "图标包、贴纸、表情、产品功能图标",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 图标/贴纸 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13900",
+      "14138",
+      "14517",
+      "15059",
+      "13906",
+      "15029"
+    ]
+  }
+}

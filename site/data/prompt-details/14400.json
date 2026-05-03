@@ -1,0 +1,48 @@
+{
+  "id": "14400",
+  "prompt": "Create a hyper-realistic open-world crime video game screenshot in the style of a modern Miami-inspired beach club mission scene, captured in bright midday sunlight with a clear blue sky. Show a third-person gameplay-like composition with {argument name=\"character description\" default=\"a young adult man with short dark hair, light skin, wearing a plain black t-shirt and patterned swim shorts\"} seated casually in the foreground on pale sand, turned slightly to the side as if the player camera stopped near him. Place him large in frame, off-center left, with natural relaxed body posture. Behind him, depict an upscale beachfront club with exactly 3 white cabanas with flowing curtains visible across the sand, multiple tall palm trees, turquoise ocean water on the left, and an art-deco hotel strip on the right with pastel facades and neon accents. Populate the beach with a lively crowd of exactly 12 background people in swimwear: some standing and chatting, some walking near the shoreline, and exactly 2 seated at a dining table on the right with food and drinks. Include white lounge furniture, umbrellas, and a polished social party atmosphere. Add a convincing video game HUD overlay: a square mini-map in the bottom-left labeled {argument name=\"map label\" default=\"GPS Route\"}, weapon and control icons in the bottom-right, and a money counter in the top-right reading {argument name=\"money amount\" default=\"$45,670\"}. The overall feel should resemble a next-gen Grand Theft Auto VI gameplay screenshot, cinematic but clearly in-game, with sharp environmental detail, realistic shadows, vibrant coastal color grading, and subtle satirical luxury-beach energy in {argument name=\"city setting\" default=\"Vice City\"}.",
+  "translatedPrompt": "创作一张超逼真的开放世界犯罪类电子游戏截图，风格参考现代迈阿密风格的海滩俱乐部任务场景，画面呈现于明亮的午后阳光下，天空湛蓝。采用类似第三人称游戏视角的构图，前景中坐着 {argument name=\"character description\" default=\"一位留着深色短发、肤色白皙的年轻男子，身穿纯黑色 T 恤和印花泳裤\"}，他随意地坐在浅色沙滩上，身体微微侧向一旁，仿佛玩家视角在他身旁停下。将他置于画面左侧偏中心位置，占据较大比例，姿态自然放松。在他身后，描绘一个高档海滩俱乐部，沙滩上清晰可见 3 个带有飘逸窗帘的白色凉亭，种植着多棵高大的棕榈树，左侧是绿松石色的海水，右侧是一排具有装饰艺术风格的酒店，外墙呈柔和色调并带有霓虹装饰。海滩上布满了 12 位身着泳装的背景人群：有人站着聊天，有人在岸边行走，另有 2 人坐在右侧的餐桌旁享用餐饮。画面包含白色休闲家具、遮阳伞，营造出精致的社交派对氛围。添加逼真的游戏 HUD 界面：左下角是一个标有 {argument name=\"map label\" default=\"GPS 路线\"} 的方形小地图，右下角显示武器和控制图标，右上角显示金额为 {argument name=\"money amount\" default=\"$45,670\"} 的金钱计数器。整体观感应类似于次世代《Grand Theft Auto VI》的游戏截图，具有电影感且呈现出明显的游戏内质感，细节丰富、阴影真实、色彩分级充满活力的海岸气息，并带有 {argument name=\"city setting\" default=\"罪恶都市\"} 中那种微妙的奢华海滩讽刺感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "GTA 风格海滩俱乐部游戏截图：一张逼真的次世代开放世界游戏截图，展示了位于热闹奢华海滩俱乐部的可玩角色，非常适合制作 GTA 风格的宣传视觉图或社交媒体对比图。",
+      "subject": "人物",
+      "scene": "信息图/图解",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic",
+        "luxury"
+      ],
+      "lightingCamera": [
+        "neon",
+        "camera"
+      ],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "城市美食地图、活动导览、园区地图、旅行视觉",
+      "whySelected": "得分 67；风格: realistic, cinematic, luxury；要求精确文字；包含标注/说明"
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic, luxury]。\n\nLighting and camera:\n[参考光线镜头: neon, camera]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14401",
+      "15652",
+      "14088",
+      "15376",
+      "15638",
+      "13514"
+    ]
+  }
+}

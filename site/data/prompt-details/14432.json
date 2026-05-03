@@ -1,0 +1,51 @@
+{
+  "id": "14432",
+  "prompt": "Create a high-impact vertical mobile game advertisement poster in glossy anime action style, with a dramatic cyber-samurai fantasy aesthetic and dense, premium gacha-RPG promotional composition. The main scene shows 2 young adult male fighters in modern black business suits crouching aggressively in the foreground, each drawing a katana toward the viewer. Both have styled blond hair, sharp handsome features, white dress shirts, blue neckties, and intense action poses, with foreshortened hands and swords dominating the lower foreground. One sword has a blue ribbon tied near the hilt. Behind them, centered and towering, place 1 massive armored mecha samurai with ornate gold horns, layered metallic blue-black armor, glowing blue eyes, and a sheathed sword across its back, framed like a guardian deity. Use a vivid neon city and energy-burst backdrop in electric blue, violet, magenta, and gold, with light streaks, sparks, petals, slash effects, and ink-brush explosion textures. Add 1 vertical black brushstroke banner on the upper right with bold white Japanese text reading 「この刃で、未来を斬り拓け。」. Across the middle-lower area, place 1 huge gold Japanese calligraphy headline with thick brush texture and black shadow reading 「切り捨て御免」, spanning nearly the full width. In the lower left, embed 1 framed gameplay screenshot panel with a gold border, showing a night battle in front of a red Japanese temple courtyard, 1 playable swordsman in combat, multiple enemies, floating damage numbers including 5324, 5329, and 6132, a left-side virtual joystick, 5 character portraits total arranged vertically and along the bottom, 3 circular skill buttons on the right, and a top HUD showing a timer around 01:28 and WAVE 3/3. In the lower right, place 1 large black-and-white QR code inside a white square frame. Beneath and beside it, add bold Japanese text in white with blue outline reading 「今すぐダウンロード」. At the very bottom, include 2 official-style store badges: App Store on the left and Google Play on the right. Overall look: ultra-detailed, polished key art, dynamic perspective, metallic highlights, sharp cel-shaded anime rendering, premium mobile game marketing poster, intense action energy, cinematic lighting, and layered UI-heavy promotional layout.",
+  "translatedPrompt": "创作一张具有高冲击力的竖版手游广告海报，采用光泽感动漫动作风格，呈现极具戏剧性的赛博武士幻想美学，以及紧凑、高级的抽卡 RPG 推广构图。主画面展示了 2 名年轻男性战士，他们身穿现代黑色商务西装，在前景中呈进攻姿态蹲伏，每人都在向观众拔出武士刀。两人均留着时尚的金发，五官轮廓分明、英俊帅气，身穿白色衬衫，系着蓝色领带，动作姿势充满张力，近大远小的手部和剑身占据了下方前景。其中一把剑的护手附近系着一条蓝色丝带。在他们身后居中位置，放置 1 个巨大的装甲机甲武士，它拥有华丽的金色犄角、层叠的金属蓝黑色盔甲、发光的蓝色眼睛，背部横跨着一把收鞘的剑，宛如守护神一般。背景采用生动的霓虹城市和能量爆发效果，主色调为电光蓝、紫罗兰、洋红色和金色，并辅以光束、火花、花瓣、斩击特效和水墨爆炸纹理。在右上角添加 1 个竖向黑色笔触横幅，上面用醒目的白色日文写着「この刃で、未来を斬り拓け。」。在中下部区域，放置 1 个巨大的金色日文书法标题，带有厚重的笔触质感和黑色阴影，写着「切り捨て御免」，几乎横跨整个画面宽度。在左下角，嵌入 1 个带有金色边框的游戏截图面板，展示了红色日本寺庙庭院前的夜战场景，1 名可操作的剑客正在战斗，周围有多个敌人，漂浮的伤害数字包括 5324、5329 和 6132，左侧设有虚拟摇杆，底部及侧边共排列 5 个角色头像，右侧有 3 个圆形技能按钮，顶部 HUD 显示计时器约为 01:28 和 WAVE 3/3。在右下角，放置 1 个巨大的黑白二维码，置于白色方框内。在其下方和侧面，添加带有蓝色描边的白色粗体日文「今すぐダウンロード」。在最底部，包含 2 个官方风格的应用商店徽标：左侧为 App Store，右侧为 Google Play。整体外观：超精细、精致的关键视觉图、动态视角、金属高光、锐利的赛璐珞动漫渲染、高级手游营销海报、强烈的动作能量、电影级光影以及层级丰富的重 UI 推广布局。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫武士游戏广告海报：一款华丽的竖版手游广告，展示了两名身穿西装的剑客、一个巨大的武士机甲、游戏 UI、二维码以及用于应用推广的应用商店下载提示。",
+      "subject": "人物",
+      "scene": "插画/漫画",
+      "composition": [
+        "centered",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "fantasy",
+        "premium"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "动漫分镜、战斗场景、运动瞬间、夸张叙事图",
+      "whySelected": "得分 73；构图: centered, layered, vertical；风格: cinematic, anime, fantasy, premium；包含文字或排版元素"
+    },
+    "copyTemplate": "Create a 插画/漫画 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, layered, vertical]。\n\nVisual style:\n[参考风格: cinematic, anime, fantasy, premium]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14528",
+      "15800",
+      "15374",
+      "15798",
+      "15106",
+      "14270"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "13866",
+  "prompt": "Create a hyper-realistic phone-shot image of a notebook page with messy, bad handwriting. The notebook is lying on a wooden table. Part of the page is darker because of the shadow of the person and phone taking the picture. The photo looks casually taken, with slight motion blur from camera movement, so the handwriting is somewhat blurry and not very easy to read. The notebook also has lines.\n\nThe handwritten text on the page is a {argument name=\"content\" default=\"story-oriented review of Nineteen Eighty-Four\"}.",
+  "translatedPrompt": "生成一张超逼真的手机拍摄风格照片，展示一页写有凌乱、潦草字迹的笔记本。笔记本平放在木桌上。由于拍摄者和手机的阴影，页面部分区域较暗。照片看起来是随手拍摄的，带有因相机移动产生的轻微动态模糊，因此手写字迹有些模糊，不太容易辨认。笔记本页面带有横线。\n\n页面上的手写内容是 {argument name=\"content\" default=\"一篇关于《一九八四》的叙事性书评\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "凌乱手写笔记照片：一个用于生成逼真手机拍摄风格笔记照片的提示词，包含凌乱的手写字迹、随意的光影效果、阴影以及轻微的动态模糊。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13739",
+      "14434",
+      "15674",
+      "13960",
+      "13966",
+      "14726"
+    ]
+  }
+}

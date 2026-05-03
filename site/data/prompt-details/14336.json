@@ -1,0 +1,33 @@
+{
+  "id": "14336",
+  "prompt": "第一轮：{argument name=\"产品链接\" default=\"https://t.co/KCaX1FvRqz\"} 从这个网站以及网络获取这个产品的信息，并生成能打动用户的宣传海报\n第二轮：太美了，参考电影 {argument name=\"电影1\" default=\"her\"} 的配色吧\n第三轮：wow 太酷了，再用 {argument name=\"电影2\" default=\"银翼杀手2049 joi\"} 的风格来一版本吧\n第四轮：再以{argument name=\"电影3\" default=\"2001太空漫游\"}的风格来一个版本吧",
+  "translatedPrompt": "第 1 轮：从 {argument name=\"product link\" default=\"https://t.co/KCaX1FvRqz\"} 和网络获取有关此产品的信息，并生成一张能打动用户的宣传海报。\n第 2 轮：很美，请使用电影 {argument name=\"movie 1\" default=\"Her\"} 的配色方案。\n第 3 轮：太酷了，请以 {argument name=\"movie 2\" default=\"Blade Runner 2049 Joi\"} 的风格制作另一个版本。\n第 4 轮：请以 {argument name=\"movie 3\" default=\"2001: A Space Odyssey\"} 的风格再制作一个版本。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "迭代式电影海报提示词：一套多轮对话提示词，通过《Her》、《银翼杀手 2049》和《2001 太空漫游》的风格来精炼产品海报。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13709",
+      "14134",
+      "14304",
+      "14308",
+      "14355",
+      "14751"
+    ]
+  }
+}

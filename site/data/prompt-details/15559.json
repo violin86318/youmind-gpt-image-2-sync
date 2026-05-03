@@ -1,0 +1,35 @@
+{
+  "id": "15559",
+  "prompt": "参考图片的人物面部特征 ,生成九宫格拼图，生活感抓拍，摄影写真，85mm镜头。浅景深，背景虚化，高分辨率，细节清晰 穿着{argument name=\"服装\" default=\"白色衬衫，白色短裤\"}，简约干净穿搭， 室内拍摄，白色背景墙，靠窗，自然光，阳光柔和，高调光，明亮通透，柔和阴影。{argument name=\"风格\" default=\"日系清新风格，韩系写真风\"}，空气感，干净画面，极简风，多姿态拍摄，站立、坐姿、回头、近景特写、半身、全身。",
+  "translatedPrompt": "利用参考图的面部特征生成九宫格拼图、生活快照、摄影肖像，85mm 镜头。浅景深，背景虚化，高分辨率，清晰细节。穿着 {argument name=\"clothing\" default=\"白色衬衫和白色短裤\"}，简约干净的穿搭。室内拍摄，白色背景墙，窗边，自然光，柔和阳光，高调照明，明亮通透，柔和阴影。{argument name=\"style\" default=\"清新日系风格，韩系人像风格\"}，空气感，视觉干净，极简风格，多姿势拍摄，包括站姿、坐姿、回眸、特写、半身照和全身照。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日系/韩系清新风格摄影：用于创建高分辨率、明亮且通透的 9 宫格布局人像摄影的提示词，侧重于自然光和极简风格。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

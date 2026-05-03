@@ -1,0 +1,45 @@
+{
+  "id": "14645",
+  "prompt": "Create a cute Japanese preschool hiragana poster in a soft watercolor storybook style on warm textured parchment paper. The composition is a vertical educational chart with a whimsical spring border of grass, flowers, mushrooms, butterflies, and tiny chicks, designed like a children's classroom learning sheet. At the top, place a wooden signboard header with colorful rounded Japanese text reading {argument name=\"headline text\" default=\"うさぎのひらがな表\"}, decorated with 2 white bunny mascots, one sitting on the left and one peeking from the right, plus small flowers and leaves around the sign. Below the header, arrange a clean 5-row by 8-column grid for a total of 40 square cells, each cell outlined in thin brown lines on a cream background. In every cell, place one large brightly colored hiragana character near the top and one small kawaii rabbit illustration below it, each rabbit acting out or holding an object associated with the word written underneath. Use a different cheerful color for many of the hiragana characters, including reds, oranges, yellows, greens, blues, and purples, with a hand-painted rounded font. Keep the text and illustrations exactly as follows, left to right by row: row 1 has 8 cells labeled あ, い, う, う, え, え, お, お with the words あめ, いい, いい, うさぎ, えんぴつ, えんぴつ, おやすり, おにぎり; row 2 has 8 cells labeled か, き, く, け, せ, せ, そ, そ with the words きくら, たま, サベツン, ケーキ, せんせい, そう, そう, しょうこう; row 3 has 8 cells labeled た, ち, ち, つ, て, て, と, と with the words たまご, たまご, ちびこ, つと, てんとうむし, てしなを, とうこ, ほしい; row 4 has 8 cells labeled な, に, ぬ, ふ, め, ね, の, ほ with the words まな, ひこうき, みんきう, ふたう, てつ, へびす, ようこ, ほし; row 5 has 8 cells labeled ま, み, む, る, れ, れ, ろ, ん with the words わた, まくら, みかん, むぎぎ, めがみ, もも, ろうた, ん. The bunny illustrations should be varied and adorable: examples include holding an umbrella, cuddling grapes, drawing with a pencil, eating a rice ball, sitting with cherry blossoms, standing under an umbrella, holding fruit, eating cake, dressed as a teacher, holding flowers, sleeping under a blue blanket, carrying eggs, hugging a tomato, holding strawberries, blowing bubbles, wearing a blue cap, holding an orange, sitting with cotton, bathing in a wooden tub, and holding candy. Maintain a gentle pastel palette, soft shading, round faces, rosy cheeks, and subtle ink outlines. The overall feeling should be nostalgic, charming, educational, highly detailed, and perfect for a nursery wall chart or a cute slide cover for a Japanese learning presentation.",
+  "translatedPrompt": "创作一张可爱的日语学前班平假名海报，采用柔和的水彩绘本风格，背景为温暖的纹理羊皮纸。整体构图为垂直教育图表，带有由草地、花朵、蘑菇、蝴蝶和小鸡组成的奇幻春日边框，设计风格如同儿童教室的学习单。在顶部放置一个木质招牌标题，上面写着色彩鲜艳的圆润日语文字 {argument name=\"headline text\" default=\"うさぎのひらがな表\"}，并装饰有 2 只白色兔子吉祥物，一只坐在左侧，另一只从右侧探出头来，招牌周围点缀着小花和叶子。在标题下方，排列一个 5 行 8 列的整洁网格，共 40 个方形单元格，每个单元格在奶油色背景上用细棕色线条勾勒。在每个单元格中，顶部放置一个大的亮色平假名字符，下方放置一个小的可爱兔子插图，每只兔子都在表演或拿着与下方文字相关联的物品。为许多平假名字符使用不同的欢快颜色，包括红色、橙色、黄色、绿色、蓝色和紫色，并使用手绘圆润字体。保持文字和插图完全如下，按行从左到右排列：第 1 行有 8 个单元格，标记为 あ、い、う、う、え、え、お、お，对应单词为 あめ、いい、いい、うさぎ、えんぴつ、えんぴつ、おやすり、おにぎり；第 2 行有 8 个单元格，标记为 か、き、く、け、せ、せ、そ、そ，对应单词为 きくら、たま、サベツン、ケーキ、せんせい、そう、そう、しょうこう；第 3 行有 8 个单元格，标记为 た、ち、ち、つ、て、て、と、と，对应单词为 たまご、たまご、ちびこ、つと、てんとうむし、てしなを、とうこ、ほしい；第 4 行有 8 个单元格，标记为 な、に、ぬ、ふ、め、ね、の、ほ，对应单词为 まな、ひこうき、みんきう、ふたう、てつ、へびす、ようこ、ほし；第 5 行有 8 个单元格，标记为 ま、み、む、る、れ、れ、ろ、ん，对应单词为 わた、まくら、みかん、むぎぎ、めがみ、もも、ろうた、ん。兔子插图应多样且可爱：例如拿着雨伞、抱着葡萄、用铅笔画画、吃饭团、坐在樱花树下、站在伞下、拿着水果、吃蛋糕、打扮成老师、拿着花、在蓝色毯子下睡觉、搬运鸡蛋、拥抱番茄、拿着草莓、吹泡泡、戴着蓝色帽子、拿着橘子、坐在棉花旁、在木桶里洗澡以及拿着糖果。保持柔和的粉彩色调、柔和的阴影、圆圆的脸蛋、红润的脸颊和细腻的墨线。整体感觉应怀旧、迷人、具有教育意义、高度细致，非常适合作为幼儿园墙面图表或日语学习演示文稿的可爱 Slides 封面。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "可爱兔子平假名海报：一张充满童趣的日语平假名学习图表，包含 40 个带有兔子插图的单元格，非常适合教室装饰、儿童学习材料或趣味演示文稿封面。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "grid",
+        "vertical"
+      ],
+      "style": [
+        "watercolor"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, vertical]。\n\nVisual style:\n[参考风格: watercolor]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15663",
+      "13769",
+      "13457",
+      "15653",
+      "14818",
+      "14911"
+    ]
+  }
+}

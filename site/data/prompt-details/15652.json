@@ -1,0 +1,47 @@
+{
+  "id": "15652",
+  "prompt": "A cinematic third-person fantasy RPG gameplay screenshot set in an ancient Chinese market city at golden hour, viewed from slightly behind a small group of foreground characters and looking down a busy stone-paved street toward a grand multi-tier pagoda in the distance. The scene is dense with exactly 1 central male hero in ornate dark red and black robes with gold armor accents, holding a drawn sword pointed downward, and exactly 1 female companion beside him in elegant flowing white Hanfu with red trim and gold accessories. Around them are exactly 4 blurred foreground onlookers or guards framing the shot, 2 on the left and 2 on the right, plus a large crowd of townspeople in period clothing filling the street. Traditional wooden buildings with curved tiled roofs line both sides, with hanging lanterns, red banners, fabric awnings, market stalls, and warm window lights. Add drifting flower petals or glowing particles in the air, soft atmospheric haze, strong depth, and rich warm sunlight with long shadows. The image should feel like a polished AAA open-world wuxia action game, highly detailed, dramatic, immersive, and realistic with stylized fantasy beauty. Include a full in-game HUD overlay: a top-right square minimap with icons, a right-side quest list with exactly 3 visible entries where 1 reads {argument name=\"quest objective\" default=\"Explore Ximen Mansion\"} and 2 are repeated combat-related quests, a bottom-left circular player status area with health and stamina bars and the location text {argument name=\"location name\" default=\"Dinghe County\"}, a bottom-center action bar with exactly 6 circular skill icons, and a bottom-right row of exactly 8 small menu or system icons. Use a wide 16:9 composition, ultra-detailed environment art, cinematic lighting, shallow foreground blur, and a majestic historical Chinese fantasy atmosphere.",
+  "translatedPrompt": "一张电影级第三人称奇幻 RPG 游戏截图，背景设定在黄金时刻的中国古代市集，视角位于前景小队角色后方，俯瞰着繁忙的石板街道，远方矗立着一座宏伟的多层宝塔。场景细节丰富，画面中心为 1 名身着华丽深红黑配色长袍、点缀金色铠甲的男性英雄，手持向下指的拔出长剑；身旁有 1 名身着优雅飘逸白底红边汉服、佩戴金饰的女性同伴。周围有 4 名模糊的前景旁观者或守卫作为构图框架，左右各 2 名，街道上挤满了身着古装的城镇居民。街道两侧是带有弧形瓦顶的传统木质建筑，挂着灯笼、红旗、布质遮阳棚，设有摊位，窗户透出温暖的灯光。空中飘散着花瓣或发光粒子，带有柔和的大气雾感、强烈的景深效果，以及浓郁温暖的阳光和长长的阴影。画面应呈现出精致的 AAA 级开放世界武侠动作游戏质感，高度细腻、充满戏剧性、沉浸感强，并兼具风格化的奇幻美感。包含完整的游戏内 HUD 界面：右上角带有图标的方形小地图；右侧任务列表，其中可见 3 条任务，第 1 条显示为 {argument name=\"quest objective\" default=\"探索西门府邸\"}，其余 2 条为重复的战斗类任务；左下角圆形玩家状态区，包含生命值和体力条，以及位置文本 {argument name=\"location name\" default=\"定河县\"}；底部中央动作栏，包含 6 个圆形技能图标；右下角一排 8 个小型菜单或系统图标。采用 16:9 宽屏构图，超精细环境艺术，电影级光影，浅景深前景模糊，营造出宏伟的中国历史奇幻氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "中国古代 RPG 市场游戏截图：此提示词可生成一张电影级奇幻游戏 UI 截图，展示繁华的中国古代城镇街道，适用于 RPG 关键视觉图、模拟游戏场景或武侠游戏概念设计。",
+      "subject": "人物",
+      "scene": "信息图/图解",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "golden hour"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "城市美食地图、活动导览、园区地图、旅行视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic, fantasy]。\n\nLighting and camera:\n[参考光线镜头: golden hour]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14400",
+      "14401",
+      "14088",
+      "15376",
+      "15612",
+      "15638"
+    ]
+  }
+}

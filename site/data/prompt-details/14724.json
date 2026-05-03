@@ -1,0 +1,48 @@
+{
+  "id": "14724",
+  "prompt": "Epic action macro photograph on a forest twig. A tiny {argument name=\"character\" default=\"armored warrior\"} with the uploaded face as reference rides a large realistic {argument name=\"insect\" default=\"black ant\"} like a warhorse. The rider wears detailed fantasy armor, posed dynamically as if charging into battle, holding reins made from {argument name=\"material\" default=\"spider silk\"} wrapped around the ant’s head. The ant’s exoskeleton is ultra-shiny, highly detailed, and textured, with sharp legs gripping the twig. Cinematic macro lighting, shallow depth of field. Background is a soft green leafy bokeh with natural forest tones. Hyper-realistic insect photography style, ultra detail, crisp focus on the ant and rider, dramatic action mood.",
+  "translatedPrompt": "森林树枝上的史诗级动作微距摄影。一位微小的 {argument name=\"character\" default=\"身披铠甲的战士\"}（以上传的人脸为参考）像骑战马一样骑着一只巨大的、写实的 {argument name=\"insect\" default=\"黑蚂蚁\"}。骑手身穿精致的奇幻铠甲，姿态动态十足，仿佛正冲向战场，手中握着由 {argument name=\"material\" default=\"蛛丝\"} 制成的缰绳，缠绕在蚂蚁头部。蚂蚁的外骨骼超亮、细节丰富且质感十足，锋利的足部紧紧抓在树枝上。电影级微距灯光，浅景深。背景是柔和的绿色叶片虚化效果，带有自然的森林色调。超写实昆虫摄影风格，极致细节，蚂蚁和骑手焦点清晰，充满戏剧性的动作氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "蚂蚁战士微距摄影：一个富有创意的微距摄影提示词，描绘了一位微小的战士骑着一只细节丰富、闪闪发光的黑色蚂蚁在森林树枝上的场景。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic, fantasy]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13632",
+      "15027",
+      "15757",
+      "13885",
+      "13917",
+      "15259"
+    ]
+  }
+}

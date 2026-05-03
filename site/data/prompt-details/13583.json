@@ -1,0 +1,40 @@
+{
+  "id": "13583",
+  "prompt": "Amateur photo in front of a closed {argument name=\"store\" default=\"Apple Store\"}, but we see through the windows. Shot on {argument name=\"device\" default=\"iPhone\"}. {argument name=\"lens\" default=\"Main camera\"}",
+  "translatedPrompt": "在关闭的 {argument name=\"store\" default=\"Apple Store\"} 前拍摄的业余照片，但我们可以透过窗户看到内部。使用 {argument name=\"device\" default=\"iPhone\"} 拍摄。{argument name=\"lens\" default=\"主摄像头\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "业余 Apple Store 摄影：一个旨在重现店面关闭后，在店外用智能手机随手拍摄的照片效果的提示词，特别侧重于玻璃窗上的倒影和透视感。",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "lens",
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "App Store 截图、产品概念、移动工具界面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: lens, camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13648",
+      "13585",
+      "13645",
+      "13708",
+      "13710",
+      "13713"
+    ]
+  }
+}

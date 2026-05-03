@@ -1,0 +1,46 @@
+{
+  "id": "15025",
+  "prompt": "A dreamy anime-style low-angle illustration of a young schoolgirl standing in a flower field under a vivid clear blue sky, viewed from near ground level as if the camera is among the blossoms looking up at her. She has a short platinum-blonde bob with soft bangs, bright blue eyes, pale skin, and a calm slightly serious expression. She wears a round yellow sunhat with a blue ribbon tied at the back, an oversized light blue smock-like dress with a white collar, a visible name tag pinned to her chest reading {argument name=\"name tag text\" default=\"兀華\"}, and a mustard-yellow crossbody satchel. One hand is extended toward the viewer with the palm open, creating strong foreground foreshortening. Surround her with exactly 6 prominent flowers in the composition: 2 large white cosmos flowers in the left foreground, 1 large blue flower in the right foreground, 1 white flower in the upper right background, and 2 smaller blue blossoms near the bottom center. Use soft painterly watercolor textures, delicate linework, airy lighting, gentle depth of field, and a luminous pastel palette dominated by sky blue, white, and yellow. The mood should feel innocent, nostalgic, fresh, and slightly magical, like a children’s book illustration mixed with high-end anime key art.",
+  "translatedPrompt": "一张梦幻般的动漫风格低角度插画，描绘了一位年轻女学生站在花丛中，背景是明亮清澈的蓝天。视角位于地面附近，仿佛相机正置身于花朵之中仰望她。她留着浅金色短波波头，刘海柔和，有着明亮的蓝色眼睛、白皙的皮肤，表情平静且略带严肃。她戴着一顶圆形的黄色遮阳帽，帽后系着蓝色丝带，身穿一件超大号的浅蓝色罩衫式连衣裙，配有白色领子，胸前别着一个写有 {argument name=\"name tag text\" default=\"兀華\"} 的名牌，并斜挎着一个芥末黄色的挎包。她的一只手向观众伸出，掌心张开，营造出强烈的近景透视效果。画面中需包含 6 朵醒目的花朵：左前景有 2 朵巨大的白色波斯菊，右前景有 1 朵巨大的蓝色花朵，右上背景有 1 朵白色花朵，底部中心附近有 2 朵较小的蓝色花朵。采用柔和的水彩质感、细腻的线条、轻盈的布光、柔和的景深，以及以天蓝色、白色和黄色为主的明亮柔和色调。整体氛围应显得天真、怀旧、清新且带有一丝魔幻感，如同儿童绘本插画与高端动漫原画的结合。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫少女穿过花丛：此提示词可生成一张柔和的低角度动漫插画，描绘了花丛中的少女，非常适合用于奇幻角色艺术、壁纸和绘本风格的视觉创作。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime",
+        "watercolor"
+      ],
+      "lightingCamera": [
+        "depth of field",
+        "camera"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime, watercolor]。\n\nLighting and camera:\n[参考光线镜头: depth of field, camera]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14233",
+      "14433",
+      "14568",
+      "14628",
+      "14630",
+      "14679"
+    ]
+  }
+}

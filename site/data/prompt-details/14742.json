@@ -1,0 +1,36 @@
+{
+  "id": "14742",
+  "prompt": "外卖App首页界面，深夜模式，推荐\"{argument name=\"推荐专区\" default=\"烧烤啤酒夜宵专区\"}\"",
+  "translatedPrompt": "外卖 App 首页界面，深色模式，推荐 \"{argument name=\"recommendation zone\" default=\"烧烤啤酒夜宵专区\"}\"",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "外卖 App UI 提示词：用于生成深色模式下包含特定美食分类的外卖 App 首页界面的提示词。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13485",
+      "13644",
+      "13869",
+      "13873",
+      "14307",
+      "14317"
+    ]
+  }
+}

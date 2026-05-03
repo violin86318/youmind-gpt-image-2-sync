@@ -1,0 +1,42 @@
+{
+  "id": "13441",
+  "prompt": "A {argument name=\"art style\" default=\"hyper-realistic epic fantasy digital painting\"} of {argument name=\"main character\" default=\"Sun Wukong, the Monkey King\"} in mid-combat, wearing ornate golden and red armor with long red headpiece feathers. He fiercely strikes down {argument name=\"enemies\" default=\"armored celestial soldiers\"} using a {argument name=\"weapon\" default=\"glowing golden staff\"}. The dynamic scene features flying sparks, shattered debris, and flowing fabric. The background is a {argument name=\"setting\" default=\"heavenly realm with ornate pillars and clouds\"}, showing distant warriors on grand staircases. Cinematic lighting, intense action, and dramatic particle effects.",
+  "translatedPrompt": "一幅超写实、史诗级的奇幻插画，主角为 {argument name=\"main character\" default=\"孙悟空，美猴王\"}，呈现动态战斗姿态。他身着精致华丽的金色盔甲，红色的披风随风飘动，头戴的雉鸡翎长长地延伸开来。他有着凶猛的猴脸，正强有力地挥动着一根发光的、雕刻精美的金箍棒向下击打一群 {argument name=\"enemy type\" default=\"天兵\"}。身穿厚重精细金甲的天兵们在冲击下被猛烈击退。爆炸的火花、发光的余烬和破碎的石块碎片充斥在交战周围。背景是一个雄伟多云的 {argument name=\"setting\" default=\"天界\"}，高耸华丽的柱子和中式庙宇建筑在朦胧而戏剧性的天空中若隐若现。电影级光影，高度精细，杰作，激烈的动作场景。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "史诗奇幻孙悟空战斗场景：生成一个高度精细、具有电影质感的奇幻战斗场景，描绘了一位神话战士在天界击败敌人的画面。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14724",
+      "13816",
+      "13923",
+      "13949",
+      "13632",
+      "13885"
+    ]
+  }
+}

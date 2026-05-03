@@ -1,0 +1,48 @@
+{
+  "id": "15051",
+  "prompt": "A dense isometric steampunk-cyberpunk city illustration at dusk, designed like a whimsical indie tech district called {argument name=\"city name\" default=\"INDIE MIND CITY\"}. The scene is a single sprawling urban plaza packed with narrow brick buildings, rooftop antennas, cables, pipes, neon signs, market stalls, tiny pedestrians, and playful programmer humor. In the center background, a plaza labeled “PLAZA DEL PROMPT” surrounds a sculptural fountain with pale blue water, with benches and people gathered around it. To the left background, a tall building with a giant sign reading “BARRIO CÓDIGO ABIERTO” is covered in balconies, windows, hanging laundry, air conditioners, plants, and street activity. To the right background, another block bears a large sign “CALLEJÓN DE LOS AGENTES,” with stacked storefront signs including “Codex Barbería cortes exactos,” “Gemini Lavandería,” “Claude’s Coffee,” and “Dr. Llama.” Further right, a heavy industrial factory zone with smokestacks, cranes, ducts, crates, and catwalks displays 3 large signs: “ZONA INDUSTRIAL,” “FÁBRICA DE TOKENS,” and “LLM.” A cloud of floating letters and symbols rises above the chimneys like generated text smoke. In the foreground center, a tall clocktower-like corner building has a vertical neon sign reading “INDIE MIND,” a large round clock on the facade, warm lit windows, and a small stone animal sculpture at its base. To the right foreground, a lively market district glows with string lights and a bright neon sign “MERCADO NOCTURNO,” with 3 visible stall signs: “Memoria usada barata,” “Embeddings frescos del día,” and “Se cambian vectores.” Nearby are 3 more joke signs: “HARD HAT: prompt injection zone,” “HACKATHON: entra y sal con un bug,” and a food stand labeled “STACK OVERFLOW NOODLES.” To the left foreground, an older mixed-use building is filled with signs and visual jokes, including a huge rooftop billboard with 2 cats on top and the title {argument name=\"main billboard text\" default=\"INDIE MIND CITY\"}, plus a small version label “v1.0.0.” On that same block, include these visible signs: “FORGE & CAFE,” “git push cafe +$2,” “Tienda de MERGE CONFLICTS abierto 24/7,” “Se reparan linters,” “NO rm -rf aquí,” “Ralph was here,” “npm install vv,” “sudo make me sandwich,” “WORKTREE,” “SE VENDE GPU USADA,” “MUSEO DEL MERGE CONFLICT,” “NOTARÍA DE COMMITS FIRMADOS,” “PSICÓLOGO PARA SENIOR DEVS 50m 80,” “GATO PERDIDO responde a localhost,” and a poster board reading “HOY: charla sobre agentic coding entrada libre” and “REUNIÓN DE AA^AI REUNIDOS DE LOS AGI.” Near the center-left plaza, add a sandwich-board style sign labeled “PROMPTS USADOS” with 3 lines beneath it, and small plaza signs that read “HELLO WORLD,” “Tailscale,” “OpenRouter,” and “Deepseek.” The streets are cobblestone and crowded with exact small story details: 1 yellow tram labeled “LÍNEA MAIN,” 1 small blue car, 1 bicycle cart, 1 delivery scooter, outdoor café tables, chess players, pedestrians, crates, potted plants, striped awnings, laundry lines, glowing windows, rooftop cats, and a white llama standing near the agent alley. Use a warm muted palette of dusty teal, rust, amber, tan, and faded neon pink and cyan. Render it as an ultra-detailed editorial illustration with clean isometric perspective, intricate linework, soft atmospheric lighting, tiny readable signage, cozy urban clutter, and humorous handcrafted worldbuilding.",
+  "translatedPrompt": "一幅黄昏时分的等轴测蒸汽朋克-赛博朋克城市插画，设计为一个名为 {argument name=\"city name\" default=\"INDIE MIND CITY\"} 的异想天开的独立科技街区。场景是一个巨大的城市广场，挤满了狭窄的砖砌建筑、屋顶天线、电缆、管道、霓虹灯招牌、市场摊位、微小的行人和充满程序员趣味的幽默元素。背景中央是一个标有“PLAZA DEL PROMPT”的广场，环绕着一座带有淡蓝色喷泉的雕塑，周围聚集着长椅和人群。左后方是一栋高大的建筑，上面挂着巨大的“BARRIO CÓDIGO ABIERTO”招牌，布满了阳台、窗户、晾晒的衣物、空调、植物和街头活动。右后方是另一栋街区，挂着巨大的“CALLEJÓN DE LOS AGENTES”招牌，以及堆叠的店面招牌，包括“Codex Barbería cortes exactos”、“Gemini Lavandería”、“Claude’s Coffee”和“Dr. Llama”。再往右是一个重工业工厂区，有烟囱、起重机、管道、板条箱和走道，展示着 3 个大招牌：“ZONA INDUSTRIAL”、“FÁBRICA DE TOKENS”和“LLM”。一团漂浮的字母和符号像生成的文本烟雾一样从烟囱上升起。前景中央是一栋高大的钟楼式转角建筑，挂着垂直的“INDIE MIND”霓虹灯招牌，外墙上有一个巨大的圆形时钟，窗户透出温暖的灯光，底部有一个小石兽雕塑。右前景是一个热闹的市场区，闪烁着串灯和明亮的“MERCADO NOCTURNO”霓虹灯招牌，有 3 个可见的摊位招牌：“Memoria usada barata”、“Embeddings frescos del día”和“Se cambian vectores”。附近还有 3 个幽默招牌：“HARD HAT: prompt injection zone”、“HACKATHON: entra y sal con un bug”以及一个标有“STACK OVERFLOW NOODLES”的食品摊。左前景是一栋老式混合用途建筑，布满了招牌和视觉笑话，包括一个巨大的屋顶广告牌，上面有 2 只猫，标题为 {argument name=\"main billboard text\" default=\"INDIE MIND CITY\"}，还有一个小的版本标签“v1.0.0”。在同一街区，包含以下可见招牌：“FORGE & CAFE”、“git push cafe +$2”、“Tienda de MERGE CONFLICTS abierto 24/7”、“Se reparan linters”、“NO rm -rf aquí”、“Ralph was here”、“npm install vv”、“sudo make me sandwich”、“WORKTREE”、“SE VENDE GPU USADA”、“MUSEO DEL MERGE CONFLICT”、“NOTARÍA DE COMMITS FIRMADOS”、“PSICÓLOGO PARA SENIOR DEVS 50m 80”、“GATO PERDIDO responde a localhost”，以及一个写着“HOY: charla sobre agentic coding entrada libre”和“REUNIÓN DE AA^AI REUNIDOS DE LOS AGI”的公告项目。在广场中左侧附近，添加一个标有“PROMPTS USADOS”的三明治式立牌，下方有 3 行文字，以及写着“HELLO WORLD”、“Tailscale”、“OpenRouter”和“Deepseek”的小型广场标牌。街道是鹅卵石铺成的，挤满了精确的小故事细节：1 辆标有“LÍNEA MAIN”的黄色电车、1 辆蓝色小汽车、1 辆自行车推车、1 辆送货踏板车、户外咖啡桌、下棋的人、行人、板条箱、盆栽植物、条纹遮阳篷、晾衣绳、发光的窗户、屋顶上的猫，以及一只站在 Agent 小巷附近的白色羊驼。使用尘土青色、铁锈色、琥珀色、棕褐色以及褪色的霓虹粉和青色组成的温暖柔和色调。将其渲染为超详细的编辑插画，具有清晰的等轴测视角、复杂的线条、柔和的大气照明、微小可读的标牌、舒适的城市杂乱感以及充满幽默感的手工世界构建。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Indie Mind City 等轴测科技街区：此提示词可生成一个充满复古未来主义风格的等轴测城市场景，其中融入了大量关于 AI 和程序员的幽默彩蛋，非常适合用于编辑艺术、海报或关于独立 AI 文化的社交媒体视觉内容。",
+      "subject": "空间",
+      "scene": "海报/封面",
+      "composition": [
+        "isometric",
+        "vertical"
+      ],
+      "style": [
+        "editorial",
+        "isometric"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "要求精确文字；要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: isometric, vertical]。\n\nVisual style:\n[参考风格: editorial, isometric]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n要求精确文字；要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15072",
+      "14615",
+      "14644",
+      "15009",
+      "14608",
+      "14412"
+    ]
+  }
+}

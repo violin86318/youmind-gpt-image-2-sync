@@ -1,0 +1,51 @@
+{
+  "id": "15064",
+  "prompt": "A cinematic low-angle photo of a medium-sized tan dog sitting proudly on a patterned tile floor inside a rustic old bar, wearing an oversized brown leather cangaceiro-style hat decorated with multiple metal star emblems and stitched details. The dog is centered in the frame, looking slightly upward with a calm, noble, almost heroic expression. Behind the dog is a long dark wooden bar counter on the right and a wall densely lined with many glass liquor bottles and hanging glasses, creating a cluttered authentic tavern atmosphere. On the left side, show a small wooden table, 2 wooden chairs, a dark doorway, worn walls, exposed beams, and 2 visible bare hanging light bulbs. Use warm amber indoor lighting, rich brown and golden tones, realistic textures, shallow depth of field, documentary-style realism, sharp focus on the dog, softly blurred background, wide cinematic composition, and a humorous but dignified mood. The image should feel like a Brazilian countryside bar portrait of a dog dressed like a regional folk hero.",
+  "translatedPrompt": "一张电影感的低角度照片，一只中等体型的棕褐色狗狗骄傲地坐在质朴老酒吧的图案瓷砖地板上，头上戴着一顶超大的棕色皮革 Cangaceiro 风格帽子，帽子上装饰着多个金属星形徽章和缝合细节。狗狗位于画面中心，微微抬头，表情冷静、高贵，甚至带有一丝英雄气概。狗狗身后右侧是一个长长的深色木制吧台，墙上密密麻麻地摆满了许多玻璃酒瓶和悬挂的酒杯，营造出一种杂乱而真实的酒馆氛围。左侧展示了一张小木桌、2 把木椅、一个深色门洞、破旧的墙壁、裸露的横梁以及 2 个清晰可见的裸露悬挂灯泡。采用温暖的琥珀色室内灯光，丰富的棕色和金色调，逼真的纹理，浅景深，纪录片风格的写实感，焦点清晰地对准狗狗，背景柔和模糊，宽幅电影构图，氛围幽默而庄重。这张图片应呈现出一种巴西乡村酒吧肖像的感觉，仿佛狗狗装扮成了当地的民间英雄。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "戴着皮革 Cangaceiro 帽子的酒吧狗狗：此提示词可生成一张温暖、电影感十足且逼真的肖像照，画面中是一只戴着传统皮帽、神情庄重的狗狗，置身于质朴的酒吧内，非常适合幽默的编辑内容或社交媒体配图。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic, cinematic, documentary]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15704",
+      "14538",
+      "14568",
+      "15533",
+      "15706",
+      "15762"
+    ]
+  }
+}

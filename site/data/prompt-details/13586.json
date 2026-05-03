@@ -1,0 +1,37 @@
+{
+  "id": "13586",
+  "prompt": "Amateur phone photo of an open magazine spread across two pages, featuring an article about {argument name=\"topic\" default=\"GPT Image 2\"}. Shot on iPhone. No depth of field, everything sharp, authentic photo. Shot on iPhone. Main camera.",
+  "translatedPrompt": "一张业余手机拍摄的照片，展示了翻开的杂志跨页，内容关于 {argument name=\"topic\" default=\"GPT Image 2\"}。由 iPhone 拍摄。无景深效果，画面整体清晰，照片真实。由 iPhone 拍摄。主摄像头。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "真实杂志内页摄影：创作一张业余风格的 iPhone 摄影作品，展示一本翻开的杂志，聚焦特定文章主题，画面清晰且光影真实。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "depth of field",
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体",
+        "光线/镜头"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: depth of field, camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14131",
+      "14734",
+      "15314",
+      "13852",
+      "15196",
+      "15212"
+    ]
+  }
+}

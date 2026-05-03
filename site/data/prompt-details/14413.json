@@ -1,0 +1,60 @@
+{
+  "id": "14413",
+  "prompt": "{\"type\":\"anime character collage illustration\",\"subject\":{\"gender\":\"female\",\"age_appearance\":\"late teen to young adult\",\"style\":\"elegant fantasy swordswoman idol aesthetic\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"platinum white\\\"}\",\"style\":\"very long voluminous wavy ponytail with loose curled side strands and braided crown\",\"accessories\":\"large dark navy ribbon bows\"},\"eyes\":{\"color\":\"soft red-pink\"},\"expression\":\"calm, graceful, slightly wistful\"},\"outfit\":{\"theme\":\"ornate navy and white gothic-lolita inspired battle dress\",\"pieces\":[\"white high-neck ruffled blouse with puff sleeves and gold floral embroidery\",\"large navy chest bow with a red jewel brooch\",\"structured dark navy corset waist with gold accents\",\"layered navy skirt with gold embroidery and white ruffled underskirt\",\"white ankle-strap heels with ribbon details\"],\"weapon\":\"elegant katana with black handle and gold fittings\"},\"layout\":{\"canvas\":\"square 2x2 collage with 4 panels separated by thin black borders\",\"sections\":[{\"title\":\"top-left\",\"position\":\"top-left\",\"count\":1,\"labels\":[\"close-up portrait cropped at chest, character turned slightly away, backlit hair glowing against dark night background\"]},{\"title\":\"top-right\",\"position\":\"top-right\",\"count\":1,\"labels\":[\"dynamic half-body action pose drawing katana horizontally, hair streaming in the wind, city lights and petals flying\"]},{\"title\":\"bottom-left\",\"position\":\"bottom-left\",\"count\":1,\"labels\":[\"full-body fashion view showing the entire dress and sword, standing in a luminous reflective pavilion framed by vertical lights\"]},{\"title\":\"bottom-right\",\"position\":\"bottom-right\",\"count\":1,\"labels\":[\"three-quarter back view near the ocean at sunset, looking over shoulder, soft pink sky and drifting petals\"]}]},\"environment\":{\"overall\":\"cinematic fantasy evening atmosphere with sparkling bokeh, drifting flower petals, glowing rim light, reflective surfaces, and a dreamy blend of city-night and seaside sunset moods\"},\"art_direction\":{\"quality\":\"ultra-detailed, premium anime illustration, highly polished\",\"lighting\":\"strong backlighting, luminous hair strands, golden-hour highlights, soft bloom\",\"color_palette\":\"deep navy blue, white, gold, blush pink, warm sunset lavender\",\"camera\":\"mix of portrait close-up, action mid-shot, full-body shot, and over-shoulder composition\",\"rendering\":\"intricate fabric textures, crisp embroidery, glossy eyes, delicate lace, dynamic flowing hair, shallow depth of field\"},\"prompt\":\"Create a square 4-panel anime collage of {argument name=\\\"character name\\\" default=\\\"an elegant white-haired swordswoman\\\"}, a graceful young woman with {argument name=\\\"hair color\\\" default=\\\"platinum white\\\"} hair in a long wavy ponytail tied with navy ribbons, wearing a navy and white ornate dress with gold embroidery and carrying a katana. Panel 1: intimate close-up portrait with glowing backlight. Panel 2: dynamic sword pose with windblown hair and sparkling night city bokeh. Panel 3: full-body character showcase in a luminous glass pavilion, dress spread beautifully. Panel 4: over-shoulder seaside sunset portrait with drifting petals. Emphasize ethereal beauty, luxurious costume detail, cinematic lighting, sparkling particles, and a refined fantasy anime aesthetic. Use {argument name=\\\"outfit color\\\" default=\\\"navy blue and white\\\"} as the dominant clothing palette, {argument name=\\\"weapon type\\\" default=\\\"katana\\\"} as the weapon, and {argument name=\\\"scene mood\\\" default=\\\"dreamy, elegant, cinematic\\\"} as the emotional tone.\"}",
+  "translatedPrompt": "一张精致的动漫奇幻插画设定图，采用 2x2 网格布局，展示了同一位优雅女剑士的 4 个画面。角色为一位年轻女性，拥有一头极长的铂金白发，扎成高马尾并系有深海军蓝色的巨大蝴蝶结，发丝柔软卷曲且飘逸，皮肤白皙，五官精致细腻，双眸呈现明亮的红粉色。她身着华丽的白蓝配色哥特贵族裙装：带有蕾丝花边和金色刺绣的白色高领荷叶边衬衫，胸前饰有镶嵌红色宝石胸针的巨大海军蓝蝴蝶结，泡泡袖配有丝带袖口，深海军蓝色束腰紧身胸衣带有金色细节，蓬松的海军蓝色裙摆装饰着金色花纹、层叠的荷叶边，并带有缎面光泽。她携带一把带有深色剑柄和金色装饰的武士刀。第 1 格为胸部以上的特写肖像，身体微侧，在深色闪烁的夜空背景下，头发呈现出戏剧性的轮廓光。第 2 格为动态的上半身动作镜头，角色正横向拔剑或展示剑身，头发随风狂舞，背景为电影感的城市夜景虚化效果，周围环绕着发光的花瓣。第 3 格为全身时尚肖像，她优雅地站在高耸发光建筑环绕的明亮反光大厅中，展示了裙装的完整轮廓、带蝴蝶结的高跟鞋以及身侧的佩剑。第 4 格为日落或黎明时分在波光粼粼的海边拍摄的四分之三背影，角色回眸，背景是温暖的柔和色调天空和闪烁的水面，樱花花瓣随风飘落。采用超精细动漫渲染，轻小说封面级画质，细腻的织物纹理，光泽高光，金色装饰，柔和光晕，戏剧性背光，漂浮花瓣，闪烁粒子，优雅浪漫的氛围，以及海军蓝、白、金、淡粉色的和谐配色。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "优雅动漫女剑士 4 格设定图：此提示词可生成一张高细节的四格动漫角色插画，主角为一位高贵的白发女剑士，非常适合用于奇幻关键视觉图、角色展示或高质量社交媒体配图。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "full-body",
+        "2x2",
+        "layered",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "fantasy",
+        "premium"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "backlight",
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, full-body, 2x2, layered, vertical, horizontal]。\n\nVisual style:\n[参考风格: cinematic, anime, fantasy, premium]。\n\nLighting and camera:\n[参考光线镜头: rim light, backlight, shallow depth, depth of field, camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14531",
+      "14980",
+      "15090",
+      "15367",
+      "14534",
+      "14527"
+    ]
+  }
+}

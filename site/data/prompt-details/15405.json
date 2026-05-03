@@ -1,0 +1,49 @@
+{
+  "id": "15405",
+  "prompt": "A bright futuristic classroom or science museum learning lab filled with school-age children interacting with large mixed-reality holograms, cinematic ultra-detailed photorealism. The scene is a wide-angle interior during warm late-afternoon sunlight, with floor-to-ceiling glass windows, modern tables, bookshelves, digital displays, and a clean high-tech educational atmosphere. About 9 children and 1 adult teacher are spread across the room, actively exploring science exhibits with gestures and touch interactions. In the center, a glowing semi-transparent holographic human heart floats at chest height while 3 children gather around it, reaching toward it in curiosity. Suspended overhead is a large holographic solar system mobile with exactly 9 planets orbiting a bright sun, with luminous orbit trails and a magical scientific visualization style. On the left side, one child interacts with a tall vertical holographic DNA double helix. On the front-left table, there is a circular tabletop hologram of a miniature mountain-and-river ecosystem containing exactly 4 visible animals: an elephant, a deer, a llama or alpaca, and a bear. On the back-left table, there is a circular holographic architectural city model featuring a grand classical domed building and surrounding structures. On the right-front table, there is a large ball-and-stick molecular model made of glowing spheres and rods. In the mid-right and upper-right space, include additional floating science holograms: exactly 2 geometric polyhedra, exactly 2 molecule diagrams, exactly 2 spherical energy or data globes, and 1 hourglass-like abstract hologram. The children should be ethnically diverse, dressed casually, engaged, amazed, collaborative, and looking at different holographic subjects. Use soft volumetric sunlight, realistic reflections on glass and tabletops, subtle blue and gold glow from the holograms, shallow atmospheric haze, and a premium inspirational STEM-education advertisement aesthetic.",
+  "translatedPrompt": "一间明亮且充满未来感的教室或科学博物馆实验室，学龄儿童们正在与大型混合现实全息影像进行互动，呈现出电影级的超精细照片写实效果。场景为午后温暖阳光下的广角室内视角，配有落地玻璃窗、现代桌椅、书架、数字显示屏，营造出简洁的高科技教育氛围。约 9 名儿童和 1 名教师分布在房间各处，通过手势和触控积极探索科学展品。房间中央，一颗发光的半透明全息人体心脏悬浮在胸部高度，3 名儿童围在周围，好奇地伸手触碰。头顶上方悬挂着一个巨大的全息太阳系模型，9 颗行星围绕着明亮的太阳旋转，带有发光的轨道轨迹和梦幻般的科学可视化风格。左侧，一名儿童正在与一个高大的垂直全息 DNA 双螺旋结构互动。左前方桌上有一个圆形的桌面全息图，展示了一个微型山川河流生态系统，其中包含 4 种可见动物：大象、鹿、羊驼（或驼马）和熊。左后方桌上有一个圆形的建筑全息模型，展示了一座宏伟的古典圆顶建筑及周边结构。右前方桌上有一个由发光球体和连杆组成的巨大球棍分子模型。在右中和右上方空间，包含额外的悬浮科学全息图：2 个几何多面体、2 个分子结构图、2 个球形能量或数据球，以及 1 个类似沙漏的抽象全息图。孩子们应具有多元的种族背景，穿着休闲，神情投入、惊叹且充满协作精神，正注视着不同的全息主题。运用柔和的体积光，呈现玻璃和桌面上的真实反射，全息图散发出细腻的蓝金色光芒，伴有轻微的大气雾感，展现出高端且富有启发性的 STEM 教育广告美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "充满全息影像的未来感 STEM 教室：此提示词可生成电影级、照片写实风格的教室场景，展示孩子们探索沉浸式全息科学展品的过程，非常适合用于 STEM 教育宣传、概念艺术或创新营销。",
+      "subject": "空间",
+      "scene": "空间/场景",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "premium"
+      ],
+      "lightingCamera": [
+        "volumetric"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "空间概念、建筑场景、游戏场景、产品场景盒子",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 空间/场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic, premium]。\n\nLighting and camera:\n[参考光线镜头: volumetric]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15440",
+      "14256",
+      "14686",
+      "15092",
+      "14934",
+      "15328"
+    ]
+  }
+}

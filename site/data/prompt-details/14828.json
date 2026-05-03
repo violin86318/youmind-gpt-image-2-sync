@@ -1,0 +1,52 @@
+{
+  "id": "14828",
+  "prompt": "A cinematic golden-hour rooftop portrait of a stylish young woman standing by a balcony railing high above a modern city skyline, photographed vertically with a shallow depth of field. She has {argument name=\"hair color\" default=\"dark brown\"} long wavy hair glowing with warm sunset backlight, and her face is turned slightly away and obscured from view. She wears a black tailored blazer over a fitted white scoop-neck ribbed tank top, paired with high-waisted cream trousers with one hand in her pocket, plus a delicate necklace and a subtle bracelet or watch. The composition is waist-up to upper-thigh framing, elegant and fashion-editorial, with the woman placed prominently in the foreground and soft blurred skyscrapers in the background. Use warm orange sunlight, realistic skin and fabric textures, soft highlights on the hair and shoulders, a luxurious urban atmosphere, and a polished lifestyle photography look as if shot for a premium fashion campaign in {argument name=\"city setting\" default=\"a modern downtown skyline\"} during {argument name=\"time of day\" default=\"sunset\"}.",
+  "translatedPrompt": "一张电影质感的黄金时刻天台人像，一位时尚的年轻女性站在现代城市天际线高处的阳台栏杆旁，采用竖构图拍摄，具有浅景深效果。她留着 {argument name=\"hair color\" default=\"深棕色\"} 的长波浪卷发，在温暖的夕阳逆光下闪耀着光芒，脸部微微转向一侧，未完全显露。她身穿黑色修身西装外套，内搭白色圆领罗纹背心，下身配高腰米色长裤，一只手插在口袋里，佩戴着精致的项链以及低调的手链或手表。构图为腰部至大腿上部的半身像，优雅且具有时尚编辑风格，女性位于画面前景中心，背景是柔焦的摩天大楼。运用温暖的橙色阳光，呈现逼真的皮肤和织物纹理，发丝和肩部带有柔和的高光，营造出奢华的都市氛围，打造如同为高端时尚大片拍摄的精致生活方式摄影效果，场景设定在 {argument name=\"city setting\" default=\"现代市中心天际线\"}，时间为 {argument name=\"time of day\" default=\"日落\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "黄金时刻天台时尚人像：此提示词可生成一张精致、逼真的编辑风格人像，展现一位时尚女性在日落时分的天台风采，非常适合生活方式品牌推广、时尚广告及社交媒体视觉内容。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "editorial",
+        "premium"
+      ],
+      "lightingCamera": [
+        "backlight",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic, editorial, premium]。\n\nLighting and camera:\n[参考光线镜头: backlight, shallow depth, depth of field]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14416",
+      "15764",
+      "14829",
+      "15729",
+      "14648",
+      "14813"
+    ]
+  }
+}

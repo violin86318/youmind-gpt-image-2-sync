@@ -1,0 +1,40 @@
+{
+  "id": "14171",
+  "prompt": "A highly detailed, cinematic wide shot of a grand, dark gothic hall with a {argument name=\"atmosphere\" default=\"dark fantasy\"} aesthetic. In the center, a single figure wearing a {argument name=\"clothing\" default=\"long white robe\"} kneels on a highly reflective stone floor, facing an ornate golden altar illuminated by a row of lit candles. To the right of the kneeling figure, a single {argument name=\"floor object\" default=\"wooden violin\"} rests on the ground. The cavernous room is framed by massive dark stone pillars detailed with {argument name=\"accent color\" default=\"glowing blue\"} ethereal cracks and veins. Suspended from the high ceiling are dozens of {argument name=\"floating objects\" default=\"white porcelain theatrical masks\"} hanging on thin strings, filling the upper half of the space and creating a haunting, surreal atmosphere. The lighting is dramatic and moody, featuring a rich color palette of deep blacks, tarnished golds, and cool blue accents. Format 16:9.",
+  "translatedPrompt": "A highly detailed, cinematic wide shot of a grand, dark gothic hall with a {argument name=\"atmosphere\" default=\"dark fantasy\"} aesthetic. In the center, a single figure wearing a {argument name=\"clothing\" default=\"long white robe\"} kneels on a highly reflective stone floor, facing an ornate golden altar illuminated by a row of lit candles. To the right of the kneeling figure, a single {argument name=\"floor object\" default=\"wooden violin\"} rests on the ground. The cavernous room is framed by massive dark stone pillars detailed with {argument name=\"accent color\" default=\"glowing blue\"} ethereal cracks and veins. Suspended from the high ceiling are dozens of {argument name=\"floating objects\" default=\"white porcelain theatrical masks\"} hanging on thin strings, filling the upper half of the space and creating a haunting, surreal atmosphere. The lighting is dramatic and moody, featuring a rich color palette of deep blacks, tarnished golds, and cool blue accents. Format 16:9.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Surreal Gothic Hall with Floating Masks：Generates a dark fantasy scene of a kneeling figure in a grand hall filled with suspended objects, ideal for cinematic concept art.",
+      "subject": "空间",
+      "scene": "海报/封面",
+      "composition": [
+        "wide shot"
+      ],
+      "style": [
+        "cinematic",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体",
+        "构图",
+        "风格"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: wide shot]。\n\nVisual style:\n[参考风格: cinematic, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14439",
+      "15074",
+      "15343",
+      "14896",
+      "15782",
+      "15408"
+    ]
+  }
+}

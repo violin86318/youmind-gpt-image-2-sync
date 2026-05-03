@@ -1,0 +1,52 @@
+{
+  "id": "15716",
+  "prompt": "{\"type\":\"Japanese promotional storyboard sheet\",\"brand\":\"Topview\",\"product\":{\"name\":\"Ultra Plan\",\"badge\":\"新登場\",\"theme\":\"premium AI creative suite landing-page style ad for image and video generation\"},\"language\":\"Japanese\",\"canvas\":{\"aspect_ratio\":\"16:9\",\"background\":\"light gray overall page with four rounded white presentation boards arranged in a 2x2 grid\"},\"layout\":{\"sections\":[{\"title\":\"panel 1\",\"position\":\"top-left\",\"count\":1,\"composition\":\"large hero banner card with rounded corners, soft pink-white gradient background, faint floral sparkles, a large anime girl illustration on the right, headline and feature list on the left, and a filmstrip/video preview overlay near the lower right\"},{\"title\":\"panel 2\",\"position\":\"top-right\",\"count\":1,\"composition\":\"compact feature overview card with centered headline on top and 3 equal feature cards in a row underneath\"},{\"title\":\"panel 3\",\"position\":\"bottom-left\",\"count\":1,\"composition\":\"wide alternate banner card with headline at upper left, large faded anime girl illustration behind, and 3 feature cards aligned along the bottom\"},{\"title\":\"panel 4\",\"position\":\"bottom-right\",\"count\":1,\"composition\":\"structured product summary card with headline at top, 4 feature cards in a row in the middle, and a purple gradient benefit bar split into 3 columns at the bottom\"}]},\"subject\":{\"character\":{\"type\":\"ethereal anime young woman\",\"role\":\"visual motif for creative generation product\",\"hair\":\"very long flowing pale blonde hair with soft waves\",\"outfit\":\"ornate pastel fantasy dress with lace, floral details, translucent layers, and jeweled accessories\",\"palette\":\"blush pink, cream, lavender, soft gold\",\"face\":\"mostly obscured by a rectangular beige privacy block in all 4 panels\"},\"decor_elements\":{\"count\":5,\"items\":[\"floating cherry blossom petals\",\"sparkles\",\"hand-drawn storyboard sketch pages\",\"filmstrip frame with video thumbnails\",\"soft watercolor glow\"]}},\"text\":{\"logo_text\":\"Topview\",\"main_headlines\":{\"count\":4,\"items\":[\"{argument name=\\\"headline text\\\" default=\\\"Ultra Plan\\\"}\",\"新登場 Ultra Plan\",\"使える一本に、最短で近づく。\",\"Ultra Plan で、制作をもっと自由に。\"]},\"feature_names\":{\"count\":3,\"items\":[\"GPT-Image 2 (beta)\",\"Seedance 2.0\",\"Storyboard → Video\"]},\"feature_descriptions\":{\"count\":7,\"items\":[\"高品質画像を、より思い通りに生成\",\"720p / $0.1/秒、低コスト＆高効率\",\"絵コンテから、映像をスムーズに制作\",\"高品質画像を、より思い通りに生成\",\"低コスト＆高効率で映像生成\",\"絵コンテから、映像をスムーズに制作\",\"使える一本に、最短で近づく。\"]},\"bottom_benefits\":{\"count\":3,\"items\":[\"低コストで高品質 720p / $0.1/秒\",\"制作スピードUP 最短で形に\",\"狙い通りのクオリティ 思い描く映像へ\"]}},\"cards\":{\"feature_card_count\":10,\"types\":[{\"name\":\"GPT-Image 2 (beta)\",\"count\":4,\"visual\":\"pink-accent card showing a 2x2 or collage-style set of anime artwork thumbnails\"},{\"name\":\"Seedance 2.0\",\"count\":3,\"visual\":\"purple-accent card with large cinematic anime frame and pink circular play button\"},{\"name\":\"Storyboard → Video\",\"count\":3,\"visual\":\"white card with sketch storyboard sheets transitioning into a filmstrip preview\"}]},\"style\":{\"design\":\"high-end Japanese SaaS advertisement mockup / storyboard presentation board\",\"typography\":\"elegant serif for Ultra Plan, clean sans-serif for supporting text\",\"ui\":\"rounded cards, thin light-gray borders, soft shadows, clean spacing\",\"colors\":\"white, blush pink, lavender, purple gradients, gold badge accents\",\"rendering\":\"polished marketing key visual, accurate Japanese text layout, crisp app-card composition, delicate anime illustration, premium modern presentation\"}}",
+  "translatedPrompt": "{\"type\":\"日文推广分镜表\",\"brand\":\"Topview\",\"product\":{\"name\":\"Ultra Plan\",\"badge\":\"新登場\",\"theme\":\"采用落地页风格的优质 AI 创意套件，用于图像和视频生成\"},\"language\":\"日语\",\"canvas\":{\"aspect_ratio\":\"16:9\",\"background\":\"浅灰色整体页面，包含四个圆角白色演示项目，呈 2x2 网格排列\"},\"layout\":{\"sections\":[{\"title\":\"面板 1\",\"position\":\"左上\",\"count\":1,\"composition\":\"大型主视觉卡片，圆角设计，柔和的粉白色渐变背景，带有淡淡的花瓣闪光，右侧为大型动漫少女插画，左侧为标题和功能列表，右下角附近有胶片/视频预览叠加层\"},{\"title\":\"面板 2\",\"position\":\"右上\",\"count\":1,\"composition\":\"紧凑型功能概览卡片，顶部居中标题，下方并排 3 个等宽功能卡片\"},{\"title\":\"面板 3\",\"position\":\"左下\",\"count\":1,\"composition\":\"宽幅备选横幅卡片，左上角标题，背景为淡化的动漫少女插画，底部对齐 3 个功能卡片\"},{\"title\":\"面板 4\",\"position\":\"右下\",\"count\":1,\"composition\":\"结构化产品摘要卡片，顶部标题，中间并排 4 个功能卡片，底部为分为 3 列的紫色渐变收益栏\"}]},\"subject\":{\"character\":{\"type\":\"空灵的动漫少女\",\"role\":\"创意生成产品的视觉主题\",\"hair\":\"极长的飘逸浅金色波浪卷发\",\"outfit\":\"华丽的粉彩幻想风连衣裙，带有蕾丝、花卉细节、半透明层和珠宝配饰\",\"palette\":\"腮红粉、奶油色、薰衣草紫、柔和金\",\"face\":\"在所有 4 个面板中均被矩形米色隐私遮挡块遮住\"},\"decor_elements\":{\"count\":5,\"items\":[\"漂浮的樱花瓣\",\"闪光\",\"手绘分镜草图页\",\"带有视频缩略图的胶片框\",\"柔和的水彩光晕\"]}},\"text\":{\"logo_text\":\"Topview\",\"main_headlines\":{\"count\":4,\"items\":[\"{argument name=\\\"headline text\\\" default=\\\"Ultra Plan\\\"}\",\"新登場 Ultra Plan\",\"使える一本に、最短で近づく。\",\"Ultra Plan で、制作をもっと自由に。\"]},\"feature_names\":{\"count\":3,\"items\":[\"GPT-Image 2 (beta)\",\"Seedance 2.0\",\"Storyboard → Video\"]},\"feature_descriptions\":{\"count\":7,\"items\":[\"高质量图像，生成更随心所欲\",\"720p / $0.1/秒，低成本且高效率\",\"从分镜脚本到视频的流畅制作\",\"高质量图像，生成更随心所欲\",\"低成本、高效率的视频生成\",\"从分镜脚本到视频的流畅制作\",\"以最短时间，打造理想之作。\"]},\"bottom_benefits\":{\"count\":3,\"items\":[\"低成本高品质 720p / $0.1/秒\",\"制作速度提升，最短时间成型\",\"精准把控质量，实现心中影像\"]}},\"cards\":{\"feature_card_count\":10,\"types\":[{\"name\":\"GPT-Image 2 (beta)\",\"count\":4,\"visual\":\"带有粉色点缀的卡片，展示 2x2 或拼贴风格的动漫艺术缩略图\"},{\"name\":\"Seedance 2.0\",\"count\":3,\"visual\":\"带有大型电影感动漫画面和粉色圆形播放按钮的紫色点缀卡片\"},{\"name\":\"Storyboard → Video\",\"count\":3,\"visual\":\"白色卡片，展示从分镜草图到胶片预览的过渡\"}]},\"style\":{\"design\":\"高端日式 SaaS 广告样稿 / 分镜演示项目\",\"typography\":\"Ultra Plan 使用优雅衬线体，辅助文本使用简洁无衬线体\",\"ui\":\"圆角卡片、细浅灰色边框、柔和阴影、整洁间距\",\"colors\":\"白色、腮红粉、薰衣草紫、紫色渐变、金色徽章点缀\",\"rendering\":\"精美的营销主视觉，准确的日文文本排版，清晰的应用卡片构图，精致的动漫插画，高端现代的演示效果\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日文 Ultra Plan 推广分镜脚本：一份精美的四格日文营销分镜脚本，展示了一款名为 Ultra Plan 的 AI 创意产品，适用于生成优质广告样稿和演示概念。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "grid",
+        "2x2"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "fantasy",
+        "watercolor",
+        "premium",
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, grid, 2x2]。\n\nVisual style:\n[参考风格: cinematic, anime, fantasy, watercolor, premium, hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14989",
+      "15367",
+      "14413",
+      "14482",
+      "14531",
+      "14534"
+    ]
+  }
+}

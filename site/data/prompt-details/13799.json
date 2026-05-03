@@ -1,0 +1,49 @@
+{
+  "id": "13799",
+  "prompt": "A cinematic, photorealistic wide-angle shot from inside a spacecraft looking out a circular window into the deep blackness of space. On the left side of the frame, a {argument name=\"celestial body left\" default=\"massive, highly detailed crescent Moon\"} dominates the view, showcasing intricate craters and rugged terrain illuminated by harsh sunlight. On the right side, a smaller {argument name=\"celestial body right\" default=\"crescent Earth\"} glows with blue oceans and white atmospheric clouds. In the immediate foreground on the far left, an {argument name=\"foreground element\" default=\"astronaut's arm wearing a dark blue spacesuit\"} is visible, featuring a prominent {argument name=\"patch logo\" default=\"NASA\"} patch on the shoulder. The astronaut is holding a digital tablet with a glowing blue, complex user interface. The edge of the spacecraft window frames the scene, with subtle lens flares and reflections on the glass adding to the immersive, sci-fi documentary aesthetic. High contrast, hyper-realistic textures, 8k resolution.",
+  "translatedPrompt": "一张从航天器内部透过圆形舷窗望向深邃太空的电影级写实广角镜头。画面左侧，一个 {argument name=\"celestial body left\" default=\"细节极其丰富的巨大新月形月球\"} 占据了视野，展示了在强烈阳光照射下错综复杂的陨石坑和崎岖地形。右侧，一个较小的 {argument name=\"celestial body right\" default=\"新月形地球\"} 散发着蓝色海洋和白色大气云层的光芒。在最左侧的前景中，可见一只 {argument name=\"foreground element\" default=\"穿着深蓝色宇航服的宇航员手臂\"}，肩部带有醒目的 {argument name=\"patch logo\" default=\"NASA\"} 徽章。宇航员正拿着一个显示着复杂蓝色发光用户界面的数字平板电脑。航天器舷窗的边缘勾勒出整个场景，玻璃上微妙的镜头光晕和反射增添了沉浸式的科幻纪录片美感。高对比度，超写实纹理，8k 分辨率。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "从航天器视角拍摄的月球与地球电影级画面：生成一张从航天器舷窗向外望向天体的写实电影级画面，前景中包含一名宇航员。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "sci-fi",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "high contrast",
+        "lens"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, sci-fi, documentary]。\n\nLighting and camera:\n[参考光线镜头: high contrast, lens]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15803",
+      "13915",
+      "13662",
+      "13556",
+      "14598",
+      "15282"
+    ]
+  }
+}

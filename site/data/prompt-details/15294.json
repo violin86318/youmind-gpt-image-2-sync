@@ -1,0 +1,40 @@
+{
+  "id": "15294",
+  "prompt": "Using the provided reference image as the visual civilization seed, expand it into a new cinematic world scene that keeps the same grand East Asian fantasy design language, monumental scale, intricate architecture-first worldbuilding, and ultra-detailed realism, but shift the setting from a luminous cloud palace into an ancient mechanical ruin on the ground. Replace the gilded celestial temple environment with colossal circular ring structures, giant embedded gears, heavy industrial stone-and-metal architecture, broken conduits, and overgrown ruins with pale flowering trees. Change the mood to cold, misty, desaturated blue-gray lighting with soft atmospheric fog, while preserving the epic, awe-inspiring worldbuilding feel from the reference. Add 1 lone wandering swordsman seen from behind in the foreground, wearing flowing white robes and carrying a sheathed sword, centered beneath the largest ring to emphasize scale. Make it feel like a frame from a high-budget fantasy film, with extremely rich environmental detail and a cohesive visual language derived from the reference image.",
+  "translatedPrompt": "以提供的参考图像作为视觉文明的种子，将其扩展为一个全新的电影级世界场景。在保持宏大的东亚奇幻设计语言、纪念碑式的尺度、以建筑为核心的复杂世界观构建以及超细节写实感的同时，将场景从明亮的云端宫殿转变为地面上的古代机械遗迹。将镀金的仙境神庙环境替换为巨大的环形结构、嵌入的巨型齿轮、厚重的工业风石材与金属建筑、破损的管道，以及长满淡色花树的杂草丛生的废墟。将氛围调整为冷冽、朦胧、低饱和度的蓝灰色调，并辅以柔和的大气雾感，同时保留参考图中史诗般、令人惊叹的世界观质感。在前景中加入 1 位背对镜头的孤独流浪剑客，身着飘逸的白袍，佩戴着剑鞘，置于最大环形结构的正下方，以凸显尺度感。使其呈现出高预算奇幻电影画面的质感，具备极其丰富的环境细节，并展现出源自参考图像的连贯视觉语言。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "基于参考图的电影级世界观扩展：此提示词可将单一参考场景转化为风格统一的全新电影级世界观图像，适用于将概念扩展至电影、游戏或视觉开发中更广阔的场景。",
+      "subject": "产品",
+      "scene": "插画/漫画",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "cinematic",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体",
+        "构图",
+        "风格"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "动漫分镜、战斗场景、运动瞬间、夸张叙事图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 插画/漫画 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: cinematic, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15798",
+      "15800",
+      "14617",
+      "15379",
+      "14432",
+      "13809"
+    ]
+  }
+}

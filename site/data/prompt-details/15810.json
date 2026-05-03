@@ -1,0 +1,51 @@
+{
+  "id": "15810",
+  "prompt": "A luxurious high-fashion beauty campaign photograph in a sunlit Parisian marble bathroom, featuring an elegant woman in a sheer ivory silk robe leaning with folded arms on a polished marble counter. Her dark brown hair is styled in a loose, romantic updo with soft wisps around the neck. The mood is serene, refined, and ultra-premium. On the left, a tall window reveals a softly blurred view of the Eiffel Tower and Paris rooftops in warm morning light. On the right side of the counter sits 1 glass vase filled with white roses and 1 luxury skincare serum bottle with a gold dropper cap, positioned prominently like a prestige product ad. The room includes cream and gray veined marble walls, gold fixtures, a mirror, and glowing wall sconces. Use soft golden natural light, airy highlights, subtle reflections, shallow depth of field, cinematic editorial composition, realistic skin and fabric textures, understated French elegance, beauty advertising aesthetic, photorealistic luxury lifestyle imagery.",
+  "translatedPrompt": "一张奢华的高端时尚美妆广告照片，场景设定在阳光明媚的巴黎大理石浴室中。一位优雅的女性身着象牙白丝绸睡袍，双臂交叉倚靠在抛光大理石台面上。她留着深棕色长发，梳成随性浪漫的盘发，颈部周围散落着几缕发丝。整体氛围宁静、精致且极具高级感。左侧是一扇高大的窗户，窗外隐约可见晨光中柔和模糊的埃菲尔铁塔与巴黎屋顶。台面右侧摆放着 1 个装满白玫瑰的玻璃花瓶，以及 1 瓶带有金色滴管盖的奢华护肤精华液，如同高端产品广告般醒目。室内装饰包括奶油色与灰色纹理的大理石墙面、金色固定装置、镜子及发光的壁灯。采用柔和的金色自然光、通透的高光、细腻的倒影、浅景深效果、电影级编辑构图，呈现逼真的皮肤与织物纹理，展现低调的法式优雅，符合美妆广告审美，打造超写实的奢华生活方式影像。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "巴黎奢华美妆广告大片：此提示词可生成一张在阳光明媚的巴黎浴室中拍摄的超写实奢华护肤品广告场景，非常适合美妆品牌宣传及高端落地页使用。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "editorial",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [
+        "natural light",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, editorial, luxury, premium]。\n\nLighting and camera:\n[参考光线镜头: natural light, shallow depth, depth of field]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15243",
+      "15430",
+      "15462",
+      "15523",
+      "15095",
+      "14829"
+    ]
+  }
+}

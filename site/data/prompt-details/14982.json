@@ -1,0 +1,51 @@
+{
+  "id": "14982",
+  "prompt": "A dramatic vertical Japanese stage-play poster in luxurious dark fantasy anime style, featuring a single androgynous young actor in a half-body portrait against a nighttime city skyline with glowing high-rise windows and soft bokeh lights. The character has long straight hair in deep black with vivid teal-turquoise inner glow and streaks, glossy highlights, and strands flowing across the shoulders. They wear an elegant black high-collared costume with subtle brocade texture, a fitted dark coat, black leather gloves, and a jewel-like diamond-shaped turquoise pendant at the throat set in ornate gold. One gloved hand is raised near the collar in a poised theatrical gesture. The mood is mysterious, romantic, and slightly gothic, with cinematic rim lighting from behind, strong contrast, gold sparkles, and luminous accents in the hair and costume. Use a refined magazine-quality key visual composition with decorative gold filigree corners and a premium theatrical poster layout. Leave space for Japanese typography integrated into the design: at upper right, small text \"夜空に輝く、唯一の星。\", then \"主演俳優\" and the actor name \"{argument name=\"character name\" default=\"夜乃 宙\"}\" with small romanization \"SORA YORUNO\" beneath; along the left side, a vertical quote reading \"この役に、すべてを捧げる。闇さえ、愛に変えてみせよう。\"; near center-lower, small text \"幻想ロマン・ステージ\" above the large glowing gold title \"{argument name=\"title text\" default=\"夜の檻に囚われた光\"}\" with a small subtitle beneath \"—それでも、君を愛した。\"; include a dark teal rose motif and thorny circular ornament near the title. At the bottom left, add the date block \"2025 6.20 FRI - 6.29 SUN\" and venue \"天穹シアター\". At the bottom right, add a bordered ticket box with \"チケット一般発売 5.10 SAT 10:00~\". Center bottom credits in Japanese: \"原作・脚本 霧月 澪\", \"演出 七海 翼\", \"音楽 深月 奏\". Along the very bottom, add the tagline \"—光か、闇か——。愛が、運命を選ぶ。—\". Color palette: midnight blue, black, teal, cyan glow, and antique gold. Emphasize polished poster typography, layered depth, elegant fantasy drama branding, and a consistent face and atmosphere suitable for a theatrical promotional campaign.",
+  "translatedPrompt": "一张极具戏剧张力的日式舞台剧竖版海报，采用奢华的暗黑幻想动漫风格。画面中心为一位中性风年轻演员的半身肖像，背景是带有发光高层建筑与柔和散景灯光的夜间城市天际线。角色留着一头顺滑的长发，发色深黑，内层带有鲜艳的青绿光泽与挑染，发丝光泽感强，垂落在肩头。身着优雅的黑色高领服装，带有细腻的锦缎纹理，搭配修身深色外套、黑色皮手套，喉间佩戴着一颗镶嵌在华丽金饰中的菱形青绿色宝石吊坠。一只戴着手套的手抬至领口附近，呈现出优雅的舞台剧姿态。整体氛围神秘、浪漫且略带哥特感，背光处带有电影质感的轮廓光，对比强烈，点缀着金色火花，发丝与服装上的光效熠熠生辉。采用精致的杂志级主视觉构图，配以装饰性的金色花丝边角，呈现高端舞台剧海报布局。预留空间以融入日文排版：右上角小字“夜空に輝く、唯一の星。”，下方为“主演俳優”及演员姓名“{argument name=\"character name\" default=\"夜乃 宙\"}”，下方附带小字罗马音“SORA YORUNO”；左侧垂直排版引语“この役に、すべてを捧げる。闇さえ、愛に変えてみせよう。”；中下部为小字“幻想ロマン・ステージ”，上方为巨大的金色发光标题“{argument name=\"title text\" default=\"夜の檻に囚われた光\"}”，下方附带小标题“—それでも、君を愛した。”；标题附近加入深青色玫瑰图案与荆棘环形装饰。左下角添加日期栏“2025 6.20 FRI - 6.29 SUN”及演出地点“天穹シアター”。右下角添加带边框的票务信息栏“チケット一般発売 5.10 SAT 10:00~”。底部居中处标注制作人员名单：“原作・脚本 霧月 澪”、“演出 七海 翼”、“音楽 深月 奏”。最底部添加宣传语“—光か、闇か——。愛が、運命を選ぶ。—”。配色方案：午夜蓝、黑色、青色、青色荧光及古董金。强调精致的海报排版、层次深度、优雅的幻想戏剧品牌感，以及适合舞台剧宣传活动的统一面部特征与氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "暗黑幻想风舞台剧海报：一张精致的日式舞台剧海报，以奢华的暗黑幻想风格呈现，主角拥有一头神秘的黑青色长发，非常适合舞台剧宣传及角色驱动型视觉营销。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "poster layout",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "fantasy",
+        "premium"
+      ],
+      "lightingCamera": [
+        "rim light"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: poster layout, layered, vertical]。\n\nVisual style:\n[参考风格: cinematic, anime, fantasy, premium]。\n\nLighting and camera:\n[参考光线镜头: rim light]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15077",
+      "14505",
+      "14518",
+      "14514",
+      "14915",
+      "15809"
+    ]
+  }
+}

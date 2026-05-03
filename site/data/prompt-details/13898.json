@@ -1,0 +1,41 @@
+{
+  "id": "13898",
+  "prompt": "{\n  \"type\": \"livestream interface mockup\",\n  \"broadcaster\": {\n    \"name\": \"{argument name=\\\"broadcaster name\\\" default=\\\"Elon Musk\\\"}\",\n    \"appearance\": \"smiling man in a black jacket\",\n    \"action\": \"holding up a green glass beer bottle with a {argument name=\\\"product brand\\\" default=\\\"TSINGTAO\\\"} label\"\n  },\n  \"environment\": {\n    \"background\": \"{argument name=\\\"city background\\\" default=\\\"Qingdao skyline at night\\\"} with illuminated skyscrapers, a river, a glowing red sculptural monument, and a neon sign reading 'I ❤️ 青岛'\",\n    \"foreground\": \"a wooden table with a glass of beer with foam, and a clear ice bucket containing 4 green beer bottles\"\n  },\n  \"ui_elements\": {\n    \"header\": {\n      \"left\": \"Profile picture, name '{argument name=\\\"broadcaster name\\\" default=\\\"Elon Musk\\\"}', subtitle '特斯拉 CEO', and a pink '关注' button\",\n      \"right\": \"3 viewer avatars, '10万+' viewer count, and an 'X' close button\",\n      \"top_right_banner\": \"Pink promotional banner reading '抖音618好物节 最高立减200元'\"\n    },\n    \"floating_badges\": [\n      \"Yellow star badge '带货第1名' on top left\",\n      \"Translucent speech bubble '直播时间 20:00-24:00' on mid right\"\n    ],\n    \"interaction_panel\": {\n      \"gifts\": [\n        \"User '飞***' sending a pink heart 'x 88'\",\n        \"User '静***' sending a fan club badge 'x 26'\"\n      ],\n      \"system_message\": \"Purple badge '32 铁粉1 Elon 加入了直播间'\",\n      \"chat_messages_count\": 7,\n      \"chat_examples\": [\"马斯克来中国直播了\", \"支持马斯克，支持青岛啤酒\", \"多少钱一箱？\"]\n    },\n    \"product_card\": {\n      \"position\": \"bottom right\",\n      \"main_title\": \"{argument name=\\\"banner headline\\\" default=\\\"青岛啤酒官方旗舰店\\\"}\",\n      \"subtitle\": \"Red banner with white text '马斯克推荐 跟着CEO买好酒'\",\n      \"purchase_button\": \"White box with red text '惊喜价: {argument name=\\\"price\\\" default=\\\"¥99.9\\\"}' and a red '立即抢购' button\"\n    },\n    \"bottom_bar\": {\n      \"input_field\": \"Text input reading '说点什么...'\",\n      \"icons_count\": 5,\n      \"icons_list\": [\"smiley face\", \"shopping cart\", \"heart\", \"gift box\", \"three dots\"]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"直播界面样机\",\n  \"broadcaster\": {\n    \"name\": \"{argument name=\\\"broadcaster name\\\" default=\\\"Elon Musk\\\"}\",\n    \"appearance\": \"身穿黑色夹克的微笑男士\",\n    \"action\": \"手持一瓶带有 {argument name=\\\"product brand\\\" default=\\\"青岛啤酒\\\"} 标签的绿色玻璃啤酒瓶\"\n  },\n  \"environment\": {\n    \"background\": \"{argument name=\\\"city background\\\" default=\\\"青岛夜景\\\"}，背景为灯火辉煌的摩天大楼、河流、发光的红色雕塑地标以及写有“I ❤️ 青岛”的霓虹灯牌\",\n    \"foreground\": \"一张木桌，上面放着一杯带泡沫的啤酒，以及一个装有 4 瓶绿色啤酒的透明冰桶\"\n  },\n  \"ui_elements\": {\n    \"header\": {\n      \"left\": \"头像、名称“{argument name=\\\"broadcaster name\\\" default=\\\"Elon Musk\\\"}”、副标题“特斯拉 CEO”以及一个粉色的“关注”按钮\",\n      \"right\": \"3 个观众头像、“10万+”观看人数以及一个“X”关闭按钮\",\n      \"top_right_banner\": \"粉色促销横幅，写着“抖音 618 好物节 最高立减 200 元”\"\n    },\n    \"floating_badges\": [\n      \"左上角黄色星形徽章“带货第 1 名”\",\n      \"中右侧半透明气泡“直播时间 20:00-24:00”\"\n    ],\n    \"interaction_panel\": {\n      \"gifts\": [\n        \"用户“飞***”发送了粉色爱心“x 88”\",\n        \"用户“静***”发送了粉丝团徽章“x 26”\"\n      ],\n      \"system_message\": \"紫色徽章“32 铁粉 1 Elon 加入了直播间”\",\n      \"chat_messages_count\": 7,\n      \"chat_examples\": [\"马斯克来中国直播了\", \"支持马斯克，支持青岛啤酒\", \"多少钱一箱？\"]\n    },\n    \"product_card\": {\n      \"position\": \"右下角\",\n      \"main_title\": \"{argument name=\\\"banner headline\\\" default=\\\"青岛啤酒官方旗舰店\\\"}\",\n      \"subtitle\": \"红色横幅，白色文字“马斯克推荐 跟着 CEO 买好酒”\",\n      \"purchase_button\": \"白色方框，红色文字“惊喜价: {argument name=\\\"price\\\" default=\\\"¥99.9\\\"}”以及一个红色的“立即抢购”按钮\"\n    },\n    \"bottom_bar\": {\n      \"input_field\": \"文本输入框，显示“说点什么...”\",\n      \"icons_count\": 5,\n      \"icons_list\": [\"笑脸\", \"购物车\", \"爱心\", \"礼盒\", \"三个点\"]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电商直播 UI 样机：生成高度精细、逼真的电商直播界面，包含明星主播、实时聊天、交互式 UI 叠加层以及醒目的商品购买卡片。",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13826",
+      "13652",
+      "13956",
+      "13992",
+      "13893",
+      "14036"
+    ]
+  }
+}

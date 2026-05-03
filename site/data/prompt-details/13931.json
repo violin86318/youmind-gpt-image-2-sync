@@ -1,0 +1,41 @@
+{
+  "id": "13931",
+  "prompt": "A breathtaking, hyper-realistic landscape of an {argument name=\"setting\" default=\"alpine lake village\"}. In the foreground, a {argument name=\"foreground element\" default=\"wooden pier with 1 empty bench\"} extends into the crystal-clear blue water from the bottom left, framed by vibrant {argument name=\"flower color\" default=\"bright pink and red\"} flowers on the left and tall green reeds on the right. The calm lake perfectly reflects the scenery and features exactly 1 small red rowboat floating on the left and 1 white sailboat on the right. On the right shoreline, a picturesque European village with 1 prominent pointed church spire and traditional houses is nestled at the base of lush green hills. Towering {argument name=\"mountain type\" default=\"snow-capped jagged peaks\"} dominate the background under a {argument name=\"weather\" default=\"bright sunny day with fluffy white clouds\"}. The lighting is vibrant, idyllic, and highly detailed.",
+  "translatedPrompt": "一幅令人惊叹的超写实景观，描绘了 {argument name=\"setting\" default=\"阿尔卑斯湖畔村庄\"}。在前景中，一个 {argument name=\"foreground element\" default=\"带有 1 张空长椅的木质码头\"} 从左下角延伸至清澈湛蓝的湖水中，左侧点缀着鲜艳的 {argument name=\"flower color\" default=\"亮粉色和红色\"} 花朵，右侧则是高耸的绿色芦苇。平静的湖面完美地倒映着周围的景色，湖面上漂浮着 1 艘红色小划艇（位于左侧）和 1 艘白色帆船（位于右侧）。在右侧岸边，一个风景如画的欧洲村庄坐落在郁郁葱葱的青山脚下，拥有 1 座显眼的尖顶教堂和传统房屋。背景中，高耸的 {argument name=\"mountain type\" default=\"白雪皑皑的锯齿状山峰\"} 在 {argument name=\"weather\" default=\"阳光明媚、白云朵朵的天气\"} 下显得格外壮观。整体光影效果鲜明、充满田园气息且细节丰富。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "田园诗般的阿尔卑斯湖畔村庄景观：生成高度精细、风景如画的阿尔卑斯湖畔村庄景观，并支持自定义前景和背景元素。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15441",
+      "13783",
+      "13785",
+      "13788",
+      "13970",
+      "13991"
+    ]
+  }
+}

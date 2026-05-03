@@ -1,0 +1,37 @@
+{
+  "id": "13459",
+  "prompt": "A dark mode screenshot of an X post. The profile features a man with a mustache in a red shirt and crown, username {argument name=\"username\" default=\"@iruletheworldmo\"} with three strawberry emojis and a blue checkmark. Top right has a \"Subscribe\" button. The tweet text begins with {argument name=\"headline\" default=\"🚨 BREAKING FRONTIER MODEL NEWS\"} followed by {argument name=\"subheadline\" default=\"gpt-6 set for release april 14th\"} and a short intro about OpenAI leaks. Below are exactly 11 bullet points, each starting with a `>` symbol, detailing {argument name=\"bullet point topic\" default=\"fictional AI model specs\"} such as pretraining dates, outperforming gpt-5.4, native multimodality, killing Sora, renaming to \"AGI Deployment\", 2 million token context, pricing, safety team changes, a 2025 code red, and a new desktop superapp. The text is white on a black background in a standard sans-serif UI font.",
+  "translatedPrompt": "一张 X 推文的深色模式截图。个人资料显示为一名身穿红色衬衫、头戴皇冠且留着胡子的男性，用户名 {argument name=\"username\" default=\"@iruletheworldmo\"}，后跟三个草莓表情符号和一个蓝色认证勾选标记。右上角有一个“订阅”按钮。推文正文以 {argument name=\"headline\" default=\"🚨 BREAKING FRONTIER MODEL NEWS\"} 开头，随后是 {argument name=\"subheadline\" default=\"gpt-6 set for release april 14th\"} 以及一段关于 OpenAI 泄密事件的简短介绍。下方共有 11 个要点，每个要点均以 `>` 符号开头，详细描述了 {argument name=\"bullet point topic\" default=\"fictional AI model specs\"}，例如预训练日期、性能超越 gpt-5.4、原生多模态能力、取代 Sora、更名为“AGI 部署”、200 万 token 上下文、定价、安全团队变动、2025 年红色警报以及一款全新的桌面超级应用。文本采用标准的无衬线 UI 字体，在黑色背景上显示为白色。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "深色模式 X 推文样机：生成一张逼真的深色模式 Twitter/X 推文截图，包含一系列绿字风格的要点列表。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13700",
+      "14076",
+      "14133",
+      "15512",
+      "15820",
+      "13881"
+    ]
+  }
+}

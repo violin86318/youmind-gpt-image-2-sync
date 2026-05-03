@@ -1,0 +1,47 @@
+{
+  "id": "15788",
+  "prompt": "{\"type\":\"comparison graphic\",\"style\":\"anime cinematic demonstration image on a black presentation background\",\"canvas\":{\"aspect_ratio\":\"4:3\",\"background\":\"solid black\"},\"text_elements\":[{\"text\":\"{argument name=\\\"headline text\\\" default=\\\"Move the camera POV to be at ground level in the crowd.\\\"}\",\"position\":\"top center\",\"style\":\"large white sans-serif\"},{\"text\":\"Source\",\"position\":\"left of upper image\",\"style\":\"large white sans-serif\"},{\"text\":\"Output\",\"position\":\"left of lower image\",\"style\":\"large white sans-serif\"}],\"layout\":{\"sections\":[{\"title\":\"Source\",\"position\":\"upper center\",\"count\":1,\"labels\":[\"overhead crowd scene\"]},{\"title\":\"Output\",\"position\":\"lower center\",\"count\":1,\"labels\":[\"ground-level crowd POV scene\"]}],\"image_frames\":2},\"images\":[{\"role\":\"source image\",\"composition\":\"busy top-down view of a densely packed historical street crowd, seen from above\",\"scene\":\"a chaotic crowd gathered around a wagon and a horse-drawn carriage, people pressed shoulder to shoulder, many wearing caps and muted early-20th-century or old-European clothing, bundles and sacks visible, one brown horse at the right edge, wooden wagon wheel and cart structure partially visible\",\"camera\":\"high overhead bird's-eye angle looking down into the crowd\",\"lighting\":\"soft daylight\",\"color_palette\":\"muted earthy browns, dusty blues, beige, olive, warm gray\",\"rendering\":\"hand-painted anime film still, detailed crowd illustration, slightly soft shading\"},{\"role\":\"output image\",\"composition\":\"the same crowded historical street reimagined from inside the mass of people at near-ground height\",\"scene\":\"view from within the crowd beside a carriage wheel, bodies filling the foreground and midground, a person in dark maroon clothing bent forward at left, a crouched figure in green near the bottom center, a woman in a light blue dress at right-center turning back, tightly packed figures, horse and cart implied nearby, dramatic sense of compression and closeness\",\"camera\":\"very low ground-level POV from inside the crowd, upward and forward through people, emphasizing complex occlusion and depth\",\"lighting\":\"soft daylight with warm cinematic shadows\",\"color_palette\":\"muted earthy browns, dusty blues, beige, olive, warm gray\",\"rendering\":\"hand-painted anime film still, cinematic perspective shift, detailed character crowding, soft painterly shading\"}],\"overall_goal\":\"show a before-and-after camera angle transformation of the same anime crowd scene, with the output moving from an overhead view to a low immersive POV inside the crowd\"}",
+  "translatedPrompt": "{\"type\":\"comparison graphic\",\"style\":\"anime cinematic demonstration image on a black presentation background\",\"canvas\":{\"aspect_ratio\":\"4:3\",\"background\":\"solid black\"},\"text_elements\":[{\"text\":\"{argument name=\\\"headline text\\\" default=\\\"将摄像机视角移动到人群中的地面高度。\\\"}\",\"position\":\"top center\",\"style\":\"large white sans-serif\"},{\"text\":\"原始\",\"position\":\"left of upper image\",\"style\":\"large white sans-serif\"},{\"text\":\"输出\",\"position\":\"left of lower image\",\"style\":\"large white sans-serif\"}],\"layout\":{\"sections\":[{\"title\":\"原始\",\"position\":\"upper center\",\"count\":1,\"labels\":[\"俯视人群场景\"]},{\"title\":\"输出\",\"position\":\"lower center\",\"count\":1,\"labels\":[\"地面人群视角场景\"]}],\"image_frames\":2},\"images\":[{\"role\":\"source image\",\"composition\":\"busy top-down view of a densely packed historical street crowd, seen from above\",\"scene\":\"a chaotic crowd gathered around a wagon and a horse-drawn carriage, people pressed shoulder to shoulder, many wearing caps and muted early-20th-century or old-European clothing, bundles and sacks visible, one brown horse at the right edge, wooden wagon wheel and cart structure partially visible\",\"camera\":\"high overhead bird's-eye angle looking down into the crowd\",\"lighting\":\"soft daylight\",\"color_palette\":\"muted earthy browns, dusty blues, beige, olive, warm gray\",\"rendering\":\"hand-painted anime film still, detailed crowd illustration, slightly soft shading\"},{\"role\":\"output image\",\"composition\":\"the same crowded historical street reimagined from inside the mass of people at near-ground height\",\"scene\":\"view from within the crowd beside a carriage wheel, bodies filling the foreground and midground, a person in dark maroon clothing bent forward at left, a crouched figure in green near the bottom center, a woman in a light blue dress at right-center turning back, tightly packed figures, horse and cart implied nearby, dramatic sense of compression and closeness\",\"camera\":\"very low ground-level POV from inside the crowd, upward and forward through people, emphasizing complex occlusion and depth\",\"lighting\":\"soft daylight with warm cinematic shadows\",\"color_palette\":\"muted earthy browns, dusty blues, beige, olive, warm gray\",\"rendering\":\"hand-painted anime film still, cinematic perspective shift, detailed character crowding, soft painterly shading\"}],\"overall_goal\":\"show a before-and-after camera angle transformation of the same anime crowd scene, with the output moving from an overhead view to a low immersive POV inside the crowd\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫人群视角对比：一张黑色背景的对比图，展示了原始动漫人群场景与转换后的地面视角版本，用于演示复杂的摄像机角度变化。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "top-down"
+      ],
+      "style": [
+        "cinematic",
+        "anime"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: top-down]。\n\nVisual style:\n[参考风格: cinematic, anime]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13916",
+      "14472",
+      "14504",
+      "14918",
+      "14930",
+      "14951"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "13641",
+  "prompt": "{\n  \"type\": \"educational infographic\",\n  \"style\": \"clean, modern, scientific illustration\",\n  \"background\": \"dark blue gradient\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"Wavefunction Collapse\\\"}\",\n    \"subtitle\": \"From Many Possibilities to One Outcome\"\n  },\n  \"layout\": {\n    \"structure\": \"3 columns separated by thin vertical lines, connected by 2 horizontal right-pointing arrows\",\n    \"sections\": [\n      {\n        \"heading\": \"{argument name=\\\"step 1 title\\\" default=\\\"Before Measurement\\\"}\",\n        \"subheading\": \"{argument name=\\\"subject\\\" default=\\\"Electron\\\"} as a Probability Wave\",\n        \"visual\": \"diffuse, glowing blue cloud of particles resembling a nebula\",\n        \"labels\": [\"Probable Locations\", \"Superposition of all possibilities\"]\n      },\n      {\n        \"heading\": \"{argument name=\\\"step 2 title\\\" default=\\\"Measurement\\\"}\",\n        \"subheading\": \"We Measure the {argument name=\\\"subject\\\" default=\\\"Electron\\\"}'s Position\",\n        \"visual\": \"grey rectangular measuring device with a green screen and red button, with a downward arrow pointing to a flattened, glowing blue and yellow particle cloud\"\n      },\n      {\n        \"heading\": \"{argument name=\\\"step 3 title\\\" default=\\\"After Measurement\\\"}\",\n        \"subheading\": \"Wavefunction Collapses\",\n        \"visual\": \"single, solid yellow sphere emitting radial light rays\",\n        \"labels\": [\"Single, Definite Location\"]\n      }\n    ]\n  },\n  \"footer\": {\n    \"explanation\": \"'Collapse' means the wavefunction goes from a spread of possibilities to one specific result.\",\n    \"summary\": \"From Multiple Potentials [yellow right arrow] To One Certain Outcome\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"教育信息图\",\n  \"theme\": \"量子物理\",\n  \"background\": \"深蓝色渐变\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"波函数坍缩\\\"}\",\n    \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"从多种可能性到单一结果\\\"}\"\n  },\n  \"layout\": {\n    \"type\": \"三阶段水平演进\",\n    \"connections\": \"阶段间各有一个指向右侧的粗水平箭头\",\n    \"stages\": [\n      {\n        \"position\": \"左侧\",\n        \"title\": \"测量前\",\n        \"subtitle\": \"作为概率波的 {argument name=\\\"subject\\\" default=\\\"电子\\\"}\",\n        \"visual\": \"弥散且发光的蓝色粒子云，类似星云\",\n        \"labels\": [\"可能的位置\", \"所有可能性的叠加态\"]\n      },\n      {\n        \"position\": \"中央\",\n        \"title\": \"测量\",\n        \"subtitle\": \"测量 {argument name=\\\"subject\\\" default=\\\"电子\\\"} 的位置\",\n        \"visual\": \"1 个带有绿色屏幕和红色按钮的灰色方块测量设备，指向下方 1 个白色箭头，对应一个中心明亮的黄色凝聚态水平粒子带\"\n      },\n      {\n        \"position\": \"右侧\",\n        \"title\": \"测量后\",\n        \"subtitle\": \"波函数坍缩\",\n        \"visual\": \"发出明亮放射状光芒的单个实心黄色球体\",\n        \"labels\": [\"单一、确定的位置\"]\n      }\n    ]\n  },\n  \"footer\": {\n    \"explanation\": \"“坍缩”意味着波函数从多种可能性的分布转变为一个特定的结果。\",\n    \"summary\": \"从多种潜能 [黄色向右箭头] 到一个确定的结果\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "教育科学信息图：生成一个三阶段教育信息图，通过视觉隐喻和解释性文字阐述科学概念。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "vertical",
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical, horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13630",
+      "13821",
+      "13639",
+      "13753",
+      "13789",
+      "14875"
+    ]
+  }
+}

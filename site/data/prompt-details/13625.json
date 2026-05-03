@@ -1,0 +1,49 @@
+{
+  "id": "13625",
+  "prompt": "A photorealistic close-up portrait of a young Japanese woman wearing a {argument name=\"clothing style\" default=\"black Gothic Lolita dress with floral embroidery and lace detailing\"}. She has straight black hair with bangs and a {argument name=\"expression\" default=\"neutral\"} expression. On her head, she wears a {argument name=\"headwear\" default=\"black lace headdress featuring cat ears and ribbons tied under her chin\"}. The image is taken from a slightly high angle, resembling a selfie. The background is a slightly blurred street scene in front of a {argument name=\"background location\" default=\"Japanese convenience store with a prominent blue and white LAWSON sign\"}. Soft, overcast natural daylight illuminates her face, highlighting the intricate textures of the velvet and lace in her outfit.",
+  "translatedPrompt": "一张写实风格的特写肖像，主角是一位 {argument name=\"subject\" default=\"年轻日本女性\"}，留着黑色直发和齐刘海，身穿一件 {argument name=\"outfit\" default=\"带有花卉刺绣的黑色哥特萝莉裙\"}，头戴一个 {argument name=\"headwear\" default=\"黑色蕾丝猫耳头饰\"}，并用黑色丝带在下巴处系好。她面带 {argument name=\"expression\" default=\"中性表情\"}，直视镜头。背景为模糊的街景，可以看到一家 {argument name=\"background\" default=\"Lawson 便利店\"} 的店面，展示着蓝白色的招牌和玻璃门。光线自然且柔和，营造出一种写实的日常快照美感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "便利店里的哥特萝莉肖像：一张身着哥特萝莉装的人站在日本便利店前的写实肖像。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [
+        "overcast"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[参考光线镜头: overcast]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14568",
+      "15463",
+      "15706",
+      "14619",
+      "13960",
+      "13961"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "15767",
+  "prompt": "A photorealistic satirical editorial photo on an airport tarmac under a bright partly cloudy sky, showing a white private jet parked at an angle with its door open and stairs down. On the side of the jet, large clean corporate lettering reads “Google | ANTHROPIC”. In the foreground, 2 adult male tech-executive figures in dark business suits stand close together in a congratulatory embrace, facing camera, with one of them holding a thick fan of U.S. dollar bills in his hand. Their faces are intentionally obscured with smooth rectangular blur blocks. In the midground and right side, 2 more adult male figures in dark suits, also with blurred faces, push 2 airport luggage carts stacked high with tightly bundled bricks of U.S. cash. The left cart has a black panel with the Google logo, and the right cart has a black panel reading “Deep Pockets Division”. The wet ground reflects the figures, carts, and plane, adding a glossy post-rain look. Composition is centered and slightly low-angle, with the hugging pair dominating the frame and the two cash carts clearly visible behind them. Tone is sharp, realistic, high-detail, corporate-political satire, newswire photography style, natural daylight, crisp focus, subtle depth of field, premium private aviation aesthetics.",
+  "translatedPrompt": "一张在明亮多云天空下、机场停机坪上的写实讽刺社论照片。画面中，一架白色私人飞机斜向停放，舱门开启，舷梯放下。机身上印有醒目整洁的企业字样“Google | ANTHROPIC”。前景中，两名身着深色商务西装的成年男性科技高管紧紧拥抱，面向镜头，其中一人手中拿着一叠厚厚的美元钞票。他们的面部被刻意用平滑的矩形模糊块遮挡。中景和右侧，另外两名同样面部模糊、身着深色西装的成年男性，正推着两辆堆满紧密捆扎的美元砖块的机场行李推车。左侧推车上有一个带有 Google 标志的黑色面板，右侧推车上的黑色面板写着“Deep Pockets Division”。潮湿的地面反射出人物、推车和飞机的倒影，增添了雨后光泽感。构图居中且略带低角度，拥抱的两人占据画面主体，身后的两辆现金推车清晰可见。整体基调犀利、写实、细节丰富，具有企业政治讽刺意味，呈现新闻摄影风格，自然日光，焦点清晰，景深微妙，展现高端私人航空美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "讽刺科技圈金钱喷气机照片：此提示词可生成一张写实风格的社论式讽刺图片，描绘科技高管、品牌私人飞机以及满载现金的推车，用于评论 AI 融资与企业权力。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "editorial",
+        "premium"
+      ],
+      "lightingCamera": [
+        "depth of field",
+        "camera"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic, photorealistic, editorial, premium]。\n\nLighting and camera:\n[参考光线镜头: depth of field, camera]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14539",
+      "14966",
+      "15521",
+      "14021",
+      "14566",
+      "15039"
+    ]
+  }
+}

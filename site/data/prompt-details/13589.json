@@ -1,0 +1,41 @@
+{
+  "id": "13589",
+  "prompt": "A gritty, cinematic boxing promotional poster featuring a face-to-face staredown between {argument name=\"fighter 1\" default=\"Mike Tyson\"} on the left and {argument name=\"fighter 2\" default=\"Sam Altman\"} on the right. The left fighter is an older, bald man with a tribal facial tattoo, wearing a black boxing glove with \"TYSON\" printed on it. The right fighter is a younger man with dark wavy hair, wearing a black boxing glove featuring the OpenAI logo and text. Both men have intense, serious expressions, with highly detailed skin textures and sweat. The background is an out-of-focus boxing ring under bright stadium lights. The poster has a vintage, slightly scratched grunge texture. At the top, text reads \"WORLD TECH vs BOXING CHAMPIONSHIP\" in white and \"{argument name=\"top tagline\" default=\"NO CODE. ALL CHAOS.\"}\" in red. In the center, large bold typography reads \"MIKE TYSON\" in red, \"★ VS ★\" in red, and \"SAM ALTMAN\" in large cream-white letters. Below this, text reads \"{argument name=\"middle tagline\" default=\"THE BRAWN. THE BRAIN. THE FUTURE.\"}\". At the bottom, 3 columns of text display \"{argument name=\"event date\" default=\"SAT JULY 26\"}\", \"LIVE ON PAY-PER-VIEW\" in red, and \"AT&T STADIUM ARLINGTON, TX\". The very bottom footer reads \"PRESENTED BY NETFLIX | TESLA | OPENAI\".",
+  "translatedPrompt": "一张充满颗粒感、电影质感的拳击宣传海报，展示了左侧的 {argument name=\"fighter 1\" default=\"Mike Tyson\"} 与右侧的 {argument name=\"fighter 2\" default=\"Sam Altman\"} 面对面较量的场景。左侧拳手是一位年长的光头男子，面部带有部落纹身，戴着印有 \"TYSON\" 字样的黑色拳击手套。右侧拳手是一位年轻男子，留着深色波浪卷发，戴着印有 OpenAI 标志和文字的黑色拳击手套。两人表情严肃且充满张力，皮肤纹理和汗水细节极其逼真。背景是明亮体育场灯光下虚化的拳击台。海报带有复古且略显磨损的垃圾摇滚质感。顶部文字为白色的 \"WORLD TECH vs BOXING CHAMPIONSHIP\" 以及红色的 \"{argument name=\"top tagline\" default=\"NO CODE. ALL CHAOS.\"}\"。海报中央以醒目的粗体排版显示红色的 \"MIKE TYSON\"、红色的 \"★ VS ★\" 以及巨大的乳白色 \"SAM ALTMAN\" 字样。下方文字为 \"{argument name=\"middle tagline\" default=\"THE BRAWN. THE BRAIN. THE FUTURE.\"}\"。底部通过 3 列文字展示 \"{argument name=\"event date\" default=\"SAT JULY 26\"}\"、红色的 \"LIVE ON PAY-PER-VIEW\" 以及 \"AT&T STADIUM ARLINGTON, TX\"。最底部的页脚文字为 \"PRESENTED BY NETFLIX | TESLA | OPENAI\"。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影质感拳击比赛海报：生成一张充满颗粒感、高对比度的虚构拳击比赛宣传海报，支持自定义拳手、标语及赛事详情。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "vintage"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, vintage]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15039",
+      "13664",
+      "14262",
+      "15409",
+      "15767",
+      "14213"
+    ]
+  }
+}

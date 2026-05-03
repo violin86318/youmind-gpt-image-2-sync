@@ -1,0 +1,52 @@
+{
+  "id": "15764",
+  "prompt": "A glossy high-fashion magazine cover portrait in a vertical format, styled like a premium beauty and fashion publication. Show a young woman from the chest up in a soft glamorous studio setup, turning slightly sideways with one hand raised near her lips in a coy elegant pose. Her face is intentionally obscured by a solid rectangular block in a muted warm beige tone, centered over the face area. She has long, softly wavy light brown hair with pink rim lighting catching the strands, large thin silver hoop earrings, and long manicured pale pink nails. She wears a fluffy fuzzy knit sweater in blush pink with oversized sleeves and a cozy luxurious texture. Use a monochromatic pink palette with warm rosy lighting, soft glow, shallow depth of field, beauty-retouch polish, and editorial fashion photography aesthetics. The background should be a smooth pink gradient with subtle studio haze and light bloom. Design it as a magazine cover with layered typography: a very large pale pink masthead reading \"{argument name=\"magazine title\" default=\"GPT\"}\" across the top, with elegant serif text \"{argument name=\"cover line\" default=\"image 2.0\"}\" in the upper right. Add small upper-left text reading \"MAY 2024\" and \"FASHION & BEAUTY MAGAZINE\". Add three side feature blocks: left upper \"Special Interview\" with Japanese text beneath and \"8P\"; left lower \"Trend Report\" with Japanese text beneath; right middle \"Beauty Update\" with Japanese text beneath; right lower \"Style Guide\" with Japanese text beneath. At the bottom, place a large dramatic serif headline reading \"{argument name=\"main headline\" default=\"The Power of Confidence.\"}\" with \"The Power of\" in black italic serif and \"Confidence.\" in oversized deep pink italic serif. Beneath it, add the Japanese subheadline \"自分を信じて、もっと輝く私に。\" Keep the cover luxurious, feminine, trendy, and polished, like a contemporary Japanese fashion magazine.",
+  "translatedPrompt": "一张光泽感十足的高级时尚杂志封面肖像，采用竖构图，呈现出高端美妆与时尚刊物的风格。画面展示了一位年轻女性的胸部以上特写，置于柔和迷人的摄影棚环境中，她身体微微侧转，一只手举在唇边，姿态优雅含蓄。她的面部被一个位于中心位置、哑光暖米色的实心矩形色块刻意遮挡。她留着长长的浅棕色微卷发，发丝间闪烁着粉色的轮廓光，佩戴着大号细银圈耳环，指甲修剪整齐并涂有淡粉色甲油。她身穿一件淡粉色毛绒针织毛衣，袖口宽大，质感舒适奢华。整体采用单色粉色调，配以温暖的玫瑰色灯光、柔光效果、浅景深、精细的美容修图质感以及编辑类时尚摄影美学。背景为平滑的粉色渐变，带有细腻的摄影棚雾感和光晕。设计为杂志封面，包含分层排版：顶部横跨一个非常大的淡粉色刊头，文字为“{argument name=\"magazine title\" default=\"GPT\"}”，右上角配有优雅的衬线字体“{argument name=\"cover line\" default=\"image 2.0\"}”。左上角添加小字“MAY 2024”和“FASHION & BEAUTY MAGAZINE”。添加三个侧边专题栏：左上为“Special Interview”及其下方的日文文本和“8P”；左下为“Trend Report”及其下方的日文文本；右中为“Beauty Update”及其下方的日文文本；右下为“Style Guide”及其下方的日文文本。底部放置一个醒目的大号衬线标题，文字为“{argument name=\"main headline\" default=\"The Power of Confidence.\"}”，其中“The Power of”采用黑色斜体衬线字，“Confidence.”采用超大号深粉色斜体衬线字。在其下方，添加日文副标题“自分を信じて、もっと輝く私に。”保持封面奢华、柔美、潮流且精致的质感，如同当代日本时尚杂志。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "粉色时尚杂志封面：此提示词可生成一张精致的粉色调时尚杂志封面，包含舒适迷人的模特形象与编辑排版，非常适合美妆品牌宣传或模拟出版物封面。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "editorial",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, layered, vertical]。\n\nVisual style:\n[参考风格: editorial, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: rim light, shallow depth, depth of field]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15077",
+      "15400",
+      "15729",
+      "14518",
+      "14828",
+      "15088"
+    ]
+  }
+}

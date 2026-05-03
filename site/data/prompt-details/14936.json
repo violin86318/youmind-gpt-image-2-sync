@@ -1,0 +1,47 @@
+{
+  "id": "14936",
+  "prompt": "Create a clean, premium Japanese landing page hero image for a fictional tax accountant office specializing in inheritance tax consultation. The design should look like a modern listing-ad LP first view, wide desktop format, with a soft ivory and warm white background, muted sage green and gold accent colors, elegant serif Japanese typography for the headline, and a calm trustworthy atmosphere. On the left upper area, place a refined circular logo with a thin gold ring, a large serif letter C, and a small botanical line illustration, followed by the office name 税理士事務所 {argument name=\"office name\" default=\"C\"} and the English subtitle TAX ACCOUNTANT OFFICE {argument name=\"office name\" default=\"C\"}. In the top right, add a rounded white contact bar split into 2 blocks: a phone block with a green circular phone icon, the small text 初回相談無料・土日祝も対応, and the large number {argument name=\"phone number\" default=\"0120-987-654\"}; and a mail block with a gold circular mail icon and the text メールでのお問い合わせ 24時間受付中. The main headline on the left should be large Japanese text reading 相続の不安に、安心という答えを。, with the key phrase 安心という答えを。 in sage green. Beneath it, add a supporting sentence in smaller Japanese text: 相続税の申告・節税対策を、経験豊富な税理士がご家族の想いに寄り添い、丁寧にサポートします。 Below that, place 3 rounded rectangular feature cards in a row with pale backgrounds and green line icons: card 1 shows a document icon and the text 相続税申告実績 1,000件以上 with a tiny note ※累計実績; card 2 shows a bar chart icon and the text 節税対策のご提案で 税負担を軽減 with a tiny note ※状況により効果は異なります; card 3 shows a group icon and the text 初回相談 無料 with a tiny note 安心の明朗会計. On the right half, show a bright consultation scene photo-style image: 3 Japanese adults around a desk in a sunlit office with greenery in the background, consisting of 1 male advisor in a navy suit seen from behind on the right, and 2 clients facing him, a middle-aged man in a light beige jacket and a woman in a white blouse. Place an open laptop on the table. Their expressions should feel calm and attentive. Overlay a pale circular badge near the lower right of the photo with delicate leaf decoration and the text 安心の 相続専門サポート わかりやすいご説明ではじめての方も安心. Across the lower middle, add a slim consultation invitation line reading 相続に関するお悩み、まずはお気軽にご相談ください, framed by diagonal slash marks. Under it, place 4 rounded category tabs in a row: 相続税の申告, 生前対策・節税, 遺産分割サポート, 二次相続対策. At the bottom right, add a large green rounded contact CTA area split into 2 main columns: the left column with a white phone icon, the small text お電話でのお問い合わせ（フリーダイヤル）, the large number {argument name=\"phone number\" default=\"0120-987-654\"}, and the small line 受付時間 9:00〜18:00（土日祝対応可）; the right column with a white mail icon, the text メールでのお問い合わせ 24時間受付中, and a rounded white button reading ご相談はこちらから. Along the very bottom, create a white reassurance strip with 3 horizontally arranged items separated by thin vertical dividers: 1) shield icon and 秘密厳守・プライバシー保護を徹底, 2) clipboard icon and 明朗会計・事前お見積りで安心, 3) handshake icon and 相続の専門家がワンストップで対応. Use subtle shadows, rounded corners, soft natural light, polished commercial web design, and a highly believable Japanese legal-tax service advertisement aesthetic.",
+  "translatedPrompt": "为一家专注于遗产税咨询的虚构会计师事务所，设计一张简洁、高端的日本落地页首屏图像。设计应呈现出现代化列表广告 LP 首屏的视觉效果，采用宽屏桌面格式，背景为柔和的象牙白与暖白色，搭配柔和的鼠尾草绿和金色作为点缀，标题使用优雅的衬线体日文字体，营造出冷静且值得信赖的氛围。在左上方放置一个精致的圆形 Logo，包含细金环、大号衬线字母 C 以及小型植物线条插图，随后是事务所名称“税理士事务所 {argument name=\"office name\" default=\"C\"}”以及英文副标题“TAX ACCOUNTANT OFFICE {argument name=\"office name\" default=\"C\"}”。在右上角，添加一个分为两部分的圆角白色联系栏：左侧为电话栏，包含绿色圆形电话图标、小字“初回相談無料・土日祝も対応”（首次咨询免费，周末节假日均可）以及大号数字 {argument name=\"phone number\" default=\"0120-987-654\"}；右侧为邮件栏，包含金色圆形邮件图标和文字“メールでのお問い合わせ 24時間受付中”（邮件咨询 24 小时受理中）。左侧的主标题应为醒目的日文：“相続の不安に、安心という答えを。”（为您的遗产继承焦虑，提供安心的答案。），其中关键短语“安心という答えを。”使用鼠尾草绿色。下方添加一行较小的日文辅助说明：“相続税の申告・節税対策を、経験豊富な税理士がご家族の想いに寄り添い、丁寧にサポートします。”（经验丰富的税务师将贴近家人的心意，为您提供遗产税申报及节税对策的细致支持。）下方横向放置 3 个圆角矩形功能卡片，背景色浅淡，配有绿色线条图标：卡片 1 显示文档图标及文字“相続税申告実績 1,000件以上”（遗产税申报业绩 1,000 件以上），附带小字“※累計実績”（累计业绩）；卡片 2 显示柱状图图标及文字“節税対策のご提案で 税負担を軽減”（通过节税对策建议减轻税务负担），附带小字“※状況により効果は異なります”（效果因情况而异）；卡片 3 显示群体图标及文字“初回相談 無料”（首次咨询免费），附带小字“安心の明朗会計”（明码标价，安心无忧）。在右半部分，展示一张明亮的咨询场景照片：在阳光充足、背景有绿植的办公室里，3 位日本成年人围坐在桌旁，包括右侧背对镜头、身着深蓝色西装的男性顾问，以及面对他的 2 位客户（一位身穿浅米色夹克的男性和一位身穿白色衬衫的女性）。桌上放着一台打开的笔记本电脑。他们的表情显得冷静且专注。在照片右下方叠加一个带有精致叶片装饰的浅色圆形徽章，文字为“安心の 相続専門サポート わかりやすいご説明ではじめての方も安心”（安心的遗产继承专业支持，通俗易懂的说明，初次咨询也能放心）。在下部中间，添加一行细长的咨询邀请线，文字为“相続に関するお悩み、まずはお気軽にご相談ください”（关于遗产继承的烦恼，请随时咨询），两侧以斜线装饰。下方横向放置 4 个圆角分类标签：“相続税の申告”、“生前対策・節税”、“遺産分割サポート”、“二次相続対策”。在右下角，添加一个大的绿色圆角联系 CTA 区域，分为两列：左列包含白色电话图标、小字“お電話でのお問い合わせ（フリーダイヤル）”（电话咨询（免费热线））、大号数字 {argument name=\"phone number\" default=\"0120-987-654\"} 以及小字“受付時間 9:00〜18:00（土日祝対応可）”（受理时间 9:00-18:00，周末节假日可受理）；右列包含白色邮件图标、文字“メールでのお問い合わせ 24時間受付中”（邮件咨询 24 小时受理中）以及一个圆角白色按钮“ご相談はこちらから”（点击此处咨询）。最底部创建一个白色保障条，横向排列 3 个由细竖线分隔的项目：1) 盾牌图标及“秘密厳守・プライバシー保護を徹底”（严格遵守保密与隐私保护），2) 剪贴板图标及“明朗会計・事前お見積りで安心”（明码标价，事前报价安心），3) 握手图标及“相続の専門家がワンストップで対応”（遗产继承专家一站式服务）。运用微妙的阴影、圆角、柔和的自然光，打造出专业、可信度极高的日本法律税务服务广告视觉效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日本遗产税 LP 首屏设计：为一家虚构的遗产税会计师事务所设计的精美日本落地页首屏，适用于法律和税务服务广告样机。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "premium"
+      ],
+      "lightingCamera": [
+        "natural light"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical, horizontal]。\n\nVisual style:\n[参考风格: premium]。\n\nLighting and camera:\n[参考光线镜头: natural light]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14966",
+      "13507",
+      "14935",
+      "14554",
+      "15321",
+      "15464"
+    ]
+  }
+}

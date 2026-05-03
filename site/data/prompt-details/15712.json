@@ -1,0 +1,46 @@
+{
+  "id": "15712",
+  "prompt": "A vibrant Japanese comic-style cover illustration with two anime characters standing side by side against a split pink-and-blue pop graphic background filled with stars, dots, music notes, hearts, spark lines, and playful doodles. At the top, place a huge bold Japanese title in thick black and brown kanji with white outline and pink shadow reading 夜坂さんと茶藤くん, arranged in an energetic layered composition inside a fluffy cloud-like title shape. The left half of the background is pink and the right half is light blue, with a diagonal dividing rhythm and decorative manga-cover accents. Show exactly 2 characters from about mid-thigh up. On the left is a rebellious teenage girl with a straight black bob haircut and blunt bangs, pale skin, punk-rock fashion, and a slightly annoyed withdrawn pose with one hand near her mouth. She wears an oversized black zip hoodie over a red-and-black horizontal striped shirt, a red plaid pleated skirt, fishnet stockings, and a black heart-shaped choker. She holds a black electric bass guitar vertically across her body, with visible tuning pegs, strings, pickups, and chrome hardware. On the right is a cheerful teenage boy with messy light brown hair, fair skin, and a friendly expressive pose. He wears a white button-up shirt with sleeves rolled to the elbows, a fitted black vest with a small emblem on the chest, and black slacks. He holds a stylus pen near his face in one hand and a dark drawing tablet tucked in the other arm. Add exactly 2 vertical Japanese speech balloons: on the left, うるさいのはキライ。 in a pink outlined balloon; on the right, そのセンスもっとみんなに届けたいです… in a blue outlined balloon. Include small floating icons between and around them: exactly 2 black music notes, 2 pink hearts, 2 blue stars, and a few curved arrows and spark marks suggesting lively chemistry. The overall style is polished modern manga cover art, clean linework, glossy shading, expressive character design, bright pastel pop palette, high detail, commercial light novel or comic serialization cover aesthetic.",
+  "translatedPrompt": "一张充满活力的日式漫画风格封面插图，两位动漫角色并肩站立，背景为粉蓝双色拼接的波普图形，点缀着星星、圆点、音符、爱心、闪光线条和趣味涂鸦。顶部放置一个巨大的粗体日文标题，采用厚实的黑棕色汉字，配有白色描边和粉色阴影，文字为“夜坂さんと茶藤くん”，以充满活力的分层构图排列在蓬松的云朵状标题框内。背景左半部分为粉色，右半部分为浅蓝色，呈现对角线分割的节奏感，并带有装饰性的漫画封面元素。画面需展示 2 位角色，从大腿中部以上构图。左侧是一位叛逆的少女，留着黑色直发波波头和齐刘海，皮肤白皙，身着朋克摇滚风格服装，姿态略显烦躁内敛，一只手靠近嘴边。她穿着超大号黑色拉链连帽衫，内搭红黑横条纹衬衫，下穿红色格子百褶裙、渔网袜，颈戴黑色心形项圈。她怀抱一把黑色电贝斯，琴头、琴弦、拾音器和镀铬硬件清晰可见。右侧是一位开朗的少年，留着凌乱的浅棕色短发，皮肤白皙，表情友好生动。他穿着白色衬衫，袖子卷至肘部，外搭一件胸前带有小徽章的黑色修身马甲，下穿黑色长裤。他一手拿着触控笔靠近脸部，另一只手臂夹着一块深色绘图板。添加 2 个垂直的日文对话气泡：左侧气泡为粉色描边，写着“うるさいのはキライ。”；右侧气泡为蓝色描边，写着“そのセンスもっとみんなに届けたいです…”。在角色之间及周围添加小型浮动图标：2 个黑色音符、2 个粉色爱心、2 个蓝色星星，以及一些弯曲的箭头和闪光符号，以展现生动的化学反应。整体风格为精致的现代漫画封面艺术，线条干净，光泽感阴影，角色设计富有表现力，采用明亮的柔和波普色调，细节丰富，具有商业轻小说或漫画连载封面的美感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "贝斯少女与设计师少年的漫画封面：此提示词可生成色彩鲜艳的日式漫画风格封面，主角为一位手持贝斯的朋克少女和一位拿着绘图板的创意少年，非常适合漫画、轻小说或角色驱动的宣传艺术创作。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "layered",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "anime",
+        "manga"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical, horizontal]。\n\nVisual style:\n[参考风格: anime, manga]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13916",
+      "14930",
+      "15094",
+      "15334",
+      "15353",
+      "15734"
+    ]
+  }
+}

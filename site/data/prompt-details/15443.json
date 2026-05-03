@@ -1,0 +1,49 @@
+{
+  "id": "15443",
+  "prompt": "A cinematic historical war scene from Romance of the Three Kingdoms depicting the straw boat borrowing arrows on a wide gray river during a violent rainstorm, viewed from a slightly elevated front angle. In the foreground, a convoy of 6 narrow wooden boats is lashed together in a line, each boat wrapped thickly with dense bundles of straw along the sides and bow, creating rough protective walls. Hundreds of black-feathered arrows are embedded all over the straw armor, sticking out in every direction, with more arrows flying diagonally through the air in heavy wind and rain. The lead boat dominates the frame; its cabin is covered with dark blue fabric curtains and blue roof panels. Standing calmly inside the front cabin are 2 robed ancient Chinese strategists, one in a pale white robe holding a feather fan and one darker-robed companion beside him, both composed and unhurried amid the chaos. Along the left side of the boats are clustered oarsmen and soldiers in dark period clothing, with several large war drums visible on the decks. In the background across the river, a massive enemy river fleet fills the misty distance: dozens of tall wooden warships, watchtowers, and platforms crowded with troops and archers. Multiple military banners bearing the single large Chinese character \"曹\" rise above the fleet, indicating Cao Cao's forces. The atmosphere is cold, desaturated, and epic, with fog, smoke, rain streaks, rough water, low contrast blue-gray lighting, and highly detailed realistic textures in wet wood, straw, fabric, and river spray. Ultra-detailed, photorealistic ancient Chinese battlefield tableau, dramatic scale, moody historical realism, vertical composition.",
+  "translatedPrompt": "一幅来自《三国演义》的电影级历史战争场景，描绘了在狂风暴雨中，宽阔灰暗的江面上进行“草船借箭”的画面，视角为略微俯视的前方视角。前景中，6 艘狭长的木船首尾相连，每艘船的侧面和船头都紧密包裹着厚厚的草束，形成了粗糙的防御墙。数百支黑羽箭密密麻麻地插在草束护甲上，向四面八方伸出，更多的箭矢在狂风暴雨中斜向飞过。领头的船只占据了画面中心；其船舱覆盖着深蓝色的布帘和蓝色顶棚。前舱内，两位身着长袍的中国古代谋士神态自若地站立着，其中一人身着浅白色长袍，手持羽扇，身旁伴着一位身着深色长袍的同伴，两人在混乱中显得从容不迫。船只左侧聚集着身穿深色古装的桨手和士兵，甲板上可见几面巨大的战鼓。背景中，江对岸是密布在雾气中的庞大敌军舰队：数十艘高大的木制战舰、望楼和平台上挤满了军队和弓箭手。多面印有巨大“曹”字的军旗在舰队上方飘扬，象征着曹操的军队。整体氛围冷峻、低饱和且宏大，伴有浓雾、烟尘、雨丝、汹涌的江水、低对比度的蓝灰色调，以及湿木、稻草、织物和江面水雾的高细节写实质感。超精细、写实的中国古代战场画面，宏大的规模，沉郁的历史真实感，竖构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "草船借箭：此提示词可生成极具戏剧性的写实风格三国水战场景，非常适合用于描绘著名的“草船借箭”计谋。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "low contrast"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: low contrast]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15308",
+      "15754",
+      "15758",
+      "15766",
+      "14561",
+      "14562"
+    ]
+  }
+}

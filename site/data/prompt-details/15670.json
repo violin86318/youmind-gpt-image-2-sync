@@ -1,0 +1,47 @@
+{
+  "id": "15670",
+  "prompt": "A dynamic anime action illustration in a comedic chibi style, showing a tiny but fierce girl performing a powerful Chinese martial arts shoulder strike, tetsuzankou, into the side of a startled boy. The girl is the main focus: {argument name=\"character name\" default=\"red-haired martial artist girl\"}, with long vivid {argument name=\"hair color\" default=\"crimson red\"} hair streaming violently backward, sharp red eyes, and a determined angry expression. She is lunging from right to left at extreme speed, body low and compact, one shoulder and upper back driving into the boy’s torso, one fist pulled back and the other arm tucked for balance, with one knee bent forward and one leg trailing behind. She wears a short red Chinese-style qipao dress with gold floral embroidery, gold trim, side slit, and black flat shoes. The boy is a chibi black-haired teenager in a dark navy Chinese kung fu outfit with gold piping and black shoes, recoiling from the impact with a shocked open mouth, blank white eyes, sweat drops, and his body thrown backward to the left. Emphasize the exact moment of collision with a bright explosive impact burst at his side, flying debris, sparks, and strong speed-line distortion across the entire background. Add dust clouds and ground streaks near the girl’s trailing foot to show explosive forward momentum. Use a manga-inspired composition with exaggerated motion, foreshortening, and a diagonal rush from lower right to upper left. Include 3 large Japanese sound-effect text elements integrated into the art: one vertical right-side callout reading \"鉄山靠!!\", one smaller vertical annotation beside it reading \"てつざんこう\", and one large lower-left impact sound effect reading \"ドガッ!!\". The overall mood is fast, funny, aggressive, and high-impact, with polished modern anime rendering, glossy hair highlights, crisp line art, and dramatic red-white-black contrast.",
+  "translatedPrompt": "一幅充满喜剧 Q 版风格的动态动漫动作插画，展示了一个娇小但凶猛的女孩对一个受惊男孩的侧面施展强力的中国武术肩部撞击——铁山靠。女孩是画面焦点：{argument name=\"character name\" default=\"红发武术少女\"}，长长的鲜艳 {argument name=\"hair color\" default=\"绯红色\"} 头发向后剧烈飘动，有着锐利的红眼和坚定愤怒的表情。她正以极快的速度从右向左冲刺，身体低伏紧凑，一侧肩膀和上背部撞向男孩的躯干，一只拳头后拉，另一只手臂收拢以保持平衡，一只膝盖向前弯曲，另一条腿向后拖曳。她穿着一件短款红色中式旗袍，带有金色花卉刺绣、金色滚边、侧开叉和黑色平底鞋。男孩是一个黑发 Q 版少年，穿着深蓝色中式功夫装，配有金色滚边和黑色鞋子，因冲击而向后退缩，张着嘴露出震惊的表情，双眼翻白，带有汗滴，身体向左后方飞出。强调碰撞的瞬间，在他身侧产生明亮的爆炸冲击效果、飞溅的碎片、火花以及横跨整个背景的强烈速度线扭曲。在女孩拖曳的脚部附近添加尘云和地面划痕，以展现爆炸性的前进动能。采用漫画风格的构图，运用夸张的动作、透视缩短以及从右下到左上的对角线冲刺。画面中集成了 3 个大型日语拟声词文字元素：右侧一个垂直的标注文字“鉄山靠!!”，旁边一个较小的垂直注释“てつざんこう”，以及左下方一个巨大的撞击拟声词“ドガッ!!”。整体氛围快速、滑稽、具有攻击性和强烈的冲击感，采用精致的现代动漫渲染，具有光泽的头发高光、清晰的线条艺术以及戏剧性的红、白、黑对比。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Q 版铁山靠冲击攻击：一个充满活力的 Q 版动漫动作场景，展示了一位红发女孩施展戏剧性的肩部撞击，非常适合漫画风格的武术插画和喜剧战斗视觉效果。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "callout",
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "manga"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: callout, vertical]。\n\nVisual style:\n[参考风格: anime, manga]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14916",
+      "13932",
+      "14022",
+      "14468",
+      "14524",
+      "14677"
+    ]
+  }
+}

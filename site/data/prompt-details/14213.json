@@ -1,0 +1,41 @@
+{
+  "id": "14213",
+  "prompt": "A realistic sports photograph of exactly 5 identical young Asian men standing in a neat row. They have shaved heads and are wearing {argument name=\"uniform style\" default=\"white baseball uniforms with thin dark pinstripes\"}, navy undershirts, and black belts. The word \"{argument name=\"team name\" default=\"KANAKO\"}\" is arched across their chests in navy lettering with a gold outline. They are standing at attention with their hands behind their backs, all facing slightly to the left with serious expressions. The background features {argument name=\"background\" default=\"blurred green stadium seating\"}, indicating a baseball field in bright daylight.",
+  "translatedPrompt": "A realistic sports photograph of exactly 5 identical young Asian men standing in a neat row. They have shaved heads and are wearing {argument name=\"uniform style\" default=\"white baseball uniforms with thin dark pinstripes\"}, navy undershirts, and black belts. The word \"{argument name=\"team name\" default=\"KANAKO\"}\" is arched across their chests in navy lettering with a gold outline. They are standing at attention with their hands behind their backs, all facing slightly to the left with serious expressions. The background features {argument name=\"background\" default=\"blurred green stadium seating\"}, indicating a baseball field in bright daylight.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Identical Baseball Players Lineup：Generates a realistic photo of a row of identical baseball players standing at attention on a field.",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15767",
+      "14566",
+      "15521",
+      "13589",
+      "15637",
+      "14262"
+    ]
+  }
+}

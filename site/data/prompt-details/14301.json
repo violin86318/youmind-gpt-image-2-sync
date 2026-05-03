@@ -1,0 +1,49 @@
+{
+  "id": "14301",
+  "prompt": "9:16 vertical — {argument name=\"film style\" default=\"Japanese Fuji film style\"} portrait, single subject\n\nFujifilm analog aesthetic (Pro 400H / Superia feel), soft pastel tones, slight green-magenta shift, low contrast, gentle highlight roll-off, fine film grain, subtle halation\n\nearly morning indoor setting near window, soft curtains, fresh daylight\n\n{argument name=\"subject\" default=\"young Japanese female idol\"}, natural minimal makeup, soft fresh skin texture\n\noutfit: oversized shirt with loose shorts, relaxed homewear style, non-revealing\n\nhair: slightly messy, natural volume, just-woke-up feeling\n\npose: sitting on bed edge or by window, body slightly leaning forward, shoulders relaxed; one hand loosely holding a small flower or fabric, the other resting naturally\n\nexpression: soft, slightly sleepy gaze, calm and natural\n\nlighting: {argument name=\"lighting\" default=\"soft morning light\"}, diffused, gentle shadows\n\nmood: quiet, fresh, intimate everyday moment\n\nquality: ultra-realistic, film grain, slight softness, natural imperfections",
+  "translatedPrompt": "9:16 竖屏 — {argument name=\"film style\" default=\"日系富士胶片风格\"} 人像，单人主体\n\n富士胶片模拟美学（Pro 400H / Superia 质感），柔和的粉彩色调，轻微的绿-洋红偏移，低对比度，柔和的高光过渡，细腻的胶片颗粒，微妙的光晕效果\n\n清晨室内场景，靠近窗边，柔软的窗帘，清新的日光\n\n{argument name=\"subject\" default=\"年轻日本女性偶像\"}，自然裸妆，细腻清透的皮肤质感\n\n服装：宽松衬衫搭配休闲短裤，居家风格，不暴露\n\n发型：微乱，自然的蓬松感，刚睡醒的感觉\n\n姿势：坐在床边或窗边，身体微微前倾，肩膀放松；一只手随意拿着小花或布料，另一只手自然垂放\n\n表情：柔和、略带睡意的凝视，平静且自然\n\n光影：{argument name=\"lighting\" default=\"柔和晨光\"}，漫射光，柔和的阴影\n\n氛围：安静、清新、亲密的日常瞬间\n\n质量：超写实，胶片颗粒感，轻微柔焦，自然的瑕疵感",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日系富士胶片风格人像：一个极其详尽的提示词，用于生成具有柔和、自然且亲密清晨感的优质富士胶片美学人像。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [
+        "low contrast",
+        "film grain"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[参考光线镜头: low contrast, film grain]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14414",
+      "14619",
+      "14628",
+      "14630",
+      "14679",
+      "15028"
+    ]
+  }
+}

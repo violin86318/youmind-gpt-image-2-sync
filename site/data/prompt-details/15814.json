@@ -1,0 +1,43 @@
+{
+  "id": "15814",
+  "prompt": "{\"type\":\"fitness health infographic poster\",\"topic\":\"{argument name=\\\"headline text\\\" default=\\\"MANFAAT LARI PAGI\\\"}\",\"language\":\"Indonesian\",\"style\":{\"look\":\"clean modern sporty infographic\",\"palette\":[\"navy blue\",\"lime green\",\"white\",\"yellow accents\"],\"finish\":\"high-contrast, polished social-media-ready poster\",\"graphics\":\"bold italic condensed headlines, brush-stroke textures, rounded dark panels, simple vector fitness icons, energetic diagonal accents\"},\"canvas\":{\"aspect_ratio\":\"3:4\",\"background\":\"split layout with white textured graphic design on the left and a sunrise rural jogging path photo on the right\"},\"main_visual\":{\"subject\":\"{argument name=\\\"main subject\\\" default=\\\"a woman taking a running selfie\\\"}\",\"appearance\":\"wearing a white windbreaker, dark pants, dark hijab, waist belt with water bottle, one hand raised in a peace sign\",\"placement\":\"upper right, overlapping the scenic background\",\"background_scene\":\"golden morning light over a dirt path through green hills and fields\"},\"layout\":{\"sections\":[{\"title\":\"MANFAAT LARI PAGI UNTUK KESEHATAN\",\"position\":\"top left hero area\",\"count\":1,\"labels\":[\"headline with subheadline paragraph\"]},{\"title\":\"quick benefits strip\",\"position\":\"upper middle-left\",\"count\":3,\"labels\":[\"WAKTU TERBAIK 05.00 – 07.00\",\"UDARA SEGAR POLUSI RENDAH\",\"TUBUH SIAP BERAKTIVITAS\"]},{\"title\":\"6 MANFAAT UTAMA LARI PAGI\",\"position\":\"center wide panel\",\"count\":6,\"labels\":[\"01 MENINGKATKAN KESEHATAN JANTUNG\",\"02 MEMBANTU MENJAGA BERAT BADAN\",\"03 MENYEHATKAN MENTAL & MOOD\",\"04 MENINGKATKAN DAYA TUBUH\",\"05 MEMPERBAIKI KAPASITAS PARU\",\"06 MENINGKATKAN ENERGI & FOKUS\"]},{\"title\":\"TIPS LARI PAGI YANG AMAN & NYAMAN\",\"position\":\"lower left card\",\"count\":5,\"labels\":[\"Gunakan sepatu yang nyaman\",\"Jangan lupa hidrasi\",\"Lakukan pemanasan\",\"Gunakan pakaian yang nyaman\",\"Dengarkan tubuhmu\"]},{\"title\":\"PANDUAN PEMULA\",\"position\":\"lower center card\",\"count\":4,\"labels\":[\"1 MINGGU 1–2 Jalan cepat 20–30 menit\",\"2 MINGGU 3–4 Lari santai 1 menit, jalan 2 menit (ulang 6–8 kali)\",\"3 MINGGU 5–6 Lari santai 15–20 menit tanpa berhenti\",\"4 SETELAH TERBIASA Tingkatkan durasi & kecepatan secara bertahap\"]},{\"title\":\"SIAPA SAJA YANG BISA?\",\"position\":\"lower right card\",\"count\":3,\"labels\":[\"Anak muda\",\"Dewasa\",\"Lansia (dengan intensitas sesuai)\"]},{\"title\":\"PERHATIAN\",\"position\":\"bottom left notice box\",\"count\":2,\"labels\":[\"Konsultasikan dengan dokter jika memiliki kondisi kesehatan tertentu.\",\"Hindari lari jika tubuh sedang sakit atau kelelahan.\"]},{\"title\":\"bottom slogan banner\",\"position\":\"bottom center to right\",\"count\":4,\"labels\":[\"SEHAT\",\"BUGAR\",\"BAHAGIA\",\"PRODUKTIF\"]}],\"quote\":{\"text\":\"{argument name=\\\"quote\\\" default=\\\"SATU LANGKAH KECIL DI PAGI HARI, BISA MEMBAWA PERUBAHAN BESAR UNTUK HIDUPMU.\\\"}\",\"position\":\"right side over dark overlay near the main subject\"}},\"text_blocks\":{\"intro\":\"Mulai hari dengan langkah sehat, untuk hidup yang lebih bugar, bahagia, dan produktif.\",\"closing\":\"LARI PAGI, INVESTASI KESEHATAN HARI INI UNTUK MASA DEPAN YANG LEBIH BAIK!\"},\"iconography\":{\"count\":21,\"items\":[\"running silhouette near headline\",\"clock icon\",\"sun icon\",\"heart/fitness icon\",\"heart pulse icon\",\"waist/body icon\",\"brain icon\",\"shield medical cross icon\",\"lungs icon\",\"running figure icon\",\"shoe icon\",\"water bottle icon\",\"stretching/warmup icon\",\"shirt icon\",\"sun/weather icon\",\"small running icon above beginner guide\",\"3 green check icons in eligibility card\",\"warning triangle icon\",\"heart pulse badge in notice box\",\"runner silhouette at bottom right\"]},\"composition_notes\":\"bold oversized lime-green title, navy header bars with white text, each section inside rounded rectangular cards, six central benefit columns evenly spaced, use photo-realistic outdoor background combined with vector infographic elements, dynamic brush splashes in navy and lime in corners, premium Indonesian health-poster aesthetic\",\"rendering\":\"sharp typography, editorial layout, clean spacing, legible infographic hierarchy\"}",
+  "translatedPrompt": "{\"type\":\"健身健康信息图海报\",\"topic\":\"{argument name=\\\"headline text\\\" default=\\\"晨跑的益处\\\"}\",\"language\":\"中文\",\"style\":{\"look\":\"简洁现代的运动风信息图\",\"palette\":[\"海军蓝\",\"亮绿色\",\"白色\",\"黄色点缀\"],\"finish\":\"高对比度、精致且适合社交媒体的海报\",\"graphics\":\"粗体斜体压缩标题、笔触纹理、圆角深色面板、简洁的矢量健身图标、充满活力的对角线装饰\"},\"canvas\":{\"aspect_ratio\":\"3:4\",\"background\":\"左右分割布局，左侧为白色纹理图形设计，右侧为日出时乡村慢跑小径的照片\"},\"main_visual\":{\"subject\":\"{argument name=\\\"main subject\\\" default=\\\"一位正在拍摄跑步自拍的女性\\\"}\",\"appearance\":\"身穿白色防风衣、深色长裤、深色头巾，腰间系着水壶，一只手比出剪刀手\",\"placement\":\"右上角，与风景背景重叠\",\"background_scene\":\"金色的晨光洒在穿过绿色山丘和田野的泥土小径上\"},\"layout\":{\"sections\":[{\"title\":\"晨跑对健康的益处\",\"position\":\"左上角主视觉区\",\"count\":1,\"labels\":[\"带副标题的标题段落\"]},{\"title\":\"快速益处条\",\"position\":\"中上左侧\",\"count\":3,\"labels\":[\"最佳时间 05:00 – 07:00\",\"空气清新，污染较少\",\"唤醒身体，开启活力一天\"]},{\"title\":\"晨跑的 6 大核心益处\",\"position\":\"中心宽幅面板\",\"count\":6,\"labels\":[\"01 改善心脏健康\",\"02 帮助维持体重\",\"03 改善心理健康与情绪\",\"04 增强免疫力\",\"05 提升肺活量\",\"06 提升能量与专注力\"]},{\"title\":\"安全舒适的晨跑建议\",\"position\":\"左下角卡片\",\"count\":5,\"labels\":[\"穿着舒适的运动鞋\",\"记得补充水分\",\"进行充分热身\",\"穿着舒适的运动服\",\"倾听身体的反馈\"]},{\"title\":\"新手指南\",\"position\":\"中下卡片\",\"count\":4,\"labels\":[\"第 1 周：快走 1–2 次，每次 20–30 分钟\",\"第 2 周：慢跑 1 分钟，快走 2 分钟（重复 6–8 次），每周 3–4 次\",\"第 3 周：持续慢跑 15–20 分钟，每周 5–6 次\",\"第 4 周及以后：根据习惯逐渐增加时长和速度\"]},{\"title\":\"适合人群\",\"position\":\"右下角卡片\",\"count\":3,\"labels\":[\"年轻人\",\"成年人\",\"老年人（根据自身情况调整强度）\"]},{\"title\":\"注意事项\",\"position\":\"左下角提示框\",\"count\":2,\"labels\":[\"如有特定健康状况，请咨询医生。\",\"身体不适或极度疲劳时请避免跑步。\"]},{\"title\":\"底部口号横幅\",\"position\":\"底部居中至右侧\",\"count\":4,\"labels\":[\"健康\",\"强健\",\"快乐\",\"高效\"]}],\"quote\":{\"text\":\"{argument name=\\\"quote\\\" default=\\\"清晨迈出的一小步，能为你的生活带来巨大的改变。\\\"}\",\"position\":\"右侧深色遮罩层上方，靠近主视觉人物\"}},\"text_blocks\":{\"intro\":\"从健康的步伐开始新的一天，让生活更强健、更快乐、更高效。\",\"closing\":\"晨跑，是为未来更好的自己所做的健康投资！\"},\"iconography\":{\"count\":21,\"items\":[\"标题附近的跑步剪影\",\"时钟图标\",\"太阳图标\",\"心脏/健身图标\",\"心率图标\",\"腰部/身体图标\",\"大脑图标\",\"医疗盾牌图标\",\"肺部图标\",\"跑步人物图标\",\"运动鞋图标\",\"水壶图标\",\"拉伸/热身图标\",\"运动衫图标\",\"太阳/天气图标\",\"新手指南上方的小跑步图标\",\"资格卡中的 3 个绿色勾选图标\",\"警告三角图标\",\"提示框中的心率徽章\",\"右下角的跑步者剪影\"]},\"composition_notes\":\"粗体超大亮绿色标题，海军蓝标题栏配白色文字，每个部分置于圆角矩形卡片内，六个核心益处栏均匀分布，结合写实户外背景与矢量信息图元素，角落处有海军蓝和亮绿色的动态笔触泼墨效果，高级印尼健康海报美学\",\"rendering\":\"清晰的排版、编辑级布局、简洁的间距、易读的信息图层级\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "晨跑益处信息图：一份关于晨跑健康益处的精美印尼语健身信息图海报，适用于社交媒体、健康内容或健康教育视觉展示。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "editorial",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, editorial, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14698",
+      "15085",
+      "15062",
+      "15072",
+      "15243",
+      "14938"
+    ]
+  }
+}

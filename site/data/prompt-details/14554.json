@@ -1,0 +1,46 @@
+{
+  "id": "14554",
+  "prompt": "Create a vintage Korean food poster infographic on aged beige parchment paper with worn texture, darkened edges, subtle stains, and an ornate traditional frame in muted green. The design is a single vertically stacked poster with 4 clearly separated sections and all text rendered sharply in Korean and English calligraphy. At the top, place a large ribbon banner with bold black Korean brush lettering reading \"정통 한국 김밥\" and a smaller ribbon subtitle reading \"Traditional Korean Gimbap\". In the upper-left corner, include a small modern badge that says \"Pollo AI\" and \"GPT Image 2\". The centerpiece of the top section is a large blue-and-white porcelain platter piled with exactly 12 sliced gimbap pieces, each showing white rice, yellow egg, orange carrot, green spinach, and dark seaweed wrapping, illustrated in a hand-drawn ink-and-watercolor style. To the right of the platter, add a small blue-and-white bowl of kimchi and a handwritten Korean note reading \"간단해 보여도 정성이 들어간 한국의 맛!\" with a small red heart, plus a small red seal stamp containing Korean characters. Add faint traditional landscape and floral ink painting details in the background, including a flowering branch on the left and misty mountains on the right. The second section is an ingredient row under a ribbon label reading \"재료\", showing exactly 6 numbered ingredients in separate compartments from left to right: 1. \"김 (건김)\" as a stack of dark seaweed sheets, 2. \"밥 (양념 밥)\" as a bowl of white rice, 3. \"계란 (지단용)\" as yellow egg strips on a plate, 4. \"당근 (채썰어볶기)\" as orange julienned carrots on a plate, 5. \"시금치 (데쳐서 무치기)\" as seasoned green spinach in a bowl, 6. \"단무지 (김밥용)\" as yellow pickled radish strips on a plate. The third section is a 6-panel step-by-step tutorial under a ribbon label reading \"만드는 순서\", arranged in two rows of three with arrows indicating flow. Panel 1 is labeled \"1 밥 간하기\" and shows a bowl of rice with a wooden spoon, a bottle of sesame oil, and salt, with caption \"밥에 참기름 소금으로 간하기\". Panel 2 is labeled \"2 속재료 준비하기\" and shows a cutting board with yellow egg strips, orange carrots, green spinach, and a knife, with caption \"재료 볶아 속재료 준비하기\". Panel 3 is labeled \"3 김과 밥 펴기\" and shows a bamboo mat with a seaweed sheet covered with white rice and a wooden rice paddle, with caption \"김에 밥 얇게 펴기\". Panel 4 is labeled \"4 속재료 얹기\" and shows the rice-covered seaweed with neat horizontal rows of yellow egg, orange carrot, and green spinach, with caption \"속재료를 차례로 얹기\". Panel 5 is labeled \"5 단단하게 말기\" and shows two hands rolling the bamboo mat tightly, with caption \"김밥을 단단하게 말기\". Panel 6 is labeled \"6 썰어 완성하기\" and shows a chef knife slicing a roll into pieces on a cutting board, with caption \"먹기 좋게 썰어 완성!\". At the bottom, add a wide banner with large expressive Korean brush calligraphy reading \"정성 가득한 한 줄의 행복!\" and a small red heart, surrounded by floral decorations and a red square seal with the character \"福\". Overall style: traditional Korean folk poster mixed with cookbook infographic, detailed pen-and-ink outlines, watercolor fills, warm sepia palette, nostalgic handmade print aesthetic, balanced composition, crisp legible typography, highly accurate Korean text rendering.",
+  "translatedPrompt": "创作一张复古风格的韩国美食海报，背景为带有轻微污渍和纹理的做旧米色羊皮纸，配有深色装饰性边框，采用传统手绘水墨与水彩插画风格。海报为单张垂直排列的信息图，主题为 {argument name=\"dish name\" default=\"정통 한국 김밥\"}，顶部饰有优雅的大号韩文书法，下方配有弧形丝带横幅，文字为 {argument name=\"subtitle text\" default=\"Traditional Korean Gimbap\"}。在上方中心位置，展示一个堆满 12 片紫菜包饭切片的精美瓷盘，每片切片清晰可见白米饭、黄色鸡蛋、橙色胡萝卜、绿色菠菜和深色海苔包裹的馅料。在盘子右侧，放置一小碗泡菜，并配有一段简短的手写韩文便签：“간단한 보여도 정성이 들어간 한국의 맛! ♥”。在右上角附近添加一枚带有韩文的小红印章。在中间位置，添加一个带有丝带标题“재료”的食材区，横向排列 6 个食材板块：1. 김 (건김) 展示堆叠的海苔片，2. 밥 (양념 밥) 展示一碗米饭，3. 계란 (지단용) 展示切好的熟鸡蛋条，4. 당근 (채썰어볶기) 展示切好的胡萝卜丝，5. 시금치 (데쳐서 무치기) 展示调味菠菜，6. 단무지 (김밥용) 展示黄色腌萝卜条。下方添加另一个丝带标题“만드는 순서”，并展示 6 个带边框的步骤板块，分两行三列排列，中间用箭头从左到右连接。步骤 1 标注为“1 밥 간하기”，展示一碗米饭及旁边的香油和盐，配文“밥에 참기름 소금으로 간하기”。步骤 2 标注为“2 속재료 준비하기”，展示砧板上的鸡蛋、胡萝卜、菠菜和一把刀，配文“재료 볶아 속재료 준비하기”。步骤 3 标注为“3 김과 밥 펴기”，展示竹帘上的海苔及铺好的米饭，配文“김에 밥 얇게 펴기”。步骤 4 标注为“4 속재료 얹기”，展示在米饭上横向排列的馅料，配文“속재료를 차례로 얹기”。步骤 5 标注为“5 단단하게 말기”，展示双手紧紧卷起竹帘的动作，配文“김밥을 단단하게 말기”。步骤 6 标注为“6 썰어 완성하기”，展示厨师刀将紫菜包饭卷切成片，配文“먹기 좋게 썰어 완성!”。在底部添加一个宽横幅，上面印有醒目的韩文书法 {argument name=\"bottom slogan\" default=\"정성 가득한 한 줄의 행복!\"} 和一颗小爱心。用花卉图案装饰下角，并在右下角添加一枚刻有汉字“福”的红色方形印章。使用柔和的深褐色、棕色、奶油色、橄榄绿和褪色的红色调，结合精细的素描轮廓、柔和的水彩阴影以及地道的印刷海报构图。在左上角添加一个小型的现代叠加标志，文字为 {argument name=\"brand text\" default=\"Pollo AI GPT Image 2\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古风韩式紫菜包饭食谱海报：此提示词可生成一张复古风格的韩式紫菜包饭食谱信息图海报，适用于美食营销、餐厅装饰或文化烹饪视觉展示。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "vintage",
+        "watercolor",
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": "得分 79；构图: vertical, horizontal；风格: vintage, watercolor, hand-drawn；要求精确文字；要求可读；包含标注/说明；文字是主视觉"
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical, horizontal]。\n\nVisual style:\n[参考风格: vintage, watercolor, hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14564",
+      "15039",
+      "14539",
+      "14936",
+      "14815",
+      "14991"
+    ]
+  }
+}

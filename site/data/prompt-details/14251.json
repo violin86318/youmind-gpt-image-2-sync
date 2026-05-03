@@ -1,0 +1,45 @@
+{
+  "id": "14251",
+  "prompt": "{\n  \"type\": \"promotional banner advertisement\",\n  \"style\": \"vibrant, high-energy, anime-style, comic-book burst background with yellow stars and action lines\",\n  \"product\": {\n    \"description\": \"pair of {argument name=\\\"product color\\\" default=\\\"glossy black\\\"} clip-on style wireless earphones\",\n    \"position\": \"mid-left\"\n  },\n  \"character\": {\n    \"description\": \"chibi anime boy with brown hair, green eyes, wearing a {argument name=\\\"character outfit\\\" default=\\\"green kimono\\\"} and a pink flower hair clip, pointing at the center text\",\n    \"position\": \"mid-right\"\n  },\n  \"layout\": {\n    \"top_left_ribbon\": \"新発売！\",\n    \"center_text_stack\": {\n      \"line_1\": \"耳に挟むだけ！\",\n      \"line_2\": \"{argument name=\\\"main catchphrase\\\" default=\\\"新感覚イヤホン！\\\"}\",\n      \"tags\": {\n        \"count\": 3,\n        \"labels\": [\"軽い\", \"快適\", \"耳をふさがない！\"]\n      },\n      \"ribbon\": \"長時間でもラクラク装着！\",\n      \"product_logo\": \"{argument name=\\\"product name\\\" default=\\\"EarFun Clip\\\"}\"\n    },\n    \"bottom_right_burst\": {\n      \"text\": \"今だけ！ Amazonにて {argument name=\\\"discount text\\\" default=\\\"13%OFF!\\\"}\"\n    },\n    \"bottom_left_features\": {\n      \"count\": 4,\n      \"shape\": \"hexagonal blue icons\",\n      \"labels\": [\"耳に挟むだけ\", \"軽量設計\", \"長時間再生\", \"高音質クリアサウンド\"]\n    },\n    \"bottom_banner\": \"Amazonで今すぐチェック！\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"promotional banner advertisement\",\n  \"style\": \"vibrant, high-energy, anime-style, comic-book burst background with yellow stars and action lines\",\n  \"product\": {\n    \"description\": \"pair of {argument name=\\\"product color\\\" default=\\\"glossy black\\\"} clip-on style wireless earphones\",\n    \"position\": \"mid-left\"\n  },\n  \"character\": {\n    \"description\": \"chibi anime boy with brown hair, green eyes, wearing a {argument name=\\\"character outfit\\\" default=\\\"green kimono\\\"} and a pink flower hair clip, pointing at the center text\",\n    \"position\": \"mid-right\"\n  },\n  \"layout\": {\n    \"top_left_ribbon\": \"新発売！\",\n    \"center_text_stack\": {\n      \"line_1\": \"耳に挟むだけ！\",\n      \"line_2\": \"{argument name=\\\"main catchphrase\\\" default=\\\"新感覚イヤホン！\\\"}\",\n      \"tags\": {\n        \"count\": 3,\n        \"labels\": [\"軽い\", \"快適\", \"耳をふさがない！\"]\n      },\n      \"ribbon\": \"長時間でもラクラク装着！\",\n      \"product_logo\": \"{argument name=\\\"product name\\\" default=\\\"EarFun Clip\\\"}\"\n    },\n    \"bottom_right_burst\": {\n      \"text\": \"今だけ！ Amazonにて {argument name=\\\"discount text\\\" default=\\\"13%OFF!\\\"}\"\n    },\n    \"bottom_left_features\": {\n      \"count\": 4,\n      \"shape\": \"hexagonal blue icons\",\n      \"labels\": [\"耳に挟むだけ\", \"軽量設計\", \"長時間再生\", \"高音質クリアサウンド\"]\n    },\n    \"bottom_banner\": \"Amazonで今すぐチェック！\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Anime-Style Product Promo Banner：Generates a vibrant, high-energy promotional banner featuring a product shot, a chibi mascot, and multiple text callouts, ideal for social media ads.",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [
+        "callout"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: callout]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14964",
+      "14060",
+      "15024",
+      "13740",
+      "14025",
+      "14230"
+    ]
+  }
+}

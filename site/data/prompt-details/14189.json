@@ -1,0 +1,46 @@
+{
+  "id": "14189",
+  "prompt": "{\n  \"type\": \"traditional Chinese clothing infographic poster\",\n  \"header\": {\n    \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"宋制褙子襦裙图鉴\\\"}\",\n    \"subtitle\": \"形制、材质与清雅风尚\",\n    \"intro_text\": \"Short paragraph describing the historical context and aesthetic.\"\n  },\n  \"centerpiece\": {\n    \"description\": \"Full-body portrait of a young Asian woman standing elegantly with hands clasped.\",\n    \"clothing\": \"{argument name=\\\"clothing style\\\" default=\\\"Song Dynasty Beizi and Ruqun, light green outer robe, beige inner dress\\\"}\"\n  },\n  \"layout\": {\n    \"style\": \"museum exhibition guide, highly structured, clean grid\",\n    \"background\": \"{argument name=\\\"background texture\\\" default=\\\"vintage parchment, beige\\\"}\",\n    \"sections\": [\n      {\n        \"title\": \"结构解析 (自上而下)\",\n        \"position\": \"left column\",\n        \"count\": 8,\n        \"labels\": [\"发髻与簪花\", \"对襟褙子\", \"内搭上襦\", \"窄袖\", \"侧衩\", \"长裙 / 百迭裙\", \"衣缘\", \"鞋履\"],\n        \"details\": \"Thumbnail images with text and pointer lines to the central figure.\"\n      },\n      {\n        \"title\": \"材质与工艺\",\n        \"position\": \"top right\",\n        \"count\": 4,\n        \"labels\": [\"绢\", \"罗\", \"纱\", \"细麻\"]\n      },\n      {\n        \"title\": \"纹样、色彩与寓意\",\n        \"position\": \"middle right\",\n        \"count\": 4,\n        \"labels\": [\"折枝花纹\", \"小团花纹\", \"如意纹\", \"暗花纹\"],\n        \"details\": \"Circular pattern swatches.\"\n      },\n      {\n        \"title\": \"色彩体系\",\n        \"position\": \"middle right, below patterns\",\n        \"count\": 5,\n        \"labels\": [\"月白\", \"茶色\", \"淡青\", \"藕灰\", \"豆绿\"],\n        \"details\": \"Rectangular color swatches.\"\n      },\n      {\n        \"title\": \"穿着顺序 (由内而外)\",\n        \"position\": \"bottom left\",\n        \"count\": 7,\n        \"labels\": [\"抹胸/中衣\", \"上襦\", \"长裙\", \"褙子\", \"系带\", \"鞋履\", \"发饰\"],\n        \"details\": \"Sequential garment illustrations connected by arrows.\"\n      },\n      {\n        \"title\": \"宋制褙子襦裙核心特征\",\n        \"position\": \"bottom right\",\n        \"count\": 5,\n        \"details\": \"Bulleted text list of features.\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"traditional Chinese clothing infographic poster\",\n  \"header\": {\n    \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"宋制褙子襦裙图鉴\\\"}\",\n    \"subtitle\": \"形制、材质与清雅风尚\",\n    \"intro_text\": \"Short paragraph describing the historical context and aesthetic.\"\n  },\n  \"centerpiece\": {\n    \"description\": \"Full-body portrait of a young Asian woman standing elegantly with hands clasped.\",\n    \"clothing\": \"{argument name=\\\"clothing style\\\" default=\\\"Song Dynasty Beizi and Ruqun, light green outer robe, beige inner dress\\\"}\"\n  },\n  \"layout\": {\n    \"style\": \"museum exhibition guide, highly structured, clean grid\",\n    \"background\": \"{argument name=\\\"background texture\\\" default=\\\"vintage parchment, beige\\\"}\",\n    \"sections\": [\n      {\n        \"title\": \"结构解析 (自上而下)\",\n        \"position\": \"left column\",\n        \"count\": 8,\n        \"labels\": [\"发髻与簪花\", \"对襟褙子\", \"内搭上襦\", \"窄袖\", \"侧衩\", \"长裙 / 百迭裙\", \"衣缘\", \"鞋履\"],\n        \"details\": \"Thumbnail images with text and pointer lines to the central figure.\"\n      },\n      {\n        \"title\": \"材质与工艺\",\n        \"position\": \"top right\",\n        \"count\": 4,\n        \"labels\": [\"绢\", \"罗\", \"纱\", \"细麻\"]\n      },\n      {\n        \"title\": \"纹样、色彩与寓意\",\n        \"position\": \"middle right\",\n        \"count\": 4,\n        \"labels\": [\"折枝花纹\", \"小团花纹\", \"如意纹\", \"暗花纹\"],\n        \"details\": \"Circular pattern swatches.\"\n      },\n      {\n        \"title\": \"色彩体系\",\n        \"position\": \"middle right, below patterns\",\n        \"count\": 5,\n        \"labels\": [\"月白\", \"茶色\", \"淡青\", \"藕灰\", \"豆绿\"],\n        \"details\": \"Rectangular color swatches.\"\n      },\n      {\n        \"title\": \"穿着顺序 (由内而外)\",\n        \"position\": \"bottom left\",\n        \"count\": 7,\n        \"labels\": [\"抹胸/中衣\", \"上襦\", \"长裙\", \"褙子\", \"系带\", \"鞋履\", \"发饰\"],\n        \"details\": \"Sequential garment illustrations connected by arrows.\"\n      },\n      {\n        \"title\": \"宋制褙子襦裙核心特征\",\n        \"position\": \"bottom right\",\n        \"count\": 5,\n        \"details\": \"Bulleted text list of features.\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Song Dynasty Hanfu Infographic Guide：Generates a highly detailed, museum-style infographic poster analyzing traditional Chinese clothing components, materials, and wearing steps.",
+      "subject": "人物",
+      "scene": "信息图/图解",
+      "composition": [
+        "full-body",
+        "grid"
+      ],
+      "style": [
+        "vintage"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body, grid]。\n\nVisual style:\n[参考风格: vintage]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14184",
+      "13899",
+      "15660",
+      "15664",
+      "13780",
+      "14175"
+    ]
+  }
+}

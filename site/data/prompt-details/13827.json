@@ -1,0 +1,38 @@
+{
+  "id": "13827",
+  "prompt": "Using REFERENCE_0, transform the image into a {argument name=\"atmosphere\" default=\"dark, moody, and foggy\"} night scene. Apply a {argument name=\"color palette\" default=\"monochromatic dark blue and grey\"} color grading. Render the main character, lanterns, and foreground elements as {argument name=\"lighting style\" default=\"dark silhouettes\"} against the misty background. Preserve the exact original composition, character pose, and background architecture.",
+  "translatedPrompt": "使用 REFERENCE_0，将图像转换为 {argument name=\"atmosphere\" default=\"深沉、忧郁且充满雾气\"} 的夜景。应用 {argument name=\"color palette\" default=\"深蓝与灰色的单色调\"} 调色。将主角、灯笼和前景元素渲染为背景雾气中的 {argument name=\"lighting style\" default=\"深色剪影\"}。保留原始构图、角色姿势和背景建筑的精确细节。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "深色剪影与雾气风格迁移：将明亮的参考图像转换为具有单色调、深沉且充满雾气的剪影场景，同时保留原始构图。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13487",
+      "13607",
+      "13613",
+      "13679",
+      "13689",
+      "13721"
+    ]
+  }
+}

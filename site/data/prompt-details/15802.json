@@ -1,0 +1,44 @@
+{
+  "id": "15802",
+  "prompt": "Create a clean flat vector app logo presentation on a dark UI background. Center a large rounded-rectangle preview card in warm light beige. Inside the card, place a cute minimalist gaming logo: on the left, a stylized handheld game console icon drawn as a rounded rectangular device stacked over 2 visible offset layers like pages or cards, with a small ribbon bookmark hanging from the bottom edge. The console body is coral red with cream screen details, thin dark brown outlines, and tiny dark brown controller symbols: 1 cross-shaped D-pad on the left, 4 small circular buttons on the right, plus 4 tiny decorative dots in the center forming a smiling playful face impression. To the right of the icon, place the lowercase brand wordmark {argument name=\"brand name\" default=\"gamelist\"} in thick rounded geometric sans-serif letters, colored coral red to match the icon. Keep the spacing balanced so the icon and text read as one cohesive modern startup logo. Use a soft, friendly, vector-only aesthetic with no gradients, no photorealism, no texture, and high SVG-friendly simplicity. The palette should be limited to 4 colors: {argument name=\"primary color\" default=\"coral red\"}, cream, dark brown, and warm light beige. Show 4 small vertical thumbnail variations aligned along the right side of the dark interface, each showing the same logo on slightly different light neutral backgrounds. Add subtle UI framing only: a circular gray Edit button at bottom left of the large preview card, a circular gray share/upload button at bottom right of the card, and small monochrome action icons below the card on the dark background. Overall composition should look like a screenshot of an AI image generation result showcasing an app logo concept.",
+  "translatedPrompt": "在深色 UI 背景上创建一个简洁的扁平化矢量应用 Logo 展示。在中央放置一张暖米色的圆角矩形预览卡片。卡片内放置一个可爱的极简游戏 Logo：左侧是一个风格化的掌机图标，绘制为圆角矩形设备，下方叠放着 2 层可见的偏移层（类似页面或卡片），底部边缘垂下一条小丝带书签。机身呈珊瑚红色，配有奶油色屏幕细节、深棕色细轮廓，以及深棕色的小型控制器符号：左侧有一个十字形方向键，右侧有 4 个小圆按钮，中心有 4 个微小的装饰点，构成一个俏皮的笑脸印象。在图标右侧，放置小写品牌字标 {argument name=\"brand name\" default=\"gamelist\"}，使用粗圆几何无衬线字体，颜色与图标一致，均为珊瑚红。保持间距平衡，使图标和文字看起来像一个连贯的现代初创公司 Logo。采用柔和、友好、纯矢量的美学风格，无渐变、无写实感、无纹理，具有高度的 SVG 友好简洁性。调色板限制为 4 种颜色：{argument name=\"primary color\" default=\"coral red\"}、奶油色、深棕色和暖米色。在深色界面右侧对齐显示 4 个小型垂直缩略图变体，每个变体展示在略有不同的浅色中性背景上的相同 Logo。仅添加细微的 UI 框架：大预览卡片左下角有一个圆形灰色编辑按钮，卡片右下角有一个圆形灰色分享/上传按钮，卡片下方的深色背景上有小型单色操作图标。整体构图应看起来像是一张展示应用 Logo 概念的 AI 图像生成结果截图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "可爱的 Gamelist 应用 Logo 样机：一个精致的 AI 图像风格 Logo 预览，展示了友好的游戏应用字标和图标，适用于生成 SVG 格式的初创公司品牌概念。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "minimalist"
+      ],
+      "lightingCamera": [],
+      "text": "禁止额外文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "App Store 截图、产品概念、移动工具界面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: minimalist]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n禁止额外文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14542",
+      "14892",
+      "15427",
+      "15625",
+      "14540",
+      "14650"
+    ]
+  }
+}

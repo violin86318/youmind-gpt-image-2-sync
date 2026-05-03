@@ -1,0 +1,42 @@
+{
+  "id": "13822",
+  "prompt": "{\n  \"type\": \"mobile livestream interface mockup\",\n  \"subject\": {\n    \"identity\": \"{argument name=\\\"subject name\\\" default=\\\"Elon Musk\\\"}\",\n    \"appearance\": \"wearing a black t-shirt with {argument name=\\\"t-shirt graphic\\\" default=\\\"Starship rocket and SPACEX text\\\"}\",\n    \"pose\": \"{argument name=\\\"expression\\\" default=\\\"smiling warmly, looking directly at the camera\\\"}, hands clasped on a dark table\"\n  },\n  \"environment\": \"{argument name=\\\"background\\\" default=\\\"SpaceX office with a rocket model and neon sign\\\"}\",\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"Top Bar UI\",\n        \"position\": \"top\",\n        \"count\": 4,\n        \"labels\": [\n          \"Profile info with '埃隆·马斯克' and Follow button\",\n          \"Viewer avatars and count '60.6万'\",\n          \"Rank badge '全站第1名'\",\n          \"Close button 'X'\"\n        ]\n      },\n      {\n        \"title\": \"Gift Popups\",\n        \"position\": \"mid-left\",\n        \"count\": 2,\n        \"labels\": [\n          \"星辰大海 送小心心 x66 (Heart icon)\",\n          \"Dreamer 送超级火箭 x1 (Rocket icon)\"\n        ]\n      },\n      {\n        \"title\": \"Chat Stream\",\n        \"position\": \"bottom-left\",\n        \"count\": 7,\n        \"labels\": [\n          \"用户12345: 马斯克来了！🔥\",\n          \"钢铁侠本侠: 特斯拉未来规划能分享一下吗？\",\n          \"加密货币王: 会考虑接受狗狗币支付吗？🐶\",\n          \"火星移民: 什么时候去火星？🚀\",\n          \"银河系 来了\",\n          \"智者无敌: 第一排支持马斯克！\",\n          \"未来已来: 👍👍👍\"\n        ]\n      },\n      {\n        \"title\": \"Side Action Buttons\",\n        \"position\": \"bottom-right\",\n        \"count\": 4,\n        \"labels\": [\n          \"Host profile with +\",\n          \"Like heart '38.7万'\",\n          \"Comment bubble '6.2万'\",\n          \"Share arrow '3.6万'\"\n        ]\n      },\n      {\n        \"title\": \"Bottom Input Bar\",\n        \"position\": \"bottom\",\n        \"count\": 3,\n        \"labels\": [\n          \"Text input '说点什么...'\",\n          \"Gift box icon\",\n          \"More options '...'\"\n        ]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"移动端直播界面模型\",\n  \"subject\": {\n    \"identity\": \"{argument name=\\\"subject name\\\" default=\\\"埃隆·马斯克\\\"}\",\n    \"appearance\": \"身穿黑色 T 恤，印有 {argument name=\\\"t-shirt graphic\\\" default=\\\"星舰火箭和 SPACEX 文字\\\"}\",\n    \"pose\": \"{argument name=\\\"expression\\\" default=\\\"温暖微笑，直视镜头\\\"}，双手交叠放在深色桌面上\"\n  },\n  \"environment\": \"{argument name=\\\"background\\\" default=\\\"SpaceX 办公室，背景有火箭模型和霓虹灯牌\\\"}\",\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"顶部栏 UI\",\n        \"position\": \"顶部\",\n        \"count\": 4,\n        \"labels\": [\n          \"个人资料信息，包含“埃隆·马斯克”和“关注”按钮\",\n          \"观众头像及人数“60.6万”\",\n          \"排名徽章“全站第1名”\",\n          \"关闭按钮“X”\"\n        ]\n      },\n      {\n        \"title\": \"礼物弹窗\",\n        \"position\": \"中左\",\n        \"count\": 2,\n        \"labels\": [\n          \"星辰大海 送小心心 x66 (爱心图标)\",\n          \"Dreamer 送超级火箭 x1 (火箭图标)\"\n        ]\n      },\n      {\n        \"title\": \"聊天流\",\n        \"position\": \"底左\",\n        \"count\": 7,\n        \"labels\": [\n          \"用户12345: 马斯克来了！🔥\",\n          \"钢铁侠本侠: 特斯拉未来规划能分享一下吗？\",\n          \"加密货币王: 会考虑接受狗狗币支付吗？🐶\",\n          \"火星移民: 什么时候去火星？🚀\",\n          \"银河系 来了\",\n          \"智者无敌: 第一排支持马斯克！\",\n          \"未来已来: 👍👍👍\"\n        ]\n      },\n      {\n        \"title\": \"侧边操作按钮\",\n        \"position\": \"底右\",\n        \"count\": 4,\n        \"labels\": [\n          \"主播头像及“+”号\",\n          \"点赞爱心“38.7万”\",\n          \"评论气泡“6.2万”\",\n          \"分享箭头“3.6万”\"\n        ]\n      },\n      {\n        \"title\": \"底部输入栏\",\n        \"position\": \"底部\",\n        \"count\": 3,\n        \"labels\": [\n          \"文本输入框“说点什么...”\",\n          \"礼物盒图标\",\n          \"更多选项“...”\"\n        ]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "直播 App 界面模型：生成逼真的移动端直播界面，包含可自定义的主播、聊天流以及交互式 UI 元素。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "neon",
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: neon, camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13557",
+      "13833",
+      "13844",
+      "13902",
+      "14435",
+      "14695"
+    ]
+  }
+}

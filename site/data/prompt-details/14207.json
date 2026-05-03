@@ -1,0 +1,40 @@
+{
+  "id": "14207",
+  "prompt": "{\n  \"type\": \"anime CD jewel case cover with obi strip\",\n  \"character\": {\n    \"name\": \"{argument name=\\\"character name\\\" default=\\\"ななし\\\"}\",\n    \"appearance\": \"flustered anime girl, {argument name=\\\"hair color\\\" default=\\\"pink with blue gradient tips\\\"}, twin tails, red eyes, sweat drop\",\n    \"outfit\": \"black and white maid uniform, frilly apron, red bow tie, black hair bows\",\n    \"action\": \"holding a serving tray with a spilling blue iced drink, strawberry cake, and a teacup; a spilling coffee cup is in the foreground\"\n  },\n  \"layout\": {\n    \"obi_strip\": {\n      \"position\": \"left edge\",\n      \"color\": \"blue\",\n      \"text\": [\"NANASHI 2nd EP\", \"{argument name=\\\"album title\\\" default=\\\"おしごと☆メイド奮闘中！\\\"}\", \"{argument name=\\\"character name\\\" default=\\\"ななし\\\"} (CV. ???)\", \"STEREO\", \"NNXS-002\"]\n    },\n    \"main_title\": {\n      \"position\": \"top left\",\n      \"text\": [\"NANASHI 2nd EP\", \"{argument name=\\\"album title\\\" default=\\\"おしごと☆メイド奮闘中！\\\"}\", \"- Oshigoto Maid Funtouchu! -\"]\n    },\n    \"quote_bubble\": {\n      \"position\": \"top right\",\n      \"text\": \"{argument name=\\\"character quote\\\" default=\\\"ドジっちゃっても頑張っちゃう！応援してね…っ♡\\\"}\"\n    },\n    \"to_do_list\": {\n      \"position\": \"mid left\",\n      \"count\": 5,\n      \"items\": [\"開店準備！\", \"お掃除\", \"メニュー確認\", \"発注チェック\", \"笑顔で接客！\"],\n      \"footer\": \"がんばるぞーっ！ with a bunny doodle\"\n    },\n    \"track_list\": {\n      \"position\": \"bottom left\",\n      \"count\": 6,\n      \"tracks\": [\"01. {argument name=\\\"lead track name\\\" default=\\\"メイド開店☆ハプニング！\\\"}\", \"02. がんばれ！ななちゃんタイム！\", \"03. うっかりラプソディー\", \"04. キラキラお給仕中！\", \"05. 夢見るメイドのステップ！\", \"06. {argument name=\\\"lead track name\\\" default=\\\"メイド開店☆ハプニング！\\\"} (Instrumental)\"]\n    },\n    \"sticky_notes\": {\n      \"count\": 2,\n      \"text\": [\"ドリンク補充！\", \"新作スイーツの練習！！☆\"]\n    },\n    \"signature\": {\n      \"position\": \"bottom right\",\n      \"text\": \"{argument name=\\\"character name\\\" default=\\\"ななし\\\"}♡ Nanashi\"\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"anime CD jewel case cover with obi strip\",\n  \"character\": {\n    \"name\": \"{argument name=\\\"character name\\\" default=\\\"ななし\\\"}\",\n    \"appearance\": \"flustered anime girl, {argument name=\\\"hair color\\\" default=\\\"pink with blue gradient tips\\\"}, twin tails, red eyes, sweat drop\",\n    \"outfit\": \"black and white maid uniform, frilly apron, red bow tie, black hair bows\",\n    \"action\": \"holding a serving tray with a spilling blue iced drink, strawberry cake, and a teacup; a spilling coffee cup is in the foreground\"\n  },\n  \"layout\": {\n    \"obi_strip\": {\n      \"position\": \"left edge\",\n      \"color\": \"blue\",\n      \"text\": [\"NANASHI 2nd EP\", \"{argument name=\\\"album title\\\" default=\\\"おしごと☆メイド奮闘中！\\\"}\", \"{argument name=\\\"character name\\\" default=\\\"ななし\\\"} (CV. ???)\", \"STEREO\", \"NNXS-002\"]\n    },\n    \"main_title\": {\n      \"position\": \"top left\",\n      \"text\": [\"NANASHI 2nd EP\", \"{argument name=\\\"album title\\\" default=\\\"おしごと☆メイド奮闘中！\\\"}\", \"- Oshigoto Maid Funtouchu! -\"]\n    },\n    \"quote_bubble\": {\n      \"position\": \"top right\",\n      \"text\": \"{argument name=\\\"character quote\\\" default=\\\"ドジっちゃっても頑張っちゃう！応援してね…っ♡\\\"}\"\n    },\n    \"to_do_list\": {\n      \"position\": \"mid left\",\n      \"count\": 5,\n      \"items\": [\"開店準備！\", \"お掃除\", \"メニュー確認\", \"発注チェック\", \"笑顔で接客！\"],\n      \"footer\": \"がんばるぞーっ！ with a bunny doodle\"\n    },\n    \"track_list\": {\n      \"position\": \"bottom left\",\n      \"count\": 6,\n      \"tracks\": [\"01. {argument name=\\\"lead track name\\\" default=\\\"メイド開店☆ハプニング！\\\"}\", \"02. がんばれ！ななちゃんタイム！\", \"03. うっかりラプソディー\", \"04. キラキラお給仕中！\", \"05. 夢見るメイドのステップ！\", \"06. {argument name=\\\"lead track name\\\" default=\\\"メイド開店☆ハプニング！\\\"} (Instrumental)\"]\n    },\n    \"sticky_notes\": {\n      \"count\": 2,\n      \"text\": [\"ドリンク補充！\", \"新作スイーツの練習！！☆\"]\n    },\n    \"signature\": {\n      \"position\": \"bottom right\",\n      \"text\": \"{argument name=\\\"character name\\\" default=\\\"ななし\\\"}♡ Nanashi\"\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Anime Maid CD Album Cover：Generates a highly detailed anime-style CD jewel case cover featuring a character, tracklist, to-do list, and obi strip.",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13627",
+      "14191",
+      "14930",
+      "15094",
+      "15108",
+      "15327"
+    ]
+  }
+}

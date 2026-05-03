@@ -1,0 +1,44 @@
+{
+  "id": "13845",
+  "prompt": "{\n  \"type\": \"manga page\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"black and white manga screentone\\\"}\",\n  \"character_count\": 5,\n  \"panel_count\": 6,\n  \"layout\": {\n    \"panels\": [\n      {\n        \"position\": \"top, full width\",\n        \"character\": \"Beatrice, long blonde hair, dark hooded cloak, pointing forward\",\n        \"text\": [\"伝説の遺跡に知識と仲間の力で挑むの！準備はいい？\", \"さあ、行くわよ！\", \"未来人書学者 {argument name=\\\"character 1 name\\\" default=\\\"ベアトリス\\\"}\"]\n      },\n      {\n        \"position\": \"middle left\",\n        \"character\": \"Nova, long black hair, elf ears, black dress, arms crossed\",\n        \"text\": [\"面倒事は嫌いだけど…付き合ってあげる。\", \"魔王の娘 {argument name=\\\"character 2 name\\\" default=\\\"ノヴァ\\\"}\"]\n      },\n      {\n        \"position\": \"middle right\",\n        \"character\": \"Crim, short hair, armored corset, holding sword\",\n        \"text\": [\"もちろん！魔物を倒してみんなで勝つよ！\", \"勇者 {argument name=\\\"character 3 name\\\" default=\\\"クリム\\\"}\"]\n      },\n      {\n        \"position\": \"bottom left, upper\",\n        \"character\": \"Lilia, witch hat, holding staff\",\n        \"text\": [\"わくわく！！私、役に立ちたい！たくさん学んで成長するよ！\", \"冒険者の卵 リリア\"]\n      },\n      {\n        \"position\": \"bottom right, tall vertical\",\n        \"character\": \"Camilla, dragon horns, wings, tail, black armor, large sword\",\n        \"text\": [\"私の力、必要なら使う。\", \"ドラゴン娘 カミラ\"]\n      },\n      {\n        \"position\": \"bottom left, lower\",\n        \"description\": \"Group shot of all 5 characters standing in a landscape\",\n        \"text\": [\"出発だ！\", \"ザッ\", \"個性豊かな仲間たちと共に伝説への第一歩が今、始まる――！\"]\n      }\n    ],\n    \"footer\": \"{argument name=\\\"ending text\\\" default=\\\"おわり\\\"}\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"manga page\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"黑白漫画网点纸风格\\\"}\",\n  \"character_count\": 5,\n  \"panel_count\": 6,\n  \"layout\": {\n    \"panels\": [\n      {\n        \"position\": \"top, full width\",\n        \"character\": \"Beatrice, long blonde hair, dark hooded cloak, pointing forward\",\n        \"text\": [\"我们要用知识和伙伴的力量去挑战传说中的遗迹！准备好了吗？\", \"走吧！\", \"未来书学者 {argument name=\\\"character 1 name\\\" default=\\\"贝阿特丽丝\\\"}\"]\n      },\n      {\n        \"position\": \"middle left\",\n        \"character\": \"Nova, long black hair, elf ears, black dress, arms crossed\",\n        \"text\": [\"虽然讨厌麻烦事……但我会陪你们去的。\", \"魔王之女 {argument name=\\\"character 2 name\\\" default=\\\"诺娃\\\"}\"]\n      },\n      {\n        \"position\": \"middle right\",\n        \"character\": \"Crim, short hair, armored corset, holding sword\",\n        \"text\": [\"当然！我们要打倒魔物，一起取得胜利！\", \"勇者 {argument name=\\\"character 3 name\\\" default=\\\"克里姆\\\"}\"]\n      },\n      {\n        \"position\": \"bottom left, upper\",\n        \"character\": \"Lilia, witch hat, holding staff\",\n        \"text\": [\"好兴奋！！我想帮上忙！我要学到很多东西，不断成长！\", \"冒险者新人 莉莉亚\"]\n      },\n      {\n        \"position\": \"bottom right, tall vertical\",\n        \"character\": \"Camilla, dragon horns, wings, tail, black armor, large sword\",\n        \"text\": [\"如果需要我的力量，尽管用吧。\", \"龙女 卡米拉\"]\n      },\n      {\n        \"position\": \"bottom left, lower\",\n        \"description\": \"Group shot of all 5 characters standing in a landscape\",\n        \"text\": [\"出发！\", \"唰\", \"与个性十足的伙伴们一起，迈向传说的第一步现在开始——！\"]\n      }\n    ],\n    \"footer\": \"{argument name=\\\"ending text\\\" default=\\\"完\\\"}\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奇幻漫画角色介绍页：生成一个 6 格漫画页面，通过对话框和姓名框介绍 5 位奇幻角色组成的队伍。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "manga"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: manga]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13932",
+      "14022",
+      "14524",
+      "14960",
+      "15670",
+      "14468"
+    ]
+  }
+}

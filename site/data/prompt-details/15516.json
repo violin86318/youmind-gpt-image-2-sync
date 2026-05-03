@@ -1,0 +1,47 @@
+{
+  "id": "15516",
+  "prompt": "Black and white portrait of a {argument name=\"subject\" default=\"stylish man wearing round sunglasses\"}, head slightly down, hands adjusting collar, muscular arms visible, sharp jawline, short textured hair, dark background, dramatic high-contrast lighting, cinematic, ultra-realistic, 85mm lens, studio shot. 19:16 ratio",
+  "translatedPrompt": "黑白肖像，{argument name=\"subject\" default=\"佩戴圆形墨镜的时尚男士\"}，头部微低，双手整理衣领，可见肌肉线条，下颌线清晰，短发有质感，深色背景，戏剧性高对比度光影，电影感，超写实，85mm 镜头，影棚拍摄。19:16 比例",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "黑白电影感影棚肖像：一个关于佩戴圆形墨镜的男士，极具戏剧性、高对比度黑白肖像的提示词。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic",
+        "studio"
+      ],
+      "lightingCamera": [
+        "lens"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic, studio]。\n\nLighting and camera:\n[参考光线镜头: lens]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14258",
+      "14732",
+      "13960",
+      "15528",
+      "14059",
+      "15533"
+    ]
+  }
+}

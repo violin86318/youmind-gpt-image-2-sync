@@ -1,0 +1,50 @@
+{
+  "id": "14267",
+  "prompt": "A cinematic, moody photograph of a young Asian woman looking back over her shoulder at the viewer on a rainy night in a bustling {argument name=\"city setting\" default=\"Tokyo\"} street. She has wet, stringy black hair plastered to her face and a {argument name=\"atmosphere\" default=\"melancholic\"} expression, wearing a loose, oversized greyish-green jacket. The street is wet, reflecting the blurred, glowing neon signs and traffic lights of the city. In the background, crowds of pedestrians hold umbrellas. Parked on the wet asphalt to her left is a {argument name=\"car model\" default=\"white vintage Toyota Levin\"} hatchback with its red taillights illuminated and a Japanese license plate. On the top left side of the image, there is elegant vertical Japanese text that reads \"{argument name=\"main text\" default=\"雨音と歩く\"}\" in a large serif font, with smaller vertical text beside it reading \"{argument name=\"subtext\" default=\"都会の夜に溶けていく\"}\". The overall aesthetic is atmospheric, photorealistic, and cinematic, capturing a quiet, introspective moment amidst the urban chaos.",
+  "translatedPrompt": "A cinematic, moody photograph of a young Asian woman looking back over her shoulder at the viewer on a rainy night in a bustling {argument name=\"city setting\" default=\"Tokyo\"} street. She has wet, stringy black hair plastered to her face and a {argument name=\"atmosphere\" default=\"melancholic\"} expression, wearing a loose, oversized greyish-green jacket. The street is wet, reflecting the blurred, glowing neon signs and traffic lights of the city. In the background, crowds of pedestrians hold umbrellas. Parked on the wet asphalt to her left is a {argument name=\"car model\" default=\"white vintage Toyota Levin\"} hatchback with its red taillights illuminated and a Japanese license plate. On the top left side of the image, there is elegant vertical Japanese text that reads \"{argument name=\"main text\" default=\"雨音と歩く\"}\" in a large serif font, with smaller vertical text beside it reading \"{argument name=\"subtext\" default=\"都会の夜に溶けていく\"}\". The overall aesthetic is atmospheric, photorealistic, and cinematic, capturing a quiet, introspective moment amidst the urban chaos.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Cinematic Rainy City Portrait with Typography：Generates a photorealistic, moody portrait of a person on a rainy city street featuring a vintage car and elegant vertical text overlays.",
+      "subject": "人物",
+      "scene": "字体/Logo",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "vintage"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, vintage]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14021",
+      "14990",
+      "15521",
+      "14539",
+      "14966",
+      "14178"
+    ]
+  }
+}

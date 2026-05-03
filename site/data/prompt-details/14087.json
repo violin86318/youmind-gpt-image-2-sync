@@ -1,0 +1,38 @@
+{
+  "id": "14087",
+  "prompt": "{\n  \"type\": \"mobile short-video app interface screenshot\",\n  \"main_content\": {\n    \"scene\": \"{argument name=\\\"scenic background\\\" default=\\\"turquoise alpine lake, green pine forests, jagged snow-capped mountains, blue sky with fluffy white clouds\\\"}\",\n    \"subject\": \"{argument name=\\\"main subject\\\" default=\\\"woman with long dark hair wearing a black baseball cap backwards and a white shirt, leaning on a wooden fence looking at the view\\\"}\"\n  },\n  \"ui_elements\": {\n    \"status_bar\": {\n      \"time\": \"14:53\",\n      \"icons\": [\"signal bars\", \"wifi\", \"battery 78\"]\n    },\n    \"top_navigation\": {\n      \"left_icon\": \"hamburger menu\",\n      \"tabs\": [\"直播\", \"同城\", \"关注\", \"推荐\"],\n      \"active_tab\": \"推荐\",\n      \"right_icon\": \"search magnifying glass\"\n    },\n    \"floating_widget\": {\n      \"position\": \"top left\",\n      \"icon\": \"red envelope with yellow circular progress bar\",\n      \"text\": \"点击激活\"\n    },\n    \"right_action_bar\": {\n      \"count\": 6,\n      \"items\": [\n        {\"icon\": \"profile picture with red plus button\"},\n        {\"icon\": \"heart\", \"text\": \"{argument name=\\\"like count\\\" default=\\\"128.6万\\\"}\"},\n        {\"icon\": \"speech bubble\", \"text\": \"2.6万\"},\n        {\"icon\": \"star\", \"text\": \"8.9万\"},\n        {\"icon\": \"share arrow\", \"text\": \"3.7万\"},\n        {\"icon\": \"spinning record album\"}\n      ]\n    },\n    \"bottom_left_info\": {\n      \"username\": \"{argument name=\\\"username\\\" default=\\\"@旅行日记\\\"}\",\n      \"caption\": \"{argument name=\\\"video caption\\\" default=\\\"总要去一次川西吧！蓝天白云、雪山湖泊、森林草甸，治愈所有不开心～ #川西美景 #旅行推荐官\\\"}\",\n      \"search_prompt\": \"相关搜索 · 川西旅游攻略\"\n    },\n    \"bottom_navigation\": {\n      \"count\": 5,\n      \"tabs\": [\n        {\"label\": \"首页\"},\n        {\"label\": \"朋友\", \"badge\": \"2\"},\n        {\"label\": \"plus button in rounded rectangle\"},\n        {\"label\": \"消息\", \"badge\": \"5\"},\n        {\"label\": \"我\"}\n      ]\n    },\n    \"system_ui\": \"iOS home indicator line at the bottom\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"移动端短视频 App 界面截图\",\n  \"main_content\": {\n    \"scene\": \"{argument name=\\\"scenic background\\\" default=\\\"绿松石色的高山湖泊、翠绿的松树林、崎岖的雪山、蓝天白云\\\"}\",\n    \"subject\": \"{argument name=\\\"main subject\\\" default=\\\"留着长黑发、反戴黑色棒球帽并穿着白衬衫的女性，倚靠在木栅栏上欣赏风景\\\"}\"\n  },\n  \"ui_elements\": {\n    \"status_bar\": {\n      \"time\": \"14:53\",\n      \"icons\": [\"信号栏\", \"Wi-Fi\", \"电池 78%\"]\n    },\n    \"top_navigation\": {\n      \"left_icon\": \"汉堡菜单\",\n      \"tabs\": [\"直播\", \"同城\", \"关注\", \"推荐\"],\n      \"active_tab\": \"推荐\",\n      \"right_icon\": \"搜索放大镜\"\n    },\n    \"floating_widget\": {\n      \"position\": \"左上角\",\n      \"icon\": \"带有黄色圆形进度条的红包\",\n      \"text\": \"点击激活\"\n    },\n    \"right_action_bar\": {\n      \"count\": 6,\n      \"items\": [\n        {\"icon\": \"带有红色加号按钮的头像\"},\n        {\"icon\": \"心形\", \"text\": \"{argument name=\\\"like count\\\" default=\\\"128.6万\\\"}\"},\n        {\"icon\": \"气泡对话框\", \"text\": \"2.6万\"},\n        {\"icon\": \"星形\", \"text\": \"8.9万\"},\n        {\"icon\": \"分享箭头\", \"text\": \"3.7万\"},\n        {\"icon\": \"旋转的唱片专辑\"}\n      ]\n    },\n    \"bottom_left_info\": {\n      \"username\": \"{argument name=\\\"username\\\" default=\\\"@旅行日记\\\"}\",\n      \"caption\": \"{argument name=\\\"video caption\\\" default=\\\"总要去一次川西吧！蓝天白云、雪山湖泊、森林草甸，治愈所有不开心～ #川西美景 #旅行推荐官\\\"}\",\n      \"search_prompt\": \"相关搜索 · 川西旅游攻略\"\n    },\n    \"bottom_navigation\": {\n      \"count\": 5,\n      \"tabs\": [\n        {\"label\": \"首页\"},\n        {\"label\": \"朋友\", \"badge\": \"2\"},\n        {\"label\": \"圆角矩形内的加号按钮\"},\n        {\"label\": \"消息\", \"badge\": \"5\"},\n        {\"label\": \"我\"}\n      ]\n    },\n    \"system_ui\": \"底部的 iOS 主屏幕指示条\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "短视频 App 界面模型：生成一张逼真的移动端短视频 App 截图，包含风景旅游视频以及标准的社交媒体 UI 覆盖层。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "App Store 截图、产品概念、移动工具界面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13658",
+      "14085",
+      "13681",
+      "14150",
+      "14540",
+      "14542"
+    ]
+  }
+}

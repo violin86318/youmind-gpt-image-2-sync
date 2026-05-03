@@ -1,0 +1,49 @@
+{
+  "id": "14508",
+  "prompt": "A hyper-luxurious fantasy portrait of an elegant woman in side profile, centered slightly left, wearing an extravagant autumn headdress and robe made of red maple leaves, chrysanthemum-like flowers, gold filigree, gemstones, crystal pendants, and translucent stained-glass ornamentation. Her long dark hair falls over her shoulder, and her face is mostly obscured by shadow and angle, creating a mysterious, idealized look. Surround her with large sweeping circular frames and curved ribbons of transparent amber, ruby, and orange glass, embedded with faceted jewels and reflective crystal droplets. Fill the scene with exactly 9 clearly visible floating maple leaves drifting through the air. Set the background as a glowing mountain valley at sunset with the sun low on the horizon, warm golden rays, distant peaks, autumn forest, and a reflective river below. The entire image should be drenched in fiery orange, copper, gold, and scarlet tones, with extreme visual richness, dazzling highlights, dense layered detail, sparkling bokeh, cinematic backlighting, and an intentionally intense, eye-searing level of ornate beauty. Ultra-detailed, maximalist, ethereal, radiant, fantasy couture, glossy textures, jewel-like lighting, wide cinematic composition.",
+  "translatedPrompt": "一幅极尽奢华的奇幻肖像，描绘了一位侧身优雅的女性，构图略微偏左。她佩戴着华丽的秋日头饰，身着由红枫叶、菊花状花朵、金丝饰品、宝石、水晶吊坠及半透明彩色玻璃装饰而成的长袍。她的一头深色长发垂落在肩上，面部大部分隐没在阴影与角度之中，营造出一种神秘而理想化的美感。她的周围环绕着巨大的圆形框架，以及由透明琥珀色、红宝石色和橙色玻璃构成的弧形丝带，其间镶嵌着多面切割的珠宝和反光水晶水滴。画面中需精确呈现 9 片清晰可见的漂浮枫叶在空中飘落。背景设定为落日余晖下的发光山谷，太阳低垂在地平线上，洒下温暖的金光，远处的山峰、秋日森林与下方的反光河流交相辉映。整幅画面应沉浸在炽热的橙色、铜色、金色和绯红色调中，呈现出极致的视觉丰富度、耀眼的高光、密集的层次细节、闪烁的焦外成像、电影级背光，以及一种刻意营造的、令人目眩神迷的华丽美感。超高细节，极繁主义，空灵，光芒四射，奇幻高定，光泽质感，珠宝般的灯光，宽幅电影构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "落日余晖下的华美秋之女皇：此提示词旨在生成一幅炽热且镶嵌珠宝的秋日奇幻肖像，非常适合用于极具戏剧张力的展示艺术及高影响力的社交媒体视觉内容。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "layered"
+      ],
+      "style": [
+        "cinematic",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "backlight"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, layered]。\n\nVisual style:\n[参考风格: cinematic, fantasy]。\n\nLighting and camera:\n[参考光线镜头: backlight]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14865",
+      "15706",
+      "14486",
+      "14578",
+      "14816",
+      "15718"
+    ]
+  }
+}

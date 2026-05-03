@@ -1,0 +1,31 @@
+{
+  "id": "14330",
+  "prompt": "A magazine cover from the {argument name=\"era\" default=\"1990s\"} about a time traveler from {argument name=\"year\" default=\"2026\"} discussing {argument name=\"topic\" default=\"GPT image 2.0\"}",
+  "translatedPrompt": "一张来自 {argument name=\"era\" default=\"20 世纪 90 年代\"} 的杂志封面，讲述了一位来自 {argument name=\"year\" default=\"2026 年\"} 的时空旅行者正在讨论 {argument name=\"topic\" default=\"GPT image 2.0\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "20 世纪 90 年代时空旅行者杂志封面：一个关于 90 年代复古杂志封面的提示词，内容为一位时空旅行者正在讨论未来的 AI。",
+      "subject": "综合主体",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14058",
+      "14337",
+      "14719",
+      "13973",
+      "14331",
+      "14358"
+    ]
+  }
+}

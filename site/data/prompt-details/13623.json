@@ -1,0 +1,37 @@
+{
+  "id": "13623",
+  "prompt": "{\n  \"type\": \"first-person video game screenshot\",\n  \"setting\": \"The End dimension in Minecraft\",\n  \"scene\": {\n    \"environment\": \"pale yellow end stone ground, dark purple sky, tall obsidian pillars with end crystals on top, central bedrock exit portal structure with torches, dark endermen figures in the background\",\n    \"subject\": \"a large black dragon flying overhead\",\n    \"player_view\": \"first-person perspective, holding a {argument name=\\\"held weapon\\\" default=\\\"drawn bow\\\"} in the right hand, white crosshair in the center\"\n  },\n  \"ui_overlay\": {\n    \"top\": {\n      \"boss_bar\": \"pink health bar with text '{argument name=\\\"boss name\\\" default=\\\"Ender Dragon\\\"}'\"\n    },\n    \"left\": {\n      \"speedrun_timer\": {\n        \"header\": \"Minecraft: Java Edition, {argument name=\\\"speedrun category\\\" default=\\\"Any% - Random Seed\\\"} 1795\",\n        \"splits_count\": 4,\n        \"splits_labels\": [\"Overworld\", \"Nether\", \"End Portal Search\", \"Ender Dragon\"],\n        \"main_time\": \"{argument name=\\\"current time\\\" default=\\\"29:11.23\\\"} in bright green\",\n        \"stats\": \"PB, Best, and Previous Segment times\"\n      }\n    },\n    \"bottom\": {\n      \"status_bars\": \"full armor bar, full heart health bar, green experience bar at level {argument name=\\\"experience level\\\" default=\\\"9\\\"}, full hunger bar\",\n      \"hotbar\": {\n        \"slots_count\": 9,\n        \"items\": [\"diamond sword\", \"diamond pickaxe\", \"diamond axe\", \"bow (highlighted)\", \"61 wood planks\", \"water bucket\", \"11 ender pearls\", \"20 golden apples\", \"crafting table\"]\n      }\n    },\n    \"bottom_right\": {\n      \"subtitles\": {\n        \"lines_count\": 3,\n        \"text\": [\"Dragon flaps\", \"Dragon roars\", \"< Footsteps\"]\n      }\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"第一人称电子游戏截图\",\n  \"style\": \"方块体素图形\",\n  \"scene\": {\n    \"environment\": \"末地维度，暗色天空，淡黄色末地石地面，中央有带火把的基岩喷泉结构，高耸的黑色黑曜石柱顶端有发光的末影水晶，远处有高大的黑色身影\",\n    \"subject\": \"喷射紫色粒子的飞行黑龙\",\n    \"perspective\": \"第一人称视角，右手持有 {argument name=\\\"selected weapon\\\" default=\\\"拉开的弓\\\"}，瞄准巨龙，中心有白色准星\"\n  },\n  \"ui_elements\": {\n    \"boss_bar\": {\n      \"position\": \"顶部中央\",\n      \"color\": \"粉色\",\n      \"label\": \"{argument name=\\\"boss name\\\" default=\\\"末影龙\\\"}\"\n    },\n    \"speedrun_timer\": {\n      \"position\": \"左上角\",\n      \"style\": \"深色半透明面板\",\n      \"header\": \"Minecraft: Java Edition, {argument name=\\\"speedrun category\\\" default=\\\"Any% - 随机种子\\\"} 1795\",\n      \"splits_count\": 4,\n      \"splits_labels\": [\"主世界\", \"下界\", \"寻找末地传送门\", \"末影龙\"],\n      \"main_time\": \"{argument name=\\\"current time\\\" default=\\\"29:11.23\\\"}，大号绿色字体\",\n      \"footer\": \"PB（个人最佳）、Best（最佳）、Previous Segment（上一分段）统计数据\"\n    },\n    \"player_hud\": {\n      \"position\": \"底部中央\",\n      \"status_bars\": \"满护甲值，满红心，满饥饿值鸡腿，9 级绿色经验条\",\n      \"hotbar_slots_count\": 9,\n      \"hotbar_contents\": [\n        \"钻石剑\",\n        \"钻石镐\",\n        \"钻石斧\",\n        \"弓（已高亮）\",\n        \"61 个方块\",\n        \"水桶\",\n        \"11 个末影珍珠\",\n        \"20 个金苹果\",\n        \"工作台\"\n      ]\n    },\n    \"subtitles\": {\n      \"position\": \"右下角\",\n      \"style\": \"深色半透明框\",\n      \"lines_count\": 3,\n      \"text\": [\"{argument name=\\\"subtitle text\\\" default=\\\"龙拍打翅膀\\\"}\", \"龙咆哮\", \"< 脚步声\"]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Voxel Speedrun HUD 截图：生成一张第一人称体素游戏截图，包含 Boss 战场景、4 分段速通计时器叠加层以及 9 格物品栏 HUD。",
+      "subject": "界面",
+      "scene": "插画/漫画",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "动漫分镜、战斗场景、运动瞬间、夸张叙事图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 插画/漫画 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13738",
+      "14270",
+      "15295",
+      "13538",
+      "15301",
+      "14432"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "15523",
+  "prompt": "Create a hyper-realistic {argument name=\"poster type\" default=\"fashion poster\"} for “{argument name=\"brand\" default=\"SPLASH\"}” featuring the same girl from the reference image (keep her face 100% identical). She is sitting confidently on a glossy, liquid-style 3D {argument name=\"brand\" default=\"SPLASH\"} logo with water splash effects. One leg relaxed, one bent, strong editorial pose. Background has massive bold “SPLASH” text filling the frame, partially behind her. Add small tagline: “Own Your Style.” Outfit: modern black street-fashion (blazer, fitted top, trousers, sneakers). Lighting: cinematic studio, soft key light + rim light, reflective highlights on liquid logo. Style: luxury brand campaign (Zara / H&M), clean glossy environment. Camera: 85mm lens, shallow depth of field, 8K, ultra-detailed, photorealistic.",
+  "translatedPrompt": "创建一个超写实的 {argument name=\"poster type\" default=\"时尚海报\"}，用于“{argument name=\"brand\" default=\"SPLASH\"}”品牌，画面需包含参考图中的同一位女孩（确保面部 100% 一致）。她自信地坐在一个带有水花效果、光泽感的流体风格 3D {argument name=\"brand\" default=\"SPLASH\"} Logo 上。一条腿放松，另一条腿弯曲，呈现强烈的杂志大片姿势。背景中巨大的粗体“SPLASH”文字填满画面，部分位于她身后。添加小标语：“Own Your Style。” 服装：现代黑色街头时尚（西装外套、修身上衣、长裤、运动鞋）。灯光：电影级摄影棚布光，柔和主光 + 轮廓光，流体 Logo 上带有反光高光。风格：奢侈品牌广告（Zara / H&M），干净且富有光泽的环境。相机：85mm 镜头，浅景深，8K，超精细，照片级真实感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "超写实时尚海报：一个用于生成奢侈品牌时尚海报的提示词，包含流体 3D Logo 和特定的布光设置，并利用参考图来保持角色特征。",
+      "subject": "服饰",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "editorial",
+        "3d",
+        "luxury",
+        "studio"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "shallow depth",
+        "depth of field",
+        "lens",
+        "camera"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, editorial, 3d, luxury, studio]。\n\nLighting and camera:\n[参考光线镜头: rim light, shallow depth, depth of field, lens, camera]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15246",
+      "15412",
+      "15810",
+      "14829",
+      "14824",
+      "15095"
+    ]
+  }
+}

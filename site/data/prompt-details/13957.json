@@ -1,0 +1,41 @@
+{
+  "id": "13957",
+  "prompt": "A vibrant, cute 3D claymation-style illustration of a retro yellow desktop computer setup on a desk. The central yellow CRT monitor displays a teal screen with the {argument name=\"OS logo text\" default=\"Microsoft Windows 98\"} logo and 7 desktop icons labeled 'My Computer', 'Online Services', 'My Documents', 'Outlook Express', 'Internet Explorer', 'Connect to the Internet', and 'Recycle Bin', plus a bottom taskbar with a 'Start' button and a clock reading '5:49 PM'. The monitor has a yellow sticky note reading '{argument name=\"monitor sticky note\" default=\"Be Happy\"}' and a small yellow bird perched on top. The computer base is labeled 'CREATIVE PC'. In front is a yellow mechanical keyboard labeled 'KBD-98' with orange and cream keys, and a yellow mouse labeled 'MS'. To the left is a green desk lamp, a smiling potted cactus, a blue floppy disk labeled '{argument name=\"floppy disk label\" default=\"FUN STUFF\"}', and a blue mug reading '{argument name=\"mug text\" default=\"COFFEE TIME!\"}' with a smiley face. To the right are 2 stacked books (green 'WINDOWS 98 MANUAL', blue 'INTERNET EXPLORER') and 2 smiling balloons (orange and yellow). The foreground features a green cutting mat, a yellow pencil, a green tape dispenser labeled 'TAPE IT!', 2 crayons, a pink sticky note reading 'Take a Break!', and a white notepad with a 5-item 'TO DO LIST': '1. Be Awesome', '2. Play More', '3. Call Mom', '4. Eat Snacks', '5. Smile :)'. The background wall has a green and cream clock, a white poster reading '{argument name=\"poster text\" default=\"HAVE A NICE DAY!\"}' with a smiling sun and 'Do Your Best!', and 3 additional sticky notes: a yellow one reading 'Dream Big Work Hard!', a pink one reading 'You've Got This!', and a green one reading 'Meeting 10:00 AM!'.",
+  "translatedPrompt": "一张充满活力、可爱的 3D 黏土动画风格插图，展示了复古黄色台式电脑的桌面布置。中央的黄色 CRT 显示器屏幕呈青色，显示着 {argument name=\"OS logo text\" default=\"Microsoft Windows 98\"} 标志，以及 7 个桌面图标，分别标注为“My Computer”、“Online Services”、“My Documents”、“Outlook Express”、“Internet Explorer”、“Connect to the Internet”和“Recycle Bin”，底部任务栏带有“Start”按钮和一个显示“5:49 PM”的时钟。显示器上贴着一张黄色便签，写着“{argument name=\"monitor sticky note\" default=\"Be Happy\"}”，顶部停着一只黄色小鸟。电脑底座上标有“CREATIVE PC”。前方是一个黄色机械键盘，标有“KBD-98”，配有橙色和奶油色键帽，以及一个标有“MS”的黄色鼠标。左侧有一盏绿色台灯、一盆微笑着的仙人掌、一张标有“{argument name=\"floppy disk label\" default=\"FUN STUFF\"}”的蓝色软盘，以及一个写着“{argument name=\"mug text\" default=\"COFFEE TIME!\"}”并带有笑脸的蓝色马克杯。右侧有 2 本堆叠的书（绿色“WINDOWS 98 MANUAL”、蓝色“INTERNET EXPLORER”）和 2 个微笑着的气球（橙色和黄色）。前景包括一张绿色切割垫、一支黄色铅笔、一个标有“TAPE IT!”的绿色胶带座、2 支蜡笔、一张写着“Take a Break!”的粉色便签，以及一个白色记事本，上面有 5 项“TO DO LIST”：“1. Be Awesome”、“2. Play More”、“3. Call Mom”、“4. Eat Snacks”、“5. Smile :)”。背景墙上挂着一个绿色和奶油色的时钟，一张写着“{argument name=\"poster text\" default=\"HAVE A NICE DAY!\"}”的白色海报，上面画着一个微笑着的太阳和“Do Your Best!”字样，还有 3 张额外的便签：一张写着“Dream Big Work Hard!”的黄色便签、一张写着“You've Got This!”的粉色便签，以及一张写着“Meeting 10:00 AM!”的绿色便签。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古 3D 黏土动画风格桌面布置：生成一张高度精细、可爱的 3D 插图，展示带有可自定义文本元素的复古电脑桌面。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "3d",
+        "retro"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: 3d, retro]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13490",
+      "14558",
+      "15070",
+      "13699",
+      "13839",
+      "14555"
+    ]
+  }
+}

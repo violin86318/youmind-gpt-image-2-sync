@@ -1,0 +1,38 @@
+{
+  "id": "13781",
+  "prompt": "{\n  \"type\": \"mobile live-streaming app interface mockup\",\n  \"subject\": {\n    \"description\": \"young Asian woman, long dark hair, smiling, wearing a light blue sparkly dress\",\n    \"action\": \"holding a decorative sign with text\",\n    \"sign_text\": \"{argument name=\\\"sign text\\\" default=\\\"x1 谢谢行者大哥的大火箭！\\\"}\"\n  },\n  \"visual_effects\": {\n    \"description\": \"{argument name=\\\"gift animation\\\" default=\\\"glowing pink holographic rocket\\\"} launching on the right side, emitting starbursts and magical particles\"\n  },\n  \"layout\": {\n    \"top_bar\": {\n      \"time\": \"20:30\",\n      \"broadcaster\": {\n        \"name\": \"{argument name=\\\"broadcaster name\\\" default=\\\"糖心 ❤️\\\"}\",\n        \"stats\": \"12.8万本场点赞\",\n        \"button\": \"关注\"\n      },\n      \"top_viewers_count\": 4,\n      \"total_viewers\": \"10万+\",\n      \"close_button\": \"X\"\n    },\n    \"widgets\": {\n      \"count\": 5,\n      \"labels\": [\n        \"小时榜第1名\",\n        \"人气榜\",\n        \"更多直播 >\",\n        \"礼物展馆 0/24\",\n        \"{argument name=\\\"event banner text\\\" default=\\\"抖音夏日歌会 7月26日-7月28日\\\"}\"\n      ]\n    },\n    \"chat_overlay\": {\n      \"gift_alert\": \"行者 送 大火箭\",\n      \"message_count\": 6,\n      \"messages\": [\n        \"梦想起航 加入了直播间\",\n        \"小甜甜: {argument name=\\\"chat message\\\" default=\\\"主播唱歌真好听~\\\"}\",\n        \"是你的小可爱: 好美啊主播\",\n        \"*^O^*: 来了来了\",\n        \"大宝贝: 主播棒棒棒棒棒棒哒\",\n        \"清风徐来: 送出小心心 x10\"\n      ]\n    },\n    \"bottom_bar\": {\n      \"input_placeholder\": \"说点什么...\",\n      \"icon_count\": 4,\n      \"icons\": [\"smiley face\", \"heart planet\", \"gift box\", \"three dots\"]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"移动端直播 App 界面原型\",\n  \"subject\": {\n    \"description\": \"年轻亚裔女性，留着黑色长发，面带微笑，身穿浅蓝色闪亮连衣裙\",\n    \"action\": \"手持一块带有文字的装饰牌\",\n    \"sign_text\": \"{argument name=\\\"sign text\\\" default=\\\"x1 谢谢行者大哥的大火箭！\\\"}\"\n  },\n  \"visual_effects\": {\n    \"description\": \"{argument name=\\\"gift animation\\\" default=\\\"发光的粉色全息火箭\\\"} 在右侧发射，散发出星芒和魔法粒子\"\n  },\n  \"layout\": {\n    \"top_bar\": {\n      \"time\": \"20:30\",\n      \"broadcaster\": {\n        \"name\": \"{argument name=\\\"broadcaster name\\\" default=\\\"糖心 ❤️\\\"}\",\n        \"stats\": \"12.8万本场点赞\",\n        \"button\": \"关注\"\n      },\n      \"top_viewers_count\": 4,\n      \"total_viewers\": \"10万+\",\n      \"close_button\": \"X\"\n    },\n    \"widgets\": {\n      \"count\": 5,\n      \"labels\": [\n        \"小时榜第1名\",\n        \"人气榜\",\n        \"更多直播 >\",\n        \"礼物展馆 0/24\",\n        \"{argument name=\\\"event banner text\\\" default=\\\"抖音夏日歌会 7月26日-7月28日\\\"}\"\n      ]\n    },\n    \"chat_overlay\": {\n      \"gift_alert\": \"行者 送 大火箭\",\n      \"message_count\": 6,\n      \"messages\": [\n        \"梦想起航 加入了直播间\",\n        \"小甜甜: {argument name=\\\"chat message\\\" default=\\\"主播唱歌真好听~\\\"}\",\n        \"是你的小可爱: 好美啊主播\",\n        \"*^O^*: 来了来了\",\n        \"大宝贝: 主播棒棒棒棒棒棒哒\",\n        \"清风徐来: 送出小心心 x10\"\n      ]\n    },\n    \"bottom_bar\": {\n      \"input_placeholder\": \"说点什么...\",\n      \"icon_count\": 4,\n      \"icons\": [\"笑脸\", \"心形星球\", \"礼物盒\", \"三个点\"]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "中文直播 App UI 原型设计：生成高度精细的移动端直播界面，包含主播、聊天浮层和动态虚拟礼物，非常适合 App 原型设计。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13752",
+      "13843",
+      "13848",
+      "13601",
+      "13778",
+      "13904"
+    ]
+  }
+}

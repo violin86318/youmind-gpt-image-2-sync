@@ -1,0 +1,46 @@
+{
+  "id": "14822",
+  "prompt": "A dreamy vertical spring portrait photo of a young woman standing in profile in a vast field of tiny blue nemophila flowers under a bright blue sky with soft white clouds. She wears a fitted ribbed knit dress in {argument name=\"dress color\" default=\"pale sky blue\"} with elbow-length sleeves, and her long straight brown hair is blowing dramatically to the right in the wind. Frame her from about mid-thigh upward, slightly off-center to the right, with the flower field filling the background and a small rope fence with wooden posts visible along the lower right edge beside a gravel path. Use soft natural morning sunlight, airy high-key exposure, gentle pastel tones, shallow depth of field, subtle lens bloom, and a romantic social-media snapshot aesthetic. Add a few large out-of-focus white flower petals drifting across the foreground. Overlay handwritten white Japanese text directly on the image: at the upper left, \"{argument name=\"greeting text\" default=\"おはよう\"}\" with a small doodled cloud beside it; below that, the date \"{argument name=\"date text\" default=\"2026.04.22\"}\"; across the lower middle-right, \"{argument name=\"main note text\" default=\"嫁と ネモフィラデート✌︎\"}\"; and beneath it, \"{argument name=\"sub note text\" default=\"に使っていいよっ♡\"}\". Keep the handwriting casual, playful, and slightly uneven like a marker pen on a photo.",
+  "translatedPrompt": "一张梦幻般的竖版春日人像摄影，一位年轻女性侧身站在广阔的蓝色粉蝶花田中，背景是明亮的蓝天和柔和的白云。她身穿一件 {argument name=\"dress color\" default=\"淡天蓝色\"} 的修身罗纹针织连衣裙，袖长及肘，一头棕色长直发在风中向右飘动。构图从大腿中部向上取景，人物略微偏向右侧，背景铺满花海，右下角可见碎石路旁带有木桩的小绳围栏。采用柔和的自然晨光、通透的高调曝光、淡雅的色调、浅景深、细腻的镜头光晕，以及浪漫的社交媒体快照美学。在前景中加入几片虚化的大型白色花瓣。在图像上直接叠加手写风格的白色日文：左上角为“{argument name=\"greeting text\" default=\"おはよう\"}”并配有一个涂鸦小云朵；下方为日期“{argument name=\"date text\" default=\"2026.04.22\"}”；中右下方为“{argument name=\"main note text\" default=\"嫁と ネモフィラデート✌︎\"}”；其下方为“{argument name=\"sub note text\" default=\"に使っていいよっ♡\"}”。保持手写字体随性、俏皮且略带不规则感，如同用马克笔在照片上书写的效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "梦幻粉蝶花约会人像：生成一张柔和浪漫的竖版人像，画面中一位女性置身于蓝色花海，并配有手写风格的日文晨间问候文字，非常适合社交媒体视觉呈现。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "lens"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, lens]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14569",
+      "14414",
+      "14619",
+      "14628",
+      "14630",
+      "14654"
+    ]
+  }
+}

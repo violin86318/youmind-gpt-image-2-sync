@@ -1,0 +1,45 @@
+{
+  "id": "14424",
+  "prompt": "{\"type\":\"editorial science infographic poster\",\"style\":\"friendly magazine-style educational infographic for teenagers, combining hand-drawn physics diagrams, cartoon characters, and clean editorial typography\",\"topic\":\"primordial black holes, Hawking evaporation, and memory-burden dark matter\",\"canvas\":{\"orientation\":\"portrait\",\"background\":\"warm cream paper texture with subtle grain\",\"border\":\"thin muted gray rectangular border around the full page\"},\"headline\":{\"title\":\"THE BLACK HOLE THAT REFUSED TO DIE\",\"subtitle\":\"a tiny black hole born in the first second of the universe, and the strange new physics that might let it hide as dark matter.\",\"credit\":\"Thoss, Lopez-Honorez, Kühnel & Hufnagel\"},\"layout\":{\"sections\":[{\"title\":\"Born in a flash\",\"position\":\"top left\",\"count\":4,\"labels\":[\"swirling early-universe birth diagram\",\"primordial black hole smaller than a grain of salt but heavier than a mountain\",\"10^-30 seconds after the Big Bang clock icon\",\"thermometer icon\"]},{\"title\":\"Normal black holes evaporate\",\"position\":\"top right\",\"count\":4,\"labels\":[\"three black hole stages shrinking left to right\",\"outgoing particle squiggles around each stage\",\"Stephen Hawking explanation paragraph\",\"sticker quote: \\\"black holes ain't so black\\\" — S. Hawking, 1974\"]},{\"title\":\"The plot twist: memory burden\",\"position\":\"middle center\",\"count\":4,\"labels\":[\"sad overloaded cartoon black hole with backpack labeled MEMORY\",\"speech bubble about being too full of information to finish evaporating\",\"equation: normal speed ÷ (lots of information)^k = crawling speed\",\"brace note about proposal by Gia Dvali, 2018\"]},{\"title\":\"Two kinds of ghost particles\",\"position\":\"lower middle\",\"count\":5,\"labels\":[\"fast moving particle on the left\",\"slow warm particle character on the right\",\"timeline from BIG BANG to TODAY\",\"FAST AND COLD cloud label\",\"SLOW AND WARM cloud label\"]},{\"title\":\"How we would catch them: the Lyman-α forest\",\"position\":\"bottom left\",\"count\":4,\"labels\":[\"paragraph about ancient galaxies passing through hydrogen clouds\",\"spiky absorption-forest landscape graphic\",\"handwritten note: THE FOREST SAYS: WE WOULD NOTICE.\",\"axis from us to distant quasars concept\"]},{\"title\":\"So what does this paper show?\",\"position\":\"bottom right\",\"count\":1,\"labels\":[\"rounded rectangular summary box\"]}],\"count\":6},\"visuals\":{\"color_palette\":[\"warm beige\",\"dark navy\",\"rust orange\",\"dusty teal\",\"soft brown\",\"muted gray\"],\"illustration_notes\":\"flat vector shapes with slightly sketchy outlines, soft shadows, rounded forms, playful but scientifically literate\",\"typography\":\"large serif all-caps for headline, bold sans-serif section headers, compact readable body text, occasional handwritten accent text\"},\"objects\":{\"count\":15,\"items\":[\"1 full-page border\",\"1 headline block\",\"1 early-universe swirl diagram\",\"1 tiny primordial black hole dot with callout\",\"1 clock icon\",\"1 thermometer icon\",\"3 evaporating black hole diagrams\",\"1 Hawking quote sticker badge\",\"1 backpack-carrying cartoon black hole character\",\"1 speech bubble\",\"1 equation block\",\"2 cloud labels\",\"1 bottom-left spectral forest illustration\"]},\"text_blocks\":{\"count\":9,\"items\":[\"headline title\",\"headline subtitle\",\"author credit\",\"Born in a flash body text\",\"Normal black holes evaporate body text\",\"memory burden explanatory paragraph\",\"ghost particles captions\",\"Lyman-alpha forest explanation\",\"final takeaway summary\"]},\"composition\":\"densely packed but readable single-page explainer with multiple illustrated callouts, clear left-to-right and top-to-bottom reading flow, designed like a shareable social media science poster that makes an advanced physics paper feel approachable to a curious teenager\"}",
+  "translatedPrompt": "{\"type\":\"编辑类科学信息图海报\",\"style\":\"面向青少年的友好型杂志风格科普信息图，结合手绘物理图解、卡通角色和简洁的编辑排版\",\"topic\":\"原初黑洞、霍金辐射与记忆负担暗物质\",\"canvas\":{\"orientation\":\"纵向\",\"background\":\"暖色调奶油纸纹理，带有细微颗粒感\",\"border\":\"页面四周带有纤细的柔和灰色矩形边框\"},\"headline\":{\"title\":\"拒绝消亡的黑洞\",\"subtitle\":\"一个诞生于宇宙最初一秒的微小黑洞，以及可能让它伪装成暗物质的奇特新物理学。\",\"credit\":\"Thoss, Lopez-Honorez, Kühnel & Hufnagel\"},\"layout\":{\"sections\":[{\"title\":\"闪电般的诞生\",\"position\":\"左上\",\"count\":4,\"labels\":[\"早期宇宙旋转诞生示意图\",\"比盐粒还小但比山还重的原初黑洞\",\"大爆炸后 10^-30 秒的时钟图标\",\"温度计图标\"]},{\"title\":\"普通黑洞的蒸发\",\"position\":\"右上\",\"count\":4,\"labels\":[\"从左至右三个黑洞缩小阶段\",\"每个阶段周围的粒子外溢波浪线\",\"斯蒂芬·霍金的解释段落\",\"贴纸引言：\\\"黑洞并非那么黑\\\" — S. Hawking, 1974\"]},{\"title\":\"情节反转：记忆负担\",\"position\":\"中中\",\"count\":4,\"labels\":[\"背着标有 MEMORY 背包的悲伤超载卡通黑洞\",\"关于因信息过载而无法完成蒸发的对话气泡\",\"公式：正常速度 ÷ (大量信息)^k = 爬行速度\",\"关于 Gia Dvali 2018 年提议的括号注释\"]},{\"title\":\"两种幽灵粒子\",\"position\":\"中下\",\"count\":5,\"labels\":[\"左侧快速移动的粒子\",\"右侧缓慢温暖的粒子角色\",\"从大爆炸到今天的演化时间轴\",\"快速且寒冷云朵标签\",\"缓慢且温暖云朵标签\"]},{\"title\":\"我们如何捕捉它们：莱曼-α 森林\",\"position\":\"左下\",\"count\":4,\"labels\":[\"关于古老星系穿过氢云的段落\",\"尖刺状的吸收森林景观图\",\"手写注释：森林告诉我们：我们会发现的。\",\"从我们到遥远类星体的轴线概念\"]},{\"title\":\"这篇论文说明了什么？\",\"position\":\"右下\",\"count\":1,\"labels\":[\"圆角矩形总结框\"]}],\"count\":6},\"visuals\":{\"color_palette\":[\"暖米色\",\"深海军蓝\",\"铁锈橙\",\"灰青色\",\"柔棕色\",\"柔和灰\"],\"illustration_notes\":\"扁平矢量形状，带有略显粗糙的轮廓、柔和阴影、圆润形态，既俏皮又具备科学严谨性\",\"typography\":\"标题使用大号衬线全大写字母，章节标题使用粗体无衬线字体，正文紧凑易读，偶尔点缀手写体文字\"},\"objects\":{\"count\":15,\"items\":[\"1 个全页边框\",\"1 个标题块\",\"1 个早期宇宙旋转图\",\"1 个带有标注的微小原初黑洞点\",\"1 个时钟图标\",\"1 个温度计图标\",\"3 个黑洞蒸发图解\",\"1 个霍金引言贴纸徽章\",\"1 个背着背包的卡通黑洞角色\",\"1 个对话气泡\",\"1 个公式块\",\"2 个云朵标签\",\"1 个左下角光谱森林插图\"]},\"text_blocks\":{\"count\":9,\"items\":[\"标题\",\"副标题\",\"作者署名\",\"闪电般的诞生正文\",\"普通黑洞蒸发正文\",\"记忆负担解释段落\",\"幽灵粒子说明文字\",\"莱曼-α 森林解释\",\"最终结论总结\"]},\"composition\":\"布局紧凑但易读的单页说明图，包含多个插图标注，具有清晰的从左至右、从上至下的阅读流向，设计旨在成为可分享的社交媒体科学海报，让青少年也能轻松理解深奥的物理学论文\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "适合青少年的黑洞物理学信息图：此提示词可生成一张内容详实、单页的编辑类科学信息图，以生动且易于理解的风格解析复杂的黑洞与暗物质论文，适用于社交媒体帖子或科普文章。",
+      "subject": "信息结构",
+      "scene": "海报/封面",
+      "composition": [
+        "callout"
+      ],
+      "style": [
+        "editorial",
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: callout]。\n\nVisual style:\n[参考风格: editorial, hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14911",
+      "15299",
+      "14169",
+      "14642",
+      "14913",
+      "15300"
+    ]
+  }
+}

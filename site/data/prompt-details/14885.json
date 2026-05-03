@@ -1,0 +1,41 @@
+{
+  "id": "14885",
+  "prompt": "A classical Chinese ink-wash painting on warm aged rice paper, combining landscape art and calligraphy in a clean two-part composition. On the left half, leave broad negative space filled with bold black brush-calligraphy showing the poem title {argument name=\"poem title\" default=\"早发白帝城\"}, the poet name {argument name=\"poet name\" default=\"李白\"}, and four large vertical lines of poem text in expressive handwritten script: {argument name=\"poem text\" default=\"朝辞白帝彩云间，千里江陵一日还。两岸猿声啼不住，轻舟已过万重山。\"}. On the right half, paint a serene river gorge at sunrise in the style of a traditional shan shui scroll: a soft orange sun low above misty layered mountains, tall steep cliffs on both sides, faint haze in the distance, and calm reflective water glowing with pale gold light. In the foreground at lower right, place a small wooden river boat with a simple covered cabin and a vertical mast. A solitary ancient Chinese scholar in flowing white hanfu stands on the deck facing the landscape from behind, hair tied in a traditional topknot, long robe and sash slightly trailing in the breeze, creating a contemplative mood. Add a tiny temple pavilion perched high on the top of the right cliff. Use delicate ink outlines, subtle sepia and gray washes, textured paper grain, elegant empty space, and refined literati-painting aesthetics. The overall image should feel poetic, quiet, balanced, and museum-quality, with especially beautiful legible calligraphy integrated into the artwork.",
+  "translatedPrompt": "一幅绘制在暖色调陈年宣纸上的中国古典水墨画，将山水艺术与书法完美融合，构图简洁明快。左侧留出大面积空白，以苍劲有力的黑色毛笔书法书写诗歌标题 {argument name=\"poem title\" default=\"早发白帝城\"}、诗人姓名 {argument name=\"poet name\" default=\"李白\"}，以及四行竖排的诗文，笔触洒脱：{argument name=\"poem text\" default=\"朝辞白帝彩云间，千里江陵一日还。两岸猿声啼不住，轻舟已过万重山。\"}。右侧描绘一幅传统山水画卷风格的晨曦江峡：一轮柔和的橙色红日低悬于云雾缭绕的层峦叠嶂之上，两侧是高耸陡峭的悬崖，远处薄雾弥漫，平静的水面泛着淡淡的金光。右下角前景处，停泊着一艘带有简易船篷和竖桅的小木船。一位身着飘逸白色汉服的古代文人背对画面伫立在甲板上，发髻高束，长袍与腰带在微风中轻拂，营造出一种沉思的意境。右侧悬崖顶端点缀着一座小巧的寺庙亭台。运用细腻的墨线勾勒、淡雅的赭石与水墨渲染，呈现出纸张纹理、优雅的留白以及精致的文人画美学。整体画面富有诗意、静谧、平衡且具有博物馆级品质，尤其是书法部分清晰易读，与艺术作品融为一体。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "中国古典诗词山水画卷：一幅传统中国水墨风格艺术作品，左侧为名家书法诗词，右侧为日出江峡山水，非常适合文学海报、文化印刷品或编辑艺术设计。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "layered",
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "要求可读",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14603",
+      "14195",
+      "15432",
+      "14592",
+      "14691",
+      "14923"
+    ]
+  }
+}

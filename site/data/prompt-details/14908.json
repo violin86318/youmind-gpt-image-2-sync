@@ -1,0 +1,45 @@
+{
+  "id": "14908",
+  "prompt": "A dark, cinematic anime group portrait inspired by The Last Supper, set in a long stone banquet hall at night. Show exactly 11 seated or leaning female characters arranged shoulder to shoulder behind a long table covered with a white tablecloth, viewed straight on in a wide symmetrical composition. In the exact center is a blonde knightly woman in ornate blue-and-silver armor and a royal-blue dress, posed as the visual focal point with both armored arms extended along the table. In front of her sits a glowing golden chalice radiating warm light upward onto the faces and hands of the group. Behind them, three tall arched windows reveal a twilight landscape with a huge tree silhouetted against a dusky sky. The ceiling has dark wooden beams, and the side walls are lined with large shadowy framed paintings.\n\nThe 11 characters should feel like a crossover ensemble of iconic anime-style women with varied silhouettes, hairstyles, and fashion. From left to right: 1) a woman in a glossy red skintight futuristic suit, leaning forward with one hand on the table; 2) a dark-haired woman in muted military-style clothing close beside her; 3) a pale gothic girl in a black dress with long sleeves, hands lifted with delicate fingers; 4) a short blonde woman in a loose white T-shirt, casual and modern; 5) a tall red-haired woman in a white shirt standing slightly behind the others; 6) the central blonde armored knight in blue; 7) a black-haired woman in a black dress with gold accessories and a headpiece, raising one finger; 8) a glamorous woman in a red embroidered dress with long black hair; 9) a dark-haired woman in a low-cut black outfit leaning inward; 10) a teal twin-tailed virtual-idol-like girl in a sleeveless outfit; 11) a green-haired girl in a pale patterned dress seated with crossed legs at the far right, holding a wine glass. Keep all faces attractive anime faces, mature young-adult women, elegant rather than caricatured.\n\nOn the table, include exactly 11 place settings, 8 visible wine glasses with red wine, several loaves of bread and scattered rolls, plates, silverware, crumbs, and a few metallic goblets or cups. The warm chalice light should illuminate the center while the rest of the room falls into moody shadow. Use painterly realism, high-detail anime illustration, dramatic chiaroscuro, subdued brown and blue ambience with red accents, solemn yet slightly decadent atmosphere, ultra-wide panoramic framing, masterpiece quality.",
+  "translatedPrompt": "一幅黑暗、电影质感的动漫群像肖像，灵感源自《最后的晚餐》，场景设定在夜晚长长的石砌宴会厅内。画面采用正面对称的宽幅构图，展示 11 位女性角色肩并肩坐在长桌后或倚靠在桌边。正中央是一位金发女骑士，身穿华丽的蓝银色盔甲与宝蓝色礼服，作为视觉焦点，双臂戴着盔甲平放在桌面上。她面前放着一只发光的金色圣杯，散发出温暖的光芒，映照在众人的脸庞与手上。她们身后是三扇高大的拱形窗，窗外可见暮色景观，一棵巨大的树木剪影映衬在昏暗的天空中。天花板上有深色的木梁，侧墙上挂着几幅巨大的阴影画框。\n\n这 11 位角色应呈现出一种标志性动漫女性的跨界组合感，拥有各异的轮廓、发型与服饰。从左至右依次为：1) 一位身穿亮面红色紧身未来感战衣的女性，身体前倾，单手撑在桌上；2) 一位紧挨着她的深色头发女性，身穿低调的军装风格服饰；3) 一位身穿黑色长袖礼服的苍白哥特风少女，双手抬起，手指纤细；4) 一位身穿宽松白色 T 恤的短发金发女性，休闲且现代；5) 一位身穿白衬衫、站在其他人身后稍远处的红发高挑女性；6) 中央身穿蓝色盔甲的金发女骑士；7) 一位身穿黑色礼服、佩戴金色配饰与头饰的黑发女性，正竖起一根手指；8) 一位身穿红色刺绣礼服、留着黑色长发的迷人女性；9) 一位身穿黑色低胸装、向内侧倾斜身体的黑发女性；10) 一位留着青色双马尾、身穿无袖服饰的虚拟偶像风格少女；11) 一位身穿浅色花纹礼服的绿发少女，坐在最右侧，双腿交叠，手持酒杯。所有角色需保持精致的动漫面孔，呈现成熟年轻女性的优雅气质，而非夸张的漫画风格。\n\n桌上需摆放 11 套餐具，包括 8 只可见的红酒杯、几块面包与散落的面包卷、餐盘、银器、面包屑以及几只金属高脚杯或酒杯。温暖的圣杯光芒应照亮中心区域，而房间其余部分则沉浸在阴郁的阴影中。采用绘画般的写实风格、高细节动漫插画、戏剧性的明暗对照法，以棕色和蓝色为主调，点缀红色，营造出庄重而略带颓废的氛围，超宽全景构图，大师级品质。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫版《最后的晚餐》群像：此提示词可生成一幅极具戏剧性的宽幅动漫群像宴会场景，风格致敬《最后的晚餐》，适用于跨界角色群像艺术及氛围感角色阵容插画。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "symmetrical"
+      ],
+      "style": [
+        "cinematic",
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: symmetrical]。\n\nVisual style:\n[参考风格: cinematic, anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15635",
+      "13937",
+      "14509",
+      "14524",
+      "14587",
+      "14978"
+    ]
+  }
+}

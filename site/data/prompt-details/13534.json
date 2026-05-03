@@ -1,0 +1,42 @@
+{
+  "id": "13534",
+  "prompt": "{\n  \"type\": \"2x2 grid of Japanese web banner advertisements\",\n  \"layout\": \"4 equal square panels\",\n  \"panels\": [\n    {\n      \"position\": \"top-left\",\n      \"industry\": \"beverage\",\n      \"product\": \"clear can of non-alcoholic drink named 'CLEAR ZERO'\",\n      \"visuals\": \"splashing water, light blue background, refreshing vibe\",\n      \"headline\": \"{argument name=\\\"beverage catchphrase\\\" default=\\\"今日を、リセット。\\\"}\",\n      \"badges_count\": 3,\n      \"badges_labels\": [\"カロリー 0\", \"糖質 0\", \"プリン体 0\"]\n    },\n    {\n      \"position\": \"top-right\",\n      \"industry\": \"food delivery\",\n      \"product\": \"plate of stir-fried meat and vegetables\",\n      \"visuals\": \"warm lighting, wooden table, appetizing\",\n      \"headline\": \"{argument name=\\\"meal kit catchphrase\\\" default=\\\"献立に、悩まない。\\\"}\",\n      \"feature_icons_count\": 3,\n      \"feature_icons_labels\": [\"時短 10分\", \"管理栄養士監修\", \"送料無料\"],\n      \"cta_button\": \"今すぐはじめる ->\"\n    },\n    {\n      \"position\": \"bottom-left\",\n      \"industry\": \"cosmetics\",\n      \"product\": \"skincare serum bottle named 'LUMIÈRE'\",\n      \"visuals\": \"woman with glowing skin and closed eyes, prismatic light effects, soft purple background\",\n      \"headline\": \"{argument name=\\\"cosmetics catchphrase\\\" default=\\\"肌が、目覚める。\\\"}\",\n      \"badges_count\": 3,\n      \"badges_labels\": [\"無添加\", \"日本製\", \"敏感肌対応\"]\n    },\n    {\n      \"position\": \"bottom-right\",\n      \"industry\": \"fitness\",\n      \"product\": \"personal gym named 'MOVE'\",\n      \"visuals\": \"woman running on a treadmill, dark gym setting, sporty\",\n      \"headline\": \"{argument name=\\\"gym catchphrase\\\" default=\\\"私を、アップデートする場所。\\\"}\",\n      \"pricing\": \"月額 {argument name=\\\"gym monthly price\\\" default=\\\"6,980\\\"} 円~\",\n      \"feature_hexagons_count\": 3,\n      \"feature_hexagons_labels\": [\"24時間営業\", \"全国120店舗以上\", \"充実のサポート\"],\n      \"cta_button\": \"無料体験を予約する ->\"\n    }\n  ]\n}",
+  "translatedPrompt": "{\n  \"type\": \"2x2 日式网页广告横幅网格\",\n  \"layout\": \"4 个相等的正方形面板\",\n  \"panels\": [\n    {\n      \"position\": \"左上\",\n      \"industry\": \"饮料\",\n      \"product\": \"名为 'CLEAR ZERO' 的无酒精饮料透明罐\",\n      \"visuals\": \"水花四溅，浅蓝色背景，清爽氛围\",\n      \"headline\": \"{argument name=\\\"beverage catchphrase\\\" default=\\\"今日を、リセット。\\\"}\",\n      \"badges_count\": 3,\n      \"badges_labels\": [\"0 卡路里\", \"0 糖\", \"0 嘌呤\"]\n    },\n    {\n      \"position\": \"右上\",\n      \"industry\": \"外卖\",\n      \"product\": \"一盘炒肉和蔬菜\",\n      \"visuals\": \"暖色调灯光，木质餐桌，令人垂涎\",\n      \"headline\": \"{argument name=\\\"meal kit catchphrase\\\" default=\\\"献立に、悩まない。\\\"}\",\n      \"feature_icons_count\": 3,\n      \"feature_icons_labels\": [\"10 分钟快手菜\", \"营养师监修\", \"免运费\"],\n      \"cta_button\": \"立即开始 ->\"\n    },\n    {\n      \"position\": \"左下\",\n      \"industry\": \"化妆品\",\n      \"product\": \"名为 'LUMIÈRE' 的护肤精华瓶\",\n      \"visuals\": \"皮肤透亮、闭着双眼的女性，棱镜光效，柔和紫色背景\",\n      \"headline\": \"{argument name=\\\"cosmetics catchphrase\\\" default=\\\"肌が、目覚める。\\\"}\",\n      \"badges_count\": 3,\n      \"badges_labels\": [\"无添加\", \"日本制造\", \"敏感肌适用\"]\n    },\n    {\n      \"position\": \"右下\",\n      \"industry\": \"健身\",\n      \"product\": \"名为 'MOVE' 的个人健身房\",\n      \"visuals\": \"在跑步机上跑步的女性，深色健身房环境，运动感\",\n      \"headline\": \"{argument name=\\\"gym catchphrase\\\" default=\\\"私を、アップデートする場所。\\\"}\",\n      \"pricing\": \"月费 {argument name=\\\"gym monthly price\\\" default=\\\"6,980\\\"} 日元起\",\n      \"feature_hexagons_count\": 3,\n      \"feature_hexagons_labels\": [\"24 小时营业\", \"全国 120 家以上门店\", \"全面支持\"],\n      \"cta_button\": \"预约免费体验 ->\"\n    }\n  ]\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "4 格日式广告横幅网格：生成一个 2x2 网格的日式网页广告横幅，涵盖饮料、外卖、化妆品和健身行业。",
+      "subject": "产品",
+      "scene": "图标/贴纸",
+      "composition": [
+        "grid",
+        "2x2"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "图标包、贴纸、表情、产品功能图标",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 图标/贴纸 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, 2x2]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13994",
+      "14993",
+      "15290",
+      "14196",
+      "14183",
+      "13900"
+    ]
+  }
+}

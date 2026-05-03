@@ -1,0 +1,39 @@
+{
+  "id": "15524",
+  "prompt": "The photo is captured with {argument name=\"lighting\" default=\"harsh direct flash\"}, blowing out highlights and burning shadows, evoking a raw 90’s {argument name=\"vibe\" default=\"look\"}. The image is lo-fi, with {argument name=\"texture\" default=\"medium film grain and analog texture\"}.",
+  "translatedPrompt": "这张照片采用 {argument name=\"lighting\" default=\"强烈的直射闪光灯\"} 拍摄，高光过曝，阴影浓重，营造出原始的 90 年代 {argument name=\"vibe\" default=\"视觉氛围\"}。图像呈现低保真效果，带有 {argument name=\"texture\" default=\"中等胶片颗粒感和模拟质感\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "90 年代 VHS 复古美学修饰词：这是一个特定的风格提示词片段，可添加到现有提示词中，以便使用 GPT Image 2 实现原始的、低保真的 90 年代 VHS 视觉效果。",
+      "subject": "综合主体",
+      "scene": "摄影/真实场景",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "film grain"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: film grain]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13661",
+      "13677",
+      "15507",
+      "15075",
+      "13876",
+      "14264"
+    ]
+  }
+}

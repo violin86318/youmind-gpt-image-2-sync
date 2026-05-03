@@ -1,0 +1,51 @@
+{
+  "id": "14969",
+  "prompt": "A highly realistic documentary-style close-up photo of a weathered reinforced concrete bridge pier or retaining wall outdoors, showing severe alkali-silica reaction damage. The wall fills most of the frame and is viewed from a slight angle so that both the front face and the left edge are visible. The concrete surface is gray, rough, aged, and stained, covered with a dense network of large irregular polygonal map cracks with approximately 18 clearly visible major crack cells across the surface. Many cracks have pale white gel-like seepage and chalky deposits along the edges, with vertical whitish and brownish water streaks running downward from several crack intersections. Include a horizontal construction joint or base line near the bottom of the wall, darker moisture staining along the lower section, and subtle moss or algae discoloration near the edges. The setting is an overcast riverside or drainage channel environment with sparse winter vegetation, rocks at the bottom right, and a narrow strip of still water on the right edge of the image. Natural muted lighting, neutral color palette, engineering inspection photo aesthetic, sharp surface texture, no people, no tools, no text, no annotations.",
+  "translatedPrompt": "一张高度逼真的纪录片风格特写照片，展示了户外风化的钢筋混凝土桥墩或挡土墙，呈现出严重的碱-骨料反应损伤。墙体占据了大部分画面，并以微倾斜的角度拍摄，使得正面和左侧边缘均清晰可见。混凝土表面呈灰色，粗糙、陈旧且带有污渍，覆盖着密集的、不规则的多边形地图状裂缝网络，表面上有约 18 个清晰可见的主要裂缝单元。许多裂缝边缘有淡白色的胶状渗出物和粉状沉积物，几处裂缝交叉点处有垂直的白色和褐色水渍向下延伸。墙体底部附近包含一条水平施工缝或基线，下部有较暗的潮湿污渍，边缘处有细微的苔藓或藻类变色。场景设定在阴天的河边或排水渠环境，伴有稀疏的冬季植被，右下角有岩石，图像右侧边缘有一条狭窄的静水带。自然柔和的光线，中性色调，工程检测照片美学，表面纹理清晰，无人物，无工具，无文字，无标注。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "带有 ASR 地图状裂缝的混凝土墙：此提示词可生成一张逼真的土木工程检测照片，展示户外混凝土结构上的碱-骨料反应（ASR）损伤，适用于培训材料、报告或基础设施可视化。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up",
+        "annotations",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "overcast"
+      ],
+      "text": "禁止额外文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, annotations, vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, documentary]。\n\nLighting and camera:\n[参考光线镜头: overcast]。\n\nText requirements:\n禁止额外文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15013",
+      "15453",
+      "13916",
+      "14240",
+      "15758",
+      "15759"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "13648",
+  "prompt": "Amateur candid photo taken in an {argument name=\"time period\" default=\"early 2020s\"} {argument name=\"location\" default=\"high school\"}, {argument name=\"aesthetic\" default=\"iPhone aesthetic\"}",
+  "translatedPrompt": "由 {argument name=\"time period\" default=\"2020 年代初\"} 的 {argument name=\"location\" default=\"高中\"} 拍摄的业余抓拍照片，呈现 {argument name=\"camera style\" default=\"iPhone 审美\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "2020 年代初高中 iPhone 风格照片：一个旨在重现 2020 年代初高中校园生活随拍中那种独特 iPhone 审美风格的提示词。",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "App Store 截图、产品概念、移动工具界面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13583",
+      "13585",
+      "13645",
+      "13708",
+      "13710",
+      "13713"
+    ]
+  }
+}

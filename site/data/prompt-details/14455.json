@@ -1,0 +1,48 @@
+{
+  "id": "14455",
+  "prompt": "A clean editorial fashion collage on a light gray-white background with a thin black rectangular border, styled like a minimalist magazine outfit board. Center the outfit as a flat lay style composition with 5 visible fashion items: a bright {argument name=\"jacket color\" default=\"crimson red\"} cropped zip-front jacket with a pointed collar and elastic hem placed slightly left and layered on top; underneath it, a fitted {argument name=\"top color\" default=\"white\"} long-sleeve crew-neck knit top visible at the shoulders and sleeves; below, a voluminous mid-calf A-line skirt in off-white with evenly spaced large black polka dots; at lower left, a structured small black handbag with short top handles and a subtle glossy crocodile texture; at lower right, one pair of black square-toe Mary Jane flats with wide straps and silver grommet-ring hardware. Add oversized very pale gray background typography reading {argument name=\"background brand text\" default=\"MANGO\"} stretched large across the middle behind the clothing. Place smaller black fashion-brand wordmarks around the layout: {argument name=\"top right logo\" default=\"MANGO\"} near the upper right of the outfit, \"Stradivarius\" near the handbag and again near the shoes, and \"DOLCE & GABBANA\" at the lower left near the skirt hem. The composition should feel balanced, chic, and contemporary, with soft studio lighting, no shadows or only faint soft shadows, crisp cutout edges, and a polished social-media fashion moodboard aesthetic.",
+  "translatedPrompt": "在浅灰白色背景上呈现一张干净的编辑风时尚拼贴图，带有细黑色矩形边框，呈现出极简杂志穿搭项目风格。将穿搭以平铺构图置于中心，包含 5 件可见的时尚单品：左侧叠放一件亮色 {argument name=\"jacket color\" default=\"深红色\"} 短款拉链夹克，配有尖领和松紧下摆；下方叠穿一件合身的 {argument name=\"top color\" default=\"白色\"} 长袖圆领针织衫，露出肩部和袖子；下方为一条米白色大廓形中长款 A 字裙，裙身带有间距均匀的黑色大波点；左下角放置一个结构感十足的小号黑色手提包，配有短手柄和细腻的亮面鳄鱼纹理；右下角放置一双黑色方头玛丽珍平底鞋，配有宽带和银色金属圆环扣。在衣物后方的中间位置添加超大号的极浅灰色背景文字 {argument name=\"background brand text\" default=\"MANGO\"}，并进行拉伸处理。在布局周围放置较小的黑色时尚品牌标识：在穿搭右上角附近放置 {argument name=\"top right logo\" default=\"MANGO\"}，在手提包和鞋子附近放置“Stradivarius”，在裙摆附近的左下角放置“DOLCE & GABBANA”。整体构图应平衡、时髦且具有现代感，采用柔和的摄影棚灯光，无阴影或仅有淡淡的柔和阴影，边缘剪裁清晰，呈现出精致的社交媒体时尚项目美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "极简时尚风格项目穿搭：此提示词可生成带有品牌风格的干净编辑风穿搭拼贴图，适用于时尚灵感项目、社交媒体帖子及数字衣橱概念。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "layered"
+      ],
+      "style": [
+        "editorial",
+        "minimalist",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered]。\n\nVisual style:\n[参考风格: editorial, minimalist, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15787",
+      "14841",
+      "15448",
+      "15786",
+      "14949",
+      "15318"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "14816",
+  "prompt": "A minimalist monochrome fantasy portrait on a flat light gray background, centered with lots of empty negative space around the subject. Show a bust-length hooded rogue or medieval assassin facing slightly to the right, rendered as a high-contrast black ink illustration with dense stippling, scratchy engraving-like texture, and dramatic white highlights on the folds of the cloth. The figure wears a deep cowl and heavy hood that completely obscure the head and most of the face, plus a layered scarf wrapped around the neck and a single worn metal shoulder pauldron on the right side with visible rivets, scratches, and a leather strap crossing the chest. Replace the visible face area with a single vertical soft-edged blurred rectangle in gray-black tones, creating an intentional censored or glitched void where the face should be. Keep the composition simple: 1 character, 1 shoulder pauldron, 1 blurred rectangular face block, no additional props, no scenery, no text. Style it like a dark fantasy woodcut or vintage pen-and-ink print, isolated emblem-like portrait, stark black on pale gray.",
+  "translatedPrompt": "一张极简主义奇幻角色肖像，以纯浅灰色背景为中心，呈现黑白水墨插画风格的半身兜帽人物。角色身穿深色厚重的 {argument name=\"cloak color\" default=\"black\"} 兜帽和围巾状的头罩，严密包裹头部与颈部，衣褶丰富且阴影效果强烈。面部区域被 1 个无特征的矩形模糊或遮挡块覆盖，边缘柔和且呈垂直方向，位于兜帽下本应是面部的位置。角色右肩佩戴 1 个磨损的中世纪肩甲，由轻金属制成，带有明显的划痕、裂纹、铆钉和深色边缘，并通过 1 条皮革带和扣环横跨胸前。整个人物以高对比度的单色渲染，采用密集的点画法和类似雕刻的纹理，充满粗犷的奇幻 RPG 概念艺术感，无可见的眼睛或皮肤，无额外道具，无场景元素，留有大量负空间，构图简洁且居中。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "戴兜帽的神秘奇幻人物：此提示词可生成一张风格鲜明的黑白半身肖像，描绘了一位神秘的奇幻兜帽角色，非常适合用于暗黑风格的 RPG 品牌设计、头像或氛围感概念艺术。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "minimalist",
+        "vintage",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "禁止额外文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, layered, vertical]。\n\nVisual style:\n[参考风格: minimalist, vintage, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n禁止额外文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14865",
+      "15706",
+      "14408",
+      "14428",
+      "14508",
+      "14679"
+    ]
+  }
+}

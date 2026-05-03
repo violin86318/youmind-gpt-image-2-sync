@@ -1,0 +1,44 @@
+{
+  "id": "13806",
+  "prompt": "A photorealistic portrait of a young Asian woman with a {argument name=\"hair style and color\" default=\"short black bob haircut and bangs\"}, seen in profile. She is {argument name=\"action\" default=\"smoking a cigarette\"}, holding it to her lips with her right hand, with a thin trail of blue smoke rising. She is {argument name=\"setting\" default=\"leaning against a metal balcony railing at night\"}. She wears a {argument name=\"clothing\" default=\"white camisole and a light grey oversized cardigan that has slipped off her shoulder\"}, exposing her bare shoulder and back. She has a small pearl earring. The background is dark with blurred, out-of-focus warm city lights. The image features a {argument name=\"aesthetic\" default=\"cinematic, moody atmosphere with noticeable film grain and a direct flash photography aesthetic\"}.",
+  "translatedPrompt": "一张写实风格的年轻亚裔女性肖像，侧面视角，留着 {argument name=\"hair style and color\" default=\"黑色短波波头和刘海\"}。她正在 {argument name=\"action\" default=\"抽烟\"}，右手将烟卷递至唇边，一缕淡淡的蓝色烟雾升起。她 {argument name=\"setting\" default=\"在夜晚倚靠着金属阳台栏杆\"}。她穿着 {argument name=\"clothing\" default=\"白色吊带背心和一件从肩头滑落的浅灰色大码开衫\"}，露出了裸露的肩膀和背部。她戴着一枚小珍珠耳环。背景是一片漆黑，伴有模糊的暖色城市灯光。画面呈现出 {argument name=\"aesthetic\" default=\"电影感、情绪化的氛围，带有明显的胶片颗粒感和直闪摄影美学\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影感夜间女性肖像摄影：生成一张写实、充满情绪的夜间女性倚靠阳台肖像，非常适合电影角色概念设计。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "film grain"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: film grain]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13650",
+      "14012",
+      "15807",
+      "14579",
+      "14614",
+      "14667"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "14166",
+  "prompt": "{\n  \"type\": \"mobile social media app UI mockup\",\n  \"platform\": \"Twitter/X dark mode\",\n  \"header\": {\n    \"status_bar\": \"time 19:28, bird icon, signal, wifi, battery\",\n    \"navigation\": \"back arrow, 'Tweet' title\"\n  },\n  \"post\": {\n    \"author\": {\n      \"avatar\": \"portrait of a Chinese emperor in red robes and black hat\",\n      \"display_name\": \"{argument name=\\\"display name\\\" default=\\\"Emperor Zhu Yuanzhang\\\"} 👑 [verified badge]\",\n      \"handle\": \"{argument name=\\\"handle\\\" default=\\\"@Emperor_Ming\\\"}\"\n    },\n    \"content\": {\n      \"text\": \"{argument name=\\\"tweet text\\\" default=\\\"I have ascended to the Dragon Throne! Today, I am proclaimed as the Emperor of the Ming Dynasty. The era of Hongwu has begun. Let us rebuild our great nation together!\\\"}\",\n      \"hashtags\": \"#MingDynasty #HongwuEra #NewBeginning\",\n      \"media_grid\": {\n        \"count\": 3,\n        \"images\": [\n          \"emperor seated on an ornate golden throne in red and gold robes\",\n          \"wide shot of a grand Chinese palace courtyard with a large crowd\",\n          \"emperor on horseback leading an army with a red dragon banner\"\n        ]\n      }\n    },\n    \"metadata\": {\n      \"timestamp\": \"{argument name=\\\"timestamp\\\" default=\\\"1:36 PM · Jan 23, 1368\\\"}\",\n      \"engagement\": \"5,432 Retweets, 8,765 Quotes, 20.1K Likes, 102.3K Views\"\n    },\n    \"actions\": \"reply, retweet, like (red heart with '1'), share, upload\"\n  },\n  \"footer\": {\n    \"reply_bar\": {\n      \"avatar\": \"woman in red\",\n      \"placeholder\": \"Reply to Emperor Zhu Yuanzhang...\"\n    },\n    \"navigation_bar\": \"home, search, notifications (red '1' badge), messages\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"mobile social media app UI mockup\",\n  \"platform\": \"Twitter/X dark mode\",\n  \"header\": {\n    \"status_bar\": \"time 19:28, bird icon, signal, wifi, battery\",\n    \"navigation\": \"back arrow, 'Tweet' title\"\n  },\n  \"post\": {\n    \"author\": {\n      \"avatar\": \"portrait of a Chinese emperor in red robes and black hat\",\n      \"display_name\": \"{argument name=\\\"display name\\\" default=\\\"Emperor Zhu Yuanzhang\\\"} 👑 [verified badge]\",\n      \"handle\": \"{argument name=\\\"handle\\\" default=\\\"@Emperor_Ming\\\"}\"\n    },\n    \"content\": {\n      \"text\": \"{argument name=\\\"tweet text\\\" default=\\\"I have ascended to the Dragon Throne! Today, I am proclaimed as the Emperor of the Ming Dynasty. The era of Hongwu has begun. Let us rebuild our great nation together!\\\"}\",\n      \"hashtags\": \"#MingDynasty #HongwuEra #NewBeginning\",\n      \"media_grid\": {\n        \"count\": 3,\n        \"images\": [\n          \"emperor seated on an ornate golden throne in red and gold robes\",\n          \"wide shot of a grand Chinese palace courtyard with a large crowd\",\n          \"emperor on horseback leading an army with a red dragon banner\"\n        ]\n      }\n    },\n    \"metadata\": {\n      \"timestamp\": \"{argument name=\\\"timestamp\\\" default=\\\"1:36 PM · Jan 23, 1368\\\"}\",\n      \"engagement\": \"5,432 Retweets, 8,765 Quotes, 20.1K Likes, 102.3K Views\"\n    },\n    \"actions\": \"reply, retweet, like (red heart with '1'), share, upload\"\n  },\n  \"footer\": {\n    \"reply_bar\": {\n      \"avatar\": \"woman in red\",\n      \"placeholder\": \"Reply to Emperor Zhu Yuanzhang...\"\n    },\n    \"navigation_bar\": \"home, search, notifications (red '1' badge), messages\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Historical Figure Social Media Mockup：Generates a dark-mode social media post mockup featuring a historical figure with custom text, profile details, and a multi-image attachment grid.",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [
+        "wide shot",
+        "grid"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: wide shot, grid]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13591",
+      "14083",
+      "14091",
+      "13732",
+      "13762",
+      "13824"
+    ]
+  }
+}

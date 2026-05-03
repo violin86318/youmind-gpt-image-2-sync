@@ -1,0 +1,45 @@
+{
+  "id": "13949",
+  "prompt": "A first-person POV shot of a romantic dinner date with a {argument name=\"character\" default=\"Minecraft Creeper\"}. The scene is set in a {argument name=\"setting\" default=\"romantic dimly lit restaurant\"} with warm ambient lighting and a blurred background showing other tables and a window looking out into the night. The character is sitting directly across the table. Around its head are 7 {argument name=\"atmosphere effect\" default=\"floating 8-bit red hearts\"}. On the wooden table between the viewer and the character, there is a red and white checkered placemat. On it sits a voxel-style plate containing a {argument name=\"food\" default=\"blocky steak with red and green garnish\"}. To the left is a blocky, transparent wine glass filled with red wine. To the right is a blocky red rose in a transparent blocky vase. There are 2 glowing blocky candles in wooden holders on the table. The foreground shows the blurred edge of the viewer's own matching plate of food. The entire image blends realistic cinematic lighting and depth of field with voxel-based, 3D pixel-art objects.",
+  "translatedPrompt": "一段第一人称 POV 视角，与 {argument name=\"character\" default=\"Minecraft 苦力怕\"} 进行浪漫晚餐约会的画面。场景设定在一家 {argument name=\"setting\" default=\"浪漫且灯光昏暗的餐厅\"} 中，环境光温暖，背景虚化，可以看到其他餐桌和窗外的夜景。该角色正坐在桌子对面。它的头部周围环绕着 7 个 {argument name=\"atmosphere effect\" default=\"漂浮的 8-bit 红色爱心\"}。在观看者与角色之间的木桌上，铺着一张红白格纹的餐垫。餐垫上放着一个体素风格的盘子，里面装着 {argument name=\"food\" default=\"方块状牛排，配有红绿装饰\"}。左侧是一个透明的方块状红酒杯，里面盛着红酒。右侧是一个透明方块花瓶，插着一朵方块状红玫瑰。桌上还有 2 支放在木质烛台里的发光方块蜡烛。前景展示了观看者自己餐盘边缘的虚化效果。整张图像将逼真的电影级灯光和景深效果与基于体素的 3D 像素艺术物体完美融合。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "浪漫体素晚餐约会：生成一段以第一人称视角，与方块游戏角色进行浪漫晚餐约会的幽默场景。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic",
+        "3d"
+      ],
+      "lightingCamera": [
+        "depth of field"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic, 3d]。\n\nLighting and camera:\n[参考光线镜头: depth of field]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13917",
+      "13632",
+      "14724",
+      "14016",
+      "14506",
+      "14547"
+    ]
+  }
+}

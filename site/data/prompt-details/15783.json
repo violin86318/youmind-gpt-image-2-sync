@@ -1,0 +1,44 @@
+{
+  "id": "15783",
+  "prompt": "A vast cinematic sci-fi megacity at sunset, viewed from a high observation platform between colossal dark metallic skyscrapers. The sky glows with dramatic orange, gold, and rose clouds, with the sun low on the horizon casting warm light across an immense futuristic city that stretches into the distance above layers of mist and clouds. Count exactly 1 large hovering megastructure dominating the upper-right center, suspended over the city like a massive floating platform, surrounded by countless ultra-tall needle-like towers and luminous urban density below. Include exactly 1 foreground landing deck on the lower left with a small group of tiny human silhouettes standing near the edge, and exactly 1 sleek spacecraft departing from that platform with bright blue engine trails streaking diagonally outward. Scatter multiple small flying vehicles across the sky at varying distances, all dwarfed by the architecture. Frame the composition with dark structural elements on the far left and far right to create depth, as if looking out from inside a futuristic tower corridor or balcony. Style is hyper-detailed concept art, epic scale, atmospheric perspective, reflective metal surfaces, intricate city lights, volumetric clouds, subtle haze, dramatic contrast between warm sunset light and cool blue technological accents, ultra cinematic, grand futuristic utopia, highly polished digital matte painting.",
+  "translatedPrompt": "在日落时分，从高处的观景平台俯瞰广阔的电影感科幻大都市，周围是巨大的深色金属摩天大楼。天空呈现出戏剧性的橙色、金色和玫瑰色云彩，低垂的太阳将温暖的光芒洒向延伸至远方、笼罩在云雾之上的宏伟未来城市。画面右上角中心处有 1 个巨大的悬浮巨型结构，像巨大的浮动平台一样悬挂在城市上方，周围环绕着无数超高针状塔楼和下方灯火通明的密集城区。左下角包含 1 个前景着陆甲板，边缘站着一小群微小的人影，另有 1 艘流线型航天器正从该平台起飞，明亮的蓝色引擎轨迹向外呈对角线延伸。天空中散布着多辆小型飞行载具，在建筑群的衬托下显得格外渺小。画面左右两侧采用深色结构元素进行构图以营造深度感，仿佛从未来塔楼的走廊或阳台向外眺望。风格为超精细概念艺术、史诗级规模、大气透视、反光金属表面、错综复杂的城市灯光、体积云、轻微雾气、温暖日落光线与冷色调蓝色科技感之间的戏剧性对比，极具电影感，宏大的未来乌托邦，高度精致的数字绘景。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "未来主义日落大都市：此提示词可生成史诗级的电影感科幻城市景观，非常适合用于概念艺术、壁纸以及未来世界构建的视觉呈现。",
+      "subject": "空间",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "sci-fi"
+      ],
+      "lightingCamera": [
+        "volumetric"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, sci-fi]。\n\nLighting and camera:\n[参考光线镜头: volumetric]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15782",
+      "13655",
+      "14439",
+      "14931",
+      "13662",
+      "15282"
+    ]
+  }
+}

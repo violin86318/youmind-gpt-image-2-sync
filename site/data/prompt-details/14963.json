@@ -1,0 +1,51 @@
+{
+  "id": "14963",
+  "prompt": "{\"type\":\"hair salon catalog poster editorial layout\",\"style\":\"clean Japanese beauty salon brochure, soft natural light, premium magazine aesthetic, airy and minimal, warm neutral tones, elegant serif typography\",\"format\":\"vertical poster\",\"background\":\"bright white interior with sheer curtains and a soft blurred plant on the right edge\",\"branding\":{\"top_small_text\":\"– OUR STYLE BOOK –\",\"main_title\":\"HAIR CATALOG\",\"subtitle\":\"『なりたい』を叶える、 あなただけのヘアスタイルを。\",\"body_text\":\"人気のスタイルを集めました。 手癖やファッションに合わせて、 新しい自分を楽しみましょう。\",\"salon_name\":\"hair salon {argument name=\\\"salon name\\\" default=\\\"Lucia\\\"}\"},\"layout\":{\"sections\":[{\"title\":\"hero cover image\",\"position\":\"top right\",\"count\":1,\"description\":\"large half-body portrait of an adult Japanese woman in a sheer white blouse, seated in profile turned slightly toward camera, shoulder-length medium brown layered hair with soft bends, natural salon finish\"},{\"title\":\"style cards row 1\",\"position\":\"middle\",\"count\":3,\"labels\":[\"01 くびれレイヤー\",\"02 ナチュラル ショートボブ\",\"03 ゆるふわ ミディアムパーマ\"]},{\"title\":\"style cards row 2\",\"position\":\"lower middle\",\"count\":3,\"labels\":[\"04 切りっぱなし ボブ\",\"05 韓国風 レイヤーロング\",\"06 ハンサム ショート\"]},{\"title\":\"bottom information bar\",\"position\":\"bottom\",\"count\":4,\"labels\":[\"hair salon Lucia contact block\",\"ご予約はこちら\",\"QR code\",\"Follow us!\"]}],\"card_structure\":\"each of the 6 hairstyle cards contains 1 large main portrait, a large two-digit number, a Japanese hairstyle title, a short Japanese description with the heading -- style point --, 2 small beige tag buttons, and 3 thumbnail views labeled SIDE, BACK, SIDE\",\"thumbnail_count_per_card\":3,\"total_thumbnails\":18},\"subjects\":{\"models\":[{\"card\":\"01\",\"hairstyle\":\"medium-length lob with inward-curving layered ends and soft face-framing pieces, medium brown\",\"outfit\":\"ivory knit sleeveless top\"},{\"card\":\"02\",\"hairstyle\":\"natural short bob, neat rounded silhouette, tucked side, ash brown\",\"outfit\":\"white sleeveless blouse\"},{\"card\":\"03\",\"hairstyle\":\"soft fluffy medium perm, wavy shoulder-length dark brown hair\",\"outfit\":\"loose white blouse\"},{\"card\":\"04\",\"hairstyle\":\"blunt cut straight bob with glossy finish, chin length, dark brown\",\"outfit\":\"sheer beige top over light inner layer\"},{\"card\":\"05\",\"hairstyle\":\"Korean-style long layers, center part, long dark brown waves with volume\",\"outfit\":\"simple white top\"},{\"card\":\"06\",\"hairstyle\":\"handsome short pixie, tapered nape, side-swept top, dark ash brown\",\"outfit\":\"black tailored jacket\"}],\"hero_model\":{\"hair\":\"soft layered shoulder-length cut with feathered ends\",\"hair_color\":\"{argument name=\\\"hair color\\\" default=\\\"rich medium brown\\\"}\",\"outfit\":\"translucent white blouse\",\"mood\":\"refined, approachable, modern\"}},\"text_details\":{\"style_point_heading\":\"-- style point --\",\"social_handle\":\"@lucia_hair_salon\",\"reservation_text\":\"WEB・お電話・LINEにて ご予約いただけます。 WEB予約\",\"contact_text\":\"〒150-0001 東京都渋谷区神宮前 1-1-1 Luciaビル2F TEL 03-1234-5678 / OPEN 10:00 - 20:00 (火曜定休) www.lucia-hair.com\"},\"visual_notes\":\"all faces are obscured with soft rectangular blur blocks, catalog grid has generous white margins, thin dividers, light beige accent boxes, and delicate botanical line illustrations near the logo and bottom right\",\"camera\":\"straight-on full poster view, flat editorial composition\",\"quality\":\"high-resolution print-ready salon catalog cover and hairstyle guide\"}",
+  "translatedPrompt": "{\"type\":\"美发沙龙目录海报编辑排版\",\"style\":\"简洁日式美容沙龙宣传册，柔和自然光，高级杂志美学，通透极简，温暖中性色调，优雅衬线字体\",\"format\":\"竖版海报\",\"background\":\"明亮的白色室内，配有透明窗帘，右侧边缘有柔和虚化的植物\",\"branding\":{\"top_small_text\":\"– OUR STYLE BOOK –\",\"main_title\":\"HAIR CATALOG\",\"subtitle\":\"『なりたい』を叶える、 あなただけのヘアスタイルを。\",\"body_text\":\"人気のスタイルを集めました。 手癖やファッションに合わせて、 新しい自分を楽しみましょう。\",\"salon_name\":\"hair salon {argument name=\\\"salon name\\\" default=\\\"Lucia\\\"}\"},\"layout\":{\"sections\":[{\"title\":\"hero cover image\",\"position\":\"top right\",\"count\":1,\"description\":\"一位成年日本女性的半身肖像，身穿透明感白色衬衫，侧身坐着并略微转向镜头，中长棕色层次感发型，带有柔和的卷度，呈现自然的沙龙质感\"},{\"title\":\"style cards row 1\",\"position\":\"middle\",\"count\":3,\"labels\":[\"01 くびれレイヤー\",\"02 ナチュラル ショートボブ\",\"03 ゆるふわ ミディアムパーマ\"]},{\"title\":\"style cards row 2\",\"position\":\"lower middle\",\"count\":3,\"labels\":[\"04 切りっぱなし ボブ\",\"05 韓国風 レイヤーロング\",\"06 ハンサム ショート\"]},{\"title\":\"bottom information bar\",\"position\":\"bottom\",\"count\":4,\"labels\":[\"hair salon Lucia contact block\",\"ご予約はこちら\",\"QR code\",\"Follow us!\"]}],\"card_structure\":\"6 张发型卡片中的每一张都包含 1 张大型主肖像、一个大号两位数编号、一个日文发型标题、一段带有 -- style point -- 标题的简短日文描述、2 个小型米色标签按钮，以及 3 个分别标注为 SIDE、BACK、SIDE 的缩略图视图\",\"thumbnail_count_per_card\":3,\"total_thumbnails\":18},\"subjects\":{\"models\":[{\"card\":\"01\",\"hairstyle\":\"中长锁骨发，发尾内扣层次感，带有柔和的修饰脸型发丝，中棕色\",\"outfit\":\"象牙白针织无袖上衣\"},{\"card\":\"02\",\"hairstyle\":\"自然短波波头，圆润整洁的轮廓，侧边别在耳后，灰棕色\",\"outfit\":\"白色无袖衬衫\"},{\"card\":\"03\",\"hairstyle\":\"柔和蓬松中长烫发，波浪感及肩深棕色头发\",\"outfit\":\"宽松白色衬衫\"},{\"card\":\"04\",\"hairstyle\":\"一刀切直发波波头，光泽感，下巴长度，深棕色\",\"outfit\":\"米色透视上衣，内搭浅色内衬\"},{\"card\":\"05\",\"hairstyle\":\"韩式长层次发型，中分，深棕色长波浪，富有空气感\",\"outfit\":\"简约白色上衣\"},{\"card\":\"06\",\"hairstyle\":\"帅气短精灵发型，后颈修剪利落，顶部侧分，深灰棕色\",\"outfit\":\"黑色剪裁西装外套\"}],\"hero_model\":{\"hair\":\"柔和层次感及肩发，发尾轻盈\",\"hair_color\":\"{argument name=\\\"hair color\\\" default=\\\"浓郁中棕色\\\"}\",\"outfit\":\"半透明白色衬衫\",\"mood\":\"精致、亲和、现代\"}},\"text_details\":{\"style_point_heading\":\"-- style point --\",\"social_handle\":\"@lucia_hair_salon\",\"reservation_text\":\"WEB・お電話・LINEにて ご予約いただけます。 WEB予約\",\"contact_text\":\"〒150-0001 東京都渋谷区神宮前 1-1-1 Luciaビル2F TEL 03-1234-5678 / OPEN 10:00 - 20:00 (火曜定休) www.lucia-hair.com\"},\"visual_notes\":\"所有面部均使用柔和的矩形模糊块遮盖，目录网格具有宽敞的白色边距、细分割线、浅米色强调框，以及在 Logo 和右下角附近的精致植物线条插画\",\"camera\":\"正面对齐全海报视角，扁平化编辑构图\",\"quality\":\"高分辨率可打印沙龙目录封面及发型指南\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日式美发沙龙目录海报：一款简洁的编辑风美发沙龙发型目录海报，包含六张带标签的发型卡片和一张大型主视觉模特图，非常适合美容宣传册、沙龙促销和发型图册使用。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "grid",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "editorial",
+        "premium"
+      ],
+      "lightingCamera": [
+        "natural light",
+        "camera"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, layered, vertical]。\n\nVisual style:\n[参考风格: editorial, premium]。\n\nLighting and camera:\n[参考光线镜头: natural light, camera]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15684",
+      "15787",
+      "15685",
+      "15682",
+      "15786",
+      "14500"
+    ]
+  }
+}

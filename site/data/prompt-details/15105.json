@@ -1,0 +1,53 @@
+{
+  "id": "15105",
+  "prompt": "A dramatic photorealistic fast-food hero shot of a giant crispy fried chicken sandwich and a side basket of loaded fries on a dark restaurant table. The sandwich is centered slightly left and stacked tall with a glossy brioche bun, spicy orange sauce on the top bun, 2 purple-red onion rings, 3 pickle slices, 2 tomato slices, melted cheddar cheese dripping over an extra-crunchy fried chicken fillet, curly green leaf lettuce, and more creamy orange sauce dripping from the bottom bun. To the right, show a black wire basket filled with thick-cut fries topped with crunchy fried chicken bites, white drizzle sauce, and small green herb garnish. Freeze motion with multiple splashes and droplets of orange sauce exploding upward and around the burger, plus floating crumbs and seasoning particles in the air. Use warm cinematic lighting, deep shadows, high contrast, shallow depth of field, rich golden-brown textures, glossy highlights on the bun and sauce, and a moody blurred bokeh background in an upscale casual restaurant setting. Camera angle is low and close, 3/4 front view, sharp focus on the burger, fries slightly secondary but still detailed. Dark slate serving plate, scattered crumbs and sauce drips on the surface. Add a clean white {argument name=\"brand text\" default=\"Pollo.ai\"} logo in the top-right corner.",
+  "translatedPrompt": "一张极具视觉冲击力的照片级快餐主打产品特写，展示了一个巨大的脆皮炸鸡三明治和一篮配料丰富的薯条，放置在深色的餐厅餐桌上。三明治位于画面中左侧，堆叠得很高，配有光亮的布里欧修面包，顶部面包涂有辛辣的橙色酱汁，放有 2 片紫红色洋葱圈、3 片酸黄瓜、2 片番茄，融化的切达干酪淋在超脆的炸鸡排上，配有卷曲的绿叶生菜，底部面包也淋有更多奶油状的橙色酱汁。右侧放置一个黑色金属丝篮，里面装满厚切薯条，顶部撒有脆炸鸡块、白色淋酱和少量绿色香草装饰。采用定格拍摄效果，橙色酱汁飞溅出水滴，向上方及汉堡周围迸发，空气中漂浮着面包屑和调味料颗粒。使用温暖的电影级灯光、深邃的阴影、高对比度、浅景深，呈现丰富的金棕色质感，面包和酱汁带有光泽感，背景为高档休闲餐厅中模糊的虚化效果。相机角度低且近，呈 3/4 正面视角，焦点清晰地对准汉堡，薯条略微次要但细节依然丰富。深色石板餐盘，表面散落着面包屑和酱汁滴。在右上角添加一个简洁的白色 {argument name=\"brand text\" default=\"Pollo.ai\"} 标志。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影级炸鸡汉堡广告：此提示词可生成一张照片级逼真的餐厅风格炸鸡汉堡配薯条广告图，非常适合快餐品牌推广及社交媒体宣传。",
+      "subject": "食物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "hero shot"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "high contrast",
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, hero shot]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: high contrast, shallow depth, depth of field, camera]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15766",
+      "15778",
+      "14831",
+      "15609",
+      "15754",
+      "14806"
+    ]
+  }
+}

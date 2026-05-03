@@ -1,0 +1,37 @@
+{
+  "id": "14278",
+  "prompt": "{\n  \"type\": \"skincare e-commerce landing page mockup\",\n  \"brand\": \"{argument name=\\\"brand name\\\" default=\\\"DERMA CALM\\\"}\",\n  \"color_palette\": [\"white\", \"light blue\", \"{argument name=\\\"primary color\\\" default=\\\"dark blue\\\"}\"],\n  \"layout\": {\n    \"header\": {\n      \"logo\": \"left-aligned brand name with Japanese subtext\",\n      \"navigation_links\": {\n        \"count\": 6,\n        \"labels\": [\"ABOUT\", \"PRODUCT\", \"FEATURE\", \"INGREDIENT\", \"VOICE\", \"Q&A\"]\n      },\n      \"buttons\": {\n        \"count\": 2,\n        \"labels\": [\"マイページ\", \"今すぐ購入する\"]\n      }\n    },\n    \"hero_section\": {\n      \"left_column\": {\n        \"headline\": \"{argument name=\\\"hero headline\\\" default=\\\"敏感な肌にも、毎日つづけられる安心ケア。\\\"}\",\n        \"subtext\": \"paragraph detailing low irritation, moisturizing, fragrance-free, and alcohol-free benefits\",\n        \"buttons\": {\n          \"count\": 2,\n          \"labels\": [\"今すぐ購入する\", \"詳しく見る\"]\n        }\n      },\n      \"center_column\": {\n        \"product\": \"white pump bottle with clear cap labeled {argument name=\\\"product type\\\" default=\\\"Moisture Barrier Serum\\\"}\",\n        \"props\": [\"dollop of white cream\", \"circular badge reading 皮膚科医監修\"]\n      },\n      \"right_column\": {\n        \"subject\": \"{argument name=\\\"model description\\\" default=\\\"young East Asian woman with clear glowing skin touching her cheek\\\"}\",\n        \"background\": \"blurred laboratory glassware in a bright, clean clinical setting\"\n      }\n    },\n    \"bottom_features_panel\": {\n      \"left_cards\": {\n        \"count\": 3,\n        \"descriptions\": [\"95% satisfaction with 5 stars\", \"shield icon for low irritation formula\", \"drop icon for skin barrier support\"]\n      },\n      \"right_badges\": {\n        \"count\": 3,\n        \"descriptions\": [\"no fragrance icon\", \"no alcohol icon\", \"patch tested icon\"]\n      },\n      \"footer\": \"fine print disclaimers at the bottom\"\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"skincare e-commerce landing page mockup\",\n  \"brand\": \"{argument name=\\\"brand name\\\" default=\\\"DERMA CALM\\\"}\",\n  \"color_palette\": [\"white\", \"light blue\", \"{argument name=\\\"primary color\\\" default=\\\"dark blue\\\"}\"],\n  \"layout\": {\n    \"header\": {\n      \"logo\": \"left-aligned brand name with Japanese subtext\",\n      \"navigation_links\": {\n        \"count\": 6,\n        \"labels\": [\"ABOUT\", \"PRODUCT\", \"FEATURE\", \"INGREDIENT\", \"VOICE\", \"Q&A\"]\n      },\n      \"buttons\": {\n        \"count\": 2,\n        \"labels\": [\"マイページ\", \"今すぐ購入する\"]\n      }\n    },\n    \"hero_section\": {\n      \"left_column\": {\n        \"headline\": \"{argument name=\\\"hero headline\\\" default=\\\"敏感な肌にも、毎日つづけられる安心ケア。\\\"}\",\n        \"subtext\": \"paragraph detailing low irritation, moisturizing, fragrance-free, and alcohol-free benefits\",\n        \"buttons\": {\n          \"count\": 2,\n          \"labels\": [\"今すぐ購入する\", \"詳しく見る\"]\n        }\n      },\n      \"center_column\": {\n        \"product\": \"white pump bottle with clear cap labeled {argument name=\\\"product type\\\" default=\\\"Moisture Barrier Serum\\\"}\",\n        \"props\": [\"dollop of white cream\", \"circular badge reading 皮膚科医監修\"]\n      },\n      \"right_column\": {\n        \"subject\": \"{argument name=\\\"model description\\\" default=\\\"young East Asian woman with clear glowing skin touching her cheek\\\"}\",\n        \"background\": \"blurred laboratory glassware in a bright, clean clinical setting\"\n      }\n    },\n    \"bottom_features_panel\": {\n      \"left_cards\": {\n        \"count\": 3,\n        \"descriptions\": [\"95% satisfaction with 5 stars\", \"shield icon for low irritation formula\", \"drop icon for skin barrier support\"]\n      },\n      \"right_badges\": {\n        \"count\": 3,\n        \"descriptions\": [\"no fragrance icon\", \"no alcohol icon\", \"patch tested icon\"]\n      },\n      \"footer\": \"fine print disclaimers at the bottom\"\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Skincare E-commerce Landing Page Mockup：Generates a clean, clinical web design mockup for a skincare brand featuring a hero image, product shot, and feature highlights.",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14041",
+      "14208",
+      "14274",
+      "14276",
+      "14277",
+      "14864"
+    ]
+  }
+}

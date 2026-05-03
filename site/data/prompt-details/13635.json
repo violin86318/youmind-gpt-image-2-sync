@@ -1,0 +1,39 @@
+{
+  "id": "13635",
+  "prompt": "An anime-style illustration of {argument name=\"character identity\" default=\"Tokitsukaze from Kantai Collection\"}, a young girl with fluffy short purple hair wearing a small black sailor hat with a gold anchor emblem perched on the side of her head. She has a {argument name=\"facial expression\" default=\"big bright smile with closed eyes and blushing cheeks\"}. She is wearing a white long-sleeved sailor uniform with a blue collar, a yellow neckerchief secured by a dark anchor-shaped clasp, and brown leather straps across her torso. Dark grey ship rigging cannons are visible mounted behind her back. She is {argument name=\"pose\" default=\"saluting with her right hand\"} near her forehead. The scene is set against a {argument name=\"background\" default=\"sunny beach with blue ocean, white waves, and distant green cliffs under a clear blue sky\"}. The lighting is bright and vibrant, highlighting the cheerful atmosphere.",
+  "translatedPrompt": "一张动漫风格的插画，主角是 {argument name=\"character identity\" default=\"《舰队 Collection》中的时津风\"}，一位留着蓬松紫色短发的少女，头侧戴着一顶带有金色船锚徽章的小巧黑色水手帽。她有着 {argument name=\"facial expression\" default=\"闭眼大笑、双颊绯红的表情\"}。她身穿白色长袖水手服，配有蓝色领子，黄色领巾由深色船锚状领结固定，躯干上系着棕色皮带。她身后安装着深灰色的舰装火炮。她正 {argument name=\"pose\" default=\"用右手向额头敬礼\"}。场景设定在 {argument name=\"background\" default=\"阳光明媚的海滩，背景是湛蓝的大海、白色的浪花以及晴空下远处的绿色悬崖\"}。光线明亮且充满活力，突显了欢快的氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "海滩上敬礼的动漫舰娘：生成一张动漫风格的插画，描绘了一位在阳光明媚的海滩上敬礼的开朗舰娘。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13595",
+      "13618",
+      "13654",
+      "13672",
+      "13800",
+      "13829"
+    ]
+  }
+}

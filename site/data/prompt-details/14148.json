@@ -1,0 +1,42 @@
+{
+  "id": "14148",
+  "prompt": "A photorealistic amateur photograph of a custom building block set resting on a light wood grain table in a living room. In the background stands a large product box with a red logo reading \"{argument name=\"brand name\" default=\"BRICKLY\"} BUILDING SETS\". The box features text reading \"8+\", \"540 PCS\", \"5 FIGURES\", and the main large title \"{argument name=\"set title\" default=\"WATTERSON FAMILY HOUSE\"}\". A red circular badge on the box reads \"CUSTOM SET FAN DESIGN\", and the box art depicts the house and characters under a blue sky. In the foreground sits the fully assembled block model of a {argument name=\"house color\" default=\"blue\"} two-story suburban house with a brown roof, white porch, red steps, a white picket fence, and a blocky green tree. To the left of the house is a built block model of a {argument name=\"car color\" default=\"pink\"} station wagon. Standing in a row in front of the house are exactly 5 custom block minifigures: a blue cat in tan pants, an orange fish with legs, a tall pink rabbit in a white shirt and tie, a blue cat in a white shirt, and a small pink rabbit in an orange dress. The background is a slightly blurred living room with a grey sofa and white blinds.",
+  "translatedPrompt": "A photorealistic amateur photograph of a custom building block set resting on a light wood grain table in a living room. In the background stands a large product box with a red logo reading \"{argument name=\"brand name\" default=\"BRICKLY\"} BUILDING SETS\". The box features text reading \"8+\", \"540 PCS\", \"5 FIGURES\", and the main large title \"{argument name=\"set title\" default=\"WATTERSON FAMILY HOUSE\"}\". A red circular badge on the box reads \"CUSTOM SET FAN DESIGN\", and the box art depicts the house and characters under a blue sky. In the foreground sits the fully assembled block model of a {argument name=\"house color\" default=\"blue\"} two-story suburban house with a brown roof, white porch, red steps, a white picket fence, and a blocky green tree. To the left of the house is a built block model of a {argument name=\"car color\" default=\"pink\"} station wagon. Standing in a row in front of the house are exactly 5 custom block minifigures: a blue cat in tan pants, an orange fish with legs, a tall pink rabbit in a white shirt and tie, a blue cat in a white shirt, and a small pink rabbit in an orange dress. The background is a slightly blurred living room with a grey sofa and white blinds.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Custom Building Block Set Photography：Generates a photorealistic image of a custom toy building set with its box, assembled house, vehicle, and minifigures on a table.",
+      "subject": "产品",
+      "scene": "摄影/真实场景",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14406",
+      "14860",
+      "14967",
+      "14632",
+      "13604",
+      "14604"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "13935",
+  "prompt": "{\n  \"type\": \"anime character reference sheet\",\n  \"character\": {\n    \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"blonde\\\"}\",\n    \"eyes\": \"{argument name=\\\"eye color\\\" default=\\\"blue\\\"}\",\n    \"outfit\": \"{argument name=\\\"uniform style\\\" default=\\\"military-style dress with white trim\\\"}\",\n    \"main_color\": \"{argument name=\\\"uniform main color\\\" default=\\\"blue\\\"}\"\n  },\n  \"layout\": {\n    \"top_section\": {\n      \"description\": \"Full body turnaround\",\n      \"count\": 3,\n      \"views\": [\"front\", \"side\", \"back\"]\n    },\n    \"bottom_left_top\": {\n      \"description\": \"Facial expressions\",\n      \"count\": 6,\n      \"expressions\": [\"neutral\", \"winking smile\", \"open mouth smile\", \"slight smile\", \"shy\", \"gentle smile\"]\n    },\n    \"bottom_left_bottom\": {\n      \"description\": \"Accessories and details\",\n      \"count\": 5,\n      \"items\": [\"beret\", \"leg with black tights and blue heel with fin attachment\", \"blue and white ribbon bow\", \"upper uniform torso\", \"pair of gloves\"]\n    },\n    \"bottom_right_top\": {\n      \"description\": \"Outfit breakdown\",\n      \"count\": 3,\n      \"items\": [\"front coat and ruffled skirt\", \"back of jacket\", \"back of skirt\"]\n    },\n    \"bottom_right_middle\": {\n      \"description\": \"Additional details and color palette\",\n      \"items\": [\"pair of blue heels\", \"single glove\"],\n      \"color_palette_count\": 8\n    },\n    \"bottom_right_bottom\": {\n      \"description\": \"Text box\",\n      \"label\": \"SETTING & NOTES\"\n    }\n  },\n  \"style\": \"clean anime art style, white background with subtle horizontal lines, decorative vintage borders\"\n}",
+  "translatedPrompt": "{\n  \"type\": \"动漫角色参考图\",\n  \"character\": {\n    \"hair\": \"{argument name=\\\"发色\\\" default=\\\"金色\\\"}\",\n    \"eyes\": \"{argument name=\\\"眼睛颜色\\\" default=\\\"蓝色\\\"}\",\n    \"outfit\": \"{argument name=\\\"制服风格\\\" default=\\\"带白色饰边的军装风格连衣裙\\\"}\",\n    \"main_color\": \"{argument name=\\\"制服主色调\\\" default=\\\"蓝色\\\"}\"\n  },\n  \"layout\": {\n    \"top_section\": {\n      \"description\": \"全身三视图\",\n      \"count\": 3,\n      \"views\": [\"正面\", \"侧面\", \"背面\"]\n    },\n    \"bottom_left_top\": {\n      \"description\": \"面部表情\",\n      \"count\": 6,\n      \"expressions\": [\"中性\", \"眨眼微笑\", \"张嘴笑\", \"浅笑\", \"害羞\", \"温柔微笑\"]\n    },\n    \"bottom_left_bottom\": {\n      \"description\": \"配饰与细节\",\n      \"count\": 5,\n      \"items\": [\"贝雷帽\", \"带有黑色连裤袜和蓝色鱼鳍装饰高跟鞋的腿部\", \"蓝白相间的蝴蝶结\", \"制服上衣躯干\", \"手套一对\"]\n    },\n    \"bottom_right_top\": {\n      \"description\": \"服装拆解\",\n      \"count\": 3,\n      \"items\": [\"外套正面与荷叶边裙摆\", \"夹克背面\", \"裙子背面\"]\n    },\n    \"bottom_right_middle\": {\n      \"description\": \"额外细节与配色方案\",\n      \"items\": [\"蓝色高跟鞋一对\", \"单只手套\"],\n      \"color_palette_count\": 8\n    },\n    \"bottom_right_bottom\": {\n      \"description\": \"文本框\",\n      \"label\": \"设定与备注\"\n    }\n  },\n  \"style\": \"简洁的动漫艺术风格，白色背景配以细微的水平线，装饰性复古边框\"\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫角色设计参考图：生成一份综合性的动漫角色参考图，包括全身三视图、表情变化以及详细的服装拆解。",
+      "subject": "服饰",
+      "scene": "人物/角色",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [
+        "anime",
+        "vintage"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[参考风格: anime, vintage]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14544",
+      "15779",
+      "15364",
+      "15701",
+      "14637",
+      "13744"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "14033",
+  "prompt": "A photorealistic scene of a massive metallic rocket hovering horizontally at a very low altitude over a {argument name=\"setting\" default=\"residential neighborhood with palm trees\"}. The side of the silver spacecraft clearly displays the text {argument name=\"company name\" default=\"SPACEX\"}. Bright orange flames and thick smoke erupt from the rear engines. The foreground features a dark concrete rooftop, while the background shows small multi-story buildings nestled among tropical vegetation under hazy {argument name=\"lighting\" default=\"sunset\"} lighting, creating a surreal juxtaposition of advanced aerospace technology and everyday life.",
+  "translatedPrompt": "一张写实风格的场景图，展示了一枚巨大的金属火箭在 {argument name=\"setting\" default=\"种有棕榈树的住宅区\"} 上方极低的高度水平悬停。银色航天器的侧面清晰地显示着 {argument name=\"company name\" default=\"SPACEX\"} 字样。尾部引擎喷射出明亮的橙色火焰和浓烟。前景是深色的混凝土屋顶，背景是在朦胧的 {argument name=\"lighting\" default=\"日落\"} 光线下，掩映在热带植被中的小型多层建筑，营造出先进航天科技与日常生活之间超现实的并置感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "低空悬停在社区上空的航天器：生成一张巨大的火箭水平悬停在住宅区上空的写实图像，适用于超现实科幻概念设计。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15613",
+      "15226",
+      "15795",
+      "14695",
+      "14891",
+      "14984"
+    ]
+  }
+}

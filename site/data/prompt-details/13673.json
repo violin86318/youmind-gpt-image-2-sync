@@ -1,0 +1,42 @@
+{
+  "id": "13673",
+  "prompt": "A first-person perspective shot of a user looking at a {argument name=\"device type\" default=\"retro-futuristic wrist-mounted computer resembling a Pip-Boy\"}. The device has a weathered olive-drab metal casing, various analog dials, a glowing orange power button, and a radiation gauge. A hand on the right side is adjusting a large black dial. The curved screen of the device is displaying {argument name=\"screen content\" default=\"the classic video game Super Mario Bros, specifically World 1-1\"}. The game is rendered in {argument name=\"screen style\" default=\"monochrome green CRT pixel art with scanlines\"}, showing the player character facing an enemy near a pipe and floating blocks, with text at the top reading \"MARIO 000100\", a coin icon with \"x00\", \"WORLD 1-1\", and \"TIME 388\". The background is a {argument name=\"background setting\" default=\"blurred post-apocalyptic wasteland\"} in daylight.",
+  "translatedPrompt": "一个第一人称视角的镜头，展示了一台饱经风霜、橄榄绿色的复古未来主义腕戴式计算机，一只手正在操作右侧的旋钮。该设备配有一个发光的橙色电源指示灯、“RADS”仪表，以及 5 个垂直标签，分别标注为“STAT”、“INV”、“DATA”、“MAP”和“RADIO”。弧形的 CRT 屏幕上显示着 {argument name=\"screen color\" default=\"单色绿色\"} 的 8 位视频游戏场景，游戏为 {argument name=\"game title\" default=\"超级马力欧兄弟\"}。游戏画面显示了一个像素化的角色面对着一个敌方蘑菇、一根水管、带有两个问号砖块的浮动砖块，以及背景中的山丘和云朵。游戏屏幕顶部显示着文本“MARIO 000100”、一个带有“x00”的硬币图标、“WORLD 1-1”以及“TIME 388”。设备背景为 {argument name=\"background setting\" default=\"模糊的后启示录废土\"}，处于明亮的日光之下。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "腕戴式计算机上的复古游戏：生成一个第一人称视角的复古未来主义腕戴式计算机，屏幕上正在运行一款经典的 8 位视频游戏。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "retro",
+        "pixel art"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: retro, pixel art]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13770",
+      "15623",
+      "13467",
+      "13596",
+      "13607",
+      "13613"
+    ]
+  }
+}

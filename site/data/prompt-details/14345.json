@@ -1,0 +1,35 @@
+{
+  "id": "14345",
+  "prompt": "架空の{argument name=\"テーマ\" default=\"ファンタジー世界の料理\"}のレシピの画像を作成。イラストor写真付きで、料理の工程をできるだけ詳しく表記。実在しないファンタジー世界の材料をメインに使用する。デザイン的にも美しくなるように紙面構成。言語は日本語。",
+  "translatedPrompt": "创作一张虚构 {argument name=\"theme\" default=\"奇幻世界菜肴\"} 的食谱图片。包含插画或照片，并尽可能详细地描述烹饪过程。主要使用虚构的奇幻世界食材。页面排版需美观大方。语言要求为日语。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奇幻食谱插画：一份详细的提示词，用于创作虚构奇幻世界菜肴的插画或摄影风格食谱，包含烹饪步骤及精美的排版设计。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

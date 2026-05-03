@@ -1,0 +1,36 @@
+{
+  "id": "13645",
+  "prompt": "Amateur iPhone photo of {argument name=\"subject\" default=\"Kylian Mbappé\"} in tears, wearing a {argument name=\"team jersey\" default=\"Real Madrid jersey\"} on the pitch, looking devastated. In the background, {argument name=\"opponent players\" default=\"Bayern Munich players in red kits\"} are visible. Shot from the stands close to the field, at night inside the {argument name=\"stadium\" default=\"Allianz Arena\"}",
+  "translatedPrompt": "由 iPhone 拍摄的业余照片，画面中 {argument name=\"player\" default=\"Kylian Mbappé\"} 泪流满面，身穿 {argument name=\"team jersey\" default=\"Real Madrid\"} 球衣站在球场上，神情沮丧。背景中可以看到身穿红色球衣的拜仁慕尼黑队球员。拍摄视角为 {argument name=\"shooting angle\" default=\"靠近球场的看台\"}，场景位于夜晚的安联球场内",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "充满情感的足球比赛照片：一份详细的提示词，用于创作一张业余风格的体育场照片，展示身穿特定球衣且情绪激动的著名足球运动员。",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "App Store 截图、产品概念、移动工具界面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13583",
+      "13585",
+      "13648",
+      "13708",
+      "13710",
+      "13713"
+    ]
+  }
+}

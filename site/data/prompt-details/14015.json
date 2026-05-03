@@ -1,0 +1,49 @@
+{
+  "id": "14015",
+  "prompt": "{\n  \"type\": \"photorealistic photograph of a printed newspaper\",\n  \"style\": \"realistic paper texture, slightly angled top-down view, natural lighting\",\n  \"header\": {\n    \"left_logo\": \"SHINSEGAE DUTY FREE\",\n    \"center_title\": \"{argument name=\\\"newspaper name\\\" default=\\\"한국경제\\\"}\",\n    \"right_logo\": \"Myeongryun Jinsa Galbi\",\n    \"date\": \"{argument name=\\\"date\\\" default=\\\"2026년 4월 23일 목요일\\\"}\"\n  },\n  \"headlines\": {\n    \"main\": \"{argument name=\\\"main headline\\\" default=\\\"오픈AI, 차세대 모델 'Spud' 공개 코딩·사이버전 벤치마크 석권\\\"}\",\n    \"sub\": \"New super app 'Codex' also launched... Will it be a game changer in the AI war?\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"center graphic\",\n        \"position\": \"middle\",\n        \"text\": \"Introducing {argument name=\\\"app name\\\" default=\\\"Codex\\\"} The Super App for Everyone\",\n        \"ui_screens_count\": 3,\n        \"ui_screens_labels\": [\n          \"menu list with options like Write code and Analyze data\",\n          \"analytics dashboard with a purple line chart\",\n          \"code editor showing python fibonacci function\"\n        ]\n      },\n      {\n        \"title\": \"article columns\",\n        \"position\": \"surrounding center graphic\",\n        \"count\": 3,\n        \"labels\": [\n          \"left column with article text\",\n          \"middle column under graphic\",\n          \"right column with bullet points\"\n        ]\n      },\n      {\n        \"title\": \"bottom section\",\n        \"position\": \"bottom\",\n        \"headline\": \"{argument name=\\\"bottom headline\\\" default=\\\"뉴욕증시, AI 랠리에 일제 상승…나스닥 2.7% ↑\\\"}\",\n        \"ad_box\": \"Dark blue box with text World's No. 1 Memory Semiconductor Company Samsung Electronics\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"印刷报纸的照片级真实感摄影\",\n  \"style\": \"真实的纸张纹理，略带角度的俯视图，自然光效\",\n  \"header\": {\n    \"left_logo\": \"SHINSEGAE DUTY FREE\",\n    \"center_title\": \"{argument name=\\\"newspaper name\\\" default=\\\"韩国经济\\\"}\",\n    \"right_logo\": \"Myeongryun Jinsa Galbi\",\n    \"date\": \"{argument name=\\\"date\\\" default=\\\"2026 年 4 月 23 日 星期四\\\"}\"\n  },\n  \"headlines\": {\n    \"main\": \"{argument name=\\\"main headline\\\" default=\\\"OpenAI 发布下一代模型 'Spud'，横扫编码与网络战基准测试\\\"}\",\n    \"sub\": \"全新超级应用 'Codex' 同步上线……它会成为 AI 战争中的游戏规则改变者吗？\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"中心图形\",\n        \"position\": \"中间\",\n        \"text\": \"隆重推出 {argument name=\\\"app name\\\" default=\\\"Codex\\\"}，面向所有人的超级应用\",\n        \"ui_screens_count\": 3,\n        \"ui_screens_labels\": [\n          \"包含编写代码和数据分析等选项的菜单列表\",\n          \"带有紫色折线图的分析仪表盘\",\n          \"显示 Python 斐波那契函数的代码编辑器\"\n        ]\n      },\n      {\n        \"title\": \"文章栏\",\n        \"position\": \"中心图形周围\",\n        \"count\": 3,\n        \"labels\": [\n          \"带有文章正文的左栏\",\n          \"图形下方的中间栏\",\n          \"带有要点的右栏\"\n        ]\n      },\n      {\n        \"title\": \"底部区域\",\n        \"position\": \"底部\",\n        \"headline\": \"{argument name=\\\"bottom headline\\\" default=\\\"受 AI 涨势推动，纽约股市全线上扬……纳斯达克指数上涨 2.7%\\\"}\",\n        \"ad_box\": \"深蓝色方框，文字内容为：全球第一存储半导体公司三星电子\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "照片级真实感科技报纸样机：生成高度逼真、可定制的商业报纸头版，包含科技公告和嵌入式 UI 样机。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "top-down"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [
+        "natural light"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "B2B 产品概念图、后台系统、数据看板",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: top-down]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[参考光线镜头: natural light]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15389",
+      "15391",
+      "14322",
+      "14446",
+      "15038",
+      "15390"
+    ]
+  }
+}

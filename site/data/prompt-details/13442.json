@@ -1,0 +1,40 @@
+{
+  "id": "13442",
+  "prompt": "{\n  \"type\": \"mobile app UI mockup\",\n  \"device\": \"modern smartphone with dynamic island\",\n  \"theme\": \"light mode, minimalist, {argument name=\\\"primary color\\\" default=\\\"soft blue\\\"} accents, soft drop shadows\",\n  \"layout\": {\n    \"header\": {\n      \"profile\": \"small circular photo of a woman\",\n      \"greeting\": \"Good morning, {argument name=\\\"user name\\\" default=\\\"Alex\\\"} ☀️\",\n      \"subtitle\": \"Let's make today productive.\",\n      \"icon\": \"notification bell with red dot\"\n    },\n    \"hero_card\": {\n      \"title\": \"TODAY'S FOCUS\",\n      \"headline\": \"{argument name=\\\"focus task\\\" default=\\\"Launch marketing campaign\\\"}\",\n      \"description\": \"Finalize assets, review messaging, and align on launch plan.\",\n      \"button\": \"Continue Task\",\n      \"graphic\": \"circular progress ring showing 75% Progress\"\n    },\n    \"sections\": [\n      {\n        \"title\": \"Up Next\",\n        \"count\": 1,\n        \"items\": [\"Team sync (10:00 AM - 11:00 AM)\"]\n      },\n      {\n        \"title\": \"Reminders\",\n        \"count\": 2,\n        \"items\": [\"Review design mockups\", \"Submit campaign brief\"]\n      }\n    ],\n    \"bottom_elements\": {\n      \"ai_input\": \"pill-shaped text field with sparkle icon and placeholder '{argument name=\\\"ai placeholder\\\" default=\\\"Ask your AI assistant...\\\"}'\",\n      \"navigation_bar\": {\n        \"count\": 4,\n        \"tabs\": [\"Home\", \"Tasks\", \"Assistant\", \"Profile\"]\n      }\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"移动应用 UI 原型\",\n  \"device\": \"带有灵动岛的现代智能手机\",\n  \"theme\": \"浅色模式，极简主义，{argument name=\\\"primary color\\\" default=\\\"柔和蓝\\\"} 点缀，柔和投影\",\n  \"layout\": {\n    \"header\": {\n      \"profile\": \"女性的小型圆形头像\",\n      \"greeting\": \"早上好，{argument name=\\\"user name\\\" default=\\\"Alex\\\"} ☀️\",\n      \"subtitle\": \"让我们开启高效的一天。\",\n      \"icon\": \"带有红点的通知铃铛\"\n    },\n    \"hero_card\": {\n      \"title\": \"今日焦点\",\n      \"headline\": \"{argument name=\\\"focus task\\\" default=\\\"启动营销活动\\\"}\",\n      \"description\": \"完成素材定稿，审核文案，并对齐发布计划。\",\n      \"button\": \"继续任务\",\n      \"graphic\": \"显示 75% 进度的圆形进度环\"\n    },\n    \"sections\": [\n      {\n        \"title\": \"接下来\",\n        \"count\": 1,\n        \"items\": [\"团队同步会 (10:00 AM - 11:00 AM)\"]\n      },\n      {\n        \"title\": \"提醒事项\",\n        \"count\": 2,\n        \"items\": [\"审核设计原型\", \"提交活动简报\"]\n      }\n    ],\n    \"bottom_elements\": {\n      \"ai_input\": \"带有闪烁图标和占位符的胶囊状文本框 '{argument name=\\\"ai placeholder\\\" default=\\\"询问你的 AI 助手...\\\"}'\",\n      \"navigation_bar\": {\n        \"count\": 4,\n        \"tabs\": [\"首页\", \"任务\", \"助手\", \"个人资料\"]\n      }\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "生产力应用 UI 原型：一款现代、浅色主题的任务管理移动应用界面，包含每日焦点卡片、日程安排以及 YouMind Agent 集成。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "minimalist"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: minimalist]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15525",
+      "13779",
+      "14225",
+      "14272",
+      "15243",
+      "15773"
+    ]
+  }
+}

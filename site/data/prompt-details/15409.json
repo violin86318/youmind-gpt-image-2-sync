@@ -1,0 +1,47 @@
+{
+  "id": "15409",
+  "prompt": "A cinematic rear three-quarter tracking shot of a futuristic white Audi supercar racing through a dense neon-lit city at night on a wet street, viewed from a very low angle close to the rear wheel. The car has a sleek widebody coupe silhouette, glossy pearl white body panels, a black rear fascia, and a continuous thin LED taillight strip with segmented red and white light elements stretching across the tail. The glowing Audi four-ring logo is illuminated in white at the center rear, with a stylized glowing model badge beneath it that reads \"tron\" in a futuristic font. The rear bodywork is partially removed or transparently open to reveal exposed high-performance mechanical components: 1 large rectangular metallic battery or power unit mounted low at the back, 3 visible thick exhaust or cooling pipes spanning across the rear, 1 visible gearbox or motor assembly near the center-right, and a deep black rear diffuser with 2 large fins. The car rides on oversized deep-dish black wheels with ultra-wide rear tires, and the tire sidewalls feature bright white Japanese-style lettering around the circumference. Use strong motion blur in the background and along the road surface to imply high speed, with sharp focus on the car body and exposed machinery. Surround the scene with abstract urban bokeh, streaking neon signage, reflections of red, blue, and white city lights across the wet pavement and glossy bodywork. High contrast, cyberpunk atmosphere, realistic automotive photography, dramatic nighttime lighting, ultra-detailed metal textures, cinematic lens, dynamic composition, speed, power, futuristic engineering.",
+  "translatedPrompt": "电影级后侧方跟拍镜头，一辆未来感十足的白色奥迪超级跑车在夜晚湿滑的街道上疾驰，穿梭于密集的霓虹城市中，视角极低，靠近后轮。车辆拥有流畅的宽体轿跑轮廓，采用光泽感珍珠白车身面板，配备黑色后包围，以及一条横贯车尾的细长 LED 贯穿式尾灯，灯带包含分段式红白光效。奥迪四环标志在车尾中央发出白光，下方带有风格化的发光车型徽标，以未来感字体书写着“tron”。后部车身部分移除或呈现透明开启状态，露出内部的高性能机械组件：后部低位安装有 1 个大型矩形金属电池或动力单元，横跨车尾可见 3 根粗壮的排气管或冷却管，右侧中央可见 1 个变速箱或电机总成，以及带有 2 个大尺寸鳍片的深黑色后扩散器。车辆配备超大尺寸深凹黑色轮毂和超宽后胎，轮胎侧壁环绕着亮白色的日式风格文字。背景和路面采用强烈的动态模糊以体现高速感，车身和裸露的机械结构保持清晰对焦。场景周围环绕着抽象的城市光斑（bokeh），霓虹招牌光影流转，红、蓝、白色的城市灯光在湿润的路面和光亮的漆面上交相辉映。高对比度，赛博朋克氛围，写实汽车摄影，戏剧性夜间照明，超精细金属质感，电影级镜头，动态构图，速度感，力量感，未来工程设计。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "赛博朋克风格奥迪后方追拍镜头：此提示词可生成一张极具戏剧性的写实图像，展现一辆未来感奥迪超级跑车在夜晚的霓虹城市中飞驰，非常适合概念车艺术、汽车广告或赛博朋克视觉创作。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "neon",
+        "high contrast",
+        "lens"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: neon, high contrast, lens]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14966",
+      "14496",
+      "14262",
+      "14498",
+      "14539",
+      "15521"
+    ]
+  }
+}

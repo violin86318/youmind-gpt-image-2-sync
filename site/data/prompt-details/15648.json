@@ -1,0 +1,53 @@
+{
+  "id": "15648",
+  "prompt": "{\"type\":\"glassmorphism neumorphic smart dashboard UI kit\",\"style\":{\"theme\":\"clean futuristic mobile interface components\",\"background\":\"soft light gray-white\",\"materials\":\"frosted glass, translucent acrylic, soft shadows, subtle inner glow, rounded corners, embossed and debossed details\",\"accent color\":\"{argument name=\\\"accent color\\\" default=\\\"deep teal green\\\"}\",\"secondary accent\":\"warm orange\",\"lighting\":\"soft studio lighting from upper left, gentle ambient reflections, high polish\",\"rendering\":\"ultra-detailed 3D UI mockup, premium dribbble-style product design\"},\"layout\":{\"canvas\":\"square composition\",\"arrangement\":\"evenly spaced grid of isolated widgets and controls\",\"density\":\"information-dense but balanced with generous white space\",\"sections\":[{\"title\":\"top row controls\",\"position\":\"top\",\"count\":6,\"labels\":[\"4-quadrant connectivity pad\",\"analog clock\",\"50% BATTERY circular gauge\",\"24° Cloudy weather dial\",\"compass\",\"vertical temperature slider\"]},{\"title\":\"small circular shortcut buttons\",\"position\":\"upper middle\",\"count\":11,\"labels\":[\"alarm\",\"moon\",\"mute bell\",\"flashlight\",\"location pin\",\"orange ring button\",\"layers\",\"cube\",\"split view\",\"focus frame\",\"check icon\"]},{\"title\":\"center widgets\",\"position\":\"middle\",\"count\":8,\"labels\":[\"music player card\",\"brightness slider with Auto\",\"Focus Work dropdown pill\",\"vertical plus-minus rocker\",\"small vertical toggle with orange dot\",\"tall volume slider\",\"small dark circular button\",\"thin vertical light slider with note icon\"]},{\"title\":\"secondary cards and controls\",\"position\":\"lower middle\",\"count\":11,\"labels\":[\"Screen Mirroring card\",\"AirDrop Everyone card\",\"bottom utility strip with battery camera microphone hearing icons\",\"horizontal temperature scale\",\"media back button\",\"media play button\",\"media next button\",\"heart button\",\"shuffle button\",\"repeat button\",\"digital clock card\"]},{\"title\":\"bottom gauges and status\",\"position\":\"lower\",\"count\":11,\"labels\":[\"lightning circular power gauge\",\"75% circular ring\",\"315° NW compass dial\",\"dB -18 meter\",\"ALT 1240 meter\",\"navigation compass arrow\",\"Active status pill\",\"Notification pill\",\"weekly weather forecast card\",\"4 square utility buttons\",\"bottom navigation icon row\"]}],\"bottom navigation count\":13},\"objects\":{\"connectivity pad\":{\"shape\":\"large rounded 4-way disc\",\"quadrants\":4,\"icons\":[\"airplane mode\",\"wireless signal\",\"wifi\",\"bluetooth\"],\"active quadrants\":1},\"music player\":{\"artist\":\"{argument name=\\\"artist name\\\" default=\\\"Billie Eilish\\\"}\",\"track\":\"{argument name=\\\"song title\\\" default=\\\"Ocean Eyes\\\"}\",\"artwork\":\"abstract ocean wave image in teal tones\",\"controls\":4,\"timeline\":\"1:45 to 3:20\",\"extra\":\"audio waveform\"},\"weather main\":{\"temperature\":\"{argument name=\\\"temperature\\\" default=\\\"24°\\\"}\",\"condition\":\"Cloudy\"},\"digital clock\":{\"time\":\"{argument name=\\\"clock time\\\" default=\\\"10:24\\\"}\",\"date\":\"Tuesday, May 21\",\"period toggle\":\"AM PM\"},\"forecast\":{\"current\":\"24° Partly Cloudy, H: 26° L: 18°\",\"hourly count\":6,\"hours\":[\"Now\",\"11AM\",\"12PM\",\"1PM\",\"2PM\",\"3PM\"]},\"utility buttons\":{\"count\":4,\"icons\":[\"timer\",\"calculator\",\"battery\",\"record\"]}},\"color palette\":{\"count\":5,\"colors\":[\"white\",\"light gray\",\"deep teal green\",\"dark charcoal\",\"soft orange\"]},\"camera\":{\"view\":\"straight-on top view\",\"framing\":\"entire UI kit visible edge to edge\"}}",
+  "translatedPrompt": "{\"type\":\"毛玻璃与拟态风格智能仪表盘 UI 套件\",\"style\":{\"theme\":\"简洁的未来感移动端界面组件\",\"background\":\"柔和的浅灰白色\",\"materials\":\"磨砂玻璃、半透明亚克力、柔和阴影、微妙的内发光、圆角、浮雕与凹雕细节\",\"accent color\":\"{argument name=\\\"accent color\\\" default=\\\"深青绿色\\\"}\",\"secondary accent\":\"暖橙色\",\"lighting\":\"左上方柔和摄影棚灯光、温和的环境反射、高光泽度\",\"rendering\":\"超精细 3D UI 模型，高级 Dribbble 风格产品设计\"},\"layout\":{\"canvas\":\"方形构图\",\"arrangement\":\"均匀分布的独立组件与控件网格\",\"density\":\"信息密集但保持了充裕的留白平衡\",\"sections\":[{\"title\":\"顶部控件行\",\"position\":\"顶部\",\"count\":6,\"labels\":[\"四象限连接面板\",\"模拟时钟\",\"50% 电量环形仪表\",\"24° 多云天气表盘\",\"指南针\",\"垂直温度滑块\"]},{\"title\":\"小型圆形快捷按钮\",\"position\":\"中上部\",\"count\":11,\"labels\":[\"闹钟\",\"月亮\",\"静音铃铛\",\"手电筒\",\"定位图钉\",\"橙色圆环按钮\",\"图层\",\"立方体\",\"分屏视图\",\"焦点框\",\"勾选图标\"]},{\"title\":\"中心组件\",\"position\":\"中部\",\"count\":8,\"labels\":[\"音乐播放器卡片\",\"带自动调节的亮度滑块\",\"专注工作下拉胶囊\",\"垂直加减摇杆\",\"带橙色圆点的垂直小拨动开关\",\"高音量滑块\",\"小型深色圆形按钮\",\"带音符图标的细长垂直灯光滑块\"]},{\"title\":\"辅助卡片与控件\",\"position\":\"中下部\",\"count\":11,\"labels\":[\"屏幕镜像卡片\",\"AirDrop 所有人卡片\",\"底部工具栏（含电池、相机、麦克风、听力图标）\",\"水平温度刻度\",\"媒体后退按钮\",\"媒体播放按钮\",\"媒体前进按钮\",\"心形按钮\",\"随机播放按钮\",\"循环播放按钮\",\"数字时钟卡片\"]},{\"title\":\"底部仪表与状态\",\"position\":\"底部\",\"count\":11,\"labels\":[\"闪电环形电源仪表\",\"75% 环形进度\",\"315° 西北指南针表盘\",\"dB -18 分贝计\",\"海拔 1240 米\",\"导航指南针箭头\",\"活动状态胶囊\",\"通知胶囊\",\"每周天气预报卡片\",\"4 个方形工具按钮\",\"底部导航图标行\"]}],\"bottom navigation count\":13},\"objects\":{\"connectivity pad\":{\"shape\":\"大型圆角四向圆盘\",\"quadrants\":4,\"icons\":[\"飞行模式\",\"无线信号\",\"WiFi\",\"蓝牙\"],\"active quadrants\":1},\"music player\":{\"artist\":\"{argument name=\\\"artist name\\\" default=\\\"Billie Eilish\\\"}\",\"track\":\"{argument name=\\\"song title\\\" default=\\\"Ocean Eyes\\\"}\",\"artwork\":\"青色调抽象海浪图像\",\"controls\":4,\"timeline\":\"1:45 到 3:20\",\"extra\":\"音频波形\"},\"weather main\":{\"temperature\":\"{argument name=\\\"temperature\\\" default=\\\"24°\\\"}\",\"condition\":\"多云\"},\"digital clock\":{\"time\":\"{argument name=\\\"clock time\\\" default=\\\"10:24\\\"}\",\"date\":\"5 月 21 日，周二\",\"period toggle\":\"上午 下午\"},\"forecast\":{\"current\":\"24° 多云，最高 26° 最低 18°\",\"hourly count\":6,\"hours\":[\"现在\",\"11AM\",\"12PM\",\"1PM\",\"2PM\",\"3PM\"]},\"utility buttons\":{\"count\":4,\"icons\":[\"计时器\",\"计算器\",\"电池\",\"录音\"]}},\"color palette\":{\"count\":5,\"colors\":[\"白色\",\"浅灰色\",\"深青绿色\",\"深炭灰色\",\"柔和橙色\"]},\"camera\":{\"view\":\"正视俯视图\",\"framing\":\"整个 UI 套件边缘可见\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "毛玻璃风格智能 UI 套件：一套精致且充满未来感的仪表盘界面套件，包含多种毛玻璃风格组件，非常适合 App UI 概念渲染、产品模型展示及设计作品集。",
+      "subject": "界面",
+      "scene": "产品/电商",
+      "composition": [
+        "grid",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "3d",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting",
+        "soft light",
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, vertical, horizontal]。\n\nVisual style:\n[参考风格: 3d, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting, soft light, camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14804",
+      "14177",
+      "14646",
+      "15616",
+      "15755",
+      "14449"
+    ]
+  }
+}

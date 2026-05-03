@@ -1,0 +1,50 @@
+{
+  "id": "15720",
+  "prompt": "A realistic candid restaurant photo of a young Japanese woman seated at a wooden sushi counter in a warmly lit traditional Japanese restaurant, centered in the frame and facing the camera. She has long straight {argument name=\"hair color\" default=\"black\"} hair with full bangs, and is wearing a soft cream knit off-shoulder sweater with a wide sailor-style collar trimmed in brown, a white buttoned inner collar, long sleeves with flared cuffs, and a feminine modest fashion look. She is holding chopsticks in her right hand above a small blue-and-white soy sauce dish, with her left hand resting on the table. In front of her is a large rectangular ceramic platter with exactly 8 pieces of sushi arranged in a row, including pink tuna, deeper red tuna, orange salmon, two shrimp nigiri, and pale white fish; to the right is a separate rectangular plate with assorted tempura including 2 large shrimp and mixed vegetable tempura. On the left side of the table are a ceramic tea cup with bold black Japanese calligraphy, a wooden chopstick holder packed with disposable chopsticks, and small wrapped items. Behind her is an open sushi bar with exactly 2 visible chefs in white uniforms and hats, glass display cases, handwritten Japanese menu cards, wooden counters, and several seated diners in the background. Shot at eye level with a smartphone-photo feel, natural indoor perspective, documentary realism, rich wood textures, warm amber lighting, detailed food realism, shallow-to-moderate depth of field, authentic busy dinner atmosphere, no stylization, no illustration, photorealistic.",
+  "translatedPrompt": "一张写实风格的餐厅抓拍照片，一位年轻的日本女性坐在光线温暖的传统日式餐厅木质寿司吧台前，位于画面中心并面向镜头。她留着长直的 {argument name=\"hair color\" default=\"黑色\"} 头发，留着齐刘海，身穿一件柔软的米色针织露肩毛衣，领口为宽大的水手风格，带有棕色饰边，内搭白色纽扣领，长袖配喇叭袖口，展现出女性柔美端庄的时尚感。她右手拿着筷子悬在蓝色小碟上方，左手放在桌面上。她面前是一个长方形陶瓷盘，整齐地摆放着 8 块寿司，包括粉色金枪鱼、深红色金枪鱼、橙色三文鱼、两块虾仁握寿司和浅白色鱼肉；右侧是另一个长方形盘子，盛放着什锦天妇罗，包括 2 只大虾和混合蔬菜天妇罗。桌子左侧放着一个印有醒目黑色日文书法的陶瓷茶杯、一个装满一次性筷子的木制筷筒以及一些小包装物品。她身后是开放式寿司吧台，可以看到 2 名身穿白色制服和戴着厨师帽的厨师、玻璃展示柜、手写日文菜单牌、木质吧台以及背景中几位正在用餐的顾客。采用平视角度拍摄，具有智能手机摄影的质感，呈现自然的室内视角、纪实写实风格、丰富的木质纹理、温暖的琥珀色灯光、细腻的食物细节、浅至中等的景深，营造出真实忙碌的晚餐氛围，无风格化处理，非插画，照片级真实感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "写实风格寿司吧台晚餐人像：此提示词可生成一张写实风格的餐厅抓拍人像，展示一位女性在日式寿司吧台用餐的场景，适用于生活方式、美食或社交媒体场景创作。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "depth of field",
+        "camera"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic, photorealistic, documentary]。\n\nLighting and camera:\n[参考光线镜头: depth of field, camera]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15274",
+      "15273",
+      "15441",
+      "14450",
+      "15428",
+      "15337"
+    ]
+  }
+}

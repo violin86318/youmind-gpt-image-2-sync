@@ -1,0 +1,50 @@
+{
+  "id": "15407",
+  "prompt": "A futuristic concept coupe based on an {argument name=\"car brand\" default=\"Audi\"}, shown in a low rear three-quarter side view facing right, isolated in a vast black studio with a dark matte floor and almost no background detail. The car has a sleek white body with a long fastback roofline, blacked-out windows, an ultra-low stance, wide body proportions, and smooth minimalist surfacing. The side features 1 large pale gray swoosh graphic across the door and rear quarter panel, resembling a sporty decal. The rear is partially transparent or cut away to expose the performance drivetrain: 1 visible battery pack mounted low behind the cabin, 1 exposed metallic motor or transmission assembly, and 3 thick silver exhaust or intake pipes curving through the rear mechanical bay. The tail includes a continuous thin LED light bar spanning the width, the Audi rings glowing at center, and the word “tron” illuminated beneath. The wheels are deep black multi-spoke performance rims with low-profile tires; both visible tires have glowing white sidewall lettering, with stylized Japanese characters and racing text. Add subtle illuminated branding near the side skirt and front wheel arch. Lighting is cinematic and moody with cool blue rim light, glossy reflections, soft bloom, and a faint cyberpunk halo around the illuminated elements. Hyper-detailed automotive render, premium concept-car design visualization, photorealistic materials, dramatic contrast, clean composition, no people.",
+  "translatedPrompt": "一辆基于 {argument name=\"car brand\" default=\"Audi\"} 的未来感概念轿跑，采用低位后侧 45 度视角向右，置于广阔的黑色摄影棚中，地面为深色哑光材质，背景几乎无细节。车身呈流线型白色，拥有修长的溜背车顶线条、全黑车窗、超低底盘、宽体比例以及平滑极简的曲面。车侧饰有 1 个巨大的浅灰色弧形图案，横跨车门及后翼子板，酷似运动贴花。车尾部分透明或镂空，露出高性能动力总成：驾驶舱后方低位安装有 1 个可见的电池组，1 个外露的金属电机或变速箱总成，以及 3 根粗壮的银色排气管或进气管穿过车尾机械舱。车尾配有一条贯穿式的纤细 LED 灯带，Audi 四环标志在中央发光，下方点亮着“tron”字样。轮毂为深黑色多辐高性能轮圈，搭配低扁平比轮胎；两个可见轮胎的侧壁均有发光的白色文字，包含风格化的日文字符和赛车文字。在侧裙和前轮拱附近添加微妙的发光品牌标识。灯光呈现电影般的冷峻氛围，带有冷蓝色轮廓光、光泽反射、柔和的光晕以及发光元件周围隐约的赛博朋克光环。超精细汽车渲染，高端概念车设计视觉化，照片级真实材质，强烈的明暗对比，构图简洁，无人物。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "未来感 Audi Tron 概念轿跑：此提示词可生成一张极具戏剧性的摄影棚渲染图，展示一辆白色未来感 Audi 风格电动概念车，并露出后部机械结构，非常适合科幻汽车概念艺术及高端车辆视觉呈现。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "minimalist",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "rim light"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, minimalist, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: rim light]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14422",
+      "15757",
+      "13443",
+      "15733",
+      "15340",
+      "14419"
+    ]
+  }
+}

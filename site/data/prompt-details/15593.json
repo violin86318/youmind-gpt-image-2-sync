@@ -1,0 +1,35 @@
+{
+  "id": "15593",
+  "prompt": "{argument name=\"テーマ\" default=\"実在しそうだけど絶妙におかしい魔法少女\"}がでてくる架空のアニメポスター {argument name=\"枚数\" default=\"4\"} 種類。プロデザイナーが制作したレベルで。 アニメの企画・設定自体が「こんなのアニメ化する?」っていう、本気なのに思わず笑っちゃうシュールなアニメ。 タイトルと放映情報も日本語で見える状態で。 Format {argument name=\"比率\" default=\"2:3\"} 画像生成モデルは duct-tape-1か duct-tape-2、3 を指定したいです。",
+  "translatedPrompt": "4 种虚构动漫海报，主题为 {argument name=\"theme\" default=\"看似真实但略显怪异的魔法少女\"}。以专业设计师水准创作。动漫策划与设定本身应具有超现实感，在严肃的基调中令人忍俊不禁。标题和播出信息应以日语呈现。格式为 {argument name=\"aspect ratio\" default=\"2:3\"}。需指定图像生成模型 duct-tape-1、duct-tape-2 或 3。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "超现实日本动漫海报提示词：用于生成风格化、略带荒诞感且具备专业制作水准的动漫海报提示词，包含文字及播出信息。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

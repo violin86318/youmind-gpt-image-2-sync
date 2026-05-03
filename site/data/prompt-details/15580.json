@@ -1,0 +1,35 @@
+{
+  "id": "15580",
+  "prompt": "9:16 vertical — {argument name=\"スタイル\" default=\"Japanese Fuji film style\"}",
+  "translatedPrompt": "9:16 竖屏 — {argument name=\"style\" default=\"日式富士胶片风格\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日式富士胶片风格人像：专为使用 GPT Image 2 生成高质量竖屏人像而设计的提示词，呈现复古日式胶片美学。",
+      "subject": "综合主体",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "构图"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14132",
+      "15170",
+      "13991",
+      "14126",
+      "14437",
+      "14507"
+    ]
+  }
+}

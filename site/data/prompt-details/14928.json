@@ -1,0 +1,51 @@
+{
+  "id": "14928",
+  "prompt": "{\"type\":\"historical manga page\",\"style\":\"dramatic seinen manga painted in a realistic Edo-period illustration style, warm indoor lantern lighting, detailed kimono fabrics, expressive panel composition, hand-drawn ink outlines with cinematic shading\",\"setting\":{\"time\":\"Bunkyu 3, February 7\",\"place\":\"a tatami audience room in a samurai residence in Kyoto\",\"background\":\"gold folding screens with pine tree paintings, paper lanterns, low lacquered table, sake bottle and cups, seated retainers along both sides of the room\"},\"layout\":{\"page_count\":1,\"panel_count\":6,\"reading_flow\":\"right-to-left Japanese manga layout\",\"sections\":[{\"title\":\"opening audience scene\",\"position\":\"top full-width panel\",\"count\":1,\"labels\":[\"drunken lord seated at center\",\"young retainer in green seen from behind\",\"rows of seated samurai\",\"vertical narration box at right\"]},{\"title\":\"tense exchange\",\"position\":\"middle row, left and right small panels\",\"count\":2,\"labels\":[\"lord offering a sake cup\",\"awkward silence in the room\",\"close side profile of the young retainer in green\"]},{\"title\":\"declaration\",\"position\":\"large center panel\",\"count\":1,\"labels\":[\"young samurai in bright green formal kimono rising boldly\",\"radiating burst background\",\"two large speech balloons\",\"large sound effect text\"]},{\"title\":\"reaction and narration\",\"position\":\"bottom left panel\",\"count\":1,\"labels\":[\"attendants bowing low\",\"back of green kimono in foreground\",\"vertical narration box\"]},{\"title\":\"angry rebuttal\",\"position\":\"bottom right panel\",\"count\":1,\"labels\":[\"older lord leaning forward aggressively\",\"pointing hand\",\"sake cup in other hand\",\"large speech balloon\",\"red impact sound effect\"]}],\"text_boxes\":5,\"speech_balloons\":6,\"sound_effects\":2},\"characters\":[{\"role\":\"young loyalist samurai\",\"name\":\"{argument name=\\\"character name\\\" default=\\\"Nakaoka Shintaro\\\"}\",\"appearance\":\"young Japanese man, messy dark brown topknot, determined expression, slim build\",\"clothing\":\"formal {argument name=\\\"kimono color\\\" default=\\\"green\\\"} haori and kimono with white family crests and white braided cords\",\"pose\":\"initially seated facing the lord, then stands upright to speak with fearless resolve\"},{\"role\":\"drunken feudal lord\",\"name\":\"{argument name=\\\"lord name\\\" default=\\\"Yamanouchi Yodo\\\"}\",\"appearance\":\"middle-aged to older Japanese man with partially shaved Edo hairstyle, stern and intoxicated demeanor\",\"clothing\":\"black haori over gray kimono\",\"props\":\"small sake cup in one hand\"},{\"role\":\"attendants\",\"count\":8,\"appearance\":\"Japanese samurai retainers in subdued blue, gray, and brown kimono, seated formally around the room, reacting with discomfort and shock\"}],\"scene\":{\"mood\":\"tense, politically charged, courageous confrontation\",\"key_action\":\"a drunken lord casually offers sake, but the young samurai rises and boldly declares that entering Kyoto to fulfill the shogun's wishes while adding military strength at a time of crisis is natural and necessary, stunning the room\",\"camera\":\"mix of wide establishing shot, close conversational panels, heroic low-angle central figure shot, and aggressive close-up rebuttal\"},\"visible_text\":{\"narration\":[\"二月七日、京都河原町の土佐藩邸。慎太郎らは再び喝見した。\",\"すでに酔っていた容堂は、同席者をからかい、座は険悪な空気に包まれた。\",\"進言は、この場では届かなかった。 それでも慎太郎は、酔った主君を前にしてなお、言うべきことを真正直に言った。\"],\"dialogue\":[\"寿之助、どうして満引せんか\",\"は、はは…\",\"今日の老公の入京は朝野のもとに刮目するところにございます。\",\"どうか非常の尽力をもって天下の変に添わんと存じます\",\"もとより余の期するところよ！ 誰が余を困窮家と申すか！\"],\"sound_effects\":[\"ザワォカーッ!!!\",\"ズバッ\"]},\"color_palette\":{\"dominant\":[\"warm gold\",\"deep brown\",\"charcoal black\",\"muted blue-gray\",\"rich green\"],\"accent\":\"white crests and speech balloons\"},\"aspect_ratio\":\"portrait 4:5\"}",
+  "translatedPrompt": "{\"type\":\"历史漫画页面\",\"style\":\"具有江户时代写实插画风格的戏剧性青年漫画，温暖的室内灯笼照明，细致的和服纹理，富有表现力的分镜构图，带有电影感阴影的手绘墨线\",\"setting\":{\"time\":\"文久 3 年 2 月 7 日\",\"place\":\"京都某武士宅邸的榻榻米谒见间\",\"background\":\"绘有松树的金屏风、纸灯笼、矮漆桌、酒瓶和酒杯，房间两侧坐着家臣\"},\"layout\":{\"page_count\":1,\"panel_count\":6,\"reading_flow\":\"从右向左的日式漫画排版\",\"sections\":[{\"title\":\"开场谒见场景\",\"position\":\"顶部通栏\",\"count\":1,\"labels\":[\"坐在中央的醉酒藩主\",\"背对观众的绿色和服年轻家臣\",\"两排端坐的武士\",\"右侧竖排旁白框\"]},{\"title\":\"紧张的交流\",\"position\":\"中间行，左右小分镜\",\"count\":2,\"labels\":[\"藩主递出酒杯\",\"室内尴尬的沉默\",\"年轻绿色和服家臣的侧脸特写\"]},{\"title\":\"宣言\",\"position\":\"中央大分镜\",\"count\":1,\"labels\":[\"身穿亮绿色礼装和服的年轻武士果敢起身\",\"背景放射线效果\",\"两个大对话气泡\",\"大型拟声词文字\"]},{\"title\":\"反应与旁白\",\"position\":\"左下分镜\",\"count\":1,\"labels\":[\"深深低头的随从\",\"前景中的绿色和服背影\",\"竖排旁白框\"]},{\"title\":\"愤怒的反驳\",\"position\":\"右下分镜\",\"count\":1,\"labels\":[\"身体前倾、神情激动的年长藩主\",\"指出的手\",\"另一只手拿着酒杯\",\"大型对话气泡\",\"红色冲击感拟声词\"]}],\"text_boxes\":5,\"speech_balloons\":6,\"sound_effects\":2},\"characters\":[{\"role\":\"年轻的勤王武士\",\"name\":\"{argument name=\\\"character name\\\" default=\\\"中冈慎太郎\\\"}\",\"appearance\":\"年轻日本男性，凌乱的深棕色发髻，坚定的表情，身材修长\",\"clothing\":\"正式的 {argument name=\\\"kimono color\\\" default=\\\"绿色\\\"} 羽织和和服，带有白色家纹和白色编织绳\",\"pose\":\"起初面对藩主端坐，随后起身，带着无畏的决心发言\"},{\"role\":\"醉酒的藩主\",\"name\":\"{argument name=\\\"lord name\\\" default=\\\"山内容堂\\\"}\",\"appearance\":\"中老年日本男性，半剃的江户发型，神情严厉且醉醺醺\",\"clothing\":\"灰色和服外罩黑色羽织\",\"props\":\"一只手中拿着小酒杯\"},{\"role\":\"随从\",\"count\":8,\"appearance\":\"身穿深蓝色、灰色和棕色和服的日本武士家臣，在房间周围正式端坐，表现出不安和震惊\"}],\"scene\":{\"mood\":\"紧张、充满政治色彩、勇敢的对峙\",\"key_action\":\"醉酒的藩主随手递出酒杯，但年轻武士起身果敢地宣称，在危机时刻为了实现将军的意愿并增强军事力量而进入京都，是自然且必要的，令全场震惊\",\"camera\":\"广角全景、对话特写、英雄式低角度中心人物镜头以及激烈的反驳特写镜头的结合\"},\"visible_text\":{\"narration\":[\"二月七日、京都河原町の土佐藩邸。慎太郎らは再び喝見した。\",\"すでに酔っていた容堂は、同席者をからかい、座は険悪な空気に包まれた。\",\"進言は、この場では届かなかった。 それでも慎太郎は、酔った主君を前にしてなお、言うべきことを真正直に言った。\"],\"dialogue\":[\"寿之助、どうして満引せんか\",\"は、はは…\",\"今日の老公の入京は朝野のもとに刮目するところにございます。\",\"どうか非常の尽力をもって天下の変に添わんと存じます\",\"もとより余の期するところよ！ 誰が余を困窮家と申すか！\"],\"sound_effects\":[\"ザワォカーッ!!!\",\"ズバッ\"]},\"color_palette\":{\"dominant\":[\"暖金色\",\"深棕色\",\"炭黑色\",\"柔和的蓝灰色\",\"浓郁的绿色\"],\"accent\":\"白色家纹和对话气泡\"},\"aspect_ratio\":\"纵向 4:5\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "幕末対峙マンガページ：京都の謁見の間という緊迫した空間で、中岡慎太郎が泥酔した山内容堂に果敢に立ち向かう様子を描いた、ドラマチックな歴史マンガの 1 ページ。社説風の歴史コミックや SNS でのストーリーテリングに最適です。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "manga",
+        "hand-drawn"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic, manga, hand-drawn]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14857",
+      "15453",
+      "13916",
+      "15315",
+      "14522",
+      "15369"
+    ]
+  }
+}

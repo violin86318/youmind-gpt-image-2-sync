@@ -1,0 +1,51 @@
+{
+  "id": "14918",
+  "prompt": "A breathtaking Japanese anime movie poster in the style of a blockbuster theatrical key visual, ultra-detailed and emotionally grand, with a delicate luminous sky reminiscent of prestige modern anime cinema. The scene shows 2 characters from behind on a flower-covered cliff overlooking a glowing coastal fantasy city at sunset and twilight: a teenage boy in a dark school uniform with a loosened tie and windblown short dark hair stands on the left, and a teenage girl in a long flowing pale dress with very long silver-white hair stands on the right. Both face the horizon in awe. Above them, an enormous celestial sky fills most of the composition, painted with vivid deep blue, indigo, violet, magenta, and gold clouds, a brilliant comet-like meteor streak slashing diagonally from upper center toward the horizon, scattered stars, sparkling particles, and a glowing circular magic-like ring constellation in the upper right sky. The sea and city below shimmer with reflected light, with slender fantasy skyscrapers and towers rising from the coastline and a radiant sunlit gap at the center horizon. Foreground flowers are saturated blue and purple with glowing highlights, and white-pink petals drift through the air. Use dramatic rim light, cinematic backlighting, lens-glow sparkle effects, highly polished anime rendering, crisp linework, atmospheric depth, and a vertical poster composition. Include Japanese poster typography integrated into the design: giant embossed gold headline text across the top reading {argument name=\"top headline text\" default=\"興行収入100億円突破\"}, a gold subheadline block at upper left reading {argument name=\"subheadline text\" default=\"大ヒット上映中\"}, a vertical white tagline on the upper right reading {argument name=\"tagline text\" default=\"あの日、君と見上げた空が、世界を変える。\"}, and a very large glowing white-lavender Japanese film title at the bottom center reading {argument name=\"movie title\" default=\"星屑の約束\"}. Beneath the title, add small elegant romanized subtitle text reading {argument name=\"romanized subtitle\" default=\"Hoshikuzu no Yakusoku\"}, plus dense small production credits, cast lines, website text, release-copy lines, and cinema format logos along the bottom edge in authentic Japanese movie-poster layout. Add 2 gold laurel emblems flanking the top headline, one on the left and one on the right. Make it feel like a fictional anime film that earned 10 billion yen at the box office, sweeping, romantic, bittersweet, magical, and destined to make audiences cry.",
+  "translatedPrompt": "一张令人叹为观止的日本动漫电影海报，采用大片级电影主视觉风格，细节丰富，情感宏大，拥有现代精品动漫电影中那种精致而明亮的天空。画面展示了 2 名角色背对着镜头，站在开满鲜花的山崖上，俯瞰着日落与黄昏时分发光的沿海幻想城市：左侧是一位穿着深色校服、领带松开、短发随风飘动的少年，右侧是一位穿着长款飘逸浅色连衣裙、留着超长银白色长发的少女。两人都敬畏地望着地平线。在他们上方，巨大的天穹占据了构图的大部分，绘有生动的深蓝、靛青、紫罗兰、洋红和金色云彩，一道灿烂的彗星状流星从上方中心向地平线斜向划过，繁星点点，微光闪烁，右上方的天空中还有一个发光的圆形魔法环状星座。下方的海洋和城市闪烁着反射光，纤细的幻想摩天大楼和塔楼从海岸线升起，地平线中心有一道灿烂的阳光缝隙。前景的花朵呈现出饱和的蓝色和紫色，带有发光的高光，白粉色的花瓣在空中飘落。运用戏剧性的轮廓光、电影级背光、镜头光晕闪烁效果、高度精细的动漫渲染、清晰的线条、大气深度以及垂直海报构图。设计中融入日文海报排版：顶部横跨巨大的浮雕金色标题文本 {argument name=\"top headline text\" default=\"興行収入100億円突破\"}，左上方有一个金色副标题块 {argument name=\"subheadline text\" default=\"大ヒット上映中\"}，右上角有一行垂直的白色标语 {argument name=\"tagline text\" default=\"あの日、君と見上げた空が、世界を変える。\"}，底部中心有一个非常巨大的发光白薰衣草色日文电影片名 {argument name=\"movie title\" default=\"星屑の約束\"}。在片名下方，添加一行优雅的小型罗马字副标题 {argument name=\"romanized subtitle\" default=\"Hoshikuzu no Yakusoku\"}，并在底边添加密集的制作人员名单、演员表、网站文本、发行文案以及电影格式标志，呈现地道的日本电影海报布局。在顶部标题两侧各添加一个金色月桂花环标志。营造出一种虚构动漫电影的氛围，仿佛该片票房突破了 100 亿日元，宏大、浪漫、苦涩、充满魔力，注定会让观众落泪。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "大片级动漫天空幻想海报：一张极具戏剧性的日本动漫电影海报，描绘了彗星满天下的两名少年，非常适合生成具有顶级票房大片风格的虚构电影主视觉图。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "poster layout",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "backlight",
+        "lens"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: poster layout, vertical]。\n\nVisual style:\n[参考风格: cinematic, anime, fantasy]。\n\nLighting and camera:\n[参考光线镜头: rim light, backlight, lens]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15096",
+      "14951",
+      "13916",
+      "15373",
+      "15734",
+      "14472"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "13619",
+  "prompt": "{\n  \"type\": \"sports infographic\",\n  \"theme\": \"Formula 1 Race Results\",\n  \"header\": {\n    \"title\": \"LATEST F1 RACE RESULTS\",\n    \"subtitle\": \"{argument name=\\\"grand prix name\\\" default=\\\"FORMULA 1 LENOVO JAPANESE GRAND PRIX 2026\\\"}\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"Track Map\",\n        \"position\": \"top\",\n        \"elements\": [\n          \"circuit layout with 11 labeled corners\",\n          \"Japanese flag\",\n          \"track details text: {argument name=\\\"track name\\\" default=\\\"SUZUKA CIRCUIT\\\"} | 53 LAPS | MARCH 29, 2026\"\n        ]\n      },\n      {\n        \"title\": \"Podium\",\n        \"position\": \"middle\",\n        \"background\": \"Mount Fuji, cherry blossoms, neon radiating lines\",\n        \"count\": 3,\n        \"drivers\": [\n          {\n            \"position\": \"1st\",\n            \"name\": \"{argument name=\\\"first place driver\\\" default=\\\"ANDREA KIMI ANTONELLI\\\"}\",\n            \"team\": \"MERCEDES\",\n            \"pose\": \"holding gold trophy, waving\",\n            \"suit\": \"black\"\n          },\n          {\n            \"position\": \"2nd\",\n            \"name\": \"{argument name=\\\"second place driver\\\" default=\\\"OSCAR PIASTRI\\\"}\",\n            \"team\": \"McLAREN\",\n            \"pose\": \"hands on hips\",\n            \"suit\": \"orange and black\"\n          },\n          {\n            \"position\": \"3rd\",\n            \"name\": \"{argument name=\\\"third place driver\\\" default=\\\"CHARLES LECLERC\\\"}\",\n            \"team\": \"FERRARI\",\n            \"pose\": \"standing straight\",\n            \"suit\": \"red\"\n          }\n        ]\n      },\n      {\n        \"title\": \"FULL RACE CLASSIFICATION\",\n        \"position\": \"bottom-left\",\n        \"count\": 17,\n        \"description\": \"Table with 17 rows showing positions 4 through 20, including columns for POS, DRIVER, TEAM, GAP, and POINTS.\"\n      },\n      {\n        \"title\": \"KEY RACE STATS\",\n        \"position\": \"bottom-right-top\",\n        \"count\": 5,\n        \"stats\": [\n          \"POLE POSITION\",\n          \"FASTEST LAP (purple background)\",\n          \"DRIVER OF THE DAY\",\n          \"TOTAL DISTANCE\",\n          \"WINNER'S AVG SPEED\"\n        ]\n      },\n      {\n        \"title\": \"CHAMPIONSHIP STANDINGS UPDATE\",\n        \"position\": \"bottom-right-bottom\",\n        \"columns\": 2,\n        \"lists\": [\n          \"TOP DRIVERS (3 items)\",\n          \"TOP TEAMS (3 items)\"\n        ]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"体育信息图\",\n  \"theme\": \"F1 比赛结果\",\n  \"header\": {\n    \"title\": \"最新 F1 比赛结果\",\n    \"subtitle\": \"{argument name=\\\"grand prix name\\\" default=\\\"2026 年 F1 联想日本大奖赛\\\"}\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"赛道地图\",\n        \"position\": \"顶部\",\n        \"elements\": [\n          \"包含 11 个标注弯道的赛道布局\",\n          \"日本国旗\",\n          \"赛道详情文本：{argument name=\\\"track name\\\" default=\\\"铃鹿赛道\\\"} | 53 圈 | 2026 年 3 月 29 日\"\n        ]\n      },\n      {\n        \"title\": \"领奖台\",\n        \"position\": \"中部\",\n        \"background\": \"富士山、樱花、霓虹放射线\",\n        \"count\": 3,\n        \"drivers\": [\n          {\n            \"position\": \"第一名\",\n            \"name\": \"{argument name=\\\"first place driver\\\" default=\\\"ANDREA KIMI ANTONELLI\\\"}\",\n            \"team\": \"MERCEDES\",\n            \"pose\": \"手持金杯，挥手致意\",\n            \"suit\": \"黑色\"\n          },\n          {\n            \"position\": \"第二名\",\n            \"name\": \"{argument name=\\\"second place driver\\\" default=\\\"OSCAR PIASTRI\\\"}\",\n            \"team\": \"McLAREN\",\n            \"pose\": \"双手叉腰\",\n            \"suit\": \"橙黑相间\"\n          },\n          {\n            \"position\": \"第三名\",\n            \"name\": \"{argument name=\\\"third place driver\\\" default=\\\"CHARLES LECLERC\\\"}\",\n            \"team\": \"FERRARI\",\n            \"pose\": \"站姿笔挺\",\n            \"suit\": \"红色\"\n          }\n        ]\n      },\n      {\n        \"title\": \"完整比赛排名\",\n        \"position\": \"左下\",\n        \"count\": 17,\n        \"description\": \"包含 17 行的表格，展示第 4 至第 20 名，列包括名次 (POS)、车手 (DRIVER)、车队 (TEAM)、差距 (GAP) 和积分 (POINTS)。\"\n      },\n      {\n        \"title\": \"关键比赛数据\",\n        \"position\": \"右上方\",\n        \"count\": 5,\n        \"stats\": [\n          \"杆位\",\n          \"最快圈速（紫色背景）\",\n          \"当日最佳车手\",\n          \"总里程\",\n          \"获胜者平均时速\"\n        ]\n      },\n      {\n        \"title\": \"积分榜更新\",\n        \"position\": \"右下方\",\n        \"columns\": 2,\n        \"lists\": [\n          \"车手积分榜前三名\",\n          \"车队积分榜前三名\"\n        ]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "F1 比赛结果信息图：一份详尽的 F1 比赛结果信息图，包含赛道地图、领奖台车手插图以及全面的统计表格。",
+      "subject": "信息结构",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13674",
+      "15433",
+      "13515",
+      "14123",
+      "14188",
+      "14203"
+    ]
+  }
+}

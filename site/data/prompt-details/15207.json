@@ -1,0 +1,36 @@
+{
+  "id": "15207",
+  "prompt": "为一家名为「{argument name=\"品牌名称\" default=\"任何品牌名称\"}」的公司打造一套精致的多页品牌视觉手册(多张图片形式)。品牌整体气质应当充满趣味、具有未来感、色彩鲜明，并且设计感强烈，在“玩具般的活力”与“高端创意科技品牌的精致感”之间取得平衡。视觉风格需采用大胆且具有实验性的品牌语言，包括:高饱和亮色、简洁几何图形、现代字体设计、富有动感的视觉节奏，以及略带超 surreal 感的图像表达。\n整体氛围应传递出:创造力、年轻感、节奏感、触感体验以及概念前卫性。在表达上，需要融合消费级产品的趣味性、时尚品牌的呈现方式，以及当代数字设计的语言体系。品牌手册中应体现:\n对产品细节的极致关注(product obsession)多样化的视觉实验(visual experimentation)包装设计探索(packaging exploration)编辑风格摄影(editorial photography)沉浸式零售体验(immersive retail)跨平台品牌应用 (cross-platform brand application)最终呈现应构建一个自信、当代、统一且完整的品牌世界观一既易于理解与接近，又具备强烈的艺术指导感(artdirection)在视觉上保持高度一致性，同时展现出高端创意工作室级别的美学标准。",
+  "translatedPrompt": "为名为“{argument name=\"brand name\" default=\"Any Brand Name\"}”的公司创建一份精致的多页品牌视觉手册。整体品牌形象应具有趣味性、未来感、活力且经过精心设计，在“玩具般的活力”与“高端创意科技品牌的精致感”之间取得平衡。视觉风格应采用大胆且实验性的品牌语言，包括：高饱和度的明亮色彩、简洁的几何形状、现代排版、动态视觉节奏以及略带超现实的图像表达。整体氛围应传达出：创造力、年轻化、节奏感、触感体验以及概念前卫感。表达方式需要融合消费品的趣味性、时尚品牌的呈现方式以及当代数字设计的语言。品牌手册应体现：对产品细节的极致关注、多元化的视觉实验、包装设计探索、编辑风格摄影、沉浸式零售体验以及跨平台品牌应用。最终呈现应构建出一个自信、当代、统一且完整的品牌世界观——既易于理解且平易近人，又具备强烈的艺术指导感，在保持高度视觉一致性的同时，展现出高端创意工作室级别的审美标准。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "未来感品牌视觉手册：一份详细的提示词，用于创建兼具玩具般活力与高端科技美感的精致品牌视觉手册。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "editorial"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体",
+        "风格"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: editorial]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14441",
+      "15525",
+      "13442",
+      "14225",
+      "14272",
+      "14765"
+    ]
+  }
+}

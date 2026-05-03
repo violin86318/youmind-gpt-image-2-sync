@@ -1,0 +1,41 @@
+{
+  "id": "14176",
+  "prompt": "{\n  \"type\": \"website landing page mockup\",\n  \"style\": \"futuristic, clean, 3D render, corporate tech\",\n  \"color_palette\": \"{argument name=\\\"color palette\\\" default=\\\"soft purple, lavender, and silver\\\"}\",\n  \"header\": {\n    \"logo\": \"{argument name=\\\"brand name\\\" default=\\\"BranchMirror\\\"}\",\n    \"navigation_links\": 5,\n    \"cta_button\": \"solid purple button at top right\"\n  },\n  \"hero_section\": {\n    \"headline\": \"{argument name=\\\"main headline\\\" default=\\\"選ばなかった未来を、試着する。\\\"}\",\n    \"subtext\": \"paragraph of Japanese text explaining the product\",\n    \"buttons\": [\n      { \"style\": \"solid purple\", \"text\": \"{argument name=\\\"primary button text\\\" default=\\\"未来を試着\\\"}\", \"icon\": \"sparkles\" },\n      { \"style\": \"white outline\", \"text\": \"事例を見る\", \"icon\": \"arrow right\" }\n    ],\n    \"feature_tags\": {\n      \"count\": 3,\n      \"style\": \"pill-shaped with icons\",\n      \"labels\": [\"未来人格レンダリング\", \"ライフシナリオ比較\", \"保存・共有\"]\n    }\n  },\n  \"main_visual\": {\n    \"subject\": \"{argument name=\\\"subject description\\\" default=\\\"woman in lavender loungewear with hair in a low bun\\\"}\",\n    \"pose\": \"standing, seen from behind, looking into a large freestanding smart mirror\",\n    \"smart_mirror_ui\": {\n      \"reflections\": {\n        \"count\": 3,\n        \"descriptions\": [\n          \"woman in business suit with city background\",\n          \"woman in casual sweater with nature background\",\n          \"woman in apron with cafe background\"\n        ]\n      },\n      \"overlay_graphics\": \"glowing branching diagram starting from a bottom orb, splitting into 3 paths to each reflection, with a central 'Now' label\"\n    }\n  },\n  \"sidebar_ui\": {\n    \"cards\": {\n      \"count\": 3,\n      \"descriptions\": [\n        \"cityscape image with job change stats\",\n        \"coastal house image with relocation stats\",\n        \"flower shop image with independence stats\"\n      ]\n    },\n    \"bottom_button\": \"glassmorphism button to see all scenarios\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"website landing page mockup\",\n  \"style\": \"futuristic, clean, 3D render, corporate tech\",\n  \"color_palette\": \"{argument name=\\\"color palette\\\" default=\\\"soft purple, lavender, and silver\\\"}\",\n  \"header\": {\n    \"logo\": \"{argument name=\\\"brand name\\\" default=\\\"BranchMirror\\\"}\",\n    \"navigation_links\": 5,\n    \"cta_button\": \"solid purple button at top right\"\n  },\n  \"hero_section\": {\n    \"headline\": \"{argument name=\\\"main headline\\\" default=\\\"選ばなかった未来を、試着する。\\\"}\",\n    \"subtext\": \"paragraph of Japanese text explaining the product\",\n    \"buttons\": [\n      { \"style\": \"solid purple\", \"text\": \"{argument name=\\\"primary button text\\\" default=\\\"未来を試着\\\"}\", \"icon\": \"sparkles\" },\n      { \"style\": \"white outline\", \"text\": \"事例を見る\", \"icon\": \"arrow right\" }\n    ],\n    \"feature_tags\": {\n      \"count\": 3,\n      \"style\": \"pill-shaped with icons\",\n      \"labels\": [\"未来人格レンダリング\", \"ライフシナリオ比較\", \"保存・共有\"]\n    }\n  },\n  \"main_visual\": {\n    \"subject\": \"{argument name=\\\"subject description\\\" default=\\\"woman in lavender loungewear with hair in a low bun\\\"}\",\n    \"pose\": \"standing, seen from behind, looking into a large freestanding smart mirror\",\n    \"smart_mirror_ui\": {\n      \"reflections\": {\n        \"count\": 3,\n        \"descriptions\": [\n          \"woman in business suit with city background\",\n          \"woman in casual sweater with nature background\",\n          \"woman in apron with cafe background\"\n        ]\n      },\n      \"overlay_graphics\": \"glowing branching diagram starting from a bottom orb, splitting into 3 paths to each reflection, with a central 'Now' label\"\n    }\n  },\n  \"sidebar_ui\": {\n    \"cards\": {\n      \"count\": 3,\n      \"descriptions\": [\n        \"cityscape image with job change stats\",\n        \"coastal house image with relocation stats\",\n        \"flower shop image with independence stats\"\n      ]\n    },\n    \"bottom_button\": \"glassmorphism button to see all scenarios\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Futuristic Smart Mirror Website Mockup：Generates a modern, futuristic website landing page mockup featuring a smart mirror UI that displays branching life scenarios.",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "3d"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: 3d]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13956",
+      "13836",
+      "13995",
+      "14180",
+      "13652",
+      "13782"
+    ]
+  }
+}

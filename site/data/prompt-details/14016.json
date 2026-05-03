@@ -1,0 +1,46 @@
+{
+  "id": "14016",
+  "prompt": "A photorealistic, candid shot of two young Asian women shopping inside a tightly packed {argument name=\"setting\" default=\"vintage clothing store\"}. The woman in the foreground has brown hair in a ponytail and is wearing a {argument name=\"foreground outfit\" default=\"white ribbed crop top and distressed denim shorts\"} with a beige shoulder bag. She is holding up and examining a {argument name=\"item being examined\" default=\"blue satin souvenir jacket with intricate embroidery\"}. Beside her, the second woman has dark hair with bangs, wears {argument name=\"background outfit\" default=\"a white t-shirt and denim overalls\"}, and is smiling warmly at the jacket. The store is filled with dense racks of colorful vintage clothes under warm, atmospheric lighting, with a wooden sign reading \"VINTAGE\" visible in the background. Shallow depth of field focuses on the women and the jacket.",
+  "translatedPrompt": "一张写实、自然的抓拍照片，展示了两位年轻亚裔女性在拥挤的 {argument name=\"setting\" default=\"复古服装店\"} 内购物的场景。前景中的女性留着棕色马尾辫，身穿 {argument name=\"foreground outfit\" default=\"白色罗纹短款上衣和磨损感牛仔短裤\"}，背着一个米色单肩包。她正举起并仔细查看一件 {argument name=\"item being examined\" default=\"带有精致刺绣的蓝色缎面纪念夹克\"}。她身旁的第二位女性留着齐刘海，身穿 {argument name=\"background outfit\" default=\"白色 T 恤和牛仔背带裤\"}，正对着夹克露出温暖的笑容。店内挂满了色彩缤纷的复古服装，在温暖的氛围灯光下，背景中可以看到一块写着“VINTAGE”的木牌。浅景深效果聚焦于两位女性和那件夹克。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古商店购物场景：一张写实的女性生活方式照片，展示了两位女性在拥挤的复古服装店中购物的场景。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "vintage"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, vintage]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13632",
+      "14506",
+      "15703",
+      "14724",
+      "13758",
+      "13949"
+    ]
+  }
+}

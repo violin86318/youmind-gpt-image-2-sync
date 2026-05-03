@@ -1,0 +1,45 @@
+{
+  "id": "15277",
+  "prompt": "A detailed retro fantasy pixel art scene of a massive medieval stone castle perched on a steep rocky hill, viewed from a slight low angle, with a winding dirt path leading up to the gate. The castle has many cylindrical towers and connecting walls, exactly 9 visible towers with red-orange conical roofs, several small red flags fluttering from the tallest spires, and weathered gray stone masonry. A huge red dragon is coiled around the tallest central tower, with its long body wrapped around the stone, claws gripping the battlements, horned head leaning forward near the top, and one large batlike wing spread open on the right side. Surround the hill with dense dark-green pine trees and rocky outcrops, with distant blue mountains on the horizon. Place the castle against a bright daytime sky in saturated blue with large fluffy white cumulus clouds. Render in classic 16-bit inspired pixel art with crisp sprite-like shapes, visible pixel texture, rich contrast, adventurous fantasy game cover composition, centered subject, and a square frame.",
+  "translatedPrompt": "一幅细节丰富的复古奇幻像素艺术场景，描绘了一座巨大的中世纪石砌城堡坐落在陡峭的岩石山上，采用微仰视角，一条蜿蜒的土路通向大门。城堡拥有许多圆柱形塔楼和连接墙，清晰可见 9 座带有红橙色圆锥形屋顶的塔楼，最高的尖塔上飘扬着几面红色小旗，墙体呈现出风化的灰色石材纹理。一条巨大的红龙盘绕在最高的中央塔楼上，长长的身体缠绕着石墙，利爪紧扣城垛，长角的头部向前方探出，右侧展开一只巨大的蝙蝠状翅膀。山丘周围环绕着茂密的深绿色松树和岩石露头，地平线上可见远处的蓝色山脉。城堡背景为明亮的日间天空，呈现饱和的蓝色，点缀着大朵蓬松的白色积云。采用经典的 16 位像素艺术风格渲染，具有清晰的精灵图形状、可见的像素纹理、丰富的对比度、冒险类奇幻游戏封面构图、居中主体以及方形画幅。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "像素风巨龙城堡：此提示词可生成一张复古奇幻像素风格的图像，描绘了一条巨龙盘踞在山顶城堡上，非常适合用于游戏美术、海报或 RPG 主题视觉设计。",
+      "subject": "人物",
+      "scene": "插画/漫画",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "retro",
+        "fantasy",
+        "pixel art"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "动漫分镜、战斗场景、运动瞬间、夸张叙事图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 插画/漫画 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: retro, fantasy, pixel art]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14432",
+      "15799",
+      "15106",
+      "15374",
+      "15800",
+      "14528"
+    ]
+  }
+}

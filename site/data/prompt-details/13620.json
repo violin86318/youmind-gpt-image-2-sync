@@ -1,0 +1,46 @@
+{
+  "id": "13620",
+  "prompt": "{\n  \"type\": \"sports broadcast infographic dashboard\",\n  \"theme\": \"dark mode, sleek, modern, neon cyan accents, high-tech F1 graphics\",\n  \"header\": {\n    \"title\": \"FORMULA 1 {argument name=\\\"year\\\" default=\\\"2026\\\"} {argument name=\\\"race name\\\" default=\\\"JAPANESE GRAND PRIX\\\"} RESULTS\",\n    \"winner_callout\": {\n      \"label\": \"RACE WINNER\",\n      \"driver\": \"{argument name=\\\"winner name\\\" default=\\\"KIMI ANTONELLI\\\"}\",\n      \"team\": \"{argument name=\\\"winning team\\\" default=\\\"MERCEDES\\\"}\",\n      \"stats\": [\"Back-to-back victories\", \"Youngest championship leader in F1 history\"],\n      \"logo\": \"Mercedes star\"\n    },\n    \"background_image\": \"Sleek black and teal F1 car speeding on a track, heavy motion blur, cherry blossoms and a Japanese pagoda in the background, 'SUZUKA CIRCUIT' text on an overhead gantry.\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"PODIUM FINISHERS\",\n        \"position\": \"middle-top\",\n        \"count\": 3,\n        \"labels\": [\n          \"1 - Photo of young male driver in black Mercedes suit, KIMI ANTONELLI, MERCEDES\",\n          \"2 - Photo of young male driver in orange McLaren suit, OSCAR PIASTRI, McLAREN\",\n          \"3 - Photo of young male driver in red Ferrari suit, CHARLES LECLERC, FERRARI\"\n        ]\n      },\n      {\n        \"title\": \"KEY RACE HIGHLIGHTS\",\n        \"position\": \"middle\",\n        \"count\": 4,\n        \"labels\": [\n          \"Safety Car icon: Strategic Safety Car timing played a decisive role\",\n          \"Checkered flag icon: Mercedes continues dominant early-season form\",\n          \"Trophy icon: Antonelli extends championship lead\",\n          \"Speedometer icon: Multiple teams still adapting to new 2026 regulations\"\n        ]\n      },\n      {\n        \"title\": \"DRIVER STANDINGS\",\n        \"position\": \"bottom-left\",\n        \"count\": 5,\n        \"labels\": [\n          \"1 Kimi Antonelli Mercedes 72 PTS\",\n          \"2 George Russell Mercedes 63 PTS\",\n          \"3 Charles Leclerc Ferrari 49 PTS\",\n          \"4 Lewis Hamilton Ferrari 41 PTS\",\n          \"5 Lando Norris McLaren 25 PTS\"\n        ],\n        \"visuals\": \"Horizontal bar charts for each driver matching team colors\"\n      },\n      {\n        \"title\": \"CONSTRUCTORS STANDINGS\",\n        \"position\": \"bottom-right\",\n        \"count\": 5,\n        \"labels\": [\n          \"1 Mercedes 135 PTS\",\n          \"2 Ferrari 90 PTS\",\n          \"3 McLaren 46 PTS\",\n          \"4 Haas 18 PTS\",\n          \"5 Alpine 16 PTS\"\n        ],\n        \"visuals\": \"Team logos next to each rank\"\n      }\n    ]\n  },\n  \"footer\": {\n    \"content\": \"White outline of track layout, {argument name=\\\"circuit name\\\" default=\\\"SUZUKA CIRCUIT\\\"}, JAPAN with flag, APRIL 5, 2026, red F1 logo.\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"体育广播信息图仪表盘\",\n  \"theme\": \"深色模式，时尚，现代，霓虹青色点缀，高科技 F1 图形\",\n  \"header\": {\n    \"title\": \"一级方程式赛车 {argument name=\\\"year\\\" default=\\\"2026\\\"} 年 {argument name=\\\"race name\\\" default=\\\"日本大奖赛\\\"} 比赛结果\",\n    \"winner_callout\": {\n      \"label\": \"比赛获胜者\",\n      \"driver\": \"{argument name=\\\"winner name\\\" default=\\\"KIMI ANTONELLI\\\"}\",\n      \"team\": \"{argument name=\\\"winning team\\\" default=\\\"梅赛德斯\\\"}\",\n      \"stats\": [\"蝉联冠军\", \"F1 史上最年轻的积分榜领跑者\"],\n      \"logo\": \"梅赛德斯之星\"\n    },\n    \"background_image\": \"一辆时尚的黑青色 F1 赛车在赛道上飞驰，强烈的动态模糊，背景为樱花和日本宝塔，头顶龙门架上写有 'SUZUKA CIRCUIT' 字样。\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"领奖台选手\",\n        \"position\": \"中上\",\n        \"count\": 3,\n        \"labels\": [\n          \"1 - 身着黑色梅赛德斯赛车服的年轻男车手照片，KIMI ANTONELLI，梅赛德斯\",\n          \"2 - 身着橙色迈凯伦赛车服的年轻男车手照片，OSCAR PIASTRI，迈凯伦\",\n          \"3 - 身着红色法拉利赛车服的年轻男车手照片，CHARLES LECLERC，法拉利\"\n        ]\n      },\n      {\n        \"title\": \"关键比赛集锦\",\n        \"position\": \"中间\",\n        \"count\": 4,\n        \"labels\": [\n          \"安全车图标：战略性的安全车时机起到了决定性作用\",\n          \"方格旗图标：梅赛德斯延续了赛季初的统治地位\",\n          \"奖杯图标：Antonelli 扩大了积分榜领先优势\",\n          \"速度计图标：多支车队仍在适应 2026 年新规\"\n        ]\n      },\n      {\n        \"title\": \"车手积分榜\",\n        \"position\": \"左下\",\n        \"count\": 5,\n        \"labels\": [\n          \"1 Kimi Antonelli 梅赛德斯 72 分\",\n          \"2 George Russell 梅赛德斯 63 分\",\n          \"3 Charles Leclerc 法拉利 49 分\",\n          \"4 Lewis Hamilton 法拉利 41 分\",\n          \"5 Lando Norris 迈凯伦 25 分\"\n        ],\n        \"visuals\": \"每位车手对应车队颜色的水平条形图\"\n      },\n      {\n        \"title\": \"车队积分榜\",\n        \"position\": \"右下\",\n        \"count\": 5,\n        \"labels\": [\n          \"1 梅赛德斯 135 分\",\n          \"2 法拉利 90 分\",\n          \"3 迈凯伦 46 分\",\n          \"4 哈斯 18 分\",\n          \"5 阿尔派 16 分\"\n        ],\n        \"visuals\": \"每个排名旁显示车队 Logo\"\n      }\n    ]\n  },\n  \"footer\": {\n    \"content\": \"赛道布局的白色轮廓，{argument name=\\\"circuit name\\\" default=\\\"铃鹿赛道\\\"}，日本及国旗，2026 年 4 月 5 日，红色 F1 Logo。\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "F1 赛事结果信息图仪表盘：生成高度详细的深色主题体育广播信息图，展示比赛获胜者、领奖台选手、精彩集锦及当前积分榜。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "callout",
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: callout, horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13656",
+      "13639",
+      "14651",
+      "14866",
+      "13599",
+      "13688"
+    ]
+  }
+}

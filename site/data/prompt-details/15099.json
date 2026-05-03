@@ -1,0 +1,48 @@
+{
+  "id": "15099",
+  "prompt": "A highly detailed anime illustration of a teenage schoolgirl sitting on a rocky lunar surface in outer space, viewed from a slightly elevated three-quarter angle. She has very long flowing {argument name=\"hair color\" default=\"silver-white\"} hair with two round odango buns on top and loose strands streaming dramatically to the right as if in low gravity or solar wind. Her face is obscured by a plain rectangular censor block in a muted beige-gray color, centered over the entire face. She wears a Japanese-style school uniform: a white long-sleeve blouse, a dark navy sleeveless sweater vest, a small green ribbon bow at the collar, a gray pleated skirt, white knee socks, and brown loafers. She is seated on the edge of a moon rock with one hand braced behind her and the other resting near her side, legs angled forward in a relaxed pose. The background is a deep star-filled black sky with the planet Earth glowing in the upper right, showing the Asia-Pacific region, with a soft sunbeam entering diagonally from the top right. The moon terrain is bright gray and heavily textured with craters and jagged rocks. Include exactly 3 pieces of lunar equipment: 2 metallic boxy panels or instrument cases on the left side of the foreground and midground, and 1 small rover or antenna-like device on the lower right. Lighting is cinematic and cool, with bright rim light on the hair and soft highlights on the uniform and legs. Render in polished modern anime key visual style, ultra-clean linework, luminous hair strands, subtle depth, and a wistful sci-fi mood.",
+  "translatedPrompt": "一张高度精细的动漫插图，描绘了一名少女坐在外太空岩石嶙峋的月球表面，视角为略微俯视的三分之四侧面。她拥有非常长且飘逸的 {argument name=\"hair color\" default=\"银白色\"} 头发，头顶有两个圆形的丸子头，发丝如同处于低重力或太阳风中一般向右侧戏剧性地飘散。她的脸部被一个位于正中央、呈柔和米灰色的矩形遮挡块所掩盖。她身穿日式校服：白色长袖衬衫、深蓝色无袖针织背心、领口系着一个小小的绿色蝴蝶结、灰色百褶裙、白色及膝袜以及棕色乐福鞋。她坐在月球岩石的边缘，一只手撑在身后，另一只手放在身侧，双腿向前伸展，姿态放松。背景是深邃且繁星点点的黑色天空，右上角是发光的地球，展示着亚太地区，一束柔和的阳光从右上角斜射进来。月球表面呈明亮的灰色，布满了陨石坑和锯齿状的岩石，质感强烈。画面中需包含 3 件月球设备：前景和中景左侧放置 2 个金属质感的方形面板或仪器箱，右下角放置 1 个小型月球车或类似天线的装置。灯光具有电影质感且偏冷色调，头发边缘有明亮的轮廓光，校服和腿部有柔和的高光。采用精致的现代动漫关键视觉风格渲染，线条极其干净，发丝具有光泽感，景深微妙，营造出一种忧郁的科幻氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "月球上的动漫女学生：此提示词可生成一张精致的科幻动漫插图，描绘了一名坐在月球上的女学生，背景为地球，非常适合用于角色艺术、海报或社交媒体视觉素材。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "sci-fi"
+      ],
+      "lightingCamera": [
+        "rim light"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: cinematic, anime, sci-fi]。\n\nLighting and camera:\n[参考光线镜头: rim light]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14518",
+      "15012",
+      "15748",
+      "14652",
+      "14887",
+      "15430"
+    ]
+  }
+}

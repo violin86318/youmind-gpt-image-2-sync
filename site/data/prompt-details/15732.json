@@ -1,0 +1,52 @@
+{
+  "id": "15732",
+  "prompt": "{\n  \"type\": \"fantasy character reference sheet\",\n  \"style\": \"clean anime model sheet on an off-white paper background with thin decorative gold border corners, neat editorial layout, soft shading, crisp line art\",\n  \"subject\": {\n    \"character\": \"cute humanoid dragon girl\",\n    \"title_text\": \"ドラゴンの女の子\",\n    \"subtitle_text\": \"紅茶とマロウブルーの化身\",\n    \"alias_text\": \"愛称：ティア・マロウ\",\n    \"design\": {\n      \"body_color\": \"vivid magenta-pink skin with a smooth white belly and chest\",\n      \"hair\": \"messy layered short hair in bright turquoise-blue\",\n      \"face\": \"large anime eyes, confident gentle expression, small muzzle, visible white fangs\",\n      \"horns\": \"2 curved purple horns\",\n      \"ears\": \"2 pointed elf-like ears with pale inner ear\",\n      \"wings\": \"2 bat-like wings, pink outer wing with pale cream inner membrane and yellow claw tips\",\n      \"tail\": \"long dragon tail with blue dorsal spikes\",\n      \"hands_feet\": \"clawed fingers and toes with dark blue claws\",\n      \"proportions\": \"small, chibi-to-semi-chibi full body proportions, slightly curvy and cute\"\n    }\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"main turnaround\",\n        \"position\": \"top center and right\",\n        \"count\": 3,\n        \"labels\": [\"FRONT (正面)\", \"SIDE (側面)\", \"BACK (背面)\"],\n        \"content\": \"three full-body views of the same dragon girl aligned in columns\"\n      },\n      {\n        \"title\": \"profile text panel\",\n        \"position\": \"left column\",\n        \"count\": 5,\n        \"labels\": [\"プロフィール\", \"モチーフ\", \"能力\", \"好きなこと\", \"一人称・二人称\"],\n        \"content\": \"Japanese character setting notes in a printed guidebook style\"\n      },\n      {\n        \"title\": \"color settings\",\n        \"position\": \"bottom left\",\n        \"count\": 8,\n        \"labels\": [\"メインカラー（肌・翼の縁・尾）\", \"お腹・翼の内側\", \"髪の毛\", \"角\", \"爪・背びれ\", \"翼の爪・装飾部\", \"目\", \"口の中\"],\n        \"content\": \"8 oval color swatches with Japanese labels\"\n      },\n      {\n        \"title\": \"ディテール\",\n        \"position\": \"bottom center\",\n        \"count\": 5,\n        \"labels\": [\"目\", \"手のアップ\", \"顔アップ\", \"翼の内側\", \"尾の先端\"],\n        \"content\": \"close-up studies of eye, hand, head, wing, and tail\"\n      },\n      {\n        \"title\": \"設定メモ（イメージ）\",\n        \"position\": \"bottom right\",\n        \"count\": 5,\n        \"labels\": [\"紅茶の香りと温もり\", \"マロウブルーの青い癒し\", \"変化するお茶の色（体調や感情で変化）\", \"※スケール参考\", \"small character silhouettes\"],\n        \"content\": \"visual motif notes showing a floral teacup with tea leaves, blue mallow flowers, a steaming blue tea cup, and scale comparison figures\"\n      }\n    ],\n    \"centerpiece\": \"the front view shows the dragon girl standing upright with one finger thoughtfully near her mouth, wings slightly open, tail curved to the side\"\n  },\n  \"text_blocks\": {\n    \"language\": \"Japanese\",\n    \"density\": \"moderately dense reference sheet notes\",\n    \"appearance\": \"printed character encyclopedia formatting with bold headers and smaller body text\"\n  },\n  \"composition_notes\": \"front, side, and back views occupy the upper two-thirds; notes and detail studies fill the lower third; all content separated by fine gold divider lines; lots of white space for a polished artbook presentation\",\n  \"rendering\": {\n    \"lighting\": \"soft neutral studio lighting\",\n    \"materials\": \"smooth glossy creature skin, matte hair, lightly translucent wing membranes\",\n    \"quality\": \"high-resolution polished concept art sheet\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"奇幻角色设定集\",\n  \"style\": \"米白色纸张背景上的简洁动漫模型图，带有纤细的金色装饰边框，排版整洁，阴影柔和，线条清晰\",\n  \"subject\": {\n    \"character\": \"可爱的类人龙女\",\n    \"title_text\": \"ドラゴンの女の子\",\n    \"subtitle_text\": \"紅茶とマロウブルーの化身\",\n    \"alias_text\": \"爱称：ティア・マロウ\",\n    \"design\": {\n      \"body_color\": \"鲜艳的洋红色皮肤，配有光滑的白色腹部和胸部\",\n      \"hair\": \"凌乱的短发，明亮的青绿色\",\n      \"face\": \"大大的动漫眼睛，自信而温柔的表情，小巧的吻部，可见白色獠牙\",\n      \"horns\": \"2 只弯曲的紫色角\",\n      \"ears\": \"2 只尖尖的精灵耳，内耳颜色较浅\",\n      \"wings\": \"2 只蝙蝠状翅膀，粉色外翼，浅奶油色内膜，黄色爪尖\",\n      \"tail\": \"长龙尾，带有蓝色背棘\",\n      \"hands_feet\": \"带有爪子的手指和脚趾，深蓝色指甲\",\n      \"proportions\": \"小型，Q 版至半 Q 版全身比例，略带曲线，可爱动人\"\n    }\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"主要三视图\",\n        \"position\": \"顶部居中及右侧\",\n        \"count\": 3,\n        \"labels\": [\"正面 (FRONT)\", \"侧面 (SIDE)\", \"背面 (BACK)\"],\n        \"content\": \"三幅并列的龙女全身视图\"\n      },\n      {\n        \"title\": \"个人资料面板\",\n        \"position\": \"左侧栏\",\n        \"count\": 5,\n        \"labels\": [\"プロフィール (个人资料)\", \"モチーフ (主题)\", \"能力 (能力)\", \"好きなこと (喜好)\", \"一人称・二人称 (第一/第二人称)\"],\n        \"content\": \"印刷指南风格的日文角色设定说明\"\n      },\n      {\n        \"title\": \"配色方案\",\n        \"position\": \"左下角\",\n        \"count\": 8,\n        \"labels\": [\"主色（皮肤、翼缘、尾巴）\", \"腹部、翼内侧\", \"头发\", \"角\", \"爪子、背棘\", \"翼爪、装饰部分\", \"眼睛\", \"口腔内部\"],\n        \"content\": \"8 个带有日文标签的椭圆形色卡\"\n      },\n      {\n        \"title\": \"细节展示\",\n        \"position\": \"底部居中\",\n        \"count\": 5,\n        \"labels\": [\"眼睛\", \"手部特写\", \"面部特写\", \"翼内侧\", \"尾尖\"],\n        \"content\": \"眼睛、手部、头部、翅膀和尾巴的细节研究\"\n      },\n      {\n        \"title\": \"设定备注（意象）\",\n        \"position\": \"右下角\",\n        \"count\": 5,\n        \"labels\": [\"红茶的香气与温暖\", \"锦葵蓝的治愈感\", \"茶色随体质与情绪变化\", \"※比例参考\", \"小型角色剪影\"],\n        \"content\": \"视觉意象说明，展示了带有茶叶的茶杯、锦葵花、冒热气的蓝色茶杯及比例参考图\"\n      }\n    ],\n    \"centerpiece\": \"正面视图展示了龙女站立的姿态，一只手指轻触嘴边，神情思考，翅膀微张，尾巴向侧面弯曲\"\n  },\n  \"text_blocks\": {\n    \"language\": \"日语\",\n    \"density\": \"中等密度的参考图说明\",\n    \"appearance\": \"印刷版角色百科全书格式，带有粗体标题和较小的正文\"\n  },\n  \"composition_notes\": \"正面、侧面和背面视图占据上方三分之二空间；备注和细节研究填充下方三分之一；所有内容由细金线分隔；留白充足，呈现出精致画册的视觉效果\",\n  \"rendering\": {\n    \"lighting\": \"柔和的中性摄影棚灯光\",\n    \"materials\": \"光滑的生物皮肤质感，哑光头发，轻微半透明的翼膜\",\n    \"quality\": \"高分辨率精致概念艺术设定图\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫龙女角色设定集：一份精致的日式动漫风格龙女角色三视图，适用于概念设计、模型参考及角色设定集页面。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "full-body",
+        "layered"
+      ],
+      "style": [
+        "editorial",
+        "anime",
+        "fantasy",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, full-body, layered]。\n\nVisual style:\n[参考风格: editorial, anime, fantasy, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15340",
+      "15675",
+      "14404",
+      "14823",
+      "15338",
+      "15805"
+    ]
+  }
+}

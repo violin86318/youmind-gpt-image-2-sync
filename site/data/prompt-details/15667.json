@@ -1,0 +1,47 @@
+{
+  "id": "15667",
+  "prompt": "A luxurious vintage-travel-poster style illustration of {argument name=\"country name\" default=\"FRANCE\"} with {argument name=\"city name\" default=\"PARIS\"} as the destination, designed like an elegant tourism advertisement. Use a grand, romantic Paris cityscape at golden-hour sunset with a glowing pastel sky in peach, pink, lavender, and soft gold. Make the Eiffel Tower the dominant central landmark, tall and detailed, rising above the city. Include 4 additional iconic Paris landmarks: the Louvre Pyramid on the left, the Arc de Triomphe near the center background, Notre-Dame Cathedral to the right of the Eiffel Tower, and Sacré-Cœur Basilica on the far upper-right hillside. In the foreground, fill the scene with dense blooming {argument name=\"flower field\" default=\"lavender\"} in vivid purple, creating a dreamy, painterly foreground leading into the city. Add a river and elegant stone bridges beneath the Eiffel Tower with warm reflected sunset light. The composition should feel idealized, cinematic, and slightly fantastical, combining multiple landmarks into one harmonious panoramic view.\n\nOverlay refined editorial typography in the upper-left to upper-center area: a very large serif title reading {argument name=\"headline text\" default=\"FRANCE\"}, with a smaller spaced serif subtitle reading {argument name=\"subheadline text\" default=\"PARIS\"}. Above the subtitle, place a small gold fleur-de-lis ornament; below it, add a tiny horizontal French tricolor accent. Under the main heading, include the two lines of promotional copy exactly: \"TIMELESS BEAUTY. ENDLESS INSPIRATION.\" and \"Where Every Moment Becomes a Memory\" in elegant small caps and italic script. Add a thin decorative gold border around the whole poster with delicate ornamental corner details.\n\nAt the bottom, create a soft cream misted panel blending into the image, with the phrase \"THE FRENCH ART OF LIVING\" centered above a row of 3 food-and-drink items: 1 buttery croissant on a plate, 1 glass of red wine with 1 wine bottle, and 1 crème brûlée in a ramekin topped with berries. Label them \"CROISSANT\", \"FINE WINE\", and \"CRÈME BRÛLÉE\". To the right, add 4 small gold line icons with labels beneath them: \"ICONIC LANDMARKS\", \"RICH HERITAGE\", \"AUTHENTIC CUISINE\", and \"UNFORGETTABLE EXPERIENCES\". Overall style: ultra-detailed, polished travel poster, romantic European tourism ad, painterly realism, warm luminous atmosphere, premium print design, balanced composition, high-end magazine aesthetic.",
+  "translatedPrompt": "一张奢华的复古旅行海报风格插画，以 {argument name=\"country name\" default=\"法国\"} 为国家，{argument name=\"city name\" default=\"巴黎\"} 为目的地，设计如同一则优雅的旅游广告。展现宏伟、浪漫的巴黎城市景观，背景为黄金时刻的日落，天空呈现桃色、粉色、淡紫色和柔和金色的梦幻渐变。以埃菲尔铁塔为中心地标，高耸且细节丰富，矗立在城市上方。包含 4 个额外的巴黎标志性地标：左侧的卢浮宫金字塔、背景中央附近的凯旋门、埃菲尔铁塔右侧的巴黎圣母院，以及远方右上角山坡上的圣心大教堂。前景处填满繁茂盛开的 {argument name=\"flower field\" default=\"薰衣草花田\"}，呈现鲜艳的紫色，营造出通往城市的梦幻绘画感前景。埃菲尔铁塔下方绘有河流和优雅的石桥，倒映着温暖的夕阳余晖。构图应具有理想化、电影感和些许奇幻色彩，将多个地标融合成一幅和谐的全景图。\n\n在左上至中上方区域叠加精致的编辑排版：一个非常大的衬线字体标题，内容为 {argument name=\"headline text\" default=\"法国\"}，下方配以较小的间距衬线副标题，内容为 {argument name=\"subheadline text\" default=\"巴黎\"}。在副标题上方放置一个金色鸢尾花装饰；下方添加一个微小的水平法国三色旗点缀。在主标题下方，包含两行促销文案，内容必须完全一致：“TIMELESS BEAUTY. ENDLESS INSPIRATION.” 以及 “Where Every Moment Becomes a Memory”，采用优雅的小写大写字母和斜体字。在整张海报周围添加一圈纤细的金色装饰边框，并配以精致的边角装饰细节。\n\n在底部，创建一个与图像融合的柔和奶油色雾面面板，面板上方居中显示短语 “THE FRENCH ART OF LIVING”，下方排列 3 种餐饮元素：1 个盘子里的黄油可颂、1 杯红酒配 1 瓶红酒，以及 1 个顶部点缀浆果的焦糖布丁。分别标注为 “CROISSANT”、“FINE WINE” 和 “CRÈME BRÛLÉE”。在右侧添加 4 个金色小图标，下方分别标注：“ICONIC LANDMARKS”、“RICH HERITAGE”、“AUTHENTIC CUISINE” 和 “UNFORGETTABLE EXPERIENCES”。整体风格：超精细、精致的旅行海报，浪漫的欧洲旅游广告，绘画写实主义，温暖明亮的氛围，高端印刷设计，构图平衡，高端杂志美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "浪漫巴黎旅行海报：此提示词可生成一张优雅的复古风格巴黎旅游海报，非常适合用于旅行广告、墙面装饰或目的地推广视觉素材。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "horizontal"
+      ],
+      "style": [
+        "cinematic",
+        "editorial",
+        "vintage",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, horizontal]。\n\nVisual style:\n[参考风格: cinematic, editorial, vintage, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15665",
+      "15669",
+      "14842",
+      "15668",
+      "15265",
+      "14813"
+    ]
+  }
+}

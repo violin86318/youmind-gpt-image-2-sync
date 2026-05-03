@@ -1,0 +1,50 @@
+{
+  "id": "14440",
+  "prompt": "Ultra-realistic interior photograph of a {argument name=\"aircraft model\" default=\"Boeing 747\"} cockpit viewed from slightly behind and between the two pilot seats, centered and perfectly symmetrical, showing the full main instrument panel, center pedestal, dual control yokes, and the overhead switch panel across the top edge of the frame. The cockpit is unoccupied, with 2 pilot seats visible in the foreground, each with light gray or off-white sheepskin seat covers, and 2 control yokes each holding a dark rectangular checklist or electronic note board clipped to the center. The main panel is densely packed with authentic-looking avionics, analog dials, autopilot controls, radio panels, and 6 illuminated display screens total: 2 large central navigation displays, 2 smaller blue-toned flight displays near the left and right sides, and 2 green text/data screens on the lower center pedestal. Include 4 throttle levers in the center, plus additional flap and systems levers, rotary knobs, guarded switches, and weathered brown-gray metal surfaces typical of a widebody airliner cockpit. The overhead panel should be crowded with rows of switches, toggles, and indicator lights, partially shadowed but sharply detailed. Through the front cockpit windows, show an airport gate scene in soft focus with pale concrete tarmac, painted ground markings, and a passenger jet bridge connected or positioned near the aircraft. Lighting is natural daylight from outside, subdued inside the cockpit, with realistic shadows, mild reflections on glass screens, and documentary-style photographic color grading. Emphasize extreme detail, realism, authentic aviation engineering complexity, and a near indistinguishable-from-real photo quality. Shot with a full-frame camera, eye-level perspective, wide lens around 24–28mm, deep focus across the instrument panel, high dynamic range, no people, no dramatic stylization, no illustration look.",
+  "translatedPrompt": "超写实内部摄影作品，展示了 {argument name=\"aircraft model\" default=\"波音 747\"} 驾驶舱。视角位于两个飞行员座椅后方中间，构图居中且完全对称，完整呈现了主仪表板、中央操纵台、双控制杆以及顶部边缘的头顶开关面板。驾驶舱内无人，前景可见两个飞行员座椅，座椅配有浅灰色或米白色的羊皮座套，每个控制杆上都夹着一块深色矩形检查清单或电子笔记项目。主面板上密布着外观逼真的航空电子设备、模拟表盘、自动驾驶控制器、无线电面板，总计 6 个发光显示屏：2 个大型中央导航显示屏、左右两侧各 1 个较小的蓝色调飞行显示屏，以及中央操纵台下方的 2 个绿色文字/数据屏幕。中央包含 4 个油门杆，以及额外的襟翼和系统操纵杆、旋转旋钮、带防护罩的开关，以及宽体客机驾驶舱典型的风化棕灰色金属表面。头顶面板应布满成排的开关、拨动开关和指示灯，部分处于阴影中但细节清晰。透过前挡风玻璃，显示虚化处理的机场登机口场景，包括浅色混凝土停机坪、地面标记，以及连接或靠近飞机的乘客登机桥。光线为来自外部的自然日光，驾驶舱内光线柔和，具有逼真的阴影、玻璃屏幕上的轻微反射以及纪录片风格的色彩分级。强调极致细节、写实感、真实的航空工程复杂性，以及与真实照片无异的画质。使用全画幅相机拍摄，平视视角，24–28mm 广角镜头，仪表板全景深，高动态范围，无人物，无夸张的风格化处理，非插画风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "超写实波音 747 驾驶舱：此提示词可生成高度逼真的民航客机驾驶舱内部正面图像，适用于航空可视化、模拟艺术或编辑风格的飞机影像。",
+      "subject": "界面",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "centered",
+        "symmetrical"
+      ],
+      "style": [
+        "realistic",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "lens",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical]。\n\nVisual style:\n[参考风格: realistic, documentary]。\n\nLighting and camera:\n[参考光线镜头: lens, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14821",
+      "15602",
+      "14427",
+      "14811",
+      "15031",
+      "15313"
+    ]
+  }
+}

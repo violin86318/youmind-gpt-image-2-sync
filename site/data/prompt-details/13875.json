@@ -1,0 +1,45 @@
+{
+  "id": "13875",
+  "prompt": "{\n  \"type\": \"advertisement poster collection\",\n  \"layout\": \"{argument name=\\\"grid layout\\\" default=\\\"2x2 grid\\\"}\",\n  \"panels\": [\n    {\n      \"position\": \"top-left\",\n      \"theme\": \"skincare\",\n      \"visuals\": \"young Asian woman looking up, soft natural lighting, dappled shadows, green lotion bottle\",\n      \"headline\": \"{argument name=\\\"skincare headline\\\" default=\\\"素肌が、目覚める。\\\"}\",\n      \"subtext\": [\"植物の力で、今日より、もっと私らしく。\", \"93% 自然由来成分配合\"],\n      \"branding\": \"BALMY BOTANICAL SKIN LOTION\"\n    },\n    {\n      \"position\": \"top-right\",\n      \"theme\": \"tourism\",\n      \"visuals\": \"traditional Japanese temple on a cliff, sea of clouds, purple and orange sunrise sky\",\n      \"headline\": \"{argument name=\\\"travel headline\\\" default=\\\"まだ見ぬ日本が、待っている。\\\"}\",\n      \"subtext\": [\"旅は、人生を豊かにする時間。心が動く、その一歩を。\"],\n      \"branding\": \"JAPAN Where tradition meets wonder.\"\n    },\n    {\n      \"position\": \"bottom-left\",\n      \"theme\": \"food\",\n      \"visuals\": \"steaming bowl of ramen, chashu, egg, chopsticks lifting noodles, dark moody lighting\",\n      \"headline\": \"{argument name=\\\"ramen headline\\\" default=\\\"麺が、うまいと、心が満たされる。\\\"}\",\n      \"subtext\": [\"国産小麦 100% 職人仕込み\"],\n      \"branding\": \"らぁ麺 匠 -TAKUMI-\"\n    },\n    {\n      \"position\": \"bottom-right\",\n      \"theme\": \"technology\",\n      \"visuals\": \"floating black wireless earbuds, abstract glowing purple and blue sound waves, dark background\",\n      \"headline\": \"{argument name=\\\"earbuds headline\\\" default=\\\"音が、あなたを解き放つ。\\\"}\",\n      \"subtext\": [\"静寂の中に、新しい自分が見つかる。\"],\n      \"branding\": \"SOUND ERA SE-01\"\n    }\n  ]\n}",
+  "translatedPrompt": "{\n  \"type\": \"广告海报合集\",\n  \"layout\": \"{argument name=\\\"grid layout\\\" default=\\\"2x2 网格\\\"}\",\n  \"panels\": [\n    {\n      \"position\": \"左上\",\n      \"theme\": \"护肤\",\n      \"visuals\": \"年轻亚洲女性抬头仰望，柔和的自然光，斑驳的阴影，绿色乳液瓶\",\n      \"headline\": \"{argument name=\\\"skincare headline\\\" default=\\\"素肌が、目覚める。\\\"}\",\n      \"subtext\": [\"植物の力で、今日より、もっと私らしく。\", \"93% 自然由来成分配合\"],\n      \"branding\": \"BALMY BOTANICAL SKIN LOTION\"\n    },\n    {\n      \"position\": \"右上\",\n      \"theme\": \"旅游\",\n      \"visuals\": \"悬崖上的传统日本寺庙，云海，紫色和橙色的日出天空\",\n      \"headline\": \"{argument name=\\\"travel headline\\\" default=\\\"まだ見ぬ日本が、待っている。\\\"}\",\n      \"subtext\": [\"旅は、人生を豊かにする時間。心が動く、その一歩を。\"],\n      \"branding\": \"JAPAN Where tradition meets wonder.\"\n    },\n    {\n      \"position\": \"左下\",\n      \"theme\": \"美食\",\n      \"visuals\": \"冒着热气的拉面碗，叉烧，鸡蛋，筷子挑起面条，深色调灯光\",\n      \"headline\": \"{argument name=\\\"ramen headline\\\" default=\\\"麺が、うまいと、心が満たされる。\\\"}\",\n      \"subtext\": [\"国産小麦 100% 職人仕込み\"],\n      \"branding\": \"らぁ麺 匠 -TAKUMI-\"\n    },\n    {\n      \"position\": \"右下\",\n      \"theme\": \"科技\",\n      \"visuals\": \"悬浮的黑色无线耳机，抽象的紫色和蓝色发光声波，深色背景\",\n      \"headline\": \"{argument name=\\\"earbuds headline\\\" default=\\\"音が、あなたを解き放つ。\\\"}\",\n      \"subtext\": [\"静寂の中に、新しい自分が見つかる。\"],\n      \"branding\": \"SOUND ERA SE-01\"\n    }\n  ]\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "2x2 日本广告网格：生成一个包含护肤、旅游、美食和科技主题的 2x2 日本广告海报网格。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "grid",
+        "2x2"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "natural light"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, 2x2]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: natural light]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14995",
+      "13996",
+      "14678",
+      "14259",
+      "15085",
+      "14006"
+    ]
+  }
+}

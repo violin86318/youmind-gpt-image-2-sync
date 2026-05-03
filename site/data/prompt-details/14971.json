@@ -1,0 +1,45 @@
+{
+  "id": "14971",
+  "prompt": "Using the provided reference image, make a localized edit only: rotate the laptop at the lower left so the back of the screen faces the viewer instead of the keyboard, and add a cute robot mascot logo centered on the back cover. Keep the rest of the illustration unchanged, including the characters, room decor, lighting, watercolor anime style, desk items, and overall composition.",
+  "translatedPrompt": "使用提供的参考图像进行局部编辑：将左下角的笔记本电脑旋转，使其屏幕背面朝向观众而非键盘，并在背面中心添加一个可爱的机器人吉祥物 Logo。保持插图的其余部分不变，包括人物、房间装饰、光影、水彩动漫风格、桌面物品以及整体构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "局部编辑：旋转笔记本电脑并添加 Logo：此提示词通过更改左下角笔记本电脑的朝向并在其背面放置一个吉祥物 Logo，对参考插图进行精确的局部编辑，同时保留其余所有元素。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "anime",
+        "watercolor"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: anime, watercolor]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14974",
+      "13679",
+      "14476",
+      "15506",
+      "13933",
+      "14927"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "13676",
+  "prompt": "A photorealistic selfie of a young tanned woman lying on a striped towel at a {argument name=\"location\" default=\"sandy beach with rocky cliffs\"}. She has a messy brown bun and makes a playful face, {argument name=\"facial expression\" default=\"winking and sticking her tongue out\"}. She wears a white baseball cap and a white swimsuit, both displaying the text \"{argument name=\"clothing text\" default=\"ANTHROPIC\"}\" in black. Bright daylight, ocean waves, and a partly cloudy sky complete the background.",
+  "translatedPrompt": "一张照片级逼真的自拍，展示了一位 {argument name=\"subject description\" default=\"扎着凌乱丸子头、皮肤黝黑、棕色头发的年轻女性\"} 躺在 {argument name=\"location\" default=\"背景为沙滩、海浪和岩石峭壁的\"} 条纹沙滩巾上。她正对着镜头 {argument name=\"facial expression\" default=\"眨眼并俏皮地吐着舌头\"}。她戴着一顶白色棒球帽，穿着一件白色圆领泳衣，两者上都印有粗体黑色字母“{argument name=\"brand text\" default=\"ANTHROPIC\"}”。她戴着小巧的金色圆圈耳环和一条细金项链。光线明亮且充满阳光，捕捉到了夏日休闲、随性的氛围，头顶是蓝天和零星的云朵。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "品牌海滩自拍：生成一张照片级逼真的自拍，展示一个人在海滩上穿着带有定制品牌标识的服装。",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13667",
+      "13732",
+      "14125",
+      "13824",
+      "13696",
+      "14033"
+    ]
+  }
+}

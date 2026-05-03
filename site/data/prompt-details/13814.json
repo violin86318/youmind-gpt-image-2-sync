@@ -1,0 +1,41 @@
+{
+  "id": "13814",
+  "prompt": "{\n  \"type\": \"educational flashcard grid\",\n  \"theme\": \"{argument name=\\\"theme\\\" default=\\\"toddler daily routine\\\"}\",\n  \"art_style\": \"{argument name=\\\"art style\\\" default=\\\"flat vector illustration, soft pastel colors, children's book style\\\"}\",\n  \"character\": \"{argument name=\\\"character description\\\" default=\\\"cute toddler girl with short brown hair tied in two small pigtails, rosy cheeks, dot eyes\\\"}\",\n  \"layout\": {\n    \"grid\": \"2 rows by 5 columns\",\n    \"total_panels\": 10,\n    \"panel_structure\": {\n      \"top_left\": \"number in a colored circle\",\n      \"top_center\": \"action title in bold text\",\n      \"center\": \"illustration of the character performing the action\",\n      \"bottom\": \"colored pill-shaped box containing a magnifying glass icon and a question\"\n    }\n  },\n  \"panels\": [\n    { \"number\": 1, \"title\": \"小宝宝起床啦\", \"illustration\": \"waking up in bed, stretching arms, sun shining, teddy bear\", \"bottom_question\": \"宝宝在哪里？\" },\n    { \"number\": 2, \"title\": \"宝宝在刷牙\", \"illustration\": \"brushing teeth, wearing blue pajamas, holding a yellow cup\", \"bottom_question\": \"牙刷在哪里？\" },\n    { \"number\": 3, \"title\": \"宝宝吃早餐\", \"illustration\": \"eating toast, glass of milk, fried egg, strawberries on table\", \"bottom_question\": \"宝宝在吃什么？\" },\n    { \"number\": 4, \"title\": \"宝宝要出门啦\", \"illustration\": \"wearing yellow jacket and red backpack, waving goodbye at an open door\", \"bottom_question\": \"门在哪里？\" },\n    { \"number\": 5, \"title\": \"宝宝在玩球\", \"illustration\": \"running on grass, kicking a colorful striped ball, yellow butterfly\", \"bottom_question\": \"球在哪里？\" },\n    { \"number\": 6, \"title\": \"宝宝在喝水\", \"illustration\": \"drinking from a sippy cup, wearing green pajamas\", \"bottom_question\": \"杯子在哪里？\" },\n    { \"number\": 7, \"title\": \"宝宝吃饭啦\", \"illustration\": \"eating rice with a spoon, wearing a cherry bib, food tray with broccoli and carrots\", \"bottom_question\": \"勺子在哪里？\" },\n    { \"number\": 8, \"title\": \"宝宝在洗澡\", \"illustration\": \"taking a bath in a tub full of bubbles, showerhead running, yellow rubber duck\", \"bottom_question\": \"泡泡在哪里？\" },\n    { \"number\": 9, \"title\": \"宝宝在看书\", \"illustration\": \"sitting on a yellow beanbag chair, reading a blue book with a bunny cover, bookshelf in background\", \"bottom_question\": \"书在哪里？\" },\n    { \"number\": 10, \"title\": \"宝宝睡觉啦\", \"illustration\": \"sleeping peacefully in bed under a blue starry blanket, teddy bear, window showing night sky with crescent moon\", \"bottom_question\": \"宝宝闭眼了吗？\" }\n  ]\n}",
+  "translatedPrompt": "{\n  \"type\": \"{argument name=\\\"theme\\\" default=\\\"日常作息闪卡\\\"}\",\n  \"style\": \"{argument name=\\\"style\\\" default=\\\"可爱的童书插画风格，柔和的马卡龙色调\\\"}\",\n  \"character\": \"{argument name=\\\"character\\\" default=\\\"扎着两个小辫子、留着棕色短发的幼儿女孩\\\"}\",\n  \"layout\": {\n    \"grid\": \"2x5 格\",\n    \"elements_per_panel\": [\"数字圆圈\", \"标题\", \"场景\", \"带有放大镜图标的问题横幅\"]\n  },\n  \"panels\": [\n    {\"id\": 1, \"title\": \"小宝宝起床啦\", \"scene\": \"起床，太阳，泰迪熊\", \"question\": \"宝宝在哪里？\"},\n    {\"id\": 2, \"title\": \"宝宝在刷牙\", \"scene\": \"刷牙，蓝色睡衣\", \"question\": \"牙刷在哪里？\"},\n    {\"id\": 3, \"title\": \"宝宝吃早餐\", \"scene\": \"吃吐司和鸡蛋，苹果围兜\", \"question\": \"宝宝在吃什么？\"},\n    {\"id\": 4, \"title\": \"宝宝要出门啦\", \"scene\": \"黄色外套，书包，门\", \"question\": \"门在哪里？\"},\n    {\"id\": 5, \"title\": \"宝宝在玩球\", \"scene\": \"在户外踢球，蝴蝶\", \"question\": \"球在哪里？\"},\n    {\"id\": 6, \"title\": \"宝宝在喝水\", \"scene\": \"用学饮杯喝水\", \"question\": \"杯子在哪里？\"},\n    {\"id\": 7, \"title\": \"宝宝吃饭啦\", \"scene\": \"吃米饭，樱桃围兜，餐盘\", \"question\": \"勺子在哪里？\"},\n    {\"id\": 8, \"title\": \"宝宝在洗澡\", \"scene\": \"浴缸，泡泡，小黄鸭\", \"question\": \"泡泡在哪里？\"},\n    {\"id\": 9, \"title\": \"宝宝在看书\", \"scene\": \"在懒人沙发上看书\", \"question\": \"书在哪里？\"},\n    {\"id\": 10, \"title\": \"宝宝睡觉啦\", \"scene\": \"在床上睡觉，夜间的窗户\", \"question\": \"宝宝闭眼了吗？\"}\n  ]\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "10 格幼儿日常作息闪卡：生成一套 10 格教育闪卡，描绘幼儿的日常作息，包含中文标题和互动问题。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "grid"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14042",
+      "14187",
+      "15621",
+      "13903",
+      "14202",
+      "15735"
+    ]
+  }
+}

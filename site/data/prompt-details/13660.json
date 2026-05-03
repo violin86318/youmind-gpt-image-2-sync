@@ -1,0 +1,36 @@
+{
+  "id": "13660",
+  "prompt": "A first-person POV screenshot inside a {argument name=\"game environment\" default=\"VRChat lobby\"} featuring a dark checkered floor, a \"VR CHAT\" welcome sign on the left, a \"Mirror\" doorway, and an \"Avatar Showcase\" on the right. The viewer's hands are visible in the foreground, wearing white sleeves with red dashed stitching, reaching forward. A red muted microphone UI icon sits in the bottom left corner. In the center stands {argument name=\"tall character\" default=\"Ran Mouri from Detective Conan in her blue school uniform\"}, smiling with closed eyes and {argument name=\"action\" default=\"patting the heads of the two smaller characters\"}. On her left is {argument name=\"small character 1\" default=\"Conan Edogawa in his blue suit and red bowtie\"}. On her right is {argument name=\"small character 2\" default=\"the Ugandan Knuckles meme character\"}. Each character has a floating nameplate above them: the tall girl's reads \"Ran Mouri\" in yellow over \"LetsAskAQuestion\" in white, the boy's reads \"Conan Edogawa\" over \"conan.exe\", and the red creature's reads \"Ugandan Knuckles\" over \"do u know de way\".",
+  "translatedPrompt": "一张位于 {argument name=\"game environment\" default=\"VRChat 大厅\"} 内的第一人称 POV 截图，画面包含深色方格地板、左侧的“VR CHAT”欢迎标志、“Mirror”门廊以及右侧的“Avatar Showcase”。前景可见观察者的双手，穿着带有红色虚线缝合的白色袖子，正向前伸出。左下角有一个红色的静音麦克风 UI 图标。画面中央站着 {argument name=\"tall character\" default=\"《名侦探柯南》中身穿蓝色校服的毛利兰\"}，她闭着眼睛微笑，正在 {argument name=\"action\" default=\"抚摸两个较小角色的头\"}。她的左侧是 {argument name=\"small character 1\" default=\"身穿蓝色西装、佩戴红色领结的江户川柯南\"}。她的右侧是 {argument name=\"small character 2\" default=\"乌干达纳克鲁斯 (Ugandan Knuckles) 模因角色\"}。每个角色上方都有一个悬浮名称牌：高个女孩的牌子上用黄色写着“Ran Mouri”，下方用白色写着“LetsAskAQuestion”；男孩的牌子上写着“Conan Edogawa”，下方是“conan.exe”；红色生物的牌子上写着“Ugandan Knuckles”，下方是“do u know de way”。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "第一人称 VRChat 模因联动截图：生成一张虚拟现实社交游戏大厅的第一人称视角截图，呈现动漫与模因头像联动及悬浮名称牌的画面。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13441",
+      "13595",
+      "13618",
+      "13635",
+      "13654",
+      "13800"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "15069",
+  "prompt": "Create a dramatic fast-food advertising poster in a cinematic studio style for {argument name=\"brand name\" default=\"BURGER KING\"}. Use a wide landscape composition with the hero burger dominating the right half of the frame and bold promotional typography stacked on the left. The background should be nearly black with fiery orange flames, glowing embers, smoke, and flying grease droplets to emphasize heat and flame-grilling. The burger should be an extreme close-up, shot at table level on a glossy dark reflective surface with sauce drips and scattered droplets. Show exactly 8 visible burger components from top to bottom: 1 sesame seed top bun, 1 layer of curly green leaf lettuce, 2 thick red tomato slices, 2 white onion rings, 3 pickle slices, 1 slice of melted yellow American cheese, 1 thick charred flame-grilled beef patty, and 1 glossy bottom bun with barbecue sauce dripping over the edge. Make the patty heavily textured with blackened grill-char detail and juicy highlights. Add sparks and steam rising around the burger. On the left side, place a circular fast-food logo near the upper-left corner, then huge distressed bold white block text in three stacked lines reading {argument name=\"headline text\" default=\"FLAME GRILLED PERFECTION\"}. Beneath it, add a short tagline in smaller uppercase text with an orange accent slash or underline, reading {argument name=\"tagline text\" default=\"BOLD FLAVOR. PERFECTLY GRILLED.\"}. In the bottom-left corner, add the brand name again in white plus a handwritten script slogan in orange reading {argument name=\"slogan text\" default=\"Have It Your Way\"}. In the blurred background on the far right, include exactly 2 secondary food elements: 1 branded soda cup and 1 portion of fries, both out of focus. High contrast, rich warm tones, glossy food photography, ultra-detailed textures, realistic commercial lighting, shallow depth of field, premium restaurant poster aesthetic, print-ready ad composition.",
+  "translatedPrompt": "为 {argument name=\"brand name\" default=\"BURGER KING\"} 创作一张电影级摄影风格的快餐广告海报。采用宽幅横向构图，主角汉堡占据画面右侧，醒目的促销排版堆叠在左侧。背景应接近黑色，辅以橙色火焰、发光的余烬、烟雾及飞溅的油脂，以强调热度和火烤感。汉堡应采用极致特写，以桌面视角拍摄，置于光亮的深色反射平面上，带有酱汁滴落和零星水滴。从上到下需清晰展示 8 个汉堡组件：1 个芝麻顶层面包、1 层卷曲绿叶生菜、2 片厚红番茄、2 个白洋葱圈、3 片酸黄瓜、1 片融化的黄色美式芝士、1 片厚实焦香的火烤牛肉饼，以及 1 个边缘滴落烧烤酱的光亮底层面包。肉饼需呈现厚重的质感，带有焦黑的烤痕细节和多汁的高光。在汉堡周围加入火星和升腾的热气。在左侧，左上角放置一个圆形快餐 Logo，下方是三行堆叠的巨大做旧粗体白色大字，内容为 {argument name=\"headline text\" default=\"FLAME GRILLED PERFECTION\"}。在其下方，添加一行较小的橙色斜杠或下划线装饰的大写标语，内容为 {argument name=\"tagline text\" default=\"BOLD FLAVOR. PERFECTLY GRILLED.\"}。在左下角，再次以白色字体标注品牌名称，并配以橙色手写体口号 {argument name=\"slogan text\" default=\"Have It Your Way\"}。在右侧模糊的背景中，包含 2 个次要食物元素：1 杯品牌汽水和 1 份薯条，均需保持虚化效果。高对比度，浓郁暖色调，光泽感食物摄影，超精细纹理，写实商业布光，浅景深，高端餐厅海报美学，适合印刷的广告构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "火烤汉堡广告海报：一款极具视觉冲击力的快餐宣传海报，以火烤芝士汉堡为核心，结合醒目的品牌标识与电影级火焰风格，适用于餐厅广告、项目展示及社交媒体营销。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "high contrast",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up]。\n\nVisual style:\n[参考风格: realistic, cinematic, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: high contrast, shallow depth, depth of field]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15467",
+      "14813",
+      "14829",
+      "14842",
+      "14881",
+      "14453"
+    ]
+  }
+}

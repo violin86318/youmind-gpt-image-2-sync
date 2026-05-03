@@ -1,0 +1,48 @@
+{
+  "id": "14523",
+  "prompt": "{\"type\":\"black-and-white fantasy manga page\",\"style\":\"high-detail seinen manga ink art, monochrome screentone shading, dramatic speed lines, explosive impact effects, dynamic perspective, polished commercial Japanese manga page\",\"setting\":\"rocky battlefield or cavern-like wasteland during a monster attack\",\"page\":{\"reading\":\"right-to-left manga composition\",\"panel_count\":4,\"gutter\":\"clean white borders\",\"sections\":[{\"title\":\"top action panel\",\"position\":\"top\",\"count\":1,\"labels\":[\"witch casting spell at monster\"]},{\"title\":\"reaction panel\",\"position\":\"upper-middle\",\"count\":1,\"labels\":[\"close-up with speech balloon\"]},{\"title\":\"attack panel\",\"position\":\"lower-middle\",\"count\":1,\"labels\":[\"dark projectile rushing toward boy\"]},{\"title\":\"bottom dramatic panel\",\"position\":\"bottom\",\"count\":1,\"labels\":[\"witch reaching forward and shouting\"]}]},\"characters\":[{\"role\":\"main heroine mage\",\"name\":\"{argument name=\\\"character name\\\" default=\\\"Noel\\\"}\",\"appearance\":\"young woman, slim build, long straight light-colored hair, large expressive eyes, no glasses\",\"outfit\":{\"count\":6,\"pieces\":[\"large pointed witch hat with band and oval gem ornament\",\"flowing cape\",\"decorated corset-style top with lacing and filigree trim\",\"short shorts\",\"thigh-high boots\",\"round gem pendant necklace\"]},\"weapon\":\"wooden staff with an eye-shaped ornament near the top\"},{\"role\":\"secondary character\",\"appearance\":\"young man with short messy light hair, cloak or scarf around shoulders\",\"placement\":\"appears at right side of the third panel, facing incoming attack\"},{\"role\":\"monster\",\"appearance\":\"large dragon-like beast with open jaws, rough scales, glowing or intense eyes, aggressive posture\"}],\"panels\":[{\"index\":1,\"composition\":\"rear three-quarter view of the mage dominating the left side, extending one hand toward the right while holding her staff low in the other hand; a circular magic sigil forms in front of her palm and detonates into a huge white blast colliding with the roaring dragon-like monster on the right; shattered rock, debris, ink splashes, and oversized Japanese sound-effect lettering around the explosion\",\"emotion\":\"urgent combat\"},{\"index\":2,\"composition\":\"narrow horizontal close-up of the mage's face under the brim of her hat, looking startled with a small sweat drop; speed lines radiate behind her; one vertical speech balloon\",\"text\":{\"count\":1,\"items\":[\"あ…！\"]},\"emotion\":\"sudden realization\"},{\"index\":3,\"composition\":\"wide horizontal panel showing a black, violent slash or wave-shaped attack tearing across the frame from left toward the boy on the right; heavy motion blur, ink streaks, debris, and large jagged Japanese sound effects emphasize the speed\",\"text\":{\"count\":1,\"items\":[\"ザオオオッ\"]},\"emotion\":\"imminent danger\"},{\"index\":4,\"composition\":\"large foreshortened close-up of the mage lunging toward the viewer, one hand reaching out desperately, mouth open in a shout, hair and cape blown backward, staff visible to the side; dense speed lines fill the background; large vertical speech balloon on the left\",\"text\":{\"count\":1,\"items\":[\"ノエル！ 早くー\"]},\"emotion\":\"panic and urgency\"}],\"tone\":\"dramatic, tense, heroic fantasy battle scene\",\"rendering_notes\":\"keep everything strictly grayscale with crisp inked contours, detailed hatching, intense contrast, manga-style Japanese lettering left as-is, and cinematic page flow suitable for a fantasy action comic\"}",
+  "translatedPrompt": "{\"type\":\"黑白奇幻漫画页面\",\"style\":\"高细节青年漫画墨线艺术，单色网点阴影，戏剧性速度线，爆炸冲击效果，动态视角，精美的商业日本漫画页面\",\"setting\":\"怪物袭击期间的岩石战场或洞穴状荒地\",\"page\":{\"reading\":\"从右向左的漫画构图\",\"panel_count\":4,\"gutter\":\"干净的白色边框\",\"sections\":[{\"title\":\"顶部动作分镜\",\"position\":\"顶部\",\"count\":1,\"labels\":[\"女巫向怪物施法\"]},{\"title\":\"反应分镜\",\"position\":\"中上部\",\"count\":1,\"labels\":[\"带有对话气泡的特写\"]},{\"title\":\"攻击分镜\",\"position\":\"中下部\",\"count\":1,\"labels\":[\"黑色弹射物冲向男孩\"]},{\"title\":\"底部戏剧性分镜\",\"position\":\"底部\",\"count\":1,\"labels\":[\"女巫向前伸手呼喊\"]}]},\"characters\":[{\"role\":\"女主角法师\",\"name\":\"{argument name=\\\"character name\\\" default=\\\"Noel\\\"}\",\"appearance\":\"年轻女性，身材苗条，长直浅色头发，大而有神的眼睛，不戴眼镜\",\"outfit\":{\"count\":6,\"pieces\":[\"带有饰带和椭圆形宝石装饰的大尖顶女巫帽\",\"飘逸的斗篷\",\"带有系带和花丝装饰的紧身胸衣式上衣\",\"短裤\",\"过膝长靴\",\"圆形宝石吊坠项链\"]},\"weapon\":\"木制法杖，顶部有眼状装饰\"},{\"role\":\"次要角色\",\"appearance\":\"短乱浅色头发的年轻男子，肩上披着斗篷或围巾\",\"placement\":\"出现在第三个分镜的右侧，面对袭来的攻击\"},{\"role\":\"怪物\",\"appearance\":\"巨大的龙形野兽，张着大嘴，鳞片粗糙，眼睛发光或充满戾气，姿态具有攻击性\"}],\"panels\":[{\"index\":1,\"composition\":\"法师的后四分之三侧面视图占据左侧，一只手向右伸出，另一只手低垂着法杖；一个圆形魔法阵在她掌前形成，并引爆成巨大的白色冲击波，与右侧咆哮的龙形怪物碰撞；爆炸周围有破碎的岩石、碎片、墨迹飞溅和巨大的日文音效文字\",\"emotion\":\"紧急战斗\"},{\"index\":2,\"composition\":\"狭窄的水平特写，展示了女巫帽檐下的脸庞，神情惊愕，带有一滴汗珠；身后放射出速度线；一个垂直对话气泡\",\"text\":{\"count\":1,\"items\":[\"あ…！\"]},\"emotion\":\"突然意识到\"},{\"index\":3,\"composition\":\"宽幅水平分镜，展示了一道黑色、猛烈的斩击或波浪状攻击从左侧横穿画面，冲向右侧的男孩；强烈的动态模糊、墨迹线条、碎片和巨大的锯齿状日文音效强调了速度感\",\"text\":{\"count\":1,\"items\":[\"ザオオオッ\"]},\"emotion\":\"迫在眉睫的危险\"},{\"index\":4,\"composition\":\"大型透视特写，女巫向观众猛冲，一只手绝望地伸出，嘴巴张开大声呼喊，头发和斗篷向后飘动，法杖在侧面可见；密集的背景速度线；左侧有巨大的垂直对话气泡\",\"text\":{\"count\":1,\"items\":[\"ノエル！ 早くー\"]},\"emotion\":\"恐慌与紧迫感\"}],\"tone\":\"戏剧性、紧张、英雄奇幻战斗场景\",\"rendering_notes\":\"保持严格的灰度，线条清晰，阴影细致，对比强烈，日文漫画字体保持原样，电影般的页面流程适合奇幻动作漫画\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奇幻漫画战斗页面：一页精细的黑白漫画，展示了一位年轻女巫在绝望的奇幻战斗中奋力拼搏，适合用于生成精致的漫画动作场景。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "cinematic",
+        "manga",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, vertical, horizontal]。\n\nVisual style:\n[参考风格: cinematic, manga, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14525",
+      "14413",
+      "15060",
+      "14250",
+      "14534",
+      "15371"
+    ]
+  }
+}

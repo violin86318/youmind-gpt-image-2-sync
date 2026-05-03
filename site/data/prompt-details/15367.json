@@ -1,0 +1,63 @@
+{
+  "id": "15367",
+  "prompt": "{\"type\":\"six-style portrait comparison sheet\",\"subject\":\"the same middle-aged Korean mother portrayed in 6 distinct visual styles\",\"identity\":{\"person\":\"{argument name=\\\"character identity\\\" default=\\\"mother\\\"}\",\"gender\":\"female\",\"age\":\"middle-aged\",\"ethnicity\":\"Korean\",\"hair\":\"dark brown to black, medium length, softly wavy or pinned up depending on style\",\"expression\":\"calm, gentle, reflective\"},\"layout\":{\"background\":\"clean white page with narrow gutters\",\"grid\":{\"rows\":2,\"columns\":3,\"count\":6},\"sections\":[{\"position\":\"top-left\",\"count\":1,\"label\":\"oil portrait\",\"description\":\"moody classical oil painting, bust portrait in three-quarter view, dark muted brown-black background, soft chiaroscuro, cream high-neck blouse with subtle sheen, loosely pinned dark hair, old-master brushwork, elegant and subdued\"},{\"position\":\"top-center\",\"count\":1,\"label\":\"light watercolor portrait\",\"description\":\"soft watercolor bust portrait, front-facing, airy pale pink floral background with cherry-blossom-like washes, white loose blouse, delicate edges, translucent skin tones, bright spring atmosphere\"},{\"position\":\"top-right\",\"count\":1,\"label\":\"sunlit window scene\",\"description\":\"full or three-quarter seated portrait by an open window, wearing a light blue short-sleeved dress, sheer white curtains blowing inward, terracotta potted plant on the windowsill, warm daylight, urban neighborhood rooftops outside, painterly realism with serene summer mood\"},{\"position\":\"bottom-left\",\"count\":1,\"label\":\"1990s drama still\",\"description\":\"cinematic realistic portrait resembling a 1995 Korean drama frame, shoulder-length softly layered hair, burgundy knit turtleneck sweater, warm backlight and shallow depth of field, indoor setting with glowing highlights, nostalgic analog mood\"},{\"position\":\"bottom-center\",\"count\":1,\"label\":\"ink-and-wash hanbok portrait\",\"description\":\"minimal Korean ink wash and light color portrait, half-body in three-quarter view, white hanbok jeogori with black collar trim, hair tied in a low loose bun, ample negative space, soft brush texture, understated traditional elegance, small red seal stamp in lower corner\"},{\"position\":\"bottom-right\",\"count\":1,\"label\":\"fashion illustration\",\"description\":\"expressive fashion sketch, glamorous 1980s-inspired styling, voluminous curled dark hair, pearl earrings, structured rose-pink satin jacket or dress with bold shoulders and deep V neckline, loose gestural ink lines and blush brushstrokes, off-white paper background\"}]},\"style\":{\"overall\":\"a curated comparison of artistic interpretations of the same woman\",\"quality\":\"high-quality, polished, visually distinct yet identity-consistent across all 6 panels\",\"face_consistency\":\"keep facial structure and recognizable maternal presence consistent across every panel\",\"color_palette\":\"muted classic browns, pale blush and cream, sky blue, burgundy, ink-gray, dusty rose\"},\"camera_and_composition\":\"each panel vertically framed, centered subject, editorial contact-sheet presentation\",\"rendering\":\"premium painterly and photographic hybrid aesthetics appropriate to each panel, refined texture, soft natural lighting where applicable\"}",
+  "translatedPrompt": "{\"type\":\"六种风格肖像对比表\",\"subject\":\"同一位韩国中年母亲以 6 种独特的视觉风格呈现\",\"identity\":{\"person\":\"{argument name=\\\"character identity\\\" default=\\\"母亲\\\"}\",\"gender\":\"女性\",\"age\":\"中年\",\"ethnicity\":\"韩国人\",\"hair\":\"深棕色至黑色，中等长度，根据风格不同呈现柔和波浪卷或盘发\",\"expression\":\"平静、温柔、沉思\"},\"layout\":{\"background\":\"干净的白色页面，窄间距\",\"grid\":{\"rows\":2,\"columns\":3,\"count\":6},\"sections\":[{\"position\":\"左上\",\"count\":1,\"label\":\"油画肖像\",\"description\":\"忧郁的古典油画，四分之三侧面半身像，深沉柔和的棕黑色背景，柔和的明暗对比法，带有微光的高领米色衬衫，松散盘起的深色头发，大师级笔触，优雅而内敛\"},{\"position\":\"中上\",\"count\":1,\"label\":\"轻盈水彩肖像\",\"description\":\"柔和的水彩半身像，正面，空气感淡粉色花卉背景，带有樱花般的渲染效果，白色宽松衬衫，边缘细腻，半透明肤色，明亮的春日氛围\"},{\"position\":\"右上\",\"count\":1,\"label\":\"窗边阳光场景\",\"description\":\"坐在开着的窗边的全身或四分之三肖像，穿着浅蓝色短袖连衣裙，纯白窗帘向内飘动，窗台上摆放着赤陶盆栽，温暖的日光，窗外是城市街区的屋顶，具有宁静夏日氛围的写实画风\"},{\"position\":\"左下\",\"count\":1,\"label\":\"1990 年代剧照\",\"description\":\"类似于 1995 年韩剧画面的电影感写实肖像，齐肩柔和层次感发型，酒红色针织高领毛衣，温暖的背光和浅景深，室内环境，带有发光的亮部，怀旧的模拟胶片质感\"},{\"position\":\"中下\",\"count\":1,\"label\":\"水墨韩服肖像\",\"description\":\"极简韩国水墨淡彩肖像，四分之三侧面半身像，白色韩服上衣配黑色领口装饰，低位松散发髻，充足的留白，柔和的笔触，低调的传统优雅，角落处有红色小印章\"},{\"position\":\"右下\",\"count\":1,\"label\":\"时尚插画\",\"description\":\"表现力十足的时尚素描，迷人的 1980 年代风格造型，蓬松的深色卷发，珍珠耳环，结构感强的玫瑰粉色缎面夹克或连衣裙，宽肩设计，深 V 领口，松散的写意墨线和腮红笔触，米白色纸张背景\"}]},\"style\":{\"overall\":\"对同一位女性艺术诠释的精选对比\",\"quality\":\"高质量、精致，在 6 个面板中视觉上各不相同但保持身份一致\",\"face_consistency\":\"在每个面板中保持面部结构和可辨识的母亲形象一致\",\"color_palette\":\"柔和的经典棕色、淡粉色和奶油色、天蓝色、酒红色、墨灰色、灰粉色\"},\"camera_and_composition\":\"每个面板均为竖构图，主体居中，编辑排版式呈现\",\"rendering\":\"适用于每个面板的高级绘画与摄影混合美学，精致的纹理，在适用情况下采用柔和的自然光\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "同一位母亲的六种风格：一份 2x3 的对比表，展示了同一位韩国中年母亲以六种不同的艺术和怀旧肖像风格呈现的效果，适用于风格探索和保持身份一致的图像生成。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "grid",
+        "front-facing",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "editorial",
+        "watercolor",
+        "oil painting",
+        "premium",
+        "ink wash"
+      ],
+      "lightingCamera": [
+        "natural light",
+        "backlight",
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, grid, front-facing, layered, vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic, editorial, watercolor, oil painting, premium, ink wash]。\n\nLighting and camera:\n[参考光线镜头: natural light, backlight, shallow depth, depth of field, camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14413",
+      "15014",
+      "14531",
+      "15259",
+      "15091",
+      "14482"
+    ]
+  }
+}

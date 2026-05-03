@@ -1,0 +1,47 @@
+{
+  "id": "14468",
+  "prompt": "Create a black-and-white manga page with 4 stacked horizontal panels, clean black gutters, screentone shading, dramatic speed lines, and polished seinen-style linework. The page features two youthful anime characters with modern casual clothing and short dark hair, with the face area of both characters obscured by a soft square blur censor block. Panel 1: a slim young person with messy short dark hair and a collared shirt clenches one fist near their chest, body angled left, surrounded by an intense fiery aura effect in the background, looking emotional and defensive. On the right side, place a large jagged vertical speech balloon containing this Japanese text: 「何十時間も魂を削って描いた一枚と、プロンプト打ち込んで数秒で出した画像が同じ価値なわけないでしょ！ふざけないで！」. Panel 2: a second young person with slightly taller build, short dark hair, a dark zip jacket over a light shirt, raises one index finger calmly as if explaining a point. Add a rounded rectangular speech box on the right with this Japanese text: 「投下した労働時間で価値が決まるという典型的な“労働価値説の誤謬”だ。市場における価値は、出力された結果を受け手がどう評価するかで決まる」. Panel 3: the taller character gently pats the shorter character on the head; include a small hand-pat sound effect near the hand reading 「ポン」. The shorter character looks up in surprise. On the right side, add a large oval vertical speech balloon with this Japanese text: 「でも俺の市場価値基準はすごくシンプルだよ。君が俺のために照れてくれるこの数秒間に、何十時間分の価値も感じてるから」. Panel 4: close-up of the shorter character blushing intensely with spiral eyes, sweat drops, trembling expression, open mouth, and dense hatching on the cheeks, overwhelmed with embarrassment. Fill the background with dramatic radiating speed lines. Add a large jagged vertical speech balloon on the right with this Japanese text: 「だ、誰がアンタのために照れるか…っ！自意識過剰よ！」. Add two sound effects: a small 「プル…」 near the shoulder and a larger shaky handwritten 「カァァァ」 along the lower left side. Keep the whole page monochrome, highly expressive, romantic-comedy manga tone, with strong emotional contrast between heated argument, cool explanation, teasing affection, and flustered payoff.",
+  "translatedPrompt": "创作一页黑白漫画，包含 4 个垂直堆叠的横向分镜，带有清晰的黑色分镜间距、网点纸阴影、戏剧性的速度线以及精致的青年漫画风格线条。页面中包含两名穿着现代休闲服饰、留着深色短发的年轻动漫角色，两人的面部区域均被柔和的方形模糊遮挡。第 1 格：一名留着凌乱深色短发、穿着翻领衬衫的瘦削年轻人，一只手握拳靠近胸口，身体向左倾斜，背景环绕着强烈的火焰特效，神情激动且充满防御性。在右侧放置一个巨大的锯齿状垂直对话框，内容为日语： 「何十時間も魂を削って描いた一枚と、プロンプト打ち込んで数秒で出した画像が同じ価値なわけないでしょ！ふざけないで！」。第 2 格：另一名身材略高、留着深色短发、内穿浅色衬衫外搭深色拉链夹克的年轻人，冷静地竖起一根食指，仿佛在阐述观点。在右侧添加一个圆角矩形对话框，内容为日语： 「投下した労働時間で価値が決まるという典型的な“労働価値説の誤謬”だ。市場における価値は、出力された結果を受け手がどう評価するかで決まる」。第 3 格：身材较高的角色轻轻拍了拍较矮角色的头；在手部附近添加一个小小的拍头拟声词「ポン」。较矮的角色惊讶地抬头看去。在右侧添加一个巨大的椭圆形垂直对话框，内容为日语： 「でも俺の市場価値基準はすごくシンプルだよ。君が俺のために照れてくれるこの数秒間に、何十時間分の価値も感じてるから」。第 4 格：特写较矮的角色，此时他正因极度害羞而满脸通红，双眼呈螺旋状，伴有汗滴、颤抖的表情、张开的嘴，脸颊上有密集的阴影线，显得窘迫不已。背景填充戏剧性的放射状速度线。在右侧添加一个巨大的锯齿状垂直对话框，内容为日语： 「だ、誰がアンタのために照れるか…っ！自意識過剰よ！」。添加两个拟声词：肩膀附近的小字「プル…」，以及左下角较大且颤抖的手写字「カァァァ」。保持整页为黑白风格，极具表现力，营造出浪漫喜剧漫画的基调，并在激烈的争论、冷静的解释、戏谑的爱意与尴尬的结局之间形成强烈的对比。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "四格浪漫喜剧漫画页面：此提示词可生成带有日语对话的黑白四格漫画页面，非常适合创作充满表现力、戏剧性的浪漫喜剧辩论场景。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "anime",
+        "manga"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, vertical, horizontal]。\n\nVisual style:\n[参考风格: anime, manga]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14250",
+      "15007",
+      "14525",
+      "14532",
+      "14523",
+      "15370"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "15660",
+  "prompt": "{\"type\":\"traditional Chinese medical infographic poster\",\"topic\":\"{argument name=\\\"topic\\\" default=\\\"阿尔茨海默病（老年痴呆症）\\\"}\",\"title\":\"{argument name=\\\"headline text\\\" default=\\\"阿尔茨海默病（老年痴呆症）- 详细信息图表\\\"}\",\"language\":\"Chinese\",\"style\":{\"overall\":\"educational health infographic in vintage Chinese poster style\",\"rendering\":\"clean hand-painted illustration, soft watercolor textures, thin ink outlines, muted pastel colors\",\"palette\":\"teal, beige, cream, jade green, dusty blue, warm brown, light coral\",\"decorative frame\":\"ornate scroll-like border with gold trim\",\"background\":\"pale sky-blue backdrop with traditional Chinese landscape motifs, stylized clouds, pine trees, mountains, cranes, and waves\"},\"layout\":{\"format\":\"vertical poster\",\"sections\":[{\"title\":\"1. 疾病概览\",\"position\":\"top-left\",\"count\":1,\"labels\":[\"认知下降\",\"记忆丧失\"],\"content\":\"one large panel explaining that Alzheimer disease is a progressive neurodegenerative disorder, featuring an elderly side-profile portrait with a semi-transparent brain illustration showing degeneration and small neuron icons around the brain\"},{\"title\":\"2. 常见症状\",\"position\":\"top-right\",\"count\":6,\"labels\":[\"轻度\",\"中度\",\"重度\",\"遗忘\",\"情感波动\",\"言语困难\",\"迷失方向\",\"丧失生活自理\"],\"content\":\"a symptom panel arranged as 3 columns by severity, with 6 vignette illustrations of elderly people: forgetting at a table, emotional fluctuation, headache or confusion, speech difficulty, getting lost outdoors, and losing ability for daily self-care with assistance from another person\"},{\"title\":\"3. 病理原因\",\"position\":\"middle-left\",\"count\":4,\"labels\":[\"淀粉样蛋白斑块\",\"Aβ deposits\",\"Tau蛋白缠结\",\"Neurofibrillary tangles\",\"神经元损失\",\"Apoptosis\"],\"content\":\"a cross-section anatomical brain diagram with bilingual annotations pointing to amyloid beta deposits, tau protein tangles, neurofibrillary tangles, and neuron loss\"},{\"title\":\"4. 风险因素\",\"position\":\"middle-right\",\"count\":5,\"labels\":[\"年龄\",\"遗传\",\"心血管病\",\"受教育程度\",\"头部外伤\"],\"content\":\"five icon-based risk factors shown in a grid: an elderly bust for age, DNA helix for genetics, anatomical heart for cardiovascular disease, stacked books for education level, and a head profile with bandage for head trauma\"},{\"title\":\"5. 诊断方法\",\"position\":\"bottom-left\",\"count\":4,\"labels\":[\"认知测试\",\"MMSE\",\"脑部成像\",\"生物标志物\"],\"content\":\"a diagnosis panel with a doctor consulting an elderly patient at a desk, plus three diagnostic visuals: an MMSE test sheet, a brain imaging scan with MRI-like machine, and a test tube representing biomarkers\"},{\"title\":\"6. 治疗与关爱\",\"position\":\"bottom-right\",\"count\":7,\"labels\":[\"药物治疗\",\"药丸\",\"Donepezil\",\"Memantine\",\"非药物疗法\",\"老人打太极拳\",\"音乐\",\"画画\",\"照护与支持\",\"家庭支持和老人\",\"理解、耐心、尊敬\"],\"content\":\"a care and treatment panel divided into 3 columns: medication with two pills and the words Donepezil and Memantine, non-drug therapy with tai chi, music, and painting, and caregiving support with family companionship plus a smaller scene emphasizing understanding, patience, and respect\"}],\"header\":{\"count\":1,\"text\":\"large centered Chinese calligraphy title banner at the top\"},\"panel_style\":\"six rounded rectangular cream panels with decorative teal-and-gold title tabs\"},\"composition\":{\"symmetry\":\"balanced two-column arrangement with three rows of paired panels\",\"readability\":\"clear educational hierarchy with large title, numbered section headers, medium illustrations, and bold labels\",\"density\":\"information-dense but visually friendly\"},\"negative_constraints\":[\"no photorealism\",\"no modern flat UI\",\"no dark horror tone\",\"no clutter outside the six main panels\",\"no extra sections beyond the 6 numbered panels\"],\"quality\":\"high-resolution, polished infographic suitable for public health education, hospital waiting rooms, science communication posts, or social media comparison graphics\"}",
+  "translatedPrompt": "{\"type\":\"传统中式医疗科普信息图海报\",\"topic\":\"{argument name=\\\"topic\\\" default=\\\"阿尔茨海默病（老年痴呆症）\\\"}\",\"title\":\"{argument name=\\\"headline text\\\" default=\\\"阿尔茨海默病（老年痴呆症）- 详细信息图表\\\"}\",\"language\":\"Chinese\",\"style\":{\"overall\":\"具有复古中式海报风格的教育类健康信息图\",\"rendering\":\"清雅的手绘插画，柔和的水彩质感，纤细的墨线勾勒，低饱和度的柔和色调\",\"palette\":\"青色、米色、奶油色、玉绿色、灰蓝色、暖棕色、浅珊瑚色\",\"decorative frame\":\"带有金色镶边的华丽卷轴式边框\",\"background\":\"淡天蓝色背景，融入传统中国山水元素，如写意云纹、松树、山峦、仙鹤和波浪\"},\"layout\":{\"format\":\"竖版海报\",\"sections\":[{\"title\":\"1. 疾病概览\",\"position\":\"top-left\",\"count\":1,\"labels\":[\"认知下降\",\"记忆丧失\"],\"content\":\"一个大型板块，解释阿尔茨海默病是一种进行性神经退行性疾病，配有一位老人的侧面肖像，脑部呈现半透明的退化状态，周围环绕着小型神经元图标\"},{\"title\":\"2. 常见症状\",\"position\":\"top-right\",\"count\":6,\"labels\":[\"轻度\",\"中度\",\"重度\",\"遗忘\",\"情感波动\",\"言语困难\",\"迷失方向\",\"丧失生活自理\"],\"content\":\"按严重程度分为 3 列的症状板块，包含 6 幅老年人生活场景插画：餐桌前遗忘、情感波动、头痛或困惑、言语困难、户外迷路，以及在他人协助下进行日常自理\"},{\"title\":\"3. 病理原因\",\"position\":\"middle-left\",\"count\":4,\"labels\":[\"淀粉样蛋白斑块\",\"Aβ 沉积\",\"Tau 蛋白缠结\",\"神经原纤维缠结\",\"神经元损失\",\"细胞凋亡\"],\"content\":\"大脑解剖横截面图，配有双语注释，指向淀粉样蛋白斑块、Tau 蛋白缠结、神经原纤维缠结和神经元损失\"},{\"title\":\"4. 风险因素\",\"position\":\"middle-right\",\"count\":5,\"labels\":[\"年龄\",\"遗传\",\"心血管病\",\"受教育程度\",\"头部外伤\"],\"content\":\"以网格形式展示的五个基于图标的风险因素：代表年龄的老年人半身像、代表遗传的 DNA 双螺旋、代表心血管疾病的解剖心脏、代表受教育程度的叠放书籍，以及头部缠有绷带的侧面轮廓图\"},{\"title\":\"5. 诊断方法\",\"position\":\"bottom-left\",\"count\":4,\"labels\":[\"认知测试\",\"MMSE\",\"脑部成像\",\"生物标志物\"],\"content\":\"诊断板块，展示医生在桌前为老人问诊，以及三项诊断视觉元素：MMSE 测试表、类似 MRI 的脑部扫描成像，以及代表生物标志物的试管\"},{\"title\":\"6. 治疗与关爱\",\"position\":\"bottom-right\",\"count\":7,\"labels\":[\"药物治疗\",\"药丸\",\"多奈哌齐 (Donepezil)\",\"美金刚 (Memantine)\",\"非药物疗法\",\"老人打太极拳\",\"音乐\",\"画画\",\"照护与支持\",\"家庭支持和老人\",\"理解、耐心、尊敬\"],\"content\":\"分为 3 列的护理与治疗板块：药物治疗展示两粒药丸及多奈哌齐和美金刚字样；非药物疗法展示太极拳、音乐和绘画；护理支持展示家庭陪伴，并辅以强调理解、耐心与尊重的温馨场景\"}],\"header\":{\"count\":1,\"text\":\"顶部居中的大型中式书法标题横幅\"},\"panel_style\":\"六个带有装饰性青金色标题标签的奶油色圆角矩形板块\"},\"composition\":{\"symmetry\":\"平衡的双列布局，共三行成对板块\",\"readability\":\"清晰的教育层级，包含大标题、带编号的章节标题、中等尺寸插画及醒目的标签\",\"density\":\"信息密集但视觉友好\"},\"negative_constraints\":[\"无写实照片\",\"无现代扁平化 UI\",\"无阴暗恐怖色调\",\"六大板块外无杂乱内容\",\"除 6 个编号板块外无额外章节\"],\"quality\":\"高分辨率、精致的信息图，适用于公共卫生教育、医院候诊室、科学传播推文或社交媒体对比图\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "中文版阿尔茨海默病科普信息图海报：一张详尽的传统中式医疗科普信息图海报，旨在为健康教育、宣传活动及社交媒体科普推文普及阿尔茨海默病相关知识。",
+      "subject": "人物",
+      "scene": "信息图/图解",
+      "composition": [
+        "centered",
+        "grid",
+        "annotations",
+        "vertical"
+      ],
+      "style": [
+        "vintage",
+        "watercolor"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, grid, annotations, vertical]。\n\nVisual style:\n[参考风格: vintage, watercolor]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15662",
+      "15664",
+      "14184",
+      "14137",
+      "14407",
+      "15597"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "14389",
+  "prompt": "{argument name=\"panel count\" default=\"eight\"} panel manga about {argument name=\"topic\" default=\"GPT-Image-2 launching today\"}",
+  "translatedPrompt": "{argument name=\"panel count\" default=\"八格\"} 漫画，主题为 {argument name=\"topic\" default=\"GPT-Image-2 今日发布\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "八格漫画故事：针对特定事件或主题生成八格漫画布局，非常适合叙事和序列化插图。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "manga"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: manga]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14327",
+      "15020",
+      "14311",
+      "13698",
+      "14729",
+      "15237"
+    ]
+  }
+}

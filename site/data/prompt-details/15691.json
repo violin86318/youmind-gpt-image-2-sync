@@ -1,0 +1,44 @@
+{
+  "id": "15691",
+  "prompt": "A simple centered full-body illustration of a cute chibi {argument name=\"animal type\" default=\"rabbit\"} character on a plain {argument name=\"background color\" default=\"light gray\"} background, drawn in a flat cartoon style with thick clean black outlines and minimal shading. The character has a white body, a large rounded head, 2 tall upright ears with bright cyan inner ear shapes, 2 large oval eyes with cyan irises, black pupils, and small highlights, tiny curved eyebrows, a small red-pink nose area, and a slight smiling mouth. The pose is front-facing with both arms stretched straight out horizontally to the sides, legs apart in a simple standing pose, and a short fluffy tail visible on the right side of the body as a curved semicircle made of short black dash marks. Overlay a clear OpenPose-style skeleton marker system on top of the character: 2 purple eye keypoints, 1 red nose keypoint, 1 blue neck keypoint, 2 shoulder keypoints, 2 elbow keypoints, 2 wrist keypoints, 1 yellow spine or pelvis center point, 2 hip keypoints, 2 knee keypoints, and 2 ankle keypoints, for a total of 17 colored points connected by thin colored lines across the face, shoulders, torso, arms, and legs. Use vivid point colors including purple, magenta, red, blue, cyan, green, yellow, orange, and teal so the pose overlay is clearly visible. Keep the composition vertically centered, symmetrical, clean, and diagram-like, with the cute mascot character and pose-estimation overlay as the sole subject.",
+  "translatedPrompt": "一张简单的全身居中插图，展示了一个可爱的 Q 版 {argument name=\"animal type\" default=\"兔子\"} 角色，背景为纯色 {argument name=\"background color\" default=\"浅灰色\"}，采用扁平卡通风格绘制，具有清晰的黑色粗轮廓和极简阴影。角色拥有白色的身体、一个硕大的圆头、两只竖起的长耳朵（内耳为亮青色）、两只带有青色虹膜、黑色瞳孔和微小高光的大椭圆形眼睛、细小的弯眉、小巧的红粉色鼻区以及微微上扬的嘴巴。角色正面朝向，双臂水平向两侧伸直，双腿分开呈简单的站立姿势，身体右侧可见一个由短黑虚线构成的半圆形短绒尾巴。在角色上方叠加一套清晰的 OpenPose 风格骨架标记系统：包含 2 个紫色眼部关键点、1 个红色鼻部关键点、1 个蓝色颈部关键点、2 个肩部关键点、2 个肘部关键点、2 个腕部关键点、1 个黄色脊椎或骨盆中心点、2 个髋部关键点、2 个膝盖关键点和 2 个踝部关键点，总计 17 个彩色点，并通过细彩色线条连接面部、肩部、躯干、手臂和腿部。使用紫色、洋红色、红色、蓝色、青色、绿色、黄色、橙色和蓝绿色等鲜艳的颜色，使姿态叠加层清晰可见。构图保持垂直居中、对称、整洁且具有图示感，以可爱的吉祥物角色和姿态估计叠加层作为唯一主体。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Q 版兔子 OpenPose 图示：一个简洁的卡通提示词，用于生成带有可见 OpenPose 风格骨架关键点的 Q 版动物角色，适用于姿态估计演示、数据集示例或 AI 视觉插图。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "full-body",
+        "front-facing",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, full-body, front-facing, vertical, horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14616",
+      "14025",
+      "15342",
+      "15377",
+      "15084",
+      "14443"
+    ]
+  }
+}

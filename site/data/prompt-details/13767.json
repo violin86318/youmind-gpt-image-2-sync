@@ -1,0 +1,45 @@
+{
+  "id": "13767",
+  "prompt": "{\"type\": \"YouTube Live Stream UI mockup\", \"theme\": \"dark mode\", \"layout\": {\"top_bar\": {\"components\": [\"hamburger menu\", \"YouTube logo\", \"search bar\", \"microphone icon\", \"create icon\", \"notifications icon\", \"profile avatar\"]}, \"video_player\": {\"status\": \"LIVE badge in top left\", \"left_side\": \"A {argument name=\\\"presenter description\\\" default=\\\"man in a green sweater\\\"} standing at a wooden podium with a spiral logo, gesturing with hands, laptop on podium.\", \"right_side_presentation\": {\"text_elements\": [\"OpenAI\", \"INTRODUCING\", \"{argument name=\\\"product name\\\" default=\\\"GPT-Image-2\\\"}\", \"{argument name=\\\"tagline\\\" default=\\\"More Realistic. More Useful. More Creative.\\\"}\"], \"image_gallery\": {\"count\": 4, \"panels\": [\"mountain lake with a boat\", \"close-up portrait of a woman with dappled lighting\", \"cute robot holding a lantern in a dark forest\", \"impressionist painting of a glowing city street at night\"]}}, \"bottom_controls\": {\"components\": [\"play/pause\", \"next\", \"volume\", \"LIVE text\", \"red progress bar\", \"CC\", \"settings gear\", \"miniplayer\", \"theater mode\", \"fullscreen\"]}}, \"video_info\": {\"title\": \"{argument name=\\\"video title\\\" default=\\\"OpenAI Live: Introducing GPT-Image-2\\\"}\", \"channel_section\": {\"name\": \"{argument name=\\\"channel name\\\" default=\\\"OpenAI\\\"}\", \"badge\": \"verified checkmark\", \"subscribers\": \"1.36M subscribers\", \"button\": \"Subscribe (white pill button)\"}, \"action_buttons\": {\"count\": 5, \"labels\": [\"Like (12K)\", \"Dislike (497)\", \"Share\", \"Save\", \"...\"]}, \"description_box\": {\"metadata\": \"95,237 watching now, Started streaming 7 minutes ago\", \"hashtags\": \"#OpenAI #GPTImage2 #AI\", \"body_text\": \"Join us for a special live event as we introduce GPT-Image-2, our latest and most advanced image generation model. See new capabilities, live demos, and hear from the team ...more\"}}}}",
+  "translatedPrompt": "{\"type\": \"YouTube 直播界面演示\", \"theme\": \"深色模式\", \"layout\": {\"top_bar\": {\"components\": [\"汉堡菜单\", \"YouTube logo\", \"搜索栏\", \"麦克风图标\", \"创建图标\", \"通知图标\", \"个人头像\"]}, \"video_player\": {\"status\": \"左上角显示 LIVE 徽标\", \"left_side\": \"一位 {argument name=\\\"presenter description\\\" default=\\\"身穿绿色毛衣的男士\\\"} 站在带有螺旋 logo 的木制讲台前，正在用手势交流，讲台上放着一台笔记本电脑。\", \"right_side_presentation\": {\"text_elements\": [\"OpenAI\", \"隆重推出\", \"{argument name=\\\"product name\\\" default=\\\"GPT-Image-2\\\"}\", \"{argument name=\\\"tagline\\\" default=\\\"更逼真、更实用、更具创造力。\\\"}\"], \"image_gallery\": {\"count\": 4, \"panels\": [\"带有小船的山间湖泊\", \"光影斑驳的女性特写肖像\", \"在黑暗森林中提着灯笼的可爱机器人\", \"夜晚发光城市街道的印象派画作\"]}}, \"bottom_controls\": {\"components\": [\"播放/暂停\", \"下一条\", \"音量\", \"LIVE 文字\", \"红色进度条\", \"CC\", \"设置齿轮\", \"迷你播放器\", \"影院模式\", \"全屏\"]}}, \"video_info\": {\"title\": \"{argument name=\\\"video title\\\" default=\\\"OpenAI 直播：隆重推出 GPT-Image-2\\\"}\", \"channel_section\": {\"name\": \"{argument name=\\\"channel name\\\" default=\\\"OpenAI\\\"}\", \"badge\": \"认证对勾\", \"subscribers\": \"136 万订阅者\", \"button\": \"订阅（白色胶囊按钮）\"}, \"action_buttons\": {\"count\": 5, \"labels\": [\"点赞 (1.2 万)\", \"不喜欢 (497)\", \"分享\", \"保存\", \"...\"]}, \"description_box\": {\"metadata\": \"95,237 人正在观看，直播开始于 7 分钟前\", \"hashtags\": \"#OpenAI #GPTImage2 #AI\", \"body_text\": \"欢迎参加我们的特别直播活动，我们将介绍 OpenAI 最新、最先进的图像生成模型 GPT-Image-2。了解新功能、观看实时演示，并聆听团队分享……更多\"}}}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "YouTube 直播发布会演示模板：生成一个逼真的 YouTube 深色模式界面，展示产品直播发布会演示。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up"
+      ],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15250",
+      "15706",
+      "14568",
+      "15463",
+      "15723",
+      "13625"
+    ]
+  }
+}

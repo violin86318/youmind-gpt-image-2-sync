@@ -1,0 +1,50 @@
+{
+  "id": "14945",
+  "prompt": "{\"type\":\"children's clothing reference sheet\",\"style\":\"clean studio fashion documentation photo\",\"subject\":{\"person\":\"young girl\",\"age_appearance\":\"approximately 5 to 7 years old\",\"face\":\"anonymized with a soft rectangular blur covering the face in the front and side views\",\"hair\":{\"color\":\"light brown to dark blonde\",\"style\":\"long loose wavy hair with a center part, slightly curlier toward the ends\"},\"pose_set\":\"standing naturally with arms relaxed\"},\"outfit\":{\"top\":{\"type\":\"sweatshirt\",\"color\":\"bright pink-red\",\"details\":[\"crew neckline\",\"long sleeves with cuffed wrists\",\"small button placket at upper chest\",\"horizontal decorative bands across lower chest and sleeves\",\"tiny floral motifs within the bands\"]},\"bottom\":{\"type\":\"pants\",\"color\":\"red and white\",\"pattern\":\"small gingham check\",\"fit\":\"slim jogger-style pajama or lounge pants with gathered ankles\"},\"footwear\":\"barefoot\"},\"layout\":{\"background\":\"plain light gray indoor wall with white baseboard and warm medium-tone wooden floor\",\"sections\":[{\"title\":\"正面図\",\"position\":\"left\",\"count\":1,\"labels\":[\"front view\"]},{\"title\":\"側面図\",\"position\":\"center\",\"count\":1,\"labels\":[\"side view\"]},{\"title\":\"背面図\",\"position\":\"right\",\"count\":1,\"labels\":[\"back view\"]}],\"figure_count\":3,\"composition\":\"three evenly spaced full-body photos arranged in vertical panels across a landscape canvas\",\"view_details\":{\"left\":\"full frontal standing view\",\"center\":\"left-facing side profile standing view\",\"right\":\"full back standing view\"}},\"image_quality\":{\"lighting\":\"soft even studio lighting with minimal shadows\",\"camera\":\"straight-on eye-level fashion catalog framing\",\"render_intent\":\"accurate apparel and body-view documentation, similar to a garment fitting or model extraction reference image\"}}",
+  "translatedPrompt": "{\"type\":\"儿童服装参考图\",\"style\":\"简洁的摄影棚风格时尚文档照片\",\"subject\":{\"person\":\"年轻女孩\",\"age_appearance\":\"约 5 至 7 岁\",\"face\":\"正面和侧面视图中面部均经过柔和的矩形模糊处理\",\"hair\":{\"color\":\"浅棕色至深金色\",\"style\":\"长款自然波浪卷发，中分，发梢略微卷曲\"},\"pose_set\":\"自然站立，双臂放松\"},\"outfit\":{\"top\":{\"type\":\"卫衣\",\"color\":\"亮粉红色\",\"details\":[\"圆领\",\"长袖，袖口收紧\",\"上胸部有小纽扣门襟\",\"下胸部和袖子上有横向装饰带\",\"装饰带内有细小的花卉图案\"]},\"bottom\":{\"type\":\"裤子\",\"color\":\"红白相间\",\"pattern\":\"小方格纹\",\"fit\":\"修身慢跑裤风格的睡裤或家居裤，裤脚收口\"},\"footwear\":\"赤脚\"},\"layout\":{\"background\":\"简洁的浅灰色室内墙面，配有白色踢脚线和暖色调中等深度的木地板\",\"sections\":[{\"title\":\"正面图\",\"position\":\"左\",\"count\":1,\"labels\":[\"正面视图\"]},{\"title\":\"侧面图\",\"position\":\"中\",\"count\":1,\"labels\":[\"侧面视图\"]},{\"title\":\"背面图\",\"position\":\"右\",\"count\":1,\"labels\":[\"背面视图\"]}],\"figure_count\":3,\"composition\":\"三张均匀分布的全身照，在横向画布上以垂直面板排列\",\"view_details\":{\"left\":\"全身正面站立视图\",\"center\":\"左侧面站立视图\",\"right\":\"全身背面站立视图\"}},\"image_quality\":{\"lighting\":\"柔和均匀的摄影棚灯光，阴影极少\",\"camera\":\"平视角度的时尚目录构图\",\"render_intent\":\"准确的服装和身体视图文档，类似于服装试穿或模型提取参考图\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "儿童服装三视图参考：一张简洁的摄影棚风格三视图参考图，展示了一名年轻女孩的正面、侧面和背面姿势，适用于服装文档、模型提取或转向式分析。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "full-body",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting",
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body, vertical, horizontal]。\n\nVisual style:\n[参考风格: studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting, camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15338",
+      "15349",
+      "14495",
+      "15805",
+      "14250",
+      "14620"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "14925",
+  "prompt": "{\"type\":\"anime psychological thriller poster and companion information sheet\",\"style\":\"dark surreal anime key visual, premium TV anime promotional art, Escher-like impossible architecture, distressed print texture, high-detail ink and watercolor finish, muted grayscale with deep black and blood-red accents, slightly aged paper, editorial layout with fine graphic design overlays\",\"subject\":{\"primary character\":\"a teenage Japanese schoolgirl in a dark navy sailor uniform, white trim on the collar and cuffs, pleated skirt, white socks, black loafers, short black bob haircut, seen mostly from the back and in three-quarter view, standing on stone stairs and looking into a labyrinth of staircases\",\"secondary character\":\"1 smaller distant schoolgirl figure in the same uniform standing farther up the staircase maze\",\"environment\":\"an endless interior of intersecting stone staircases, arches, landings, railings, impossible perspectives, cathedral-like shadows, narrow passages, red-lit doorways, geometric linework and diagram marks floating over the architecture\"},\"composition\":{\"format\":\"split-layout anime advertisement page\",\"left panel\":\"large main poster occupying roughly the left half, dominated by the staircase labyrinth and the full-body schoolgirl\",\"right panel\":\"cream-colored editorial information page with text blocks, credits, inset images, and warning box\",\"camera\":\"slightly low eye level, deep perspective into the staircase maze\",\"mood\":\"ominous, mysterious, cerebral, lonely, surreal\"},\"text_elements\":{\"main title\":\"無限階段\",\"top line\":\"2025年TVアニメ放送開始予定\",\"tagline\":\"上っても、下っても、終わらない。\",\"left sticker\":\"TEASER PV公開中\",\"right red heading\":\"これは、迷うために存在する物語。\",\"section labels\":[\"CAST\",\"STAFF\",\"THEME SONG\",\"STORY\",\"WARNING\",\"放送情報\"],\"footer\":\"公式Xアカウント\"},\"layout\":{\"sections\":[{\"title\":\"main poster\",\"position\":\"left half\",\"count\":6,\"labels\":[\"main title at top\",\"vertical black tagline strip\",\"schoolgirl full-body figure\",\"1 distant schoolgirl\",\"QR code teaser sticker\",\"footer social account bar\"]},{\"title\":\"intro and diagrams\",\"position\":\"upper right\",\"count\":3,\"labels\":[\"red heading sentence\",\"short synopsis paragraph block\",\"architectural line drawing of stairs\"]},{\"title\":\"credits\",\"position\":\"center right\",\"count\":3,\"labels\":[\"CAST\",\"STAFF\",\"THEME SONG\"]},{\"title\":\"story area\",\"position\":\"mid to lower right\",\"count\":2,\"labels\":[\"inset staircase image\",\"STORY vertical label with paragraph text\"]},{\"title\":\"bottom information\",\"position\":\"lower right\",\"count\":2,\"labels\":[\"WARNING box with 4 prohibition icons\",\"放送情報 broadcast information box\"]}],\"inset_images\":[\"1 technical staircase sketch in the upper right\",\"1 framed staircase scene with a tiny walking figure in the mid-right\"]},\"design_details\":{\"background\":\"off-white paper on the right with scuffs, cracks, folds, ink smears, and worn edges; dark dense architecture on the left\",\"graphic motifs\":\"thin red circles, crosshairs, guide lines, measurement-like marks, small red squares, vertical black bars, subtle glitch-like blocks\",\"color_palette\":[\"charcoal black\",\"stone gray\",\"dirty white\",\"faded cream\",\"deep crimson\",\"muted red-orange\"],\"typography\":\"large distressed Japanese kanji title, elegant serif Roman section headings, compact magazine-style body text, vertical Japanese side text\"},\"quality\":\"ultra-detailed 4k anime poster, crisp composition, intentionally tiny text-like filler that looks printed but not fully readable, cinematic contrast, polished promotional key art\"}",
+  "translatedPrompt": "{\"type\":\"动漫心理惊悚海报及配套信息页\",\"style\":\"黑暗超现实动漫主视觉图，优质 TV 动画宣传艺术，埃舍尔风格的不可能建筑，做旧印刷纹理，高细节水墨与水彩质感，柔和的灰阶搭配深黑与血红点缀，略显陈旧的纸张，带有精美平面设计叠加层的编辑排版\",\"subject\":{\"primary character\":\"一名身穿深海军蓝水手服的日本女高中生，领口和袖口有白色饰边，百褶裙，白袜，黑色乐福鞋，黑色短波波头，主要以背影和四分之三侧面呈现，站在石阶上凝视着阶梯迷宫\",\"secondary character\":\"1 个较小的远景女学生身影，穿着同样的制服，站在阶梯迷宫更上方的位置\",\"environment\":\"无尽的室内交错石阶、拱门、平台、栏杆、不可能的视角、大教堂般的阴影、狭窄通道、红光门廊，几何线条和图表标记漂浮在建筑之上\"},\"composition\":{\"format\":\"分栏式动漫广告页面\",\"left panel\":\"占据左侧约一半的大型主海报，以阶梯迷宫和女学生全身像为主体\",\"right panel\":\"米色编辑信息页，包含文本块、演职员表、插图及警告框\",\"camera\":\"略微低平的视线高度，深入阶梯迷宫的深邃透视\",\"mood\":\"不祥、神秘、烧脑、孤独、超现实\"},\"text_elements\":{\"main title\":\"無限階段\",\"top line\":\"2025 年 TV 动画放送开始予定\",\"tagline\":\"上っても、下っても、終わらない。\",\"left sticker\":\"TEASER PV 公开中\",\"right red heading\":\"これは、迷うために存在する物語。\",\"section labels\":[\"CAST\",\"STAFF\",\"THEME SONG\",\"STORY\",\"WARNING\",\"放送情报\"],\"footer\":\"官方 X 账号\"},\"layout\":{\"sections\":[{\"title\":\"主海报\",\"position\":\"左半部分\",\"count\":6,\"labels\":[\"顶部主标题\",\"垂直黑色标语条\",\"女学生全身像\",\"1 个远景女学生\",\"二维码预告贴纸\",\"底部社交账号栏\"]},{\"title\":\"简介与图表\",\"position\":\"右上角\",\"count\":3,\"labels\":[\"红色标题句\",\"简短剧情简介段落\",\"阶梯建筑线条图\"]},{\"title\":\"演职员表\",\"position\":\"中右侧\",\"count\":3,\"labels\":[\"CAST\",\"STAFF\",\"THEME SONG\"]},{\"title\":\"故事区域\",\"position\":\"中下右侧\",\"count\":2,\"labels\":[\"阶梯插图\",\"STORY 垂直标签及段落文本\"]},{\"title\":\"底部信息\",\"position\":\"右下角\",\"count\":2,\"labels\":[\"带有 4 个禁止图标的 WARNING 框\",\"放送情报广播信息框\"]}],\"inset_images\":[\"右上角 1 张技术阶梯草图\",\"中右侧 1 张带有微小行走人物的阶梯场景框图\"]},\"design_details\":{\"background\":\"右侧为带有磨损、裂纹、折痕、墨迹和边缘磨损的米白色纸张；左侧为黑暗密集的建筑\",\"graphic motifs\":\"细红圆圈、十字准线、引导线、测量标记、小红方块、垂直黑条、微妙的故障风格块\",\"color_palette\":[\"炭黑色\",\"石灰色\",\"脏白色\",\"褪色奶油色\",\"深绯红色\",\"柔和红橙色\"],\"typography\":\"大型做旧日文汉字标题，优雅的衬衫体罗马字章节标题，紧凑的杂志风格正文，垂直日文侧边文本\"},\"quality\":\"超细节 4K 动漫海报，构图清晰，刻意设计的微小类文本填充物，看起来像印刷品但无法完全辨认，电影级对比度，精致的宣传主视觉艺术\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "超现实无限阶梯动漫海报：一张黑暗且信息密集的动漫宣传海报，展示了一名被困在不可能的阶梯迷宫中的女学生，非常适合作为 TV 动画主视觉图、预告海报及编辑风格的宣传艺术作品。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "full-body",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "editorial",
+        "anime",
+        "watercolor",
+        "premium"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body, vertical]。\n\nVisual style:\n[参考风格: cinematic, editorial, anime, watercolor, premium]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14648",
+      "14688",
+      "15077",
+      "15729",
+      "15400",
+      "14912"
+    ]
+  }
+}

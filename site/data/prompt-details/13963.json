@@ -1,0 +1,41 @@
+{
+  "id": "13963",
+  "prompt": "{\n  \"type\": \"YouTube livestream UI\",\n  \"top_nav\": {\n    \"logo\": \"YouTube Premium\",\n    \"search\": \"{argument name=\\\"search query\\\" default=\\\"bilal fraiha\\\"}\",\n    \"icons\": 3\n  },\n  \"player\": {\n    \"subjects\": [\n      \"{argument name=\\\"female guest\\\" default=\\\"Sydney Sweeney\\\"} in white cardigan\",\n      \"bearded man in beige jacket laughing\"\n    ],\n    \"bg\": \"couch, 2 silver play buttons, ram logo 'SARDI'\",\n    \"overlays\": {\n      \"chat\": {\"pos\": \"left\", \"count\": 15, \"desc\": \"colored usernames, white text\"},\n      \"goal\": {\"pos\": \"top right\", \"text\": \"TONIGHT'S GOAL: 0 to 25\"},\n      \"banner\": {\"pos\": \"bottom center\", \"text\": \"K {argument name=\\\"streamer name\\\" default=\\\"MOREBILAL\\\"}\"}\n    },\n    \"controls\": {\"count\": 10}\n  },\n  \"details\": {\n    \"title\": \"{argument name=\\\"video title\\\" default=\\\"FULL STREAM | سيدني سويني مع بلال\\\"}\",\n    \"channel\": \"{argument name=\\\"channel name\\\" default=\\\"More Bilal No Filter\\\"}\",\n    \"buttons\": 5\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"YouTube 直播 UI\",\n  \"top_nav\": {\n    \"logo\": \"YouTube Premium\",\n    \"search\": \"{argument name=\\\"search query\\\" default=\\\"bilal fraiha\\\"}\",\n    \"icons\": 3\n  },\n  \"player\": {\n    \"subjects\": [\n      \"{argument name=\\\"female guest\\\" default=\\\"Sydney Sweeney\\\"} 身穿白色开衫\",\n      \"留胡子的男子身穿米色夹克正在大笑\"\n    ],\n    \"bg\": \"沙发，2 个银色播放按钮，公羊标志 'SARDI'\",\n    \"overlays\": {\n      \"chat\": {\"pos\": \"左侧\", \"count\": 15, \"desc\": \"彩色用户名，白色文本\"},\n      \"goal\": {\"pos\": \"右上角\", \"text\": \"今晚目标：0 到 25\"},\n      \"banner\": {\"pos\": \"底部中央\", \"text\": \"K {argument name=\\\"streamer name\\\" default=\\\"MOREBILAL\\\"}\"}\n    },\n    \"controls\": {\"count\": 10}\n  },\n  \"details\": {\n    \"title\": \"{argument name=\\\"video title\\\" default=\\\"FULL STREAM | سيدني سويني مع بلال\\\"}\",\n    \"channel\": \"{argument name=\\\"channel name\\\" default=\\\"More Bilal No Filter\\\"}\",\n    \"buttons\": 5\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "YouTube 直播界面模型：生成一个逼真的 YouTube 直播 UI，包含带有聊天叠加层、频道详情和可自定义文本字段的视频播放器。",
+      "subject": "文字符号",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15737",
+      "14512",
+      "15397",
+      "15617",
+      "13813",
+      "15468"
+    ]
+  }
+}

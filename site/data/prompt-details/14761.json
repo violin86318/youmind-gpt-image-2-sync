@@ -1,0 +1,36 @@
+{
+  "id": "14761",
+  "prompt": "{argument name=\"人物\" default=\"潘金莲\"}同款{argument name=\"产品\" default=\"砒霜\"}包装盒设计，古风暗黑系，{argument name=\"主题\" default=\"水浒\"}周边文创产品",
+  "translatedPrompt": "{argument name=\"character\" default=\"潘金莲\"} 风格的 {argument name=\"product\" default=\"砒霜\"} 包装盒设计，暗黑古风，{argument name=\"theme\" default=\"水浒传\"} 周边文创产品。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "暗黑古风包装设计：一套用于设计暗黑古风创意文创产品包装的提示词，灵感源自中国传统故事。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14303",
+      "15180",
+      "13755",
+      "13758",
+      "13830",
+      "15147"
+    ]
+  }
+}

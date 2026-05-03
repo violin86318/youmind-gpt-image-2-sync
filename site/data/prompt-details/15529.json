@@ -1,0 +1,38 @@
+{
+  "id": "15529",
+  "prompt": "A soft {argument name=\"bottle color\" default=\"cream-colored\"} bottle with a {argument name=\"pump color\" default=\"pastel yellow\"} pump stands on a matte podium, surrounded by silky foam and {argument name=\"flowers\" default=\"chamomile blossoms\"}. The background is a pale yellow gradient with subtle bubble details. The label emphasizes organic chamomile and calming care. Fresh chamomile flowers accentuate the gentle appeal.",
+  "translatedPrompt": "一个柔和的 {argument name=\"bottle color\" default=\"奶油色\"} 瓶子，配有 {argument name=\"pump color\" default=\"淡黄色\"} 的泵头，放置在哑光底座上，周围环绕着丝滑的泡沫和 {argument name=\"flowers\" default=\"洋甘菊花朵\"}。背景为淡黄色渐变，带有细腻的泡泡细节。标签强调有机洋甘菊和舒缓护理。新鲜的洋甘菊花朵突显了其温和的质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "护肤品摄影棚实拍：一个柔和、舒缓的护肤品广告提示词，包含洋甘菊和丝滑泡沫元素。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13849",
+      "13866",
+      "14726",
+      "14862",
+      "13739",
+      "14731"
+    ]
+  }
+}

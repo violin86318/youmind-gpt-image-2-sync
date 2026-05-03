@@ -1,0 +1,46 @@
+{
+  "id": "15339",
+  "prompt": "A stylized Japanese fashion magazine cover titled MODE TOKYO, designed like a glossy contemporary women's style publication. The composition is a high-angle, dynamic street-fashion anime illustration of 2 girls looking up toward the viewer from beside a brick wall with colorful graffiti and dramatic sunlight. The girl on the right has {argument name=\"hair color\" default=\"golden blonde\"} hair in a lively messy ponytail with loose bangs, bright green eyes, a wide cheerful grin, and a sporty-feminine outfit: a light blue lace-trim camisole or slip-style top, short bottoms, chunky white sneakers, and a black choker. She is posed energetically, leaning forward with one knee bent, giving a confident summer-fashion editorial feel. The girl on the left has long vivid teal-green hair with straight heavy bangs, large blue eyes, and a calm, cool expression. She wears a casual layered street outfit in dark tones with a sleeveless top and sits lower in the frame, angled toward the right girl while gazing upward. Use bold cel-shaded anime rendering with crisp linework, glossy highlights in the hair and eyes, soft skin shading, and a polished commercial illustration finish. The background should combine sunlit urban texture, blurred mural colors in pink, purple, orange, and black, and deep shadows to create contrast. The overall palette mixes hot pink typography, summer sunlight, teal, blonde, and saturated street-art hues. Include dense magazine-cover typography in a premium editorial layout: a giant pink serif masthead reading {argument name=\"magazine title\" default=\"MODE\"} across the top with TOKYO vertically on the left; on the upper right a dark circular or rounded block containing {argument name=\"issue number\" default=\"06\"}, JUNE 2024, vol.218, and cover lines in Japanese; on the left side several smaller Japanese and English fashion blurbs including NEO BASIC STYLE and SPORTY × FEMININE; a pink circular badge on the right with Japanese text and Trend 7; a large hot-pink Japanese headline across the lower left and center reading 私らしく、もっと輝く季節。; elegant white handwritten script diagonally across the lower right reading Shine in my Style; small footer cover lines and hashtags in Japanese; and a small BEAUTY label at bottom right. Make it look exactly like a real high-end Japanese fashion magazine cover, vertical format, full bleed, vibrant, youthful, feminine, sporty, and trendy.",
+  "translatedPrompt": "一张光泽感十足的现代动漫风格时尚杂志封面插画，设计参考了日本女性街头时尚杂志的编辑封面。顶部巨大的刊头采用优雅的衬线字体，写着 {argument name=\"magazine title\" default=\"MODE\"}，颜色为亮粉色；“TOKYO”一词垂直排列在左上角边缘。右上角是杂志期号板块，显示大号数字“06”，下方有“JUNE 2024”和“vol.218”字样，再下方是写着“COVER GIRLS”的封面标题，随后是日语名字。主体画面展示了 2 位动漫女孩，采用戏剧性的俯视角度拍摄，仿佛观众正从城市小巷或楼梯间向下俯瞰，背景带有砖块和涂鸦纹理，阳光强烈，阴影深邃，充满活力的夏日氛围。右侧的女孩是主导人物：一位开朗、运动风的金发女孩，有着鲜艳的绿色眼睛、小麦色皮肤、灿烂的露齿笑容，凌乱的双马尾或高侧马尾发型，发丝飘逸，摆出俏皮且充满活力的姿势，向镜头上方倾斜。她穿着浅蓝色蕾丝或透明荷叶边吊带上衣、牛仔短裤、黑色颈圈和厚底白色运动鞋。左侧的女孩留着长直的 {argument name=\"second girl hair color\" default=\"翡翠绿\"} 头发，留着厚重的齐刘海，明亮的蓝色眼睛，皮肤白皙，表情冷静沉稳，坐在画面较低的位置向上看。她穿着休闲的夏日装束，色调为柔和的蓝灰色，露肩设计，搭配厚底运动鞋。在整个构图中添加层叠的日语杂志封面文字：左侧是多行堆叠的黑色和粉色专题标题，包括“NEO BASIC STYLE”和“SPORTY × FEMININE”；右侧是一个带有白色日文和英文短语“Trend 7”的粉色圆形徽章；下半部分是一个非常醒目的粉色大号日文主标题；右下角附近覆盖着白色手写体“shine in my style”；底部边缘还有额外的白色和粉色小字封面摘要。采用精致的编辑排版、重叠的字体、饱和的色彩、锐利的赛璐璐高光、时尚的夏日造型，呈现出 {argument name=\"issue month\" default=\"2024 年 6 月\"} 高端动漫杂志封面的质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫时尚杂志封面：一张光泽感十足的动漫风格日本时尚杂志封面，展现了两位时尚女孩，配有层叠的编辑排版，呈现出充满活力的夏季街头时尚美学。",
+      "subject": "服饰",
+      "scene": "海报/封面",
+      "composition": [
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "editorial",
+        "anime",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": "得分 82；构图: layered, vertical；风格: editorial, anime, premium；要求精确文字；包含标注/说明；文字是主视觉"
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical]。\n\nVisual style:\n[参考风格: editorial, anime, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15448",
+      "15684",
+      "14692",
+      "15026",
+      "14830",
+      "14841"
+    ]
+  }
+}

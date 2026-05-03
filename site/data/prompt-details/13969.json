@@ -1,0 +1,41 @@
+{
+  "id": "13969",
+  "prompt": "{\n  \"type\": \"anime character reference sheet\",\n  \"character\": {\n    \"description\": \"young man, {argument name=\\\"hair color\\\" default=\\\"light blue\\\"} long hair in high ponytail, calm expression\",\n    \"outfit\": \"{argument name=\\\"outfit style\\\" default=\\\"blue kimono with gold dragon embroidery and white haori\\\"}\"\n  },\n  \"layout\": {\n    \"header\": {\n      \"title\": \"{argument name=\\\"character title\\\" default=\\\"青龍装束の青年\\\"}\",\n      \"subtitle\": \"キャラクター三面図・設定資料\",\n      \"info_box\": {\n        \"labels\": [\"名前：\", \"設定：\", \"身長：{argument name=\\\"height\\\" default=\\\"178cm\\\"}\", \"年齢：20歳前後\", \"モチーフ：{argument name=\\\"motif\\\" default=\\\"青龍\\\"}・和装\"]\n      }\n    },\n    \"main_views\": {\n      \"count\": 3,\n      \"poses\": [\"front\", \"side\", \"back\"],\n      \"labels\": [\"正面\", \"側面\", \"背面\"]\n    },\n    \"sidebar_right\": {\n      \"expressions\": {\n        \"title\": \"表情集\",\n        \"count\": 4,\n        \"labels\": [\"通常\", \"微笑み\", \"冷静\", \"思案\"]\n      },\n      \"details\": {\n        \"title\": \"ディテール・装飾\",\n        \"count\": 4,\n        \"labels\": [\"家紋の飾り金具\", \"胸元の組紐と房\", \"着物の青龍刺繍\", \"背面の家紋\"]\n      }\n    },\n    \"footer\": {\n      \"memo\": {\n        \"title\": \"キャラクター設定メモ\",\n        \"bullet_points_count\": 3\n      },\n      \"color_palette\": {\n        \"title\": \"カラーパレット\",\n        \"count\": 6,\n        \"labels\": [\"髪\", \"瞳\", \"着物\", \"羽織\", \"差し色・刺繍\", \"帯・組紐\"]\n      }\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"动漫角色设定集\",\n  \"character\": {\n    \"description\": \"年轻男子，{argument name=\\\"hair color\\\" default=\\\"浅蓝色\\\"} 长发高马尾，表情冷静\",\n    \"outfit\": \"{argument name=\\\"outfit style\\\" default=\\\"蓝色和服配金色龙纹刺绣及白色羽织\\\"}\"\n  },\n  \"layout\": {\n    \"header\": {\n      \"title\": \"{argument name=\\\"character title\\\" default=\\\"青龙装束的青年\\\"}\",\n      \"subtitle\": \"角色三面图・设定资料\",\n      \"info_box\": {\n        \"labels\": [\"姓名：\", \"设定：\", \"身高：{argument name=\\\"height\\\" default=\\\"178cm\\\"}\", \"年龄：20岁左右\", \"主题：{argument name=\\\"motif\\\" default=\\\"青龙\\\"}・和装\"]\n      }\n    },\n    \"main_views\": {\n      \"count\": 3,\n      \"poses\": [\"正面\", \"侧面\", \"背面\"],\n      \"labels\": [\"正面\", \"侧面\", \"背面\"]\n    },\n    \"sidebar_right\": {\n      \"expressions\": {\n        \"title\": \"表情集\",\n        \"count\": 4,\n        \"labels\": [\"通常\", \"微笑\", \"冷静\", \"思考\"]\n      },\n      \"details\": {\n        \"title\": \"细节・装饰\",\n        \"count\": 4,\n        \"labels\": [\"家纹装饰金属件\", \"胸前组纽与流苏\", \"和服青龙刺绣\", \"背面家纹\"]\n      }\n    },\n    \"footer\": {\n      \"memo\": {\n        \"title\": \"角色设定备注\",\n        \"bullet_points_count\": 3\n      },\n      \"color_palette\": {\n        \"title\": \"配色方案\",\n        \"count\": 6,\n        \"labels\": [\"头发\", \"眼睛\", \"和服\", \"羽织\", \"点缀色・刺绣\", \"腰带・组纽\"]\n      }\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫角色设定集：生成一份全面的动漫风格角色设计图，包含正面、侧面和背面视图、表情、细节以及配色方案。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13823",
+      "13933",
+      "13934",
+      "14149",
+      "14194",
+      "14238"
+    ]
+  }
+}

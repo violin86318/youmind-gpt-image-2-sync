@@ -1,0 +1,48 @@
+{
+  "id": "14462",
+  "prompt": "A dark, cinematic anime-horror key visual in a vertical poster composition, set at night inside or beside a shattered window with a huge glowing full moon dominating the background. In the center foreground, a young couple stands in an intimate embrace. The male figure is tall and slim, wearing a dark brown or charcoal hoodie with the hood up, white drawstrings, subtle red blood-like stains on the sleeve and lower hem, and dark red pants. His skin is pale, his long black hair falls over one eye, and the lower half of his face is wrapped in dirty white bandages stained with blood, giving him a disturbing but protective antihero presence. One hand and wrist are also wrapped in bandages. He looks slightly upward and away with a solemn, haunted expression while holding the girl around her back. The female figure is petite with extremely long straight platinum-blonde hair reaching past her waist, wearing a loose white coat or cardigan over a black-and-white outfit and a black choker. She faces him closely with both hands clasped together against his chest, creating a tender contrast against the horror atmosphere. Add 2 ghostly supporting figures in the background: on the left, a pale blonde girl in shadow wearing striped clothing and holding an object close to her chest; on the right, a hooded male figure in profile with glasses or sharp facial lines, his hood marked by a dark blood stain. The environment is filled with floating shards of broken glass, blue moonlight, dust motes, and star-like particles, with deep navy, black, and icy blue tones throughout. Place a stylized red Japanese title at the top right, {argument name=\"headline text\" default=\"殺戮の天使\"}, with a smaller red serif English subtitle beneath it reading {argument name=\"subtitle text\" default=\"Memory Collection\"}. Make the overall style a polished live-action cosplay poster blended with anime horror cover art, highly detailed, dramatic rim lighting, glossy fabric textures, supernatural atmosphere, tragic romance mood, and a premium game or visual novel promotional aesthetic.",
+  "translatedPrompt": "一张黑暗、电影质感的动漫恐怖主视觉图，采用竖版海报构图。背景设定在夜晚，场景位于破碎的窗户内或窗边，一轮巨大的发光满月占据了背景。前景中央，一对年轻情侣紧紧相拥。男性角色身材高挑纤细，身穿深棕色或炭灰色连帽衫，兜帽戴在头上，带有白色抽绳，袖口和下摆有细微的血迹，穿着深红色裤子。他皮肤苍白，黑色长发遮住一只眼睛，下半张脸缠着沾有血迹的脏白色绷带，赋予他一种令人不安却又具有保护欲的反英雄气质。他的一只手和手腕也缠着绷带。他神情庄重而忧郁，目光微微向上看向别处，同时环抱着女孩。女性角色身材娇小，留着及腰的超长直发，发色为白金色，外罩宽松的白色外套或开衫，内搭黑白配色服装，佩戴黑色颈圈。她与他面对面，双手紧扣在他的胸前，在恐怖氛围中营造出一种温柔的对比。在背景中加入 2 个幽灵般的配角：左侧是一个穿着条纹衣服、怀抱物品的苍白金发女孩；右侧是一个戴着眼镜或面部线条锐利的侧面连帽男性，兜帽上有一块深色血迹。环境充斥着漂浮的碎玻璃片、蓝色月光、尘埃微粒和星光般的粒子，整体色调为深海军蓝、黑色和冰蓝色。在右上角放置一个风格化的红色日文标题 {argument name=\"headline text\" default=\"殺戮の天使\"}，下方配以较小的红色衬线英文副标题 {argument name=\"subtitle text\" default=\"Memory Collection\"}。整体风格呈现为精致的真人 Cosplay 海报与动漫恐怖封面艺术的结合，细节丰富，具有戏剧性的轮廓光、光泽面料质感、超自然氛围、悲剧浪漫基调以及高级游戏或视觉小说的宣传美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "月光下的动漫恐怖 Cosplay 海报：此提示词可生成一张极具戏剧性的竖版动漫恐怖宣传海报，画面包含月光下的情侣、背景中两个阴森的身影，以及黑暗的超自然浪漫氛围。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "premium"
+      ],
+      "lightingCamera": [
+        "rim light"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: cinematic, anime, premium]。\n\nLighting and camera:\n[参考光线镜头: rim light]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14518",
+      "14982",
+      "15740",
+      "14505",
+      "15077",
+      "15466"
+    ]
+  }
+}

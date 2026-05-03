@@ -1,0 +1,53 @@
+{
+  "id": "15755",
+  "prompt": "A clean presentation grid of 20 modern mobile app logo concepts for nutrition, calorie tracking, healthy eating, food recognition, and AI wellness tools, shown on a vivid electric-blue background with soft studio lighting and subtle shadows. Arrange the icons in 4 rows by 5 columns, evenly spaced, each as a glossy rounded-square app tile with premium iOS-style depth, smooth gradients, glassy highlights, and crisp 3D-rendered detail. The color palette should center on saturated blues, cyan, teal, white, lime green, and small accents of orange and yellow. Include exactly 20 distinct icon designs: 1) a meal bowl with avocado, grains, broccoli, and cherry tomatoes framed by a camera scan bracket, 2) a white fork beside four horizontal nutrition bars in green, yellow, red, and blue on a dark navy tile, 3) a camera lens with a small bowl of vegetables in front, 4) a circular blue badge with the text {argument name=\"headline text\" default=\"kcal\"} and a green leaf overlapping the lower edge, 5) a teal-blue icon with the text {argument name=\"brand text\" default=\"Ai\"} above a white bowl and two sparkles, 6) a glossy green apple with circuit traces and nodes suggesting food-tech AI, 7) a halved avocado centered inside a glowing scan frame, 8) a metallic spoon with a blue lightning bolt symbol and curved tracking lines, 9) a circular segmented nutrition meter in green, orange, and red around salmon and broccoli, 10) a divided plate containing grilled chicken, broccoli, rice, blueberries, and a small ascending analytics bar chart, 11) a camera lens on a white tile with a green leaf attached, 12) a glowing green apple inside a scan bracket with a sparkle, 13) a luminous circular activity ring in blue, green, yellow, and orange on a dark tile, 14) a blue shield with a white fork in the center, 15) a yogurt or oatmeal bowl topped with strawberries, blueberries, and granola inside a scan bracket, 16) a dark navy calorie icon with the text {argument name=\"calorie text\" default=\"kcal\"}, a curved glow, one sparkle, and a tiny bar chart, 17) a mint-green square with a white circuit-tree or branching chip motif, 18) a plated healthy meal with grilled chicken, avocado, tomatoes, and greens inside a scan bracket, 19) a dark bowl of blueberries and white yogurt or cream with a bright electric lightning bolt overlay, 20) a pastel aqua 3D cube icon featuring a fork-and-plate symbol on one face and a green leaf on another. Make the overall style highly polished, slightly futuristic, commercially viable for App Store branding, with consistent visual language across all 20 icons, no extra text beyond the visible short labels, and a premium AI-generated product-design aesthetic.",
+  "translatedPrompt": "一个整洁的 20 个现代移动 App 图标概念展示矩阵，涵盖营养、卡路里追踪、健康饮食、食物识别及 AI 健康工具，背景为鲜艳的电光蓝，配有柔和的摄影棚灯光和细腻的阴影。将图标排列为 4 行 5 列，间距均匀，每个图标均为带有高级 iOS 风格深度、平滑渐变、玻璃质感高光及清晰 3D 渲染细节的圆角方形 App 图标。配色方案应以饱和的蓝色、青色、蓝绿色、白色、青柠绿为主，并辅以少量的橙色和黄色。包含 20 个各不相同的图标设计：1) 一个由相机扫描框环绕的餐碗，内含牛油果、谷物、西兰花和圣女果；2) 在深海军蓝底色上，一把白色叉子旁放置四条水平排列的营养条，颜色分别为绿、黄、红、蓝；3) 一个前方带有蔬菜小碗的相机镜头；4) 一个圆形蓝色徽章，带有文本 {argument name=\"headline text\" default=\"kcal\"} 以及一个重叠在底部的绿叶；5) 一个青蓝色图标，在白色餐碗和两个闪光符号上方带有文本 {argument name=\"brand text\" default=\"Ai\"}；6) 一个带有电路轨迹和节点的光泽感青苹果，暗示食物科技 AI；7) 一个位于发光扫描框中心的半个牛油果；8) 一把带有蓝色闪电符号和曲线追踪线的金属勺；9) 一个围绕着三文鱼和西兰花的绿色、橙色、红色圆形分段营养仪表；10) 一个分隔餐盘，内含烤鸡、西兰花、米饭、蓝莓以及一个小型的上升分析柱状图；11) 一个带有绿叶的白色底色相机镜头；12) 一个位于扫描框内并带有闪光符号的发光青苹果；13) 一个深色底色上发光的蓝色、绿色、黄色和橙色圆形活动环；14) 一个中心带有白色叉子的蓝色盾牌；15) 一个位于扫描框内，顶部铺有草莓、蓝莓和格兰诺拉麦片的酸奶或燕麦碗；16) 一个深海军蓝卡路里图标，带有文本 {argument name=\"calorie text\" default=\"kcal\"}、曲线光晕、一个闪光符号和一个微型柱状图；17) 一个带有白色电路树或分支芯片图案的薄荷绿正方形；18) 一个位于扫描框内，包含烤鸡、牛油果、番茄和蔬菜的健康餐盘；19) 一个装有蓝莓和白色酸奶或奶油的深色碗，上方叠加明亮的电光闪电符号；20) 一个淡水蓝色 3D 立方体图标，其中一面带有叉子和盘子符号，另一面带有绿叶。整体风格需高度精致、略带未来感，具备 App Store 品牌推广的商业可行性，确保 20 个图标视觉语言统一，除可见的简短标签外不包含额外文字，并呈现出高级的 AI 生成产品设计美感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "健康营养类 App 图标矩阵：此提示词可生成 20 个风格统一的 App 图标概念，适用于卡路里追踪、食物扫描及 AI 营养品牌设计，是进行 App Logo 探索或产品展示的理想选择。",
+      "subject": "文字符号",
+      "scene": "产品/电商",
+      "composition": [
+        "centered",
+        "grid",
+        "horizontal"
+      ],
+      "style": [
+        "3d",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting",
+        "lens",
+        "camera"
+      ],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, grid, horizontal]。\n\nVisual style:\n[参考风格: 3d, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting, lens, camera]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15648",
+      "14889",
+      "14177",
+      "14812",
+      "15086",
+      "14576"
+    ]
+  }
+}

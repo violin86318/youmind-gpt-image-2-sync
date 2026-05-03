@@ -1,0 +1,54 @@
+{
+  "id": "15705",
+  "prompt": "A realistic live-action-style portrait photo of a young Japanese woman in a retro sci-fi tokusatsu armored suit, framed from mid torso to just above the head, standing outdoors against a softly blurred concrete industrial background. She has {argument name=\"hair color\" default=\"black\"} short wet hair in a messy bob tucked behind one ear, and her face is mostly hidden by a large rectangular blur censorship block centered over the face. She is holding 1 clear crinkled plastic water bottle in one hand, raised to her mouth as if drinking. The costume is a worn vintage hero suit with 4 visible main armor components: 2 glossy red shoulder pauldrons, 1 red-and-silver chest plate with scratches and grime, and 1 circular blue orb embedded on the right side of the chest. Under the armor is a shiny black bodysuit with a white high neck undersuit collar and a thin gold ring detail at the neck. Around the collar are 2 short ribbed metallic hoses connected to 2 small rectangular metal modules near the shoulders. The armor should look practical, scuffed, slightly dirty, and heavy, like an old Japanese special-effects superhero costume rather than sleek modern armor. Natural overcast daylight, shallow depth of field, muted gray concrete tones in the background, documentary cosplay photography, candid moment, highly detailed textures, realistic skin and fabric, vertical composition.",
+  "translatedPrompt": "一张写实真人风格的肖像照片，拍摄对象为一名身着复古科幻特摄装甲的年轻日本女性，构图为半身像（从躯干中部到头部上方），背景为虚化的工业混凝土场景。她留着 {argument name=\"hair color\" default=\"black\"} 的湿发短波波头，凌乱地别在耳后，面部大部分被一个位于正中央的大型矩形模糊遮挡块遮住。她的一只手拿着一个透明的褶皱塑料水瓶，举至嘴边仿佛正在喝水。服装是一套磨损的复古英雄战衣，包含 4 个明显的装甲组件：2 个亮面红色肩甲、1 个带有划痕和污垢的红银配色胸甲，以及胸部右侧嵌入的 1 个圆形蓝色球体。装甲内搭为闪亮的黑色紧身衣，配有白色高领内衬，领口处有细金环装饰。领口周围有 2 根短小的罗纹金属软管，连接至肩部附近的 2 个小型矩形金属模块。装甲应呈现出实用、磨损、略带污渍且厚重的质感，看起来更像老式日本特摄英雄戏服，而非现代流线型装甲。自然阴天光线，浅景深，背景为柔和的灰色混凝土色调，纪实 Cosplay 摄影风格，抓拍瞬间，高细节纹理，写实的皮肤与织物质感，竖构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古特摄装甲抓拍肖像：此提示词可生成一张身着磨损复古日本科幻装甲的女性正在喝水的写实抓拍肖像，适用于 Cosplay、特摄或电影感角色摄影。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "vintage",
+        "retro",
+        "sci-fi",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "overcast",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: realistic, vintage, retro, sci-fi, documentary]。\n\nLighting and camera:\n[参考光线镜头: overcast, shallow depth, depth of field]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14674",
+      "15602",
+      "14667",
+      "14819",
+      "15651",
+      "15780"
+    ]
+  }
+}

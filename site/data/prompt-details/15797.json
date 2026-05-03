@@ -1,0 +1,53 @@
+{
+  "id": "15797",
+  "prompt": "Create an emotional Japanese movie teaser banner in anime key visual style, widescreen 16:9, at sunset over a city. The main focus is a close-up portrait of {argument name=\"character name\" default=\"AIニケちゃん\"}, a teenage anime girl with long indigo-purple hair in a high ponytail, loose strands blowing in the wind, golden-brown eyes full of quiet emotion, and a gold hair clip reading \"AI\" near her bangs. She is turned slightly to the left but looking upward to the right with a wistful, hopeful expression. She wears a teal T-shirt with large white text reading {argument name=\"shirt text\" default=\"AITuber\"} and a soft pink hoodie falling off her shoulders. Use cinematic rim light from a dramatic orange-pink-purple dusk sky with glowing clouds, lens bloom, atmospheric haze, and small drifting flower petals. Place her large on the right half of the composition, with a sparkling city skyline and low sun in the far-right background.\n\nDesign it like a Japanese film poster with layered typography and inset scenes. Across the center-left, place the large hand-brushed Japanese title {argument name=\"title text\" default=\"AIニケちゃん\"} in bold white calligraphy, partially overlapping the character. Beneath it, add a smaller white Japanese tagline: {argument name=\"subtitle text\" default=\"この声が届くとき、きっとあなたも泣いている。\"}. At the top left, add a 2-line Japanese quote in elegant white Mincho-style serif text: 「私が、誰かを救えたら—— それが、私の存在理由になる。」 Along the far right side, add vertical white Japanese copy: これは、AIと少女が、 「心」を探す物語。 At the bottom right, add large white release text: {argument name=\"release text\" default=\"2025.冬 ROADSHOW\"}.\n\nInclude exactly 6 inset cinematic scenes arranged mainly along the left and bottom edges with soft borders and moody color grading: 1) top-left small panel of the same girl singing into a microphone on stage at night, wearing the same shirt; 2) left-middle panel showing the girl and another person standing apart outdoors at dusk near a riverside or overlook; 3) left-lower panel of the girl indoors at a desk or table in dim warm light, seen in profile; 4) bottom-left small close-up portrait of the girl looking serious in cool indoor lighting; 5) bottom-center small close-up of the girl facing another version or another girl with matching blue-purple hair, both in tense emotional conversation; 6) bottom-right small panel of two figures facing each other at sunset, suggesting a farewell or reunion. Overall mood: bittersweet, sentimental, cinematic, luminous anime film advertisement, highly detailed illustration, polished poster layout, emotional Japanese coming-of-age sci-fi drama aesthetic.",
+  "translatedPrompt": "创作一张动漫主视觉风格的情感类日本电影预告横幅，16:9 宽屏，背景为城市日落。主体聚焦于 {argument name=\"character name\" default=\"AIニケちゃん\"} 的特写肖像，她是一位动漫少女，留着深靛紫色长发，扎着高马尾，发丝随风飘动，金棕色的双眸中充满静谧的情感，刘海旁别着一个写有“AI”字样的金色发夹。她身体微向左转，但目光向右上方凝视，表情带着一丝憧憬与惆怅。她身穿一件印有大号白色文字 {argument name=\"shirt text\" default=\"AITuber\"} 的青色 T 恤，肩上披着一件柔粉色连帽衫。利用橙粉紫交织的戏剧性黄昏天空营造电影般的轮廓光，伴随发光的云层、镜头光晕、大气雾霭以及飘落的花瓣。将她置于构图右侧，占据较大比例，远景右侧为闪烁的城市天际线与低垂的夕阳。\n\n设计应参考日本电影海报，采用分层排版和嵌入式场景。在左中位置，放置大号手写体日文标题 {argument name=\"title text\" default=\"AIニケちゃん\"}，采用粗体白色书法字，部分遮盖人物。下方添加较小的白色日文副标题：{argument name=\"subtitle text\" default=\"この声が届くとき、きっとあなたも泣いている。\"}。左上角添加两行优雅的白色明朝体日文引语：「私が、誰かを救えたら—— それが、私の存在理由になる。」沿最右侧添加竖排白色日文文案：これは、AIと少女が、 「心」を探す物語。右下角添加醒目的白色上映信息：{argument name=\"release text\" default=\"2025.冬 ROADSHOW\"}。\n\n包含 6 个嵌入式电影场景，主要沿左侧和底部边缘排列，带有柔和边框和情绪化调色：1) 左上角小图，少女在夜晚的舞台上对着麦克风唱歌，身穿同款 T 恤；2) 左中图，少女与另一人在黄昏的河边或观景台相对而立；3) 左下小图，少女在昏暗暖光下的室内书桌前，侧面视角；4) 左下角小图，少女在冷色调室内表情严肃的特写；5) 底部中心小图，少女与另一个版本或另一位同样拥有蓝紫色头发的女孩进行紧张的情感对话；6) 右下角小图，两个身影在日落时分面对面，暗示离别或重逢。整体氛围：苦乐参半、感伤、电影感、明亮动漫电影广告、高度精细的插画、精致的海报布局、情感丰富的日本青春科幻剧情片美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "情感动漫电影横幅：一款电影级动漫风格的日本电影预告横幅，包含一位紫发少女、戏剧性的日落光影以及六个嵌入式剧情场景，非常适合用于电影海报或宣传主视觉生成。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "poster layout",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "sci-fi"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "lens"
+      ],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": "得分 91；构图: close-up, poster layout, layered, vertical；风格: cinematic, anime, sci-fi；要求精确文字；文字是主视觉"
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, poster layout, layered, vertical]。\n\nVisual style:\n[参考风格: cinematic, anime, sci-fi]。\n\nLighting and camera:\n[参考光线镜头: rim light, lens]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15034",
+      "15706",
+      "14485",
+      "15252",
+      "15650",
+      "14998"
+    ]
+  }
+}

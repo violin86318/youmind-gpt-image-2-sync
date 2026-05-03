@@ -1,0 +1,47 @@
+{
+  "id": "13697",
+  "prompt": "A photorealistic, high-quality portrait of a beautiful young {argument name=\"nationality\" default=\"Japanese\"} woman. She has {argument name=\"hair style\" default=\"long black wavy hair with bangs\"}, dark brown eyes, fair skin, and a {argument name=\"expression\" default=\"gentle smile\"} while looking directly at the camera. She is wearing a {argument name=\"clothing\" default=\"simple white blouse\"}. The image features soft, flattering portrait lighting and a shallow depth of field, set against a {argument name=\"background\" default=\"blurred warm indoor setting\"} with beautiful bokeh. Shot on an 85mm lens, highly detailed.",
+  "translatedPrompt": "一张高度细腻、写实的年轻 {argument name=\"ethnicity\" default=\"日本\"} 女性肖像。她留着 {argument name=\"hair style\" default=\"带刘海的长黑发\"}，拥有白皙无瑕的皮肤和深棕色的大眼睛。她穿着一件 {argument name=\"clothing\" default=\"简约的白色圆领衬衫\"}，面带 {argument name=\"expression\" default=\"温柔的微笑\"}，直视镜头。光线柔和且富有质感，营造出电影般的氛围，具有浅景深效果，背景为 {argument name=\"background\" default=\"温暖的模糊光斑\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "年轻女性写实肖像：生成一张高质量、写实的年轻女性特写肖像，支持自定义特征和背景。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "lens",
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, lens, camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13448",
+      "13451",
+      "13653",
+      "14017",
+      "15237",
+      "13961"
+    ]
+  }
+}

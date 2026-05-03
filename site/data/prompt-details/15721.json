@@ -1,0 +1,49 @@
+{
+  "id": "15721",
+  "prompt": "A dynamic anime idol concert illustration of a single female catgirl singer performing on a large stage, viewed from a dramatic low angle as she steps toward the camera and reaches one gloved hand forward in extreme foreshortening while holding a black microphone in the other hand. She has {argument name=\"hair color\" default=\"bright pink\"} twin-tail hair with fluffy cat ears, orange-tinted steampunk goggles resting on her head, and red plaid ribbon bows at both sides. Her outfit is an elaborate black and red punk-idol costume with a black lace-trimmed cropped top, a red tartan frilled mini skirt, many gold chains, heart and bell charms, belts, buckles, garters, and layered accessories. Counted outfit details: 1 pair of cat ears, 1 pair of goggles, 2 hair bows, 1 fingerless glove on the reaching hand, 1 microphone, 1 cropped bustier-style top, 1 plaid skirt, 1 waist belt, 2 thigh garter systems, 1 fishnet stocking on one leg, 1 red-and-black striped thigh-high on the other leg, and 1 pair of black lace-up boots. She also has a fluffy pink cat tail visible behind her. Her expression should feel energetic, flirty, and commanding like a live pop-rock performance. The stage is packed with concert lighting trusses, purple and magenta spotlights, glowing bokeh, stairs behind her, 2 large black stage monitors in the foreground, and 3 visible venue screens showing her live image from different angles. Include 2 visible neon signs reading {argument name=\"sign text\" default=\"Neko Otome\"}, one on a large screen in the upper left and one glowing pink on the front-right speaker, both accompanied by cute cat-face iconography. The crowd at the bottom right glows with pink light sticks. Use ultra-detailed polished anime rendering, glossy fabrics, metallic highlights, vivid pink-purple-red lighting, crisp linework, high contrast, and the high-energy atmosphere of a sold-out arena concert for {argument name=\"idol name\" default=\"Neko Otome\"}.",
+  "translatedPrompt": "一张充满动感的动漫偶像演唱会插画，描绘了一位女性猫娘歌手在大型舞台上表演的场景。采用极具戏剧性的低角度视角，她正向镜头迈步，一只戴着手套的手向前伸出，呈现出强烈的透视感，另一只手拿着黑色麦克风。她留着 {argument name=\"hair color\" default=\"亮粉色\"} 的双马尾，头顶长着毛茸茸的猫耳，戴着一副橙色调的蒸汽朋克护目镜，两侧饰有红色的格子蝴蝶结。她的服装是一套精致的黑红朋克偶像装，包括黑色蕾丝边短款上衣、红色格子荷叶边迷你裙，以及大量的金链、心形和铃铛挂饰、腰带、搭扣、吊袜带和层叠配饰。服装细节清点：1 对猫耳，1 副护目镜，2 个发饰蝴蝶结，伸出的那只手上戴着 1 只露指手套，1 个麦克风，1 件短款胸衣式上衣，1 条格子裙，1 条腰带，2 套大腿吊袜带系统，一条腿穿着渔网袜，另一条腿穿着红黑条纹过膝袜，以及 1 双黑色系带靴。她的身后还可以看到一条毛茸茸的粉色猫尾。她的表情应充满活力、俏皮且具有统治力，如同现场流行摇滚演出一般。舞台上布满了演唱会灯光桁架、紫色和洋红色的聚光灯、发光的虚化光斑，身后有阶梯，前景中有 2 个大型黑色舞台监听音箱，以及 3 个可见的场馆屏幕，从不同角度播放着她的现场画面。包含 2 个可见的霓虹灯牌，文字为 {argument name=\"sign text\" default=\"Neko Otome\"}，一个位于左上角的大屏幕上，另一个在右前方的音箱上发出粉色光芒，两者均配有可爱的猫脸图标。右下角的观众挥舞着粉色的荧光棒。采用超精细的精致动漫渲染，展现光泽面料、金属高光、鲜艳的粉紫红色灯光、清晰的线条、高对比度，并为 {argument name=\"idol name\" default=\"Neko Otome\"} 营造出体育场演唱会门票售罄的高能氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "猫娘偶像演唱会舞台：此提示词可生成极具戏剧性的动漫风格猫娘偶像在霓虹灯闪烁的演唱会舞台上表演的画面，非常适合 VTuber、偶像或宣传海报视觉设计。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "layered"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [
+        "neon",
+        "high contrast",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[参考光线镜头: neon, high contrast, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14916",
+      "15610",
+      "14509",
+      "15733",
+      "14452",
+      "14531"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "15607",
+  "prompt": "Create a clean 2x2 grid on a pure white studio background featuring 4 large 3D typographic sculptures, each a single character built entirely from filmmaking equipment from a different era. The four glyphs are exactly 4 characters: top-left letter A, top-right number 5, bottom-left letter X, bottom-right number 9. Each character should be front-facing, centered in its quadrant, legible but formed from a dense pile of realistic cinema tools and on-set props, with believable occlusion, weight, and construction logic. Use high-end Cinema 4D product visualization, subtle ambient occlusion, soft three-point studio lighting with a softbox overhead, crisp shadows, realistic materials, and isolated composition.\n\nTop-left: the letter A made from early cinema and silent-era equipment, assembled from vintage wooden tripods, hand-cranked film cameras, brass lenses, reels, megaphones, bell-shaped horns, matte black metal parts, leather straps, and aged wood. Surface qualities should include worn varnished wood, black crackle paint, brass tarnish, scuffed metal, and dusty antique patina. The silhouette should feel chaotic but readable, with tripod legs and old camera bodies defining the A shape.\n\nTop-right: the number 5 made from mid-century analog filmmaking gear, assembled from classic film cameras, magazine reels, metal canisters, brown leather cases, audio accessories, silver fabric packs, director chairs, cylindrical lenses, grips, and vintage production bags. Materials should emphasize brushed aluminum, leather, canvas, rubber, and weathered industrial finishes. The 5 should be chunky and balanced, with stacked props tightly packed into the glyph.\n\nBottom-left: the letter X made from late 20th century video and broadcast equipment, assembled from shoulder-mount camcorders, portable recorders, battery packs, coiled cables, cassette-like modules, control panels, worn blue and gray plastic housings, and rugged field electronics. Include visible wiring and taped components. Materials should feel utilitarian and slightly battered, with dark plastic, anodized metal, stickers, rubber grips, and yellow accent details. The crossing diagonals of the X must be clear and substantial.\n\nBottom-right: the number 9 made from contemporary digital cinema and virtual production gear, assembled from modern cinema cameras, compact monitors, LED light panels, drones, gimbals, matte boxes, black modular accessories, and a vivid green chroma screen wrap forming part of the numeral. Include sleek vents, carbon fiber textures, matte black metal, polished glass, and bright green screen fabric as the dominant accent color. The 9 should feel the most modern and refined, with modular precision and clean industrial design.\n\nKeep the background plain and uncluttered, no extra text, no floating objects, no flat typography, no 2D rendering. The sculptures should look like physical objects at realistic scale, highly detailed, photorealistic, and suitable as a graphic design asset.",
+  "translatedPrompt": "在纯白色的工作室背景上创建一个整洁的 2x2 网格，展示 4 个大型 3D 排版雕塑，每个字符均完全由不同时代的电影制作设备构建而成。这四个字形精确为 4 个字符：左上角字母 A，右上角数字 5，左下角字母 X，右下角数字 9。每个字符应正对前方，位于各自象限的中心，清晰可辨，但由密集的逼真电影工具和片场道具堆叠而成，具有可信的遮挡关系、重量感和结构逻辑。使用高端 Cinema 4D 产品可视化技术，采用微妙的环境光遮蔽、柔和的三点式工作室布光（顶部配有柔光箱）、清晰的阴影、逼真的材质以及独立的构图。\n\n左上角：由早期电影和默片时代设备构成的字母 A，由复古木制三脚架、手摇电影摄影机、黄铜镜头、胶片盘、扩音器、喇叭形号角、哑光黑色金属部件、皮带和陈旧木材组装而成。表面质感应包括磨损的清漆木材、黑色裂纹漆、黄铜锈迹、磨损的金属和布满灰尘的古董包浆。轮廓应显得杂乱但可辨认，三脚架腿和旧摄影机机身勾勒出 A 的形状。\n\n右上角：由 20 世纪中期模拟电影制作器材构成的数字 5，由经典电影摄影机、胶片盒、金属罐、棕色皮箱、音频配件、银色织物包、导演椅、圆柱形镜头、场务器材和复古制作包组装而成。材质应强调拉丝铝、皮革、帆布、橡胶和风化的工业饰面。数字 5 应显得厚实且平衡，道具堆叠紧密，构成字形。\n\n左下角：由 20 世纪末视频和广播设备构成的字母 X，由肩扛式摄像机、便携式录音机、电池组、盘绕电缆、盒式模块、控制面板、磨损的蓝灰色塑料外壳和坚固的现场电子设备组装而成。包含可见的布线和胶带固定的组件。材质应具有实用感且略显破旧，带有深色塑料、阳极氧化金属、贴纸、橡胶手柄和黄色点缀细节。X 的交叉对角线必须清晰且厚实。\n\n右下角：由当代数字电影和虚拟制作器材构成的数字 9，由现代电影摄影机、紧凑型监视器、LED 灯板、无人机、稳定器、遮光斗、黑色模块化配件以及构成数字一部分的鲜艳绿色绿幕布组装而成。包含光滑的通风口、碳纤维纹理、哑光黑色金属、抛光玻璃，并以明亮的绿幕织物作为主导点缀色。数字 9 应显得最为现代和精致，具有模块化的精确性和简洁的工业设计感。\n\n保持背景简洁明了，无额外文字，无漂浮物体，无平面排版，无 2D 渲染。雕塑应看起来像具有真实比例的实体物体，细节丰富，具有照片级真实感，适合作为平面设计素材使用。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影时代排版网格：这是一件精致的 2x2 工作室渲染排版艺术作品，展示了四个由不同电影时代的电影制作设备构成的字母和数字，非常适合用于编辑、海报或概念视觉设计。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "grid",
+        "2x2",
+        "front-facing"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "3d",
+        "vintage",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting",
+        "lens",
+        "camera"
+      ],
+      "text": "要求精确文字；要求可读；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": "得分 96；构图: centered, grid, 2x2, front-facing；风格: realistic, photorealistic, 3d, vintage, studio；要求精确文字；要求可读；文字是主视觉"
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, grid, 2x2, front-facing]。\n\nVisual style:\n[参考风格: realistic, photorealistic, 3d, vintage, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting, lens, camera]。\n\nText requirements:\n要求精确文字；要求可读；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15014",
+      "14640",
+      "14988",
+      "15084",
+      "15367",
+      "15178"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "14967",
+  "prompt": "A hyper-realistic close-up documentary photograph of severe chloride-induced corrosion damage on a reinforced concrete coastal structure, viewed from slightly below at the corner of a cantilevered beam or pier. The image shows a large spalled area at the outer corner where the concrete cover has broken away, exposing exactly 5 rusted horizontal reinforcing steel bars embedded inside the concrete. The surrounding concrete is rough, cracked, and chipped, with irregular broken edges and visible aggregate. Brown-orange rust staining runs downward from the exposed reinforcement and along the underside of the beam, indicating long-term salt damage. The concrete surface is light gray, weathered, and matte, with subtle pores and construction imperfections. In the background, place a calm blue sea and a pale blue sky with a faint distant shoreline near the horizon, softly out of focus, reinforcing the marine environment. Bright natural daylight, clear weather, realistic smartphone photo composition, no people, no tools, no safety barriers, no text, no labels, no illustration style, only a believable engineering-inspection photo of salt-damaged reinforced concrete at the seaside.",
+  "translatedPrompt": "一张超写实的纪录片风格特写照片，展示了沿海钢筋混凝土结构上严重的氯化物腐蚀损坏，视角从悬臂梁或桥墩拐角处略微仰视。图像显示外角处有一大块剥落区域，混凝土保护层已脱落，精确露出内部嵌入的 5 根锈蚀水平钢筋。周围的混凝土粗糙、开裂且有缺口，边缘不规则，可见骨料。棕橙色的锈迹从裸露的钢筋处向下延伸，并沿着梁的底部蔓延，显示出长期的盐害影响。混凝土表面呈浅灰色，风化且呈哑光质感，带有细微的孔隙和施工瑕疵。背景处是平静的蓝色大海和淡蓝色的天空，地平线附近有模糊的远岸，柔和的虚化效果进一步强化了海洋环境。明亮的自然光，天气晴朗，真实的智能手机摄影构图，无人物、无工具、无安全护栏、无文字、无标签、非插画风格，仅呈现一张可信的沿海盐害钢筋混凝土工程检查照片。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "沿海钢筋混凝土盐害：此提示词可生成一张写实的检查风格照片，展示氯化物腐蚀和混凝土剥落的沿海钢筋混凝土结构，适用于土木工程视觉效果和基础设施损坏示例。",
+      "subject": "产品",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "close-up",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "documentary"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；禁止额外文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, horizontal]。\n\nVisual style:\n[参考风格: realistic, documentary]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；禁止额外文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14860",
+      "14632",
+      "14614",
+      "14968",
+      "14973",
+      "15628"
+    ]
+  }
+}

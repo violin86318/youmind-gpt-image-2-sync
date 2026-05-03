@@ -1,0 +1,50 @@
+{
+  "id": "15380",
+  "prompt": "A cinematic live-action action scene in a narrow old European stone street at golden-hour sunset, shot from an extremely low, close-up perspective with a dramatic wide-angle lens. In the center-left foreground, a dynamic male fighter inspired by {argument name=\"character name\" default=\"Luffy\"} lunges forward in mid-motion, wearing a straw hat, an open {argument name=\"jacket color\" default=\"red\"} shirt, a light tank top, and dark pants. His body is twisted aggressively as he launches a spinning-top battle attack with a handheld launcher. In the right foreground, a sharply dressed gangster-like man in a dark suit and white shirt leans in, also firing a launcher, with two more suited men behind him and a crowd of onlookers filling the street. In the immediate foreground, exactly 2 spinning tops collide on a glossy dark surface, producing showers of bright orange sparks and multiple circular light trails that arc around them, emphasizing speed and impact. The environment is dense and atmospheric: weathered stone buildings rise on both sides, the street is packed with spectators, and a grand baroque cathedral dome and towers stand in the sunlit background. Use intense warm amber and copper lighting, deep shadows, high contrast, dust and spark particles, gritty texture, dramatic motion blur, shallow depth of field, and an epic blockbuster tone. The composition should feel like a hybrid of underground battle, street duel, and anime-inspired live-action adaptation, with kinetic energy, tension, and hyper-detailed realism.",
+  "translatedPrompt": "这是一场电影级的真人动作场景，背景设定在黄昏时分狭窄的欧洲古老石板街上，采用极低角度的特写镜头和戏剧性的广角镜头拍摄。在左前方中心位置，一位灵感来自 {argument name=\"character name\" default=\"路飞\"} 的动态男性战士正向前俯冲，他头戴草帽，身穿敞开的 {argument name=\"jacket color\" default=\"红色\"} 外套、浅色背心和深色长裤。他的身体剧烈扭转，正使用手持发射器发动陀螺战攻击。在右前方，一名身着深色西装、白色衬衫的黑帮风格男子正倾身向前，同样发射着陀螺；他身后还有两名西装男，街道上挤满了围观群众。在画面最前方，两个陀螺在光亮的深色表面上发生碰撞，迸发出耀眼的橙色火花，多道圆形光轨环绕周围，突显出速度感与冲击力。环境氛围浓厚：两侧是风化的石质建筑，街道挤满了观众，阳光照耀下的背景中矗立着宏伟的巴洛克式大教堂圆顶和塔楼。运用强烈的暖琥珀色和铜色灯光、深邃的阴影、高对比度、尘埃与火花颗粒、粗粝的质感、戏剧性的动态模糊、浅景深，营造出史诗级大片的基调。构图应融合地下对决、街头决斗和动漫改编真人版的风格，充满动能、张力与超写实的细节。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影感陀螺街头对决：此提示词可生成一张极具戏剧性的真人动作风格图像：一位戴草帽的英雄在历史悠久的城市街道上，与身着西装的对手展开对决，画面中两个陀螺激烈碰撞。非常适合用于电影海报艺术或病毒式传播的动漫风格概念图。",
+      "subject": "人物",
+      "scene": "插画/漫画",
+      "composition": [
+        "close-up"
+      ],
+      "style": [
+        "cinematic",
+        "anime"
+      ],
+      "lightingCamera": [
+        "high contrast",
+        "shallow depth",
+        "depth of field",
+        "lens"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "动漫分镜、战斗场景、运动瞬间、夸张叙事图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 插画/漫画 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up]。\n\nVisual style:\n[参考风格: cinematic, anime]。\n\nLighting and camera:\n[参考光线镜头: high contrast, shallow depth, depth of field, lens]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14432",
+      "15297",
+      "14528",
+      "15374",
+      "15106",
+      "14270"
+    ]
+  }
+}

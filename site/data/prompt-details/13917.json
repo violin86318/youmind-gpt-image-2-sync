@@ -1,0 +1,48 @@
+{
+  "id": "13917",
+  "prompt": "A high-quality 3D animated cinematic shot of a {argument name=\"left character\" default=\"black and white tuxedo cat police officer\"} extending a white-gloved hand for a handshake to a tall, {argument name=\"right character\" default=\"stylish anthropomorphic blonde fox\"}. The fox is smirking with one hand in his pocket, wearing a {argument name=\"fox outfit\" default=\"teal open shirt over a white t-shirt, white pants, and a gold chain\"}. They are standing in a modern, upscale office lobby. On the left wall, a metallic 3D star logo reads \"{argument name=\"company name\" default=\"Paw Star ENTERTAINMENT\"}\" above a sleek reception desk. The background features a black leather sofa, a potted plant, and wall decor including {argument name=\"background decor\" default=\"3 framed gold records and 2 framed posters featuring the fox\"}. The image features detailed fur textures, realistic clothing materials, and soft, professional studio lighting typical of modern animated feature films.",
+  "translatedPrompt": "一个高质量的 3D 动画电影镜头，画面中一位 {argument name=\"left character\" default=\"黑白燕尾服猫警官\"} 伸出戴着白手套的手，正准备与一位高挑的 {argument name=\"right character\" default=\"时尚拟人化金发狐狸\"} 握手。狐狸嘴角带着一丝坏笑，一只手插在口袋里，身穿 {argument name=\"fox outfit\" default=\"白色 T 恤外搭青色开衫、白色长裤，并佩戴一条金项链\"}。他们站在一个现代化的豪华办公大厅中。左侧墙壁上，一个金属质感的 3D 星形标志写着 \"{argument name=\"company name\" default=\"Paw Star ENTERTAINMENT\"}\"，下方是一个时尚的前台接待处。背景中设有黑色真皮沙发、盆栽植物以及墙面装饰，包括 {argument name=\"background decor\" default=\"3 张镶框金唱片和 2 张印有狐狸形象的镶框海报\"}。画面呈现出细腻的毛发质感、逼真的衣物材质，以及现代动画长片中常见的柔和专业摄影棚灯光。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "3D 动画风格动物办公室邂逅：生成一个电影级 3D 动画风格场景，展示两只拟人化动物在现代企业大厅中的互动。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic",
+        "3d",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic, 3d, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13632",
+      "13885",
+      "13949",
+      "14724",
+      "14422",
+      "14475"
+    ]
+  }
+}

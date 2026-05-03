@@ -1,0 +1,36 @@
+{
+  "id": "15565",
+  "prompt": "生成一张电影海报，电影主题是{argument name=\"主题\" default=\"谍战片\"}，电影名叫“{argument name=\"电影名\" default=\"潜伏\"}”，主演是“{argument name=\"主角\" default=\"一只猫\"}”，极致氛围感。",
+  "translatedPrompt": "生成一张电影海报。电影主题为 {argument name=\"theme\" default=\"间谍惊悚片\"}，片名为 \"{argument name=\"title\" default=\"潜伏\"}\"，主演是 \"{argument name=\"star\" default=\"一只猫\"}\"，画面需具备极强的氛围感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "猫咪间谍电影海报：一个由 gpt-image-2 生成的、以猫咪为主角的间谍惊悚片电影海报提示词，充满氛围感。",
+      "subject": "综合主体",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13973",
+      "14331",
+      "14358",
+      "14365",
+      "14764",
+      "15220"
+    ]
+  }
+}

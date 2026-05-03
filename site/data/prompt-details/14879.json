@@ -1,0 +1,54 @@
+{
+  "id": "14879",
+  "prompt": "{\"type\":\"fashion styling collage\",\"subject\":{\"person\":\"slim woman with a sleek chin-length black bob, minimal makeup, elegant urban styling\",\"garment_focus\":\"{argument name=\\\"sweater text\\\" default=\\\"black knit sweater vest with oversized beige letter print reading NC NEW BAI BALA CE\\\"}\",\"theme\":\"five different outfit ideas built around the same statement knit top\",\"face_visibility\":\"face softly obscured or blurred in every look\"},\"layout\":{\"composition\":\"2-row editorial collage\",\"sections\":[{\"title\":\"look 1\",\"position\":\"top left\",\"count\":1,\"labels\":[\"library preppy office look\"]},{\"title\":\"look 2\",\"position\":\"top center\",\"count\":1,\"labels\":[\"street casual utility look\"]},{\"title\":\"look 3\",\"position\":\"top right\",\"count\":1,\"labels\":[\"gallery evening chic look\"]},{\"title\":\"look 4\",\"position\":\"bottom left\",\"count\":1,\"labels\":[\"cafe smart casual look\"]},{\"title\":\"look 5\",\"position\":\"bottom right\",\"count\":1,\"labels\":[\"modern layered skirt look\"]}],\"count\":5},\"looks\":[{\"name\":\"look 1\",\"setting\":\"warm library interior with wooden bookshelves, table, chair, soft daylight\",\"pose\":\"seated with legs crossed beside a table\",\"outfit_items\":[\"black lettered sweater vest\",\"white button-up blouse\",\"charcoal wide-leg tailored trousers\",\"black loafers\"],\"accessories\":[\"structured black handbag\"],\"mood\":\"polished, intellectual, refined\"},{\"name\":\"look 2\",\"setting\":\"city sidewalk beside a brick wall and black post\",\"pose\":\"standing casually, one hand in pocket, one leg crossed\",\"outfit_items\":[\"black lettered knit top layered over a black base layer\",\"short black utility jacket\",\"camel straight-leg cargo pants\",\"silver-gray athletic sneakers\"],\"accessories\":[\"black belt bag worn at the waist\"],\"mood\":\"practical, cool, urban\"},{\"name\":\"look 3\",\"setting\":\"minimal art gallery interior\",\"pose\":\"standing full length\",\"outfit_items\":[\"black lettered knit sweater worn alone\",\"high-waisted long black skirt with dramatic thigh slit\",\"wide black waist belt\"],\"accessories\":[\"gold chain necklace\",\"gold earrings\",\"small metallic gold handbag\",\"strappy heeled sandals\"],\"mood\":\"fashion-forward, elegant, dramatic\"},{\"name\":\"look 4\",\"setting\":\"outdoor cafe terrace with table and chair\",\"pose\":\"seated holding a coffee cup\",\"outfit_items\":[\"black lettered knit top\",\"black lace high-neck inner layer\",\"oversized black double-breasted blazer\",\"dark blue straight-leg jeans\"],\"accessories\":[\"large black structured handbag on the table\",\"cream and black silk scarf on the table\",\"dark sunglasses\"],\"mood\":\"Parisian, sophisticated, relaxed luxury\"},{\"name\":\"look 5\",\"setting\":\"modern concrete architectural exterior\",\"pose\":\"standing full length, walking lightly\",\"outfit_items\":[\"white oversized shirt dress or long button-up shirt with tied waist detail\",\"black lettered sweater vest layered on top\",\"gray pleated midi skirt\",\"black ankle boots with block heels\"],\"accessories\":[\"large dark tote bag\",\"watch or bracelet\"],\"mood\":\"editorial, layered, contemporary\"}],\"style\":{\"image_type\":\"high-end fashion lookbook montage\",\"lighting\":\"soft natural light, realistic shadows, premium editorial color grading\",\"camera\":\"full-body fashion photography, straight-on and slightly varied angles\",\"quality\":\"photorealistic, detailed fabrics, luxury styling\"},\"color_palette\":{\"dominant\":[\"black\",\"white\",\"charcoal gray\",\"camel\",\"deep navy\"],\"accents\":[\"gold\",\"beige\"]},\"customization\":{\"main_top\":\"{argument name=\\\"main knit color\\\" default=\\\"black\\\"}\",\"model_hair\":\"{argument name=\\\"hairstyle\\\" default=\\\"sleek black bob\\\"}\",\"scene_style\":\"{argument name=\\\"location mood\\\" default=\\\"editorial urban interiors and street settings\\\"}\"}}",
+  "translatedPrompt": "{\"type\":\"时尚造型拼贴\",\"subject\":{\"person\":\"身材苗条，留着利落的下巴长度黑色波波头，妆容简约，优雅都市风\",\"garment_focus\":\"{argument name=\\\"sweater text\\\" default=\\\"黑色针织毛衣背心，带有超大米色字母印花，写着 NC NEW BAI BALA CE\\\"}\",\"theme\":\"围绕同一件个性针织上衣打造的五种不同穿搭方案\",\"face_visibility\":\"每种造型中的面部均经过柔化处理或模糊处理\"},\"layout\":{\"composition\":\"双行编辑拼贴\",\"sections\":[{\"title\":\"造型 1\",\"position\":\"左上\",\"count\":1,\"labels\":[\"图书馆学院风办公造型\"]},{\"title\":\"造型 2\",\"position\":\"中上\",\"count\":1,\"labels\":[\"街头休闲机能风造型\"]},{\"title\":\"造型 3\",\"position\":\"右上\",\"count\":1,\"labels\":[\"画廊晚宴时髦造型\"]},{\"title\":\"造型 4\",\"position\":\"左下\",\"count\":1,\"labels\":[\"咖啡馆轻熟休闲造型\"]},{\"title\":\"造型 5\",\"position\":\"右下\",\"count\":1,\"labels\":[\"现代叠穿半身裙造型\"]}],\"count\":5},\"looks\":[{\"name\":\"造型 1\",\"setting\":\"温暖的图书馆内部，有木质书架、桌椅，柔和的日光\",\"pose\":\"坐在桌边，双腿交叠\",\"outfit_items\":[\"黑色字母针织背心\",\"白色衬衫\",\"炭灰色阔腿西装裤\",\"黑色乐福鞋\"],\"accessories\":[\"黑色结构感手提包\"],\"mood\":\"干练、知性、精致\"},{\"name\":\"造型 2\",\"setting\":\"城市人行道，旁边有砖墙和黑色立柱\",\"pose\":\"站姿随意，一只手插兜，一条腿交叉\",\"outfit_items\":[\"黑色字母针织上衣，内搭黑色打底衫\",\"黑色短款机能夹克\",\"驼色直筒工装裤\",\"银灰色运动鞋\"],\"accessories\":[\"腰间佩戴黑色腰包\"],\"mood\":\"实用、酷飒、都市\"},{\"name\":\"造型 3\",\"setting\":\"极简艺术画廊内部\",\"pose\":\"全身站姿\",\"outfit_items\":[\"黑色字母针织毛衣单穿\",\"高腰黑色长裙，带有戏剧性的开叉设计\",\"黑色宽腰带\"],\"accessories\":[\"金链项链\",\"金色耳环\",\"小型金属质感金色手提包\",\"细带高跟凉鞋\"],\"mood\":\"前卫、优雅、充满张力\"},{\"name\":\"造型 4\",\"setting\":\"户外咖啡馆露台，配有桌椅\",\"pose\":\"坐着，手持咖啡杯\",\"outfit_items\":[\"黑色字母针织上衣\",\"黑色蕾丝高领内搭\",\"黑色超大款双排扣西装外套\",\"深蓝色直筒牛仔裤\"],\"accessories\":[\"桌上放着大型黑色结构感手提包\",\"桌上放着奶油色与黑色相间的丝巾\",\"深色墨镜\"],\"mood\":\"巴黎风、精致、松弛感奢华\"},{\"name\":\"造型 5\",\"setting\":\"现代混凝土建筑外观\",\"pose\":\"全身站姿，轻盈行走\",\"outfit_items\":[\"白色超大款衬衫裙或长款衬衫，腰部有系带细节\",\"外搭黑色字母针织背心\",\"灰色百褶中长裙\",\"黑色粗跟短靴\"],\"accessories\":[\"大型深色托特包\",\"手表或手链\"],\"mood\":\"编辑感、叠穿、当代风\"}],\"style\":{\"image_type\":\"高端时尚造型手册蒙太奇\",\"lighting\":\"柔和自然光，逼真的阴影，高级编辑风调色\",\"camera\":\"全身时尚摄影，正面及略微不同的拍摄角度\",\"quality\":\"照片级逼真，面料细节丰富，奢华造型\"},\"color_palette\":{\"dominant\":[\"黑色\",\"白色\",\"炭灰色\",\"驼色\",\"深海军蓝\"],\"accents\":[\"金色\",\"米色\"]},\"customization\":{\"main_top\":\"{argument name=\\\"main knit color\\\" default=\\\"黑色\\\"}\",\"model_hair\":\"{argument name=\\\"hairstyle\\\" default=\\\"利落黑色波波头\\\"}\",\"scene_style\":\"{argument name=\\\"location mood\\\" default=\\\"编辑风都市室内与街头场景\\\"}\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "字母针织上衣的 5 种穿搭方式：此提示词可生成一张照片级逼真的时尚编辑拼贴图，展示围绕同一件个性针织上衣打造的五种不同时尚造型，适用于 AI 服装搭配和造型手册灵感参考。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "full-body",
+        "layered"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "editorial",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [
+        "natural light",
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body, layered]。\n\nVisual style:\n[参考风格: realistic, photorealistic, editorial, luxury, premium]。\n\nLighting and camera:\n[参考光线镜头: natural light, camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15340",
+      "15367",
+      "14531",
+      "15014",
+      "15675",
+      "15732"
+    ]
+  }
+}

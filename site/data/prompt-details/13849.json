@@ -1,0 +1,38 @@
+{
+  "id": "13849",
+  "prompt": "Search the web for {argument name=\"performance description\" default=\"this week’s standout individual performance in Champion’s League\"}, using exact stats and game summary, {argument name=\"colors\" default=\"bold team colors\"}, legible score breakdown, and generate a {argument name=\"card type\" default=\"Highlight card\"}.",
+  "translatedPrompt": "搜索网络获取 {argument name=\"performance description\" default=\"本周欧冠赛场上的杰出个人表现\"}，使用准确的统计数据和比赛摘要，结合 {argument name=\"colors\" default=\"醒目的球队配色\"} 以及清晰的得分明细，生成一张 {argument name=\"card type\" default=\"高光卡片\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "欧冠高光时刻卡片生成器：这是一个为 GPT-Image 2 设计的指令提示词，用于搜索体育表现数据，并生成带有统计数据和球队配色的主题高光卡片。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "要求精确文字；要求可读",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；要求可读。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13866",
+      "14726",
+      "14862",
+      "15529",
+      "13739",
+      "14731"
+    ]
+  }
+}

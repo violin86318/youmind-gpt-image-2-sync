@@ -1,0 +1,43 @@
+{
+  "id": "13936",
+  "prompt": "A photorealistic interior view of a bustling {argument name=\"store type\" default=\"Japanese bookstore\"}. The scene is illuminated by {argument name=\"lighting style\" default=\"warm overhead lighting\"} that reflects off the polished wooden floor. In the foreground, large wooden display tables are stacked high with books, many featuring anime-style illustrated covers facing outward. Above the shelves, prominent hanging signs display Japanese text, including a red sign on the left reading {argument name=\"left sign text\" default=\"新刊コーナー\"} and a blue sign on the right reading {argument name=\"right sign text\" default=\"旅行ガイド\"}. A central hanging directional sign points towards different sections. Tall wooden bookshelves packed tightly with colorful spines line the walls, creating deep aisles. In the mid-ground, a {argument name=\"customer description\" default=\"woman in a green top browsing\"} stands looking at the shelves. The atmosphere is cozy, inviting, and highly detailed.",
+  "translatedPrompt": "一张具有照片级真实感的 {argument name=\"store type\" default=\"日式书店\"} 室内全景图。场景由 {argument name=\"lighting style\" default=\"温暖的头顶照明\"} 照亮，光线在抛光的木地板上反射出柔和的光泽。前景中，大型木质展示台上堆满了书籍，许多书籍展示着动漫风格的封面。书架上方悬挂着醒目的日文标牌，左侧的红色标牌写着 {argument name=\"left sign text\" default=\"新刊コーナー\"}，右侧的蓝色标牌写着 {argument name=\"right sign text\" default=\"旅行ガイド\"}。中央悬挂的指示牌指向不同的区域。高大的木质书架上紧密排列着色彩缤纷的书脊，形成了深邃的过道。中景处，一位 {argument name=\"customer description\" default=\"身穿绿色上衣正在浏览的女性\"} 正站在书架前阅读。整体氛围舒适、引人入胜且细节丰富。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日式书店室内设计：生成一张具有照片级真实感的日式书店室内图，支持自定义标牌和氛围。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13524",
+      "13556",
+      "13659",
+      "13495",
+      "13682",
+      "13775"
+    ]
+  }
+}

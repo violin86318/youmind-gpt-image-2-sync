@@ -1,0 +1,51 @@
+{
+  "id": "13916",
+  "prompt": "{\n  \"type\": \"full-color manga page\",\n  \"genre\": \"dark fantasy\",\n  \"style\": \"high-quality anime illustration, dramatic lighting, cinematic composition\",\n  \"character\": {\n    \"appearance\": \"{argument name=\\\"hair color\\\" default=\\\"long white hair\\\"} with black ribbons, {argument name=\\\"eye color\\\" default=\\\"glowing blue eyes\\\"}, wearing a black gothic coat with a cross-shaped zipper pull\"\n  },\n  \"layout\": {\n    \"format\": \"vertical comic page with 7 distinct horizontal panel tiers\",\n    \"panels\": [\n      {\n        \"tier\": 1,\n        \"description\": \"Large top panel. Character looking down with eyes closed.\",\n        \"elements\": [\n          {\"type\": \"title_logo\", \"position\": \"top right\", \"text\": \"{argument name=\\\"main title\\\" default=\\\"再起動の令嬢 Re:Birth Log\\\"}\"},\n          {\"type\": \"text_box\", \"position\": \"top left\", \"text\": \"{argument name=\\\"opening text\\\" default=\\\"私は——死んだはずだった。\\\"}\"}\n        ]\n      },\n      {\n        \"tier\": 2,\n        \"description\": \"Narrow horizontal panel. Extreme close-up of the character's glowing eye.\",\n        \"elements\": [\n          {\"type\": \"text_box\", \"position\": \"right\", \"text\": \"目を覚ますと、そこは見知らぬ世界。\"}\n        ]\n      },\n      {\n        \"tier\": 3,\n        \"description\": \"Montage panel showing a gothic castle, a roaring dragon, and the character from behind.\",\n        \"elements\": [\n          {\"type\": \"text_box\", \"position\": \"left\", \"text\": \"魔法、オーラ、そして——ドラゴン。\"}\n        ]\n      },\n      {\n        \"tier\": 4,\n        \"description\": \"Character looking downcast in a dark, ruined forest.\",\n        \"elements\": [\n          {\"type\": \"text_box\", \"position\": \"left\", \"text\": \"しかも、この身体は……貴族でありながら、“役立たず”と呼ばれている。\"}\n        ]\n      },\n      {\n        \"tier\": 5,\n        \"description\": \"Split panel. Left side shows a sad profile. Right side shows a determined close-up with glowing eyes.\",\n        \"elements\": [\n          {\"type\": \"text_box\", \"position\": \"left\", \"text\": \"力もない。知性もない。ゴミ同然の存在。\"},\n          {\"type\": \"text_box\", \"position\": \"center right\", \"text\": \"——そう、思われているだけだ。\"}\n        ]\n      },\n      {\n        \"tier\": 6,\n        \"description\": \"Abstract magical panel. Left shows a glowing blue spade symbol in a magic circle. Right shows a glowing digital-style dialogue box.\",\n        \"elements\": [\n          {\"type\": \"text_box\", \"position\": \"center\", \"text\": \"封じられた力。そして、私の中に残る“記憶”。\"},\n          {\"type\": \"glowing_text_box\", \"position\": \"right\", \"text\": \"「契約しろ」\"}\n        ]\n      },\n      {\n        \"tier\": 7,\n        \"description\": \"Large bottom panel. Character looking forward confidently with a smirk.\",\n        \"elements\": [\n          {\"type\": \"text_box\", \"position\": \"top left\", \"text\": \"……いいだろう。\"},\n          {\"type\": \"text_box\", \"position\": \"mid left\", \"text\": \"この手札、全部使ってやる。\"},\n          {\"type\": \"text_box\", \"position\": \"bottom right\", \"text\": \"{argument name=\\\"closing text\\\" default=\\\"私は——もう、あの“セレナ”じゃない。\\\"}\"}\n        ]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"全彩漫画页面\",\n  \"genre\": \"暗黑奇幻\",\n  \"style\": \"高质量动漫插画，戏剧性光影，电影级构图\",\n  \"character\": {\n    \"appearance\": \"{argument name=\\\"hair color\\\" default=\\\"长白发\\\"}配黑色丝带，{argument name=\\\"eye color\\\" default=\\\"发光的蓝色眼睛\\\"}，身穿带有十字形拉链头的黑色哥特式外套\"\n  },\n  \"layout\": {\n    \"format\": \"包含 7 个独立横向分格的竖版漫画页面\",\n    \"panels\": [\n      {\n        \"tier\": 1,\n        \"description\": \"顶部大分格。角色闭眼向下看。\",\n        \"elements\": [\n          {\"type\": \"title_logo\", \"position\": \"右上角\", \"text\": \"{argument name=\\\"main title\\\" default=\\\"再起動の令嬢 Re:Birth Log\\\"}\"},\n          {\"type\": \"text_box\", \"position\": \"左上角\", \"text\": \"{argument name=\\\"opening text\\\" default=\\\"私は——死んだはずだった。\\\"}\"}\n        ]\n      },\n      {\n        \"tier\": 2,\n        \"description\": \"狭窄的横向分格。角色发光眼睛的极度特写。\",\n        \"elements\": [\n          {\"type\": \"text_box\", \"position\": \"右侧\", \"text\": \"目を覚ますと、そこは見知らぬ世界。\"}\n        ]\n      },\n      {\n        \"tier\": 3,\n        \"description\": \"蒙太奇分格，展示哥特式城堡、咆哮的巨龙以及角色的背影。\",\n        \"elements\": [\n          {\"type\": \"text_box\", \"position\": \"左侧\", \"text\": \"魔法、オーラ、そして——ドラゴン。\"}\n        ]\n      },\n      {\n        \"tier\": 4,\n        \"description\": \"角色在黑暗荒废的森林中神情沮丧。\",\n        \"elements\": [\n          {\"type\": \"text_box\", \"position\": \"左侧\", \"text\": \"しかも、この身体は……貴族でありながら、“役立たず”と呼ばれている。\"}\n        ]\n      },\n      {\n        \"tier\": 5,\n        \"description\": \"分割分格。左侧展示悲伤的侧脸。右侧展示眼神发光的坚定特写。\",\n        \"elements\": [\n          {\"type\": \"text_box\", \"position\": \"左侧\", \"text\": \"力もない。知性もない。ゴミ同然の存在。\"},\n          {\"type\": \"text_box\", \"position\": \"中右侧\", \"text\": \"——そう、思われているだけだ。\"}\n        ]\n      },\n      {\n        \"tier\": 6,\n        \"description\": \"抽象魔法分格。左侧展示魔法阵中发光的蓝色黑桃符号。右侧展示发光的数字风格对话框。\",\n        \"elements\": [\n          {\"type\": \"text_box\", \"position\": \"中央\", \"text\": \"封じられた力。そして、私の中に残る“記憶”。\"},\n          {\"type\": \"glowing_text_box\", \"position\": \"右侧\", \"text\": \"「契約しろ」\"}\n        ]\n      },\n      {\n        \"tier\": 7,\n        \"description\": \"底部大分格。角色自信地向前看，嘴角带着一丝冷笑。\",\n        \"elements\": [\n          {\"type\": \"text_box\", \"position\": \"左上角\", \"text\": \"……いいだろう。\"},\n          {\"type\": \"text_box\", \"position\": \"中左侧\", \"text\": \"この手札、全部使ってやる。\"},\n          {\"type\": \"text_box\", \"position\": \"右下角\", \"text\": \"{argument name=\\\"closing text\\\" default=\\\"私は——もう、あの“セレナ”じゃない。\\\"}\"}\n        ]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "暗黑奇幻漫画页面生成器：生成全彩、7 分格的竖版漫画页面，呈现暗黑奇幻叙事，包含电影感角色特写、环境蒙太奇以及可自定义的文本框。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "manga",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "dramatic lighting"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, vertical, horizontal]。\n\nVisual style:\n[参考风格: cinematic, anime, manga, fantasy]。\n\nLighting and camera:\n[参考光线镜头: dramatic lighting]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14522",
+      "14918",
+      "14928",
+      "15094",
+      "15302",
+      "15453"
+    ]
+  }
+}

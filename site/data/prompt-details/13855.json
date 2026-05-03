@@ -1,0 +1,39 @@
+{
+  "id": "13855",
+  "prompt": "根据上传的我的X个人主页截图，生成一幅{argument name=\"风格\" default=\"超写实\"}的3D推特/X个人资料界面插图，略微倾斜，背景干净简洁，灰色极简。原始头像保持不变。个人资料界面完全匹配一张真实的X截图，屏幕右侧边缘，根据上传头像图片中的人物，他正冲破破损的纸张。他的面部特征完全相同（不改变脸部），但现在拥有了自然的灿烂笑容、富有表现力的眼睛和柔和发光的皮肤。他手握着撕裂的纸边，画面中呈现出动态的3D效果。 纸片飞溅，营造出逼真的突破幻觉。灯光是柔和的摄影棚灯光，带有电影般的阴影和景深。超细致，4K，写实+皮克斯风格的混色，清晰对焦。重要提示：- 不要更改头像（DP） - 保持完全相同的 X 界面布局和文本样式 - 保持他们的原始面貌身份 - 仅能将表情增强为自然的微笑 - 比例 {argument name=\"比例\" default=\"9:16\"}",
+  "translatedPrompt": "基于我上传的 X 个人主页截图，生成一张 {argument name=\"style\" default=\"hyper-realistic\"} 的 3D Twitter/X 个人主页界面插图，画面略微倾斜，背景为简洁的极简灰色。原始头像保持不变。个人主页界面需与真实的 X 截图完美契合。在屏幕右侧边缘，根据上传头像中的人物，呈现他破纸而出的效果。人物面部特征保持一致（面部无任何改动），但现在拥有自然的灿烂笑容、生动的眼神和柔和透亮的皮肤。他双手抓着撕裂的纸张边缘，营造出动态的 3D 效果。纸屑飞舞，营造出逼真的破纸而出感。采用柔和的摄影棚灯光，带有电影质感的阴影和景深效果。超高细节，4K 分辨率，融合写实与 Pixar 风格，焦点清晰。重要提示：- 请勿更改头像 (DP) - 保持与 X 界面完全一致的布局和文字样式 - 保持人物原始身份 - 仅将表情优化为自然的微笑 - 长宽比 {argument name=\"ratio\" default=\"9:16\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "3D 写实风格 X 个人主页界面：一份详细的提示词，用于根据参考截图和特定人物表情，生成超写实的 3D 社交媒体个人主页界面。",
+      "subject": "综合主体",
+      "scene": "空间/场景",
+      "composition": [],
+      "style": [
+        "realistic",
+        "3d"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "空间概念、建筑场景、游戏场景、产品场景盒子",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 空间/场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, 3d]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14344",
+      "15203",
+      "15562",
+      "13734",
+      "15518",
+      "13669"
+    ]
+  }
+}

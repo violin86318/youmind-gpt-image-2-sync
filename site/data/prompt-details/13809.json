@@ -1,0 +1,38 @@
+{
+  "id": "13809",
+  "prompt": "A dark fantasy anime illustration of a lone swordsman on a desolate battlefield under a giant {argument name=\"moon color\" default=\"blood-red\"} moon. The character has {argument name=\"character hair\" default=\"long dark hair in a messy high ponytail\"}, glowing red eyes, and wears tattered black traditional clothing while holding a {argument name=\"weapon\" default=\"katana\"} angled downwards. In the background, a {argument name=\"background structure\" default=\"ruined Japanese castle\"} looms amidst dark, swirling clouds. The scene includes 3 prominent tattered banners with Japanese kanji planted among shadowy debris. The lighting is cinematic and ominous, utilizing a color palette of {argument name=\"color palette\" default=\"deep blacks and intense crimson reds\"}.",
+  "translatedPrompt": "一张暗黑奇幻风格的动漫插画，描绘了一名孤胆剑客站在荒凉的战场上，头顶是一轮巨大的 {argument name=\"moon color\" default=\"血红色\"} 月亮。角色拥有 {argument name=\"character hair\" default=\"凌乱高马尾的长黑发\"} 和发光的红眼，身穿破烂的黑色传统服饰，手持一把向下倾斜的 {argument name=\"weapon\" default=\"武士刀\"}。背景中，一座 {argument name=\"background structure\" default=\"破败的日本城堡\"} 在暗沉、翻涌的云层中若隐若现。场景中包含 3 面插在阴影废墟间的破旧旗帜，上面印有日本汉字。光影效果具有电影质感且充满不祥气息，采用了 {argument name=\"color palette\" default=\"深黑色与浓郁绯红色\"} 的配色方案。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "暗黑奇幻武士战场：生成一张电影级动漫插画，描绘了巨月之下战场上的孤胆战士，非常适合作为暗黑奇幻概念艺术。",
+      "subject": "人物",
+      "scene": "插画/漫画",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "anime",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体",
+        "风格"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "动漫分镜、战斗场景、运动瞬间、夸张叙事图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 插画/漫画 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, anime, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14432",
+      "15106",
+      "13914",
+      "15374",
+      "15294",
+      "15380"
+    ]
+  }
+}

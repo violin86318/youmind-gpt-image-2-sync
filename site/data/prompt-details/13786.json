@@ -1,0 +1,45 @@
+{
+  "id": "13786",
+  "prompt": "{\n  \"type\": \"3D animated style tourism promotional poster\",\n  \"typography\": {\n    \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"广西\\\"}\",\n    \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"山水甲天下, 多彩广西\\\"}\"\n  },\n  \"characters\": [\n    {\n      \"position\": \"center left\",\n      \"description\": \"3D animated girl, joyful expression\",\n      \"outfit\": \"{argument name=\\\"left character outfit\\\" default=\\\"traditional ethnic minority dress with silver headdress\\\"}\"\n    },\n    {\n      \"position\": \"center right\",\n      \"description\": \"3D animated girl, joyful expression\",\n      \"outfit\": \"{argument name=\\\"right character outfit\\\" default=\\\"white traditional dress with conical hat\\\"}\"\n    }\n  ],\n  \"background\": {\n    \"theme\": \"{argument name=\\\"region theme\\\" default=\\\"Guangxi karst landscapes and rivers\\\"}\",\n    \"style\": \"lush green 3D isometric map\",\n    \"map_labels\": [\n      \"德天跨国瀑布\",\n      \"桂林·象鼻山\",\n      \"龙脊梯田\",\n      \"阳朔·遇龙河\"\n    ]\n  },\n  \"layout\": {\n    \"polaroid_photos\": {\n      \"count\": 4,\n      \"items\": [\n        { \"position\": \"top left\", \"label\": \"三江·程阳风雨桥\", \"scene\": \"traditional covered bridge\" },\n        { \"position\": \"middle left\", \"label\": \"北海·银滩\", \"scene\": \"tropical beach\" },\n        { \"position\": \"bottom left\", \"label\": \"北海·银滩\", \"scene\": \"tropical beach\" },\n        { \"position\": \"bottom right\", \"label\": \"靖西·鹅泉\", \"scene\": \"stone arch bridge over water\" }\n      ]\n    },\n    \"food_showcase\": {\n      \"position\": \"bottom foreground\",\n      \"count\": 4,\n      \"items\": [\n        { \"label\": \"柳州螺蛳粉\", \"description\": \"bowl of spicy snail rice noodles\" },\n        { \"label\": \"南宁老友粉\", \"description\": \"bowl of meat and rice noodles in broth\" },\n        { \"label\": \"五色糯米饭\", \"description\": \"bamboo basket with five colors of sticky rice\" },\n        { \"label\": \"荔浦芋头\", \"description\": \"whole and halved taro roots\" }\n      ]\n    },\n    \"decorations\": \"scattered yellow osmanthus flowers and red hibiscus flowers\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"3D 动画风格旅游宣传海报\",\n  \"typography\": {\n    \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"广西\\\"}\",\n    \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"山水甲天下，多彩广西\\\"}\"\n  },\n  \"characters\": [\n    {\n      \"position\": \"左侧中心\",\n      \"description\": \"3D 动画女孩，表情愉悦\",\n      \"outfit\": \"{argument name=\\\"left character outfit\\\" default=\\\"带有银饰头饰的传统少数民族服饰\\\"}\"\n    },\n    {\n      \"position\": \"右侧中心\",\n      \"description\": \"3D 动画女孩，表情愉悦\",\n      \"outfit\": \"{argument name=\\\"right character outfit\\\" default=\\\"带有斗笠的白色传统服饰\\\"}\"\n    }\n  ],\n  \"background\": {\n    \"theme\": \"{argument name=\\\"region theme\\\" default=\\\"广西喀斯特地貌与河流\\\"}\",\n    \"style\": \"郁郁葱葱的 3D 等距地图\",\n    \"map_labels\": [\n      \"德天跨国瀑布\",\n      \"桂林·象鼻山\",\n      \"龙脊梯田\",\n      \"阳朔·遇龙河\"\n    ]\n  },\n  \"layout\": {\n    \"polaroid_photos\": {\n      \"count\": 4,\n      \"items\": [\n        { \"position\": \"左上\", \"label\": \"三江·程阳风雨桥\", \"scene\": \"传统风雨桥\" },\n        { \"position\": \"左中\", \"label\": \"北海·银滩\", \"scene\": \"热带海滩\" },\n        { \"position\": \"左下\", \"label\": \"北海·银滩\", \"scene\": \"热带海滩\" },\n        { \"position\": \"右下\", \"label\": \"靖西·鹅泉\", \"scene\": \"水上石拱桥\" }\n      ]\n    },\n    \"food_showcase\": {\n      \"position\": \"底部前景\",\n      \"count\": 4,\n      \"items\": [\n        { \"label\": \"柳州螺蛳粉\", \"description\": \"一碗香辣螺蛳粉\" },\n        { \"label\": \"南宁老友粉\", \"description\": \"一碗肉片汤底米粉\" },\n        { \"label\": \"五色糯米饭\", \"description\": \"装在竹篮里的五色糯米饭\" },\n        { \"label\": \"荔浦芋头\", \"description\": \"完整及切开的芋头\" }\n      ]\n    },\n    \"decorations\": \"散落的黄色桂花和红色木槿花\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "3D 动画旅游信息图海报：生成一张充满活力的 3D 动画宣传海报，展示当地地标、特色美食和文化服饰。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "isometric"
+      ],
+      "style": [
+        "3d",
+        "isometric"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: isometric]。\n\nVisual style:\n[参考风格: 3d, isometric]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14491",
+      "15368",
+      "13823",
+      "15006",
+      "13530",
+      "13819"
+    ]
+  }
+}

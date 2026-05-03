@@ -1,0 +1,49 @@
+{
+  "id": "14426",
+  "prompt": "A polished promotional mockup showing 3 tall smartphone screens displayed side by side in a vertical triptych layout, each presenting a modern beauty brand landing page for a lip product. The overall composition is editorial, minimal, and premium, designed like a social media showcase of mobile web designs. The left panel sits on a soft lavender-to-blush gradient background and shows a black-framed phone with a cream and blush beauty website for {argument name=\"brand name\" default=\"Kosas\"}. At the top of this panel, small elegant serif text reads {argument name=\"left headline\" default=\"Fresh Pout.\"}. The phone screen features a cropped close-up beauty image at the top, a bold headline reading “Lips in their fullest expression.” with “fullest” in italic serif styling, a rounded dark call-to-action button, a strip of 3 lip close-up thumbnails, 3 labeled benefit tabs reading “Plumps,” “Tingles,” and “Shines,” and a row of 5 shade or effect icons underneath. The middle panel sits on a lavender-to-deep-violet gradient background and shows a second black-framed phone with a more typographic landing page. Above it, serif text reads {argument name=\"middle headline\" default=\"Claude Code\"}. The screen includes a cropped portrait image at top, a very large bold black stacked title reading “LIP PULSE.” with a pink italic script-style line “is here.” beneath it, a rounded dark button, a dark section with the phrase “Lips in their fullest expression.”, and a product grid near the bottom containing 6 shade cards arranged in 2 rows of 3. The right panel sits on a dark navy textured background and shows a third black-framed phone with a pink-forward e-commerce style page. Centered above it, monospaced white text reads {argument name=\"right headline\" default=\"GPT Images 2.0\"}. This screen prominently displays the product hero section with the brand name “Kosas,” a large title “The Lip Pulse,” a pink lip gloss tube angled to the right, small feature icons, a shade strip of 6 lip swatches near the middle, and a lower promotional block with additional pink product imagery. Keep the layout symmetrical with exactly 3 phones, one per panel, each fully visible and vertically oriented. Use high-end cosmetic campaign aesthetics, clean spacing, fashion-web typography mixing serif and bold sans serif, soft pink and cream UI palettes, subtle shadows, and a sleek product-design presentation suitable for showcasing AI-generated mobile website concepts.",
+  "translatedPrompt": "一套精致的宣传样机，以垂直三联画布局并排展示了 3 个修长的智能手机屏幕，每个屏幕都呈现了一个现代美妆品牌的唇部产品落地页。整体构图具有编辑感、极简且高级，专为社交媒体上的移动端网页设计展示而设计。左侧面板位于柔和的淡紫色到腮红色的渐变背景上，展示了一款黑色边框手机，屏幕上是 {argument name=\"brand name\" default=\"Kosas\"} 的奶油色调腮红美妆网站。在该面板顶部，优雅的小号衬线字体写着 {argument name=\"left headline\" default=\"Fresh Pout.\"}。手机屏幕顶部展示了一张裁剪过的美妆特写图片，醒目的大标题写着“Lips in their fullest expression.”（其中“fullest”采用斜体衬线样式），配有一个圆角深色行动号召按钮、一排 3 个唇部特写缩略图、3 个标注为“Plumps”（丰盈）、“Tingles”（清凉）、“Shines”（光泽）的功效标签，以及下方一排 5 个色号或效果图标。中间面板位于淡紫色到深紫色的渐变背景上，展示了第二款黑色边框手机，其落地页更具排版设计感。上方衬线字体写着 {argument name=\"middle headline\" default=\"Claude Code\"}。屏幕顶部包含一张裁剪过的人像图片，一个非常醒目的黑色堆叠大标题“LIP PULSE.”，下方配有一行粉色斜体手写风格文字“is here.”，一个圆角深色按钮，一个包含短语“Lips in their fullest expression.”的深色区域，以及底部附近包含 6 张色号卡片（排列为 2 行 3 列）的产品网格。右侧面板位于深海军蓝纹理背景上，展示了第三款黑色边框手机，其页面采用粉色调的电商风格。上方居中处，等宽白色字体写着 {argument name=\"right headline\" default=\"GPT Images 2.0\"}。该屏幕显著展示了产品首屏区域，包含品牌名称“Kosas”、大标题“The Lip Pulse”、一个向右倾斜的粉色唇彩管、小型功能图标、中间附近的一排 6 个唇部试色，以及下方包含更多粉色产品图像的促销板块。保持布局对称，恰好 3 部手机，每面板一部，均完全可见且垂直放置。采用高端化妆品广告美学、整洁的间距、混合衬线与粗体无衬线字体的时尚网页排版、柔和的粉色与奶油色 UI 配色、微妙的阴影，以及适合展示 AI 生成的移动端网站概念的时尚产品设计呈现。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "三款精美移动端落地页：一套高级的三联画样机，展示了三款智能手机美妆网站设计，非常适合在社交媒体上展示 AI 生成的化妆品品牌落地页概念。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "close-up",
+        "grid",
+        "vertical"
+      ],
+      "style": [
+        "editorial",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, close-up, grid, vertical]。\n\nVisual style:\n[参考风格: editorial, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14887",
+      "15088",
+      "15444",
+      "14842",
+      "14856",
+      "15085"
+    ]
+  }
+}

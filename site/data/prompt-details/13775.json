@@ -1,0 +1,46 @@
+{
+  "id": "13775",
+  "prompt": "A photorealistic K-pop album teaser poster featuring a {argument name=\"subject description\" default=\"young Asian woman with long messy black hair\"}. She has pale skin, a beauty mark under her left eye, and looks off-camera with an intense expression. She wears a {argument name=\"outfit\" default=\"black sleeveless top and a black leather arm strap with silver buckles\"} and a silver chain necklace against a plain white studio backdrop with cool lighting. The image includes elegant typography overlays. Top left text reads \"1ST MINI ALBUM\", \"{argument name=\"release date\" default=\"2024.05.17 6PM (KST)\"}\", and \"마침내, 우리가 빛나는 순간\". The middle left edge has \"BURSTING INTO FLAME\" rotated ninety degrees. Bottom left contains small copyright text. The lower right features large white Korean serif text \"{argument name=\"main title\" default=\"숨겨진 빛을 따라서\"}\" and \"FOLLOW THE HIDDEN LIGHT\". At the bottom right is the word \"{argument name=\"group name\" default=\"HELIOS\"}\" in a stylized serif font with a starburst in the O.",
+  "translatedPrompt": "一张 K-pop 专辑预告海报，画面主体为一位年轻亚裔女性的特写肖像，她留着 {argument name=\"hair style\" default=\"湿发感长黑发\"}。她神情严肃地看向镜头外，身穿 {argument name=\"outfit\" default=\"带有皮革搭扣臂带和银色链条项链的黑色上衣\"}，背景为白色摄影棚。布局包含优雅的排版：左上角文字为“1ST MINI ALBUM”和“{argument name=\"release date\" default=\"2024.05.17 6PM (KST)\"}”，随后是引言“마침내, 우리가 빛나는 순간”。右下角突出显示大标题“{argument name=\"main title\" default=\"숨겨진 빛을 따라서\"}”，附带“FOLLOW THE HIDDEN LIGHT”以及副标题“{argument name=\"subtitle\" default=\"HELIOS\"}”。左下角配有竖排文字“BURSTING INTO FLAME”及小型版权声明。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "K-Pop 专辑预告海报：生成具有高定 K-pop 风格的宣传海报，支持自定义排版与样式。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "studio"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, studio]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13524",
+      "15515",
+      "15766",
+      "13495",
+      "15043",
+      "14669"
+    ]
+  }
+}

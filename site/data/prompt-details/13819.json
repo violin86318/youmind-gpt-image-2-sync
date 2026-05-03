@@ -1,0 +1,47 @@
+{
+  "id": "13819",
+  "prompt": "{\n  \"type\": \"18-panel brand identity and character design document\",\n  \"brand\": {\n    \"name\": \"{argument name=\\\"brand name\\\" default=\\\"沐阳 MUYANG TEA\\\"}\",\n    \"industry\": \"{argument name=\\\"industry\\\" default=\\\"tea shop\\\"}\",\n    \"colors\": [\"{argument name=\\\"primary color\\\" default=\\\"yellow\\\"}\", \"{argument name=\\\"secondary color\\\" default=\\\"green\\\"}\", \"white\", \"brown\", \"dark green\"]\n  },\n  \"subject\": \"{argument name=\\\"character description\\\" default=\\\"3D rendered cute Shiba Inu mascot wearing a green apron\\\"}\",\n  \"layout\": {\n    \"grid\": \"3 columns by 6 rows\",\n    \"sections\": [\n      {\n        \"title\": \"01 品牌DNA分析 / BRAND DNA ANALYSIS\",\n        \"elements\": [\"logo\", \"5 color swatches\", \"6 icons\", \"target audience charts\"]\n      },\n      {\n        \"title\": \"02 概念构思 / CONCEPT MOODBOARD\",\n        \"elements\": [\"5 photo references\", \"4 mood icons\", \"design equation\"]\n      },\n      {\n        \"title\": \"03 形态研究 / FORM STUDY\",\n        \"elements\": [\"4 logo anatomy icons\", \"4 evolution steps\", \"4 silhouettes\"]\n      },\n      {\n        \"title\": \"04 概念探索 / CONCEPT EXPLORATION\",\n        \"elements\": [\"12 line-art character sketches\"]\n      },\n      {\n        \"title\": \"05 精细线稿 / REFINED LINE ART\",\n        \"elements\": [\"3 rows of front and side line art with proportion guides\"]\n      },\n      {\n        \"title\": \"06 细节精修 / DETAIL REFINEMENT\",\n        \"elements\": [\"2 full-body renders with labels\", \"4 circular close-ups\"]\n      },\n      {\n        \"title\": \"07 表情设定 / EXPRESSION SHEET\",\n        \"elements\": [\"11 3D rendered head expressions\"]\n      },\n      {\n        \"title\": \"08 姿势库 / POSE LIBRARY\",\n        \"elements\": [\"9 full-body 3D rendered poses\"]\n      },\n      {\n        \"title\": \"09 转身视图 / TURNAROUND VIEW\",\n        \"elements\": [\"5 full-body 3D renders\", \"5 matching line-art views\"]\n      },\n      {\n        \"title\": \"10 色彩开发 / COLOR DEVELOPMENT\",\n        \"elements\": [\"5 rows of 5-color palettes\", \"color psychology text\"]\n      },\n      {\n        \"title\": \"11 材质规格 / MATERIAL SPECIFICATION\",\n        \"elements\": [\"5 texture swatches\", \"property sliders\", \"4 manufacturing icons\"]\n      },\n      {\n        \"title\": \"12 色彩应用 / COLOR APPLICATION\",\n        \"elements\": [\"4 color variant renders\", \"2 light/dark renders\", \"4 contrast rating circles\"]\n      },\n      {\n        \"title\": \"13 构造指南 / CONSTRUCTION GUIDE\",\n        \"elements\": [\"2 line-art diagrams for geometry and grid\"]\n      },\n      {\n        \"title\": \"14 设计系统规则 / DESIGN SYSTEM RULES\",\n        \"elements\": [\"minimum size icons\", \"clear space diagram\", \"4 usage examples\"]\n      },\n      {\n        \"title\": \"15 资产变体 / ASSET VARIANTS\",\n        \"elements\": [\"3 size variants\", \"3 line-art variants\", \"3 simplified flat heads\"]\n      },\n      {\n        \"title\": \"16 数字应用 / DIGITAL APPLICATIONS\",\n        \"elements\": [\"1 app icon\", \"2 social avatars\", \"UI elements\", \"3-step animation cycle\"]\n      },\n      {\n        \"title\": \"17 实物应用 / PHYSICAL APPLICATIONS\",\n        \"elements\": [\"plush toy mockup\", \"packaging mockup\", \"merchandise mockup\", \"storefront mockup\"]\n      },\n      {\n        \"title\": \"18 最终主视觉 / FINAL RENDERING\",\n        \"elements\": [\"large high-res 3D render of mascot holding tea\", \"logo\", \"file format list\"]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"18 面板品牌识别与角色设计文档\",\n  \"brand\": {\n    \"name\": \"{argument name=\\\"brand name\\\" default=\\\"沐阳 MUYANG TEA\\\"}\",\n    \"industry\": \"{argument name=\\\"industry\\\" default=\\\"茶饮店\\\"}\",\n    \"colors\": [\"{argument name=\\\"primary color\\\" default=\\\"黄色\\\"}\", \"{argument name=\\\"secondary color\\\" default=\\\"绿色\\\"}\", \"白色\", \"棕色\", \"深绿色\"]\n  },\n  \"subject\": \"{argument name=\\\"character description\\\" default=\\\"佩戴绿色围裙的 3D 渲染可爱柴犬吉祥物\\\"}\",\n  \"layout\": {\n    \"grid\": \"3 列 6 行\",\n    \"sections\": [\n      {\n        \"title\": \"01 品牌 DNA 分析 / BRAND DNA ANALYSIS\",\n        \"elements\": [\"Logo\", \"5 个色卡\", \"6 个图标\", \"目标受众图表\"]\n      },\n      {\n        \"title\": \"02 概念构思 / CONCEPT MOODBOARD\",\n        \"elements\": [\"5 张参考照片\", \"4 个情绪图标\", \"设计公式\"]\n      },\n      {\n        \"title\": \"03 形态研究 / FORM STUDY\",\n        \"elements\": [\"4 个 Logo 解构图标\", \"4 个演变步骤\", \"4 个轮廓图\"]\n      },\n      {\n        \"title\": \"04 概念探索 / CONCEPT EXPLORATION\",\n        \"elements\": [\"12 个角色线稿草图\"]\n      },\n      {\n        \"title\": \"05 精细线稿 / REFINED LINE ART\",\n        \"elements\": [\"3 行带有比例参考的正侧面线稿\"]\n      },\n      {\n        \"title\": \"06 细节精修 / DETAIL REFINEMENT\",\n        \"elements\": [\"2 个带标注的全身渲染图\", \"4 个圆形特写图\"]\n      },\n      {\n        \"title\": \"07 表情设定 / EXPRESSION SHEET\",\n        \"elements\": [\"11 个 3D 渲染头部表情\"]\n      },\n      {\n        \"title\": \"08 姿势库 / POSE LIBRARY\",\n        \"elements\": [\"9 个全身 3D 渲染姿势\"]\n      },\n      {\n        \"title\": \"09 转身视图 / TURNAROUND VIEW\",\n        \"elements\": [\"5 个全身 3D 渲染图\", \"5 个对应的线稿视图\"]\n      },\n      {\n        \"title\": \"10 色彩开发 / COLOR DEVELOPMENT\",\n        \"elements\": [\"5 行 5 色配色方案\", \"色彩心理学文字\"]\n      },\n      {\n        \"title\": \"11 材质规格 / MATERIAL SPECIFICATION\",\n        \"elements\": [\"5 个纹理色卡\", \"属性滑块\", \"4 个制造工艺图标\"]\n      },\n      {\n        \"title\": \"12 色彩应用 / COLOR APPLICATION\",\n        \"elements\": [\"4 个配色变体渲染图\", \"2 个明暗渲染图\", \"4 个对比度评分圆圈\"]\n      },\n      {\n        \"title\": \"13 构造指南 / CONSTRUCTION GUIDE\",\n        \"elements\": [\"2 个几何结构与网格线稿图\"]\n      },\n      {\n        \"title\": \"14 设计系统规则 / DESIGN SYSTEM RULES\",\n        \"elements\": [\"最小尺寸图标\", \"安全空间示意图\", \"4 个使用示例\"]\n      },\n      {\n        \"title\": \"15 资产变体 / ASSET VARIANTS\",\n        \"elements\": [\"3 个尺寸变体\", \"3 个线稿变体\", \"3 个简化扁平化头像\"]\n      },\n      {\n        \"title\": \"16 数字应用 / DIGITAL APPLICATIONS\",\n        \"elements\": [\"1 个 App 图标\", \"2 个社交媒体头像\", \"UI 元素\", \"3 帧动画循环\"]\n      },\n      {\n        \"title\": \"17 实物应用 / PHYSICAL APPLICATIONS\",\n        \"elements\": [\"毛绒玩具样机\", \"包装样机\", \"周边商品样机\", \"店面样机\"]\n      },\n      {\n        \"title\": \"18 最终主视觉 / FINAL RENDERING\",\n        \"elements\": [\"吉祥物手持茶饮的大尺寸高分辨率 3D 渲染图\", \"Logo\", \"文件格式列表\"]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "18 面板吉祥物品牌识别文档：一份全面的 18 节品牌指南及 3D 吉祥物角色设计表，详细涵盖了从项目、线稿到 3D 转身视图及实物样机的所有内容。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "full-body",
+        "grid"
+      ],
+      "style": [
+        "3d"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, full-body, grid]。\n\nVisual style:\n[参考风格: 3d]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14404",
+      "13807",
+      "14978",
+      "15047",
+      "15370",
+      "15675"
+    ]
+  }
+}

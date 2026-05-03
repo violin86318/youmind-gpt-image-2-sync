@@ -1,0 +1,51 @@
+{
+  "id": "15655",
+  "prompt": "{\"type\":\"Japanese high school admissions poster\",\"style\":\"formal school promotional flyer, clean editorial layout, realistic photography collage, bold Japanese typography, navy blue and red color scheme with gold accents, portrait-oriented A4 poster design\",\"subject\":{\"institution\":\"{argument name=\\\"school name\\\" default=\\\"熱志館男子高等学校\\\"}\",\"theme\":\"boys high school entrance guide\",\"slogan_top\":\"熱い心が、未来を切り拓く。\",\"main_headline_1\":\"男子高校\",\"main_headline_2\":\"入学案内\",\"subheadline\":\"熱血先生と仲間たちが集う、学びと成長の3年間\",\"calligraphy_copy\":\"夢に本気で、仲間と一緒に、強くなれ！\",\"hero\":\"a large, muscular, passionate male teacher in a white dress shirt with rolled sleeves and a navy-and-red striped tie, standing in the center-left foreground, raising one clenched fist toward the camera in an encouraging pose, cropped from mid torso upward, energetic and motivational expression\",\"crest\":{\"position\":\"top left\",\"shape\":\"shield emblem with laurel wreath\",\"text\":\"熱志館\",\"detail\":\"Since 1974\"}},\"layout\":{\"background\":\"off-white paper texture with diagonal beige brush-stroke accents\",\"sections\":[{\"title\":\"授業風景\",\"position\":\"top right\",\"count\":1,\"labels\":[\"teacher pointing in front of a chalkboard with equations while two male students listen\"]},{\"title\":\"食事風景\",\"position\":\"upper mid-right\",\"count\":1,\"labels\":[\"five male students in school uniforms eating lunch together in a cafeteria\"]},{\"title\":\"学校生活\",\"position\":\"lower mid-right\",\"count\":1,\"labels\":[\"three male students in uniforms talking outdoors on campus\"]},{\"title\":\"進路サポート\",\"position\":\"bottom right\",\"count\":1,\"labels\":[\"one-on-one counseling between a teacher and a male student at a desk\"]},{\"title\":\"熱志館が選ばれる4つの理由\",\"position\":\"bottom center\",\"count\":4,\"labels\":[\"少人数で丁寧に指導\",\"切磋と切磋琢磨できる環境\",\"生活面も安心のサポート\",\"基礎から進学までしっかり対応\"]},{\"title\":\"学校説明会受付中\",\"position\":\"bottom left\",\"count\":1,\"labels\":[\"large red registration block\"]},{\"title\":\"開催日程\",\"position\":\"bottom lower-left center\",\"count\":3,\"labels\":[\"6/15(日)\",\"7/13(日)\",\"8/24(日)\"]},{\"title\":\"資料請求・お問い合わせ\",\"position\":\"bottom center-right\",\"count\":3,\"labels\":[\"03-1234-5678\",\"www.netsushikan-h.ed.jp\",\"お気軽にお問い合わせください。\"]},{\"title\":\"資料請求はこちらから\",\"position\":\"bottom right\",\"count\":2,\"labels\":[\"QR code\",\"Webフォームから24時間受付中！\"]}],\"composition\":\"very large main headline on the left half, dominant hero teacher overlapping the center, four stacked rectangular photo panels on the right with blue title tabs and white icons, four rounded feature boxes in a horizontal row near the bottom, footer bar spanning the width\"},\"details\":{\"feature_boxes\":[{\"icon\":\"group of people\",\"heading\":\"少人数で丁寧に指導\",\"body\":\"生徒一人ひとりに目が届く少人数制で、きめ細やかな指導を実現します。\"},{\"icon\":\"flame\",\"heading\":\"切磋と切磋琢磨できる環境\",\"body\":\"部活動や行事が盛ん！仲間と高め合い、成長できる環境が整っています。\"},{\"icon\":\"heart in hand\",\"heading\":\"生活面も安心のサポート\",\"body\":\"寮や相談体制など、安心して学校生活を送れるサポート体制が充実しています。\"},{\"icon\":\"open book\",\"heading\":\"基礎から進学までしっかり対応\",\"body\":\"基礎学力の定着から難関大学受験まで、段階的にしっかりサポートします。\"}],\"footer_text\":[\"熱志館男子高等学校\",\"〒123-4567 東京都練馬区熱志町1-1-1\",\"西武新宿線『熱志館駅』徒歩7分\"],\"photo_style\":\"realistic Japanese school brochure photography, adult teacher and male high school students in dark navy uniforms with white shirts and striped ties, warm natural lighting\",\"graphic_elements\":\"blue ribbon-like section headers with white pictogram icons, bold serif Japanese display text for the main title, red emphasis numerals, neat grid alignment, brochure-like professionalism\"},\"customization\":{\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"入学案内\\\"}\",\"phone\":\"{argument name=\\\"phone number\\\" default=\\\"03-1234-5678\\\"}\",\"website\":\"{argument name=\\\"website\\\" default=\\\"www.netsushikan-h.ed.jp\\\"}\",\"event_banner\":\"{argument name=\\\"event banner text\\\" default=\\\"学校説明会受付中\\\"}\"}}",
+  "translatedPrompt": "{\"type\":\"日本高中招生海报\",\"style\":\"正式学校宣传单，整洁的编辑排版，写实摄影拼贴，醒目的日文排版，海军蓝与红色配色方案，点缀金色，纵向 A4 海报设计\",\"subject\":{\"institution\":\"{argument name=\\\"school name\\\" default=\\\"热志馆男子高等学校\\\"}\",\"theme\":\"男子高中入学指南\",\"slogan_top\":\"热忱之心，开创未来。\",\"main_headline_1\":\"男子高中\",\"main_headline_2\":\"入学指南\",\"subheadline\":\"热血教师与伙伴齐聚，学习与成长的 3 年时光\",\"calligraphy_copy\":\"认真对待梦想，与伙伴并肩，变得更强！\",\"hero\":\"一位身材魁梧、充满热情的男教师，身穿卷起袖口的白色衬衫，系着海军蓝与红色条纹领带，站在左中前景，一只拳头向镜头挥舞，姿势充满鼓励，半身像，表情充满活力与感染力\",\"crest\":{\"position\":\"左上角\",\"shape\":\"带有月桂花环的盾形徽章\",\"text\":\"热志馆\",\"detail\":\"始于 1974 年\"}},\"layout\":{\"background\":\"米白色纸张纹理，带有对角线米色笔触装饰\",\"sections\":[{\"title\":\"课堂风景\",\"position\":\"右上角\",\"count\":1,\"labels\":[\"教师在黑板前指点方程，两名男学生在听讲\"]},{\"title\":\"用餐风景\",\"position\":\"中右上方\",\"count\":1,\"labels\":[\"五名身穿校服的男学生在食堂一起吃午餐\"]},{\"title\":\"校园生活\",\"position\":\"中右下方\",\"count\":1,\"labels\":[\"三名身穿校服的男学生在校园户外交谈\"]},{\"title\":\"升学支持\",\"position\":\"右下角\",\"count\":1,\"labels\":[\"教师与男学生在书桌前进行一对一咨询\"]},{\"title\":\"选择热志馆的 4 大理由\",\"position\":\"底部中央\",\"count\":4,\"labels\":[\"小班制细致指导\",\"切磋琢磨的成长环境\",\"安心的校园生活支持\",\"从基础到升学的全面应对\"]},{\"title\":\"学校说明会报名中\",\"position\":\"左下角\",\"count\":1,\"labels\":[\"红色大号注册板块\"]},{\"title\":\"举办日期\",\"position\":\"底部左下中央\",\"count\":3,\"labels\":[\"6/15 (周日)\",\"7/13 (周日)\",\"8/24 (周日)\"]},{\"title\":\"资料索取与咨询\",\"position\":\"底部中右\",\"count\":3,\"labels\":[\"03-1234-5678\",\"www.netsushikan-h.ed.jp\",\"欢迎随时咨询。\"]},{\"title\":\"点击此处索取资料\",\"position\":\"右下角\",\"count\":2,\"labels\":[\"二维码\",\"Web 表单 24 小时受理中！\"]}],\"composition\":\"左半部分为超大主标题，中心为占主导地位的教师形象，右侧为四个堆叠的矩形照片板块，配有蓝色标题标签和白色图标，底部横向排列四个圆角功能框，底部栏横跨全宽\"},\"details\":{\"feature_boxes\":[{\"icon\":\"人群\",\"heading\":\"小班制细致指导\",\"body\":\"通过小班制教学，确保关注到每一位学生，实现精细化指导。\"},{\"icon\":\"火焰\",\"heading\":\"切磋琢磨的成长环境\",\"body\":\"社团活动与校内活动丰富！拥有与伙伴共同进步、共同成长的环境。\"},{\"icon\":\"手中的心\",\"heading\":\"安心的校园生活支持\",\"body\":\"拥有宿舍及咨询体制等完善的支持系统，让学生安心度过校园生活。\"},{\"icon\":\"打开的书\",\"heading\":\"从基础到升学的全面应对\",\"body\":\"从巩固基础学力到挑战难关大学，提供分阶段的坚实支持。\"}],\"footer_text\":[\"热志馆男子高等学校\",\"〒123-4567 东京都练马区热志町 1-1-1\",\"西武新宿线『热志馆站』步行 7 分钟\"],\"photo_style\":\"写实的日本学校宣传册摄影，成年教师与身穿深海军蓝校服、白衬衫及条纹领带的男高中生，温暖的自然光\",\"graphic_elements\":\"带有白色象形图标的蓝色丝带状标题栏，主标题采用醒目的衬线日文字体，红色强调数字，整齐的网格对齐，具备宣传册的专业感\"},\"customization\":{\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"入学指南\\\"}\",\"phone\":\"{argument name=\\\"phone number\\\" default=\\\"03-1234-5678\\\"}\",\"website\":\"{argument name=\\\"website\\\" default=\\\"www.netsushikan-h.ed.jp\\\"}\",\"event_banner\":\"{argument name=\\\"event banner text\\\" default=\\\"学校说明会报名中\\\"}\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日本男子高中招生海报：一份写实的日本学校宣传册海报，包含励志教师形象、校园生活照片板块以及详细的招生信息，适用于高中招生宣传材料。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "grid",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "editorial"
+      ],
+      "lightingCamera": [
+        "natural light",
+        "camera"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, horizontal]。\n\nVisual style:\n[参考风格: realistic, editorial]。\n\nLighting and camera:\n[参考光线镜头: natural light, camera]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15087",
+      "14672",
+      "15467",
+      "13769",
+      "14644",
+      "14688"
+    ]
+  }
+}

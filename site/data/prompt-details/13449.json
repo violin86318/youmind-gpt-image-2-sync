@@ -1,0 +1,39 @@
+{
+  "id": "13449",
+  "prompt": "A detailed {argument name=\"art style\" default=\"ligne claire comic illustration\"} of a sprawling {argument name=\"setting\" default=\"suburban neighborhood\"} viewed from an elevated rooftop perspective during {argument name=\"time of day\" default=\"sunset\"}. The scene features densely packed houses with varied roof colors including muted blues, reds, and browns, interspersed with lush green trees and foliage. Utility poles with crisscrossing power lines cut through the midground. A winding dirt road is visible on the right side. The sky is a smooth gradient of warm orange, pink, and light blue, with a bright round sun sitting low on the horizon behind stylized, fluffy clouds. The artwork uses flat colors, distinct black outlines, and a nostalgic, peaceful atmosphere reminiscent of classic anime background art.",
+  "translatedPrompt": "一幅细节丰富的 {argument name=\"art style\" default=\"Ligne Claire 漫画插画\"}，描绘了从高处屋顶视角俯瞰的 {argument name=\"setting\" default=\"郊区社区\"}，时间设定为 {argument name=\"time of day\" default=\"日落\"}。画面中密集的房屋拥有各异的屋顶颜色，包括柔和的蓝色、红色和棕色，其间点缀着郁郁葱葱的树木和植被。电线杆和纵横交错的电线穿过中景。右侧可见一条蜿蜒的土路。天空呈现出橙色、粉色和浅蓝色的平滑渐变，明亮的圆日低悬在地平线上，背景是风格化的蓬松云朵。作品采用平涂色彩、清晰的黑色轮廓线，营造出一种令人怀旧、宁静的氛围，让人联想到经典的动画背景艺术。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Ligne Claire 郊区景观：生成一幅细节丰富的漫画风格郊区景观插画，支持自定义时间与场景设置。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime",
+        "ligne claire"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime, ligne claire]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14056",
+      "13726",
+      "14769",
+      "13862",
+      "13972",
+      "13977"
+    ]
+  }
+}

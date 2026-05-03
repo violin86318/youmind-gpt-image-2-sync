@@ -1,0 +1,50 @@
+{
+  "id": "14995",
+  "prompt": "{\"type\":\"four-panel Japanese advertising collage\",\"style\":\"clean modern commercial design, premium lifestyle branding, soft natural lighting, polished product-ad composition, square 2x2 grid with thin dividers\",\"layout\":{\"grid\":\"2 columns by 2 rows\",\"count\":4,\"panels\":[{\"position\":\"top-left\",\"category\":\"skincare serum advertisement\",\"headline\":\"素肌が、目を覚ます。\",\"subheadline\":\"うるおい満ちる、透明ハリ肌へ。\",\"brand\":\"LUNÉA\",\"product_name\":\"ルネア モイストリペア セラム\",\"details\":[\"美容液\",\"30mL\"],\"badge_count\":1,\"badges\":[\"発売記念 10%OFF 5.31まで\"],\"feature_icon_count\":4,\"features\":[\"高保湿 セラミド配合\",\"透明感サポート ナイアシンアミド配合\",\"低刺激にもやさしい 6つのフリー処方\",\"植物由来エキス\"],\"cta_count\":1,\"cta_labels\":[\"詳しくはこちら\"],\"visual\":\"a frosted lavender-purple serum bottle with silver dropper cap standing upright in the center-right, glossy translucent gel smear looping behind it, pale pink-beige background, scattered water droplets, elegant serif typography, luxury cosmetic mood\"},{\"position\":\"top-right\",\"category\":\"mobile app productivity advertisement\",\"headline_small\":\"考える時間を、もっと創造的に。\",\"headline\":\"アイデアをカタチにする 新しいノート。\",\"brand\":\"notero\",\"brand_kana\":\"ノテロ\",\"body\":\"メモ・タスク・AIサポートをひとつに。思考を整理して、アイデアを加速させる次世代ノートアプリ。\",\"device_count\":1,\"devices\":[\"black smartphone mockup showing a note and task app interface\"],\"ui_section_count\":3,\"ui_sections\":[\"プロジェクト管理\",\"タスク\",\"AIからの提案\"],\"feature_chip_count\":3,\"feature_chips\":[\"AIがアイデアを整理\",\"マルチデバイス対応\",\"オフラインでも使える\"],\"cta_count\":1,\"cta_labels\":[\"無料で始める\"],\"visual\":\"white and soft blue gradient layout, bold sans-serif typography with the word 新しい in bright blue, rounded abstract blue wave in the lower right, minimal startup app landing page aesthetic\"},{\"position\":\"bottom-left\",\"category\":\"travel advertisement\",\"headline_small\":\"まだ見ぬ景色が、きっとあなたを待っている。\",\"headline\":\"瀬戸内、ゆるり旅。\",\"subheadline\":\"心ほどける、島時間。\",\"badge_count\":1,\"badges\":[\"期間限定 6/1(月)〜6/30(火) 旅行代金 最大20%OFF\"],\"icon_card_count\":3,\"icon_cards\":[\"直行フェリーで楽々 乗り換えなしで島へアクセス\",\"絶景スポット多数 インスタ映え間違いなしのフォトジェニックな旅\",\"ご当地グルメを堪能 新鮮な海の幸や島スイーツも満喫\"],\"cta_count\":1,\"cta_labels\":[\"おすすめプランを見る\"],\"visual\":\"bright scenic coastal landscape with vivid blue sea, green islands, distant mountains, white terrace architecture in the foreground, pink flowers at right edge, sunny summer vacation brochure look\"},{\"position\":\"bottom-right\",\"category\":\"cafe seasonal drink advertisement\",\"headline_tag\":\"季節限定\",\"headline\":\"抹茶ティラミスラテ\",\"accent_text\":\"New!\",\"body\":\"春の高い抹茶と、なめらかなマスカルポーネのハーモニー。ほろ苦く、やさしい余韻を。\",\"brand\":\"HARUKA CAFÉ\",\"size_count\":2,\"sizes\":[\"Regular ¥680 (税込)\",\"Tall ¥730 (税込)\"],\"cta_count\":1,\"cta_labels\":[\"メニューをチェック\"],\"extra_badge_count\":1,\"extra_badges\":[\"テイクアウトOK モバイルオーダーで待たずに受け取り\"],\"visual\":\"a clear glass of layered green matcha latte topped with thick tiramisu-like cream and matcha powder, small bowl of matcha, wooden spoon with spilled powder, cream-beige textured background, green leaves entering from the top-right, refined café poster styling\"}]}}",
+  "translatedPrompt": "{\"type\":\"四格日式广告拼贴\",\"style\":\"简洁现代商业设计，高级生活方式品牌感，柔和自然光，精致产品广告构图，带细分割线的 2x2 方形网格\",\"layout\":{\"grid\":\"2 列 2 行\",\"count\":4,\"panels\":[{\"position\":\"左上\",\"category\":\"护肤精华广告\",\"headline\":\"素肌が、目を覚ます。\",\"subheadline\":\"うるおい満ちる、透明ハリ肌へ。\",\"brand\":\"LUNÉA\",\"product_name\":\"ルネア モイストリペア セラム\",\"details\":[\"美容液\",\"30mL\"],\"badge_count\":1,\"badges\":[\"発売記念 10%OFF 5.31まで\"],\"feature_icon_count\":4,\"features\":[\"高保湿 セラミド配合\",\"透明感サポート ナイアシンアミド配合\",\"低刺激にもやさしい 6つのフリー処方\",\"植物由来エキス\"],\"cta_count\":1,\"cta_labels\":[\"詳しくはこちら\"],\"visual\":\"一瓶磨砂薰衣草紫色精华液，配银色滴管盖，直立于右中位置，身后环绕着光泽半透明的凝胶涂抹痕迹，淡粉米色背景，散落的水滴，优雅的衬线字体，奢华化妆品氛围\"},{\"position\":\"右上\",\"category\":\"移动办公应用广告\",\"headline_small\":\"考える時間を、もっと創造的に。\",\"headline\":\"アイデアをカタチにする 新しいノート。\",\"brand\":\"notero\",\"brand_kana\":\"ノテロ\",\"body\":\"メモ・タスク・AIサポートをひとつに。思考を整理して、アイデアを加速させる次世代ノートアプリ。\",\"device_count\":1,\"devices\":[\"显示笔记与任务应用界面的黑色智能手机样机\"],\"ui_section_count\":3,\"ui_sections\":[\"项目管理\",\"任务\",\"AI 建议\"],\"feature_chip_count\":3,\"feature_chips\":[\"AI 整理创意\",\"多设备支持\",\"支持离线使用\"],\"cta_count\":1,\"cta_labels\":[\"免费开始\"],\"visual\":\"白色与柔和蓝色渐变布局，粗体无衬线字体，其中“新しい”一词为亮蓝色，右下角有圆润的抽象蓝色波浪，极简初创应用落地页美学\"},{\"position\":\"左下\",\"category\":\"旅游广告\",\"headline_small\":\"まだ見ぬ景色が、きっとあなたを待っている。\",\"headline\":\"瀬戸内、ゆるり旅。\",\"subheadline\":\"心ほどける、島時間。\",\"badge_count\":1,\"badges\":[\"期間限定 6/1(月)〜6/30(火) 旅行代金 最大20%OFF\"],\"icon_card_count\":3,\"icon_cards\":[\"直行フェリーで楽々 乗り換えなしで島へアクセス\",\"絶景スポット多数 インスタ映え間違いなしのフォトジェニックな旅\",\"ご当地グルメを堪能 新鮮な海の幸や島スイーツも満喫\"],\"cta_count\":1,\"cta_labels\":[\"查看推荐方案\"],\"visual\":\"明亮的沿海风景，湛蓝的海水，绿色的岛屿，远处的群山，前景为白色露台建筑，右边缘有粉色花朵，阳光明媚的夏季度假手册风格\"},{\"position\":\"右下\",\"category\":\"季节性咖啡饮品广告\",\"headline_tag\":\"季节限定\",\"headline\":\"抹茶提拉米苏拿铁\",\"accent_text\":\"New!\",\"body\":\"春の高い抹茶と、なめらかなマスカルポーネのハーモニー。ほろ苦く、やさしい余韻を。\",\"brand\":\"HARUKA CAFÉ\",\"size_count\":2,\"sizes\":[\"Regular ¥680 (含税)\",\"Tall ¥730 (含税)\"],\"cta_count\":1,\"cta_labels\":[\"查看菜单\"],\"extra_badge_count\":1,\"extra_badges\":[\"支持外带，手机下单无需排队\"],\"visual\":\"一杯透明玻璃杯装的层叠绿色抹茶拿铁，顶部覆盖厚厚的提拉米苏风味奶油和抹茶粉，旁边放着一小碗抹茶，木勺上有洒落的粉末，奶油米色纹理背景，右上角有绿叶伸入，精致的咖啡馆海报风格\"}]}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日式四格广告拼贴：此提示词可生成一张精致的方形拼贴图，包含四种不同风格的日式广告，涵盖护肤品、移动应用、旅游及季节性咖啡饮品，适用于模拟营销活动或设计灵感参考。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "grid",
+        "2x2",
+        "layered"
+      ],
+      "style": [
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [
+        "natural light"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, 2x2, layered]。\n\nVisual style:\n[参考风格: luxury, premium]。\n\nLighting and camera:\n[参考光线镜头: natural light]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15085",
+      "14938",
+      "15088",
+      "13875",
+      "14887",
+      "14456"
+    ]
+  }
+}

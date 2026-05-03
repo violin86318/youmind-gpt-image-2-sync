@@ -1,0 +1,46 @@
+{
+  "id": "14038",
+  "prompt": "{\n  \"type\": \"Japanese drama movie poster\",\n  \"style\": \"cinematic photography, emotional, soft golden hour lighting\",\n  \"layout\": {\n    \"main_poster_area\": {\n      \"visuals\": {\n        \"right\": \"large profile of young Japanese woman in sailor uniform, melancholic\",\n        \"center\": \"Shiba Inu dog looking up\",\n        \"left\": \"middle-aged Japanese man standing on coastal road\",\n        \"background\": \"ocean coast at sunset, birds in sky\"\n      },\n      \"typography\": {\n        \"title\": \"{argument name=\\\"movie title\\\" default=\\\"夕凪のしっぽ\\\"}\",\n        \"subtitle\": \"——あの日のきみへ——\",\n        \"right_copy\": \"{argument name=\\\"right tagline\\\" default=\\\"きみがくれた時間が、わたしを変えていった。\\\"}\",\n        \"left_copy\": \"失ったものは戻らない。それでも誰かと心を通わせることで、人はもう一度前を向ける。\",\n        \"date\": \"{argument name=\\\"release date\\\" default=\\\"10.31 FRI.\\\"}\\nROADSHOW\",\n        \"credits\": \"{argument name=\\\"credits text\\\" default=\\\"主演: 福波摩子 / 霧峰周作\\\"}\"\n      }\n    },\n    \"bottom_stills_strip\": {\n      \"count\": 5,\n      \"panels\": [\n        \"girl sitting on beach facing dog\",\n        \"girl on bicycle looking at harbor\",\n        \"girl and man at indoor table, dog below\",\n        \"man and girl standing apart on beach\",\n        \"close-up of girl hugging dog\"\n      ]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"日剧电影海报\",\n  \"style\": \"电影摄影风格，情感充沛，柔和的黄金时刻光影\",\n  \"layout\": {\n    \"main_poster_area\": {\n      \"visuals\": {\n        \"right\": \"身穿水手服的年轻日本女性侧脸大特写，神情忧郁\",\n        \"center\": \"抬头仰望的柴犬\",\n        \"left\": \"站在沿海公路上的中年日本男性\",\n        \"background\": \"日落时的海岸线，天空中飞翔的鸟群\"\n      },\n      \"typography\": {\n        \"title\": \"{argument name=\\\"movie title\\\" default=\\\"夕凪のしっぽ\\\"}\",\n        \"subtitle\": \"——あの日のきみへ——\",\n        \"right_copy\": \"{argument name=\\\"right tagline\\\" default=\\\"きみがくれた時間が、わたしを変えていった。\\\"}\",\n        \"left_copy\": \"失ったものは戻らない。それでも誰かと心を通わせることで、人はもう一度前を向ける。\",\n        \"date\": \"{argument name=\\\"release date\\\" default=\\\"10.31 FRI.\\\"}\\nROADSHOW\",\n        \"credits\": \"{argument name=\\\"credits text\\\" default=\\\"主演: 福波摩子 / 霧峰周作\\\"}\"\n      }\n    },\n    \"bottom_stills_strip\": {\n      \"count\": 5,\n      \"panels\": [\n        \"女孩坐在海滩上面对柴犬\",\n        \"女孩骑着自行车望向港口\",\n        \"女孩和男子坐在室内桌旁，柴犬在桌下\",\n        \"男子和女孩在海滩上保持距离站立\",\n        \"女孩拥抱柴犬的特写\"\n      ]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日剧电影海报布局：生成一张电影感日剧海报，包含主视觉图、排版设计以及底部 5 张电影剧照条。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up"
+      ],
+      "style": [
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "golden hour"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up]。\n\nVisual style:\n[参考风格: cinematic]。\n\nLighting and camera:\n[参考光线镜头: golden hour]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14174",
+      "15094",
+      "15453",
+      "14039",
+      "15224",
+      "15766"
+    ]
+  }
+}

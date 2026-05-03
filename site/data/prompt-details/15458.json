@@ -1,0 +1,56 @@
+{
+  "id": "15458",
+  "prompt": "{\"type\":\"cinematic sci-fi event poster\",\"subject\":{\"format\":\"vertical one-sheet promotional poster\",\"theme\":\"futuristic AI web design sprint advertisement with blockbuster movie poster energy\",\"headline_top\":\"{argument name=\\\"headline text\\\" default=\\\"THE FUTURE IS DESIGNED. THE WEB IS ALIVE.\\\"}\",\"main_title\":\"THE AI WEB\",\"subtitle\":\"DESIGN SPRINT\",\"tagline\":\"A 4-DAY MISSION TO BUILD THE IMPOSSIBLE\",\"date_text\":\"{argument name=\\\"event dates\\\" default=\\\"APRIL 27–30\\\"}\",\"status_text\":\"{argument name=\\\"status text\\\" default=\\\"LIVE.\\\"}\",\"footer_text\":\"ONLY ON THE WEB.\",\"coming_text\":\"COMING SOON\"},\"characters\":{\"count\":2,\"description\":\"two male figures shown from chest up, centered side by side like co-stars on a movie poster, both wearing dark jackets over light shirts, dramatic rim lighting and warm backlight, realistic photographic faces intentionally generic\",\"left_character\":{\"position\":\"center-left\",\"hair\":\"dark brown slicked-back hair\",\"facial_hair\":\"small goatee\",\"expression\":\"serious neutral\"},\"right_character\":{\"position\":\"center-right\",\"headwear\":\"red baseball cap with visible embroidered lettering\",\"facial_hair\":\"small goatee\",\"expression\":\"serious neutral\"}},\"background\":{\"setting\":\"apocalyptic futuristic city skyline at dusk\",\"sky\":\"huge glowing sunset at horizon with dense storm clouds, orange firelight near the bottom fading into deep blue-black space above\",\"city\":{\"count\":2,\"description\":\"city skyscraper silhouettes on both left and right sides framing the central glow\"},\"cosmic_face\":\"colossal celestial face emerging from the upper sky with 2 luminous blue eyes staring forward\",\"network_effect\":\"purple and blue neural-network lines and stars spreading across the top half of the sky\",\"aircraft\":{\"count\":4,\"items\":[\"1 helicopter in the upper left with searchlight beam\",\"3 jet aircraft in the upper right leaving bright contrails\"]},\"fire_effects\":\"burning embers and flames along the bottom left and bottom right corners\"},\"layout\":{\"title_block\":{\"position\":\"lower middle\",\"style\":\"massive metallic chrome 3D typography with beveled edges, brushed steel texture, bright highlights, and blue lens flare crossing horizontally through the title\"},\"feature_icons\":{\"position\":\"above the date row\",\"count\":4,\"items\":[{\"label\":\"REAL-TIME DESIGN\",\"icon\":\"glowing orange screen/terminal icon with angle bracket and underscore\"},{\"label\":\"AI-POWERED WORKFLOWS\",\"icon\":\"glowing cyan connected-node network icon\"},{\"label\":\"CREATIVE COLLISION\",\"icon\":\"glowing purple radial burst icon\"},{\"label\":\"CODE IN MOTION\",\"icon\":\"glowing red code brackets slash icon\"}]},\"credits\":{\"position\":\"bottom\",\"count\":3,\"items\":[\"dense fake movie-credit lines in tiny condensed text\",\"small production logos including MP and 976 style marks\",\"overall footer styled like a theatrical film poster\"]}},\"style\":{\"lighting\":\"high-contrast cinematic lighting, warm orange sunset mixed with cool blue and purple sci-fi glow\",\"color_palette\":\"orange, blue, purple, black, steel silver\",\"composition\":\"symmetrical heroic composition with centered horizon flare and oversized title\",\"finish\":\"ultra-detailed, glossy, photoreal composite, epic cyberpunk blockbuster poster, dramatic atmosphere, sharp focus, volumetric light, sparks, lens flares\"}}",
+  "translatedPrompt": "{\"type\":\"电影级科幻活动海报\",\"subject\":{\"format\":\"垂直单页宣传海报\",\"theme\":\"充满大片质感的未来主义 AI 网页设计冲刺广告\",\"headline_top\":\"{argument name=\\\"headline text\\\" default=\\\"未来，由设计定义。网络，正觉醒。\\\"}\",\"main_title\":\"THE AI WEB\",\"subtitle\":\"设计冲刺\",\"tagline\":\"一场构建无限可能的 4 天任务\",\"date_text\":\"{argument name=\\\"event dates\\\" default=\\\"4 月 27 日至 30 日\\\"}\",\"status_text\":\"{argument name=\\\"status text\\\" default=\\\"直播中。\\\"}\",\"footer_text\":\"仅限网页端。\",\"coming_text\":\"敬请期待\"},\"characters\":{\"count\":2,\"description\":\"两名男性角色，胸部以上特写，像电影海报中的联合主演一样并排居中，均身穿深色夹克内搭浅色衬衫，戏剧性的轮廓光和温暖的背光，写实的脸部特征，刻意保持大众化\",\"left_character\":{\"position\":\"中左\",\"hair\":\"深棕色背头\",\"facial_hair\":\"小山羊胡\",\"expression\":\"严肃且中性\"},\"right_character\":{\"position\":\"中右\",\"headwear\":\"带有可见刺绣字母的红色棒球帽\",\"facial_hair\":\"小山羊胡\",\"expression\":\"严肃且中性\"}},\"background\":{\"setting\":\"黄昏时分末日风格的未来城市天际线\",\"sky\":\"地平线上巨大的发光日落，伴有浓密的风暴云，底部是橙色火光，向上渐变为深蓝黑色空间\",\"city\":{\"count\":2,\"description\":\"左右两侧的城市摩天大楼剪影，框定中央的光芒\"},\"cosmic_face\":\"巨大的天体面孔从高空浮现，两只发光的蓝色眼睛注视前方\",\"network_effect\":\"紫色和蓝色的神经网络线条与星光在天空上半部分蔓延\",\"aircraft\":{\"count\":4,\"items\":[\"左上方 1 架带有探照灯光束的直升机\",\"右上方 3 架留下明亮尾迹的喷气式飞机\"]},\"fire_effects\":\"左下角和右下角燃烧的余烬与火焰\"},\"layout\":{\"title_block\":{\"position\":\"中下部\",\"style\":\"巨大的金属铬 3D 字体，带有斜面边缘、拉丝钢质感、明亮高光，以及横穿标题的蓝色镜头光晕\"},\"feature_icons\":{\"position\":\"日期行上方\",\"count\":4,\"items\":[{\"label\":\"实时设计\",\"icon\":\"带有尖括号和下划线的发光橙色屏幕/终端图标\"},{\"label\":\"AI 驱动工作流\",\"icon\":\"发光的青色节点网络图标\"},{\"label\":\"创意碰撞\",\"icon\":\"发光的紫色放射状爆发图标\"},{\"label\":\"动态代码\",\"icon\":\"发光的红色代码括号斜杠图标\"}]},\"credits\":{\"position\":\"底部\",\"count\":3,\"items\":[\"底部密集的伪电影演职员表，采用微小的压缩字体\",\"包含 MP 和 976 风格标记的小型制作公司 Logo\",\"整体页脚设计风格仿照院线电影海报\"]}},\"style\":{\"lighting\":\"高对比度电影级布光，温暖的橙色日落与冷色调的蓝紫色科幻光芒交织\",\"color_palette\":\"橙色、蓝色、紫色、黑色、钢银色\",\"composition\":\"对称的英雄式构图，中心地平线光晕与超大标题\",\"finish\":\"超精细、光泽感、写实合成，史诗级赛博朋克大片海报，戏剧性氛围，清晰对焦，体积光，火花，镜头光晕\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影级 AI Web Sprint 海报：此提示词可生成一张极具戏剧性的科幻风格宣传海报，专为聚焦 AI 的网页设计活动打造，非常适合社交媒体发布、会议广告或创意冲刺活动。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "3d",
+        "sci-fi"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "backlight",
+        "volumetric",
+        "lens"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, cinematic, 3d, sci-fi]。\n\nLighting and camera:\n[参考光线镜头: rim light, backlight, volumetric, lens]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14598",
+      "14946",
+      "15609",
+      "14589",
+      "15643",
+      "14438"
+    ]
+  }
+}

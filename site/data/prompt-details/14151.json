@@ -1,0 +1,51 @@
+{
+  "id": "14151",
+  "prompt": "{\n  \"type\": \"scientific hardware diagram\",\n  \"layout\": {\n    \"main_scene\": \"3D render of an optical table with a red laser beam passing through 11 aligned optical components mounted on black posts.\",\n    \"top_brackets\": [\n      {\"label\": \"Dual Modulation\", \"span\": \"SLM1\"},\n      {\"label\": \"4f Relay Optics\", \"span\": \"Lens L1 to Lens L2\"},\n      {\"label\": \"Imaging Optics\", \"span\": \"SLM2 to Lens L4\"},\n      {\"label\": \"Detection\", \"span\": \"Camera\"}\n    ],\n    \"optical_components_left_to_right\": [\n      {\"name\": \"Laser\", \"labels\": [\"Laser\", \"λ = {argument name=\\\"laser wavelength\\\" default=\\\"632.8 nm\\\"}\"]},\n      {\"name\": \"SLM1\", \"labels\": [\"SLM1\", \"(Phase / Pol. Mod.)\"]},\n      {\"name\": \"Lens L1\", \"labels\": [\"Lens L1\", \"(f1)\"]},\n      {\"name\": \"Iris\", \"labels\": [\"Fourier Plane\", \"(Pupil Plane)\", \"Iris\", \"(Higher Orders Filtered)\"]},\n      {\"name\": \"HWP\", \"labels\": [\"HWP\", \"(λ/2)\"]},\n      {\"name\": \"Lens L2\", \"labels\": [\"Lens L2\", \"(f1)\"]},\n      {\"name\": \"SLM2\", \"labels\": [\"SLM2\", \"(Phase / Pol. Mod.)\"]},\n      {\"name\": \"Lens L3\", \"labels\": [\"Lens L3\", \"(f2)\"]},\n      {\"name\": \"Lens L4\", \"labels\": [\"Lens L4\", \"(f2)\"]},\n      {\"name\": \"Linear Polarizer\", \"labels\": [\"Linear\", \"-Polarizer\", \"(Global Analyzer)\"]},\n      {\"name\": \"Polarization Camera\", \"labels\": [\"POLARIZATION CAMERA\"]}\n    ],\n    \"inset_box\": {\n      \"position\": \"bottom right\",\n      \"title\": \"Polarization Camera Micro-Polarizer Array (Per-Pixel Analyzer)\",\n      \"grid\": \"4x4 grid of colored squares with directional arrows\",\n      \"legend_count\": 4,\n      \"legend_items\": [\n        \"Red square, horizontal arrow, 0° (H)\",\n        \"Green square, vertical arrow, 90° (V)\",\n        \"Blue square, diagonal arrow, 45° (D)\",\n        \"Yellow square, diagonal arrow, 135° (A)\"\n      ]\n    },\n    \"bottom_caption\": {\n      \"figure_prefix\": \"{argument name=\\\"figure number\\\" default=\\\"Fig. 5.\\\"}\",\n      \"title\": \"{argument name=\\\"system name\\\" default=\\\"Ellipsography Hardware Setup.\\\"}\",\n      \"text\": \"Paragraph of scientific text explaining the dual-modulation configuration, 4f relay optics, and polarization camera.\"\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"scientific hardware diagram\",\n  \"layout\": {\n    \"main_scene\": \"3D render of an optical table with a red laser beam passing through 11 aligned optical components mounted on black posts.\",\n    \"top_brackets\": [\n      {\"label\": \"Dual Modulation\", \"span\": \"SLM1\"},\n      {\"label\": \"4f Relay Optics\", \"span\": \"Lens L1 to Lens L2\"},\n      {\"label\": \"Imaging Optics\", \"span\": \"SLM2 to Lens L4\"},\n      {\"label\": \"Detection\", \"span\": \"Camera\"}\n    ],\n    \"optical_components_left_to_right\": [\n      {\"name\": \"Laser\", \"labels\": [\"Laser\", \"λ = {argument name=\\\"laser wavelength\\\" default=\\\"632.8 nm\\\"}\"]},\n      {\"name\": \"SLM1\", \"labels\": [\"SLM1\", \"(Phase / Pol. Mod.)\"]},\n      {\"name\": \"Lens L1\", \"labels\": [\"Lens L1\", \"(f1)\"]},\n      {\"name\": \"Iris\", \"labels\": [\"Fourier Plane\", \"(Pupil Plane)\", \"Iris\", \"(Higher Orders Filtered)\"]},\n      {\"name\": \"HWP\", \"labels\": [\"HWP\", \"(λ/2)\"]},\n      {\"name\": \"Lens L2\", \"labels\": [\"Lens L2\", \"(f1)\"]},\n      {\"name\": \"SLM2\", \"labels\": [\"SLM2\", \"(Phase / Pol. Mod.)\"]},\n      {\"name\": \"Lens L3\", \"labels\": [\"Lens L3\", \"(f2)\"]},\n      {\"name\": \"Lens L4\", \"labels\": [\"Lens L4\", \"(f2)\"]},\n      {\"name\": \"Linear Polarizer\", \"labels\": [\"Linear\", \"-Polarizer\", \"(Global Analyzer)\"]},\n      {\"name\": \"Polarization Camera\", \"labels\": [\"POLARIZATION CAMERA\"]}\n    ],\n    \"inset_box\": {\n      \"position\": \"bottom right\",\n      \"title\": \"Polarization Camera Micro-Polarizer Array (Per-Pixel Analyzer)\",\n      \"grid\": \"4x4 grid of colored squares with directional arrows\",\n      \"legend_count\": 4,\n      \"legend_items\": [\n        \"Red square, horizontal arrow, 0° (H)\",\n        \"Green square, vertical arrow, 90° (V)\",\n        \"Blue square, diagonal arrow, 45° (D)\",\n        \"Yellow square, diagonal arrow, 135° (A)\"\n      ]\n    },\n    \"bottom_caption\": {\n      \"figure_prefix\": \"{argument name=\\\"figure number\\\" default=\\\"Fig. 5.\\\"}\",\n      \"title\": \"{argument name=\\\"system name\\\" default=\\\"Ellipsography Hardware Setup.\\\"}\",\n      \"text\": \"Paragraph of scientific text explaining the dual-modulation configuration, 4f relay optics, and polarization camera.\"\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Scientific Optical Hardware Diagram：A detailed 3D schematic of an optical table setup with labeled components, an inset legend, and a descriptive caption.",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "grid",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "3d"
+      ],
+      "lightingCamera": [
+        "lens",
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "硬件拆解、产品卖点、技术说明、科普图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, vertical, horizontal]。\n\nVisual style:\n[参考风格: 3d]。\n\nLighting and camera:\n[参考光线镜头: lens, camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14147",
+      "13460",
+      "14261",
+      "15000",
+      "14657",
+      "15110"
+    ]
+  }
+}

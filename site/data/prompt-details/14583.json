@@ -1,0 +1,44 @@
+{
+  "id": "14583",
+  "prompt": "A hyper-detailed premium holographic trading card illustration of {argument name=\"hero name\" default=\"Kamen Rider 1\"}, designed like an ultra-rare tokusatsu collectible card with a vertical full-frame ornate border. The central figure is a classic masked hero in a dynamic forward-reaching pose, filling most of the composition from thighs up, with one gloved hand thrust toward the viewer and the other hand holding a smaller version of the same card. He wears a dark green armored chest, black suit, silver segmented gloves and forearms, a red scarf streaming dramatically to the right, a red belt with a large circular red buckle, and a metallic insect-like helmet with 2 long silver antennae and 2 oversized faceted crimson compound eyes. Behind him is a chaotic apocalyptic city battle scene at night with ruined buildings, smoke, sparks, streaking explosions, and a star-filled cosmic sky. Include exactly 10 smaller rider figures in the background and corners: 2 flying in the upper right sky, 1 climbing or leaping on the mid-left ruins, 3 mid-background combat figures across the center-right, 2 small figures in the lower right, 1 blue-accented figure in the lower left, and 1 partially visible figure near the far left edge. The art style is gritty, painterly, metallic, and cinematic, with dense glitter particles, rainbow foil reflections, gold filigree linework, and prism-like holographic highlights across the entire image. The card frame should be lavish black, gold, and iridescent foil with collectible-game styling. At the top center place the text \"MASKED RIDER\" above large serif text \"{argument name=\"title text\" default=\"KAMEN RIDER\"}\" and a huge gold number \"{argument name=\"card number\" default=\"1\"}\". In the top left place a circular emblem showing the masked rider face. In the top right place a large badge reading \"{argument name=\"rarity\" default=\"SSR\"}\" with 5 gold stars beneath it. In the bottom left place a panel reading \"CARD TYPE\" and \"CHARACTER\". At the bottom center place the text \"KAMEN RIDER 1\" with \"仮面ライダー1号\" below it, and a barcode-like strip with the text \"RIDER LEGEND 1971\". In the bottom right add a large gold cursive autograph reading \"{argument name=\"signature\" default=\"NickZag\"}\". Make the whole card feel like an ultra-premium chase card, dramatic perspective, extreme detail, sharp contrast, glowing embers, shattered-city energy, and luxurious holographic foil texture.",
+  "translatedPrompt": "一张超精细的高级全息集换式卡牌插图，主角为 {argument name=\"hero name\" default=\"假面骑士 1 号\"}，设计风格参考超稀有特摄收藏卡，带有垂直全画幅华丽边框。中心人物是一位经典的蒙面英雄，采用动态向前伸展的姿势，占据了构图的大部分（大腿以上），一只戴手套的手伸向观众，另一只手拿着一张同款的小型卡牌。他身穿深绿色装甲胸甲、黑色紧身衣，佩戴银色分段式手套和前臂护甲，一条红色围巾向右侧戏剧性地飘动，腰间系着红色腰带，带有巨大的圆形红色带扣，头戴金属质感的昆虫状头盔，配有 2 根长银色触角和 2 只超大的多面深红色复眼。背景是混乱的末日城市夜战场景，包含废墟建筑、烟雾、火花、流光溢彩的爆炸以及繁星点点的宇宙天空。背景和角落处需包含 10 个较小的骑士形象：右上角天空中有 2 个飞行形象，左中废墟上有 1 个攀爬或跳跃形象，中右侧有 3 个背景战斗形象，右下角有 2 个小型形象，左下角有 1 个带有蓝色装饰的形象，最左侧边缘有 1 个部分可见的形象。艺术风格粗犷、具有油画质感、金属感且充满电影感，整张图像覆盖着密集的闪光颗粒、彩虹箔反射、金色花丝线条以及棱镜般的全息高光。卡牌边框应采用奢华的黑色、金色和虹彩箔片，并具备集换式卡牌游戏的风格。顶部中心放置文本“MASKED RIDER”，下方为大型衬线字体“{argument name=\"title text\" default=\"KAMEN RIDER\"}”以及巨大的金色数字“{argument name=\"card number\" default=\"1\"}”。左上角放置一个显示蒙面骑士面部的圆形徽章。右上角放置一个大徽章，写有“{argument name=\"rarity\" default=\"SSR\"}”及其下方的 5 颗金星。左下角放置一个面板，写有“CARD TYPE”和“CHARACTER”。底部中心放置文本“KAMEN RIDER 1”及其下方的“仮面ライダー1号”，以及一条类似条形码的带状区域，写有“RIDER LEGEND 1971”。右下角添加一个巨大的金色草书签名“{argument name=\"signature\" default=\"NickZag\"}”。使整张卡牌呈现出超高级珍稀卡的感觉，具备戏剧性的透视效果、极致的细节、强烈的对比度、发光的余烬、破碎城市的能量感以及奢华的全息箔片质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "全息假面骑士 SSR 卡牌：此提示词可生成高度精细的超稀有特摄集换式卡牌插图，非常适合用于收藏卡艺术、粉丝海报以及高级角色展示图像。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: cinematic, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14469",
+      "14932",
+      "15456",
+      "14598",
+      "14808",
+      "14869"
+    ]
+  }
+}

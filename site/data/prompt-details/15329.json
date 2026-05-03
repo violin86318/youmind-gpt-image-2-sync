@@ -1,0 +1,49 @@
+{
+  "id": "15329",
+  "prompt": "{\"type\":\"fantasy merchandise catalog poster\",\"theme\":\"official goods announcement for a duck-themed gaming alliance\",\"style\":\"polished promotional product sheet, fantasy game aesthetic, Japanese retail flyer, parchment-and-gold UI framing, detailed commercial mockup, clean studio product renders embedded in a decorative poster\",\"brand\":{\"name\":\"{argument name=\\\"organization name\\\" default=\\\"日本鴨同盟\\\"}\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"日本鴨同盟 公式グッズ\\\"}\",\"tagline\":\"仲間とともに、楽しさをカタチに！\",\"logo\":\"a heraldic shield crest featuring a bright green duck head with orange beak, blue and red ornamental background, small EMPIRES & PUZZLES text, and large JAPAN KAMO ALLIANCE lettering\"},\"canvas\":{\"orientation\":\"portrait\",\"background\":\"aged cream catalog paper framed by ornate dark navy and gold fantasy border with decorative corner filigree\"},\"header\":{\"count\":4,\"elements\":[\"top-left alliance crest logo\",\"large gold Japanese title centered across the top\",\"small white Japanese tagline under the title\",\"top-right cartoon duck mascot with spread wings standing beside colorful puzzle gems, with a fantasy castle skyline in the distance and a glowing lantern in front\"]},\"layout\":{\"sections\":[{\"title\":\"アパレル\",\"position\":\"upper half\",\"count\":3,\"items\":[{\"label\":\"同盟ロゴ Tシャツ\",\"price\":\"¥3,300 (税込)\",\"description\":\"navy short-sleeve T-shirt shown front and side/back, large crest logo printed on the chest, vertical Japanese text printed on the back\"},{\"label\":\"同盟ロゴ パーカー\",\"price\":\"¥6,800 (税込)\",\"description\":\"black zip hoodie shown front and back, small crest logo on left chest, large vertical gold Japanese text on the back\"},{\"label\":\"カモ紳士 ポロシャツ\",\"price\":\"¥4,200 (税込)\",\"description\":\"navy polo shirt with small embroidered duck crest on left chest\"}]},{\"title\":\"雑貨\",\"position\":\"middle left\",\"count\":2,\"items\":[{\"label\":\"同盟ロゴ マグカップ\",\"price\":\"¥1,650 (税込)\",\"description\":\"white ceramic mug with the crest logo printed on the side\"},{\"label\":\"カモ紋章 タンブラー\",\"price\":\"¥2,200 (税込)\",\"description\":\"black insulated tumbler with metallic rim and crest logo printed on front\"}]},{\"title\":\"マスコット\",\"position\":\"middle center\",\"count\":1,\"items\":[{\"label\":\"カモ騎士 ぬいぐるみ\",\"price\":\"¥2,800 (税込)\",\"description\":\"plush green duck mascot wearing brown fantasy armor and a chest emblem, seated facing forward\"}]},{\"title\":\"ステーショナリー\",\"position\":\"middle right\",\"count\":2,\"items\":[{\"label\":\"同盟ノートブック\",\"price\":\"¥880 (税込)\",\"description\":\"dark navy notebook with vertical gold Japanese title and small duck icon near the bottom\"},{\"label\":\"同盟ボールペン\",\"price\":\"¥660 (税込)\",\"description\":\"black ballpoint pen with gold trim and gold Japanese lettering\"}]},{\"title\":\"アクセサリー\",\"position\":\"bottom left\",\"count\":2,\"items\":[{\"label\":\"ロゴキーホルダー\",\"price\":\"¥990 (税込)\",\"description\":\"metal keychain shaped like the alliance crest\"},{\"label\":\"エンブレム ピンバッジ\",\"price\":\"¥770 (税込)\",\"description\":\"small crest-shaped enamel pin badge\"}]},{\"title\":\"その他\",\"position\":\"bottom right\",\"count\":2,\"items\":[{\"label\":\"同盟ミニのぼり\",\"price\":\"¥1,100 (税込)\",\"description\":\"small vertical navy banner flag with gold Japanese text and duck icon on a stand\"},{\"label\":\"カモステッカーセット\",\"price\":\"¥550 (税込)\",\"description\":\"sticker sheet with 6 duck-themed fantasy character stickers and a JAPAN KAMO ALLIANCE header\"}]}],\"total products\":12},\"footer\":{\"count\":3,\"elements\":[\"left blue-and-gold badge strip reading 全品オリジナルデザイン!\",\"center blue-and-gold badge strip reading ここでしか手に入らない限定アイテム!\",\"right blue-and-gold badge strip with duck icon reading 同盟の絆を、いつもそばに。\"],\"disclaimer\":\"※画像はイメージです。実際の商品とは異なる場合があります。\"},\"color_palette\":{\"primary\":\"deep navy blue\",\"secondary\":\"antique gold\",\"accent\":\"emerald green\",\"supporting\":\"cream, black, white, warm brown\"},\"rendering_notes\":\"Every product is neatly cut out on a light cream background with soft shadowing, arranged in a symmetrical catalog grid with gold dividers and blue title tabs. Use crisp readable Japanese typography, premium fantasy-game branding, and a high-end official merchandise advertisement look.\",\"parameters\":[\"{argument name=\\\"organization name\\\" default=\\\"日本鴨同盟\\\"}\",\"{argument name=\\\"headline text\\\" default=\\\"日本鴨同盟 公式グッズ\\\"}\"]}",
+  "translatedPrompt": "{\"type\":\"奇幻商品目录海报\",\"theme\":\"鸭子主题游戏联盟的官方周边公告\",\"style\":\"精致的促销产品单，奇幻游戏美学，日式零售传单，羊皮纸与金色 UI 边框，精细的商业样机，装饰性海报中嵌入整洁的摄影棚产品渲染图\",\"brand\":{\"name\":\"{argument name=\\\"organization name\\\" default=\\\"日本鸭同盟\\\"}\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"日本鸭同盟 官方周边\\\"}\",\"tagline\":\"与伙伴一起，将快乐化为实体！\",\"logo\":\"一枚纹章盾牌，中心为带有橙色喙的亮绿色鸭头，背景为蓝红装饰，带有小字 EMPIRES & PUZZLES 以及大字 JAPAN KAMO ALLIANCE\"},\"canvas\":{\"orientation\":\"portrait\",\"background\":\"陈旧的奶油色目录纸，由华丽的深海军蓝与金色奇幻边框及装饰性边角花纹环绕\"},\"header\":{\"count\":4,\"elements\":[\"左上角联盟纹章 Logo\",\"顶部居中的大型金色日文标题\",\"标题下方的小型白色日文标语\",\"右上角张开翅膀的卡通鸭子吉祥物，站在色彩斑斓的拼图宝石旁，远处为奇幻城堡天际线，前方有一盏发光的灯笼\"]},\"layout\":{\"sections\":[{\"title\":\"服饰\",\"position\":\"上半部分\",\"count\":3,\"items\":[{\"label\":\"联盟 Logo T 恤\",\"price\":\"¥3,300 (含税)\",\"description\":\"海军蓝短袖 T 恤，展示正面及侧面/背面，胸前印有大型纹章 Logo，背面印有竖排日文\"},{\"label\":\"联盟 Logo 连帽衫\",\"price\":\"¥6,800 (含税)\",\"description\":\"黑色拉链连帽衫，展示正面及背面，左胸有小型纹章 Logo，背面有大型竖排金色日文\"},{\"label\":\"鸭子绅士 Polo 衫\",\"price\":\"¥4,200 (含税)\",\"description\":\"海军蓝 Polo 衫，左胸绣有小型鸭子纹章\"}]},{\"title\":\"杂货\",\"position\":\"中左侧\",\"count\":2,\"items\":[{\"label\":\"联盟 Logo 马克杯\",\"price\":\"¥1,650 (含税)\",\"description\":\"白色陶瓷马克杯，侧面印有纹章 Logo\"},{\"label\":\"鸭子纹章随行杯\",\"price\":\"¥2,200 (含税)\",\"description\":\"黑色保温随行杯，带有金属杯口，正面印有纹章 Logo\"}]},{\"title\":\"吉祥物\",\"position\":\"中中央\",\"count\":1,\"items\":[{\"label\":\"鸭子骑士毛绒公仔\",\"price\":\"¥2,800 (含税)\",\"description\":\"绿色鸭子吉祥物毛绒玩具，身穿棕色奇幻盔甲，胸前带有徽章，呈坐姿正面朝向\"}]},{\"title\":\"文具\",\"position\":\"中右侧\",\"count\":2,\"items\":[{\"label\":\"联盟笔记本\",\"price\":\"¥880 (含税)\",\"description\":\"深海军蓝笔记本，带有竖排金色日文标题，底部有小型鸭子图标\"},{\"label\":\"联盟圆珠笔\",\"price\":\"¥660 (含税)\",\"description\":\"黑色圆珠笔，带有金色装饰及金色日文字样\"}]},{\"title\":\"配饰\",\"position\":\"下左侧\",\"count\":2,\"items\":[{\"label\":\"Logo 钥匙扣\",\"price\":\"¥990 (含税)\",\"description\":\"联盟纹章形状的金属钥匙扣\"},{\"label\":\"徽章胸针\",\"price\":\"¥770 (含税)\",\"description\":\"小型纹章形状的珐琅胸针\"}]},{\"title\":\"其他\",\"position\":\"下右侧\",\"count\":2,\"items\":[{\"label\":\"联盟迷你旗帜\",\"price\":\"¥1,100 (含税)\",\"description\":\"小型竖排海军蓝旗帜，带有金色日文及鸭子图标，配有底座\"},{\"label\":\"鸭子贴纸套装\",\"price\":\"¥550 (含税)\",\"description\":\"贴纸页，包含 6 款鸭子主题奇幻角色贴纸及 JAPAN KAMO ALLIANCE 标题\"}]}],\"total products\":12},\"footer\":{\"count\":3,\"elements\":[\"左侧蓝金徽章条，文字为“全品原创设计!”\",\"中央蓝金徽章条，文字为“仅在此处可获得的限定商品!”\",\"右侧带有鸭子图标的蓝金徽章条，文字为“联盟的羁绊，常伴左右。”\"],\"disclaimer\":\"※图片仅供参考。实际商品可能有所不同。\"},\"color_palette\":{\"primary\":\"深海军蓝\",\"secondary\":\"古董金\",\"accent\":\"翡翠绿\",\"supporting\":\"奶油色、黑色、白色、暖棕色\"},\"rendering_notes\":\"每件产品均在浅奶油色背景上整齐剪裁，带有柔和阴影，排列在带有金色分隔线和蓝色标题标签的对称目录网格中。使用清晰易读的日文字体、高级奇幻游戏品牌形象以及高端官方周边广告外观。\",\"parameters\":[\"{argument name=\\\"organization name\\\" default=\\\"日本鸭同盟\\\"}\",\"{argument name=\\\"headline text\\\" default=\\\"日本鸭同盟 官方周边\\\"}\"]}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Fantasy Duck Alliance 商品目录：此提示词用于生成一张日式奇幻风格的鸭子主题游戏联盟周边商品目录海报，适用于官方周边公告及社交媒体推广。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "grid",
+        "vertical"
+      ],
+      "style": [
+        "fantasy",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, grid, vertical]。\n\nVisual style:\n[参考风格: fantasy, premium, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14634",
+      "14966",
+      "15321",
+      "13507",
+      "14564",
+      "14602"
+    ]
+  }
+}

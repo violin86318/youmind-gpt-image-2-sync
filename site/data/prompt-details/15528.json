@@ -1,0 +1,50 @@
+{
+  "id": "15528",
+  "prompt": "A striking artistic portrait of a {argument name=\"subject\" default=\"charismatic woman\"} (image attached) that precisely captures her face, seated in a serene yet powerful pose. She sits cross-legged on a minimalist floor with decorative tiles, wearing a modern {argument name=\"top\" default=\"blue sweatshirt\"} with a minimalist print, {argument name=\"bottom\" default=\"loose-fitting jeans\"}, and black Converse sneakers. Her expression is serene and subtly confident, with a gentle smile and relaxed eyes as she gazes slightly toward a diffused light source. Behind her rises a monumental abstract mural of her own face, painted with bold and expressive brushstrokes in charcoal gray, white, gold, and muted red. The mural is not a literal copy, but a stylized and emotive interpretation of her: intense eyes, fragmented textures, broad brushstrokes that suggest movement, ambition, and inner complexity. Its scale dominates the background without overshadowing the main figure, creating a harmonious balance between reality and artistic representation. The lighting is cinematic and evocative, with soft reflections at the edges and a subtle overhead glow that defines her silhouette. Fine particles, like dust, float subtly in the air, catching flashes of light and enhancing the atmosphere. The setting evokes the fusion of a modern art studio with a dreamlike exhibition space: clean, spacious, minimalist, yet charged with emotion. Photographed with ultra-realistic quality, using a 50mm portrait lens, shallow depth of field, sharp details, and elegant color gradation, the scene conveys creativity, introspection, and personal transformation. Negative: blurry, overexposed, cartoonish, distorted anatomy, extra limbs, poorly drawn hands, merged faces, unrealistic colors, watermark, text. ar. 9 :16",
+  "translatedPrompt": "一张引人注目的艺术肖像，主体为 {argument name=\"subject\" default=\"充满魅力的女性\"}（见附图），精准捕捉其面部特征，她以一种宁静而有力的姿态端坐。她盘腿坐在铺有装饰性瓷砖的极简主义地面上，身穿一件带有极简印花的现代 {argument name=\"top\" default=\"蓝色卫衣\"}，搭配 {argument name=\"bottom\" default=\"宽松牛仔裤\"} 和黑色 Converse 运动鞋。她的表情宁静且透着微妙的自信，嘴角带着温柔的微笑，眼神放松，微微凝视着漫射光源。在她身后，矗立着一幅巨大的抽象壁画，画的是她自己的脸，笔触大胆而富有表现力，运用了炭灰色、白色、金色和柔和的红色。这幅壁画并非写实临摹，而是对她的一种风格化且充满情感的诠释：深邃的眼睛、破碎的纹理、暗示着运动、野心和内心复杂性的宽大笔触。壁画的尺度占据了背景的主导地位，却并未掩盖主体人物，在现实与艺术表现之间创造了和谐的平衡。灯光具有电影感和感染力，边缘有柔和的反射，头顶的微光勾勒出她的轮廓。细小的微尘在空气中轻盈漂浮，捕捉着闪烁的光线，增强了氛围感。场景融合了现代艺术工作室与梦幻般的展览空间：干净、宽敞、极简，却充满了情感张力。采用超写实画质拍摄，使用 50mm 肖像镜头，浅景深，细节锐利，色彩过渡优雅，传达出创造力、内省和个人蜕变的主题。负面提示词：模糊、曝光过度、卡通化、解剖结构扭曲、多余肢体、手部绘制拙劣、面部融合、色彩不真实、水印、文字。长宽比 9 :16",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "带有壁画背景的艺术肖像：这是一个复杂的提示词，用于创作一张电影质感的肖像照，主体位于工作室中，背景是一幅大型抽象壁画。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic",
+        "minimalist",
+        "studio"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "lens"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic, minimalist, studio]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, lens]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14996",
+      "14628",
+      "15250",
+      "15533",
+      "14538",
+      "15622"
+    ]
+  }
+}

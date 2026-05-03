@@ -1,0 +1,42 @@
+{
+  "id": "13480",
+  "prompt": "{\n  \"type\": \"2x2 advertisement grid\",\n  \"layout\": {\n    \"grid_size\": \"2 rows by 2 columns\",\n    \"panels\": [\n      {\n        \"position\": \"top-left\",\n        \"theme\": \"skincare\",\n        \"subject\": \"profile of a woman looking up, holding a white lotion bottle\",\n        \"headline\": \"{argument name=\\\"skincare headline\\\" default=\\\"うるおい、光る肌へ。\\\"}\",\n        \"subtext\": \"新・保湿化粧水\",\n        \"features\": {\n          \"count\": 3,\n          \"type\": \"light blue circular bubbles\",\n          \"labels\": [\"ヒアルロン酸 (保湿成分)\", \"ビタミンC誘導体 (整肌成分)\", \"セラミド (保湿成分)\"]\n        },\n        \"brand_logo\": \"LUMIÈRE SKIN LOTION\"\n      },\n      {\n        \"position\": \"top-right\",\n        \"theme\": \"corporate recruitment\",\n        \"subject\": \"young woman in a blue shirt holding a silver laptop\",\n        \"background\": \"geometric shapes in yellow, white, and cyan\",\n        \"headline\": \"{argument name=\\\"recruitment headline\\\" default=\\\"未来は、挑戦でできている。\\\"}\",\n        \"subtext\": [\"新卒採用エントリー受付中！\", \"自分を超えていけ。\"],\n        \"features\": {\n          \"count\": 3,\n          \"type\": \"hashtags\",\n          \"labels\": [\"# 総合職募集\", \"# 年間休日125日\", \"# 充実の研修制度\"]\n        },\n        \"brand_logo\": \"SKYWARD\"\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"theme\": \"cafe breakfast\",\n        \"subject\": \"stack of pancakes with butter, pouring syrup, strawberries, blueberries, and raspberries; coffee cup in background\",\n        \"headline\": \"{argument name=\\\"cafe headline\\\" default=\\\"朝が待ち遠しくなる。\\\"}\",\n        \"subtext\": \"しっとり、ふわふわ。幸せのパンケーキ。\",\n        \"features\": {\n          \"count\": 1,\n          \"type\": \"yellow circular badge\",\n          \"labels\": [\"OPEN 8:00 CLOSE 18:00\"]\n        },\n        \"brand_logo\": \"café sunny\"\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"theme\": \"travel agency\",\n        \"subject\": \"scenic view of a long bridge over turquoise water, blue sky, pink hibiscus flowers in foreground\",\n        \"headline\": \"心、ほどける{argument name=\\\"travel destination\\\" default=\\\"沖縄旅\\\"}\",\n        \"subtext\": [\"青い海と、ゆるやかな時間。\", \"3日間\", \"{argument name=\\\"travel price\\\" default=\\\"¥59,800〜\\\"}\", \"航空券＋ホテル＋朝食付き\"],\n        \"features\": {\n          \"count\": 1,\n          \"type\": \"pink circular badge\",\n          \"labels\": [\"早期予約で最大10,000円割引!\"]\n        },\n        \"brand_logo\": \"HIS\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"2x2 广告网格\",\n  \"layout\": {\n    \"grid_size\": \"2 行 2 列\",\n    \"panels\": [\n      {\n        \"position\": \"左上\",\n        \"theme\": \"护肤\",\n        \"subject\": \"一位女性向上看的侧脸，手持白色乳液瓶\",\n        \"headline\": \"{argument name=\\\"skincare headline\\\" default=\\\"うるおい、光る肌へ。\\\"}\",\n        \"subtext\": \"新・保湿化妆水\",\n        \"features\": {\n          \"count\": 3,\n          \"type\": \"浅蓝色圆形气泡\",\n          \"labels\": [\"ヒアルロン酸 (保湿成分)\", \"ビタミンC誘導体 (整肌成分)\", \"セラミド (保湿成分)\"]\n        },\n        \"brand_logo\": \"LUMIÈRE SKIN LOTION\"\n      },\n      {\n        \"position\": \"右上\",\n        \"theme\": \"企业招聘\",\n        \"subject\": \"身穿蓝色衬衫的年轻女性，手持银色笔记本电脑\",\n        \"background\": \"黄色、白色和青色的几何图形\",\n        \"headline\": \"{argument name=\\\"recruitment headline\\\" default=\\\"未来は、挑戦でできている。\\\"}\",\n        \"subtext\": [\"新卒采用报名中！\", \"超越自我。\"],\n        \"features\": {\n          \"count\": 3,\n          \"type\": \"标签\",\n          \"labels\": [\"# 综合职招聘\", \"# 年休 125 天\", \"# 完善的培训制度\"]\n        },\n        \"brand_logo\": \"SKYWARD\"\n      },\n      {\n        \"position\": \"左下\",\n        \"theme\": \"咖啡馆早餐\",\n        \"subject\": \"叠放的松饼配黄油，正在淋糖浆，点缀草莓、蓝莓和覆盆子；背景为咖啡杯\",\n        \"headline\": \"{argument name=\\\"cafe headline\\\" default=\\\"朝が待ち遠しくなる。\\\"}\",\n        \"subtext\": \"湿润、松软。幸福的松饼。\",\n        \"features\": {\n          \"count\": 1,\n          \"type\": \"黄色圆形徽章\",\n          \"labels\": [\"OPEN 8:00 CLOSE 18:00\"]\n        },\n        \"brand_logo\": \"café sunny\"\n      },\n      {\n        \"position\": \"右下\",\n        \"theme\": \"旅行社\",\n        \"subject\": \"碧蓝水面上长桥的风景，蓝天，前景为粉色扶桑花\",\n        \"headline\": \"心、ほどける{argument name=\\\"travel destination\\\" default=\\\"沖縄旅\\\"}\",\n        \"subtext\": [\"蔚蓝大海与悠闲时光。\", \"3 天\", \"{argument name=\\\"travel price\\\" default=\\\"¥59,800〜\\\"}\", \"含机票 + 酒店 + 早餐\"],\n        \"features\": {\n          \"count\": 1,\n          \"type\": \"粉色圆形徽章\",\n          \"labels\": [\"早鸟预订最高可享 10,000 日元折扣!\"]\n        },\n        \"brand_logo\": \"HIS\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "2x2 日本广告网格：生成一个包含护肤、招聘、美食和旅游四个不同主题的日本宣传广告 2x2 网格。",
+      "subject": "产品",
+      "scene": "综合视觉",
+      "composition": [
+        "grid",
+        "2x2"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "风格对比、产品系列、前后对照、角色变体",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 综合视觉 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, 2x2]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14215",
+      "14011",
+      "14221",
+      "15608",
+      "15671",
+      "14520"
+    ]
+  }
+}

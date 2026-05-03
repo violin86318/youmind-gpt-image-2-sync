@@ -1,0 +1,49 @@
+{
+  "id": "15056",
+  "prompt": "{\"type\":\"e-commerce skincare product page mockup\",\"brand\":{\"name\":\"GLOW.\",\"style\":\"minimal luxury skincare branding\"},\"product\":{\"name\":\"{argument name=\\\"product name\\\" default=\\\"Hyaluronic Acid Serum\\\"}\",\"category\":\"serum\",\"price\":\"{argument name=\\\"price\\\" default=\\\"$36.00\\\"}\",\"rating\":{\"stars\":5,\"score\":\"4.8\",\"reviews\":\"(1200 reviews)\"},\"badge\":\"BESTSELLER\",\"description\":\"A lightweight, fast-absorbing serum that delivers intense hydration, visibly plumps, and helps smooth the look of fine lines.\",\"size\":\"30ml / 1 fl oz\",\"payment_note\":\"Pay in 4 interest-free payments of $9.00 with afterpay\",\"benefits\":[\"Deep Hydration\",\"Plumps + Smooths\",\"Fragrance Free\"],\"shipping_note\":\"Free shipping on orders over $50\"},\"visual\":{\"primary_packshot\":\"clear glass dropper bottle with white cap and white label, black minimalist text, placed on a warm beige surface with a small beige stone sphere on the left and a large round marble disc on the right, soft studio shadows, clean premium skincare ad lighting\",\"gallery_thumbnails\":{\"count\":4,\"items\":[\"front product bottle on beige set\",\"serum texture droplets on beige background\",\"open bottle with serum dropper above neck\",\"soft lifestyle skin-toned close-up blur\"]}},\"layout\":{\"background\":\"light gray studio backdrop\",\"canvas\":\"wide desktop website mockup with a mobile version shown to the right\",\"sections\":[{\"title\":\"desktop product page\",\"position\":\"left\",\"count\":12,\"labels\":[\"top shipping bar\",\"brand header with navigation\",\"breadcrumb\",\"thumbnail gallery\",\"main product image\",\"bestseller badge\",\"product title\",\"rating and reviews\",\"price and payment note\",\"size selector\",\"quantity stepper\",\"add to cart and buy it now buttons\"]},{\"title\":\"feature icons row\",\"position\":\"bottom-left under main image\",\"count\":3,\"labels\":[\"Deep Hydration\",\"Plumps + Smooths\",\"Fragrance Free\"]},{\"title\":\"mobile product page preview\",\"position\":\"right\",\"count\":11,\"labels\":[\"top shipping bar\",\"mobile header with menu and cart\",\"breadcrumb\",\"main product image\",\"carousel dots\",\"bestseller badge\",\"product title\",\"rating and reviews\",\"price and payment note\",\"quantity stepper\",\"add to cart and buy it now buttons\"]}],\"desktop_header\":{\"announcement\":\"Free shipping on orders over $50\",\"nav_items\":[\"SHOP\",\"BESTSELLERS\",\"SKINCARE QUIZ\",\"ABOUT\",\"JOURNAL\"],\"icons\":[\"search\",\"account\",\"cart with item count 2\"]},\"breadcrumb\":[\"Home\",\"Shop\",\"Serums\",\"Hyaluronic Acid Serum\"],\"mobile_header\":{\"announcement\":\"Free shipping on orders over $50\",\"icons\":[\"menu\",\"cart with item count 2\"]}},\"style\":{\"aesthetic\":\"clean modern Shopify-style product page\",\"color_palette\":[\"white\",\"soft beige\",\"light gray\",\"black\",\"warm stone\"],\"typography\":\"elegant serif product title paired with minimalist sans-serif UI text\",\"render_quality\":\"ultra-clean, crisp, realistic, premium e-commerce design, high resolution, ad-ready\"}}",
+  "translatedPrompt": "{\"type\":\"电商护肤品产品页面模型\",\"brand\":{\"name\":\"GLOW.\",\"style\":\"极简奢华护肤品牌风格\"},\"product\":{\"name\":\"{argument name=\\\"product name\\\" default=\\\"玻尿酸精华液\\\"}\",\"category\":\"精华液\",\"price\":\"{argument name=\\\"price\\\" default=\\\"$36.00\\\"}\",\"rating\":{\"stars\":5,\"score\":\"4.8\",\"reviews\":\"(1200 条评价)\"},\"badge\":\"畅销产品\",\"description\":\"一款轻盈、易吸收的精华液，提供深层补水，显著丰盈肌肤，并有助于淡化细纹。\",\"size\":\"30ml / 1 fl oz\",\"payment_note\":\"使用 afterpay 可分 4 期免息支付，每期 $9.00\",\"benefits\":[\"深层补水\",\"丰盈平滑\",\"无香精\"],\"shipping_note\":\"订单满 $50 免运费\"},\"visual\":{\"primary_packshot\":\"透明玻璃滴管瓶，配白色瓶盖和白色标签，黑色极简文字，放置在暖米色表面上，左侧有一个小型米色石球，右侧有一个大型圆形大理石圆盘，柔和的摄影棚阴影，干净的高级护肤品广告灯光\",\"gallery_thumbnails\":{\"count\":4,\"items\":[\"米色背景上的产品正面瓶身\",\"米色背景上的精华液质地滴落\",\"打开的瓶盖及瓶颈上方的精华液滴管\",\"柔和的肤色生活化特写模糊背景\"]}},\"layout\":{\"background\":\"浅灰色摄影棚背景\",\"canvas\":\"宽屏桌面网站模型，右侧展示移动端版本\",\"sections\":[{\"title\":\"桌面端产品页面\",\"position\":\"左侧\",\"count\":12,\"labels\":[\"顶部运费栏\",\"品牌页眉及导航\",\"面包屑导航\",\"缩略图库\",\"主产品图\",\"畅销产品徽章\",\"产品标题\",\"评分与评价\",\"价格与支付说明\",\"规格选择器\",\"数量步进器\",\"加入购物车和立即购买按钮\"]},{\"title\":\"功能图标行\",\"position\":\"主图下方左侧\",\"count\":3,\"labels\":[\"深层补水\",\"丰盈平滑\",\"无香精\"]},{\"title\":\"移动端产品页面预览\",\"position\":\"右侧\",\"count\":11,\"labels\":[\"顶部运费栏\",\"带菜单和购物车的移动端页眉\",\"面包屑导航\",\"主产品图\",\"轮播图圆点\",\"畅销产品徽章\",\"产品标题\",\"评分与评价\",\"价格与支付说明\",\"数量步进器\",\"加入购物车和立即购买按钮\"]}],\"desktop_header\":{\"announcement\":\"订单满 $50 免运费\",\"nav_items\":[\"商店\",\"畅销产品\",\"肤质测试\",\"关于我们\",\"品牌日志\"],\"icons\":[\"搜索\",\"账户\",\"购物车（含 2 件商品）\"]},\"breadcrumb\":[\"首页\",\"商店\",\"精华液\",\"玻尿酸精华液\"],\"mobile_header\":{\"announcement\":\"订单满 $50 免运费\",\"icons\":[\"菜单\",\"购物车（含 2 件商品）\"]}},\"style\":{\"aesthetic\":\"干净现代的 Shopify 风格产品页面\",\"color_palette\":[\"白色\",\"柔米色\",\"浅灰色\",\"黑色\",\"暖石色\"],\"typography\":\"优雅的衬线体产品标题搭配极简无衬线 UI 文本\",\"render_quality\":\"超洁净、清晰、逼真、高级电商设计、高分辨率、广告级品质\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奢华护肤品产品页面模型：一款精致的桌面端与移动端电商模型，适用于高端护肤精华液，是店面概念、广告及产品落地页的理想选择。",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [
+        "close-up"
+      ],
+      "style": [
+        "realistic",
+        "minimalist",
+        "luxury",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up]。\n\nVisual style:\n[参考风格: realistic, minimalist, luxury, premium, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14635",
+      "15397",
+      "13836",
+      "14623",
+      "14649",
+      "13803"
+    ]
+  }
+}

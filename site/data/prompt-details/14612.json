@@ -1,0 +1,46 @@
+{
+  "id": "14612",
+  "prompt": "A realistic lifestyle stock photo of {argument name=\"subject\" default=\"a young woman\"} sitting on the ground and leaning against a large tree trunk in a park during golden hour in autumn. She is positioned on the right side of the frame, reading an open hardcover book held in both hands, with her knees bent and legs angled left across the image. She has long loose wavy {argument name=\"hair color\" default=\"light brown\"} hair, and her face is intentionally obscured and out of focus, with no clear facial features visible. She wears 4 distinct clothing items: a chunky knit {argument name=\"sweater color\" default=\"cream\"} sweater, a thick wrapped {argument name=\"scarf color\" default=\"burgundy\"} scarf, fitted blue jeans, and black ankle boots with a slight heel. A dark leather shoulder bag rests on the grass beside her at the base of the tree. The environment is a quiet tree-lined park with fallen leaves scattered across the grass, soft warm sunlight filtering through the trees, and a heavily blurred background with rich amber, green, and brown tones. Cinematic shallow depth of field, natural candid composition, cozy autumn mood, premium commercial stock photography look, soft contrast, warm color grading, landscape orientation.",
+  "translatedPrompt": "一张写实的生活方式素材照片，展示了 {argument name=\"subject\" default=\"一位年轻女性\"} 在秋季黄金时段坐在公园里，背靠着一棵大树树干。她位于画面右侧，双手捧着一本打开的精装书正在阅读，双膝弯曲，双腿向左侧倾斜。她留着一头长而蓬松的波浪形 {argument name=\"hair color\" default=\"浅棕色\"} 头发，面部特意模糊处理，处于失焦状态，看不清清晰的五官。她穿着 4 件明显的衣物：一件粗棒针织 {argument name=\"sweater color\" default=\"米色\"} 毛衣、一条厚实的 {argument name=\"scarf color\" default=\"酒红色\"} 围巾、修身蓝色牛仔裤以及一双带有轻微跟部的黑色短靴。树根旁的草地上放着一个深色皮质单肩包。环境是一个安静的林荫公园，草地上散落着落叶，柔和温暖的阳光透过树木洒下，背景呈现出浓郁的琥珀色、绿色和棕色调，并经过深度模糊处理。电影级浅景深，自然的抓拍构图，舒适的秋日氛围，高级商业素材摄影质感，柔和对比度，暖色调调色，横向构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "秋季公园阅读素材照片：此提示词可生成一张温暖、写实的库存风格图片，展示一个人在秋季公园的树旁阅读，非常适合生活方式、教育或季节性编辑用途。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic",
+        "premium"
+      ],
+      "lightingCamera": [
+        "golden hour",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic, premium]。\n\nLighting and camera:\n[参考光线镜头: golden hour, shallow depth, depth of field]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15096",
+      "15515",
+      "15766",
+      "15754",
+      "15690",
+      "14806"
+    ]
+  }
+}

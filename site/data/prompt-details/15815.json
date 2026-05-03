@@ -1,0 +1,45 @@
+{
+  "id": "15815",
+  "prompt": "Create a vintage illustrated postcard designed as a whimsical collaboration between {argument name=\"franchise name\" default=\"The Little Prince\"} and {argument name=\"space company name\" default=\"SPACEX\"}, shown as the front and back of the postcard side by side on one canvas. Use warm aged paper with slightly worn edges, subtle grain, faint stains, and a nostalgic mid-century print feel. The left half is the postcard image: a deep midnight blue starry sky with small golden stars and a tiny ringed planet, a large white rocket standing upright on a launch pad with bright exhaust at liftoff, and a small blond child in a green outfit with a long golden scarf sitting on a rocky hill beside an orange fox, both seen from behind and looking toward the rocket. Add elegant hand-lettered quote text in the sky that reads {argument name=\"quote\" default=\"To the stars, what matters is invisible.\"}, with smaller serif and script attribution beneath: \"ANTOINE DE SAINT-EXUPÉRY\" and \"The Little Prince\". Along the bottom of the left panel, include 2 brand names: \"The Little Prince\" in blue script on the left and \"SPACEX\" in bold blue futuristic capitals on the right, separated by a small gold star and a thin divider line. Beneath that, add the slogan in spaced small caps: {argument name=\"tagline\" default=\"EXPLORING WORLDS. CARING FOR WHAT MATTERS.\"}. The right half is the postcard back on the same aged paper, with a centered heading \"POST CARD\" near the top and a small gold star ornament below it. Add a circular postmark near the upper center-right with 4 visible text parts arranged inside the stamp: \"PLANET EARTH\", \"MAY 23\", \"2024\", and \"BEYOND\". In the top-right corner, place a blue postage stamp with perforated edges showing the Little Prince standing on a tiny planet under stars, with 4 readable text elements: \"1943\", \"Le Petit Prince\", \"SPACE\", and a small star symbol. The right side should have 2 writing columns divided by a vertical line. In the left writing area, place a handwritten-style message beginning with \"Dear friend,\" followed by this text in neat cursive line breaks: \"One day, we'll leave Earth not to escape it, but to understand it better. The universe is vast, but kindness is our compass. Let's take care of our home, as we reach for the stars.\" Then sign it on 3 lines: \"The Little Prince\", \"and\", \"SPACEX\". In the right address area, write \"To you,\" on the first line, then \"Somewhere wonderful\" and \"In the Universe\" on the next lines with horizontal guide lines. Add small gold star doodles and, at the bottom-right corner, a simple line drawing of a tiny round planet with little flowers sprouting from it. Keep the palette limited to cream, navy, soft gold, muted green, warm orange, and blue-gray, with crisp but painterly illustration, accurate decorative typography, and a magical, hopeful, literary-meets-space-exploration tone.",
+  "translatedPrompt": "创作一张复古插画明信片，设计为 {argument name=\"franchise name\" default=\"小王子\"} 与 {argument name=\"space company name\" default=\"SPACEX\"} 的奇幻联名作品，在同一画布上并排展示明信片的正面和背面。使用带有轻微磨损边缘、细腻颗粒感、淡淡污渍的暖色调旧纸张，营造出怀旧的中世纪印刷质感。左半部分为明信片正面：深邃的午夜蓝星空点缀着金色小星星和一颗带有光环的小行星，一座巨大的白色火箭矗立在发射台上，升空时喷射出明亮的尾焰；画面中，一个身穿绿色服装、围着长长金色围巾的金发小男孩与一只橙色狐狸坐在岩石山上，两人背对着观众，望向火箭。在天空中加入优雅的手写体引言：{argument name=\"quote\" default=\"对于星星而言，重要的是看不见的东西。\"}，下方配以较小的衬线体和手写体署名：“ANTOINE DE SAINT-EXUPÉRY” 和 “The Little Prince”。在左侧面板底部，加入 2 个品牌名称：左侧为蓝色手写体的 “The Little Prince”，右侧为粗体蓝色未来感大写的 “SPACEX”，中间由一颗金色小星星和一条细分割线隔开。下方添加间距拉开的小写字母标语：{argument name=\"tagline\" default=\"探索世界，守护初心。\"}。右半部分为同一张旧纸张上的明信片背面，顶部中央印有 “POST CARD” 标题，下方饰有一颗金色小星星。在右上部中央附近添加一个圆形邮戳，邮戳内包含 4 部分文字：“PLANET EARTH”、“MAY 23”、“2024” 和 “BEYOND”。右上角贴有一枚带有齿孔边缘的蓝色邮票，图案为小王子站在星空下的微型行星上，邮票上有 4 个清晰的文字元素：“1943”、“Le Petit Prince”、“SPACE” 以及一个小星星符号。右侧应有两条由垂直线分隔的书写栏。在左侧书写区，放入一段手写风格的留言，以 “Dear friend,” 开头，随后是整齐的草书换行文本：“终有一天，我们离开地球并非为了逃离，而是为了更好地理解它。宇宙浩瀚，但善良是我们的指南针。让我们在奔向星辰的同时，守护好我们的家园。” 然后分 3 行签名：“The Little Prince”、“and”、“SPACEX”。在右侧地址栏，第一行写 “To you,”，接下来的几行写 “Somewhere wonderful” 和 “In the Universe”，并配有横向引导线。添加一些金色小星星涂鸦，并在右下角画一个简单的线条画，描绘一颗长出小花的小圆行星。色调仅限于奶油色、海军蓝、柔金色、柔和的绿色、暖橙色和蓝灰色，呈现出清晰而富有绘画感的插画风格，搭配精准的装饰性排版，营造出一种魔幻、充满希望且文学气息与太空探索交织的氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古小王子太空明信片：一款融合了《小王子》与现代火箭发射场景的怀旧插画风格明信片布局，非常适合编辑艺术、主题印刷品或品牌跨界概念视觉设计。",
+      "subject": "服饰",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "centered",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "vintage"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical, horizontal]。\n\nVisual style:\n[参考风格: vintage]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15651",
+      "15254",
+      "14810",
+      "14819",
+      "14820",
+      "15705"
+    ]
+  }
+}

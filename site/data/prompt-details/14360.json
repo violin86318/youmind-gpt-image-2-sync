@@ -1,0 +1,35 @@
+{
+  "id": "14360",
+  "prompt": "合計{argument name=\"ページ数\" default=\"4\"}ページの漫画を作りたいからこの世界を{argument name=\"スタイル\" default=\"アニメの世界\"}に落とし込んで、漫画に仕上げてください必要であれば見開きカラーでもいいよ",
+  "translatedPrompt": "我想要创作一部总计 {argument name=\"page count\" default=\"4\"} 页的漫画，请将此世界观转化为 {argument name=\"style\" default=\"动漫世界\"} 风格并完成漫画创作；如有必要，也可以使用双页彩色跨页。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "漫画分镜提示词背景：一种结构化提示词，可将世界观背景信息转换为 4 页漫画或彩色跨页。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

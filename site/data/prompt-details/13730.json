@@ -1,0 +1,41 @@
+{
+  "id": "13730",
+  "prompt": "A highly realistic AAA video game screenshot depicting a boss fight inside a dusty, golden-lit {argument name=\"setting\" default=\"ancient Egyptian temple\"}. In the center background, a massive {argument name=\"boss name\" default=\"ANUBIS\"} boss monster with a jackal head, glowing eyes, and ornate gold armor roars while wielding a staff, kicking up swirling sand. In the left foreground, a muscular, bald warrior with red body tattoos faces the boss, holding a {argument name=\"weapon\" default=\"curved blade\"}. In the right midground, a young boy aims a bow at the boss. The image features 4 distinct UI components: a top-center red boss health bar labeled '{argument name=\"boss name\" default=\"ANUBIS\"}', a right-aligned quest tracker labeled '{argument name=\"quest name\" default=\"THE JACKAL'S PATH\"}' with the subtext 'Defeat Anubis', a bottom-left player status HUD showing health and rage bars alongside 4 diamond-shaped skill icons with button prompts, and a bottom-right companion HUD showing 2 circular skill icons.",
+  "translatedPrompt": "一张电影级的第三人称电子游戏截图，展示了一名光头战士和一个男孩在充满沙子的神庙中与一位巨大的埃及神祇战斗。战士背对镜头，手持弯刀；男孩正在拉弓瞄准。巨大的 Boss 长着胡狼头，双眼闪烁着白光，佩戴金色头饰，手持法杖。环境中有巨大的象形文字柱、猎鹰雕像和体积光尘埃。图像包含 4 个 UI 组件：顶部中央的红色 Boss 血条，标签为 \"{argument name=\"boss name\" default=\"ANUBIS\"}\"；右上角的任务追踪器，显示 \"{argument name=\"quest title\" default=\"THE JACKAL'S PATH\"}\" 和 \"{argument name=\"quest objective\" default=\"Defeat Anubis\"}\"；左下角的玩家 HUD，包含绿色血条、红色怒气条、方向图标以及 \"L3 + R3\" 提示；以及右下角的 HUD，包含 2 个菱形技能图标。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动作 RPG Boss 战截图：生成一张逼真的电影级电子游戏 Boss 战截图，包含血条、任务日志和玩家 HUD 元素。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13799",
+      "13662",
+      "13915",
+      "14135",
+      "14374",
+      "14430"
+    ]
+  }
+}

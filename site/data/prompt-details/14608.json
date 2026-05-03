@@ -1,0 +1,48 @@
+{
+  "id": "14608",
+  "prompt": "A luxurious tourism poster for {argument name=\"destination\" default=\"Malaysia\"}, designed as a vertical fine-art travel advertisement on a clean ivory-white textured background with subtle embossed ornamental patterns. The composition is built around one long flowing red-and-gold batik silk ribbon that sweeps diagonally and spirals through the page, forming an elegant S-curve and visually containing a dreamlike collage of landmarks, culture, and nature. At the top left, warm golden sunrise light pours over misty tropical mountains and rainforest with a waterfall, dense palms, and a large rhinoceros hornbill perched beside hibiscus flowers and white tropical blossoms. In the upper center, a detailed Kuala Lumpur skyline rises from mist, dominated by the Petronas Twin Towers, with the KL Tower and several modern skyscrapers visible. Near the upper right floats 1 colorful traditional wau kite with floral patterns against open white space. In the middle left, include 1 grand mosque with multiple domes and minarets set among palms and haze. In the middle center-right, include the historic Sultan Abdul Samad Building with its copper domes and clocktower. In the lower middle left, include 1 elevated red-and-silver urban train crossing through the city. In the lower center, show 1 ornate Chinatown gate labeled Jalan Petaling, decorated with red lanterns and bustling pedestrians. In the lower right-middle, depict the Batu Caves area with 1 towering golden Murugan statue and 1 steep rainbow staircase climbing into limestone cliffs, surrounded by crowds. At the lower right, nestle 1 landscaped city park with a turquoise lake and fountains. Purple orchids and tropical flowers are woven into the ribbon and foreground in several places. At the very bottom right, show 1 small traditional dancer in red and gold attire twirling the trailing end of the ribbon. The collage should feel luminous, hyper-detailed, majestic, and celebratory, blending photorealistic architecture with painterly fantasy travel-poster styling, soft clouds, atmospheric haze, and glowing highlights. Add elegant poster typography in the lower left: the main headline reads {argument name=\"headline text\" default=\"VISIT MALAYSIA 2026\"}, a smaller location line reads {argument name=\"location text\" default=\"KUALA LUMPUR\"}, a blue script tourism slogan reads {argument name=\"tagline\" default=\"Malaysia Truly Asia\"}, and below that a small refined subheading reads {argument name=\"subheading\" default=\"Where Diversity Converges\\nKuala Lumpur, City of Wonders\\nThe Heart of Asia\"}. Use a premium color palette of gold, crimson, ivory, emerald, sky blue, and tropical greens, with polished editorial composition and high-end destination-branding aesthetics.",
+  "translatedPrompt": "一款为 {argument name=\"destination\" default=\"马来西亚\"} 设计的奢华旅游海报，采用竖版艺术旅行广告风格，背景为干净的象牙白纹理，并带有精致的浮雕装饰图案。画面构图围绕一条飘逸的红金相间蜡染丝带展开，丝带呈对角线螺旋贯穿页面，形成优雅的 S 型曲线，巧妙地串联起如梦似幻的地标、文化与自然景观拼贴。左上角，温暖的金色晨曦洒在云雾缭绕的热带山脉和雨林之上，瀑布飞流直下，茂密的棕榈树旁，一只巨大的犀鸟栖息在木槿花和白色热带花卉间。上方中央，吉隆坡天际线在薄雾中升起，以双峰塔（Petronas Twin Towers）为主体，隐约可见吉隆坡塔（KL Tower）及多座现代摩天大楼。右上角附近漂浮着 1 只色彩斑斓的传统月亮风筝（Wau kite），在留白的背景中格外醒目。中左侧包含 1 座坐落在棕榈树与烟雾中的宏伟清真寺，拥有多个圆顶和尖塔。中右侧包含历史悠久的苏丹阿都沙末大厦（Sultan Abdul Samad Building），展现其铜制圆顶与钟楼。左下方包含 1 列穿行于城市中的红银相间高架列车。底部中央展示 1 座装饰华丽的唐人街牌坊，标有“Jalan Petaling”字样，点缀着红灯笼和熙熙攘攘的行人。右下方描绘了黑风洞（Batu Caves）区域，包括 1 座高耸的金色姆鲁干神像和 1 条通往石灰岩悬崖的陡峭彩虹阶梯，周围人群攒动。右下角点缀着 1 座景观城市公园，配有绿松石色的湖泊与喷泉。紫色兰花和热带花卉穿插在丝带与前景的多处。最右下角展示 1 位身着红金服饰的传统舞者，正舞动着丝带的末端。整幅拼贴画应呈现出明亮、超细节、宏伟且充满庆典感的氛围，将写实建筑与绘画感旅行海报风格相结合，辅以柔和的云雾、大气层薄雾和发光高光。左下方添加优雅的海报排版：主标题为 {argument name=\"headline text\" default=\"VISIT MALAYSIA 2026\"}，较小的地点行显示为 {argument name=\"location text\" default=\"KUALA LUMPUR\"}，蓝色的手写体旅游标语为 {argument name=\"tagline\" default=\"Malaysia Truly Asia\"}，下方附带一行精致的小副标题：{argument name=\"subheading\" default=\"Where Diversity Converges\\nKuala Lumpur, City of Wonders\\nThe Heart of Asia\"}。采用金色、深红、象牙白、祖母绿、天蓝和热带绿的高端配色方案，呈现出精美的编辑级构图与高端目的地品牌美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "2026 年马来西亚旅游海报：一款高端竖版旅游海报，展示了马来西亚的地标、文化与热带风情，是目的地营销和活动视觉宣传的理想之选。",
+      "subject": "空间",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "editorial",
+        "fantasy",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, editorial, fantasy, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14644",
+      "15414",
+      "15668",
+      "14481",
+      "14648",
+      "15247"
+    ]
+  }
+}

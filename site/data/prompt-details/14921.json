@@ -1,0 +1,51 @@
+{
+  "id": "14921",
+  "prompt": "{\"type\":\"Japanese SaaS promotional landing-page hero banner\",\"style\":\"clean corporate web advertisement, modern fintech branding, bright office photography blended with vector UI overlays, high trust, polished and conversion-focused\",\"canvas\":{\"aspect_ratio\":\"4:3\",\"background\":\"soft light gray to white with a large curved white shape dividing left text area and right photo area\"},\"branding\":{\"badge\":{\"position\":\"top-left\",\"icon\":\"teal circular icon with ascending bar chart line graphic\",\"text\":\"経理業務効率化ツール\",\"shape\":\"rounded pill with pale gray fill\"},\"palette\":{\"primary\":\"deep navy blue\",\"secondary\":\"teal green\",\"accent\":\"bright orange\",\"background\":\"white and very light gray\"}},\"layout\":{\"sections\":[{\"title\":\"left marketing copy area\",\"position\":\"left half\",\"count\":5,\"labels\":[\"badge at top\",\"large headline\",\"3-line body copy\",\"3 feature icons\",\"orange CTA button\"]},{\"title\":\"right office photo area\",\"position\":\"right half\",\"count\":6,\"labels\":[\"businesswoman using laptop\",\"dashboard panel\",\"4-step automation cards\",\"green circular callout\",\"desk documents and calculators\",\"blurred office background\"]},{\"title\":\"bottom reassurance note\",\"position\":\"bottom-left\",\"count\":1,\"labels\":[\"security/reassurance line\"]}],\"composition\":\"text-heavy ad on the left, realistic workplace portrait on the right, floating software interface cards above and beside the person\"},\"text\":{\"headline\":\"経理業務、もっと{argument name=\\\"headline emphasis\\\" default=\\\"ラク\\\"}に。\",\"body\":\"請求書処理・仕訳・月次業務をまとめて効率化。入力の手間やミスを減らし、経理担当者の負担を軽くします。\",\"cta\":\"{argument name=\\\"button text\\\" default=\\\"無料デモを見る\\\"}\",\"reassurance\":\"初めての導入でも安心\"},\"features\":{\"count\":3,\"items\":[{\"icon\":\"document sheet icon in pale teal circle\",\"label\":\"紙・Excel管理から卒業\"},{\"icon\":\"clock icon in pale teal circle\",\"label\":\"作業時間を削減\"},{\"icon\":\"team/users icon in pale teal circle\",\"label\":\"チームでスムーズに共有\"}]},\"subject\":{\"count\":1,\"person\":\"Japanese businesswoman in her late 20s to 30s, seated at a desk, medium short dark brown bob haircut, light gray blazer over white blouse, neutral professional expression, hands on laptop keyboard\",\"face_treatment\":\"soft anonymized blur over the face\",\"pose\":\"front-facing but slightly angled left, sitting upright in an office chair\",\"desk_items\":{\"count\":5,\"items\":[\"silver laptop open in front\",\"small calculator near front left\",\"black calculator near front right\",\"stack of papers and invoices on right side\",\"pen near papers\"]}},\"ui_panel\":{\"position\":\"upper-right floating above the subject\",\"title\":\"ダッシュボード\",\"style\":\"white rounded rectangle card with subtle shadow\",\"sidebar\":{\"count\":6,\"labels\":[\"ダッシュボード\",\"請求書\",\"仕訳\",\"経費\",\"レポート\",\"設定\"],\"color\":\"dark navy vertical sidebar\"},\"widgets\":{\"count\":4,\"items\":[{\"type\":\"metric card\",\"label\":\"今月の仕訳数\",\"value\":\"1,248 件\",\"delta\":\"前月比 +18%\"},{\"type\":\"donut chart\",\"label\":\"処理状況\",\"value\":\"84% 完了\"},{\"type\":\"metric card\",\"label\":\"作業時間 (今月)\",\"value\":\"32.5 時間\",\"delta\":\"前月比 -28%\"},{\"type\":\"bar chart\",\"label\":\"月次推移（作業時間）\",\"months\":[\"1月\",\"2月\",\"3月\",\"4月\",\"5月\",\"6月\"]}]}},\"automation_flow\":{\"position\":\"mid-right beside the subject\",\"count\":4,\"cards\":[\"請求書をアップロード\",\"AI-OCRで自動読取\",\"仕訳を自動作成\",\"会計ソフトに連携\"],\"callout\":\"自動化でミス削減！\",\"style\":\"four stacked white rounded cards connected by a dotted teal path with checkmarks, ending in a green circular badge with small sparkles\"},\"environment\":{\"setting\":\"bright contemporary office\",\"background_elements\":{\"count\":4,\"items\":[\"soft daylight through large window\",\"blurred green plant near center-left background\",\"binders on shelf lower right background\",\"small potted plant in the extreme lower-right corner\"]}},\"rendering\":\"high-resolution commercial ad composite, realistic photo for the person and desk, crisp vector typography, subtle drop shadows, spacious margins, Japanese web banner aesthetics\"}",
+  "translatedPrompt": "{\"type\":\"日本 SaaS 宣传落地页英雄横幅\",\"style\":\"简洁的企业网页广告，现代金融科技品牌感，明亮的办公室摄影与矢量 UI 叠加层融合，高信任度，精致且注重转化\",\"canvas\":{\"aspect_ratio\":\"4:3\",\"background\":\"柔和的浅灰色至白色，带有巨大的弧形白色形状，用于分割左侧文本区和右侧图片区\"},\"branding\":{\"badge\":{\"position\":\"top-left\",\"icon\":\"青色圆形图标，内含上升的柱状图线条图形\",\"text\":\"经理业务效率化工具\",\"shape\":\"带有浅灰色填充的圆角胶囊形状\"},\"palette\":{\"primary\":\"深海军蓝\",\"secondary\":\"青绿色\",\"accent\":\"亮橙色\",\"background\":\"白色和极浅灰色\"}},\"layout\":{\"sections\":[{\"title\":\"左侧营销文案区\",\"position\":\"左半部分\",\"count\":5,\"labels\":[\"顶部徽章\",\"大标题\",\"3 行正文\",\"3 个功能图标\",\"橙色 CTA 按钮\"]},{\"title\":\"右侧办公室照片区\",\"position\":\"右半部分\",\"count\":6,\"labels\":[\"使用笔记本电脑的职场女性\",\"仪表盘面板\",\"4 步自动化卡片\",\"绿色圆形标注\",\"办公桌上的文件和计算器\",\"模糊的办公室背景\"]}],\"composition\":\"左侧为重文本广告，右侧为写实的职场人像，浮动的软件界面卡片位于人物上方及侧面\"},\"text\":{\"headline\":\"经理业务，更加 {argument name=\\\"headline emphasis\\\" default=\\\"轻松\\\"}。\",\"body\":\"将发票处理、分录、月度业务进行集中效率化。减少输入过程中的繁琐与失误，减轻会计人员的负担。\",\"cta\":\"{argument name=\\\"button text\\\" default=\\\"查看免费演示\\\"}\",\"reassurance\":\"首次使用也可放心\"},\"features\":{\"count\":3,\"items\":[{\"icon\":\"浅青色圆圈内的文档表格图标\",\"label\":\"告别纸质与 Excel 管理\"},{\"icon\":\"浅青色圆圈内的时钟图标\",\"label\":\"缩短作业时间\"},{\"icon\":\"浅青色圆圈内的团队/用户图标\",\"label\":\"团队间顺畅共享\"}]},\"subject\":{\"count\":1,\"person\":\"20 多岁至 30 多岁的日本职场女性，坐在办公桌前，中短深棕色波波头，浅灰色西装外套内搭白色衬衫，中性职业表情，双手放在笔记本电脑键盘上\",\"face_treatment\":\"面部进行柔和的匿名模糊处理\",\"pose\":\"正面但略微向左倾斜，端坐在办公椅上\",\"desk_items\":{\"count\":5,\"items\":[\"面前打开的银色笔记本电脑\",\"左前方的迷你计算器\",\"右前方的黑色计算器\",\"右侧堆叠的文件和发票\",\"文件旁的钢笔\"]}},\"ui_panel\":{\"position\":\"右上角浮动于主体上方\",\"title\":\"仪表盘\",\"style\":\"白色圆角矩形卡片，带有细微阴影\",\"sidebar\":{\"count\":6,\"labels\":[\"仪表盘\",\"发票\",\"分录\",\"费用\",\"报告\",\"设置\"],\"color\":\"深海军蓝垂直侧边栏\"},\"widgets\":{\"count\":4,\"items\":[{\"type\":\"指标卡片\",\"label\":\"本月分录数\",\"value\":\"1,248 件\",\"delta\":\"环比 +18%\"},{\"type\":\"环形图\",\"label\":\"处理进度\",\"value\":\"84% 完成\"},{\"type\":\"指标卡片\",\"label\":\"作业时间 (本月)\",\"value\":\"32.5 小时\",\"delta\":\"环比 -28%\"},{\"type\":\"柱状图\",\"label\":\"月度趋势（作业时间）\",\"months\":[\"1月\",\"2月\",\"3月\",\"4月\",\"5月\",\"6月\"]}]}},\"automation_flow\":{\"position\":\"中右侧，位于主体旁边\",\"count\":4,\"cards\":[\"上传发票\",\"通过 AI-OCR 自动读取\",\"自动创建分录\",\"与会计软件联动\"],\"callout\":\"自动化减少失误！\",\"style\":\"四张堆叠的白色圆角卡片，由带有勾选标记的虚线青色路径连接，末端为带有小闪烁效果的绿色圆形徽章\"},\"environment\":{\"setting\":\"明亮的现代办公室\",\"background_elements\":{\"count\":4,\"items\":[\"大窗户透进的柔和日光\",\"背景中左侧模糊的绿色植物\",\"背景右下角书架上的文件夹\",\"最右下角的小盆栽\"]}},\"rendering\":\"高分辨率商业广告合成，人物与桌面采用写实摄影，清晰的矢量排版，细微的投影，宽敞的留白，符合日本网页横幅美学\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日本会计 SaaS 英雄横幅广告：一款精致的日本金融科技风格会计自动化工具宣传横幅，适用于落地页、网页广告及 SaaS 营销视觉设计。",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [
+        "front-facing",
+        "callout",
+        "vertical"
+      ],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [
+        "soft light"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "B2B 产品概念图、后台系统、数据看板",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: front-facing, callout, vertical]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[参考光线镜头: soft light]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14446",
+      "15058",
+      "15389",
+      "14322",
+      "15425",
+      "14666"
+    ]
+  }
+}

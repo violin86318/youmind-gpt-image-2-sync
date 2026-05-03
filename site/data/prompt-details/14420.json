@@ -1,0 +1,52 @@
+{
+  "id": "14420",
+  "prompt": "A full-body cinematic portrait of a deeply unsettling humanoid alien standing alone in a dark rocky ravine, centered in the frame and facing forward in a neutral upright pose with both arms hanging low at its sides. The creature is extremely tall and emaciated, with elongated limbs, narrow shoulders, a sunken torso, visible rib-like structures, taut sinewy anatomy, long forearms, oversized hands with long thin fingers, and long digitigrade-looking feet planted on wet black ground. Its skin is hairless, slick, pale gray-beige with brownish fleshy undertones, semi-organic and biomechanical in appearance, with glossy damp highlights, leathery textures, stretched membranes, tendons, grooves, and subtle vein-like striations. The neck and upper chest are fused into a disturbing organic structure, with tendril-like folds and open channels running from the clavicle area upward into the head. The head is broad and mushroom- or hammer-shaped with a ridged crown and flared side lobes, giving a nonhuman silhouette; the face should feel unreadable and alien rather than cute or familiar. Place the figure in a narrow canyon of dark eroded stone, with 2 large foreground rock masses framing the subject on the left and right, and a misty cliff wall receding behind it. Use cold desaturated lighting, soft fog, damp surfaces, shallow atmospheric haze, and a grim monochrome palette of charcoal, slate, ash gray, and muted flesh tones. The mood should be uncanny, realistic, oppressive, and biologically plausible, like a high-end sci-fi horror still. Ultra-detailed photorealism, sharp texture on the creature, subtle depth of field, dramatic natural backlight from above, no clothing, no tools, no background creatures, no gore, no text.",
+  "translatedPrompt": "一张电影级的全身肖像，描绘了一个令人极度不安的人形外星人，它独自站在黑暗的岩石峡谷中。主体居中，正面朝向镜头，姿态中立挺拔，双臂自然下垂。该生物身材极高且消瘦，四肢修长，肩膀窄小，躯干凹陷，肋骨结构清晰可见，肌肉线条紧绷，前臂长，手掌巨大且手指细长，长长的趾行式足部稳稳地踩在潮湿的黑色地面上。其皮肤无毛，光滑，呈灰米色并带有棕色肉质底色，外观呈现半有机与生物机械的质感，带有湿润的光泽、皮革般的纹理、拉伸的薄膜、肌腱、沟壑以及细微的血管状条纹。颈部和上胸部融合为一种令人不安的有机结构，带有触手状的褶皱和从锁骨区域向上延伸至头部的开放通道。头部宽大，呈蘑菇状或锤状，带有脊状冠和向外张开的侧叶，呈现出非人类的轮廓；面部应显得难以捉摸且充满异域感，而非可爱或熟悉。将主体置于黑暗侵蚀岩石构成的狭窄峡谷中，前景左右两侧各有一块巨大的岩石作为框架，背景是若隐若现的雾气悬崖。使用冷色调的去饱和光线、柔和的雾气、潮湿的表面、浅景深的大气霾，以及由炭色、板岩色、灰烬色和柔和肉色组成的阴郁单色调。整体氛围应营造出怪诞、写实、压抑且符合生物逻辑的感觉，如同高端科幻恐怖电影剧照。超精细写实风格，生物纹理清晰，微妙的景深效果，来自上方的戏剧性自然背光，无衣物，无工具，无背景生物，无血腥，无文字。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "深谷中的写实外星人：此提示词可生成一张令人不安的全身科幻恐怖肖像，描绘了荒凉岩石峡谷中逼真的人形外星人，非常适合电影概念艺术和生物设计。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "full-body"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "sci-fi"
+      ],
+      "lightingCamera": [
+        "backlight",
+        "depth of field"
+      ],
+      "text": "要求可读；禁止额外文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, full-body]。\n\nVisual style:\n[参考风格: realistic, cinematic, sci-fi]。\n\nLighting and camera:\n[参考光线镜头: backlight, depth of field]。\n\nText requirements:\n要求可读；禁止额外文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15704",
+      "15706",
+      "15435",
+      "14486",
+      "14679",
+      "14538"
+    ]
+  }
+}

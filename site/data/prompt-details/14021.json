@@ -1,0 +1,52 @@
+{
+  "id": "14021",
+  "prompt": "A photorealistic urban advertisement poster featuring a young Japanese woman in streetwear doing a deep squat in the middle of a busy crosswalk. She wears a black beanie, a dark grey oversized hoodie, a chunky silver chain necklace, olive green cargo pants, and chunky beige and black sneakers. She is holding out exactly two identical energy drink cans towards the camera; the cans are silver and black with a prominent yellow lightning bolt logo and the word {argument name=\"can logo text\" default=\"ENERGY\"}. The background is a blurred, bustling {argument name=\"city background\" default=\"Tokyo street scene resembling Shibuya crossing\"} with pedestrians and neon signs. The image features bold typography: large red vertical Japanese text on the left reading {argument name=\"left red text\" default=\"新登場\"}, white vertical Japanese text on the right reading {argument name=\"right white text\" default=\"ストリートま上げてく エナジー。\"}, and a solid yellow horizontal banner across the bottom edge containing bold black text {argument name=\"bottom banner text\" default=\"ENERGY DRINK\"} alongside smaller Japanese text and a small black hand logo on the far right. Dynamic wide-angle perspective with a shallow depth of field.",
+  "translatedPrompt": "一张写实风格的城市广告海报，画面中一位身穿街头服饰的日本年轻女性正在繁忙的人行横道中央做深蹲。她戴着黑色针织帽，身穿深灰色超大款连帽衫，佩戴粗款银色项链，下身穿着橄榄绿工装裤，脚蹬米色与黑色拼接的厚底运动鞋。她正向镜头展示两罐一模一样的能量饮料；罐身为银黑配色，印有醒目的黄色闪电标志和文字 {argument name=\"can logo text\" default=\"ENERGY\"}。背景是模糊且熙熙攘攘的 {argument name=\"city background\" default=\"类似涩谷十字路口的东京街景\"}，伴有行人与霓虹灯。图像采用醒目的排版设计：左侧为巨大的红色竖排日语文字 {argument name=\"left red text\" default=\"新登場\"}，右侧为白色竖排日语文字 {argument name=\"right white text\" default=\"ストリートま上げてく エナジー。\"}，底部边缘有一条纯黄色横幅，上面印有粗体黑色文字 {argument name=\"bottom banner text\" default=\"ENERGY DRINK\"}，旁边配有较小的日语文字以及最右侧的一个小型黑色手部标志。采用动态广角视角，具有浅景深效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Urban Energy Drink 广告海报：生成一张写实风格的街头广告海报，展示模特手持能量饮料，并支持自定义日语和英语排版。",
+      "subject": "人物",
+      "scene": "字体/Logo",
+      "composition": [
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [
+        "neon",
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[参考光线镜头: neon, shallow depth, depth of field, camera]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14267",
+      "14990",
+      "14539",
+      "14937",
+      "13663",
+      "14991"
+    ]
+  }
+}

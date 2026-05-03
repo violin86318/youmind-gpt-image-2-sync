@@ -1,0 +1,42 @@
+{
+  "id": "14466",
+  "prompt": "{\"type\":\"enterprise cloud AI architecture infographic\",\"style\":\"clean corporate vector diagram, white background, blue and teal palette, rounded rectangles, thin blue outlines, subtle shadows, Chinese-first bilingual labels with smaller English subtitles, symmetrical layout, presentation-slide quality\",\"canvas\":{\"aspect_ratio\":\"4:3\",\"resolution\":\"1024x768\"},\"title_block\":{\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"云端 AI Agent 架构图\\\"}\",\"subtitle\":\"面向云端任务执行、代码协作与大规模调度的 Cloud AI Agent Architecture\",\"position\":\"top center\"},\"layout\":{\"center\":{\"type\":\"stacked architecture layers\",\"count\":7,\"numbered\":true,\"layers\":[{\"index\":1,\"title\":\"接入与体验层\",\"english\":\"access and experience layer\",\"count\":5,\"items\":[\"Web Console\",\"IDE / CLI\",\"API / SDK\",\"消息通知 Slack / Email\",\"任务看板 组织与项目空间\"]},{\"index\":2,\"title\":\"云端控制平面\",\"english\":\"cloud control plane\",\"count\":6,\"items\":[\"API Gateway\",\"Auth / Tenant\",\"Session Manager\",\"Project / Workspace Manager\",\"Task Queue\",\"Rate Limit / Billing\"]},{\"index\":3,\"title\":\"Agent 编排层\",\"english\":\"agent orchestration layer\",\"count\":8,\"items\":[\"Planner / 任务规划器\",\"Reasoner / 推理引擎\",\"Context Manager / 上下文管理\",\"Memory / 记忆系统\",\"Prompt Builder\",\"Workflow Orchestrator / 工作流编排\",\"Policy Engine / 策略引擎\",\"Multi-Agent Coordinator / 多 Agent 协同\"]},{\"index\":4,\"title\":\"执行运行时层\",\"english\":\"execution runtime layer\",\"count\":8,\"items\":[\"Sandbox Pool / 容器沙箱\",\"Browser / HTTP 工具\",\"Code Runner / Terminal\",\"Git Workspace\",\"Tool Adapters / MCP\",\"Scheduler / Worker\",\"Test Runner\",\"Artifact Executor / Patch & Diff\"]},{\"index\":5,\"title\":\"模型与智能服务层\",\"english\":\"model and intelligence services layer\",\"count\":6,\"items\":[\"Model Router\",\"Frontier LLM API\",\"Embedding / Reranker\",\"OCR / STT / TTS（可选）\",\"Evaluator / Reflection\",\"第三方 Agent / SaaS\"]},{\"index\":6,\"title\":\"数据与状态层\",\"english\":\"data and state layer\",\"count\":8,\"items\":[\"Relational DB\",\"Vector DB\",\"Redis Cache\",\"Session State\",\"Artifact Store\",\"对象存储 Object Storage\",\"配置中心 Config\",\"日志与审计 Logs\"]},{\"index\":7,\"title\":\"云基础设施层\",\"english\":\"cloud infrastructure layer\",\"count\":8,\"items\":[\"Kubernetes / 容器编排\",\"Service Mesh\",\"Event Bus\",\"Secrets / KMS\",\"VPC / Network\",\"Autoscaling\",\"CI/CD\",\"多区域容灾 DR\"]}]},\"left_sidebar\":{\"title\":\"可观测性 / SRE\",\"position\":\"left\",\"count\":6,\"items\":[\"监控 Monitoring\",\"Tracing\",\"Metrics\",\"日志聚合 Logs\",\"成本与配额 Cost / Quota\",\"告警 Alerting\"]},\"right_sidebar\":{\"title\":\"安全治理\",\"position\":\"right\",\"count\":6,\"items\":[\"SSO / RBAC\",\"密钥与 Secrets\",\"策略护栏 Guardrails\",\"人工审批 Human Approval\",\"审计合规 Audit\",\"数据隔离 Isolation\"]},\"connectors\":\"bidirectional blue arrows linking both sidebars to every central layer, plus vertical arrows between each architecture layer\"},\"visual_details\":{\"icons\":\"simple blue line icons in every box, one icon per module\",\"boxes\":\"rounded white cards with pale blue or pale green tinted section backgrounds\",\"section_colors\":{\"layers_1_2_5_7\":\"light blue\",\"layer_3\":\"light lavender\",\"layer_4\":\"light cyan\",\"layer_6\":\"light green\",\"sidebars\":\"deep royal blue headers with white text\"},\"typography\":\"bold dark navy Chinese headline, smaller gray-blue subtitle, medium-weight Chinese section labels, compact bilingual item labels\"},\"footer\":{\"position\":\"bottom center\",\"text\":\"{argument name=\\\"footer text\\\" default=\\\"特性：云原生 • 多租户 • 弹性扩缩容 • 安全合规 • 人机协同 • 任务可追踪 • 支持多模型与多 Agent 协同\\\"}\"},\"quality\":\"crisp infographic, balanced spacing, high legibility, polished enterprise architecture slide suitable for keynote, documentation, and product marketing\"}",
+  "translatedPrompt": "{\"type\":\"企业级云端 AI 架构信息图\",\"style\":\"简洁的企业矢量图，白色背景，蓝色与青色调色板，圆角矩形，细蓝色轮廓，柔和阴影，以中文为主的双语标签并配有较小的英文副标题，对称布局，演示文稿级质量\",\"canvas\":{\"aspect_ratio\":\"4:3\",\"resolution\":\"1024x768\"},\"title_block\":{\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"云端 AI Agent 架构图\\\"}\",\"subtitle\":\"面向云端任务执行、代码协作与大规模调度的 Cloud AI Agent Architecture\",\"position\":\"top center\"},\"layout\":{\"center\":{\"type\":\"堆叠式架构层\",\"count\":7,\"numbered\":true,\"layers\":[{\"index\":1,\"title\":\"接入与体验层\",\"english\":\"access and experience layer\",\"count\":5,\"items\":[\"Web Console\",\"IDE / CLI\",\"API / SDK\",\"消息通知 Slack / Email\",\"任务看板 组织与项目空间\"]},{\"index\":2,\"title\":\"云端控制平面\",\"english\":\"cloud control plane\",\"count\":6,\"items\":[\"API Gateway\",\"Auth / Tenant\",\"Session Manager\",\"Project / Workspace Manager\",\"Task Queue\",\"Rate Limit / Billing\"]},{\"index\":3,\"title\":\"Agent 编排层\",\"english\":\"agent orchestration layer\",\"count\":8,\"items\":[\"Planner / 任务规划器\",\"Reasoner / 推理引擎\",\"Context Manager / 上下文管理\",\"Memory / 记忆系统\",\"Prompt Builder\",\"Workflow Orchestrator / 工作流编排\",\"Policy Engine / 策略引擎\",\"Multi-Agent Coordinator / 多 Agent 协同\"]},{\"index\":4,\"title\":\"执行运行时层\",\"english\":\"execution runtime layer\",\"count\":8,\"items\":[\"Sandbox Pool / 容器沙箱\",\"Browser / HTTP 工具\",\"Code Runner / Terminal\",\"Git Workspace\",\"Tool Adapters / MCP\",\"Scheduler / Worker\",\"Test Runner\",\"Artifact Executor / Patch & Diff\"]},{\"index\":5,\"title\":\"模型与智能服务层\",\"english\":\"model and intelligence services layer\",\"count\":6,\"items\":[\"Model Router\",\"Frontier LLM API\",\"Embedding / Reranker\",\"OCR / STT / TTS（可选）\",\"Evaluator / Reflection\",\"第三方 Agent / SaaS\"]},{\"index\":6,\"title\":\"数据与状态层\",\"english\":\"data and state layer\",\"count\":8,\"items\":[\"Relational DB\",\"Vector DB\",\"Redis Cache\",\"Session State\",\"Artifact Store\",\"对象存储 Object Storage\",\"配置中心 Config\",\"日志与审计 Logs\"]},{\"index\":7,\"title\":\"云基础设施层\",\"english\":\"cloud infrastructure layer\",\"count\":8,\"items\":[\"Kubernetes / 容器编排\",\"Service Mesh\",\"Event Bus\",\"Secrets / KMS\",\"VPC / Network\",\"Autoscaling\",\"CI/CD\",\"多区域容灾 DR\"]}]},\"left_sidebar\":{\"title\":\"可观测性 / SRE\",\"position\":\"left\",\"count\":6,\"items\":[\"监控 Monitoring\",\"Tracing\",\"Metrics\",\"日志聚合 Logs\",\"成本与配额 Cost / Quota\",\"告警 Alerting\"]},\"right_sidebar\":{\"title\":\"安全治理\",\"position\":\"right\",\"count\":6,\"items\":[\"SSO / RBAC\",\"密钥与 Secrets\",\"策略护栏 Guardrails\",\"人工审批 Human Approval\",\"审计合规 Audit\",\"数据隔离 Isolation\"]},\"connectors\":\"连接两侧边栏至每个中心层的双向蓝色箭头，以及各架构层之间的垂直箭头\"},\"visual_details\":{\"icons\":\"每个方框内配有简洁的蓝色线条图标，每个模块一个图标\",\"boxes\":\"带有浅蓝或浅青色背景的圆角白色卡片\",\"section_colors\":{\"layers_1_2_5_7\":\"浅蓝色\",\"layer_3\":\"浅紫色\",\"layer_4\":\"浅青色\",\"layer_6\":\"浅绿色\",\"sidebars\":\"深宝蓝色标题栏，白色文字\"},\"typography\":\"加粗深海军蓝中文标题，较小的灰蓝色副标题，中等字重中文分区标签，紧凑的双语项目标签\"},\"footer\":{\"position\":\"bottom center\",\"text\":\"{argument name=\\\"footer text\\\" default=\\\"特性：云原生 • 多租户 • 弹性扩缩容 • 安全合规 • 人机协同 • 任务可追踪 • 支持多模型与多 Agent 协同\\\"}\"},\"quality\":\"清晰的信息图，布局平衡，高可读性，适用于 Keynote、文档及产品营销的专业企业架构图\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "云端 AI Agent 架构图：一张精美的双语企业级信息图，展示了分层的云端 AI Agent 架构，适用于演示文稿、产品说明及技术营销。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "symmetrical",
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: symmetrical, vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14465",
+      "14407",
+      "14866",
+      "14168",
+      "15291",
+      "15769"
+    ]
+  }
+}

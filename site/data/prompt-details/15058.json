@@ -1,0 +1,48 @@
+{
+  "id": "15058",
+  "prompt": "{\"type\":\"Spanish AI business infographic\",\"style\":{\"theme\":\"futuristic neon cyber dashboard\",\"background\":\"deep navy to black gradient with subtle glow and thin electric-blue panel outlines\",\"lighting\":\"high-contrast luminous blue and green UI glow\",\"rendering\":\"clean corporate infographic, crisp vector-like text, glossy digital panels\"},\"canvas\":{\"aspect_ratio\":\"16:9\"},\"headline\":{\"title\":\"{argument name=\\\"headline text\\\" default=\\\"El Poder de la Inteligencia Artificial en los Negocios\\\"}\",\"subtitle\":\"Sistemas autonomos que reducen costos escalan operaciones y transforman la experiencia del cliente\",\"accent_words\":[\"transforman la experiencia del cliente\"]},\"branding\":{\"top_left_logo_text\":\"AI BUSINESS POWER\",\"top_right_badge\":\"{argument name=\\\"tool name\\\" default=\\\"GPT Image 2\\\"}\"},\"layout\":{\"sections\":[{\"title\":\"El Problema y la Oportunidad\",\"position\":\"left column\",\"count\":3,\"items\":[{\"icon\":\"globe\",\"value\":\"$13 Billones\",\"description\":\"valor que la IA aportará a la economía global\"},{\"icon\":\"people\",\"value\":\"50%\",\"description\":\"trabajos automatizables para 2055\"},{\"icon\":\"donut chart\",\"value\":\"74%\",\"description\":\"El Gran Bloqueo, empresas que no superan fase prototipo\"}]},{\"title\":\"Servicios Core\",\"position\":\"center column\",\"count\":3,\"items\":[{\"icon\":\"robot chatbot\",\"title\":\"Agentes de Ventas y Soporte 24/7\",\"description\":\"chatbots WhatsApp y web, calificación de leads en tiempo real\"},{\"icon\":\"brain\",\"title\":\"Sistemas RAG\",\"description\":\"cerebros empresariales, respuestas exactas, sin alucinaciones\"},{\"icon\":\"lightning bolt\",\"title\":\"RPA + Automatización de Flujos\",\"description\":\"CRMs, extracción de documentos, creación de contenido con Skills AI\"}]},{\"title\":\"Resultados y ROI\",\"position\":\"right column\",\"count\":4,\"items\":[{\"icon\":\"clock\",\"value\":\"100+\",\"description\":\"horas/mes ahorradas en tareas administrativas\",\"graphic\":\"upward green arrow chart\"},{\"icon\":\"gear\",\"value\":\"90%\",\"description\":\"menos carga de trabajo manual en flujos operativos\",\"graphic\":\"upward green arrow chart\"},{\"icon\":\"bar chart\",\"value\":\"Triplicar\",\"description\":\"la facturación sin aumentar costos ni personal\",\"graphic\":\"upward green arrow chart\"},{\"icon\":\"shield check\",\"value\":\"Gobernanza SAFE-AI\",\"description\":\"datos seguros, cumplimiento regulatorio\",\"graphic\":\"upward green arrow chart\"}]}],\"top_right_panel\":{\"count\":4,\"items\":[{\"type\":\"dashboard screen\",\"label\":\"AI DASHBOARD\",\"details\":\"purple and blue line graph, circular AI interface, three stat boxes showing +89% eficiencia, -70% reducción, +98% clientes\"},{\"type\":\"presenter character\",\"description\":\"stylized businesswoman in black outfit with glowing AI logo, dark hair in a bun, hoop earrings, pointing at the dashboard\",\"face\":\"intentionally obscured or blurred\"},{\"type\":\"small widget\",\"label\":\"AUTOMATIZACIONES\",\"details\":\"circular progress chart showing 78%\"},{\"type\":\"small widget\",\"label\":\"ACTIVIDAD EN TIEMPO REAL\",\"details\":\"world map heat visualization in purple\"}]},\"bottom_banner\":{\"count\":3,\"items\":[{\"icon\":\"code brackets\",\"text\":\"Construyendo con AI Coding:\"},{\"text\":\"Arquitecturas robustas, control de alucinaciones (Top-K/Temperature) y flujos deterministas.\"},{\"text\":\"{argument name=\\\"closing slogan\\\" default=\\\"Adiós al Vibe Coding.\\\"}\",\"icon\":\"rocket\"}]},\"centerpiece\":\"large bold title block on the upper left and a futuristic female AI consultant on the upper right integrated into a glowing analytics dashboard\",\"color_palette\":{\"primary\":\"electric blue\",\"secondary\":\"neon green\",\"accent\":\"purple\",\"text\":\"white\"},\"typography\":{\"title\":\"extra-bold geometric sans serif\",\"body\":\"clean modern sans serif\",\"numbers\":\"large bold high-contrast\"},\"composition\":\"rounded rectangular panels with luminous borders, evenly spaced grid, strong hierarchy, dark negative space, premium startup pitch deck aesthetic\"}",
+  "translatedPrompt": "{\"type\":\"西班牙语 AI 商业信息图\",\"style\":{\"theme\":\"未来感霓虹赛博仪表盘\",\"background\":\"深海军蓝至黑色渐变，带有微妙的辉光和纤细的电光蓝面板轮廓\",\"lighting\":\"高对比度发光蓝绿色 UI 光效\",\"rendering\":\"简洁的企业级信息图，清晰的矢量风格文字，光泽感数字面板\"},\"canvas\":{\"aspect_ratio\":\"16:9\"},\"headline\":{\"title\":\"{argument name=\\\"headline text\\\" default=\\\"人工智能在商业中的力量\\\"}\",\"subtitle\":\"降低成本、扩展运营并重塑客户体验的自主系统\",\"accent_words\":[\"重塑客户体验\"]},\"branding\":{\"top_left_logo_text\":\"AI BUSINESS POWER\",\"top_right_badge\":\"{argument name=\\\"tool name\\\" default=\\\"GPT Image 2\\\"}\"},\"layout\":{\"sections\":[{\"title\":\"问题与机遇\",\"position\":\"左侧栏\",\"count\":3,\"items\":[{\"icon\":\"globe\",\"value\":\"13 万亿美元\",\"description\":\"AI 将为全球经济带来的价值\"},{\"icon\":\"people\",\"value\":\"50%\",\"description\":\"到 2055 年可自动化的工作岗位\"},{\"icon\":\"donut chart\",\"value\":\"74%\",\"description\":\"大停滞：未能通过原型阶段的企业比例\"}]},{\"title\":\"核心服务\",\"position\":\"中侧栏\",\"count\":3,\"items\":[{\"icon\":\"robot chatbot\",\"title\":\"24/7 销售与支持 Agent\",\"description\":\"WhatsApp 和网页端聊天机器人，实时线索筛选\"},{\"icon\":\"brain\",\"title\":\"RAG 系统\",\"description\":\"企业大脑，提供精准回答，杜绝幻觉\"},{\"icon\":\"lightning bolt\",\"title\":\"RPA + 流程自动化\",\"description\":\"CRM 集成、文档提取、利用 AI 技能创建内容\"}]},{\"title\":\"成果与 ROI\",\"position\":\"右侧栏\",\"count\":4,\"items\":[{\"icon\":\"clock\",\"value\":\"100+\",\"description\":\"每月节省的行政任务工时\",\"graphic\":\"绿色上升趋势图\"},{\"icon\":\"gear\",\"value\":\"90%\",\"description\":\"运营流程中手动工作负载的减少量\",\"graphic\":\"绿色上升趋势图\"},{\"icon\":\"bar chart\",\"value\":\"三倍\",\"description\":\"在不增加成本或人员的情况下实现营收增长\",\"graphic\":\"绿色上升趋势图\"},{\"icon\":\"shield check\",\"value\":\"SAFE-AI 治理\",\"description\":\"数据安全，合规性保障\",\"graphic\":\"绿色上升趋势图\"}]}],\"top_right_panel\":{\"count\":4,\"items\":[{\"type\":\"dashboard screen\",\"label\":\"AI 仪表盘\",\"details\":\"紫色和蓝色折线图，圆形 AI 界面，三个统计框显示 +89% 效率，-70% 缩减，+98% 客户\"},{\"type\":\"presenter character\",\"description\":\"风格化的商务女性，身着黑色套装，带有发光的 AI 标志，深色发髻，佩戴圆环耳环，指向仪表盘\",\"face\":\"刻意模糊处理\"},{\"type\":\"small widget\",\"label\":\"自动化\",\"details\":\"显示 78% 的环形进度图\"},{\"type\":\"small widget\",\"label\":\"实时活动\",\"details\":\"紫色世界地图热力可视化\"}]},\"bottom_banner\":{\"count\":3,\"items\":[{\"icon\":\"code brackets\",\"text\":\"基于 AI 编码构建：\"},{\"text\":\"稳健的架构，幻觉控制（Top-K/Temperature）及确定性流程。\"},{\"text\":\"{argument name=\\\"closing slogan\\\" default=\\\"告别 Vibe Coding。\\\"}\",\"icon\":\"rocket\"}]},\"centerpiece\":\"左上角醒目的大标题块，右上角未来感 AI 女性顾问，集成在发光的分析仪表盘中\",\"color_palette\":{\"primary\":\"电光蓝\",\"secondary\":\"霓虹绿\",\"accent\":\"紫色\",\"text\":\"白色\"},\"typography\":{\"title\":\"超粗几何无衬线字体\",\"body\":\"简洁现代无衬线字体\",\"numbers\":\"大号加粗高对比度字体\"},\"composition\":\"带有发光边框的圆角矩形面板，均匀分布的网格，强烈的层级感，深色负空间，高端初创企业演示文稿美学\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "西班牙语霓虹 AI 商业信息图：一款充满未来感的西班牙语商业信息图，展示了 AI 服务、市场机遇、ROI 指标以及用于演示文稿、社交媒体帖文或初创企业营销的仪表盘视觉效果。",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [
+        "grid"
+      ],
+      "style": [
+        "premium"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "B2B 产品概念图、后台系统、数据看板",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[参考风格: premium]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14447",
+      "14627",
+      "14666",
+      "14921",
+      "14199",
+      "14322"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "13832",
+  "prompt": "{\n  \"type\": \"first-person shooter video game screenshot\",\n  \"setting\": {\n    \"environment\": \"{argument name=\\\"map background\\\" default=\\\"dusty middle eastern street resembling Dust II\\\"}\",\n    \"details\": \"white buildings, green street sign reading 'HOTEL AURORE' with Arabic text and a red 'A' bombsite directional arrow\"\n  },\n  \"perspective\": \"first-person view holding a weapon\",\n  \"character_hands\": \"wearing {argument name=\\\"theme\\\" default=\\\"Spider-Man\\\"} suit gloves, red with black web patterns and blue forearms\",\n  \"weapon\": {\n    \"model\": \"{argument name=\\\"weapon name\\\" default=\\\"AK-47\\\"} assault rifle\",\n    \"skin_design\": \"red and blue color block design with black web patterns\",\n    \"decals\": [\n      \"large white spider logo on the receiver\",\n      \"'CS2' in white on the blue section\",\n      \"'MARVEL' in red on the blue magazine\",\n      \"'SPIDER-MAN' in white stylized text on the red stock\",\n      \"small yellow text 'F.R.3.4' near the trigger\"\n    ]\n  },\n  \"ui_overlay\": {\n    \"top_center\": {\n      \"icon\": \"black shield with red spider logo\",\n      \"title\": \"{argument name=\\\"weapon name\\\" default=\\\"AK-47\\\"} | {argument name=\\\"skin name\\\" default=\\\"Web-Slinger\\\"}\",\n      \"subtitle\": \"{argument name=\\\"collection text\\\" default=\\\"The CS2 Collection\\\"}\",\n      \"divider\": \"red horizontal line\"\n    },\n    \"bottom_left\": {\n      \"count\": 5,\n      \"description\": \"row of white interface icons\",\n      \"icons\": [\"pistol\", \"spray can\", \"player silhouette\", \"info 'i'\", \"picture frame\"]\n    },\n    \"bottom_right\": {\n      \"text\": \"CLOSE\"\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"第一人称射击游戏截图\",\n  \"setting\": {\n    \"environment\": \"{argument name=\\\"map background\\\" default=\\\"类似 Dust II 的尘土飞扬的中东街道\\\"}\",\n    \"details\": \"白色建筑，带有阿拉伯文和红色 'A' 爆破点指向箭头的绿色路牌，上面写着 'HOTEL AURORE'\"\n  },\n  \"perspective\": \"手持武器的第一人称视角\",\n  \"character_hands\": \"佩戴 {argument name=\\\"theme\\\" default=\\\"蜘蛛侠\\\"} 主题套装手套，红色底色配黑色蛛网图案，前臂为蓝色\",\n  \"weapon\": {\n    \"model\": \"{argument name=\\\"weapon name\\\" default=\\\"AK-47\\\"} 突击步枪\",\n    \"skin_design\": \"红蓝撞色设计，配有黑色蛛网图案\",\n    \"decals\": [\n      \"机匣上的大型白色蜘蛛标志\",\n      \"蓝色区域上白色的 'CS2' 字样\",\n      \"蓝色弹匣上红色的 'MARVEL' 字样\",\n      \"红色枪托上白色风格化的 'SPIDER-MAN' 字样\",\n      \"扳机附近黄色的小字 'F.R.3.4'\"\n    ]\n  },\n  \"ui_overlay\": {\n    \"top_center\": {\n      \"icon\": \"带有红色蜘蛛标志的黑色盾牌\",\n      \"title\": \"{argument name=\\\"weapon name\\\" default=\\\"AK-47\\\"} | {argument name=\\\"skin name\\\" default=\\\"蛛丝行者\\\"}\",\n      \"subtitle\": \"{argument name=\\\"collection text\\\" default=\\\"CS2 系列\\\"}\",\n      \"divider\": \"红色水平线\"\n    },\n    \"bottom_left\": {\n      \"count\": 5,\n      \"description\": \"一排白色界面图标\",\n      \"icons\": [\"手枪\", \"喷漆罐\", \"玩家剪影\", \"信息 'i'\", \"相框\"]\n    },\n    \"bottom_right\": {\n      \"text\": \"关闭\"\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "FPS 自定义武器皮肤截图：生成带有自定义主题皮肤和 HUD 元素的视频游戏第一人称视角武器截图。",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "App Store 截图、产品概念、移动工具界面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14540",
+      "14480",
+      "13742",
+      "15625",
+      "13701",
+      "14542"
+    ]
+  }
+}

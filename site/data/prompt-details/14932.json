@@ -1,0 +1,47 @@
+{
+  "id": "14932",
+  "prompt": "Create a luxurious Japanese poster advertisement for a fictional premium sake brand named {argument name=\"brand name\" default=\"月白\"}, with the romanized subtitle {argument name=\"romanized brand name\" default=\"TSUKISHIRO\"}. The composition is a single refined studio scene with a deep midnight-to-navy blue background and shimmering water-ripple caustics across the top, as if moonlight is reflecting on a still pool. Place one tall frosted glass sake bottle slightly left of center on a glossy black lacquer platform, with a soft cool-white halo behind it. The bottle should be elegant and slender with silver-blue condensation texture, a pale textured paper label, bold black Japanese calligraphy reading {argument name=\"label text\" default=\"月白\"}, small vertical text near the label edge reading \"純米大吟醸\", and tiny roman letters \"TSUKISHIRO\" near the bottom of the label. To the right of the bottle, place one small celadon-green ceramic sake cup on the same platform. Add a realistic plum blossom branch entering from the lower right, carrying approximately 9 open white blossoms and 8 visible buds on dark brown twigs, with a few scattered white petals on the platform and water surface. The surface below should be glossy dark water, showing subtle reflections of the bottle, cup, blossoms, and platform. On the right side, create very large glowing brushstroke Japanese calligraphy reading {argument name=\"display title\" default=\"月白\"}, stacked vertically, with the spaced serif romanization \"TSUKISHIRO\" beneath it. On the far left, add one vertical poetic line in Japanese reading {argument name=\"tagline text\" default=\"月に酔い、白に還る。\"}. At the bottom center, add the text \"純米大吟醸\" in pale gray. Include a small white \"Pollo.ai\" watermark in the top-right corner. Lighting should feel cinematic, cool, moonlit, and premium, with minimalism, elegant negative space, high-end beverage advertising aesthetics, Japanese traditional refinement, ultra-detailed textures, crisp product photography realism, and a serene, poetic atmosphere.",
+  "translatedPrompt": "创作一张奢华的日式海报广告，品牌名为 {argument name=\"brand name\" default=\"月白\"}，并配有罗马拼音副标题 {argument name=\"romanized brand name\" default=\"TSUKISHIRO\"}。构图采用精致的单体摄影棚场景，背景为深邃的午夜蓝至海军蓝，顶部带有闪烁的水波纹焦散效果，宛如月光映照在静谧的水面上。在光亮的黑色漆面平台上，将一个高挑的磨砂玻璃清酒瓶置于偏左位置，瓶后带有柔和的冷白色光晕。酒瓶造型优雅修长，表面带有银蓝色冷凝水珠质感，贴有浅色纹理纸质标签，标签上印有醒目的黑色日文书法 {argument name=\"label text\" default=\"月白\"}，标签边缘处有细小的竖排文字“純米大吟醸”，标签底部印有微小的罗马字母“TSUKISHIRO”。在酒瓶右侧的同一平台上，放置一个小型青瓷清酒杯。从右下方加入一枝写实的梅花枝，枝干为深褐色，带有约 9 朵盛开的白梅和 8 个可见的花苞，平台上和水面上散落着几片白色花瓣。下方的表面为光亮的深色水面，隐约映照出酒瓶、酒杯、梅花和平台的倒影。在右侧，创作非常醒目的巨大发光笔触日文书法 {argument name=\"display title\" default=\"月白\"}，采用竖排布局，下方配有间距适中的衬线体罗马拼音“TSUKISHIRO”。在最左侧，添加一行竖排的日文诗意标语 {argument name=\"tagline text\" default=\"月に酔い、白に還る。\"}。底部居中处添加浅灰色文字“純米大吟醸”。在右上角添加一个微小的白色“Pollo.ai”水印。灯光需呈现电影质感，营造冷调、月光感与高级感，强调极简主义、优雅的留白、高端饮料广告美学、日式传统精致感、超精细纹理、清晰的产品摄影写实度，以及宁静、诗意的氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "高端日式清酒海报：此提示词可生成一张虚构高端清酒品牌的电影级奢华海报，非常适合饮料广告、品牌样机展示及高端产品营销活动。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic, premium, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14808",
+      "15456",
+      "14598",
+      "14806",
+      "14869",
+      "15419"
+    ]
+  }
+}

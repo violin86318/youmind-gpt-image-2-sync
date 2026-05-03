@@ -1,0 +1,43 @@
+{
+  "id": "15270",
+  "prompt": "A candid early-2000s family snapshot inside a modest Chinese living room, photographed with the look of a consumer digital camera. In the foreground left, a middle-aged woman in a soft mauve knit sweater sits on a patterned carpet facing slightly toward the camera. In the midground center, a middle-aged man in dark clothes crouches in front of a wooden TV stand, adjusting a silver DVD or VCD player. In the foreground right, a small girl wearing a pink sweater and jeans kneels on the carpet playing with a colorful plastic toy vehicle. Their faces are intentionally blurred or obscured. Behind them is a bulky CRT television showing black-and-white static. The room is filled with lived-in details: a large red Chinese character poster reading “福” on the wall, a hanging wall calendar below it, 4 framed family photos around the TV area, a lace cloth draped over the television, a tall shelving unit on the right holding stacked VHS tapes, books, and media cases, and a potted plant on top of the shelf. On the left side, part of a bed or daybed with pale bedding and pillows is visible. Add a bold red overlay in the top-left corner that says “{argument name=\"headline text\" default=\"AI生成\"}”. Add an orange camcorder-style date stamp in the bottom-right corner reading “{argument name=\"date stamp\" default=\"2003. 12. 28\"}”. Natural indoor daylight, slightly muted colors, documentary realism, nostalgic domestic atmosphere, cluttered but warm home interior, imperfect composition, authentic snapshot aesthetic, 4:3 aspect ratio.",
+  "translatedPrompt": "一张 21 世纪初中国普通家庭客厅的抓拍快照，呈现出消费级数码相机的拍摄质感。左前方，一位穿着淡紫色针织毛衣的中年女性坐在花纹地毯上，身体略微朝向镜头。中景中心，一位身着深色衣服的中年男性蹲在木质电视柜前，正在调试一台银色的 DVD 或 VCD 播放机。右前方，一个小女孩穿着粉色毛衣和牛仔裤，跪在地毯上玩着一辆彩色塑料玩具车。他们的面部被刻意模糊或遮挡。身后是一台笨重的 CRT 显像管电视，屏幕上显示着黑白雪花。房间里充满了生活气息：墙上贴着一张红色的“福”字海报，下方挂着一张挂历，电视区域周围摆放着 4 张家庭合影，电视上盖着蕾丝布，右侧是一个高大的置物架，上面堆放着 VHS 录像带、书籍和媒体盒，架子顶端放着一盆绿植。左侧可见一张铺着浅色床品和枕头的床或沙发床。在左上角添加一个醒目的红色叠加层，文字为“{argument name=\"headline text\" default=\"AI生成\"}”。在右下角添加一个橙色的摄像机风格日期戳，显示为“{argument name=\"date stamp\" default=\"2003. 12. 28\"}”。自然室内光，色彩略显柔和，纪录片式的写实感，怀旧的家庭氛围，杂乱而温馨的家居内饰，不完美的构图，真实的快照美学，4:3 画幅。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "怀旧中国家庭客厅照片：一个 21 世纪初写实风格的家庭快照提示词，旨在生成带有时代特征的中国家庭细节及摄像机时间戳美学的怀旧场景。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "documentary"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: documentary]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14638",
+      "15010",
+      "15246",
+      "14904",
+      "14868",
+      "13457"
+    ]
+  }
+}

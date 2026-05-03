@@ -1,0 +1,45 @@
+{
+  "id": "15369",
+  "prompt": "{\"type\":\"8-panel romantic manga page\",\"style\":\"clean polished anime manga illustration, soft indoor lighting, warm neutral living room tones, detailed character rendering, modern digital comic layout\",\"title_text\":{\"main\":\"恋するメイドロボと、気付かないマスター\",\"subtitle\":\"第４話　それは、近すぎます\"},\"page\":{\"background\":\"white page with 2 columns and 4 rows of bordered comic panels\",\"panel_count\":8},\"characters\":{\"female_1\":{\"role\":\"maid robot\",\"appearance\":\"petite young woman with very long silver-white hair, straight bangs, slight waves at the ends, white maid headband, black-and-white classic maid dress with frilled apron, black ribbon at the collar, metallic over-ear robotic side attachments near both ears, pale skin, large violet eyes, shy demeanor\"},\"male_1\":{\"role\":\"master\",\"appearance\":\"young adult man with tousled short dark brown hair, tall broad build, dark charcoal button-up shirt with open collar, calm but clueless expression\"}},\"setting\":\"cozy living room with sofa, shelves, framed pictures, lamp, and soft evening indoor light\",\"layout\":{\"sections\":[{\"title\":\"1\",\"position\":\"top-left\",\"count\":1,\"labels\":[\"マスターとの距離に対する耐性が低下…\"]},{\"title\":\"2\",\"position\":\"top-right\",\"count\":1,\"labels\":[\"何読んでるんだ？\"]},{\"title\":\"3\",\"position\":\"middle-left upper\",\"count\":1,\"labels\":[\"…っ！\"]},{\"title\":\"4\",\"position\":\"middle-right upper\",\"count\":1,\"labels\":[\"難しい本だし\"]},{\"title\":\"5\",\"position\":\"middle-left lower\",\"count\":1,\"labels\":[\"ここ分かるか？\"]},{\"title\":\"6\",\"position\":\"middle-right lower\",\"count\":1,\"labels\":[\"分からなかったら教えるぞ\"]},{\"title\":\"7\",\"position\":\"bottom-left\",\"count\":1,\"labels\":[\"無理するなよ\"]},{\"title\":\"8\",\"position\":\"bottom-right\",\"count\":1,\"labels\":[\"原因：マスター\"]}],\"reading_order\":\"left to right, top to bottom\"},\"panel_descriptions\":[{\"panel\":1,\"scene\":\"The maid robot sits on a sofa alone reading a dark hardcover book held in both hands. A vertical narration box appears on the left. She looks composed but delicate.\"},{\"panel\":2,\"scene\":\"The master leans in from the right over her shoulder to look at the book. The maid robot lowers her gaze slightly. A speech balloon on the right says he is asking what she is reading.\"},{\"panel\":3,\"scene\":\"He moves even closer, his face near hers as both look at the open book. The maid robot stiffens in surprise. A small speech balloon on the left shows a startled reaction.\"},{\"panel\":4,\"scene\":\"They are nearly shoulder to shoulder, both viewing the book together. The master speaks casually, saying it is a difficult book.\"},{\"panel\":5,\"scene\":\"The master points at a place on the open page with one finger while leaning close. The maid robot remains frozen and flustered. A speech balloon asks if she understands this part.\"},{\"panel\":6,\"scene\":\"Close two-shot. The maid robot turns her face toward him with a visible blush across her cheeks, wide violet eyes, and embarrassed tension. He continues speaking from the right in a supportive tone.\"},{\"panel\":7,\"scene\":\"The master has stepped back and stands upright alone in the room, speaking gently. Background furniture becomes more visible. A speech balloon on the left says not to force herself.\"},{\"panel\":8,\"scene\":\"Close-up of the maid robot alone, hands clasped in front of her mouth, face deeply flustered, hair flowing around her shoulders. Pink handwritten sound effects repeat beside her to show pounding heartbeat, and a vertical narration box states the cause is the master.\"}],\"composition_notes\":\"Keep the maid robot as the emotional center of every panel except panel 7. Emphasize progressive physical closeness from panels 2 through 6. Maintain manga speech balloons, narration boxes, and panel numbers 1 through 8 in black squares. The tone is romantic comedy with innocent tension, not explicit.\"}",
+  "translatedPrompt": "{\"type\":\"8 格浪漫漫画页\",\"style\":\"干净精致的动漫漫画插图，柔和的室内光线，温暖中性的客厅色调，细腻的角色渲染，现代数字漫画排版\",\"title_text\":{\"main\":\"恋するメイドロボと、気付かないマスター\",\"subtitle\":\"第４話　それは、近すぎます\"},\"page\":{\"background\":\"带有 2 列 4 行边框漫画格的白色页面\",\"panel_count\":8},\"characters\":{\"female_1\":{\"role\":\"女仆机器人\",\"appearance\":\"娇小的年轻女性，留着极长的银白色头发，直刘海，发尾微卷，戴着白色女仆发带，穿着黑白经典女仆装配荷叶边围裙，领口有黑色丝带，双耳附近有金属质感的耳罩式机器人配件，肤色苍白，紫罗兰色大眼睛，神态害羞\"},\"male_1\":{\"role\":\"主人\",\"appearance\":\"年轻男性，留着凌乱的深棕色短发，身材高大宽阔，穿着深炭灰色开领衬衫，表情冷静但迟钝\"}},\"setting\":\"舒适的客厅，配有沙发、书架、相框、台灯和柔和的傍晚室内光线\",\"layout\":{\"sections\":[{\"title\":\"1\",\"position\":\"左上\",\"count\":1,\"labels\":[\"对与主人距离的耐受力下降……\"]},{\"title\":\"2\",\"position\":\"右上\",\"count\":1,\"labels\":[\"在看什么呢？\"]},{\"title\":\"3\",\"position\":\"中左上\",\"count\":1,\"labels\":[\"……！\"]},{\"title\":\"4\",\"position\":\"中右上\",\"count\":1,\"labels\":[\"这书挺难的\"]},{\"title\":\"5\",\"position\":\"中左下\",\"count\":1,\"labels\":[\"这里看得懂吗？\"]},{\"title\":\"6\",\"position\":\"中右下\",\"count\":1,\"labels\":[\"看不懂的话我教你\"]},{\"title\":\"7\",\"position\":\"左下\",\"count\":1,\"labels\":[\"别太勉强了\"]},{\"title\":\"8\",\"position\":\"右下\",\"count\":1,\"labels\":[\"原因：主人\"]}],\"reading_order\":\"从左到右，从上到下\"},\"panel_descriptions\":[{\"panel\":1,\"scene\":\"女仆机器人独自坐在沙发上，双手捧着一本深色精装书阅读。左侧出现一个竖排旁白框。她看起来沉稳但娇柔。\"},{\"panel\":2,\"scene\":\"主人从右侧凑过肩膀看向书本。女仆机器人微微垂下目光。右侧的对话气泡显示他在询问她在看什么。\"},{\"panel\":3,\"scene\":\"他靠得更近了，两人的脸贴得很近，一起看着打开的书。女仆机器人惊讶地僵住了。左侧的一个小对话气泡显示出她受惊的反应。\"},{\"panel\":4,\"scene\":\"两人几乎肩并肩，一起看着书。主人语气随意地说这是一本很难的书。\"},{\"panel\":5,\"scene\":\"主人凑得很近，用手指着打开书页的某处。女仆机器人依然僵硬且慌乱。对话气泡询问她是否理解这一部分。\"},{\"panel\":6,\"scene\":\"双人近景。女仆机器人转头看向他，脸颊泛起明显的红晕，紫罗兰色的大眼睛睁大，带着害羞的紧张感。他继续从右侧以支持的语气说话。\"},{\"panel\":7,\"scene\":\"主人退后一步，独自站在房间里，温柔地说话。背景家具变得更加清晰。左侧的对话气泡说不要勉强自己。\"},{\"panel\":8,\"scene\":\"女仆机器人单人特写，双手捂在嘴前，脸庞极度慌乱，头发散落在肩头。她身旁重复出现粉色的手写拟声词，表现出心跳加速，竖排旁白框说明原因是主人。\"}],\"composition_notes\":\"除第 7 格外，保持女仆机器人作为每一格的情感中心。强调从第 2 格到第 6 格逐渐拉近的身体距离。保留漫画对话气泡、旁白框以及黑色方块中的 1 到 8 格编号。基调为带有纯真紧张感的浪漫喜剧，非成人向。\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "八格女仆机器人恋爱漫画：一页精致的动漫风格漫画，描绘了一位害羞的女仆机器人因迟钝的主人凑近帮忙阅读而感到慌乱的场景，非常适合浪漫喜剧漫画创作。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up",
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "manga"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, vertical]。\n\nVisual style:\n[参考风格: anime, manga]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13916",
+      "14928",
+      "15372",
+      "14522",
+      "14857",
+      "15094"
+    ]
+  }
+}

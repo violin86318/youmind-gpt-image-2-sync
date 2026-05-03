@@ -1,0 +1,50 @@
+{
+  "id": "15377",
+  "prompt": "A monumental mythological fantasy painting of Lord Shiva performing the Tandava in the center of a fiery sacred arena, full-body, dynamic dancing pose with one leg raised and the other foot pressing down on a fallen figure beneath him. Shiva has ash-blue skin, a powerfully muscular physique, long wild flowing dark hair exploding outward in all directions, a high matted topknot, and a white crescent moon tucked into the hair. His expression is intense and divine. A cobra is coiled around his neck, and he wears multiple rudraksha bead necklaces, bracelets, and armlets, large circular earrings, and sacred ornaments. His clothing is a tiger-skin loincloth with dramatic red-orange cloth sashes whipping through the air. One raised hand holds a small damaru drum, one front hand is lifted in a blessing gesture with the Om symbol visible on the palm, and another hand conjures a bright flame above the open palm. Behind his head is a large glowing circular halo inscribed repeatedly with Sanskrit mantra text, creating a radiant mandala effect. The setting is an apocalyptic Himalayan temple landscape with dark storm clouds, smoke, embers, rocky mountains, waterfalls, and ancient stone shrines and temple towers on both the left and right sides. A trident wrapped with red cloth stands upright on the left side of the scene. Around Shiva is a circle of exactly 10 worshippers and ascetics, split across both sides, shown chanting, kneeling, raising arms, carrying torches, and playing drums in devotion. Beneath Shiva is exactly 1 fallen dark-skinned male figure lying on the stone ground. The ground is cracked and molten, with a blazing ring of lava and fire encircling the dance platform. Use dramatic cinematic lighting, glowing orange firelight against deep charcoal shadows, highly detailed anatomy, intricate jewelry and textures, swirling hair and fabric motion, devotional epic fantasy realism, painterly brushwork, symmetrical central composition, ultra-detailed, high contrast, vertical poster format.",
+  "translatedPrompt": "一幅宏大的神话奇幻画作，描绘了湿婆神在神圣火场中心表演坦达瓦之舞。全身动态舞姿，一腿抬起，另一只脚踩在身下倒地的身影上。湿婆拥有灰蓝色的皮肤、强健的肌肉线条，长而狂野的深色头发向四周炸开，头顶扎着高高的发髻，发间别着一弯白色新月。他的表情庄严而神圣。一条眼镜蛇盘绕在他的颈部，他佩戴着多串鲁德拉沙珠项链、手镯、臂环、巨大的圆形耳环以及神圣的饰品。他身着虎皮缠腰布，红橙色的布带在空中剧烈飘动。一只抬起的手拿着一个小达玛鲁鼓，前侧的一只手做出祝福姿势，手掌上可见“唵”字符号，另一只手在张开的掌心上方幻化出一团明亮的火焰。他脑后是一个巨大的发光圆形光环，上面刻满了梵文咒语，营造出光芒四射的曼陀罗效果。背景是末日般的喜马拉雅寺庙景观，伴有乌云、烟雾、余烬、岩石山脉、瀑布，以及左右两侧古老的石制神龛和寺庙塔楼。场景左侧矗立着一把缠绕着红布的三叉戟。湿婆周围环绕着整整 10 位信徒和苦行僧，分布在两侧，他们正在虔诚地吟唱、跪拜、举起双臂、手持火炬并敲击鼓点。湿婆身下是 1 位倒在石地上的深色皮肤男性身影。地面开裂且熔岩翻滚，一圈炽热的熔岩和火焰环绕着舞蹈平台。采用戏剧性的电影级布光，深邃的炭黑色阴影与明亮的橙色火光形成对比，展现高度精细的解剖结构、复杂的珠宝与纹理、飞扬的头发与织物动态、虔诚的史诗奇幻写实风格、油画般的笔触、对称的中心构图，超高细节，高对比度，竖版海报格式。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "史诗级湿婆坦达瓦火之舞：一幅充满戏剧性的虔诚奇幻艺术作品，描绘了湿婆在神圣火场中起舞的场景，非常适合用于神话海报艺术、专辑封面或精神概念插画。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [
+        "symmetrical",
+        "full-body",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: symmetrical, full-body, vertical]。\n\nVisual style:\n[参考风格: cinematic, fantasy]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14616",
+      "15037",
+      "14584",
+      "15717",
+      "14443",
+      "14524"
+    ]
+  }
+}

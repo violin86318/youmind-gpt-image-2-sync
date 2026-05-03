@@ -1,0 +1,40 @@
+{
+  "id": "13661",
+  "prompt": "A {argument name=\"photography style\" default=\"hyper-realistic macro photograph\"} of a vibrant {argument name=\"animal\" default=\"chameleon\"} resting on a {argument name=\"setting\" default=\"mossy branch in a lush jungle\"}. The reptile features intricate, textured scales in shades of {argument name=\"primary colors\" default=\"bright green, electric blue, and warm yellow\"}, with a prominent, highly detailed eye. Its clawed feet tightly grip the wet, textured wood, and its tail is curled beneath. The background is a smooth, out-of-focus bokeh of deep green foliage, highlighting the sharp focus and vivid colors of the subject.",
+  "translatedPrompt": "一张 {argument name=\"photography style\" default=\"超写实微距摄影作品\"}，主体为一只 {argument name=\"primary color\" default=\"鲜艳的绿色和蓝色\"} 变色龙，栖息在 {argument name=\"background environment\" default=\"茂密丛林\"} 中潮湿且长满苔藓的树枝上。变色龙拥有错综复杂的凸起鳞片，点缀着黄色和红色，并配有一只细节极其丰富的硕大眼睛。它锋利的爪子紧紧抓着深色且纹理分明的木头，尾巴紧紧卷成螺旋状垂在树枝下方。背景是柔和的深绿色虚化叶片，突出了爬行动物身上极度清晰的 8k 分辨率细节。柔和的自然光衬托出潮湿的质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "超写实变色龙微距摄影：生成一张细节丰富、照片级的变色龙栖息于树枝上的图像，支持自定义颜色和背景。",
+      "subject": "综合主体",
+      "scene": "摄影/真实场景",
+      "composition": [],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15075",
+      "13677",
+      "15524",
+      "13665",
+      "13760",
+      "14073"
+    ]
+  }
+}

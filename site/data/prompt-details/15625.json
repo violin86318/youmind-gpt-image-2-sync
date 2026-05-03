@@ -1,0 +1,44 @@
+{
+  "id": "15625",
+  "prompt": "A minimalist flat vector illustration on a light gray background showing a stylized pelican riding a bicycle, composed from simple geometric SVG-like shapes with thick dark charcoal outlines and sparse details. The bicycle is shown in side view with 2 large wheels, each with a circular rim and a simple cross of 4 spokes, a black frame, seat, crank, and handlebars, resting on a single thin horizontal ground line near the bottom. The pelican is abstract and slightly awkward, built from clean outlined shapes: a white circular-oval body positioned over the bike, 2 narrow orange-yellow leg shapes hanging down toward the pedals, a white neck and head extending forward, 1 small black eye, a long triangular orange-yellow upper beak, and 1 large pale pink lower pouch. Add a separate white wing shape angled upward above the body. Keep the composition intentionally simple and a little imperfect, as if it were an SVG demo drawing generated from code in a code editor screenshot, but render only the artwork itself with no interface, no text, no shadows, and no extra scenery.",
+  "translatedPrompt": "在浅灰色背景上呈现一幅极简主义的扁平矢量插画，描绘了一只风格化的鹈鹕骑着自行车。图像由简单的几何 SVG 形状组成，带有深炭色的粗轮廓和简洁的细节。自行车以侧视图呈现，拥有 2 个大轮子，每个轮子配有圆形轮辋和简单的 4 辐条十字架，以及黑色的车架、车座、曲柄和车把，底部有一条细长的水平地面线。鹈鹕造型抽象且略显笨拙，由干净的轮廓形状构建而成：身体呈白色圆椭圆形，位于自行车上方；2 条窄窄的橙黄色腿部形状向下延伸至踏板；白色的颈部和头部向前伸展，配有 1 只黑色小眼睛、1 个长三角形的橙黄色上喙和 1 个巨大的淡粉色下喉囊。在身体上方添加一个向上倾斜的独立白色翅膀形状。保持构图刻意简洁且略带不完美感，如同代码编辑器截图中通过代码生成的 SVG 演示绘图，但仅渲染艺术作品本身，不包含任何界面、文字、阴影或额外背景。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "极简 SVG 骑自行车的鹈鹕：此内容生成一个简单的几何矢量风格鹈鹕骑自行车的图像，适用于 SVG 演示艺术、代码主题视觉效果或趣味极简主义插画。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [
+        "minimalist"
+      ],
+      "lightingCamera": [],
+      "text": "禁止额外文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "App Store 截图、产品概念、移动工具界面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[参考风格: minimalist]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n禁止额外文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14540",
+      "14480",
+      "15802",
+      "14542",
+      "14650",
+      "14740"
+    ]
+  }
+}

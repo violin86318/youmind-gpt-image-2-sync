@@ -1,0 +1,45 @@
+{
+  "id": "15632",
+  "prompt": "A luxurious editorial fashion portrait of 4 elegant young women posed together in a dark royal-blue baroque interior, styled like a haute couture group photoshoot. The scene is monochromatic in deep sapphire, midnight blue, and silver tones, with heavy velvet drapery, floral arrangements, a classical column, and ornate metallic vessels in the background. All 4 women wear distinct navy and cobalt evening gowns with elaborate embellishment: crystal beading, sequins, embroidered floral appliqué, layered tulle, satin, and sheer lace. The top-left woman has very long black hair and wears a dramatic long-sleeved sheer lace gown with floral embroidery and a fitted corset-like bodice, raising one arm above her head in a regal pose. The top-right woman has long wavy light brown or blonde hair and wears a sleeveless spaghetti-strap satin gown with blue flower appliqués at the bust and waist, seated upright with a poised expression. The bottom-left woman has long straight black hair and wears a structured satin dress with thin straps, jeweled floral ornaments across the bodice and skirt, and a voluminous gathered skirt. The bottom-right woman has long dark hair and wears an off-shoulder sheer glittering gown with translucent embroidered sleeves, leaning forward slightly with one hand near her chin in a soft, contemplative pose. All 4 wear coordinated sapphire gemstone jewelry including earrings, necklaces, and decorative hair accessories. Composition is a tightly framed vertical portrait with layered seated poses, rich fabric pooling across the foreground, soft diffused studio lighting, high detail, glamorous luxury campaign styling, moody shadows, polished skin, and a refined opulent atmosphere.",
+  "translatedPrompt": "一张奢华的时尚编辑风格肖像，展示了 4 位优雅的年轻女性在深宝蓝色巴洛克风格室内共同摆拍，呈现出高级定制集体摄影的质感。场景采用深蓝宝石色、午夜蓝和银色的单色调，背景装饰有厚重的丝绒帷幔、花艺布置、古典立柱和华丽的金属器皿。4 位女性均身着独特的深蓝色和钴蓝色晚礼服，细节精致：饰有水晶珠饰、亮片、刺绣花卉贴花、多层薄纱、缎面和透明蕾丝。左上方的女性留着极长的黑发，身着一件戏剧性的长袖透明蕾丝礼服，带有花卉刺绣和紧身胸衣式上身，单臂高举过头，姿态高贵。右上方的女性留着长波浪浅棕色或金色头发，身着无袖细肩带缎面礼服，胸部和腰部饰有蓝色花朵贴花，坐姿端正，神情从容。左下方的女性留着长直黑发，身着结构感缎面连衣裙，配有细肩带，胸部和裙摆饰有珠宝花卉装饰，裙摆蓬松且带有褶皱。右下方的女性留着长深色头发，身着露肩透明闪光礼服，袖子带有半透明刺绣，身体微微前倾，一只手轻抚下巴，姿态柔和且沉思。4 人均佩戴协调的蓝宝石珠宝，包括耳环、项链和装饰性发饰。构图为紧凑的竖版肖像，采用层叠的坐姿，丰富的面料铺满前景，柔和的漫射影棚光，细节丰富，呈现出迷人的奢华广告大片风格，带有深邃的阴影、精致的肤质和高雅奢华的氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "宝蓝色高定系列集体肖像：此提示词可生成一张奢华的时尚编辑风格图像，展示四位身着协调蓝宝石色礼服的女性，非常适合用于高端美妆、高定时尚或专辑风格的宣传素材。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "editorial",
+        "luxury",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical]。\n\nVisual style:\n[参考风格: editorial, luxury, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15400",
+      "15654",
+      "15764",
+      "15077",
+      "15184",
+      "15243"
+    ]
+  }
+}

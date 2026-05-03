@@ -1,0 +1,47 @@
+{
+  "id": "14641",
+  "prompt": "A cinematic Renaissance art studio interior lit by soft warm window light, showing an elderly Leonardo da Vinci-like painter in left profile, seated at an easel and painting the Mona Lisa from a live model. The painter has long gray hair, a full gray beard, and wears a dark period cap and heavy dark robe. In the center foreground stands a large canvas on a wooden easel displaying the Mona Lisa composition, while on the right a live female sitter poses in the same iconic posture with folded hands, wearing a dark Renaissance dress and veil-like drapery. The mood is intimate, quiet, and painterly, with rich brown and amber tones, dramatic chiaroscuro, aged plaster walls, a leaded-glass window on the left, and a wooden table in the back holding brushes and studies. Include 2 portrait sketches pinned or propped in the background behind the model. In the lower right foreground, show a cluttered painter’s worktable with 1 paint palette, multiple small paint dabs, several brushes in a cup, and a few shallow bowls. Compose the scene as a realistic historical photograph of the moment the masterpiece is being created, medium-wide shot, slightly over-the-shoulder from behind the artist, extremely detailed textures, old master atmosphere, soft focus falloff, no modern objects.",
+  "translatedPrompt": "一间电影质感的文艺复兴时期艺术工作室内部，柔和温暖的窗光洒入。画面左侧展示了一位长相酷似列奥纳多·达·芬奇的老年画家，他坐在画架前，正以真人模特为原型绘制《蒙娜丽莎》。画家留着灰白长发和浓密的灰胡须，头戴深色复古帽，身穿厚重的深色长袍。画面中央前景处立着一个木制画架，上面展示着《蒙娜丽莎》的构图；右侧是一位真人女性模特，她保持着标志性的姿势，双手交叠，身着深色文艺复兴风格长裙和面纱般的褶皱布料。整体氛围亲密、宁静且富有绘画感，色调为浓郁的棕色和琥珀色，运用了戏剧性的明暗对照法，背景是老旧的灰泥墙，左侧有一扇铅条镶嵌的玻璃窗，后方木桌上摆放着画笔和习作。在模特身后的背景中，钉着或靠着两幅肖像草图。右下角前景处展示了一张杂乱的画家工作台，上面有 1 个调色板、多个小颜料点、杯中插着几支画笔以及几个浅碗。将场景构图为一张写实的历史照片，捕捉杰作创作瞬间，中景广角镜头，从画家身后略微越肩拍摄，纹理极其细腻，呈现出古典大师的艺术氛围，背景虚化柔和，无任何现代物品。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "列奥纳多绘制《蒙娜丽莎》：此提示词可生成一幅电影质感的历史场景，描绘列奥纳多·达·芬奇以真人模特为原型绘制《蒙娜丽莎》的画面，非常适合创作戏剧性的美术作品和文艺复兴主题视觉内容。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "wide shot"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: wide shot]。\n\nVisual style:\n[参考风格: realistic, cinematic, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15533",
+      "15256",
+      "15528",
+      "14414",
+      "14538",
+      "14568"
+    ]
+  }
+}

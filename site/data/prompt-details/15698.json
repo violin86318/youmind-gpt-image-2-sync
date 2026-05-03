@@ -1,0 +1,52 @@
+{
+  "id": "15698",
+  "prompt": "A photorealistic vertical promotional portrait in a cozy modern library or bookstore interior, showing a young East Asian woman standing behind a wooden counter and presenting a large book toward the camera. She has long straight dark brown hair parted near the center, small delicate earrings, and a neat, friendly, professional appearance. She wears a white button-up shirt, a muted green striped necktie, and a beige apron tied at the waist with a stitched name patch reading “Librarian Ai-chan” and a small open-book icon. Her left hand holds the book upright at chest height, angled slightly toward the viewer, while her right hand is open beneath it in a classic product-introduction gesture. The book is the clear focal point: a glossy dark cover with dramatic orange title text reading “Pollo AI” twice, one large at the top and one glowing near the center over a cinematic landscape image, plus smaller Japanese subtitle and feature text and a circular P-style logo near the lower left. Place a transparent acrylic desk sign on the left side of the counter with Japanese text above and the large name “Ai-chan” below. On the right side of the counter, stack exactly 3 hardcover books horizontally, each with numbered spine labels and Japanese titles. In the softly blurred background, include a tall wooden bookshelf on the left with books, small potted plants, and a warm lamp; a framed wall poster on the upper right with Japanese writing; and a leafy indoor plant on the far right. Add a small white “Pollo.ai” watermark in the top-right corner. Use warm ambient lighting, shallow depth of field, soft beige and wood tones, realistic skin and fabric texture, clean commercial composition, and the polished look of a professional lifestyle advertisement for a book or AI-related publication. Keep the framing from mid-thigh to above the head in a portrait 3:4 aspect ratio.",
+  "translatedPrompt": "一张写实风格的竖版宣传肖像，背景为温馨的现代图书馆或书店内部。画面中，一位年轻的东亚女性站在木质柜台后，正向镜头展示一本大书。她留着中分长直深棕色头发，佩戴精致的小耳环，外表整洁、亲切且专业。她身穿白色衬衫，系着柔和的绿色条纹领带，腰间系着米色围裙，围裙上缝有写着“Librarian Ai-chan”的姓名贴和一枚小巧的翻开书籍图标。她的左手将书竖直托在胸前，略微向观众倾斜，右手则在书下方摊开，呈现出经典的商品介绍姿势。书籍是画面的视觉焦点：深色光面封面上印有醒目的橙色标题“Pollo AI”（顶部一行大字，中心处有一行发光的字），下方配有较小的日语副标题和功能说明，左下角还有一个圆形的 P 字样 Logo。在柜台左侧放置一个透明亚克力桌牌，上方印有日语文字，下方印有醒目的“Ai-chan”字样。在柜台右侧，水平堆叠 3 本精装书，每本书的书脊上都有编号标签和日语标题。在柔和虚化的背景中，左侧设有一个高大的木质书架，摆放着书籍、小型盆栽和一盏暖色调台灯；右上角墙上挂着一张带有日语文字的装饰画；最右侧摆放着一盆绿叶植物。在右上角添加一个小的白色“Pollo.ai”水印。采用暖色调环境光，浅景深效果，以米色和木质色调为主，呈现真实的皮肤和织物纹理，构图简洁，具有专业生活方式广告的质感。画面构图为从大腿中部到头部的肖像，比例为 3:4。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "展示 AI 书籍的写实风格图书管理员：此提示词可生成一张商业风格的写实肖像，画面中一位图书管理员模样的女性正在展示一本 AI 主题书籍，适用于图书宣传广告或社交媒体营销视觉素材。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, camera]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15096",
+      "15766",
+      "15043",
+      "15731",
+      "15754",
+      "14869"
+    ]
+  }
+}

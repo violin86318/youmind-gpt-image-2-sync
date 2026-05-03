@@ -1,0 +1,50 @@
+{
+  "id": "14939",
+  "prompt": "{\"type\":\"kaiju battle concept collage\",\"model_style\":\"cinematic tokusatsu-inspired superhero action, photorealistic, gritty urban destruction, dramatic clouds, smoke, dust, sparks, explosion effects, giant-scale combat\",\"subject\":{\"hero\":{\"identity\":\"{argument name=\\\"hero name\\\" default=\\\"Ultra Woman\\\"}\",\"appearance\":\"sleek giant female superhero in polished silver and metallic red armor-like bodysuit, smooth alien faceplate with large glowing eyes, blue circular chest core, athletic build, towering over buildings\"},\"setting\":\"modern Japanese-style city with mid-rise buildings, ruined streets, rubble, smoke-filled sky, occasional waterfront/ocean scenes\"},\"layout\":{\"grid\":{\"columns\":3,\"rows\":5,\"count\":15},\"sections\":[{\"position\":\"row 1 col 1\",\"description\":\"the heroine standing in a city beside a massive horned cyclopean rock-armored kaiju with one giant central eye and multiple protruding spikes\"},{\"position\":\"row 1 col 2\",\"description\":\"the heroine flying in a side kick through smoke and fire toward a roaring Godzilla-like reptilian monster, with an explosion below\"},{\"position\":\"row 2 col 1\",\"description\":\"a spiky insectoid or plant-like kaiju with multiple glowing red eyes facing the heroine in a ruined city\"},{\"position\":\"row 2 col 2\",\"description\":\"the heroine in a combat stance projecting bright white energy from one hand in front of hazy buildings\"},{\"position\":\"row 2 col 3\",\"description\":\"the heroine confronting a huge crocodilian or reptilian kaiju amid dust and collapsed structures\"},{\"position\":\"row 3 col 1\",\"description\":\"an ocean battle with the heroine facing a giant starfish-shaped sea monster with a circular tooth-lined mouth\"},{\"position\":\"row 3 col 2\",\"description\":\"the heroine bursting up from the sea while lifting a silver shark-shaped object or missile-like creature overhead, water splashing dramatically\"},{\"position\":\"row 3 col 3\",\"description\":\"the heroine fighting a horned quadrupedal kaiju with a scorpion-like tail on a smoky battlefield\"},{\"position\":\"row 4 col 1\",\"description\":\"the heroine standing in the city next to another heavily armored horned kaiju\"},{\"position\":\"row 4 col 2\",\"description\":\"the heroine striding through a devastated city street while two giant monsters loom behind her and military jets fly overhead\"},{\"position\":\"row 4 col 3\",\"description\":\"the heroine posed beside or confronting a black dragon-like kaiju with large red bat wings\"},{\"position\":\"row 5 col 1\",\"description\":\"the heroine with a two-headed beast kaiju in a city setting\"},{\"position\":\"row 5 col 2\",\"description\":\"the heroine standing beside a classic Godzilla-like monster, both shown full figure among buildings\"},{\"position\":\"row 5 col 3 left\",\"description\":\"the heroine next to a horned reptilian kaiju with segmented armor and spikes\"},{\"position\":\"row 5 col 3 right\",\"description\":\"a silver robotic alien or mecha kaiju raising one hand against the city skyline\"}]},\"composition\":\"tight montage of 15 separate cinematic stills with thin borders, each frame showing a different battle variation or monster pairing, consistent heroine design across all panels, dynamic poses, low-angle giant-scale perspective\",\"customization\":{\"hero suit colors\":\"{argument name=\\\"hero suit colors\\\" default=\\\"metallic red and silver\\\"}\",\"city setting\":\"{argument name=\\\"city setting\\\" default=\\\"Japanese urban skyline\\\"}\",\"weather mood\":\"{argument name=\\\"weather mood\\\" default=\\\"stormy smoky daylight\\\"}\",\"monster style\":\"{argument name=\\\"monster style\\\" default=\\\"classic practical-effects kaiju with realistic texture\\\"}\"},\"rendering\":\"high detail, realistic surface textures, cinematic lighting, volumetric smoke, debris, action photography feel, blockbuster movie concept art\"}",
+  "translatedPrompt": "{\"type\":\"怪兽战斗概念拼贴\",\"model_style\":\"电影感特摄风格超级英雄动作，照片级真实感，写实的城市破坏，戏剧性的云层、烟雾、灰尘、火花、爆炸效果，巨型规模战斗\",\"subject\":{\"hero\":{\"identity\":\"{argument name=\\\"hero name\\\" default=\\\"Ultra Woman\\\"}\",\"appearance\":\"身材修长的巨型女性超级英雄，身穿抛光银色与金属红色的盔甲式紧身衣，光滑的外星面罩配有巨大的发光双眼，蓝色圆形胸部核心，运动型体格，耸立于建筑之上\"},\"setting\":\"现代日式风格城市，配有中层建筑、废墟街道、瓦砾、烟雾弥漫的天空，以及偶尔出现的滨水/海洋场景\"},\"layout\":{\"grid\":{\"columns\":3,\"rows\":5,\"count\":15},\"sections\":[{\"position\":\"第 1 行第 1 列\",\"description\":\"女英雄站在城市中，身旁是一只巨大的独眼岩石盔甲怪兽，长有巨角，拥有一个巨大的中央眼睛和多个突出的尖刺\"},{\"position\":\"第 1 行第 2 列\",\"description\":\"女英雄在烟火中施展侧踢，冲向一只咆哮的哥斯拉式爬行动物怪兽，下方伴有爆炸\"},{\"position\":\"第 2 行第 1 列\",\"description\":\"一只长满尖刺的昆虫或植物类怪兽，拥有多只发光的红眼，在废墟城市中面对女英雄\"},{\"position\":\"第 2 行第 2 列\",\"description\":\"女英雄摆出战斗姿态，单手投射出明亮的白色能量，背景是朦胧的建筑\"},{\"position\":\"第 2 行第 3 列\",\"description\":\"女英雄在灰尘和倒塌的建筑中对抗一只巨大的鳄鱼或爬行动物怪兽\"},{\"position\":\"第 3 行第 1 列\",\"description\":\"海洋战斗场景，女英雄面对一只巨大的海星状海怪，长有布满利齿的圆形嘴巴\"},{\"position\":\"第 3 行第 2 列\",\"description\":\"女英雄从海中跃出，头顶举起一个银色鲨鱼状物体或导弹般的生物，水花四溅，极具戏剧性\"},{\"position\":\"第 3 行第 3 列\",\"description\":\"女英雄在烟雾缭绕的战场上与一只长有蝎子尾巴的四足有角怪兽战斗\"},{\"position\":\"第 4 行第 1 列\",\"description\":\"女英雄站在城市中，身旁是另一只重装甲有角怪兽\"},{\"position\":\"第 4 行第 2 列\",\"description\":\"女英雄穿过满目疮痍的城市街道，身后隐约可见两只巨型怪兽，头顶有军用喷气式飞机飞过\"},{\"position\":\"第 4 行第 3 列\",\"description\":\"女英雄站在一只长有巨大红色蝙蝠翅膀的黑色龙形怪兽身旁或与之对峙\"},{\"position\":\"第 5 行第 1 列\",\"description\":\"城市背景下，女英雄与一只双头怪兽对峙\"},{\"position\":\"第 5 行第 2 列\",\"description\":\"女英雄站在一只经典的哥斯拉式怪兽身旁，两者均在建筑群中呈现全身像\"},{\"position\":\"第 5 行第 3 列左\",\"description\":\"女英雄身旁是一只长有分段式盔甲和尖刺的有角爬行动物怪兽\"},{\"position\":\"第 5 行第 3 列右\",\"description\":\"一个银色机器人外星人或机甲怪兽，在城市天际线前举起一只手\"}]},\"composition\":\"15 张独立电影感静帧的紧凑蒙太奇，带有细边框，每帧展示不同的战斗变体或怪兽组合，所有画幅中女英雄设计保持一致，动态姿势，低角度巨型规模视角\",\"customization\":{\"hero suit colors\":\"{argument name=\\\"hero suit colors\\\" default=\\\"metallic red and silver\\\"}\",\"city setting\":\"{argument name=\\\"city setting\\\" default=\\\"Japanese urban skyline\\\"}\",\"weather mood\":\"{argument name=\\\"weather mood\\\" default=\\\"stormy smoky daylight\\\"}\",\"monster style\":\"{argument name=\\\"monster style\\\" default=\\\"classic practical-effects kaiju with realistic texture\\\"}\"},\"rendering\":\"高细节，逼真的表面纹理，电影级灯光，体积烟雾，碎片，动作摄影感，大片概念艺术\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Ultra Woman 怪兽战斗变体：此提示词可生成 15 宫格电影感拼贴画，展示一位红银相间的巨型女英雄与多种怪兽战斗的场景，适用于特摄概念艺术、动作构思以及怪兽战斗项目。",
+      "subject": "人物",
+      "scene": "插画/漫画",
+      "composition": [
+        "grid"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "volumetric"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "动漫分镜、战斗场景、运动瞬间、夸张叙事图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 插画/漫画 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: volumetric]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15297",
+      "14528",
+      "15374",
+      "14432",
+      "15800",
+      "15106"
+    ]
+  }
+}

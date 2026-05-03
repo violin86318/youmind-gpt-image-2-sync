@@ -1,0 +1,42 @@
+{
+  "id": "13888",
+  "prompt": "A photorealistic, slightly angled snapshot of a green classroom chalkboard. On the left side of the board is a large, meticulously drawn chalk illustration of the {argument name=\"company name\" default=\"OpenAI\"} logo, rendered in blended pastel colors like green, blue, and purple, with the word \"{argument name=\"logo text\" default=\"OpenAI\"}\" written in neat white chalk beneath it. The right side of the board features handwritten text organized into exactly 3 numbered sections. Section 1 is titled \"{argument name=\"section one title\" default=\"1. OpenAI란?\"}\" followed by a brief explanatory paragraph. Section 2 is titled \"{argument name=\"section two title\" default=\"2. 주요 제품\"}\" and lists 3 bullet points including ChatGPT, DALL-E, and Codex. Section 3 is titled \"{argument name=\"section three title\" default=\"3. 특징\"}\" and contains 3 bullet points describing features. The chalkboard has a silver metal frame and a chalk ledge holding 2 rectangular erasers and scattered pieces of chalk. Below the board is an off-white wall with a double electrical outlet. In the bottom left foreground, the top edge of a dark laptop screen is partially visible, and above the chalkboard, the bottom edge of a framed sign is cut off by the frame.",
+  "translatedPrompt": "一张照片级逼真、略带角度的教室绿板快照。黑板左侧是一幅精心绘制的粉笔画，展示了 {argument name=\"company name\" default=\"OpenAI\"} 的标志，采用绿色、蓝色和紫色等混合柔和色彩渲染，下方用整洁的白色粉笔写着“{argument name=\"logo text\" default=\"OpenAI\"}”。黑板右侧是组织成 3 个编号部分的手写文本。第 1 部分标题为“{argument name=\"section one title\" default=\"1. OpenAI란?\"}”，后跟一段简短的说明性文字。第 2 部分标题为“{argument name=\"section two title\" default=\"2. 주요 제품\"}”，列出了 3 个要点，包括 ChatGPT、DALL-E 和 Codex。第 3 部分标题为“{argument name=\"section three title\" default=\"3. 특징\"}”，包含 3 个描述特征的要点。黑板配有银色金属边框，粉笔槽上放着 2 块长方形黑板擦和零散的粉笔。黑板下方是灰白色的墙壁，上面有一个双孔电源插座。在左下角前景中，可以看到深色笔记本电脑屏幕的顶部边缘，黑板上方，一个带框标志的底部边缘被画面截断。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "教室黑板课程：生成一张照片级逼真的教室黑板图像，上面绘有彩色标志和结构化的手写课程笔记。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14046",
+      "15609",
+      "15803",
+      "13524",
+      "13746",
+      "13799"
+    ]
+  }
+}

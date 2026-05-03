@@ -1,0 +1,56 @@
+{
+  "id": "15669",
+  "prompt": "A luxurious vintage-style travel poster for {argument name=\"country name\" default=\"Austria\"}, designed like a premium tourism advertisement. Use an elegant, symmetrical poster layout with thin gold decorative border lines and small ornamental corner details. At the top center, place a minimalist gold mountain emblem above the word “DISCOVER”, then a very large refined serif title reading {argument name=\"headline text\" default=\"AUSTRIA\"} in deep burgundy red. Beneath it, add a small uppercase tagline in gold: “TIMELESS BEAUTY. RICH HERITAGE. UNFORGETTABLE EXPERIENCES.” and below that an italic script line: “Where Tradition Meets Breathtaking Nature.” Place a small horizontal Austrian flag motif between the lines. The main image should be a breathtaking composite alpine lake scene at golden hour: on the left, a dramatic hilltop fortress resembling Salzburg Castle perched on a rocky cliff above the water; in the center distance, a calm reflective lake leading into a valley of towering snow-capped Alps; on the right, a picturesque Austrian lakeside village resembling Hallstatt with steep-roofed houses, a tall church spire, a hillside church, and clustered wooden buildings descending to the water. Warm sunlight from the left, crisp blue sky, glowing highlights on the mountains, rich reflections in the lake, romantic cinematic atmosphere, ultra-detailed, majestic and inviting. Along the lower middle, show exactly 5 gold icon-and-label tourism highlights spaced evenly: 1 castle icon with “ICONIC LANDMARKS”, 1 classical column icon with “RICH HERITAGE”, 1 music note icon with “VIBRANT CULTURE”, 1 heart icon with “WARM HOSPITALITY”, and 1 mountain icon with “BREATHTAKING LANDSCAPES”. At the bottom, create a horizontal food strip with exactly 5 framed culinary photos separated by thin dividers under the centered heading “SAVOR THE TASTE OF AUSTRIA”. The 5 dishes are: Wiener Schnitzel, Appelstrudel, Kaiserschmarrn, Sachertorte, and Melange. Each food image should be realistic, warmly lit, plated attractively, and labeled in uppercase serif text beneath the image. Overall style: high-end European travel campaign poster, polished editorial design, romantic nostalgia, refined typography, harmonious gold and burgundy accents, photorealistic scenery blended with luxury brochure aesthetics.",
+  "translatedPrompt": "一张奢华的复古风格旅行海报，主题为 {argument name=\"country name\" default=\"奥地利\"}，设计感如同高端旅游广告。采用优雅、对称的海报布局，配有纤细的金色装饰边框和精致的角落装饰细节。顶部中央放置一个极简金色山峰标志，下方为“DISCOVER”字样；紧接着是一个非常醒目且精致的衬线体标题，内容为 {argument name=\"headline text\" default=\"AUSTRIA\"}，颜色为深勃艮第红。在其下方，添加一行小号大写金色标语：“TIMELESS BEAUTY. RICH HERITAGE. UNFORGETTABLE EXPERIENCES.”，再下方是一行斜体手写字：“Where Tradition Meets Breathtaking Nature.”。在这些文字之间放置一个小的水平奥地利国旗图案。主体画面应为令人惊叹的黄金时刻高山湖泊合成场景：左侧是坐落在水面岩石悬崖上、酷似萨尔茨堡要塞的壮观山顶堡垒；远景中央是一个平静且具有倒影的湖泊，延伸至高耸的阿尔卑斯雪山山谷；右侧是一个风景如画的奥地利湖畔村庄，酷似哈尔施塔特，拥有陡峭屋顶的房屋、高耸的教堂尖塔、山坡上的教堂以及层叠而下延伸至水边的木质建筑。左侧射入温暖阳光，天空湛蓝清澈，山峰上闪烁着光芒，湖面映照出丰富的倒影，营造出浪漫的电影质感，细节极其丰富，宏伟且引人入胜。在画面中下部，均匀排列 5 个金色图标及标签的旅游亮点：1 个城堡图标配“ICONIC LANDMARKS”（标志性地标），1 个古典柱式图标配“RICH HERITAGE”（深厚底蕴），1 个音符图标配“VIBRANT CULTURE”（活力文化），1 个心形图标配“WARM HOSPITALITY”（热情好客），以及 1 个山峰图标配“BREATHTAKING LANDSCAPES”（壮丽景观）。在底部，创建一个水平美食条，在居中的标题“SAVOR THE TASTE OF AUSTRIA”（品味奥地利）下方，展示 5 张由细分隔线隔开的框式烹饪照片。这 5 道菜品分别为：维也纳炸牛排（Wiener Schnitzel）、苹果卷（Appelstrudel）、皇帝煎饼（Kaiserschmarrn）、萨赫蛋糕（Sachertorte）和米隆咖啡（Melange）。每张美食图片都应真实、光线温暖、摆盘精美，并在图片下方标注大写衬线体文字。整体风格：高端欧洲旅行宣传海报，精致的编辑设计，浪漫怀旧感，考究的排版，和谐的金色与勃艮第红点缀，将照片级写实风景与奢华宣传册美学完美融合。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奥地利奢华旅行海报：此提示词可生成精美的奥地利旅游海报，非常适合旅游营销、目的地展示或怀旧欧式主题的宣传艺术创作。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "poster layout",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "editorial",
+        "minimalist",
+        "vintage",
+        "luxury"
+      ],
+      "lightingCamera": [
+        "golden hour"
+      ],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, poster layout, horizontal]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, editorial, minimalist, vintage, luxury]。\n\nLighting and camera:\n[参考光线镜头: golden hour]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15668",
+      "15665",
+      "15268",
+      "14813",
+      "14829",
+      "14867"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "13662",
+  "prompt": "A cinematic sci-fi illustration of a vast, ornate space station museum orbiting an {argument name=\"planet type\" default=\"Earth-like planet\"}. In the foreground, a man in a dark utility jumpsuit carefully cleans a large, framed {argument name=\"art style\" default=\"classical landscape\"} painting. To the left, a classical marble bust is bound in wire. The zero-gravity environment features floating artifacts, including wrapped bundles and framed paintings suspended in mid-air. Massive arched windows reveal a breathtaking view of space. {argument name=\"atmosphere\" default=\"Volumetric light rays stream through the dusty atmosphere\"}, illuminating the grand, decaying architecture. A hanging dark banner reads \"{argument name=\"banner text\" default=\"THE MEMORY OF BEAUTY OUTLIVES US\\nCARE FOR IT.\\n\\nMUSEUM INITIATIVE\\nSOL 4127\"}\". The lighting is dramatic and moody, emphasizing the epic scale of art preservation in space.",
+  "translatedPrompt": "宏伟空间站博物馆内的电影级科幻场景。右前景：一名身穿深色连体服的男子正在画架上修复一幅大型 {argument name=\"painting subject\" default=\"古典风景\"} 油画。左前景：一座用金属丝固定的大理石半身像。广阔的多层圆形内部空间融合了古典建筑风格。5 幅装裱好的画作和 4 件包裹好的文物在失重状态下漂浮。巨大的拱形窗户展示出外太空和一颗 {argument name=\"planet\" default=\"类地行星\"}。尘埃弥漫的耶稣光穿过窗户射入。右上角悬挂着一条深色横幅，上面写着：“{argument name=\"banner text\" default=\"美的记忆长存，请悉心呵护。博物馆倡议 SOL 4127\"}”。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "太空零重力艺术修复：生成一幅高度精细的电影级科幻场景，展示轨道空间站博物馆中正在进行的古典艺术品修复工作。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "sci-fi"
+      ],
+      "lightingCamera": [
+        "volumetric"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, sci-fi]。\n\nLighting and camera:\n[参考光线镜头: volumetric]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13799",
+      "13915",
+      "15746",
+      "15783",
+      "14484",
+      "14203"
+    ]
+  }
+}

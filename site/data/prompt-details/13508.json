@@ -1,0 +1,41 @@
+{
+  "id": "13508",
+  "prompt": "{\n  \"type\": \"UI/UX Design System Concept Board\",\n  \"theme\": \"Aviation and flight interface\",\n  \"overall_style\": \"Dark mode, sleek, modern, technical, futuristic, glassmorphism\",\n  \"layout\": {\n    \"top_left\": {\n      \"section\": \"DESIGN STYLE\",\n      \"title\": \"{argument name=\\\"main title\\\" default=\\\"AERIAL INTERFACE\\\"}\",\n      \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"空域界面\\\"}\",\n      \"description\": \"Introductory paragraph about aerial interface design\",\n      \"principles\": {\n        \"count\": 4,\n        \"labels\": [\"SENSE OF CONTROL\", \"MINIMAL & PURE\", \"DATA AESTEETICS\", \"IMMERSIVE EXPERIENCE\"]\n      }\n    },\n    \"top_center\": {\n      \"imagery\": \"Top-down view of a commercial airplane flying upwards, leaving twin white contrails against a dark background\",\n      \"text\": [\"FLIGHT AS INTERFACE.\", \"Your Ideas. Our Altitude.\"],\n      \"metrics\": [\"STATUS CRUISING\", \"DESTINATION CREATE\", \"ETA ∞\"]\n    },\n    \"top_right\": {\n      \"section\": \"UI Widget\",\n      \"imagery\": \"Rounded rectangular panel showing an airplane wing over clouds at sunset\",\n      \"data_points\": [\"11:34\", \"1975 PEOPLE ONBOARD\", \"FLIGHT DATA {argument name=\\\"destination\\\" default=\\\"OKINAWA\\\"}\", \"ALTITUDE 35,000 FT\", \"SPEED 552 KTS\"],\n      \"tabs\": {\n        \"count\": 3,\n        \"labels\": [\"MAP\", \"DATAVIEW\", \"SYSTEM\"]\n      }\n    },\n    \"bottom_left\": {\n      \"section\": \"COLOR PALETTE\",\n      \"swatches\": {\n        \"count\": 3,\n        \"labels\": [\"#05070A\", \"#0B1220\", \"#E6F0FF\"]\n      }\n    },\n    \"bottom_mid_left\": {\n      \"section\": \"TYPOGRAPHY\",\n      \"fonts\": {\n        \"count\": 2,\n        \"labels\": [\"{argument name=\\\"primary font\\\" default=\\\"INTER\\\"}\", \"{argument name=\\\"secondary font\\\" default=\\\"JETBRAINS MONO\\\"}\"]\n      }\n    },\n    \"bottom_mid_right\": {\n      \"section\": \"MATERIAL\",\n      \"examples\": {\n        \"count\": 2,\n        \"labels\": [\"GLASS (frosted rectangle)\", \"METAL (dark sphere)\"]\n      }\n    },\n    \"bottom_right\": {\n      \"section\": \"MOTION\",\n      \"concepts\": {\n        \"count\": 3,\n        \"labels\": [\"Airplane taking off\", \"Radar focus circle\", \"Glowing flight streak\"]\n      }\n    },\n    \"footer\": {\n      \"text\": \"DESIGN ESSENCE: Not just designing an interface, but creating a flight experience.\"\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"UI/UX 设计系统概念项目\",\n  \"theme\": \"航空与飞行界面\",\n  \"overall_style\": \"深色模式，时尚，现代，技术感，未来感，玻璃拟态\",\n  \"layout\": {\n    \"top_left\": {\n      \"section\": \"设计风格\",\n      \"title\": \"{argument name=\\\"main title\\\" default=\\\"AERIAL INTERFACE\\\"}\",\n      \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"空域界面\\\"}\",\n      \"description\": \"关于空域界面设计的介绍性段落\",\n      \"principles\": {\n        \"count\": 4,\n        \"labels\": [\"掌控感\", \"极简纯粹\", \"数据美学\", \"沉浸式体验\"]\n      }\n    },\n    \"top_center\": {\n      \"imagery\": \"商用飞机向上飞行的俯视图，在深色背景下留出两条白色尾迹\",\n      \"text\": [\"飞行即界面。\", \"你的创意，我们的高度。\"],\n      \"metrics\": [\"状态：巡航中\", \"目的地：创作\", \"预计到达时间：∞\"]\n    },\n    \"top_right\": {\n      \"section\": \"UI 组件\",\n      \"imagery\": \"圆角矩形面板，展示日落时分云层上的飞机机翼\",\n      \"data_points\": [\"11:34\", \"1975 人在机上\", \"飞行数据 {argument name=\\\"destination\\\" default=\\\"冲绳\\\"}\", \"高度 35,000 英尺\", \"速度 552 节\"],\n      \"tabs\": {\n        \"count\": 3,\n        \"labels\": [\"地图\", \"数据视图\", \"系统\"]\n      }\n    },\n    \"bottom_left\": {\n      \"section\": \"配色方案\",\n      \"swatches\": {\n        \"count\": 3,\n        \"labels\": [\"#05070A\", \"#0B1220\", \"#E6F0FF\"]\n      }\n    },\n    \"bottom_mid_left\": {\n      \"section\": \"排版\",\n      \"fonts\": {\n        \"count\": 2,\n        \"labels\": [\"{argument name=\\\"primary font\\\" default=\\\"INTER\\\"}\", \"{argument name=\\\"secondary font\\\" default=\\\"JETBRAINS MONO\\\"}\"]\n      }\n    },\n    \"bottom_mid_right\": {\n      \"section\": \"材质\",\n      \"examples\": {\n        \"count\": 2,\n        \"labels\": [\"玻璃（磨砂矩形）\", \"金属（深色球体）\"]\n      }\n    },\n    \"bottom_right\": {\n      \"section\": \"动效\",\n      \"concepts\": {\n        \"count\": 3,\n        \"labels\": [\"飞机起飞\", \"雷达聚焦圆环\", \"发光的飞行轨迹\"]\n      }\n    },\n    \"footer\": {\n      \"text\": \"设计精髓：不仅是设计一个界面，更是创造一种飞行体验。\"\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "航空主题 UI 设计系统项目：生成一个全面的深色模式 UI/UX 设计系统项目，包含飞行灵感美学、配色方案、排版和界面模型。",
+      "subject": "信息结构",
+      "scene": "UI/界面",
+      "composition": [
+        "top-down"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "B2B 产品概念图、后台系统、数据看板",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: top-down]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14015",
+      "14497",
+      "15389",
+      "13458",
+      "13774",
+      "13928"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "15761",
+  "prompt": "A dramatic black-and-white ink-wash wartime illustration in a vertical composition, combining realistic World War II imagery with abstract splattered brushwork on a mostly white background. Show 4 soldiers total advancing from the left toward the center and distance: 1 large foreground soldier seen from behind on a rocky ledge, wearing a steel helmet, heavy pack, and carrying a rifle with bayonet, plus 3 smaller soldiers in a staggered line behind him moving toward the right. In the sky, show 5 warplanes flying overhead through thick smoke. On the right side, place a steep rocky island or coastal cliff with a ruined fortress or castle on top, with smoke rising around it. Below, depict a rough sea crashing against dark rocks and a narrow shoreline with tiny landing figures near the water. Use explosive black ink splashes, soot clouds, scratches, drips, and painterly debris to merge the soldiers, cliffs, and surf into one expressive composition. High contrast monochrome, misty atmosphere, desaturated grayscale only, cinematic and haunting, with lots of negative space and a fine-art concept-art feel.",
+  "translatedPrompt": "一幅充满戏剧性的黑白水墨战争插画，采用竖构图，将写实的二战意象与大面积留白背景上的抽象泼墨笔触相结合。画面左侧共展示 4 名士兵向中心及远方推进：前景中 1 名巨大的士兵背影站在岩石峭壁上，头戴钢盔，背负重装，手持带刺刀的步枪；身后另有 3 名较小的士兵呈错落队形向右移动。天空中，5 架战机穿过浓烟呼啸而过。画面右侧是一座陡峭的岩岛或海岸悬崖，顶部矗立着一座废弃的堡垒或城堡，周围烟雾缭绕。下方描绘了汹涌的海浪拍打着暗礁，狭窄的海岸线上隐约可见靠近水面的微小登陆身影。运用爆发式的黑色墨迹、烟尘、划痕、滴溅和绘画般的碎片效果，将士兵、悬崖和浪花融为一体，构成一幅极具表现力的作品。高对比度单色调，雾气氤氲，仅使用去饱和的灰阶，呈现出电影般令人难忘的质感，并留有大量负空间，兼具纯艺术与概念艺术的风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "黑白战争水墨场景：一张充满意境的单色战场概念图，展现了士兵、飞机、烟雾和岩石海岸要塞，非常适合历史海报艺术或戏剧性的编辑插画。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14808",
+      "15267",
+      "14598",
+      "14806",
+      "15419",
+      "15778"
+    ]
+  }
+}

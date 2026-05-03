@@ -1,0 +1,38 @@
+{
+  "id": "13503",
+  "prompt": "{\n  \"type\": \"social media app interface mockup\",\n  \"platform_style\": \"Xiaohongshu\",\n  \"layout\": {\n    \"header\": {\n      \"logo\": \"red pill with '小红书'\",\n      \"tabs\": [\"关注 v\", \"发现\", \"附近\"],\n      \"active_tab\": \"发现\",\n      \"icons\": 1,\n      \"icon_types\": [\"search\"]\n    },\n    \"user_profile\": {\n      \"avatar\": \"portrait of Elon Musk\",\n      \"name\": \"{argument name=\\\"user name\\\" default=\\\"Elon Musk\\\"}\",\n      \"verified_badge\": \"blue checkmark\",\n      \"subtitle\": \"科技公司创始人/工程师\",\n      \"action_buttons\": 3,\n      \"button_labels\": [\"关注\", \"share icon\", \"ellipsis icon\"]\n    },\n    \"post_content\": {\n      \"text\": \"{argument name=\\\"post text\\\" default=\\\"在火星上看到第一缕阳光。这是人类文明的下一步。星舰 + 星链 + 可持续能源，让生命成为多行星物种。未来已来！🚀\\\"}\",\n      \"image\": {\n        \"description\": \"{argument name=\\\"image subject\\\" default=\\\"Elon Musk taking a selfie on Mars\\\"}\",\n        \"clothing\": \"black jacket with SPACEX logo\",\n        \"background\": \"{argument name=\\\"background elements\\\" default=\\\"Starship rocket, geodesic habitat domes, solar panel arrays, Martian landscape at sunrise\\\"}\",\n        \"watermark\": \"@Proof AI\",\n        \"location_overlay\": {\n          \"icon\": \"bar chart\",\n          \"text\": \"{argument name=\\\"location tag\\\" default=\\\"火星 · 乌托邦平原 >\\\"}\"\n        }\n      },\n      \"pagination_dots\": 5\n    },\n    \"footer\": {\n      \"comment_input\": \"说点什么...\",\n      \"interaction_stats\": 3,\n      \"stats_details\": [\n        {\"icon\": \"heart\", \"count\": \"12.8万\"},\n        {\"icon\": \"star\", \"count\": \"2.6万\"},\n        {\"icon\": \"speech bubble\", \"count\": \"1.5万\"}\n      ],\n      \"metadata\": \"昨天 23:42 美国\",\n      \"feedback_button\": \"不喜欢\"\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"社交媒体应用界面模拟图\",\n  \"platform_style\": \"小红书\",\n  \"layout\": {\n    \"header\": {\n      \"logo\": \"带有“小红书”字样的红色药丸图标\",\n      \"tabs\": [\"关注 v\", \"发现\", \"附近\"],\n      \"active_tab\": \"发现\",\n      \"icons\": 1,\n      \"icon_types\": [\"搜索\"]\n    },\n    \"user_profile\": {\n      \"avatar\": \"Elon Musk 的肖像\",\n      \"name\": \"{argument name=\\\"user name\\\" default=\\\"Elon Musk\\\"}\",\n      \"verified_badge\": \"蓝色认证勾选\",\n      \"subtitle\": \"科技公司创始人/工程师\",\n      \"action_buttons\": 3,\n      \"button_labels\": [\"关注\", \"分享图标\", \"省略号图标\"]\n    },\n    \"post_content\": {\n      \"text\": \"{argument name=\\\"post text\\\" default=\\\"在火星上看到第一缕阳光。这是人类文明的下一步。星舰 + 星链 + 可持续能源，让生命成为多行星物种。未来已来！🚀\\\"}\",\n      \"image\": {\n        \"description\": \"{argument name=\\\"image subject\\\" default=\\\"Elon Musk 在火星上自拍\\\"}\",\n        \"clothing\": \"带有 SPACEX 标志的黑色夹克\",\n        \"background\": \"{argument name=\\\"background elements\\\" default=\\\"星舰火箭、测地线栖息地圆顶、太阳能电池阵列、火星日出景观\\\"}\",\n        \"watermark\": \"@Proof AI\",\n        \"location_overlay\": {\n          \"icon\": \"条形图\",\n          \"text\": \"{argument name=\\\"location tag\\\" default=\\\"火星 · 乌托邦平原 >\\\"}\"\n        }\n      },\n      \"pagination_dots\": 5\n    },\n    \"footer\": {\n      \"comment_input\": \"说点什么...\",\n      \"interaction_stats\": 3,\n      \"stats_details\": [\n        {\"icon\": \"心形\", \"count\": \"12.8万\"},\n        {\"icon\": \"星形\", \"count\": \"2.6万\"},\n        {\"icon\": \"气泡对话框\", \"count\": \"1.5万\"}\n      ],\n      \"metadata\": \"昨天 23:42 美国\",\n      \"feedback_button\": \"不喜欢\"\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "火星自拍社交媒体模拟图：生成逼真的社交媒体应用界面模拟图，包含可自定义的用户帖子、图片及互动数据。",
+      "subject": "文字符号",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "B2B 产品概念图、后台系统、数据看板",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14497",
+      "13458",
+      "13763",
+      "14666",
+      "15389",
+      "13928"
+    ]
+  }
+}

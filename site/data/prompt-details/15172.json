@@ -1,0 +1,38 @@
+{
+  "id": "15172",
+  "prompt": "一幅极具动态感的动漫插画，描绘了一个{argument name=\"第一个角色\" default=\"企鹅\"}和另一个{argument name=\"第二个角色\" default=\"企鹅\"}在传统木质道场内进行激烈武术对决的场景。在前景中，一名 {argument name=\"角色一外貌\" default=\"看图一\"} 的企鹅摆出强有力的低位武术架势，手上拿着一个拖鞋准备反击，它身穿 {argument name=\"角色一着装\" default=\"看图一\"}，强烈的红色能量斩击环绕着它挥动的四肢。在右侧半空中，一名留着 {argument name=\"角色二外貌\" default=\"看图二\"} 的企鹅优雅地跃起，自信地，身穿 {argument name=\"角色二着装\" default=\"看图二\"}，伴随着扫过的蓝色水流状能量轨迹，手上也拿着一个拖鞋准备反击。背景是质朴的木质寺庙内部，上方悬挂着一块写有“{argument name=\"招牌文字\" default=\"拖鞋比武大赛\"}”的醒目招牌。场景充满了爆发性的动作感，飞扬的尘土、破碎的木质地板、发光的彩色粒子特效，以及将角色与精细背景完美区分开来的戏剧性低角度光影。保持它们脚形不变。\\n\\nMake the aspect ratio 16:9",
+  "translatedPrompt": "一张极具动感的动漫插画，描绘了 {argument name=\"first character\" default=\"企鹅\"} 与另一只 {argument name=\"second character\" default=\"企鹅\"} 在传统木质武道馆内的武术对决。前景中，一只外形为 {argument name=\"character one description\" default=\"参考图片 1\"} 的企鹅摆出强有力的武术低姿势，手持拖鞋准备反击，身着 {argument name=\"character one outfit\" default=\"参考图片 1\"}，周身环绕着从四肢迸发出的强烈红色能量斩击。右侧半空中，一只外形为 {argument name=\"character two description\" default=\"参考图片 2\"} 的企鹅优雅而自信地跃起，身着 {argument name=\"character two outfit\" default=\"参考图片 2\"}，伴随着扫过的蓝色水流状能量轨迹，同样手持拖鞋准备反击。背景是古朴的木质寺庙内部，悬挂着一块醒目的招牌，上面写着“{argument name=\"sign text\" default=\"拖鞋武术锦标赛\"}”。场景充满了爆发性的动作感，飞扬的尘土、破碎的木地板、发光的彩色粒子特效，以及将角色与精细背景完美区分开的戏剧性低角度光影。保持它们的脚部形状不变。\n\n将长宽比设置为 16:9",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "企鹅武道馆对决：一个充满动感的动漫风格插画提示词，描绘了两只企鹅在传统武道馆中进行武术对决，并带有能量特效。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13607",
+      "13613",
+      "13632",
+      "13673",
+      "13679",
+      "13721"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "14898",
+  "prompt": "A moody gothic storybook illustration in thick impasto oil-paint style, showing a solitary little girl sitting curled up on a cushioned window seat inside a dim old room during a rainy evening. She has {argument name=\"hair color\" default=\"dark brown\"} wild tangled hair, a large oversized knit sweater in {argument name=\"sweater color\" default=\"rust red\"}, black-and-cream striped stockings, and dark lace-up boots. Her pose is introspective and withdrawn, knees pulled to her chest, arms wrapped around her legs, gazing out through a tall multi-pane window. Outside the glass is a crooked, haunted-looking European village street with steep rooftops, spires, glowing windows, slick cobblestones, and a prominent clock tower, all under a gray stormy sky. Include exactly 1 small umbrella-carrying figure walking alone in the rain on the street. Inside the room, include exactly 1 hanging industrial lamp with warm yellow light in the upper left, exactly 1 red ceramic mug on the windowsill, exactly 1 open sketchbook on the bench with a dark cat drawing visible on one page, exactly 2 red pillows, and a few tiny framed wall pictures on the left. The palette is charcoal gray, sepia, black, and muted amber, with warm interior highlights contrasting against the cold wet exterior. The composition is slightly tilted and cinematic, with the girl placed left of center and the rain-soaked town filling the right side of the frame. Emphasize melancholy, loneliness, gothic whimsy, textured brushstrokes, scratched paint, dramatic window reflections, and a dark fairy-tale atmosphere in a square format.",
+  "translatedPrompt": "一幅充满情绪感的哥特绘本插画，采用厚涂油画风格，描绘了一个孤独的小女孩在雨夜里蜷缩在昏暗老屋的软垫窗台上。她有着 {argument name=\"hair color\" default=\"深棕色\"} 的凌乱卷发，穿着一件 {argument name=\"sweater color\" default=\"铁锈红\"} 的大号针织毛衣，搭配黑米条纹长袜和深色系带靴子。她姿态内敛，双膝抱胸，正凝视着高大的多格窗外。玻璃外是一条歪斜、带有闹鬼气息的欧洲村庄街道，有着陡峭的屋顶、尖塔、闪烁的窗户、湿滑的鹅卵石路以及一座显眼的钟楼，背景是灰暗的暴风雨天空。画面中需包含 1 个在雨中独自撑伞行走的人物。室内需包含左上方 1 盏散发暖黄色光芒的工业吊灯、窗台上 1 个红色陶瓷马克杯、长凳上 1 本打开的素描本（页面可见一幅黑猫画作）、2 个红色枕头，以及左侧墙上几幅小巧的装裱画。色调以炭灰、深褐、黑和柔和的琥珀色为主，温暖的室内光影与寒冷潮湿的室外形成对比。构图略微倾斜且具有电影感，女孩位于中心偏左，雨水浸润的小镇占据画面右侧。强调忧郁、孤独、哥特式奇幻、纹理笔触、刮擦痕迹、戏剧性的窗户倒影以及正方形构图下的暗黑童话氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "雨窗边的哥特女孩：此提示词可生成一幅忧郁的暗黑奇幻插画，描绘了一个孩子坐在窗边俯瞰雨中哥特小镇的场景，非常适合用于氛围感概念艺术或绘本风格的墙面装饰画。",
+      "subject": "空间",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14439",
+      "15282",
+      "15283",
+      "15782",
+      "15343",
+      "14625"
+    ]
+  }
+}

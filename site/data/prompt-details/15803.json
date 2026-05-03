@@ -1,0 +1,52 @@
+{
+  "id": "15803",
+  "prompt": "A cinematic ultra-detailed close-up of a NASA spacecraft in low Earth orbit, viewed from very near the hull at a dramatic diagonal angle so the curved metallic body fills most of the frame from left foreground to right midground. The spacecraft exterior is brushed silver-gray metal with visible seams, access panels, latches, rivets, light scuffing, and realistic weathered texture. Prominently display the classic NASA meatball logo near the upper left area of the hull and large black stenciled mission text reading {argument name=\"mission code\" default=\"ASTRA-99\"} across the side. Show the craft tapering toward a cylindrical engine or docking section on the far right. In the background, include the blue limb of Earth with white cloud patterns and a thin glowing atmospheric edge against deep black space. Lighting is hard sunlight from the upper right, creating crisp highlights, soft reflections on the metal, and deep shadow falloff along the lower hull. Photorealistic aerospace engineering, sharp focus on the spacecraft surface, high contrast, epic realism, premium sci-fi documentary style.",
+  "translatedPrompt": "一张电影级超精细的 NASA 航天器低地球轨道特写，从靠近船体的极近距离以戏剧性的对角线角度拍摄，使弯曲的金属机身从左侧前景延伸至右侧中景，占据画面大部分空间。航天器外部为磨砂银灰色金属，可见明显的接缝、检修面板、锁扣、铆钉、轻微擦痕以及逼真的风化纹理。在船体左上方显著展示经典的 NASA “肉丸”标志，并在侧面印有醒目的黑色模板字体任务文本 {argument name=\"mission code\" default=\"ASTRA-99\"}。展示航天器向右侧圆柱形引擎或对接舱段逐渐收窄的结构。背景中，包含地球蓝色的边缘、白色的云层图案以及深邃太空中发光的薄薄大气层边缘。光线来自右上方强烈的阳光，在金属表面形成清晰的高光、柔和的反射以及沿船体下方的深邃阴影。逼真的航空航天工程质感，聚焦于航天器表面，高对比度，史诗级写实感，高端科幻纪录片风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "NASA 航天器轨道船体：此提示词可生成一张逼真的电影级 NASA 航天器特写，船体带有醒目的任务标识，正运行于地球轨道之上，非常适合用作科幻关键视觉图或航空航天主题的视觉素材。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "sci-fi",
+        "documentary",
+        "premium"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, sci-fi, documentary, premium]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14588",
+      "15806",
+      "15410",
+      "15609",
+      "15778",
+      "14398"
+    ]
+  }
+}

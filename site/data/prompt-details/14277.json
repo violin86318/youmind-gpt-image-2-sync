@@ -1,0 +1,43 @@
+{
+  "id": "14277",
+  "prompt": "{\n  \"type\": \"website landing page mockup\",\n  \"theme\": \"men's skincare, sleek, professional, dark mode\",\n  \"color_palette\": \"{argument name=\\\"color scheme\\\" default=\\\"dark navy blue\\\"}, white text, subtle blue gradients\",\n  \"header\": {\n    \"logo\": \"{argument name=\\\"brand name\\\" default=\\\"NEX SKIN\\\"}\",\n    \"navigation\": [\"HOME\", \"PRODUCT\", \"ABOUT\", \"FEATURE\", \"FAQ\"],\n    \"cta_button\": \"今すぐ始める >\"\n  },\n  \"hero_section\": {\n    \"left_column\": {\n      \"headline\": \"{argument name=\\\"main headline\\\" default=\\\"清潔感は、毎日のスキンケアから。\\\"}\",\n      \"sub_headline\": \"男の肌は、もっとシンプルでいい。\",\n      \"body_text\": \"3 lines of descriptive text about skincare benefits\",\n      \"buttons\": [\n        {\"style\": \"solid blue\", \"text\": \"今すぐ始める >\"},\n        {\"style\": \"outlined\", \"text\": \"詳しく見る >\"}\n      ],\n      \"feature_highlights\": {\n        \"count\": 3,\n        \"items\": [\n          {\"icon\": \"sparkle\", \"title\": \"テカリ対策\", \"subtitle\": \"皮脂バランスを整える\"},\n          {\"icon\": \"water drop\", \"title\": \"保湿\", \"subtitle\": \"うるおいを与え続ける\"},\n          {\"icon\": \"shield/bottle\", \"title\": \"オールインワン\", \"subtitle\": \"化粧水・美容液・乳液がこれ1本\"}\n        ]\n      }\n    },\n    \"center_image\": {\n      \"subject\": \"handsome {argument name=\\\"target demographic\\\" default=\\\"young Asian man\\\"}\",\n      \"appearance\": \"clean-cut, dark hair, flawless glowing skin, wearing a black shirt\",\n      \"pose\": \"hand touching chin thoughtfully\",\n      \"lighting\": \"dramatic studio lighting highlighting facial structure\"\n    },\n    \"right_column\": {\n      \"product_shot\": {\n        \"bottle\": \"tall cylindrical dark blue bottle with water droplets\",\n        \"labels\": [\"{argument name=\\\"brand name\\\" default=\\\"NEX SKIN\\\"}\", \"{argument name=\\\"product type\\\" default=\\\"ALL-IN-ONE LOTION\\\"}\", \"150mL\"],\n        \"base\": \"textured dark rock surface\",\n        \"badge\": \"circular outlined badge reading 'これ1本で男の肌悩みをトータルケア'\"\n      }\n    }\n  },\n  \"bottom_stats_bar\": {\n    \"count\": 3,\n    \"items\": [\n      {\"icon\": \"users\", \"label\": \"累計販売本数\", \"value\": \"120万本突破\"},\n      {\"icon\": \"star\", \"label\": \"使用感満足度\", \"value\": \"92.1%\"},\n      {\"icon\": \"checklist\", \"label\": \"リピート率\", \"value\": \"85.3%\"}\n    ],\n    \"footnotes\": \"small legal text on the right\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"website landing page mockup\",\n  \"theme\": \"men's skincare, sleek, professional, dark mode\",\n  \"color_palette\": \"{argument name=\\\"color scheme\\\" default=\\\"dark navy blue\\\"}, white text, subtle blue gradients\",\n  \"header\": {\n    \"logo\": \"{argument name=\\\"brand name\\\" default=\\\"NEX SKIN\\\"}\",\n    \"navigation\": [\"HOME\", \"PRODUCT\", \"ABOUT\", \"FEATURE\", \"FAQ\"],\n    \"cta_button\": \"今すぐ始める >\"\n  },\n  \"hero_section\": {\n    \"left_column\": {\n      \"headline\": \"{argument name=\\\"main headline\\\" default=\\\"清潔感は、毎日のスキンケアから。\\\"}\",\n      \"sub_headline\": \"男の肌は、もっとシンプルでいい。\",\n      \"body_text\": \"3 lines of descriptive text about skincare benefits\",\n      \"buttons\": [\n        {\"style\": \"solid blue\", \"text\": \"今すぐ始める >\"},\n        {\"style\": \"outlined\", \"text\": \"詳しく見る >\"}\n      ],\n      \"feature_highlights\": {\n        \"count\": 3,\n        \"items\": [\n          {\"icon\": \"sparkle\", \"title\": \"テカリ対策\", \"subtitle\": \"皮脂バランスを整える\"},\n          {\"icon\": \"water drop\", \"title\": \"保湿\", \"subtitle\": \"うるおいを与え続ける\"},\n          {\"icon\": \"shield/bottle\", \"title\": \"オールインワン\", \"subtitle\": \"化粧水・美容液・乳液がこれ1本\"}\n        ]\n      }\n    },\n    \"center_image\": {\n      \"subject\": \"handsome {argument name=\\\"target demographic\\\" default=\\\"young Asian man\\\"}\",\n      \"appearance\": \"clean-cut, dark hair, flawless glowing skin, wearing a black shirt\",\n      \"pose\": \"hand touching chin thoughtfully\",\n      \"lighting\": \"dramatic studio lighting highlighting facial structure\"\n    },\n    \"right_column\": {\n      \"product_shot\": {\n        \"bottle\": \"tall cylindrical dark blue bottle with water droplets\",\n        \"labels\": [\"{argument name=\\\"brand name\\\" default=\\\"NEX SKIN\\\"}\", \"{argument name=\\\"product type\\\" default=\\\"ALL-IN-ONE LOTION\\\"}\", \"150mL\"],\n        \"base\": \"textured dark rock surface\",\n        \"badge\": \"circular outlined badge reading 'これ1本で男の肌悩みをトータルケア'\"\n      }\n    }\n  },\n  \"bottom_stats_bar\": {\n    \"count\": 3,\n    \"items\": [\n      {\"icon\": \"users\", \"label\": \"累計販売本数\", \"value\": \"120万本突破\"},\n      {\"icon\": \"star\", \"label\": \"使用感満足度\", \"value\": \"92.1%\"},\n      {\"icon\": \"checklist\", \"label\": \"リピート率\", \"value\": \"85.3%\"}\n    ],\n    \"footnotes\": \"small legal text on the right\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Men's Skincare Website Landing Page Mockup：Generates a sleek, dark-themed e-commerce landing page mockup for a men's skincare product, featuring a model, product shot, and feature statistics.",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [],
+      "style": [
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14889",
+      "15002",
+      "15068",
+      "15429",
+      "15536",
+      "14878"
+    ]
+  }
+}

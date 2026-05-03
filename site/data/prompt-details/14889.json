@@ -1,0 +1,56 @@
+{
+  "id": "14889",
+  "prompt": "Create a clean premium Japanese tech infographic poster for {argument name=\"product name\" default=\"Meta Quest 3\"}, centered on a vertically stacked exploded view of a white mixed-reality headset floating in space against a soft lavender-to-blue gradient background. At the top, place the Meta logo in blue followed by a large bold black sans-serif headline reading {argument name=\"headline text\" default=\"Meta Quest 3\"}, with a smaller Japanese tagline beneath: 「まったく新しい現実を、まったく新しい構造から。」. The central subject is a highly polished 3D product render shown as an engineering breakdown with exactly 9 numbered layers, each layer separated evenly from top to bottom and labeled with blue circular number markers on the left side from 1 to 9. The 9 visible layers are: 1) the white outer faceplate shell with three front sensor/camera openings, 2) a row of exactly 3 black tracking camera modules, 3) the main logic board with chips and a clearly visible Snapdragon XR2 Gen 2 processor graphic at the center, 4) a pair of large pancake lens assemblies with vivid purple-blue glass reflections, 5) the black internal frame chassis with openings for optics, 6) the battery/electronics bar with glowing blue accents, 7) two white articulated side strap arms, 8) a white fabric head strap loop, 9) a black soft facial interface cushion at the bottom. Add rounded rectangular annotation boxes with thin white borders and subtle transparency on both sides, each connected by fine white leader lines to the corresponding layer. There are exactly 7 feature callout boxes total: 3 on the left and 4 on the right. Left side boxes, from top to bottom, read: 「Snapdragon XR2 Gen 2」 with a chip icon and smaller Japanese body text, 「調整可能なIPD機構」 with an optics adjustment icon and smaller Japanese body text, 「精密設計されたヘッドストラップ」 with a headset strap icon and smaller Japanese body text. Right side boxes, from top to bottom, read: 「フェイスプレート」 with a simple faceplate icon and smaller Japanese body text, 「トラッキングカメラ」 with a camera icon and smaller Japanese body text, 「パンケーキレンズ」 with a dual-lens icon and smaller Japanese body text, 「高性能バッテリー」 with a battery icon and smaller Japanese body text, plus a lower-right box reading 「柔らかなフェイスインターフェース」 with a soft cushion icon and smaller Japanese body text; keep the overall visual balance elegant and symmetric. At the bottom, add a wide white rounded banner spanning most of the width. On its left side place a large bold Japanese statement in blue: 「体験は、構造から進化する。」 and below it smaller Japanese explanatory copy in black. On the right side of the banner place the blue Meta logo and the wordmark “Meta”. Use a sleek Apple-like product marketing style, ultra-sharp 3D rendering, soft studio lighting, subtle glow, precise shadows, glossy plastics, realistic materials, minimal clutter, and a high-end corporate presentation aesthetic.",
+  "translatedPrompt": "创作一张简洁的高端日式科技信息图海报，用于 {argument name=\"product name\" default=\"Meta Quest 3\"}，画面中心为一个垂直堆叠的白色混合现实头显爆炸视图，悬浮在柔和的淡紫色至蓝色渐变背景中。顶部放置蓝色的 Meta 标志，随后是醒目的黑色粗体无衬线标题 {argument name=\"headline text\" default=\"Meta Quest 3\"}，下方配有较小的日文标语：「まったく新しい現実を、まったく新しい構造から。」。中心主体为高度精细的 3D 产品渲染图，呈现为工程拆解形式，包含 9 个编号层，每一层从上到下均匀分离，左侧配有 1 到 9 的蓝色圆形数字标记。9 个可见层分别为：1) 带有三个前置传感器/摄像头开口的白色外壳面板，2) 一排 3 个黑色追踪摄像头模块，3) 中心带有芯片及清晰可见的 Snapdragon XR2 Gen 2 处理器图形的主逻辑板，4) 一对带有鲜艳紫蓝色玻璃反射的大型 Pancake 透镜组件，5) 带有光学开口的黑色内部框架底盘，6) 带有发光蓝色装饰的电池/电子元件条，7) 两个白色铰接式侧带臂，8) 白色织物头带环，9) 底部的一个黑色柔软面部接口衬垫。在两侧添加带有细白边框和轻微透明度的圆角矩形标注框，每个标注框通过细白引导线连接到相应的层。共有 7 个功能标注框：左侧 3 个，右侧 4 个。左侧标注框从上到下依次为：「Snapdragon XR2 Gen 2」（配芯片图标及较小的日文正文）、「調整可能なIPD機構」（配光学调节图标及较小的日文正文）、「精密設計されたヘッドストラップ」（配头带图标及较小的日文正文）。右侧标注框从上到下依次为：「フェイスプレート」（配简单的面板图标及较小的日文正文）、「トラッキングカメラ」（配摄像头图标及较小的日文正文）、「パンケーキレンズ」（配双透镜图标及较小的日文正文）、「高性能バッテリー」（配电池图标及较小的日文正文），以及右下角标注框「柔らかなフェイスインターフェース」（配柔软衬垫图标及较小的日文正文）；保持整体视觉平衡且对称。在底部添加一个横跨大部分宽度的宽大白色圆角横幅。左侧放置一句醒目的蓝色日文声明：「体験は、構造から進化する。」，下方配有较小的黑色日文说明文字。横幅右侧放置蓝色 Meta 标志和“Meta”字标。采用类似 Apple 的时尚产品营销风格，超清晰 3D 渲染，柔和的摄影棚灯光，微妙的辉光，精确的阴影，光泽塑料质感，逼真的材质，极简布局，以及高端企业演示美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Meta Quest 3 爆炸视图海报：一张精致的日式产品信息图，展示了 VR 头显的 9 层爆炸视图及硬件标注，非常适合科技营销或产品演示视觉效果。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [
+        "centered",
+        "exploded view",
+        "callout",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "3d",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting",
+        "lens",
+        "camera"
+      ],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, exploded view, callout, vertical]。\n\nVisual style:\n[参考风格: realistic, 3d, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting, lens, camera]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15775",
+      "15262",
+      "15447",
+      "15600",
+      "14943",
+      "15616"
+    ]
+  }
+}

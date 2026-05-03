@@ -1,0 +1,51 @@
+{
+  "id": "14840",
+  "prompt": "A hyper-realistic nighttime street photo seen entirely through a large circular roadside convex traffic mirror, shot in a vertical 3:4 composition with a strong fisheye lens look and pronounced dome-mirror distortion. The black rim of the mirror is fully visible and the whole circular reflection is filled with the surrounding city street, with roads, buildings, utility poles, wires, scaffolding, and signs bending dramatically toward the edges. At the lower center of the mirror reflection, a young woman is taking a mirror selfie from about the waist up, standing directly in front of the mirror and holding a {argument name=\"phone model\" default=\"white iPhone 15 Pro Max\"} in front of her face so the phone hides most facial features. She has straight dark hair around shoulder length, wears a {argument name=\"jacket style\" default=\"black leather jacket\"}, and has {argument name=\"accessory detail\" default=\"silver rings\"} on her fingers. The city scene is a quiet intersection at night with wet asphalt reflecting vivid red light. There are exactly 3 clearly visible red traffic lights in the reflection, and exactly 1 moving gray sedan crossing from right to left with slight motion blur and red neon reflections along its body. On the left side of the mirror reflection, dense metal construction scaffolding wraps the building facade, lit by a tall vertical red neon sign with white Japanese characters. Along the bottom edge and lower left, there are exactly 2 red-and-yellow striped road barriers curving with the mirror distortion. Street lamps and storefront lights recede into the background on the right side, while overhead cables and poles arc across the upper half of the image. Lighting is dominated by {argument name=\"lighting color\" default=\"intense red neon and traffic lights\"}, creating cinematic red highlights on the street, the car, the barriers, and the subject's jacket. Realistic urban Tokyo-like night atmosphere, candid yet stylish, crisp detail with slight grime and reflections on the mirror surface, high contrast, immersive convex mirror perspective.",
+  "translatedPrompt": "一张超写实的夜间街头照片，完全呈现于路边大型圆形交通凸面镜的反射中。采用 3:4 竖构图，具有强烈的鱼眼镜头感和明显的球形镜面畸变。镜子的黑色边框清晰可见，整个圆形反射区域充满了周围的城市街道，道路、建筑物、电线杆、电线、脚手架和标志向边缘剧烈弯曲。在镜面反射的下方中心，一位年轻女性正在进行镜中自拍，画面取景约从腰部以上，她站在镜子正前方，手持 {argument name=\"phone model\" default=\"白色 iPhone 15 Pro Max\"} 挡在脸前，遮住了大部分面部特征。她留着齐肩直发，身穿 {argument name=\"jacket style\" default=\"黑色皮夹克\"}，手指上戴着 {argument name=\"accessory detail\" default=\"银色戒指\"}。城市场景是一个安静的夜间十字路口，湿润的沥青路面反射着鲜艳的红光。反射画面中清晰可见 3 个红灯，以及 1 辆正从右向左行驶的灰色轿车，车身带有轻微的动态模糊和红色霓虹灯反射。在镜面反射的左侧，密集的金属建筑脚手架包裹着建筑立面，被一个带有白色日文字符的高大垂直红色霓虹灯牌照亮。在底部边缘和左下角，有 2 个红黄相间的道路护栏随着镜面畸变而弯曲。路灯和店面灯光在右侧背景中延伸，头顶的电缆和电线杆在图像上半部分形成弧线。光线以 {argument name=\"lighting color\" default=\"强烈的红色霓虹灯和交通灯\"} 为主，在街道、汽车、护栏和人物夹克上营造出电影般的红色高光。逼真的东京风格夜间氛围，随性而时尚，细节清晰，镜面带有轻微的污垢和反射，对比度高，具有沉浸式的凸面镜视角。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "凸面镜霓虹街头自拍：此提示词可生成一张逼真的鱼眼风格夜间街头自拍，画面呈现于路边凸面镜的反射中，非常适合电影感城市摄影和霓虹城市氛围图像。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "neon",
+        "high contrast",
+        "lens"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: neon, high contrast, lens]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15259",
+      "14524",
+      "15757",
+      "14452",
+      "15717",
+      "14422"
+    ]
+  }
+}

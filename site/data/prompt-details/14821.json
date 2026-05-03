@@ -1,0 +1,52 @@
+{
+  "id": "14821",
+  "prompt": "A front-facing photograph of a massive white cruise ship centered in the frame on the water in Istanbul, seen from a low distance across a narrow harbor channel, with the ship moving slowly toward the camera. The bow has a bold stylized lips graphic painted in red and black, creating a playful viral Instagram-filter feel. Behind and around the ship is a dense waterfront cityscape with low buildings, docks, and exactly 2 slender mosque minarets rising on the right side of the skyline. The composition is symmetrical and cinematic, with the ship dominating the vertical center, dark water in the foreground, and a huge dramatic sky above. The sky is filled with heavy storm clouds across the upper third, but the lower sky glows in pale yellow-green haze, giving the image a vintage, dreamy, slightly eerie atmosphere. Include exactly 4 small birds scattered in the sky. Apply a nostalgic analog film look with faded colors, grain, dust specks, soft blur, light vignette, muted contrast, and a slightly weathered 1990s tourist snapshot aesthetic. Add an orange camcorder-style date stamp in the lower left corner reading {argument name=\"date stamp\" default=\"02 25 '94\"}. Vertical 3:4 framing, centered composition, realistic photography, moody travel postcard tone, city and ship details slightly softened by haze.",
+  "translatedPrompt": "一张正面拍摄的照片，画面中心是一艘巨大的白色游轮，正航行在伊斯坦布尔的水面上。从狭窄港口航道的低处远距离望去，游轮正缓慢向镜头驶来。船头绘有醒目的红色和黑色风格化嘴唇图案，营造出一种俏皮且具有病毒式传播潜力的 Instagram 滤镜感。游轮后方及周围是密集的水岸城市景观，包括低矮的建筑、码头，以及天际线右侧耸立的 2 座细长清真寺宣礼塔。构图对称且具有电影感，游轮占据垂直中心位置，前景为深色水域，上方是巨大的戏剧性天空。天空上三分之一处布满厚重的风暴云，但下方的天空泛着淡黄绿色的雾气，为画面增添了一种复古、梦幻且略带诡异的氛围。画面中需包含 4 只散落在天空中的小鸟。应用怀旧模拟胶片外观，呈现褪色的色彩、颗粒感、灰尘斑点、柔焦、轻微暗角、柔和的对比度，以及 1990 年代旅游快照那种略显陈旧的质感。在左下角添加一个橙色的摄像机风格日期戳，显示为 {argument name=\"date stamp\" default=\"02 25 '94\"}。垂直 3:4 画幅，中心构图，写实摄影，忧郁的旅行明信片色调，城市和游轮细节因雾气而略显柔和。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "伊斯坦布尔的复古游轮：此提示词可生成一张怀旧胶片风格的旅行摄影作品，展现游轮驶向伊斯坦布尔水岸的场景，非常适合用于复古明信片、编辑内容或社交媒体美学图片。",
+      "subject": "界面",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "front-facing",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "vintage"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": "得分 82；构图: centered, symmetrical, front-facing, vertical；风格: realistic, cinematic, vintage；要求精确文字"
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, front-facing, vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic, vintage]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15602",
+      "14440",
+      "14674",
+      "15651",
+      "14819",
+      "15520"
+    ]
+  }
+}

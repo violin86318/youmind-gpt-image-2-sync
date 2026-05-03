@@ -1,0 +1,44 @@
+{
+  "id": "14222",
+  "prompt": "A cinematic sci-fi anime movie poster of a heavily armored cylindrical deep-sea submarine on a rocky ocean floor. The sub features a glowing cyan central viewport, a ring of smaller lights, two bright downward spotlights, and \"{argument name=\"hull text\" default=\"NEREIS-01\"}\" painted on its side. Behind it looms a {argument name=\"creature type\" default=\"colossal bioluminescent anemone-like entity\"} with radiating tentacles tipped with cyan lights. The dark teal abyss features glowing seabed flora. Top left text includes the Japanese title \"{argument name=\"main title\" default=\"深淵の地平線\"}\", the subtitle \"{argument name=\"english subtitle\" default=\"ABYSS HORIZON\"}\", and the tagline \"{argument name=\"tagline\" default=\"暗黒は、終わりじゃない。人類の新しい始まりだ。\"}\". Small technical footer text reads \"INTERNATIONAL DEEP SEA TREATY ORGANIZATION\" on the bottom left and \"IDTO-AB-013300-ALPHA\" on the bottom right. Highly detailed, dramatic lighting, industrial mecha design.",
+  "translatedPrompt": "A cinematic sci-fi anime movie poster of a heavily armored cylindrical deep-sea submarine on a rocky ocean floor. The sub features a glowing cyan central viewport, a ring of smaller lights, two bright downward spotlights, and \"{argument name=\"hull text\" default=\"NEREIS-01\"}\" painted on its side. Behind it looms a {argument name=\"creature type\" default=\"colossal bioluminescent anemone-like entity\"} with radiating tentacles tipped with cyan lights. The dark teal abyss features glowing seabed flora. Top left text includes the Japanese title \"{argument name=\"main title\" default=\"深淵の地平線\"}\", the subtitle \"{argument name=\"english subtitle\" default=\"ABYSS HORIZON\"}\", and the tagline \"{argument name=\"tagline\" default=\"暗黒は、終わりじゃない。人類の新しい始まりだ。\"}\". Small technical footer text reads \"INTERNATIONAL DEEP SEA TREATY ORGANIZATION\" on the bottom left and \"IDTO-AB-013300-ALPHA\" on the bottom right. Highly detailed, dramatic lighting, industrial mecha design.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Sci-Fi Deep Sea Submarine Poster：Generates a cinematic sci-fi poster of a deep-sea submarine encountering a giant bioluminescent creature, complete with titles and technical text.",
+      "subject": "综合主体",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "anime",
+        "sci-fi"
+      ],
+      "lightingCamera": [
+        "dramatic lighting"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, anime, sci-fi]。\n\nLighting and camera:\n[参考光线镜头: dramatic lighting]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14203",
+      "14331",
+      "15049",
+      "14003",
+      "13594",
+      "13655"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "15365",
+  "prompt": "{\"type\":\"cinematic photo collage\",\"subject\":{\"character\":\"teenage Asian schoolgirl musician\",\"outfit\":{\"top\":\"black school blazer over a white dress shirt with a loose black tie\",\"bottom\":\"dark pleated plaid skirt\",\"legwear\":\"black knee-high socks\",\"shoes\":\"black loafers\"},\"hair\":{\"color\":\"dark brown to black\",\"style\":\"long straight hair with bangs, slightly messy from humidity and wind\"},\"props\":[\"black electric guitar\",\"smartphone visible in selfie shots\"],\"special_features\":[\"small soft angel wings appearing in some shots\",\"moody introspective expression\"]},\"setting\":{\"location\":\"dense Hong Kong city streets and harborfront\",\"time\":\"rainy overcast evening\",\"weather\":\"wet pavement, misty air, light drizzle\",\"background_elements\":[\"narrow urban streets\",\"tall apartment and shop buildings\",\"neon and shop signs with Chinese text\",\"double-decker bus\",\"traffic and headlights\",\"waterfront skyline\"]},\"style\":{\"look\":\"smartphone snapshot realism mixed with cinematic memory-image tone\",\"color\":\"muted teal, brown, gray, and amber palette with slightly faded colors\",\"lighting\":\"natural cloudy light, dim urban glow, reflective wet surfaces\",\"camera\":\"casual handheld phone photography, imperfect framing, slight motion blur, shallow to medium depth of field\",\"mood\":\"nostalgic, melancholic, urban youth music video interlude\"},\"layout\":{\"format\":\"rounded-corner 12-photo collage in a 3-column by 4-row grid\",\"count\":12,\"sections\":[{\"title\":\"top row\",\"position\":\"row 1\",\"count\":3,\"labels\":[\"rainy Hong Kong intersection with tram tracks and tall buildings\",\"girl seen through a train or tram window with reflections and motion blur\",\"mirror selfie of the girl indoors holding phone while wearing guitar and soft angel wings\"]},{\"title\":\"second row\",\"position\":\"row 2\",\"count\":3,\"labels\":[\"close-up of her legs and loafers on wet street markings\",\"rooftop or elevated city view with her hair at frame edge and hazy skyline\",\"close-up of hands playing black electric guitar\"]},{\"title\":\"third row\",\"position\":\"row 3\",\"count\":3,\"labels\":[\"girl standing in front of a convenience store or vending refrigerator at night\",\"cafe table with cup and saucer, smartphone, and small metal sugar pot\",\"harbor water and distant skyline with her hair blowing across the frame\"]},{\"title\":\"bottom row\",\"position\":\"row 4\",\"count\":3,\"labels\":[\"full-body rainy street shot of the girl carrying the guitar with wings faintly visible\",\"portrait behind a rain-streaked window or glass panel with condensation\",\"wet city street with a lone figure and blurred traffic lights receding into the distance\"]}],\"centerpiece\":\"the recurring schoolgirl guitarist as if documented over one rainy day in Hong Kong\"},\"prompt\":\"Create a 12-image collage that feels like {argument name=\\\"character name\\\" default=\\\"an unnamed schoolgirl guitarist\\\"} casually photographed these moments on her smartphone while wandering through {argument name=\\\"city\\\" default=\\\"Hong Kong\\\"}. The collage should look like intimate, accidental snapshots and memory fragments rather than polished commercial photography. Include exactly 12 images in a rounded-corner 3x4 grid, each frame slightly different in composition and distance, showing rainy streets, transit reflections, a mirror selfie with black electric guitar, close-ups of shoes, guitar hands, cafe table details, convenience store glass, harbor skyline, and rain-soaked urban night scenes. The girl wears {argument name=\\\"outfit style\\\" default=\\\"a black school uniform blazer, white shirt, black tie, plaid skirt, knee-high socks, and loafers\\\"}, with {argument name=\\\"hair style\\\" default=\\\"long dark hair with bangs\\\"}. Add subtle {argument name=\\\"fantasy element\\\" default=\\\"angel wings\\\"} in some frames only, blending dreaminess into realism. Emphasize handheld phone imperfection, slight blur, reflections, off-center framing, damp atmosphere, muted cinematic grading, and the feeling of a scene that could be inserted into a music video interlude.\"}",
+  "translatedPrompt": "{\"type\":\"电影感照片拼贴\",\"subject\":{\"character\":\"亚洲青少年女学生音乐人\",\"outfit\":{\"top\":\"黑色校服西装外套，内搭白色衬衫，系着松散的黑色领带\",\"bottom\":\"深色百褶格纹裙\",\"legwear\":\"黑色及膝袜\",\"shoes\":\"黑色乐福鞋\"},\"hair\":{\"color\":\"深棕色至黑色\",\"style\":\"长直发带刘海，因潮湿和风吹略显凌乱\"},\"props\":[\"黑色电吉他\",\"自拍镜头中可见的智能手机\"],\"special_features\":[\"部分镜头中出现的小巧柔软天使翅膀\",\"忧郁内省的表情\"]},\"setting\":{\"location\":\"密集的香港城市街道和海滨\",\"time\":\"阴雨连绵的傍晚\",\"weather\":\"湿漉漉的地面，雾气弥漫，细雨蒙蒙\",\"background_elements\":[\"狭窄的城市街道\",\"高耸的公寓和商店建筑\",\"带有中文标识的霓虹灯和招牌\",\"双层巴士\",\"车流和车灯\",\"海滨天际线\"]},\"style\":{\"look\":\"智能手机快照写实感与电影记忆影像色调的结合\",\"color\":\"柔和的青色、棕色、灰色和琥珀色调，色彩略显褪色\",\"lighting\":\"自然阴天光线，昏暗的城市微光，湿润表面的反光\",\"camera\":\"随意的手机手持摄影，不完美的构图，轻微的运动模糊，浅至中等景深\",\"mood\":\"怀旧、忧郁、都市青春音乐视频插曲\"},\"layout\":{\"format\":\"圆角 12 张照片拼贴，采用 3 列 4 行网格布局\",\"count\":12,\"sections\":[{\"title\":\"第一行\",\"position\":\"row 1\",\"count\":3,\"labels\":[\"带有电车轨道和高楼的雨中香港十字路口\",\"透过电车或列车窗户看到的女孩，带有倒影和运动模糊\",\"女孩在室内的镜面自拍，背着吉他并佩戴着柔软的天使翅膀\"]},{\"title\":\"第二行\",\"position\":\"row 2\",\"count\":3,\"labels\":[\"湿润街道标志上她的腿部和乐福鞋特写\",\"天台或高处俯瞰城市视角，她的头发位于画面边缘，背景是朦胧的天际线\",\"弹奏黑色电吉他的手部特写\"]},{\"title\":\"第三行\",\"position\":\"row 3\",\"count\":3,\"labels\":[\"夜晚站在便利店或自动售货冷柜前的女孩\",\"咖啡桌上的杯碟、智能手机和小型金属糖罐\",\"海港水面与远方天际线，她的头发拂过画面\"]},{\"title\":\"第四行\",\"position\":\"row 4\",\"count\":3,\"labels\":[\"雨中街道上女孩背着吉他的全身照，隐约可见翅膀\",\"透过布满雨水的窗户或玻璃板拍摄的肖像，带有冷凝水珠\",\"湿润的城市街道，远处有一个孤独的身影和模糊的交通信号灯\"]}],\"centerpiece\":\"反复出现的学生吉他手形象，仿佛记录了在香港雨中的一天\"},\"prompt\":\"创建一个 12 张图片的拼贴画，感觉就像 {argument name=\\\"character name\\\" default=\\\"一位未具名的学生吉他手\\\"} 在漫步 {argument name=\\\"city\\\" default=\\\"香港\\\"} 时用智能手机随意拍摄的瞬间。拼贴画应看起来像亲密的、偶然的快照和记忆碎片，而不是精修的商业摄影。包含 12 张图片，采用圆角 3x4 网格，每帧的构图和距离略有不同，展示雨中街道、交通倒影、带有黑色电吉他的镜面自拍、鞋子特写、弹吉他的手、咖啡桌细节、便利店玻璃、海港天际线和雨水浸润的城市夜景。女孩穿着 {argument name=\\\"outfit style\\\" default=\\\"黑色校服西装外套、白衬衫、黑领带、格纹裙、及膝袜和乐福鞋\\\"}，留着 {argument name=\\\"hair style\\\" default=\\\"长发带刘海\\\"}。仅在部分画面中添加微妙的 {argument name=\\\"fantasy element\\\" default=\\\"天使翅膀\\\"}，将梦幻感融入现实。强调手持手机的不完美感、轻微模糊、反光、偏心构图、潮湿的氛围、柔和的电影级调色，以及那种可以插入音乐视频插曲的场景感。\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "雨中香港女学生吉他手拼贴画：一组 12 张电影质感的拼贴照片，描绘了一位在雨中香港漫步的女学生吉他手，专为梦幻般的音乐视频视觉效果或怀旧都市情绪项目而设计。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "full-body",
+        "grid"
+      ],
+      "style": [
+        "cinematic",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "neon",
+        "overcast",
+        "depth of field",
+        "camera"
+      ],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, full-body, grid]。\n\nVisual style:\n[参考风格: cinematic, fantasy]。\n\nLighting and camera:\n[参考光线镜头: neon, overcast, depth of field, camera]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14531",
+      "14413",
+      "14616",
+      "13497",
+      "14404",
+      "14025"
+    ]
+  }
+}

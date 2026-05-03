@@ -1,0 +1,50 @@
+{
+  "id": "15103",
+  "prompt": "Create a hyper-realistic cinematic action movie poster at golden-hour sunset, showing a rugged adult male action hero standing on the shattered glass edge of a skyscraper rooftop high above a futuristic megacity. He is positioned on the left side of the frame in a powerful full-body pose, wearing a dark fitted T-shirt, black jeans, and a dark open jacket, with windswept short brown hair. His face is intentionally obscured with a smooth rectangular blur block, as if censored. In one hand he holds a glowing blue holographic device projecting a transparent sci-fi interface with maps, targeting graphics, and a digital countdown timer reading 00:18:43. The background features a dramatic skyline of tall modern towers stretching to the horizon, with the sun low in the center-right casting warm orange light across the city. Fill the sky with explosive blockbuster action: 1 large helicopter in the upper right exploding midair with fire, smoke, debris, and spinning rotor fragments; 1 damaged passenger aircraft on the lower right banking downward trailing flames and black smoke; and 2 fast military jets streaking across the upper left sky leaving bright missile trails. Add flying embers, sparks, drifting debris, and intense volumetric smoke clouds for a high-stakes disaster atmosphere. Place a huge metallic 3D movie title across the upper-middle right reading {argument name=\"title text\" default=\"TIMEFALL\"}, angled slightly with bold steel texture and cinematic shadowing. Beneath it, add the tagline in clean bold capitals: {argument name=\"tagline\" default=\"ONE MAN. ONE CHANCE. NO LIMITS.\"}. Add a small white brand mark in the top-right corner reading {argument name=\"logo text\" default=\"Pollo.ai\"}. Use ultra-detailed photorealism, dramatic contrast, blockbuster poster composition, anamorphic flare, sharp character detail, epic scale, and polished Hollywood key art styling.",
+  "translatedPrompt": "创作一张黄金时刻日落背景下的超写实电影级动作海报，画面展示了一位硬汉形象的成年男性动作英雄，站在未来超级城市高空摩天大楼破碎的玻璃边缘。他位于画面左侧，呈现强有力的全身姿态，身穿深色修身 T 恤、黑色牛仔裤和深色开衫夹克，留着被风吹乱的棕色短发。他的面部被一个平滑的矩形模糊块刻意遮挡，仿佛经过了审查。他的一只手拿着一个发光的蓝色全息设备，投射出一个透明的科幻界面，上面显示着地图、目标图形以及显示为 00:18:43 的数字倒计时。背景是延伸至地平线的现代高塔组成的壮观天际线，太阳位于中右侧低空，将温暖的橙色光芒洒满整座城市。天空中充满了爆炸性的动作大片元素：右上角有一架大型直升机在半空中爆炸，伴随着火焰、烟雾、碎片和旋转的旋翼残骸；右下角有一架受损的客机向下倾斜，拖着火焰和黑烟；左上角有两架快速飞行的军用喷气式飞机划过天空，留下明亮的导弹轨迹。加入飞舞的余烬、火花、漂浮的碎片和强烈的体积烟云，营造出高风险的灾难氛围。在右上方的中上部放置一个巨大的金属质感 3D 电影标题，内容为 {argument name=\"title text\" default=\"TIMEFALL\"}，带有轻微的角度倾斜，呈现粗犷的钢材纹理和电影级阴影效果。在标题下方，添加简洁醒目的大写标语：{argument name=\"tagline\" default=\"ONE MAN. ONE CHANCE. NO LIMITS.\"}。在右上角添加一个小的白色品牌标志，内容为 {argument name=\"logo text\" default=\"Pollo.ai\"}。采用超精细的写实风格、强烈的对比度、大片海报构图、变形镜头光晕、清晰的人物细节、史诗般的规模以及精致的好莱坞主视觉艺术风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影级科幻动作海报：一张写实风格的动作大片海报，展示了一位孤胆英雄站在未来城市上方，背景包含爆炸、混乱的飞行器以及醒目的标题排版，非常适合动作电影的营销视觉需求。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "full-body"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "3d",
+        "sci-fi"
+      ],
+      "lightingCamera": [
+        "volumetric"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body]。\n\nVisual style:\n[参考风格: realistic, cinematic, 3d, sci-fi]。\n\nLighting and camera:\n[参考光线镜头: volumetric]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14600",
+      "14902",
+      "15036",
+      "15431",
+      "13967",
+      "14077"
+    ]
+  }
+}

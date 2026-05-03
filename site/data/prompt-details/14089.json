@@ -1,0 +1,44 @@
+{
+  "id": "14089",
+  "prompt": "A cinematic, photorealistic portrait of {argument name=\"main subject\" default=\"Sam Altman\"} on a gritty rooftop at dusk, wearing a black bomber jacket with an {argument name=\"company logo\" default=\"OpenAI\"} logo. He is flanked by exactly 4 cats in superhero costumes: a tabby Spider-Man, a black Batman, an orange Iron Man with a glowing reactor, and a tabby Captain America with a shield. The background shows a {argument name=\"city skyline\" default=\"1996 New York City skyline featuring the Twin Towers\"}. A whiteboard reads \"MISSION: {argument name=\"whiteboard mission\" default=\"MAKE INTELLIGENCE BENEFIT ALL.\"}\" and lists exactly 4 checked items: \"BETTER MODELS\", \"SAFE DEPLOYMENT\", \"REAL-WORLD IMPACT\", and \"SAVE SOME TREATS\". A foreground wooden desk holds a retro 1990s laptop with the company logo, a mug reading \"BUILD THE FUTURE TOGETHER\", a walkie-talkie, and a WIRED magazine titled \"{argument name=\"magazine headline\" default=\"THE AGE OF INTELLIGENCE IS HERE\"}\". Painted wall signs read \"NEW YORK NO SLEEP. BIG DREAMS.\" and \"THE FUTURE WILL BE BUILT 1996\".",
+  "translatedPrompt": "一张电影感、照片级的肖像，主角是 {argument name=\"main subject\" default=\"Sam Altman\"}，身处黄昏时分粗犷的屋顶，身穿印有 {argument name=\"company logo\" default=\"OpenAI\"} 标志的黑色飞行员夹克。他的身旁有 4 只穿着超级英雄服装的猫：一只虎斑蜘蛛侠猫、一只黑色蝙蝠侠猫、一只带有发光反应堆的橙色钢铁侠猫，以及一只拿着盾牌的虎斑美国队长猫。背景是 {argument name=\"city skyline\" default=\"1996 年纽约天际线，包含双子塔\"}。一块项目上写着“MISSION: {argument name=\"whiteboard mission\" default=\"MAKE INTELLIGENCE BENEFIT ALL.\"}”，并列出了 4 个已勾选的项目：“BETTER MODELS”、“SAFE DEPLOYMENT”、“REAL-WORLD IMPACT” 和 “SAVE SOME TREATS”。前景的木桌上放着一台印有公司标志的 1990 年代复古笔记本电脑、一个写着“BUILD THE FUTURE TOGETHER”的马克杯、一个对讲机，以及一本标题为“{argument name=\"magazine headline\" default=\"THE AGE OF INTELLIGENCE IS HERE\"}”的《WIRED》杂志。墙上的涂鸦写着“NEW YORK NO SLEEP. BIG DREAMS.”和“THE FUTURE WILL BE BUILT 1996”。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古科技 CEO 与超级英雄猫咪：生成一张电影感肖像，展现一位科技领袖身处 1990 年代怀旧风格的屋顶，周围环绕着超级英雄主题的猫咪，并配有精细的道具。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "retro"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, retro]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14660",
+      "15355",
+      "15515",
+      "15754",
+      "15758",
+      "15766"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "13440",
+  "prompt": "{\n  \"type\": \"SaaS landing page hero graphic\",\n  \"style\": \"Modern UI/UX, light theme, soft shadows, glassmorphism, {argument name=\\\"primary theme color\\\" default=\\\"purple and blue gradients\\\"}\",\n  \"header\": {\n    \"headline\": \"{argument name=\\\"main headline\\\" default=\\\"Run your work with AI clarity.\\\"}\",\n    \"subheadline\": \"Coordinate tasks, context, and execution across your tools in one intelligent workspace.\"\n  },\n  \"layout\": {\n    \"center_dashboard\": {\n      \"app_name\": \"{argument name=\\\"app name\\\" default=\\\"FlowBridge\\\"}\",\n      \"greeting\": \"{argument name=\\\"user greeting\\\" default=\\\"Good morning, Alex 👋\\\"}\",\n      \"sidebar_links\": 8,\n      \"top_metrics_cards\": 4,\n      \"recent_activity_items\": 3,\n      \"project_progress_bars\": 3,\n      \"floating_action_bar\": \"{argument name=\\\"floating bar text\\\" default=\\\"Ask AI anything or type a command...\\\"}\"\n    },\n    \"left_integrations\": {\n      \"count\": 4,\n      \"style\": \"pill-shaped cards connected by thin lines to the center dashboard\",\n      \"labels\": [\n        \"Google Calendar: Events & schedule\",\n        \"Notion: Docs & knowledge\",\n        \"Slack: Messages & updates\",\n        \"Google Drive: Files & assets\"\n      ]\n    },\n    \"right_integrations\": {\n      \"count\": 4,\n      \"style\": \"pill-shaped cards connected by thin lines to the center dashboard\",\n      \"labels\": [\n        \"Asana: Tasks & projects\",\n        \"GitHub: Code & commits\",\n        \"Figma: Design files\",\n        \"Microsoft Teams: Calls & meetings\"\n      ]\n    },\n    \"bottom_feature_cards\": {\n      \"count\": 3,\n      \"style\": \"rectangular cards with soft shadows\",\n      \"cards\": [\n        {\n          \"title\": \"AI-powered overview\",\n          \"description\": \"Get instant clarity on goals, progress, and what needs your attention.\",\n          \"visuals\": \"Line chart showing 24.6 hr focus time, and 3 bottom metrics (Meetings, Deep work, Tasks done)\"\n        },\n        {\n          \"title\": \"Connected execution\",\n          \"description\": \"Stay aligned with tasks, updates, and dependencies across your tools.\",\n          \"visuals\": \"List of 4 upcoming tasks and 4 team workload progress bars with user avatars\"\n        },\n        {\n          \"title\": \"Insights that drive impact\",\n          \"description\": \"Understand progress, unblock risks, and make smarter decisions.\",\n          \"visuals\": \"Donut chart showing 18 projects by status, and a list of 3 top risks with red flag icons\"\n        }\n      ]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"SaaS 落地页首屏图形\",\n  \"style\": \"现代 UI/UX，浅色主题，柔和阴影，毛玻璃效果，{argument name=\\\"primary theme color\\\" default=\\\"紫色和蓝色渐变\\\"}\",\n  \"header\": {\n    \"headline\": \"{argument name=\\\"main headline\\\" default=\\\"以 AI 的清晰视角驱动工作。\\\"}\",\n    \"subheadline\": \"在一个智能工作空间中协调跨工具的任务、上下文和执行。\"\n  },\n  \"layout\": {\n    \"center_dashboard\": {\n      \"app_name\": \"{argument name=\\\"app name\\\" default=\\\"FlowBridge\\\"}\",\n      \"greeting\": \"{argument name=\\\"user greeting\\\" default=\\\"早上好，Alex 👋\\\"}\",\n      \"sidebar_links\": 8,\n      \"top_metrics_cards\": 4,\n      \"recent_activity_items\": 3,\n      \"project_progress_bars\": 3,\n      \"floating_action_bar\": \"{argument name=\\\"floating bar text\\\" default=\\\"向 AI 提问或输入指令...\\\"}\"\n    },\n    \"left_integrations\": {\n      \"count\": 4,\n      \"style\": \"通过细线连接到中央仪表盘的胶囊状卡片\",\n      \"labels\": [\n        \"Google Calendar：事件与日程\",\n        \"Notion：文档与知识库\",\n        \"Slack：消息与更新\",\n        \"Google Drive：文件与资产\"\n      ]\n    },\n    \"right_integrations\": {\n      \"count\": 4,\n      \"style\": \"通过细线连接到中央仪表盘的胶囊状卡片\",\n      \"labels\": [\n        \"Asana：任务与项目\",\n        \"GitHub：代码与提交\",\n        \"Figma：设计文件\",\n        \"Microsoft Teams：通话与会议\"\n      ]\n    },\n    \"bottom_feature_cards\": {\n      \"count\": 3,\n      \"style\": \"带有柔和阴影的矩形卡片\",\n      \"cards\": [\n        {\n          \"title\": \"AI 驱动的概览\",\n          \"description\": \"即时掌握目标、进度以及需要你关注的事项。\",\n          \"visuals\": \"显示 24.6 小时专注时间的折线图，以及 3 个底部指标（会议、深度工作、已完成任务）\"\n        },\n        {\n          \"title\": \"互联执行\",\n          \"description\": \"保持跨工具的任务、更新和依赖关系同步。\",\n          \"visuals\": \"包含 4 个即将到来的任务列表和 4 个带有用户头像的团队工作负载进度条\"\n        },\n        {\n          \"title\": \"驱动影响的洞察\",\n          \"description\": \"了解进度、解除风险并做出更明智的决策。\",\n          \"visuals\": \"显示 18 个项目状态的环形图，以及带有红旗图标的 3 个主要风险列表\"\n        }\n      ]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "SaaS AI 仪表盘落地页：生成一个现代化的 SaaS 落地页模型，展示连接各种工具集成和详细功能亮点卡片的中央 AI 仪表盘。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "B2B 产品概念图、后台系统、数据看板",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13492",
+      "15389",
+      "14627",
+      "15391",
+      "13774",
+      "14565"
+    ]
+  }
+}

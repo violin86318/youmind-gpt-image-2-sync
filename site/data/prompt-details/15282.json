@@ -1,0 +1,50 @@
+{
+  "id": "15282",
+  "prompt": "A cinematic photorealistic action scene in a rainy downtown city street canyon, showing {argument name=\"main subject\" default=\"a dark-haired man in his 30s\"} sprinting directly toward the camera in the center foreground with a tense survival expression, wearing a soaked dark jacket, dark shirt, and dark pants, mid-stride with one arm pumping forward. Behind him, a massive urban explosion tears through the street and lower facade of a high-rise building, sending a huge cloud of smoke, fire, dust, shattered concrete, glass, and metal debris outward in all directions. The scene includes exactly 3 visible damaged vehicles: 1 dark sedan in the left foreground with headlights on and a crumpled hood splashing through rainwater, 1 wrecked dark car in the right midground with severe front-end damage, and 1 overturned or airborne black SUV tilted upward behind it on the right side. Wet asphalt reflects headlights, firelight, and gray skyscrapers. Dense debris fills the air, with chunks of rubble frozen in motion. Overcast stormy daylight, desaturated blue-gray color palette with orange fire accents, dramatic motion blur in flying debris but sharp focus on the running figure, low-angle wide-lens composition, blockbuster disaster-movie realism, ultra-detailed textures, high contrast, dynamic depth, volumetric smoke, rain spray, cinematic lighting. Add a white {argument name=\"watermark text\" default=\"Pollo.ai\"} logo in the top-right corner.",
+  "translatedPrompt": "一个电影级写实动作场景，背景位于雨中的市中心街道峡谷，展示了 {argument name=\"main subject\" default=\"一名 30 多岁的深色头发男子\"} 在前景中央正对着镜头奔跑，表情紧张，表现出求生欲，身穿湿透的深色夹克、深色衬衫和深色长裤，正处于迈步奔跑的姿态，一只手臂向前摆动。在他身后，一场巨大的城市爆炸撕裂了街道和高层建筑的下层外墙，向四面八方喷射出巨大的烟雾、火焰、灰尘、破碎的混凝土、玻璃和金属碎片。场景中包含 3 辆清晰可见的受损车辆：左前景中有一辆开着前大灯、引擎盖凹陷并溅起雨水的深色轿车；右中景中有一辆车头严重受损的深色汽车；右侧后方有一辆倾斜向上、翻倒或腾空的黑色 SUV。潮湿的沥青路面反射着前大灯、火光和灰色的摩天大楼。浓密的碎片充斥着空气，碎石块在运动中定格。阴沉的暴雨天气，去饱和的蓝灰色调搭配橙色火光，飞溅的碎片带有戏剧性的动态模糊，但奔跑的人物保持清晰对焦，低角度广角镜头构图，灾难大片般的真实感，超精细纹理，高对比度，动态景深，体积烟雾，雨水喷溅，电影级布光。在右上角添加一个白色的 {argument name=\"watermark text\" default=\"Pollo.ai\"} 标志。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影级城市爆炸追逐：一张具有写实大片风格的图片，描绘了一名男子从巨大的城市爆炸中逃离的场景，非常适合动作电影海报、戏剧性广告或 AI 图像模型对比。",
+      "subject": "空间",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "overcast",
+        "volumetric",
+        "high contrast",
+        "lens",
+        "camera"
+      ],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: overcast, volumetric, high contrast, lens, camera]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15283",
+      "15105",
+      "15515",
+      "15782",
+      "14077",
+      "14660"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "14862",
+  "prompt": "Using the provided reference image, transform the person into a surreal floating head portrait. Remove the train interior, table, bottle, book, headphones, and all surrounding context. Reframe to a centered, front-facing close-up of only the head, cropped just below the chin, with a glossy hyperreal 3D/plastic look. Replace the background with a bright saturated blue sky containing {argument name=\"cloud count\" default=\"6\"} soft fluffy white clouds. Add ornate gold eyeglass temples visible on both sides of the head, and keep the small goatee. Use vivid colors, smooth studio-like lighting, sharp focus on the head, and a whimsical toy-like aesthetic.",
+  "translatedPrompt": "使用提供的参考图像，提取其中人物的头部，并将其重构为居中的悬浮 3D 玩具风格肖像，呈现出光泽感的塑料质感。去除火车内饰、桌子、瓶子、书本、毛衣、耳机和身体部分，仅保留头部，裁剪范围覆盖整个头部及耳朵。添加金丝边眼镜作为新配饰。将头部置于明亮饱和的蓝天背景下，点缀以柔软的卡通风格白云，采用简洁的极简构图、均匀的日光照明，营造出一种趣味十足的超现实摄影棚视觉效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "蓝天背景下的悬浮 3D 头像：此提示词可将真实人像参考图转换为风格化的悬浮 3D 头像，并配以简洁的天空背景，非常适合制作趣味头像或超现实风格的个人资料图。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "close-up",
+        "front-facing"
+      ],
+      "style": [
+        "3d",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, close-up, front-facing]。\n\nVisual style:\n[参考风格: 3d, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14726",
+      "14493",
+      "14861",
+      "15395",
+      "15463",
+      "15672"
+    ]
+  }
+}

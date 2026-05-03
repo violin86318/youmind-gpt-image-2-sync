@@ -1,0 +1,36 @@
+{
+  "id": "15169",
+  "prompt": "Detailed Ghibli-style portrait of a {argument name=\"character\" default=\"princess\"} kneeling beside a {argument name=\"background\" default=\"koi pond\"} brimming with glowing lotus blossoms. She wears a {argument name=\"clothing\" default=\"soft blue and cream kimono\"} embroidered with swirling waves and fox spirits. A delicate paper parasol rests against her shoulder, and her hair is crowned with cherry blossom branches threaded with tiny rainbow prisms that scatter gentle light onto the water’s surface.",
+  "translatedPrompt": "精细的吉卜力风格肖像，描绘了一位 {argument name=\"character\" default=\"公主\"} 跪在 {argument name=\"background\" default=\"锦鲤池\"} 边，池中盛开着发光的莲花。她身着一件 {argument name=\"clothing\" default=\"柔和蓝米色和服\"}，上面绣着漩涡状的波浪和狐灵图案。一把精致的纸伞靠在她的肩头，她的发间点缀着樱花枝，枝上穿插着细小的彩虹棱镜，将柔和的光线洒在水面上。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "吉卜力风格的公主与锦鲤池：创作一幅宁静的吉卜力风格场景，描绘锦鲤池畔的公主，强调柔和的光影与精致的传统服饰。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13446",
+      "13451",
+      "13653",
+      "13697",
+      "13698",
+      "13705"
+    ]
+  }
+}

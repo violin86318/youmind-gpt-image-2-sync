@@ -1,0 +1,45 @@
+{
+  "id": "15366",
+  "prompt": "A vibrant anime-style YouTube thumbnail for a livestream gaming broadcast, in a wide 16:9 composition, with a neon purple and pink streamer room. Center the scene on a cute catgirl VTuber sitting at a desk, shown from the waist up, leaning forward energetically with one hand on a computer mouse and the other hand reaching toward the viewer. She has {argument name=\"hair color\" default=\"light orange-blonde\"} bob-cut hair with soft bangs, fluffy brown-and-cream cat ears, and a visible cat tail. Her face is intentionally obscured by a solid rectangular censor block in the center. She wears a black-and-white maid-inspired outfit with a frilly white blouse, black dress bodice, puff sleeves, white ruffles, black ribbon bow, and a gold bell choker. Place a mechanical keyboard with bright RGB lighting on the desk, a glowing gaming mouse, and a streamer microphone on the far left with pink-purple LED lighting. Put 2 cat-themed desk items in the foreground: a plush cat face on the bottom left and a black cat-shaped mug on the bottom right. Behind her is a gaming chair with paw-print details. On the left side, add large bold Korean headline text in thick white block letters with black fill shadows and a glowing purple outline, stacked in 2 lines: {argument name=\"headline text\" default=\"방송중 대참사\"}. Below it, add a smaller yellow comic-style burst caption with black outline reading {argument name=\"sub text\" default=\"> 크리퍼 실화냐\"}. On the right side, show 1 large computer monitor angled inward, displaying a Minecraft-like scene with bright blue sky, green trees, water, and a large green Creeper popping out toward the viewer, outlined dramatically like a sticker cutout. Add starburst effects and neon accents around the monitor to heighten the chaos. Use exaggerated thumbnail aesthetics: ultra-saturated colors, sharp cel shading, thick outlines, glossy highlights, high contrast, dynamic perspective, and a clickworthy streamer-disaster mood.",
+  "translatedPrompt": "一张充满活力的动漫风格 YouTube 直播游戏封面图，采用 16:9 宽屏构图，背景为霓虹紫粉色调的主播房间。画面中心是一位可爱的猫娘 VTuber，她坐在书桌前，半身出镜，身体前倾，充满活力，一只手握着鼠标，另一只手向观众伸出。她留着 {argument name=\"hair color\" default=\"浅橘金色\"} 的波波头，配有柔和的刘海、毛茸茸的棕奶油色猫耳，身后可见猫尾。她的面部被画面中央的一个实心矩形遮挡块刻意遮盖。她穿着黑白配色的女仆装，包括荷叶边白衬衫、黑色连衣裙身、泡泡袖、白色褶边、黑色丝带蝴蝶结以及金色铃铛颈圈。书桌上放置着带有明亮 RGB 灯效的机械键盘、发光的电竞鼠标，最左侧放置着带有粉紫色 LED 灯光的直播麦克风。前景放置 2 个猫咪主题的桌面摆件：左下角是一个猫脸毛绒玩具，右下角是一个黑猫造型的马克杯。她身后是一把带有爪印细节的电竞椅。在左侧，添加醒目的粗体韩文标题，采用厚实的白色块状字体，配有黑色填充阴影和发光的紫色轮廓，分 2 行排列：{argument name=\"headline text\" default=\"방송중 대참사\"}。下方添加一个较小的黄色漫画风格爆炸气泡字幕，黑色轮廓，文字为 {argument name=\"sub text\" default=\"> 크리퍼 실화냐\"}。在右侧，展示 1 台向内倾斜的大型电脑显示器，屏幕显示着类似 Minecraft 的场景，包括明亮的蓝天、绿树、水面，以及一个巨大的绿色苦力怕向观众扑来，边缘经过戏剧性的贴纸式剪裁处理。在显示器周围添加星爆效果和霓虹装饰，以增强混乱感。采用夸张的封面美学：超饱和色彩、锐利的赛璐珞阴影、粗轮廓、光泽高光、高对比度、动态视角，营造出令人忍不住点击的直播事故氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫 VTuber Minecraft 直播封面图：一款炫酷的霓虹风格动漫直播封面图，包含猫娘主播、醒目的韩文标题以及极具戏剧性的 Minecraft 苦力怕场景，非常适合游戏视频或直播封面使用。",
+      "subject": "服饰",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [
+        "neon",
+        "high contrast"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[参考光线镜头: neon, high contrast]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14544",
+      "15689",
+      "15721",
+      "13744",
+      "13930",
+      "13935"
+    ]
+  }
+}

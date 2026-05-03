@@ -1,0 +1,49 @@
+{
+  "id": "15613",
+  "prompt": "A high-speed macro photograph of a soap bubble bursting in a sunlit garden, framed horizontally. On the far left edge, show the side profile of a young child with visible cheek, nose, lips, and part of one closed or half-closed eye, gently blowing toward the bubble. Place 1 large soap bubble near the center-left of the frame. The left half of the bubble remains intact as a smooth, glossy, iridescent sphere with vivid rainbow colors and strong reflective highlights, including a bright sun glint near the upper area and reflections of trees and garden scenery on the surface. The right half of the bubble is exploding outward into countless tiny droplets, mist, and thin web-like liquid filaments, frozen sharply in mid-air and spreading to the right side of the image. Emphasize the dramatic transition line between the intact sphere and the shattered spray. Use bright direct sunlight, very high shutter speed, crisp macro detail, high contrast, saturated color, dark green leafy background rendered as soft bokeh, and a Kodak Ektar 100 film look. Photorealistic, ultra-detailed, dynamic motion frozen in time, shallow depth of field.",
+  "translatedPrompt": "一张在阳光明媚的花园中拍摄的肥皂泡破裂高速微距照片，采用横向构图。在画面最左侧，展示一名幼童的侧脸，可见其脸颊、鼻子、嘴唇以及部分闭合或半闭的眼睛，正对着肥皂泡轻轻吹气。在画面中左侧放置 1 个大肥皂泡。肥皂泡的左半部分保持完整，呈现为一个光滑、有光泽且带有虹彩的球体，色彩鲜艳，并有强烈的反光高光，包括上方的明亮太阳光斑以及表面反射出的树木和花园景色。肥皂泡的右半部分向外爆裂，形成无数细小的水滴、薄雾和纤细的网状液体丝，在半空中被清晰地定格，并向画面右侧扩散。强调完整球体与破碎喷溅之间的戏剧性过渡线。使用明亮的直射阳光、极高的快门速度、清晰的微距细节、高对比度、饱和的色彩，背景为虚化处理的深绿色叶片，并呈现出 Kodak Ektar 100 胶片质感。超写实、超细节、定格动态瞬间、浅景深。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "肥皂泡破裂微距摄影：此提示词可生成一张超写实的高速微距图像，捕捉儿童吹出的肥皂泡破裂成水滴的瞬间，非常适合用于极具张力的自然摄影和动态捕捉视觉效果。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [
+        "high contrast",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[参考光线镜头: high contrast, shallow depth, depth of field]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14033",
+      "15795",
+      "14695",
+      "14794",
+      "15226",
+      "13752"
+    ]
+  }
+}

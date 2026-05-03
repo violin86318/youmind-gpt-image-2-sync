@@ -1,0 +1,47 @@
+{
+  "id": "14017",
+  "prompt": "A {argument name=\"photography style\" default=\"photorealistic portrait with shallow depth of field and soft bokeh\"} of a {argument name=\"subject\" default=\"young Japanese woman\"} looking back over her shoulder at the camera with a {argument name=\"expression\" default=\"gentle smile\"}. She is wearing a {argument name=\"attire\" default=\"light beige kimono with orange maple leaf patterns\"} and a gold obi. Her dark hair is styled in an elegant updo with loose strands framing her face, and she wears small pearl earrings. The background features an {argument name=\"setting\" default=\"autumn garden with vibrant red maple leaves\"}, with bright red foliage framing the top left and a heavily blurred, soft background creating a serene, cinematic atmosphere.",
+  "translatedPrompt": "一张 {argument name=\"photography style\" default=\"具有浅景深和柔和虚化效果的写实人像\"}，主角是一位 {argument name=\"subject\" default=\"年轻日本女性\"}，正回头看向镜头，脸上带着 {argument name=\"expression\" default=\"温柔的微笑\"}。她身着 {argument name=\"attire\" default=\"带有橙色枫叶图案的浅米色和服\"}，腰间系着金色腰带。深色长发盘成优雅的发髻，几缕发丝垂在脸颊旁，耳边戴着精致的珍珠耳环。背景设定为 {argument name=\"setting\" default=\"红叶绚烂的秋日庭院\"}，左上角点缀着鲜艳的红叶，背景经过深度虚化处理，营造出宁静而富有电影感的氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "写实风格秋季和服人像：生成一张极具真实感的人像照片，背景为色彩鲜艳、带有丰富虚化效果的秋景，主角身着和服。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13448",
+      "13451",
+      "13653",
+      "13697",
+      "15762",
+      "13698"
+    ]
+  }
+}

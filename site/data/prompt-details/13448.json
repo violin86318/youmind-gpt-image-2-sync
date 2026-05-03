@@ -1,0 +1,49 @@
+{
+  "id": "13448",
+  "prompt": "A highly detailed, photorealistic portrait of a {argument name=\"subject description\" default=\"beautiful young Asian woman\"} reclining gracefully on a {argument name=\"furniture\" default=\"white modern sofa\"}. She is wearing a {argument name=\"clothing\" default=\"short white silk slip dress\"} with thin straps, her {argument name=\"hair style\" default=\"long wavy dark brown hair\"} cascading softly over a white pillow. Her pose is relaxed and intimate, with one arm raised elegantly above her head and the other hand resting gently on her stomach, as she gazes directly at the camera with a soft, alluring expression. The scene is illuminated by {argument name=\"lighting style\" default=\"soft natural sunlight streaming through a window\"}, casting gentle, diffused shadows across her flawless skin and the pristine white upholstery. The aesthetic is bright, minimalist, and ethereal, captured with an 85mm lens for a cinematic, shallow depth of field and soft, glowing highlights.",
+  "translatedPrompt": "一张高度细腻、照片级写实风格的肖像，描绘了一位 {argument name=\"subject description\" default=\"美丽的年轻亚裔女性\"} 优雅地斜倚在 {argument name=\"furniture\" default=\"白色现代沙发\"} 上。她身穿一件 {argument name=\"clothing\" default=\"白色丝绸细肩带短裙\"}，{argument name=\"hair style\" default=\"深棕色长卷发\"} 柔顺地垂落在白色枕头上。她的姿态放松而亲密，一只手臂优雅地抬起过头顶，另一只手轻轻放在腹部，眼神直视镜头，表情柔和而迷人。场景由 {argument name=\"lighting style\" default=\"透过窗户射入的柔和自然阳光\"} 照亮，在无瑕的肌肤和纯净的白色软垫上投下柔和、漫射的阴影。整体美学风格明亮、极简且空灵，采用 85mm 镜头拍摄，呈现出电影般的浅景深效果以及柔和、发光的高光。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "照片级写实躺姿肖像：生成一张高质量、照片级写实风格的女性在柔和自然光下于沙发上放松的图像。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "minimalist"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "lens",
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, minimalist]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, lens, camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13451",
+      "14017",
+      "13697",
+      "13653",
+      "14732",
+      "15762"
+    ]
+  }
+}

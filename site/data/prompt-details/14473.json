@@ -1,0 +1,45 @@
+{
+  "id": "14473",
+  "prompt": "A soft anime-style bust portrait of a cute young woman centered on a plain warm off-white background, drawn with clean delicate line art and flat pastel coloring. She has very long straight {argument name=\"hair color\" default=\"pale sky blue\"} hair with wispy strands, full bangs parted slightly near the center, and large matching blue eyes with glossy highlights. Her expression is shy and puzzled, with slightly raised inner eyebrows, faint pink blush on her cheeks, and a small open mouth. She is looking directly at the viewer while lightly touching her lower lip with one index finger in a thoughtful, hesitant pose. She wears an oversized loose {argument name=\"top color\" default=\"light blue\"} sweatshirt with long sleeves that partly cover her hand. Frame the image from the chest up, with the head slightly tilted, giving a gentle, innocent, dreamy feeling. Use a minimalist composition, no accessories, no extra objects, no scenery, and no text. Emphasize a monochrome blue palette, airy simplicity, subtle sketch-like outlines, and a clean Japanese illustration aesthetic suitable for a soft personal avatar.",
+  "translatedPrompt": "一张柔和的动漫风格半身像，画面中心是一位可爱的年轻女性，背景为纯净的暖米白色，采用简洁细腻的线条和扁平的柔和配色绘制。她拥有非常长的直发，颜色为 {argument name=\"hair color\" default=\"淡天蓝色\"}，发丝轻盈，刘海在中间略微分开，并配有一双带有光泽亮点的蓝色大眼睛。她的表情羞涩而困惑，眉头微微上扬，脸颊带有淡淡的粉色腮红，小嘴微张。她正注视着观众，一只食指轻轻触碰下唇，呈现出一种沉思且犹豫的姿态。她穿着一件超大号的宽松 {argument name=\"top color\" default=\"浅蓝色\"} 卫衣，长袖遮住了部分手部。画面取景自胸部以上，头部略微倾斜，营造出一种温柔、纯真、梦幻的感觉。采用极简主义构图，无配饰、无额外物体、无背景、无文字。强调单色调的蓝色配色、轻盈的简约感、微妙的素描式轮廓，以及适合作为柔和个人头像的日系插画美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "柔和蓝色动漫少女肖像：此提示词可生成一张极简主义的柔和动漫风格半身像，描绘了一位身穿超大号浅蓝色卫衣的蓝发少女，非常适合用作头像、个人资料图片或柔和的角色艺术。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "anime",
+        "minimalist"
+      ],
+      "lightingCamera": [],
+      "text": "禁止额外文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: anime, minimalist]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n禁止额外文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14474",
+      "14965",
+      "14408",
+      "14679",
+      "14816",
+      "14886"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "13947",
+  "prompt": "A high-quality anime illustration of an {argument name=\"character description\" default=\"anime elf girl with silver twin braids and green eyes\"}. She has pale skin, pointed elf ears adorned with red drop earrings, and a calm, neutral expression as she looks slightly upward. She is wearing a {argument name=\"outfit\" default=\"white capelet with gold trim and red gems over a black and white striped shirt\"}. The scene is set outdoors during the daytime with beautiful dappled sunlight filtering through the canopy of a large tree on the right, casting soft shadows on her face and clothes. She stands on a cobblestone path lined with green grass and small white flowers. To her left is a rustic wooden signpost with three directional planks bearing the text {argument name=\"signpost text top\" default=\"北側諸国\"}, {argument name=\"signpost text middle\" default=\"グラナト山\"}, and {argument name=\"signpost text bottom\" default=\"オイサースト\"}. In the blurred background, a picturesque fantasy town with a castle sits on a lush green hill under a bright sky.",
+  "translatedPrompt": "一张高质量的动漫插画，主角是 {argument name=\"character description\" default=\"一位留着银色双马尾、拥有绿色眼睛的动漫精灵少女\"}。她皮肤白皙，尖尖的精灵耳朵上戴着红色水滴状耳环，神情平静自然，微微抬头仰望。她身穿 {argument name=\"outfit\" default=\"一件带有金色饰边和红色宝石的白色斗篷，内搭黑白条纹衬衫\"}。场景设定在白天的户外，美丽的斑驳阳光透过右侧大树的树冠洒下，在她的脸庞和衣物上投下柔和的阴影。她站在铺满鹅卵石的小径上，路边长满绿草和白色小花。她的左侧是一个质朴的木制路标，上面有三块指示牌，分别写着 {argument name=\"signpost text top\" default=\"北側諸国\"}、{argument name=\"signpost text middle\" default=\"グラナト山\"} 和 {argument name=\"signpost text bottom\" default=\"オイサースト\"}。在模糊的背景中，一座风景如画的奇幻城镇坐落在明亮天空下的郁郁葱葱的山丘上，远处还有一座城堡。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "森林小径上的动漫精灵少女：生成一张高质量的动漫插画，描绘了一位站在阳光明媚的小径上的精灵角色，并配有可自定义的路标。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13467",
+      "13679",
+      "13770",
+      "13801",
+      "13912",
+      "13933"
+    ]
+  }
+}

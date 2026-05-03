@@ -1,0 +1,52 @@
+{
+  "id": "15075",
+  "prompt": "An ultra-detailed wide-angle rainforest clearing photographed from a very low ground-level perspective, with the camera almost at the edge of a shallow muddy puddle. Dense tropical jungle vegetation forms a circular wall around the clearing, with tangled vines, broad wet leaves, shrubs, and tree trunks heavily covered in greenery. The foreground is slick with brown water, leaf litter, and reflective puddles, including a fallen branch stretching diagonally across the lower right area and a rounded mossy rock on the lower left. The center opens into a patch of low green plants, while the background rises into thick jungle canopy. Bright midday sunlight breaks through the treetops in the upper right, creating strong rays, haze, glowing highlights, and high contrast against a partly cloudy blue-and-white sky visible through the canopy. Use a dramatic fisheye or ultra-wide lens effect with subtle barrel distortion, immersive environmental scale, rich saturated greens, wet textures, realistic natural lighting, crisp foliage detail, and a photorealistic documentary nature-photography look. Include a faint, unnatural grid-like speckle noise artifact pattern across the image, especially visible in darker foliage and muddy ground, as if from an image-generation quality bug.",
+  "translatedPrompt": "一张超细节的广角雨林空地照片，采用极低的地面视角拍摄，相机几乎贴近浅泥坑的边缘。茂密的热带丛林植被在空地周围形成了一圈环形墙，交织的藤蔓、宽大的湿叶、灌木和树干上覆盖着厚厚的绿植。前景是湿滑的棕色泥水、落叶和反光水坑，包括一根斜穿右下区域的倒木和左下角一块圆润的苔藓岩石。中心处是一片低矮的绿色植物，背景则是高耸的茂密丛林树冠。明亮的正午阳光从右上方的树梢间穿透而下，形成强烈的射线、薄雾、发光高光，并与透过树冠可见的局部多云蓝白天空形成高对比度。使用具有微妙桶形畸变的戏剧性鱼眼或超广角镜头效果，营造沉浸式的环境尺度、浓郁饱和的绿色、湿润的质感、逼真的自然光影、清晰的叶片细节以及写实的纪录片式自然摄影风格。在图像中加入微弱且不自然的网格状斑点噪点伪影图案，在阴暗的叶片和泥泞地面上尤为明显，模拟图像生成过程中的质量缺陷。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "带有斑点伪影的雨林空地：此提示词用于生成一张具有戏剧性阳光和刻意添加的网格状斑点伪影的超写实热带丛林空地场景，适用于演示 AI 生成的自然摄影作品中的图像质量问题。",
+      "subject": "综合主体",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "grid"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "natural light",
+        "high contrast",
+        "lens",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[参考风格: realistic, photorealistic, documentary]。\n\nLighting and camera:\n[参考光线镜头: natural light, high contrast, lens, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14860",
+      "15808",
+      "14614",
+      "14667",
+      "15628",
+      "14440"
+    ]
+  }
+}

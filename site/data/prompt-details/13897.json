@@ -1,0 +1,38 @@
+{
+  "id": "13897",
+  "prompt": "{\n  \"type\": \"social media profile UI mockup\",\n  \"theme\": \"{argument name=\\\"theme era\\\" default=\\\"Ming Dynasty\\\"}\",\n  \"app_style\": \"{argument name=\\\"app style\\\" default=\\\"X/Twitter dark mode\\\"}\",\n  \"header\": {\n    \"banner_image\": \"traditional Chinese palace complex at sunset\",\n    \"avatar\": \"portrait of emperor in yellow robes\",\n    \"name\": \"{argument name=\\\"profile name\\\" default=\\\"朱元璋\\\"}\",\n    \"handle\": \"{argument name=\\\"profile handle\\\" default=\\\"@大明皇帝朱元璋\\\"}\",\n    \"bio\": \"{argument name=\\\"bio text\\\" default=\\\"洪武皇帝，大明开国皇帝\\\"}\",\n    \"location\": \"应天府 (南京)\",\n    \"joined\": \"洪武元年 (1368) 即位\",\n    \"stats\": \"12 关注, 45.8万 粉丝\"\n  },\n  \"navigation_tabs\": [\"帖子\", \"回复\", \"媒体\", \"喜欢\"],\n  \"layout\": {\n    \"left_column_feed\": {\n      \"count\": 6,\n      \"items\": [\n        { \"author\": \"朱元璋\", \"handle\": \"@大明皇帝朱元璋\", \"content_summary\": \"proclamation of new dynasty\", \"tags\": [\"#洪武元年\", \"#大明开国\", \"#奉天承运\"] },\n        { \"author\": \"中书省公告\", \"handle\": \"@朝廷公文\", \"content_summary\": \"official edict on taxes\", \"tags\": [\"#新政发布\"] },\n        { \"author\": \"徐达\", \"handle\": \"@大明左相徐达\", \"content_summary\": \"military report\", \"tags\": [\"#征北将军奏报\"] },\n        { \"author\": \"凤阳老农\", \"handle\": \"@老农张三\", \"content_summary\": \"peasant expressing relief\", \"tags\": [\"#百姓心声\"] },\n        { \"author\": \"国子监学子\", \"handle\": \"@诸生李明\", \"content_summary\": \"scholar asking about exams\", \"tags\": [\"#科举\", \"#读书人\"] },\n        { \"author\": \"锦衣卫 (未认证)\", \"handle\": \"@夜行者\", \"content_summary\": \"secret police warning\", \"tags\": [\"#你猜我是谁\"] }\n      ]\n    },\n    \"right_column_sidebar\": {\n      \"sections\": [\n        { \"title\": \"趋势: 洪武元年\", \"count\": 4, \"labels\": [\"#大明开国\", \"#朱元璋登基\", \"#洪武新政\", \"#天下归一\"] },\n        { \"title\": \"推荐关注\", \"count\": 3, \"labels\": [\"刘伯温\", \"常遇春\", \"锦衣卫\"] },\n        { \"title\": \"promo_card\", \"count\": 1, \"label\": \"大明朝廷公告\", \"image\": \"palace building\" },\n        { \"title\": \"正在直播\", \"count\": 2, \"labels\": [\"应天府庆典\", \"洪武元年大典\"], \"thumbnails\": \"grand ceremonies\" }\n      ]\n    },\n    \"system_ui\": {\n      \"top_bar\": \"time 09:32, signal, wifi, battery, X logo\",\n      \"bottom_bar\": \"home, search, notifications, messages icons\",\n      \"floating_button\": \"+\"\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"移动端社交媒体 App 界面模型\",\n  \"theme\": \"深色模式，中国明朝历史主题\",\n  \"header\": {\n    \"banner_image\": \"夕阳下的中国传统宫殿建筑群\",\n    \"avatar\": \"身着黄袍的中国皇帝肖像\",\n    \"profile_info\": {\n      \"name\": \"{argument name=\\\"profile name\\\" default=\\\"朱元璋\\\"}\",\n      \"verification\": \"蓝色认证勾选\",\n      \"handle\": \"{argument name=\\\"profile handle\\\" default=\\\"@大明皇帝朱元璋\\\"}\",\n      \"bio\": \"{argument name=\\\"profile bio\\\" default=\\\"洪武皇帝，大明开国皇帝\\\"}\",\n      \"location\": \"应天府 (南京)\",\n      \"joined\": \"洪武元年 (1368) 即位\",\n      \"stats\": \"12 个正在关注，45.8K 位粉丝\"\n    },\n    \"tabs\": [\"帖子\", \"回复\", \"媒体\", \"喜欢\"]\n  },\n  \"main_feed\": {\n    \"post_count\": 6,\n    \"posts\": [\n      {\n        \"author\": \"朱元璋\",\n        \"content\": \"{argument name=\\\"first post text\\\" default=\\\"今日受天命，登基称帝，国号大明，改元洪武。自此驱逐胡虏，恢复中华，百废待兴。天下百姓，当安居乐业，朕必以身作则！\\\"}\",\n        \"tags\": [\"#洪武元年\", \"#大明开国\", \"#奉天承运\"]\n      },\n      {\n        \"author\": \"中书省公告\",\n        \"content\": \"奉天承运：自洪武元年起，废除元朝旧制，整顿吏治，实施轻徭薄赋。各府州县，三日内上报户籍、田亩、赋税。敢有隐瞒虚报者，依律处置，决不宽贷。\",\n        \"tags\": [\"#新政发布\"]\n      },\n      {\n        \"author\": \"徐达\",\n        \"content\": \"北伐虽定，然北元残部犹在。臣请继续整肃军备，修缮边城，以固大明江山。陛下英明，必使四海升平！\",\n        \"tags\": [\"#征北将军奏报\"]\n      },\n      {\n        \"author\": \"凤阳老农\",\n        \"content\": \"终于换了新皇帝。以前打仗到处逃，现在总算能安心种地了。听说新皇帝也是苦出身，希望真能为百姓着想。\",\n        \"tags\": [\"#百姓心声\"]\n      },\n      {\n        \"author\": \"国子监学子\",\n        \"content\": \"新朝初立，科举是否恢复？诸生翘首以盼。愿以文章报国，不负洪武之治！\",\n        \"tags\": [\"#科举\", \"#读书人\"]\n      },\n      {\n        \"author\": \"锦衣卫 (未认证)\",\n        \"content\": \"最近风声很紧。有些人，最好低调一点。\",\n        \"tags\": [\"#你猜我是谁\"]\n      }\n    ]\n  },\n  \"right_sidebar\": {\n    \"trending\": {\n      \"title\": \"趋势：洪武元年\",\n      \"topic_count\": 4,\n      \"topics\": [\n        \"{argument name=\\\"trending topic\\\" default=\\\"#大明开国\\\"}\",\n        \"#朱元璋登基\",\n        \"#洪武新政\",\n        \"#天下归一\"\n      ]\n    },\n    \"suggested_follows\": {\n      \"title\": \"推荐关注\",\n      \"account_count\": 3,\n      \"accounts\": [\"刘伯温\", \"常遇春\", \"锦衣卫\"]\n    },\n    \"announcement_card\": {\n      \"title\": \"大明朝廷公告\",\n      \"image\": \"宫殿建筑\"\n    },\n    \"live_streams\": {\n      \"title\": \"正在直播\",\n      \"stream_count\": 2,\n      \"streams\": [\"应天府庆典\", \"洪武元年大典\"]\n    }\n  },\n  \"navigation\": {\n    \"bottom_bar_icons\": [\"首页\", \"搜索\", \"通知\", \"消息\"],\n    \"floating_action_button\": \"加号图标\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "历史皇帝社交媒体 UI 界面模型：一个详细的 JSON 提示词，用于生成以历史人物为主题的深色模式社交媒体界面，包含个人资料页眉、6 条动态信息流，以及包含热门话题和推荐账号的侧边栏。",
+      "subject": "文字符号",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13657",
+      "13683",
+      "13761",
+      "15397",
+      "13504",
+      "13813"
+    ]
+  }
+}

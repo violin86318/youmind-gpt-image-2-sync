@@ -1,0 +1,35 @@
+{
+  "id": "15170",
+  "prompt": "Delicate Japanese-inspired art of {argument name=\"birds\" default=\"two blue and teal cranes\"} flying among {argument name=\"flowers\" default=\"oversized pink chrysanthemums\"} and {argument name=\"foliage\" default=\"indigo foliage\"}. Background of soft gradients fading into a pale sun. Elegant gold outlines, pastel gradients, and serene, traditional composition. Perfect for luxury or cultural prints.",
+  "translatedPrompt": "精致的日式风格艺术，描绘了 {argument name=\"birds\" default=\"两只蓝青色仙鹤\"} 在 {argument name=\"flowers\" default=\"超大粉色菊花\"} 和 {argument name=\"foliage\" default=\"靛蓝色叶片\"} 间飞翔的场景。背景为柔和的渐变色，逐渐淡入苍白的太阳。画面采用优雅的金色轮廓、柔和的渐变色，以及宁静的传统构图。非常适合用于高端印刷品或文化艺术品。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日式仙鹤与菊花艺术：一份详细的提示词，用于创作传统日式风格艺术，画面包含蓝色仙鹤与粉色菊花，并辅以优雅的金色轮廓和柔和的渐变色。",
+      "subject": "综合主体",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "luxury"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "风格"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: luxury]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14132",
+      "15580",
+      "13787",
+      "13785",
+      "13931",
+      "13970"
+    ]
+  }
+}

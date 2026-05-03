@@ -1,0 +1,50 @@
+{
+  "id": "13605",
+  "prompt": "A clean, minimalist 3D render visualizing a {argument name=\"concept\" default=\"neural network data processing pipeline\"}. On the left, a single white cable with a glowing {argument name=\"accent color\" default=\"blue\"} tip splits into multiple thin, sweeping white strands. These strands feed into a linear sequence of exactly 10 transparent, glass-like rectangular panels standing upright on a {argument name=\"environment\" default=\"sterile white stepped surface\"}. Each glass panel illustrates a different stage of transformation using geometric patterns in white and {argument name=\"accent color\" default=\"blue\"}. From left to right, the panels feature: floating dashes, a 3x3 grid of concentric circles, a dense dot matrix, scattered white pixel blocks, horizontal dashed lines, a fine mesh grid, and finally 3D cubic structures. The lighting is bright, soft, and high-key, creating a pristine corporate tech aesthetic with a shallow depth of field that gently blurs the furthest panels.",
+  "translatedPrompt": "一个简洁、极简主义的 3D 渲染图，可视化了 {argument name=\"concept\" default=\"神经网络数据处理流水线\"}。在左侧，一根带有发光 {argument name=\"accent color\" default=\"蓝色\"} 尖端的白色线缆分叉成多条细长、呈弧形的白色线束。这些线束汇入一个由 10 块透明玻璃状矩形面板组成的线性序列，这些面板垂直立于 {argument name=\"environment\" default=\"无菌白色阶梯表面\"} 上。每块玻璃面板都使用白色和 {argument name=\"accent color\" default=\"蓝色\"} 的几何图案展示了不同的转换阶段。从左到右，面板依次呈现：浮动的短横线、3x3 同心圆网格、密集的点阵、分散的白色像素块、水平虚线、精细的网格，以及最后的 3D 立方体结构。光线明亮、柔和且高调，营造出一种纯净的企业科技美感，浅景深效果使最远处的面板呈现出柔和的模糊感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "3D 抽象数据流水线可视化：生成一个简洁、极简主义的 3D 渲染图，展示使用玻璃面板和几何图案的顺序数据处理流水线。",
+      "subject": "综合主体",
+      "scene": "信息图/图解",
+      "composition": [
+        "grid",
+        "horizontal"
+      ],
+      "style": [
+        "3d",
+        "minimalist"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "教程流程、方法论、商业流程、食谱步骤",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, horizontal]。\n\nVisual style:\n[参考风格: 3d, minimalist]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13883",
+      "15292",
+      "14048",
+      "13924",
+      "14870",
+      "13611"
+    ]
+  }
+}

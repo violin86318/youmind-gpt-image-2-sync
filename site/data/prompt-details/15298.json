@@ -1,0 +1,55 @@
+{
+  "id": "15298",
+  "prompt": "{\"type\":\"Chinese infographic poster\",\"topic\":\"the life cycle of garlic from fresh to spoiled\",\"style\":\"clean editorial food infographic, high information density, premium social-media educational poster, warm neutral palette, realistic cutaway food photography combined with flat vector labels\",\"background\":{\"color\":\"light warm beige\",\"texture\":\"smooth paper-like minimal backdrop\"},\"header\":{\"title\":\"大蒜的一生\",\"subtitle\":\"从新鲜到变质，了解大蒜的自然变化过程\",\"decorations\":{\"count\":2,\"items\":[\"small garlic icon left of title\",\"small garlic icon right of title\"]}},\"centerpiece\":{\"subject\":\"one horizontally sliced garlic bulb shown front-facing as a cross-section\",\"rendering\":\"ultra-detailed realistic macro food photo\",\"position\":\"center\",\"lighting\":\"soft studio lighting with gentle shadow below\",\"segmentation\":{\"count\":5,\"divider_style\":\"vertical dashed guide lines\",\"segments\":[{\"index\":1,\"label\":\"新鲜期\",\"badge_color\":\"olive green\",\"visual_state\":\"leftmost section bright white flesh, smooth juicy clove surface, intact outer skin\"},{\"index\":2,\"label\":\"成熟期\",\"badge_color\":\"yellow green\",\"visual_state\":\"slightly cream-yellow clove, full dense texture, still glossy\"},{\"index\":3,\"label\":\"发芽期\",\"badge_color\":\"golden yellow\",\"visual_state\":\"center clove with 2 visible green sprouts emerging upward from inside, flesh slightly wrinkled\"},{\"index\":4,\"label\":\"干瘪期\",\"badge_color\":\"orange\",\"visual_state\":\"papery skin, dehydrated and shriveled clove layers, hollow dry feel\"},{\"index\":5,\"label\":\"变质期\",\"badge_color\":\"dark brown\",\"visual_state\":\"rightmost section dark rotten interior with black-brown mold spots and white fungal patches\"}]}} ,\"information_grid\":{\"position\":\"below centerpiece\",\"columns\":5,\"rows\":3,\"row_headers\":[\"外观特点\",\"内部变化\",\"食用建议\"],\"column_titles\":[\"新鲜期\",\"成熟期\",\"发芽期\",\"干瘪期\",\"变质期\"],\"cells\":[{\"row\":\"外观特点\",\"column\":\"新鲜期\",\"text\":\"蒜皮洁白完整 蒜瓣饱满紧实 表面光滑\"},{\"row\":\"外观特点\",\"column\":\"成熟期\",\"text\":\"蒜皮乳白略黄 蒜瓣饱满坚实 表面光滑\"},{\"row\":\"外观特点\",\"column\":\"发芽期\",\"text\":\"蒜瓣中间发芽 嫩芽呈绿色 蒜皮微皱\"},{\"row\":\"外观特点\",\"column\":\"干瘪期\",\"text\":\"蒜皮干燥皱缩 蒜瓣变软 有空隙感\"},{\"row\":\"外观特点\",\"column\":\"变质期\",\"text\":\"蒜瓣发黑、发霉 有异味、流汁 霉斑明显\"},{\"row\":\"内部变化\",\"column\":\"新鲜期\",\"text\":\"水分充足 淀粉含量高 糖分低 辛辣成分丰富\"},{\"row\":\"内部变化\",\"column\":\"成熟期\",\"text\":\"淀粉逐渐转化为糖 糖分上升 香味浓郁 水分适中\"},{\"row\":\"内部变化\",\"column\":\"发芽期\",\"text\":\"芽开始生长 营养消耗 糖分提高 辛辣味减弱\"},{\"row\":\"内部变化\",\"column\":\"干瘪期\",\"text\":\"水分流失 质地变软 营养流失 口感变差\"},{\"row\":\"内部变化\",\"column\":\"变质期\",\"text\":\"细菌/霉菌滋生 营养成分被破坏 可能产生有害物质 有强烈异味\"},{\"row\":\"食用建议\",\"column\":\"新鲜期\",\"text\":\"最佳食用期 生吃、凉拌、炒菜均可 营养丰富\",\"icon\":\"green check\"},{\"row\":\"食用建议\",\"column\":\"成熟期\",\"text\":\"适合食用 适合多种烹饪 蒜香浓郁 口感最佳\",\"icon\":\"green check\"},{\"row\":\"食用建议\",\"column\":\"发芽期\",\"text\":\"可食用 去芽后食用 适合炖煮、烘焙 风味略减\",\"icon\":\"yellow warning\"},{\"row\":\"食用建议\",\"column\":\"干瘪期\",\"text\":\"不建议生食 适合做蒜香油、炖汤、调味 口感不佳\",\"icon\":\"yellow warning\"},{\"row\":\"食用建议\",\"column\":\"变质期\",\"text\":\"不可食用 已变质腐坏 含有害物质 请丢弃\",\"icon\":\"red cross\"}]},\"timeline\":{\"position\":\"bottom\",\"title\":\"时间参考\",\"count\":5,\"items\":[{\"label\":\"新鲜期\",\"range\":\"0–2周\",\"color\":\"olive green\"},{\"label\":\"成熟期\",\"range\":\"2–4周\",\"color\":\"yellow green\"},{\"label\":\"发芽期\",\"range\":\"4–8周\",\"color\":\"golden yellow\"},{\"label\":\"干瘪期\",\"range\":\"8–12周\",\"color\":\"orange\"},{\"label\":\"变质期\",\"range\":\"12周以上\",\"color\":\"dark brown\"}],\"design\":\"horizontal arrow timeline with 5 colored circular nodes\"},\"footer\":{\"tip_label\":\"小贴士：\",\"tip_text\":\"大蒜建议存放在阴凉、通风、干燥处，避免潮湿和阳光直射，可延缓变质哦！\",\"style\":\"rounded beige banner\"},\"layout\":{\"format\":\"vertical poster 3:4\",\"sections\":[{\"title\":\"header\",\"position\":\"top\"},{\"title\":\"5-stage garlic cross-section\",\"position\":\"upper middle\"},{\"title\":\"3-row by 5-column information table\",\"position\":\"lower middle\"},{\"title\":\"时间参考 timeline\",\"position\":\"bottom\"},{\"title\":\"tip banner\",\"position\":\"bottom edge\"}]},\"quality\":\"high-resolution, crisp typography, polished infographic composition, visually balanced, suitable for Xiaohongshu educational post\"}",
+  "translatedPrompt": "{\"type\":\"中文信息图海报\",\"topic\":\"大蒜从新鲜到变质的生命周期\",\"style\":\"简洁的编辑类美食信息图，高信息密度，优质社交媒体科普海报，温暖中性色调，逼真的食物剖面摄影结合扁平化矢量标签\",\"background\":{\"color\":\"浅暖米色\",\"texture\":\"平滑纸质感极简背景\"},\"header\":{\"title\":\"大蒜的一生\",\"subtitle\":\"从新鲜到变质，了解大蒜的自然变化过程\",\"decorations\":{\"count\":2,\"items\":[\"标题左侧小蒜头图标\",\"标题右侧小蒜头图标\"]}},\"centerpiece\":{\"subject\":\"一个水平切开的蒜头，正面展示横截面\",\"rendering\":\"超高清逼真微距食物摄影\",\"position\":\"中心\",\"lighting\":\"柔和摄影棚灯光，下方带有轻微阴影\",\"segmentation\":{\"count\":5,\"divider_style\":\"垂直虚线引导线\",\"segments\":[{\"index\":1,\"label\":\"新鲜期\",\"badge_color\":\"橄榄绿\",\"visual_state\":\"最左侧部分果肉洁白，蒜瓣表面光滑多汁，外皮完整\"},{\"index\":2,\"label\":\"成熟期\",\"badge_color\":\"黄绿色\",\"visual_state\":\"蒜瓣呈乳黄色，质地饱满致密，依然有光泽\"},{\"index\":3,\"label\":\"发芽期\",\"badge_color\":\"金黄色\",\"visual_state\":\"中心蒜瓣可见 2 个向上萌发的绿色嫩芽，果肉略有皱缩\"},{\"index\":4,\"label\":\"干瘪期\",\"badge_color\":\"橙色\",\"visual_state\":\"外皮呈纸质感，蒜瓣脱水干瘪，内部有空隙感\"},{\"index\":5,\"label\":\"变质期\",\"badge_color\":\"深褐色\",\"visual_state\":\"最右侧部分内部腐烂，带有黑褐色霉斑和白色真菌斑块\"}]}} ,\"information_grid\":{\"position\":\"中心图下方\",\"columns\":5,\"rows\":3,\"row_headers\":[\"外观特点\",\"内部变化\",\"食用建议\"],\"column_titles\":[\"新鲜期\",\"成熟期\",\"发芽期\",\"干瘪期\",\"变质期\"],\"cells\":[{\"row\":\"外观特点\",\"column\":\"新鲜期\",\"text\":\"蒜皮洁白完整 蒜瓣饱满紧实 表面光滑\"},{\"row\":\"外观特点\",\"column\":\"成熟期\",\"text\":\"蒜皮乳白略黄 蒜瓣饱满坚实 表面光滑\"},{\"row\":\"外观特点\",\"column\":\"发芽期\",\"text\":\"蒜瓣中间发芽 嫩芽呈绿色 蒜皮微皱\"},{\"row\":\"外观特点\",\"column\":\"干瘪期\",\"text\":\"蒜皮干燥皱缩 蒜瓣变软 有空隙感\"},{\"row\":\"外观特点\",\"column\":\"变质期\",\"text\":\"蒜瓣发黑、发霉 有异味、流汁 霉斑明显\"},{\"row\":\"内部变化\",\"column\":\"新鲜期\",\"text\":\"水分充足 淀粉含量高 糖分低 辛辣成分丰富\"},{\"row\":\"内部变化\",\"column\":\"成熟期\",\"text\":\"淀粉逐渐转化为糖 糖分上升 香味浓郁 水分适中\"},{\"row\":\"内部变化\",\"column\":\"发芽期\",\"text\":\"芽开始生长 营养消耗 糖分提高 辛辣味减弱\"},{\"row\":\"内部变化\",\"column\":\"干瘪期\",\"text\":\"水分流失 质地变软 营养流失 口感变差\"},{\"row\":\"内部变化\",\"column\":\"变质期\",\"text\":\"细菌/霉菌滋生 营养成分被破坏 可能产生有害物质 有强烈异味\"},{\"row\":\"食用建议\",\"column\":\"新鲜期\",\"text\":\"最佳食用期 生吃、凉拌、炒菜均可 营养丰富\",\"icon\":\"绿色勾选\"},{\"row\":\"食用建议\",\"column\":\"成熟期\",\"text\":\"适合食用 适合多种烹饪 蒜香浓郁 口感最佳\",\"icon\":\"绿色勾选\"},{\"row\":\"食用建议\",\"column\":\"发芽期\",\"text\":\"可食用 去芽后食用 适合炖煮、烘焙 风味略减\",\"icon\":\"黄色警告\"},{\"row\":\"食用建议\",\"column\":\"干瘪期\",\"text\":\"不建议生食 适合做蒜香油、炖汤、调味 口感不佳\",\"icon\":\"黄色警告\"},{\"row\":\"食用建议\",\"column\":\"变质期\",\"text\":\"不可食用 已变质腐坏 含有害物质 请丢弃\",\"icon\":\"红色叉号\"}]},\"timeline\":{\"position\":\"底部\",\"title\":\"时间参考\",\"count\":5,\"items\":[{\"label\":\"新鲜期\",\"range\":\"0–2周\",\"color\":\"橄榄绿\"},{\"label\":\"成熟期\",\"range\":\"2–4周\",\"color\":\"黄绿色\"},{\"label\":\"发芽期\",\"range\":\"4–8周\",\"color\":\"金黄色\"},{\"label\":\"干瘪期\",\"range\":\"8–12周\",\"color\":\"橙色\"},{\"label\":\"变质期\",\"range\":\"12周以上\",\"color\":\"深褐色\"}],\"design\":\"带有 5 个彩色圆形节点的水平箭头时间轴\"},\"footer\":{\"tip_label\":\"小贴士：\",\"tip_text\":\"大蒜建议存放在阴凉、通风、干燥处，避免潮湿和阳光直射，可延缓变质哦！\",\"style\":\"圆角米色横幅\"},\"layout\":{\"format\":\"垂直海报 3:4\",\"sections\":[{\"title\":\"页眉\",\"position\":\"顶部\"},{\"title\":\"5 阶段大蒜剖面图\",\"position\":\"中上部\"},{\"title\":\"3 行 5 列信息表\",\"position\":\"中下部\"},{\"title\":\"时间参考时间轴\",\"position\":\"底部\"},{\"title\":\"小贴士横幅\",\"position\":\"底边\"}]},\"quality\":\"高分辨率，排版清晰，信息图构图精致，视觉平衡，适合小红书科普帖\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "大蒜生命周期信息图：一张中文科普信息图海报，通过剖面图展示大蒜从新鲜到变质的 5 个阶段，并配有对比表和时间轴，非常适合社交媒体的知识类内容。",
+      "subject": "信息结构",
+      "scene": "海报/封面",
+      "composition": [
+        "grid",
+        "cutaway",
+        "front-facing",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "editorial",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, cutaway, front-facing, vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, editorial, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15467",
+      "15088",
+      "15247",
+      "15248",
+      "15296",
+      "14642"
+    ]
+  }
+}

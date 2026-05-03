@@ -1,0 +1,51 @@
+{
+  "id": "14575",
+  "prompt": "A whimsical, photorealistic product-style food photograph of 8 ice cream cones lined up in a straight row on a matte black rectangular stand, each scoop designed to look like a different planet of the solar system. The scene is shot at eye level with a shallow depth of field and creamy urban bokeh in the background, suggesting an outdoor city street or café setting in soft daylight. From left to right, show exactly 8 cones: a gray speckled Mercury scoop, a yellow-brown swirling Venus scoop, a blue-and-green Earth scoop with white cloud patterns and a small blue drip, a deep red Mars scoop with darker marbling and red melted drips, a striped Jupiter scoop with its Great Red Spot visible, a pale tan Saturn scoop with a thin ring encircling it, a light icy blue Uranus scoop with a blue drip, and a vivid cobalt-blue Neptune scoop with glossy texture and blue dripping melt. Use crisp waffle cones, realistic melting details, glossy frozen surfaces, careful studio-quality lighting, and a centered symmetrical composition. Keep the planets highly recognizable but rendered as believable ice cream, with the black stand spanning the width of the frame and the background softly blurred.",
+  "translatedPrompt": "一张充满奇思妙想、产品风格的写实美食照片，8 个冰淇淋甜筒在哑光黑色长方形支架上排成一列，每个冰淇淋球都被设计成太阳系中不同行星的模样。场景采用平视角度拍摄，具有浅景深效果，背景为柔和的城市虚化光斑，营造出户外街道或咖啡馆的柔和日光氛围。从左到右依次展示 8 个甜筒：灰色斑点的水星球、黄褐色漩涡的金星球、带有白色云纹和蓝色小滴的蓝绿色地球球、带有深色大理石纹和红色融化液滴的深红色火星球、带有大红斑纹理的条纹木星球、环绕着细环的浅棕色土星球、带有蓝色液滴的浅冰蓝色天王星球，以及具有光泽质感和蓝色融化液滴的鲜艳钴蓝色海王星球。使用酥脆的华夫饼甜筒，呈现逼真的融化细节、光泽的冷冻表面、考究的摄影棚级布光以及居中的对称构图。确保行星高度可辨认，同时呈现出逼真的冰淇淋质感，黑色支架横跨画面宽度，背景经过柔和虚化处理。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "太阳系冰淇淋甜筒：此提示词可生成一组充满奇思妙想的 8 款行星主题冰淇淋甜筒写实照片，非常适合超现实美食艺术、创意广告视觉效果或社交媒体概念图像。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [
+        "centered",
+        "symmetrical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "studio"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, studio]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15775",
+      "14807",
+      "15068",
+      "15310",
+      "15776",
+      "15536"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "14258",
+  "prompt": "A cinematic studio portrait of two men facing each other in a tense stare-down against a plain dark grey background. On the left, {argument name=\"left actor\" default=\"Jensen Ackles\"} wearing {argument name=\"left costume\" default=\"a dark blue textured superhero suit with red gloves, gold eagle pauldrons, and a cape\"}. On the right, {argument name=\"right actor\" default=\"Antony Starr\"} wearing {argument name=\"right costume\" default=\"a dark green and black tactical suit with a star emblem on the chest and red gloves\"}. The man on the right has his hands on his hips. Dramatic, moody studio lighting, highly detailed, photorealistic.",
+  "translatedPrompt": "A cinematic studio portrait of two men facing each other in a tense stare-down against a plain dark grey background. On the left, {argument name=\"left actor\" default=\"Jensen Ackles\"} wearing {argument name=\"left costume\" default=\"a dark blue textured superhero suit with red gloves, gold eagle pauldrons, and a cape\"}. On the right, {argument name=\"right actor\" default=\"Antony Starr\"} wearing {argument name=\"right costume\" default=\"a dark green and black tactical suit with a star emblem on the chest and red gloves\"}. The man on the right has his hands on his hips. Dramatic, moody studio lighting, highly detailed, photorealistic.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Superhero Costume Swap Portrait：Generates a cinematic studio portrait of two actors wearing swapped superhero costumes facing each other.",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14732",
+      "13960",
+      "14059",
+      "15516",
+      "15317",
+      "15533"
+    ]
+  }
+}

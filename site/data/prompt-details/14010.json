@@ -1,0 +1,40 @@
+{
+  "id": "14010",
+  "prompt": "{\n  \"type\": \"beauty magazine cover\",\n  \"color_palette\": \"{argument name=\\\"color palette\\\" default=\\\"soft pink, white, and muted rose\\\"}\",\n  \"subject\": {\n    \"description\": \"{argument name=\\\"model appearance\\\" default=\\\"young Japanese woman with glowing clear skin and soft natural makeup\\\"}\",\n    \"hair\": \"dark brown, tied back with loose face-framing strands\",\n    \"clothing\": \"sheer light pink off-the-shoulder tulle top\",\n    \"pose\": \"looking directly at camera, gentle smile, head slightly tilted\"\n  },\n  \"layout\": {\n    \"masthead\": {\n      \"main_title\": \"{argument name=\\\"magazine title\\\" default=\\\"BEAUTE\\\"}\",\n      \"subtitle\": \"TOKYO\",\n      \"issue_info\": \"{argument name=\\\"issue season\\\" default=\\\"2026 SPRING / SUMMER\\\"}\"\n    },\n    \"main_headline\": {\n      \"text\": \"{argument name=\\\"main headline\\\" default=\\\"透明感は、肌から仕込む。\\\"}\",\n      \"position\": \"bottom center\"\n    },\n    \"sections\": [\n      {\n        \"position\": \"left column\",\n        \"count\": 3,\n        \"labels\": [\n          \"2026春夏 新作スキンケア速報\",\n          \"ツヤ肌ベースメイク 完全BOOK\",\n          \"毛穴・くすみ・乾燥に、本気回答\"\n        ]\n      },\n      {\n        \"position\": \"right column\",\n        \"count\": 2,\n        \"labels\": [\n          \"大人のための旬メイク、正解だけ\",\n          \"美容賢者が選ぶ、本当に使える逸品\"\n        ]\n      },\n      {\n        \"position\": \"circular badges\",\n        \"count\": 2,\n        \"labels\": [\n          \"肌も心も、新しい季節へ\",\n          \"今月の表紙メイク徹底解説\"\n        ]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"美妆杂志封面\",\n  \"color_palette\": \"{argument name=\\\"color palette\\\" default=\\\"柔粉色、白色及柔和玫瑰色\\\"}\",\n  \"subject\": {\n    \"description\": \"{argument name=\\\"model appearance\\\" default=\\\"年轻日本女性，拥有透亮无瑕的肌肤和自然柔和的妆容\\\"}\",\n    \"hair\": \"深棕色，扎起并留有修饰脸型的碎发\",\n    \"clothing\": \"浅粉色透视露肩薄纱上衣\",\n    \"pose\": \"直视镜头，温柔微笑，头部微倾\"\n  },\n  \"layout\": {\n    \"masthead\": {\n      \"main_title\": \"{argument name=\\\"magazine title\\\" default=\\\"BEAUTE\\\"}\",\n      \"subtitle\": \"TOKYO\",\n      \"issue_info\": \"{argument name=\\\"issue season\\\" default=\\\"2026 春夏刊\\\"}\"\n    },\n    \"main_headline\": {\n      \"text\": \"{argument name=\\\"main headline\\\" default=\\\"透明感は、肌から仕込む。\\\"}\",\n      \"position\": \"底部居中\"\n    },\n    \"sections\": [\n      {\n        \"position\": \"左侧栏\",\n        \"count\": 3,\n        \"labels\": [\n          \"2026 春夏新品护肤速报\",\n          \"光泽肌底妆完全手册\",\n          \"针对毛孔、暗沉、干燥的专业解答\"\n        ]\n      },\n      {\n        \"position\": \"右侧栏\",\n        \"count\": 2,\n        \"labels\": [\n          \"成熟女性的当季妆容正解\",\n          \"美容专家严选，真正好用的单品\"\n        ]\n      },\n      {\n        \"position\": \"圆形标签\",\n        \"count\": 2,\n        \"labels\": [\n          \"肌肤与心灵，迈向新季节\",\n          \"本月封面妆容深度解析\"\n        ]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日系美妆杂志封面：生成一张逼真的日系美妆护肤杂志封面，包含封面模特及多条文字标题。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13775",
+      "14618",
+      "15515",
+      "15534",
+      "15766",
+      "14669"
+    ]
+  }
+}

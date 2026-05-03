@@ -1,0 +1,48 @@
+{
+  "id": "15357",
+  "prompt": "A brightly lit Japanese television variety show set with two young female idols standing side by side behind a small white podium, framed in a medium shot from about waist-up. Both wear matching light gray school-uniform-style blazers with silver buttons, white dress shirts, gray striped ribbon ties, and coordinated name tags pinned to their left chest, with subtle lace detail visible at the waistline. The woman on the left has dark brown to black hair styled in a side braid draped over her right shoulder, hands clasped together in front of her chest, and a slightly angled body posture facing right. The woman on the right has long dark wavy hair falling over both shoulders and rests both hands lightly on the top of the podium. Their faces are obscured by soft rectangular blur blocks. The background is a colorful, dense TV studio design: on the left, a tall pink glitter panel filled with repeating white icons including hearts, triangles, snowflake-like flowers, and tree silhouettes, bordered by ornate gold trim; in the center, a vivid red-orange vertical panel with partial white lettering behind the presenters; on the right, a yellow wall with metallic geometric decorations and a large curved brown mosaic arch studded with small reflective squares. Include 3 visible on-screen text areas: a top-left show logo in Japanese reading {argument name=\"show logo text\" default=\"日向坂で会いましょう\"} in a playful blue-and-white badge, a top-right headline banner in Japanese with two lines reading {argument name=\"headline text\" default=\"ガッツリ褒められ隊を攻略せよ！『褒め褒めストラックアウト』\"} in bold white and blue outlined text, and a lower-left black placard with red border containing Japanese text and a large score reading {argument name=\"score value\" default=\"9 pt\"}. The left name tag reads 1 member name in Japanese, {argument name=\"left name tag\" default=\"高瀬 愛奈\"}, and the right name tag reads 1 member name in Japanese, {argument name=\"right name tag\" default=\"小坂 菜緒\"}. Render it as a crisp broadcast screenshot with vivid studio lighting, saturated colors, realistic fabric texture, authentic Japanese TV graphics, and a polished entertainment-program look.",
+  "translatedPrompt": "一个灯光璀璨的日本电视综艺节目现场，两位年轻女性偶像并排站在一个小白色讲台后，采用腰部以上的半身中景构图。两人均身穿配套的浅灰色校服风格西装外套，配有银色纽扣、白色衬衫、灰色条纹丝带领结，左胸前别着协调的名牌，腰部可见精致的蕾丝细节。左侧女性留着深棕色至黑色的侧编发，垂在右肩上，双手在胸前交叠，身体略微向右倾斜。右侧女性留着长长的深色波浪卷发，垂在双肩，双手轻轻搭在讲台顶部。她们的面部被柔和的矩形模糊块遮挡。背景是色彩丰富且密集的电视演播室设计：左侧是一个高大的粉色闪光面板，上面布满了重复的白色图标，包括心形、三角形、雪花状花朵和树木剪影，并镶有华丽的金色饰边；中央是一个鲜艳的红橙色垂直面板，在主持人身后带有部分白色字母；右侧是一面黄色墙壁，装饰着金属几何图形，以及一个镶嵌着小型反光方块的大型弧形棕色马赛克拱门。包含 3 个可见的屏幕文字区域：左上角为日语节目 Logo，显示为 {argument name=\"show logo text\" default=\"日向坂で会いましょう\"}，采用俏皮的蓝白徽章样式；右上角为日语标题横幅，分两行显示 {argument name=\"headline text\" default=\"ガッツリ褒められ隊を攻略せよ！『褒め褒めストラックアウト』\"}，采用粗体白色文字配蓝色描边；左下角为一个带有红色边框的黑色告示牌，包含日语文本和一个大号分数 {argument name=\"score value\" default=\"9 pt\"}。左侧名牌显示 1 个日语成员姓名 {argument name=\"left name tag\" default=\"高瀬 愛奈\"}，右侧名牌显示 1 个日语成员姓名 {argument name=\"right name tag\" default=\"小坂 菜緒\"}。将其渲染为清晰的广播截图，呈现生动的演播室灯光、饱和的色彩、逼真的织物纹理、地道的日本电视图形以及精致的娱乐节目质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日本电视偶像节目截图：此提示词可生成一张逼真的日本综艺节目广播画面，包含两位身着制服的女性偶像、精致的演播室图形以及多个可读的屏幕文字叠加层，适用于电视样机或媒体演示。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14966",
+      "14262",
+      "14539",
+      "14990",
+      "15079",
+      "15001"
+    ]
+  }
+}

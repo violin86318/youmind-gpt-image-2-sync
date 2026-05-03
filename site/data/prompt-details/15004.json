@@ -1,0 +1,51 @@
+{
+  "id": "15004",
+  "prompt": "A centered studio portrait of a fluffy {argument name=\"cat breed\" default=\"ragdoll kitten\"} sitting upright and facing directly toward the camera on a seamless pure white background. The kitten has long, soft, luxurious fur with a mostly white coat, subtle cool gray shading on the sides of the body, darker gray ears, a gray mask around the eyes and upper face, and a dark gray fluffy tail curled around the front-left side. Its eyes are large, round, and vivid {argument name=\"eye color\" default=\"blue\"}, with a small pink nose, delicate whiskers, and a calm, innocent expression. Show the full body from ears to paws, perfectly centered and symmetrical, with both front paws close together and visible. Lighting is high-key, soft, and even, with minimal shadows, crisp fur detail, gentle depth, and a clean premium pet-photography look. Ultra-realistic, sharp focus on the face, smooth white negative space, no props, no text, no collar, no background elements.",
+  "translatedPrompt": "一张居中的影棚肖像，主角是一只毛茸茸的 {argument name=\"cat breed\" default=\"布偶猫幼崽\"}，它正坐着并直视镜头，背景为无缝纯白色。这只小猫有 2 只清晰可见的耳朵、2 只生动的 {argument name=\"eye color\" default=\"蓝色\"} 眼睛、一个小粉鼻子、长长的白色胡须，表情柔和对称，显得温顺而好奇。它的毛发以白色为主，脸部、耳朵、身体两侧和尾部带有淡淡的银灰色阴影，毛发质地蓬松且长，胸前有浓密的饰毛。耳朵尖端颜色较深，脸部双眼周围有微妙的灰色面罩斑纹，尾巴粗壮蓬松，从左侧身体绕到前方。展示从头部到爪子的全身，采用整洁的正向坐姿，2 只前爪并拢可见。使用柔和的高调照明，阴影极少，呈现超精细的毛发细节，面部焦点清晰，具有写实的宠物摄影质感、居中构图以及宁静的极简美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "毛茸茸蓝眼小猫的影棚肖像：此提示词可生成一张简洁、写实的影棚宠物肖像，主角为一只背景纯白的毛茸茸蓝眼小猫，非常适合用作图库风格的动物图像或可爱的极简主义印刷品。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "symmetrical"
+      ],
+      "style": [
+        "realistic",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "禁止额外文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical]。\n\nVisual style:\n[参考风格: realistic, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n禁止额外文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15028",
+      "15317",
+      "15463",
+      "14910",
+      "15435",
+      "15762"
+    ]
+  }
+}

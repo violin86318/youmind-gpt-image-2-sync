@@ -1,0 +1,45 @@
+{
+  "id": "14235",
+  "prompt": "{\n  \"type\": \"Japanese supermarket promotional flyer\",\n  \"header\": {\n    \"store_name\": \"{argument name=\\\"store name\\\" default=\\\"ハピネス マーケット\\\"}\",\n    \"store_directory\": \"List of 12 store locations and phone numbers grouped by region\"\n  },\n  \"style\": \"Highly dense, colorful, bold red and yellow price tags, realistic food photography, traditional Japanese retail aesthetic\",\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"Tuesday Specials\",\n        \"position\": \"top-left\",\n        \"count\": 3,\n        \"labels\": [\"Inari sushi pack\", \"Chikuwa\", \"Tomatoes\"]\n      },\n      {\n        \"title\": \"Wednesday Specials\",\n        \"position\": \"top-middle\",\n        \"promotion\": \"{argument name=\\\"point multiplier\\\" default=\\\"5倍\\\"}\",\n        \"count\": 6,\n        \"labels\": [\"Soy sauce bottles\", \"Japanese sweets variety pack\", \"Udon noodles\", \"Sliced pork\", \"Tuna sashimi block\", \"Pudding\"]\n      },\n      {\n        \"title\": \"Thursday & Friday Specials\",\n        \"position\": \"top-right\",\n        \"count\": 5,\n        \"labels\": [\"Coffee bags\", \"Broccoli\", \"Daikon radish\", \"Pork slices\", \"Jumbo Gyoza\"]\n      },\n      {\n        \"title\": \"Middle Row Discounts\",\n        \"position\": \"center-horizontal\",\n        \"count\": 7,\n        \"labels\": [\"Apples 10% off\", \"Lettuce\", \"Yogurt\", \"Sushi platter\", \"Yogurt multi-pack\", \"Frozen foods 10% off\", \"Rice 10% off\"]\n      },\n      {\n        \"title\": \"Uniform Sale Low Price\",\n        \"position\": \"bottom-left\",\n        \"price\": \"{argument name=\\\"low uniform price\\\" default=\\\"98\\\"}\",\n        \"count\": 6,\n        \"labels\": [\"Assorted fruits\", \"Yogurt and dairy\", \"Natto and Tofu\", \"Ice cream\", \"Fried chicken\", \"Salmon fillets\"]\n      },\n      {\n        \"title\": \"Uniform Sale High Price\",\n        \"position\": \"bottom-middle\",\n        \"price\": \"{argument name=\\\"high uniform price\\\" default=\\\"500\\\"}\",\n        \"count\": 4,\n        \"labels\": [\"Pork belly slices\", \"Mikan and grapes\", \"Seafood mix\", \"Grilled eel\"]\n      },\n      {\n        \"title\": \"Right Sidebar Promotions\",\n        \"position\": \"bottom-right\",\n        \"count\": 3,\n        \"labels\": [\"Premium Charge Day\", \"Point Card Campaign\", \"Fried deli foods\"]\n      }\n    ]\n  },\n  \"footer\": {\n    \"sale_period\": \"{argument name=\\\"sale period\\\" default=\\\"4/14(火) ▶ 17(金)\\\"}\",\n    \"disclaimers\": \"Standard fine print text and secondary logo\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"Japanese supermarket promotional flyer\",\n  \"header\": {\n    \"store_name\": \"{argument name=\\\"store name\\\" default=\\\"ハピネス マーケット\\\"}\",\n    \"store_directory\": \"List of 12 store locations and phone numbers grouped by region\"\n  },\n  \"style\": \"Highly dense, colorful, bold red and yellow price tags, realistic food photography, traditional Japanese retail aesthetic\",\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"Tuesday Specials\",\n        \"position\": \"top-left\",\n        \"count\": 3,\n        \"labels\": [\"Inari sushi pack\", \"Chikuwa\", \"Tomatoes\"]\n      },\n      {\n        \"title\": \"Wednesday Specials\",\n        \"position\": \"top-middle\",\n        \"promotion\": \"{argument name=\\\"point multiplier\\\" default=\\\"5倍\\\"}\",\n        \"count\": 6,\n        \"labels\": [\"Soy sauce bottles\", \"Japanese sweets variety pack\", \"Udon noodles\", \"Sliced pork\", \"Tuna sashimi block\", \"Pudding\"]\n      },\n      {\n        \"title\": \"Thursday & Friday Specials\",\n        \"position\": \"top-right\",\n        \"count\": 5,\n        \"labels\": [\"Coffee bags\", \"Broccoli\", \"Daikon radish\", \"Pork slices\", \"Jumbo Gyoza\"]\n      },\n      {\n        \"title\": \"Middle Row Discounts\",\n        \"position\": \"center-horizontal\",\n        \"count\": 7,\n        \"labels\": [\"Apples 10% off\", \"Lettuce\", \"Yogurt\", \"Sushi platter\", \"Yogurt multi-pack\", \"Frozen foods 10% off\", \"Rice 10% off\"]\n      },\n      {\n        \"title\": \"Uniform Sale Low Price\",\n        \"position\": \"bottom-left\",\n        \"price\": \"{argument name=\\\"low uniform price\\\" default=\\\"98\\\"}\",\n        \"count\": 6,\n        \"labels\": [\"Assorted fruits\", \"Yogurt and dairy\", \"Natto and Tofu\", \"Ice cream\", \"Fried chicken\", \"Salmon fillets\"]\n      },\n      {\n        \"title\": \"Uniform Sale High Price\",\n        \"position\": \"bottom-middle\",\n        \"price\": \"{argument name=\\\"high uniform price\\\" default=\\\"500\\\"}\",\n        \"count\": 4,\n        \"labels\": [\"Pork belly slices\", \"Mikan and grapes\", \"Seafood mix\", \"Grilled eel\"]\n      },\n      {\n        \"title\": \"Right Sidebar Promotions\",\n        \"position\": \"bottom-right\",\n        \"count\": 3,\n        \"labels\": [\"Premium Charge Day\", \"Point Card Campaign\", \"Fried deli foods\"]\n      }\n    ]\n  },\n  \"footer\": {\n    \"sale_period\": \"{argument name=\\\"sale period\\\" default=\\\"4/14(火) ▶ 17(金)\\\"}\",\n    \"disclaimers\": \"Standard fine print text and secondary logo\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Japanese Supermarket Promotional Flyer：A highly detailed, dense Japanese grocery store circular featuring daily specials, uniform price sales, and realistic food photography.",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[参考风格: realistic, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15273",
+      "15441",
+      "15720",
+      "14876",
+      "13788",
+      "14653"
+    ]
+  }
+}

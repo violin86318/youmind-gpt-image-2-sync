@@ -1,0 +1,39 @@
+{
+  "id": "15165",
+  "prompt": "the {argument name=\"characters\" default=\"Straw Hat crew\"} gathered on the deck of the {argument name=\"ship\" default=\"Thousand Sunny\"} at {argument name=\"time of day\" default=\"golden hour\"}, each character mid-laugh, in motion, or relaxing. Luffy leans over the rail with a grin, Nami charts something on the table, and Chopper clutches a cotton candy stick. The ship’s polished wood glows under warm sunlight, and distant seabirds fly across a coral-tinted horizon.",
+  "translatedPrompt": "{argument name=\"characters\" default=\"草帽海贼团\"} 聚集在 {argument name=\"ship\" default=\"万里阳光号\"} 的甲板上，正值 {argument name=\"time of day\" default=\"黄金时刻\"}，每个人物都在欢笑、活动或放松。路飞咧嘴笑着靠在栏杆上，娜美在桌边绘制航海图，乔巴手里紧紧抓着一根棉花糖。船上打磨过的木材在温暖的阳光下熠熠生辉，远处的几只海鸟飞过珊瑚色的地平线。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "草帽海贼团的日落时光：生成一幅详细的场景：草帽海贼团在黄金时刻于万里阳光号上放松休憩，包含特定的人物动作和温暖的灯光效果。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "golden hour"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: golden hour]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13595",
+      "13616",
+      "14016",
+      "14136",
+      "15269",
+      "13949"
+    ]
+  }
+}

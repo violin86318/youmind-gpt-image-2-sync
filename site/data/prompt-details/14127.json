@@ -1,0 +1,44 @@
+{
+  "id": "14127",
+  "prompt": "请根据{argument name=\"主题\" default=\"鬼灭之刃\"}，生成一张高设计感的人物关系图海报。要求这张图不是普通插画，而是兼具信息可视化、叙事结构、海报设计感和作品风格还原度的人物关系图。\n\n请自动完成以下内容：\n- 识别该主题对应的作品及其核心设定\n- 提取最具代表性的 6–12 位关键人物，必要时不超过 15 位\n- 识别并展示关键人物关系，包括血缘、爱情、友情、联盟、敌对、师徒、主从、操控、背叛、秘密关系等\n- 自动按作品特点选择合适的构图方式，如主角中心型、双核心对峙型、阵营分区型、家族谱系型或时间演变型\n- 自动提炼作品的风格DNA，包括色彩、世界观符号、材质纹理、情绪氛围、排版语言和代表性元素\n- 将这些风格元素转化为人物关系图的整体视觉设计，而不是简单复制某张官方海报\n- 用不同颜色、线型、箭头区分不同关系，保证线条清晰、层次分明、不杂乱\n- 核心人物最突出，重要人物次之，次级人物弱化，形成明确视觉层级\n- 每个人物名称清晰可读，必要时可加入身份或阵营标签\n\n最终成品应满足：\n- 一眼看懂人物主次和关键关系\n- 具有明显的原作品气质与设定感\n- 兼具信息图的清晰度与海报的高级设计感\n- 画面统一、精致、完整、适合社交媒体传播或海报展示\n- 避免廉价流程图感、避免杂乱堆砌、避免信息过载",
+  "translatedPrompt": "Please generate a high-design character relationship map poster based on {argument name=\"theme\" default=\"Demon Slayer\"}. This image should not be a simple illustration, but a character relationship map that combines information visualization, narrative structure, poster design sense, and stylistic fidelity.\n\nPlease automatically complete the following:\n- Identify the work and core settings corresponding to the theme\n- Extract the most representative 6–12 key characters, not exceeding 15 if necessary\n- Identify and display key character relationships, including blood ties, romance, friendship, alliances, hostility, master-disciple, etc.\n- Automatically choose a composition method based on the work's characteristics, such as protagonist-centered, dual-core confrontation, faction-based, family tree, or chronological evolution\n- Automatically refine the work's style DNA, including color, worldview symbols, textures, mood, typography, and representative elements\n- Transform these stylistic elements into an overall visual design for the relationship map, rather than simply copying an official poster\n- Use different colors, line types, and arrows to distinguish different relationships, ensuring clear lines and layers without clutter\n- Make core characters most prominent, followed by important characters, and subordinate characters weakened to form a clear visual hierarchy\n- Ensure every character name is legible, with identity or faction labels if necessary\n\nThe final product should satisfy:\n- Immediate understanding of character hierarchy and key relationships\n- Obvious alignment with the original work's temperament and setting\n- Combines the clarity of an infographic with the premium design of a poster\n- Unified, exquisite, complete, and suitable for social media sharing or poster display\n- Avoids a cheap flowchart feel, messy piling, and information overload.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Character Relationship Diagram Poster Generator：A detailed prompt for creating professional character relationship posters that combine information visualization with the specific art style of a series.",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14407",
+      "13656",
+      "15662",
+      "14875",
+      "13694",
+      "13821"
+    ]
+  }
+}

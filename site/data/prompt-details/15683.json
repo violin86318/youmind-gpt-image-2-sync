@@ -1,0 +1,57 @@
+{
+  "id": "15683",
+  "prompt": "{\"type\":\"sci-fi technical infographic poster\",\"subject\":\"massive floating fortress megastructure shown in a front-facing cutaway view\",\"style\":\"ultra-detailed hard-surface science fiction concept art, cinematic industrial realism, blueprint-inspired HUD overlay, atmospheric volumetric clouds, dark steel textures, subtle orange and blue internal lighting, high-detail labeling lines and schematic callouts\",\"setting\":{\"location\":\"stormy sky above a barren mountainous wasteland\",\"mood\":\"cold, monumental, futuristic, dystopian\"},\"main_structure\":{\"name\":\"灯塔·结构解析图\",\"subtitle\":\"LEVEL 3 · 浮空生存基地\",\"form\":\"a colossal vertically layered airborne city tower with a broad circular upper crown, dense mechanical superstructure, exposed platforms, antenna spires, docking arms, suspended side pods, and a tapered lower engine section\",\"view\":\"centered full-body elevation, symmetrical composition, partial internal cutaway exposing stacked interior decks and core systems\",\"materials\":\"gunmetal steel, weathered titanium, pipes, cables, reinforced glass, illuminated machinery\",\"lighting\":\"moody overcast daylight with glowing interior corridors, warm reactor core light, blue thruster light at the bottom\"},\"layout\":{\"composition\":\"single central megastructure surrounded by labeled info panels and inset images\",\"sections\":[{\"title\":\"01 顶部指挥控制区\",\"position\":\"upper right\",\"count\":1,\"labels\":[\"顶部指挥控制区\"]},{\"title\":\"02 居民生活区\",\"position\":\"right upper-middle\",\"count\":1,\"labels\":[\"居民生活区\"]},{\"title\":\"03 物资仓储区\",\"position\":\"right middle\",\"count\":1,\"labels\":[\"物资仓储区\"]},{\"title\":\"04 动力能源核心\",\"position\":\"right lower-middle\",\"count\":1,\"labels\":[\"动力能源核心\"]},{\"title\":\"05 升降交通系统\",\"position\":\"right lower\",\"count\":1,\"labels\":[\"升降交通系统\"]},{\"title\":\"06 悬浮壳击共享平台\",\"position\":\"left upper-middle\",\"count\":1,\"labels\":[\"悬浮壳击共享平台\"]},{\"title\":\"07 外部防御模块\",\"position\":\"left middle-lower\",\"count\":1,\"labels\":[\"外部防御模块\"]},{\"title\":\"08 底部推进与悬浮系统\",\"position\":\"left lower\",\"count\":1,\"labels\":[\"底部推进与悬浮系统\"]}],\"inset_images_count\":6,\"inset_images\":[\"upper-right command hall interior\",\"right upper-middle residential green interior\",\"right middle blue-lit storage or reactor chamber\",\"right lower vertical elevator corridor\",\"left middle platform exterior overview\",\"left lower underside thruster interior\"],\"extra_panels_count\":5,\"extra_panels\":[\"top-left basic information stats block\",\"bottom-left SYSTEM STATUS block\",\"bottom-center ENVIRONMENT DATA block\",\"bottom-center 灯塔运行日志（节选） block\",\"bottom-right silhouette scale comparison with 1846m and 1120m markings\"]},\"text_elements\":{\"brand_mark\":\"灵笼\",\"top_left_heading\":\"灯塔·结构解析图\",\"small_subheading\":\"LEVEL 3 · 浮空生存基地\",\"language\":\"Chinese\",\"density\":\"heavy technical annotations, small schematic notes, thin connector lines, measurement marks, tiny interface glyphs\"},\"secondary_elements\":{\"aircraft_count\":6,\"aircraft\":\"small escort drones or gunships flying around the structure\",\"background_details\":\"distant mountains, fog, layered storm clouds, faint ground structures\"},\"rendering\":{\"quality\":\"high-resolution polished concept sheet\",\"aspect_ratio\":\"1:1\",\"camera\":\"orthographic-like telephoto infographic presentation with slight cinematic depth\",\"color_palette\":\"charcoal gray, steel blue, cold white, amber highlights, electric blue thrusters\"},\"customization\":{\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"灯塔·结构解析图\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"LEVEL 3 · 浮空生存基地\\\"}\",\"structure_name\":\"{argument name=\\\"structure name\\\" default=\\\"灯塔\\\"}\",\"primary_style\":\"{argument name=\\\"visual style\\\" default=\\\"ultra-detailed hard-surface science fiction concept art\\\"}\",\"environment\":\"{argument name=\\\"environment\\\" default=\\\"stormy sky above a barren mountainous wasteland\\\"}\"}}",
+  "translatedPrompt": "{\"type\":\"科幻技术信息图海报\",\"subject\":\"正面剖面视图下的巨型浮空堡垒巨型结构\",\"style\":\"超精细硬表面科幻概念艺术，电影级工业写实风格，蓝图风格 HUD 叠加，大气体积云，深色钢材纹理，微妙的橙色与蓝色内部灯光，高细节标注线与示意图说明\",\"setting\":{\"location\":\"荒凉山地荒原上空的风暴天空\",\"mood\":\"冷峻、宏伟、未来感、反乌托邦\"},\"main_structure\":{\"name\":\"灯塔·结构解析图\",\"subtitle\":\"LEVEL 3 · 浮空生存基地\",\"form\":\"一座巨大的垂直分层空中城市塔楼，具有宽大的圆形上冠、密集的机械上层建筑、外露平台、天线尖塔、对接臂、悬挂式侧舱以及锥形底部引擎段\",\"view\":\"居中全身立面图，对称构图，局部内部剖面展示堆叠的内部甲板和核心系统\",\"materials\":\"枪灰色钢材、风化钛金属、管道、电缆、强化玻璃、发光机械\",\"lighting\":\"阴沉的阴天日光，伴随发光的内部走廊、温暖的反应堆核心光、底部的蓝色推进器光\"},\"layout\":{\"composition\":\"单个中心巨型结构，周围环绕标注信息面板和插图\",\"sections\":[{\"title\":\"01 顶部指挥控制区\",\"position\":\"右上\",\"count\":1,\"labels\":[\"顶部指挥控制区\"]},{\"title\":\"02 居民生活区\",\"position\":\"右中上\",\"count\":1,\"labels\":[\"居民生活区\"]},{\"title\":\"03 物资仓储区\",\"position\":\"右中\",\"count\":1,\"labels\":[\"物资仓储区\"]},{\"title\":\"04 动力能源核心\",\"position\":\"右中下\",\"count\":1,\"labels\":[\"动力能源核心\"]},{\"title\":\"05 升降交通系统\",\"position\":\"右下\",\"count\":1,\"labels\":[\"升降交通系统\"]},{\"title\":\"06 悬浮壳击共享平台\",\"position\":\"左中上\",\"count\":1,\"labels\":[\"悬浮壳击共享平台\"]},{\"title\":\"07 外部防御模块\",\"position\":\"左中下\",\"count\":1,\"labels\":[\"外部防御模块\"]},{\"title\":\"08 底部推进与悬浮系统\",\"position\":\"左下\",\"count\":1,\"labels\":[\"底部推进与悬浮系统\"]}],\"inset_images_count\":6,\"inset_images\":[\"右上指挥大厅内部\",\"右中上居民生活区绿色内部\",\"右中蓝色灯光仓储或反应堆室\",\"右下垂直电梯走廊\",\"左中平台外部概览\",\"左下底部推进器内部\"],\"extra_panels_count\":5,\"extra_panels\":[\"左上基础信息统计区块\",\"左下系统状态区块\",\"底部中心环境数据区块\",\"底部中心灯塔运行日志（节选）区块\",\"右下 1846m 和 1120m 标记的轮廓比例对比\"]},\"text_elements\":{\"brand_mark\":\"灵笼\",\"top_left_heading\":\"灯塔·结构解析图\",\"small_subheading\":\"LEVEL 3 · 浮空生存基地\",\"language\":\"中文\",\"density\":\"密集的工程标注、小型示意图注释、细连接线、测量标记、微小界面符号\"},\"secondary_elements\":{\"aircraft_count\":6,\"aircraft\":\"环绕结构飞行的小型护航无人机或武装炮艇\",\"background_details\":\"远山、雾气、分层风暴云、模糊的地面结构\"},\"rendering\":{\"quality\":\"高分辨率精美概念图\",\"aspect_ratio\":\"1:1\",\"camera\":\"类似正交投影的长焦信息图展示，带有轻微的电影景深\",\"color_palette\":\"炭灰、钢蓝、冷白、琥珀色高光、电光蓝推进器\"},\"customization\":{\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"灯塔·结构解析图\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"LEVEL 3 · 浮空生存基地\\\"}\",\"structure_name\":\"{argument name=\\\"structure name\\\" default=\\\"灯塔\\\"}\",\"primary_style\":\"{argument name=\\\"visual style\\\" default=\\\"超精细硬表面科幻概念艺术\\\"}\",\"environment\":\"{argument name=\\\"environment\\\" default=\\\"荒凉山地荒原上空的风暴天空\\\"}\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "科幻灯塔结构解析图：此提示词可生成一张高密度的未来主义中国风信息图海报，展示一座带有剖面结构的巨型浮空堡垒，非常适合概念艺术展示和世界观构建图纸。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "full-body",
+        "cutaway",
+        "front-facing",
+        "annotations",
+        "callout"
+      ],
+      "style": [
+        "cinematic",
+        "sci-fi"
+      ],
+      "lightingCamera": [
+        "overcast",
+        "volumetric",
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": "得分 82；构图: centered, symmetrical, full-body, cutaway, front-facing, annotations, callout；风格: cinematic, sci-fi；包含标注/说明"
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, full-body, cutaway, front-facing, annotations, callout]。\n\nVisual style:\n[参考风格: cinematic, sci-fi]。\n\nLighting and camera:\n[参考光线镜头: overcast, volumetric, camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15769",
+      "15768",
+      "15421",
+      "14866",
+      "15662",
+      "15666"
+    ]
+  }
+}

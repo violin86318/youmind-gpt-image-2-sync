@@ -1,0 +1,50 @@
+{
+  "id": "15251",
+  "prompt": "A humorous photorealistic street scene in a busy Chinese market district in daylight, showing a tiny handmade police car driving down the road as if on patrol. The vehicle looks like a rough life-size toy or parade prop built from corrugated cardboard and tape, boxy and slightly crooked, painted white with dark blue police graphics, a red-and-blue light bar on the roof, the Chinese characters for police on the hood and side doors, the English word POLICE on the hood, a police badge emblem on the front doors, and a front license plate reading 京A8888. Inside and hanging out of the windows are 4 macaque monkeys total: 1 monkey in the driver’s seat wearing a white police cap with one hand on the steering wheel, 1 monkey in the front passenger seat leaning out the window and pointing forward, and 2 monkeys leaning out from the left side rear windows, each extending an arm and pointing outward. The monkeys have expressive alert faces and tan-brown fur, making the scene look like a monkey patrol. Surrounding environment is a real urban street with scooters, pedestrians, market stalls, green canopy tents, and dense red Chinese storefront signage in the background, all slightly out of focus. Shoot from a front-left three-quarter angle at street level, with the cardboard car centered and moving toward the viewer. Bright natural midday light, candid documentary photography style, shallow depth of field, realistic textures, comedic absurdity, high detail.",
+  "translatedPrompt": "一张在繁忙的中国市场街区拍摄的写实风格幽默街头照片，展现了一辆微型手工警车像在巡逻一样行驶在路上。这辆车看起来像是一个由瓦楞纸板和胶带制成的粗糙等比例玩具或游行道具，外形方正且略显歪斜，车身漆成白色并带有深蓝色警用涂装，车顶配有红蓝警灯，引擎盖和侧门上印有中文“警察”字样，引擎盖上印有英文“POLICE”，前门贴有警徽标志，前车牌写着“京 A8888”。车内及窗外总共探出 4 只猕猴：1 只猴子坐在驾驶座上，戴着白色警帽，一只手扶着方向盘；1 只猴子坐在副驾驶座上，探出窗外并向前指引；另有 2 只猴子从左侧后窗探出，每只都伸出一只手臂指向外侧。猴子们表情机警，毛发呈棕褐色，使整个场景看起来像是一支猴子巡逻队。周围环境是真实的城市街道，背景中有滑板车、行人、市场摊位、绿色遮阳棚和密集的红色中文店招，均略微失焦。从街道水平面的左前方四分之三角度拍摄，纸板车位于画面中心并向观众驶来。明亮的自然正午光线，纪实摄影风格，浅景深，纹理逼真，充满喜剧荒诞感，细节丰富。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "猴子巡逻队驾驶纸板警车：一张写实的喜剧风格街头照片，四只猕猴驾驶着手工制作的纸板警车穿过拥挤的中国市场，是荒诞病毒式视觉提示的理想选择。",
+      "subject": "空间",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic, photorealistic, documentary]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15602",
+      "15705",
+      "15808",
+      "14674",
+      "14860",
+      "15628"
+    ]
+  }
+}

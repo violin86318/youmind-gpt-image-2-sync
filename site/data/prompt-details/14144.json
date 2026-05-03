@@ -1,0 +1,41 @@
+{
+  "id": "14144",
+  "prompt": "{argument name=\"キャラクター\" default=\"キャラクター\"}が{argument name=\"食べ物\" default=\"スーパーデラックスパフェ\"}を食べている。{argument name=\"食べ物\" default=\"パフェ\"}になにがはいっているか矢印と注釈つき。",
+  "translatedPrompt": "A {argument name=\"character\" default=\"character\"} is eating a {argument name=\"food item\" default=\"super deluxe parfait\"}. Includes arrows and annotations identifying the ingredients in the {argument name=\"food item\" default=\"parfait\"}.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Character Eating Parfait with Annotations：A complex instructional prompt for GPT-Image-2 to generate a character eating a dessert while including diagram-style arrows and text annotations describing the contents.",
+      "subject": "食物",
+      "scene": "信息图/图解",
+      "composition": [
+        "annotations"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: annotations]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14733",
+      "14128",
+      "14137",
+      "14140",
+      "15662",
+      "13445"
+    ]
+  }
+}

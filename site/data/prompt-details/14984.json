@@ -1,0 +1,50 @@
+{
+  "id": "14984",
+  "prompt": "A bright, ultra-realistic summer streetscape in Japan, photographed at pedestrian eye level on a wide, clean urban sidewalk lined with mature green trees casting dappled shadows. The scene shows a modern mixed-use city block on a clear sunny day, with a contemporary cafe or restaurant on the right featuring tall glass windows, dark frames, a stone facade, and a warm wood soffit extending over the terrace. Place 3 large beige patio umbrellas outside the cafe, with wooden tables and chairs beneath them. Show a lively but orderly sidewalk with around 14 pedestrians spread into the distance, most dressed in light summer office-casual clothing in white, beige, navy, and gray. In the center foreground, include 1 person riding a bicycle away from the camera, wearing a short-sleeve white shirt and dark pants with a shoulder bag. On the right foreground, include 2 women walking away, one in a white blouse and long dark floral skirt holding a round hand fan, and one in a white top and light patterned skirt carrying a bag. Add 2 visible standing signs outside the cafe: one vertical banner with large Japanese text \"氷\" and icy blue graphics, and one sandwich board with Japanese text reading \"夏季限定 冷たいドリンク\" plus images of 2 cold drinks, one dark iced beverage and one pale lemonade-like drink. On the left side, show a quiet street with a few vehicles in the distance, benches, low concrete planters, and neatly trimmed shrubs. Composition should emphasize depth with a long vanishing point down the tree-lined boulevard, crisp midday sunlight, realistic reflections in the windows, and an upscale, calm urban atmosphere. Photorealistic architectural photography, natural colors, high detail, wide-angle lens, deep focus.",
+  "translatedPrompt": "一张明亮、超写实的日本夏季街景，以行人视角的水平高度拍摄，展现了一条宽阔整洁的城市人行道，两侧绿树成荫，投下斑驳的树影。场景呈现了一个晴朗夏日里的现代综合用途街区，右侧是一家现代风格的咖啡馆或餐厅，配有高大的落地玻璃窗、深色边框、石材外立面，以及延伸至露台上方的暖色木质吊顶。在咖啡馆外放置 3 把大型米色遮阳伞，下方摆放着木质桌椅。人行道上行人往来有序，约有 14 名行人分布在远处，大多数人穿着浅色夏季商务休闲装，色调以白色、米色、海军蓝和灰色为主。在画面中心前景处，加入 1 名骑自行车的行人背对镜头，身穿短袖白衬衫和深色长裤，背着单肩包。在右侧前景处，加入 2 名背对镜头的女性，一人身穿白色衬衫和深色长碎花裙，手持圆扇；另一人身穿白色上衣和浅色花纹裙，提着包。在咖啡馆外添加 2 个显眼的立式招牌：一个是带有醒目日文“氷”字和冰蓝色图形的竖幅旗帜，另一个是写有日文“夏季限定 冷たいドリンク”的立式折叠招牌，并配有 2 款冷饮的图片，分别为一杯深色冰饮和一杯浅色柠檬水状饮料。在左侧，展示一条安静的街道，远处有少量车辆、长椅、低矮的混凝土花坛和修剪整齐的灌木。构图应强调纵深感，通过林荫大道形成长远的消失点，呈现正午明媚的阳光、窗户上真实的倒影，以及高端、宁静的城市氛围。照片级建筑摄影，自然色彩，高细节，广角镜头，深焦。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "阳光明媚的日本咖啡馆街景：此提示词可生成一张照片级逼真的现代日本城市人行道场景，包含咖啡馆露台、夏季行人、招牌及骑行者，非常适合用于城市生活方式或旅游类编辑图片。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [
+        "lens",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[参考光线镜头: lens, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14891",
+      "14695",
+      "14008",
+      "14435",
+      "15795",
+      "14909"
+    ]
+  }
+}

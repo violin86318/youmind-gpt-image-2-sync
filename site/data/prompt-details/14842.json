@@ -1,0 +1,54 @@
+{
+  "id": "14842",
+  "prompt": "Create a dramatic luxury sports poster for {argument name=\"player name\" default=\"Bernardo Silva\"} as a Juventus football star, in a dark cinematic black-and-gold editorial style. Vertical composition, high contrast, moody stadium atmosphere, premium poster design with layered photomontage. The background is a massive waving Juventus flag filling the upper half of the image, black fabric with broad white stripes and a large metallic gold Juventus \"J\" crest on the right side, topped by exactly 3 gold stars. In front of the flag, place an oversized close-up half-body portrait of the player wearing a classic Juventus home kit, facing slightly left, with wet textured hair, visible neck tattoos, dramatic rim lighting, and the face partially obscured by shadow for a mysterious heroic look. In the foreground, place a full-body action pose of the same player running forward with a soccer ball at his feet on a floodlit pitch, centered near the bottom, wearing the black-and-white striped Juventus jersey with white shorts, white socks, black boots, gold number 20 on the shorts, gold Adidas details, and the Jeep sponsor logo clearly visible. The stadium should wrap across the lower half with bright white floodlights, dark packed stands, light fog, and subtle smoke near the ground. Use elegant magazine-poster typography integrated into the composition: top left small gold text \"JUVENTUS\" and \"FOUNDED 1897\", with exactly 3 gold stars beneath; along the upper left a vertical list of 4 words in white caps: \"CLASS\", \"VISION\", \"INTELLIGENCE\", \"WORK RATE\"; beneath that a gold handwritten signature and the year split across two lines as \"20\" and \"26\"; center-left large serif player name text with the first name smaller and the last name huge, reading \"BERNARDO\" and \"SILVA\" in white; below that smaller gold text \"JUVENTUS\"; lower right exactly 3 gold stars above 3 stacked white words: \"TRADITION\", \"PASSION\", \"GLORY\"; bottom center exactly 3 gold stars above the phrase \"THE OLD LADY\" and smaller text \"SINCE 1897\". Color palette limited to black, white, charcoal, and metallic gold. Add subtle rain haze, fabric texture, vignette, glowing highlights on the crest and text, and a polished Champions League poster aesthetic.",
+  "translatedPrompt": "为 {argument name=\"player name\" default=\"Bernardo Silva\"} 创作一张极具戏剧性的奢华体育海报，将其塑造为尤文图斯足球明星，采用暗黑电影感黑金编辑风格。垂直构图，高对比度，营造忧郁的球场氛围，呈现具有分层照片蒙太奇效果的高级海报设计。背景为一面巨大的挥舞着的尤文图斯旗帜，占据图像上半部分，黑色布料配以宽大的白色条纹，右侧印有巨大的金属质感金色尤文图斯“J”字队徽，上方饰有 3 颗金色星星。在旗帜前方，放置一张球员的大尺寸半身特写肖像，身着经典尤文图斯主场球衣，面朝左侧，湿发质感，颈部纹身清晰可见，边缘光影效果强烈，面部部分被阴影遮盖，呈现出神秘的英雄感。前景处放置该球员的全身动态姿势，在灯火通明的球场上带球奔跑，位于底部中央，身着黑白条纹尤文图斯球衣、白色短裤、白色球袜、黑色球鞋，短裤上有金色数字 20，Adidas 细节为金色，Jeep 赞助商标志清晰可见。球场应覆盖下半部分，配以明亮的白色泛光灯、黑暗中坐满观众的看台、轻微的雾气以及地面上淡淡的烟雾。构图中融入优雅的杂志海报排版：左上角为小型金色文字“JUVENTUS”和“FOUNDED 1897”，下方饰有 3 颗金色星星；左上方垂直排列 4 个白色大写单词：“CLASS”、“VISION”、“INTELLIGENCE”、“WORK RATE”；其下方为金色手写签名，年份分为两行显示为“20”和“26”；中左侧为巨大的衬线字体球员姓名，名字较小，姓氏巨大，显示为白色的“BERNARDO”和“SILVA”；下方为较小的金色文字“JUVENTUS”；右下角为 3 颗金色星星，下方堆叠 3 个白色单词：“TRADITION”、“PASSION”、“GLORY”；底部中央为 3 颗金色星星，下方为短语“THE OLD LADY”及较小的文字“SINCE 1897”。配色方案仅限黑色、白色、炭灰色和金属金色。添加细微的雨雾、织物纹理、暗角、队徽和文字上的发光高光，打造精致的欧冠海报美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "尤文图斯电影感球员海报：一款高端黑金配色足球海报，通过分层肖像与动态姿势展示尤文图斯球员，非常适合俱乐部主题的运动员剪辑及社交媒体体育图形设计。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "close-up",
+        "full-body",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "editorial",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "high contrast"
+      ],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": "得分 93；构图: centered, close-up, full-body, layered, vertical；风格: cinematic, editorial, luxury, premium；要求精确文字；文字是主视觉"
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, close-up, full-body, layered, vertical]。\n\nVisual style:\n[参考风格: cinematic, editorial, luxury, premium]。\n\nLighting and camera:\n[参考光线镜头: rim light, high contrast]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15444",
+      "15077",
+      "14813",
+      "14881",
+      "15400",
+      "15665"
+    ]
+  }
+}

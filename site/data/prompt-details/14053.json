@@ -1,0 +1,40 @@
+{
+  "id": "14053",
+  "prompt": "{\n  \"type\": \"commercial beverage advertisement poster\",\n  \"visuals\": {\n    \"model\": \"young Asian woman, eyes closed, face tilted up, refreshed expression, wet hair, water droplets on skin, sheer white top\",\n    \"product\": \"1 white and yellow aluminum can with condensation, labeled '{argument name=\\\"product name\\\" default=\\\"YUZU SPARK\\\"}' and '{argument name=\\\"brand name\\\" default=\\\"KIRARA\\\"}', featuring a yuzu fruit illustration\",\n    \"props\": \"2 whole yellow yuzu fruits with green leaves, floating water droplets\",\n    \"background\": \"clear blue sky, bright sunlight\"\n  },\n  \"layout\": {\n    \"top_left\": \"logo '{argument name=\\\"brand name\\\" default=\\\"KIRARA\\\"}' with sunburst icon\",\n    \"left_column\": [\n      \"large vertical text: '{argument name=\\\"main catchphrase\\\" default=\\\"ゆず香る、新しいわたし。\\\"}'\",\n      \"vertical text with yellow highlight: 'がんばる日々に、やさしいごほうびを。'\",\n      \"yellow cursive background text: 'Refresh!'\"\n    ],\n    \"right_column\": [\n      \"white handwritten text: '{argument name=\\\"handwritten text\\\" default=\\\"私を、ほどくひとしゅわ。\\\"}'\",\n      \"yellow circular badge: 'NEW'\"\n    ],\n    \"bottom_left\": [\n      \"yellow circular badge: '{argument name=\\\"flavor profile\\\" default=\\\"国産ゆず果汁3%\\\"}'\",\n      \"small text: 'すっきり、軽やか。やさしい甘さのご褒美時間。'\",\n      \"tiny disclaimer: '※画像はイメージです。'\"\n    ],\n    \"footer\": \"yellow banner with '{argument name=\\\"product name\\\" default=\\\"YUZU SPARK\\\"}', tagline 'やさしさ弾ける、ゆずの微炭酸。', and boxed text '数量限定発売中'\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"商业饮料广告海报\",\n  \"visuals\": {\n    \"model\": \"年轻亚裔女性，闭眼，脸部微仰，神情清爽，湿发，皮肤上有水珠，身穿半透明白色上衣\",\n    \"product\": \"1 个带有冷凝水的白黄色铝罐，标签为 '{argument name=\\\"product name\\\" default=\\\"YUZU SPARK\\\"}' 和 '{argument name=\\\"brand name\\\" default=\\\"KIRARA\\\"}'，印有柚子插图\",\n    \"props\": \"2 个带绿叶的完整黄色柚子，漂浮的水珠\",\n    \"background\": \"晴朗的蓝天，明亮的阳光\"\n  },\n  \"layout\": {\n    \"top_left\": \"带有太阳光芒图标的 '{argument name=\\\"brand name\\\" default=\\\"KIRARA\\\"}' 标志\",\n    \"left_column\": [\n      \"大型竖排文字：'{argument name=\\\"main catchphrase\\\" default=\\\"ゆず香る、新しいわたし。\\\"}'\",\n      \"带有黄色高亮的竖排文字：'がんばる日々に、やさしいごほうびを。'\",\n      \"黄色草书背景文字：'Refresh!'\"\n    ],\n    \"right_column\": [\n      \"白色手写文字：'{argument name=\\\"handwritten text\\\" default=\\\"私を、ほどくひとしゅわ。\\\"}'\",\n      \"黄色圆形徽章：'NEW'\"\n    ],\n    \"bottom_left\": [\n      \"黄色圆形徽章：'{argument name=\\\"flavor profile\\\" default=\\\"国産ゆず果汁3%\\\"}'\",\n      \"小字：'すっきり、軽やか。やさしい甘さのご褒美時間。'\",\n      \"微小免责声明：'※画像はイメージです。'\"\n    ],\n    \"footer\": \"黄色横幅，包含 '{argument name=\\\"product name\\\" default=\\\"YUZU SPARK\\\"}'、标语 'やさしさ弾ける、ゆずの微炭酸。' 以及方框文字 '数量限定発売中'\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "柚子气泡水广告：生成一张高度逼真的气泡饮料商业海报，包含清爽的模特形象、产品特写以及结构化的促销排版。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13834",
+      "13457",
+      "13671",
+      "14416",
+      "14421",
+      "14518"
+    ]
+  }
+}

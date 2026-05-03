@@ -1,0 +1,46 @@
+{
+  "id": "15744",
+  "prompt": "A polished anime-style banner illustration in a dreamy violet palette, wide cinematic composition, showing a quiet literary room at twilight. On the right side, a beautiful teenage anime girl named {argument name=\"character name\" default=\"Yuri\"} sits at a wooden desk beside a large window with purple curtains, holding a dark ornate hardcover book close to her chest and gazing softly downward with a shy, introspective expression. She has very long straight {argument name=\"hair color\" default=\"deep violet\"} hair with glossy highlights, side bangs, a small hair clip, and violet eyes, wearing a Japanese school uniform with a gray blazer, white shirt, red ribbon tie, and dark skirt. Across the left-center of the image, the glowing calligraphic word {argument name=\"title text\" default=\"Yuri\"} appears large in luminous neon-lavender script with elegant flourishes, a small heart, and decorative filigree, integrated into the scene like magical typography. The desk contains exactly 8 visible item groups: 1 open book in the foreground center, 1 black inkwell with a white feather quill, 1 closed book near the candle, 1 stack of books under papers, 1 loose handwritten page in front, 1 small purple flower on the desk, 1 floral porcelain teacup with saucer on the right, and 1 dark book stack at the far right. Additional background details include exactly 6 decorative environmental elements: 1 lit candle in a glass holder on the left, 1 cluster of purple flowers in the left foreground, 1 hanging spray of purple blossoms in the upper left, 1 pinned botanical note in the upper right, 1 bookshelf with books and flowers in the right background, and 1 sunset sky visible through the window. Add drifting flower petals, faint handwritten script textures, ornate gold border lines around the frame, soft volumetric window light, subtle sparkles, rich shadows, and a romantic melancholic atmosphere. Highly detailed, clean line art, glossy anime rendering, premium visual-novel key art, perfect for a niche anime banner or character-themed thumbnail.",
+  "translatedPrompt": "一张精致的动漫风格横幅插画，采用梦幻般的紫罗兰色调，宽幅电影感构图，展现了黄昏时分安静的文学气息房间。画面右侧，一位名为 {argument name=\"character name\" default=\"Yuri\"} 的美丽动漫少女坐在窗边的大木桌旁，窗户挂着紫色窗帘。她怀里抱着一本深色华丽的精装书，眼神羞涩而内敛，正温柔地向下凝视。她留着非常长的直发，发色为 {argument name=\"hair color\" default=\"深紫罗兰色\"}，带有光泽感，留着侧分刘海，戴着一个小发夹，拥有紫色的双眸，身穿日本校服，包括灰色西装外套、白衬衫、红色丝带领结和深色短裙。在图像的中左侧，发光的书法文字 {argument name=\"title text\" default=\"Yuri\"} 以明亮的霓虹薰衣草色手写体呈现，带有优雅的笔触、一颗小爱心和装饰性花纹，如同魔法字体般融入场景中。桌面上包含 8 组清晰可见的物品：前景中央 1 本打开的书、1 个带白色羽毛笔的黑色墨水瓶、蜡烛旁 1 本合上的书、纸张下方 1 叠书、前方 1 张散落的手写页面、桌上 1 朵紫色小花、右侧 1 个带托盘的花卉瓷茶杯，以及最右侧 1 叠深色书籍。额外的背景细节包括 6 个装饰性环境元素：左侧玻璃烛台里的 1 支点燃的蜡烛、左前景 1 簇紫色花朵、左上方 1 串悬挂的紫色花束、右上角 1 张钉着的植物笔记、右背景 1 个摆放着书籍和花卉的书架，以及窗外可见的 1 片夕阳天空。添加飘落的花瓣、淡淡的手写文字纹理、边框周围华丽的金色线条、柔和的体积窗光、细微的闪光、丰富的阴影以及浪漫忧郁的氛围。高度细节化，线条干净，光泽感动漫渲染，优质视觉小说关键艺术，非常适合小众动漫横幅或角色主题缩略图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "紫色动漫 Yuri 横幅：此提示词可生成一张时尚的动漫风格横幅，画面中一位紫发女学生置身于充满文学气息的黄昏房间，并配有发光的标题字体，非常适合用作缩略图、页眉或角色主题的社交媒体配图。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "anime",
+        "premium"
+      ],
+      "lightingCamera": [
+        "neon",
+        "volumetric"
+      ],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, anime, premium]。\n\nLighting and camera:\n[参考光线镜头: neon, volumetric]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15096",
+      "15016",
+      "15745",
+      "15806",
+      "14483",
+      "14529"
+    ]
+  }
+}

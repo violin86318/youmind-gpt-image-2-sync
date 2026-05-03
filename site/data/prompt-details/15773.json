@@ -1,0 +1,49 @@
+{
+  "id": "15773",
+  "prompt": "A luxury cosmetics advertisement poster featuring a single upright {argument name=\"product type\" default=\"lipstick\"} centered on a glossy black cube pedestal against a rich monochrome {argument name=\"background color\" default=\"deep crimson red\"} studio background. The product is a bold satin-finish {argument name=\"product shade\" default=\"true red\"} lipstick with the bullet fully extended, dramatic sculpted tip, and a two-tone tube: vivid red upper casing and matte black lower casing. On the front of the black base, vertical white brand text reads {argument name=\"brand name\" default=\"BOBBI BROWN\"}. Place elegant editorial copy on the left side in a refined high-fashion serif layout, split across multiple lines, reading {argument name=\"headline text\" default=\"It’s not just a lipstick, it’s an attitude.\"}, with the final word styled in italic and a slightly brighter coral-red tone than the rest of the text. Add 1 small white logo watermark in the top-right corner reading {argument name=\"logo text\" default=\"Pollo.ai\"}. Use cinematic product lighting with soft but high-contrast highlights, subtle reflections on the pedestal, crisp edges, premium beauty-campaign styling, minimalist composition, square format, clean negative space, and a polished ecommerce-ready luxury ad aesthetic.",
+  "translatedPrompt": "一张奢华化妆品广告海报，画面中心为一支竖立的 {argument name=\"product type\" default=\"唇膏\"}，置于一个光亮的黑色立方体底座上，背景为浓郁的单色 {argument name=\"background color\" default=\"深绯红色\"} 工作室背景。产品为一款大胆的丝缎质感 {argument name=\"product shade\" default=\"正红色\"} 唇膏，膏体完全旋出，呈现出富有戏剧性的雕塑感尖端；管身为双色设计：上部为鲜红色，下部为哑光黑色。在黑色底座正面，印有垂直排列的白色品牌文字 {argument name=\"brand name\" default=\"BOBBI BROWN\"}。在左侧以精致的高级时装衬线字体排版放置优雅的编辑文案，分多行显示，内容为 {argument name=\"headline text\" default=\"It’s not just a lipstick, it’s an attitude.\"}，其中最后一个单词采用斜体，色调比其余文字略亮，呈现珊瑚红色。在右上角添加一个小的白色品牌水印 {argument name=\"logo text\" default=\"Pollo.ai\"}。采用电影级产品布光，具有柔和但高对比度的光影效果，底座上有细腻的倒影，边缘清晰，展现高端美妆广告风格、极简构图、方形画幅、干净的留白以及精致的电商级奢华广告美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奢华红色唇膏广告海报：一款时尚高端的美妆广告，展示了放置在反光底座上的单支唇膏，配以优雅的文案，非常适合化妆品品牌推广、社交媒体广告及电商营销活动。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "editorial",
+        "minimalist",
+        "luxury",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: cinematic, editorial, minimalist, luxury, premium, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14887",
+      "15527",
+      "14837",
+      "14834",
+      "15400",
+      "14850"
+    ]
+  }
+}

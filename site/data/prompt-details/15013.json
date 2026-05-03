@@ -1,0 +1,53 @@
+{
+  "id": "15013",
+  "prompt": "A photorealistic close-up of the hood of a dark blue or black car parked outdoors, covered in a thick layer of beige-brown dust and pollen. In the center of the hood, a large clean emblem-like shape has been finger-drawn through the dust, revealing the glossy paint underneath. The symbol is a circular logo with 8 segmented bars around a raised circular center: 1 wide curved segment across the top, 3 horizontal bar segments on the left side, 3 horizontal bar segments on the right side, and 1 wide angled segment across the bottom. A realistic adult human hand with dirty fingernails rests on the lower right area of the hood, as if it has just finished drawing the symbol. Show streaks, smudges, and finger-trace texture in the dust around the edges of the design. Include part of the windshield and 1 windshield wiper at the top left, with soft reflections of trees in the glass and paint. Background is a slightly blurred parking lot with sunlit pavement, curb, and 3 tree trunks. Warm late-afternoon natural lighting, shallow depth of field, high-detail automotive surface reflections, candid documentary-style composition, vertical smartphone photo framing.",
+  "translatedPrompt": "一张逼真的特写照片，拍摄的是一辆停在户外的深蓝色或黑色汽车的车盖，上面覆盖着一层厚厚的米褐色灰尘和花粉。在车盖中央，一个大型且清晰的徽章形状是用手指划过灰尘绘制而成的，露出了下方光亮的漆面。该符号是一个圆形标志，中心有一个凸起的圆点，周围环绕着 8 个分段条纹：顶部有 1 个宽大的弧形段，左侧有 3 个水平条纹段，右侧有 3 个水平条纹段，底部有 1 个宽大的倾斜段。一只指甲带有污垢的成年人手真实地放在车盖右下角，仿佛刚刚绘制完该符号。在图案边缘的灰尘中呈现出划痕、污迹和手指留下的纹理。左上方包含部分挡风玻璃和 1 个雨刮器，玻璃和车漆上倒映着树木的柔和影像。背景是稍微模糊的停车场，可以看到阳光照射下的路面、路缘石和 3 棵树干。温暖的午后自然光，浅景深，高细节的汽车表面反射，纪实风格的构图，竖屏手机照片比例。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "车盖上用灰尘绘制的符号：此提示词可生成一张逼真的特写照片，展示了布满灰尘的车盖上有一个用手绘制的大型徽章，适用于汽车、环境或象征性的视觉叙事。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "natural light",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, photorealistic, documentary]。\n\nLighting and camera:\n[参考光线镜头: natural light, shallow depth, depth of field]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15609",
+      "14969",
+      "14831",
+      "14869",
+      "15778",
+      "15698"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "13958",
+  "prompt": "Using REFERENCE_0, generate an {argument name=\"reproduction style\" default=\"exact photorealistic replica\"} of the entire scene. Preserve the composition completely unchanged, including the central young woman with long dark hair holding a white jacket and pink phone, the 2 foreground passengers obscuring the view, the subway car interior, the 3 green hanging handles, and the digital display board. Maintain the exact same lighting, colors, and perspective to make it indistinguishable from the original photograph.",
+  "translatedPrompt": "使用 REFERENCE_0，生成一个 {argument name=\"reproduction style\" default=\"精确照片级复刻\"} 的完整场景。保持构图完全不变，包括中心位置手持白色夹克和粉色手机的长发年轻女性、遮挡视野的 2 名前景乘客、地铁车厢内部、3 个绿色吊环以及数字显示屏。保持完全一致的光影、色彩和透视效果，使其与原始照片毫无二致。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "精确图像复刻：指示模型对提供的参考图像进行 1:1 的照片级克隆，且不改变构图、主体或光影。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14714",
+      "15536",
+      "14575",
+      "14807",
+      "15310",
+      "15775"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "13933",
+  "prompt": "A dreamy watercolor double-exposure illustration where the main shape is the side profile silhouette of a {argument name=\"main subject silhouette\" default=\"young anime girl facing left\"}. Inside her silhouette is a rich, layered fantasy world. At the top is a {argument name=\"top scenery\" default=\"grand white castle with multiple spires under a starry night sky with a crescent moon\"}. Below the castle, two cloaked figures stand in a mystical forest. In the center, a {argument name=\"central character\" default=\"young female mage with pink hair holding a glowing magical staff\"} stands prominently. To the left of the mage, a white horse is visible. At the bottom of the silhouette is a {argument name=\"bottom scenery\" default=\"fantasy village surrounded by blooming cherry blossom trees, with a large open spellbook and a sword resting in the foreground\"}. The artwork features a {argument name=\"color palette\" default=\"soft pastel purples, pinks, and blues\"} color palette. The background outside the silhouette is textured parchment with soft watercolor splatters and fading cherry blossom petals, with the signature \"tamanyo\" written in cursive at the bottom left.",
+  "translatedPrompt": "一幅梦幻般的水彩双重曝光插画，主体轮廓为一个 {argument name=\"main subject silhouette\" default=\"面向左侧的年轻动漫少女\"} 的侧面剪影。剪影内部是一个丰富且富有层次的奇幻世界。顶部是 {argument name=\"top scenery\" default=\"星空与新月下拥有多座尖塔的宏伟白色城堡\"}。城堡下方，两个身披斗篷的人物伫立在神秘的森林中。画面中心，一位 {argument name=\"central character\" default=\"手持发光魔法杖、留着粉色头发的年轻女法师\"} 占据显眼位置。法师左侧可见一匹白马。剪影底部是 {argument name=\"bottom scenery\" default=\"被盛开樱花树环绕的奇幻村庄，前景处放置着一本打开的巨大魔法书和一把剑\"}。整幅作品采用 {argument name=\"color palette\" default=\"柔和的淡紫色、粉色和蓝色\"} 色调。剪影之外的背景为带有水彩飞溅效果和渐隐樱花花瓣的纹理羊皮纸，左下角以草书签有“tamanyo”字样。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "水彩双重曝光奇幻剪影：生成一幅梦幻般的水彩插画，以人物侧影剪影为载体，内部填充细腻且富有层次的奇幻场景。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "layered"
+      ],
+      "style": [
+        "anime",
+        "fantasy",
+        "watercolor"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered]。\n\nVisual style:\n[参考风格: anime, fantasy, watercolor]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14587",
+      "15610",
+      "15708",
+      "15733",
+      "15332",
+      "15678"
+    ]
+  }
+}

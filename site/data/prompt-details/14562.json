@@ -1,0 +1,48 @@
+{
+  "id": "14562",
+  "prompt": "A dark, cinematic graphic-novel style book cover illustration set in a snowy mountain forest at night, with a cold blue palette and dramatic vertical composition. In the foreground, 4 human figures stand behind a red-and-white striped barrier gate blocking a forest road. The first is an adult man in a heavy dark winter jacket, carrying 1 sleeping young girl in his arms; the girl wears a padded pink snowsuit and pale winter boots, her head resting on his shoulder. Beside him stands 1 adult woman in a fur-trimmed winter parka, holding a flashlight angled downward so its warm beam cuts across the snow. Next to her stands 1 teenage boy or young man in a dark hooded winter coat, looking into the forest. On the right foreground, place 1 weathered warning sign mounted on a wooden post, showing a black pedestrian silhouette inside a red prohibition circle and diagonal slash. In the left midground, partially hidden by trees, include 1 dark off-road SUV parked on the snowy roadside. In the right midground, on the ground among the trees, place 1 dead deer with visible antlers. In the distant background between the trunks, include 2 faint, eerie humanoid silhouettes standing still in the forest. Towering pine trees frame the scene on both sides, with steep snow-dusted mountain peaks rising in the background under a clear star-filled sky. From high in the sky near the center-right, a single brilliant vertical beam of pale blue-white light descends from above into the forest, illuminating mist and suggesting a mysterious anomaly. The mood is tense, forbidden, supernatural, and survival-driven, as if for the cover of a thriller or science-fiction graphic novel titled {argument name=\"title text\" default=\"La Réserve\"}. Highly detailed painted realism mixed with comic-book linework, subtle rim lighting, deep shadows, realistic winter textures, cinematic suspense, no visible facial details, portrait orientation.",
+  "translatedPrompt": "一张黑暗、电影质感的图像小说风格书籍封面插图，背景设定在夜晚的雪山森林中，采用冷蓝色调和戏剧性的垂直构图。前景中，4 个人物站在阻挡林道的红白相间栏杆后。第一位是一名穿着厚重深色冬装的成年男子，怀里抱着 1 个正在熟睡的小女孩；女孩穿着粉色棉质雪服和浅色冬靴，头靠在他的肩膀上。他身边站着 1 位穿着带毛领冬装大衣的成年女性，手里拿着手电筒，光束向下倾斜，温暖的光线划过积雪。她旁边站着 1 位穿着深色连帽冬装的少年或年轻男子，正注视着森林。在右侧前景处，放置 1 个安装在木柱上的风化警告标志，标志上显示一个红色禁止圆圈和斜杠内的黑色行人剪影。在左侧中景处，被树木部分遮挡，包含 1 辆停在雪地路边的深色越野 SUV。在右侧中景处的树丛地面上，放置 1 只可见鹿角的死鹿。在树干之间的远景中，包含 2 个静止站在森林里的模糊、诡异的人形剪影。高耸的松树在两侧构成了场景框架，背景是积雪覆盖的陡峭山峰，天空繁星点点。从右上方的高空，一道明亮的淡蓝白色垂直光束从天而降，射入森林，照亮了薄雾，暗示着某种神秘异常现象。氛围紧张、禁忌、超自然且充满生存危机感，仿佛是为标题为 {argument name=\"title text\" default=\"La Réserve\"} 的惊悚或科幻图像小说设计的封面。高度细腻的绘画写实风格与漫画线条相结合，带有微妙的轮廓光、深邃的阴影、逼真的冬季质感、电影般的悬疑感，无可见面部细节，纵向构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "“神秘森林禁区”书籍封面：一张电影质感的冬季惊悚小说封面，描绘了一群人在超自然光束下的禁忌森林关卡前，非常适合科幻或悬疑类图像小说。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "rim light"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: rim light]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14561",
+      "15766",
+      "14902",
+      "15308",
+      "15443",
+      "15453"
+    ]
+  }
+}

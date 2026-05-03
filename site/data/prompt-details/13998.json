@@ -1,0 +1,41 @@
+{
+  "id": "13998",
+  "prompt": "A cinematic anime-style movie poster of a girl with {argument name=\"character hair color\" default=\"light blue\"} hair, animal ears, and a fluffy tail, wearing an oversized white t-shirt. She stands on a wet, reflective rural Japanese train station platform at {argument name=\"time of day\" default=\"twilight\"}, looking back over her shoulder. The sky is a dramatic gradient of deep blue to pink. The platform has a glowing vending machine, train tracks, and signs reading \"終点 TERMINAL\" and \"まもなく 終点 ご乗車ありがとうございました\". Elegant typography includes top text \"{argument name=\"top tagline\" default=\"終点のひとつ手前で、ソーダさんはいつも笑う。\"}\", a large bottom title \"{argument name=\"main title\" default=\"終点からソーダさん\"}\" with English subtitle \"FROM THE TERMINAL, SODA-SAN\", and bottom text \"{argument name=\"bottom tagline\" default=\"たぶん恋ではなく、もう少し炭酸だった。\"}\".",
+  "translatedPrompt": "一张电影感动漫风格的电影海报，主角是一位留着 {argument name=\"character hair color\" default=\"浅蓝色\"} 头发、长着兽耳和毛茸茸尾巴的女孩，身穿一件超大号白色 T 恤。她站在 {argument name=\"time of day\" default=\"暮色\"} 时分湿润且带有倒影的日本乡村火车站台上，回眸望向后方。天空呈现出从深蓝到粉色的戏剧性渐变。站台上有一个发光的自动贩卖机、铁轨，以及写有“終点 TERMINAL”和“まもなく 終点 ご乗車ありがとうございました”的标牌。优雅的排版包括顶部文字“{argument name=\"top tagline\" default=\"終点のひとつ手前で、ソーダさんはいつも笑う。\"}”，底部的大标题“{argument name=\"main title\" default=\"終点からソーダさん\"}”及其英文副标题“FROM THE TERMINAL, SODA-SAN”，以及底部文字“{argument name=\"bottom tagline\" default=\"たぶん恋ではなく、もう少し炭酸だった。\"}”。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "暮色车站的动漫电影海报：生成一张电影感动漫风格的海报，展现角色在乡村火车站的场景，并支持自定义日文排版。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13682",
+      "14003",
+      "14203",
+      "13796",
+      "13556",
+      "13745"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "13555",
+  "prompt": "{\n  \"type\": \"video game cover art collage\",\n  \"style\": \"GTA V cover art style, cel-shaded illustration, thick black panel borders\",\n  \"centerpiece\": {\n    \"character\": \"{argument name=\\\"main character\\\" default=\\\"Thomas Shelby from Peaky Blinders\\\"}, wearing dark suit, white shirt, smoking cigarette, undercut hairstyle\",\n    \"logo\": \"{argument name=\\\"game title\\\" default=\\\"grand theft auto V\\\"} logo with green V and FIVE banner\",\n    \"subtitle\": \"{argument name=\\\"bottom text\\\" default=\\\"THOMAS SHELBY BIRMINGHAM. 1919.\\\"}\"\n  },\n  \"layout\": {\n    \"panel_count\": 8,\n    \"panels\": [\n      {\n        \"position\": \"top-left\",\n        \"description\": \"Hillside with {argument name=\\\"location sign 1\\\" default=\\\"VINEWOOD\\\"} sign, radio tower, palm trees\"\n      },\n      {\n        \"position\": \"upper-left\",\n        \"description\": \"Street sign reading {argument name=\\\"location sign 2\\\" default=\\\"SMALL HEATH BIRMINGHAM S 41\\\"}, terraced houses\"\n      },\n      {\n        \"position\": \"mid-left\",\n        \"description\": \"Handgun, 3 bullets, map with text 'BY ORDER OF THE PEAKY BLINDERS'\"\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"description\": \"Vintage 1920s black car, glowing headlights, 'GTA V' license plate\"\n      },\n      {\n        \"position\": \"top-right\",\n        \"description\": \"City skyline silhouette, helicopter\"\n      },\n      {\n        \"position\": \"mid-right\",\n        \"description\": \"3 men in flat caps and suits walking in smoky industrial setting\"\n      },\n      {\n        \"position\": \"bottom-right-upper\",\n        \"description\": \"Large country mansion, black horse on lawn\"\n      },\n      {\n        \"position\": \"bottom-right-lower\",\n        \"description\": \"Man in flat cap looking at industrial skyline, yellow Rockstar Games logo\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"电子游戏封面艺术拼贴\",\n  \"style\": \"GTA V 封面艺术风格，赛璐珞插画，粗黑色面板边框\",\n  \"centerpiece\": {\n    \"character\": \"{argument name=\\\"main character\\\" default=\\\"《浴血黑帮》中的托马斯·谢尔比 (Thomas Shelby)\\\"}, 身穿深色西装，白色衬衫，抽着香烟，留着底切发型\",\n    \"logo\": \"{argument name=\\\"game title\\\" default=\\\"grand theft auto V\\\"} 标志，带有绿色 V 和 FIVE 横幅\",\n    \"subtitle\": \"{argument name=\\\"bottom text\\\" default=\\\"THOMAS SHELBY BIRMINGHAM. 1919.\\\"}\"\n  },\n  \"layout\": {\n    \"panel_count\": 8,\n    \"panels\": [\n      {\n        \"position\": \"左上\",\n        \"description\": \"山坡上有 {argument name=\\\"location sign 1\\\" default=\\\"VINEWOOD\\\"} 标志、无线电塔、棕榈树\"\n      },\n      {\n        \"position\": \"中上左\",\n        \"description\": \"街道标志写着 {argument name=\\\"location sign 2\\\" default=\\\"SMALL HEATH BIRMINGHAM S 41\\\"}，联排别墅\"\n      },\n      {\n        \"position\": \"中左\",\n        \"description\": \"手枪，3 发子弹，地图上写着 'BY ORDER OF THE PEAKY BLINDERS'\"\n      },\n      {\n        \"position\": \"左下\",\n        \"description\": \"复古 1920 年代黑色汽车，发光的前大灯，'GTA V' 车牌\"\n      },\n      {\n        \"position\": \"右上\",\n        \"description\": \"城市天际线剪影，直升机\"\n      },\n      {\n        \"position\": \"中右\",\n        \"description\": \"3 名戴着鸭舌帽、穿着西装的男子在烟雾缭绕的工业环境中行走\"\n      },\n      {\n        \"position\": \"右下上\",\n        \"description\": \"大型乡村庄园，草坪上有黑马\"\n      },\n      {\n        \"position\": \"右下下\",\n        \"description\": \"戴着鸭舌帽的男子望着工业天际线，黄色 Rockstar Games 标志\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "GTA V 风格跨界封面艺术：生成多面板电子游戏封面拼贴画，将特定角色和世界观与标志性的 Grand Theft Auto V 艺术风格融合。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "vintage"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: vintage]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14188",
+      "15320",
+      "15354",
+      "15396",
+      "15700",
+      "15739"
+    ]
+  }
+}

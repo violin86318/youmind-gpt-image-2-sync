@@ -1,0 +1,43 @@
+{
+  "id": "14224",
+  "prompt": "{\n  \"type\": \"web advertisement banner\",\n  \"style\": \"clean, modern, bright, pastel gradient accents, dotted patterns in corners\",\n  \"background_image\": \"{argument name=\\\"subject description\\\" default=\\\"young Japanese woman smiling, looking at a laptop screen, resting her chin on her hand, wearing a white blouse\\\"}, bright natural lighting, white mug on desk\",\n  \"typography\": {\n    \"catchphrase\": {\n      \"text\": \"{argument name=\\\"catchphrase\\\" default=\\\"好きを、仕事にする力を\\\"}\",\n      \"style\": \"handwritten font, blue and purple underline\"\n    },\n    \"headline\": {\n      \"text\": \"{argument name=\\\"main headline\\\" default=\\\"Webデザインで未来を変える。\\\"}\",\n      \"style\": \"large bold sans-serif, black and blue-to-purple gradient\"\n    },\n    \"subheadline\": {\n      \"text\": \"From inexperienced to professional Web designer.\",\n      \"style\": \"medium sans-serif, black with blue highlight\"\n    }\n  },\n  \"layout\": {\n    \"feature_icons\": {\n      \"count\": 3,\n      \"style\": \"circular white badges with minimalist icons and text labels below\",\n      \"items\": [\n        { \"icon\": \"open book\", \"label\": \"Beginners OK\" },\n        { \"icon\": \"laptop\", \"label\": \"100% Online\" },\n        { \"icon\": \"person with speech bubble\", \"label\": \"Support from active designers\" }\n      ]\n    },\n    \"bottom_section\": {\n      \"satisfaction_badge\": {\n        \"text_top\": \"Student Satisfaction\",\n        \"value\": \"{argument name=\\\"satisfaction rate\\\" default=\\\"94%\\\"}\",\n        \"text_bottom\": \"*Internal research\",\n        \"decoration\": \"golden laurel wreaths\"\n      },\n      \"cta_button\": {\n        \"style\": \"pill-shaped, blue-to-pink gradient background, white text, right arrow icon\",\n        \"microcopy\": \"\\\\ Consult for free first /\",\n        \"main_text\": \"{argument name=\\\"call to action text\\\" default=\\\"無料カウンセリングに申し込む\\\"}\"\n      }\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"web advertisement banner\",\n  \"style\": \"clean, modern, bright, pastel gradient accents, dotted patterns in corners\",\n  \"background_image\": \"{argument name=\\\"subject description\\\" default=\\\"young Japanese woman smiling, looking at a laptop screen, resting her chin on her hand, wearing a white blouse\\\"}, bright natural lighting, white mug on desk\",\n  \"typography\": {\n    \"catchphrase\": {\n      \"text\": \"{argument name=\\\"catchphrase\\\" default=\\\"好きを、仕事にする力を\\\"}\",\n      \"style\": \"handwritten font, blue and purple underline\"\n    },\n    \"headline\": {\n      \"text\": \"{argument name=\\\"main headline\\\" default=\\\"Webデザインで未来を変える。\\\"}\",\n      \"style\": \"large bold sans-serif, black and blue-to-purple gradient\"\n    },\n    \"subheadline\": {\n      \"text\": \"From inexperienced to professional Web designer.\",\n      \"style\": \"medium sans-serif, black with blue highlight\"\n    }\n  },\n  \"layout\": {\n    \"feature_icons\": {\n      \"count\": 3,\n      \"style\": \"circular white badges with minimalist icons and text labels below\",\n      \"items\": [\n        { \"icon\": \"open book\", \"label\": \"Beginners OK\" },\n        { \"icon\": \"laptop\", \"label\": \"100% Online\" },\n        { \"icon\": \"person with speech bubble\", \"label\": \"Support from active designers\" }\n      ]\n    },\n    \"bottom_section\": {\n      \"satisfaction_badge\": {\n        \"text_top\": \"Student Satisfaction\",\n        \"value\": \"{argument name=\\\"satisfaction rate\\\" default=\\\"94%\\\"}\",\n        \"text_bottom\": \"*Internal research\",\n        \"decoration\": \"golden laurel wreaths\"\n      },\n      \"cta_button\": {\n        \"style\": \"pill-shaped, blue-to-pink gradient background, white text, right arrow icon\",\n        \"microcopy\": \"\\\\ Consult for free first /\",\n        \"main_text\": \"{argument name=\\\"call to action text\\\" default=\\\"無料カウンセリングに申し込む\\\"}\"\n      }\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Web Design Course Promotional Banner：Generates a modern, bright promotional web banner featuring a smiling professional, customizable headlines, feature highlights, and a call-to-action button.",
+      "subject": "人物",
+      "scene": "字体/Logo",
+      "composition": [],
+      "style": [
+        "minimalist"
+      ],
+      "lightingCamera": [
+        "natural light"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: minimalist]。\n\nLighting and camera:\n[参考光线镜头: natural light]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14021",
+      "14267",
+      "13663",
+      "13943",
+      "14065",
+      "14917"
+    ]
+  }
+}

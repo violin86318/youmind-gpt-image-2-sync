@@ -1,0 +1,57 @@
+{
+  "id": "15597",
+  "prompt": "{\"type\":\"multi-style comparative art grid\",\"subject\":\"single apple interpreted through eight different visual systems in one image\",\"composition\":{\"format\":\"square 3x3 grid\",\"canvas\":\"large square canvas\",\"background\":\"each cell uses its own appropriate background except the center cell, which is intentionally left blank\",\"center_cell\":{\"position\":\"middle center\",\"content\":\"empty white square negative space\",\"purpose\":\"clear visual gap separating the surrounding interpretations\"},\"cells\":[{\"position\":\"top left\",\"style\":\"Cézanne-inspired post-impressionist painting\",\"subject\":\"whole apple\",\"details\":\"a red-orange apple rendered with thick broken brushstrokes and palette-knife texture, mottled warm and cool color patches, blue-gray tabletop or ground, visible painterly shadow to the right, expressive impasto surface\"},{\"position\":\"top center\",\"style\":\"Dutch still life oil painting\",\"subject\":\"whole apple\",\"details\":\"a realistic red apple on a wooden ledge against a deep dark brown-black background, dramatic chiaroscuro lighting, subtle highlight on the fruit, classical museum-style still life atmosphere\"},{\"position\":\"top right\",\"style\":\"sumi-e ink painting\",\"subject\":\"apple suggested with minimal brushwork\",\"details\":\"off-white paper background, a few gestural gray-black ink strokes forming an incomplete circular apple silhouette, dark shaded crescent on one side, simple stem, red seal stamp in the lower right area of the cell, elegant East Asian calligraphic restraint\"},{\"position\":\"middle left\",\"style\":\"medical botanical diagram\",\"subject\":\"horizontal cross-section of an apple\",\"details\":\"vintage scientific illustration on aged ivory paper, centered halved apple with seeds and internal structure visible, fine line labels pointing to parts, readable labels include \\\"Pericarpium (exocarpium)\\\", \\\"Mesocarpium\\\", \\\"Endocarpium\\\", and \\\"Loculus (seminifer)\\\", with the caption \\\"Malus domestica\\\" and \\\"Sectio horizontalis\\\" below\"},{\"position\":\"middle right\",\"style\":\"Warhol-inspired pop art screen print\",\"subject\":\"whole apple\",\"details\":\"bold simplified apple in saturated hot pink and magenta with dark outline, bright yellow upper background and cobalt blue lower background, high contrast graphic treatment, silkscreen poster feel\"},{\"position\":\"bottom left\",\"style\":\"hyperreal macro photography\",\"subject\":\"extreme close-up apple detail\",\"details\":\"a photographic macro view of the apple skin and stem cavity, crisp stem in focus, glossy water droplet on the red peel, shallow depth of field, luminous texture and realistic specular highlights\"},{\"position\":\"bottom center\",\"style\":\"cubist painting\",\"subject\":\"whole apple\",\"details\":\"apple deconstructed into angular geometric planes in muted brown, ochre, and gray tones, faceted background and form merging together, subdued analytical cubism mood, stem visible at the top\"},{\"position\":\"bottom right\",\"style\":\"children's illustration\",\"subject\":\"cute smiling apple character\",\"details\":\"friendly hand-painted watercolor or crayon-like apple with rosy cheeks, simple black dot eyes, curved smile, small stem and green leaf, soft shadow beneath, playful storybook look\"}],\"count\":8},\"lighting\":\"each style uses its own internally consistent lighting logic\",\"color_strategy\":\"distinct palette per cell to emphasize different representational grammars\",\"instructions\":\"Create a single unified image, not a collage assembled from separate files, showing {argument name=\\\"subject\\\" default=\\\"one apple\\\"} through exactly 8 visual grammars arranged around an empty center. Keep the middle cell blank white. Maintain a strict 3x3 grid with 8 occupied cells and 1 empty center cell. Make each occupied cell a convincing exemplar of its style while preserving the same core subject.\",\"style_labels\":[\"{argument name=\\\"style 1\\\" default=\\\"Cézanne\\\"}\",\"{argument name=\\\"style 2\\\" default=\\\"Dutch still life\\\"}\",\"{argument name=\\\"style 3\\\" default=\\\"Sumi-e\\\"}\",\"{argument name=\\\"style 4\\\" default=\\\"Medical diagram\\\"}\",\"{argument name=\\\"style 5\\\" default=\\\"Warhol\\\"}\",\"{argument name=\\\"style 6\\\" default=\\\"Hyperreal macro\\\"}\",\"{argument name=\\\"style 7\\\" default=\\\"Cubism\\\"}\",\"{argument name=\\\"style 8\\\" default=\\\"Children’s illustration\\\"}\"]}",
+  "translatedPrompt": "{\"type\":\"多风格对比艺术网格\",\"subject\":\"在同一图像中通过八种不同的视觉系统诠释单个苹果\",\"composition\":{\"format\":\"正方形 3x3 网格\",\"canvas\":\"大正方形画布\",\"background\":\"除中心单元格故意留白外，每个单元格均使用其各自适宜的背景\",\"center_cell\":{\"position\":\"正中间\",\"content\":\"空白的白色正方形负空间\",\"purpose\":\"作为分隔周围不同诠释的清晰视觉间隙\"},\"cells\":[{\"position\":\"左上\",\"style\":\"塞尚风格的后印象派绘画\",\"subject\":\"完整苹果\",\"details\":\"一个红橙色的苹果，采用厚重的断续笔触和调色刀质感渲染，斑驳的冷暖色块，蓝灰色桌面或地面，右侧有明显的绘画阴影，富有表现力的厚涂表面\"},{\"position\":\"中上\",\"style\":\"荷兰静物油画\",\"subject\":\"完整苹果\",\"details\":\"木架上的写实红苹果，背景为深棕黑色，戏剧性的明暗对照法，果实上有微妙的高光，具有古典博物馆风格的静物氛围\"},{\"position\":\"右上\",\"style\":\"水墨画\",\"subject\":\"以极简笔触勾勒的苹果\",\"details\":\"灰白色纸张背景，几笔写意的灰黑色墨迹构成不完整的圆形苹果轮廓，一侧有深色阴影，简单的果柄，单元格右下角有红色印章，体现东亚书法艺术的优雅克制\"},{\"position\":\"左中\",\"style\":\"医学植物图谱\",\"subject\":\"苹果水平横截面\",\"details\":\"陈旧象牙色纸张上的复古科学插图，居中的剖面苹果展示了种子和内部结构，细线指向各部位，清晰的标签包括 \\\"Pericarpium (exocarpium)\\\"、\\\"Mesocarpium\\\"、\\\"Endocarpium\\\" 和 \\\"Loculus (seminifer)\\\"，下方标注 \\\"Malus domestica\\\" 和 \\\"Sectio horizontalis\\\"\"},{\"position\":\"右中\",\"style\":\"沃霍尔风格的波普艺术丝网印刷\",\"subject\":\"完整苹果\",\"details\":\"大胆简化的苹果，采用饱和的亮粉色和洋红色，带有深色轮廓，背景上部为亮黄色，下部为钴蓝色，高对比度的图形处理，具有丝网印刷海报的质感\"},{\"position\":\"左下\",\"style\":\"超写实微距摄影\",\"subject\":\"苹果细节特写\",\"details\":\"苹果皮和果柄凹陷处的微距摄影视角，清晰的果柄对焦，红色果皮上有晶莹的水珠，浅景深，富有光泽的质感和逼真的镜面高光\"},{\"position\":\"中下\",\"style\":\"立体主义绘画\",\"subject\":\"完整苹果\",\"details\":\"苹果被解构为带有柔和棕色、赭色和灰色的角状几何平面，背景与形态融合，呈现出内敛的分析立体主义氛围，顶部可见果柄\"},{\"position\":\"右下\",\"style\":\"儿童插画\",\"subject\":\"可爱的微笑苹果角色\",\"details\":\"友好的手绘水彩或蜡笔风格苹果，带有红润的脸颊，简单的黑色圆点眼睛，弯曲的笑脸，小果柄和绿叶，下方有柔和的阴影，充满童趣的绘本风格\"}],\"count\":8},\"lighting\":\"每种风格均使用其内部一致的照明逻辑\",\"color_strategy\":\"每个单元格采用独特的调色板，以强调不同的表现语法\",\"instructions\":\"创建一个统一的单幅图像，而非由独立文件拼贴而成，展示 {argument name=\\\"subject\\\" default=\\\"一个苹果\\\"} 在围绕中心留白的 8 种视觉语法下的呈现。保持中间单元格为空白。严格维持 3x3 网格，包含 8 个填充单元格和 1 个中心空白单元格。使每个填充单元格都成为其风格的有力范例，同时保持核心主体一致。\",\"style_labels\":[\"{argument name=\\\"style 1\\\" default=\\\"塞尚\\\"}\",\"{argument name=\\\"style 2\\\" default=\\\"荷兰静物\\\"}\",\"{argument name=\\\"style 3\\\" default=\\\"水墨画\\\"}\",\"{argument name=\\\"style 4\\\" default=\\\"医学图谱\\\"}\",\"{argument name=\\\"style 5\\\" default=\\\"沃霍尔\\\"}\",\"{argument name=\\\"style 6\\\" default=\\\"超写实微距\\\"}\",\"{argument name=\\\"style 7\\\" default=\\\"立体主义\\\"}\",\"{argument name=\\\"style 8\\\" default=\\\"儿童插画\\\"}\"]}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "八种视觉语法下的苹果：一张正方形的对比艺术图像，展示了一个苹果在八种不同风格下的呈现，中心留白，非常适合演示单帧画面中的多风格图像生成。",
+      "subject": "界面",
+      "scene": "信息图/图解",
+      "composition": [
+        "centered",
+        "close-up",
+        "grid",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "vintage",
+        "watercolor",
+        "oil painting"
+      ],
+      "lightingCamera": [
+        "high contrast",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "要求精确文字；要求可读；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": "得分 80；构图: centered, close-up, grid, horizontal；风格: realistic, vintage, watercolor, oil painting；要求精确文字；要求可读；包含标注/说明"
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, close-up, grid, horizontal]。\n\nVisual style:\n[参考风格: realistic, vintage, watercolor, oil painting]。\n\nLighting and camera:\n[参考光线镜头: high contrast, shallow depth, depth of field]。\n\nText requirements:\n要求精确文字；要求可读；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15662",
+      "15421",
+      "15666",
+      "14866",
+      "15660",
+      "14407"
+    ]
+  }
+}

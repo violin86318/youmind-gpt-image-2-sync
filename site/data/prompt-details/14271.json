@@ -1,0 +1,45 @@
+{
+  "id": "14271",
+  "prompt": "{\n  \"type\": \"digital newsletter page layout\",\n  \"background\": \"white page resting on a dark surface with glowing blue digital nodes and connecting lines\",\n  \"header\": {\n    \"text\": \"{argument name=\\\"main headline\\\" default=\\\"Noticias IA – 20 de abril de 2026\\\"}\",\n    \"style\": \"white text on a dark blue banner with a light blue border\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"id\": 1,\n        \"title\": \"{argument name=\\\"news item 1 title\\\" default=\\\"1. Anthropic Mythos genera alarma mundial por capacidades ciber.\\\"}\",\n        \"image_description\": \"A glowing blue cyber dragon emerging from servers, surrounded by floating digital padlocks.\",\n        \"layout_style\": \"Image on the right, title and text on the left, with a cyan pull quote at the bottom left.\"\n      },\n      {\n        \"id\": 2,\n        \"title\": \"{argument name=\\\"news item 2 title\\\" default=\\\"2. Acciones Adobe y Figma caen tras Claude Design.\\\"}\",\n        \"image_description\": \"A stylized stock chart showing jagged red arrows pointing down and a glowing blue arrow pointing up, featuring logos for Adobe, Figma, and an 'AI' icon.\",\n        \"layout_style\": \"Image on the left, title and text on the right.\"\n      },\n      {\n        \"id\": 3,\n        \"title\": \"{argument name=\\\"news item 3 title\\\" default=\\\"3. OpenAI expande GPT-5.4-Cyber y Agents SDK.\\\"}\",\n        \"image_description\": \"A glowing blue holographic shield with the OpenAI logo in the center, surrounded by digital chains and a server background.\",\n        \"layout_style\": \"Title and text on the left, image on the right.\"\n      },\n      {\n        \"id\": 4,\n        \"title\": \"4. NVIDIA presenta Lyra 2.0 para mundos 3D.\",\n        \"image_description\": \"A vibrant, surreal 3D fantasy landscape with glowing flora, floating islands, and a glowing blue camera icon in the foreground.\",\n        \"layout_style\": \"Image on the left, title and text on the right.\"\n      },\n      {\n        \"id\": 5,\n        \"title\": \"5. OpenAI Image V2 mejora fotografía de productos.\",\n        \"image_description\": \"A side-by-side comparison of a luxury chronograph watch. The left side is labeled 'BEFORE' (darker, less detailed), and the right side is labeled 'AFTER (OpenAI Image V2)' (bright, highly detailed, professional lighting).\",\n        \"layout_style\": \"Title and text on the left, image on the right.\"\n      }\n    ],\n    \"count\": 5\n  },\n  \"footer\": {\n    \"text\": \"{argument name=\\\"footer hashtags\\\" default=\\\"#IA2025 #InteligenciaArtificial #LLMs #NoticiasIA\\\"}\",\n    \"logo\": \"OL logo with '@oscarlau'\",\n    \"style\": \"white text on a dark blue banner at the bottom\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"digital newsletter page layout\",\n  \"background\": \"white page resting on a dark surface with glowing blue digital nodes and connecting lines\",\n  \"header\": {\n    \"text\": \"{argument name=\\\"main headline\\\" default=\\\"Noticias IA – 20 de abril de 2026\\\"}\",\n    \"style\": \"white text on a dark blue banner with a light blue border\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"id\": 1,\n        \"title\": \"{argument name=\\\"news item 1 title\\\" default=\\\"1. Anthropic Mythos genera alarma mundial por capacidades ciber.\\\"}\",\n        \"image_description\": \"A glowing blue cyber dragon emerging from servers, surrounded by floating digital padlocks.\",\n        \"layout_style\": \"Image on the right, title and text on the left, with a cyan pull quote at the bottom left.\"\n      },\n      {\n        \"id\": 2,\n        \"title\": \"{argument name=\\\"news item 2 title\\\" default=\\\"2. Acciones Adobe y Figma caen tras Claude Design.\\\"}\",\n        \"image_description\": \"A stylized stock chart showing jagged red arrows pointing down and a glowing blue arrow pointing up, featuring logos for Adobe, Figma, and an 'AI' icon.\",\n        \"layout_style\": \"Image on the left, title and text on the right.\"\n      },\n      {\n        \"id\": 3,\n        \"title\": \"{argument name=\\\"news item 3 title\\\" default=\\\"3. OpenAI expande GPT-5.4-Cyber y Agents SDK.\\\"}\",\n        \"image_description\": \"A glowing blue holographic shield with the OpenAI logo in the center, surrounded by digital chains and a server background.\",\n        \"layout_style\": \"Title and text on the left, image on the right.\"\n      },\n      {\n        \"id\": 4,\n        \"title\": \"4. NVIDIA presenta Lyra 2.0 para mundos 3D.\",\n        \"image_description\": \"A vibrant, surreal 3D fantasy landscape with glowing flora, floating islands, and a glowing blue camera icon in the foreground.\",\n        \"layout_style\": \"Image on the left, title and text on the right.\"\n      },\n      {\n        \"id\": 5,\n        \"title\": \"5. OpenAI Image V2 mejora fotografía de productos.\",\n        \"image_description\": \"A side-by-side comparison of a luxury chronograph watch. The left side is labeled 'BEFORE' (darker, less detailed), and the right side is labeled 'AFTER (OpenAI Image V2)' (bright, highly detailed, professional lighting).\",\n        \"layout_style\": \"Title and text on the left, image on the right.\"\n      }\n    ],\n    \"count\": 5\n  },\n  \"footer\": {\n    \"text\": \"{argument name=\\\"footer hashtags\\\" default=\\\"#IA2025 #InteligenciaArtificial #LLMs #NoticiasIA\\\"}\",\n    \"logo\": \"OL logo with '@oscarlau'\",\n    \"style\": \"white text on a dark blue banner at the bottom\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "AI News Newsletter Page Layout：Generates a structured digital newsletter page featuring 5 distinct news sections with accompanying thematic illustrations and text blocks.",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "3d",
+        "fantasy",
+        "luxury"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: 3d, fantasy, luxury]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14846",
+      "14590",
+      "14995",
+      "14850",
+      "14938",
+      "15416"
+    ]
+  }
+}

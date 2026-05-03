@@ -1,0 +1,48 @@
+{
+  "id": "13807",
+  "prompt": "{\n  \"type\": \"anime character design reference sheet\",\n  \"header\": \"{argument name=\\\"document title\\\" default=\\\"❖ キャラクター設定資料 ❖\\\"}\",\n  \"character\": {\n    \"description\": \"{argument name=\\\"character description\\\" default=\\\"anime girl with long twin tails\\\"}\",\n    \"hair_color\": \"{argument name=\\\"hair color\\\" default=\\\"light blue\\\"}\",\n    \"eye_color\": \"{argument name=\\\"eye color\\\" default=\\\"blue\\\"}\",\n    \"outfit\": \"{argument name=\\\"outfit style\\\" default=\\\"beige cardigan, white shirt, blue tie, grey plaid skirt, blue socks, black loafers\\\"}\"\n  },\n  \"layout\": {\n    \"left_column\": {\n      \"title\": \"三面図\",\n      \"description\": \"Height chart (0cm-160cm) with full-body poses\",\n      \"count\": 3,\n      \"labels\": [\"正面\", \"側面\", \"背面\"]\n    },\n    \"bottom_left_grid\": {\n      \"title\": \"服装の詳細\",\n      \"description\": \"Grid of individual clothing items with text and fabric textures\",\n      \"count\": 6,\n      \"labels\": [\"シャツ\", \"ネクタイ\", \"カーディガン\", \"スカート\", \"靴下\", \"靴\"]\n    },\n    \"top_right\": {\n      \"title\": \"髪の特徴\",\n      \"description\": \"Bullet points, headshots for hair angles, and ribbon detail\",\n      \"count\": 3,\n      \"labels\": [\"前髪・アホ毛の形状\", \"サイド\", \"後ろ (リボンの構造)\"]\n    },\n    \"middle_right_color_bar\": {\n      \"title\": \"髪色の詳細\",\n      \"description\": \"Horizontal color gradient bar\",\n      \"count\": 4,\n      \"labels\": [\"影\", \"ベース\", \"ハイライト\", \"強いハイライト\"]\n    },\n    \"middle_right_eye\": {\n      \"title\": \"目の特徴\",\n      \"description\": \"Bullet points and close-up eye illustration\",\n      \"count\": 1,\n      \"labels\": [\"瞳のアップ\"]\n    },\n    \"middle_right_palette\": {\n      \"title\": \"全体の配色\",\n      \"description\": \"Bullet points and circular color swatches\",\n      \"count\": 9,\n      \"labels\": [\"髪\", \"瞳\", \"リボン(表)\", \"リボン(裏)\", \"シャツ\", \"ネクタイ/靴下\", \"カーディガン\", \"スカート\", \"靴\"]\n    },\n    \"bottom_right_expressions\": {\n      \"title\": \"キャラクターの印象・設定イメージ\",\n      \"description\": \"Expression headshots\",\n      \"count\": 3,\n      \"labels\": [\"笑顔\", \"怒り顔\", \"ドヤ顔\"]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"动漫角色设计参考图表\",\n  \"header\": \"{argument name=\\\"document title\\\" default=\\\"❖ 角色设定资料 ❖\\\"}\",\n  \"character\": {\n    \"description\": \"{argument name=\\\"character description\\\" default=\\\"长双马尾动漫少女\\\"}\",\n    \"hair_color\": \"{argument name=\\\"hair color\\\" default=\\\"浅蓝色\\\"}\",\n    \"eye_color\": \"{argument name=\\\"eye color\\\" default=\\\"蓝色\\\"}\",\n    \"outfit\": \"{argument name=\\\"outfit style\\\" default=\\\"米色开衫、白色衬衫、蓝色领带、灰色格子裙、蓝色袜子、黑色乐福鞋\\\"}\"\n  },\n  \"layout\": {\n    \"left_column\": {\n      \"title\": \"三面图\",\n      \"description\": \"身高对照表（0cm-160cm）及全身姿势\",\n      \"count\": 3,\n      \"labels\": [\"正面\", \"侧面\", \"背面\"]\n    },\n    \"bottom_left_grid\": {\n      \"title\": \"服装细节\",\n      \"description\": \"包含文字说明和布料纹理的单项服装网格\",\n      \"count\": 6,\n      \"labels\": [\"衬衫\", \"领带\", \"开衫\", \"裙子\", \"袜子\", \"鞋子\"]\n    },\n    \"top_right\": {\n      \"title\": \"发型特征\",\n      \"description\": \"要点说明、发型角度特写及丝带细节\",\n      \"count\": 3,\n      \"labels\": [\"刘海与呆毛形状\", \"侧面\", \"背面（丝带结构）\"]\n    },\n    \"middle_right_color_bar\": {\n      \"title\": \"发色细节\",\n      \"description\": \"水平颜色渐变条\",\n      \"count\": 4,\n      \"labels\": [\"阴影\", \"底色\", \"高光\", \"强高光\"]\n    },\n    \"middle_right_eye\": {\n      \"title\": \"眼睛特征\",\n      \"description\": \"要点说明及眼睛特写插图\",\n      \"count\": 1,\n      \"labels\": [\"瞳孔特写\"]\n    },\n    \"middle_right_palette\": {\n      \"title\": \"整体配色\",\n      \"description\": \"要点说明及圆形色卡\",\n      \"count\": 9,\n      \"labels\": [\"头发\", \"瞳孔\", \"丝带（正面）\", \"丝带（背面）\", \"衬衫\", \"领带/袜子\", \"开衫\", \"裙子\", \"鞋子\"]\n    },\n    \"bottom_right_expressions\": {\n      \"title\": \"角色印象与设定意象\",\n      \"description\": \"表情特写\",\n      \"count\": 3,\n      \"labels\": [\"微笑\", \"生气\", \"得意\"]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "综合动漫角色参考图表：生成一份高度详细的多面板角色设计文档，包括三视图、表情、配色方案和服装拆解。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "full-body",
+        "grid",
+        "horizontal"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, full-body, grid, horizontal]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14250",
+      "14404",
+      "13496",
+      "13736",
+      "13948",
+      "14468"
+    ]
+  }
+}

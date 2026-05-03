@@ -1,0 +1,36 @@
+{
+  "id": "14764",
+  "prompt": "画一张{argument name=\"平台\" default=\"抖音\"}短视频封面，大字标题占满左半屏「{argument name=\"标题\" default=\"我在牛马情绪工厂AI 创作梗图 笑到同事报警\"}」。右侧主播 {argument name=\"表情\" default=\"笑到飙泪的夸张表情大头照\"}，左下点赞数 {argument name=\"点赞数\" default=\"328 万\"}，右下话题「# AI整活 # 笑不活了」。",
+  "translatedPrompt": "绘制一张 {argument name=\"platform\" default=\"抖音\"} 短视频封面。左半屏填充醒目的大标题文字：\"{argument name=\"title\" default=\"我在 YouMind 情绪工厂 AI 制作梗图；笑到同事报警\"}\"。右侧是 {argument name=\"expression\" default=\"笑出眼泪的夸张特写照片\"} 的博主。左下角显示点赞数为 {argument name=\"likes\" default=\"328 万\"}。右下角标签为 \"# AI 整活 # 笑死我了。\"",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "社交媒体梗图封面：一个用于设计社交媒体病毒式视频封面的提示词，包含醒目的文字和夸张的面部表情。",
+      "subject": "综合主体",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13973",
+      "14331",
+      "14358",
+      "14365",
+      "15220",
+      "15229"
+    ]
+  }
+}

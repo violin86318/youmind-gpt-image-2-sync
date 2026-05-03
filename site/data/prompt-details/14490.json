@@ -1,0 +1,43 @@
+{
+  "id": "14490",
+  "prompt": "{\"type\":\"Japanese cat sticker sheet\",\"subject\":{\"animal\":\"black kitten\",\"style\":\"cute chibi-style digital illustration with soft painterly shading, rounded proportions, big amber eyes, tiny pink mouth, subtle fur texture, clean white background\",\"color\":\"deep black fur with warm brown highlights inside the ears\"},\"layout\":{\"grid\":{\"rows\":3,\"columns\":5,\"count\":15},\"sections\":[{\"title\":\"01. ありがとう！\",\"position\":\"row 1, column 1\",\"count\":1,\"labels\":[\"happy thankful pose with paws clasped at chest, open smile, pink cherry blossom petals around the cat\"]},{\"title\":\"02. おつかれさま！\",\"position\":\"row 1, column 2\",\"count\":1,\"labels\":[\"smiling with eyes closed, holding a green mug with a paw-print emblem, small puff of steam or breath beside face\"]},{\"title\":\"03. 了解です！\",\"position\":\"row 1, column 3\",\"count\":1,\"labels\":[\"one paw raised in acknowledgment, bright attentive expression\"]},{\"title\":\"04. ＯＫ！\",\"position\":\"row 1, column 4\",\"count\":1,\"labels\":[\"winking and making an OK hand gesture with one paw, cheerful confidence\"]},{\"title\":\"05. はーい！\",\"position\":\"row 1, column 5\",\"count\":1,\"labels\":[\"big smile, one paw raised high as if volunteering or greeting\"]},{\"title\":\"06. いいね！\",\"position\":\"row 2, column 1\",\"count\":1,\"labels\":[\"winking with tongue slightly out, thumbs-up gesture, pink heart beside face\"]},{\"title\":\"07. がんばる！\",\"position\":\"row 2, column 2\",\"count\":1,\"labels\":[\"determined angry-cute face, both paws clenched, surrounded by orange flames\"]},{\"title\":\"08. なんとかなる！\",\"position\":\"row 2, column 3\",\"count\":1,\"labels\":[\"calm optimistic pose with eyes closed and chest slightly puffed out, pink flowers floating around\"]},{\"title\":\"09. ごめんね…\",\"position\":\"row 2, column 4\",\"count\":1,\"labels\":[\"apologetic sad expression, paws held together near chest, single blue sweat drop beside head\"]},{\"title\":\"10. 待ってるね！\",\"position\":\"row 2, column 5\",\"count\":1,\"labels\":[\"cat peeking over a wooden tabletop with both paws visible, patient hopeful expression, slight motion lines\"]},{\"title\":\"11. おやすみなさい\",\"position\":\"row 3, column 1\",\"count\":1,\"labels\":[\"sleeping curled up on a soft pink round cushion, blue ZZZ marks and yellow crescent moon above\"]},{\"title\":\"12. いってきます！\",\"position\":\"row 3, column 2\",\"count\":1,\"labels\":[\"back view walking away energetically, one paw raised, wearing a green backpack with paw-print patch and small charm\"]},{\"title\":\"13. ただいま！\",\"position\":\"row 3, column 3\",\"count\":1,\"labels\":[\"front-facing excited return-home pose with both paws up, open smile, sparkles around\"]},{\"title\":\"14. よろしくね！\",\"position\":\"row 3, column 4\",\"count\":1,\"labels\":[\"sitting neatly, gentle friendly expression, small golden accent lines around head\"]},{\"title\":\"15. 大好き！\",\"position\":\"row 3, column 5\",\"count\":1,\"labels\":[\"eyes closed in happiness while hugging a large pink heart, smaller hearts floating around\"]}],\"text\":{\"placement\":\"above each sticker\",\"style\":\"bold handwritten Japanese text in black, each phrase prefixed by a two-digit number from 01 to 15\"}},\"customization\":{\"character\":\"{argument name=\\\"character type\\\" default=\\\"black kitten\\\"}\",\"fur color\":\"{argument name=\\\"fur color\\\" default=\\\"deep black\\\"}\",\"eye color\":\"{argument name=\\\"eye color\\\" default=\\\"amber\\\"}\",\"sheet title style\":\"{argument name=\\\"caption language\\\" default=\\\"Japanese\\\"}\",\"background\":\"{argument name=\\\"background color\\\" default=\\\"white\\\"}\"}}",
+  "translatedPrompt": "{\"type\":\"可爱贴纸合集插画\",\"subject\":{\"species\":\"黑猫\",\"style\":\"可爱的 Q 版风格，柔和的油画感动漫卡通外观，大而圆的琥珀棕色眼睛，小巧的口鼻，表情生动，蓬松的深炭黑色毛发带有暖棕色高光，粗而清晰的轮廓线\"},\"layout\":{\"background\":\"纯白色\",\"grid\":{\"rows\":3,\"columns\":5,\"count\":15},\"sections\":[{\"title\":\"01. ありがとう！\",\"position\":\"第 1 行第 1 列\",\"count\":1,\"labels\":[\"快乐感激的姿势，双爪合十放在胸前，张嘴微笑，猫咪周围有粉色樱花瓣\"]},{\"title\":\"02. おつかれさま！\",\"position\":\"第 1 行第 2 列\",\"count\":1,\"labels\":[\"满足放松的猫咪，爪子拿着一个带有爪印标志的绿色马克杯，闭着眼睛，冒着小蒸汽，带有庆祝意味的黄色强调线\"]},{\"title\":\"03. 了解です！\",\"position\":\"第 1 行第 3 列\",\"count\":1,\"labels\":[\"直立的猫咪举起一只爪子表示知晓，表情明亮专注，上方有黄色强调线\"]},{\"title\":\"04. ＯＫ！\",\"position\":\"第 1 行第 4 列\",\"count\":1,\"labels\":[\"眨眼的猫咪用一只爪子做出 OK 的手势，微微一笑，带有黄色强调线\"]},{\"title\":\"05. はーい！\",\"position\":\"第 1 行第 5 列\",\"count\":1,\"labels\":[\"兴奋的猫咪高高挥动一只爪子，张嘴微笑，带有黄色强调线\"]},{\"title\":\"06. いいね！\",\"position\":\"第 2 行第 1 列\",\"count\":1,\"labels\":[\"眨眼的猫咪竖起大拇指，旁边有一个粉色小爱心，带有黄色强调线\"]},{\"title\":\"07. がんばる！\",\"position\":\"第 2 行第 2 列\",\"count\":1,\"labels\":[\"坚定的猫咪握紧双爪，眼神犀利，周围环绕着风格化的橙色火焰\"]},{\"title\":\"08. なんとかなる！\",\"position\":\"第 2 行第 3 列\",\"count\":1,\"labels\":[\"自信从容的猫咪，闭着眼睛，胸部微微挺起，粉色花瓣在周围飘浮\"]},{\"title\":\"09. ごめんね…\",\"position\":\"第 2 行第 4 列\",\"count\":1,\"labels\":[\"道歉的忧伤猫咪，双爪合十放在胸前，眼神低垂，带有一滴蓝色汗珠\"]},{\"title\":\"10. 待ってるね！\",\"position\":\"第 2 行第 5 列\",\"count\":1,\"labels\":[\"猫咪从木质边缘探出头，双爪可见，表情充满期待，两侧有细小的动作线\"]},{\"title\":\"11. おやすみなさい\",\"position\":\"第 3 行第 1 列\",\"count\":1,\"labels\":[\"在粉色垫子上蜷缩睡觉的猫咪，带有蓝色 ZZZ 字母，上方有新月和小星星\"]},{\"title\":\"12. いってきます！\",\"position\":\"第 3 行第 2 列\",\"count\":1,\"labels\":[\"猫咪背影，欢快地走开并举起一只爪子，背着一个带有爪印补丁和挂饰的绿色背包，带有黄色强调线\"]},{\"title\":\"13. ただいま！\",\"position\":\"第 3 行第 3 列\",\"count\":1,\"labels\":[\"猫咪正面，双爪高举，开心地张嘴微笑，周围有金色闪光标记\"]},{\"title\":\"14. よろしくね！\",\"position\":\"第 3 行第 4 列\",\"count\":1,\"labels\":[\"礼貌坐着的猫咪面向前方，温柔微笑，头部旁边有黄色强调线\"]},{\"title\":\"15. 大好き！\",\"position\":\"第 3 行第 5 列\",\"count\":1,\"labels\":[\"满足的猫咪拥抱着一个大大的粉色爱心，闭着眼睛，周围飘浮着几个粉色小爱心\"]}],\"spacing\":\"均匀分布，留有充足的白色边距\"},\"rendering\":{\"quality\":\"高细节\",\"lighting\":\"柔和均匀的摄影棚灯光\",\"color_palette\":\"黑色毛发，暖棕色眼睛，粉色爱心和花朵，黄色强调标记，绿色配饰，极简柔和装饰\",\"mood\":\"友好、治愈、贴纸风格、聊天软件表情包\",\"composition\":\"每个贴纸独立居中于各自的格子中，上方配有醒目的日文文字\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "可爱黑猫日文贴纸合集：一套包含 15 个格子的贴纸合集，主角是一只表情丰富的黑猫，配有日文短语。非常适合用作聊天贴纸、LINE 表情包设计或社交媒体视觉素材。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "grid",
+        "front-facing"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, front-facing]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14825",
+      "14989",
+      "14404",
+      "14607",
+      "15367",
+      "13819"
+    ]
+  }
+}

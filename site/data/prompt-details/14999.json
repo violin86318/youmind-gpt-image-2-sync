@@ -1,0 +1,44 @@
+{
+  "id": "14999",
+  "prompt": "A fully colored shonen manga action page in the style of a high-energy pirate battle comic, presented as a single comic page with 4 visible panels separated by thick white gutters and slightly tilted panel borders. Use bold black ink lines, dense crosshatching, speed lines, cel-style coloring, dramatic foreshortening, and exaggerated impact effects. The scene shows a muscular, towering giant warrior with tan skin, a horned helmet, wild black hair and beard, fur-trimmed black clothing, a wide studded metal belt, and a massive spiked club, battling a swordsman in dark blue clothing and armor-like headgear. Top panel: an extreme close-up of a huge clenched fist thrusting toward the viewer with explosive perspective, the giant shouting “GUNGNIR !!!” in a jagged speech balloon, and another balloon reading “GWOAH !!!”; add large red Japanese sound effects and a small “DOOM!!” impact text. Middle wide panel: the giant swings upward and roars “IKOKU SOVEREIGNTY !!!” while the blue-clad opponent recoils at left; include a speech balloon saying “GAH!” and large purple Japanese sound effects with a small “WHONK!!”. Bottom left narrow panel: a cropped close-up setup panel with two stacked speech balloons reading “THREE SWORD STYLE.” and “RED OGRE…”, with the speaker mostly off-frame and partially obscured. Bottom right large panel: the giant drives a massive wooden spiked club across the frame in a violent horizontal smash, shouting “GIANT TROMMA !!!”; include smaller impact balloons reading “DWUAH !!!” and “THWAM!!”, plus oversized red Japanese sound effects. Backgrounds should be mostly pale sky blue with heavy motion lines and flying debris. Preserve the feel of a professionally colored weekly manga page: saturated reds, blues, purples, tan skin tones, cream fur textures, black shadows, and crisp white speech balloons with hand-lettered comic text.",
+  "translatedPrompt": "一张全彩少年漫画动作页面，采用高能海盗战斗漫画风格，呈现为单页漫画，包含 4 个清晰的分镜，分镜间由宽大的白色间隙隔开，边框略微倾斜。使用粗犷的黑色墨线、密集的排线、速度线、赛璐珞风格上色、戏剧性的透视缩短以及夸张的冲击效果。场景描绘了一位肌肉发达、身材高大的巨人战士，他拥有古铜色皮肤、带角的头盔、狂野的黑色头发和胡须、黑色毛皮镶边服装、宽大的铆钉金属腰带，手持巨大的带刺木棒，正在与一名身穿深蓝色服装、佩戴盔甲式头饰的剑士战斗。顶部面板：极端的特写镜头，巨大的拳头带着强烈的透视感向观众挥来，巨人喊着“GUNGNIR !!!”，气泡框呈锯齿状，另一个气泡框写着“GWOAH !!!”；添加巨大的红色日文拟声词和一个小的“DOOM!!”冲击文字。中间宽面板：巨人向上挥舞并咆哮着“IKOKU SOVEREIGNTY !!!”，左侧的蓝衣对手向后退缩；包含一个写着“GAH!”的气泡框，以及巨大的紫色日文拟声词和一个小的“WHONK!!”。左下窄面板：一个裁剪后的特写铺垫面板，有两个堆叠的气泡框，分别写着“THREE SWORD STYLE.”和“RED OGRE…”，说话者大部分处于画面外且部分被遮挡。右下大面板：巨人挥动巨大的带刺木棒横扫画面，进行猛烈的水平重击，大喊“GIANT TROMMA !!!”；包含较小的冲击气泡框，写着“DWUAH !!!”和“THWAM!!”，以及超大的红色日文拟声词。背景主要为淡天蓝色，带有强烈的运动线条和飞溅的碎片。保留专业彩色周刊漫画页面的质感：饱和的红色、蓝色、紫色，古铜色皮肤色调，奶油色毛皮纹理，黑色阴影，以及带有手写漫画文字的清脆白色气泡框。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "彩色少年漫画战斗页面：此提示词可生成动态的全彩漫画动作页面，包含四个漫画分镜，非常适合重现戏剧性的动漫风格战斗场景及漫画上色测试。",
+      "subject": "人物",
+      "scene": "插画/漫画",
+      "composition": [
+        "close-up",
+        "horizontal"
+      ],
+      "style": [
+        "manga"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "动漫分镜、战斗场景、运动瞬间、夸张叙事图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 插画/漫画 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, horizontal]。\n\nVisual style:\n[参考风格: manga]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15380",
+      "15374",
+      "14432",
+      "15106",
+      "15297",
+      "15277"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "14627",
+  "prompt": "A cinematic futuristic control-room workspace in a dark premium tech aesthetic, viewed from behind a single person seated at a sleek desk, centered in the foreground, facing a wall of floating transparent holographic interface panels. The scene is illuminated by electric blue and cyan light on a nearly black background, with a brilliant glowing AI core or neural sphere at the center of the composition slightly above the desk line, radiating dozens of branching luminous data streams that connect to every screen like a digital nervous system. The person is a silhouetted professional wearing dark clothing in a modern office chair, framed symmetrically to emphasize scale and immersion. On the desk are 3 main desktop monitors filled with code and technical dashboards, 1 open laptop on the left, 1 slim task lamp on the right, 1 coffee mug, and a few minimal office accessories. Surrounding the figure are exactly 10 large floating UI windows: 1 left vertical profile/navigation panel with a circular avatar and the name {argument name=\"character name\" default=\"ALEXANDER\"}, plus menu items; 1 upper-left project information card titled {argument name=\"project name\" default=\"PROJECT CHRONOS\"}; 1 top-center code editor window titled \"CODE SYNTHESIS\" showing dense programming text; 1 upper-center-right assistant panel titled \"AI ASSISTANT\" with a glowing waveform and short chat text; 1 upper-right data window titled \"DATA STREAM\"; 1 mid-left media generation panel titled \"GENERATING VISUAL ASSET\" showing a dramatic sci-fi landscape with tall rock spires and multiple thumbnail previews beneath; 1 small central progress card titled \"EXECUTING WORKFLOW\" with progress bars; 1 mid-right world map analytics panel titled \"GLOBAL NETWORK\" with glowing connection points; 1 lower-left engineering render panel titled \"3D MODEL RENDER\" displaying a futuristic mechanical engine or spacecraft component; 1 lower-right dashboard titled \"SYSTEM MONITOR\" with circular percentage charts and graphs. Also include exactly 2 smaller side panels: 1 lower-left voice panel titled \"VOICE INTERFACE\" with waveform visualization, and 1 right-side narrow panel titled \"ACTIVITY LOG\" with status entries. Add several tiny floating micro-cards and image thumbnails scattered between the main windows, connected by light trails, to suggest multitasking AI orchestration. The interface design should feel ultra-polished, glassmorphic, transparent, edge-lit, and premium, with thin neon borders, subtle grid lines, small icons, and high-end sci-fi UI typography. Use a dramatic wide-angle composition, deep depth, crisp detail, volumetric glow, reflective surfaces, and a balanced symmetrical layout centered on the radiant AI nexus. The overall mood is visionary, luxurious, and intelligent, like {argument name=\"headline text\" default=\"the future of creative AI interfaces\"} made real, combining software engineering, generative design, global connectivity, and autonomous workflow management in one immersive scene.",
+  "translatedPrompt": "一张电影质感的未来主义控制室工作空间，采用深色高端科技美学。视角位于一名坐在时尚办公桌前的单人身后，画面中心前景处，正对着一整面悬浮的透明全息界面墙。场景由近乎全黑背景上的电光蓝和青色光线照亮，构图中心略高于桌面处有一个光芒四射的 AI 核心或神经球体，向四周辐射出数十条分支状的发光数据流，如同数字神经系统般连接着每一块屏幕。画面中的人物为身着深色服装的专业人士剪影，坐在现代办公椅上，对称的构图强调了规模感与沉浸感。桌面上摆放着 3 台显示代码和技术仪表盘的主显示器、左侧 1 台打开的笔记本电脑、右侧 1 盏纤细的任务灯、1 个咖啡杯以及少量极简办公配件。人物周围环绕着 10 个大型悬浮 UI 窗口：1 个左侧垂直个人资料/导航面板，包含圆形头像、名称 {argument name=\"character name\" default=\"ALEXANDER\"} 以及菜单项；1 个左上方项目信息卡片，标题为 {argument name=\"project name\" default=\"PROJECT CHRONOS\"}；1 个顶部中央代码编辑器窗口，标题为 \"CODE SYNTHESIS\"，显示密集的编程文本；1 个中右上方助手面板，标题为 \"AI ASSISTANT\"，带有发光波形和简短聊天文本；1 个右上方数据窗口，标题为 \"DATA STREAM\"；1 个中左侧媒体生成面板，标题为 \"GENERATING VISUAL ASSET\"，显示带有高耸岩石尖塔的戏剧性科幻景观，下方有多个缩略图预览；1 个小型中央进度卡片，标题为 \"EXECUTING WORKFLOW\"，带有进度条；1 个中右侧世界地图分析面板，标题为 \"GLOBAL NETWORK\"，带有发光连接点；1 个左下方工程渲染面板，标题为 \"3D MODEL RENDER\"，显示未来机械引擎或航天器组件；1 个右下方仪表盘，标题为 \"SYSTEM MONITOR\"，带有圆形百分比图表和图形。此外包含 2 个较小的侧面板：1 个左下方语音面板，标题为 \"VOICE INTERFACE\"，带有波形可视化效果；1 个右侧窄面板，标题为 \"ACTIVITY LOG\"，带有状态条目。在主窗口之间散布着几个微小的悬浮微卡片和图像缩略图，由光迹连接，暗示着多任务 AI 编排。界面设计应呈现出极致精美、玻璃拟态、透明、边缘发光且高端的质感，配有细霓虹边框、微妙的网格线、小图标以及高端科幻 UI 字体。采用戏剧性的广角构图、深邃的景深、清晰的细节、体积光效果、反射表面，以及以发光 AI 核心为中心的平衡对称布局。整体氛围充满远见、奢华且智能，如同将 {argument name=\"headline text\" default=\"the future of creative AI interfaces\"} 变为现实，将软件工程、生成式设计、全球连接和自主工作流管理融为一体，打造出沉浸式场景。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "高端未来感 AI 工作空间：一张电影质感的奢华 AI 指挥台概念图，配有全息界面，非常适合用于展示下一代软件、创意工具或科技产品营销。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "grid",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "3d",
+        "sci-fi",
+        "premium"
+      ],
+      "lightingCamera": [
+        "neon",
+        "volumetric"
+      ],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "B2B 产品概念图、后台系统、数据看板",
+      "whySelected": "得分 76；构图: centered, symmetrical, grid, vertical；风格: cinematic, 3d, sci-fi, premium；要求精确文字；文字是主视觉"
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, grid, vertical]。\n\nVisual style:\n[参考风格: cinematic, 3d, sci-fi, premium]。\n\nLighting and camera:\n[参考光线镜头: neon, volumetric]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15391",
+      "14565",
+      "15389",
+      "14447",
+      "14446",
+      "15725"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "14051",
+  "prompt": "{\n  \"type\": \"6-panel manga page\",\n  \"characters\": {\n    \"character_A\": \"{argument name=\\\"main character\\\" default=\\\"girl with twin braids and glasses\\\"}, dark school uniform, red bow\",\n    \"character_B\": \"{argument name=\\\"friend character\\\" default=\\\"girl with short brown hair\\\"}, dark school uniform\"\n  },\n  \"setting\": \"{argument name=\\\"setting\\\" default=\\\"school library study area\\\"}, wooden desks, bookshelves\",\n  \"layout\": {\n    \"sections\": [\n      { \"panel\": 1, \"position\": \"top left\", \"description\": \"Wide shot from behind of girls studying. Wall sign reads '{argument name=\\\"sign text\\\" default=\\\"静粛に\\\"}'.\" },\n      { \"panel\": 2, \"position\": \"top right\", \"description\": \"Close-up of Character A looking exhausted holding a pen, complaining about studying.\" },\n      { \"panel\": 3, \"position\": \"middle left\", \"description\": \"Character A looks crazed, steam from nose, craving donuts. Character B looks shocked.\" },\n      { \"panel\": 4, \"position\": \"middle right\", \"description\": \"Character A stands abruptly, slamming desk. Character B tries to calm her.\" },\n      { \"panel\": 5, \"position\": \"upper bottom\", \"description\": \"Wide panel. Character A frantically draws overlapping circles with a compass. Character B grabs her arm.\" },\n      { \"panel\": 6, \"position\": \"lower bottom\", \"description\": \"Wide panel. Character B in foreground looking deadpan. Background: Character A dragged away by a teacher.\" }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"6 格漫画页面\",\n  \"characters\": {\n    \"character_A\": \"{argument name=\\\"主角\\\" default=\\\"扎双马尾戴眼镜的女孩\\\"}, 深色校服, 红色蝴蝶结\",\n    \"character_B\": \"{argument name=\\\"朋友角色\\\" default=\\\"留短棕发的女孩\\\"}, 深色校服\"\n  },\n  \"setting\": \"{argument name=\\\"场景\\\" default=\\\"学校图书馆自习区\\\"}, 木质书桌, 书架\",\n  \"layout\": {\n    \"sections\": [\n      { \"panel\": 1, \"position\": \"左上\", \"description\": \"从背后拍摄的女孩们正在学习的广角镜头。墙上的标语写着 '{argument name=\\\"标语内容\\\" default=\\\"静粛に\\\"}'。\" },\n      { \"panel\": 2, \"position\": \"右上\", \"description\": \"角色 A 的特写，看起来筋疲力尽，手里拿着笔，抱怨着学习。\" },\n      { \"panel\": 3, \"position\": \"左中\", \"description\": \"角色 A 看起来神情疯狂，鼻孔冒烟，渴望吃甜甜圈。角色 B 看起来很震惊。\" },\n      { \"panel\": 4, \"position\": \"右中\", \"description\": \"角色 A 突然站起来，猛拍桌子。角色 B 试图让她冷静下来。\" },\n      { \"panel\": 5, \"position\": \"下部上方\", \"description\": \"宽幅画面。角色 A 疯狂地用圆规画着重叠的圆圈。角色 B 抓住她的手臂。\" },\n      { \"panel\": 6, \"position\": \"下部下方\", \"description\": \"宽幅画面。角色 B 在前景中面无表情。背景：角色 A 被老师拖走。\" }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "6 格喜剧漫画页面：生成一个结构化的 6 格动漫风格漫画页面，描绘一名学生因学习而抓狂的幽默场景。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "wide shot"
+      ],
+      "style": [
+        "manga"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, wide shot]。\n\nVisual style:\n[参考风格: manga]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14194",
+      "14468",
+      "14193",
+      "14250",
+      "15007",
+      "14532"
+    ]
+  }
+}

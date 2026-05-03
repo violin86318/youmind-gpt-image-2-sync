@@ -1,0 +1,51 @@
+{
+  "id": "15733",
+  "prompt": "A dark ultra-detailed anime cyber-gothic portrait of a {argument name=\"character type\" default=\"female elf warrior\"} in a three-quarter side profile, framed from upper thighs to head, standing in a ruined futuristic industrial city. She has a short blunt bob in {argument name=\"hair color\" default=\"silver-white\"}, pale skin, long sharp elf ears, and a calm cold expression with one visible glowing {argument name=\"eye color\" default=\"crimson red\"} eye. Her hair is windswept across her face, and she wears a black star-shaped metallic hair ornament near one temple. Outfit is a sleek black biomechanical armored dress with glossy obsidian surfaces, spiked and layered plates, torn lace-like textures around the shoulders and chest, and intricate demonic exoskeleton detailing. One arm is heavily armored into a massive organic-mechanical gauntlet. She holds or merges with an enormous jagged living sword crossing diagonally from the lower left foreground toward her torso; the blade is black metal with glowing veins, embedded red cores, and violent molten energy bursting through it like liquid fire. Red energy ribbons, sparks, smoke, and ember-like particles swirl around her body and weapon. The background is a vertical dystopian megastructure filled with black steel towers, cables, hanging chains, fragments of red holographic code, occult-tech insignias, and faint industrial symbols, all mostly swallowed by shadow. Use a black and deep crimson palette with extreme contrast, glossy highlights, sharp rim light, dramatic backglow behind the head, dense detail, chaotic painterly effects, and a grim apocalyptic atmosphere. Composition should feel like premium dark fantasy key art, highly polished, cinematic, intimidating, elegant, and explosive.",
+  "translatedPrompt": "一幅暗黑超细节动漫赛博哥特风格肖像，主角为 {argument name=\"character type\" default=\"女性精灵战士\"}，采用四分之三侧面视角，构图范围从大腿上方至头部，背景为废弃的未来工业城市。她留着 {argument name=\"hair color\" default=\"银白色\"} 的短款齐耳波波头，皮肤苍白，长而尖的精灵耳，表情冷静冷峻，露出一只发光的 {argument name=\"eye color\" default=\"深红色\"} 眼睛。发丝随风拂过脸庞，太阳穴附近佩戴着黑色的星形金属发饰。身着一套光滑的黑色生物机械装甲裙，表面呈现黑曜石般的光泽，带有尖刺和分层板甲，肩部和胸部饰有撕裂的蕾丝质感，并点缀着复杂的恶魔外骨骼细节。一只手臂被重型装甲包裹，形成巨大的有机机械护手。她手持或融合了一把巨大的锯齿状活体长剑，剑身从左下角前景斜向穿过至她的躯干；剑身由黑色金属打造，布满发光的脉络和嵌入的红色核心，狂暴的熔岩能量如液态火焰般喷涌而出。红色的能量丝带、火花、烟雾和余烬般的颗粒围绕着她的身体和武器盘旋。背景是一座垂直的敌托邦巨型建筑，充斥着黑色钢塔、电缆、悬挂的锁链、红色全息代码碎片、神秘科技徽章以及模糊的工业符号，大部分被阴影吞没。采用黑色与深红色的调色板，具有极高的对比度、光泽高光、锐利的轮廓光、头部后方强烈的背光效果、密集的细节、混乱的绘画感以及冷酷的末日氛围。构图呈现出顶级暗黑奇幻关键艺术的质感，高度精致、电影感十足，既威严优雅又充满爆发力。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "手持深红之刃的暗黑赛博精灵：此提示词可生成极具戏剧张力的高细节动漫暗黑奇幻角色海报，非常适合用于概念艺术、关键视觉图或令人惊艳的 AI 艺术展示。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "fantasy",
+        "premium"
+      ],
+      "lightingCamera": [
+        "rim light"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical]。\n\nVisual style:\n[参考风格: cinematic, anime, fantasy, premium]。\n\nLighting and camera:\n[参考光线镜头: rim light]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14413",
+      "14587",
+      "15610",
+      "14616",
+      "15717",
+      "14524"
+    ]
+  }
+}

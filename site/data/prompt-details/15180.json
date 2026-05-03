@@ -1,0 +1,36 @@
+{
+  "id": "15180",
+  "prompt": "根据佛经对{argument name=\"角色\" default=\"观音菩萨\"}的形象描述，原原本本的还原一张真实的{argument name=\"角色\" default=\"观音菩萨\"}形象照片，皮肤与衣服接近真实，画质{argument name=\"画质\" default=\"iPhone 15 pro\"}",
+  "translatedPrompt": "基于 {argument name=\"character\" default=\"观音菩萨\"} 的经典文献描述，忠实还原一张极其逼真的 {argument name=\"character\" default=\"观音菩萨\"} 照片，皮肤与服饰纹理力求真实，并呈现 {argument name=\"image quality\" default=\"iPhone 15 pro\"} 级别的画质。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "超写实宗教神祇描绘：根据宗教描述生成高度逼真的照片级神祇形象，专注于写实纹理与高端相机画质。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14303",
+      "14761",
+      "13755",
+      "13758",
+      "13830",
+      "15147"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "15342",
+  "prompt": "A simple cute flat vector illustration of a cheerful Japanese schoolgirl centered on a plain light gray background, shown from about mid-thigh up in a front-facing pose. She has long straight {argument name=\"hair color\" default=\"black\"} hair with side-swept bangs, fair skin, a rounded face, pink blush on both cheeks, one eye open and the other eye winking, a small nose, and an open smiling mouth. She is wearing a classic Japanese high school uniform with a dark navy blazer, white shirt collar, large red ribbon bow at the neck, and a gray pleated skirt, with 2 visible gold blazer buttons. Both arms are stretched straight out horizontally to the sides toward the viewer, and both hands are making peace signs with the fingers angled downward. Use bold clean black outlines, soft pastel-like flat colors, minimal shading, kawaii sticker-style proportions, symmetrical composition, and a friendly playful expression.",
+  "translatedPrompt": "一张简洁可爱的扁平矢量插画，主角是一位开朗的日本女学生，置于浅灰色纯色背景中心，画面展示从大腿中部以上的正面姿势。她留着长直的 {argument name=\"hair color\" default=\"black\"} 头发，配有侧分刘海，皮肤白皙，圆脸，双颊带有粉色腮红，一只眼睛睁开，另一只眼睛眨眼，小巧的鼻子，嘴巴微张露出笑容。她穿着经典的日本高中校服，包括深海军蓝西装外套、白色衬衫领、领口处系着大红色蝴蝶结，以及灰色百褶裙，外套上可见 2 枚金色纽扣。双臂向两侧水平伸出，面向观众，双手做出比耶手势，手指朝下。采用粗犷简洁的黑色轮廓线、柔和的淡色系扁平色彩、极简阴影、卡哇伊贴纸风格比例、对称构图以及友好俏皮的表情。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "可爱的眨眼女学生比耶手势：一张简洁的卡哇伊矢量风格插画，描绘了一位身穿校服、面带微笑并做出双重比耶手势的女学生，适用于图标、贴纸和简单的角色艺术。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "front-facing",
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, front-facing, horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15691",
+      "14668",
+      "15751",
+      "14422",
+      "14607",
+      "15717"
+    ]
+  }
+}

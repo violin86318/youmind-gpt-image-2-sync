@@ -1,0 +1,44 @@
+{
+  "id": "15799",
+  "prompt": "Create a single high-detail fantasy trading card in a dark Warhammer-inspired style, full portrait orientation, with an ornate aged metal-and-red leather frame, distressed gold trim, and readable printed card text. The card title at the top reads {argument name=\"character name\" default=\"GROKTHAR\"} in large serif capitals, with the subtitle \"Orc Warchief\" centered below it. The main artwork shows a massive green-skinned orc war chief charging forward through a fiery battlefield, wearing brutal blackened spiked armor with skull motifs, leather straps, tusks, and blood-red war paint, one arm thrust forward as if commanding the attack and the other gripping a huge jagged battle axe. His physique is extremely muscular, with a savage snarling expression, long dark hair tied back, and a war-torn red-black color palette. The background is filled with smoke, embers, banners, silhouettes of warriors, and orange firelight. In the top left corner place a circular skull faction emblem. In the top right corner place a red vertical banner tab with a black tribal insignia. Along the left edge, stack exactly 4 circular stat icons in separate panels with values: sword attack 4, shield defense 3, heart health 5, boot movement 2. At the bottom, include a large parchment-colored text box with exactly 2 named abilities and 1 flavor quote. Ability 1 title: {argument name=\"ability one\" default=\"BRUTAL STRIKE\"}, with body text: \"When Grokthar attacks, he deals +2 damage.\" Ability 2 title: {argument name=\"ability two\" default=\"RALLY THE HORDE\"}, with body text: \"Once per turn, when another friendly Orc enters the battlefield, Grokthar gains +1 attack until end of turn.\" Beneath them, add the italic flavor quote: {argument name=\"flavor quote\" default=\"Strength is law. Blood is proof. The weak serve. The strong rule.\"} In the bottom left corner place a red gem-like cost badge with the number 5. In the bottom right corner place a round crossed-weapons icon. Along the bottom type line, center exactly 3 class words separated by dots: \"Ally • Orc • Warrior\". Make the card look like a professionally printed collectible card game piece with crisp typography, balanced layout, dramatic fantasy illustration, rich texture, and authentic tabletop TCG design.",
+  "translatedPrompt": "创作一张高细节的暗黑战锤风格奇幻集换式卡牌，采用全竖版构图，配有华丽的陈旧金属与红色皮革边框、做旧金边，以及清晰可读的印刷卡牌文字。卡牌顶部标题为 {argument name=\"character name\" default=\"GROKTHAR\"}，使用大号衬线体大写字母，下方居中显示副标题“Orc Warchief”。主体插画展示了一位巨大的绿皮兽人战争领袖正冲锋穿过火光四射的战场，身穿残酷的黑色尖刺盔甲，饰有骷髅图案、皮革绑带、獠牙和血红色的战争油彩；一只手臂向前伸出，仿佛在指挥进攻，另一只手紧握一把巨大的锯齿战斧。他体格极其强壮，表情狰狞咆哮，长发向后扎起，整体色调为饱经战火的红黑色。背景充斥着烟雾、余烬、旗帜、战士剪影和橙色的火光。在左上角放置一个圆形骷髅阵营徽章。在右上角放置一个带有黑色部落标志的红色垂直旗帜标签。沿左侧边缘，在独立的面板中垂直排列 4 个圆形属性图标，数值分别为：剑攻击 4，盾防御 3，心生命值 5，靴移动力 2。在底部，包含一个羊皮纸色的大型文本框，其中包含 2 个命名技能和 1 句背景引言。技能 1 标题：{argument name=\"ability one\" default=\"BRUTAL STRIKE\"}，正文内容：“当 Grokthar 攻击时，他造成 +2 点伤害。”技能 2 标题：{argument name=\"ability two\" default=\"RALLY THE HORDE\"}，正文内容：“每回合一次，当另一个友方兽人进入战场时，Grokthar 在回合结束前获得 +1 攻击力。”在下方添加斜体背景引言：{argument name=\"flavor quote\" default=\"Strength is law. Blood is proof. The weak serve. The strong rule.\"}。在左下角放置一个带有数字 5 的红色宝石状费用徽章。在右下角放置一个圆形交叉武器图标。沿底部类型栏，居中排列 3 个由圆点分隔的职业词汇：“Ally • Orc • Warrior”。使卡牌看起来像一张专业印刷的收藏级卡牌游戏组件，具备清晰的排版、平衡的布局、戏剧性的奇幻插画、丰富的质感以及地道的桌面 TCG 设计。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "暗黑奇幻兽人战争领袖 TCG 卡牌：一张细节丰富的定制奇幻集换式卡牌，主角为兽人战争领袖，适用于生成具有清晰属性和技能、可打印的 TCG 卡牌概念。",
+      "subject": "人物",
+      "scene": "插画/漫画",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；要求可读；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "动漫分镜、战斗场景、运动瞬间、夸张叙事图",
+      "whySelected": "得分 75；构图: centered, vertical；风格: fantasy；要求精确文字；要求可读；文字是主视觉"
+    },
+    "copyTemplate": "Create a 插画/漫画 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；要求可读；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14432",
+      "15798",
+      "15374",
+      "15800",
+      "15277",
+      "14528"
+    ]
+  }
+}

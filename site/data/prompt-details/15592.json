@@ -1,0 +1,46 @@
+{
+  "id": "15592",
+  "prompt": "Ultra cinematic {argument name=\"weather\" default=\"rainy night\"} scene at a {argument name=\"location\" default=\"neon lit café\"} named a {argument name=\"subject\" default=\"young woman\"} sitting alone under soft rain protection, wearing a slightly oversized shirt, holding a half-eaten burger, raindrops visible on table and glass, reflections on wet ground, deep blue and neon tones, cinematic lighting, soft fog, moody atmosphere, shallow depth of field, bokeh lights in background, emotional and introspective mood, photorealistic",
+  "translatedPrompt": "极致电影感 {argument name=\"weather\" default=\"雨夜\"} 场景，位于 {argument name=\"location\" default=\"霓虹灯闪烁的咖啡馆\"}，一位 {argument name=\"subject\" default=\"年轻女性\"} 独自坐在雨棚下，身穿略显宽松的衬衫，手中拿着吃了一半的汉堡，桌子和玻璃上可见雨滴，湿润的地面映出倒影，深蓝色与霓虹色调，电影级布光，柔和雾气，情绪化氛围，浅景深，背景散景灯光，情感丰富且引人深思的意境，照片级真实感",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影感霓虹咖啡馆之夜：这是一个高度详细的电影感提示词，用于生成一个在雨夜霓虹灯咖啡馆中，充满情绪氛围且具有照片级真实感的女性场景。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "neon",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: neon, shallow depth, depth of field]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14372",
+      "15307",
+      "15515",
+      "15754",
+      "15766",
+      "14040"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "14578",
+  "prompt": "A majestic deep-space scene of an owl-shaped nebula floating in a black starfield, centered composition, the cosmic gas and dust naturally forming the clear face of an owl. Two large glowing circular eyes with bright electric-blue star cores, a narrow pointed beak of amber light between them, and two long upward-sweeping ear tufts made of burnt-orange and golden-brown nebula pillars. The body is formed from layered translucent clouds of warm copper, sepia, ivory, and cool smoky blue, with soft luminous edges and intricate filament textures. Surround the figure with many sharp stars of varying sizes, including several bright blue-white stars with subtle diffraction spikes. Make the owl shape unmistakable but still fully made of astronomical nebula structures, realistic space photography aesthetic, dramatic contrast, ultra-detailed, ethereal glow, inspired by a {argument name=\"animal silhouette\" default=\"owl\"} formed from a {argument name=\"cosmic subject\" default=\"nebula\"}, with {argument name=\"primary glow color\" default=\"amber and blue\"} tones, portrait orientation, centered and symmetrical, cinematic and awe-inspiring.",
+  "translatedPrompt": "一幅雄伟的深空场景，一只猫头鹰形状的星云漂浮在漆黑的星场中，采用中心构图，宇宙气体和尘埃自然形成了清晰的猫头鹰面部。两只巨大的发光圆形眼睛拥有明亮的电蓝色星核，中间是一个琥珀色光芒构成的尖细喙，以及由焦橙色和金棕色星云柱组成的向上延伸的长耳簇。身体由温暖的铜色、深褐色、象牙白和冷烟蓝色层叠的半透明云团构成，边缘散发柔和光芒，并带有复杂的丝状纹理。主体周围环绕着许多大小不一的锐利恒星，包括几颗带有细微衍射光芒的亮蓝白色恒星。猫头鹰的形状清晰可辨，但完全由天文星云结构组成，呈现逼真的太空摄影美感，对比强烈，细节极其丰富，散发空灵光芒，灵感源自于由 {argument name=\"cosmic subject\" default=\"nebula\"} 形成的 {argument name=\"animal silhouette\" default=\"owl\"}，色调为 {argument name=\"primary glow color\" default=\"amber and blue\"}，纵向构图，居中且对称，具有电影般的震撼效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "深空中的猫头鹰星云：此提示词可生成一幅逼真的宇宙星云场景，其自然形态酷似猫头鹰，非常适合超现实天文艺术和戏剧性的科幻视觉创作。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "layered"
+      ],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, layered]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15704",
+      "15706",
+      "15762",
+      "14865",
+      "15435",
+      "14428"
+    ]
+  }
+}

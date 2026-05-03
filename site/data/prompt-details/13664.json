@@ -1,0 +1,44 @@
+{
+  "id": "13664",
+  "prompt": "A cinematic product photography shot of an elegant, rectangular glass perfume bottle with a faceted crystal cap and gold accents, sitting in the center of a shallowly flooded ancient stone temple corridor. The bottle features a minimalist square label with a delicate flower logo and the text {argument name=\"brand name\" default=\"AURÉLIA\"} above \"EAU DE PARFUM\". The setting is ethereal and hazy, bathed in warm, golden volumetric lighting that creates glowing reflections on the rippled water surface. In the background, classical ruins emerge from the water: a fallen stone head on the left and a headless draped statue on the right. At the bottom of the image, elegant typography overlays the scene, featuring the large serif text {argument name=\"brand name\" default=\"AURÉLIA\"}, followed by \"EAU DE PARFUM\", a matching flower logo, and the tagline {argument name=\"tagline\" default=\"ETERNAL. RADIANT. UNFORGETTABLE.\"} in a clean, spaced-out font.",
+  "translatedPrompt": "一张电影质感的产品摄影图，展示了一款优雅的长方形玻璃香水瓶，瓶盖为多面水晶材质，瓶颈处为金色，瓶身置于浅水中，倒映出金色的光芒。瓶身贴有方形标签，印有精致的花卉标志，上方文字为 {argument name=\"brand name\" default=\"AURÉLIA\"}，下方为 {argument name=\"product type\" default=\"EAU DE PARFUM\"}。香水瓶位于 {argument name=\"setting\" default=\"被水淹没的古老大理石神庙\"} 中心，周围环绕着古典拱门和圆柱。背景左侧是一个倒下的大理石雕塑头像，右侧是一尊无头古典披风雕像。整个场景沐浴在 {argument name=\"lighting\" default=\"温暖的电影级金色光影\"} 中，伴有柔和、空灵的薄雾。图像底部印有优雅的大号衬线字体，显示为 {argument name=\"brand name\" default=\"AURÉLIA\"}，下方依次为 {argument name=\"product type\" default=\"EAU DE PARFUM\"}、一个小巧的配套花卉标志，以及标语 {argument name=\"tagline\" default=\"ETERNAL. RADIANT. UNFORGETTABLE.\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影级香水产品摄影：生成一张奢华、电影质感的香水产品广告图，置于氛围感十足的环境中，并配以优雅的排版。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "minimalist"
+      ],
+      "lightingCamera": [
+        "volumetric"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, minimalist]。\n\nLighting and camera:\n[参考光线镜头: volumetric]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15409",
+      "15521",
+      "14262",
+      "14815",
+      "14966",
+      "15321"
+    ]
+  }
+}

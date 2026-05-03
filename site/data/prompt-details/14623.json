@@ -1,0 +1,50 @@
+{
+  "id": "14623",
+  "prompt": "Using the provided reference image of the mobile app screen, transform it into a premium editorial magazine cover mockup about agricultural innovation. Keep the app UI recognizable on the phone display, but place it in a realistic lifestyle context: a vineyard worker in the foreground holding a smartphone that shows the app, with vineyard rows, mountains, and a few workers in the background under natural daylight. Design the full page as a Spanish-language magazine cover with a refined agricultural-business aesthetic in green, cream, and earthy tones. Add a large masthead at the top reading “REVISTA CAMPO FUTURO”, a thin top strapline with 3 items separated by vertical bars: “Especial Viñas de Chile”, “Innovación agrícola”, and “Abril 2026”, plus a subtitle line beneath the masthead: “Agricultura, innovación y gestión rural”. On the left, add a green section tag reading “TECNOLOGÍA AGRÍCOLA” and a bold stacked main cover headline: “La app con IA que está revolucionando el campo”, followed by a short deck about Kimün replacing the traditional notebook and giving real-time control to vineyards and agricultural businesses. Add a circular callout badge mentioning a special feature about Kimün as an intelligent field notebook with AI. Include 2 bottom teaser photos: one close-up of the worker holding the phone in the vineyard with page label “p.18” and a caption about field diagnosis and cellphone alerts, and one small group scene with 3 people reviewing the app together with page label “p.24” and a caption about connected field teams, voice, records, and instant costs. On the right column, add 3 article teasers with icons and page numbers: one about the end of paper and the new era of the intelligent field notebook (p.30), one about more efficient vineyards through better data-driven decisions (p.36), and one about water management 4.0 and smarter, more profitable irrigation (p.42). Add a footer strip with 5 category labels: “AGRICULTURA”, “FRUTALES”, “VIÑAS”, “GANADERÍA”, “SUSTENTABILIDAD”, plus a barcode and a small price. Make it look like a polished real magazine cover photo shoot and editorial layout, not a flat app screenshot.",
+  "translatedPrompt": "使用提供的移动应用屏幕参考图，将其转换为关于农业创新的高端杂志封面样机。保持手机屏幕上的应用 UI 清晰可辨，并将其置于真实的生活场景中：前景中一名葡萄园工人手持显示该应用的智能手机，背景为葡萄园行、山脉及几名在自然光下工作的工人。将整页设计为一份具有精致农业商业美感的西班牙语杂志封面，采用绿色、奶油色和大地色调。在顶部添加醒目的刊头，文字为“REVISTA CAMPO FUTURO”，上方有一条细长的副标题栏，包含 3 个由竖线分隔的项目：“Especial Viñas de Chile”、“Innovación agrícola”和“Abril 2026”，并在刊头下方添加一行副标题：“Agricultura, innovación y gestión rural”。在左侧添加一个绿色的版块标签“TECNOLOGÍA AGRÍCOLA”，以及粗体的堆叠式主封面标题：“La app con IA que está revolucionando el campo”，随后附上一段关于 Kimün 如何取代传统笔记本并为葡萄园及农业企业提供实时管理的简短介绍。添加一个圆形的标注徽章，提及关于 Kimün 作为智能 AI 田间笔记本的专题报道。包含 2 张底部的预告图片：一张是工人手持手机在葡萄园中的特写，标注“p.18”及关于田间诊断和手机警报的说明；另一张是 3 人共同查看应用的小型场景，标注“p.24”及关于互联田间团队、语音、记录和即时成本的说明。在右侧栏中，添加 3 个带有图标和页码的专题预告：一篇关于告别纸质化、开启智能田间笔记本新时代（p.30），一篇关于通过数据驱动决策实现更高效的葡萄园管理（p.36），以及一篇关于水资源管理 4.0 和更智能、更具盈利能力的灌溉（p.42）。添加一个包含 5 个类别标签的页脚条：“AGRICULTURA”、“FRUTALES”、“VIÑAS”、“GANADERÍA”、“SUSTENTABILIDAD”，并附上条形码和价格。使其看起来像是一张精美的杂志封面摄影作品和编辑排版，而非平面的应用截图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "农业科技杂志封面应用截图：此提示词可将移动应用截图转换为逼真的西班牙语农业杂志封面，适用于产品营销、发布视觉图及编辑风格的样机展示。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "close-up",
+        "callout",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "editorial",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, callout, vertical]。\n\nVisual style:\n[参考风格: realistic, editorial, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14649",
+      "14891",
+      "14403",
+      "14581",
+      "15795",
+      "14909"
+    ]
+  }
+}

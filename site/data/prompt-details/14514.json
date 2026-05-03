@@ -1,0 +1,50 @@
+{
+  "id": "14514",
+  "prompt": "A dramatic Japanese fantasy anime movie poster, vertical one-sheet composition, centered on a beautiful teenage girl with very long flowing silver-white hair, glowing golden eyes, and a calm inviting smile, reaching one hand toward the viewer. She wears a black-and-white celestial dress with a fitted corset bodice, white chest panel, black ribbon lacing at the front, detached black sleeves with soft white ruffles, a black belt at the waist, layered skirt panels decorated with exactly 3 gold crescent moon ornaments, and a black choker with a gold crescent moon pendant. She also has exactly 1 gold crescent moon hair clip near her bangs. Behind her is a luminous night sky filled with stars, nebula-like clouds, and a huge eclipsed moon halo directly above her head, plus exactly 3 floating crescent-ring light effects around the left side of her hair. The background shows an ornate fantasy city with towering gothic palace architecture, spires, observatory-like structures, and glowing windows, all bathed in cool moonlight. Use a rich palette of deep indigo, violet, midnight blue, silver, and gold, with sparkles, magical particles, rim lighting, glossy highlights, and a slightly dense, painterly modern-anime poster finish.\n\nDesign it as a fully typeset Japanese film poster with elegant serif display typography in gold and white. At the very top, place a centered headline in Japanese: {argument name=\"headline text\" default=\"夜が欠けるたび、忘れていた真実が目を覚ます。\"}. On the right side, set a large vertical Japanese tagline in gold: {argument name=\"right-side tagline\" default=\"最後の月光が消える前に、世界の記憶をつなぎ直せ。\"}. On the left side, arrange 4 stacked blocks of smaller Japanese body copy separated by decorative divider lines and crescent motifs. Add a circular gold burst badge on the lower right with Japanese promotional text inside. Across the lower middle, place the large glowing Japanese title in ornate gold-white lettering: {argument name=\"movie title\" default=\"月蝕のリグレット\"}. Beneath the title, add a smaller centered Japanese subtitle line. Below that, place a horizontal feature line with exactly 3 gold-separated phrases in Japanese: \"記憶\", \"月光\", \"観測魔法\". At the very bottom, add 3 short Japanese teaser lines spread left, center, and right, and a large glowing release line centered under them: {argument name=\"release text\" default=\"近日公開\"}. The overall feeling is epic, melancholic, magical, celestial, romantic, and nostalgic, like a high-budget fantasy anime film poster.",
+  "translatedPrompt": "一张极具戏剧张力的日式奇幻动漫电影海报，采用竖版单张构图。画面中心是一位美丽的少女，留着极长的银白色飘逸长发，拥有闪烁的金色双眸和冷静而迷人的微笑，正向观众伸出一只手。她身着黑白配色的星空礼服，配有合身的束腰胸衣、白色胸前饰板、前襟黑色丝带系带、带有柔和白色荷叶边的黑色分体式袖子、腰间黑色腰带，多层裙摆上装饰着 3 个金色的新月装饰，脖子上戴着带有金色新月吊坠的黑色颈圈。她的刘海附近还别着 1 个金色新月发夹。背景是璀璨的夜空，繁星点点，伴有星云状云团，头顶上方悬挂着巨大的月食光环，左侧发丝周围环绕着 3 个漂浮的新月光环特效。背景展现了一座华丽的奇幻城市，拥有高耸的哥特式宫殿建筑、尖塔、类似天文台的结构以及闪烁的窗户，一切都沐浴在清冷的月光下。整体采用深靛蓝、紫罗兰、午夜蓝、银色和金色的丰富色调，点缀着闪光、魔法粒子、轮廓光和光泽高光，呈现出一种质感浓郁、现代动漫风格的绘画海报效果。\n\n将其设计为一张排版完整的日式电影海报，使用优雅的金色和白色衬线字体。在顶部居中位置放置日文标题：{argument name=\"headline text\" default=\"夜が欠けるたび、忘れていた真実が目を覚ます。\"}。在右侧，竖排设置一行金色的日文大标语：{argument name=\"right-side tagline\" default=\"最後の月光が消える前に、世界の記憶をつなぎ直せ。\"}。在左侧，排列 4 块堆叠的日文正文，中间用装饰性分割线和新月图案隔开。在右下角添加一个圆形的金色宣传徽章，内含日文宣传文字。在画面中下部，放置巨大的发光日文片名，采用华丽的金色与白色字体：{argument name=\"movie title\" default=\"月蝕のリグレット\"}。在片名下方添加一行居中的日文副标题。下方放置一条水平特征线，包含 3 个由金色符号分隔的日文短语：“记忆”、“月光”、“观测魔法”。在最底部，左右中各放置一行简短的日文预告文案，并在其下方居中位置放置一行巨大的发光上映日期：{argument name=\"release text\" default=\"近日公開\"}。整体氛围史诗、忧郁、魔幻、空灵且怀旧，呈现出高预算奇幻动漫电影海报的质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "星空奇幻动漫电影海报：此提示词可生成一张排版精美的日式奇幻动漫电影海报，主角为银发月亮主题少女，非常适合用于电影主视觉图及宣传海报设计。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "layered",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "anime",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "rim light"
+      ],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, layered, vertical, horizontal]。\n\nVisual style:\n[参考风格: anime, fantasy]。\n\nLighting and camera:\n[参考光线镜头: rim light]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15077",
+      "14915",
+      "14518",
+      "14982",
+      "14505",
+      "15809"
+    ]
+  }
+}

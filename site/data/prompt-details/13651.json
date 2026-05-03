@@ -1,0 +1,37 @@
+{
+  "id": "13651",
+  "prompt": "Using the provided reference image, solve the maze by drawing a continuous {argument name=\"path color\" default=\"red\"} line that traces the correct route from the top-left entrance to the bottom-right exit. Keep the maze walls and the two running figures exactly as they are.",
+  "translatedPrompt": "使用提供的参考图像，通过绘制一条连续的 {argument name=\"path color\" default=\"red\"} 线来解决迷宫，该线需勾勒出从左上角入口到右下角出口的正确路线。请保持迷宫墙壁和两个奔跑人物的原样不变。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "迷宫求解转换：指导模型通过绘制从入口到出口的彩色路径，以视觉方式解决提供的迷宫。",
+      "subject": "综合主体",
+      "scene": "信息图/图解",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "城市美食地图、活动导览、园区地图、旅行视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15179",
+      "13747",
+      "14086",
+      "15063",
+      "13743",
+      "13486"
+    ]
+  }
+}

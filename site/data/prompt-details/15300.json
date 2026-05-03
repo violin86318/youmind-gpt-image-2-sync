@@ -1,0 +1,49 @@
+{
+  "id": "15300",
+  "prompt": "A clean premium food advertisement poster on a light gray-white studio background, featuring {argument name=\"fruit name\" default=\"tomatoes\"} as the hero subject. In the center, show exactly 7 tomato pieces arranged on a shallow round wooden plate: 5 whole ripe red tomatoes stacked in a natural pyramid, 1 halved tomato standing upright at the front center with glossy flesh and visible seeds, and 1 wedge slice placed at the lower right foreground. The tomatoes are fresh, vivid red, covered with realistic water droplets, with green stems attached to most whole fruits. Add a few green leaves and two small yellow tomato blossoms near the lower right edge for freshness accents. Use soft commercial lighting, gentle shadows, sharp focus, and highly realistic texture, in a polished supermarket-poster style.\n\nDesign the layout as a Chinese nutrition and freshness infographic poster. In the upper left, place a large two-line Chinese headline with strong typographic hierarchy: the first line in black reads {argument name=\"headline line 1\" default=\"自然成熟\"}, the second line in large warm red reads {argument name=\"headline line 2\" default=\"营养美味\"}. Below it, add a smaller gray Chinese slogan: {argument name=\"slogan text\" default=\"每一口都是大自然的馈赠\"}. Under the slogan, place exactly 3 simple red line icons in a horizontal row with short Chinese labels and gray sublabels beneath each: 1) a sun icon with text \"充足日照\" and subtext \"自然成熟\", 2) a sprout or leaf icon with text \"科学种植\" and subtext \"健康美味\", 3) a heart outline icon with text \"新鲜采摘\" and subtext \"产地直供\".\n\nOn the right side, create a thin curved red guide line framing the tomatoes, with exactly 4 circular nutrient callouts stacked vertically from top to bottom. Each callout is a red or red-orange gradient circle with a white symbol or letter inside, connected to the curve. Use these Chinese labels and explanatory text: 1) top callout with \"C\" and title \"富含维生素C\", description \"有助于增强免疫力 促进胶原蛋白合成\"; 2) second callout with a molecular icon and title \"番茄红素\", description \"强效抗氧化剂 有助于抵御自由基\"; 3) third callout with a leaf icon and title \"膳食纤维\", description \"促进肠道蠕动 帮助消化\"; 4) bottom callout with \"K\" and title \"钾元素\", description \"有助于维持 心脏健康\".\n\nOn the left lower side of the tomatoes, add exactly 2 red text feature callouts with fine red leader lines: the upper one titled \"美味多汁\" with smaller gray text \"果肉饱满，汁水丰富 酸甜可口，回味无穷\"; the lower one titled \"新鲜采摘\" with smaller gray text \"人工精选，严格挑选 确保每一颗都新鲜优质\".\n\nAcross the bottom, place a rounded rectangular nutrition table bar in white with light gray dividers. On the left end, add a solid red rounded label block containing the Chinese title {argument name=\"table title\" default=\"营养成分表（每100g含量）\"}. To its right, show exactly 6 nutrient columns with gray headings and darker values beneath: \"能量\" \"20kcal\"; \"蛋白质\" \"0.9g\"; \"脂肪\" \"0.2g\"; \"碳水化合物\" \"4.2g\"; \"维生素C\" \"14mg\"; \"钾\" \"179mg\". Center a tiny gray footnote below the table: \"* 数据来源于《中国食物成分表》\". Overall style: elegant Chinese fresh-produce marketing poster, balanced whitespace, red-accented infographic design, realistic product photography blended with clean vector UI elements.",
+  "translatedPrompt": "一张简洁的高端食品广告海报，背景为浅灰白色摄影棚背景，以 {argument name=\"fruit name\" default=\"番茄\"} 作为主体。在画面中心，展示 7 个摆放在浅圆形木盘上的番茄：5 个成熟的红番茄自然堆叠成金字塔状，1 个对半切开的番茄直立在前方中心，果肉光泽且种子清晰可见，另有 1 个番茄楔形切片放置在右下角前景。番茄新鲜、色泽鲜红，表面覆盖着逼真的水珠，大多数完整果实带有绿色果蒂。在右下角边缘添加几片绿叶和两朵黄色番茄小花，增添新鲜感。采用柔和的商业照明、柔和的阴影、清晰的对焦和高度逼真的质感，呈现出精致的超市海报风格。\n\n将布局设计为中式营养与新鲜度信息图海报。在左上角，放置一个醒目的两行中文标题，具有强烈的排版层级：第一行黑色文字为 {argument name=\"headline line 1\" default=\"自然成熟\"}，第二行大号暖红色文字为 {argument name=\"headline line 2\" default=\"营养美味\"}。在其下方，添加一行较小的灰色中文标语：{argument name=\"slogan text\" default=\"每一口都是大自然的馈赠\"}。在标语下方，水平排列 3 个简单的红色线条图标，每个图标下方配有简短的中文标签和灰色副标题：1) 太阳图标，文字为“充足日照”，副标题为“自然成熟”；2) 嫩芽或叶片图标，文字为“科学种植”，副标题为“健康美味”；3) 心形轮廓图标，文字为“新鲜采摘”，副标题为“产地直供”。\n\n在右侧，绘制一条细长的红色弧形引导线环绕番茄，并垂直堆叠 4 个圆形营养标注。每个标注均为红色或红橙色渐变圆圈，内部带有白色符号或字母，并与引导线相连。使用以下中文标签和说明文字：1) 顶部标注为“C”，标题“富含维生素C”，说明“有助于增强免疫力 促进胶原蛋白合成”；2) 第二个标注为分子图标，标题“番茄红素”，说明“强效抗氧化剂 有助于抵御自由基”；3) 第三个标注为叶片图标，标题“膳食纤维”，说明“促进肠道蠕动 帮助消化”；4) 底部标注为“K”，标题“钾元素”，说明“有助于维持 心脏健康”。\n\n在番茄左下方，添加 2 个带有红色细引导线的红色文字功能标注：上方标题为“美味多汁”，配有较小的灰色文字“果肉饱满，汁水丰富 酸甜可口，回味无穷”；下方标题为“新鲜采摘”，配有较小的灰色文字“人工精选，严格挑选 确保每一颗都新鲜优质”。\n\n在底部，放置一个带有浅灰色分隔线的白色圆角矩形营养成分表栏。左端添加一个实心红色圆角标签块，包含中文标题 {argument name=\"table title\" default=\"营养成分表（每100g含量）\"}。右侧展示 6 列营养成分，上方为灰色标题，下方为深色数值：“能量” “20kcal”；“蛋白质” “0.9g”；“脂肪” “0.2g”；“碳水化合物” “4.2g”；“维生素C” “14mg”；“钾” “179mg”。在表格下方居中放置一行微小的灰色脚注：“* 数据来源于《中国食物成分表》”。整体风格：优雅的中式生鲜营销海报，留白平衡，红色点缀的信息图设计，逼真的产品摄影与简洁的矢量 UI 元素完美融合。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "中式番茄营养海报：一张精致的中式农产品广告海报，展示了带有营养标注和底部营养成分表的鲜番茄，非常适合超市、包装或食品营销视觉设计。",
+      "subject": "信息结构",
+      "scene": "海报/封面",
+      "composition": [
+        "callout",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: callout, vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, premium, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15248",
+      "14642",
+      "15247",
+      "15298",
+      "15296",
+      "15467"
+    ]
+  }
+}

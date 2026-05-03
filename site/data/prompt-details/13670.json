@@ -1,0 +1,43 @@
+{
+  "id": "13670",
+  "prompt": "{\n  \"type\": \"comic book page layout\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"the AMAZING SPIDER-MAN\\\"}\",\n    \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"NO SMALL CHOICES\\\"}\",\n    \"part\": \"PART ONE\",\n    \"credits\": [\n      \"ZEB WELLS WRITER\",\n      \"JOHN ROMITA JR. PENCILS\",\n      \"KLAUS JANSON INKS\",\n      \"BRITTANY PEZZILLO COLORS\",\n      \"VC'S JOE SABINO LETTERS\"\n    ]\n  },\n  \"panels\": [\n    {\n      \"id\": 1,\n      \"position\": \"top row\",\n      \"visual\": \"{argument name=\\\"hero description\\\" default=\\\"superhero in red and blue suit with web patterns and spider logo\\\"} crouching on a rooftop overlooking a city skyline at sunset. Includes a right-side inset panel showing a close-up of the masked face.\",\n      \"text_boxes\": 3,\n      \"text_content\": [\n        \"NEW YORK NEVER STOPS.\",\n        \"AND SOME DAYS IT FEELS LIKE NEITHER DO I.\",\n        \"BUT TODAY... I PAUSED.\"\n      ]\n    },\n    {\n      \"id\": 2,\n      \"position\": \"second row\",\n      \"visual\": \"{argument name=\\\"civilian description\\\" default=\\\"young man with brown hair\\\"} indoors, looking at a smartphone, holding a mug reading 'WORLD'S OKAYEST SCIENTIST'.\",\n      \"text_boxes\": 2,\n      \"speech_bubbles\": 3,\n      \"text_content\": [\n        \"CITYWIDE OUTAGE AVERTED THANKS TO EARLY RESPONSE BY LOCAL HEROES.\",\n        \"--CHANNEL 5.\",\n        \"\\\"LOCAL HEROES.\\\"\",\n        \"THAT'S... NICE.\",\n        \"BUT SOME PEOPLE DON'T GET HEADLINES.\"\n      ]\n    },\n    {\n      \"id\": 3,\n      \"position\": \"third row\",\n      \"layout\": \"diagonally split into 3 sub-scenes\",\n      \"visuals\": [\n        \"young man walking in a city crowd\",\n        \"sepia-toned memory of an older man smiling\",\n        \"superhero swinging on a web\"\n      ],\n      \"text_boxes\": 4,\n      \"text_content\": [\n        \"MY UNCLE BEN USED TO SAY:\",\n        \"\\\"{argument name=\\\"famous quote\\\" default=\\\"WITH GREAT POWER COMES GREAT RESPONSIBILITY.\\\"}\\\"\",\n        \"I THINK ABOUT THAT EVERY DAY.\",\n        \"BEING SPIDER-MAN ISN'T JUST ABOUT STOPPING THE BIG THREATS.\"\n      ]\n    },\n    {\n      \"id\": 4,\n      \"position\": \"fourth row, left\",\n      \"visual\": \"superhero shooting a web, swinging into a chaotic street with civilians running from a fire/explosion.\",\n      \"speech_bubbles\": 1,\n      \"text_boxes\": 1,\n      \"text_content\": [\n        \"ON YOUR LEFT!\",\n        \"IT'S ABOUT THE PEOPLE.\"\n      ]\n    },\n    {\n      \"id\": 5,\n      \"position\": \"fourth row, right\",\n      \"visual\": \"close-up of a young Black girl smiling at the superhero.\",\n      \"speech_bubbles\": 1,\n      \"text_boxes\": 1,\n      \"text_content\": [\n        \"THANK YOU, SPIDER-MAN!\",\n        \"ALWAYS.\"\n      ]\n    },\n    {\n      \"id\": 6,\n      \"position\": \"bottom row\",\n      \"visual\": \"silhouette of the superhero sitting on a rooftop water tower at dusk.\",\n      \"text_boxes\": 2,\n      \"text_content\": [\n        \"THE CITY NEEDS HOPE.\",\n        \"AND AS LONG AS I CAN SWING, I'LL BE THERE.\"\n      ],\n      \"footer_text\": \"TO BE CONTINUED!\"\n    }\n  ]\n}",
+  "translatedPrompt": "{\n  \"type\": \"漫画书页面布局\",\n  \"style\": \"现代美式超级英雄漫画，细腻的墨线与色彩，电影感光影\",\n  \"global_elements\": {\n    \"title_logo\": \"{argument name=\\\"comic title\\\" default=\\\"the AMAZING SPIDER-MAN\\\"}\",\n    \"subtitle\": \"没有小选择 第一部分\",\n    \"credits\": [\n      \"ZEB WELLS 编剧\",\n      \"JOHN ROMITA JR. 铅笔稿\",\n      \"KLAUS JANSON 墨线\",\n      \"BRITTANY PEZZILLO 上色\",\n      \"VC'S JOE SABINO 字体设计\"\n    ],\n    \"hero_design\": \"{argument name=\\\"hero description\\\" default=\\\"spider-themed superhero in a red and blue suit with web patterns and large white eye lenses\\\"}\",\n    \"civilian_design\": \"{argument name=\\\"civilian description\\\" default=\\\"young handsome man with brown hair wearing a green jacket and white t-shirt\\\"}\"\n  },\n  \"layout\": {\n    \"rows\": 5,\n    \"total_panels\": 9,\n    \"panels\": [\n      {\n        \"position\": \"第 1 行，左侧主图\",\n        \"scene\": \"英雄蹲在屋顶边缘，俯瞰日落时分的城市\",\n        \"text_boxes\": 2,\n        \"text_content\": [\n          \"纽约从不停歇。\",\n          \"有时候我觉得，我也一样。\"\n        ]\n      },\n      {\n        \"position\": \"第 1 行，右侧插图\",\n        \"scene\": \"英雄面具脸部的特写镜头\",\n        \"text_boxes\": 1,\n        \"text_content\": [\n          \"但今天……我停了下来。\"\n        ]\n      },\n      {\n        \"position\": \"第 2 行，全宽\",\n        \"scene\": \"平民身份的他拿着一个写着“世界最还行的科学家”的马克杯，在凌乱的公寓里看着智能手机\",\n        \"text_boxes\": 5,\n        \"text_content\": [\n          \"多亏了当地英雄的及时响应，全市范围的停电已恢复。\",\n          \"——5 号频道。\",\n          \"‘当地英雄。’\",\n          \"那真是……太好了。\",\n          \"但有些人却无法登上头条。\"\n        ]\n      },\n      {\n        \"position\": \"第 3 行，左侧倾斜\",\n        \"scene\": \"平民走在拥挤的城市街道上\",\n        \"text_boxes\": 2,\n        \"text_content\": [\n          \"本叔叔曾说：\",\n          \"{argument name=\\\"famous quote\\\" default=\\\"'WITH GREAT POWER COMES GREAT RESPONSIBILITY.'\\\"}\"\n        ]\n      },\n      {\n        \"position\": \"第 3 行，中央倾斜\",\n        \"scene\": \"一位面带微笑、灰发、穿着背心打领带的老人肖像\",\n        \"text_boxes\": 1,\n        \"text_content\": [\n          \"我每天都会想起这句话。\"\n        ]\n      },\n      {\n        \"position\": \"第 3 行，右侧倾斜\",\n        \"scene\": \"英雄在城市中荡着蛛丝穿行\",\n        \"text_boxes\": 1,\n        \"text_content\": [\n          \"成为蜘蛛侠不仅仅是为了阻止那些巨大的威胁。\"\n        ]\n      },\n      {\n        \"position\": \"第 4 行，左侧\",\n        \"scene\": \"英雄动态地降落在混乱的街道场景中，平民正从火灾中逃离\",\n        \"speech_bubbles\": 1,\n        \"text_boxes\": 1,\n        \"text_content\": [\n          \"闪开！\",\n          \"重点是守护人们。\"\n        ]\n      },\n      {\n        \"position\": \"第 4 行，右侧\",\n        \"scene\": \"英雄与一位面带微笑、留着卷发的黑人小女孩交谈的特写\",\n        \"speech_bubbles\": 2,\n        \"text_content\": [\n          \"谢谢你，蜘蛛侠！\",\n          \"随时效劳。\"\n        ]\n      },\n      {\n        \"position\": \"第 5 行，全宽\",\n        \"scene\": \"黄昏时分，英雄坐在屋顶上俯瞰城市天际线的剪影\",\n        \"text_boxes\": 2,\n        \"floating_text\": 1,\n        \"text_content\": [\n          \"这座城市需要希望。\",\n          \"只要我还能荡起蛛丝，我就永远会在那里。\",\n          \"{argument name=\\\"ending text\\\" default=\\\"TO BE CONTINUED!\\\"}\"\n        ]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "多格超级英雄漫画页：生成完整的、多格漫画书页面，包含超级英雄的叙事、动态动作镜头以及嵌入式文本框。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "lens"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: lens]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15740",
+      "15466",
+      "14460",
+      "13997",
+      "14026",
+      "14499"
+    ]
+  }
+}

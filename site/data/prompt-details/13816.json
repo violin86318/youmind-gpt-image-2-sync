@@ -1,0 +1,42 @@
+{
+  "id": "13816",
+  "prompt": "A photorealistic, cinematic shot set in the {argument name=\"location\" default=\"White House press briefing room\"}. At the podium sits {argument name=\"seated character\" default=\"Sam Altman\"}, wearing a dark suit and blue tie, looking visibly uncomfortable and nervous, staring blankly ahead. Standing directly behind him is {argument name=\"standing character\" default=\"Homelander from The Boys\"}, wearing his signature blue superhero suit with red gloves and gold eagle shoulder pads. The standing character has one red-gloved hand resting heavily and intimidatingly on the seated character's shoulder, while using his other hand to drink from a {argument name=\"beverage\" default=\"glass bottle of milk\"} with a confident, slightly unhinged smirk. In the background, there is a US flag on the left and a blue oval White House seal on the wall behind them. The podium has a sign reading \"THE WHITE HOUSE WASHINGTON\".",
+  "translatedPrompt": "一张超写实、电影质感的镜头，场景设定在 {argument name=\"location\" default=\"白宫新闻发布厅\"}。讲台后坐着 {argument name=\"seated character\" default=\"Sam Altman\"}，他身穿深色西装，系着蓝色领带，神情显得局促不安、紧张万分，正茫然地注视着前方。站在他身后的是 {argument name=\"standing character\" default=\"《黑袍纠察队》中的祖国人 (Homelander)\"}，他穿着标志性的蓝色超级英雄制服，戴着红色手套，肩章上有金色鹰徽。这位站立的角色一只戴着红色手套的手沉重且充满压迫感地搭在坐着的人的肩膀上，另一只手则拿着一瓶 {argument name=\"beverage\" default=\"玻璃瓶装牛奶\"} 喝着，脸上带着自信且略显疯狂的冷笑。背景左侧有一面美国国旗，墙上挂着蓝色的椭圆形白宫徽章。讲台上写着 \"THE WHITE HOUSE WASHINGTON\" 字样。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "充满压迫感的发布会梗图：一张超写实的讽刺图片，描绘了一位超级英雄在白宫新闻发布会上威慑一位科技公司 CEO 的场景。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13923",
+      "13632",
+      "13441",
+      "13949",
+      "14016",
+      "14506"
+    ]
+  }
+}

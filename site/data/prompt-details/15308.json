@@ -1,0 +1,51 @@
+{
+  "id": "15308",
+  "prompt": "A surreal yet photorealistic night scene on a vast calm reflective water surface under a deep star-filled sky. A bright full moon hangs on the upper left, with the Milky Way and faint green-blue aurora stretching across the background. In the real world, keep everything simple and realistic: a slim woman with shoulder-length dark hair walks barefoot from left to right across the water, wearing a {argument name=\"dress color\" default=\"black\"} elegant slit evening dress. Her posture is natural and poised, and her face is softly obscured or out of focus. The water surface is smooth and mirrorlike, with subtle ripples and realistic moonlight reflections. Place the symbolic magic mainly in the reflection: beneath her feet, instead of a normal reflection, a luminous ethereal white-blue line-art tiger appears inside the water, curled in motion and glowing like energy or moonlight. The tiger is sniffing or approaching a single glowing rose near the lower right area of the reflection. Around the rose, add exactly 6 small glowing butterfly-like light fragments rising upward in a gentle arc. Use cinematic lighting, high contrast, cool blue tones, dreamy atmosphere, ultra-detailed reflection effects, and a clean fine-art fantasy photography style. Add a delicate cursive caption centered near the bottom edge of the image that reads {argument name=\"caption text\" default=\"In me the tiger sniff the rose.\"}. Rounded-corner framed composition, vertical social-media screenshot aesthetic, but the main artwork itself should be the focus.",
+  "translatedPrompt": "一个超现实且具有照片级真实感的夜晚场景，背景是广阔平静、如镜面般的水面，上方是深邃且繁星点点的天空。左上方悬挂着一轮明亮的满月，银河与淡淡的蓝绿色极光在背景中延伸。在现实世界中，保持一切简洁真实：一名留着齐肩深色长发的苗条女子赤脚从左向右走在水面上，身穿一件 {argument name=\"dress color\" default=\"black\"} 的优雅开叉晚礼服。她的姿态自然从容，面部柔和地模糊或处于焦点之外。水面平滑如镜，带有细微的涟漪和真实的月光倒影。将象征性的魔法主要置于倒影中：在她的脚下，水面中出现的不是正常的倒影，而是一只发光的空灵蓝白色线条艺术老虎，它蜷曲着身体，像能量或月光一样闪烁。老虎正在嗅探或靠近倒影右下角附近的一朵发光的玫瑰。在玫瑰周围，添加 6 个向上升起的微小发光蝴蝶状光点，形成柔和的弧线。采用电影级灯光、高对比度、冷蓝色调、梦幻氛围、超精细的倒影效果以及干净的艺术奇幻摄影风格。在图像底部边缘中心添加一行精致的草书标题，内容为 {argument name=\"caption text\" default=\"In me the tiger sniff the rose.\"}。采用圆角边框构图，呈现垂直社交媒体截图的美感，但主体艺术作品应为视觉焦点。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "月下女子与虎影倒映：一张电影质感的奇幻图像，描绘了一名女子在夜晚行走于倒影水面之上，用于展示基于魔法倒影的视觉概念。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, fantasy]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15043",
+      "15754",
+      "15766",
+      "14902",
+      "15758",
+      "14600"
+    ]
+  }
+}

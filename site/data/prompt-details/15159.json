@@ -1,0 +1,33 @@
+{
+  "id": "15159",
+  "prompt": "A bold, energetic advertisement scene blending real photography and playful elements, A [Uploaded image] man wearing a red flannel shirt and black pants sitting slightly leaned forward, lifting stretchy instant noodles with chopsticks while holding the bowl in the other hand, steam rising dramatically.",
+  "translatedPrompt": "一个大胆且充满活力的广告场景，融合了真实摄影与趣味元素。一位身穿红色法兰绒衬衫和黑色长裤的男士 [上传图片] 身体微微前倾，一手端着碗，另一只手用筷子挑起劲道的方便面，热气腾腾，画面极具张力。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "活力十足的食品广告：一个用于视频 AI 的大胆广告场景提示词，展示一个人正在吃方便面。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13650",
+      "14078",
+      "13590",
+      "13593",
+      "13750",
+      "13806"
+    ]
+  }
+}

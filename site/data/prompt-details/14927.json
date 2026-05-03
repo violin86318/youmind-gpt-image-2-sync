@@ -1,0 +1,49 @@
+{
+  "id": "14927",
+  "prompt": "A full-body anime character illustration of a {argument name=\"character type\" default=\"cyberpunk elf girl\"} standing alone against a clean plain white background, centered and facing slightly left in a relaxed neutral pose with both arms hanging naturally. She has a short bob haircut in {argument name=\"hair color\" default=\"icy light blue\"}, straight blunt bangs, pale skin, large pointed elf ears, and vivid {argument name=\"eye color\" default=\"glowing red-orange\"} eyes with a calm, slightly serious expression. Her design blends fantasy and futuristic biomechanics: she wears 1 oversized white techwear hooded jacket with black lining, black straps, zipper details, and red warning-style markings on the sleeve; underneath is 1 glossy black biomechanical bodysuit with exposed cutout sections, cables, segmented armor plates, and intricate hard-surface cybernetic detailing around the torso and hips. She has 1 strapped black thigh pouch on her right thigh, 2 mechanical knee braces with visible circular joints, 2 external cables running from the knees downward, and 1 pair of chunky black combat boots with thick soles, buckles, and subtle red accents. Add small black earrings and tiny industrial accessories around the ears. Render in highly detailed polished manga-style line art with crisp edges, delicate cel shading, glossy highlights on the skin and latex-like surfaces, subtle red accent lights, and an overall premium sci-fi character concept art look. Keep the figure fully visible from head to boots with generous negative space and no props, scenery, text, or shadows beyond minimal grounding.",
+  "translatedPrompt": "一张 {argument name=\"character type\" default=\"赛博朋克精灵少女\"} 的动漫角色全身插画，人物独立站立于干净的纯白色背景前，居中且略微向左侧身，姿态放松自然，双臂自然下垂。她留着 {argument name=\"hair color\" default=\"冰浅蓝色\"} 的短波波头，平直的刘海，皮肤白皙，有着尖尖的精灵长耳，以及明亮的 {argument name=\"eye color\" default=\"发光的红橙色\"} 双眼，表情冷静且略显严肃。她的设计融合了奇幻与未来生物机械风格：身穿 1 件超大号白色机能风连帽夹克，内衬为黑色，配有黑色绑带、拉链细节，袖子上带有红色警示风格标记；内搭 1 件亮面黑色生物机械紧身衣，带有镂空设计、线缆、分段式装甲板，躯干和臀部周围有复杂的硬表面控制论细节。她右大腿上系着 1 个黑色腿包，双膝带有 2 个可见圆形关节的机械护膝，膝盖下方延伸出 2 根外部线缆，脚穿 1 双厚底黑色战斗靴，带有搭扣和细微的红色点缀。耳朵上配有小型黑色耳环和微小的工业风配饰。渲染采用高细节的精致漫画风格线稿，边缘清晰，赛璐珞阴影细腻，皮肤和乳胶质感表面带有光泽高光，辅以细微的红色点缀光，整体呈现出高级的科幻角色概念艺术质感。保持人物从头部到靴子完全可见，留有充足的留白，不包含任何道具、背景、文字或除极简接地阴影外的其他阴影。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "赛博朋克精灵少女全身肖像：此提示词可生成一张干净的动漫风格赛博朋克精灵角色全身插画，适用于角色设计、立绘或科幻奇幻概念艺术。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "full-body"
+      ],
+      "style": [
+        "anime",
+        "manga",
+        "sci-fi",
+        "fantasy",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, full-body]。\n\nVisual style:\n[参考风格: anime, manga, sci-fi, fantasy, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14855",
+      "15090",
+      "15332",
+      "14942",
+      "14989",
+      "14587"
+    ]
+  }
+}

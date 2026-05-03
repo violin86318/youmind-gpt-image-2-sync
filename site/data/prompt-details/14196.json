@@ -1,0 +1,49 @@
+{
+  "id": "14196",
+  "prompt": "{\n  \"type\": \"2x2 grid of banner advertisements\",\n  \"theme\": \"{argument name=\\\"school name\\\" default=\\\"SNSスクール\\\"}\",\n  \"target_audience\": \"{argument name=\\\"target audience\\\" default=\\\"学生\\\"}\",\n  \"layout\": {\n    \"grid\": \"2x2\",\n    \"panels\": [\n      {\n        \"position\": \"top-left\",\n        \"style\": \"dark neon, blue and purple\",\n        \"subject\": \"young woman looking up hopefully, holding a smartphone, wearing a purple sweatshirt\",\n        \"main_text\": \"{argument name=\\\"banner 1 headline\\\" default=\\\"SNSを仕事にしたい人へ\\\"}\",\n        \"sub_text\": \"“好き”をカタチに。未来を変える一歩を、今。\",\n        \"elements\": [\n          \"white and yellow typography\",\n          \"yellow call-to-action button: チェックする >\",\n          \"hand-drawn neon accents (crown, stars, heart)\"\n        ]\n      },\n      {\n        \"position\": \"top-right\",\n        \"style\": \"bright, pop, cyan and white\",\n        \"subject\": \"young woman smiling directly at camera, holding a smartphone, wearing a teal hoodie, hair in a bun\",\n        \"main_text\": \"{argument name=\\\"banner 2 headline\\\" default=\\\"好きな発信を武器にする\\\"}\",\n        \"sub_text\": \"企画・編集・投稿を学ぶ\",\n        \"elements\": [\n          \"torn paper texture backgrounds for text\",\n          \"yellow starburst sticker: 無料体験\",\n          \"3 feature icons with text: lightbulb (企画力), pencil (編集力), paper plane (投稿力)\"\n        ]\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"style\": \"dark, analytical, neon purple and green\",\n        \"subject\": \"young man looking thoughtfully at his smartphone, wearing a black hoodie\",\n        \"main_text\": \"{argument name=\\\"banner 3 headline\\\" default=\\\"バズるだけじゃない 分析まで学べる\\\"}\",\n        \"sub_text\": \"#伸びる理由がわかると、もっと伸ばせる。\",\n        \"elements\": [\n          \"3 floating holographic data panels with line graphs and stats (125.6万, 23.8%, 12.6%)\",\n          \"3 feature icons at bottom: bar chart (データ分析), magnifying glass (改善提案), target (成果につなげる)\",\n          \"yellow call-to-action button: 詳しく見る >\"\n        ]\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"style\": \"bright, friendly, purple and white\",\n        \"subject\": \"group of 4 young people (3 women, 1 man) huddled together smiling at a smartphone\",\n        \"main_text\": \"SNSで未来の可能性を広げよう\",\n        \"sub_text\": \"仲間と学べるコミュニティ\",\n        \"elements\": [\n          \"torn paper texture backgrounds for text\",\n          \"3 bullet points with icons (people, speech bubbles, rising chart)\",\n          \"2 polaroid-style inset photos showing students studying at a desk\",\n          \"yellow call-to-action button: 今すぐ参加 >\"\n        ]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"2x2 grid of banner advertisements\",\n  \"theme\": \"{argument name=\\\"school name\\\" default=\\\"SNSスクール\\\"}\",\n  \"target_audience\": \"{argument name=\\\"target audience\\\" default=\\\"学生\\\"}\",\n  \"layout\": {\n    \"grid\": \"2x2\",\n    \"panels\": [\n      {\n        \"position\": \"top-left\",\n        \"style\": \"dark neon, blue and purple\",\n        \"subject\": \"young woman looking up hopefully, holding a smartphone, wearing a purple sweatshirt\",\n        \"main_text\": \"{argument name=\\\"banner 1 headline\\\" default=\\\"SNSを仕事にしたい人へ\\\"}\",\n        \"sub_text\": \"“好き”をカタチに。未来を変える一歩を、今。\",\n        \"elements\": [\n          \"white and yellow typography\",\n          \"yellow call-to-action button: チェックする >\",\n          \"hand-drawn neon accents (crown, stars, heart)\"\n        ]\n      },\n      {\n        \"position\": \"top-right\",\n        \"style\": \"bright, pop, cyan and white\",\n        \"subject\": \"young woman smiling directly at camera, holding a smartphone, wearing a teal hoodie, hair in a bun\",\n        \"main_text\": \"{argument name=\\\"banner 2 headline\\\" default=\\\"好きな発信を武器にする\\\"}\",\n        \"sub_text\": \"企画・編集・投稿を学ぶ\",\n        \"elements\": [\n          \"torn paper texture backgrounds for text\",\n          \"yellow starburst sticker: 無料体験\",\n          \"3 feature icons with text: lightbulb (企画力), pencil (編集力), paper plane (投稿力)\"\n        ]\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"style\": \"dark, analytical, neon purple and green\",\n        \"subject\": \"young man looking thoughtfully at his smartphone, wearing a black hoodie\",\n        \"main_text\": \"{argument name=\\\"banner 3 headline\\\" default=\\\"バズるだけじゃない 分析まで学べる\\\"}\",\n        \"sub_text\": \"#伸びる理由がわかると、もっと伸ばせる。\",\n        \"elements\": [\n          \"3 floating holographic data panels with line graphs and stats (125.6万, 23.8%, 12.6%)\",\n          \"3 feature icons at bottom: bar chart (データ分析), magnifying glass (改善提案), target (成果につなげる)\",\n          \"yellow call-to-action button: 詳しく見る >\"\n        ]\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"style\": \"bright, friendly, purple and white\",\n        \"subject\": \"group of 4 young people (3 women, 1 man) huddled together smiling at a smartphone\",\n        \"main_text\": \"SNSで未来の可能性を広げよう\",\n        \"sub_text\": \"仲間と学べるコミュニティ\",\n        \"elements\": [\n          \"torn paper texture backgrounds for text\",\n          \"3 bullet points with icons (people, speech bubbles, rising chart)\",\n          \"2 polaroid-style inset photos showing students studying at a desk\",\n          \"yellow call-to-action button: 今すぐ参加 >\"\n        ]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "2x2 SNS School Banner Ad Grid：Generates a 2x2 grid of diverse banner advertisements for a social media school, featuring different target demographics, color schemes, and marketing copy.",
+      "subject": "人物",
+      "scene": "图标/贴纸",
+      "composition": [
+        "grid",
+        "2x2"
+      ],
+      "style": [
+        "hand-drawn"
+      ],
+      "lightingCamera": [
+        "neon",
+        "camera"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "图标包、贴纸、表情、产品功能图标",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 图标/贴纸 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, 2x2]。\n\nVisual style:\n[参考风格: hand-drawn]。\n\nLighting and camera:\n[参考光线镜头: neon, camera]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14665",
+      "14442",
+      "14993",
+      "15290",
+      "13534",
+      "13994"
+    ]
+  }
+}

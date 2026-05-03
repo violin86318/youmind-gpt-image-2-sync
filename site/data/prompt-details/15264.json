@@ -1,0 +1,54 @@
+{
+  "id": "15264",
+  "prompt": "{\"type\":\"streetwear merch campaign moodboard\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"curated.supply\\\"}\",\"logo\":\"minimal eight-spoke asterisk symbol\",\"tagline\":\"{argument name=\\\"tagline\\\" default=\\\"Discover well-designed, carefully curated products\\\"}\",\"aesthetic\":\"minimal premium industrial lifestyle branding, monochrome palette, editorial fashion photography\"},\"image\":{\"aspect_ratio\":\"16:9\",\"background\":\"dark nighttime urban and concrete interiors\",\"lighting\":\"flash photography mixed with dim ambient city light, moody, glossy highlights, realistic grain\",\"composition\":\"tight 4-row collage grid with 15 tiles separated by thin black dividers\"},\"layout\":{\"sections\":[{\"title\":\"apparel on models\",\"position\":\"across the collage\",\"count\":9,\"labels\":[\"white t-shirt back with small asterisk near neck and brand name centered\",\"black t-shirt back with large white asterisk graphic\",\"white t-shirt front with small left-chest brand wordmark\",\"black hoodie back with brand name at top, small asterisk, four product icons, and multiline tagline\",\"black t-shirt back with centered brand wordmark only\",\"white t-shirt front with four small product icons across chest and tiny asterisk below\",\"black t-shirt back with oversized white asterisk and tiny wordmark near hem\",\"black t-shirt back close crop with centered brand wordmark only\",\"white t-shirt back on woman with large black asterisk and brand name near lower back\"]},{\"title\":\"accessories and objects\",\"position\":\"middle and lower rows\",\"count\":6,\"labels\":[\"bright orange book beside a monochrome pump bottle\",\"cream canvas tote bag with brand name, beside sunglasses, small bottle, and compact device\",\"silver aluminum suitcase beside a white-and-black speaker or appliance box\",\"hand holding a slim black wallet with a small asterisk mark\",\"black tote bag with large multiline tagline and brand name, styled with camera, spray bottle, and dark packaging\",\"black baseball cap with white asterisk logo\"]}],\"text_elements_count\":6},\"subjects\":{\"models\":\"young adults, faces intentionally obscured or cropped, casual poses, mostly seen from back or chest-down\",\"styling\":\"black and white oversized streetwear, jeans, leather shoulder bag, minimal jewelry and watch\",\"props\":\"luxury everyday carry and tech-inspired lifestyle objects\"},\"design_details\":{\"graphics\":[\"small chest wordmark\",\"large back asterisk symbol\",\"small neck asterisk\",\"four tiny product pictogram icons: bottle, rectangular device, draped fabric or garment, kettle or bag silhouette\",\"multiline manifesto text on hoodie and tote\"],\"color_palette\":[\"black\",\"white\",\"charcoal\",\"gray concrete\",\"metallic silver\",\"accent orange\"]},\"camera\":{\"lens\":\"35mm to 50mm editorial lifestyle photography\",\"framing\":\"mix of waist-up model shots, close-up product shots, and flat lay styling\",\"focus\":\"sharp apparel graphics and textures\"},\"quality\":\"high-end fashion campaign, realistic, polished, cohesive merch lookbook for {argument name=\\\"product line\\\" default=\\\"streetwear and lifestyle accessories\\\"} promoting {argument name=\\\"brand name\\\" default=\\\"curated.supply\\\"} with visible text kept clean and legible, including the wordmark, logo symbol, and {argument name=\\\"book title\\\" default=\\\"dieter rams\\\"} on the orange book\"}",
+  "translatedPrompt": "{\"type\":\"街头服饰周边宣传项目\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"curated.supply\\\"}\",\"logo\":\"极简八辐星号符号\",\"tagline\":\"{argument name=\\\"tagline\\\" default=\\\"探索精心设计、严选的产品\\\"}\",\"aesthetic\":\"极简高端工业风生活方式品牌，单色调，编辑风时尚摄影\"},\"image\":{\"aspect_ratio\":\"16:9\",\"background\":\"昏暗的夜间都市与混凝土室内环境\",\"lighting\":\"闪光灯摄影混合昏暗的城市环境光，忧郁氛围，光泽高光，写实颗粒感\",\"composition\":\"紧凑的 4 行拼贴网格，包含 15 个由细黑线分隔的图块\"},\"layout\":{\"sections\":[{\"title\":\"模特服饰\",\"position\":\"横跨整个拼贴\",\"count\":9,\"labels\":[\"白色 T 恤背面，颈部附近有小星号，品牌名称居中\",\"黑色 T 恤背面，带有巨大的白色星号图形\",\"白色 T 恤正面，左胸前有小型品牌文字标识\",\"黑色连帽衫背面，顶部有品牌名称、小星号、四个产品图标及多行标语\",\"黑色 T 恤背面，仅居中品牌文字标识\",\"白色 T 恤正面，胸前横向排列四个小型产品图标，下方有微小星号\",\"黑色 T 恤背面，超大白色星号，下摆附近有微小文字标识\",\"黑色 T 恤背面，仅居中品牌文字标识的特写\",\"白色 T 恤背面，模特穿着，背部有巨大的黑色星号和下背部品牌名称\"]},{\"title\":\"配饰与物件\",\"position\":\"中下两行\",\"count\":6,\"labels\":[\"亮橙色书籍旁放置单色按压瓶\",\"奶油色帆布托特包，带有品牌名称，旁有太阳镜、小瓶子和小型设备\",\"银色铝制行李箱旁放置黑白配色的音箱或家电包装盒\",\"手持纤薄黑色钱包，带有小星号标识\",\"黑色托特包，带有大型多行标语和品牌名称，搭配相机、喷雾瓶和深色包装\",\"黑色棒球帽，带有白色星号标志\"]}],\"text_elements_count\":6},\"subjects\":{\"models\":\"年轻人，面部刻意遮挡或裁切，姿势随意，多为背影或胸部以下视角\",\"styling\":\"黑白超大款街头服饰、牛仔裤、皮革单肩包、极简首饰与手表\",\"props\":\"奢华日常携带品与科技感生活方式物件\"},\"design_details\":{\"graphics\":[\"小型胸前文字标识\",\"大型背部星号符号\",\"小型颈部星号\",\"四个微型产品象形图标：瓶子、矩形设备、垂坠织物或服装、水壶或包袋轮廓\",\"连帽衫与托特包上的多行宣言文字\"],\"color_palette\":[\"黑色\",\"白色\",\"炭灰色\",\"混凝土灰\",\"金属银\",\"橙色点缀\"]},\"camera\":{\"lens\":\"35mm 至 50mm 编辑风生活方式摄影\",\"framing\":\"腰部以上模特照、产品特写与平铺造型的混合\",\"focus\":\"清晰的服饰图形与纹理\"},\"quality\":\"高端时尚宣传，写实、精致，为 {argument name=\\\"product line\\\" default=\\\"街头服饰与生活方式配饰\\\"} 打造的连贯周边画册，推广 {argument name=\\\"brand name\\\" default=\\\"curated.supply\\\"}，保持可见文字清晰易读，包括文字标识、Logo 符号以及橙色书籍上的 {argument name=\\\"book title\\\" default=\\\"dieter rams\\\"}\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "极简街头服饰周边项目：此提示词可生成写实拼贴风格的时尚周边宣传图，展示带有品牌标识的服饰与配饰，呈现出忧郁的都市编辑风格，非常适合生活方式品牌画册及社交媒体推广。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [
+        "centered",
+        "close-up",
+        "grid"
+      ],
+      "style": [
+        "realistic",
+        "editorial",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [
+        "lens",
+        "camera"
+      ],
+      "text": "要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, close-up, grid]。\n\nVisual style:\n[参考风格: realistic, editorial, luxury, premium]。\n\nLighting and camera:\n[参考光线镜头: lens, camera]。\n\nText requirements:\n要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15639",
+      "15688",
+      "15640",
+      "15262",
+      "15447",
+      "14177"
+    ]
+  }
+}

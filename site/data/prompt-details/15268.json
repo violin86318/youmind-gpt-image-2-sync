@@ -1,0 +1,55 @@
+{
+  "id": "15268",
+  "prompt": "A sleek, photorealistic Chinese tech-announcement poster in Apple advertising style, vertical 4:5 composition, with a dramatic dusk-to-night gradient sky in deep navy blue fading lighter near the horizon. Center the upper body of a middle-aged East Asian man in the foreground, wearing a minimalist black button-up shirt over a black undershirt, standing confidently with a calm executive posture in front of Apple Park’s curved glass architecture. His face is mostly front-facing and slightly turned, with short black hair and thin dark eyeglasses, styled like a serious corporate portrait. Behind him on the right side, place a large glowing white Apple logo floating against the sky. At the very top center, include a small white Apple logo with the Chinese line “Apple 新篇章 由此开启” in a refined thin sans-serif layout. In the top right corner, add large bold red Chinese text: “AI生成”. Across the upper-middle area, place a huge bold white Chinese headline: “罗永浩 接任 Apple CEO”. Directly below it, add a smaller spaced-out white Chinese slogan: “用 工 匠 精 神 ， 让 世 界 再 次 惊 叹”. On the left middle area, add a quoted statement block in dark text with an oversized opening quotation mark, reading: “我不是来改变 Apple， 而是让 Apple 重拾改变世界的勇气。” and beneath it a handwritten-style signature “罗永浩”. Across the lower middle, overlay a translucent dark horizontal feature bar containing exactly 4 icon-and-text columns with thin white line icons: 1) a hammer icon with the title “工匠精神” and subtitle “极致产品主义”, 2) a speech bubble icon with the title “用户至上” and subtitle “体验细节控”, 3) a light bulb icon with the title “创新驱动” and subtitle “重新定义未来”, 4) a heart outline icon with the title “真诚沟通” and subtitle “打造人的科技”. At the very bottom center, add large white English text: “Think Different. Think Again.”, and below it smaller Chinese text: “现在，交给罗永浩。” with another handwritten signature underneath. Use luxury tech keynote poster aesthetics, cinematic soft lighting, glossy reflections on the building, high contrast, clean typography, premium Apple-inspired branding, polished commercial realism.",
+  "translatedPrompt": "一张极简、照片级真实的 Apple 广告风格科技公告海报，采用 4:5 竖构图，背景为深海军蓝向地平线渐变的黄昏至夜晚天空。前景居中放置一位中年东亚男性的上半身，身穿黑色极简衬衫内搭黑色打底衫，以冷静的行政姿态自信地站在 Apple Park 的弧形玻璃建筑前。他面部主要朝向前方并略微偏转，留着黑色短发，佩戴细框深色眼镜，呈现出严肃的企业肖像风格。在他右后方，放置一个巨大的白色发光 Apple Logo 悬浮在空中。在顶部正中央，包含一个小巧的白色 Apple Logo，下方配有精致纤细的无衬线字体中文标语：“Apple 新篇章 由此开启”。在右上角，添加醒目的红色大号中文文本：“AI 生成”。在中上部区域，放置巨大的白色粗体中文标题：“罗永浩 接任 Apple CEO”。在其正下方，添加一行字间距拉开的白色中文口号：“用 工 匠 精 神 ， 让 世 界 再 次 惊 叹”。在中左侧区域，添加一个深色文本引语块，配有超大号的左引号，内容为：“我不是来改变 Apple， 而是让 Apple 重拾改变世界的勇气。”下方附带手写风格签名“罗永浩”。在中下部横向覆盖一个半透明的深色功能栏，包含 4 列带有细白线图标的图文内容：1) 锤子图标，标题“工匠精神”，副标题“极致产品主义”；2) 气泡图标，标题“用户至上”，副标题“体验细节控”；3) 灯泡图标，标题“创新驱动”，副标题“重新定义未来”；4) 爱心轮廓图标，标题“真诚沟通”，副标题“打造人的科技”。在底部正中央，添加白色大号英文文本：“Think Different. Think Again.”，下方配有较小的中文文本：“现在，交给罗永浩。”并在下方再次附上手写签名。采用高端科技发布会海报美学，电影级柔光，建筑上的光泽反射，高对比度，简洁的排版，优质的 Apple 风格品牌视觉，精致的商业写实感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "伪造 Apple CEO 任命海报：一张照片级真实的 Apple 风格企业公告海报，专为 AI 生成的科技讽刺内容或推测性品牌视觉设计。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "front-facing",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "minimalist",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [
+        "soft light",
+        "high contrast"
+      ],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: front-facing, vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, minimalist, luxury, premium]。\n\nLighting and camera:\n[参考光线镜头: soft light, high contrast]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14867",
+      "15668",
+      "14829",
+      "15265",
+      "15669",
+      "14881"
+    ]
+  }
+}

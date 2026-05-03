@@ -1,0 +1,52 @@
+{
+  "id": "14652",
+  "prompt": "Create a dramatic vertical food advertisement on a pure black background, styled like a premium ingredient breakdown poster for a hearty Chinese chicken mushroom vermicelli stew. Use a clean top-to-bottom exploded composition with floating ingredients suspended in midair above the finished dish, each group clearly separated and lit with glossy commercial food-photography lighting. At the top, show a cluster of mixed brown shiitake and other savory mushrooms. Below that, show 2 grouped aromatics: a pile of red goji berries and a small bundle of green scallions with 2 thick ginger slices. Below that, show 2 grouped main items: several raw chopped bone-in chicken pieces with skin on, and 1 bundled nest of dry vermicelli noodles. Below that, show 2 grouped vegetables: peeled potato cubes and thick carrot slices. Beneath them, place 1 transparent glass bowl filled with rich golden chicken broth, with 4 shiitake mushrooms visible on the surface, tiny herb bits, a few floating oil droplets, and faint steam. At the bottom, place 1 dark brown ceramic casserole pot with side handles containing the finished stew: chicken pieces, shiitake mushrooms, translucent vermicelli, potato chunks, carrot slices, scattered goji berries, chopped green onion garnish, and glossy golden broth. Add drifting droplets, crumbs, and tiny garnish particles between layers to emphasize motion and richness. Include subtle steam rising from the final stew and 1 bright star-like sparkle highlight on the right rim of the casserole. Surround the ingredient groups with 7 bilingual callouts in Chinese and English, each with a thin curved arrow pointing to the relevant item. The 7 labels are: \"榛蘑&香菇 / Hazel Mushrooms & Shiitake\", \"鲜美菌菇 / Savory Mushrooms\", \"枸杞&葱姜 / Goji Berries & Aromatics\", \"鸡肉&粉条 / Chicken & Vermicelli\", \"土豆&胡萝卜 / Potatoes & Carrots\", \"浓郁鸡汤 / Rich Chicken Broth\", and \"成品 / Finished Stew\". Add 1 extra bilingual text note near the vegetables or middle area reading \"丰富食材 / Rich Ingredients\". Make the image hyper-realistic, appetizing, high contrast, razor sharp, with cinematic highlights, deep shadows, premium packaging-ad aesthetics, and a balanced centered layout optimized for a poster or social media ad.",
+  "translatedPrompt": "创作一张以纯黑为背景的竖版美食广告，风格类似于高端食材拆解海报，用于展示丰盛的中式小鸡炖蘑菇。采用简洁的自上而下爆炸式构图，将食材悬浮在成品菜肴上方，每组食材清晰分离，并使用光泽感十足的商业美食摄影灯光进行照明。顶部展示一簇混合的榛蘑及其他鲜美蘑菇。下方展示 2 组香料：一堆红枸杞，以及一小捆青葱和 2 片厚姜片。再下方展示 2 组主料：几块带皮生鸡块，以及一捆干粉条。接着展示 2 组蔬菜：去皮土豆块和厚胡萝卜片。在它们下方，放置 1 个装满浓郁金黄色鸡汤的透明玻璃碗，表面可见 4 个香菇、细碎香草、少量浮油和淡淡蒸汽。底部放置 1 个带有侧把手的深褐色陶瓷砂锅，锅内盛放着炖好的成品：鸡块、香菇、透明粉条、土豆块、胡萝卜片、散落的枸杞、葱花点缀，以及油亮的金黄色汤汁。在各层之间添加飘落的液滴、碎屑和细小的装饰颗粒，以强调动感和丰富度。成品炖菜上方加入淡淡的蒸汽，并在砂锅右侧边缘添加 1 个明亮的星形高光。在食材组周围添加 7 个中英文双语标注，每个标注均配有指向相关食材的细弯箭头。这 7 个标签分别为：“榛蘑&香菇 / Hazel Mushrooms & Shiitake”、“鲜美菌菇 / Savory Mushrooms”、“枸杞&葱姜 / Goji Berries & Aromatics”、“鸡肉&粉条 / Chicken & Vermicelli”、“土豆&胡萝卜 / Potatoes & Carrots”、“浓郁鸡汤 / Rich Chicken Broth”以及“成品 / Finished Stew”。在蔬菜或中部区域附近添加 1 条额外的双语文字说明：“丰富食材 / Rich Ingredients”。使图像呈现超写实、诱人、高对比度、极其锐利的效果，并带有电影级高光、深邃阴影、高端包装广告美学，以及适合海报或社交媒体广告的平衡居中布局。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "爆款小鸡炖蘑菇广告：一张高对比度的竖版美食海报，展示了小鸡炖蘑菇（含鸡肉、蘑菇、土豆、胡萝卜和粉条）的爆炸式食材布局及双语标签。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "callout",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "premium"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, callout, vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic, premium]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15430",
+      "14545",
+      "14850",
+      "15817",
+      "15066",
+      "15012"
+    ]
+  }
+}

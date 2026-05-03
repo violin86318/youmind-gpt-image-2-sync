@@ -1,0 +1,46 @@
+{
+  "id": "14194",
+  "prompt": "{\n  \"type\": \"3-panel manga page\",\n  \"style\": \"anime, highly detailed, cinematic lighting, futuristic corporate\",\n  \"layout\": {\n    \"structure\": \"1 wide top panel, 2 square bottom panels\"\n  },\n  \"panels\": [\n    {\n      \"position\": \"top\",\n      \"shot\": \"wide landscape\",\n      \"scene\": \"Futuristic corporate lobby with floor-to-ceiling windows\",\n      \"lighting\": \"{argument name=\\\"time of day\\\" default=\\\"sunrise\\\"}\",\n      \"background\": \"City skyline featuring {argument name=\\\"landmark\\\" default=\\\"Tokyo Tower\\\"}\",\n      \"details\": \"Holographic displays, polished reflective floor, reception desk, lounge chairs\"\n    },\n    {\n      \"position\": \"bottom left\",\n      \"shot\": \"close-up profile\",\n      \"character\": \"Young woman, dark hair, black business suit\",\n      \"accessories\": \"Futuristic black earpiece with glowing blue light\",\n      \"speech_bubble\": {\n        \"style\": \"standard rounded\",\n        \"text\": \"{argument name=\\\"character dialogue\\\" default=\\\"数字はいいわ\\\"}\"\n      }\n    },\n    {\n      \"position\": \"bottom right\",\n      \"shot\": \"full body, walking away, touching earpiece\",\n      \"character\": \"Same woman, black suit, black heels, carrying a black tote bag\",\n      \"environment\": \"Approaching security gates\",\n      \"holographic_sign\": \"{argument name=\\\"floor sign\\\" default=\\\"ECHO 42F\\\"}\",\n      \"speech_bubble\": {\n        \"style\": \"futuristic angular\",\n        \"text\": \"{argument name=\\\"AI dialogue\\\" default=\\\"おはようございます、ユキさん。本日は記念すべき ──\\\"}\"\n      }\n    }\n  ]\n}",
+  "translatedPrompt": "{\n  \"type\": \"3-panel manga page\",\n  \"style\": \"anime, highly detailed, cinematic lighting, futuristic corporate\",\n  \"layout\": {\n    \"structure\": \"1 wide top panel, 2 square bottom panels\"\n  },\n  \"panels\": [\n    {\n      \"position\": \"top\",\n      \"shot\": \"wide landscape\",\n      \"scene\": \"Futuristic corporate lobby with floor-to-ceiling windows\",\n      \"lighting\": \"{argument name=\\\"time of day\\\" default=\\\"sunrise\\\"}\",\n      \"background\": \"City skyline featuring {argument name=\\\"landmark\\\" default=\\\"Tokyo Tower\\\"}\",\n      \"details\": \"Holographic displays, polished reflective floor, reception desk, lounge chairs\"\n    },\n    {\n      \"position\": \"bottom left\",\n      \"shot\": \"close-up profile\",\n      \"character\": \"Young woman, dark hair, black business suit\",\n      \"accessories\": \"Futuristic black earpiece with glowing blue light\",\n      \"speech_bubble\": {\n        \"style\": \"standard rounded\",\n        \"text\": \"{argument name=\\\"character dialogue\\\" default=\\\"数字はいいわ\\\"}\"\n      }\n    },\n    {\n      \"position\": \"bottom right\",\n      \"shot\": \"full body, walking away, touching earpiece\",\n      \"character\": \"Same woman, black suit, black heels, carrying a black tote bag\",\n      \"environment\": \"Approaching security gates\",\n      \"holographic_sign\": \"{argument name=\\\"floor sign\\\" default=\\\"ECHO 42F\\\"}\",\n      \"speech_bubble\": {\n        \"style\": \"futuristic angular\",\n        \"text\": \"{argument name=\\\"AI dialogue\\\" default=\\\"おはようございます、ユキさん。本日は記念すべき ──\\\"}\"\n      }\n    }\n  ]\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Futuristic Corporate 3-Panel Manga Page：Generates a 3-panel anime-style comic page featuring a futuristic corporate lobby and a businesswoman interacting with an AI earpiece.",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "manga"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up]。\n\nVisual style:\n[参考风格: cinematic, anime, manga]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15371",
+      "14193",
+      "14468",
+      "14960",
+      "15699",
+      "14250"
+    ]
+  }
+}

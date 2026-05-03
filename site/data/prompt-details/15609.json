@@ -1,0 +1,55 @@
+{
+  "id": "15609",
+  "prompt": "A dreamy, surreal outdoor still life in bright midday sunlight: a transparent glass orb centered on a lush moss-covered mound, containing a minimalist glowing white computer face icon with two vertical eyes inside a rounded rectangle and a short horizontal line beneath it, like a friendly terminal or chatbot symbol. Directly in front of the orb sits a compact white mechanical keyboard in perfect frontal view. Surround the base with exactly 5 flower clusters: 2 blue hydrangea-like blooms, 2 white hydrangea-like blooms, and 1 pale golden-tan bloom, nestled among dense green moss and delicate fern fronds. The background is a clear vivid blue sky with exactly 4 small soft white clouds, warm sun rays entering from the upper left corner, cinematic lens flare, sparkling highlights on the glass, shallow depth of field, soft bokeh on distant trees at the far left and far right, highly polished photorealistic 3D render, whimsical eco-futurist mood, clean composition, centered symmetry, glossy reflections, gentle summer atmosphere.",
+  "translatedPrompt": "一个梦幻般的超现实户外静物场景，呈现于明亮的午后阳光下：一个透明玻璃球体置于郁郁葱葱的苔藓土丘中央，球体内包含一个极简主义的白色发光计算机面部图标，圆角矩形内有两只垂直的眼睛，下方有一条短横线，看起来像一个友好的终端或聊天机器人符号。球体正前方放置着一个紧凑的白色机械键盘，呈完美的正面视角。球体底部周围环绕着 5 簇花朵：2 簇蓝色绣球花、2 簇白色绣球花和 1 簇浅金棕色花朵，它们掩映在茂密的绿苔和精致的蕨类植物叶片中。背景是清澈湛蓝的天空，点缀着 4 朵柔软的小白云，温暖的阳光从左上角射入，带有电影级的镜头光晕，玻璃上闪烁着高光，浅景深效果，远处的树木呈现柔和的虚化效果，高度精致的写实 3D 渲染，充满奇幻的生态未来主义氛围，构图简洁，对称居中，光泽反射，营造出温和的夏日气息。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "花园中的玻璃 AI 球体：一个精致的超现实自然科技场景，展示了花丛中的透明 AI 球体和键盘，非常适合未来感品牌推广、编辑艺术或社交媒体视觉素材。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "3d",
+        "minimalist"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "lens"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, 3d, minimalist]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, lens]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15392",
+      "15458",
+      "15754",
+      "15766",
+      "15624",
+      "15013"
+    ]
+  }
+}

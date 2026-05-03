@@ -1,0 +1,49 @@
+{
+  "id": "15060",
+  "prompt": "{\"type\":\"single-page comic strip\",\"style\":\"humorous comic-book illustration with bold black inks, detailed crosshatching, vibrant colors, dynamic motion lines, halftone texture, and exaggerated expressive lettering\",\"language\":\"Spanish\",\"format\":\"vertical page with 5 horizontal panels separated by white gutters and black borders\",\"characters\":{\"human\":{\"role\":\"dog owner\",\"appearance\":\"athletic adult man in a fitted black T-shirt and black athletic shorts, short dark hair, face mostly turned away or cropped\",\"prop\":\"bright green tennis ball\"},\"dog\":{\"name\":\"{argument name=\\\"dog name\\\" default=\\\"Saru\\\"}\",\"appearance\":\"small Jack Russell terrier, white coat with brown and black patches, energetic, muddy paw marks and bits of grass on fur, very expressive face\"}},\"setting\":{\"location\":\"sunny urban park with green lawns, dirt paths, large leafy trees, park benches, and a distant city skyline\",\"background_feature\":\"a prominent grassy hill in the distance\"},\"layout\":{\"panel_count\":5,\"panels\":[{\"index\":1,\"composition\":\"low-angle medium shot of the man winding up to throw the tennis ball while the dog crouches beside him ready to sprint\",\"text\":[{\"type\":\"speech bubble\",\"speaker\":\"human\",\"content\":\"¡ATENTA, SARU! ¡MIRÁ QUE ESTA SE VA HASTA LA LOMA DEL ORTO, EH!\"}]},{\"index\":2,\"composition\":\"rear three-quarter view of the man after the throw, holding extra tennis balls behind his back, while the dog streaks across the grass as a fast blur with dust clouds and long speed lines; skyline visible ahead\",\"text\":[{\"type\":\"speech bubble\",\"speaker\":\"human\",\"content\":\"¡BUSQUEEE, SARU, BUSQUEEE!\"},{\"type\":\"sound effect\",\"content\":\"¡¡FIIUUUUM!!\",\"style\":\"huge italic yellow letters with black outline\"}]},{\"index\":3,\"composition\":\"very wide panoramic landscape panel showing the entire park, winding paths, trees, skyline, and the distant hill; the dog appears small running far away\",\"text\":[{\"type\":\"thought bubble\",\"speaker\":\"dog\",\"content\":\"¡TIENE QUE ESTAR POR ACÁ! Y/O NO VUELVO SIN ESA BOCHA!\"}]},{\"index\":4,\"composition\":\"split-focus feel within a single panel: close-up of the man at left holding up the tennis ball he never actually threw, while the dog runs back toward camera from the right side, happy and panting\",\"text\":[{\"type\":\"speech bubble\",\"speaker\":\"human\",\"content\":\"¡JAJAJA, VENÍ, SARU, LA TENGO ACÁ, NO LA TIRE JAJA\"}]},{\"index\":5,\"composition\":\"dramatic comedic reward shot with a hand offering a roasted chicken drumstick in the left foreground and an extreme close-up of the dog’s face on the right, eyes sparkling with joy; golden radiant burst background and 3 red hearts\",\"text\":[{\"type\":\"speech bubble\",\"speaker\":\"human\",\"content\":\"TOMÁ... UN POLLITO POR EL ESFUERZO QUE METISTE.\"},{\"type\":\"thought bubble\",\"speaker\":\"dog\",\"content\":\"¡POLLO! ¡NEGOCIO REDONDO!\"}]}]},\"visual_notes\":{\"counted_objects\":{\"red_hearts\":3,\"tennis_balls_visible\":2},\"dog_behavior_progression\":[\"ready to chase\",\"sprinting at full speed\",\"searching far away\",\"returning happily\",\"ecstatic at food reward\"],\"tone\":\"playful, affectionate, absurd pet-owner humor\",\"camera\":\"varied comic panel cinematography with low angle, rear action shot, panoramic establishing shot, medium close-up, and extreme close-up finale\"},\"quality\":\"high-detail polished digital comic art, crisp lettering, expressive poses, cinematic action, funny and heartwarming\"}",
+  "translatedPrompt": "{\"type\":\"单页漫画\",\"style\":\"幽默漫画插图，采用粗黑墨线、细致的交叉排线、鲜艳的色彩、动态运动线条、半色调纹理以及夸张生动的字体\",\"language\":\"西班牙语\",\"format\":\"垂直页面，包含 5 个由白色间隙和黑色边框分隔的水平分镜\",\"characters\":{\"human\":{\"role\":\"狗主人\",\"appearance\":\"运动型成年男性，身穿黑色修身 T 恤和黑色运动短裤，短黑发，脸部多为背影或被裁切\",\"prop\":\"亮绿色网球\"},\"dog\":{\"name\":\"{argument name=\\\"dog name\\\" default=\\\"Saru\\\"}\",\"appearance\":\"小型杰克罗素梗，白色皮毛带有棕色和黑色斑块，充满活力，毛发上有泥脚印和草屑，表情非常丰富\"}},\"setting\":{\"location\":\"阳光明媚的城市公园，有绿草坪、泥土小径、枝繁叶茂的大树、公园长椅和远处的城市天际线\",\"background_feature\":\"远处一座显眼的草坡\"},\"layout\":{\"panel_count\":5,\"panels\":[{\"index\":1,\"composition\":\"低角度中景，男子准备投掷网球，狗狗蹲在他身边准备冲刺\",\"text\":[{\"type\":\"对话气泡\",\"speaker\":\"人类\",\"content\":\"¡ATENTA, SARU! ¡MIRÁ QUE ESTA SE VA HASTA LA LOMA DEL ORTO, EH!\"}]},{\"index\":2,\"composition\":\"男子投掷后的后侧方视角，他背后藏着多余的网球，狗狗化作一道模糊的残影在草地上飞奔，伴随尘土和长长的速度线；前方可见天际线\",\"text\":[{\"type\":\"对话气泡\",\"speaker\":\"人类\",\"content\":\"¡BUSQUEEE, SARU, BUSQUEEE!\"},{\"type\":\"音效\",\"content\":\"¡¡FIIUUUUM!!\",\"style\":\"巨大的斜体黄色字母，带有黑色描边\"}]},{\"index\":3,\"composition\":\"超宽全景分镜，展示整个公园、蜿蜒的小径、树木、天际线和远处的山坡；狗狗显得很小，正在远处奔跑\",\"text\":[{\"type\":\"内心独白气泡\",\"speaker\":\"狗狗\",\"content\":\"¡TIENE QUE ESTAR POR ACÁ! Y/O NO VUELVO SIN ESA BOCHA!\"}]},{\"index\":4,\"composition\":\"单分镜内的分焦感：左侧特写男子拿着他实际上并未投出的网球，右侧狗狗正开心地喘着气跑回镜头前\",\"text\":[{\"type\":\"对话气泡\",\"speaker\":\"人类\",\"content\":\"¡JAJAJA, VENÍ, SARU, LA TENGO ACÁ, NO LA TIRE JAJA\"}]},{\"index\":5,\"composition\":\"戏剧性的喜剧奖励镜头，左前景是一只手递出一根烤鸡腿，右侧是狗狗脸部的极致特写，眼睛闪烁着喜悦的光芒；背景为金色放射状光芒和 3 颗红色爱心\",\"text\":[{\"type\":\"对话气泡\",\"speaker\":\"人类\",\"content\":\"TOMÁ... UN POLLITO POR EL ESFUERZO QUE METISTE.\"},{\"type\":\"内心独白气泡\",\"speaker\":\"狗狗\",\"content\":\"¡POLLO! ¡NEGOCIO REDONDO!\"}]}]},\"visual_notes\":{\"counted_objects\":{\"red_hearts\":3,\"tennis_balls_visible\":2},\"dog_behavior_progression\":[\"准备追逐\",\"全速冲刺\",\"在远处搜寻\",\"开心地返回\",\"因食物奖励而欣喜若狂\"],\"tone\":\"俏皮、深情、荒诞的宠物主人幽默\",\"camera\":\"多样的漫画分镜电影感，包括低角度、后方动作镜头、全景建立镜头、中景特写和极致特写的结局\"},\"quality\":\"高细节精美数字漫画艺术，清晰的字体，生动的姿态，电影般的动作，既幽默又暖心\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "有趣的狗狗公园漫画页面：这是一页精美的西班牙语漫画，展示了一名男子在公园里与他的梗犬开玩笑的场景，非常适合用于生成具有动态动作和生动笑点的幽默宠物漫画。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, vertical, horizontal]。\n\nVisual style:\n[参考风格: cinematic]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14413",
+      "14523",
+      "15371",
+      "14525",
+      "14534",
+      "15352"
+    ]
+  }
+}

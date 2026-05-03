@@ -1,0 +1,38 @@
+{
+  "id": "14159",
+  "prompt": "{\n  \"type\": \"sports match infographic poster\",\n  \"theme\": \"UEFA Champions League\",\n  \"background\": \"dark blue and purple cosmic sky, glowing blue hexagonal lines, illuminated stadium reflecting on water at bottom\",\n  \"header\": {\n    \"logo\": \"UEFA Champions League\",\n    \"title\": \"{argument name=\\\"stage\\\" default=\\\"HALBFINALE\\\"}\",\n    \"subtitle\": \"DAS ZIEL: {argument name=\\\"location\\\" default=\\\"BUDAPEST 2026\\\"}\",\n    \"venue\": \"PUSKÁS ARÉNA\"\n  },\n  \"matchup\": {\n    \"player_left\": \"{argument name=\\\"team 1 player\\\" default=\\\"Harry Kane\\\"} in red FC Bayern kit\",\n    \"player_right\": \"{argument name=\\\"team 2 player\\\" default=\\\"Ousmane Dembélé\\\"} in blue PSG kit\",\n    \"center_logos\": \"FC Bayern München and Paris Saint-Germain with VS\",\n    \"date_box\": \"calendar icon, MITTWOCH, {argument name=\\\"date\\\" default=\\\"06.05.2026\\\"}\"\n  },\n  \"facts_section\": {\n    \"title\": \"FACTS\",\n    \"count\": 5,\n    \"items\": [\n      \"Trophy icon: DIE KÖNIGSKLASSE 2025/26\",\n      \"Bar chart icon: KANE IN TOPFORM\",\n      \"Lightning bolt icon: DEMBÉLÉ ÜBERFLIEGER\",\n      \"Two people icon: BISHER 14 DUELLE\",\n      \"Stadium icon: BUDAPEST RUFT\"\n    ]\n  },\n  \"footer\": {\n    \"trophy\": \"Champions League trophy on right\",\n    \"stadium_image\": \"Puskás Aréna at night\",\n    \"tagline\": \"EIN TRAUM. EIN ZIEL. EIN TITEL.\",\n    \"bottom_text\": \"ROAD TO BUDAPEST 2026\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"sports match infographic poster\",\n  \"theme\": \"UEFA Champions League\",\n  \"background\": \"dark blue and purple cosmic sky, glowing blue hexagonal lines, illuminated stadium reflecting on water at bottom\",\n  \"header\": {\n    \"logo\": \"UEFA Champions League\",\n    \"title\": \"{argument name=\\\"stage\\\" default=\\\"HALBFINALE\\\"}\",\n    \"subtitle\": \"DAS ZIEL: {argument name=\\\"location\\\" default=\\\"BUDAPEST 2026\\\"}\",\n    \"venue\": \"PUSKÁS ARÉNA\"\n  },\n  \"matchup\": {\n    \"player_left\": \"{argument name=\\\"team 1 player\\\" default=\\\"Harry Kane\\\"} in red FC Bayern kit\",\n    \"player_right\": \"{argument name=\\\"team 2 player\\\" default=\\\"Ousmane Dembélé\\\"} in blue PSG kit\",\n    \"center_logos\": \"FC Bayern München and Paris Saint-Germain with VS\",\n    \"date_box\": \"calendar icon, MITTWOCH, {argument name=\\\"date\\\" default=\\\"06.05.2026\\\"}\"\n  },\n  \"facts_section\": {\n    \"title\": \"FACTS\",\n    \"count\": 5,\n    \"items\": [\n      \"Trophy icon: DIE KÖNIGSKLASSE 2025/26\",\n      \"Bar chart icon: KANE IN TOPFORM\",\n      \"Lightning bolt icon: DEMBÉLÉ ÜBERFLIEGER\",\n      \"Two people icon: BISHER 14 DUELLE\",\n      \"Stadium icon: BUDAPEST RUFT\"\n    ]\n  },\n  \"footer\": {\n    \"trophy\": \"Champions League trophy on right\",\n    \"stadium_image\": \"Puskás Aréna at night\",\n    \"tagline\": \"EIN TRAUM. EIN ZIEL. EIN TITEL.\",\n    \"bottom_text\": \"ROAD TO BUDAPEST 2026\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Soccer Match Infographic Poster：Generates a detailed sports matchup poster with player portraits, team logos, and a 5-point facts section.",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13636",
+      "14153",
+      "14822",
+      "15286",
+      "15511",
+      "13603"
+    ]
+  }
+}

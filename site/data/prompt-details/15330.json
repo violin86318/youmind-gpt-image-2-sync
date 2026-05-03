@@ -1,0 +1,51 @@
+{
+  "id": "15330",
+  "prompt": "{\"type\":\"anime storyboard collage\",\"style\":\"high-quality polished anime illustration, cinematic lighting, soft bloom, dynamic motion, expressive character acting\",\"subject\":{\"main character\":{\"description\":\"a petite schoolgirl angel with large glowing white feathered wings, very long wavy white hair with a small side braid, fair skin, blue eyes, wearing a blue basketball practice bib over a white gym T-shirt and navy gym shorts\"},\"supporting characters\":{\"count\":5,\"description\":\"other middle-school girls in a school gym, mostly wearing red practice bibs over white gym shirts and navy shorts, reacting as opponents or teammates\"}},\"setting\":{\"location\":\"Japanese indoor school gymnasium\",\"details\":[\"tall wooden wall panels\",\"large sunlit windows\",\"glossy hardwood court\",\"basketball hoop and backboard\",\"warm afternoon light streaming inside\"]},\"layout\":{\"composition\":\"2x2 four-panel storyboard sheet\",\"panels\":[{\"position\":\"top-left\",\"count\":1,\"scene\":\"the winged girl receives or reaches for a basketball during play, viewed at court level with another dark-haired girl in a blue bib in the left foreground and three red-bib players around them\",\"camera\":\"dynamic medium-wide shot\",\"effects\":[\"ball suspended midair\",\"backlit glowing wings\",\"sports action motion\"]},{\"position\":\"top-right\",\"count\":1,\"scene\":\"the angel girl launches into the air with wings spread wide, holding a basketball in one hand as she flies toward the hoop while three girls below stare up in shock\",\"camera\":\"dramatic low-angle action shot\",\"effects\":[\"bright rim light through feathers\",\"sense of lift and speed\",\"floating hair and limbs\"]},{\"position\":\"bottom-left\",\"count\":1,\"scene\":\"close-up low-angle dunk at the rim, the winged girl forcefully slams the basketball through the hoop\",\"camera\":\"extreme dynamic low-angle near the backboard\",\"effects\":[\"net deformation\",\"sparkling light particles\",\"wings filling the frame\",\"spectators' hands raised from below\"]},{\"position\":\"bottom-right\",\"count\":1,\"scene\":\"super-deformed comedic aftermath: the angel girl stands smugly with arms crossed and puffed cheeks while four other girls angrily complain around her\",\"camera\":\"frontal chibi group shot\",\"effects\":[\"orange-yellow manga burst background\",\"comic anger marks and steam puffs\",\"exaggerated yelling expressions\"]}]},\"character consistency\":{\"main outfit pieces\":[\"blue practice bib\",\"white short-sleeve gym shirt\",\"navy gym bloomers or shorts\",\"light athletic sneakers\"],\"main hair features\":[\"very long white hair\",\"loose waves\",\"small braid near the front\"],\"main wing features\":[\"two large luminous white feathered wings\"]},\"prompt\":\"Create a {argument name=\\\"panel count\\\" default=\\\"4\\\"}-panel anime storyboard collage showing {argument name=\\\"character concept\\\" default=\\\"a white-haired angel schoolgirl dominating a basketball game\\\"}. Keep the same main character in every panel: a petite girl with {argument name=\\\"hair color\\\" default=\\\"white\\\"} hair, huge glowing feathered wings, and a {argument name=\\\"uniform color\\\" default=\\\"blue\\\"} basketball practice bib in a sunlit Japanese school gym. Panel 1: action pass/reception scene with multiple opposing girls in red bibs. Panel 2: airborne leap toward the basket, dramatic low angle, wings fully extended. Panel 3: powerful dunk seen from below near the hoop, sparkling impact, dynamic rim and net. Panel 4: chibi comedy reaction panel with the angel girl smug and arms crossed while 4 angry girls yell around her. Use {argument name=\\\"art style\\\" default=\\\"cinematic polished anime with soft bloom and energetic sports motion\\\"}.\"}",
+  "translatedPrompt": "{\"type\":\"动漫项目拼贴\",\"style\":\"高质量精致动漫插画，电影级光效，柔和光晕，动态感，生动的角色表演\",\"subject\":{\"main character\":{\"description\":\"一位娇小的天使女学生，长着巨大的发光白色羽翼，留着非常长的波浪形白发，侧边有一条小辫子，皮肤白皙，蓝色眼睛，身穿蓝色篮球训练背心，内搭白色运动 T 恤和深蓝色运动短裤\"},\"supporting characters\":{\"count\":5,\"description\":\"学校体育馆里的其他初中女生，大多身穿红色训练背心，内搭白色运动衫和深蓝色短裤，作为对手或队友做出反应\"}},\"setting\":{\"location\":\"日本室内学校体育馆\",\"details\":[\"高大的木质墙板\",\"大型阳光充足的窗户\",\"光亮的硬木球场\",\"篮球架和篮板\",\"温暖的午后阳光射入室内\"]},\"layout\":{\"composition\":\"2x2 四格项目页\",\"panels\":[{\"position\":\"左上\",\"count\":1,\"scene\":\"长翅膀的女孩在比赛中接球或伸手去接球，从球场视角拍摄，左前景有一名身穿蓝色背心的黑发女孩，周围有三名身穿红色背心的球员\",\"camera\":\"动态中远景\",\"effects\":[\"球悬在半空\",\"背光发光的翅膀\",\"体育动作感\"]},{\"position\":\"右上\",\"count\":1,\"scene\":\"天使女孩展开双翼跃向空中，单手持球飞向篮筐，下方三名女孩抬头惊愕地看着她\",\"camera\":\"戏剧性的低角度动作镜头\",\"effects\":[\"穿过羽毛的明亮轮廓光\",\"升空感和速度感\",\"飘动的头发和四肢\"]},{\"position\":\"左下\",\"count\":1,\"scene\":\"篮筐处的特写低角度扣篮，天使女孩用力将篮球扣入篮筐\",\"camera\":\"篮板附近的极端动态低角度镜头\",\"effects\":[\"篮网变形\",\"闪烁的光粒子\",\"翅膀填满画面\",\"下方观众举起的手\"]},{\"position\":\"右下\",\"count\":1,\"scene\":\"Q 版喜剧式结局：天使女孩双手交叉、鼓起脸颊，一脸得意地站着，周围四个女孩愤怒地向她抱怨\",\"camera\":\"正面 Q 版群像镜头\",\"effects\":[\"橙黄色漫画爆发背景\",\"漫画式的愤怒符号和蒸汽团\",\"夸张的叫喊表情\"]}]},\"character consistency\":{\"main outfit pieces\":[\"蓝色训练背心\",\"白色短袖运动衫\",\"深蓝色运动灯笼裤或短裤\",\"轻便运动鞋\"],\"main hair features\":[\"非常长的白发\",\"松散的波浪\",\"前额附近的小辫子\"],\"main wing features\":[\"两只巨大的发光白色羽翼\"]},\"prompt\":\"创建一个 {argument name=\\\"panel count\\\" default=\\\"4\\\"} 格动漫项目拼贴，展示 {argument name=\\\"character concept\\\" default=\\\"一位白发天使女学生在篮球比赛中大显身手\\\"}。在每一格中保持主角一致：一位娇小的女孩，留着 {argument name=\\\"hair color\\\" default=\\\"白色\\\"} 头发，巨大的发光羽翼，身穿 {argument name=\\\"uniform color\\\" default=\\\"蓝色\\\"} 篮球训练背心，场景位于阳光明媚的日本学校体育馆。第 1 格：动作传球/接球场景，有多名身穿红色背心的对手女孩。第 2 格：跃向篮筐，戏剧性的低角度，翅膀完全展开。第 3 格：从篮筐附近的下方看到的强力扣篮，闪烁的冲击效果，动态的篮筐和篮网。第 4 格：Q 版喜剧反应格，天使女孩得意地双手交叉，周围 4 个愤怒的女孩在叫喊。使用 {argument name=\\\"art style\\\" default=\\\"电影级精致动漫，带有柔和光晕和充满活力的体育动作感\\\"}。\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "天使少女篮球项目：一套四格动漫项目，描绘了一位长着翅膀的女学生在篮球比赛中大显身手，适用于概念艺术、场景规划或视频生成关键帧。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "wide shot",
+        "2x2"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "manga"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, wide shot, 2x2]。\n\nVisual style:\n[参考风格: cinematic, anime, manga]。\n\nLighting and camera:\n[参考光线镜头: rim light, camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14534",
+      "14413",
+      "15371",
+      "14527",
+      "14531",
+      "15352"
+    ]
+  }
+}

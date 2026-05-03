@@ -1,0 +1,41 @@
+{
+  "id": "13930",
+  "prompt": "{\n  \"type\": \"comprehensive anime character reference sheet\",\n  \"character\": {\n    \"name\": \"{argument name=\\\"character name\\\" default=\\\"花宮 ことり\\\"}\",\n    \"theme\": \"{argument name=\\\"character theme\\\" default=\\\"パティシエ魔法少女\\\"}\",\n    \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"brown\\\"} fluffy hair with macaron hair clips\",\n    \"eyes\": \"{argument name=\\\"eye color\\\" default=\\\"brown\\\"} with star highlights\",\n    \"weapon\": \"{argument name=\\\"weapon type\\\" default=\\\"whisk-like magic wand\\\"}\",\n    \"outfit\": \"frilly dress, apron, boots\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"Profile & Story\",\n        \"position\": \"top-left\",\n        \"description\": \"Text blocks for PROFILE, WORLD, and STORY.\"\n      },\n      {\n        \"title\": \"三面図 / TURNAROUND\",\n        \"position\": \"top-center\",\n        \"count\": 3,\n        \"labels\": [\"FRONT / 正面\", \"SIDE / 側面\", \"BACK / 背面\"]\n      },\n      {\n        \"title\": \"表情バリエーション / EXPRESSIONS\",\n        \"position\": \"top-right\",\n        \"count\": 6,\n        \"labels\": [\"笑顔\", \"決意\", \"驚き\", \"照れ\", \"切なさ\", \"考え中\"]\n      },\n      {\n        \"title\": \"衣装・装備詳細 / COSTUME & EQUIPMENT DETAILS\",\n        \"position\": \"center\",\n        \"count\": 7,\n        \"labels\": [\"帽子・ヘッドアクセサリー\", \"トップス\", \"エプロン\", \"スカート\", \"ブーツ\", \"魔法のステッキ (泡立て器)\", \"キーホルダー時\"]\n      },\n      {\n        \"title\": \"ディテール・ポイント / DETAIL POINT\",\n        \"position\": \"center-right\",\n        \"count\": 4,\n        \"labels\": [\"髪の毛先\", \"瞳\", \"頬\", \"袖まくり\"]\n      },\n      {\n        \"title\": \"カラーパレット / COLOR PALETTE\",\n        \"position\": \"bottom-left\",\n        \"count\": 3,\n        \"labels\": [\"クリームイエロー\", \"ストロベリーピンク\", \"ミントグリーン\"],\n        \"additional_swatches_count\": 7\n      },\n      {\n        \"title\": \"ポーズギャラリー / POSE GALLERY\",\n        \"position\": \"bottom-center\",\n        \"count\": 3,\n        \"descriptions\": [\"magical action pose\", \"melancholic window scene\", \"winking while eating\"]\n      },\n      {\n        \"title\": \"基本情報 / BASIC INFO\",\n        \"position\": \"bottom-right\",\n        \"description\": \"Text block with character stats and preferences.\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"综合动漫角色参考图表\",\n  \"character\": {\n    \"name\": \"{argument name=\\\"character name\\\" default=\\\"花宫小鸟\\\"}\",\n    \"theme\": \"{argument name=\\\"character theme\\\" default=\\\"甜点师魔法少女\\\"}\",\n    \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"棕色\\\"} 蓬松发型，配有马卡龙发夹\",\n    \"eyes\": \"{argument name=\\\"eye color\\\" default=\\\"棕色\\\"}，带有星星高光\",\n    \"weapon\": \"{argument name=\\\"weapon type\\\" default=\\\"打蛋器造型魔法棒\\\"}\",\n    \"outfit\": \"荷叶边连衣裙、围裙、靴子\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"个人资料与故事\",\n        \"position\": \"top-left\",\n        \"description\": \"用于展示个人资料、世界观和故事的文本块。\"\n      },\n      {\n        \"title\": \"三面图 / TURNAROUND\",\n        \"position\": \"top-center\",\n        \"count\": 3,\n        \"labels\": [\"正面 / FRONT\", \"侧面 / SIDE\", \"背面 / BACK\"]\n      },\n      {\n        \"title\": \"表情变化 / EXPRESSIONS\",\n        \"position\": \"top-right\",\n        \"count\": 6,\n        \"labels\": [\"笑容\", \"决心\", \"惊讶\", \"害羞\", \"忧伤\", \"思考中\"]\n      },\n      {\n        \"title\": \"服装与装备细节 / COSTUME & EQUIPMENT DETAILS\",\n        \"position\": \"center\",\n        \"count\": 7,\n        \"labels\": [\"帽子与头饰\", \"上衣\", \"围裙\", \"裙子\", \"靴子\", \"魔法棒 (打蛋器)\", \"挂件形态\"]\n      },\n      {\n        \"title\": \"细节要点 / DETAIL POINT\",\n        \"position\": \"center-right\",\n        \"count\": 4,\n        \"labels\": [\"发梢\", \"瞳孔\", \"脸颊\", \"袖口细节\"]\n      },\n      {\n        \"title\": \"配色方案 / COLOR PALETTE\",\n        \"position\": \"bottom-left\",\n        \"count\": 3,\n        \"labels\": [\"奶油黄\", \"草莓粉\", \"薄荷绿\"],\n        \"additional_swatches_count\": 7\n      },\n      {\n        \"title\": \"姿势展示 / POSE GALLERY\",\n        \"position\": \"bottom-center\",\n        \"count\": 3,\n        \"descriptions\": [\"魔法动作姿势\", \"忧郁的窗边场景\", \"吃东西时眨眼\"]\n      },\n      {\n        \"title\": \"基本信息 / BASIC INFO\",\n        \"position\": \"bottom-right\",\n        \"description\": \"包含角色属性和偏好的文本块。\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫魔法少女角色参考图表：生成一份高度详细的多板块动漫角色设计文档，包含三面图、表情、服装拆解及姿势展示。",
+      "subject": "服饰",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13744",
+      "14544",
+      "15366",
+      "13910",
+      "13935",
+      "14637"
+    ]
+  }
+}

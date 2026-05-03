@@ -1,0 +1,41 @@
+{
+  "id": "15055",
+  "prompt": "Using the provided reference image, upscale and restore the old soccer photograph into a sharper, higher-resolution, photorealistic version. Keep the same player, waving pose, blue Universidad de Chile jersey, stadium setting, and similar framing, but improve facial-area reconstruction only as much as needed under the existing censorship block, clean up the jersey details and folds, enhance color and contrast, and make the crowd/background more naturally blurred with a polished shallow-depth-of-field look. Preserve the vintage daylight sports-photo feeling while making it look clearer, crisper, and professionally remastered.",
+  "translatedPrompt": "使用提供的参考图像，将这张旧足球照片放大并修复为更清晰、高分辨率且具有照片级真实感的版本。保持相同的球员、挥手姿势、蓝色 Universidad de Chile 球衣、体育场背景以及相似的构图。在现有遮挡范围内进行必要的面部区域重建，优化球衣细节和褶皱，增强色彩与对比度，并使观众/背景呈现出更自然的虚化效果，营造出精致的浅景深视觉感。在保留复古日光体育照片质感的同时，使其看起来更清晰、锐利，并达到专业级的重制效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古足球照片高清修复：此提示词旨在修复并放大参考体育照片，在保持原始构图的同时提升清晰度，适用于旧档案图像的重制。",
+      "subject": "空间",
+      "scene": "摄影/真实场景",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "vintage"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, vintage]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14012",
+      "13665",
+      "13650",
+      "13806",
+      "15251",
+      "13604"
+    ]
+  }
+}

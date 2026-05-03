@@ -1,0 +1,49 @@
+{
+  "id": "15759",
+  "prompt": "A dramatic vertical cinematic photograph of a weathered wooden house jutting out from the edge of a steep cliff, with a small balcony suspended over empty space. The house is old and dilapidated, made of gray, sun-bleached planks with warped boards, broken or dark window openings, and fragile angled wooden supports underneath the balcony. Dense green vines and foliage climb the cliff and partially frame the upper left side of the image, while the rock face drops sharply downward through most of the composition. On the balcony stand exactly 2 people: a formally dressed couple posed as if ballroom dancing. The man wears a dark suit or tuxedo and faces the woman with one arm raised in dance position; the woman wears a flowing {argument name=\"dress color\" default=\"deep red\"} evening gown, her hair styled up, and she mirrors his pose. The balcony railing is thin and rustic, emphasizing the dangerous height and precarious setting. The sky is pale blue-gray and overcast, with faint hazy mountains visible in the far lower right background. Use a realistic photographic style, moody natural light, high detail in the aged wood and cliff textures, a sense of vertigo and surreal elegance, and a composition that places the house in the upper left and the couple near the upper right edge of the structure.",
+  "translatedPrompt": "一张极具戏剧性的竖构图电影感照片，展示了一座从陡峭悬崖边缘突出的风化木屋，阳台悬空于虚无之上。房屋古老而破败，由灰色、被阳光晒褪色的木板构成，木板弯曲变形，窗户昏暗或破损，阳台下方支撑着脆弱的倾斜木架。茂密的绿色藤蔓和植被攀附在悬崖上，部分框住了图像的左上角，而岩壁在构图的大部分区域急剧向下延伸。阳台上站着 2 个人：一对身着正装的夫妇，摆出交谊舞的姿势。男子身穿深色西装或燕尾服，面向女子，一只手臂抬起呈舞蹈姿势；女子身穿飘逸的 {argument name=\"dress color\" default=\"深红色\"} 晚礼服，发型盘起，与男子的姿势相呼应。阳台栏杆纤细而粗犷，突显了高度的危险感和不稳定的环境。天空呈灰蓝色，阴云密布，远处的右下方背景中隐约可见朦胧的山脉。采用写实的摄影风格，忧郁的自然光，展现出陈旧木材和悬崖纹理的高细节，营造出一种眩晕感与超现实的优雅，构图将房屋置于左上角，夫妇位于结构右上方边缘附近。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "悬崖屋上的舞者夫妇：一张充满电影质感的忧郁风格摄影提示词，描绘了一对优雅的夫妇在摇摇欲坠的悬崖屋阳台上翩翩起舞，非常适合超现实主义编辑或戏剧性的概念图像创作。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "natural light",
+        "overcast"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: natural light, overcast]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15758",
+      "15308",
+      "15443",
+      "15754",
+      "15766",
+      "14561"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "13777",
+  "prompt": "{\n  \"type\": \"mobile live streaming app interface mockup\",\n  \"subject\": \"young Asian woman streamer, long dark hair, white top, smiling, speaking into a black studio microphone\",\n  \"background\": \"cozy room, soft pink lighting, teddy bear, framed poster\",\n  \"ui_elements\": {\n    \"status_bar\": \"time 21:34, cellular, 5G, battery icons\",\n    \"top_navigation\": [\"直播\", \"同城\", \"关注\", \"{argument name=\\\"active tab\\\" default=\\\"推荐\\\"}\", \"search icon\"],\n    \"streamer_info\": {\n      \"name\": \"{argument name=\\\"streamer name\\\" default=\\\"小甜心✨\\\"}\",\n      \"status\": \"直播中\",\n      \"likes\": \"23.6万本场点赞\"\n    },\n    \"right_action_buttons\": {\n      \"count\": 6,\n      \"items\": [\"profile with plus\", \"heart with 3.2万\", \"speech bubble with 2516\", \"star with 5280\", \"share arrow with 1223\", \"spinning record album\"]\n    },\n    \"chat_overlay\": {\n      \"count\": 5,\n      \"messages\": [\n        \"小丸子: {argument name=\\\"chat message 1\\\" default=\\\"唱得太好听了吧～\\\"}\",\n        \"云淡风轻: {argument name=\\\"chat message 2\\\" default=\\\"声音好温柔，爱了爱了\\\"}\",\n        \"走遍人间: 主播可以点首《后来》吗？\",\n        \"你的小熊: 来了来了\",\n        \"糖糖 加入了直播间\"\n      ]\n    },\n    \"bottom_input\": \"text field saying {argument name=\\\"input placeholder\\\" default=\\\"说点什么...\\\"}, emoji, heart, gift, menu icons\",\n    \"bottom_navigation\": {\n      \"count\": 5,\n      \"tabs\": [\"首页\", \"朋友\", \"plus button\", \"消息\", \"我\"]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"移动端直播 App 界面模型\",\n  \"subject\": \"年轻亚裔女性主播，长黑发，白色上衣，微笑，对着黑色录音室麦克风说话\",\n  \"background\": \"温馨的房间，柔和的粉色灯光，泰迪熊，装饰画\",\n  \"ui_elements\": {\n    \"status_bar\": \"时间 21:34，蜂窝网络，5G，电池图标\",\n    \"top_navigation\": [\"直播\", \"同城\", \"关注\", \"{argument name=\\\"active tab\\\" default=\\\"推荐\\\"}\", \"搜索图标\"],\n    \"streamer_info\": {\n      \"name\": \"{argument name=\\\"streamer name\\\" default=\\\"小甜心✨\\\"}\",\n      \"status\": \"直播中\",\n      \"likes\": \"23.6 万本场点赞\"\n    },\n    \"right_action_buttons\": {\n      \"count\": 6,\n      \"items\": [\"带加号的头像\", \"带 3.2 万的点赞心形\", \"带 2516 的气泡对话框\", \"带 5280 的星星\", \"带 1223 的分享箭头\", \"旋转的唱片\"]\n    },\n    \"chat_overlay\": {\n      \"count\": 5,\n      \"messages\": [\n        \"小丸子: {argument name=\\\"chat message 1\\\" default=\\\"唱得太好听了吧～\\\"}\",\n        \"云淡风轻: {argument name=\\\"chat message 2\\\" default=\\\"声音好温柔，爱了爱了\\\"}\",\n        \"走遍人间: 主播可以点首《后来》吗？\",\n        \"你的小熊: 来了来了\",\n        \"糖糖 加入了直播间\"\n      ]\n    },\n    \"bottom_input\": \"文本框显示 {argument name=\\\"input placeholder\\\" default=\\\"说点什么...\\\"}，以及表情、心形、礼物、菜单图标\",\n    \"bottom_navigation\": {\n      \"count\": 5,\n      \"tabs\": [\"首页\", \"朋友\", \"加号按钮\", \"消息\", \"我\"]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "移动端直播 App 界面：生成一个逼真的移动端直播 App 界面模型，包含主播画面和交互式 UI 覆盖层。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14649",
+      "13828",
+      "14008",
+      "14435",
+      "14695",
+      "14909"
+    ]
+  }
+}

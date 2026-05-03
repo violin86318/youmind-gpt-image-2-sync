@@ -1,0 +1,48 @@
+{
+  "id": "14500",
+  "prompt": "{\"type\":\"anime transformation storyboard sheet\",\"subject\":\"magical girl transformation sequence\",\"style\":\"clean professional storyboard for image generation planning, polished anime illustration thumbnails, vibrant night-sky fantasy effects, manga production sheet aesthetic\",\"canvas\":{\"orientation\":\"landscape\",\"aspect_ratio\":\"16:9\"},\"header\":{\"title\":\"魔法少女変身シーン　絵コンテ（約8秒/10カット）\",\"notes\":[\"イマジナリーライン基準：主人公は画面中央〜やや左／エフェクトの流れは右から左へ\",\"合計：約8秒\"]},\"character\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"主人公\\\"}\",\"appearance\":\"teen magical girl with long wavy {argument name=\\\"hair color\\\" default=\\\"brown\\\"} hair, large expressive eyes, school-uniform-to-magical-girl transformation, pink frilly costume with ribbons, short layered skirt, bow details, white gloves, wand-like transformation item with heart and wing motifs\"},\"layout\":{\"grid\":{\"columns\":5,\"rows\":2,\"count\":10},\"sections\":[{\"title\":\"1\",\"position\":\"top-left\",\"count\":1,\"labels\":[\"ショット：ワイドショット（WS/ES）\",\"アングル：アイレベル\",\"時間の目安：0.0〜0.8（約0.8秒）\",\"内容：夜の屋上に一人立つ主人公。静かな導入、風で髪とスカートが揺れる。\",\"主人公の位置：画面中央やや左\"]},{\"title\":\"2\",\"position\":\"top row second\",\"count\":1,\"labels\":[\"ショット：ミディアムフルショット（MFS）\",\"アングル：ローアングル\",\"時間の目安：0.8〜1.6（約0.8秒）\",\"内容：変身アイテムを胸の前で構える。決意の表情。足元から光の粒が立ち上がる。\",\"主人公の位置：画面中央やや左\"]},{\"title\":\"3\",\"position\":\"top row third\",\"count\":1,\"labels\":[\"ショット：クローズアップ（CU）\",\"アングル：アイレベル\",\"時間の目安：1.6〜2.4（約0.8秒）\",\"内容：瞳が輝き、表情が変化する瞬間。アイテムの光が右から反射。\",\"主人公の位置：画面左寄り\"]},{\"title\":\"4\",\"position\":\"top row fourth\",\"count\":1,\"labels\":[\"ショット：インサートショット（INS）\",\"アングル：ハイアングル\",\"時間の目安：2.4〜3.2（約0.8秒）\",\"内容：アイテムが強く発光し、光のリボンや星の粒子が放たれる。\",\"主人公の位置：画面左（手のみ写る）\"]},{\"title\":\"5\",\"position\":\"top-right\",\"count\":1,\"labels\":[\"ショット：ミディアムショット（MS）\",\"アングル：アイレベル\",\"時間の目安：3.2〜4.0（約0.8秒）\",\"内容：光のリボンが体を包み込み始める。魔法陣が展開し、光が螺旋を描く。\",\"主人公の位置：画面中央やや左\"]},{\"title\":\"6\",\"position\":\"bottom-left\",\"count\":1,\"labels\":[\"ショット：フルショット（FS）\",\"アングル：ローアングル\",\"時間の目安：4.0〜4.8（約0.8秒）\",\"内容：光が体を巡り、衣装が形成されていく。リボンと光の螺旋で包まれる。\",\"主人公の位置：画面中央\"]},{\"title\":\"7\",\"position\":\"bottom row second\",\"count\":1,\"labels\":[\"ショット：エクストリームクローズアップ（ECU）\",\"アングル：アイレベル\",\"時間の目安：4.8〜5.4（約0.6秒）\",\"内容：瞳に星がきらめき、光が最大に輝く。変身のピークを強調。\",\"主人公の位置：画面中央（目のアップ）\"]},{\"title\":\"8\",\"position\":\"bottom row third\",\"count\":1,\"labels\":[\"ショット：ミディアムフルショット（MFS）\",\"アングル：ハイアングル\",\"時間の目安：5.4〜6.2（約0.8秒）\",\"内容：衣装が完成し、光の粒子がゆっくり収まる。髪やリボンがふわりと広がる。\",\"主人公の位置：画面中央やや左\"]},{\"title\":\"9\",\"position\":\"bottom row fourth\",\"count\":1,\"labels\":[\"ショット：フルショット（FS）\",\"アングル：ダッチアングル\",\"時間の目安：6.2〜7.0（約0.8秒）\",\"内容：回転しながら着地。決めポーズへ移行。光の残像と花びらが舞う。\",\"主人公の位置：画面中央\"]},{\"title\":\"10\",\"position\":\"bottom-right\",\"count\":1,\"labels\":[\"ショット：ミディアムフルショット（MFS）\",\"アングル：ローアングル\",\"時間の目安：7.0〜8.0（約1.0秒）\",\"内容：変身完了の決めポーズ。光と花びらに包まれ、華やかにフィニッシュ。\",\"主人公の位置：画面中央やや左\"]}],\"footer\":{\"title\":\"【演出メモ】\",\"count\":2,\"labels\":[\"全カットを通して、視線の抜けとエフェクトの流れを“右から左へ”統一。カメラがイマジナリーラインを越えないように構成し、主人公の位置を安定させる。\",\"光・エフェクトの流れの方向（右から左へ）\"]}},\"visuals\":{\"panel_style\":\"each of the 10 panels contains a fully rendered anime thumbnail image on top and a text description box below, with a bold panel number in the upper-left corner\",\"background\":\"white storyboard sheet with black borders and thin dividers\",\"thumbnail_consistency\":\"same girl across all 10 panels, rooftop at night under a bright moon, deep blue-purple sky, pink and white magical light ribbons, sparkling petals, dynamic transformation energy\",\"text_language\":\"Japanese\",\"color_palette\":[\"deep navy blue\",\"violet\",\"pink\",\"white\",\"soft magenta\"]},\"quality\":\"high-resolution editorial layout, sharp legible Japanese text, balanced margins, print-ready storyboard design\"}",
+  "translatedPrompt": "{\"type\":\"动画变身分镜表\",\"subject\":\"魔法少女变身序列\",\"style\":\"用于图像生成规划的简洁专业分镜，精致的动画插画缩略图，充满活力的夜空幻想特效，漫画制作表美学\",\"canvas\":{\"orientation\":\"横向\",\"aspect_ratio\":\"16:9\"},\"header\":{\"title\":\"魔法少女变身场景 分镜（约 8 秒/10 个镜头）\",\"notes\":[\"假想线基准：主角位于画面中央至偏左位置／特效流向为从右向左\",\"总计：约 8 秒\"]},\"character\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"主角\\\"}\",\"appearance\":\"十几岁的魔法少女，留着长长的波浪卷{argument name=\\\"hair color\\\" default=\\\"棕色\\\"}发，大而有神的眼睛，校服变身为魔法少女装，带有丝带的粉色荷叶边服装，短层叠裙，蝴蝶结细节，白色手套，带有心形和翅膀图案的魔杖式变身道具\"},\"layout\":{\"grid\":{\"columns\":5,\"rows\":2,\"count\":10},\"sections\":[{\"title\":\"1\",\"position\":\"左上\",\"count\":1,\"labels\":[\"镜头：远景（WS/ES）\",\"角度：平视\",\"时间预估：0.0-0.8（约 0.8 秒）\",\"内容：主角独自站在夜间的屋顶。安静的开场，风吹动头发和裙摆。\",\"主角位置：画面中央偏左\"]},{\"title\":\"2\",\"position\":\"上排第二\",\"count\":1,\"labels\":[\"镜头：中全景（MFS）\",\"角度：低角度\",\"时间预估：0.8-1.6（约 0.8 秒）\",\"内容：在胸前握住变身道具。坚定的表情。脚下升起光点。\",\"主角位置：画面中央偏左\"]},{\"title\":\"3\",\"position\":\"上排第三\",\"count\":1,\"labels\":[\"镜头：特写（CU）\",\"角度：平视\",\"时间预估：1.6-2.4（约 0.8 秒）\",\"内容：眼睛闪烁，表情变化的瞬间。道具的光芒从右侧反射。\",\"主角位置：画面偏左\"]},{\"title\":\"4\",\"position\":\"上排第四\",\"count\":1,\"labels\":[\"镜头：插入镜头（INS）\",\"角度：高角度\",\"时间预估：2.4-3.2（约 0.8 秒）\",\"内容：道具发出强烈光芒，释放出光之丝带和星形粒子。\",\"主角位置：画面左侧（仅露出手部）\"]},{\"title\":\"5\",\"position\":\"右上\",\"count\":1,\"labels\":[\"镜头：中景（MS）\",\"角度：平视\",\"时间预估：3.2-4.0（约 0.8 秒）\",\"内容：光之丝带开始包裹身体。魔法阵展开，光芒呈螺旋状。\",\"主角位置：画面中央偏左\"]},{\"title\":\"6\",\"position\":\"左下\",\"count\":1,\"labels\":[\"镜头：全景（FS）\",\"角度：低角度\",\"时间预估：4.0-4.8（约 0.8 秒）\",\"内容：光芒环绕身体，服装逐渐成型。被丝带和光的螺旋所包围。\",\"主角位置：画面中央\"]},{\"title\":\"7\",\"position\":\"下排第二\",\"count\":1,\"labels\":[\"镜头：大特写（ECU）\",\"角度：平视\",\"时间预估：4.8-5.4（约 0.6 秒）\",\"内容：眼中闪烁着星星，光芒达到最盛。强调变身的高潮。\",\"主角位置：画面中央（眼睛特写）\"]},{\"title\":\"8\",\"position\":\"下排第三\",\"count\":1,\"labels\":[\"镜头：中全景（MFS）\",\"角度：高角度\",\"时间预估：5.4-6.2（约 0.8 秒）\",\"内容：服装完成，光之粒子缓慢收敛。头发和丝带轻柔地散开。\",\"主角位置：画面中央偏左\"]},{\"title\":\"9\",\"position\":\"下排第四\",\"count\":1,\"labels\":[\"镜头：全景（FS）\",\"角度：荷兰式倾斜\",\"时间预估：6.2-7.0（约 0.8 秒）\",\"内容：旋转着落地。过渡到定格姿势。光影残像与花瓣飞舞。\",\"主角位置：画面中央\"]},{\"title\":\"10\",\"position\":\"右下\",\"count\":1,\"labels\":[\"镜头：中全景（MFS）\",\"角度：低角度\",\"时间预估：7.0-8.0（约 1.0 秒）\",\"内容：变身完成的定格姿势。被光芒与花瓣包围，华丽收尾。\",\"主角位置：画面中央偏左\"]}],\"footer\":{\"title\":\"【演出笔记】\",\"count\":2,\"labels\":[\"所有镜头中，视线引导与特效流向统一为“从右向左”。构图上确保摄像机不越过假想线，保持主角位置稳定。\",\"光效与特效的流动方向（从右向左）\"]}},\"visuals\":{\"panel_style\":\"10 个分镜框中，上方为完整渲染的动画缩略图，下方为文字描述框，左上角标有粗体分镜编号\",\"background\":\"带有黑色边框和细分割线的白色分镜表\",\"thumbnail_consistency\":\"10 个分镜中角色保持一致，夜间屋顶，明亮的月亮，深蓝紫色天空，粉色与白色魔法光带，闪烁的花瓣，动态的变身能量\",\"text_language\":\"日语\",\"color_palette\":[\"深海军蓝\",\"紫罗兰色\",\"粉红色\",\"白色\",\"柔和洋红色\"]},\"quality\":\"高分辨率编辑排版，清晰易读的日语文字，平衡的页边距，可直接打印的分镜设计\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "魔法少女变身分镜脚本：此提示词可生成一份专业的日本动画分镜表，包含 10 个带有标注的变身画面，适用于预演、导演指导以及动作或场景规划。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "grid",
+        "layered"
+      ],
+      "style": [
+        "editorial",
+        "anime",
+        "manga",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, layered]。\n\nVisual style:\n[参考风格: editorial, anime, manga, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14963",
+      "15685",
+      "14692",
+      "15384",
+      "15787",
+      "14551"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "15736",
+  "prompt": "Create a hyper-detailed comedic Japanese arcade fighting game screenshot styled like a versus battle scene, using a real-world photo aesthetic with game UI overlaid on top. The scene shows an intense mock battle between two groups of theme-park fans competing for the front row at an outdoor show plaza in Tokyo DisneySea. Use a wide 16:9 composition. In the background, clearly show Mediterranean Harbor and Mount Prometheus under bright daytime skies, with the waterfront and DisneySea architecture visible. In the foreground, show exactly 10 young adult people in winter casual clothing, split into 2 opposing teams of 5, physically leaning, grabbing, reaching, and shoving in a tug-of-war-like scrum over position, with exaggerated competitive body language and frozen action as if in a fighting game. Faces should be anonymized with soft blurred blocks. Add floating character labels above each person with levels and names in Japanese. The overall tone is absurdly realistic, like a real candid photo transformed into a polished arcade game battle screen.\n\nAdd a full Japanese fighting-game HUD with glossy blue-versus-red interface styling. At the very top, place a center stage title bar reading \"東京ディズニーシー　ミッキー広場　ショー最前列バトル\" and a large timer in the middle reading \"TIME 89\". In the top left, add a blue team header \"PLAYER1\" and team name \"最前列ガチ勢A\". In the top right, add a red team header \"RIVAL\" and team name \"ライバルグループB\". On the left side, stack exactly 5 blue player status panels with portraits, level, Japanese class-like nicknames, HP, SP, and BURST meters. The 5 left-side labels are: \"Lv.25 ガチ勢リーダー ユウキ\", \"Lv.24 筋肉マン タケシ\", \"Lv.23 眼鏡オタク シンジ\", \"Lv.23 開角心MAX ケント\", \"Lv.22 サポート要員 リョウ\". On the right side, stack exactly 5 red rival status panels with the labels: \"Lv.27 ライバルリーダー ダイキ\", \"Lv.26 パワフル代表 マサル\", \"Lv.24 戦略家 コウジ\", \"Lv.23 熱血漢 リク\", \"Lv.22 サポート女子 サキ\". Each panel should include numeric HP and SP values and segmented BURST gauges, styled like a Japanese arcade RPG-fighter interface.\n\nPlace exactly 10 in-battle nameplates above the fighters in the center scene, color-coded blue for the left team and red for the right team. The 10 labels are: \"Lv.24 タケシ\", \"Lv.25 ユウキ\", \"Lv.23 シンジ\", \"Lv.23 ケント\", \"Lv.22 リョウ\", \"Lv.27 ダイキ\", \"Lv.26 マサル\", \"Lv.23 リク\", \"Lv.22 サキ\", \"Lv.22 ミサキ\".\n\nAt the lower left, add a skill menu titled \"スキル\" listing exactly 5 skills with SP costs: \"ダッシュ突撃 SP 20\", \"肩押し強奪 SP 25\", \"荷物で場所確保 SP 15\", \"ロープくぐり SP 10\", \"本気の根性 SP 50\". Beneath that, add a dark description box explaining the highlighted skill \"本気の根性\" with the Japanese text: \"気合で相手を威圧し、どかす！ 一定時間、相手が怯みやすくなる！ （バーストゲージを大きく消費する） 効果時間：10秒\".\n\nAt the bottom center, add an item menu titled \"アイテム\" with exactly 5 item slots showing icons and counts: a water bottle \"x3\", a folded purple towel \"x2\", a blue drawstring bag \"x1\", a gray backpack \"x1\", and a boxed meal \"x2\". At the lower right, add a quest panel titled \"クエスト\" with the mission text \"ショー開始までに最前列を死守しろ！\" and condition text \"条件：ライバルグループを全員後ろに押し戻せ！\" and countdown text \"ショー開始まで：02:30\". Beside it, add a mini-map titled \"ミッキー広場MAP\" showing red and blue dots for both teams in the plaza. Along the very bottom edge, include small controller prompts in Japanese for actions such as skill use, item use, grab/push, and dash.\n\nUse dramatic, saturated lighting, crisp detail, realistic clothing folds, authentic plaza stone pavement, and a high-end Japanese game screenshot look. The image should feel like a ridiculous but believable crossover between a real Tokyo DisneySea crowd photo and a competitive arcade battle game interface.",
+  "translatedPrompt": "创作一张超精细的喜剧风格日本街机格斗游戏截图，采用对战场景样式，将真实照片的美学与游戏 UI 叠加在一起。场景展示了东京迪士尼海洋户外演出广场上，两组主题乐园粉丝为争夺前排位置而进行的激烈模拟对战。使用 16:9 宽屏构图。背景清晰可见地中海港湾和普罗米修斯山，天空明亮，水岸和迪士尼海洋的建筑清晰可见。前景展示 10 名身穿冬季休闲装的年轻人，分为 5 对 5 的两个对立阵营，像拔河一样身体前倾、抓扯、伸手、推搡，争夺位置，动作夸张，如同格斗游戏中的定格画面。面部使用柔和的模糊块进行匿名处理。在每个人上方添加悬浮角色标签，标注等级和日文名称。整体基调荒诞而写实，就像一张真实的抓拍照片被转化为精美的街机游戏对战画面。\n\n添加一套完整的日式格斗游戏 HUD，采用亮面蓝红对比界面风格。最上方放置一个中央舞台标题栏，文字为“东京迪士尼海洋 米奇广场 演出最前排对战”，中间显示大计时器“TIME 89”。左上角添加蓝色队伍标题“PLAYER1”及队名“最前排硬核粉丝 A”。右上角添加红色队伍标题“RIVAL”及队名“竞争对手组 B”。左侧堆叠 5 个蓝色玩家状态面板，包含头像、等级、日式职业昵称、HP、SP 和 BURST 槽。左侧 5 个标签分别为：“Lv.25 硬核队长 勇树”、“Lv.24 肌肉男 武”、“Lv.23 眼镜宅 真司”、“Lv.23 开角心 MAX 健人”、“Lv.22 支援人员 亮”。右侧堆叠 5 个红色对手状态面板，标签为：“Lv.27 对手队长 大辉”、“Lv.26 力量代表 胜”、“Lv.24 战略家 浩二”、“Lv.23 热血汉 陆”、“Lv.22 支援女生 咲”。每个面板应包含数值化的 HP 和 SP 以及分段式 BURST 槽，风格类似于日式街机 RPG 格斗界面。\n\n在中心场景的格斗者上方放置 10 个战斗名牌，左侧队伍为蓝色，右侧队伍为红色。10 个标签分别为：“Lv.24 武”、“Lv.25 勇树”、“Lv.23 真司”、“Lv.23 健人”、“Lv.22 亮”、“Lv.27 大辉”、“Lv.26 胜”、“Lv.23 陆”、“Lv.22 咲”、“Lv.22 美咲”。\n\n左下角添加一个标题为“技能”的技能菜单，列出 5 个带有 SP 消耗的技能：“冲刺突击 SP 20”、“肩推强夺 SP 25”、“用行李占位 SP 15”、“钻绳索 SP 10”、“本气的毅力 SP 50”。下方添加一个深色说明框，解释高亮技能“本气的毅力”，文字为：“用气势威压对手，将其推开！一定时间内，对手更容易产生硬直！（大幅消耗 BURST 槽）效果时间：10 秒”。\n\n底部中央添加一个标题为“道具”的道具菜单，包含 5 个显示图标和数量的槽位：水瓶“x3”、折叠紫色毛巾“x2”、蓝色抽绳包“x1”、灰色双肩包“x1”和盒饭“x2”。右下角添加一个标题为“任务”的任务面板，任务文字为“在演出开始前死守最前排！”，条件文字为“条件：将竞争对手组全员推回后方！”，倒计时文字为“距离演出开始：02:30”。旁边添加一个标题为“米奇广场 MAP”的小地图，显示广场上两队的红蓝点。在最底部边缘，包含用于技能使用、道具使用、抓取/推搡和冲刺等操作的小型日文控制器提示。\n\n使用戏剧性的高饱和度光影、清晰的细节、写实的衣物褶皱、真实的广场石板路，呈现高端日本游戏截图的质感。画面应给人一种荒谬但可信的跨界感，仿佛是一张真实的东京迪士尼海洋人群照片与竞技街机对战游戏界面的结合。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "东京迪士尼海洋前排争夺战 UI：一张极具喜剧效果的写实游戏风格截图，展示了两组竞争激烈的粉丝在东京迪士尼海洋争夺前排位置的对战场景，适用于恶搞街机格斗游戏视觉图。",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "App Store 截图、产品概念、移动工具界面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13701",
+      "14661",
+      "13742",
+      "14892",
+      "14480",
+      "14560"
+    ]
+  }
+}

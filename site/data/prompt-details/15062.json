@@ -1,0 +1,48 @@
+{
+  "id": "15062",
+  "prompt": "{\"type\":\"vintage illustrated recipe poster\",\"subject\":\"Portuguese pastel de nata recipe infographic\",\"style\":{\"overall\":\"aged parchment cookbook poster, hand-painted food illustration, antique azulejo-inspired ornament, sepia-toned background, detailed calligraphy, warm rustic bakery aesthetic\",\"rendering\":\"highly legible decorative typography, textured paper grain, ink flourishes, soft painterly shading, realistic pastries with glossy caramelized tops\"},\"poster\":{\"orientation\":\"vertical\",\"border\":\"ornate dark ink frame with floral corner embellishments\",\"background\":\"weathered beige parchment with stains and subtle creases\"},\"header\":{\"top_left_branding\":{\"count\":2,\"labels\":[\"Pollo AI\",\"GPT Image 2\"]},\"main_title\":\"Segredo dos Pasteis de Nata\",\"title_style\":\"large flowing brown calligraphy on the left half with elaborate swashes and curls\",\"hero_image\":\"a blue-and-white ceramic plate holding 5 pasteis de nata stacked in a pyramid on the upper right\",\"surrounding_props\":{\"count\":3,\"labels\":[\"metal shaker labeled CANELA\",\"2 cinnamon sticks\",\"lace cloth under plate\"]}},\"layout\":{\"sections\":[{\"title\":\"INGREDIENTES\",\"position\":\"upper middle strip\",\"count\":6,\"labels\":[\"1. Massa Folhada\",\"2. Natas\",\"3. Gemas\",\"4. Açúcar\",\"5. Leite\",\"6. Casca de Limão & Canela\"],\"items\":[{\"label\":\"1. Massa Folhada\",\"description\":\"stack of folded puff pastry sheets dusted with flour\"},{\"label\":\"2. Natas\",\"description\":\"small ceramic pitcher of cream with blue floral decoration\"},{\"label\":\"3. Gemas\",\"description\":\"bowl with 4 egg yolks and a cracked eggshell beside it\"},{\"label\":\"4. Açúcar\",\"description\":\"bowl of white sugar with a small wooden scoop and 2 sugar cubes\"},{\"label\":\"5. Leite\",\"description\":\"glass milk bottle with blue cow illustration\"},{\"label\":\"6. Casca de Limão & Canela\",\"description\":\"whole lemon, curled lemon peels, and cinnamon sticks\"}]},{\"title\":\"MÉTODO\",\"position\":\"center and lower grid\",\"count\":6,\"labels\":[\"1\",\"2\",\"3\",\"4\",\"5\",\"6\"],\"panels\":[{\"label\":\"1\",\"caption\":\"Infundir o leite com limão e canela\",\"description\":\"steaming saucepan with milk, lemon peel, and cinnamon stick\"},{\"label\":\"2\",\"caption\":\"Bater as gemas e o açúcar, adicionar as natas mornas\",\"description\":\"mixing bowl with whisk, egg yolks, sugar, and cream being poured in\"},{\"label\":\"3\",\"caption\":\"Misturar tudo e aquecer sem ferver\",\"description\":\"pot of thick custard being stirred with a wooden spoon over heat\"},{\"label\":\"4\",\"caption\":\"Forrar as formas com a massa folhada\",\"description\":\"hands pressing pastry into tart molds with a rolling pin nearby\"},{\"label\":\"5\",\"caption\":\"Rechear com o creme de natas\",\"description\":\"custard being poured into 5 pastry-lined tart tins\"},{\"label\":\"6\",\"caption\":\"Cozer em forno bem quente até tostar\",\"description\":\"oven tray with baked pasteis de nata, dark blistered tops, cloth at side\"}]},{\"title\":\"bottom quote ribbon\",\"position\":\"bottom\",\"count\":1,\"labels\":[\"\\\"O sabor doce de Portugal com um toque de canela!\\\"\"],\"decorations\":{\"count\":3,\"labels\":[\"colorful Barcelos rooster illustration on the left\",\"blue tile motifs in both lower corners\",\"cinnamon sticks on the right\"]}}],\"reading_order\":\"title and hero pastries at top, ingredients strip below, six-step method grid in two rows of three, quote banner at bottom\"},\"color_palette\":{\"count\":6,\"labels\":[\"aged parchment beige\",\"sepia brown ink\",\"golden custard yellow\",\"burnt caramel brown\",\"ceramic blue\",\"warm cinnamon tan\"]},\"composition\":\"dense but balanced cookbook-style poster, all text in Portuguese, decorative banners separating sections, every panel framed like an antique recipe card\",\"quality\":\"high-resolution editorial poster with crisp text rendering and richly textured vintage illustration\"}",
+  "translatedPrompt": "{\"type\":\"复古插画食谱海报\",\"subject\":\"葡式蛋挞食谱信息图\",\"style\":{\"overall\":\"陈旧羊皮纸食谱海报，手绘美食插画，古董瓷砖风格装饰，棕褐色背景，精细书法，温暖质朴的烘焙店美学\",\"rendering\":\"高度清晰的装饰性字体，纹理纸张质感，墨水花纹，柔和的绘画式阴影，带有光泽焦糖顶部的逼真糕点\"},\"poster\":{\"orientation\":\"纵向\",\"border\":\"带有花卉边角装饰的华丽深色墨水边框\",\"background\":\"带有污渍和细微折痕的陈旧米色羊皮纸\"},\"header\":{\"top_left_branding\":{\"count\":2,\"labels\":[\"Pollo AI\",\"GPT Image 2\"]},\"main_title\":\"Segredo dos Pasteis de Nata\",\"title_style\":\"左侧大号流畅的棕色书法，带有精致的装饰线条和卷曲\",\"hero_image\":\"右上角放置着一个蓝白相间的陶瓷盘，盘中堆叠着 5 个葡式蛋挞\",\"surrounding_props\":{\"count\":3,\"labels\":[\"标有 CANELA 的金属摇瓶\",\"2 根肉桂棒\",\"盘子下的蕾丝布\"]}},\"layout\":{\"sections\":[{\"title\":\"INGREDIENTES\",\"position\":\"中上部条带\",\"count\":6,\"labels\":[\"1. Massa Folhada\",\"2. Natas\",\"3. Gemas\",\"4. Açúcar\",\"5. Leite\",\"6. Casca de Limão & Canela\"],\"items\":[{\"label\":\"1. Massa Folhada\",\"description\":\"撒有面粉的折叠酥皮堆\"},{\"label\":\"2. Natas\",\"description\":\"带有蓝色花卉装饰的小陶瓷奶油壶\"},{\"label\":\"3. Gemas\",\"description\":\"碗里有 4 个蛋黄，旁边有一个破碎的蛋壳\"},{\"label\":\"4. Açúcar\",\"description\":\"装有白糖的碗，配有一个小木勺和 2 块方糖\"},{\"label\":\"5. Leite\",\"description\":\"带有蓝色奶牛插画的玻璃牛奶瓶\"},{\"label\":\"6. Casca de Limão & Canela\",\"description\":\"整个柠檬、卷曲的柠檬皮和肉桂棒\"}]},{\"title\":\"MÉTODO\",\"position\":\"中心和下部网格\",\"count\":6,\"labels\":[\"1\",\"2\",\"3\",\"4\",\"5\",\"6\"],\"panels\":[{\"label\":\"1\",\"caption\":\"Infundir o leite com limão e canela\",\"description\":\"正在加热的平底锅，里面有牛奶、柠檬皮和肉桂棒\"},{\"label\":\"2\",\"caption\":\"Bater as gemas e o açúcar, adicionar as natas mornas\",\"description\":\"搅拌碗里有打蛋器、蛋黄、糖，正在倒入温奶油\"},{\"label\":\"3\",\"caption\":\"Misturar tudo e aquecer sem ferver\",\"description\":\"木勺在火上搅拌浓稠的蛋奶糊\"},{\"label\":\"4\",\"caption\":\"Forrar as formas com a massa folhada\",\"description\":\"双手将酥皮压入蛋挞模具，旁边放着擀面杖\"},{\"label\":\"5\",\"caption\":\"Rechear com o creme de natas\",\"description\":\"蛋奶糊被倒入 5 个铺好酥皮的蛋挞模具中\"},{\"label\":\"6\",\"caption\":\"Cozer em forno bem quente até tostar\",\"description\":\"烤盘上放着烤好的葡式蛋挞，顶部呈深色焦糖色，旁边放着布\"}]},{\"title\":\"底部引语丝带\",\"position\":\"底部\",\"count\":1,\"labels\":[\"\\\"O sabor doce de Portugal com um toque de canela!\\\"\"],\"decorations\":{\"count\":3,\"labels\":[\"左侧色彩鲜艳的巴塞洛斯公鸡插画\",\"两个下角的蓝色瓷砖图案\",\"右侧的肉桂棒\"]}}],\"reading_order\":\"顶部为标题和主图蛋挞，下方为配料条带，中间为两行三列的六步法网格，底部为引语横幅\"},\"color_palette\":{\"count\":6,\"labels\":[\"陈旧羊皮纸米色\",\"棕褐色墨水\",\"金黄色蛋奶糊\",\"焦糖棕色\",\"陶瓷蓝\",\"温暖肉桂棕\"]},\"composition\":\"密集但平衡的食谱风格海报，所有文字均为葡萄牙语，装饰性横幅分隔各个部分，每个面板都像古董食谱卡一样装裱\",\"quality\":\"高分辨率编辑海报，文字清晰，复古插画纹理丰富\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古风葡式蛋挞食谱海报：此提示词可生成一张华丽的复古风格葡式蛋挞食谱信息图海报，非常适合展示密集的装饰性文字和分步美食插画。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "grid",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "editorial",
+        "vintage"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, vertical]。\n\nVisual style:\n[参考风格: realistic, editorial, vintage]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15085",
+      "14698",
+      "14567",
+      "15404",
+      "14563",
+      "15088"
+    ]
+  }
+}

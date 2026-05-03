@@ -1,0 +1,56 @@
+{
+  "id": "14736",
+  "prompt": "A cinematic high resolution action portrait of a {argument name=\"subject\" default=\"young man riding a modern motocross dirt bike\"} across {argument name=\"setting\" default=\"rough rocky terrain during golden hour sunset\"}. He is leaning aggressively forward while turning, showing focus and intensity on his face. He has messy windswept dark hair, light stubble, sharp jawline, athletic build, wearing a fitted black compression t shirt, dark cargo pants, black motocross gloves with orange details, and black racing boots with orange accents.\nThe bike is a sleek matte black and gray off road dirt bike with detailed suspension, rugged knobby tires, visible engine parts, realistic mud splashes, spinning wheels, and dust flying from the rear tire. The rider is captured mid motion with dynamic energy and speed.\nBackground features a warm desert landscape with distant mountains softly blurred in the horizon. Huge clouds of dust rise behind the bike, illuminated by the sunlight. Sky has a smooth gradient from deep teal blue at the top to glowing orange near the horizon. Strong sunlight creates dramatic rim lighting around the rider and bike, with rich shadows and warm highlights.\nForeground has textured gravel, dirt, scattered stones, motion debris, sharp ground detail. Shot from a low angle for a heroic powerful perspective. Shallow depth of field keeps the rider sharp while background remains creamy and cinematic.\nColor grading is {argument name=\"color grade\" default=\"teal and orange\"}, high contrast, realistic skin tones, crisp details, ultra sharp focus, premium editorial sports photography style, cinematic storytelling, adventure aesthetic, volumetric dust lighting, HDR quality, 8k, realistic textures, natural reflections, professional lens compression, intense atmosphere.\nCamera settings: low angle tracking shot, 85mm lens, f/2.8, fast shutter speed, ISO 100, high clarity, subject centered composition.\nNegative prompt: blurry face, extra limbs, bad anatomy, text, watermark, logo, low quality, oversaturated colors, distorted bike, duplicate wheels, unrealistic hands, noise, cartoon style, flat lighting.",
+  "translatedPrompt": "一张电影级高分辨率动作肖像，主角是 {argument name=\"subject\" default=\"一位骑着现代越野摩托车的年轻人\"}，场景设定在 {argument name=\"setting\" default=\"黄金时段日落下的崎岖岩石地形\"}。他转弯时身体激进地向前倾斜，脸上流露出专注与强烈的神情。他留着凌乱的深色短发，有着淡淡的胡茬、轮廓分明的下颌线和健壮的体格，身穿修身黑色紧身 T 恤、深色工装裤、带有橙色细节的黑色摩托车越野手套，以及带有橙色点缀的黑色赛车靴。\n这辆摩托车是一辆外观时尚的哑光黑灰色越野摩托车，拥有精细的悬挂系统、粗犷的越野轮胎、清晰可见的引擎部件、逼真的泥点飞溅、旋转的车轮，以及从后轮飞扬而起的尘土。骑手被捕捉在运动瞬间，充满动态能量与速度感。\n背景是温暖的沙漠景观，远处的山脉在地平线上呈现出柔和的虚化效果。摩托车后方扬起巨大的尘土云，被阳光照亮。天空呈现出从顶部的深青色到地平线附近发光的橙色的平滑渐变。强烈的阳光在骑手和摩托车周围营造出戏剧性的轮廓光，伴随着丰富的阴影和温暖的高光。\n前景包含质感丰富的砾石、泥土、散落的石块、运动碎屑和清晰的地面细节。采用低角度拍摄，以呈现英雄般强有力的视角。浅景深使骑手保持清晰，同时背景保持奶油般的虚化效果，极具电影感。\n调色风格为 {argument name=\"color grade\" default=\"青橙色调\"}，高对比度，逼真的肤色，清晰的细节，超锐利对焦，高级体育编辑摄影风格，电影叙事感，冒险美学，体积感尘土光效，HDR 画质，8k 分辨率，逼真的纹理，自然的反射，专业镜头压缩，强烈的氛围。\n相机设置：低角度追踪拍摄，85mm 镜头，f/2.8，高速快门，ISO 100，高清晰度，主体居中构图。\n负面提示词：模糊的脸，多余的肢体，糟糕的解剖结构，文字，水印，标志，低质量，色彩过饱和，扭曲的摩托车，重复的车轮，不切实际的手部，噪点，卡通风格，平淡的光照。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日落时分摩托车越野动作肖像：一份全面的摩托车越野骑手黄金时段动作摄影提示词，详细说明了相机设置、调色风格以及尘土和光影等动态环境细节。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "editorial",
+        "premium"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "golden hour",
+        "volumetric",
+        "high contrast",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic, cinematic, editorial, premium]。\n\nLighting and camera:\n[参考光线镜头: rim light, golden hour, volumetric, high contrast, shallow depth, depth of field]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15762",
+      "14569",
+      "15065",
+      "15435",
+      "15250",
+      "15533"
+    ]
+  }
+}

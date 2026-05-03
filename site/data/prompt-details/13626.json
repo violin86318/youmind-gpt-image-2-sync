@@ -1,0 +1,39 @@
+{
+  "id": "13626",
+  "prompt": "{\n  \"type\": \"4-panel anime comic strip\",\n  \"art_style\": \"detailed anime illustration, warm sunset lighting, visual novel CG quality\",\n  \"setting\": \"{argument name=\\\"setting\\\" default=\\\"cherry blossom lined path with train tracks at sunset\\\"}\",\n  \"characters\": {\n    \"male\": {\n      \"name\": \"{argument name=\\\"male character name\\\" default=\\\"Starion\\\"}\",\n      \"appearance\": \"silver messy hair, white t-shirt, dark pants\"\n    },\n    \"female\": {\n      \"name\": \"{argument name=\\\"female character name\\\" default=\\\"Murasaki\\\"}\",\n      \"appearance\": \"long light purple hair, light green blouse with bow, beige skirt\"\n    }\n  },\n  \"layout\": {\n    \"total_panels\": 4,\n    \"total_speech_bubbles\": 5,\n    \"panels\": [\n      {\n        \"position\": \"top, full width\",\n        \"action\": \"walking together on the tracks\",\n        \"bubbles\": [\n          \"Wanna buy some Ice Cream, Murasaki?\",\n          \"You love Ice Cream, Starion? 🩷\"\n        ]\n      },\n      {\n        \"position\": \"middle left\",\n        \"action\": \"male smiling enthusiastically, reaching hand out\",\n        \"bubbles\": [\n          \"{argument name=\\\"male dialogue\\\" default=\\\"Hell, yeah. I like Vanilla one!\\\"}\"\n        ]\n      },\n      {\n        \"position\": \"middle right\",\n        \"action\": \"female smiling, holding his hand\",\n        \"bubbles\": [\n          \"{argument name=\\\"female dialogue\\\" default=\\\"Okay, let's buy. After that let's have some ramen.\\\"}\"\n        ]\n      },\n      {\n        \"position\": \"bottom, full width\",\n        \"action\": \"running forward on the tracks, holding hands, male excited, female surprised\",\n        \"bubbles\": [\n          \"Ah!\"\n        ]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"四格动漫漫画\",\n  \"art_style\": \"精致的动漫插画，温暖的夕阳灯光，视觉小说 CG 品质\",\n  \"setting\": \"{argument name=\\\"setting\\\" default=\\\"夕阳下樱花盛开的铁轨小径\\\"}\",\n  \"characters\": {\n    \"male\": {\n      \"name\": \"{argument name=\\\"male character name\\\" default=\\\"Starion\\\"}\",\n      \"appearance\": \"银色凌乱短发，白色 T 恤，深色长裤\"\n    },\n    \"female\": {\n      \"name\": \"{argument name=\\\"female character name\\\" default=\\\"Murasaki\\\"}\",\n      \"appearance\": \"长长的浅紫色头发，浅绿色蝴蝶结衬衫，米色短裙\"\n    }\n  },\n  \"layout\": {\n    \"total_panels\": 4,\n    \"total_speech_bubbles\": 5,\n    \"panels\": [\n      {\n        \"position\": \"顶部，全宽\",\n        \"action\": \"在铁轨上并肩行走\",\n        \"bubbles\": [\n          \"Murasaki，想买点冰淇淋吗？\",\n          \"Starion，你喜欢冰淇淋吗？🩷\"\n        ]\n      },\n      {\n        \"position\": \"中左\",\n        \"action\": \"男生热情地笑着，伸出手\",\n        \"bubbles\": [\n          \"{argument name=\\\"male dialogue\\\" default=\\\"当然啦，我最喜欢香草味的！\\\"}\"\n        ]\n      },\n      {\n        \"position\": \"中右\",\n        \"action\": \"女生微笑着，牵住他的手\",\n        \"bubbles\": [\n          \"{argument name=\\\"female dialogue\\\" default=\\\"好呀，那我们去买吧。之后再去吃拉面。\\\"}\"\n        ]\n      },\n      {\n        \"position\": \"底部，全宽\",\n        \"action\": \"在铁轨上向前奔跑，手牵着手，男生很兴奋，女生感到惊讶\",\n        \"bubbles\": [\n          \"啊！\"\n        ]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "四格动漫浪漫漫画：生成一套四格动漫风格的漫画，描绘一对情侣在风景优美的地方边走边聊，非常适合短篇叙事。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14547",
+      "13595",
+      "13618",
+      "13635",
+      "14066",
+      "14069"
+    ]
+  }
+}

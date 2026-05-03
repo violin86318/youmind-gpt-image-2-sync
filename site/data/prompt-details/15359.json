@@ -1,0 +1,45 @@
+{
+  "id": "15359",
+  "prompt": "{\"type\":\"anime comedy manga page\",\"subject\":\"Galarian Slowking from Pokemon learning the move Belch by eating berries\",\"style\":{\"medium\":\"full-color manga/comic illustration\",\"franchise_inspiration\":\"Pokemon anime and game world\",\"mood\":\"playful, comedic, slightly absurd\",\"rendering\":\"clean cel-shaded anime art with expressive faces, soft outdoor lighting, detailed berries and rocky riverside background\"},\"characters\":[{\"name\":\"{argument name=\\\"pokemon name\\\" default=\\\"Galarian Slowking\\\"}\",\"appearance\":\"round purple body, white belly markings, large spiral-shell purple head with green gem and horn-like side protrusions, sitting most of the time on a flat riverside rock\"},{\"name\":\"{argument name=\\\"trainer\\\" default=\\\"Pokemon Trainer\\\"}\",\"appearance\":\"young male trainer in dark jacket and cap with red accents, carrying baskets full of colorful berries suspended from a shoulder pole\"}],\"setting\":{\"location\":\"sunny forest riverside with shallow stream, stones, trees, and blue sky\",\"props\":[\"2 hanging woven baskets full of berries on a carrying pole\",\"1 wooden sign reading 今日の特訓！ゲップ\",\"multiple piles of colorful berries\",\"1 cooking pot of purple soup in the final explanation panel\"]},\"layout\":{\"page_format\":\"single manga page with 6 panels\",\"reading_order\":\"left-to-right, top-to-bottom\",\"sections\":[{\"title\":\"top left panel\",\"position\":\"top-left\",\"count\":3,\"labels\":[\"trainer arrives carrying 2 berry baskets\",\"speech bubble ordering Galarian Slowking to learn Belch by today or no dinner\",\"Galarian Slowking relaxing by the water saying the water feels nice\"]},{\"title\":\"top right panel\",\"position\":\"top-right\",\"count\":4,\"labels\":[\"trainer presenting a basket of berries\",\"speech bubble: eat all these berries until Belch comes out\",\"small note: no excuses until dinner\",\"Galarian Slowking lecturing that each berry has its own story and should be savored slowly\"]},{\"title\":\"middle left panel\",\"position\":\"middle-left\",\"count\":2,\"labels\":[\"caption: 数時間後…\",\"trainer impatiently asking if Belch still has not happened\"]},{\"title\":\"middle center-left panel\",\"position\":\"middle-center-left\",\"count\":2,\"labels\":[\"Galarian Slowking chewing berries slowly\",\"speech about this berry having a little sourness\"]},{\"title\":\"bottom left sequence\",\"position\":\"bottom-left\",\"count\":6,\"labels\":[\"caption: さらに数時間後…\",\"trainer shocked that all berries are gone and still no success\",\"Galarian Slowking remembering sunny days and rich natural flavors\",\"trainer shouting to hurry up and use Belch already\",\"Galarian Slowking still chewing slowly\",\"small footnote about slow eating being a good habit but sometimes speed matters\"]},{\"title\":\"bottom right climax\",\"position\":\"bottom-right\",\"count\":4,\"labels\":[\"caption: ついにー\",\"huge stylized sound effect text ゲェーーーップ!!\",\"trainer cheering with sparkling eyes that it finally learned the move\",\"boxed explanation: reason—because it chugged dinner soup all at once\"]}],\"text_language\":\"Japanese\"},\"composition\":{\"top_panels\":\"conversation and setup beside the stream\",\"left lower sequence\":\"time passing gags with repeated chewing close-ups\",\"bottom_right\":\"dramatic explosive belch scene with purple and green energy burst behind Galarian Slowking\"},\"effects\":{\"repeated_motifs\":\"slow chewing, trainer frustration, berries being consumed over time\",\"climax_fx\":\"purple smoky burst, impact lines, oversized comic lettering, shocked wide-open mouth\"},\"color_palette\":{\"dominant_colors\":[\"purple\",\"green\",\"sky blue\",\"earthy brown\",\"berry red\",\"berry yellow\"],\"contrast\":\"bright cheerful outdoor colors contrasted with intense dramatic climax effects\"},\"quality\":\"polished social-media-ready manga illustration, square format\",\"prompt_note\":\"Keep the characters on-model to Pokemon designs, emphasize that the humor comes from accurate game logic: Belch only works after eating a berry, but the joke twist is that the Pokemon eats too slowly and only belches after gulping soup.\"}",
+  "translatedPrompt": "{\"type\":\"动漫喜剧漫画页\",\"subject\":\"来自宝可梦的伽勒尔呆呆王通过吃树果学习“打嗝”技能\",\"style\":{\"medium\":\"全彩漫画/插画\",\"franchise_inspiration\":\"宝可梦动画与游戏世界\",\"mood\":\"俏皮、幽默、略带荒诞\",\"rendering\":\"干净的赛璐珞动漫风格，表情生动，柔和的户外光影，细节丰富的树果和岩石河岸背景\"},\"characters\":[{\"name\":\"{argument name=\\\"pokemon name\\\" default=\\\"伽勒尔呆呆王\\\"}\",\"appearance\":\"圆润的紫色身体，白色腹部斑纹，巨大的螺旋壳紫色头部，带有绿色宝石和类似角的侧向突起，大部分时间坐在平坦的河岸岩石上\"},{\"name\":\"{argument name=\\\"trainer\\\" default=\\\"宝可梦训练家\\\"}\",\"appearance\":\"身穿深色夹克和红色装饰帽子的年轻男性训练家，肩挑着装满彩色树果的篮子\"}],\"setting\":{\"location\":\"阳光明媚的森林河岸，有浅溪、石头、树木和蓝天\",\"props\":[\"挑杆上挂着的 2 个装满树果的编织篮\",\"1 个写着“今日特训！打嗝”的木牌\",\"多堆彩色树果\",\"最后一格解释面板中 1 锅紫色汤\"]},\"layout\":{\"page_format\":\"单页漫画，共 6 格\",\"reading_order\":\"从左到右，从上到下\",\"sections\":[{\"title\":\"左上格\",\"position\":\"top-left\",\"count\":3,\"labels\":[\"训练家挑着 2 个树果篮到达\",\"对话框命令伽勒尔呆呆王今天必须学会打嗝，否则没晚饭吃\",\"伽勒尔呆呆王在水边放松，说水里感觉很舒服\"]},{\"title\":\"右上格\",\"position\":\"top-right\",\"count\":4,\"labels\":[\"训练家展示一篮树果\",\"对话框：把这些树果全吃掉，直到打出嗝来\",\"小字注：晚饭前不许找借口\",\"伽勒尔呆呆王说教道，每一颗树果都有自己的故事，应该细细品味\"]},{\"title\":\"中左格\",\"position\":\"middle-left\",\"count\":2,\"labels\":[\"旁白：数小时后……\",\"训练家不耐烦地询问为什么还没打出嗝\"]},{\"title\":\"中偏左格\",\"position\":\"middle-center-left\",\"count\":2,\"labels\":[\"伽勒尔呆呆王缓慢地咀嚼树果\",\"关于这颗树果有点酸的对话\"]},{\"title\":\"左下序列\",\"position\":\"bottom-left\",\"count\":6,\"labels\":[\"旁白：又过了数小时……\",\"训练家震惊于树果全吃光了却还没成功\",\"伽勒尔呆呆王回忆着阳光明媚的日子和丰富的自然风味\",\"训练家大喊快点用出打嗝\",\"伽勒尔呆呆王依然在缓慢咀嚼\",\"关于细嚼慢咽是好习惯但有时速度也很重要的小注脚\"]},{\"title\":\"右下高潮\",\"position\":\"bottom-right\",\"count\":4,\"labels\":[\"旁白：终于——\",\"巨大的风格化音效文字：嗝——！！\",\"训练家眼中闪烁着光芒，欢呼终于学会了技能\",\"方框解释：原因——因为它一口气喝光了晚饭的汤\"]}],\"text_language\":\"日语\"},\"composition\":{\"top_panels\":\"河边的对话与布置\",\"left lower sequence\":\"通过重复的咀嚼特写展现时间流逝的笑点\",\"bottom_right\":\"戏剧性的爆发式打嗝场景，伽勒尔呆呆王身后有紫色和绿色的能量爆发\"},\"effects\":{\"repeated_motifs\":\"缓慢咀嚼、训练家挫败感、树果随时间被消耗\",\"climax_fx\":\"紫色烟雾爆发、冲击线、超大号漫画字体、震惊的张大嘴巴\"},\"color_palette\":{\"dominant_colors\":[\"紫色\",\"绿色\",\"天蓝色\",\"大地棕\",\"树果红\",\"树果黄\"],\"contrast\":\"明亮欢快的户外色彩与强烈的戏剧性高潮效果形成对比\"},\"quality\":\"精致的社交媒体级漫画插画，方形格式\",\"prompt_note\":\"保持角色符合宝可梦的设计模型，强调幽默感源于准确的游戏逻辑：打嗝只有在吃过树果后才有效，但笑点在于宝可梦吃得太慢，只有在喝汤后才打出嗝。\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "伽勒尔呆呆王学习“打嗝”：一页充满趣味的彩色漫画，描绘了伽勒尔呆呆王通过吃树果来学习“打嗝”技能的过程，非常适合宝可梦同人创作和游戏逻辑的视觉笑话。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up"
+      ],
+      "style": [
+        "anime",
+        "manga"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up]。\n\nVisual style:\n[参考风格: anime, manga]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14404",
+      "15047",
+      "15727",
+      "15352",
+      "15371",
+      "14532"
+    ]
+  }
+}

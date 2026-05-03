@@ -1,0 +1,46 @@
+{
+  "id": "14043",
+  "prompt": "A photorealistic, high-resolution commercial photograph of a {argument name=\"car model and color\" default=\"bright blue Alpine A110 R sports car\"} parked in the foreground inside a massive aircraft hangar. The car features a black carbon fiber hood, black roof, black alloy wheels, and a front license plate reading \"{argument name=\"license plate text\" default=\"A110 R\"}\". Directly behind the car, dominating the background, is a {argument name=\"airplane model\" default=\"white Airbus A320 commercial airliner\"} with a blue tail. The hangar has a highly polished, reflective concrete floor that mirrors the car and plane. To the left, a sign on the metal wall reads \"{argument name=\"hangar sign text\" default=\"HANGAR 05 MAINTENANCE\"}\". The hangar doors are wide open, revealing a bright, overcast sky and a distant cityscape. The lighting is soft and cinematic, highlighting the sleek aerodynamic curves of both vehicles.",
+  "translatedPrompt": "一张写实的高分辨率商业摄影图片，前景是一辆 {argument name=\"car model and color\" default=\"亮蓝色 Alpine A110 R 跑车\"}，停在巨大的飞机库内。跑车配有黑色碳纤维引擎盖、黑色车顶、黑色合金轮毂，前车牌上写着 \"{argument name=\"license plate text\" default=\"A110 R\"}\"。在车后方，背景中是一架占据视觉中心的 {argument name=\"airplane model\" default=\"白色空客 A320 商用客机\"}，机尾为蓝色。机库地面为高度抛光的反光混凝土，映照出跑车和飞机的倒影。左侧金属墙上的标志写着 \"{argument name=\"hangar sign text\" default=\"HANGAR 05 MAINTENANCE\"}\"。机库大门敞开，露出明亮的阴天和远处的城市景观。光线柔和且具有电影质感，突显了两种交通工具流畅的空气动力学曲线。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "机库中的跑车与客机：生成一张写实风格的图片，展示一辆跑车停在反光机库内的一架商用客机前。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "overcast"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: overcast]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14372",
+      "13746",
+      "14018",
+      "14831",
+      "14869",
+      "15778"
+    ]
+  }
+}

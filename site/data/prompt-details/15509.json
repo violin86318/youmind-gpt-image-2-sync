@@ -1,0 +1,49 @@
+{
+  "id": "15509",
+  "prompt": "A high-quality mirror selfie captures a {argument name=\"subject\" default=\"young woman with long, wavy reddish-brown hair and a bold burgundy lip\"} standing in a sleek, contemporary restroom. She is wearing a {argument name=\"outfit\" default=\"vibrant cobalt blue short-sleeved mesh t-shirt featuring a large, ornate \"LV\" monogram logo in a marble-textured white and grey finish\"} across the chest, which is layered over a dark base. Her look is paired with dark, form-fitting leggings decorated with a vintage-inspired floral print consisting of muted beige and soft pink roses. The background showcases an {argument name=\"setting\" default=\"upscale interior with polished black marble walls, a row of minimalist white rectangular vessel sinks, and polished chrome fixtures\"}. The scene is illuminated by a mix of warm vertical light strips behind the mirrors and a striking neon blue LED glow tracing the base of the vanity, casting a modern, high-contrast light across the charcoal-tiled floor while she holds a black smartphone to frame the shot.",
+  "translatedPrompt": "一张高质量的镜面自拍，捕捉了 {argument name=\"subject\" default=\"一位留着长波浪红棕色头发、涂着大胆酒红色唇膏的年轻女性\"} 站在时尚现代洗手间内的画面。她穿着一件 {argument name=\"outfit\" default=\"鲜艳的钴蓝色短袖网眼 T 恤，胸前印有大而华丽的白色和灰色大理石纹理 \"LV\" 字母组合标志\"}，内搭深色打底衫。她的造型搭配了一条深色修身紧身裤，上面装饰着复古风格的花卉印花，由柔和的米色和淡粉色玫瑰组成。背景展示了一个 {argument name=\"setting\" default=\"高档室内空间，配有抛光黑色大理石墙壁、一排极简主义白色长方形台上盆以及抛光铬合金装置\"}。场景由镜子后方的暖色垂直灯带和梳妆台底部勾勒出的醒目霓虹蓝 LED 灯光共同照亮，在炭灰色瓷砖地面上投射出充满现代感的高对比度光影，同时她正拿着一部黑色智能手机进行拍摄。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奢华洗手间镜面自拍：一个关于高质量镜面自拍的提示词，展现了一位身穿设计师 T 恤的女性在现代高档洗手间内的场景。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "minimalist",
+        "vintage"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical]。\n\nVisual style:\n[参考风格: minimalist, vintage]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14929",
+      "15635",
+      "15757",
+      "15805",
+      "15305",
+      "15626"
+    ]
+  }
+}

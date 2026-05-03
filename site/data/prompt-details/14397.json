@@ -1,0 +1,36 @@
+{
+  "id": "14397",
+  "prompt": "{argument name=\"subject\" default=\"AI task horizons graph\"} with a touch of {argument name=\"style\" default=\"Basquiat\"}, haunted by ghosts, from the {argument name=\"source\" default=\"Voynich manuscript\"}, as a decaying pier.",
+  "translatedPrompt": "{argument name=\"subject\" default=\"AI 任务视野图\"}，融入 {argument name=\"style\" default=\"Basquiat\"} 风格，带有幽灵般的氛围，源自 {argument name=\"source\" default=\"《伏尼契手稿》\"}，呈现为一座腐朽的码头。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "抽象艺术科学图表：一个提示词，旨在以 Jean-Michel Basquiat 的独特风格和《伏尼契手稿》(Voynich manuscript) 的美学，对 AI 任务视野图进行创意解读。",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13649",
+      "14263",
+      "15148",
+      "13676",
+      "14125",
+      "13667"
+    ]
+  }
+}

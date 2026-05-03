@@ -1,0 +1,46 @@
+{
+  "id": "14694",
+  "prompt": "A luminous anime-style summer portrait of a {argument name=\"character type\" default=\"Japanese high school girl\"} shown from the chest up in side profile, standing outdoors under an intense blue sky with bright white clouds. She has a short wet bob haircut in {argument name=\"hair color\" default=\"dark navy black\"}, large sparkling blue-violet eyes, soft blush on her cheeks, and a calm, slightly distant expression. Her white sailor school uniform shirt is soaked and semi-translucent, clinging realistically to the fabric folds, with a deep navy sailor collar and a large navy ribbon at the chest. She raises one arm and presses a clear ridged plastic water bottle against her forehead, with cold water droplets running down her face, neck, arm, and clothing. The scene is filled with strong summer sunlight, glossy highlights, rim light through damp hair strands, rainbow lens flares, tiny floating bubbles, and glittering reflections. In the background, include a softly blurred outdoor school pool area with metal railings, a pool ladder, and shimmering water. Emphasize crystalline transparency in the bottle, wet skin sheen, delicate eyelashes, detailed anime rendering, dramatic backlighting, refreshing heat-of-summer atmosphere, and a polished high-end illustration style.",
+  "translatedPrompt": "这是一幅光彩夺目的动漫风格夏季肖像，主角为一名 {argument name=\"character type\" default=\"日本女高中生\"}，画面呈现胸部以上的侧面特写。她站在户外，背景是湛蓝的天空和明亮的白云。她留着一头湿漉漉的 {argument name=\"hair color\" default=\"深藏青黑色\"} 短波波头，有着一双硕大且闪烁着蓝紫色光芒的眼睛，脸颊泛着淡淡的红晕，表情平静而略显疏离。她身穿的白色水手服校服衬衫已被浸湿，呈现出半透明质感，真实地贴合在衣褶上，领口为深藏青色水手领，胸前系着一条深藏青色的大丝带。她抬起一只手臂，将一个透明的棱纹塑料水瓶抵在额头上，冰凉的水珠顺着她的脸庞、脖颈、手臂和衣物滑落。画面中充满了强烈的夏日阳光、亮丽的高光、穿透湿润发丝的轮廓光、彩虹色的镜头光晕、细小的漂浮气泡以及闪烁的倒影。背景中包含一个经过柔焦处理的户外学校泳池区域，可以看到金属栏杆、泳池扶梯和波光粼粼的水面。着重表现水瓶的晶莹剔透感、湿润皮肤的光泽、精致的睫毛、细腻的动漫渲染、戏剧性的逆光效果、清爽的夏日热浪氛围，以及精致的高端插画风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "湿润夏日动漫女学生肖像：一个精致的动漫风格插画提示词，用于创作阳光明媚的夏季校园泳池肖像，包含湿身衣物、波光粼粼的水面效果以及电影级的逆光质感。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "anime"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "backlight",
+        "lens"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, anime]。\n\nLighting and camera:\n[参考光线镜头: rim light, backlight, lens]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13448",
+      "14957",
+      "13697",
+      "15435",
+      "15606",
+      "13754"
+    ]
+  }
+}

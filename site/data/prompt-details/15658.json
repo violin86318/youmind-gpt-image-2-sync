@@ -1,0 +1,43 @@
+{
+  "id": "15658",
+  "prompt": "A minimalist anime-style portrait of a young woman shown from the chest up in side profile, facing left, with her head slightly turned so only part of one eye and ear are visible. She has a short straight bob haircut with soft inward-curving ends, light tousled strands, and {argument name=\"hair color\" default=\"platinum blonde\"} hair. Her skin is pale and smooth, and she wears an off-shoulder loose white top or sweater slipping down one shoulder, exposing the collarbone and upper back. The composition is clean and graphic, with thin dark navy linework, flat muted colors, almost no shading, and a calm editorial illustration feel. Use a solid {argument name=\"background color\" default=\"bright cyan blue\"} background with no objects, no scenery, no text. Center the bust portrait slightly left of frame, leaving negative space around the figure. Keep the mood quiet, stylish, modern, and elegant, like a Japanese social-media anime girl illustration. Do not add accessories, jewelry, or extra background elements.",
+  "translatedPrompt": "一张极简动漫风格的年轻女性肖像，展示胸部以上部位，侧脸朝左，头部略微转动，仅露出部分眼睛和耳朵。她留着利落的短波波头，发梢微微内扣，带有轻微凌乱的发丝，发色为 {argument name=\"hair color\" default=\"铂金色\"}。皮肤白皙光滑，身穿一件露肩的宽松白色上衣或毛衣，滑落至一侧肩头，露出锁骨和上背部。构图简洁且具有图形感，采用深海军蓝色的细线条，平涂柔和色彩，几乎没有阴影，呈现出一种冷静的编辑插画质感。使用纯色 {argument name=\"background color\" default=\"亮青蓝色\"} 背景，不含任何物体、场景或文字。将半身肖像置于画面偏左位置，人物周围留有负空间。整体氛围安静、时尚、现代且优雅，类似于日本社交媒体上的动漫少女插画。请勿添加任何配饰、珠宝或额外的背景元素。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "极简动漫少女侧颜：此提示词可生成简洁的单人动漫肖像，背景为平涂色，非常适合用于时尚社交媒体帖文、个人头像或极简插画研究。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "editorial",
+        "anime",
+        "minimalist"
+      ],
+      "lightingCamera": [],
+      "text": "禁止额外文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: editorial, anime, minimalist]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n禁止额外文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14473",
+      "14474",
+      "14679",
+      "14901",
+      "14965",
+      "14233"
+    ]
+  }
+}

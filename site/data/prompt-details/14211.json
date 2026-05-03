@@ -1,0 +1,41 @@
+{
+  "id": "14211",
+  "prompt": "{\n  \"type\": \"collection of instant photos\",\n  \"setting\": \"laid out flat on a white fabric surface\",\n  \"character\": {\n    \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"long pink hair with blue inner color\\\"}\",\n    \"outfit\": \"{argument name=\\\"outfit\\\" default=\\\"black and white maid uniform with frilly headband and black ribbons\\\"}\",\n    \"eyes\": \"reddish-pink\"\n  },\n  \"layout\": {\n    \"arrangement\": \"two rows of five polaroid photos\",\n    \"count\": 10,\n    \"photos\": [\n      { \"position\": \"top row 1\", \"description\": \"holding a pink heart cushion\" },\n      { \"position\": \"top row 2\", \"description\": \"winking, making a peace sign\" },\n      { \"position\": \"top row 3\", \"description\": \"making a hand heart, pink heart doodle on the bottom border\" },\n      { \"position\": \"top row 4\", \"description\": \"resting chin on hands, gentle smile\" },\n      { \"position\": \"top row 5\", \"description\": \"holding a red rose, winking\" },\n      { \"position\": \"bottom row 1\", \"description\": \"finger to lips, shy expression\" },\n      { \"position\": \"bottom row 2\", \"description\": \"holding a small pink cake\" },\n      { \"position\": \"bottom row 3\", \"description\": \"winking, hand near face, signature '{argument name=\\\"signature text\\\" default=\\\"Hanashi\\\"}' and heart doodle on border\" },\n      { \"position\": \"bottom row 4\", \"description\": \"holding a pink bunny plushie, sparkle doodles, signature '{argument name=\\\"signature text\\\" default=\\\"Hanashi\\\"}' and bunny doodle on border\" },\n      { \"position\": \"bottom row 5\", \"description\": \"winking, sparkle doodles, message '{argument name=\\\"message text\\\" default=\\\"いつも応援ありがとう！これからもよろしくね♪\\\"}' and signature '{argument name=\\\"signature text\\\" default=\\\"Hanashi\\\"}' on border\" }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"collection of instant photos\",\n  \"setting\": \"laid out flat on a white fabric surface\",\n  \"character\": {\n    \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"long pink hair with blue inner color\\\"}\",\n    \"outfit\": \"{argument name=\\\"outfit\\\" default=\\\"black and white maid uniform with frilly headband and black ribbons\\\"}\",\n    \"eyes\": \"reddish-pink\"\n  },\n  \"layout\": {\n    \"arrangement\": \"two rows of five polaroid photos\",\n    \"count\": 10,\n    \"photos\": [\n      { \"position\": \"top row 1\", \"description\": \"holding a pink heart cushion\" },\n      { \"position\": \"top row 2\", \"description\": \"winking, making a peace sign\" },\n      { \"position\": \"top row 3\", \"description\": \"making a hand heart, pink heart doodle on the bottom border\" },\n      { \"position\": \"top row 4\", \"description\": \"resting chin on hands, gentle smile\" },\n      { \"position\": \"top row 5\", \"description\": \"holding a red rose, winking\" },\n      { \"position\": \"bottom row 1\", \"description\": \"finger to lips, shy expression\" },\n      { \"position\": \"bottom row 2\", \"description\": \"holding a small pink cake\" },\n      { \"position\": \"bottom row 3\", \"description\": \"winking, hand near face, signature '{argument name=\\\"signature text\\\" default=\\\"Hanashi\\\"}' and heart doodle on border\" },\n      { \"position\": \"bottom row 4\", \"description\": \"holding a pink bunny plushie, sparkle doodles, signature '{argument name=\\\"signature text\\\" default=\\\"Hanashi\\\"}' and bunny doodle on border\" },\n      { \"position\": \"bottom row 5\", \"description\": \"winking, sparkle doodles, message '{argument name=\\\"message text\\\" default=\\\"いつも応援ありがとう！これからもよろしくね♪\\\"}' and signature '{argument name=\\\"signature text\\\" default=\\\"Hanashi\\\"}' on border\" }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Idol Maid Polaroid Collection：Generates a set of 10 instant photos of an anime maid character in various poses, complete with handwritten signatures and messages.",
+      "subject": "服饰",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13999",
+      "13805",
+      "13695",
+      "13744",
+      "13930",
+      "13935"
+    ]
+  }
+}

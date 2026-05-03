@@ -1,0 +1,37 @@
+{
+  "id": "13719",
+  "prompt": "9:16的图片比例，生成一个{argument name=\"平台\" default=\"抖音\"}直播的截图 里面是一个{argument name=\"主体\" default=\"美女\"}在直播，美女手里拿着牌子，上面写着：{argument name=\"文字\" default=\"谢谢Gorden Sun的大火箭！\"}",
+  "translatedPrompt": "一张 9:16 比例的图片，用于生成 {argument name=\"platform\" default=\"抖音\"} 直播截图。画面中有一位 {argument name=\"subject\" default=\"美女主播\"} 正在直播，手中拿着一块写有“{argument name=\"text\" default=\"感谢 Gorden Sun 送出的超级火箭！\"}”的项目。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "抖音直播截图：生成一张逼真的 9:16 竖屏抖音直播截图，画面中包含一位手持自定义项目的主播。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13707",
+      "13853",
+      "13989",
+      "14752",
+      "14790",
+      "15149"
+    ]
+  }
+}

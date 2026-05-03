@@ -1,0 +1,47 @@
+{
+  "id": "14555",
+  "prompt": "Create a bold Korean-style beverage advertisement poster with a warm golden splash background and dramatic commercial lighting. Show a {argument name=\"celebrity spokesperson\" default=\"Donald Trump-like older male politician\"} from the chest up, wearing a navy suit, white dress shirt, bright red tie, and a small American flag lapel pin, facing camera with a confident sales-pitch expression. His face is obscured by a flat rectangular censor block in a skin-toned color. In his left hand, extended close to the camera in forced perspective, he holds a yellow aluminum can of Korean rice punch drink labeled prominently in Korean, with red top and bottom bands and the main product text \"비락 식혜\" and \"Since 1993\" on the can. The can also includes smaller Korean copy, an image of sweet rice drink near the bottom, and the volume text \"238 ml (120 kcal)\". His right hand gives a thumbs-up.\n\nUse an energetic retro-commercial composition, with splashing sweet rice beverage and droplets behind him, glowing golden highlights, and a slightly low-angle heroic framing. At the top, include 3 distinct headline text groups: a small handwritten-style black slogan on the upper left reading \"전통의 맛, 한국의 DRINK!\", a huge central headline in distressed bold Korean type reading \"걸죽는 땐?\" in dark brown-black and \"비락 식혜!\" in vivid red, and a brand logo on the upper right reading \"비락\" with small red text \"Since 1993\" beneath it. Add 2 callout badges: on the left, a yellow circular seal with a tiny crown icon and the text \"대한민국 국민음료 No.1\"; on the right, a white speech bubble with handwritten Korean text \"한국이 만든 맛있는 전통!\" and red English text \"I LOVE IT!\".\n\nAt the bottom foreground, place 2 food elements: a brass bowl filled with sweet rice drink and floating rice grains on the left, and a wooden bowl piled with white rice on the right. Across the lower middle, add 2 lines of large brush-style promotional text, the first in white reading \"달콤하게! 시원하게!\" and the second in mixed white and yellow reading \"속까지 시~원하게!\" with an energetic yellow underline stroke. Along the very bottom, include 3 circular feature icons with captions in Korean: \"국내산 쌀 엄선된 재료\", \"시원하게 갈증해소\", and \"부드러운 단맛 속 편한 식혜\". In the lower right corner, add tiny disclaimer text \"연출된 이미지입니다\". Make the overall look glossy, exaggerated, funny, and convincing like a viral parody print ad.",
+  "translatedPrompt": "创作一张风格大胆的韩式饮料广告海报，背景为温暖的金色液体飞溅效果，并采用戏剧性的商业灯光。画面展示一位 {argument name=\"celebrity spokesperson\" default=\"类似唐纳德·特朗普的年长男性政客\"} 的半身像，他身穿海军蓝西装、白衬衫，系着鲜红色领带，衣领上别着一枚小小的美国国旗徽章，正对着镜头露出自信的推销表情。他的面部被一个肤色的扁平矩形遮挡块遮住。他左手以强制透视法伸向镜头前方，手中拿着一罐黄色的韩国甜米露铝罐，罐身显著标注韩文，顶部和底部带有红色条纹，主产品文字为“비락 식혜”以及“Since 1993”。罐身上还印有较小的韩文说明、底部的甜米露图案以及容量文字“238 ml (120 kcal)”。他的右手竖起大拇指。\n\n采用充满活力的复古商业构图，背景中有飞溅的甜米露和液滴，带有闪耀的金色高光，并使用略微仰视的英雄式取景。在顶部，包含 3 组醒目的标题文字：左上角是一句手写风格的黑色标语“전통의 맛, 한국의 DRINK!”，中央是巨大的做旧粗体韩文标题，深棕黑色文字写着“걸죽는 땐?”，鲜红色文字写着“비락 식혜!”，右上角是品牌标志“비락”，下方附有红色小字“Since 1993”。添加 2 个标注徽章：左侧是一个带有微型皇冠图标的黄色圆形印章，文字为“대한민국 국민음료 No.1”；右侧是一个白色对话气泡，内含手写韩文“한국이 만든 맛있는 전통!”和红色英文“I LOVE IT!”。\n\n在底部前景处，放置 2 种食物元素：左侧是一个盛满甜米露和漂浮米粒的黄铜碗，右侧是一个堆满白米的木碗。在下部中间位置，添加 2 行大型毛笔风格的促销文字，第一行白色文字为“달콤하게! 시원하게!”，第二行白色与黄色相间的文字为“속까지 시~원하게!”，并配以充满活力的黄色下划线。在最底部，包含 3 个圆形功能图标，配有韩文说明：“국내산 쌀 엄선된 재료”、“시원하게 갈증해소”以及“부드러운 단맛 속 편한 식혜”。在右下角，添加微小的免责声明文字“연출된 이미지입니다”。整体视觉效果需呈现出光泽感、夸张、幽默，并像病毒式传播的恶搞印刷广告一样令人信服。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "韩式甜米露恶搞广告海报：此提示词用于生成一张幽默且极具视觉冲击力的恶搞饮料广告海报，画面中一位类似知名政客的代言人正在推销一款韩国罐装甜米露。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "callout"
+      ],
+      "style": [
+        "retro"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: callout]。\n\nVisual style:\n[参考风格: retro]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14558",
+      "15387",
+      "13622",
+      "14237",
+      "14557",
+      "15386"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "14195",
+  "prompt": "A cinematic, dark gothic mystery movie poster. In the center, a lone man wearing a trench coat and fedora stands with his back to the viewer, looking up at a massive, imposing gothic clock tower. The clock face is illuminated, and the structure around it is shattering with dark fragments falling. The setting is a foggy, wet cobblestone square at night, illuminated by warm yellow streetlamps and glowing windows from surrounding European-style buildings. A full moon shines through cloudy skies. There are exactly 3 ravens: one perched on a stone monument on the left, and two flying in the sky. The monument on the left has engraved text \"VERITAS IN UMBRA, TEMPUS NEMINI PARET\". On the right, a wooden signpost has 3 directional arrows reading \"Marktplatz\", \"Uhrenturm\", and \"Alte Gasse\", with a small newspaper leaning against it reading \"Die Uhr steht.\" and \"Wer lügt?\". The poster features elegant, slightly distressed serif Japanese typography. At the top, a horizontal tagline reads {argument name=\"top tagline\" default=\"真夜中、時は止まり、嘘が動き出す。\"}. On the upper left, a vertical tagline reads {argument name=\"side tagline\" default=\"その鐘の音が、真実を葬った。\"}. In the lower center, the large main title reads {argument name=\"main title\" default=\"時計塔の殺人\"}. Below the title is a smaller tagline \"時を欺いたのは、誰だ。\" followed by a dense block of realistic movie credits including director, cast, and crew names. At the very bottom, the release text {argument name=\"release date\" default=\"2025年 秋 全国ロードショー\"} is displayed alongside a website URL and rating logos. The entire poster is framed by a thin, ornate gold border.",
+  "translatedPrompt": "A cinematic, dark gothic mystery movie poster. In the center, a lone man wearing a trench coat and fedora stands with his back to the viewer, looking up at a massive, imposing gothic clock tower. The clock face is illuminated, and the structure around it is shattering with dark fragments falling. The setting is a foggy, wet cobblestone square at night, illuminated by warm yellow streetlamps and glowing windows from surrounding European-style buildings. A full moon shines through cloudy skies. There are exactly 3 ravens: one perched on a stone monument on the left, and two flying in the sky. The monument on the left has engraved text \"VERITAS IN UMBRA, TEMPUS NEMINI PARET\". On the right, a wooden signpost has 3 directional arrows reading \"Marktplatz\", \"Uhrenturm\", and \"Alte Gasse\", with a small newspaper leaning against it reading \"Die Uhr steht.\" and \"Wer lügt?\". The poster features elegant, slightly distressed serif Japanese typography. At the top, a horizontal tagline reads {argument name=\"top tagline\" default=\"真夜中、時は止まり、嘘が動き出す。\"}. On the upper left, a vertical tagline reads {argument name=\"side tagline\" default=\"その鐘の音が、真実を葬った。\"}. In the lower center, the large main title reads {argument name=\"main title\" default=\"時計塔の殺人\"}. Below the title is a smaller tagline \"時を欺いたのは、誰だ。\" followed by a dense block of realistic movie credits including director, cast, and crew names. At the very bottom, the release text {argument name=\"release date\" default=\"2025年 秋 全国ロードショー\"} is displayed alongside a website URL and rating logos. The entire poster is framed by a thin, ornate gold border.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Gothic Mystery Movie Poster：Generates a cinematic movie poster for a dark mystery thriller featuring a detective, a clock tower, and customizable Japanese typography.",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15392",
+      "15609",
+      "15082",
+      "15458",
+      "14588",
+      "14691"
+    ]
+  }
+}

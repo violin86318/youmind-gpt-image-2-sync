@@ -1,0 +1,45 @@
+{
+  "id": "14227",
+  "prompt": "{\n  \"type\": \"VTuber stream thumbnail\",\n  \"character\": {\n    \"hair\": \"long blonde twin tails with pink gradient ends\",\n    \"eyes\": \"large pink anime eyes\",\n    \"expression\": \"cheerful smile with a small fang, making a peace sign near the eye\",\n    \"outfit\": \"black top with harness straps, black heart-ring choker, multiple ear piercings including a cross dangle, black nail polish\"\n  },\n  \"background\": \"vibrant neon pink and black leopard print with glowing yellow accents, sparkles, and floating hearts\",\n  \"typography_and_layout\": {\n    \"main_title\": {\n      \"position\": \"top left\",\n      \"style\": \"large, bold, 3D, pink and black with white outlines\",\n      \"text\": \"{argument name=\\\"main title\\\" default=\\\"雑談配信\\\"}\"\n    },\n    \"top_right_text\": {\n      \"style\": \"casual handwritten style with a heart\",\n      \"text\": \"{argument name=\\\"top right text\\\" default=\\\"まったり話そ〜♡\\\"}\"\n    },\n    \"bottom_left_banners\": {\n      \"count\": 3,\n      \"style\": \"glowing pill-shaped banners with heart icons on the left\",\n      \"colors\": [\"pink\", \"yellow\", \"purple\"],\n      \"labels\": [\n        \"{argument name=\\\"banner 1 text\\\" default=\\\"初見さん〇\\\"}\",\n        \"{argument name=\\\"banner 2 text\\\" default=\\\"ポイント回収〇\\\"}\",\n        \"{argument name=\\\"banner 3 text\\\" default=\\\"ROM〇\\\"}\"\n      ]\n    },\n    \"bottom_right_text\": {\n      \"style\": \"casual handwritten style with a heart, yellow text with pink outline\",\n      \"text\": \"気軽にコメントしてねっ♡\"\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"VTuber stream thumbnail\",\n  \"character\": {\n    \"hair\": \"long blonde twin tails with pink gradient ends\",\n    \"eyes\": \"large pink anime eyes\",\n    \"expression\": \"cheerful smile with a small fang, making a peace sign near the eye\",\n    \"outfit\": \"black top with harness straps, black heart-ring choker, multiple ear piercings including a cross dangle, black nail polish\"\n  },\n  \"background\": \"vibrant neon pink and black leopard print with glowing yellow accents, sparkles, and floating hearts\",\n  \"typography_and_layout\": {\n    \"main_title\": {\n      \"position\": \"top left\",\n      \"style\": \"large, bold, 3D, pink and black with white outlines\",\n      \"text\": \"{argument name=\\\"main title\\\" default=\\\"雑談配信\\\"}\"\n    },\n    \"top_right_text\": {\n      \"style\": \"casual handwritten style with a heart\",\n      \"text\": \"{argument name=\\\"top right text\\\" default=\\\"まったり話そ〜♡\\\"}\"\n    },\n    \"bottom_left_banners\": {\n      \"count\": 3,\n      \"style\": \"glowing pill-shaped banners with heart icons on the left\",\n      \"colors\": [\"pink\", \"yellow\", \"purple\"],\n      \"labels\": [\n        \"{argument name=\\\"banner 1 text\\\" default=\\\"初見さん〇\\\"}\",\n        \"{argument name=\\\"banner 2 text\\\" default=\\\"ポイント回収〇\\\"}\",\n        \"{argument name=\\\"banner 3 text\\\" default=\\\"ROM〇\\\"}\"\n      ]\n    },\n    \"bottom_right_text\": {\n      \"style\": \"casual handwritten style with a heart, yellow text with pink outline\",\n      \"text\": \"気軽にコメントしてねっ♡\"\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "VTuber Chat Stream Thumbnail：Generates a vibrant, text-heavy anime-style thumbnail for a VTuber chat stream, featuring customizable banners and titles.",
+      "subject": "文字符号",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime",
+        "3d"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime, 3d]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13892",
+      "14090",
+      "14231",
+      "13615",
+      "14230",
+      "14451"
+    ]
+  }
+}

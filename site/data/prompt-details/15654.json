@@ -1,0 +1,50 @@
+{
+  "id": "15654",
+  "prompt": "A luxurious studio fashion portrait of {argument name=\"group size\" default=\"four\"} elegant young women posed closely together in a dramatic royal-blue fantasy setting, all wearing coordinated deep sapphire and midnight-navy couture evening gowns with glittering beadwork, floral appliqué, sequins, lace sleeves, sheer mesh details, and voluminous layered skirts. The scene is monochromatic blue with a cool, moody, high-end editorial color grade. Arrange the women in a tight triangular composition: two standing or elevated in the back and two seated in front on draped fabric, with varied graceful poses, one woman raising an arm above her head, one leaning slightly, one seated upright, and one resting her chin on her hand. Their dresses should each be distinct but harmonized, featuring ornate crystal embellishments, embroidered flowers, and fitted bodices. Add matching sapphire jewelry including dangling earrings, gemstone necklaces, and floral hair accessories. Use long flowing hair in mixed dark black and soft light brown tones, styled smooth and glamorous. Surround them with opulent set dressing: 2 classical urn vases filled with blue roses, 1 fluted stone column in the background, heavy shimmering velvet curtains, and abundant draped satin fabric pooling around them. Lighting should be soft and diffused with subtle highlights on satin and jewels, creating a regal, mysterious, romantic atmosphere. Shoot as a vertical fashion editorial portrait, waist-up to full seated composition, highly detailed fabric textures, polished luxury beauty campaign aesthetic, no visible text.",
+  "translatedPrompt": "一张奢华的摄影棚时尚肖像，画面中 {argument name=\"group size\" default=\"四位\"} 优雅的年轻女性在充满戏剧性的皇家蓝梦幻场景中紧密靠在一起。她们身着协调一致的深蓝宝石色和午夜海军蓝高定晚礼服，礼服上点缀着闪亮的珠饰、花卉贴花、亮片、蕾丝袖、透明网纱细节以及蓬松的层叠裙摆。场景呈现单色调的蓝色，带有冷峻、忧郁且高端的编辑风格调色。将女性安排在紧凑的三角形构图中：两位站立或位于后方高处，两位坐在前方铺有织物的地面上，姿态优雅各异：一人手臂举过头顶，一人微微倾斜，一人端坐，一人手托下巴。她们的礼服各具特色但风格统一，饰有华丽的水晶装饰、刺绣花朵和修身胸衣。搭配配套的蓝宝石首饰，包括吊坠耳环、宝石项链和花卉发饰。她们留着飘逸的长发，发色混合了深黑色和柔和的浅棕色，造型顺滑且充满魅力。周围环绕着华丽的布景：背景中有 2 个插满蓝玫瑰的古典瓮形花瓶、1 根凹槽石柱、厚重的闪光天鹅绒窗帘，以及周围堆叠的大量缎面织物。灯光柔和且漫射，在缎面和珠宝上形成微妙的高光，营造出一种高贵、神秘且浪漫的氛围。采用竖构图时尚编辑肖像拍摄，从腰部以上到全身坐姿构图，展现高度细腻的织物纹理，呈现精致的奢华美妆广告美学，画面中无可见文字。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "蓝色高定团体肖像：一个充满情绪感的奢华时尚提示词，用于生成优雅的女性团体肖像，适合编辑、美妆或正式广告宣传，展现协调一致的蓝宝石礼服风格。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "editorial",
+        "fantasy",
+        "luxury",
+        "studio"
+      ],
+      "lightingCamera": [
+        "soft light"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical]。\n\nVisual style:\n[参考风格: editorial, fantasy, luxury, studio]。\n\nLighting and camera:\n[参考光线镜头: soft light]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15400",
+      "15077",
+      "14505",
+      "14836",
+      "14877",
+      "15627"
+    ]
+  }
+}

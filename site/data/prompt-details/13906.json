@@ -1,0 +1,40 @@
+{
+  "id": "13906",
+  "prompt": "{\n  \"type\": \"banner design variations\",\n  \"subject\": \"{argument name=\\\"subject\\\" default=\\\"tortoiseshell cat wrapped in a dark blue blanket\\\"}\",\n  \"layout\": {\n    \"description\": \"A composite image displaying 3 different banner design variations for the same course, arranged with two smaller banners on top and one wide banner on the bottom.\",\n    \"sections\": [\n      {\n        \"position\": \"top-left\",\n        \"style\": \"elegant and calm with soft leaf shadows\",\n        \"text_elements\": [\n          \"{argument name=\\\"main headline\\\" default=\\\"猫のように生きる\\\"}\",\n          \"{argument name=\\\"subheading\\\" default=\\\"仏教 × 哲学講座\\\"}\",\n          \"{argument name=\\\"body text\\\" default=\\\"がんばりすぎない。比べない。ただ、今を生きる。\\\"}\"\n        ],\n        \"design_elements\": {\n          \"badges\": {\n            \"count\": 3,\n            \"shape\": \"circular\",\n            \"labels\": [\n              \"{argument name=\\\"badge text 1\\\" default=\\\"心が軽くなる\\\"}\",\n              \"自分らしく生きられる\",\n              \"猫から学ぶ智慧\"\n            ]\n          },\n          \"icons\": {\n            \"count\": 1,\n            \"description\": \"small gold lotus icon\"\n          }\n        }\n      },\n      {\n        \"position\": \"top-right\",\n        \"style\": \"minimalist and modern with clean typography\",\n        \"text_elements\": [\n          \"猫のように生きる。\",\n          \"仏教 × 哲学講座\",\n          \"がんばりすぎない。比べない。ただ、今を生きる。\"\n        ]\n      },\n      {\n        \"position\": \"bottom\",\n        \"style\": \"pop, energetic, and casual with colorful accents\",\n        \"text_elements\": [\n          \"がんばりすぎない、比べない、今を生きる\",\n          \"猫のように\",\n          \"生きる！\",\n          \"仏教 × 哲学講座\"\n        ],\n        \"design_elements\": {\n          \"icon_text_pairs\": {\n            \"count\": 3,\n            \"descriptions\": [\n              \"lotus icon with text 心が軽くなる\",\n              \"sun icon with text 自分らしく生きられる\",\n              \"paw print icon with text 猫から学ぶ智慧\"\n            ]\n          },\n          \"badges\": {\n            \"count\": 1,\n            \"shape\": \"circular green badge\",\n            \"label\": \"オンライン 少人数制\",\n            \"icon\": \"laptop\"\n          }\n        }\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\"type\":\"banner design variations\",\"subject\":\"{argument name=\\\"subject\\\" default=\\\"裹在深蓝色毛毯里的玳瑁猫\\\"}\",\"copywriting\":{\"headline\":\"{argument name=\\\"main headline\\\" default=\\\"像猫一样生活\\\"}\",\"subheadline\":\"{argument name=\\\"sub headline\\\" default=\\\"佛教 × 哲学讲座\\\"}\",\"body\":\"{argument name=\\\"body text\\\" default=\\\"不过度努力。不盲目比较。只活在当下。\\\"}\"},\"layout\":{\"sections\":[{\"title\":\"优雅变体\",\"position\":\"top-left\",\"style\":\"宁静、柔和色调、叶影、衬线字体\",\"count\":3,\"labels\":[\"让心变轻盈\",\"活出真我\",\"从猫身上学习智慧\"],\"badge_style\":\"柔和色调圆圈\"},{\"title\":\"极简变体\",\"position\":\"top-right\",\"style\":\"简洁、现代、白色背景、柔和阴影、大号衬线字体\",\"count\":0,\"labels\":[]},{\"title\":\"流行变体\",\"position\":\"bottom\",\"style\":\"活力、多彩、粗体无衬线字体、黄色和橙色点缀\",\"count\":4,\"labels\":[\"让心变轻盈\",\"活出真我\",\"从猫身上学习智慧\",\"线上小班制\"],\"badge_style\":\"带有图标的白色圆角矩形及一个绿色圆圈\"}]}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "横幅设计变体布局：生成包含三种不同横幅设计风格的演示，展示中心主体及可自定义的营销文案。",
+      "subject": "文字符号",
+      "scene": "图标/贴纸",
+      "composition": [],
+      "style": [
+        "minimalist"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "图标包、贴纸、表情、产品功能图标",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 图标/贴纸 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: minimalist]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14517",
+      "15059",
+      "13692",
+      "15719",
+      "13900",
+      "15029"
+    ]
+  }
+}

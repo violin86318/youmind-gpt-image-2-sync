@@ -1,0 +1,44 @@
+{
+  "id": "14726",
+  "prompt": "a cute kawaii cartoon {argument name=\"animal\" default=\"dog\"} holding a steaming {argument name=\"object\" default=\"coffee mug\"}, same white background with soft light green ground, centered composition, flat 2D vector illustration, soft outlines, pastel colors, adorable mood, text above: \"{argument name=\"text\" default=\"No Coffee No Coddee\"}\" --ar 3:2",
+  "translatedPrompt": "一只可爱的卡通 {argument name=\"animal\" default=\"dog\"} 手持一个冒着热气的 {argument name=\"object\" default=\"coffee mug\"}，纯白背景，底部带有柔和的浅绿色地面，居中构图，扁平化 2D 矢量插画，柔和轮廓，马卡龙配色，可爱氛围，上方文字：\"{argument name=\"text\" default=\"No Coffee No Coddee\"}\" --ar 3:2",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "可爱咖啡狗狗矢量插画：用于创作一张可爱的扁平化 2D 矢量插画的提示词，画面内容为一只卡通狗狗手持印有自定义文字的咖啡杯。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [
+        "centered"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "soft light"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: soft light]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14862",
+      "13866",
+      "14861",
+      "15395",
+      "15288",
+      "13849"
+    ]
+  }
+}

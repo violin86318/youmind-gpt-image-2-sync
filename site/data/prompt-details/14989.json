@@ -1,0 +1,51 @@
+{
+  "id": "14989",
+  "prompt": "{\"type\":\"sticker sheet\",\"style\":\"hand-painted watercolor anime chibi stickers with soft pencil outlines, warm textured brushwork, subtle paper grain, white die-cut sticker borders, transparent background look\",\"subject\":{\"character\":\"cute fantasy elf girl\",\"age_appearance\":\"young adult chibi\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"auburn brown\\\"}\",\"style\":\"short bob with bangs and slight curls at the sides\"},\"ears\":\"large pointed elf ears\",\"hat\":\"oversized gray-blue beret with painterly highlights\",\"clothing\":\"light cream top visible at the shoulders and sleeves\",\"expression_style\":\"grateful, cheerful, shy, emotional\"},\"layout\":{\"grid\":{\"columns\":3,\"rows\":4,\"count\":12},\"sections\":[{\"position\":\"row 1 col 1\",\"text\":\"ありがとう!!\",\"pose\":\"front-facing head-and-shoulders, eyes gently closed, grateful expression, confetti sparkles around head\"},{\"position\":\"row 1 col 2\",\"text\":\"感謝です♡\",\"pose\":\"head bowed with hands tucked under chin, eyes closed, small motion lines around beret, one pink heart\"},{\"position\":\"row 1 col 3\",\"text\":\"わー!! ありがとう\",\"pose\":\"excited side-facing chibi, one arm raised in celebration, sparkles around head\"},{\"position\":\"row 2 col 1\",\"text\":\"感謝です…♡\",\"pose\":\"slight side angle, calm thankful smile, pink heart and small sparkles\"},{\"position\":\"row 2 col 2\",\"text\":\"お礼です!\",\"pose\":\"deep polite bow with both hands covering mouth, eyes closed, two pink hearts and tiny yellow marks\"},{\"position\":\"row 2 col 3\",\"text\":\"本当にありがとう…\",\"pose\":\"turned to the side, emotional thankful pose with hands near chest, pink hearts floating on the right\"},{\"position\":\"row 3 col 1\",\"text\":\"助かりました…♡\",\"pose\":\"small shy grateful pose, facing forward with soft expression, one pink heart and sparkles\"},{\"position\":\"row 3 col 2\",\"text\":\"大感謝です!\",\"pose\":\"laughing with eyes closed, one hand pinching near nose or cheek, joyful grateful smile, pink hearts around\"},{\"position\":\"row 3 col 3\",\"text\":\"恐縮です!\",\"pose\":\"big open-mouth smile, eyes closed, one hand at cheek, sparkles around head\"},{\"position\":\"row 4 col 1\",\"text\":\"ありがたや〜\",\"pose\":\"playful salute with one hand at forehead, soft smile\"},{\"position\":\"row 4 col 2\",\"text\":\"マジ感謝です!\",\"pose\":\"centered happy grateful pose with cheeks lifted, surrounded by pink hearts and sparkles\"},{\"position\":\"row 4 col 3\",\"text\":\"天涙烏立\",\"pose\":\"sleepy or deeply bowed pose with eyes closed and head lowered, small motion line by beret\"}]},\"decorations\":{\"count\":12,\"items\":[\"yellow sparkles scattered around multiple stickers\",\"pink hearts beside grateful phrases\",\"subtle motion lines around the beret on some stickers\",\"soft white sticker cutline around each design\",\"clean empty background\",\"loose handwritten brush lettering above each character\",\"pastel watercolor shading\",\"gentle rosy skin tones\",\"text integrated as sticker caption\",\"slight variation in character angle across stickers\",\"consistent hat and hairstyle across all 12 stickers\",\"cute emotive manga sticker aesthetic\"]},\"text_style\":\"bold hand-drawn Japanese brush lettering in black, slightly irregular and playful, one caption per sticker\",\"quality\":\"high legibility, clean composition, evenly spaced 3x4 arrangement\"}",
+  "translatedPrompt": "{\"type\":\"sticker sheet\",\"style\":\"手绘水彩动漫 Q 版贴纸，带有柔和的铅笔轮廓、温暖的纹理笔触、细腻的纸张颗粒感、白色模切贴纸边框、透明背景效果\",\"subject\":{\"character\":\"可爱的奇幻精灵女孩\",\"age_appearance\":\"青年 Q 版\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"赤褐色\\\"}\",\"style\":\"带刘海的短波波头，两侧微卷\"},\"ears\":\"巨大的尖尖精灵耳\",\"hat\":\"超大号灰蓝色贝雷帽，带有绘画感高光\",\"clothing\":\"肩部和袖口可见浅奶油色上衣\",\"expression_style\":\"感激、开朗、害羞、感性\"},\"layout\":{\"grid\":{\"columns\":3,\"rows\":4,\"count\":12},\"sections\":[{\"position\":\"第 1 行第 1 列\",\"text\":\"ありがとう!!\",\"pose\":\"正面半身像，双眼微闭，感激的表情，头部周围有五彩纸屑闪光\"},{\"position\":\"第 1 行第 2 列\",\"text\":\"感謝です♡\",\"pose\":\"低头，双手托腮，双眼微闭，贝雷帽周围有细小的动作线条，带有一个粉色爱心\"},{\"position\":\"第 1 行第 3 列\",\"text\":\"わー!! ありがとう\",\"pose\":\"兴奋的侧身 Q 版形象，单手举起庆祝，头部周围有闪光\"},{\"position\":\"第 2 行第 1 列\",\"text\":\"感謝です…♡\",\"pose\":\"轻微侧身，平静的感激微笑，带有一个粉色爱心和细小闪光\"},{\"position\":\"第 2 行第 2 列\",\"text\":\"お礼です!\",\"pose\":\"深深的礼貌鞠躬，双手捂嘴，双眼微闭，带有两个粉色爱心和微小的黄色标记\"},{\"position\":\"第 2 行第 3 列\",\"text\":\"本当にありがとう…\",\"pose\":\"转向侧面，感性的感激姿势，双手靠近胸前，右侧漂浮着粉色爱心\"},{\"position\":\"第 3 行第 1 列\",\"text\":\"助かりました…♡\",\"pose\":\"小巧害羞的感激姿势，正面朝向，表情柔和，带有一个粉色爱心和闪光\"},{\"position\":\"第 3 行第 2 列\",\"text\":\"大感謝です!\",\"pose\":\"闭眼大笑，单手捏住鼻子或脸颊附近，快乐的感激微笑，周围有粉色爱心\"},{\"position\":\"第 3 行第 3 列\",\"text\":\"恐縮です!\",\"pose\":\"张嘴大笑，双眼微闭，单手放在脸颊旁，头部周围有闪光\"},{\"position\":\"第 4 行第 1 列\",\"text\":\"ありがたや〜\",\"pose\":\"俏皮的敬礼姿势，单手放在额头，柔和的微笑\"},{\"position\":\"第 4 行第 2 列\",\"text\":\"マジ感謝です!\",\"pose\":\"居中的快乐感激姿势，脸颊上扬，周围环绕着粉色爱心和闪光\"},{\"position\":\"第 4 行第 3 列\",\"text\":\"天涙烏立\",\"pose\":\"困倦或深深鞠躬的姿势，双眼微闭，头部低垂，贝雷帽旁有细小的动作线条\"}]},\"decorations\":{\"count\":12,\"items\":[\"多个贴纸周围散布着黄色闪光\",\"感谢短语旁配有粉色爱心\",\"部分贴纸的贝雷帽周围有细微的动作线条\",\"每个设计周围有柔和的白色贴纸切割线\",\"干净的空白背景\",\"每个角色上方有随性的手写笔刷字体\",\"柔和的水彩阴影\",\"温和的红润肤色\",\"文字作为贴纸标题整合在内\",\"贴纸间角色角度略有变化\",\"12 款贴纸中帽子和发型保持一致\",\"可爱的表情漫画贴纸美学\"]},\"text_style\":\"粗体手绘日语笔刷字体，黑色，略显不规则且俏皮，每个贴纸配有一个标题\",\"quality\":\"高易读性，构图整洁，3x4 排列间距均匀\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "精灵女孩感谢贴纸集：一套包含 12 款动漫水彩风格的 Q 版精灵女孩贴纸，配有手写日语感谢短语，适用于聊天贴纸和社交媒体表情包。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "grid",
+        "front-facing"
+      ],
+      "style": [
+        "anime",
+        "manga",
+        "fantasy",
+        "watercolor",
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, grid, front-facing]。\n\nVisual style:\n[参考风格: anime, manga, fantasy, watercolor, hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15716",
+      "14404",
+      "14607",
+      "14825",
+      "15678",
+      "15367"
+    ]
+  }
+}

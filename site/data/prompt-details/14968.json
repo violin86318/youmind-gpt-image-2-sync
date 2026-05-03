@@ -1,0 +1,50 @@
+{
+  "id": "14968",
+  "prompt": "A hyperrealistic close-up documentary photograph of severe salt damage on a weathered concrete parapet wall in winter, shot from a low oblique angle so the wall recedes into the distance along the right side of the frame. The top coping is capped with a thin layer of snow and frost, and the lower ground surface beside the wall is dark, wet, and partially covered with slushy snow. The concrete face shows widespread scaling and spalling concentrated across the upper half, with irregular peeling patches exposing coarse aggregate stones of various sizes embedded in the mix. The damaged areas form rough, jagged, map-like shapes with crumbling edges, pitted texture, gray cement paste loss, and black and tan exposed pebbles. Vertical moisture streaks and dirty runoff stains descend toward the base of the wall. The overall palette is cold gray, charcoal, and muted winter white, with soft overcast daylight, shallow atmospheric haze in the distant background, and extremely detailed surface texture. Composition should feel like a civil engineering inspection photo, realistic smartphone or field-camera capture, no people, no text, no labels, no dramatic stylization.",
+  "translatedPrompt": "一张超写实的纪录片风格特写照片，展示了冬季风化的混凝土护栏墙上严重的盐害。拍摄角度为低位斜角，墙体向画面右侧纵深延伸。顶部压顶覆盖着一层薄薄的积雪和霜，墙侧的地面呈深色且潮湿，部分覆盖着泥泞的积雪。混凝土表面显示出大面积的剥落和脱落，主要集中在上半部分，不规则的剥落区域露出了混合料中嵌入的各种尺寸的粗骨料。受损区域呈现出粗糙、锯齿状的地图形轮廓，边缘碎裂，表面有麻点纹理，水泥浆流失，并露出黑色和棕褐色的砾石。垂直的湿气条纹和污浊的径流痕迹向下延伸至墙基。整体色调为冷灰色、炭灰色和柔和的冬季白色，光线为柔和的阴天日光，远景带有轻微的空气霾，表面纹理极其细腻。构图应呈现出土木工程检查照片的质感，如同真实的智能手机或现场相机拍摄，画面中无人、无文字、无标签，无夸张的艺术化处理。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "冬季混凝土盐害特写：一张写实的工程检查风格图片，展示了雪天户外环境下混凝土的盐害情况，适用于土木工程、基础设施或老化参考视觉资料。",
+      "subject": "信息结构",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "close-up",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "overcast",
+        "camera"
+      ],
+      "text": "禁止额外文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, vertical]。\n\nVisual style:\n[参考风格: realistic, documentary]。\n\nLighting and camera:\n[参考光线镜头: overcast, camera]。\n\nText requirements:\n禁止额外文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15808",
+      "14973",
+      "15602",
+      "15705",
+      "14632",
+      "14667"
+    ]
+  }
+}

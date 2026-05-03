@@ -1,0 +1,44 @@
+{
+  "id": "15306",
+  "prompt": "A dreamy, romantic East Asian garden illustration at blue-hour twilight, painted in a highly detailed anime-inspired fantasy style with soft glow and slightly abstract, heart-stirring atmosphere. In the right foreground, a graceful young woman in an elaborate traditional kimono sits demurely on worn stone steps beside a koi pond, holding a large wagasa paper umbrella above her shoulder. Her face is softly obscured and not sharply defined, keeping the mood poetic rather than portrait-realistic. Her hair is styled in a formal updo adorned with many pink cherry blossoms, dangling ornaments, and delicate hairpins. The kimono is pale icy blue with flowing layers and intricate patterns of orange koi fish, curling waves, and floral motifs; she wears white tabi socks and traditional sandals, and a patterned obi at her back. The umbrella is cream-colored with visible bamboo ribs and decorated with hanging crystal-like teardrop charms in pastel colors. The pond fills most of the scene, with exactly 10 blooming lotus flowers in pink, peach, and pale yellow, broad green lily pads, and exactly 9 visible koi fish in orange, white, black, and gold swimming in luminous swirling water. Tiny glowing fireflies and magical light specks float throughout the air and reflect on the pond surface. In the midground, an arched wooden bridge crosses the water. In the background, a serene Japanese garden extends with lush greenery, moss, shrubs, a stone lantern on the left, another warm garden lantern on the right, a small traditional pavilion with a dark tiled roof, and trees with red-orange autumn leaves mixed with deep green foliage. Add a few cherry blossom branches near the seated woman. Use cinematic composition, wide framing, rich color contrast between cool blue water and warm lantern light, delicate linework, painterly textures, reflective highlights, gentle depth haze, and an enchanting, elegant, slightly surreal mood.",
+  "translatedPrompt": "一幅充满梦幻与浪漫色彩的东亚庭院插画，呈现于暮色蓝调时分。采用高度细腻的动漫风格奇幻画法，带有柔和的光晕，营造出略显抽象且扣人心弦的氛围。在右侧前景中，一位优雅的年轻女子身着精致的传统和服，端庄地坐在锦鲤池旁的旧石阶上，肩上撑着一把巨大的和伞。她的面部轮廓柔和模糊，并未进行锐利刻画，以保持诗意而非写实肖像的意境。她的发型为正式的发髻，装饰着许多粉色樱花、垂坠饰品和精致的发簪。和服呈淡冰蓝色，层叠飘逸，饰有橙色锦鲤、卷云纹和花卉图案；她穿着白色足袋和传统木屐，背部系着花纹腰带。和伞呈奶油色，可见竹制伞骨，并装饰着悬挂的彩色半透明水滴状挂饰。池塘占据了画面的大部分，池中盛开着 10 朵粉色、桃色和淡黄色的莲花，点缀着宽大的绿色睡莲叶，9 条橙色、白色、黑色和金色的锦鲤在波光粼粼的水中游动。微小的萤火虫和魔法光点在空气中漂浮，并倒映在池面上。中景处有一座横跨水面的木拱桥。背景中，宁静的日式庭院向远处延伸，绿意盎然，覆盖着苔藓和灌木，左侧有一座石灯笼，右侧有一座温暖的庭院灯，还有一座带有深色瓦顶的小型传统凉亭，树木呈现出红橙色的秋叶与深绿色交织的景象。在坐着的女子附近添加几枝樱花。采用电影级构图，宽画幅，冷色调水面与暖色调灯光形成丰富的色彩对比，线条细腻，具有绘画质感，带有反光高光、柔和的景深雾气，营造出迷人、优雅且略带超现实的意境。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "锦鲤池畔的梦幻和服女子：此提示词可生成浪漫奇幻风格的日式庭院场景，包含身着和服的女子、锦鲤池、莲花以及暮色中闪烁的氛围感，适用于装饰插画或壁纸。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic",
+        "anime",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic, anime, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14488",
+      "15319",
+      "14437",
+      "15303",
+      "15641",
+      "14450"
+    ]
+  }
+}

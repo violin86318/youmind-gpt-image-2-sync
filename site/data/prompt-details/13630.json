@@ -1,0 +1,43 @@
+{
+  "id": "13630",
+  "prompt": "{\n  \"type\": \"medical infographic poster\",\n  \"title\": \"{argument name=\\\"main title\\\" default=\\\"HUMAN ANATOMY - ANTERIOR VIEW\\\"}\",\n  \"subject\": {\n    \"description\": \"Full-body {argument name=\\\"subject type\\\" default=\\\"male human figure\\\"}, anterior view, split vertically down the midline.\",\n    \"viewer_left_side\": \"{argument name=\\\"left side focus\\\" default=\\\"superficial muscles\\\"}\",\n    \"viewer_right_side\": \"{argument name=\\\"right side focus\\\" default=\\\"bones, internal organs, arteries, veins, and nerves\\\"}\",\n    \"style\": \"{argument name=\\\"color palette\\\" default=\\\"clinical medical textbook colors\\\"}\"\n  },\n  \"layout\": {\n    \"centerpiece\": \"The anatomical figure stands centrally, arms slightly away from the body, palms facing forward.\",\n    \"labeling_system\": \"Thin black leader lines connect anatomical structures to text labels arranged neatly on the left and right margins.\",\n    \"label_counts\": {\n      \"head_and_neck\": 12,\n      \"torso_and_arms\": 29,\n      \"hands\": 10,\n      \"pelvis_and_legs\": 34,\n      \"feet\": 5\n    },\n    \"panels\": [\n      {\n        \"title\": \"LEGEND\",\n        \"position\": \"top-right\",\n        \"count\": 5,\n        \"items\": [\n          {\"color\": \"red/brown\", \"label\": \"MUSCLES\"},\n          {\"color\": \"beige\", \"label\": \"BONES\"},\n          {\"color\": \"yellow\", \"label\": \"NERVES\"},\n          {\"color\": \"red\", \"label\": \"ARTERIES\"},\n          {\"color\": \"blue\", \"label\": \"VEINS\"}\n        ]\n      },\n      {\n        \"title\": \"NOTES\",\n        \"position\": \"bottom-right\",\n        \"count\": 4,\n        \"items\": [\n          \"1. Right side shows bones, organs, arteries, veins and nerves.\",\n          \"2. Left side shows superficial muscles and related tendons.\",\n          \"3. Some deeper structures are illustrated transparently.\",\n          \"4. Not all anatomical variations are shown.\"\n        ]\n      },\n      {\n        \"title\": \"SCALE\",\n        \"position\": \"bottom-left\",\n        \"count\": 6,\n        \"description\": \"A horizontal bar scale with 6 numeric markers (0, 10, 20, 30, 40, 50) labeled 'Centimeters'.\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"医学信息图海报\",\n  \"title\": \"{argument name=\\\"main title\\\" default=\\\"人体解剖学 - 正面视图\\\"}\",\n  \"subject\": {\n    \"description\": \"全身 {argument name=\\\"subject type\\\" default=\\\"男性人体模型\\\"}，正面视图，沿中线垂直分割。\",\n    \"viewer_left_side\": \"{argument name=\\\"left side focus\\\" default=\\\"浅层肌肉\\\"}\",\n    \"viewer_right_side\": \"{argument name=\\\"right side focus\\\" default=\\\"骨骼、内脏、动脉、静脉和神经\\\"}\",\n    \"style\": \"{argument name=\\\"color palette\\\" default=\\\"临床医学教科书配色\\\"}\"\n  },\n  \"layout\": {\n    \"centerpiece\": \"解剖模型居中站立，双臂略微张开，手掌朝前。\",\n    \"labeling_system\": \"细黑色的引导线将解剖结构连接到左右两侧整齐排列的文字标签上。\",\n    \"label_counts\": {\n      \"head_and_neck\": 12,\n      \"torso_and_arms\": 29,\n      \"hands\": 10,\n      \"pelvis_and_legs\": 34,\n      \"feet\": 5\n    },\n    \"panels\": [\n      {\n        \"title\": \"图例\",\n        \"position\": \"右上角\",\n        \"count\": 5,\n        \"items\": [\n          {\"color\": \"红/棕色\", \"label\": \"肌肉\"},\n          {\"color\": \"米色\", \"label\": \"骨骼\"},\n          {\"color\": \"黄色\", \"label\": \"神经\"},\n          {\"color\": \"红色\", \"label\": \"动脉\"},\n          {\"color\": \"蓝色\", \"label\": \"静脉\"}\n        ]\n      },\n      {\n        \"title\": \"备注\",\n        \"position\": \"右下角\",\n        \"count\": 4,\n        \"items\": [\n          \"1. 右侧显示骨骼、内脏、动脉、静脉和神经。\",\n          \"2. 左侧显示浅层肌肉及相关肌腱。\",\n          \"3. 部分深层结构以透明方式呈现。\",\n          \"4. 未展示所有解剖变异。\"\n        ]\n      },\n      {\n        \"title\": \"比例尺\",\n        \"position\": \"左下角\",\n        \"count\": 6,\n        \"description\": \"一个水平条形比例尺，带有 6 个数字标记（0, 10, 20, 30, 40, 50），标注为“厘米”。\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "详细医学解剖信息图：生成一张高度详细、带有标注的人体解剖医学插图，采用肌肉与内部结构的分屏视图，并附带图例和比例尺。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "full-body",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body, vertical, horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13639",
+      "13641",
+      "13753",
+      "13789",
+      "13821",
+      "14465"
+    ]
+  }
+}

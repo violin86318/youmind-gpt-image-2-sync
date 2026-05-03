@@ -1,0 +1,56 @@
+{
+  "id": "15178",
+  "prompt": "{argument name=\"grid layout\" default=\"12-panel grid (4x3)\"}, each panel is an independent FULL equirectangular 360° panorama of the SAME continuous {argument name=\"environment\" default=\"forest world\"}\n\neach panel = complete spherical environment (360° horizontal, 180° vertical)\ntrue equirectangular projection with natural distortion:\nstretched edges, curved horizon, vertical compression toward zenith and nadir\n\nSTRICT global consistency across panels:\nsame forest biome, same architectural language, same materials, same lighting logic, same scale, same color palette, no visual drift\n\ncinematic photorealism, live-action quality, physically accurate rendering\nnatural light behavior, realistic exposure, subtle lens response, filmic dynamic range\n\nultra-detailed environment, grounded material response (wood, moss, fabric, stone), believable imperfections, micro-detail variation\n\nmassive forest environment with large-scale vertical structures integrated into trees\nmulti-layered platforms, bridges, embedded interiors, organic construction logic\n\nlighting:\nmotivated light sources only (lanterns, windows, bioluminescence)\nsoft volumetric fog interacting with light beams\nphysically correct falloff, no overglow, no artificial bloom\nbalanced contrast, filmic highlights, deep but readable shadows\n\natmosphere:\ndense air perspective, layered depth, subtle particle presence\nnatural haze, humidity, soft diffusion\n\nCAMERA (IMPORTANT):\neach panel = fixed central capture point of a spherical camera\ntrue 360° capture, no framing, no composition bias, no cropped view\nbut with subtle real-world camera characteristics:\nslight lens softness toward edges, mild exposure adaptation, natural highlight rolloff\n\neach panel represents a different location within the SAME world:\ncanopy height, mid-bridge level, interior spaces, vertical clearings, forest floor transitions\ncontinuous spatial logic between panels\n\nviewer always positioned at the center of the environment\n\nenvironment fully resolved in ALL directions:\nabove (canopy, sky gaps, light sources) and below (structures, roots, depth layers)\n\nCOLOR:\n{argument name=\"color scheme\" default=\"deep indigo night base, warm amber practical lights, restrained violet accents\"}\ncinematic color grading, natural color separation, no oversaturation\n\nSTYLE:\ncinematic spherical realism, VR-ready environment, physically coherent world\nhigh-end film production quality, not stylized, not game-like\n\nno labels, no text, no numbers",
+  "translatedPrompt": "{argument name=\"grid layout\" default=\"12 面网格 (4x3)\"}，每个面板都是同一个连续 {argument name=\"environment\" default=\"森林世界\"} 的独立完整等距柱状 360° 全景图\n\n每个面板 = 完整的球形环境 (水平 360°，垂直 180°)\n真实的等距柱状投影，带有自然畸变：\n边缘拉伸、地平线弯曲、向天顶和天底的垂直压缩\n\n各面板间严格的全局一致性：\n相同的森林生物群落、相同的建筑语言、相同的材质、相同的光照逻辑、相同的比例、相同的调色板，无视觉偏差\n\n电影级写实主义，实景拍摄质量，物理精确渲染\n自然光表现，逼真的曝光，微妙的镜头响应，电影级动态范围\n\n超精细环境，扎实的材质响应（木材、苔藓、织物、石材），真实的瑕疵，微观细节变化\n\n大型森林环境，将大规模垂直结构融入树木中\n多层平台、桥梁、嵌入式室内空间、有机建筑逻辑\n\n光照：\n仅限自然光源（灯笼、窗户、生物发光）\n柔和的体积雾与光束相互作用\n物理正确的衰减，无过度光晕，无人工泛光\n平衡的对比度，电影级高光，深邃但清晰的阴影\n\n氛围：\n浓厚的空气透视，分层深度，微妙的粒子感\n自然雾霾、湿度、柔和漫射\n\n相机（重要）：\n每个面板 = 球形相机的固定中心捕捉点\n真实的 360° 捕捉，无构图，无视角偏差，无裁剪视图\n但具有微妙的现实世界相机特性：\n边缘轻微的镜头柔化，温和的曝光适应，自然的高光衰减\n\n每个面板代表同一个世界内的不同位置：\n树冠高度、桥梁中层、室内空间、垂直林间空地、森林地面过渡\n面板之间具有连续的空间逻辑\n\n观察者始终位于环境中心\n\n环境在所有方向上完全呈现：\n上方（树冠、天空缝隙、光源）和下方（结构、根系、深度层）\n\n色彩：\n{argument name=\"color scheme\" default=\"深靛蓝夜色基调，温暖的琥珀色实用灯光，克制的紫罗兰色点缀\"}\n电影级调色，自然的色彩分离，无过度饱和\n\n风格：\n电影级球形写实，VR 就绪环境，物理连贯的世界\n高端电影制作质量，非风格化，非游戏感\n\n无标签，无文字，无数字",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "360 度森林世界全景网格：一个用于生成 12 面等距柱状投影全景图的精细提示词，旨在呈现具有电影级真实感和全局一致性的连续森林世界。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [
+        "grid",
+        "layered",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "natural light",
+        "volumetric",
+        "lens",
+        "camera"
+      ],
+      "text": "要求可读；禁止额外文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, layered, vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: natural light, volumetric, lens, camera]。\n\nText requirements:\n要求可读；禁止额外文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15367",
+      "15084",
+      "15607",
+      "14693",
+      "15014",
+      "15046"
+    ]
+  }
+}

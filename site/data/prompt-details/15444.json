@@ -1,0 +1,58 @@
+{
+  "id": "15444",
+  "prompt": "{\n  \"type\": \"premium product showcase poster for a sci-fi plastic model kit\",\n  \"theme\": \"luxury Japanese mecha figure advertisement\",\n  \"product\": {\n    \"name\": \"{argument name=\\\"product name\\\" default=\\\"FULL ARMOR MECHA GIRL\\\"}\",\n    \"subtitle\": \"フルアーマー・メカガール\",\n    \"series\": \"{argument name=\\\"brand name\\\" default=\\\"TENNEN\\\"}\",\n    \"seriesTagline\": \"PREMIUM MODEL KIT SERIES\",\n    \"scale\": \"1/100\",\n    \"category\": \"FULL ACTION MODEL KIT\",\n    \"originMark\": \"MADE IN JAPAN\",\n    \"year\": \"2024\"\n  },\n  \"subject\": {\n    \"design\": \"feminine humanoid armored mecha standing like a premium collectible statue\",\n    \"pose\": \"full-body 3/4 front view, standing upright, left leg forward, right leg back, head slightly turned, sword angled diagonally downward across the front, large shield mounted on the opposite arm\",\n    \"colorScheme\": {\n      \"primary\": \"{argument name=\\\"primary armor color\\\" default=\\\"gloss white\\\"}\",\n      \"secondary\": \"black inner mechanical frame\",\n      \"accent\": \"{argument name=\\\"accent color\\\" default=\\\"metallic gold\\\"}\",\n      \"detail\": \"small emerald green visor\"\n    },\n    \"materials\": \"smooth high-end plastic model surfaces with metallic trim, layered armor plates, matte and gloss contrast, sharp panel lining, engineered joints, premium showroom render quality\",\n    \"features\": [\n      \"sleek helmet with long horn-like crest fins\",\n      \"narrow glowing visor eyes\",\n      \"angular chest armor and shoulder pauldrons\",\n      \"black segmented inner arms and legs with visible mechanical joints\",\n      \"hip skirt armor and layered thigh armor\",\n      \"high-heeled blade-like feet\",\n      \"large asymmetrical white shield with gold circular core and geometric panel lines\",\n      \"long straight sword with silver blade and ornate gold crossguard\",\n      \"rear fins and boosters extending behind the silhouette\"\n    ]\n  },\n  \"layout\": {\n    \"background\": \"clean light gray to white studio backdrop with faint futuristic panel lines and thin gold border accents\",\n    \"sections\": [\n      {\n        \"title\": \"main hero product render\",\n        \"position\": \"right side\",\n        \"count\": 1,\n        \"labels\": [\"full-body mecha girl\"]\n      },\n      {\n        \"title\": \"detail panels\",\n        \"position\": \"left vertical column\",\n        \"count\": 5,\n        \"labels\": [\"head close-up\", \"upper torso and shoulder armor\", \"shield\", \"sword hilt and hand\", \"leg armor\"]\n      },\n      {\n        \"title\": \"feature callouts\",\n        \"position\": \"center-left beside each inset\",\n        \"count\": 5,\n        \"labels\": [\"頭部ディテール\", \"上半身アーマー\", \"シールド\", \"ソード\", \"脚部アーマー\"]\n      },\n      {\n        \"title\": \"bottom feature icons\",\n        \"position\": \"bottom left\",\n        \"count\": 4,\n        \"labels\": [\"FULL ACTION\", \"PRECISION SCULPT\", \"PREMIUM MATERIAL\", \"PLASTIC MODEL\"]\n      },\n      {\n        \"title\": \"quality badge\",\n        \"position\": \"bottom right\",\n        \"count\": 1,\n        \"labels\": [\"PREMIUM QUALITY\"]\n      }\n    ]\n  },\n  \"typography\": {\n    \"headline\": \"large elegant serif title in metallic gold, stacked and centered on the upper left\",\n    \"bodyText\": \"Japanese promotional copy in refined editorial layout with generous spacing, black and gold text blocks, luxury catalog styling\",\n    \"branding\": \"minimal premium logo at top right with sharp gold emblem\"\n  },\n  \"style\": {\n    \"rendering\": \"ultra-detailed 3D product visualization, crisp studio lighting, soft grounded shadow, catalog-commercial composition\",\n    \"mood\": \"majestic, pristine, elite, futuristic, high-end hobby product\",\n    \"inspiration\": \"Japanese model kit box art mixed with luxury product brochure design\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"科幻塑料模型套件的高级产品展示海报\",\n  \"theme\": \"奢华日式机甲手办广告\",\n  \"product\": {\n    \"name\": \"{argument name=\\\"product name\\\" default=\\\"FULL ARMOR MECHA GIRL\\\"}\",\n    \"subtitle\": \"フルアーマー・メカガール\",\n    \"series\": \"{argument name=\\\"brand name\\\" default=\\\"TENNEN\\\"}\",\n    \"seriesTagline\": \"高级模型套件系列\",\n    \"scale\": \"1/100\",\n    \"category\": \"全可动模型套件\",\n    \"originMark\": \"日本制造\",\n    \"year\": \"2024 年\"\n  },\n  \"subject\": {\n    \"design\": \"女性化人形装甲机甲，呈现如高级收藏品雕像般的质感\",\n    \"pose\": \"全身 3/4 正面视角，直立站姿，左腿在前，右腿在后，头部微转，长剑斜向下横于身前，另一侧手臂装备大型盾牌\",\n    \"colorScheme\": {\n      \"primary\": \"{argument name=\\\"primary armor color\\\" default=\\\"亮光白\\\"}\",\n      \"secondary\": \"黑色内部机械骨架\",\n      \"accent\": \"{argument name=\\\"accent color\\\" default=\\\"金属金\\\"}\",\n      \"detail\": \"小型翡翠绿护目镜\"\n    },\n    \"materials\": \"高端塑料模型表面，带有金属质感饰边，层叠装甲板，哑光与亮光对比，锐利的渗线，精密工程关节，高级展厅渲染品质\",\n    \"features\": [\n      \"带有长角状冠饰的流线型头盔\",\n      \"狭长的发光护目镜双眼\",\n      \"棱角分明的胸甲与肩甲\",\n      \"黑色分段式内臂与腿部，可见机械关节\",\n      \"腰部裙甲与层叠大腿装甲\",\n      \"高跟刀锋状足部\",\n      \"大型不对称白色盾牌，中心带有金色圆环及几何刻线\",\n      \"长直剑，配有银色剑刃与华丽的金色十字护手\",\n      \"轮廓后方延伸出的尾翼与推进器\"\n    ]\n  },\n  \"layout\": {\n    \"background\": \"干净的浅灰至白色摄影棚背景，带有淡淡的未来感刻线及纤细的金色边框装饰\",\n    \"sections\": [\n      {\n        \"title\": \"主视觉产品渲染\",\n        \"position\": \"右侧\",\n        \"count\": 1,\n        \"labels\": [\"全身机甲少女\"]\n      },\n      {\n        \"title\": \"细节展示面板\",\n        \"position\": \"左侧纵向栏\",\n        \"count\": 5,\n        \"labels\": [\"头部特写\", \"上半身及肩甲\", \"盾牌\", \"剑柄与手部\", \"腿部装甲\"]\n      },\n      {\n        \"title\": \"功能标注\",\n        \"position\": \"各插图左侧中心\",\n        \"count\": 5,\n        \"labels\": [\"头部细节\", \"上半身装甲\", \"盾牌\", \"剑\", \"脚部装甲\"]\n      },\n      {\n        \"title\": \"底部功能图标\",\n        \"position\": \"左下角\",\n        \"count\": 4,\n        \"labels\": [\"全可动\", \"精密雕刻\", \"高级材质\", \"塑料模型\"]\n      },\n      {\n        \"title\": \"品质徽章\",\n        \"position\": \"右下角\",\n        \"count\": 1,\n        \"labels\": [\"高级品质\"]\n      }\n    ]\n  },\n  \"typography\": {\n    \"headline\": \"左上角居中堆叠的大号优雅衬线标题，采用金属金色\",\n    \"bodyText\": \"采用精致编辑排版的日文宣传文案，留白充裕，黑金文字块，奢华目录风格\",\n    \"branding\": \"右上角极简高级 Logo，配有锐利的金色徽标\"\n  },\n  \"style\": {\n    \"rendering\": \"超精细 3D 产品可视化，清爽的摄影棚灯光，柔和的落地阴影，目录商业级构图\",\n    \"mood\": \"庄重、纯净、精英感、未来感、高端模型产品\",\n    \"inspiration\": \"日式模型盒绘与奢华产品画册设计的结合\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "高级机甲少女模型套件海报：一款奢华的日式机甲少女模型套件宣传海报，采用白金配色装甲设计，适用于产品渲染图、包装盒艺术概念及手办发布视觉展示。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "close-up",
+        "full-body",
+        "callout",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "editorial",
+        "3d",
+        "sci-fi",
+        "luxury",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, close-up, full-body, callout, layered, vertical]。\n\nVisual style:\n[参考风格: editorial, 3d, sci-fi, luxury, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14842",
+      "14169",
+      "14887",
+      "15386",
+      "14850",
+      "15400"
+    ]
+  }
+}

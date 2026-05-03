@@ -1,0 +1,53 @@
+{
+  "id": "14664",
+  "prompt": "Create a glossy, hyper-saturated social media ad poster for a futuristic beauty product launch, designed like a Canva marketing graphic. The composition is a single widescreen promotional banner centered on a cyan-to-purple gradient background, with rounded corners and a vivid neon pink color palette. Inside the banner, show a young woman from the chest up in a glowing sci-fi tunnel made of concentric pink and white light rings. Her face is obscured by a soft square blur block, but her hair is styled in two small buns, and she wears hoop earrings, layered chain necklaces, a metallic silver top, and an iridescent pink holographic jacket. She extends one hand toward the camera holding a clear lip balm tube close to the lens, creating strong foreground perspective. The tube label reads “GLOW MODE Lip Balm.” At the top center, large neon headline text reads “GLOW MODE” with a script subtitle “Lip Balm,” and below it a smaller line reads “JUICY SHINE. HYDRATING CARE. ZERO STICKINESS.” In the upper left corner, add a handwritten neon note reading “NEW!” In the upper right corner, place an orange rounded sticker with white text reading “gpt-image-2,” plus a small orange pointer tab beneath it. On the right side of the banner, include 2 circular callout badges: a pink starburst badge that says “ONLY $14.99” and a black glowing circular badge that says “VIRAL ON TikTok 2M+ views.” At the lower right, show 2 product display elements: one upright open lip balm tube with wand applicator beside it, and one whole sliced peach plus one cut mango half with green leaves, all sitting on a glossy reflective surface with pink light swirls. Along the lower center, add 3 feature icons with labels: a droplet icon labeled “HYALURONIC HYDRATION,” a fruit icon labeled “PEACH MANGO SCENT,” and a bunny icon labeled “100% VEGAN & CRUELTY-FREE.” In the lower left inside the banner, add a vertical stack of 3 social buttons with platform icons and handles: TikTok with “#GlowMode,” Instagram with “@LunaBeatty,” and Snapchat with “@LunaGlow.” Beneath them place 1 glowing QR code card, and next to it handwritten script text reading “Shop Now!” with an arrow pointing toward the QR code. Outside the banner at the bottom left, place a tilted teal rounded label reading “Canva AI,” with a small teal paper-plane style accent nearby. Add glossy reflections, lens flares, bloom, neon rim lighting, sparkles, and polished ad-design styling throughout, with crisp commercial product photography mixed with futuristic graphic design.",
+  "translatedPrompt": "创作一张光泽感强、色彩高度饱和的未来感美妆产品发布社交媒体广告海报，设计风格类似于 Canva 营销图。构图为一个居中的宽屏促销横幅，背景为青色到紫色的渐变，带有圆角和鲜艳的霓虹粉色调。横幅内展示一位年轻女性的半身像，背景是一个由同心粉色和白色光环组成的科幻发光隧道。她的脸部被一个柔和的方形模糊块遮挡，发型为两个小发髻，佩戴圆环耳环、多层链条项链，身穿金属银色上衣和虹彩粉色全息夹克。她向镜头伸出一只手，手中拿着一支透明润唇膏管靠近镜头，营造出强烈的近景透视感。管身标签写着“GLOW MODE Lip Balm”。顶部中央，醒目的霓虹大标题写着“GLOW MODE”，下方配有手写体副标题“Lip Balm”，再下方有一行小字写着“JUICY SHINE. HYDRATING CARE. ZERO STICKINESS.”。在左上角，添加一个手写风格的霓虹标签，写着“NEW!”。在右上角，放置一个橙色圆角贴纸，上面有白色文字“gpt-image-2”，下方配有一个小的橙色指针标签。在横幅右侧，包含 2 个圆形标注徽章：一个写着“ONLY $14.99”的粉色星爆徽章，以及一个写着“VIRAL ON TikTok 2M+ views”的黑色发光圆形徽章。在右下角，展示 2 个产品陈列元素：一支直立的开口润唇膏管及其涂抹棒，旁边放着一个完整的桃子和半个切开的芒果，配有绿叶，所有物品都放置在带有粉色光漩涡的光滑反射面上。在底部中央，添加 3 个带有标签的功能图标：一个标有“HYALURONIC HYDRATION”的水滴图标，一个标有“PEACH MANGO SCENT”的水果图标，以及一个标有“100% VEGAN & CRUELTY-FREE”的兔子图标。在横幅左下角，添加一列垂直堆叠的 3 个社交媒体按钮，包含平台图标和账号：TikTok 账号“#GlowMode”、Instagram 账号“@LunaBeatty”和 Snapchat 账号“@LunaGlow”。在它们下方放置一张发光的二维码卡片，旁边配有手写体文字“Shop Now!”以及指向二维码的箭头。在横幅外部左下角，放置一个倾斜的青色圆角标签，上面写着“Canva AI”，附近有一个小的青色纸飞机风格装饰。整体添加光泽反射、镜头光晕、辉光、霓虹轮廓光、闪光点和精致的广告设计风格，融合清晰的商业产品摄影与未来感图形设计。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Neon Lip Balm 新品发布广告：一款充满未来感的活力美妆广告海报，适用于发光润唇膏，非常适合社交媒体营销活动、产品发布以及可编辑的 Canva 风格促销设计。",
+      "subject": "界面",
+      "scene": "图标/贴纸",
+      "composition": [
+        "centered",
+        "callout",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "sci-fi"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "neon",
+        "lens",
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "图标包、贴纸、表情、产品功能图标",
+      "whySelected": "得分 79；构图: centered, callout, layered, vertical；风格: sci-fi；包含标注/说明"
+    },
+    "copyTemplate": "Create a 图标/贴纸 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, callout, layered, vertical]。\n\nVisual style:\n[参考风格: sci-fi]。\n\nLighting and camera:\n[参考光线镜头: rim light, neon, lens, camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15059",
+      "15326",
+      "15333",
+      "14442",
+      "14559",
+      "14196"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "13818",
+  "prompt": "{\n  \"type\": \"webinar promotional banner\",\n  \"style\": \"modern, bold typography, high contrast, diagonal split layout\",\n  \"background\": {\n    \"pattern\": \"faint grid of 40 sequential numbers from 01 to 40 spanning the entire canvas\",\n    \"left_color\": \"vibrant magenta\",\n    \"right_color\": \"black\",\n    \"split_style\": \"sharp diagonal line from top center to bottom left\"\n  },\n  \"left_section\": {\n    \"top_label\": \"{argument name=\\\"top label\\\" default=\\\"noteメンバーシップ限定ウェビナー\\\"}\",\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"Claude Code\\\"}\",\n    \"highlight_box_1\": {\n      \"text\": \"{argument name=\\\"highlight text 1\\\" default=\\\"知らないと\\\"}\",\n      \"style\": \"black text on white skewed rectangular background\"\n    },\n    \"highlight_box_2\": {\n      \"text\": \"{argument name=\\\"highlight text 2\\\" default=\\\"損する\\\"}\",\n      \"style\": \"black text on white skewed rectangular background\"\n    },\n    \"bottom_text\": \"40のワザ\"\n  },\n  \"right_section\": {\n    \"top_right_label\": \"KAWAI LAB Vol.5\",\n    \"subject\": \"portrait of a young Japanese woman, shoulder-length dark hair with bangs, wearing a black crew neck sweater, neutral expression, looking at camera\",\n    \"middle_badge\": {\n      \"text\": \"先着 100名 限定\",\n      \"style\": \"white text with vertical line accent\"\n    },\n    \"bottom_right_date\": \"{argument name=\\\"date and time\\\" default=\\\"4.24 Fri. 12:10 - 12:50\\\"}\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"网络研讨会宣传横幅\",\n  \"style\": \"现代风格，醒目排版，高对比度，对角线分割布局\",\n  \"background\": {\n    \"pattern\": \"覆盖整个画布的 40 个从 01 到 40 的序列数字组成的淡网格\",\n    \"left_color\": \"鲜艳的洋红色\",\n    \"right_color\": \"黑色\",\n    \"split_style\": \"从顶部中心到左下角的锐利对角线\"\n  },\n  \"left_section\": {\n    \"top_label\": \"{argument name=\\\"top label\\\" default=\\\"note 会员专属网络研讨会\\\"}\",\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"Claude Code\\\"}\",\n    \"highlight_box_1\": {\n      \"text\": \"{argument name=\\\"highlight text 1\\\" default=\\\"不知道就会\\\"}\",\n      \"style\": \"白色倾斜矩形背景上的黑色文字\"\n    },\n    \"highlight_box_2\": {\n      \"text\": \"{argument name=\\\"highlight text 2\\\" default=\\\"吃亏\\\"}\",\n      \"style\": \"白色倾斜矩形背景上的黑色文字\"\n    },\n    \"bottom_text\": \"40 个技巧\"\n  },\n  \"right_section\": {\n    \"top_right_label\": \"KAWAI LAB Vol.5\",\n    \"subject\": \"一位年轻日本女性的肖像，齐肩深色短发配刘海，身穿黑色圆领毛衣，表情自然，注视镜头\",\n    \"middle_badge\": {\n      \"text\": \"限前 100 名\",\n      \"style\": \"带有垂直线条装饰的白色文字\"\n    },\n    \"bottom_right_date\": \"{argument name=\\\"date and time\\\" default=\\\"4 月 24 日 周五 12:10 - 12:50\\\"}\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "现代网络研讨会宣传横幅：生成一张高对比度、对角线分割的宣传横幅，采用醒目的排版和人物肖像，非常适合网络研讨会或视频缩略图。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "grid",
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "high contrast",
+        "camera"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: high contrast, camera]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14084",
+      "14408",
+      "14628",
+      "14630",
+      "14679",
+      "14910"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "15109",
+  "prompt": "A surreal sci-fi desert landscape at twilight or night, with a vast sandy plain covered in low drifting haze and surrounded by dark jagged rock formations. In the foreground, a rugged rocky ledge frames the lower left corner, with a steep cliff wall on the left and a smaller craggy outcrop on the right, while a distant mountain range sits low on the horizon. Above the horizon, centered in the sky, place 2 enormous overlapping celestial spheres: the rear sphere is a luminous blue-to-cyan gradient circle, and the front sphere is a slightly lower, partially eclipsing teal-green glowing sphere with a soft atmospheric fade on its lower half. The sky is deep black with very faint stars, creating a minimalist cosmic atmosphere. Use cinematic lighting with warm amber-brown tones across the desert and cool neon blues in the planets, soft mist, high contrast, ultra-clean digital rendering, sharp terrain detail, and a calm, otherworldly mood.",
+  "translatedPrompt": "一幅黄昏或夜晚的超现实科幻沙漠景观，广阔的沙原上覆盖着低矮的漂浮薄雾，四周环绕着深色的锯齿状岩层。前景中，左下角由崎岖的岩石边缘构成框架，左侧为陡峭的悬崖壁，右侧为较小的嶙峋岩石，远处的山脉低垂在地平线上。在地平线上方的天空中央，放置 2 颗巨大的重叠天体：后方的球体是一个明亮的蓝至青色渐变圆环，前方的球体位置略低，是一个部分遮挡的青绿色发光球体，其下半部分带有柔和的大气晕染效果。天空为深黑色，点缀着微弱的星光，营造出极简主义的宇宙氛围。采用电影级光效，沙漠呈现温暖的琥珀棕色调，行星呈现冷峻的霓虹蓝色，配合柔和的薄雾、高对比度、超清数字渲染、锐利的地形细节，营造出一种宁静而超凡脱俗的意境。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "双星映照下的超现实沙漠：该提示词可生成极简主义电影感科幻景观，画面中两颗巨大的发光行星悬浮于薄雾缭绕的沙漠之上，非常适合用于概念艺术、壁纸或氛围感封面图。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "cinematic",
+        "minimalist",
+        "sci-fi"
+      ],
+      "lightingCamera": [
+        "neon",
+        "high contrast"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: cinematic, minimalist, sci-fi]。\n\nLighting and camera:\n[参考光线镜头: neon, high contrast]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14484",
+      "14600",
+      "14806",
+      "15609",
+      "15782",
+      "13799"
+    ]
+  }
+}

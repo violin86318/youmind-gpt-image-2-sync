@@ -1,0 +1,49 @@
+{
+  "id": "14817",
+  "prompt": "A minimalist monochrome illustration of a traditional Japanese samurai helmet and shoulder armor, shown as a centered bust-length portrait on a plain light gray background. The armor is rendered in black ink engraving style with high contrast, dense stippling, etched linework, and vintage woodcut texture. The kabuto has two tall curved crest horns and layered side guards, with detailed lacing and plate construction visible on the shoulder section. The face area is completely obscured by a centered vertical black rectangle censor bar with slightly soft edges, covering the mask and most of the front of the helmet opening. Keep the composition small and isolated in the middle of the canvas with large negative space around it, no additional objects, no text, no border.",
+  "translatedPrompt": "一幅极简主义的单色插画，描绘了一位日本武士的半身像，呈四分之三侧面朝右，居中放置在浅灰色背景上。盔甲和头盔采用复古雕版印刷或蚀刻风格，呈现出浓重的黑色墨迹、高对比度、点画、阴影线以及类似刮板画的质感。Kabuto 头盔带有两个高大的弯曲角状饰物和分层侧护板，颈部下方可见细致的层状肩甲和长袍褶皱。人物在躯干上部进行裁剪，并与周围充足的留白隔离开来。在面部区域放置 1 条实心垂直黑色矩形审查条，遮盖眼睛、鼻子和大部分面部特征。整体构图保持鲜明、图形化且具有海报感，除黑色和浅灰色外，不包含其他物体、文字或颜色。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "审查风格武士雕刻：一幅带有审查条的黑白武士肖像，风格鲜明，适用于社论、海报或概念图形艺术。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "minimalist",
+        "vintage"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "禁止额外文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, layered, vertical]。\n\nVisual style:\n[参考风格: minimalist, vintage]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n禁止额外文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14126",
+      "14488",
+      "15303",
+      "15319",
+      "14437",
+      "15442"
+    ]
+  }
+}

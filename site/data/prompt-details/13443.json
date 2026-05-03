@@ -1,0 +1,48 @@
+{
+  "id": "13443",
+  "prompt": "A highly detailed, cinematic portrait of a {argument name=\"character appearance\" default=\"young woman with dark hair in an updo and pale skin\"}, wearing a {argument name=\"clothing style\" default=\"futuristic black trench coat with silver metallic accents, tactical belts, and a holstered sci-fi pistol\"}. She has a serious, focused expression and is {argument name=\"action\" default=\"interacting with a glowing blue holographic display\"} with her raised hand. The scene is set inside a {argument name=\"setting\" default=\"spaceship command center\"} with cool blue lighting reflecting off her metallic gear. Through a large window in the background, {argument name=\"background details\" default=\"a starry space environment with a fleet of spaceships\"} is visible. The image features photorealistic textures, dramatic lighting, and a high-tech sci-fi aesthetic.",
+  "translatedPrompt": "一张细节丰富、超写实风格的肖像画，主角是 {argument name=\"character description\" default=\"一位留着深色优雅盘发的年轻女性\"}。她身穿 {argument name=\"outfit\" default=\"一件时髦的未来感黑色风衣制服，配有精致的银色金属护甲、绑带以及一把科幻手枪枪套\"}。她自信地站立着，优雅地抬起一只手，与 {argument name=\"technology\" default=\"发光的蓝色全息数据界面\"} 进行交互。背景设定在 {argument name=\"environment\" default=\"光线昏暗的星舰舰桥\"}，背景中的大型观测窗展示了 {argument name=\"background scene\" default=\"一支庞大的太空舰队正穿过星云航行\"}。电影级布光，焦点清晰，8k 分辨率，科幻概念艺术风格，戏剧性阴影，冷蓝色调。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "科幻指挥官全息交互：一张超写实风格的肖像画，描绘了一名科幻角色在星舰舰桥上与全息界面进行交互的场景。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "sci-fi"
+      ],
+      "lightingCamera": [
+        "dramatic lighting"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, sci-fi]。\n\nLighting and camera:\n[参考光线镜头: dramatic lighting]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15407",
+      "15757",
+      "13632",
+      "13885",
+      "14419",
+      "14476"
+    ]
+  }
+}

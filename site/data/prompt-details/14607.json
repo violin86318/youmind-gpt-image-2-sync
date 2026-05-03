@@ -1,0 +1,53 @@
+{
+  "id": "14607",
+  "prompt": "{\"type\":\"medical infographic poster\",\"subject\":\"front-facing full-body anime idol girl with semi-transparent anatomical overlay\",\"style\":{\"overall\":\"clean Japanese educational infographic mixed with kawaii anime character art and scientific visualization\",\"background\":\"warm off-white paper tone with faint grid\",\"palette\":\"navy blue, cream, soft pastel pink, pastel blue, medical reds and blues\",\"rendering\":\"high-detail polished poster design, crisp vector UI boxes, soft character shading, realistic anatomy illustrations composited into the body\"},\"character\":{\"gender_presentation\":\"female\",\"age_appearance\":\"teen to young adult\",\"pose\":\"standing straight, full body centered, arms extended horizontally to both sides\",\"outfit\":\"frilly pastel idol dress with short puff sleeves, layered skirt, blue ribbon bow at the collar, lace trim, white ankle socks, blue high-top sneakers\",\"hair\":{\"color\":\"dark brown\",\"style\":\"long wavy twin sections falling over shoulders and down past chest, center-parted with small decorative floral hair accessory\"},\"face\":\"intentionally blurred/obscured\"},\"anatomy_overlay\":{\"visible_parts_count\":8,\"visible_parts\":[\"glowing brain in the head\",\"heart and lungs in the chest\",\"digestive organs in the abdomen\",\"reproductive/urinary region glow in the pelvis\",\"arteries through both arms\",\"veins through both arms\",\"arteries and veins through both legs\",\"inner ear balance structures highlighted near the head\"]},\"layout\":{\"title_block\":{\"count\":2,\"lines\":[\"VR が人体に与える影響\",\"Effects of VR on the Human Body\"],\"position\":\"top center\"},\"main_centerpiece\":\"full-body character in T-pose-like stance with dotted callout lines connecting body regions to surrounding information boxes\",\"info_boxes\":{\"count\":6,\"items\":[{\"title\":\"前頭前皮質活性化\",\"subtitle\":\"Prefrontal Cortex Activation\",\"position\":\"upper left\",\"icon\":\"brain\"},{\"title\":\"視覚皮質 V1\",\"subtitle\":\"Visual Cortex V1\",\"position\":\"upper right\",\"icon\":\"brain\"},{\"title\":\"心拍数 +12bpm\",\"subtitle\":\"Heart Rate +12bpm\",\"position\":\"left upper-middle\",\"icon\":\"heart\"},{\"title\":\"前庭系\",\"subtitle\":\"Vestibular System\",\"position\":\"right middle\",\"icon\":\"head and balance\"},{\"title\":\"ドーパミン分泌\",\"subtitle\":\"Dopamine Release\",\"position\":\"left lower-middle\",\"icon\":\"molecule/network\"},{\"title\":\"睡眠リズム影響\",\"subtitle\":\"Circadian Shift\",\"position\":\"right lower-middle\",\"icon\":\"moon and stars\"}]},\"charts\":{\"count\":4,\"items\":[{\"title\":\"心拍数の変化（平均）\",\"subtitle\":\"Heart Rate Change (Average)\",\"position\":\"left center-lower\",\"chart_type\":\"line graph with blue and red lines\",\"labels\":[\"VR体験中\",\"通常時\",\"+12\"]},{\"title\":\"脳内ドーパミン活性（fMRI）\",\"subtitle\":\"Dopamine Activity (fMRI)\",\"position\":\"left lower\",\"chart_type\":\"two brain scan panels with color scale\",\"labels\":[\"通常時\",\"VR体験中\",\"Resting\",\"During VR\"]},{\"title\":\"メラトニン分泌の変化（夜間）\",\"subtitle\":\"Melatonin Secretion (Night)\",\"position\":\"right lower\",\"chart_type\":\"line graph with blue and red curves\",\"labels\":[\"通常時\",\"VR視聴後\",\"No VR\",\"After VR\",\"メラトニン分泌が抑制\" ]},{\"title\":\"週平均VR使用時間: 14h\",\"subtitle\":\"Average Weekly VR Usage: 14h\",\"position\":\"bottom left\",\"chart_type\":\"pie chart\",\"labels\":[\"0–7h\",\"7–14h\",\"14–21h\",\"21h+\"]}]},\"diagrams\":{\"count\":1,\"items\":[{\"title\":\"inner ear balance diagram\",\"position\":\"right middle-lower near vestibular box\",\"labels\":[\"三半規管\",\"耳石器\"]}]},\"research_box\":{\"count\":1,\"position\":\"bottom center-right\",\"title\":\"研究からの示唆 / Takeaways\",\"bullet_count\":4},\"branding\":{\"count\":3,\"items\":[\"SOURCE: MR.VR RESEARCH LAB 2026\",\"MR.VR RESEARCH LAB\",\"QR code at bottom right\"]},\"border\":\"thin decorative technical frame around all edges with corner ornaments and small measurement-like marks\"},\"text_density\":\"high, bilingual Japanese and English subtitles throughout\",\"composition\":\"symmetrical poster with callouts on both sides of the character, charts anchored in the lower corners, title large and bold at top\",\"quality\":\"sharp, publication-ready, square format\"}",
+  "translatedPrompt": "{\"type\":\"医疗信息图海报\",\"subject\":\"正面全身动漫偶像少女，带有半透明解剖学叠加图\",\"style\":{\"overall\":\"简洁的日本教育信息图，融合了可爱动漫角色艺术与科学可视化\",\"background\":\"暖米白色纸张色调，带有淡淡的网格\",\"palette\":\"海军蓝、奶油色、柔和粉彩粉、粉彩蓝、医疗红与蓝色\",\"rendering\":\"高细节精致海报设计，清晰的矢量 UI 框，柔和的角色阴影，合成在身体上的逼真解剖学插图\"},\"character\":{\"gender_presentation\":\"女性\",\"age_appearance\":\"青少年至年轻成人\",\"pose\":\"直立，全身居中，双臂向两侧水平伸展\",\"outfit\":\"带有短泡泡袖的褶边粉彩偶像裙，层叠裙摆，领口处有蓝色丝带蝴蝶结，蕾丝花边，白色短袜，蓝色高帮运动鞋\",\"hair\":{\"color\":\"深棕色\",\"style\":\"长波浪双马尾垂在肩上并延伸至胸部以下，中分，带有小型装饰性花朵发饰\"},\"face\":\"刻意模糊/遮挡\"},\"anatomy_overlay\":{\"visible_parts_count\":8,\"visible_parts\":[\"头部发光的脑部\",\"胸部的肺与心脏\",\"腹部的消化器官\",\"骨盆处发光的生殖/泌尿区域\",\"双臂的动脉\",\"双臂的静脉\",\"双腿的动脉与静脉\",\"头部附近高亮的内耳平衡结构\"]},\"layout\":{\"title_block\":{\"count\":2,\"lines\":[\"VR が人体に与える影響\",\"VR 对人体的影响\"],\"position\":\"顶部居中\"},\"main_centerpiece\":\"全身角色，呈 T 型姿势，带有虚线标注，将身体各部位连接到周围的信息框\",\"info_boxes\":{\"count\":6,\"items\":[{\"title\":\"前頭前皮質活性化\",\"subtitle\":\"前额叶皮层激活\",\"position\":\"左上\",\"icon\":\"brain\"},{\"title\":\"視覚皮質 V1\",\"subtitle\":\"视觉皮层 V1\",\"position\":\"右上\",\"icon\":\"brain\"},{\"title\":\"心拍数 +12bpm\",\"subtitle\":\"心率 +12bpm\",\"position\":\"左中上\",\"icon\":\"heart\"},{\"title\":\"前庭系\",\"subtitle\":\"前庭系统\",\"position\":\"右中\",\"icon\":\"head and balance\"},{\"title\":\"ドーパミン分泌\",\"subtitle\":\"多巴胺分泌\",\"position\":\"左中下\",\"icon\":\"molecule/network\"},{\"title\":\"睡眠リズム影響\",\"subtitle\":\"昼夜节律偏移\",\"position\":\"右中下\",\"icon\":\"moon and stars\"}]},\"charts\":{\"count\":4,\"items\":[{\"title\":\"心拍数の変化（平均）\",\"subtitle\":\"心率变化（平均）\",\"position\":\"左中下\",\"chart_type\":\"带有蓝红线条的折线图\",\"labels\":[\"VR 体验中\",\"通常状态\",\"+12\"]},{\"title\":\"脳内ドーパミン活性（fMRI）\",\"subtitle\":\"脑内多巴胺活性（fMRI）\",\"position\":\"左下\",\"chart_type\":\"两个带有颜色标尺的脑部扫描图\",\"labels\":[\"通常状态\",\"VR 体验中\",\"静息状态\",\"VR 期间\"]},{\"title\":\"メラトニン分泌の変化（夜間）\",\"subtitle\":\"褪黑素分泌变化（夜间）\",\"position\":\"右下\",\"chart_type\":\"带有蓝红曲线的折线图\",\"labels\":[\"通常状态\",\"VR 观看后\",\"无 VR\",\"VR 后\",\"褪黑素分泌受抑制\"]},{\"title\":\"週平均VR使用時間: 14h\",\"subtitle\":\"每周平均 VR 使用时间：14 小时\",\"position\":\"左下\",\"chart_type\":\"饼图\",\"labels\":[\"0–7 小时\",\"7–14 小时\",\"14–21 小时\",\"21 小时+\"]}]},\"diagrams\":{\"count\":1,\"items\":[{\"title\":\"内耳平衡图\",\"position\":\"右中下，靠近前庭系统框\",\"labels\":[\"三半规管\",\"耳石器\"]}]},\"research_box\":{\"count\":1,\"position\":\"底部中右\",\"title\":\"研究启示 / Takeaways\",\"bullet_count\":4},\"branding\":{\"count\":3,\"items\":[\"来源：MR.VR RESEARCH LAB 2026\",\"MR.VR RESEARCH LAB\",\"右下角二维码\"]},\"border\":\"边缘带有装饰性技术边框，配有角落装饰和类似测量标记的小刻度\"},\"text_density\":\"高，全文包含日英双语副标题\",\"composition\":\"对称海报，角色两侧带有标注，图表固定在下角，标题位于顶部，醒目且粗体\",\"quality\":\"清晰，适合出版，正方形格式\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "VR 对人体影响的信息图：一张日英双语科学海报，展示了一位带有解剖学叠加图的动漫少女及多项图表，适用于重新创作教育类 VR 健康信息图。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "full-body",
+        "grid",
+        "front-facing",
+        "callout",
+        "layered"
+      ],
+      "style": [
+        "realistic",
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, full-body, grid, front-facing, callout, layered]。\n\nVisual style:\n[参考风格: realistic, anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14404",
+      "15091",
+      "14825",
+      "14531",
+      "15675",
+      "15332"
+    ]
+  }
+}

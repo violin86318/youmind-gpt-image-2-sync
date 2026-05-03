@@ -1,0 +1,42 @@
+{
+  "id": "14130",
+  "prompt": "帮我制作{argument name=\"菜名\" default=\"辣椒炒肉\"}这道菜的详细制作流程图，真实风格，适用于小红书图文比例",
+  "translatedPrompt": "Help me create a detailed production flowchart for the dish {argument name=\"dish name\" default=\"Fried Pork with Chili\"}, in a realistic style, suitable for Xiaohongshu image-text proportions.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Food Recipe Flowchart Prompt：A concise prompt for generating a realistic recipe cooking process diagram suitable for social media sharing.",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "教程流程、方法论、商业流程、食谱步骤",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14543",
+      "14737",
+      "13883",
+      "14048",
+      "13924",
+      "13611"
+    ]
+  }
+}

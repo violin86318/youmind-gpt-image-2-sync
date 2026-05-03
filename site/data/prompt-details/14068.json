@@ -1,0 +1,46 @@
+{
+  "id": "14068",
+  "prompt": "A photorealistic television news broadcast scene. On the right, a young Japanese female news anchor with shoulder-length dark brown hair and bangs looks directly at the camera with a professional expression. She wears a dark navy blazer over a white top, small earrings, and a lavalier microphone. The studio background features modern blue and silver illuminated panels. On the left, a large monitor displays a news graphic. The top of the monitor reads \"{argument name=\"game name\" default=\"Tokitori\"}\" followed by \"{argument name=\"monitor top text\" default=\"世界でも大人気のヒヨコゲーム\"}\". The left side of the monitor shows game cover art featuring a {argument name=\"character description\" default=\"round, yellow chick character with big eyes\"} on a green field, with the title \"{argument name=\"game name\" default=\"Tokitori\"}\" and text reading \"{argument name=\"monitor achievement text\" default=\"Steam売上 宇宙1位\"}\", \"販売本数 1億本突破\", and \"同時接続数 345万人\". The right side of the monitor displays a line graph titled \"売り上げ推移\" with an upward-trending yellow arrow, y-axis labels \"0\", \"5000万\", and \"1億\", and 3 x-axis dates \"4/1\", \"4/10\", and \"4/20\". A flat 2D version of the yellow chick sits on the graph line. Across the bottom of the screen is a prominent red lower-thirds breaking news banner. The left side of the banner has a box reading \"速報\" and the main text reads \"{argument name=\"breaking news headline\" default=\"TokitoriがSteam売り上げ宇宙1位に\"}\".",
+  "translatedPrompt": "一个照片级真实的电视新闻播报场景。右侧是一位年轻的日本女性新闻主播，留着齐肩深棕色短发和刘海，表情专业，直视镜头。她身穿深蓝色西装外套，内搭白色上衣，佩戴小巧耳环，并别着领夹式麦克风。演播室背景采用现代感十足的蓝色和银色发光面板。左侧的大型显示器展示着新闻图形。显示器顶部显示“{argument name=\"game name\" default=\"Tokitori\"}”，随后是“{argument name=\"monitor top text\" default=\"世界でも大人気のヒヨコゲーム\"}”。显示器左侧展示了游戏封面艺术，画面中是一个 {argument name=\"character description\" default=\"圆滚滚、有着大眼睛的黄色小鸡角色\"} 在绿色原野上，标题为“{argument name=\"game name\" default=\"Tokitori\"}”，文字内容包括“{argument name=\"monitor achievement text\" default=\"Steam売上 宇宙1位\"}”、“販売本数 1億本突破”以及“同時接続数 345万人”。显示器右侧展示了一张名为“売り上げ推移”的折线图，配有向上趋势的黄色箭头，Y 轴标签为“0”、“5000万”和“1億”，X 轴日期为“4/1”、“4/10”和“4/20”。黄色小鸡的平面 2D 版本位于折线上。屏幕底部是一条醒目的红色突发新闻横幅。横幅左侧的方框内写着“速報”，主标题文字为“{argument name=\"breaking news headline\" default=\"TokitoriがSteam売り上げ宇宙1位に\"}”。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日本突发新闻播报生成器：生成一个照片级真实的电视新闻播报场景，包含一位主播、可自定义的背景显示器图形以及下方的突发新闻横幅。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "studio"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, studio]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15778",
+      "13524",
+      "14043",
+      "15410",
+      "15792",
+      "13746"
+    ]
+  }
+}

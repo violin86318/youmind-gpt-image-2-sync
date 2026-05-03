@@ -1,0 +1,45 @@
+{
+  "id": "14030",
+  "prompt": "A highly realistic Blu-ray disc cover featuring a portrait of a young Japanese woman. She has short, messy black bob hair and wears large, round, thin wire-rimmed glasses. She is dressed in a thick, textured, dark red knit sweater. Her expression is soft and alluring, looking directly at the viewer. The background is a softly blurred, warm-toned indoor setting, possibly a cafe, with a glimpse of a white coffee cup and saucer on a table to the right. The lighting is warm and cinematic, highlighting her face and the texture of the sweater. The image is framed within a standard blue Blu-ray case border, complete with the Blu-ray Disc logo at the top center, top right, and bottom left corners. On the left side, there is large, elegant vertical Japanese text that reads '{argument name=\"main title\" default=\"魔女乃家 林檎\"}' with smaller furigana text beside it reading 'まじょのいえ りんご', accompanied by delicate, glowing pink decorative lines and star/pentagram motifs. In the bottom right corner, there is smaller Japanese text reading '{argument name=\"subtitle\" default=\"魔女のように、あなたを魅了する。\"}' above the English text 'R I N G O' and 'M A J Y O N O I E'.",
+  "translatedPrompt": "一张高度逼真的蓝光光盘封面，主体为一位年轻日本女性的肖像。她留着凌乱的黑色短波波头，戴着一副大而圆的细金属框眼镜。她身穿一件厚实、有质感的深红色针织毛衣。她的表情柔和而迷人，直视着镜头。背景是柔和模糊的暖色调室内环境，看起来像是在咖啡馆里，右侧桌上隐约可见一个白色咖啡杯和托盘。光线温暖且具有电影质感，突显了她的面部轮廓和毛衣的纹理。图像被框在标准的蓝色蓝光光盘盒边框内，顶部中央、右上角和左下角均配有蓝光光盘（Blu-ray Disc）标志。左侧有醒目且优雅的竖排日文文字“{argument name=\"main title\" default=\"魔女乃家 林檎\"}”，旁边配有注音假名“まじょのいえ りんご”，并装饰着精致的发光粉色线条和星星/五角星图案。右下角有较小的日文文字“{argument name=\"subtitle\" default=\"魔女のように、あなたを魅了する。\"}”，下方印有英文字母“R I N G O”和“M A J Y O N O I E”。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "照片级逼真蓝光光盘封面肖像：生成一张逼真的蓝光光盘封面，包含一位女性肖像，并支持自定义日文标题和副标题。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14188",
+      "15096",
+      "15308",
+      "15754",
+      "15758",
+      "15759"
+    ]
+  }
+}

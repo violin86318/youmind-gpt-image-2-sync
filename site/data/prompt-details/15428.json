@@ -1,0 +1,43 @@
+{
+  "id": "15428",
+  "prompt": "A highly detailed historical maritime scene at water level, showing two large wooden sailing ships anchored close together on calm reflective water under a bright blue sky with soft scattered clouds. On the left, a massive ornate European galleon dominates the composition, viewed from the rear-left stern quarter, with richly carved baroque stern decorations in gold, red, blue, and cream, heraldic emblems, multiple stern windows, and a dark hull with warm reddish-brown planking. It has 4 visible masts including a bowsprit, dense black rigging, crow's nests, and many cream-white square sails partially unfurled and hanging loosely. On the right, a traditional Chinese junk faces slightly left, with 1 very large rust-brown battened sail raised, a curved wooden hull in brown, black, and white, carved stern details, and smaller masts and rigging. In the foreground center, include 1 small wooden rowboat with 1 standing boatman wearing light clothing and a brimmed hat, adding scale between the two ships. In the distant background, show faint silhouettes of additional sailing vessels near the horizon on the far left. Lighting is crisp daylight with warm highlights on the wood, subtle reflections in the rippling water, and a painterly yet photorealistic finish, ultra-detailed textures, cinematic composition, wide aspect ratio, no modern elements.",
+  "translatedPrompt": "一幅极具细节的历史海洋场景，视角位于水面高度。画面展示了两艘大型木制帆船在平静且具有倒影的水面上近距离停泊，背景是明亮的蓝天和零星的柔和云朵。左侧是一艘宏伟华丽的欧洲大帆船，从左后方船尾视角呈现，船尾装饰着金、红、蓝、奶油色的巴洛克风格雕刻、纹章标志、多扇船尾窗，以及带有温暖红棕色木板的深色船体。船上有 4 根可见的桅杆（包括斜桅）、密集的黑色索具、瞭望台，以及许多半展开并自然下垂的奶油白色方帆。右侧是一艘略微朝左的传统中国帆船，挂着 1 面巨大的铁锈棕色板条帆，船体呈棕、黑、白色，带有雕刻的船尾细节，以及较小的桅杆和索具。画面前景中央包含 1 艘小型木制划艇，船上站着 1 位身穿浅色衣服、戴着宽檐帽的船夫，为两艘大船之间提供了比例参照。远景背景中，左侧地平线附近隐约可见其他帆船的轮廓。光线为清澈的日光，木材上带有温暖的高光，水面波纹中映出微妙的倒影，整体呈现出兼具绘画感与写实感的风格，纹理极其细腻，构图具有电影感，采用宽画幅比例，不包含任何现代元素。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "历史大帆船与中国帆船：此提示词可生成一幅包含两艘不同历史帆船及一艘前景小船的精细海景图，非常适合用于海洋艺术、历史插画或电影感墙面装饰画。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15441",
+      "13788",
+      "15720",
+      "13783",
+      "14450",
+      "15273"
+    ]
+  }
+}

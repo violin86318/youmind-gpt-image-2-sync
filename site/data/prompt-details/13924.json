@@ -1,0 +1,46 @@
+{
+  "id": "13924",
+  "prompt": "{\n  \"type\": \"infographic\",\n  \"style\": \"clean, modern, professional, soft green and beige color palette, photorealistic character integration\",\n  \"header\": {\n    \"icon\": \"lightbulb\",\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"ここまでの Seedance 2.0 の使い方まとめ\\\"}\",\n    \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"実写MV・会話・芝居系を想定した実践メモ\\\"}\"\n  },\n  \"presenter_character\": \"{argument name=\\\"presenter description\\\" default=\\\"photorealistic young Japanese woman with long dark brown hair wearing a beige sleeveless top\\\"}\",\n  \"total_presenter_cutouts\": 6,\n  \"layout\": {\n    \"sections\": [\n      {\n        \"number\": 1,\n        \"title\": \"{argument name=\\\"section 1 title\\\" default=\\\"参照画像と背景づくり\\\"}\",\n        \"elements\": \"3 bullet points, 1 horizontal 3-step flowchart with thumbnail images (cityscape, text box, video player)\",\n        \"presenter_pose\": \"pointing left towards the flowchart, with a speech bubble\"\n      },\n      {\n        \"number\": 2,\n        \"title\": \"{argument name=\\\"section 2 title\\\" default=\\\"プロンプトは長くてもかなり耐える\\\"}\",\n        \"elements\": \"2 bullet points, 1 table with 3 rows featuring icons (lock, clock, prohibition sign)\",\n        \"presenter_pose\": \"neutral expression, looking forward, with a speech bubble\"\n      },\n      {\n        \"number\": 3,\n        \"title\": \"秒数に“隙間”を作らない\",\n        \"elements\": \"2 bullet points, 1 horizontal timeline graphic with 3 segments\",\n        \"presenter_pose\": \"pointing up, looking slightly left, with a speech bubble\"\n      },\n      {\n        \"number\": 4,\n        \"title\": \"720p と 1080p の使い分け\",\n        \"elements\": \"text description, 1 two-column comparison table (green column, orange column)\",\n        \"presenter_pose\": \"looking forward, with a speech bubble\"\n      },\n      {\n        \"number\": 5,\n        \"title\": \"今後の課題 / 次の動画への引き継ぎ\",\n        \"elements\": \"4 bullet points\",\n        \"presenter_pose\": \"looking slightly right, with a speech bubble\"\n      },\n      {\n        \"type\": \"summary_box\",\n        \"title\": \"実践メモ 要点\",\n        \"elements\": \"clipboard icon, 5 checklist items with green checkmarks\",\n        \"presenter_pose\": \"large portrait from chest up, looking directly at viewer\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"infographic\",\n  \"style\": \"简洁、现代、专业，采用柔和的绿色和米色调，融合写实风格人物\",\n  \"header\": {\n    \"icon\": \"lightbulb\",\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"Seedance 2.0 使用指南总结\\\"}\",\n    \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"针对实拍 MV、对话及表演场景的实践笔记\\\"}\"\n  },\n  \"presenter_character\": \"{argument name=\\\"presenter description\\\" default=\\\"一位写实风格的年轻日本女性，留着深棕色长发，身穿米色无袖上衣\\\"}\",\n  \"total_presenter_cutouts\": 6,\n  \"layout\": {\n    \"sections\": [\n      {\n        \"number\": 1,\n        \"title\": \"{argument name=\\\"section 1 title\\\" default=\\\"参考图像与背景制作\\\"}\",\n        \"elements\": \"3 个要点，1 个水平 3 步流程图，包含缩略图（城市景观、文本框、视频播放器）\",\n        \"presenter_pose\": \"指向左侧的流程图，配有对话气泡\"\n      },\n      {\n        \"number\": 2,\n        \"title\": \"{argument name=\\\"section 2 title\\\" default=\\\"长提示词也能保持良好效果\\\"}\",\n        \"elements\": \"2 个要点，1 个包含 3 行内容的表格，带有图标（锁、时钟、禁止标志）\",\n        \"presenter_pose\": \"表情中立，目视前方，配有对话气泡\"\n      },\n      {\n        \"number\": 3,\n        \"title\": \"确保秒数之间没有“间隙”\",\n        \"elements\": \"2 个要点，1 个包含 3 个片段的水平时间轴图形\",\n        \"presenter_pose\": \"向上指，视线微向左，配有对话气泡\"\n      },\n      {\n        \"number\": 4,\n        \"title\": \"720p 与 1080p 的使用区别\",\n        \"elements\": \"文本描述，1 个双列对比表格（绿色列、橙色列）\",\n        \"presenter_pose\": \"目视前方，配有对话气泡\"\n      },\n      {\n        \"number\": 5,\n        \"title\": \"未来课题 / 下一视频的衔接\",\n        \"elements\": \"4 个要点\",\n        \"presenter_pose\": \"视线微向右，配有对话气泡\"\n      },\n      {\n        \"type\": \"summary_box\",\n        \"title\": \"实践笔记要点\",\n        \"elements\": \"剪贴板图标，5 个带有绿色勾选标记的清单项\",\n        \"presenter_pose\": \"胸部以上的大幅肖像，直视观众\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "软件工作流信息图：生成高度结构化、多板块的信息图，包含写实风格的人像引导，非常适合软件教程、工作流总结或最佳实践指南。",
+      "subject": "人物",
+      "scene": "信息图/图解",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "教程流程、方法论、商业流程、食谱步骤",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13611",
+      "13883",
+      "15292",
+      "15110",
+      "14048",
+      "14870"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "13451",
+  "prompt": "A photorealistic portrait of a {argument name=\"subject description\" default=\"young East Asian woman\"} sitting at a wooden counter in a {argument name=\"setting\" default=\"dimly lit izakaya\"}. She has long wavy black hair and wears a {argument name=\"top clothing\" default=\"deep red silk button-down shirt\"}, a black mini skirt, sheer black tights, and red high heels. She holds a {argument name=\"drink\" default=\"glass of beer\"} and looks at the camera with a slight pout. The background features blurred patrons and warm glowing {argument name=\"lighting source\" default=\"paper lanterns\"}. Cinematic lighting, shallow depth of field.",
+  "translatedPrompt": "一张照片级写实人像，主角是 {argument name=\"subject description\" default=\"一位年轻的东亚女性\"}，正坐在 {argument name=\"setting\" default=\"灯光昏暗的居酒屋\"} 的木质吧台前。她留着黑色长卷发，身穿 {argument name=\"top clothing\" default=\"深红色丝绸衬衫\"}、黑色短裙、黑色透明连裤袜和红色高跟鞋。她手中拿着 {argument name=\"drink\" default=\"一杯啤酒\"}，微微嘟嘴看向镜头。背景中可以看到模糊的顾客和温暖的 {argument name=\"lighting source\" default=\"纸灯笼\"}。电影级布光，浅景深效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "照片级写实居酒屋人像：生成一张坐在吧台前的照片级写实人像，非常适合生活方式或角色摄影。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13448",
+      "14017",
+      "13653",
+      "13697",
+      "13698",
+      "15762"
+    ]
+  }
+}

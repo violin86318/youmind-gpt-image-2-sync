@@ -1,0 +1,35 @@
+{
+  "id": "13972",
+  "prompt": "この手書きラフ（添付画像）のレイアウトを再現し、下記の要件で広告画像を生成してください。\n\n# タイトル・企画\n- AIを活用した新しい営業支援ツール「{argument name=\"ツール名\" default=\"KAWAISALES\"}」\n\n# 目的\n- 無料デモの申し込み獲得\n\n# ターゲット\n- 営業成績に伸び悩む中小企業の営業担当者\n\n# 内容\n## メインコピー\n- その営業、AIで「飛躍」しませんか？\n## サブコピー\n- リード獲得からクロージングまでAI があなたの営業活動を強力サポート！\n## CTA\n- 今すぐ無料デモを体験する## アイキャッチ1\n- ノートPCを見ながら笑顔で顧客とオンライン商談をしている、スタイリッシュなスーツ姿の30代男女の営業担当者（フォトリアル）\n## アイキャッチ2\n- 右肩上がりのグラフや、ターゲット顧客を示すアイコンなど、サービスのメリットを象徴する抽象的なイラストや図形。\n\n# 印象\n- 信頼感、革新的、成果が出そう、使いやすそう",
+  "translatedPrompt": "请根据这张手绘草图（见附件）的布局，按照以下要求生成一张广告图片。\n\n# 标题/项目\n- 一款全新的 AI 销售支持工具：\"{argument name=\"tool name\" default=\"KAWAISALES\"}\"\n\n# 目的\n- 获取免费演示版的注册用户\n\n# 目标受众\n- 为销售业绩苦恼的中小型企业销售代表\n\n# 内容\n## 主标题\n- 何不让您的销售业绩借 AI 之力“腾飞”？\n## 副标题\n- AI 全力支持您的销售活动，从线索获取到最终成交！\n## CTA\n- 立即体验免费演示！\n## 视觉元素 1\n- 照片级写实风格，展示 30 多岁、身着西装的男女销售代表，正微笑着通过笔记本电脑与客户进行在线商务会议。\n## 视觉元素 2\n- 象征服务优势的抽象插图或图形，例如上升的图表或代表目标客户的图标。\n\n# 印象\n- 值得信赖、创新、高效、易于使用",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "KAWAISALES 广告设计：一个专业的广告生成提示词，利用手绘草图作为参考，制作现代化的销售工具宣传图。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13449",
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686"
+    ]
+  }
+}

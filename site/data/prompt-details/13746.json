@@ -1,0 +1,43 @@
+{
+  "id": "13746",
+  "prompt": "A photorealistic, highly detailed image of a {argument name=\"car description\" default=\"blue Alpine A110 R sports car with a black hood\"} parked in the foreground inside a large, spacious aircraft hangar. Directly behind the car is a {argument name=\"airplane description\" default=\"white Airbus A320 commercial airplane\"} with \"AIRBUS A320\" painted on its fuselage and a blue tail. The car features black alloy wheels and a front license plate reading \"{argument name=\"license plate text\" default=\"A110 R\"}\". The hangar has a smooth, glossy concrete floor that clearly reflects both vehicles. On the left wall, a large sign reads \"{argument name=\"hangar sign text\" default=\"HANGAR 05 MAINTENANCE\"}\". The massive hangar doors are open in the background, revealing a bright, cloudy sky and a distant tarmac. Cinematic lighting, sharp focus, automotive photography style.",
+  "translatedPrompt": "一张照片级、高细节的图像，展示了一辆 {argument name=\"car description\" default=\"带有黑色引擎盖的蓝色 Alpine A110 R 跑车\"} 停在宽敞大型飞机机库内的前景中。汽车正后方是一架 {argument name=\"airplane description\" default=\"白色的 Airbus A320 商用客机\"}，机身上印有“AIRBUS A320”字样，尾翼为蓝色。汽车配有黑色合金轮毂，前车牌上写着“{argument name=\"license plate text\" default=\"A110 R\"}”。机库地面为光滑的亮面混凝土，清晰地反射出两辆载具。左侧墙上挂着一块大牌子，上面写着“{argument name=\"hangar sign text\" default=\"HANGAR 05 MAINTENANCE\"}”。背景中巨大的机库门敞开，露出明亮多云的天空和远处的停机坪。电影级光影，焦点清晰，汽车摄影风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "机库中的跑车与客机：生成一张停在维修机库内、商用客机前方的跑车照片级图像。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14043",
+      "13766",
+      "14018",
+      "14372",
+      "14831",
+      "14869"
+    ]
+  }
+}

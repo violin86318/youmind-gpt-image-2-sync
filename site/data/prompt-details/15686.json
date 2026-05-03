@@ -1,0 +1,48 @@
+{
+  "id": "15686",
+  "prompt": "A warm, golden-hour anime illustration of a fashionable gyaru high school girl leaning casually against a classroom desk in an empty Japanese classroom. She is centered in a medium full-body portrait, facing the viewer with a slightly forward-leaning pose, one hand resting on the desk and the other tucked into her cardigan pocket, giving off a friendly, approachable, otaku-friendly gyaru vibe. She has long, wavy {argument name=\"hair color\" default=\"bleached blonde\"} hair with soft volume and loose curls around her shoulders, a slightly tousled glamorous look, multiple ear piercings, delicate necklaces, long manicured nails, and subtle youthful makeup. Her outfit is a Japanese school uniform styled fashionably: a loose beige cardigan worn open over a white button-up shirt with the top buttons undone, a large navy plaid ribbon bow at the collar, and a short dark plaid pleated skirt. The classroom is lit by low afternoon sunlight streaming in from large windows on the left, creating long shadows, glowing rim light on her hair, and a nostalgic amber atmosphere. In the background are several wooden desks and chairs, a green chalkboard with handwritten Japanese thank-you messages and doodles in chalk, and the soft ambiance of a quiet after-school scene. Highly detailed anime rendering, polished light novel / visual novel key art quality, soft cinematic lighting, elegant shading, romantic nostalgic mood, vertical composition.",
+  "translatedPrompt": "一张温暖的黄金时刻动漫插画，描绘了一位时尚的辣妹（gyaru）高中女生，她随意地靠在空荡荡的日本教室课桌旁。她位于中景全身肖像的中心，面向观众，身体微微前倾，一只手放在桌子上，另一只手插在开衫口袋里，散发出一种友善、平易近人且符合御宅族审美的辣妹气质。她留着长长的波浪卷发，{argument name=\"hair color\" default=\"漂染金发\"}，发丝蓬松且在肩部呈现出自然的卷度，带着一种略显凌乱的迷人感，佩戴着多个耳环、精致的项链，留着长长的美甲，妆容清透年轻。她的装扮是时尚化的日本校服：一件宽松的米色开衫敞开穿在白色衬衫外，衬衫领口解开，领口系着一个大的深蓝色格子蝴蝶结，下身是短款深色格子百褶裙。教室被左侧大窗户射入的午后低角度阳光照亮，形成了长长的阴影，她的发丝边缘泛着柔和的轮廓光，营造出一种怀旧的琥珀色氛围。背景中有几张木制课桌椅、一块写有日语感谢语和粉笔涂鸦的绿色黑板，以及放学后安静场景的柔和氛围。高细节动漫渲染，精致的轻小说/视觉小说关键视觉图质量，柔和的电影级光影，优雅的阴影处理，浪漫的怀旧情绪，竖构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "黄金时刻的辣妹（Gyaru）在教室：此提示词可生成一张精致的动漫风格肖像，描绘了在阳光明媚的教室里的一位友善辣妹（gyaru）女学生，非常适合用于角色艺术、社交媒体 AI 艺术发布或视觉小说风格的插画。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "full-body",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "anime"
+      ],
+      "lightingCamera": [
+        "rim light"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, full-body, vertical]。\n\nVisual style:\n[参考风格: cinematic, anime]。\n\nLighting and camera:\n[参考光线镜头: rim light]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15703",
+      "14955",
+      "15626",
+      "15757",
+      "14422",
+      "14587"
+    ]
+  }
+}

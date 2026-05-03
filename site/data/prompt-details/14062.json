@@ -1,0 +1,46 @@
+{
+  "id": "14062",
+  "prompt": "A highly realistic, dramatic studio portrait of {argument name=\"subject\" default=\"a man resembling Sam Altman with short wavy brown hair, blue eyes, thin eyebrows, and detailed skin texture\"}, wearing a dark crew neck sweater. The composition is split vertically down the middle. The left half displays a standard photographic portrait against a dark background. The right half consists of a solid {argument name=\"background color\" default=\"dark blue\"} background with large, bold, sans-serif text acting as a clipping mask. The text reads \"{argument name=\"overlay text\" default=\"WE WANT GPT 5.5 ASAP\"}\", stacked vertically across five lines. The letters are transparent windows revealing the right half of the man's face and torso, perfectly aligned with the left side to complete the portrait through the typography.",
+  "translatedPrompt": "一张高度逼真、极具戏剧性的摄影棚人像，主角为 {argument name=\"subject\" default=\"一位长相酷似 Sam Altman 的男性，留着棕色短卷发，拥有蓝色眼睛、细眉毛和细腻的皮肤纹理\"}，身穿深色圆领毛衣。构图沿中线垂直分割。左半部分为深色背景下的标准摄影人像。右半部分为纯色 {argument name=\"background color\" default=\"深蓝色\"} 背景，并配有巨大的粗体无衬线文字作为剪切遮罩。文字内容为 \"{argument name=\"overlay text\" default=\"WE WANT GPT 5.5 ASAP\"}\"，垂直堆叠为五行。字母如同透明窗口，显露出该男性的右侧面部和躯干，并与左侧完美对齐，通过排版呈现出完整的人像。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "半脸排版遮罩人像：生成一张极具戏剧性的人像，画面一分为二，右侧通过作为剪切遮罩的粗体堆叠排版呈现。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14594",
+      "14628",
+      "15028",
+      "15533",
+      "15317",
+      "14301"
+    ]
+  }
+}

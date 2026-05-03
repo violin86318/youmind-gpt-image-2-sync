@@ -1,0 +1,31 @@
+{
+  "id": "14337",
+  "prompt": "Late {argument name=\"era\" default=\"90s\"} {argument name=\"magazine\" default=\"Jet magazine\"} with cover promoting {argument name=\"feature\" default=\"What’s Love Got To Do With It\"}. on a coffee table next to an open jet magazine which is opened to the {argument name=\"page\" default=\"JET Beauty of the week\"} page",
+  "translatedPrompt": "放置在咖啡桌上的 {argument name=\"era\" default=\"90 年代\"} {argument name=\"magazine\" default=\"Jet 杂志\"}，封面宣传着 {argument name=\"feature\" default=\"What’s Love Got To Do With It\"}。旁边还有一本翻开的 Jet 杂志，页面停留在 {argument name=\"page\" default=\"JET Beauty of the week\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古 Jet 杂志封面场景：一个详细的提示词，用于生成咖啡桌上充满 90 年代怀旧感的杂志场景，并提供精准的文字渲染。",
+      "subject": "综合主体",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14058",
+      "14330",
+      "14719",
+      "13973",
+      "14331",
+      "14358"
+    ]
+  }
+}

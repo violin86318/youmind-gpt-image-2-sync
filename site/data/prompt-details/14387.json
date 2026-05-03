@@ -1,0 +1,37 @@
+{
+  "id": "14387",
+  "prompt": "page excerpts from: \"{argument name=\"book title\" default=\"Eldritch Horrors as Pets: A Guide\"}\"",
+  "translatedPrompt": "页面摘录来自：\"{argument name=\"book title\" default=\"将克苏鲁生物作为宠物：指南\"}\"",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "虚构书籍页面摘录：为具有独特和超现实主题的虚构书籍创建详细的页面摘录，适用于世界观构建和创意写作练习。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13984",
+      "14328",
+      "14782",
+      "13662",
+      "13915",
+      "14379"
+    ]
+  }
+}

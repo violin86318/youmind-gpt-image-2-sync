@@ -1,0 +1,59 @@
+{
+  "id": "15806",
+  "prompt": "{\"type\":\"2x2 cinematic action grid\",\"style\":\"ultra-detailed sci-fi action film stills, photorealistic, dramatic lighting, high contrast, sparks, smoke, shallow depth of field\",\"subject\":{\"character\":\"androgynous white-haired fighter wearing a gray knit beanie, dark tactical jacket, gloves, fitted black pants, combat boots, a black backpack, and a respirator mask with hose tubing\",\"accessories\":[\"gray knit beanie\",\"respirator mask\",\"black tactical backpack\",\"glowing green vial canisters at the waist with 2 visible capsules\",\"utility belt with the text INDUSTRIES\"],\"weapons\":[\"compact futuristic pistol with green accent light\",\"glowing green combat knife\"]},\"opponents\":{\"count\":4,\"description\":\"heavily armored black humanoid robots with red sensor lights and hard-surface plating\"},\"environment\":{\"location\":\"dark industrial interior or underground facility\",\"details\":[\"metal walls\",\"haze and smoke plumes\",\"floating embers\",\"cinematic backlight\",\"wet or reflective floor\"]},\"layout\":{\"grid\":\"2x2 with thin white dividers\",\"sections\":[{\"title\":\"top left\",\"position\":\"top-left\",\"count\":1,\"labels\":[\"close-quarters punch into robot face, impact sparks exploding, low angle, robot in foreground\"]},{\"title\":\"top right\",\"position\":\"top-right\",\"count\":1,\"labels\":[\"kneeling gunfight, character aiming pistol at robot, bright muzzle flash, smoke behind\"]},{\"title\":\"bottom left\",\"position\":\"bottom-left\",\"count\":1,\"labels\":[\"midair leap attack, raised glowing green knife, descending toward robot below, dynamic foreshortening\"]},{\"title\":\"bottom right\",\"position\":\"bottom-right\",\"count\":1,\"labels\":[\"grappling clinch with robot, stabbing glowing green knife into chest or neck area, intimate close combat\"]}]},\"camera\":{\"framing\":\"each panel is a tight cinematic action shot\",\"lenses\":[\"close-up action perspective\",\"medium shot with foreground robot silhouette\",\"low-angle dynamic shot\"],\"motion\":\"frozen peak-action moments with debris and sparks\"},\"lighting\":{\"key\":\"moody teal-orange industrial lighting\",\"effects\":[\"weapon muzzle flash\",\"green glow from knife and waist canisters\",\"rim lighting on armor\",\"volumetric smoke\"]},\"color_palette\":{\"dominant\":[\"charcoal black\",\"gunmetal gray\",\"olive gray\",\"warm orange sparks\",\"neon green highlights\"]},\"quality\":{\"render\":\"highly polished blockbuster concept art / premium game key art\",\"aspect_ratio\":\"portrait 4:5\"}}",
+  "translatedPrompt": "{\"type\":\"2x2 电影感动作网格\",\"style\":\"超精细科幻动作电影剧照，照片级真实感，戏剧性光影，高对比度，火花，烟雾，浅景深\",\"subject\":{\"character\":\"中性白发战士，佩戴灰色针织帽、深色战术夹克、手套、修身黑裤、作战靴、黑色背包，以及带有软管的呼吸面罩\",\"accessories\":[\"灰色针织帽\",\"呼吸面罩\",\"黑色战术背包\",\"腰间带有 2 个可见胶囊的发光绿色药剂瓶\",\"印有 INDUSTRIES 字样的多功能腰带\"],\"weapons\":[\"带有绿色强调灯的紧凑型未来派手枪\",\"发光绿色战斗刀\"]},\"opponents\":{\"count\":4,\"description\":\"重装甲黑色人形机器人，带有红色传感器灯和硬表面装甲\"},\"environment\":{\"location\":\"黑暗的工业内部或地下设施\",\"details\":[\"金属墙壁\",\"薄雾和烟雾\",\"漂浮的余烬\",\"电影感背光\",\"潮湿或反光的地面\"]},\"layout\":{\"grid\":\"2x2，带有细白色分隔线\",\"sections\":[{\"title\":\"左上\",\"position\":\"top-left\",\"count\":1,\"labels\":[\"近距离拳击机器人面部，撞击火花四溅，低角度，机器人位于前景\"]},{\"title\":\"右上\",\"position\":\"top-right\",\"count\":1,\"labels\":[\"跪姿枪战，角色手持手枪瞄准机器人，明亮的枪口闪光，身后烟雾缭绕\"]},{\"title\":\"左下\",\"position\":\"bottom-left\",\"count\":1,\"labels\":[\"空中跳跃攻击，举起发光的绿色战术刀，向下俯冲攻击下方的机器人，动态透视\"]},{\"title\":\"右下\",\"position\":\"bottom-right\",\"count\":1,\"labels\":[\"与机器人缠斗，将发光的绿色战术刀刺入其胸部或颈部区域，近身肉搏\"]}]},\"camera\":{\"framing\":\"每个面板都是紧凑的电影感动作镜头\",\"lenses\":[\"特写动作视角\",\"带有前景机器人剪影的中景镜头\",\"低角度动态镜头\"],\"motion\":\"定格动作巅峰瞬间，伴有碎片和火花\"},\"lighting\":{\"key\":\"忧郁的青橙色工业灯光\",\"effects\":[\"武器枪口闪光\",\"刀具和腰间药剂瓶发出的绿光\",\"装甲边缘光\",\"体积烟雾\"]},\"color_palette\":{\"dominant\":[\"炭黑色\",\"枪灰色\",\"橄榄灰\",\"温暖的橙色火花\",\"霓虹绿高光\"]},\"quality\":{\"render\":\"高度精细的大片概念艺术 / 高端游戏主视觉图\",\"aspect_ratio\":\"纵向 4:5\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "2x2 科幻战斗动作网格：一个四格电影感科幻动作拼贴图，展示了一名戴着面具的战术战士与装甲机器人战斗的场景，非常适合测试多面板构图和动态动作的一致性。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up",
+        "grid",
+        "2x2"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "sci-fi",
+        "premium"
+      ],
+      "lightingCamera": [
+        "dramatic lighting",
+        "rim light",
+        "backlight",
+        "neon",
+        "volumetric",
+        "high contrast"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, grid, 2x2]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, sci-fi, premium]。\n\nLighting and camera:\n[参考光线镜头: dramatic lighting, rim light, backlight, neon, volumetric, high contrast]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14483",
+      "14598",
+      "15315",
+      "15687",
+      "15096",
+      "14946"
+    ]
+  }
+}

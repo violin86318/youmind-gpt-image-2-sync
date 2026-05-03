@@ -1,0 +1,45 @@
+{
+  "id": "15534",
+  "prompt": "{\n  \"parameters\": {\n    \"aspect_ratio\": \"2:3\",\n    \"version\": \"6.0\",\n    \"style_type\": \"Realistic photograph, cinematic lighting, high detail, gritty texture\"\n  },\nsignature: “ XSydneyFan \" in corner Cursive style\n  \"subject_description\": {\n    \"demographics\": \"Beautiful young woman, fair skin.\",\n    \"hair\": \"Dark long length black hair, some strands falling over her forehead.\",\n    \"details\": \"Some smudges of black soot and dirt on her face, neck, and hand (not in much amount).\"\n  },\n  \"attire\": {\n    \"outerwear\": \"Bright orange prisoner jumpsuit (boiler suit), slightly oversized. Distressed and dirty, covered in black soot stains.\",\n    \"details\": \"The number '000' is printed in large black font on the right side of the chest.\",\n    \"under_layer\": \"Grey crew-neck t-shirt visible underneath.\",\n    \"accessories\": \"Silver rings on fingers.\"\n  },\n  \"pose_and_expression\": {\n    \"stance\": \"Standing in a mugshot lineup stance. Making direct eye contact with the camera.\",\n    \"expression\": \"Deadpan, serious, nonchalant, looking unimpressed or bored.\",\n    \"right_hand_action\": \"Raised casually, fingers touching the hair behind her right ear/neck area.\",\n    \"left_hand_action\": \"Holding a black and white clapperboard/slate in front of her chest.\"\n  },\n  \"props\": {\n    \"slate_board_content\": {\n      \"main_text\": \"🚫 ARRESTED 🚫 For illegally Money\",\n      \"date\": \"12-28 25-26\"\n    }\n  },\n  \"environment\": {\n    \"setting\": \"A gritty, dilapidated room. The wall behind is peeling, cracked, and textured, resembling an abandoned concrete building or a ruined police station.\",\n    \"background_elements\": [\n      \"Height chart on the wall.\",\n      \"The word 'POLCIE' written at the top left of the wall.\"\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"parameters\": {\n    \"aspect_ratio\": \"2:3\",\n    \"version\": \"6.0\",\n    \"style_type\": \"写实摄影，电影级布光，高细节，粗粝质感\"\n  },\nsignature: “ XSydneyFan \" in corner Cursive style\n  \"subject_description\": {\n    \"demographics\": \"美丽的年轻女性，皮肤白皙。\",\n    \"hair\": \"深长黑发，几缕发丝垂在额前。\",\n    \"details\": \"脸部、颈部和手部有少量黑色煤灰和污垢痕迹。\"\n  },\n  \"attire\": {\n    \"outerwear\": \"亮橙色囚服（连体工作服），略显宽大。破旧且肮脏，布满黑色煤灰污渍。\",\n    \"details\": \"胸部右侧印有大号黑色字体数字 '000'。\",\n    \"under_layer\": \"内搭灰色圆领 T 恤。\",\n    \"accessories\": \"手指上戴着银戒指。\"\n  },\n  \"pose_and_expression\": {\n    \"stance\": \"以入狱照站姿站立。直视镜头。\",\n    \"expression\": \"面无表情，严肃，冷漠，看起来不以为然或感到无聊。\",\n    \"right_hand_action\": \"随意抬起，手指触碰右耳后方/颈部区域的头发。\",\n    \"left_hand_action\": \"在胸前拿着一块黑白场记板。\"\n  },\n  \"props\": {\n    \"slate_board_content\": {\n      \"main_text\": \"🚫 ARRESTED 🚫 For illegally Money\",\n      \"date\": \"12-28 25-26\"\n    }\n  },\n  \"environment\": {\n    \"setting\": \"一个粗粝、破旧的房间。身后的墙壁剥落、开裂且富有纹理，类似于废弃的混凝土建筑或破败的警察局。\",\n    \"background_elements\": [\n      \"墙上的身高测量表。\",\n      \"墙壁左上角写着 'POLCIE' 字样。\"\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "写实风格囚犯入狱照肖像：一份基于 JSON 的详细提示词，用于生成身穿橙色囚服的囚犯的写实电影感入狱照。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15515",
+      "15766",
+      "14077",
+      "14561",
+      "14562",
+      "14600"
+    ]
+  }
+}

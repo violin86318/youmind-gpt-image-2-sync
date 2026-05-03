@@ -1,0 +1,36 @@
+{
+  "id": "14396",
+  "prompt": "line graph from an important and prestigious {argument name=\"field\" default=\"economics paper\"} demonstrating a close but not exact relationship between {argument name=\"variable one\" default=\"the price of oil\"} and {argument name=\"variable two\" default=\"the number of shark attacks\"} between {argument name=\"time period\" default=\"the years of 1914 and 2001\"}",
+  "translatedPrompt": "来自一份重要且权威的 {argument name=\"field\" default=\"经济学论文\"} 的折线图，展示了 {argument name=\"time period\" default=\"1914 年至 2001 年间\"} {argument name=\"variable one\" default=\"油价\"} 与 {argument name=\"variable two\" default=\"鲨鱼袭击次数\"} 之间存在紧密但不完全一致的关系",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "学术经济学图表模拟：一个旨在生成高度逼真但虚构的学术图表的提示词，专门用于展示经济学论文风格中油价与鲨鱼袭击事件之间的相关性。",
+      "subject": "综合主体",
+      "scene": "插画/漫画",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "动漫分镜、战斗场景、运动瞬间、夸张叙事图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 插画/漫画 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15216",
+      "14800",
+      "13914",
+      "14074",
+      "14323",
+      "15277"
+    ]
+  }
+}

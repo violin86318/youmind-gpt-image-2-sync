@@ -1,0 +1,41 @@
+{
+  "id": "13681",
+  "prompt": "{\n  \"type\": \"voxel video game screenshot\",\n  \"style\": \"crossover between Minecraft and Terraria\",\n  \"environment\": \"nighttime blocky landscape, purple-tinted corruption biome, water pools, trees\",\n  \"first_person_view\": \"holding a large blocky sword on the right side of the screen\",\n  \"entities\": {\n    \"boss\": \"giant floating eyeball with red veins shooting a purple laser\",\n    \"player_avatar\": \"character in dark armor holding a green sword, viewed from behind\",\n    \"mobs\": [\n      \"1 giant crowned blue slime\",\n      \"1 small blue slime\",\n      \"2 zombies\",\n      \"2 skeletons\",\n      \"2 purple bats\",\n      \"1 pink flamingo\"\n    ]\n  },\n  \"user_interface\": {\n    \"boss_bar\": \"top center, purple bar, text '{argument name=\\\"boss name\\\" default=\\\"Eye of Cthulhu\\\"}'\",\n    \"coordinates\": \"top left, text 'X: 340 Y: 64 Z: -190 Biome: {argument name=\\\"biome name\\\" default=\\\"Corruption\\\"}'\",\n    \"notification\": \"top right, white box, text '{argument name=\\\"notification text\\\" default=\\\"New Recipes Unlocked! Check your recipe book\\\"}'\",\n    \"chat\": \"bottom left, text 'Steve has made the advancement [{argument name=\\\"advancement name\\\" default=\\\"Eye of Cthulhu\\\"}]'\",\n    \"status_bars\": \"bottom center, 10 red hearts, 10 hunger icons, green XP bar showing level 15\",\n    \"hotbar\": \"bottom center, 9 slots containing: purple sword, pickaxe, axe, green tool, gun, 30 red potions, 64 brown blocks, 8 golden apples, 2 blue stars\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"第一人称体素游戏截图\",\n  \"environment\": {\n    \"style\": \"方块 3D 像素艺术\",\n    \"time\": \"夜晚\",\n    \"biome\": \"{argument name=\\\"biome name\\\" default=\\\"腐化之地\\\"}\",\n    \"features\": \"紫色草地、紫色树叶的树木、水池、火把\"\n  },\n  \"entities\": [\n    {\n      \"name\": \"{argument name=\\\"boss name\\\" default=\\\"克苏鲁之眼\\\"}\",\n      \"description\": \"巨大的浮空眼球，正在发射紫色激光\"\n    },\n    {\n      \"name\": \"史莱姆王\",\n      \"description\": \"戴着金红宝石皇冠的巨大蓝色史莱姆\"\n    },\n    {\n      \"name\": \"{argument name=\\\"player name\\\" default=\\\"史蒂夫\\\"}\",\n      \"description\": \"穿着深色盔甲、手持绿色长剑的多人游戏角色\"\n    },\n    {\n      \"name\": \"敌对怪物\",\n      \"count\": 6,\n      \"types\": [\n        \"2 只骷髅\",\n        \"2 只僵尸\",\n        \"2 只紫色蝙蝠\"\n      ]\n    },\n    {\n      \"name\": \"中立怪物\",\n      \"count\": 2,\n      \"types\": [\n        \"1 只粉色火烈鸟\",\n        \"1 只小型蓝色史莱姆\"\n      ]\n    },\n    {\n      \"name\": \"触手\",\n      \"count\": 1,\n      \"description\": \"带有眼睛的紫色分段触手\"\n    }\n  ],\n  \"first_person_view\": {\n    \"right_hand\": \"手持一把大型像素化铁剑\"\n  },\n  \"ui_overlay\": {\n    \"top_left\": {\n      \"type\": \"调试信息\",\n      \"lines\": [\n        \"X: 340\",\n        \"Y: 64\",\n        \"Z: -190\",\n        \"生物群系: {argument name=\\\"biome name\\\" default=\\\"腐化之地\\\"}\"\n      ]\n    },\n    \"top_center\": {\n      \"type\": \"Boss 血条\",\n      \"color\": \"紫色\",\n      \"label\": \"{argument name=\\\"boss name\\\" default=\\\"克苏鲁之眼\\\"}\"\n    },\n    \"top_right\": {\n      \"type\": \"提示通知\",\n      \"icon\": \"眼球\",\n      \"text\": \"新配方已解锁！请查看你的配方书\"\n    },\n    \"bottom_left\": {\n      \"type\": \"聊天记录\",\n      \"text\": \"{argument name=\\\"player name\\\" default=\\\"史蒂夫\\\"} 达成了进度 [{argument name=\\\"advancement name\\\" default=\\\"克苏鲁之眼\\\"}]\"\n    },\n    \"bottom_center\": {\n      \"type\": \"HUD\",\n      \"stats\": [\n        \"10 颗红心\",\n        \"10 个护甲图标\",\n        \"10 个饥饿度图标\",\n        \"15 级等级指示器\"\n      ],\n      \"hotbar_slots\": 9,\n      \"hotbar_items\": [\n        \"1 把紫色长剑\",\n        \"1 把镐\",\n        \"1 把斧\",\n        \"1 根绿色法杖\",\n        \"1 把枪\",\n        \"30 瓶红色药水\",\n        \"64 个棕色方块\",\n        \"8 个金苹果\",\n        \"2 颗蓝色星星\"\n      ]\n    },\n    \"center\": {\n      \"type\": \"准星\",\n      \"style\": \"白色十字准星\"\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "体素沙盒 Boss 战 UI：生成一张第一人称视角的方块体素游戏截图，包含 Boss 战、自定义怪物以及详细的平视显示器（HUD）。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "3d"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "App Store 截图、产品概念、移动工具界面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: 3d]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14085",
+      "14150",
+      "14540",
+      "13658",
+      "14087",
+      "14542"
+    ]
+  }
+}

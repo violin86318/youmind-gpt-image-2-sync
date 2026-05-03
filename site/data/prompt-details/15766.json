@@ -1,0 +1,55 @@
+{
+  "id": "15766",
+  "prompt": "A cinematic photorealistic rooftop portrait at golden hour of an older man standing centered and facing the camera, with his face fully obscured by a large vertical rectangular censor block in a muted brown tone. Show only the visible parts of him clearly: short dense tightly curled gray hair with silver highlights, both ears visible, a slender aged neck, and the upper torso in a charcoal gray blazer over an open-collar off-white dress shirt with no tie. Compose the image in a vertical portrait crop from mid-chest upward. Place him on a realistic New York City rooftop with exact visible details including 1 weathered HVAC unit on the left foreground, 1 cylindrical rooftop water tower on the right midground, 2 prominent Art Deco skyscrapers in the background resembling the Empire State Building on the left and the Chrysler Building on the right, plus low brick buildings, rooftop pipes, vents, railings, and soft atmospheric haze. Use warm sunset lighting with orange-pink sky tones, subtle rim light on the ears and hair, shallow depth of field on the skyline, and highly detailed textures in the suit fabric, rooftop concrete, metal machinery, and curly hair. The overall mood should feel mysterious, editorial, and slightly surreal, like an identity-redacted magazine cover photo.",
+  "translatedPrompt": "一张电影质感的写实天台肖像，拍摄于黄金时刻。一位年长男性居中面向镜头，面部被一块巨大的垂直长方形棕色遮挡块完全遮住。清晰呈现可见部分：浓密且紧致的灰色卷发，带有银色高光；双耳清晰可见；颈部细长且显露岁月痕迹；上半身穿着炭灰色西装外套，内搭无领带的米白色翻领衬衫。构图采用从胸部中段向上的垂直肖像裁剪。场景设定在真实的纽约天台，细节包括：左前方 1 台风化的暖通空调机组，右中景 1 座圆柱形天台水塔，背景中 2 座醒目的装饰艺术风格摩天大楼（左侧类似帝国大厦，右侧类似克莱斯勒大厦），以及低矮的砖房、天台管道、通风口、护栏和柔和的大气薄雾。采用温暖的日落光影，天空呈现橙粉色调，耳朵和头发边缘带有微妙的轮廓光，天际线处景深较浅，西装面料、天台混凝土、金属机械和卷发的纹理细节丰富。整体氛围神秘、具有编辑感且略带超现实色彩，如同身份被遮挡的杂志封面照片。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "天台遮挡肖像：此提示词可生成一张具有写实编辑风格的肖像，画面为一位年长男性站在日落时分的纽约天台上，其面部被遮挡块掩盖，适用于匿名、隐私保护或超现实身份主题的视觉创作。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "editorial"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "golden hour",
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, editorial]。\n\nLighting and camera:\n[参考光线镜头: rim light, golden hour, shallow depth, depth of field, camera]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15754",
+      "15096",
+      "15731",
+      "15043",
+      "15308",
+      "15515"
+    ]
+  }
+}

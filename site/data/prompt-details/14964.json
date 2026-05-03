@@ -1,0 +1,46 @@
+{
+  "id": "14964",
+  "prompt": "A simple anime-style upper-body character illustration on a plain light gray background, centered and facing slightly left in a calm three-quarter pose. The character is a young futuristic female android or virtual idol with {argument name=\"hair color\" default=\"platinum blonde\"} hair, styled with one thick braided bun over the left side of the head, long loose side strands, and smooth straight hair flowing past the shoulders. She wears a geometric sci-fi headset over the left ear with a glowing cyan rectangular panel and angular metallic frame. Her outfit is a sleek white bodysuit with black structural straps and trim, a tall black high-neck collar, and thin glowing cyan accent lines running vertically and diagonally across the chest and torso. She has detached white arm sleeves with black bands, including one small dark diamond-shaped ornament on the upper arm. Render the image as a clean, minimal sketchy illustration with delicate pencil-like linework, light cel shading, soft pastel colors, subtle cyan highlights, and a polished concept-art feel. Keep the composition cropped from the top of the head to below the chest, with lots of negative space and no props, no text, and no detailed background.",
+  "translatedPrompt": "在浅灰色纯色背景下，绘制一幅简洁的动漫风格上半身角色插图，角色居中，身体呈平静的三分之二侧面，面部微向左转。角色为一位年轻的未来感仿生人或虚拟偶像，拥有 {argument name=\"hair color\" default=\"铂金色\"} 的头发，左侧头部梳有一个厚实的编织发髻，两侧留有长发丝，顺滑的直发垂过肩部。她左耳佩戴着几何形状的科幻耳机，耳机上带有发光的青色矩形面板和棱角分明的金属框架。身穿修身的白色紧身衣，配有黑色结构带和饰边，高领设计，胸部和躯干处有垂直及对角线分布的纤细青色发光线条。手臂配有分离式白色袖套和黑色束带，上臂处有一个小型深色菱形装饰。图像呈现为干净、极简的草图风格，线条细腻如铅笔画，采用轻微的赛璐珞阴影、柔和的粉彩色调、微妙的青色高光，具有精致的概念艺术质感。构图从头顶截取至胸部下方，留有大量负空间，不包含任何道具、文字或复杂的背景。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "极简未来感动漫少女肖像：此提示词可生成简洁的单人科幻动漫肖像，适用于概念艺术、个人资料插图或简单的角色展示视觉效果。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "sci-fi"
+      ],
+      "lightingCamera": [],
+      "text": "禁止额外文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: anime, sci-fi]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n禁止额外文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15446",
+      "14616",
+      "14443",
+      "14994",
+      "14060",
+      "14544"
+    ]
+  }
+}

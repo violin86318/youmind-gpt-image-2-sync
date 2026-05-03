@@ -1,0 +1,38 @@
+{
+  "id": "13633",
+  "prompt": "{\n  \"type\": \"infographic comparison diagram\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"Dense と MoE の違い\\\"}\"\n  },\n  \"layout\": {\n    \"structure\": \"two main columns separated by a central VS badge, with a split footer at the bottom\",\n    \"sections\": [\n      {\n        \"position\": \"left column\",\n        \"theme_color\": \"blue\",\n        \"header\": \"{argument name=\\\"left model name\\\" default=\\\"Dense モデル\\\"}\",\n        \"subtitle\": \"全てのニューロンが活性化\",\n        \"diagram\": {\n          \"type\": \"fully connected neural network\",\n          \"elements\": [\n            \"1 orange input node labeled 入力\",\n            \"4 hidden layers with 4, 5, 4, and 2 nodes respectively\",\n            \"nodes colored white, blue, and yellow\",\n            \"dense intersecting connection lines between all adjacent nodes\"\n          ]\n        },\n        \"bullet_points\": {\n          \"count\": 2,\n          \"items\": [\n            \"{argument name=\\\"left bullet point\\\" default=\\\"全てのパラメータが使用\\\"}\",\n            \"計算コストが高い\"\n          ]\n        }\n      },\n      {\n        \"position\": \"right column\",\n        \"theme_color\": \"orange\",\n        \"header\": \"{argument name=\\\"right model name\\\" default=\\\"MoE モデル\\\"}\",\n        \"subtitle\": \"一部の専門家が選択的に活性化\",\n        \"diagram\": {\n          \"type\": \"mixture of experts network\",\n          \"elements\": [\n            \"1 orange input node labeled 入力\",\n            \"3 rectangular blocks labeled Expert 1, Expert 2, Expert 3\",\n            \"1 yellow output node labeled 出力\",\n            \"branching arrows connecting input to experts, and experts to output\"\n          ]\n        },\n        \"bullet_points\": {\n          \"count\": 2,\n          \"items\": [\n            \"{argument name=\\\"right bullet point\\\" default=\\\"一部のエキスパートのみ使用\\\"}\",\n            \"効率的でスケーラブル\"\n          ]\n        }\n      },\n      {\n        \"position\": \"center\",\n        \"element\": \"red circular badge with text VS\",\n        \"connections\": \"blue arrow pointing left, orange arrow pointing right\"\n      },\n      {\n        \"position\": \"footer left\",\n        \"background\": \"light blue\",\n        \"text\": \"Dense: すべての層が常時稼働し全パラメータを使用\",\n        \"icon\": \"1 CPU chip graphic\",\n        \"label\": \"高い消費電力\"\n      },\n      {\n        \"position\": \"footer right\",\n        \"background\": \"light orange\",\n        \"text\": \"MoE: 必要なエキスパートのみを動員\",\n        \"icons\": \"2 circular graphics (orange arrows, blue lightning bolt)\",\n        \"label\": \"低コスト・高効率\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"信息图对比图\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"Dense 与 MoE 的区别\\\"}\"\n  },\n  \"layout\": {\n    \"structure\": \"两列式布局，中间由 VS 徽章分隔，底部设有分栏页脚\",\n    \"sections\": [\n      {\n        \"position\": \"左侧栏\",\n        \"theme_color\": \"蓝色\",\n        \"header\": \"{argument name=\\\"left model name\\\" default=\\\"Dense 模型\\\"}\",\n        \"subtitle\": \"所有神经元均被激活\",\n        \"diagram\": {\n          \"type\": \"全连接神经网络\",\n          \"elements\": [\n            \"1 个橙色输入节点，标注为“输入”\",\n            \"4 个隐藏层，节点数分别为 4、5、4 和 2\",\n            \"节点颜色为白色、蓝色和黄色\",\n            \"所有相邻节点间密集的交叉连接线\"\n          ]\n        },\n        \"bullet_points\": {\n          \"count\": 2,\n          \"items\": [\n            \"{argument name=\\\"left bullet point\\\" default=\\\"使用所有参数\\\"}\",\n            \"计算成本高\"\n          ]\n        }\n      },\n      {\n        \"position\": \"右侧栏\",\n        \"theme_color\": \"橙色\",\n        \"header\": \"{argument name=\\\"right model name\\\" default=\\\"MoE 模型\\\"}\",\n        \"subtitle\": \"选择性激活部分专家\",\n        \"diagram\": {\n          \"type\": \"混合专家网络\",\n          \"elements\": [\n            \"1 个橙色输入节点，标注为“输入”\",\n            \"3 个矩形块，分别标注为 Expert 1、Expert 2、Expert 3\",\n            \"1 个黄色输出节点，标注为“输出”\",\n            \"连接输入到专家、以及专家到输出的分支箭头\"\n          ]\n        },\n        \"bullet_points\": {\n          \"count\": 2,\n          \"items\": [\n            \"{argument name=\\\"right bullet point\\\" default=\\\"仅使用部分专家\\\"}\",\n            \"高效且可扩展\"\n          ]\n        }\n      },\n      {\n        \"position\": \"中心\",\n        \"element\": \"带有 VS 文字的红色圆形徽章\",\n        \"connections\": \"指向左侧的蓝色箭头，指向右侧的橙色箭头\"\n      },\n      {\n        \"position\": \"页脚左侧\",\n        \"background\": \"浅蓝色\",\n        \"text\": \"Dense：所有层常驻运行并使用全部参数\",\n        \"icon\": \"1 个 CPU 芯片图形\",\n        \"label\": \"高功耗\"\n      },\n      {\n        \"position\": \"页脚右侧\",\n        \"background\": \"浅橙色\",\n        \"text\": \"MoE：仅调用必要的专家\",\n        \"icons\": \"2 个圆形图形（橙色箭头、蓝色闪电）\",\n        \"label\": \"低成本、高效率\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Dense 与 MoE 神经网络信息图：一份技术信息图，通过网络图和要点对比了 Dense 和 Mixture of Experts (MoE) AI 模型。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13794",
+      "13445",
+      "15662",
+      "14720",
+      "14866",
+      "13599"
+    ]
+  }
+}

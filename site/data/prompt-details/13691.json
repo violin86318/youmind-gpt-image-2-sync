@@ -1,0 +1,46 @@
+{
+  "id": "13691",
+  "prompt": "{\n  \"type\": \"dual character reference sheet\",\n  \"theme\": \"{argument name=\\\"theme\\\" default=\\\"sci-fi mecha pilot and operator\\\"}\",\n  \"layout\": \"horizontal split, top half male, bottom half female\",\n  \"top_character\": {\n    \"name\": \"{argument name=\\\"male character name\\\" default=\\\"白峰カイ\\\"}\",\n    \"appearance\": \"young male, messy black hair, blue eyes\",\n    \"sections\": [\n      { \"title\": \"profile text\", \"position\": \"left column\", \"description\": \"basic settings, summary, keywords\" },\n      { \"title\": \"全身設定\", \"position\": \"mid-left\", \"count\": 4, \"labels\": [\"FRONT\", \"SIDE\", \"REAR\", \"3/4 VIEW\"], \"description\": \"wearing {argument name=\\\"male uniform color\\\" default=\\\"dark blue and black\\\"} military uniform\" },\n      { \"title\": \"表情設定\", \"position\": \"top-right\", \"count\": 3, \"labels\": [\"通常\", \"戦闘時\", \"わずかな緩み\"] },\n      { \"title\": \"表情バリエーション\", \"position\": \"mid-right\", \"count\": 8, \"description\": \"smaller headshots, various angles\" },\n      { \"title\": \"パイロットスーツ\", \"position\": \"far-right\", \"count\": 2, \"labels\": [\"FRONT\", \"REAR\"], \"description\": \"tight black plugsuit\" },\n      { \"title\": \"ディテール\", \"position\": \"bottom-right\", \"count\": 4, \"labels\": [\"首元\", \"胸部\", \"グローブ\", \"ブーツ\"] },\n      { \"title\": \"bottom row\", \"position\": \"bottom\", \"elements\": [\"カラーパレット (6 swatches)\", \"各部ディテール (4 items: hand, tag, earpiece, neck)\", \"所持アイテム (2 items: tablet, pendant)\", \"補足設定 (text block)\"] }\n    ]\n  },\n  \"bottom_character\": {\n    \"name\": \"{argument name=\\\"female character name\\\" default=\\\"月城ユナ\\\"}\",\n    \"appearance\": \"young female, long dark purple hair, purple eyes\",\n    \"sections\": [\n      { \"title\": \"profile text\", \"position\": \"left column\", \"description\": \"profile, summary, keywords\" },\n      { \"title\": \"全身設定\", \"position\": \"mid-left\", \"count\": 3, \"labels\": [\"FRONT\", \"SIDE\", \"REAR\"], \"description\": \"wearing {argument name=\\\"female uniform color\\\" default=\\\"dark blue and grey\\\"} uniform with skirt\" },\n      { \"title\": \"表情集\", \"position\": \"mid-right\", \"count\": 4, \"labels\": [\"通常\", \"管制中\", \"私的な表情\", \"厳しい表情\"] },\n      { \"title\": \"オペレーター専用仕様\", \"position\": \"far-right\", \"count\": 1, \"description\": \"3/4 view holding tablet, callout lines\" },\n      { \"title\": \"ディテール設定\", \"position\": \"bottom-right\", \"count\": 6, \"labels\": [\"通信インターフェース\", \"頸部インターフェース\", \"襟元デザイン\", \"リスト端末\", \"IDカード\", \"靴\"] },\n      { \"title\": \"bottom row\", \"position\": \"bottom\", \"elements\": [\"管制室での作業姿勢 (1 half-body shot)\", \"カラーパレット & マーク (6 swatches, 1 emblem)\", \"各種バリエーション (4 headshots: ヘッドセット装着, データ解析中, 緊急時, オフモード)\", \"補足設定 (text block)\"] }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"双人角色设计设定集\",\n  \"theme\": \"{argument name=\\\"theme\\\" default=\\\"科幻机甲动漫\\\"}\",\n  \"layout\": \"水平分割，上半部分为男性角色，下半部分为女性角色，高密度信息布局，左侧带有文字说明栏\",\n  \"top_character\": {\n    \"name\": \"{argument name=\\\"male character name\\\" default=\\\"白峰カイ\\\"}\",\n    \"appearance\": \"年轻男性，凌乱深色短发，蓝色眼睛\",\n    \"sections\": [\n      { \"title\": \"全身设定\", \"count\": 4, \"labels\": [\"正面\", \"侧面\", \"背面\", \"3/4 视角\"], \"description\": \"{argument name=\\\"male uniform color\\\" default=\\\"黑色与深蓝色\\\"} 制服\" },\n      { \"title\": \"表情设定\", \"count\": 3, \"description\": \"大尺寸头像\" },\n      { \"title\": \"表情变化\", \"count\": 8, \"description\": \"小尺寸头像\" },\n      { \"title\": \"驾驶服\", \"count\": 2, \"labels\": [\"正面\", \"背面\"], \"description\": \"黑色战术驾驶服\" },\n      { \"title\": \"细节展示\", \"count\": 4, \"description\": \"界面、面板、手套、靴子的特写\" },\n      { \"title\": \"配色方案\", \"count\": 6, \"description\": \"色卡\" },\n      { \"title\": \"各部位细节\", \"count\": 4, \"description\": \"手部、身份牌、耳机、颈部接口特写\" },\n      { \"title\": \"持有物品\", \"count\": 2, \"description\": \"平板电脑和吊坠\" }\n    ]\n  },\n  \"bottom_character\": {\n    \"name\": \"{argument name=\\\"female character name\\\" default=\\\"月城ユナ\\\"}\",\n    \"appearance\": \"年轻女性，长深紫色头发，蓝色眼睛\",\n    \"sections\": [\n      { \"title\": \"全身设定\", \"count\": 3, \"labels\": [\"正面\", \"侧面\", \"背面\"], \"description\": \"{argument name=\\\"female uniform color\\\" default=\\\"藏青色与灰色\\\"} 操作员制服\" },\n      { \"title\": \"表情集\", \"count\": 4, \"description\": \"大尺寸头像\" },\n      { \"title\": \"操作员专属规格\", \"count\": 1, \"description\": \"带有技术标注线的全身姿势\" },\n      { \"title\": \"细节设定\", \"count\": 6, \"description\": \"耳机、颈部接口、衣领、腕部终端、身份卡、靴子的特写\" },\n      { \"title\": \"管制室工作姿态\", \"count\": 1, \"description\": \"坐在控制台前的半身像\" },\n      { \"title\": \"配色方案与标志\", \"count\": 1, \"description\": \"色卡及翼状徽章\" },\n      { \"title\": \"各种变化\", \"count\": 4, \"labels\": [\"佩戴耳机\", \"数据分析中\", \"紧急状态\", \"离线模式\"], \"description\": \"不同装备与表情的头像\" }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "双人科幻角色设定集：生成高度详细的动漫双人角色设定集，包含三视图、表情包和装备细节。",
+      "subject": "界面",
+      "scene": "人物/角色",
+      "composition": [
+        "callout",
+        "horizontal"
+      ],
+      "style": [
+        "sci-fi"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: callout, horizontal]。\n\nVisual style:\n[参考风格: sci-fi]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13944",
+      "14723",
+      "13547",
+      "13925",
+      "14420",
+      "14486"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "13867",
+  "prompt": "{argument name=\"pianist\" default=\"Vladimir Horowitz\"} performs a {argument name=\"event\" default=\"live piano recital\"} streamed on {argument name=\"platform\" default=\"YouTube\"}",
+  "translatedPrompt": "{argument name=\"pianist\" default=\"Vladimir Horowitz\"} 正在 {argument name=\"platform\" default=\"YouTube\"} 上进行 {argument name=\"event\" default=\"钢琴独奏直播\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "古典钢琴家直播：一张逼真的图像提示词，描绘了 Vladimir Horowitz 举办的一场古典钢琴独奏会，呈现出如同现代 YouTube 直播的视觉效果。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

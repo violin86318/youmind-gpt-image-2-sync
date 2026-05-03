@@ -1,0 +1,48 @@
+{
+  "id": "15354",
+  "prompt": "A vintage late-1970s Japanese crime film poster in the style of a Nikkatsu theatrical one-sheet, vertically composed on aged beige paper with visible grain, faint stains, and slightly faded ink. The main image is a large, moody half-body portrait of {argument name=\"lead actor name\" default=\"原田芳雄\"} occupying the upper right and center, turned partly away from camera, with thick curly dark hair, a serious expression, and a wrinkled light gray suit jacket over an open-collar white shirt; his face is mostly in shadow. Behind him is a bleak industrial waterfront with cranes, low factory structures, and heavy gray smoke rising into a washed-out sky. Across the lower middle, place a huge hand-brushed red Japanese title reading {argument name=\"title text\" default=\"影の街\"}, painted diagonally and aggressively, partially overlapping the portrait and the lower scene. In the lower half, add a second scene: a rainy urban street at dusk or night with wet reflective pavement, a dark police car at left with a glowing red roof light, and 6 men in suits and trench coats walking forward, with 1 central detective figure in a beige trench coat and loosened tie leading the group. On the far right, include a vertical strip of 5 stacked inset cast portraits framed in thin borders, each a dark cinematic still with different characters. Add vertical Japanese typography: on the upper right, the actor credit “原田芳雄 主演”; on the upper left, a 2-line tagline column reading “その男、刑事。 正義より、真実を追う。”; and near the lower right of the main image, another vertical blurb reading “誰が敵で、誰が味方か。闇に消えた事件の中で、ただひとつの真実を掴むまで—”. At the bottom, include dense small Japanese credits spanning the width, plus a large release date on the lower right reading {argument name=\"release date\" default=\"11.23\"} with “日活ロードショー” beneath it and a small studio mark. Use muted charcoal, sepia, smoky blue-gray, and off-white tones, with the red title as the only vivid color. The overall feeling is hard-boiled, melancholic, gritty, and cinematic, like a lost 1970s Japanese detective movie poster.",
+  "translatedPrompt": "一张 20 世纪 70 年代末的复古日本犯罪电影海报，采用日活（Nikkatsu）院线单张海报风格，纵向构图，背景为带有明显颗粒感、微弱污渍和墨迹褪色的米色旧纸张。主体图像是位于右上角和中心位置的 {argument name=\"lead actor name\" default=\"原田芳雄\"} 的大型忧郁半身肖像，他侧身背对镜头，留着浓密的深色卷发，表情严肃，身穿皱巴巴的浅灰色西装外套，内搭敞领白衬衫；面部大部分处于阴影中。背景是荒凉的工业码头，有起重机、低矮的工厂建筑和升入灰暗天空的浓重烟雾。在画面中下部，放置一个巨大的手写红色日文标题 {argument name=\"title text\" default=\"影の街\"}，以倾斜且强烈的笔触书写，部分覆盖了肖像和下方场景。在下半部分，添加第二个场景：黄昏或夜晚雨中的城市街道，路面湿润且带有倒影，左侧是一辆车顶红灯闪烁的深色警车，6 名身穿西装和风衣的男子正向前走，其中 1 名身穿米色风衣、领带松散的侦探形象走在队伍最前方。在最右侧，包含一列垂直排列的 5 张嵌入式演员肖像，每张都带有细边框，呈现出不同角色的深沉电影剧照。添加垂直日文排版：右上角为演员表“原田芳雄 主演”；左上角为两行标语“その男、刑事。 正義より、真実を追う。”；在主体图像右下角附近，添加另一段垂直宣传语“誰が敵で、誰が味方か。闇に消えた事件の中で、ただひとつの真実を掴むまで—”。底部包含横跨整个宽度的密集小字日文演职员表，右下角标注醒目的上映日期 {argument name=\"release date\" default=\"11.23\"}，下方印有“日活ロードショー”字样及小型制片厂标志。色调采用柔和的炭灰色、深褐色、烟雾蓝灰色和灰白色，红色标题是唯一的鲜艳色彩。整体氛围硬派、忧郁、粗粝且充满电影感，宛如一张失传的 1970 年代日本侦探电影海报。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古日本犯罪电影海报：一张粗粝的复古日本电影院线海报，适用于生成具有 1970 年代风格、排版和布局考究的电影主视觉图。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "vintage",
+        "studio"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: cinematic, vintage, studio]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15094",
+      "15320",
+      "15700",
+      "14236",
+      "15043",
+      "15096"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14070",
+  "prompt": "A first-person voxel game screenshot. The player's blocky right hand holds a paper reading 'INTERNAL DOCUMENT', '{argument name=\"document title\" default=\"CLAUDE OPUS 5\"}', and a 6-item bulleted list ending with 'Release: 2025'. A white crosshair sits center screen. Ahead is a dark gray desk holding a black monitor and a paper stack marked 'CONFIDENTIAL' in red. The back white wall displays an orange asterisk and black text '{argument name=\"company name\" default=\"Claude\"}' above 'HEADQUARTERS'. A right hallway shows hanging lanterns and a poster reading 'LONG-TERM MEMORY', 'NUANCED RESPONSES', 'AI FOR HUMANITY'. The bottom HUD features yellow chat text '{argument name=\"chat message\" default=\"Claude joined the game\"}', 10 red hearts, a green experience bar with '7', 10 hunger drumsticks, and a 9-slot hotbar with a document icon in the first slot.",
+  "translatedPrompt": "一张第一人称体素游戏截图。玩家方块状的右手拿着一份写有“INTERNAL DOCUMENT”的纸张，内容包含“{argument name=\"document title\" default=\"CLAUDE OPUS 5\"}”以及一个以“Release: 2025”结尾的 6 项列表。屏幕中央有一个白色准星。前方是一张深灰色办公桌，上面放着一台黑色显示器和一叠标有红色“CONFIDENTIAL”字样的纸张。后方的白色墙壁上显示着一个橙色星号，以及“{argument name=\"company name\" default=\"Claude\"}”和“HEADQUARTERS”字样。右侧走廊悬挂着灯笼，并贴有一张写着“LONG-TERM MEMORY”、“NUANCED RESPONSES”、“AI FOR HUMANITY”的海报。底部 HUD 显示黄色的聊天文本“{argument name=\"chat message\" default=\"Claude joined the game\"}”、10 颗红心、一个显示“7”的绿色经验条、10 个饥饿度鸡腿，以及一个在第一个槽位带有文档图标的 9 格快捷栏。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "体素游戏办公室截图：一张第一人称体素游戏截图，展示了可自定义的游戏内文本、文档和 UI 元素。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13804",
+      "14423",
+      "13609",
+      "13834",
+      "14044",
+      "14053"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "13621",
+  "prompt": "{argument name=\"subject\" default=\"Typography\"} where every letterform is woven from {argument name=\"material\" default=\"carbon fibre\"}. Tactile, directional, {argument name=\"aesthetic\" default=\"pure performance aesthetic\"}.",
+  "translatedPrompt": "{argument name=\"subject\" default=\"字体设计\"}，其中每个字母都由 {argument name=\"material\" default=\"碳纤维\"} 编织而成。触感真实，纹理方向感强，具有 {argument name=\"aesthetic\" default=\"纯粹的高性能美学\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "碳纤维字体设计：一种时尚的字体设计提示词，将字母设计为仿佛由碳纤维编织而成，呈现出一种现代且高性能的触感外观。",
+      "subject": "产品",
+      "scene": "字体/Logo",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15587",
+      "13606",
+      "14028",
+      "15001",
+      "15557",
+      "14031"
+    ]
+  }
+}

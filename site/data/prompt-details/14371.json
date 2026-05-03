@@ -1,0 +1,36 @@
+{
+  "id": "14371",
+  "prompt": "fais une pub pour {argument name=\"l'application\" default=\"cette app\"}",
+  "translatedPrompt": "为 {argument name=\"the application\" default=\"这款应用\"} 制作一个广告",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "移动应用广告生成提示词：一个简单直接的提示词，利用模型的上下文感知能力，为移动应用程序生成宣传广告视觉内容。",
+      "subject": "界面",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13588",
+      "14375",
+      "15531",
+      "15171",
+      "13446",
+      "13698"
+    ]
+  }
+}

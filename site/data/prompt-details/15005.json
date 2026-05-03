@@ -1,0 +1,47 @@
+{
+  "id": "15005",
+  "prompt": "A richly detailed vertical editorial travel illustration of a bustling Seoul market alley rendered in polished hand-drawn realism with warm cinematic lighting, dense urban storytelling, and highly legible signage. The scene is packed with a large crowd of pedestrians, shoppers, diners, street-food customers, musicians, and commuters in a narrow neighborhood market street, viewed from a slightly elevated eye level so the full alley feels layered and alive. At the top left, a large illustrated poster reads “WHERE IS {argument name=\"character name\" default=\"KYLE\"}?” with the subtitle “Can you find Kyle in Seoul?” in bold playful English typography, styled like a search-and-find book cover. The environment should clearly be Seoul, with a visible Namsan tower in the distant skyline, tangled overhead power lines, rooftop seating, stacked low-rise buildings, shop signs in Korean, and a subway entrance sign on the right showing line numbers 4, 2, 4, 4 and the bilingual text “서울역 방면 / To Seoul Station.” Include exactly 15 major visible signs or text panels: 1) the “WHERE IS {argument name=\"character name\" default=\"KYLE\"}?” poster, 2) “할머니 손칼국수”, 3) a hanging vertical sign “낙원상가 2F”, 4) a small blue street sign, 5) a vertical sign “이름 떡볶이”, 6) the large market arch sign “황진다운시장 영”, 7) a vertical orange sign “커피”, 8) a wall mural map with “남산 가는길”, 9) the subway sign with “출입구 4” and “서울역 방면 / To Seoul Station”, 10) the produce sign “경성 야채”, 11) the lower produce sign “신선한 채소”, 12) a handwritten busker sign, 13) the street-food cart sign “호떡·어묵·붕어빵”, 14) the menu board “오늘의 추천 김밥 떡볶이 순대 튀김”, and 15) the delivery box text “빠른 배달”. Populate the alley with exactly 8 vendor or activity zones: 1) a noodle restaurant at left under a red-and-white awning with seated diners, 2) a vegetable stall with stacked produce crates, 3) a busking duo with guitar and percussion, 4) a central street-food cart selling hotteok, fish cake, and bungeoppang, 5) a standing crowd eating snacks and holding cups, 6) a small magic performance table in the lower center with cards and cups, 7) a painter at an easel near the lower left, and 8) a scooter delivery cluster at the lower right. Add exactly 6 notable background accents: 1) rooftop diners on the upper right terrace, 2) a cat lounging on a roof ledge upper left, 3) colorful market umbrellas in the middle distance, 4) stairways and narrow side passages, 5) dense balconies and windows full of plants and people, and 6) the distant tower and skyline. The crowd should feel extremely varied in age and clothing, mostly casual contemporary Korean street fashion in jackets, hoodies, backpacks, skirts, slacks, and sneakers, with a few office workers and students. Hide a single subtly distinct person meant to be the findable target, {argument name=\"target outfit\" default=\"a young man in a blue hoodie with yellow lettering\"}, integrated naturally among the central crowd rather than spotlighted. Use a vibrant but grounded palette of brick red, teal, forest green, cream, mustard, asphalt gray, and sky blue. Emphasize intricate linework, readable Korean text, observational city details, lively human gestures, and the playful feel of a premium “Where’s Waldo?” style Seoul search poster. Aspect ratio 2:3.",
+  "translatedPrompt": "一幅细节极其丰富的竖版旅行编辑插画，描绘了熙熙攘攘的首尔市场小巷。采用精致的手绘写实风格，配以温暖的电影感光影、密集的城市叙事和清晰易读的招牌。画面中挤满了行人、购物者、食客、街头小吃顾客、音乐家和通勤者，视角略微抬高，使整条小巷显得层次分明、充满活力。左上角是一张大型插画海报，上面写着“WHERE IS {argument name=\"character name\" default=\"KYLE\"}？”，副标题为“Can you find Kyle in Seoul?”，采用醒目且俏皮的英文字体，风格类似于“寻找沃利”类书籍的封面。环境应明确为首尔，远处的地平线上可见南山塔，上方有杂乱的电线、屋顶座位、堆叠的低层建筑、韩文商店招牌，右侧有一个地铁入口标志，显示 4、2、4、4 号线以及双语文字“서울역 방면 / To Seoul Station”。包含 15 个清晰可见的主要招牌或文字板：1) “WHERE IS {argument name=\"character name\" default=\"KYLE\"}?” 海报，2) “할머니 손칼국수”，3) 悬挂的竖招牌“낙원상가 2F”，4) 一个蓝色小路牌，5) 竖招牌“이름 떡볶이”，6) 大型市场拱门招牌“황진다운시장 영”，7) 橙色竖招牌“커피”，8) 墙上的地图壁画“남산 가는길”，9) 地铁标志“출입구 4”及“서울역 방면 / To Seoul Station”，10) 农产品招牌“경성 야채”，11) 下方的农产品招牌“신선한 채소”，12) 手写的街头艺人招牌，13) 街头小吃车招牌“호떡·어묵·붕어빵”，14) 菜单项目“오늘의 추천 김밥 떡볶이 순대 튀김”，以及 15) 快递盒文字“빠른 배달”。巷子里设置 8 个主要的摊位或活动区：1) 左侧红白遮阳棚下的面馆，有坐着的食客；2) 堆满农产品板条箱的蔬菜摊；3) 一组吉他和打击乐街头艺人；4) 中间售卖糖饼、鱼饼和鲫鱼饼的街头小吃车；5) 一群站着吃零食、拿着杯子的顾客；6) 下方中心处有一个表演纸牌和杯子的魔术小摊；7) 左下方画架前的画家；8) 右下方的快递摩托车群。添加 6 个显著的背景细节：1) 右上方露台上的屋顶食客；2) 左上方屋檐上休憩的猫；3) 中间远处色彩斑斓的市场遮阳伞；4) 楼梯和狭窄的侧巷；5) 挤满植物和居民的密集阳台与窗户；6) 远处的塔楼和天际线。人群在年龄和着装上应极其多样化，主要是休闲的当代韩国街头时尚，包括夹克、连帽衫、背包、裙子、长裤和运动鞋，其中穿插着一些上班族和学生。隐藏一个微妙且独特的角色作为寻找目标，即 {argument name=\"target outfit\" default=\"a young man in a blue hoodie with yellow lettering\"}，将其自然地融入中心人群中，而不是刻意突出。使用充满活力但扎实的色调，包括砖红、青色、森林绿、奶油色、芥末黄、沥青灰和天蓝色。强调复杂的线条、可读的韩文文本、城市观察细节、生动的人体姿态，以及高端“寻找沃利”风格首尔搜索海报的趣味感。长宽比 2:3。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "在首尔市场寻找 Kyle：一幅内容丰富的“寻找隐藏物品”风格插画，描绘了热闹的首尔市场街道，非常适合海报、社交媒体展示图或旅行主题的编辑插画。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "editorial",
+        "premium",
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；要求可读；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical]。\n\nVisual style:\n[参考风格: cinematic, editorial, premium, hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；要求可读；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15731",
+      "14940",
+      "15336",
+      "15679",
+      "15760",
+      "15634"
+    ]
+  }
+}

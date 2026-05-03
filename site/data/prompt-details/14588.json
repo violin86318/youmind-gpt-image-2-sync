@@ -1,0 +1,55 @@
+{
+  "id": "14588",
+  "prompt": "A hyper-detailed French popular science magazine cover in the style of a bold mainstream newsstand publication, full-page vertical layout, dramatic glossy print design, black background with intense neon lighting and saturated red, blue, purple, green, and orange highlights. At the very top, a wide red masthead bar with the magazine title {argument name=\"magazine title\" default=\"SCIENCE & VIE\"} in huge white serif capital letters with subtle beveling and metallic shine; small issue details on the upper right in tiny white text. On the upper left, a bright yellow and black special tag reading {argument name=\"special tag\" default=\"SPÉCIAL PHOTONIQUE\"} with a red arrow motif. The main headline dominates most of the upper half in gigantic white block capitals with a red glow and slight 3D shadow: {argument name=\"main headline\" default=\"LA PHOTONIQUE RÉVOLUTIONNE TOUT !\"}. Beneath it, 3 short cover lines in smaller white text with selected words highlighted in yellow, discussing ultrafast light-speed chips, a French record computer called Lucy, and light trapped for millions of cycles for energy-efficient AI. Centerpiece image: a futuristic square photonic processor chip floating in space at a slight perspective tilt, extremely detailed circuitry, metallic screws at the corners, glowing traces, and a bright cyan-blue core display labeled {argument name=\"chip name\" default=\"Lucy\"}; the chip emits intersecting beams and flowing fiber-optic light trails in electric blue, magenta, orange, and violet that radiate outward across the page. Background behind the chip shows 2 luminous server-wall corridors, red on the left and green on the right, fading into darkness, suggesting a high-tech datacenter. At the bottom, the curved horizon of Earth from space with a soft blue atmospheric glow and scattered city lights. Add 4 side callout boxes total: 2 stacked on the left and 2 stacked on the right, each with yellow headers and white body text, using a magazine cover typography hierarchy. Left box 1 header: \"EXCLUSIF\", featuring Lucy as the most powerful French photonic quantum computer in the world, with several short bullet lines and a yellow emphasis on \"12 qubits\". Left box 2 header: \"RECORD MONDIAL\", about light trapped for millions of cycles in a chip, with yellow emphasis on \"millions de cycles\". Right box 1 header area in yellow, with a bold red percentage \"+300 %\" and text about the French gem Soitec rising thanks to photonic AI and saving datacenters during the energy crisis. Right box 2 header: \"ENQUÊTE\", about the end of power-hungry GPUs, with yellow-highlighted numeric claims such as 100 times cheaper and 1,000 times faster. Near the lower center, tiny white image-credit text. A thick black bottom banner spans the page with a red square containing a white plus symbol on the left, and a large dossier teaser in white and red text: {argument name=\"bottom feature text\" default=\"DOSSIER COMPLET Photonique & IA : les 10 avancées qui vont transformer votre quotidien\"}. Along the very bottom, add 3 small circular red icon blurbs with short white captions about seismic optical fibers, a new generation of LiDAR and AR, and European sovereignty in progress. Lower right corner includes a white barcode box and a short block of white text about the issue being on sale. Overall look: sensational, prestigious, futuristic, glossy, information-dense, sharp editorial typography, dramatic science-news cover, cinematic lighting, high contrast, photorealistic 3D chip illustration mixed with premium magazine graphic design.",
+  "translatedPrompt": "一张超精细的法国科普杂志封面，采用大胆的主流报刊亭出版物风格，全页垂直布局，戏剧性的光面印刷设计，黑色背景配以强烈的霓虹灯光，以及饱和的红、蓝、紫、绿和橙色高光。最上方是一条宽大的红色刊头栏，以巨大的白色衬线大写字母展示杂志标题 {argument name=\"magazine title\" default=\"SCIENCE & VIE\"}，带有微妙的斜角和金属光泽；右上角有微小的白色文字，标注期号详情。左上角是一个明亮的黄黑相间特殊标签，文字为 {argument name=\"special tag\" default=\"SPÉCIAL PHOTONIQUE\"}，带有红色箭头图案。主标题占据了上半部分的大部分空间，采用巨大的白色块状大写字母，带有红色光晕和轻微的 3D 阴影：{argument name=\"main headline\" default=\"LA PHOTONIQUE RÉVOLUTIONNE TOUT !\"}。下方有 3 行较小的白色文字作为封面导读，部分关键词以黄色高亮显示，讨论超快光速芯片、名为 Lucy 的法国记录级计算机，以及为节能 AI 而被捕获数百万周期的光。中心图像：一个未来感十足的方形光子处理器芯片，以轻微的角度倾斜悬浮在太空中，具有极其精细的电路、角落处的金属螺丝、发光的线路，以及一个标有 {argument name=\"chip name\" default=\"Lucy\"} 的明亮青蓝色核心显示屏；芯片向外辐射出交叉的光束和流动的光纤光迹，呈现电光蓝、洋红色、橙色和紫色，向页面四周扩散。芯片背后的背景展示了 2 条发光的服务器墙走廊，左侧为红色，右侧为绿色，逐渐隐入黑暗，暗示着高科技数据中心。底部是地球从太空中看到的弯曲地平线，带有柔和的蓝色大气光晕和零星的城市灯光。总共添加 4 个侧边标注框：左侧堆叠 2 个，右侧堆叠 2 个，每个框都有黄色标题和白色正文，采用杂志封面排版层级。左侧框 1 标题：\"EXCLUSIF\"，介绍 Lucy 作为世界上最强大的法国光子量子计算机，包含几行简短的项目符号，并以黄色强调 \"12 qubits\"。左侧框 2 标题：\"RECORD MONDIAL\"，关于光在芯片中被捕获数百万周期，并以黄色强调 \"millions de cycles\"。右侧框 1 标题区域为黄色，带有醒目的红色百分比 \"+300 %\"，以及关于法国宝石公司 Soitec 得益于光子 AI 而崛起，并在能源危机期间拯救数据中心的文字。右侧框 2 标题：\"ENQUÊTE\"，关于高功耗 GPU 的终结，包含黄色高亮显示的数字声明，如成本降低 100 倍，速度提升 1,000 倍。靠近底部中心处有微小的白色图片来源文字。页面底部有一条厚实的黑色横幅，左侧有一个包含白色加号的红色方块，以及一段白色和红色的专题预告文字：{argument name=\"bottom feature text\" default=\"DOSSIER COMPLET Photonique & IA : les 10 avancées qui vont transformer votre quotidien\"}。在最底部，添加 3 个小的圆形红色图标说明，配有简短的白色标题，内容涉及地震光纤、新一代 LiDAR 和 AR，以及正在推进的欧洲主权。右下角包含一个白色条形码框和一小段关于本期发售的白色文字。整体外观：轰动、高端、未来感、光泽感、信息密集、锐利的编辑排版、戏剧性的科学新闻封面、电影级灯光、高对比度、照片级真实的 3D 芯片插图与高级杂志图形设计相结合。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "未来感光子学杂志封面：此提示词可生成一张极具戏剧性的法式科学杂志封面，以发光的感光芯片为中心，非常适合编辑样机、科技新闻封面及推测性科学出版物设计。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "callout",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "editorial",
+        "3d",
+        "premium"
+      ],
+      "lightingCamera": [
+        "neon",
+        "high contrast"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: callout, vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, editorial, 3d, premium]。\n\nLighting and camera:\n[参考光线镜头: neon, high contrast]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15624",
+      "15082",
+      "15609",
+      "15392",
+      "15803",
+      "14598"
+    ]
+  }
+}

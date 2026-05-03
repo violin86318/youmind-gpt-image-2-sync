@@ -1,0 +1,45 @@
+{
+  "id": "14503",
+  "prompt": "A cute hand-drawn four-panel comic in a soft, warm, slice-of-life style on a light cream background with thick black panel borders and slightly textured paper grain. Use simple rounded cartoon cat anatomy, expressive faces, clean black outlines, muted natural colors, and a gentle manga-like presentation. In the top-left panel, show 2 cats: a brown tabby cat with dark stripes and white muzzle sitting with eyes closed, looking pleased, while a mostly white cat with dark brown patches on the head stands beside it and affectionately licks the tabby's cheek; add 2 small black musical notes above them to suggest happy grooming. In the top-right panel, show the white-and-brown patched cat in the foreground looking toward a small calico kitten standing to the right; include a speech bubble containing the Japanese text \"めい\" above the kitten. In the bottom-left panel, show 3 cats together: the brown tabby on the left with a surprised or blank expression, the white patched cat on the right looking cheerful, and the small calico kitten centered in front between them, looking up. In the bottom-right panel, show a close-up of the brown tabby cat alone, facing forward with narrowed yellow-green eyes and an angry, jealous expression; add 2 short emphasis lines near the face and 1 small puff-shaped anger symbol to the right. Keep the tone cozy and comedic, with the visual joke that the tabby was happy being groomed until the new kitten appears. Use flat colors, minimal shading, and a charming Japanese webcomic feel.",
+  "translatedPrompt": "一幅可爱的手绘四格漫画，采用柔和、温馨的日常风格，背景为浅奶油色，配有粗黑边框和轻微的纸张纹理。使用简洁圆润的卡通猫咪造型、丰富的表情、干净的黑色轮廓线、柔和的自然色调，呈现出温和的日式漫画感。左上格：展示 2 只猫，一只带有深色条纹和白色口鼻部的棕色虎斑猫闭眼坐着，神情愉悦；一只主要是白色、头部有深棕色斑块的猫站在旁边，深情地舔着虎斑猫的脸颊；在它们上方添加 2 个黑色小音符，暗示快乐的梳理过程。右上格：前景中那只白棕斑块猫看向右侧站着的一只三花小猫；在小猫上方添加一个包含日文“めい”的对话气泡。左下格：展示 3 只猫在一起，左侧的棕色虎斑猫表情惊讶或呆滞，右侧的白斑猫看起来很开心，中间的小三花猫抬头看着它们。右下格：棕色虎斑猫的特写，它独自面对前方，眯着黄绿色的眼睛，表情愤怒且吃醋；在脸部附近添加 2 条简短的强调线，右侧添加 1 个小团状的愤怒符号。保持温馨幽默的基调，视觉笑点在于虎斑猫原本享受着梳理，直到新小猫出现。使用平涂色彩、极简阴影，营造出迷人的日式网络漫画氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "可爱的四格猫咪吃醋漫画：此提示词可生成温馨的手绘四格猫咪漫画，非常适合社交媒体发布、漫画风格幽默内容或治愈系宠物插画。",
+      "subject": "产品",
+      "scene": "空间/场景",
+      "composition": [
+        "centered",
+        "close-up"
+      ],
+      "style": [
+        "manga",
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "空间概念、建筑场景、游戏场景、产品场景盒子",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 空间/场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, close-up]。\n\nVisual style:\n[参考风格: manga, hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15328",
+      "14686",
+      "13690",
+      "15092",
+      "14255",
+      "14185"
+    ]
+  }
+}

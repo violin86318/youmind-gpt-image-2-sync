@@ -1,0 +1,49 @@
+{
+  "id": "15293",
+  "prompt": "Using REFERENCE_0 as the visual foundation, expand the single sky-palace scene into a complete cinematic world-building presentation for a fantasy civilization. Preserve the same East Asian celestial imperial design language, floating architecture above clouds, gilded ornamentation, warm sunset lighting, and ultra-detailed realistic concept-art look, then turn it into a polished multi-panel lore board on a dark background with elegant editorial typography. Include 8 labeled sections: 1 large hero overview panel for the civilization, 1 architecture section with 9 images, 1 characters section with 7 full-body character designs, 1 clothing and armor section with 6 outfit variations, 1 vehicles and transport section with 4 vehicle designs, 1 world map section with 1 illustrated map, 1 environments section with 6 environment images, and 1 culture and details section with 6 close-up detail images. Add a refined fantasy title and short lore paragraph for the civilization, using the name {argument name=\"civilization name\" default=\"Celestial Dynasty\"}. The architecture section should show 9 distinct items: palace, temple, gate, pillar, bridge, throne hall, garden, library, and observatory. The characters section should show 7 archetypes: emperor, empress, high priest, general, royal guard, scholar, and artisan. The clothing and armor section should show 6 designs: ceremonial robe, battle armor, noble attire, priest robes, artisan garments, and dancer costume. The vehicles and transport section should show 4 designs: an airship, a flying beast mount, a sky chariot, and a ceremonial palanquin. The environments section should show 6 scenes: one wide banner panorama plus 5 smaller locations, including forest, mountain peaks, lotus valley, golden fields, and a celestial port. The culture and details section should show 6 images: dragon motif, lantern or artifact, palace interior, scholarly scene, mechanical instruments, and decorative symbols. Keep all panels visually unified as if from one official franchise world bible, with extremely rich detail, believable material design, and cinematic realism.",
+  "translatedPrompt": "以 REFERENCE_0 作为视觉基础，将单一的天宫场景扩展为完整的电影级奇幻文明世界观演示。保持相同的东亚天朝设计语言、云端悬浮建筑、镀金装饰、温暖的夕阳照明以及超精细的写实概念艺术风格，并将其制作成深色背景下带有优雅排版的多面板 lore 项目。包含 8 个标注版块：1 个文明大型主视觉概览面板，1 个包含 9 张图片的建筑版块，1 个包含 7 个全身角色设计的角色版块，1 个包含 6 种服装变体的服饰与盔甲版块，1 个包含 4 种载具设计的载具与交通版块，1 个包含 1 张插画地图的世界地图版块，1 个包含 6 张环境图片的环境版块，以及 1 个包含 6 张特写细节图片的文化与细节版块。添加一个精致的奇幻标题和一段简短的文明背景介绍，使用名称 {argument name=\"civilization name\" default=\"Celestial Dynasty\"}。建筑版块应展示 9 个不同的项目：宫殿、寺庙、大门、柱子、桥梁、大殿、花园、图书馆和天文台。角色版块应展示 7 种原型：皇帝、皇后、大祭司、将军、皇家卫兵、学者和工匠。服饰与盔甲版块应展示 6 种设计：礼服、战甲、贵族服饰、祭司长袍、工匠服饰和舞者服装。载具与交通版块应展示 4 种设计：飞艇、飞行坐骑、天车和礼仪轿子。环境版块应展示 6 个场景：一个宽幅横向全景图加上 5 个较小的地点，包括森林、山峰、莲花谷、金色田野和天港。文化与细节版块应展示 6 张图片：龙纹图案、灯笼或文物、宫殿内部、学术场景、机械仪器和装饰符号。保持所有面板在视觉上的统一性，如同出自同一官方系列作品的世界观设定集，具备极其丰富的细节、可信的材质设计和电影级的写实感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Celestial Dynasty 世界观设定项目：此提示词可将一个参考场景转化为完整的奇幻文明推介项目，包含建筑、角色、服饰、载具、地图、环境及文化细节，适用于概念开发或系列作品的世界观构建。",
+      "subject": "服饰",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "full-body"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "editorial",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, full-body]。\n\nVisual style:\n[参考风格: realistic, cinematic, editorial, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15364",
+      "15434",
+      "14445",
+      "15037",
+      "15675",
+      "15732"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "14591",
+  "prompt": "A dramatic vertical close-up of a roaring cosmic dragon head in side profile, painted in a violent ink-splatter and brushstroke style on a stark white background. The creature has a long sharp horn, angular armored facial plates, a glowing white-green eye, and a huge open mouth lined with jagged teeth. Inside the mouth and throat, instead of flesh, there is a swirling galaxy-like void of luminous {argument name=\"energy color\" default=\"violet\"} and magenta nebula light, with sparkling stars and dust erupting outward like cosmic fire. The dragon’s body is mostly black and deep indigo with glossy highlights, accented by iridescent emerald reflections along the neck and scales. Use expressive high-contrast sumi-e-inspired strokes, splattered paint textures, torn abstract edges, and explosive particle effects concentrated around the eye, mouth, and upper head. Composition should fill the frame with the head tilted upward in a feral scream, cropped tightly for maximum intensity, with no environment and no extra subjects, just raw abstract energy, ink, and celestial debris.",
+  "translatedPrompt": "一张极具戏剧性的垂直特写，展示了侧面咆哮的宇宙龙首，采用强烈的墨迹飞溅与笔触风格，背景为纯白色。生物长有尖锐的长角、棱角分明的装甲面部，眼睛闪烁着白绿色的光芒，巨大的嘴巴张开，露出参差不齐的牙齿。在口腔和喉咙深处，没有血肉，取而代之的是如星系般旋转的虚空，充满发光的 {argument name=\"energy color\" default=\"violet\"} 和洋红色星云光芒，闪烁的恒星与尘埃如宇宙之火般喷涌而出。龙身主要为黑色和深靛色，带有光泽感，颈部和鳞片上点缀着虹彩般的翡翠色反光。运用富有表现力、受水墨画启发的高对比度笔触、飞溅的颜料质感、撕裂的抽象边缘，以及集中在眼睛、嘴部和头顶的爆炸性粒子特效。构图应使头部向上倾斜并发出狂野的咆哮，填满整个画面，紧凑裁剪以达到极致的视觉冲击力，无需环境或其他主体，仅呈现原始的抽象能量、墨迹与天体碎片。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "宇宙墨龙吟：一个高对比度的奇幻插画提示词，用于生成带有星系能量特效和写意墨迹风格的凶猛龙首特写。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15672",
+      "15723",
+      "15706",
+      "15253",
+      "13625",
+      "13638"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "15188",
+  "prompt": "电影级抓拍，50mm，手持晃动感，candid偷拍视角，夜晚海边暖橙路灯+远处冷蓝海面，高反差色彩，轻微颗粒  \n亚洲女生，身材匀称自然，头发微湿被风吹散，真实皮肤质感  灰色连帽卫衣+短款运动裤，衣服略松但有线条 坐在防波堤边低头整理鞋带的瞬间，身体前倾，动作未完成，不看镜头，表情放空  前景有路人虚化遮挡，轻微拖影+轻微失焦  海浪反光+水泥堤坝+零散杂物环境，构图随意不规整，真实抓拍感，4K",
+  "translatedPrompt": "电影感快照，50mm 镜头，手持运动模糊，狗仔队抓拍视角，夜间海滩，温暖的橙色路灯与远处冰冷的蓝色大海形成对比，高对比度色彩，轻微颗粒感。亚裔女性，自然匀称的身材，被风吹乱的微湿头发，逼真的皮肤纹理。灰色连帽卫衣搭配运动短裤，略显宽松但有线条感。坐在防波堤边缘，低头系鞋带，身体前倾，动作未完成，未看向镜头，表情自然。前景有模糊的路人，轻微重影和虚化。海浪倒影、混凝土堤坝、散落的碎片环境，随意且不规则的构图，真实的快照感，4K。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影感夜间海滨抓拍人像：这是一条高细节提示词，用于生成电影感、手持拍摄风格的女性夜间海滩人像，包含逼真的皮肤纹理与光影效果。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

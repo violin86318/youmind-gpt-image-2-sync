@@ -1,0 +1,45 @@
+{
+  "id": "14012",
+  "prompt": "A photorealistic candid photograph of two Asian women shopping together inside a densely packed {argument name=\"store type\" default=\"vintage clothing store\"}. The woman on the left has brown hair tied back and is wearing a {argument name=\"left woman outfit\" default=\"white ribbed crop top and distressed denim shorts\"}, carrying a cream shoulder bag. She is holding up a {argument name=\"item being examined\" default=\"dark blue satin souvenir jacket with intricate gold embroidery\"} on a wooden hanger. The woman on the right has her hair in a messy bun and is wearing a {argument name=\"right woman outfit\" default=\"white graphic t-shirt tucked into high-waisted blue jeans\"}, looking admiringly at the jacket. They are standing in a narrow aisle flanked by overflowing racks of colorful garments, with more clothes hanging from the ceiling. The scene features {argument name=\"lighting and atmosphere\" default=\"warm, slightly dim ambient lighting with a shallow depth of field blurring the background\"}.",
+  "translatedPrompt": "一张照片级真实感的抓拍照片，展示了两位亚裔女性在拥挤的 {argument name=\"store type\" default=\"复古服装店\"} 内一起购物。左侧的女性扎着棕色头发，身穿 {argument name=\"left woman outfit\" default=\"白色罗纹短款上衣和破洞牛仔短裤\"}，背着一个米色单肩包。她正用木制衣架举起一件 {argument name=\"item being examined\" default=\"带有精致金色刺绣的深蓝色缎面纪念夹克\"}。右侧的女性梳着凌乱的丸子头，身穿 {argument name=\"right woman outfit\" default=\"塞进高腰蓝色牛仔裤里的白色印花 T 恤\"}，正赞赏地看着这件夹克。她们站在狭窄的过道中，两侧是堆满彩色服装的货架，天花板上也挂满了衣服。场景呈现出 {argument name=\"lighting and atmosphere\" default=\"温暖、略显昏暗的环境光，背景带有浅景深模糊效果\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "两位女性在复古商店购物：生成一张两位女性在拥挤的二手店中查看服装的照片级真实感图像。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "vintage"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, vintage]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13604",
+      "14674",
+      "15807",
+      "13650",
+      "13806",
+      "15705"
+    ]
+  }
+}

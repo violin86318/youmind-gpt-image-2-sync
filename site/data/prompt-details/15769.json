@@ -1,0 +1,55 @@
+{
+  "id": "15769",
+  "prompt": "{\"type\":\"architectural monument infographic poster\",\"subject\":{\"monument_name\":\"MONUMENTO\",\"person\":\"ALONSO DE MENDOZA\",\"subtitle\":\"FUNDADOR DE LA CIUDAD DE LA PAZ\",\"location_city\":\"LA PAZ – BOLIVIA\",\"location_site\":\"PLAZA ALONSO DE MENDOZA\",\"main_view\":\"front-facing photograph of the monument integrated with blueprint-style technical overlays\",\"environment\":\"urban plaza under a vivid blue sky with light clouds, surrounding mid-rise buildings in the background, paved stone foreground\"},\"style\":{\"visual_language\":\"photorealistic monument photo combined with architectural drafting graphics\",\"color_palette\":\"deep cobalt blue background overlay, white technical linework and labels, dark gray stone, bronze statue\",\"mood\":\"formal, commemorative, informative, civic heritage poster\",\"rendering\":\"sharp, high-detail, symmetrical composition, infographic presentation, blueprint aesthetics\"},\"monument\":{\"centerpiece\":\"tall central pedestal with a bronze statue of a historical conquistador standing on top, flanked by 2 large stone relief walls\",\"count_flanking_reliefs\":2,\"materials_visible\":[\"bronze statue\",\"dark carved stone pedestal\",\"stone bas-relief panels\",\"concrete base\"]},\"layout\":{\"sections\":[{\"title\":\"MONUMENTO\",\"position\":\"top left\",\"count\":1,\"labels\":[\"ALONSO DE MENDOZA\",\"FUNDADOR DE LA CIUDAD DE LA PAZ\"]},{\"title\":\"DESCRIPCIÓN GENERAL\",\"position\":\"left upper-middle\",\"count\":1,\"labels\":[\"Monumento escultórico inaugurado en 1960 en homenaje a Alonso de Mendoza, fundador de la ciudad de Nuestra Señora de La Paz en 1548. La obra combina escultura figurativa y relieves históricos con un lenguaje monumentalista y simbólico.\"]},{\"title\":\"CANTIDADES DE MATERIALES\",\"position\":\"left middle\",\"count\":5,\"labels\":[\"Concreto reforzado 98.5 m³\",\"Acero de refuerzo 7.850 kg\",\"Concreto para relieves 26.0 m³\",\"Piedra granítica 18.5 m³\",\"Bronce (estatua) 450 kg\"]},{\"title\":\"ELEVACIÓN FRONTAL\",\"position\":\"top center\",\"count\":4,\"labels\":[\"9.80 m\",\"11.80 m\",\"9.80 m\",\"6.60 m\"]},{\"title\":\"ESTRUCTURA Y MATERIALES\",\"position\":\"top right\",\"count\":4,\"labels\":[\"Concreto armado (f'c = 28 MPa)\",\"Acero de refuerzo fy = 420 MPa\",\"Revestimiento en piedra y relieves tallados in situ\",\"Estatua en bronce\"]},{\"title\":\"CARACTERÍSTICAS DESTACADAS\",\"position\":\"right middle\",\"count\":4,\"labels\":[\"Relieves que narran la fundación de La Paz y la historia colonial.\",\"Composición simétrica y axial.\",\"Integración de escultura figurativa y arquitectura.\",\"Símbolo de memoria histórica e identidad regional.\"]},{\"title\":\"SECCIÓN TRANSVERSAL A-A'\",\"position\":\"bottom left\",\"count\":3,\"labels\":[\"3.20 m\",\"2.80 m\",\"4.40 m\"]},{\"title\":\"PLANO DE PLANTA\",\"position\":\"bottom center\",\"count\":3,\"labels\":[\"A'\",\"11.80 m\",\"4.40 m\"]},{\"title\":\"DETALLE DE CIMENTACIÓN\",\"position\":\"bottom right\",\"count\":4,\"labels\":[\"Placa de concreto\",\"Zapata corrida en concreto reforzado\",\"Terreno compactado\",\"1.50 m\"]},{\"title\":\"DATOS GENERALES\",\"position\":\"lower right\",\"count\":5,\"labels\":[\"Año de construcción: 1960 (aprox.)\",\"Autor: Desconocido\",\"Estilo: Monumentalista\",\"Uso: Conmemorativo\",\"Estado: Bueno\"]}],\"centerpiece\":\"full monument centered vertically with overlaid arrows, dimensions, and load-flow diagram\",\"supporting_graphics\":\"1 front elevation sketch, 1 exploded isometric structural diagram, 1 cross-section diagram, 1 plan view diagram, 1 foundation detail diagram, multiple arrows and measurement annotations\"},\"text\":{\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"MONUMENTO\\\"}\",\"subject_name\":\"{argument name=\\\"monument name\\\" default=\\\"ALONSO DE MENDOZA\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle\\\" default=\\\"FUNDADOR DE LA CIUDAD DE LA PAZ\\\"}\",\"city\":\"{argument name=\\\"city\\\" default=\\\"LA PAZ – BOLIVIA\\\"}\",\"site\":\"{argument name=\\\"site\\\" default=\\\"PLAZA ALONSO DE MENDOZA\\\"}\"},\"composition\":{\"aspect_ratio\":\"1:1\",\"camera\":\"straight-on eye-level shot, centered and symmetrical\",\"density\":\"information-rich poster with technical annotations surrounding the monument\",\"branding\":\"small creator mark and social handle in lower corners\"}}",
+  "translatedPrompt": "{\"type\":\"建筑纪念碑信息图海报\",\"subject\":{\"monument_name\":\"MONUMENTO\",\"person\":\"ALONSO DE MENDOZA\",\"subtitle\":\"拉巴斯市创始人\",\"location_city\":\"拉巴斯 – 玻利维亚\",\"location_site\":\"阿隆索·德·门多萨广场\",\"main_view\":\"纪念碑正面照片，融合蓝图风格的技术叠加层\",\"environment\":\"城市广场，背景为湛蓝天空及轻云，远处有中层建筑，前景为铺石地面\"},\"style\":{\"visual_language\":\"写实纪念碑照片与建筑绘图图形相结合\",\"color_palette\":\"深钴蓝色背景叠加，白色技术线条和标签，深灰色石材，青铜雕像\",\"mood\":\"正式、纪念性、信息丰富、城市遗产海报\",\"rendering\":\"清晰、高细节、对称构图、信息图表呈现、蓝图美学\"},\"monument\":{\"centerpiece\":\"高大的中央基座，顶部矗立着一位历史征服者的青铜雕像，两侧有 2 面大型石浮雕墙\",\"count_flanking_reliefs\":2,\"materials_visible\":[\"青铜雕像\",\"深色雕刻石基座\",\"石质浅浮雕面板\",\"混凝土底座\"]},\"layout\":{\"sections\":[{\"title\":\"MONUMENTO\",\"position\":\"左上\",\"count\":1,\"labels\":[\"ALONSO DE MENDOZA\",\"拉巴斯市创始人\"]},{\"title\":\"总体描述\",\"position\":\"左中上\",\"count\":1,\"labels\":[\"该雕塑纪念碑于 1960 年落成，旨在纪念 1548 年拉巴斯圣母城（Nuestra Señora de La Paz）的创始人阿隆索·德·门多萨。作品结合了具象雕塑与历史浮雕，展现出纪念碑式和象征性的语言。\"]},{\"title\":\"材料用量\",\"position\":\"左中\",\"count\":5,\"labels\":[\"钢筋混凝土 98.5 m³\",\"钢筋 7,850 kg\",\"浮雕混凝土 26.0 m³\",\"花岗岩 18.5 m³\",\"青铜（雕像） 450 kg\"]},{\"title\":\"正面立面\",\"position\":\"上中\",\"count\":4,\"labels\":[\"9.80 m\",\"11.80 m\",\"9.80 m\",\"6.60 m\"]},{\"title\":\"结构与材料\",\"position\":\"右上\",\"count\":4,\"labels\":[\"钢筋混凝土 (f'c = 28 MPa)\",\"钢筋 (fy = 420 MPa)\",\"石材饰面及现场雕刻浮雕\",\"青铜雕像\"]},{\"title\":\"主要特征\",\"position\":\"右中\",\"count\":4,\"labels\":[\"浮雕讲述了拉巴斯的建立与殖民历史。\",\"对称及轴向构图。\",\"具象雕塑与建筑的融合。\",\"历史记忆与区域认同的象征。\"]},{\"title\":\"横截面 A-A'\",\"position\":\"下左\",\"count\":3,\"labels\":[\"3.20 m\",\"2.80 m\",\"4.40 m\"]},{\"title\":\"平面图\",\"position\":\"下中\",\"count\":3,\"labels\":[\"A'\",\"11.80 m\",\"4.40 m\"]},{\"title\":\"基础细节\",\"position\":\"下右\",\"count\":4,\"labels\":[\"混凝土板\",\"钢筋混凝土条形基础\",\"压实地基\",\"1.50 m\"]},{\"title\":\"常规数据\",\"position\":\"右下\",\"count\":5,\"labels\":[\"建造年份：1960 年（约）\",\"作者：佚名\",\"风格：纪念碑式\",\"用途：纪念性\",\"状态：良好\"]}],\"centerpiece\":\"纪念碑主体垂直居中，叠加箭头、尺寸标注和荷载流向图\",\"supporting_graphics\":\"1 张正面立面草图，1 张爆炸式等轴测结构图，1 张横截面图，1 张平面图，1 张基础细节图，多个箭头和测量标注\"},\"text\":{\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"MONUMENTO\\\"}\",\"subject_name\":\"{argument name=\\\"monument name\\\" default=\\\"ALONSO DE MENDOZA\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle\\\" default=\\\"拉巴斯市创始人\\\"}\",\"city\":\"{argument name=\\\"city\\\" default=\\\"拉巴斯 – 玻利维亚\\\"}\",\"site\":\"{argument name=\\\"site\\\" default=\\\"阿隆索·德·门多萨广场\\\"}\"},\"composition\":{\"aspect_ratio\":\"1:1\",\"camera\":\"平视直拍，居中且对称\",\"density\":\"信息丰富，纪念碑周围带有技术标注\",\"branding\":\"角落处带有小型创作者标识和社交账号\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "蓝图风格纪念碑信息图海报：此提示词可生成一张方形、信息密集型历史纪念碑建筑信息图海报，适用于城市遗产、旅游或教育可视化展示。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "isometric",
+        "front-facing",
+        "annotations",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "isometric"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, isometric, front-facing, annotations, vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, isometric]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15683",
+      "15768",
+      "15421",
+      "14866",
+      "14168",
+      "14464"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "14973",
+  "prompt": "A highly realistic documentary-style close-up photo of a reinforced concrete structural beam with severe {argument name=\"damage type\" default=\"shear cracking\"}. The scene shows the underside of a concrete building structure, with 1 large diagonal crack running from the lower left area upward toward the upper middle-right of the beam face, 1 secondary branching diagonal crack nearby on the left-center, and 3 thinner vertical to slightly irregular hairline cracks on the right half of the beam. The concrete surface is rough, weathered, pale gray, and speckled with small pores and aggregate marks, with darker grime and age staining near the ceiling slab and beam joints. Include a supporting concrete column at the far left, the underside of the beam visible along the bottom edge, and a dim industrial background below with shadowy pipes and structural elements out of focus. Lighting is natural and subdued, like an inspection photograph taken on site under a bridge or inside a parking structure. Composition is a straight-on medium close-up centered on the damaged beam face, emphasizing authentic structural deterioration, realistic texture, engineering-inspection accuracy, and no people, no safety signs, no overlay text.",
+  "translatedPrompt": "一张高度逼真的纪录片风格特写照片，展示了一根带有严重 {argument name=\"damage type\" default=\"剪切裂缝\"} 的钢筋混凝土结构梁。场景显示了混凝土建筑结构的底部，梁面上有一条从左下区域向上延伸至中右上方的大型对角裂缝，左侧中心附近有一条次要的分支对角裂缝，右半部分还有 3 条较细的垂直或略显不规则的细微裂缝。混凝土表面粗糙、风化、呈灰白色，布满了小孔和骨料痕迹，天花板楼板和梁接缝处有较暗的污垢和老化污渍。画面最左侧包含一根支撑混凝土柱，底部边缘可见梁的底面，下方是昏暗的工业背景，带有失焦的管道和结构元件。光线自然且柔和，如同在桥下或停车场内拍摄的现场检测照片。构图为以受损梁面为中心的正面中景特写，强调真实的结构劣化、逼真的纹理和工程检测的准确性，画面中无人、无安全标志、无覆盖文字。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "逼真的混凝土梁裂缝：此提示词可生成一张具有结构检测风格的逼真混凝土梁损坏图像，适用于土木工程、基础设施诊断或教育材料。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "centered",
+        "close-up",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "documentary"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, close-up, vertical]。\n\nVisual style:\n[参考风格: realistic, documentary]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15602",
+      "15705",
+      "14810",
+      "14819",
+      "14667",
+      "15780"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "14848",
+  "prompt": "{\"type\":\"Japanese Earth Day awareness poster infographic with anime character\",\"style\":\"soft eco-themed anime illustration mixed with clean editorial infographic design\",\"theme\":\"Earth Day, sustainable living, natural lifestyle, gentle daily eco choices\",\"language\":\"Japanese\",\"palette\":{\"primary\":\"deep botanical green\",\"secondary\":\"sage green\",\"accent\":\"light olive\",\"background\":\"warm off-white and beige\",\"mood\":\"fresh, calm, natural, hopeful\"},\"canvas\":{\"orientation\":\"portrait\",\"aspect_ratio\":\"2:3\",\"background\":\"soft indoor room with sunlight, wooden floor, blurred houseplants, airy natural-life atmosphere\"},\"header\":{\"top_left_small_text\":\"SUSTAINABLE / NATURAL LIFE\",\"main_date\":\"4.22\",\"main_title\":\"EARTH DAY\",\"sub_label\":\"アースデイ\",\"badge_text\":\"4月22日は『アースデイ』です。\"},\"main_left_section\":{\"headline\":\"地球と、わたしのやさしい選択。\",\"subheadline\":\"小さな選択が、未来を変える。\",\"body_count\":2,\"body_texts\":[\"4月22日は『アースデイ』です。地球環境について考え、行動する日です。\",\"毎日のちょっとした選択が、未来の地球を変える一歩になります。\"],\"centerpiece\":\"seated chibi anime girl on a wooden floor holding an Earth Day mug, surrounded by potted plants and warm sunlight\"},\"character\":{\"gender_presentation\":\"young girl\",\"style\":\"cute chibi anime\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"black with subtle green highlights\\\"}\",\"style\":\"short bob with bangs and a low side ponytail tied near one side\"},\"outfit\":{\"count\":3,\"items\":[\"white oversized T-shirt with a bold rectangular chest logo reading DARK in red and black\",\"loose olive-khaki cargo pants\",\"bare feet\"]},\"expression\":\"gentle, calm, thoughtful\"},\"layout\":{\"type\":\"multi-panel poster\",\"sections\":[{\"title\":\"POINT 01\",\"position\":\"upper right\",\"count\":3,\"labels\":[\"使わない電気はオフにする\",\"省電力モードを活用する\",\"LED照明に切り替える\"],\"visual\":\"the girl turning off a wall light switch\"},{\"title\":\"POINT 02\",\"position\":\"mid right\",\"count\":3,\"labels\":[\"クラウドを整理する\",\"不要なデータを削除する\",\"電力効率の良いデバイスを選ぶ\"],\"visual\":\"the girl using a laptop on a desk\"},{\"title\":\"POINT 03\",\"position\":\"lower mid right\",\"count\":3,\"labels\":[\"長く使えるものを選ぶ\",\"修理できる製品を選ぶ\",\"サステナブル素材を選ぶ\"],\"visual\":\"the girl holding a reusable tote bag with a green leaf emblem\"},{\"title\":\"わたしのエコな日常\",\"position\":\"lower left center\",\"count\":4,\"labels\":[\"旧きりの良い場所を通じて、自然を上手に取り入れる。\",\"マイボトルやエコバッグで、使い捨てを減らす。\",\"リサイクル・分別を意識する。小さな行動が積み重なる。\",\"地球にやさしい選択を、楽しみながら続けていきたい。\"],\"visual\":\"4 circular eco icons plus 2 small rectangular lifestyle illustrations\"},{\"title\":\"まとめ\",\"position\":\"lower right\",\"count\":2,\"labels\":[\"環境問題は大きなテーマですが、行動は小さくても構いません。\",\"今日の一つの選択が、未来につながります。\"],\"extra_text\":\"Let’s make a better future!\",\"visual\":\"the girl hugging a globe\"},{\"title\":\"アースデイって？\",\"position\":\"bottom left\",\"count\":1,\"labels\":[\"アースデイは1970年にアメリカで始まった環境地球のための記念日です。今では世界192か国以上で、さまざまな活動が行われています。\"],\"visual\":\"hands holding a glowing Earth globe\"},{\"title\":\"未来のために、できることを。\",\"position\":\"bottom center-right\",\"count\":3,\"labels\":[\"地球にやさしい選択は、\",\"自分にもやさしい選択。\",\"今日の小さな一歩が、きっと未来を変えていきます。\"],\"visual\":\"simple concluding text block with leaf accents\"}]},\"decorative_elements\":{\"count\":8,\"items\":[\"thin rounded rectangular panel borders\",\"small leaf doodles near headings\",\"botanical corner ornament at the top right\",\"multiple potted plants in the room\",\"soft window light beams\",\"green circular point number badges\",\"eco line icons in green\",\"gentle paper-texture background\"]},\"rendering\":\"high-resolution poster, polished typography, clean Japanese editorial composition, soft natural anime shading, warm sunlight, environmentally conscious lifestyle aesthetic\",\"customization\":{\"main_date\":\"{argument name=\\\"date text\\\" default=\\\"4.22\\\"}\",\"main_title\":\"{argument name=\\\"main title\\\" default=\\\"EARTH DAY\\\"}\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"地球と、わたしのやさしい選択。\\\"}\",\"character_name\":\"{argument name=\\\"character name\\\" default=\\\"eco girl\\\"}\"}}",
+  "translatedPrompt": "{\"type\":\"日式地球日宣传海报信息图，含动漫角色\",\"style\":\"柔和的生态主题动漫插画，融合简洁的编辑信息图设计\",\"theme\":\"地球日，可持续生活，自然生活方式，温和的日常生态选择\",\"language\":\"日语\",\"palette\":{\"primary\":\"深植物绿\",\"secondary\":\"鼠尾草绿\",\"accent\":\"浅橄榄绿\",\"background\":\"暖米白色\",\"mood\":\"清新、平静、自然、充满希望\"},\"canvas\":{\"orientation\":\"纵向\",\"aspect_ratio\":\"2:3\",\"background\":\"柔和的室内房间，带有阳光、木地板、虚化的盆栽植物，空气感自然生活氛围\"},\"header\":{\"top_left_small_text\":\"可持续 / 自然生活\",\"main_date\":\"4.22\",\"main_title\":\"地球日\",\"sub_label\":\"アースデイ\",\"badge_text\":\"4月22日は『アースデイ』です。\"},\"main_left_section\":{\"headline\":\"地球与我，温和的选择。\",\"subheadline\":\"微小的选择，改变未来。\",\"body_count\":2,\"body_texts\":[\"4月22日是“地球日”。这是思考并采取行动保护地球环境的日子。\",\"每天一点微小的选择，都是改变未来地球的一步。\"],\"centerpiece\":\"坐在木地板上的 Q 版动漫女孩，手持地球日马克杯，周围环绕着盆栽和温暖的阳光\"},\"character\":{\"gender_presentation\":\"少女\",\"style\":\"可爱 Q 版动漫\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"黑色，带有细微的绿色挑染\\\"}\",\"style\":\"短波波头，带刘海，一侧扎着低马尾\"},\"outfit\":{\"count\":3,\"items\":[\"白色宽松 T 恤，胸前印有红黑色的矩形 DARK 标志\",\"宽松的橄榄卡其色工装裤\",\"赤脚\"]},\"expression\":\"温和、平静、深思\"},\"layout\":{\"type\":\"多板块海报\",\"sections\":[{\"title\":\"POINT 01\",\"position\":\"右上\",\"count\":3,\"labels\":[\"随手关灯\",\"使用节能模式\",\"更换为 LED 照明\"],\"visual\":\"女孩正在关闭墙上的电灯开关\"},{\"title\":\"POINT 02\",\"position\":\"中右\",\"count\":3,\"labels\":[\"清理云端空间\",\"删除不必要的数据\",\"选择高能效设备\"],\"visual\":\"女孩正在桌前使用笔记本电脑\"},{\"title\":\"POINT 03\",\"position\":\"中下右\",\"count\":3,\"labels\":[\"选择耐用品\",\"选择可维修产品\",\"选择可持续材料\"],\"visual\":\"女孩拿着印有绿叶标志的可重复使用购物袋\"},{\"title\":\"我的生态日常\",\"position\":\"左下中心\",\"count\":4,\"labels\":[\"通过舒适的空间，巧妙地融入自然。\",\"使用自带水杯和环保袋，减少一次性用品。\",\"有意识地进行垃圾分类与回收。积少成多。\",\"希望能享受并坚持对地球友好的选择。\"],\"visual\":\"4 个圆形生态图标加 2 个小型矩形生活方式插图\"},{\"title\":\"总结\",\"position\":\"右下\",\"count\":2,\"labels\":[\"环境问题虽是宏大课题，但行动可以从微小开始。\",\"今日的一个选择，将连接未来。\"],\"extra_text\":\"让我们创造更美好的未来！\",\"visual\":\"女孩拥抱地球仪\"},{\"title\":\"什么是地球日？\",\"position\":\"左下\",\"count\":1,\"labels\":[\"地球日是 1970 年始于美国的地球环境纪念日。如今，全球 192 个以上的国家都在开展各类活动。\"],\"visual\":\"双手捧着发光的地球仪\"},{\"title\":\"为了未来，力所能及。\",\"position\":\"底部中右\",\"count\":3,\"labels\":[\"对地球友好的选择，\",\"也是对自己友好的选择。\",\"今日的一小步，终将改变未来。\"],\"visual\":\"带有叶片装饰的简洁总结文本块\"}]},\"decorative_elements\":{\"count\":8,\"items\":[\"细圆角矩形边框\",\"标题附近的小叶子涂鸦\",\"右上角的植物装饰\",\"房间里的多盆植物\",\"柔和的窗边光束\",\"绿色圆形数字标签\",\"绿色生态线条图标\",\"温和的纸质纹理背景\"]},\"rendering\":\"高分辨率海报，精致的排版，简洁的日式编辑构图，柔和的自然动漫阴影，温暖的阳光，环保生活美学\",\"customization\":{\"main_date\":\"{argument name=\\\"date text\\\" default=\\\"4.22\\\"}\",\"main_title\":\"{argument name=\\\"main title\\\" default=\\\"地球日\\\"}\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"地球与我，温和的选择。\\\"}\",\"character_name\":\"{argument name=\\\"character name\\\" default=\\\"生态女孩\\\"}\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日式地球日动漫海报：一张柔和的绿色日式信息图海报，包含可爱的 Q 版动漫女孩和多个生态生活方式板块，非常适合地球日宣传活动和可持续生活视觉展示。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "editorial",
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: editorial, anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14405",
+      "14911",
+      "14925",
+      "14941",
+      "15087",
+      "15382"
+    ]
+  }
+}

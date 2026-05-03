@@ -1,0 +1,55 @@
+{
+  "id": "14956",
+  "prompt": "{\"type\":\"Japanese tokusatsu hero design reference sheet\",\"style\":\"high-end industrial concept art, premium sci-fi character dossier, clean white studio presentation board, realistic CG rendering with sharp mechanical detailing and glossy metallic surfaces\",\"subject\":{\"franchise\":\"original fictional tokusatsu hero\",\"character name\":\"{argument name=\\\"character name\\\" default=\\\"重甲機士 カブライザー\\\"}\",\"theme\":\"armored insect-inspired motorcycle hero based on a rhinoceros beetle motif\",\"color scheme\":{\"primary\":\"{argument name=\\\"armor color\\\" default=\\\"deep metallic crimson\\\"}\",\"secondary\":\"black carbon fiber bodysuit\",\"accent\":\"cyan glowing lines and lenses\",\"metal\":\"gunmetal and silver\"},\"hero design\":{\"helmet\":\"sleek armored helmet with a long upward-curving rhinoceros beetle horn, segmented faceplate, bright cyan compound-eye visor, aggressive mechanical jaw area\",\"body armor\":\"heavy layered chest, shoulder, forearm, thigh, shin, and knee armor with angular paneling, scratches, vents, and glowing cyan seams\",\"undersuit\":\"matte black textured tactical suit between armor plates\",\"belt\":\"large transformation belt with circular glowing core device at the center\"},\"vehicle\":{\"type\":\"futuristic superbike\",\"design\":\"matching crimson armored motorcycle with beetle-horn front fairing, cyan headlights, black mechanical frame, gold front forks, aerodynamic side panels, and aggressive racing silhouette\"},\"weapon\":{\"name\":\"horn blade gun\",\"design\":\"hybrid blade-and-rifle weapon using the beetle horn motif, rendered in two modes with red armor shell, black grip, metallic mechanical internals, and circular core near the rear\"}},\"layout\":{\"orientation\":\"portrait\",\"page\":\"single reference/specification sheet with thin gray dividers and black section headers\",\"sections\":[{\"title\":\"全身前面\",\"position\":\"left column upper\",\"count\":1,\"labels\":[\"full front body\"]},{\"title\":\"三面図\",\"position\":\"upper middle\",\"count\":2,\"labels\":[\"back view\",\"side view\"]},{\"title\":\"変身ベルト\",\"position\":\"upper right\",\"count\":1,\"labels\":[\"belt close-up\"]},{\"title\":\"変身アイテム\",\"position\":\"right upper-middle\",\"count\":1,\"labels\":[\"カブコア\"]},{\"title\":\"変身工程\",\"position\":\"right middle\",\"count\":3,\"labels\":[\"① ロック展開\",\"② カブコアを装填\",\"③ コア回転・ロック\"]},{\"title\":\"ライディングポーズ\",\"position\":\"middle left and bottom right\",\"count\":2,\"labels\":[\"rider on motorcycle\",\"rider on motorcycle\"]},{\"title\":\"ホーンブレイザー 剣モード\",\"position\":\"right middle-lower\",\"count\":1,\"labels\":[\"sword mode\"]},{\"title\":\"ホーンブレイザー 銃モード\",\"position\":\"right lower-middle\",\"count\":1,\"labels\":[\"gun mode\"]},{\"title\":\"weapon transformation steps\",\"position\":\"beneath gun mode\",\"count\":4,\"labels\":[\"① ブレード部格納\",\"② グリップ回転\",\"③ 銃身スライド展開\",\"④ ストック展開・ロック\"]},{\"title\":\"motorcycle main render\",\"position\":\"bottom left large\",\"count\":1,\"labels\":[\"bike side-front view\"]},{\"title\":\"motorcycle detail callouts\",\"position\":\"left of bike render\",\"count\":3,\"labels\":[\"ホーンカウル\",\"エネルギーライン\",\"武装マウント\"]}],\"top header\":{\"main title\":\"{argument name=\\\"headline text\\\" default=\\\"重甲機士 カブライザー\\\"}\",\"spec count\":5,\"spec labels\":[\"身長\",\"体重\",\"パンチ力\",\"キック力\",\"ジャンプ力・ひと跳び\",\"走力\"]},\"bottom spec bar\":{\"count\":7,\"labels\":[\"全長\",\"全幅\",\"全高\",\"車両重量\",\"最高速度\",\"主な機能\",\"bike specs\"]}},\"text treatment\":\"all visible typography in Japanese, bold dark red main title, compact black labels in rectangular header tabs, fine gray annotation text, technical brochure aesthetic\",\"composition\":\"densely packed but orderly reference sheet, large hero figure dominating the left side, technical components and weapon modes stacked on the right, large motorcycle render anchoring the bottom, realistic lighting on a white background\",\"quality\":\"ultra-detailed, photorealistic CGI, polished concept sheet, magazine-grade mecha presentation\"}",
+  "translatedPrompt": "{\"type\":\"日式特摄英雄设计参考图集\",\"style\":\"高端工业概念艺术，高级科幻角色档案，简洁的白色摄影棚展示项目，具有锐利机械细节和光泽金属表面的逼真 CG 渲染\",\"subject\":{\"franchise\":\"原创虚构特摄英雄\",\"character name\":\"{argument name=\\\"character name\\\" default=\\\"重甲机士 卡布莱泽\\\"}\",\"theme\":\"基于独角仙主题的装甲昆虫摩托英雄\",\"color scheme\":{\"primary\":\"{argument name=\\\"armor color\\\" default=\\\"深金属深红色\\\"}\",\"secondary\":\"黑色碳纤维紧身衣\",\"accent\":\"青色发光线条与镜片\",\"metal\":\"枪金属色与银色\"},\"hero design\":{\"helmet\":\"流线型装甲头盔，配有向上弯曲的长独角仙角，分段式面甲，明亮的青色复眼护目镜，极具攻击性的机械下颚区域\",\"body armor\":\"厚重的分层胸甲、肩甲、前臂甲、大腿甲、胫甲及膝甲，带有棱角分明的面板、划痕、通风口及发光青色接缝\",\"undersuit\":\"装甲板之间采用哑光黑色纹理战术服\",\"belt\":\"大型变身腰带，中心配有圆形发光核心装置\"},\"vehicle\":{\"type\":\"未来感超级摩托车\",\"design\":\"配套的深红色装甲摩托车，带有独角仙角前整流罩、青色前大灯、黑色机械车架、金色前叉、空气动力学侧板及极具攻击性的赛车轮廓\"},\"weapon\":{\"name\":\"角刃枪\",\"design\":\"采用独角仙角主题的混合型刃枪武器，以两种模式呈现，配有红色装甲外壳、黑色握把、金属机械内部结构及后部附近的圆形核心\"}},\"layout\":{\"orientation\":\"纵向\",\"page\":\"单页参考/规格说明书，带有细灰色分隔线和黑色章节标题\",\"sections\":[{\"title\":\"全身前面\",\"position\":\"左列上方\",\"count\":1,\"labels\":[\"全身正面\"]},{\"title\":\"三面图\",\"position\":\"中上方\",\"count\":2,\"labels\":[\"背面图\",\"侧面图\"]},{\"title\":\"变身腰带\",\"position\":\"右上方\",\"count\":1,\"labels\":[\"腰带特写\"]},{\"title\":\"变身道具\",\"position\":\"右中上方\",\"count\":1,\"labels\":[\"卡布核心\"]},{\"title\":\"变身工程\",\"position\":\"右中部\",\"count\":3,\"labels\":[\"① 锁定展开\",\"② 装填卡布核心\",\"③ 核心旋转·锁定\"]},{\"title\":\"骑行姿态\",\"position\":\"中左及右下\",\"count\":2,\"labels\":[\"骑摩托车的英雄\",\"骑摩托车的英雄\"]},{\"title\":\"角刃枪 剑模式\",\"position\":\"右中下方\",\"count\":1,\"labels\":[\"剑模式\"]},{\"title\":\"角刃枪 枪模式\",\"position\":\"右下中部\",\"count\":1,\"labels\":[\"枪模式\"]},{\"title\":\"武器变形步骤\",\"position\":\"枪模式下方\",\"count\":4,\"labels\":[\"① 刀刃部收纳\",\"② 握把旋转\",\"③ 枪身滑动展开\",\"④ 枪托展开·锁定\"]},{\"title\":\"摩托车主渲染图\",\"position\":\"左下大图\",\"count\":1,\"labels\":[\"摩托车侧前视图\"]},{\"title\":\"摩托车细节标注\",\"position\":\"摩托车渲染图左侧\",\"count\":3,\"labels\":[\"角整流罩\",\"能量线\",\"武装挂载\"]}],\"top header\":{\"main title\":\"{argument name=\\\"headline text\\\" default=\\\"重甲机士 卡布莱泽\\\"}\",\"spec count\":5,\"spec labels\":[\"身高\",\"体重\",\"拳力\",\"踢力\",\"跳跃力·单次跳跃\",\"走力\"]},\"bottom spec bar\":{\"count\":7,\"labels\":[\"全长\",\"全宽\",\"全高\",\"车辆重量\",\"最高速度\",\"主要功能\",\"摩托车规格\"]}},\"text treatment\":\"所有可见文字均为日语，加粗深红色主标题，矩形标题栏中的紧凑黑色标签，精细的灰色注释文字，技术手册美学\",\"composition\":\"布局紧凑且有序的参考图集，左侧为占据主导地位的英雄全身像，右侧堆叠技术组件与武器模式，底部为大型摩托车渲染图，白色背景下的逼真光影\",\"quality\":\"超精细，照片级真实感 CGI，精致的概念图集，杂志级机甲展示\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "特摄英雄参考图集：一份详尽的日式原创甲虫主题装甲英雄概念图集，适用于生成虚构角色档案、变身装备页面及载具设计展示。",
+      "subject": "产品",
+      "scene": "信息图/图解",
+      "composition": [
+        "close-up",
+        "callout",
+        "layered"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "sci-fi",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "lens"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "硬件拆解、产品卖点、技术说明、科普图",
+      "whySelected": "得分 74；构图: close-up, callout, layered；风格: realistic, photorealistic, sci-fi, premium, studio；包含标注/说明；文字是主视觉"
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, callout, layered]。\n\nVisual style:\n[参考风格: realistic, photorealistic, sci-fi, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: lens]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13460",
+      "14170",
+      "15110",
+      "15000",
+      "14165",
+      "14261"
+    ]
+  }
+}

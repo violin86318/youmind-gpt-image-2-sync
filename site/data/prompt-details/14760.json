@@ -1,0 +1,37 @@
+{
+  "id": "14760",
+  "prompt": "A candid, unprocessed indoor photograph taken with an early 2000s consumer digital camera or cheap film camera. The image features a {argument name=\"family description\" default=\"cheerful Chinese family of three\"} in their {argument name=\"living room description\" default=\"modest Beijing apartment living room\"} circa {argument name=\"year\" default=\"2003\"}. A mother, father, and young daughter (around 6) are captured in a cluttered, genuine setting. The mother is looking up, surprised and smiling, while the father is trying to fix an old VCR player, and the daughter is playing with a colorful toy car on the patterned rug. The shot is clearly spontaneous, taken with poor, natural window light from the right. The composition is off-center, slightly blurry and grainy with muted, washed-out colors and a yellowish tint. In the background, there's a bulky beige TV showing static, a wall calendar from 2003, cluttered shelves with VHS tapes, framed family pictures, a cloth sofa, and maybe a small plant. The perspective is from eye level but feels handheld and shaky. The focus is soft, and the depth of field is shallow, emphasizing the natural moment. Shot with an old Nikon Coolpix or Canon PowerShot, visible digital noise and a time-stamp in a corner. The shot captures a slice of mundane, everyday life, with the daughter's messy hair and toys scattered, creating an authentic, memory-like feel.",
+  "translatedPrompt": "一张未经修饰、抓拍的室内照片，由 21 世纪初的消费级数码相机或廉价胶片相机拍摄。画面展示了 {argument name=\"family description\" default=\"一家三口其乐融融的中国家庭\"} 在 {argument name=\"year\" default=\"2003\"} 年左右位于 {argument name=\"living room description\" default=\"北京一间朴素公寓客厅\"} 的场景。母亲、父亲和年幼的女儿（约 6 岁）被定格在一个杂乱而真实的居家环境中。母亲抬头看向镜头，神情惊喜且面带微笑；父亲正在尝试修理一台旧录像机；女儿则在花纹地毯上玩着一辆色彩鲜艳的玩具车。照片显然是随手抓拍的，光线来自右侧，是昏暗的自然窗光。构图偏离中心，略显模糊且带有颗粒感，色彩暗淡、发白，并泛着淡淡的黄色调。背景中有一台笨重的米色电视机，屏幕上显示着雪花点，墙上挂着 2003 年的挂历，架子上堆满了 VHS 录像带、装裱的家庭照片、布艺沙发，还有一株小植物。视角处于平视高度，但给人一种手持拍摄、略微晃动的感觉。焦点柔和，景深较浅，突出了这一自然的瞬间。使用旧款 Nikon Coolpix 或 Canon PowerShot 拍摄，画面可见数字噪点，角落处带有日期时间戳。这张照片捕捉了平凡日常生活的片段，女儿凌乱的头发和散落的玩具，营造出一种真实、如记忆般的感觉。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "怀旧 2003 年家庭公寓照片：一个用于生成逼真、带有颗粒感且略显模糊的室内家庭照片的提示词，旨在模仿 21 世纪初数码相机的拍摄效果。",
+      "subject": "产品",
+      "scene": "摄影/真实场景",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "depth of field",
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体",
+        "光线/镜头"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: depth of field, camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14264",
+      "14632",
+      "14406",
+      "13590",
+      "14012",
+      "14082"
+    ]
+  }
+}

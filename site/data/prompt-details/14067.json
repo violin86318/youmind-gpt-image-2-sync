@@ -1,0 +1,45 @@
+{
+  "id": "14067",
+  "prompt": "An illustration in a {argument name=\"art style\" default=\"90s retro anime aesthetic\"} featuring a cute girl sleeping peacefully in bed. She has voluminous {argument name=\"hair color\" default=\"pastel rainbow\"} hair and is wearing large retro sunglasses with yellow frames and purple gradient lenses resting on her forehead. She wears colorful patterned pajamas and heart-shaped earrings, clutching a pink blanket decorated with pastel rainbows, hearts, and stars. The bedroom is bathed in a {argument name=\"color palette\" default=\"vibrant neon pastel\"} color palette with soft glowing lighting and sparkles. In the top right corner, a glowing cloud-shaped sign reads \"{argument name=\"neon sign text\" default=\"Sweet Dreams\"}\". A window on the left shows a dark blue night sky with a crescent moon and stars over a city silhouette. Hanging star ornaments dangle from the ceiling. On the bed next to her is 1 small yellow plushie with a pink bow. On a nightstand in the bottom right corner, there is 1 star-patterned lamp, 1 mug with a heart design, and 1 book titled \"{argument name=\"book title\" default=\"Good night\"}\".",
+  "translatedPrompt": "一张采用 {argument name=\"art style\" default=\"90 年代复古动漫美学\"} 的插画，画面中一个可爱的女孩正安静地躺在床上睡觉。她留着蓬松的 {argument name=\"hair color\" default=\"柔和彩虹色\"} 头发，额头上架着一副复古大墨镜，镜框为黄色，镜片呈紫色渐变。她穿着色彩鲜艳的印花睡衣，戴着心形耳环，怀里紧紧抱着一条装饰着柔和彩虹、爱心和星星图案的粉色毯子。卧室沐浴在 {argument name=\"color palette\" default=\"充满活力的霓虹柔和色\"} 调中，伴有柔和的微光和闪烁效果。右上角有一个发光的云朵状招牌，上面写着 \"{argument name=\"neon sign text\" default=\"Sweet Dreams\"}\"。左侧的窗户展现出深蓝色的夜空，可以看到城市剪影上方的弯月和繁星。天花板上悬挂着星星装饰。她身边的床上放着 1 个系着粉色蝴蝶结的黄色小毛绒玩具。右下角的床头柜上摆放着 1 盏星形图案的台灯、1 个心形设计的马克杯，以及 1 本书，书名写着 \"{argument name=\"book title\" default=\"Good night\"}\"。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古动漫风柔和色调睡眠场景：生成一张充满活力的 90 年代动漫风格插画，描绘一个角色在舒适的柔和色调卧室中入睡，支持自定义文字和颜色。",
+      "subject": "空间",
+      "scene": "空间/场景",
+      "composition": [],
+      "style": [
+        "anime",
+        "retro"
+      ],
+      "lightingCamera": [
+        "neon",
+        "lens"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "空间概念、建筑场景、游戏场景、产品场景盒子",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 空间/场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime, retro]。\n\nLighting and camera:\n[参考光线镜头: neon, lens]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14571",
+      "14897",
+      "13614",
+      "15328",
+      "13734",
+      "13887"
+    ]
+  }
+}

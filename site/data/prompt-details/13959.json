@@ -1,0 +1,38 @@
+{
+  "id": "13959",
+  "prompt": "{\n  \"type\": \"side-by-side mobile UI mockup\",\n  \"theme\": \"{argument name=\\\"app style\\\" default=\\\"Chinese mobile live streaming app\\\"}\",\n  \"panels\": [\n    {\n      \"position\": \"left\",\n      \"subject\": \"{argument name=\\\"streamer appearance\\\" default=\\\"young Asian woman, beautiful, smiling\\\"}, long wavy hair, holding a handwritten sign\",\n      \"sign_content\": \"{argument name=\\\"sign text\\\" default=\\\"谢谢 Ray 的大火箭！\\\"} with small rocket and heart doodles\",\n      \"ui_elements\": {\n        \"top_bar\": \"profile info, follow button, 3 viewer avatars, {argument name=\\\"viewer count\\\" default=\\\"10万+\\\"} count, close button\",\n        \"overlays\": \"popularity rank badge, gift gallery widget, floating gift animation showing {argument name=\\\"gift name\\\" default=\\\"大火箭\\\"} x1\",\n        \"chat_stream\": \"7 distinct chat message bubbles\",\n        \"bottom_bar\": \"text input field, 4 action icons, floating like hearts\"\n      }\n    },\n    {\n      \"position\": \"right\",\n      \"subject\": \"same streamer, high ponytail with scrunchie, holding a handwritten sign\",\n      \"sign_content\": \"{argument name=\\\"sign text\\\" default=\\\"谢谢 Ray 的大火箭！\\\"} with stars, hearts, and rocket doodles\",\n      \"ui_elements\": {\n        \"top_bar\": \"app logo, LIVE badge, 12.6万 viewer count, profile info, follow button\",\n        \"overlays\": \"hourly rank badge, gift goal widget, 2 floating gift animations (rocket x1, rose x10)\",\n        \"chat_stream\": \"6 distinct chat message bubbles\",\n        \"bottom_bar\": \"text input field, 4 action icons, follow button, floating like hearts\"\n      }\n    }\n  ]\n}",
+  "translatedPrompt": "{\n  \"type\": \"并排移动端 UI 模型\",\n  \"theme\": \"{argument name=\\\"app style\\\" default=\\\"中国移动直播 App\\\"}\",\n  \"panels\": [\n    {\n      \"position\": \"左侧\",\n      \"subject\": \"{argument name=\\\"streamer appearance\\\" default=\\\"年轻亚裔女性，漂亮，微笑\\\"}，长波浪卷发，手持手写牌\",\n      \"sign_content\": \"{argument name=\\\"sign text\\\" default=\\\"谢谢 Ray 的大火箭！\\\"}，带有小火箭和爱心涂鸦\",\n      \"ui_elements\": {\n        \"top_bar\": \"个人资料信息、关注按钮、3 个观众头像、{argument name=\\\"viewer count\\\" default=\\\"10万+\\\"} 观众人数、关闭按钮\",\n        \"overlays\": \"人气排名徽章、礼物栏小组件、显示 {argument name=\\\"gift name\\\" default=\\\"大火箭\\\"} x1 的悬浮礼物动画\",\n        \"chat_stream\": \"7 条不同的聊天消息气泡\",\n        \"bottom_bar\": \"文本输入框、4 个操作图标、悬浮点赞爱心\"\n      }\n    },\n    {\n      \"position\": \"右侧\",\n      \"subject\": \"同一位主播，扎高马尾并配有发圈，手持手写牌\",\n      \"sign_content\": \"{argument name=\\\"sign text\\\" default=\\\"谢谢 Ray 的大火箭！\\\"}，带有星星、爱心和火箭涂鸦\",\n      \"ui_elements\": {\n        \"top_bar\": \"App Logo、LIVE 徽章、12.6 万观众人数、个人资料信息、关注按钮\",\n        \"overlays\": \"小时榜排名徽章、礼物目标小组件、2 个悬浮礼物动画（火箭 x1，玫瑰 x10）\",\n        \"chat_stream\": \"6 条不同的聊天消息气泡\",\n        \"bottom_bar\": \"文本输入框、4 个操作图标、关注按钮、悬浮点赞爱心\"\n      }\n    }\n  ]\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "直播 App UI 模型：生成移动端直播界面的并排对比图，展示主播手持个性化感谢牌的场景。",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13824",
+      "14091",
+      "14166",
+      "14273",
+      "14275",
+      "13667"
+    ]
+  }
+}

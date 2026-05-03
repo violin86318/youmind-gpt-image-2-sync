@@ -1,0 +1,51 @@
+{
+  "id": "15011",
+  "prompt": "{\"type\":\"cyberpunk software advertisement poster\",\"brand\":\"Adobe\",\"product\":\"Creative Cloud\",\"style\":\"futuristic neon sci-fi marketing poster with a dark rainy cyberpunk city background, glossy reflections, magenta, cyan, violet, and electric orange lighting, high contrast, ultra-detailed UI-inspired frames, holographic glow, sleek tech panel design\",\"format\":\"tall vertical poster\",\"background\":{\"scene\":\"nighttime neon city alley with towering buildings, digital signage, wet pavement reflecting pink and blue lights, cinematic atmosphere\",\"figure\":\"a single small hooded person seen from behind in the mid-background, standing on the street and facing a giant glowing Creative Cloud logo\"},\"header\":{\"logo\":\"Adobe\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"CREATIVE CLOUD\\\"}\",\"subheadline\":\"7 APPS. ENDLESS POSSIBILITIES.\",\"body_text\":\"POWER YOUR CREATIVITY WITH INDUSTRY-LEADING TOOLS FOR EVERY IDEA AND EVERY CREATOR.\",\"hero_icon\":\"large glowing rounded-square frame containing the Creative Cloud logo in white, surrounded by pink, blue, and orange neon\"},\"layout\":{\"sections\":[{\"title\":\"Photoshop\",\"position\":\"top app panel\",\"count\":1,\"labels\":[\"Ps\"],\"description\":\"cyan neon framed panel with app icon on the left, title Photoshop, subtitle PHOTO EDITING, and a wide preview image of a surreal moonlit landscape with a lone figure plus a dark editing interface sidebar on the right\"},{\"title\":\"Illustrator\",\"position\":\"second app panel\",\"count\":1,\"labels\":[\"Ai\"],\"description\":\"orange neon framed panel with app icon on the left, title Illustrator, subtitle VECTOR GRAPHICS, and a central technical line-art motorcycle drawing with small vector-tool interface icons on the right\"},{\"title\":\"Premiere Pro\",\"position\":\"third app panel\",\"count\":1,\"labels\":[\"Pr\"],\"description\":\"purple neon framed panel with app icon on the left, title Premiere Pro, subtitle VIDEO EDITING, and a timeline-based video editing interface showing a cyberpunk city clip\"},{\"title\":\"After Effects\",\"position\":\"fourth app panel\",\"count\":1,\"labels\":[\"Ae\"],\"description\":\"violet neon framed panel with app icon on the left, title After Effects, subtitle MOTION GRAPHICS, and a glowing triangle composition with floating geometric elements plus a graph editor panel on the right\"},{\"title\":\"InDesign\",\"position\":\"fifth app panel\",\"count\":1,\"labels\":[\"Id\"],\"description\":\"pink neon framed panel with app icon on the left, title InDesign, subtitle LAYOUT & PUBLISHING, and an editorial magazine spread preview with the visible cover text THE FUTURE IS CREATIVE and layout panels to the right\"},{\"title\":\"Lightroom\",\"position\":\"sixth app panel\",\"count\":1,\"labels\":[\"Lr\"],\"description\":\"cyan neon framed panel with app icon on the left, title Lightroom, subtitle PHOTO MANAGEMENT, and a photo browser interface featuring a mountain lake landscape with thumbnail images on the right\"},{\"title\":\"XD\",\"position\":\"seventh app panel\",\"count\":1,\"labels\":[\"Xd\"],\"description\":\"magenta neon framed panel with app icon on the left, title XD, subtitle UI/UX DESIGN, and three mobile app mockup screens with charts, profile cards, and dashboard widgets\"},{\"title\":\"feature icons\",\"position\":\"bottom strip\",\"count\":4,\"labels\":[\"SEAMLESS INTEGRATION\",\"BUILT FOR COLLABORATION\",\"SYNC ACROSS DEVICES\",\"LEARN & GROW WITH CREATIVE CLOUD\"],\"description\":\"four glowing line icons with short captions, evenly spaced across a dark neon panel\"}],\"footer\":{\"tagline\":\"MAKE IT. CREATIVE CLOUD.\"}},\"color_palette\":{\"primary\":[\"electric blue\",\"hot pink\",\"purple\",\"deep black\"],\"accent\":[\"orange\",\"white\"]},\"rendering\":\"crisp graphic design poster, polished commercial key art, symmetrical stacked panel layout, intense glow effects, legible typography, premium tech-ad aesthetic\"}",
+  "translatedPrompt": "{\"type\":\"赛博朋克软件广告海报\",\"brand\":\"Adobe\",\"product\":\"Creative Cloud\",\"style\":\"未来感霓虹科幻营销海报，背景为阴暗多雨的赛博朋克城市，带有光泽反射，采用洋红色、青色、紫色和电橙色灯光，高对比度，超精细的 UI 风格边框，全息光效，流畅的科技面板设计\",\"format\":\"高耸竖版海报\",\"background\":{\"scene\":\"夜间霓虹城市小巷，高楼林立，数字标牌，湿漉漉的地面反射着粉色和蓝色的灯光，电影级氛围\",\"figure\":\"中景背景中有一个戴兜帽的小人背影，站在街上，面对着巨大的发光 Creative Cloud 标志\"},\"header\":{\"logo\":\"Adobe\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"CREATIVE CLOUD\\\"}\",\"subheadline\":\"7 款应用，无限可能。\",\"body_text\":\"利用行业领先的工具，为每一个创意和每一位创作者赋能。\",\"hero_icon\":\"巨大的发光圆角方形边框，内含白色 Creative Cloud 标志，周围环绕着粉色、蓝色和橙色的霓虹灯\"},\"layout\":{\"sections\":[{\"title\":\"Photoshop\",\"position\":\"顶部应用面板\",\"count\":1,\"labels\":[\"Ps\"],\"description\":\"青色霓虹边框面板，左侧为应用图标，标题为 Photoshop，副标题为 PHOTO EDITING，右侧为超现实月光景观的宽幅预览图，包含一个孤独的人物以及深色的编辑界面侧边栏\"},{\"title\":\"Illustrator\",\"position\":\"第二个应用面板\",\"count\":1,\"labels\":[\"Ai\"],\"description\":\"橙色霓虹边框面板，左侧为应用图标，标题为 Illustrator，副标题为 VECTOR GRAPHICS，中心为技术线条艺术风格的摩托车绘图，右侧为小型矢量工具界面图标\"},{\"title\":\"Premiere Pro\",\"position\":\"第三个应用面板\",\"count\":1,\"labels\":[\"Pr\"],\"description\":\"紫色霓虹边框面板，左侧为应用图标，标题为 Premiere Pro，副标题为 VIDEO EDITING，展示了包含赛博朋克城市剪辑片段的时间轴视频编辑界面\"},{\"title\":\"After Effects\",\"position\":\"第四个应用面板\",\"count\":1,\"labels\":[\"Ae\"],\"description\":\"紫罗兰色霓虹边框面板，左侧为应用图标，标题为 After Effects，副标题为 MOTION GRAPHICS，包含一个发光的三角形合成画面，带有浮动的几何元素，右侧为图形编辑器面板\"},{\"title\":\"InDesign\",\"position\":\"第五个应用面板\",\"count\":1,\"labels\":[\"Id\"],\"description\":\"粉色霓虹边框面板，左侧为应用图标，标题为 InDesign，副标题为 LAYOUT & PUBLISHING，展示了编辑类杂志排版预览，可见封面文字 THE FUTURE IS CREATIVE，右侧为排版面板\"},{\"title\":\"Lightroom\",\"position\":\"第六个应用面板\",\"count\":1,\"labels\":[\"Lr\"],\"description\":\"青色霓虹边框面板，左侧为应用图标，标题为 Lightroom，副标题为 PHOTO MANAGEMENT，展示了包含山间湖泊景观的照片浏览器界面，右侧为缩略图\"},{\"title\":\"XD\",\"position\":\"第七个应用面板\",\"count\":1,\"labels\":[\"Xd\"],\"description\":\"洋红色霓虹边框面板，左侧为应用图标，标题为 XD，副标题为 UI/UX DESIGN，展示了三个移动应用原型界面，包含图表、个人资料卡片和仪表盘小组件\"},{\"title\":\"功能图标\",\"position\":\"底部条\",\"count\":4,\"labels\":[\"无缝集成\",\"专为协作打造\",\"跨设备同步\",\"通过 Creative Cloud 学习与成长\"],\"description\":\"四个发光的线条图标，配有简短说明文字，均匀分布在深色霓虹面板上\"}],\"footer\":{\"tagline\":\"MAKE IT. CREATIVE CLOUD.\"}},\"color_palette\":{\"primary\":[\"电光蓝\",\"热粉色\",\"紫色\",\"深黑色\"],\"accent\":[\"橙色\",\"白色\"]},\"rendering\":\"清晰的平面设计海报，精致的商业主视觉图，对称的堆叠面板布局，强烈的发光效果，清晰易读的排版，高端科技广告美学\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "赛博朋克风格 Creative Cloud 创意海报：一张高耸的霓虹赛博朋克风格 Adobe Creative Cloud 宣传海报，非常适合通过堆叠的应用程序展示面板来重现未来感软件广告。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [
+        "symmetrical",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "editorial",
+        "sci-fi",
+        "premium"
+      ],
+      "lightingCamera": [
+        "neon",
+        "high contrast"
+      ],
+      "text": "要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: symmetrical, vertical]。\n\nVisual style:\n[参考风格: cinematic, editorial, sci-fi, premium]。\n\nLighting and camera:\n[参考光线镜头: neon, high contrast]。\n\nText requirements:\n要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15324",
+      "15702",
+      "14624",
+      "15263",
+      "15448",
+      "15653"
+    ]
+  }
+}

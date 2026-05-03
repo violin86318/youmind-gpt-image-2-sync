@@ -1,0 +1,43 @@
+{
+  "id": "14037",
+  "prompt": "{\n  \"type\": \"2x2 grid of Chinese livestreaming app interfaces\",\n  \"layout\": {\n    \"grid\": \"2 columns, 2 rows\",\n    \"panels\": [\n      {\n        \"position\": \"top-left\",\n        \"platform\": \"Douyin\",\n        \"logo\": \"抖音\",\n        \"host\": {\n          \"name\": \"{argument name=\\\"douyin host name\\\" default=\\\"广东夫妇\\\"}\",\n          \"appearance\": \"young woman, purple t-shirt, braided pigtails\",\n          \"action\": \"holding a white skincare bottle\"\n        },\n        \"ui_elements\": [\n          \"profile banner with '关注' button\",\n          \"viewer count '10万+'\",\n          \"floating sticker '加我粉丝团'\",\n          \"chat stream with 4 messages\",\n          \"product overlay card showing a gold bottle and '券后¥{argument name=\\\"douyin product price\\\" default=\\\"189\\\"}'\"\n        ]\n      },\n      {\n        \"position\": \"top-right\",\n        \"platform\": \"Xiaohongshu\",\n        \"logo\": \"小红书\",\n        \"host\": {\n          \"name\": \"{argument name=\\\"xiaohongshu host name\\\" default=\\\"章小婉\\\"}\",\n          \"appearance\": \"young woman, red sweater, long wavy dark hair\",\n          \"action\": \"hugging a large brown teddy bear\"\n        },\n        \"ui_elements\": [\n          \"profile banner with '关注' button\",\n          \"viewer count '14.2万'\",\n          \"heart progress bar '245/260'\",\n          \"chat stream with 3 messages\",\n          \"product overlay card showing a lamp and '¥169'\"\n        ]\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"platform\": \"WeChat Video\",\n        \"logo\": \"视频号\",\n        \"host\": {\n          \"name\": \"{argument name=\\\"wechat host name\\\" default=\\\"家居好物严选\\\"}\",\n          \"appearance\": \"young woman, white button-up shirt, long dark hair\",\n          \"action\": \"standing in a kitchen with a blender and white pot\"\n        },\n        \"ui_elements\": [\n          \"profile banner\",\n          \"viewer count '10万人看过'\",\n          \"countdown tag '09:30开抢'\",\n          \"chat stream with 4 messages\",\n          \"product overlay card showing an air fryer and '¥239'\"\n        ]\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"platform\": \"Kuaishou\",\n        \"logo\": \"快手\",\n        \"host\": {\n          \"name\": \"{argument name=\\\"kuaishou host name\\\" default=\\\"莫儿\\\"}\",\n          \"appearance\": \"young woman, white sleeveless dress, white headband\",\n          \"action\": \"holding a microphone and singing\"\n        },\n        \"ui_elements\": [\n          \"profile banner with '关注' button\",\n          \"viewer count '10万+'\",\n          \"hot topic banner '快手直播歌王来了'\",\n          \"chat stream with 5 messages\",\n          \"floating gift animations including a rocket and hearts\",\n          \"floating treasure box '抽大奖'\"\n        ]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"2x2 网格的中国直播 App 界面\",\n  \"layout\": {\n    \"grid\": \"2 列，2 行\",\n    \"panels\": [\n      {\n        \"position\": \"左上\",\n        \"platform\": \"Douyin\",\n        \"logo\": \"抖音\",\n        \"host\": {\n          \"name\": \"{argument name=\\\"douyin host name\\\" default=\\\"广东夫妇\\\"}\",\n          \"appearance\": \"年轻女性，紫色 T 恤，编织双马尾\",\n          \"action\": \"手持白色护肤品瓶\"\n        },\n        \"ui_elements\": [\n          \"带有“关注”按钮的个人资料横幅\",\n          \"观看人数“10万+”\",\n          \"浮动贴纸“加我粉丝团”\",\n          \"包含 4 条消息的聊天流\",\n          \"产品覆盖卡片，显示金色瓶子和“券后¥{argument name=\\\"douyin product price\\\" default=\\\"189\\\"}”\"\n        ]\n      },\n      {\n        \"position\": \"右上\",\n        \"platform\": \"Xiaohongshu\",\n        \"logo\": \"小红书\",\n        \"host\": {\n          \"name\": \"{argument name=\\\"xiaohongshu host name\\\" default=\\\"章小婉\\\"}\",\n          \"appearance\": \"年轻女性，红色毛衣，长波浪深色头发\",\n          \"action\": \"怀抱一只大型棕色泰迪熊\"\n        },\n        \"ui_elements\": [\n          \"带有“关注”按钮的个人资料横幅\",\n          \"观看人数“14.2万”\",\n          \"爱心进度条“245/260”\",\n          \"包含 3 条消息的聊天流\",\n          \"产品覆盖卡片，显示一盏灯和“¥169”\"\n        ]\n      },\n      {\n        \"position\": \"左下\",\n        \"platform\": \"WeChat Video\",\n        \"logo\": \"视频号\",\n        \"host\": {\n          \"name\": \"{argument name=\\\"wechat host name\\\" default=\\\"家居好物严选\\\"}\",\n          \"appearance\": \"年轻女性，白色衬衫，长深色头发\",\n          \"action\": \"站在厨房里，旁边有搅拌机和白色锅具\"\n        },\n        \"ui_elements\": [\n          \"个人资料横幅\",\n          \"观看人数“10万人看过”\",\n          \"倒计时标签“09:30开抢”\",\n          \"包含 4 条消息的聊天流\",\n          \"产品覆盖卡片，显示空气炸锅和“¥239”\"\n        ]\n      },\n      {\n        \"position\": \"右下\",\n        \"platform\": \"Kuaishou\",\n        \"logo\": \"快手\",\n        \"host\": {\n          \"name\": \"{argument name=\\\"kuaishou host name\\\" default=\\\"莫儿\\\"}\",\n          \"appearance\": \"年轻女性，白色无袖连衣裙，白色发带\",\n          \"action\": \"手持麦克风唱歌\"\n        },\n        \"ui_elements\": [\n          \"带有“关注”按钮的个人资料横幅\",\n          \"观看人数“10万+”\",\n          \"热门话题横幅“快手直播歌王来了”\",\n          \"包含 5 条消息的聊天流\",\n          \"浮动礼物动画，包括火箭和爱心\",\n          \"浮动宝箱“抽大奖”\"\n        ]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "中国直播 App UI 网格图：生成 2x2 网格的逼真中国直播 App 界面，展示不同的主播、平台和 UI 覆盖层。",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [
+        "grid",
+        "2x2"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, 2x2]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13893",
+      "13803",
+      "13696",
+      "14403",
+      "13680",
+      "13591"
+    ]
+  }
+}

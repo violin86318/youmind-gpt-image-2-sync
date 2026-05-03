@@ -1,0 +1,39 @@
+{
+  "id": "13750",
+  "prompt": "A {argument name=\"photography style\" default=\"vintage film photography\"} portrait of a {argument name=\"subject description\" default=\"young Asian woman\"} smiling broadly at the camera. She is leaning forward playfully while holding the handlebars of a bicycle on a sunny neighborhood street. She wears a {argument name=\"top clothing\" default=\"white short-sleeved t-shirt\"}, a {argument name=\"bottom clothing\" default=\"dark blue pleated skirt\"}, white socks, and white sneakers. Her long dark hair blows slightly in the breeze. The bicycle has a front wire basket containing a {argument name=\"basket contents\" default=\"clear plastic bag of oranges\"}. The background features a paved road, dappled sunlight through trees, and a utility pole, capturing a nostalgic, bright summer day aesthetic.",
+  "translatedPrompt": "一张 {argument name=\"photography style\" default=\"复古胶片摄影\"} 风格的肖像，主角是一位 {argument name=\"subject description\" default=\"年轻的亚洲女性\"}，正对着镜头灿烂微笑。她俏皮地向前倾身，双手扶着自行车把手，背景是阳光明媚的街区街道。她穿着一件 {argument name=\"top clothing\" default=\"白色短袖 T 恤\"}、一条 {argument name=\"bottom clothing\" default=\"深蓝色百褶裙\"}，搭配白袜和白色运动鞋。她乌黑的长发在微风中轻轻飘动。自行车的前车筐里放着 {argument name=\"basket contents\" default=\"一袋透明塑料袋装的橙子\"}。背景是铺设好的道路、透过树叶洒下的斑驳阳光以及一根电线杆，捕捉到了怀旧而明亮的夏日氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "骑自行车的女孩复古胶片肖像：生成一张照片级逼真、充满怀旧感的肖像，描绘了一位年轻女性在阳光明媚的街道上与自行车合影的场景。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [],
+      "style": [
+        "vintage"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: vintage]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14012",
+      "13590",
+      "13593",
+      "14145",
+      "15656",
+      "13650"
+    ]
+  }
+}

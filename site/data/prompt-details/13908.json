@@ -1,0 +1,44 @@
+{
+  "id": "13908",
+  "prompt": "A high-quality anime illustration of a young girl with {argument name=\"character hair\" default=\"short brown hair with cat ears\"} and blue eyes standing in a {argument name=\"setting\" default=\"post-apocalyptic wasteland\"}. She is wearing a {argument name=\"character outfit\" default=\"white short-sleeve shirt, blue plaid pleated skirt, black thigh-high socks with white stripes, and a heavy tactical chest rig\"}, equipped with a backpack, a wrist-mounted retro-futuristic computer device, and a katana strapped to her waist. The background features a bright blue sky with scattered white clouds. To her right is a heavily rusted brick building with a large, weathered red sign on the roof partially reading \"{argument name=\"sign text\" default=\"RED R\"}\" alongside a red rocket sculpture. In the foreground, there is a rusted bright blue metal container cart, and to the left, a dilapidated, rusted blue car sits among dry, overgrown weeds and debris. The scene combines vibrant anime character design with detailed, realistic textures of rust and decay.",
+  "translatedPrompt": "一张高质量的动漫插画，描绘了一位有着 {argument name=\"character hair\" default=\"短棕发和猫耳\"} 以及蓝色眼睛的少女，站在 {argument name=\"setting\" default=\"末日废土\"} 中。她身穿 {argument name=\"character outfit\" default=\"白色短袖衬衫、蓝色格子百褶裙、带有白色条纹的黑色过膝袜以及厚重的战术胸挂\"}，背着背包，手腕上佩戴着复古未来主义风格的电脑设备，腰间系着一把武士刀。背景是湛蓝的天空和零星的白云。在她的右侧是一栋锈迹斑斑的砖房，屋顶上有一个巨大的、饱经风霜的红色招牌，上面隐约写着 \"{argument name=\"sign text\" default=\"RED R\"}\"，旁边还有一座红色火箭雕塑。前景中有一个生锈的亮蓝色金属集装箱推车，左侧是一辆破旧且生锈的蓝色汽车，周围杂草丛生，遍布残骸。整个画面将充满活力的动漫角色设计与锈迹和衰败的细腻写实纹理完美融合。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "末日废土风战术动漫少女：生成一张动漫风格的插画，描绘了一位身穿战术装备的少女，置身于充满活力的锈迹斑斑的末日废土之中。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "anime",
+        "retro"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, anime, retro]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14693",
+      "14613",
+      "15083",
+      "15147",
+      "13770",
+      "14152"
+    ]
+  }
+}

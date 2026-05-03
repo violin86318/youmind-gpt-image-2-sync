@@ -1,0 +1,48 @@
+{
+  "id": "15184",
+  "prompt": "Create a 4:5 high-contrast, black-and-white studio portrait of a {argument name=\"subject\" default=\"handsome man\"} in the uploaded image. He is seated in a slumped, pensive posture on a {argument name=\"furniture\" default=\"minimalist dark wooden chair\"}. His right elbow rests on his knee, with his head leaning heavily into his palm, while his left hand loosely grips a white disposable coffee cup with a black plastic lid. He is wearing classic black Wayfarer-style sunglasses, hiding his eyes and adding to the stoic, moody atmosphere.Suit: An oversized, structured black blazer and matching wide-leg trousers. The fabric is a heavy, matte wool. Four small black buttons are visible on the sleeve cuff. Footwear: Crisp, bright white ribbed cotton socks creating a sharp visual break between the dark trousers and shoes. Shoes: Highly polished black leather Oxford shoes with thin laces and a slight sheen on the toe box. Background: A minimalist, sterile studio setting with a {argument name=\"background\" default=\"light grey or off-white textured plaster wall\"}. A soft, vertical shadow or curtain edge is visible on the far left. Lighting: Soft, diffused side-lighting that creates gentle gradients on the man's face and deep, dramatic folds in the oversized suit. The lighting emphasizes the high-contrast \"black on white\" aesthetic. Floor: A light, seamless studio floor that catches the soft shadows cast by the chair legs and the man's shoes. Color Grade: Pure monochrome (black and white) with a wide dynamic range—deep blacks and bright, clean whites. Film Quality: Sharp focus on the subject with a very subtle film grain, mimicking professional editorial fashion photography (reminiscent of 1990s minimalist campaigns).",
+  "translatedPrompt": "为上传图片中的 {argument name=\"subject\" default=\"帅气的男士\"} 创建一张 4:5 的高对比度黑白影棚肖像。他以一种颓废、沉思的姿态坐在 {argument name=\"furniture\" default=\"极简主义深色木椅\"} 上。他的右肘靠在膝盖上，头部沉重地倚在手掌中，左手松松地握着一个带有黑色塑料盖的白色一次性咖啡杯。他戴着经典的 Wayfarer 风格黑色太阳镜，遮住了双眼，增添了冷峻、忧郁的氛围。西装：一件超大廓形的黑色结构感西装外套，搭配同款阔腿裤。面料为厚实的哑光羊毛。袖口可见四颗小黑扣。袜饰：清爽、亮白色的罗纹棉袜，在深色裤子和鞋子之间形成鲜明的视觉分割。鞋履：高度抛光的黑色牛津皮鞋，配有细鞋带，鞋头带有轻微光泽。背景：极简主义、干净的影棚环境，背景为 {argument name=\"background\" default=\"浅灰色或灰白色纹理灰泥墙\"}。最左侧可见柔和的垂直阴影或窗帘边缘。光影：柔和的侧向漫射光，在男士面部形成细腻的渐变，并在超大西装上投下深邃、戏剧性的褶皱。光影强调了“黑白分明”的高对比度美学。地面：浅色无缝影棚地面，映衬出椅子腿和男士鞋子投下的柔和阴影。色调：纯单色（黑白），具有宽广的动态范围——深邃的黑色和明亮、纯净的白色。胶片质感：主体对焦清晰，带有非常细腻的胶片颗粒感，模仿专业的时尚编辑摄影（让人联想到 20 世纪 90 年代的极简主义广告大片）。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "高对比度黑白影棚肖像：一份高度详细的提示词，用于基于现有主体生成专业的极简主义黑白时尚肖像。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "editorial",
+        "minimalist",
+        "studio"
+      ],
+      "lightingCamera": [
+        "film grain"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: editorial, minimalist, studio]。\n\nLighting and camera:\n[参考光线镜头: film grain]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15764",
+      "14833",
+      "15243",
+      "15604",
+      "14854",
+      "15160"
+    ]
+  }
+}

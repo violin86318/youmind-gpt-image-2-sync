@@ -1,0 +1,42 @@
+{
+  "id": "14034",
+  "prompt": "An {argument name=\"overall theme\" default=\"epic fantasy\"} illustration utilizing a {argument name=\"art style\" default=\"watercolor and ink wash double exposure\"} technique on a vintage parchment background. The overall composition forms the {argument name=\"main silhouette subject\" default=\"right-facing profile of a man's head\"}. Inside this silhouette is a complex montage of scenes and characters. At the top, a white tree with red leaves stands near a cliffside castle, with a white winged creature flying on the left and a black dragon breathing fire on the right. Below this, a blonde woman sits on a throne made of swords, while a cloaked figure stands on a hill nearby. In the center right, a romantic couple consisting of a blonde woman and a dark-haired man in a fur collar gaze at each other. To their left stands a knight in full plate armor holding a sword. Below them is a group of 3 figures: a man, a young woman, and a child. At the bottom, a large white wolf head is on the left, and a stag stands near a castle on the right. In the bottom center, a flaming heart hovers above 2 crossed swords and 1 golden crown. The {argument name=\"dominant color palette\" default=\"muted earthy tones with splashes of red and orange\"} creates a dramatic, legendary atmosphere.",
+  "translatedPrompt": "一幅 {argument name=\"overall theme\" default=\"史诗奇幻\"} 插画，在复古羊皮纸背景上运用了 {argument name=\"art style\" default=\"水彩与水墨双重曝光\"} 技法。整体构图呈现为 {argument name=\"main silhouette subject\" default=\"向右的男性头部侧影\"}。剪影内部是一个由场景和角色构成的复杂蒙太奇。顶部，一棵红叶白树矗立在悬崖城堡旁，左侧有一只白色翼兽在飞翔，右侧有一条喷火的黑龙。下方，一位金发女性坐在由剑组成的王座上，附近的山丘上站着一个披风人影。中右侧，一对浪漫的情侣——金发女子与身着皮领服装的黑发男子——正深情对视。他们的左侧站着一位手持长剑、身披全身板甲的骑士。再下方是一组 3 位人物：一名男子、一名年轻女子和一个孩子。底部左侧是一个巨大的白狼头，右侧是一头站在城堡附近的雄鹿。底部中央，一颗燃烧的心悬浮在 2 把交叉的剑和 1 顶金冠上方。{argument name=\"dominant color palette\" default=\"柔和的大地色调点缀着红色与橙色\"} 营造出一种充满戏剧性的传奇氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "史诗奇幻双重曝光剪影：一幅复杂的双重曝光插画，以男性侧影为轮廓，内部填充了奇幻角色、生物和城堡。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "vintage",
+        "fantasy",
+        "watercolor",
+        "ink wash"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: vintage, fantasy, watercolor, ink wash]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13933",
+      "13825",
+      "15816",
+      "14587",
+      "14927",
+      "14989"
+    ]
+  }
+}

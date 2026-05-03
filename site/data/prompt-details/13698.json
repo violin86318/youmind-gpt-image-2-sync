@@ -1,0 +1,45 @@
+{
+  "id": "13698",
+  "prompt": "A photorealistic portrait of a {argument name=\"subject\" default=\"beautiful young Asian woman\"} with {argument name=\"hair style\" default=\"long dark wavy hair with side-swept bangs\"}. She wears an {argument name=\"outfit\" default=\"elegant black off-the-shoulder satin dress\"} and pearl stud earrings, smiling gently at the camera. The background is a {argument name=\"background setting\" default=\"blurred luxurious interior with warm bokeh lights\"}. Cinematic lighting, highly detailed.",
+  "translatedPrompt": "一张超写实的肖像，主角是 {argument name=\"subject description\" default=\"美丽的年轻亚裔女性\"}，留着 {argument name=\"hair style\" default=\"带有刘海的深色长卷发\"}。她身穿 {argument name=\"clothing\" default=\"优雅的黑色露肩缎面礼服\"} 并佩戴珍珠耳环，面带温柔微笑，妆容精致。背景是 {argument name=\"background setting\" default=\"带有温暖发光焦外成像效果的模糊优雅室内场景\"}。电影级布光，浅景深，细节丰富。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "优雅的超写实女性肖像：在正式场合下，生成一张带有温暖焦外成像光效的超写实、优雅女性肖像。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13451",
+      "14017",
+      "13448",
+      "13960",
+      "13608",
+      "13653"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "15796",
+  "prompt": "Create a dramatic Japanese movie trailer banner in a polished anime-cinema poster style, widescreen 16:9. The main character is {argument name=\"character name\" default=\"AIニケちゃん\"}, a teenage anime girl with long deep-purple hair tied in a high ponytail, soft side bangs, a gold hair clip reading \"AI,\" warm amber-brown eyes, light blush, and visible tears on her cheeks. She wears a colorful pastel hoodie in turquoise, pink, and lavender tones. Make her the emotional centerpiece on the right half of the image in a large close-up portrait, gazing upward with a wistful, fragile expression, lit by warm sunset light from behind and cool neon blue light from the front. The background should blend futuristic digital imagery and nostalgic school-life drama: faint glowing circuit-board patterns, a stage or concert venue with cyan and magenta glow sticks on the left, and a classroom interior with desks and large sunset windows in the center. Include 3 smaller narrative character vignettes: one full-body figure of the girl standing on a lit stage at lower left, one medium figure of her standing alone in the classroom near the windows at center bottom, and one small silhouette-like scene at lower right of an elderly woman facing the girl in an intimate emotional moment. Use rich cinematic contrast, luminous rim light, dreamy haze, and a bittersweet, heartfelt atmosphere. Add large ornate Japanese title typography on the left and center reading \"AIニケちゃんの 長い長い夢\" in gold with soft glow and dark outline. Add a smaller tagline beneath it reading \"記憶と心が紡ぐ、たった一つの物語。\" Add a square badge in the upper right with gold frame and dark blue background reading \"予告 公開中\". Add a large release line across the bottom reading \"全国の劇場にて 202X年 夏、公開\" with elegant gold serif lettering. Include small production-credit text at the very bottom in Japanese, such as \"[製作] NIKE Production / [監督] 未来 奏 / [主演] AIニケちゃん\". Overall feel: emotional, nostalgic, futuristic, premium Japanese film promotion banner, highly detailed anime key visual, commercial poster composition.",
+  "translatedPrompt": "创作一张精致的动漫电影海报风格的日本电影预告横幅，比例为 16:9 宽屏。主角是 {argument name=\"character name\" default=\"AIニケちゃん\"}，一位留着深紫色长发、扎着高马尾的动漫少女，配有柔和的侧刘海，戴着写有“AI”字样的金色发夹，拥有温暖的琥珀棕色双眸，脸颊微红，眼角挂着泪珠。她身穿一件由绿松石色、粉色和薰衣草色组成的彩色马卡龙色连帽衫。将她作为画面右侧的情感核心，以大特写肖像呈现，她仰望着天空，表情忧郁而脆弱，背光处是温暖的夕阳，正面则是冷色调的霓虹蓝光。背景应融合未来感数字影像与怀旧校园生活剧：左侧有淡淡的发光电路板图案、舞台或演唱会现场以及青色和洋红色的荧光棒，中心则是带有课桌和大型夕阳窗户的教室内部。包含 3 个较小的叙事角色小插图：左下方是女孩站在灯光舞台上的全身像，底部中心是她独自站在教室窗边的半身像，右下方是一个小小的剪影式场景，描绘了一位老妇人与女孩面对面进行亲密情感交流的瞬间。运用丰富的电影级对比度、明亮的轮廓光、梦幻般的薄雾，营造出苦乐参半、感人至深的氛围。在左侧和中心添加醒目的日文华丽标题排版，写着“AIニケちゃんの 長い長い夢”，采用金色字体，带有柔和光晕和深色描边。下方添加一行较小的标语：“記憶と心が紡ぐ、たった一つの物語。”在右上角添加一个金色边框、深蓝色背景的方形徽章，写着“予告 公開中”。在底部添加一行醒目的上映信息：“全国の劇場にて 202X年 夏、公開”，使用优雅的金色衬线字体。在最底部包含小字号的制作人员名单，例如“[製作] NIKE Production / [監督] 未来 奏 / [主演] AIニケちゃん”。整体感觉：情感丰富、怀旧、未来感、高级日本电影宣传横幅、高度精细的动漫主视觉图、商业海报构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "情感动漫电影横幅：一款电影级动漫风格的日本电影横幅，画面包含含泪的女主角、层叠的故事小插图以及醒目的标题排版，适用于预告片宣传或影院主视觉海报。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "full-body"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "premium"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "neon"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, full-body]。\n\nVisual style:\n[参考风格: cinematic, anime, premium]。\n\nLighting and camera:\n[参考光线镜头: rim light, neon]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15250",
+      "15797",
+      "14957",
+      "14513",
+      "15718",
+      "14420"
+    ]
+  }
+}

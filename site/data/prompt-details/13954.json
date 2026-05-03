@@ -1,0 +1,42 @@
+{
+  "id": "13954",
+  "prompt": "{\n  \"type\": \"character portrait grid\",\n  \"theme\": \"{argument name=\\\"theme\\\" default=\\\"Game of Thrones characters\\\"}\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"2D flat illustration, clean line art, comic style, profile view facing right, pale skin with blush\\\"}\",\n  \"layout\": {\n    \"grid\": \"3x3\",\n    \"background\": \"light gray textured\",\n    \"frame_style\": \"white rounded-rectangle frames with text labels below each\"\n  },\n  \"count\": 9,\n  \"portraits\": [\n    { \"label\": \"Jon Snow\", \"description\": \"black hair half-up, beard, dark fur cloak\" },\n    { \"label\": \"Daenerys Targaryen\", \"description\": \"silver braided hair, blue dress\" },\n    { \"label\": \"Tyrion Lannister\", \"description\": \"curly brown hair, beard, dark tunic with gold pin\" },\n    { \"label\": \"Cersei Lannister\", \"description\": \"blonde braided hair, ornate red and gold dress\" },\n    { \"label\": \"Ned Stark\", \"description\": \"brown hair half-up, beard, dark fur cloak\" },\n    { \"label\": \"Arya Stark\", \"description\": \"short dark hair half-up, brown tunic, sword hilt\" },\n    { \"label\": \"Jaime Lannister\", \"description\": \"short blonde hair, gold armor with lion motif\" },\n    { \"label\": \"Sansa Stark\", \"description\": \"red braided hair, blue dress with fur collar\" },\n    { \"label\": \"Theon Greyjoy\", \"description\": \"short dark curly hair, dark tunic with kraken pin\" }\n  ]\n}",
+  "translatedPrompt": "{\n  \"type\": \"角色肖像网格\",\n  \"theme\": \"{argument name=\\\"theme\\\" default=\\\"权力的游戏角色\\\"}\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"2D 平面插画，简洁线条，漫画风格，侧脸向右，肤色白皙带腮红\\\"}\",\n  \"layout\": {\n    \"grid\": \"3x3\",\n    \"background\": \"浅灰色纹理\",\n    \"frame_style\": \"白色圆角矩形边框，下方带有文字标签\"\n  },\n  \"count\": 9,\n  \"portraits\": [\n    { \"label\": \"Jon Snow\", \"description\": \"黑色半扎发，胡须，深色毛皮斗篷\" },\n    { \"label\": \"Daenerys Targaryen\", \"description\": \"银色编发，蓝色连衣裙\" },\n    { \"label\": \"Tyrion Lannister\", \"description\": \"棕色卷发，胡须，深色束腰外衣配金色别针\" },\n    { \"label\": \"Cersei Lannister\", \"description\": \"金色编发，华丽的红金配色连衣裙\" },\n    { \"label\": \"Ned Stark\", \"description\": \"棕色半扎发，胡须，深色毛皮斗篷\" },\n    { \"label\": \"Arya Stark\", \"description\": \"深色短半扎发，棕色束腰外衣，剑柄\" },\n    { \"label\": \"Jaime Lannister\", \"description\": \"金色短发，带有狮子图案的金色盔甲\" },\n    { \"label\": \"Sansa Stark\", \"description\": \"红色编发，带有毛皮领的蓝色连衣裙\" },\n    { \"label\": \"Theon Greyjoy\", \"description\": \"深色短卷发，带有海怪别针的深色束腰外衣\" }\n  ]\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "3x3 角色肖像网格：生成一个 3x3 的插画风格角色头像网格，并附带名称标签，非常适合用于角色阵容展示或头像集。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "grid"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13818",
+      "15537",
+      "13511",
+      "15530",
+      "14535",
+      "15743"
+    ]
+  }
+}

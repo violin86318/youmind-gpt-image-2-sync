@@ -1,0 +1,42 @@
+{
+  "id": "13837",
+  "prompt": "{\n  \"type\": \"social media video app interface screenshot\",\n  \"main_visual\": {\n    \"subject\": \"young Asian woman, long dark hair blowing in wind, white top, looking over shoulder at camera\",\n    \"setting\": \"{argument name=\\\"background location\\\" default=\\\"Guangzhou Canton Tower by the river at sunset\\\"}\",\n    \"lighting\": \"golden hour, warm sunset glow\"\n  },\n  \"ui_layout\": {\n    \"top_status_bar\": {\n      \"elements\": 4,\n      \"labels\": [\"9:41\", \"signal\", \"wifi\", \"100 battery\"]\n    },\n    \"top_navigation\": {\n      \"elements\": 6,\n      \"labels\": [\"menu icon\", \"经验\", \"团购\", \"关注\", \"{argument name=\\\"active tab\\\" default=\\\"推荐\\\"}\", \"search icon\"]\n    },\n    \"right_interaction_bar\": {\n      \"elements\": 6,\n      \"labels\": [\"profile photo with red plus\", \"heart icon with {argument name=\\\"like count\\\" default=\\\"23.6万\\\"}\", \"comment icon with 1.6万\", \"star icon with 2.8万\", \"share icon with 3.7万\", \"spinning music record\"]\n    },\n    \"bottom_left_text\": {\n      \"elements\": 3,\n      \"labels\": [\"{argument name=\\\"username\\\" default=\\\"@小鹿的日常\\\"}\", \"{argument name=\\\"caption\\\" default=\\\"吹着晚风，看着日落，这一刻好治愈~ 🌅\\\"}\", \"music note icon with 原声 @小鹿的日常创作的原声\"]\n    },\n    \"bottom_navigation\": {\n      \"elements\": 5,\n      \"labels\": [\"首页\", \"朋友 with red badge 2\", \"square plus button\", \"消息 with red badge 5\", \"我\"]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"社交媒体视频应用界面截图\",\n  \"main_visual\": {\n    \"subject\": \"年轻亚洲女性，长黑发在风中飘动，身穿白色上衣，回眸看向镜头\",\n    \"setting\": \"{argument name=\\\"background location\\\" default=\\\"广州塔江边日落时分\\\"}\",\n    \"lighting\": \"黄金时刻，温暖的夕阳余晖\"\n  },\n  \"ui_layout\": {\n    \"top_status_bar\": {\n      \"elements\": 4,\n      \"labels\": [\"9:41\", \"信号\", \"Wi-Fi\", \"100% 电量\"]\n    },\n    \"top_navigation\": {\n      \"elements\": 6,\n      \"labels\": [\"菜单图标\", \"经验\", \"团购\", \"关注\", \"{argument name=\\\"active tab\\\" default=\\\"推荐\\\"}\", \"搜索图标\"]\n    },\n    \"right_interaction_bar\": {\n      \"elements\": 6,\n      \"labels\": [\"带红色加号的头像\", \"带 {argument name=\\\"like count\\\" default=\\\"23.6万\\\"} 的点赞图标\", \"带 1.6万 的评论图标\", \"带 2.8万 的收藏图标\", \"带 3.7万 的分享图标\", \"旋转的音乐唱片\"]\n    },\n    \"bottom_left_text\": {\n      \"elements\": 3,\n      \"labels\": [\"{argument name=\\\"username\\\" default=\\\"@小鹿的日常\\\"}\", \"{argument name=\\\"caption\\\" default=\\\"吹着晚风，看着日落，这一刻好治愈~ 🌅\\\"}\", \"带音乐符号的图标 原声 @小鹿的日常创作的原声\"]\n    },\n    \"bottom_navigation\": {\n      \"elements\": 5,\n      \"labels\": [\"首页\", \"朋友（带红色角标 2）\", \"方形加号按钮\", \"消息（带红色角标 5）\", \"我\"]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "社交媒体应用界面模型：生成带有可自定义 UI 文本和背景图像的逼真社交媒体视频信息流截图。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "golden hour",
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "App Store 截图、产品概念、移动工具界面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: golden hour, camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14892",
+      "14740",
+      "14540",
+      "14560",
+      "13742",
+      "14542"
+    ]
+  }
+}

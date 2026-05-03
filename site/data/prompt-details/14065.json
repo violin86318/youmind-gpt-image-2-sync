@@ -1,0 +1,41 @@
+{
+  "id": "14065",
+  "prompt": "{\n  \"type\": \"visual novel promotional artwork\",\n  \"atmosphere\": \"dark, moody, psychological horror contrasting with cute anime elements\",\n  \"central_elements\": {\n    \"logo\": {\n      \"shape\": \"circular with pink border\",\n      \"background\": \"light blue stitched heart\",\n      \"text_main\": \"{argument name=\\\"main title\\\" default=\\\"DOKI DOKI\\\"}\",\n      \"text_style\": \"colorful 3D block letters\",\n      \"accessories\": \"green pen, pink heart charm\",\n      \"banner_text\": \"{argument name=\\\"subtitle\\\" default=\\\"Literature Club!\\\"}\"\n    },\n    \"foreground_subject\": {\n      \"description\": \"dark silhouette of a person sitting at a desk\",\n      \"lighting\": \"backlit by a glowing {argument name=\\\"monitor glow color\\\" default=\\\"pink\\\"} computer monitor\"\n    }\n  },\n  \"surrounding_portraits\": [\n    {\n      \"position\": \"top-left\",\n      \"framing\": \"torn paper edge\",\n      \"character\": \"anime girl, long brown hair, white hair bow, green eyes, gentle smile, grey school blazer, red ribbon\"\n    },\n    {\n      \"position\": \"top-right\",\n      \"framing\": \"torn paper edge\",\n      \"character\": \"anime girl, long dark purple hair, purple eyes, shy and sad expression, grey school blazer, red ribbon\"\n    },\n    {\n      \"position\": \"bottom-left\",\n      \"framing\": \"torn paper edge\",\n      \"character\": \"anime girl, short pink hair, red hairclip, pink eyes, pouting expression, grey school blazer, red ribbon\"\n    },\n    {\n      \"position\": \"bottom-right\",\n      \"framing\": \"torn paper edge\",\n      \"character\": \"anime girl, short coral hair, large red bow, blue eyes, bright smile, grey school blazer, red ribbon\"\n    }\n  ],\n  \"floating_elements\": {\n    \"question_marks\": {\n      \"count\": 3,\n      \"color\": \"white\",\n      \"style\": \"distressed font\"\n    },\n    \"papers\": {\n      \"count\": 4,\n      \"description\": \"white pages with blurred writing falling through the dark space\"\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"视觉小说宣传艺术图\",\n  \"atmosphere\": \"阴暗、忧郁、心理恐怖，与可爱的动漫元素形成对比\",\n  \"central_elements\": {\n    \"logo\": {\n      \"shape\": \"圆形，带有粉色边框\",\n      \"background\": \"浅蓝色缝合心形\",\n      \"text_main\": \"{argument name=\\\"main title\\\" default=\\\"DOKI DOKI\\\"}\",\n      \"text_style\": \"彩色 3D 块状字体\",\n      \"accessories\": \"绿色钢笔，粉色心形挂饰\",\n      \"banner_text\": \"{argument name=\\\"subtitle\\\" default=\\\"Literature Club!\\\"}\"\n    },\n    \"foreground_subject\": {\n      \"description\": \"坐在书桌前的人的阴暗剪影\",\n      \"lighting\": \"被发光的 {argument name=\\\"monitor glow color\\\" default=\\\"粉色\\\"} 电脑显示器背光照亮\"\n    }\n  },\n  \"surrounding_portraits\": [\n    {\n      \"position\": \"左上\",\n      \"framing\": \"撕裂的纸张边缘\",\n      \"character\": \"动漫少女，棕色长发，白色发结，绿色眼睛，温柔微笑，灰色校服西装，红色丝带\"\n    },\n    {\n      \"position\": \"右上\",\n      \"framing\": \"撕裂的纸张边缘\",\n      \"character\": \"动漫少女，深紫色长发，紫色眼睛，害羞且忧伤的表情，灰色校服西装，红色丝带\"\n    },\n    {\n      \"position\": \"左下\",\n      \"framing\": \"撕裂的纸张边缘\",\n      \"character\": \"动漫少女，粉色短发，红色发夹，粉色眼睛，嘟嘴表情，灰色校服西装，红色丝带\"\n    },\n    {\n      \"position\": \"右下\",\n      \"framing\": \"撕裂的纸张边缘\",\n      \"character\": \"动漫少女，珊瑚色短发，大红色蝴蝶结，蓝色眼睛，灿烂笑容，灰色校服西装，红色丝带\"\n    }\n  ],\n  \"floating_elements\": {\n    \"question_marks\": {\n      \"count\": 3,\n      \"color\": \"白色\",\n      \"style\": \"做旧字体\"\n    },\n    \"papers\": {\n      \"count\": 4,\n      \"description\": \"带有模糊字迹的白纸，在黑暗空间中飘落\"\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "视觉小说心理恐怖概念艺术：生成一张阴暗、充满氛围感的宣传图，包含一个中心剪影、一个可爱的 Logo 以及四个由撕裂纸张边框勾勒出的独特动漫角色肖像。",
+      "subject": "人物",
+      "scene": "字体/Logo",
+      "composition": [],
+      "style": [
+        "anime",
+        "3d"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime, 3d]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13943",
+      "14178",
+      "13663",
+      "14224",
+      "14496",
+      "14498"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "15041",
+  "prompt": "A cinematic dark landing page mockup for a Japanese-inspired creative agency called {argument name=\"studio name\" default=\"AKAI STUDIO\"}, shown inside a modern desktop browser window. The page uses a dramatic black-to-deep-red gradient background with a moody sunset glow, scattered small white dust or ash particles, and a widescreen hero layout. On the right side, place a full-body samurai seen from behind, standing on jagged black rocks near a calm shoreline, wearing dark layered armor and a horned helmet, holding a katana at his side, with a long torn crimson cape blowing strongly to the right. On the left side, create bold oversized white condensed sans-serif headline text in Spanish reading {argument name=\"headline text\" default=\"DISEÑO BRUTAL\"}, split across two stacked lines. Above it, add a small eyebrow line with a tiny red vertical accent: {argument name=\"eyebrow text\" default=\"DISEÑO QUE DEJA HUELLA\"}. Below the headline, add large Japanese characters followed by STUDIO: {argument name=\"subheadline text\" default=\"赤い侍 STUDIO\"}. Beneath that, place a short supporting paragraph in small uppercase white text: {argument name=\"body text\" default=\"BRANDING, WEB DESIGN Y EXPERIENCIAS DIGITALES PARA MARCAS QUE QUIEREN DESTACAR.\"}. Add two call-to-action buttons below the copy: a filled light button labeled \"VER PROYECTOS\" and an outlined dark button labeled \"CONTACTAR\". Across the top navigation bar, include exactly 4 centered menu items in uppercase: \"INICIO\", \"SERVICIOS\", \"PROYECTOS\", \"CONTACTO\", with \"INICIO\" marked as active using a small red underline. Put a boxed top-right button labeled {argument name=\"top button text\" default=\"HABLEMOS\"}. In the top-left of the site header, add a logo block with a small red square containing the kanji \"赤\", the brand name \"AKAI STUDIO\", and a tiny Japanese subtitle beneath it. The overall style should feel like high-end brutalist web design meets cinematic game key art: ultra-polished UI mockup, sharp typography, strong contrast, luxury agency aesthetic, minimal but powerful composition, black, white, and crimson palette, subtle grain, realistic lighting, premium presentation.",
+  "translatedPrompt": "一个电影感暗黑风格的落地页模型，展示了一家名为 {argument name=\"studio name\" default=\"AKAI STUDIO\"} 的日式创意代理商，呈现于现代桌面浏览器窗口中。页面采用戏剧性的黑至深红渐变背景，带有忧郁的日落余晖，散布着细小的白色尘埃或灰烬颗粒，并采用宽屏首屏布局。在右侧，放置一个从背后拍摄的全身武士，站在平静海岸边的锯齿状黑色岩石上，身穿深色层叠盔甲和带角头盔，手持武士刀垂在身侧，一件长长的破损深红色斗篷向右强烈飘动。在左侧，创建醒目的超大号白色紧凑型无衬线标题文本（西班牙语），内容为 {argument name=\"headline text\" default=\"DISEÑO BRUTAL\"}，分为两行堆叠。在标题上方，添加一行带有微小红色垂直装饰的小型眉标文本：{argument name=\"eyebrow text\" default=\"DISEÑO QUE DEJA HUELLA\"}。在标题下方，添加大型日语字符，后跟 STUDIO 字样：{argument name=\"subheadline text\" default=\"赤い侍 STUDIO\"}。在其下方，放置一段简短的白色小写大写辅助段落文本：{argument name=\"body text\" default=\"BRANDING, WEB DESIGN Y EXPERIENCIAS DIGITALES PARA MARCAS QUE QUIEREN DESTACAR。\"}。在文案下方添加两个行动号召按钮：一个标注为“VER PROYECTOS”的实心浅色按钮，以及一个标注为“CONTACTAR”的描边深色按钮。在顶部导航栏中，包含 4 个居中的大写菜单项：“INICIO”、“SERVICIOS”、“PROYECTOS”、“CONTACTO”，其中“INICIO”使用一条红色下划线标记为激活状态。在右上角放置一个带边框的按钮，标注为 {argument name=\"top button text\" default=\"HABLEMOS\"}。在网站页眉左上角，添加一个 Logo 区域，包含一个带有汉字“赤”的小红方块、品牌名称“AKAI STUDIO”以及下方微小的日语副标题。整体风格应呈现出高端粗野主义网页设计与电影级游戏主视觉图的结合：超精致的 UI 模型、锐利的排版、强烈的对比、奢华的代理商美学、极简而有力的构图、黑白红配色、细腻的颗粒感、逼真的光影效果，以及高级的呈现方式。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影感武士风格代理商落地页：此内容为创意工作室生成一个高端暗黑风格的网页落地页首屏，非常适合展示大胆的品牌设计、网页设计或代理商概念作品。",
+      "subject": "文字符号",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "full-body",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "luxury",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": "得分 95；构图: centered, full-body, layered, vertical；风格: realistic, cinematic, luxury, premium, studio；要求精确文字；包含标注/说明；文字是主视觉"
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, full-body, layered, vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic, luxury, premium, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15415",
+      "15340",
+      "15014",
+      "15375",
+      "15367",
+      "15785"
+    ]
+  }
+}

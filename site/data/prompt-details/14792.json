@@ -1,0 +1,33 @@
+{
+  "id": "14792",
+  "prompt": "poster infografía de {argument name=\"jugador\" default=\"Maradona\"} en {argument name=\"equipo\" default=\"Boca\"}",
+  "translatedPrompt": "{argument name=\"player\" default=\"马拉多纳\"} 在 {argument name=\"team\" default=\"博卡青年队\"} 的信息图海报",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "马拉多纳博卡青年队信息图海报：一个旨在创作迭戈·马拉多纳在博卡青年队效力期间的专业信息图海报的提示词。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13459",
+      "13700",
+      "14076",
+      "14133",
+      "14139",
+      "14765"
+    ]
+  }
+}

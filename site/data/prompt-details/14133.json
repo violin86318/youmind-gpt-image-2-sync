@@ -1,0 +1,53 @@
+{
+  "id": "14133",
+  "prompt": "GPT-Image-2 提示词请围绕{argument name=\"主题\" default=\"中国历史上的皇帝排名\"}自动生成一张顶级概念海报 / 信息图式电影海报。\n\n要求 AI 根据这个主题，自动推导并统一设计以下全部视觉系统，不需要我额外指定：\n- 核心主体（可以自动判断更适合人物、产品、建筑、器物、符号、场景或抽象意象）\n- 底部支撑结构\n- 上方悬浮符号或精神象征\n- 场景包裹元素\n- 隐喻系统\n- 色彩层级\n- 材质对比\n- 光影逻辑\n- 标题、副标题、辅助文案\n- 品牌感与高级感表达方式\n\n最终画面必须是：\n一张震撼、精密、统一、电影级、超高细节、可用于高端印刷的概念主视觉海报。\n\n【总风格】\n超写实 3D 商业 CGI 渲染，融合电影级布光、奢侈品视觉语言、未来感概念设计与史诗级构图。画面必须具有“唯一主视觉核心”，不能杂乱，不能像拼贴，不能像普通电商海报。\n\n【自动推导规则】\nAI 必须依据【主题】自动决定最合适的：\n1. 核心视觉隐喻\n2. 主体类型与姿态\n3. 支撑结构形式\n4. 悬浮元素形式\n5. 场景外壳与空间氛围\n6. 主色、辅色、强调色\n7. 材质组合\n8. 文字气质与版式风格\n\n【构图规则】\n- 绝对高级感\n- 强烈中心秩序，整体统一\n- 允许中轴对称或接近中轴的史诗级构图\n- 视觉重力明确，从上到下形成清晰的层级落点\n- 边缘负空间干净、克制、有呼吸感\n\n【视觉质量】\n- 超高细节\n- 体积光清晰\n- 材质真实\n- 反射、折射、阴影、雾气、景深自然\n- 整体达到高端品牌 campaign key visual / luxury invitation poster / conceptual editorial poster 水准\n\n【排版系统】\n- 整体为 90% 视觉，10% 文字\n- AI 根据【主题】自动生成最匹配的主标题和副标题\n- 标题必须简洁、锋利、有气势\n- 文字必须尽量少而准，不要堆字\n\n【署名要求】\n在画面底部角落自然加入作者署名：\n@a9quant",
+  "translatedPrompt": "GPT-Image-2 prompt: please automatically generate a top-tier concept poster / infographic-style movie poster centered around {argument name=\"theme\" default=\"ranking of emperors in Chinese history\"}.\n\nRequire the AI to automatically derive and uniformly design the entire following visual system based on this theme, without my extra specification:\n- Core subject (automatically judge suitability for people, products, architecture, artifacts, symbols, scenes, or abstract imagery)\n- Bottom supporting structure\n- Hovering symbols or spiritual symbols above\n- Scene wrapping elements\n- Metaphor system\n- Color hierarchy\n- Material contrast\n- Lighting logic\n- Title, subtitle, and auxiliary copy\n- Brand sense and high-end expression\n\nThe final frame must be: a shocking, precise, unified, cinematic, ultra-high detail conceptual key visual poster suitable for high-end printing.\n\n[Overall Style]\nUltra-realistic 3D commercial CGI rendering, merging cinematic lighting, luxury visual language, futuristic concept design, and epic composition. The image must have a \"single main visual core,\" not messy, not like a collage, and not like a regular e-commerce poster.\n\n[Automatic Derivation Rules]\nAI must automatically decide based on the [theme]:\n1. Core visual metaphor\n2. Subject type and posture\n3. Form of supporting structure\n4. Form of suspended elements\n5. Scene shell and spatial atmosphere\n6. Main, auxiliary, and emphasis colors\n7. Material combinations\n8. Text temperament and layout style\n\n[Composition Rules]\n- Absolute sense of premium quality\n- Strong central order, overall unity\n- Allows for axial symmetry or epic composition near the central axis\n- Clear visual gravity, forming clear levels from top to bottom\n- Edge negative space is clean, restrained, and has room to breathe\n\n[Visual Quality]\n- Ultra-high detail\n- Clear volumetric light\n- Authentic materials\n- Natural reflection, refraction, shadows, fog, and depth of field\n- Overall standard of high-end brand campaign key visual / luxury invitation poster / conceptual editorial poster\n\n[Typography System]\n- Overall 90% visual, 10% text\n- AI automatically generates the most matching main title and subtitle based on the [theme]\n- Title must be concise, sharp, and powerful\n- Text should be as minimal and accurate as possible; do not stack words\n\n[Signature Requirement]\nNaturally add the author signature in the bottom corner: @a9quant",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Epic Concept/Movie Poster Generator：A massive, highly detailed prompt that directs the AI to automatically derive visual metaphors, hierarchy, and cinematic lighting for an epic poster based on a single theme.",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "editorial",
+        "3d",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [
+        "volumetric",
+        "depth of field"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic, cinematic, editorial, 3d, luxury, premium]。\n\nLighting and camera:\n[参考光线镜头: volumetric, depth of field]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14824",
+      "14813",
+      "14834",
+      "14850",
+      "15400",
+      "15467"
+    ]
+  }
+}

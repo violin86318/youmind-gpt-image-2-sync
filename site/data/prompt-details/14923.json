@@ -1,0 +1,45 @@
+{
+  "id": "14923",
+  "prompt": "A luxurious square streaming-cover illustration for the song {argument name=\"title text\" default=\"コスメティック・ラヴ\"}, styled like a dreamy cosmic beauty advertisement. The scene is a dark, glittering tabletop in deep midnight indigo and black velvet, filled with sparkling dust and tiny stars. At the center is 1 ornate round compact mirror made of rose-gold metal, opened flat toward the viewer, with the upright mirror framed by delicate decorative filigree at the top. The mirror glass is visibly cracked with multiple branching fracture lines and a few missing shards, yet inside the reflection appears an impossible fantasy universe: 1 glowing purple-pink planet or moon in the upper left, 1 luminous crystalline city skyline rising from the lower left, and exactly 5 ethereal butterflies floating in the mirror space, including 1 large radiant pink butterfly on the right and 4 smaller butterflies in violet and blue tones. The lower compact tray also reflects the same starry purple cosmos and contains several broken mirror fragments. To the left of the compact are exactly 2 cosmetics objects: 1 faceted crystal perfume bottle and 1 open lipstick in a metallic case, the lipstick bullet colored {argument name=\"lipstick color\" default=\"deep rose plum\"}. In the lower right foreground lies exactly 1 soft pink cosmos flower with a stem and a few scattered petals. The whole image glows with magical particles, thin hanging star ornaments, misty nebula swirls, and a rich palette of violet, magenta, blush pink, and rose-gold highlights. Add vertical Japanese typography on the right reading {argument name=\"right vertical text\" default=\"コスメティック・ラヴ\"} in a large luminous pale-pink font, and a second smaller vertical Japanese text block on the left reading {argument name=\"left vertical text\" default=\"その輝きは、きっと本物じゃない。\\nそれでも、蝶は誘惑されていく。\"} in a delicate light font. The composition should feel romantic, melancholic, glamorous, mystical, and premium, like high-end album art for a dark feminine synth-pop or dream-pop release, ultra-detailed, cinematic lighting, shimmering reflections, elegant fantasy realism.",
+  "translatedPrompt": "一张奢华的方形流媒体封面插画，用于歌曲 {argument name=\"title text\" default=\"コスメティック・ラヴ\"}，风格如同梦幻般的宇宙美妆广告。场景设定在深午夜靛蓝色和黑色天鹅绒质感的闪亮桌面上，布满了闪烁的尘埃和微小的星辰。画面中心是一个精致的玫瑰金金属圆形粉饼盒，平铺在观众面前，竖起的镜面顶部装饰着精致的镂空花纹。镜面明显破裂，布满分叉的裂纹并缺失了几块碎片，但镜中映照出的却是一个不可思议的奇幻宇宙：左上方有一颗发光的紫粉色行星或月球，左下方升起一座发光的水晶城市天际线，镜中空间漂浮着 5 只空灵的蝴蝶，包括右侧 1 只巨大的璀璨粉色蝴蝶和 4 只紫蓝色调的小蝴蝶。下方的粉饼托盘同样反射出星光熠熠的紫色宇宙，并散落着几块破碎的镜片。粉饼盒左侧放置着 2 件化妆品：1 个多面切割水晶香水瓶和 1 支金属外壳的开口口红，口红膏体颜色为 {argument name=\"lipstick color\" default=\"深玫瑰李子色\"}。右下角前景处躺着 1 朵带茎的柔粉色波斯菊，周围散落着几片花瓣。整张图片闪烁着魔法粒子、悬挂的星形装饰、朦胧的星云漩涡，以及紫罗兰色、洋红色、腮红粉色和玫瑰金高光的丰富色调。在右侧添加竖排日文文字 {argument name=\"right vertical text\" default=\"コスメティック・ラヴ\"}，使用醒目且发光的淡粉色字体；在左侧添加第二段较小的竖排日文文本 {argument name=\"left vertical text\" default=\"その輝きは、きっと本物じゃない。\\nそれでも、蝶は誘惑されていく。\"}，使用精致纤细的字体。构图需营造出浪漫、忧郁、迷人、神秘且高级的氛围，如同暗黑女性向合成器流行乐或梦幻流行乐的高端专辑封面，超细节呈现，电影级光影，闪烁的倒影，优雅的奇幻写实风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "宇宙破碎感粉饼盒专辑封面：此提示词可生成一张奢华的奇幻音乐封面图片，包含破碎的粉饼盒、宇宙蝴蝶、化妆品以及用于流媒体专辑封面的发光日文排版。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "fantasy",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: cinematic, fantasy, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15392",
+      "15082",
+      "15784",
+      "14588",
+      "15302",
+      "15334"
+    ]
+  }
+}

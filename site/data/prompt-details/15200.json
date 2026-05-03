@@ -1,0 +1,36 @@
+{
+  "id": "15200",
+  "prompt": "{argument name=\"角色\" default=\"吕布\"}游戏Boss设定，{argument name=\"坐骑\" default=\"赤兔马\"}{argument name=\"武器\" default=\"方天画戟\"}，暗黑进化形态双形态对比",
+  "translatedPrompt": "{argument name=\"character\" default=\"吕布\"} 游戏 Boss 设定，包含 {argument name=\"mount\" default=\"赤兔马\"} 和 {argument name=\"weapon\" default=\"方天画戟\"}，展示黑暗进化双形态的对比",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "吕布游戏 Boss 双形态设计：一个基于历史人物吕布设计的游戏 Boss 角色提示词，包含其坐骑与武器，展现黑暗进化后的双形态对比。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13587",
+      "13616",
+      "13685",
+      "13715",
+      "13720",
+      "13723"
+    ]
+  }
+}

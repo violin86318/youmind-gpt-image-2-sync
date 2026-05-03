@@ -1,0 +1,48 @@
+{
+  "id": "14406",
+  "prompt": "A photorealistic candid street photograph of {argument name=\"subject\" default=\"a young Russian woman\"} running toward the camera in a frantic late-for-school moment, holding one hand near her chest and with {argument name=\"prop\" default=\"a slice of toast in her mouth\"}. She wears {argument name=\"dress style\" default=\"a light beige patterned flowing dress with long sleeves and a cinched waist\"} and flat shoes, the skirt billowing with motion. Shot from an extreme low-angle worm's-eye perspective on a rough roadside in a modest urban neighborhood, making her appear tall against a huge uninterrupted {argument name=\"sky color\" default=\"deep cobalt blue\"} sky. Dense intersecting overhead power lines and utility poles crisscross the upper half of the frame, creating strong geometric tension. Use hard noon sunlight with crisp, dark shadows stretching across the dusty pavement. Include exactly 4 background pedestrians, slightly blurred and walking away or across the street, plus a few distant cars and low buildings lining both sides of the road. The composition should feel chaotic, youthful, cinematic, and frozen in motion, with a wide-angle lens, high-fidelity realism, subtle film grain, strong contrast, slightly nostalgic color rendering, and a {argument name=\"film look\" default=\"Fujifilm Classic Negative\"} aesthetic.",
+  "translatedPrompt": "一张写实的抓拍街头照片，画面中 {argument name=\"subject\" default=\"一位年轻的俄罗斯女性\"} 正匆忙赶往学校，向镜头方向奔跑，一只手放在胸前，嘴里 {argument name=\"prop\" default=\"叼着一片吐司\"}。她穿着 {argument name=\"dress style\" default=\"一件浅米色印花长袖收腰飘逸连衣裙\"} 和平底鞋，裙摆随动作飘动。采用极低角度的虫眼视角拍摄，背景是简朴城市社区的粗糙路边，使她在巨大的、无遮挡的 {argument name=\"sky color\" default=\"深钴蓝色\"} 天空映衬下显得格外高挑。密集的交叉架空电线和电线杆横跨画面上半部分，营造出强烈的几何张力。使用正午强烈的阳光，在尘土飞扬的地面上投下清晰、深邃的阴影。画面中包含 4 名背景行人，略显模糊，正走远或穿过街道，此外还有几辆远处的汽车和道路两侧的低矮建筑。构图应呈现出混乱、青春、电影感和定格瞬间的视觉效果，采用广角镜头、高保真写实风格、细腻的胶片颗粒感、强烈的对比度、略带怀旧的色彩渲染，以及 {argument name=\"film look\" default=\"Fujifilm Classic Negative\"} 的美学风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "低角度奔跑女性街拍：此提示词可生成一张电影级写实的街头场景照片，画面中一名女性在电线下奔跑，适用于编辑、时尚或怀旧城市摄影概念。",
+      "subject": "产品",
+      "scene": "摄影/真实场景",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "film grain",
+        "lens",
+        "camera"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: film grain, lens, camera]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14614",
+      "14427",
+      "14667",
+      "15611",
+      "14148",
+      "14632"
+    ]
+  }
+}

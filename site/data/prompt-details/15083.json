@@ -1,0 +1,52 @@
+{
+  "id": "15083",
+  "prompt": "A candid flash mirror selfie in a small retro bathroom, shot vertically with a realistic early-2000s disposable-camera aesthetic. A young woman with her face obscured by a soft rectangular blur stands in front of a slightly dirty mirror, holding a smartphone with a bright direct flash that creates a strong starburst flare at the center-right of the image. She has dark brown hair with lighter blonde highlights, styled in a messy claw-clip updo with loose strands around the face, and wears small hoop earrings plus 2 layered silver necklaces. Her outfit is a fitted white baby tee with faded pink collegiate-style text reading \"NANTUCKET\" in reverse from the mirror, and loose heather gray sweatpants with white socks; one knee is raised casually on the sink counter, giving the pose a relaxed, intimate snapshot feel. The phone case is covered with cute stickers and a round grip featuring a pink cartoon bear or bunny motif. The bathroom has pale pink wall tiles on the lower half, off-white upper walls, a sink counter cluttered with 7 visible toiletry and beauty items total: 4 bottles on the left side of the sink, 1 black hairbrush on the sink edge, and 2 perfume or cosmetic bottles along the bottom ledge of the mirror. A beige towel hangs in the background, and the mirror frame is metal with visible smudges and dust specks catching the flash. Include the subject’s shadow cast dramatically on the left wall and mirror, soft ambient greenish indoor light mixed with harsh flash, subtle film grain, natural skin texture, slight lens distortion, and an authentic unpolished lifestyle-photo mood.",
+  "translatedPrompt": "一张在小型复古浴室中拍摄的随性闪光灯镜面自拍，采用 2000 年代初期写实的一次性相机美学进行竖构图。一位年轻女性站在略显脏乱的镜子前，面部被柔和的矩形模糊处理遮挡，她手持智能手机，明亮的直射闪光灯在画面中右侧产生了强烈的星芒光晕。她留着深棕色头发，带有浅金色挑染，梳着凌乱的鲨鱼夹盘发，脸颊两侧留有碎发，佩戴着小圆圈耳环和两条叠戴的银色项链。她身穿一件修身的白色短款 T 恤，上面印有褪色的粉色学院风文字“NANTUCKET”（在镜子中呈镜像显示），下身穿着宽松的灰麻色运动裤和白色袜子；她的一只膝盖随意地抬在洗手台上，使姿势呈现出一种放松、亲密的抓拍感。手机壳上贴满了可爱的贴纸，并配有一个带有粉色卡通熊或兔子图案的圆形气囊支架。浴室下半部分铺着淡粉色墙砖，上半部分为灰白色墙面，洗手台上杂乱地摆放着总共 7 件洗漱和美容用品：左侧有 4 个瓶子，洗手台边缘有一把黑色发梳，镜子底部边缘摆放着 2 个香水或化妆品瓶。背景中挂着一条米色毛巾，金属镜框上可见明显的污渍和灰尘颗粒，捕捉到了闪光灯的效果。画面包含投射在左侧墙壁和镜子上的戏剧性阴影，柔和的室内环境绿光与强烈的闪光灯交织，带有细腻的胶片颗粒感、自然的皮肤纹理、轻微的镜头畸变，营造出一种真实且未经修饰的生活照氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古浴室闪光灯镜面自拍：一个写实的时尚生活方式镜面自拍提示词，用于生成小型复古浴室中随性的一次性相机风格肖像。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "retro"
+      ],
+      "lightingCamera": [
+        "film grain",
+        "lens",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical]。\n\nVisual style:\n[参考风格: realistic, retro]。\n\nLighting and camera:\n[参考光线镜头: film grain, lens, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14693",
+      "14629",
+      "15178",
+      "14616",
+      "14314",
+      "14727"
+    ]
+  }
+}

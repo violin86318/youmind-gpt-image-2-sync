@@ -1,0 +1,42 @@
+{
+  "id": "13741",
+  "prompt": "A photorealistic, highly detailed portrait of a muscular {argument name=\"warrior culture\" default=\"Mesoamerican\"} warrior standing proudly. He wears an elaborate headdress adorned with {argument name=\"headdress feathers\" default=\"red, green, and black feathers\"} and a carved stone mask. His face features dark painted lines across his cheeks and nose. He is outfitted in heavy, intricate ceremonial armor, including a large stone necklace with a face pendant, armbands, and a detailed belt with a loincloth featuring carved glyphs and faces. In his right hand, he grips a {argument name=\"weapon\" default=\"tall wooden spear with a stone tip and red tassels\"}, and in his left hand, he holds a round shield displaying a large carved face with red fringed edges. The background features a towering {argument name=\"background structure\" default=\"ancient stepped stone pyramid\"} with steep stairs, banners hanging near the top entrance, and small figures standing on the steps. Lush green jungle foliage surrounds the temple under a partly cloudy sky, with a tall carved stone stela standing in the right foreground, all captured with {argument name=\"lighting style\" default=\"epic cinematic lighting\"}.",
+  "translatedPrompt": "一张照片级逼真、高度精细的肖像，描绘了一位肌肉发达的 {argument name=\"warrior culture\" default=\"中美洲\"} 战士自豪地站立着。他戴着装饰有 {argument name=\"headdress feathers\" default=\"红色、绿色和黑色羽毛\"} 的精致头饰以及雕刻的石面具。他的脸颊和鼻梁上有深色的彩绘线条。他身着厚重且复杂的礼仪盔甲，包括一条带有面部吊坠的大型石项链、臂环，以及一条带有雕刻符号和人脸图案的缠腰布的精致腰带。他的右手紧握着一把 {argument name=\"weapon\" default=\"带有石制尖端和红色流苏的高大木矛\"}，左手拿着一面圆盾，盾牌上展示着一张巨大的雕刻人脸，边缘带有红色流苏。背景是一座高耸的 {argument name=\"background structure\" default=\"古代阶梯式石金字塔\"}，有着陡峭的台阶，顶部入口附近悬挂着旗帜，台阶上站着一些小人影。郁郁葱葱的丛林植被环绕着神庙，天空半多云，右侧前景中矗立着一块高大的雕刻石碑，所有画面均以 {argument name=\"lighting style\" default=\"史诗般的电影级灯光\"} 呈现。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影级中美洲战士肖像：生成一张高度精细、照片级逼真的肖像，描绘了一位身着礼仪盔甲的古代战士站在高耸的阶梯金字塔前。",
+      "subject": "服饰",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13448",
+      "13451",
+      "13698",
+      "14017",
+      "14059",
+      "13960"
+    ]
+  }
+}

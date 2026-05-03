@@ -1,0 +1,46 @@
+{
+  "id": "14475",
+  "prompt": "A cute sticker-style 3D figurine illustration on a clean light gray background, designed like a glossy collectible toy render. Show 1 chibi woman and 1 large cat side by side. The woman is a super-deformed vinyl-figure style character with an oversized head, shoulder-length dark brown to black hair with a side part and smooth shine, wearing a simple bright red long-sleeve top, dark charcoal leggings or slim pants, and white shoes. She stands on the left, facing forward, with her left hand raised in a friendly waving pose and a cheerful morning-greeting vibe. Her face should be simple, cute, and youthful in toy-figure style. To her right, place 1 plump silver tabby cat with white fur on the chest, belly, legs, and muzzle, gray stripes on the head, back, and tail, green eyes, pink inner ears, and a relaxed loaf-like lying pose with paws tucked forward, facing slightly toward camera. Add Japanese handwritten text at the top in 2 lines, dark brown rounded brush lettering: line 1 says \"おはよう\", line 2 says \"ございます!\". Place 1 simple orange sun doodle with 8 short rays on the upper right. The composition should feel like a personalized morning greeting stamp for social media, with soft studio lighting, subtle shadows under the figures, polished surfaces, cute proportions, high detail, and a warm playful mood.",
+  "translatedPrompt": "一款可爱的贴纸风格 3D 人偶插画，背景为干净的浅灰色，设计呈现出光泽感收藏级玩具的渲染效果。画面展示 1 位 Q 版女性和 1 只大猫并排站立。女性角色为超变形乙烯基玩具风格，拥有大头比例，深棕色至黑色的齐肩发，侧分且带有平滑光泽，身穿简约的亮红色长袖上衣、深炭灰色紧身裤或修身长裤，以及白色鞋子。她站在左侧，面向前方，左手抬起做出友好的挥手姿势，散发着愉快的早安问候氛围。她的面部应呈现出玩具人偶风格的简约、可爱与年轻感。在她的右侧，放置 1 只圆润的银色虎斑猫，胸部、腹部、腿部和口鼻处为白色毛发，头部、背部和尾部带有灰色条纹，拥有绿色眼睛、粉色耳内侧，呈现出放松的趴卧姿势，爪子向内收拢，身体略微朝向镜头。在顶部添加两行深棕色圆润笔触的日文手写文字：第一行写着“おはよう”，第二行写着“ございます!”。在右上角添加 1 个简单的橙色太阳涂鸦，带有 8 条短光芒。整体构图应呈现出适合社交媒体的个性化早安问候贴纸感，采用柔和的摄影棚灯光，人偶下方带有细腻的阴影，表面质感精致，比例可爱，细节丰富，营造出温暖俏皮的氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "可爱早安问候人偶贴纸：该提示词可生成一款玩具风格的 3D 贴纸插画，画面包含一位挥手的 Q 版女性与一只银色虎斑猫，并配有日文早安文字，非常适合用作社交媒体表情包或问候配图。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "3d",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: 3d, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14945",
+      "14988",
+      "13917",
+      "13509",
+      "14491",
+      "15338"
+    ]
+  }
+}

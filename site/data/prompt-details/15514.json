@@ -1,0 +1,46 @@
+{
+  "id": "15514",
+  "prompt": "Japanese negative film aesthetic, quiet summer afternoon, natural candid moment, soft sunlight through window, slight overexposure highlights, low contrast but rich tonal layers, muted and slightly faded colors, gentle warm skin tone, realistic texture without retouching, subtle film grain, {argument name=\"subject\" default=\"a young beautiful japanese girl\"} is sitting casually on floor near window, legs loosely folded, {argument name=\"action\" default=\"eating ice cream\"}, relaxed unfocused gaze, light curtain moving with breeze, imperfect composition, quiet and distant mood, “memory-like realism”， --ar 2:3",
+  "translatedPrompt": "日系负片美学，安静的夏日下午，自然的抓拍瞬间，透过窗户的柔和阳光，轻微过曝的高光，低对比度但丰富的色调层次，柔和且略微褪色的色彩，温和的肤色，未经修饰的真实质感，细腻的胶片颗粒，{argument name=\"subject\" default=\"一位美丽的日本年轻女孩\"} 随意地坐在窗边的地板上，双腿自然弯曲，{argument name=\"action\" default=\"吃着冰淇淋\"}，放松且失焦的目光，轻薄的窗帘随微风飘动，不完美的构图，安静而疏离的氛围，“记忆般的真实感”， --ar 2:3",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "夏日冰淇淋时光：一个描绘安静夏日下午女孩吃冰淇淋场景的提示词，采用胶片摄影质感风格。",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [
+        "low contrast",
+        "film grain"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[参考光线镜头: low contrast, film grain]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14884",
+      "13667",
+      "13676",
+      "13732",
+      "13772",
+      "15111"
+    ]
+  }
+}

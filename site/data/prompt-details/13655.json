@@ -1,0 +1,44 @@
+{
+  "id": "13655",
+  "prompt": "A breathtaking anime-style landscape featuring a vibrant, starry night sky dominated by a brilliant, sweeping Milky Way in hues of deep purple, blue, and magenta. Two prominent shooting stars, one glowing bright blue and the other a softer pinkish-red, streak downwards across the sky, their tails intersecting. In the center of the sky, written in elegant, glowing cursive neon-like script, is the text \"{argument name=\"custom text\" default=\"Your Name\"}\", underlined by a delicate pink line that forms a small bow in the middle. Below, a serene landscape unfolds with dark, silhouetted clouds framing the edges. A distant town with glowing city lights sits nestled along the shores of a calm lake, reflecting the twilight colors of the horizon where the sun has just set, leaving a gradient of pink and orange. The foreground features dark silhouettes of grassy hills and subtle hints of purple flowers, adding depth to this magical, cinematic scene reminiscent of Makoto Shinkai's art style.",
+  "translatedPrompt": "一幅令人惊叹且细节丰富的风景插画，采用 {argument name=\"art style\" default=\"新海诚动漫背景风格\"}。场景展现了广阔壮丽的夜空，繁星点点，银河带呈现出 {argument name=\"sky color palette\" default=\"深蓝、紫色和粉色\"} 的绚丽光芒。两颗发光的彗星，一颗明亮的蓝色和一颗较小的粉色彗星，在天空中斜向划过。在天空中央，文字“{argument name=\"display text\" default=\"Your Name\"}”以优雅的发光白色草书字体书写，下方有一条精致的粉色发光线条，系成一个小蝴蝶结，宛如命运的红线。地平线上方，橙色与粉色的日落渐变光芒映照着剪影云朵。中景是一片宁静的深色湖泊，倒映着城市灯光与暮色天空，四周环绕着山峦剪影。近景则是草坡与紫色小花的深色剪影。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫风格星空与自定义文字：生成令人惊叹的动漫风格风景，包含星空、彗星以及发光的自定义文字。",
+      "subject": "空间",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic",
+        "anime"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic, anime]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14203",
+      "15783",
+      "14931",
+      "15782",
+      "14439",
+      "14900"
+    ]
+  }
+}

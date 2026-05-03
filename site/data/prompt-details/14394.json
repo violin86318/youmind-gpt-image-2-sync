@@ -1,0 +1,35 @@
+{
+  "id": "14394",
+  "prompt": "رسالة مكتوبة بخط اليد وبواقعية عالية عبارة عن {argument name=\"مضمون الرسالة\" default=\"خاطرة وداع\"} على ورق {argument name=\"نوع الورق\" default=\"مخطط\"} والكلام مؤثر جدا وبخط قلم {argument name=\"نوع القلم\" default=\"حبر سائل\"}",
+  "translatedPrompt": "一封高度逼真的手写信，内容为 {argument name=\"letter content\" default=\"告别感言\"}，书写在 {argument name=\"paper type\" default=\"横线\"} 纸上，并使用 {argument name=\"pen type\" default=\"液体墨水\"} 笔写下感人至深的文字。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "手写风格逼真信件：一个用于生成在横线纸上呈现液体墨水笔触、高度逼真的手写告别信的提示词。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

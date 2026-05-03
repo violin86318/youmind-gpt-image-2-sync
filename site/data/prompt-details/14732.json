@@ -1,0 +1,53 @@
+{
+  "id": "14732",
+  "prompt": "{\n  \"prompt\": \"Studio portrait of a young adult woman with long wavy red hair and fair freckled skin, wearing a black sequined strapless mini dress and thigh-high black boots. She is seated on the floor in a relaxed yet confident pose, facing forward with a soft, neutral expression. A black ribbon choker drapes loosely around her neck. The scene is lit with warm, golden studio lighting that creates a circular spotlight effect behind her, casting soft shadows and adding depth. Minimalist background, editorial fashion photography style, high detail, cinematic warmth, smooth gradients.\",\n  \"negative_prompt\": \"lowres, blurry, bad anatomy, extra limbs, deformed hands, distorted face, harsh shadows, overexposed, underexposed, watermark, text, logo, jpeg artifacts, cartoon, CGI, 3D render\",\n  \"style\": \"editorial fashion photography, photorealistic\",\n  \"camera\": {\n    \"angle\": \"eye-level\",\n    \"framing\": \"three-quarter body portrait\",\n    \"lens\": \"85mm\",\n    \"aperture\": \"f/2.0\"\n  },\n  \"lighting\": {\n    \"type\": \"studio lighting\",\n    \"setup\": \"warm spotlight with soft falloff\",\n    \"mood\": \"cinematic and intimate\"\n  },\n  \"setting\": {\n    \"location\": \"studio\",\n    \"background\": \"warm gradient backdrop with circular light vignette\"\n  },\n  \"color_palette\": [\n    \"black\",\n    \"warm gold\",\n    \"amber\",\n    \"soft beige\"\n  ],\n  \"size\": \"768x1152\"\n}",
+  "translatedPrompt": "{\n  \"prompt\": \"一位年轻女性的影棚肖像，留着长波浪红发，皮肤白皙且带有雀斑，身穿黑色亮片抹胸迷你裙和黑色过膝长靴。她坐在地板上，姿态放松而自信，正视前方，表情柔和自然。颈间松散地系着一条黑色丝带颈圈。场景采用温暖的金色影棚灯光，在她身后营造出圆形聚光灯效果，投射出柔和的阴影并增加了深度。极简主义背景，编辑类时尚摄影风格，高细节，电影感暖色调，平滑的渐变。\",\n  \"negative_prompt\": \"低分辨率，模糊，解剖结构错误，多余肢体，手部变形，面部扭曲，生硬阴影，过度曝光，曝光不足，水印，文字，Logo，JPEG 伪影，卡通，CGI，3D 渲染\",\n  \"style\": \"编辑类时尚摄影，照片级真实感\",\n  \"camera\": {\n    \"angle\": \"平视\",\n    \"framing\": \"四分之三身肖像\",\n    \"lens\": \"85mm\",\n    \"aperture\": \"f/2.0\"\n  },\n  \"lighting\": {\n    \"type\": \"影棚灯光\",\n    \"setup\": \"带有柔和衰减的暖色聚光灯\",\n    \"mood\": \"电影感且亲密\"\n  },\n  \"setting\": {\n    \"location\": \"影棚\",\n    \"background\": \"带有圆形光晕的暖色渐变背景\"\n  },\n  \"color_palette\": [\n    \"黑色\",\n    \"暖金色\",\n    \"琥珀色\",\n    \"柔和米色\"\n  ],\n  \"size\": \"768x1152\"\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影感影棚肖像：这是一个为 GPT Image 2 设计的高细节影棚肖像提示词，采用结构化 JSON 格式，详细指定了摄影设置、布光和构图，以呈现专业的时尚美学效果。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "editorial",
+        "3d",
+        "minimalist",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting",
+        "lens",
+        "camera"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, editorial, 3d, minimalist, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting, lens, camera]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15762",
+      "14569",
+      "15317",
+      "13448",
+      "13960",
+      "14258"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "13778",
+  "prompt": "{\n  \"type\": \"mobile live streaming app interface mockup\",\n  \"subject\": {\n    \"description\": \"{argument name=\\\"subject appearance\\\" default=\\\"young Asian woman with long dark hair, wearing a white top, smiling gently and resting her chin on her hand\\\"}\",\n    \"background\": \"cozy room with a sofa, bear pillow, pink roses, framed 'FLOWER' art, small lamp, and a shelf with a figurine\"\n  },\n  \"ui_layout\": {\n    \"top_left\": {\n      \"streamer_profile\": {\n        \"avatar\": \"woman's face\",\n        \"name\": \"{argument name=\\\"streamer name\\\" default=\\\"小鹿酱 💕\\\"}\",\n        \"stats\": \"12.8万本场点赞\",\n        \"button\": \"关注\"\n      },\n      \"badges\": {\n        \"count\": 2,\n        \"labels\": [\"小时榜第3名\", \"人气榜\"]\n      }\n    },\n    \"top_right\": {\n      \"top_viewers\": {\n        \"count\": 3,\n        \"avatars_with_scores\": [\"1.2w\", \"9800\", \"8700\"]\n      },\n      \"total_viewers\": \"{argument name=\\\"viewer count\\\" default=\\\"1.9万\\\"}\",\n      \"close_button\": \"X\",\n      \"more_streams_link\": \"更多直播 >\",\n      \"wish_task\": \"许下心愿, 一起完成任务\"\n    },\n    \"middle_left\": {\n      \"gift_alerts\": {\n        \"count\": 2,\n        \"items\": [\n          {\n            \"sender\": \"{argument name=\\\"gift sender 1\\\" default=\\\"@阿飞\\\"}\",\n            \"action\": \"送小心心\",\n            \"combo\": \"x 66\"\n          },\n          {\n            \"sender\": \"向阳而生\",\n            \"action\": \"送鲜花\",\n            \"combo\": \"x 10\"\n          }\n        ]\n      }\n    },\n    \"bottom_left\": {\n      \"chat_messages\": {\n        \"count\": 7,\n        \"items\": [\n          \"甜甜 加入了直播间\",\n          \"尼古拉斯: {argument name=\\\"chat message 1\\\" default=\\\"主播今天好美呀～\\\"}\",\n          \"小心心: 唱一首歌吧，想听你唱歌～\",\n          \"一只小鹿: 支持支持，天天看你直播 😘\",\n          \"快乐每一天: 人美心善，说话又好听！\",\n          \"小可爱: 主播粉丝团怎么加入呀？\",\n          \"系统: 直播内容严禁违规，文明直播，一起营造良好的直播环境。\"\n        ]\n      }\n    },\n    \"bottom_bar\": {\n      \"input_field\": \"说点什么...\",\n      \"icons\": {\n        \"count\": 5,\n        \"types\": [\"smiley face\", \"pink heart\", \"gift box\", \"three dots\", \"bar chart\"]\n      }\n    },\n    \"bottom_right\": {\n      \"floating_reactions\": \"cluster of floating pink and purple hearts\"\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"移动端直播 App 界面原型\",\n  \"background_scene\": {\n    \"subject\": \"{argument name=\\\"streamer appearance\\\" default=\\\"年轻亚裔女性，留着黑色长发，身穿白色蕾丝边上衣和白色开衫，手托下巴，温柔微笑\\\"}\",\n    \"setting\": \"温馨的房间，配有沙发、熊玩偶、摆放手办的架子、带有“FLOWER”字样的相框以及插着粉色玫瑰的花瓶\"\n  },\n  \"ui_layout\": {\n    \"top_bar\": {\n      \"status\": [\"20:34\", \"位置\", \"信号\", \"Wi-Fi\", \"78% 电量\"],\n      \"streamer_profile\": {\n        \"name\": \"{argument name=\\\"streamer name\\\" default=\\\"小鹿酱\\\"}\",\n        \"stats\": \"12.8 万本场点赞\",\n        \"button\": \"关注\"\n      },\n      \"rankings\": [\"小时榜第 3 名\", \"人气榜\"],\n      \"top_viewers\": {\n        \"count\": 3,\n        \"labels\": [\"1.2w\", \"9800\", \"8700\"]\n      },\n      \"total_viewers\": \"{argument name=\\\"viewer count\\\" default=\\\"1.9 万\\\"}\",\n      \"widgets\": [\"更多直播 >\", \"许下心愿，一起完成任务\"]\n    },\n    \"middle_left_notifications\": {\n      \"count\": 2,\n      \"items\": [\n        {\"user\": \"@阿飞\", \"action\": \"送小小心心\", \"icon\": \"粉色爱心\", \"combo\": \"{argument name=\\\"gift combo multiplier\\\" default=\\\"x 66\\\"}\"},\n        {\"user\": \"向阳而生\", \"action\": \"送鲜花\", \"icon\": \"鲜花束\", \"combo\": \"x 10\"}\n      ]\n    },\n    \"bottom_left_chat\": {\n      \"count\": 7,\n      \"messages\": [\n        \"甜甜 加入了直播间\",\n        \"尼古拉斯: {argument name=\\\"chat message\\\" default=\\\"主播今天好美呀～\\\"}\",\n        \"小心心: 唱一首歌吧，想听你唱歌～\",\n        \"一只小鹿: 支持支持，天天看你直播\",\n        \"快乐每一天: 人美心善，说话又好听！\",\n        \"小可爱: 主播粉丝团怎么加入呀？\",\n        \"系统: 直播内容严禁违规，文明直播，一起营造良好的直播环境。\"\n      ]\n    },\n    \"bottom_action_bar\": {\n      \"input_placeholder\": \"说点什么...\",\n      \"icons_count\": 5,\n      \"icons\": [\"笑脸\", \"粉色爱心\", \"礼物盒\", \"三个点\", \"柱状图\"],\n      \"floating_elements\": \"右侧漂浮着彩色爱心\"\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "移动端直播 App UI 原型：生成一个逼真的移动端直播界面，包含主播、聊天记录、礼物通知以及交互式 UI 元素。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13735",
+      "13843",
+      "13848",
+      "13904",
+      "13752",
+      "13781"
+    ]
+  }
+}

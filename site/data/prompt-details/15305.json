@@ -1,0 +1,51 @@
+{
+  "id": "15305",
+  "prompt": "A dark, cinematic Chinese ink-wash fantasy illustration centered on the large black calligraphy character \"安\" painted in bold expressive brushstrokes across a glowing full moon-like white disc in the background. In the lower center-right foreground, show 1 lone East Asian warrior-scholar figure in side profile facing left, with a loose messy topknot, stray windswept hair strands, and a long shredded black robe dissolving into smoke and ink. The figure feels solemn, ghostly, and dramatic, standing amid stormy mist and swirling black watercolor clouds. The palette is nearly monochrome charcoal, black, ash gray, and cold white, with very sparse deep crimson accents. Include 4 visible pagoda structures: 2 small distant pagodas on the right side, 1 pagoda reflected inside a large broken mirror shard at bottom left, and 1 taller pagoda near the upper right emerging from fog. Surround the composition with 5 prominent shattered glass or mirror fragments: 1 large triangular shard at bottom left, 1 tall shard near the upper center, 1 large vertical shard at upper right, 1 small hanging shard below it, and 1 large curved shard at bottom right, plus a few tiny splinters. In 1 shard near the left side, include the partial reflection of a human face. Add 1 red seal stamp with Chinese characters near the left side beneath the large calligraphy. Use splattered ink textures, torn paper-like edges, dripping red marks, and layered smoke to create an eerie wuxia-horror atmosphere. High contrast lighting, painterly mixed-media style, textured brushwork, poster-like composition, ultra-detailed, moody, mystical, and elegant.",
+  "translatedPrompt": "一张暗黑风格的电影感中式水墨奇幻插画，画面中心为一个巨大的黑色书法汉字“安”，以粗犷有力的笔触书写在背景中如发光满月般的白色圆盘之上。在画面右下方前景处，展示 1 位侧身向左的东亚武士学者形象，留着凌乱的发髻，发丝在风中飘散，身穿的长袍破碎成烟雾与墨迹。人物神情庄重、如幽灵般充满戏剧性，伫立在风暴迷雾与翻滚的黑色水墨云层中。色调以炭黑、灰烬灰和冷白色为主，仅点缀极少量的深红色。画面包含 4 座可见的宝塔：右侧远处有 2 座小宝塔，左下方一块巨大的破碎镜片中倒映出 1 座宝塔，右上方雾气中隐现 1 座更高的宝塔。构图周围环绕着 5 块醒目的破碎玻璃或镜面碎片：左下方 1 块巨大的三角形碎片，上方中心附近 1 块高耸的碎片，右上方 1 块巨大的垂直碎片，其下方 1 块悬挂的小碎片，以及右下方 1 块巨大的弧形碎片，另有少量细小残片。在左侧的一块碎片中，包含一张人脸的局部倒影。在巨大书法字下方的左侧，添加 1 枚带有汉字的红色印章。运用泼墨纹理、撕裂的纸张边缘、滴落的红色痕迹以及层叠的烟雾，营造出诡异的武侠恐怖氛围。高对比度光影，绘画混合媒介风格，质感笔触，海报式构图，超高细节，氛围感强，神秘且优雅。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "中式书法暗黑奇幻海报：此提示词可生成一张充满意境的水墨奇幻海报，包含巨大的汉字、孤身长袍客、宝塔以及破碎的镜面碎片，非常适合用于氛围感概念艺术或封面图像。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "fantasy",
+        "watercolor"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, layered, vertical]。\n\nVisual style:\n[参考风格: cinematic, fantasy, watercolor]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15717",
+      "15367",
+      "14855",
+      "15091",
+      "15757",
+      "14413"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "14819",
+  "prompt": "A dreamy vintage travel photograph of the historic Moda pier terminal in Istanbul, centered at the end of a stone waterfront jetty, shot in a vertical composition from across calm dark water. The two-story waterfront building has pale beige stone walls, a warm terracotta tiled hip roof, tall arched windows on the ground floor, an open upper veranda with many slim columns, and a visible sign reading \"{argument name=\"pier sign text\" default=\"MODA İSKELESİ\"}\" on the upper facade. A white ferry is partially visible on the far left behind the pier, and small scattered pedestrians stand along the dock and around the building, giving scale without becoming portrait subjects. The foreground is reflective harbor water with soft ripples and a muted reflection of the building; the pier edge is lined with white railings and rough dark rocks at the base. Above, a wide overcast sky with heavy layered clouds fills nearly half the image. Use a nostalgic Instagram-filter aesthetic with faded colors, warm sepia-beige tones, slight green cast in the shadows, gentle film grain, low contrast, soft haze, subtle vignette, and a lightly weathered analog-photo feel. Architecture-focused, serene, cinematic, realistic, slightly melancholy, like a viral travel postcard of {argument name=\"city\" default=\"Istanbul\"} on a cloudy day.",
+  "translatedPrompt": "一张梦幻般的复古旅行摄影作品，展现了伊斯坦布尔历史悠久的 Moda 码头候船厅。画面以石质水岸栈道的尽头为中心，采用竖构图，从平静深邃的水面彼岸拍摄。这座两层高的临水建筑拥有浅米色的石墙、温暖的赤陶瓦坡屋顶、底层的拱形高窗，以及带有许多纤细立柱的开放式上层走廊。建筑上层立面可见清晰的标牌，文字为 \"{argument name=\"pier sign text\" default=\"MODA İSKELESİ\"}\"。码头左后方隐约可见一艘白色渡轮，零星的行人站在码头和建筑周围，在不喧宾夺主的情况下衬托出建筑的宏伟比例。前景是波光粼粼的港口水面，倒映着建筑柔和的轮廓；码头边缘设有白色栏杆，底部点缀着粗糙的深色岩石。上方，厚重的层云覆盖了近半个画面。采用怀旧的 Instagram 滤镜美学，色调褪色，呈现温暖的棕褐色与米色，阴影中带有淡淡的绿色，伴有细腻的胶片颗粒感、低对比度、柔和的雾气、微妙的暗角，以及轻微的风化胶片质感。聚焦建筑，宁静、电影感、写实且略带忧郁，宛如一张在阴天拍摄的 {argument name=\"city\" default=\"Istanbul\"} 爆款旅行明信片。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "伊斯坦布尔 Moda 码头复古风光：此提示词可生成一张充满怀旧滤镜感的伊斯坦布尔 Moda 码头水岸建筑照片，非常适合制作电影质感的城市明信片和 Instagram 风格的建筑摄影作品。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "centered",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "vintage"
+      ],
+      "lightingCamera": [
+        "overcast",
+        "low contrast",
+        "film grain"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, layered, vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic, vintage]。\n\nLighting and camera:\n[参考光线镜头: overcast, low contrast, film grain]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14820",
+      "15705",
+      "14667",
+      "14674",
+      "15602",
+      "15651"
+    ]
+  }
+}

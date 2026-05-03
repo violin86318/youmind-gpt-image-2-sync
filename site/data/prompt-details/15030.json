@@ -1,0 +1,50 @@
+{
+  "id": "15030",
+  "prompt": "A surreal studio portrait of a floating human head seen straight-on, centered in the frame against a vivid saturated blue sky with soft fluffy white clouds. The face is entirely obscured by a large smooth rectangular censor block in the center, covering from forehead to chin and most of the cheeks, with a subtle gradient of warm tan to muted blue-gray. Only the outer features remain visible: a close-cropped buzz cut with tight dark speckled hair texture on top, 2 visible ears, and the lower rounded chin and jaw. The head wears colorful eyeglass temples wrapping around the sides only, with no visible front lenses because the center is blocked; the left temple is pale cream with a tiny red-and-gold decorative mark, and the right temple is bright red-orange. Add 2 small rounded nubs peeking above the censor block near the top edge, one yellow on the left and one off-white on the right, creating a quirky toy-like feel. Render it as a hyperreal yet slightly uncanny 3D illustration, smooth skin, soft daylight, minimal composition, shallow depth of field, clean whimsical pop-surreal aesthetic.",
+  "translatedPrompt": "一张超现实风格的摄影棚人像，画面主体为一个正视前方的漂浮人头，居中置于色彩浓郁的蓝天背景下，天空中点缀着柔软蓬松的白云。面部完全被一个巨大的光滑矩形审查遮挡块覆盖，遮挡范围从额头延伸至下巴及大部分脸颊，遮挡块呈现出从暖棕色到柔和蓝灰色的细微渐变。仅保留外部特征可见：修剪整齐的寸头，顶部呈现出紧密的深色斑点发质，可见双耳，以及圆润的下巴和下颌线。头部佩戴着仅包裹侧面的彩色眼镜腿，由于中心被遮挡，前方没有可见的镜片；左侧镜腿为浅奶油色，带有微小的红金装饰标记，右侧镜腿为鲜艳的红橙色。在遮挡块顶部边缘附近添加了两个露出的小圆突起，左侧为黄色，右侧为灰白色，营造出一种奇特且类似玩具的质感。渲染效果为超写实但略带诡异的 3D 插图，皮肤光滑，柔和日光，构图极简，浅景深，呈现出干净且充满奇思妙想的波普超现实美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "带有审查遮挡块的超现实漂浮头部：此提示词可生成一张极简主义波普超现实风格的 3D 人像，画面主体为一个漂浮的头部，面部被遮挡，背景为明亮的云层天空，适用于概念性编辑或实验性头像创作。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "3d",
+        "studio"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "lens"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: 3d, studio]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, lens]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15028",
+      "15463",
+      "15533",
+      "14538",
+      "14996",
+      "14568"
+    ]
+  }
+}

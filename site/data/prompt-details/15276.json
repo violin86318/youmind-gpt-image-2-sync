@@ -1,0 +1,45 @@
+{
+  "id": "15276",
+  "prompt": "A retro fantasy pixel art scene in a 256x256 square composition, showing a huge red dragon perched protectively on the tallest central tower of an ancient stone castle. The dragon has a long curled tail wrapped around the tower, large spread batlike wings, a lowered horned head facing left, and a glowing fiery red-orange body with dark maroon shadows and crisp black pixel outlines. The castle is a weathered medieval fortress with multiple towers, crenellated walls, and small dark windows, sitting on top of a steep rocky hill. Surrounding the hill are rolling green and brown mountains partially covered by pale fog and low clouds, creating layered atmospheric depth. The sky is dusky twilight with a lavender and muted purple gradient, a few tiny white stars, and several distant birds as dark pixel silhouettes. Use classic 16-bit inspired sprite art, limited color palette, visible pixel grid, clean silhouette design, dramatic fantasy mood, side view landscape framing, and subtle old-game atmosphere.",
+  "translatedPrompt": "一幅 256x256 正方形构图的复古奇幻像素艺术场景，展示了一条巨大的红龙守护在古老石制城堡的最高中央塔楼上。巨龙有着长而卷曲的尾巴缠绕在塔楼周围，巨大的蝙蝠状翅膀展开，长角的头部低垂并面向左侧，身体呈现出明亮的红橙色，带有深栗色的阴影和清晰的黑色像素轮廓。城堡是一座饱经风霜的中世纪要塞，拥有多座塔楼、雉堞墙和狭小的暗色窗户，坐落在陡峭的岩石山丘之上。山丘周围是连绵起伏的绿色和棕色山脉，部分被淡雾和低云覆盖，营造出层叠的大气深度。天空是黄昏时分，呈现出淡紫色和柔和的紫罗兰色渐变，点缀着几颗微小的白星，远处还有几只作为黑色像素剪影的飞鸟。采用经典的 16 位游戏风格精灵图、有限的调色板、可见的像素网格、简洁的剪影设计、戏剧性的奇幻氛围、侧视图景观构图以及微妙的复古游戏质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "城堡上的像素艺术巨龙：此提示词可生成一幅复古风格的奇幻像素艺术场景，描绘了黄昏时分栖息在城堡上的红龙，非常适合游戏美术对比、模型设计或怀旧像素插画。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [
+        "grid",
+        "layered"
+      ],
+      "style": [
+        "retro",
+        "fantasy",
+        "pixel art"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, layered]。\n\nVisual style:\n[参考风格: retro, fantasy, pixel art]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15074",
+      "14484",
+      "15749",
+      "14439",
+      "14522",
+      "15304"
+    ]
+  }
+}

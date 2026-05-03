@@ -1,0 +1,36 @@
+{
+  "id": "13857",
+  "prompt": "一张充满{argument name=\"氛围\" default=\"新春喜庆\"}氛围但不失高雅格调的 {argument name=\"年份\" default=\"2026\"} 城市宣传海报。双重曝光，构图延续了S型的流动感；在纯白的纹理背景右下角，一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带，这条红绸在空中舞动，不仅展现出丝绸的柔顺质感，更在向左上方飘动的过程中，奇幻地变形成了一条壮丽的山脉河流。在这条“河流”中，叠加了一个有山有海河的广州城市手绘图，国潮，景色尽在眼底，壮阔雄伟，令人震撼。广州的地标建筑(广州塔，珠江新城建筑群，珠江, 广州城里古建筑，游轮，白云山）。云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着“SPRING 2026”和竖排的宣传语，整体寓意“{argument name=\"宣传语\" default=\"千年商都，魅力广州\"}”。文字排版优美，大方，字迹清晰完整，尺寸9:16。",
+  "translatedPrompt": "一张充满春节庆典氛围又不失优雅格调的 {argument name=\"year\" default=\"2026\"} 年城市宣传海报。采用双重曝光，构图呈 S 型流线；在纯白纹理背景的右下角，一位身着中国传统服饰的小人儿正挥舞着长长的红绸带。绸带在空中舞动，展现出柔顺的丝绸质感，并向左上方飘动时神奇地幻化为壮丽的山川河流。在这条“河流”中，叠加了一幅手绘的 {argument name=\"city name\" default=\"广州\"} 城市地图，包含山脉、海洋与河流。国潮风格，震撼且宏伟。{argument name=\"landmarks\" default=\"广州塔、珠江新城建筑群、珠江、古建筑、游船、白云山\"}。云雾缭绕，意境空灵，色彩与细节丰富，同时因大面积留白而显得精致。左下角排布着“SPRING 2026”和竖排标语，象征着“千年商都，魅力广州”。字体排版优美清晰，比例 9:16。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "双重曝光城市宣传海报：一个用于 2026 年城市宣传海报的复杂提示词，采用双重曝光技术，融合了传统舞蹈、丝绸质感与山水景观。",
+      "subject": "空间",
+      "scene": "信息图/图解",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "城市美食地图、活动导览、园区地图、旅行视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13486",
+      "13512",
+      "13964",
+      "14370",
+      "14758",
+      "14796"
+    ]
+  }
+}

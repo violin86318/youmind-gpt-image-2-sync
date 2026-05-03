@@ -1,0 +1,54 @@
+{
+  "id": "14489",
+  "prompt": "{\"type\":\"comparison image\",\"subject\":\"same photorealistic editorial portrait rendered twice from equivalent prompts in different languages\",\"layout\":{\"orientation\":\"vertical stack\",\"sections\":[{\"position\":\"top\",\"count\":1,\"language\":\"English\",\"overlay_text\":\"A Japanese businessman in a dark navy three-piece suit, sharp jawline, confident eyes, mid-30s, standing with arms crossed slightly off-center to the right, facing camera, modern glass-office at dawn with Tokyo skyline visible through windows, soft golden hour side lighting from upper left, warm color temperature, 85mm f/1.4 lens, shallow depth of field with creamy bokeh, three-quarter view, bust shot, photorealistic editorial portrait, cinematic color grading. Format 16:9.\",\"image\":\"photorealistic portrait of {argument name=\\\"subject\\\" default=\\\"a Japanese businessman\\\"} in his mid-30s wearing a {argument name=\\\"suit color\\\" default=\\\"dark navy\\\"} three-piece suit with white shirt, dark tie, white pocket square, and wristwatch, sharp jawline, confident eyes, styled dark hair, standing with arms crossed, placed slightly right of center, facing the camera in a three-quarter bust shot inside a modern high-rise glass office at dawn, Tokyo skyline visible through floor-to-ceiling windows, desk with an open laptop and a small plant on the left, shelving and warm interior lights on the right, soft golden-hour side light from the upper left, warm color temperature, shallow depth of field, creamy bokeh, cinematic editorial realism, 85mm f/1.4 look, aspect ratio 16:9\"},{\"position\":\"bottom\",\"count\":1,\"language\":\"Japanese\",\"overlay_text\":\"濃紺のスリーピーススーツを着た日本人ビジネスマン、シャープな顎のラインと自信のある眼差し。30代半ば、両腕を胸の前で交差させ少し右寄りに立ち、カメラ正面を向いている。ガラス張りの現代的なオフィス、窓の外には夜明けの東京のスカイラインが見える。左上からの柔らかいゴールデンアワーのサイド光、暖色系の色温度、85mm f/1.4レンズ、浅い被写界深度でクリーミーなボケ、3/4ビューのバストショット、フォトリアルなエディトリアルポートレート、シネマティックなカラーグレーディング、Format 16:9\",\"image\":\"the same composition and styling as the top image, nearly identical photorealistic editorial portrait, preserving the businessman, office setting, dawn skyline, crossed arms, lighting, lens look, shallow depth of field, and cinematic grading to demonstrate minimal visual difference between English and Japanese prompts\"}],\"background\":\"each section fills half the canvas, no divider line, text block in the upper-left area of each panel\",\"count_total_sections\":2},\"style\":\"clean social-media comparison graphic showing prompt text directly on top of generated images\",\"intent\":\"demonstrate that GPT-image-2 produces very similar results from English and Japanese prompts\"}",
+  "translatedPrompt": "{\"type\":\"对比图\",\"subject\":\"通过不同语言的等效提示词渲染出的两次相同的写实编辑肖像\",\"layout\":{\"orientation\":\"垂直堆叠\",\"sections\":[{\"position\":\"顶部\",\"count\":1,\"language\":\"英语\",\"overlay_text\":\"A Japanese businessman in a dark navy three-piece suit, sharp jawline, confident eyes, mid-30s, standing with arms crossed slightly off-center to the right, facing camera, modern glass-office at dawn with Tokyo skyline visible through windows, soft golden hour side lighting from upper left, warm color temperature, 85mm f/1.4 lens, shallow depth of field with creamy bokeh, three-quarter view, bust shot, photorealistic editorial portrait, cinematic color grading. Format 16:9.\",\"image\":\"photorealistic portrait of {argument name=\\\"subject\\\" default=\\\"a Japanese businessman\\\"} in his mid-30s wearing a {argument name=\\\"suit color\\\" default=\\\"dark navy\\\"} three-piece suit with white shirt, dark tie, white pocket square, and wristwatch, sharp jawline, confident eyes, styled dark hair, standing with arms crossed, placed slightly right of center, facing the camera in a three-quarter bust shot inside a modern high-rise glass office at dawn, Tokyo skyline visible through floor-to-ceiling windows, desk with an open laptop and a small plant on the left, shelving and warm interior lights on the right, soft golden-hour side light from the upper left, warm color temperature, shallow depth of field, creamy bokeh, cinematic editorial realism, 85mm f/1.4 look, aspect ratio 16:9\"},{\"position\":\"底部\",\"count\":1,\"language\":\"日语\",\"overlay_text\":\"浓绀のスリーピーススーツを着た日本人ビジネスマン、シャープな颚のラインと自信のある眼差し。30代半ば、両腕を胸の前で交差させ少し右寄りに立ち、カメラ正面を向いている。ガラス张りの现代的なオフィス、窓の外には夜明けの东京のスカイラインが见える。左上からの柔软なゴールデンアワーのサイド光、暖色系の色温度、85mm f/1.4レンズ、浅い被写界深度でクリーミーなボケ、3/4ビューのバストショット、フォトリアルなエディトリアルポートレート、シネマティックなカラーグレーディング、Format 16:9\",\"image\":\"the same composition and styling as the top image, nearly identical photorealistic editorial portrait, preserving the businessman, office setting, dawn skyline, crossed arms, lighting, lens look, shallow depth of field, and cinematic grading to demonstrate minimal visual difference between English and Japanese prompts\"}],\"background\":\"每个部分填充一半画布，无分割线，文本块位于每个面板的左上角\",\"count_total_sections\":2},\"style\":\"简洁的社交媒体对比图，直接在生成的图像上方显示提示词文本\",\"intent\":\"演示 GPT-image-2 通过英语和日语提示词能产生非常相似的结果\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "双语提示词对比人像：一张双栏社交媒体对比图，展示了几乎相同的 AI 生成商务人士肖像，上方覆盖英文提示词，下方覆盖日文提示词，旨在演示跨语言提示词的一致性。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "editorial"
+      ],
+      "lightingCamera": [
+        "golden hour",
+        "shallow depth",
+        "depth of field",
+        "lens",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, editorial]。\n\nLighting and camera:\n[参考光线镜头: golden hour, shallow depth, depth of field, lens, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15026",
+      "15682",
+      "15318",
+      "15707",
+      "15684",
+      "14624"
+    ]
+  }
+}

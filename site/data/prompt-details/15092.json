@@ -1,0 +1,47 @@
+{
+  "id": "15092",
+  "prompt": "A photorealistic architectural exterior rendering of a large modern luxury family house viewed straight on from the front gate, perfectly centered and symmetrical. The house is a two-story contemporary mansion with smooth off-white stone or stucco walls, dark charcoal roof trim, large black-framed windows, and a grand recessed entrance with tall dark double doors under a flat canopy. On the left side, an open garage clearly reveals 1 white luxury SUV parked inside. On the right side, a floor-to-ceiling glass living room window shows 1 black grand piano inside, with elegant interior lighting faintly visible. In the foreground, 2 tall gray stone gate pillars frame the entrance, each topped with 1 classic black lantern for a total of 2 lanterns, and the right pillar has a gold nameplate engraved with Japanese text {argument name=\"nameplate text\" default=\"藤 咲\"}. A wide light-gray tiled walkway leads from the gate to the front door, bordered by neatly manicured green lawn and abundant white rose flowerbeds on both sides. Add trimmed shrubs, slender cypress-like trees near the doorway, low hedges, and rooftop terrace greenery. Surround the property with lush leafy trees at the edges of the frame. Use bright midday summer sunlight, crisp shadows, a vivid deep blue sky with a few small white clouds, ultra-clean materials, high-end residential design, realistic reflections in the glass, and a polished aspirational real-estate advertisement look.",
+  "translatedPrompt": "一张逼真的建筑外观渲染图，展示了一座大型现代豪华独栋别墅，从前门正前方视角拍摄，构图完美居中且对称。这是一座两层高的现代豪宅，墙面采用光滑的灰白色石材或灰泥，搭配深炭色屋顶装饰，配有大型黑色边框窗户，以及位于平顶雨棚下、高大深色双开门的宏伟内嵌式入口。左侧是一个开放式车库，清晰可见里面停放着 1 辆白色豪华 SUV。右侧是落地玻璃客厅窗户，可以看到里面摆放着 1 架黑色三角钢琴，隐约可见优雅的室内灯光。前景中，2 根高大的灰色石柱构成了入口框架，每根柱顶各装有 1 盏经典黑色灯笼（共 2 盏），右侧石柱上镶嵌着一块刻有日文的金色铭牌 {argument name=\"nameplate text\" default=\"藤 咲\"}。一条宽阔的浅灰色瓷砖步道从大门延伸至前门，两侧是修剪整齐的草坪和繁茂的白色玫瑰花坛。增加修剪过的灌木、门口附近的细长柏树、低矮树篱以及屋顶露台绿植。在画面边缘环绕着郁郁葱葱的树木。采用明亮的夏季正午阳光、清晰的阴影、湛蓝的天空和几朵小白云，呈现超洁净的材质、高端住宅设计、玻璃上的逼真反射，以及精致且令人向往的房地产广告视觉效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "现代豪华别墅外观：此提示词可生成一张精致且逼真的现代高端别墅正面视图，非常适合用于豪华房地产、建筑可视化或梦想家园概念艺术。",
+      "subject": "空间",
+      "scene": "空间/场景",
+      "composition": [
+        "centered",
+        "symmetrical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "luxury"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "空间概念、建筑场景、游戏场景、产品场景盒子",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 空间/场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, luxury]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14686",
+      "15405",
+      "15328",
+      "15440",
+      "14256",
+      "14503"
+    ]
+  }
+}

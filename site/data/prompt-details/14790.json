@@ -1,0 +1,37 @@
+{
+  "id": "14790",
+  "prompt": "Make an image, a {argument name=\"player\" default=\"Marcus Rashford\"} design for {argument name=\"team\" default=\"inter milan\"}, advanced design level, 9:16, mobile wallpaper, write \"{argument name=\"text\" default=\"Welcome MR14\"}\"",
+  "translatedPrompt": "生成一张图片，设计一个 {argument name=\"player\" default=\"Marcus Rashford\"} 主题，背景为 {argument name=\"team\" default=\"inter milan\"}，高级设计水平，比例 9:16，手机壁纸，文字内容为 \"{argument name=\"text\" default=\"Welcome MR14\"}\"",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Marcus Rashford 国际米兰壁纸：使用 GPT Image 2 模型创建体育主题手机壁纸的详细提示词。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13707",
+      "13719",
+      "13853",
+      "13946",
+      "13989",
+      "14752"
+    ]
+  }
+}

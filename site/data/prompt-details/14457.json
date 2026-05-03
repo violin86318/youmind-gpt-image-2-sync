@@ -1,0 +1,51 @@
+{
+  "id": "14457",
+  "prompt": "{\"type\":\"UI/UX design system showcase board\",\"theme\":\"dark mode, nature-inspired, luminous iridescent aesthetic\",\"language\":\"Chinese\",\"canvas\":{\"aspect_ratio\":\"square poster\",\"background\":\"deep midnight navy to black with subtle glow\",\"style\":\"premium futuristic presentation board with thin neon-blue panel outlines, glossy highlights, soft bloom, and high contrast\"},\"header\":{\"title\":\"自然灵感 UI\\n{argument name=\\\"system title\\\" default=\\\"蝴蝶虹彩\\\"}\\nUI/UX 设计系统\",\"description\":\"{argument name=\\\"chinese description\\\" default=\\\"从蝴蝶翅膀中汲取灵感，将结构色的虹彩光泽与深邃蓝融入界面设计，创造轻盈、灵动、充满生命力的数字体验。\\\"}\",\"hero_image\":\"an oversized, ultra-detailed glowing butterfly wing in electric blue, violet, and iridescent cyan filling the upper-right half, with visible vein structure, translucent edges, spark-like particles, and a second blurred wing behind it\"},\"layout\":{\"sections\":[{\"title\":\"1. 设计灵感\",\"position\":\"upper left below header\",\"count\":4,\"labels\":[\"iridescent butterfly wing macro\",\"blue-purple wing texture close-up\",\"light refraction prism flare\",\"butterfly wing cell pattern\"]},{\"title\":\"2. 关键词\",\"position\":\"upper right below hero\",\"count\":5,\"labels\":[\"虹彩\",\"灵动\",\"轻盈\",\"深邃\",\"自然\"],\"icon_style\":\"simple glowing line icons inside rounded dark cards\"},{\"title\":\"3. 色彩系统\",\"position\":\"mid left\",\"subsections\":[{\"title\":\"主色\",\"count\":3,\"labels\":[\"大闪蝶蓝 #1E5BFF\",\"虹彩紫 #7A5CFF\",\"天空光 #00E6FF\"]},{\"title\":\"中性色\",\"count\":3,\"labels\":[\"午夜黑 #060F19\",\"柔和海军蓝 #141A2E\",\"珍珠白 #F3F6FC\"]},{\"title\":\"强调色与渐变\",\"count\":2,\"labels\":[\"彩虹光泽\",\"蝴蝶光芒\"]}],\"visual\":\"circular color swatches and gradient spheres with Chinese labels beneath\"},{\"title\":\"4. 排版\",\"position\":\"mid right\",\"count\":1,\"labels\":[\"Aa Poppins Light / Regular / Medium / SemiBold\"],\"visual\":\"large white Aa on dark card\"},{\"title\":\"5. 应用图标\",\"position\":\"left center\",\"count\":1,\"text\":\"{argument name=\\\"app name\\\" default=\\\"Winglet\\\"} 轻盈。灵动。优雅。\",\"visual\":\"glowing butterfly app icon beside app name\"},{\"title\":\"6. UI 组件\",\"position\":\"center\",\"subsections\":[{\"title\":\"按钮\",\"count\":3,\"labels\":[\"主要按钮\",\"次要按钮\",\"玻璃质感\"]},{\"title\":\"图标\",\"count\":2,\"labels\":[\"心形收藏\",\"发光圆环\"]},{\"title\":\"开关\",\"count\":1,\"labels\":[\"开关\"]}],\"visual\":\"rounded blue buttons, neon icon buttons, and a glowing toggle on a dark panel\"},{\"title\":\"其他元素\",\"position\":\"right center\",\"count\":4,\"labels\":[\"搜索框\",\"标签 New\",\"进度条 (72%)\",\"卡片 Blue Morpho\"],\"visual\":\"small utility UI widgets in a compact horizontal card\"},{\"title\":\"7. 移动端 UI\",\"position\":\"lower left\",\"count\":3,\"labels\":[\"搜索页面\",\"带有大型蝴蝶插图的今日页面\",\"带有波形图的音频播放页面\"],\"visual\":\"three smartphone mockups with rounded corners, dark interface, blue-violet butterfly visuals\"},{\"title\":\"8. 网页设计预览\",\"position\":\"lower right\",\"count\":1,\"labels\":[\"光之生命\"],\"visual\":\"desktop landing page mockup with butterfly hero image, top navigation, bright blue call-to-action button, and Chinese body text\"},{\"title\":\"9. 视觉背景\",\"position\":\"bottom full width\",\"count\":4,\"labels\":[\"flowing light ribbon background 1\",\"swirling iridescent vortex\",\"flowing light ribbon background 2\",\"radiant crystalline burst\"],\"visual\":\"four elongated rectangular background samples in purple, blue, and cyan\"}],\"footer\":{\"count\":1,\"text\":\"源于自然的设计，为体验而生。\",\"center_icon\":\"small butterfly icon\"}},\"art_direction\":{\"materials\":\"glassmorphism, neon edge lighting, smooth gradients, subtle reflections\",\"colors\":\"electric blue, indigo, violet, cyan, white\",\"composition\":\"clean grid with 9 numbered content sections, generous spacing, thin rounded borders, and a dominant butterfly hero image\",\"render_quality\":\"highly polished, crisp typography, premium Behance-style design system board\"}}",
+  "translatedPrompt": "{\"type\":\"UI/UX 设计系统展示项目\",\"theme\":\"深色模式，自然灵感，发光虹彩美学\",\"language\":\"中文\",\"canvas\":{\"aspect_ratio\":\"方形海报\",\"background\":\"深午夜蓝至黑色，带有微妙光晕\",\"style\":\"高级未来感展示项目，配有纤细的霓虹蓝面板轮廓、光泽高光、柔和光晕及高对比度\"},\"header\":{\"title\":\"自然灵感 UI\\n{argument name=\\\"system title\\\" default=\\\"蝴蝶虹彩\\\"}\\nUI/UX 设计系统\",\"description\":\"{argument name=\\\"chinese description\\\" default=\\\"从蝴蝶翅膀中汲取灵感，将结构色的虹彩光泽与深邃蓝融入界面设计，创造轻盈、灵动、充满生命力的数字体验。\\\"}\",\"hero_image\":\"一个超细节的发光蝴蝶翅膀，呈现电光蓝、紫罗兰色和虹彩青色，占据右上角一半区域，可见脉络结构、半透明边缘、火花状粒子，后方有第二个模糊的翅膀\"},\"layout\":{\"sections\":[{\"title\":\"1. 设计灵感\",\"position\":\"左上角，标题下方\",\"count\":4,\"labels\":[\"虹彩蝴蝶翅膀微距\",\"蓝紫色翅膀纹理特写\",\"光折射棱镜光晕\",\"蝴蝶翅膀细胞图案\"]},{\"title\":\"2. 关键词\",\"position\":\"右上角，主图下方\",\"count\":5,\"labels\":[\"虹彩\",\"灵动\",\"轻盈\",\"深邃\",\"自然\"],\"icon_style\":\"圆角深色卡片内的简约发光线条图标\"},{\"title\":\"3. 色彩系统\",\"position\":\"中左\",\"subsections\":[{\"title\":\"主色\",\"count\":3,\"labels\":[\"大闪蝶蓝 #1E5BFF\",\"虹彩紫 #7A5CFF\",\"天空光 #00E6FF\"]},{\"title\":\"中性色\",\"count\":3,\"labels\":[\"午夜黑 #060F19\",\"柔和海军蓝 #141A2E\",\"珍珠白 #F3F6FC\"]},{\"title\":\"强调色与渐变\",\"count\":2,\"labels\":[\"彩虹光泽\",\"蝴蝶光芒\"]}],\"visual\":\"圆形色板和渐变球体，下方附有中文标签\"},{\"title\":\"4. 排版\",\"position\":\"中右\",\"count\":1,\"labels\":[\"Aa Poppins Light / Regular / Medium / SemiBold\"],\"visual\":\"深色卡片上的大号白色 Aa\"},{\"title\":\"5. 应用图标\",\"position\":\"左中\",\"count\":1,\"text\":\"{argument name=\\\"app name\\\" default=\\\"Winglet\\\"} 轻盈。灵动。优雅。\",\"visual\":\"应用名称旁的发光蝴蝶应用图标\"},{\"title\":\"6. UI 组件\",\"position\":\"中心\",\"subsections\":[{\"title\":\"按钮\",\"count\":3,\"labels\":[\"主要按钮\",\"次要按钮\",\"玻璃质感\"]},{\"title\":\"图标\",\"count\":2,\"labels\":[\"心形收藏\",\"发光圆环\"]},{\"title\":\"开关\",\"count\":1,\"labels\":[\"开关\"]}],\"visual\":\"深色面板上的圆角蓝色按钮、霓虹图标按钮及发光开关\"},{\"title\":\"其他元素\",\"position\":\"右中\",\"count\":4,\"labels\":[\"搜索框\",\"标签 New\",\"进度条 (72%)\",\"卡片 Blue Morpho\"],\"visual\":\"紧凑水平卡片中的小型实用 UI 组件\"},{\"title\":\"7. 移动端 UI\",\"position\":\"左下\",\"count\":3,\"labels\":[\"搜索页面\",\"带有大型蝴蝶插图的今日页面\",\"带有波形图的音频播放页面\"],\"visual\":\"三款圆角智能手机样机，深色界面，蓝紫色蝴蝶视觉效果\"},{\"title\":\"8. 网页设计预览\",\"position\":\"右下\",\"count\":1,\"labels\":[\"光之生命\"],\"visual\":\"桌面端落地页样机，包含蝴蝶主图、顶部导航、亮蓝色行动号召按钮及中文正文\"},{\"title\":\"9. 视觉背景\",\"position\":\"底部全宽\",\"count\":4,\"labels\":[\"流光丝带背景 1\",\"漩涡虹彩\",\"流光丝带背景 2\",\"光芒晶体爆发\"],\"visual\":\"四个紫色、蓝色和青色的长方形背景样本\"}],\"footer\":{\"count\":1,\"text\":\"源于自然的设计，为体验而生。\",\"center_icon\":\"小型蝴蝶图标\"}},\"art_direction\":{\"materials\":\"玻璃拟态、霓虹边缘光、平滑渐变、微妙反射\",\"colors\":\"电光蓝、靛蓝、紫罗兰、青色、白色\",\"composition\":\"整洁的网格布局，包含 9 个带编号的内容板块，充足的留白，纤细的圆角边框，以及占据主导地位的蝴蝶主图\",\"render_quality\":\"高度精致，排版清晰，高级 Behance 风格设计系统项目\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Iridescent Butterfly UI System 项目：这是一个精致的深色模式中文 UI/UX 设计系统展示项目，采用发光的蝴蝶主题，适用于设计案例研究、作品集封面及风格系统展示。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "close-up",
+        "grid",
+        "horizontal"
+      ],
+      "style": [
+        "premium"
+      ],
+      "lightingCamera": [
+        "neon",
+        "high contrast"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, grid, horizontal]。\n\nVisual style:\n[参考风格: premium]。\n\nLighting and camera:\n[参考光线镜头: neon, high contrast]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14403",
+      "14649",
+      "15795",
+      "14581",
+      "14623",
+      "14695"
+    ]
+  }
+}

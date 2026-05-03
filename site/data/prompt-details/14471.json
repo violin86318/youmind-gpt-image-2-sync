@@ -1,0 +1,46 @@
+{
+  "id": "14471",
+  "prompt": "{\n  \"type\": \"four-panel anime manga page\",\n  \"style\": \"clean polished anime illustration, warm indoor lighting, highly legible vertical Japanese speech balloons, soft shading, expressive comic framing, detailed cozy living room background, light brown and beige interior, wood floor, sofa, coffee table, mugs, small plant, framed wall art\",\n  \"format\": {\n    \"page_orientation\": \"portrait\",\n    \"panel_count\": 4,\n    \"reading_flow\": \"top-left, top-right, middle-wide, bottom-wide\",\n    \"borders\": \"thick black manga panel borders\"\n  },\n  \"characters\": [\n    {\n      \"id\": \"blue cat girl\",\n      \"appearance\": \"small chibi catgirl with short bobbed {argument name=\"hair color\" default=\"blue\"} hair, ahoge, cat ears with white inner fur, fluffy tail with white tip, large amber-blue eyes, tiny fang-like mouth\",\n      \"outfit\": \"orange sweater over a white collared shirt with blue trim, brown skirt with a ribbon belt, yellow X-shaped hair clip\"\n    },\n    {\n      \"id\": \"golden cat girl\",\n      \"appearance\": \"energetic catgirl with long wavy golden-blonde hair, cat ears, fluffy tail, bright cheerful expression\",\n      \"outfit\": \"mustard yellow cable-knit sweater, dark brown plaid skirt\"\n    },\n    {\n      \"id\": \"white-haired woman\",\n      \"appearance\": \"beautiful woman with long white hair, white cat ears, dark tan skin, golden eyes, calm confident smile\",\n      \"outfit\": \"white jacket over a black top, layered gold necklaces and earrings\"\n    },\n    {\n      \"id\": \"maid woman\",\n      \"appearance\": \"adult woman with long light blonde hair and cat ears\",\n      \"outfit\": \"black-and-white maid dress with white frilled headpiece and a red ribbon bow\"\n    }\n  ],\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"panel 1\",\n        \"position\": \"top-left\",\n        \"count\": 1,\n        \"labels\": [\"どうせ日本語微妙なんでしょ？文字がダメなら認めないよ\"],\n        \"scene\": \"the blue cat girl sits on a sofa in a cozy living room, one finger on her chin, looking skeptical and curious, a small question mark floating above her head\"\n      },\n      {\n        \"title\": \"panel 2\",\n        \"position\": \"top-right\",\n        \"count\": 1,\n        \"labels\": [\"ねぇねぇ！GPT Image2 すごいよ！\"],\n        \"scene\": \"the golden cat girl bursts in dramatically through a doorway with speed lines radiating behind her, arms spread wide, full of excitement\"\n      },\n      {\n        \"title\": \"panel 3\",\n        \"position\": \"middle-wide\",\n        \"count\": 3,\n        \"labels\": [\"うわっ びっくりした！めちゃくちゃキレイじゃん！\", \"ねぇねぇ！GPT Image2 すごいよ！ 微妙なんでしょ？ 文字がダメなら認めないよ\", \"ほら見て！わたしたちのセリフ！\"],\n        \"scene\": \"the blue cat girl reacts in shock with both hands near her face, the golden cat girl stands beside her and points proudly, and a large central speech balloon displays the example Japanese dialogue they are discussing\"\n      },\n      {\n        \"title\": \"panel 4\",\n        \"position\": \"bottom-wide\",\n        \"count\": 3,\n        \"labels\": [\"進化が早すぎてもう驚かないよね〜\", \"絵も可愛く描けてるし文字の白抜きも完璧よね\", \"\"],\n        \"scene\": \"in the foreground, the maid woman covers her mouth in impressed amazement while the white-haired woman comments thoughtfully with a hand near her chin; in the background, the blue cat girl and golden cat girl jump happily together in celebration in front of the sofa\"\n      }\n    ]\n  },\n  \"text_handling\": {\n    \"language\": \"Japanese\",\n    \"balloon_direction\": \"vertical text layout\",\n    \"emphasis\": \"make the Japanese typography crisp, natural, and cleanly integrated into manga speech balloons, including white knockout text where needed\"\n  },\n  \"tone\": \"playful, celebratory, impressed by high-quality Japanese text rendering in AI-generated manga\",\n  \"quality\": \"high detail, cohesive character designs, cute and readable promotional comic\"\n}",
+  "translatedPrompt": "{\n  \"type\": \"四格动漫漫画页面\",\n  \"style\": \"干净精致的动漫插画，温暖的室内光线，高度清晰的竖排日语对话气泡，柔和的阴影，富有表现力的漫画分镜，细节丰富的温馨客厅背景，浅棕色和米色内饰，木地板，沙发，咖啡桌，马克杯，小盆栽，墙上的装饰画\",\n  \"format\": {\n    \"page_orientation\": \"纵向\",\n    \"panel_count\": 4,\n    \"reading_flow\": \"左上，右上，中间横向，底部横向\",\n    \"borders\": \"粗黑漫画分镜边框\"\n  },\n  \"characters\": [\n    {\n      \"id\": \"蓝色猫耳娘\",\n      \"appearance\": \"娇小的 Q 版猫耳娘，留着短波波头 {argument name=\"hair color\" default=\"蓝色\"} 发型，有呆毛，猫耳内侧为白色，蓬松的尾巴带有白色尖端，大大的琥珀蓝色眼睛，小小的尖牙嘴\",\n      \"outfit\": \"白色翻领衬衫外搭橙色毛衣，蓝色镶边，棕色裙子配丝带腰带，黄色 X 形发夹\"\n    },\n    {\n      \"id\": \"金色猫耳娘\",\n      \"appearance\": \"充满活力的猫耳娘，留着长长的波浪形金发，猫耳，蓬松的尾巴，表情明亮欢快\",\n      \"outfit\": \"芥末黄麻花针织毛衣，深棕色格子裙\"\n    },\n    {\n      \"id\": \"白发女性\",\n      \"appearance\": \"美丽的女性，留着长长的白发，白色猫耳，深褐色皮肤，金色眼睛，带着自信沉稳的微笑\",\n      \"outfit\": \"黑色上衣外搭白色夹克，叠戴金色项链和耳环\"\n    },\n    {\n      \"id\": \"女仆\",\n      \"appearance\": \"成年女性，留着长长的浅金发，戴着猫耳\",\n      \"outfit\": \"黑白女仆装，配有白色荷叶边头饰和红色丝带蝴蝶结\"\n    }\n  ],\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"第 1 格\",\n        \"position\": \"左上\",\n        \"count\": 1,\n        \"labels\": [\"怎么说呢，日语肯定很微妙吧？如果文字不行的话我可不认可哦\"],\n        \"scene\": \"蓝色猫耳娘坐在温馨客厅的沙发上，一只手托着下巴，表情怀疑且好奇，头顶漂浮着一个小问号\"\n      },\n      {\n        \"title\": \"第 2 格\",\n        \"position\": \"右上\",\n        \"count\": 1,\n        \"labels\": [\"喂喂！GPT Image2 太厉害了！\"],\n        \"scene\": \"金色猫耳娘戏剧性地冲进门，身后带着速度线，双臂张开，充满兴奋\"\n      },\n      {\n        \"title\": \"第 3 格\",\n        \"position\": \"中间横向\",\n        \"count\": 3,\n        \"labels\": [\"哇！吓了一跳！这也太漂亮了吧！\", \"喂喂！GPT Image2 太厉害了！怎么说呢，日语肯定很微妙吧？如果文字不行的话我可不认可哦\", \"快看！我们的台词！\"],\n        \"scene\": \"蓝色猫耳娘双手捂脸表现出震惊，金色猫耳娘站在她身边自豪地指着，中间巨大的对话气泡显示着她们正在讨论的日语对话示例\"\n      },\n      {\n        \"title\": \"第 4 格\",\n        \"position\": \"底部横向\",\n        \"count\": 3,\n        \"labels\": [\"进化太快了，已经不会再感到惊讶了呢～\", \"画风很可爱，文字的白边效果也很完美\", \"\"],\n        \"scene\": \"前景中，女仆捂着嘴露出惊叹的表情，白发女性手托下巴若有所思地评论着；背景中，蓝色猫耳娘和金色猫耳娘在沙发前开心地跳跃庆祝\"\n      }\n    ]\n  },\n  \"text_handling\": {\n    \"language\": \"日语\",\n    \"balloon_direction\": \"竖排文字布局\",\n    \"emphasis\": \"使日语排版清晰、自然，并完美融入漫画对话气泡中，必要时使用文字白边效果\"\n  },\n  \"tone\": \"俏皮、欢快，对 AI 生成漫画中高质量的日语文字渲染表示赞赏\",\n  \"quality\": \"高细节，连贯的角色设计，可爱且易读的宣传漫画\"\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日语 AI 漫画演示页面：这是一页精致的四格动漫漫画，展示了猫耳娘角色对 AI 生成的精美日语对话的反应，非常适合展示 AI 漫画的文字质量。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "manga"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical]。\n\nVisual style:\n[参考风格: anime, manga]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14404",
+      "14916",
+      "14531",
+      "14550",
+      "15047",
+      "15352"
+    ]
+  }
+}

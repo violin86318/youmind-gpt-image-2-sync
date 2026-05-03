@@ -1,0 +1,37 @@
+{
+  "id": "13831",
+  "prompt": "{\n  \"type\": \"social media post mockup\",\n  \"theme\": \"dark mode\",\n  \"header\": {\n    \"avatar\": \"OpenAI logo\",\n    \"account_name\": \"{argument name=\\\"account name\\\" default=\\\"OpenAI\\\"}\",\n    \"badge\": \"gold checkmark\",\n    \"handle\": \"@OpenAI\"\n  },\n  \"post_text\": [\n    \"{argument name=\\\"post text\\\" default=\\\"ChatGPT is now on Apple Watch.\\\"}\",\n    \"Get answers, ask follow-ups, and get things done — right from your wrist.\",\n    \"The official ChatGPT app is available now on the App Store.\"\n  ],\n  \"embedded_card\": {\n    \"background\": \"light blue and green gradient\",\n    \"left_column\": {\n      \"logo\": \"ChatGPT\",\n      \"headline\": \"{argument name=\\\"card headline\\\" default=\\\"Meet ChatGPT on Apple Watch\\\"}\",\n      \"subheadline\": \"Ask anything. Get answers. Right from your wrist.\"\n    },\n    \"right_column\": {\n      \"device\": \"smartwatch with black band\",\n      \"screen_elements\": {\n        \"top_bar\": 2,\n        \"top_bar_labels\": [\"ChatGPT\", \"10:09\"],\n        \"center\": \"glowing blue and white orb\",\n        \"text\": \"{argument name=\\\"watch screen text\\\" default=\\\"What can I help you with?\\\"}\",\n        \"buttons\": 2,\n        \"button_labels\": [\"Ask\", \"...\"]\n      }\n    }\n  },\n  \"footer\": {\n    \"metadata\": \"9:00 AM · May 21, 2024 · 1.2M Views\",\n    \"engagement_stats\": {\n      \"count\": 4,\n      \"labels\": [\"1,552 Reposts\", \"402 Quotes\", \"{argument name=\\\"likes count\\\" default=\\\"8,910\\\"} Likes\", \"1,001 Bookmarks\"]\n    },\n    \"action_icons\": {\n      \"count\": 5,\n      \"types\": [\"reply\", \"repost\", \"like\", \"bookmark\", \"share\"]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"社交媒体帖子模拟图\",\n  \"theme\": \"深色模式\",\n  \"header\": {\n    \"avatar\": \"OpenAI 标志\",\n    \"account_name\": \"{argument name=\\\"account name\\\" default=\\\"OpenAI\\\"}\",\n    \"badge\": \"金色认证徽章\",\n    \"handle\": \"@OpenAI\"\n  },\n  \"post_text\": [\n    \"{argument name=\\\"post text\\\" default=\\\"ChatGPT 现已登陆 Apple Watch。\\\"}\",\n    \"随时随地提问、追问并处理事务——一切尽在腕间。\",\n    \"ChatGPT 官方应用现已在 App Store 上架。\"\n  ],\n  \"embedded_card\": {\n    \"background\": \"浅蓝色与绿色渐变\",\n    \"left_column\": {\n      \"logo\": \"ChatGPT\",\n      \"headline\": \"{argument name=\\\"card headline\\\" default=\\\"体验 Apple Watch 版 ChatGPT\\\"}\",\n      \"subheadline\": \"随时提问。获取解答。一切尽在腕间。\"\n    },\n    \"right_column\": {\n      \"device\": \"配有黑色表带的智能手表\",\n      \"screen_elements\": {\n        \"top_bar\": 2,\n        \"top_bar_labels\": [\"ChatGPT\", \"10:09\"],\n        \"center\": \"发光的蓝白球体\",\n        \"text\": \"{argument name=\\\"watch screen text\\\" default=\\\"有什么我可以帮您的吗？\\\"}\",\n        \"buttons\": 2,\n        \"button_labels\": [\"提问\", \"...\"]\n      }\n    }\n  },\n  \"footer\": {\n    \"metadata\": \"上午 9:00 · 2024 年 5 月 21 日 · 120 万次浏览\",\n    \"engagement_stats\": {\n      \"count\": 4,\n      \"labels\": [\"1,552 次转发\", \"402 次引用\", \"{argument name=\\\"likes count\\\" default=\\\"8,910\\\"} 次点赞\", \"1,001 次书签\"]\n    },\n    \"action_icons\": {\n      \"count\": 5,\n      \"types\": [\"回复\", \"转发\", \"点赞\", \"书签\", \"分享\"]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "社交媒体产品发布模拟图：生成一张逼真的深色模式社交媒体帖子，展示智能手表应用的宣传图。",
+      "subject": "产品",
+      "scene": "图标/贴纸",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "图标包、贴纸、表情、产品功能图标",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 图标/贴纸 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14138",
+      "14248",
+      "13534",
+      "14183",
+      "14993",
+      "13994"
+    ]
+  }
+}

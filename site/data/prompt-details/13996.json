@@ -1,0 +1,43 @@
+{
+  "id": "13996",
+  "prompt": "{\n  \"type\": \"2x2 advertisement grid\",\n  \"layout\": {\n    \"grid_structure\": \"2 rows, 2 columns\",\n    \"sections\": [\n      {\n        \"position\": \"top-left\",\n        \"theme\": \"skincare beauty ad\",\n        \"visuals\": \"Portrait of a young Asian woman with glowing, clear skin, hand gently touching her face. Two elegant frosted glass skincare product bottles in the foreground.\",\n        \"copy\": {\n          \"headline\": \"{argument name=\\\"skincare headline\\\" default=\\\"透明感、満ちる。\\\"}\",\n          \"subheadline\": \"When your skin changes, your everyday changes.\",\n          \"brand_text\": \"New aging care line debut {argument name=\\\"skincare brand\\\" default=\\\"SUIREN\\\"}\",\n          \"badge\": \"6.1 NEW Debut\"\n        }\n      },\n      {\n        \"position\": \"top-right\",\n        \"theme\": \"travel agency campaign ad\",\n        \"visuals\": \"Back view of a woman in a white shirt and straw hat looking out over a scenic European lake town with mountains and a church spire. A small airplane illustration in the sky.\",\n        \"copy\": {\n          \"english_script\": \"Find your Journey\",\n          \"headline\": \"{argument name=\\\"travel headline\\\" default=\\\"心が動く旅へ。\\\"}\",\n          \"subheadline\": \"Unseen scenery is waiting for you.\",\n          \"badge\": \"Now only! Up to 20% OFF until 6.30\",\n          \"bottom_bar\": \"Early summer Europe campaign | Details here >\"\n        }\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"theme\": \"traditional food product ad\",\n        \"visuals\": \"Close-up of a rustic bowl of white rice topped with bonito flakes and a bright orange raw egg yolk. Dark soy sauce or dashi is being poured from a small ceramic pitcher. A kraft paper product pouch is in the bottom left corner.\",\n        \"copy\": {\n          \"headline\": \"{argument name=\\\"food headline\\\" default=\\\"毎日のごはんを、もっと美味しく。\\\"}\",\n          \"product_name\": \"Everyday Dashi\",\n          \"features\": \"No chemical seasonings or preservatives added | The whole umami of the ingredients.\",\n          \"badge\": \"Dashi pack 30 bags included\"\n        }\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"theme\": \"fintech investment app ad\",\n        \"visuals\": \"A modern smartphone displaying a financial dashboard with a blue line chart and portfolio breakdown. Clean white and light blue background.\",\n        \"copy\": {\n          \"logo\": \"M MoneyPath\",\n          \"headline\": \"For your future self, {argument name=\\\"finance headline\\\" default=\\\"今はじめる資産形成\\\"}\",\n          \"subheadline\": \"Simple investment app safe even for beginners\",\n          \"badge\": \"1,000 yen worth of points present for new registration!\",\n          \"bottom_features\": [\n            \"Start from 100 yen\",\n            \"Industry lowest fee level\",\n            \"NISA compatible\",\n            \"Open an account for free first >\"\n          ]\n        }\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"2x2 广告网格\",\n  \"layout\": {\n    \"grid_structure\": \"2 行，2 列\",\n    \"sections\": [\n      {\n        \"position\": \"左上\",\n        \"theme\": \"护肤美妆广告\",\n        \"visuals\": \"一位年轻亚洲女性的肖像，皮肤透亮，手轻触脸颊。前景摆放着两瓶优雅的磨砂玻璃护肤品。\",\n        \"copy\": {\n          \"headline\": \"{argument name=\\\"skincare headline\\\" default=\\\"透明感、満ちる。\\\"}\",\n          \"subheadline\": \"当你的肌肤改变，你的生活也会随之改变。\",\n          \"brand_text\": \"全新抗衰老系列首发 {argument name=\\\"skincare brand\\\" default=\\\"SUIREN\\\"}\",\n          \"badge\": \"6.1 新品首发\"\n        }\n      },\n      {\n        \"position\": \"右上\",\n        \"theme\": \"旅行社宣传广告\",\n        \"visuals\": \"一位身穿白衬衫、戴着草帽的女性背影，眺望着风景如画的欧洲湖畔小镇，背景是山脉和教堂尖顶。天空中有一架小型飞机插画。\",\n        \"copy\": {\n          \"english_script\": \"Find your Journey\",\n          \"headline\": \"{argument name=\\\"travel headline\\\" default=\\\"心が動く旅へ。\\\"}\",\n          \"subheadline\": \"未见的风景正在等待着你。\",\n          \"badge\": \"限时优惠！6 月 30 日前最高可享 8 折\",\n          \"bottom_bar\": \"初夏欧洲行活动 | 点击查看详情 >\"\n        }\n      },\n      {\n        \"position\": \"左下\",\n        \"theme\": \"传统食品广告\",\n        \"visuals\": \"特写镜头：一碗质朴的白米饭，上面撒着鲣鱼片，放着一颗鲜亮的橙色生蛋黄。深色的酱油或高汤正从一个小陶瓷壶中倒入。左下角放着一个牛皮纸包装袋。\",\n        \"copy\": {\n          \"headline\": \"{argument name=\\\"food headline\\\" default=\\\"毎日のごはんを、もっと美味しく。\\\"}\",\n          \"product_name\": \"日常高汤\",\n          \"features\": \"无添加化学调味料或防腐剂 | 还原食材的纯粹鲜味。\",\n          \"badge\": \"内含 30 包高汤包\"\n        }\n      },\n      {\n        \"position\": \"右下\",\n        \"theme\": \"金融科技投资 App 广告\",\n        \"visuals\": \"一部现代智能手机，屏幕显示着金融仪表盘，包含蓝色折线图和投资组合明细。背景为干净的白色和浅蓝色。\",\n        \"copy\": {\n          \"logo\": \"M MoneyPath\",\n          \"headline\": \"为了未来的自己，{argument name=\\\"finance headline\\\" default=\\\"今はじめる資産形成\\\"}\",\n          \"subheadline\": \"简单易用的投资 App，新手也能安心使用\",\n          \"badge\": \"新用户注册即送 1,000 日元积分！\",\n          \"bottom_features\": [\n            \"100 日元起投\",\n            \"行业最低费率水平\",\n            \"支持 NISA\",\n            \"立即免费开户 >\"\n          ]\n        }\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "4 格广告概念网格：生成一个 2x2 的数字广告网格，涵盖护肤、旅游、食品和金融科技领域，非常适合营销项目。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up",
+        "grid",
+        "2x2"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, grid, 2x2]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14678",
+      "14995",
+      "15085",
+      "13875",
+      "13997",
+      "14026"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "14463",
+  "prompt": "Create a glossy Chinese co-branded beverage poster advertisement in a bold commercial style, vertical 4:5 composition, with a dramatic split-color background: bright saturated red on the left and vivid royal blue on the right, blended at the center with radiant streaks, motion lines, glow effects, and high-energy product-launch lighting. At the top, place 2 brand logo areas separated by a white multiplication sign: on the upper left, a snowman mascot logo with Chinese text {argument name=\"left brand name\" default=\"蜜雪冰城\"} and smaller subtitle text \"始于1997冰淇淋与茶\"; on the upper right, the deer logo and wordmark {argument name=\"right brand name\" default=\"luckin coffee\"} with smaller Chinese subtitle \"专业咖啡新鲜式\". Centered beneath the logos, add a huge Chinese headline in thick 3D extruded display typography with white faces, colored edging, heavy shadows, and a glossy embossed look, reading {argument name=\"headline text\" default=\"蜜雪冰城 × 瑞幸咖啡\"}, with the left half accented red and the right half accented blue. Below it, add a second slogan line in bold Chinese text, split by brand color, reading \"冰爽甜蜜，咖啡加倍\", flanked by short horizontal white dashes. Under that, place a rounded capsule banner in red-to-blue gradient containing the Chinese text \"双品牌联名主打・人气招牌同框\". In the center foreground, show 2 hero products: on the left, 1 vanilla soft-serve ice cream in a waffle cone, tall swirl, creamy white, slightly glossy, wrapped in a bright red cone sleeve printed with the snowman mascot and Chinese branding; on the right, 1 large clear plastic cup of iced latte or coffee with visible ice cubes, caramel-brown liquid marbling into milk, condensation droplets on the cup, a transparent lid, the blue deer logo, the wordmark \"luckin coffee\", and small Chinese subtitle text. Surround the cup with dynamic coffee splash arcs and exactly 3 flying coffee beans. Around the lower foreground, add scattered translucent ice cubes and white milk splashes to emphasize cold freshness. Include exactly 2 comic-style promotional burst badges: a red circular badge on the left reading \"联名新品\" and a blue circular badge on the right reading \"限时热卖\". In the bottom left corner, add 1 cute 3D snowman mascot character wearing a red cape and holding a tiny ice cream cone, smiling and winking. At the bottom center, place a large red-and-blue beveled ribbon banner with bold white Chinese text reading \"今夏限定 立即尝鲜\", ending with a yellow lightning bolt icon on the right. Along the very bottom edge, place 3 small selling-point items separated by vertical dividers: a snowflake icon with \"冰爽甜蜜\", a coffee bean icon with \"咖啡加倍\", and a heart icon with \"双倍满足\". Use premium e-commerce poster rendering, ultra-clean product retouching, glossy highlights, rich contrast, crisp Chinese typography, depth, reflections, splash effects, and an energetic summer limited-edition campaign aesthetic.",
+  "translatedPrompt": "创作一张光泽感十足的中式联名饮品广告海报，采用大胆的商业风格，4:5 竖版构图，背景为戏剧性的双色拼接：左侧为明亮饱和的红色，右侧为鲜艳的宝蓝色，中心处融合了放射状光束、动态线条、发光特效以及高能的新品发布灯光。顶部放置 2 个品牌 Logo 区域，中间由一个白色乘号分隔：左上方为雪人吉祥物 Logo，配有中文字样 {argument name=\"left brand name\" default=\"蜜雪冰城\"} 及较小的副标题 \"始于 1997 冰淇淋与茶\"；右上方为鹿头 Logo 及品牌字样 {argument name=\"right brand name\" default=\"luckin coffee\"}，配有较小的中文副标题 \"专业咖啡新鲜式\"。在 Logo 下方居中处，添加醒目的 3D 立体加粗中文标题，字体表面为白色，带有彩色边缘、厚重阴影及光泽浮雕感，内容为 {argument name=\"headline text\" default=\"蜜雪冰城 × 瑞幸咖啡\"}，左半部分以红色为基调，右半部分以蓝色为基调。下方添加第二行加粗中文标语，按品牌色拆分，内容为 \"冰爽甜蜜，咖啡加倍\"，两侧饰以短横线。下方放置一个红蓝渐变的圆角胶囊横幅，内含中文 \"双品牌联名主打・人气招牌同框\"。前景中心展示 2 款主打产品：左侧为 1 个华夫筒香草软冰淇淋，高耸的螺旋状，乳白色，带有微光，包裹在印有雪人吉祥物和中文品牌的亮红色蛋筒套中；右侧为 1 个透明塑料大杯冰拿铁或咖啡，可见冰块、焦糖色液体与牛奶交融的纹理、杯身冷凝水珠、透明杯盖，印有蓝色鹿头 Logo、\"luckin coffee\" 字样及小型中文副标题。杯子周围环绕动态咖啡溅射弧线及 3 颗飞溅的咖啡豆。前景底部周围添加散落的半透明冰块和白色牛奶溅射，以强调冰爽新鲜感。包含 2 个漫画风格的促销爆炸贴：左侧红色圆形贴纸写有 \"联名新品\"，右侧蓝色圆形贴纸写有 \"限时热卖\"。左下角添加 1 个可爱的 3D 雪人吉祥物角色，身披红色斗篷，手持迷你冰淇淋甜筒，面带微笑并眨眼。底部中心放置一个红蓝斜面丝带横幅，带有醒目的白色中文 \"今夏限定 立即尝鲜\"，右侧末端饰以黄色闪电图标。最底部边缘放置 3 个小型卖点项，由竖线分隔：雪花图标配 \"冰爽甜蜜\"，咖啡豆图标配 \"咖啡加倍\"，爱心图标配 \"双倍满足\"。采用高级电商海报渲染，超洁净产品精修，光泽高光，丰富的对比度，清晰的中文字体，深度感，反射效果，溅射特效，以及充满活力的夏季限定营销美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "中式联名夏季饮品海报：一张极具视觉冲击力的竖版中式冰淇淋与咖啡限时联名广告海报，适用于品牌营销、社交媒体广告及新品发布视觉。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "3d",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical, horizontal]。\n\nVisual style:\n[参考风格: 3d, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15265",
+      "15248",
+      "14882",
+      "15444",
+      "14567",
+      "14682"
+    ]
+  }
+}

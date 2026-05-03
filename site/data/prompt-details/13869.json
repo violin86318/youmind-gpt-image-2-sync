@@ -1,0 +1,36 @@
+{
+  "id": "13869",
+  "prompt": "最新モデルの画像生成ツールを使用して、\nこのちびキャライラストと立ち絵を使って本物のサイトページのようにキャラクター紹介ページ風イラストを作ってください。 （紹介ページとして使ってもおかしくないもの）\nギャルゲーのキャラクター紹介ページをイメージした高品質なもの。 顔の差分なども乗っている、CGイラストが存在する。ちびキャラが存在する。\n\n「ここに自己紹介」\n\n名前:（{argument name=\"名前\" default=\"ここに名前\"}） \nイメージカラー:（{argument name=\"イメージカラー\" default=\"ここに色\"}） \n身長:（ここに身長）cm \n体重:（ここに体重）kg\nキャッチコピー:“「{argument name=\"セリフ\" default=\"ここにセリフ\"}」”",
+  "translatedPrompt": "使用最新的图像生成工具模型，利用此 Q 版插图和立绘，创作一张看起来像真实网页的角色介绍风格插图。（看起来就像是游戏介绍页面一样。）这是一张受视觉小说角色介绍页面启发的优质图像。它应包含表情变体，并具有 CG 插画的品质。画面中包含 Q 版角色。\n\n“在此处输入自我介绍”\n\n姓名：({argument name=\"name\" default=\"在此处输入姓名\"})\n代表色：({argument name=\"color\" default=\"在此处输入颜色\"})\n身高：(输入身高) cm\n体重：(输入体重) kg\n口头禅：“{argument name=\"quote\" default=\"在此处输入台词\"}”",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "视觉小说角色资料页面：一个用于创建高质量游戏角色介绍页面的提示词模板，包含 UI 元素、属性数据以及基于参考图的角色变体。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13485",
+      "13644",
+      "13873",
+      "14307",
+      "14317",
+      "14338"
+    ]
+  }
+}

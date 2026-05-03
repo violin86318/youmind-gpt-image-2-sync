@@ -1,0 +1,52 @@
+{
+  "id": "14823",
+  "prompt": "Create an elegant high-fantasy character design sheet in a refined wuxia/xianxia style on a clean ivory background with a thin ornate vintage border. The layout is a split showcase with 5 visible panels: 1 large full-body panel on the left, 1 tall upper-right portrait close-up, and 3 stacked/lower detail panels on the right showing armor and weapon craftsmanship. The main subject is a handsome adult male swordsman, {argument name=\"character name\" default=\"original character\"}, with long flowing {argument name=\"hair color\" default=\"black\"} hair tied in a half-up topknot, the rest loose and wind-swept, wearing a small gold earring. His expression is calm, noble, and slightly aloof. He wears luxurious layered robes in {argument name=\"robe colors\" default=\"white, deep navy blue, and black\"}, with wide sleeves, flowing sashes, and highly detailed gold embroidery. Over the shoulders and torso are ornate dark blue and black armor elements with elaborate gold filigree and dragon-like decorative metalwork, plus a jade-green gemstone set into the waist ornament and weapon fittings. In the full-body panel he stands in a poised three-quarter stance holding a long straight jian sword diagonally downward, with the robe hems and ribbons flowing gracefully to suggest motion. The costume should include exactly 6 standout outfit elements: white inner robe, dark blue outer robe panels, black underlayer trousers, wide black-and-gold waist belt, sculpted gold shoulder armor, and black bracers with gold detailing. The right-side close-up portrait emphasizes the layered collar, glossy hair texture, shoulder ornament, and elegant fabric rendering. The 3 detail panels show exactly these focus areas: a gold dragon-like waist armor emblem, a jade-set sword guard or accessory ornament, and a close-up of the ornate gold sword hilt and guard with part of the blade. Overall aesthetic: ultra-detailed concept art, stylish and polished, crisp linework blended with painterly rendering, premium character-sheet presentation, soft neutral studio lighting, subtle shadows, luxurious textures, and a restrained palette of ivory, midnight blue, black, gold, and jade green.",
+  "translatedPrompt": "创作一张优雅的高奇幻角色设计图，采用精致的武侠/仙侠风格，背景为干净的象牙色，并带有纤细华丽的复古边框。布局为 5 个面板的分屏展示：左侧为 1 个大型全身面板，右上角为 1 个高挑的肖像特写，右侧下方为 3 个堆叠的细节面板，展示盔甲和武器工艺。主角是一位英俊的成年男性剑客，{argument name=\"character name\" default=\"原创角色\"}，留着飘逸的 {argument name=\"hair color\" default=\"黑色\"} 长发，半扎发髻，其余发丝随风飘动，佩戴一枚小金耳环。他神情沉稳、高贵且略带清冷。身着奢华的层叠长袍，配色为 {argument name=\"robe colors\" default=\"白色、深海军蓝和黑色\"}，袖口宽大，腰带飘逸，并饰有极其精细的金色刺绣。肩部和躯干覆盖着华丽的深蓝色与黑色盔甲组件，配有精致的金色花丝和龙形装饰金属工艺，腰部饰品和武器配件上镶嵌着翠绿色的宝石。在全身面板中，他以优雅的三分之二侧身站立，斜持一把长直剑，长袍下摆和丝带优雅地飘动，营造出动感。服装应包含 6 个突出的元素：白色内袍、深蓝色外袍、黑色内衬长裤、宽大的黑金腰带、雕刻精美的金色肩甲以及带有金色细节的黑色护腕。右侧的肖像特写强调了层叠的领口、光泽的发质、肩部装饰以及优雅的织物渲染。3 个细节面板分别展示以下重点区域：龙形金质腰部徽章、镶玉剑格或配饰，以及精美的金质剑柄和剑格特写（包含部分剑身）。整体美学：超精细概念艺术，时尚且精致，清晰的线条与绘画渲染相结合，高级角色设计图展示，柔和的中性摄影棚灯光，微妙的阴影，奢华的质感，以及象牙白、午夜蓝、黑色、金色和翠绿色的克制配色。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "优雅武侠剑客设计图：生成一张精致的奇幻角色参考风格插画，展示一位高贵的男性剑客，包含全身视图以及服装和武器的细节特写，非常适合概念艺术展示。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "full-body",
+        "layered"
+      ],
+      "style": [
+        "vintage",
+        "fantasy",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, full-body, layered]。\n\nVisual style:\n[参考风格: vintage, fantasy, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15340",
+      "15090",
+      "15805",
+      "14413",
+      "15732",
+      "15375"
+    ]
+  }
+}

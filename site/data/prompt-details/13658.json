@@ -1,0 +1,45 @@
+{
+  "id": "13658",
+  "prompt": "{\n  \"type\": \"web browser screenshot\",\n  \"interface\": \"Google search results page\",\n  \"header\": {\n    \"logo\": \"Google\",\n    \"search_bar\": {\n      \"query\": \"{argument name=\\\"search query\\\" default=\\\"openai gpt-image 2 image generator\\\"}\",\n      \"icons\": [\"clear\", \"microphone\", \"camera\", \"search\"]\n    },\n    \"right_actions\": [\"settings gear\", \"apps grid\", \"blue Sign in button\"]\n  },\n  \"navigation_tabs\": [\"All\", \"Images\", \"News\", \"Videos\", \"Shopping\", \"Short videos\", \"Forums\", \"Web\", \"More\", \"Tools\"],\n  \"results_stats\": \"About 18,200,000 results (0.32 seconds)\",\n  \"search_results\": {\n    \"count\": 3,\n    \"items\": [\n      {\n        \"source\": \"OpenAI\",\n        \"url\": \"https://openai.com > index > gpt-image-2\",\n        \"title\": \"{argument name=\\\"result 1 title\\\" default=\\\"GPT-Image-2 | OpenAI\\\"}\",\n        \"snippet\": \"{argument name=\\\"date\\\" default=\\\"Apr 1, 2025\\\"} — GPT-Image-2 is our new image generation model that delivers state-of-the-art image quality, finer details, better text rendering, and more precise instruction following.\",\n        \"sitelinks\": [\"Research\", \"Safety\", \"Try in ChatGPT\"]\n      },\n      {\n        \"source\": \"OpenAI Platform\",\n        \"url\": \"https://platform.openai.com > docs > gpt-image-2\",\n        \"title\": \"GPT-Image-2 - OpenAI API\",\n        \"snippet\": \"Learn about GPT-Image-2, OpenAI's most advanced image generation model, available via the Images API. Create high-quality images with improved realism, text rendering, and instruction ...\",\n        \"sitelinks\": [\"Quickstart\", \"Edit images\", \"Example code\"]\n      },\n      {\n        \"source\": \"The Verge\",\n        \"url\": \"https://www.theverge.com > openai-gpt-image-2-launch\",\n        \"title\": \"OpenAI's GPT-Image-2 brings major improvements to AI ...\",\n        \"snippet\": \"Apr 1, 2025 — OpenAI has officially launched GPT-Image-2, its next-generation image generator that offers better photorealism, improved text rendering, and more accurate adherence to user ...\"\n      }\n    ]\n  },\n  \"people_also_ask\": {\n    \"title\": \"People also ask\",\n    \"count\": 4,\n    \"questions\": [\n      \"What is GPT-Image-2?\",\n      \"How is GPT-Image-2 different from previous models?\",\n      \"Can I try GPT-Image-2 in ChatGPT?\",\n      \"Is GPT-Image-2 available through the API?\"\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"网页浏览器截图\",\n  \"interface\": \"Google 搜索结果页面\",\n  \"header\": {\n    \"logo\": \"Google\",\n    \"search_bar\": {\n      \"query\": \"{argument name=\\\"search query\\\" default=\\\"openai gpt-image 2 image generator\\\"}\",\n      \"icons\": [\"清除\", \"麦克风\", \"相机\", \"搜索\"]\n    },\n    \"right_actions\": [\"设置齿轮\", \"应用网格\", \"蓝色登录按钮\"]\n  },\n  \"navigation_tabs\": [\"全部\", \"图片\", \"新闻\", \"视频\", \"购物\", \"短视频\", \"论坛\", \"网页\", \"更多\", \"工具\"],\n  \"results_stats\": \"找到约 18,200,000 条结果（用时 0.32 秒）\",\n  \"search_results\": {\n    \"count\": 3,\n    \"items\": [\n      {\n        \"source\": \"OpenAI\",\n        \"url\": \"https://openai.com > index > gpt-image-2\",\n        \"title\": \"{argument name=\\\"result 1 title\\\" default=\\\"GPT-Image-2 | OpenAI\\\"}\",\n        \"snippet\": \"{argument name=\\\"date\\\" default=\\\"2025 年 4 月 1 日\\\"} — GPT-Image-2 是我们全新的图像生成模型，提供顶尖的图像质量、更细腻的细节、更好的文本渲染以及更精准的指令遵循能力。\",\n        \"sitelinks\": [\"研究\", \"安全\", \"在 ChatGPT 中尝试\"]\n      },\n      {\n        \"source\": \"OpenAI Platform\",\n        \"url\": \"https://platform.openai.com > docs > gpt-image-2\",\n        \"title\": \"GPT-Image-2 - OpenAI API\",\n        \"snippet\": \"了解 OpenAI 最先进的图像生成模型 GPT-Image-2，可通过 Images API 使用。创建具有更高真实感、文本渲染效果和指令遵循能力的高质量图像……\",\n        \"sitelinks\": [\"快速入门\", \"编辑图像\", \"示例代码\"]\n      },\n      {\n        \"source\": \"The Verge\",\n        \"url\": \"https://www.theverge.com > openai-gpt-image-2-launch\",\n        \"title\": \"OpenAI 的 GPT-Image-2 为 AI 带来了重大改进……\",\n        \"snippet\": \"2025 年 4 月 1 日 — OpenAI 正式发布了 GPT-Image-2，这是其下一代图像生成器，提供更好的照片级真实感、改进的文本渲染以及更准确的用户指令遵循能力……\"\n      }\n    ]\n  },\n  \"people_also_ask\": {\n    \"title\": \"相关问题\",\n    \"count\": 4,\n    \"questions\": [\n      \"什么是 GPT-Image-2？\",\n      \"GPT-Image-2 与之前的模型有何不同？\",\n      \"我可以在 ChatGPT 中尝试 GPT-Image-2 吗？\",\n      \"GPT-Image-2 是否可以通过 API 使用？\"\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Google 搜索结果模拟页面：生成高度详细、逼真的 Google 搜索结果页面，支持自定义查询、搜索结果及 UI 元素。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "grid"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "App Store 截图、产品概念、移动工具界面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14740",
+      "14892",
+      "13628",
+      "14540",
+      "14661",
+      "14087"
+    ]
+  }
+}

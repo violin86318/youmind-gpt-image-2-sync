@@ -1,0 +1,47 @@
+{
+  "id": "13734",
+  "prompt": "A {argument name=\"visual style\" default=\"photorealistic modern video game cutscene\"} of a young Latina woman and a Caucasian man conversing on a {argument name=\"setting\" default=\"tropical city balcony overlooking palm trees and a hotel pool\"}. The woman faces the camera, wearing a messy high ponytail, hoop earrings, and a white one-shoulder crop top, looking serious. The man is seen from an over-the-shoulder profile on the right, wearing a dark floral shirt. The background features a pink neon 'VICE HOTEL' sign. At the bottom center, video game subtitles show the speaker name {argument name=\"speaker name\" default=\"LUCIA\"} in pink, above the white dialogue {argument name=\"dialogue text\" default=\"You're not listening. I'm done putting my life on hold.\"}. Below is a player choice with a white circle and pink underlined text reading {argument name=\"response option\" default=\"I know. I'm just saying, maybe it ain't gonna be so bad.\"}.",
+  "translatedPrompt": "一张采用现代开放世界游戏超写实 3D 图形风格的电影级电子游戏过场动画截图。两名角色正在 {argument name=\"setting\" default=\"阳光明媚的热带城市阳台\"} 上进行严肃的对话。左侧是一位年轻的拉丁裔女性，留着棕色凌乱高马尾，身穿白色单肩罗纹短上衣，佩戴圆环耳环和细金项链，正专注地看着对方。右侧是从肩后侧面角度拍摄的一名白人男性，留着棕色短发，身穿深色热带叶片图案短袖衬衫，佩戴银色项链。背景中可以看到棕榈树、下方的游泳池、高层建筑以及一个写着 \"{argument name=\"location sign\" default=\"VICE HOTEL\"}\" 的粉色霓虹灯牌。光线明亮且温暖，呈现出午后阳光的效果。底部中央设有电子游戏字幕 UI。说话者的名字 \"{argument name=\"female character name\" default=\"LUCIA\"}\" 以粉色文字显示在白色对话文本上方：\"{argument name=\"female dialogue\" default=\"你根本没在听。我受够了为了你而搁置我的生活。\"}\"。下方是一个带有白点和粉色下划线的可选对话选项，内容为：\"{argument name=\"male dialogue choice\" default=\"我知道。我只是说，也许情况没那么糟。\"}\"。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影级电子游戏对话过场动画：生成一张高度逼真的电子游戏过场动画截图，支持自定义角色、场景和字幕对话。",
+      "subject": "人物",
+      "scene": "空间/场景",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "3d"
+      ],
+      "lightingCamera": [
+        "neon",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "空间概念、建筑场景、游戏场景、产品场景盒子",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 空间/场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, 3d]。\n\nLighting and camera:\n[参考光线镜头: neon, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14686",
+      "13890",
+      "15518",
+      "13614",
+      "13669",
+      "13690"
+    ]
+  }
+}

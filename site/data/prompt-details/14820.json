@@ -1,0 +1,48 @@
+{
+  "id": "14820",
+  "prompt": "A dreamy vintage-style photograph of the Bosphorus in {argument name=\"city\" default=\"Istanbul\"} at dusk, shot from water level in a vertical composition. The enormous suspension bridge spans the frame from upper left to upper right, with a tall bridge tower on the far left and delicate strings of warm lights hanging down from the cables, plus a line of tiny orange lights tracing the roadway. Below the bridge, calm dark water fills the foreground. Place 3 visible boats total: 1 medium white passenger ferry centered in the middle distance facing the viewer, 1 long low white ferry farther back near the right side under the bridge, and 1 small boat at the far right edge. On the left shoreline, show an illuminated waterfront with warm yellow lights, a few palm trees, and part of an old building at the extreme left edge. Near the center-left background beneath the bridge, include a pale waterside mosque with 1 dome and 2 slender minarets. Behind everything, add a hazy hillside dense with buildings fading into the distance. Use a nostalgic viral Instagram-filter look: heavy warm sepia and muted olive tones, faded contrast, soft focus, visible film grain, subtle vignette, slight light leaks, low clarity, and an aged analog print texture. The atmosphere should feel moody, romantic, cinematic, and softly blurred, like an old travel memory.",
+  "translatedPrompt": "一张梦幻般的复古风格照片，展示了黄昏时分的 {argument name=\"city\" default=\"伊斯坦布尔\"} 博斯普鲁斯海峡，采用水面视角的竖构图。巨大的悬索桥从左上角横跨至右上角，最左侧矗立着高大的桥塔，缆绳上悬挂着精致的暖色灯串，路面上有一排细小的橙色灯光。桥下是平静深邃的水面，占据了前景。画面中共有 3 艘可见的船只：中间远景处有一艘面向观众的中型白色客运渡轮，右侧桥下远方有一艘长而低矮的白色渡轮，最右侧边缘有一艘小船。左侧岸边展示了灯火通明的滨水区，点缀着暖黄色灯光、几棵棕榈树以及最左侧边缘的一座古老建筑局部。在桥下中左侧的背景中，包含一座带有 1 个圆顶和 2 座细长宣礼塔的浅色水滨清真寺。在所有景物后方，添加一片朦胧的山坡，上面密集的建筑向远处渐隐。采用流行的怀旧 Instagram 滤镜风格：浓郁的暖棕褐色和柔和的橄榄色调、褪色的对比度、柔焦效果、可见的胶片颗粒感、微妙的暗角、轻微的漏光、低清晰度以及陈旧的模拟照片质感。整体氛围应充满情绪感、浪漫气息、电影质感，并带有柔和的模糊感，宛如一段古老的旅行记忆。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古博斯普鲁斯大桥渡轮场景：此提示词可生成一张带有博斯普鲁斯大桥、渡轮以及怀旧复古 Instagram 滤镜质感的伊斯坦布尔水岸场景，适用于旅游或氛围感编辑类图像。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "vintage"
+      ],
+      "lightingCamera": [
+        "film grain"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: cinematic, vintage]。\n\nLighting and camera:\n[参考光线镜头: film grain]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14819",
+      "15602",
+      "15705",
+      "14667",
+      "15781",
+      "14674"
+    ]
+  }
+}

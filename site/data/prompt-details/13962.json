@@ -1,0 +1,45 @@
+{
+  "id": "13962",
+  "prompt": "{\n  \"type\": \"e-commerce live stream interface mockup\",\n  \"subject\": {\n    \"description\": \"young Asian woman, long wavy dark hair, wearing a white short-sleeve polo shirt and white pleated tennis skirt, holding a white tennis racket over her right shoulder, looking directly at the camera with a soft expression\",\n    \"background\": \"soft light grey studio background\"\n  },\n  \"layout\": {\n    \"header\": {\n      \"left\": {\n        \"avatar\": \"female portrait\",\n        \"name\": \"{argument name=\\\"host name\\\" default=\\\"小鹿运动优选\\\"}\",\n        \"stats\": \"12.8万本场点赞\",\n        \"button\": \"关注\",\n        \"badge\": \"带货榜第3名\"\n      },\n      \"right\": {\n        \"viewer_avatars_count\": 3,\n        \"viewer_count\": \"1.2万\",\n        \"close_icon\": \"X\"\n      }\n    },\n    \"floating_elements\": [\n      {\n        \"position\": \"top right\",\n        \"type\": \"coupon card\",\n        \"title\": \"直播间专属券\",\n        \"details\": \"¥20 满199可用\",\n        \"button\": \"领取\"\n      },\n      {\n        \"position\": \"mid left\",\n        \"type\": \"campaign text\",\n        \"subtitle\": \"夏日运动季\",\n        \"headline\": \"{argument name=\\\"main headline\\\" default=\\\"活力开场\\\"}\",\n        \"bullet_points_count\": 3,\n        \"bullet_points\": [\"透气速干\", \"弹力舒适\", \"运动百搭\"]\n      },\n      {\n        \"position\": \"mid right\",\n        \"type\": \"product card active\",\n        \"badge\": \"正在讲解\",\n        \"image\": \"white polo and skirt flat lay\",\n        \"title\": \"{argument name=\\\"product name\\\" default=\\\"运动POLO衫套装\\\"}\",\n        \"details\": \"白色·M码\",\n        \"price\": \"{argument name=\\\"price\\\" default=\\\"¥129\\\"}\",\n        \"button\": \"去抢购\"\n      },\n      {\n        \"position\": \"bottom right\",\n        \"type\": \"product card secondary\",\n        \"badge\": \"热卖 x 156\",\n        \"image\": \"model wearing the outfit\",\n        \"title\": \"运动POLO衫套装女 透气速干 显瘦百搭\",\n        \"tags\": [\"7天无理由退货\", \"运费险\"],\n        \"price\": \"¥129\",\n        \"button\": \"抢\"\n      }\n    ],\n    \"chat_overlay\": {\n      \"position\": \"bottom left\",\n      \"message_count\": 5,\n      \"messages\": [\n        \"小鹿姐姐: 欢迎新朋友们来到直播间~\",\n        \"运动达人: {argument name=\\\"chat message\\\" default=\\\"这套好看!\\\"}\",\n        \"卡卡西: 布料透气吗?\",\n        \"小鹿运动优选: 我们这个面料是冰丝速干的，运动出汗也不闷热哦~\",\n        \"用户_6789: 已拍!\"\n      ],\n      \"purchase_alert\": \"用户_6789 等3人 正在去购买\"\n    },\n    \"footer\": {\n      \"input_bar\": \"说点什么...\",\n      \"icons_count\": 5,\n      \"icons\": [\"smile\", \"shopping cart\", \"heart\", \"share\", \"more\"]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"电商直播界面设计稿\",\n  \"subject\": {\n    \"description\": \"年轻亚裔女性，留着波浪长卷发，身穿白色短袖 Polo 衫和白色百褶网球裙，右肩扛着一支白色网球拍，面带柔和表情直视镜头\",\n    \"background\": \"柔和的浅灰色摄影棚背景\"\n  },\n  \"layout\": {\n    \"header\": {\n      \"left\": {\n        \"avatar\": \"女性头像\",\n        \"name\": \"{argument name=\\\"host name\\\" default=\\\"小鹿运动优选\\\"}\",\n        \"stats\": \"12.8 万本场点赞\",\n        \"button\": \"关注\",\n        \"badge\": \"带货榜第 3 名\"\n      },\n      \"right\": {\n        \"viewer_avatars_count\": 3,\n        \"viewer_count\": \"1.2 万\",\n        \"close_icon\": \"X\"\n      }\n    },\n    \"floating_elements\": [\n      {\n        \"position\": \"右上角\",\n        \"type\": \"优惠券卡片\",\n        \"title\": \"直播间专属券\",\n        \"details\": \"¥20 满 199 可用\",\n        \"button\": \"领取\"\n      },\n      {\n        \"position\": \"中左侧\",\n        \"type\": \"活动文案\",\n        \"subtitle\": \"夏日运动季\",\n        \"headline\": \"{argument name=\\\"main headline\\\" default=\\\"活力开场\\\"}\",\n        \"bullet_points_count\": 3,\n        \"bullet_points\": [\"透气速干\", \"弹力舒适\", \"运动百搭\"]\n      },\n      {\n        \"position\": \"中右侧\",\n        \"type\": \"当前讲解商品卡片\",\n        \"badge\": \"正在讲解\",\n        \"image\": \"白色 Polo 衫和裙子平铺图\",\n        \"title\": \"{argument name=\\\"product name\\\" default=\\\"运动 POLO 衫套装\\\"}\",\n        \"details\": \"白色·M 码\",\n        \"price\": \"{argument name=\\\"price\\\" default=\\\"¥129\\\"}\",\n        \"button\": \"去抢购\"\n      },\n      {\n        \"position\": \"右下角\",\n        \"type\": \"次要商品卡片\",\n        \"badge\": \"热卖 x 156\",\n        \"image\": \"模特穿着该套装\",\n        \"title\": \"运动 POLO 衫套装女 透气速干 显瘦百搭\",\n        \"tags\": [\"7 天无理由退货\", \"运费险\"],\n        \"price\": \"¥129\",\n        \"button\": \"抢\"\n      }\n    ],\n    \"chat_overlay\": {\n      \"position\": \"左下角\",\n      \"message_count\": 5,\n      \"messages\": [\n        \"小鹿姐姐: 欢迎新朋友们来到直播间~\",\n        \"运动达人: {argument name=\\\"chat message\\\" default=\\\"这套好看!\\\"}\",\n        \"卡卡西: 布料透气吗?\",\n        \"小鹿运动优选: 我们这个面料是冰丝速干的，运动出汗也不闷热哦~\",\n        \"用户_6789: 已拍!\"\n      ],\n      \"purchase_alert\": \"用户_6789 等 3 人 正在去购买\"\n    },\n    \"footer\": {\n      \"input_bar\": \"说点什么...\",\n      \"icons_count\": 5,\n      \"icons\": [\"smile\", \"shopping cart\", \"heart\", \"share\", \"more\"]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电商直播间 UI 设计稿：生成一个逼真的移动端电商直播界面，包含模特、互动商品卡片以及滚动聊天浮层。",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "studio"
+      ],
+      "lightingCamera": [
+        "soft light",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: studio]。\n\nLighting and camera:\n[参考光线镜头: soft light, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13772",
+      "14884",
+      "13836",
+      "14092",
+      "15111",
+      "13523"
+    ]
+  }
+}

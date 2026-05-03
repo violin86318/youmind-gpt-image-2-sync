@@ -1,0 +1,36 @@
+{
+  "id": "15543",
+  "prompt": "You are a premium graphic designer with a human feel. Transform this boring poster and make it a bold and attractive poster for an {argument name=\"event\" default=\"upcoming soccer event\"}.",
+  "translatedPrompt": "你是一位具有人文气息的高级图形设计师。请对这张平淡的海报进行改造，使其成为一张针对 {argument name=\"event\" default=\"即将举行的足球赛事\"} 的大胆且极具吸引力的海报。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "足球赛事海报重新设计：一个图形设计提示词，指示 AI 扮演高级设计师，将现有海报转换为大胆的新版本。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体",
+        "风格"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14139",
+      "13804",
+      "13609",
+      "13834",
+      "14423",
+      "14681"
+    ]
+  }
+}

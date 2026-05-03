@@ -1,0 +1,43 @@
+{
+  "id": "13674",
+  "prompt": "{\n  \"type\": \"comic book page\",\n  \"style\": \"modern western comic art, highly detailed, dynamic lighting, night scene, purple and black color palette\",\n  \"page_layout\": {\n    \"top_section\": {\n      \"type\": \"splash panel\",\n      \"description\": \"Female cat burglar in black latex suit and purple goggles crouching on a gargoyle overlooking a city at night.\",\n      \"text_elements\": [\n        {\"type\": \"location box\", \"text\": \"{argument name=\\\"city name\\\" default=\\\"GOTHAM CITY\\\"}. RIGHT NOW.\"},\n        {\"type\": \"main title\", \"text\": \"{argument name=\\\"character name\\\" default=\\\"CATWOMAN\\\"}\"},\n        {\"type\": \"subtitle\", \"text\": \"{argument name=\\\"subtitle text\\\" default=\\\"The Game has NINE LIVES\\\"}\"},\n        {\"type\": \"credits\", \"text\": \"Writer: TINI HOWARD, Artist: NICO LEON, Colorist: ARIF PRIANTO, Letterer: TOM NAPOLITANO, Cover: DERRICK CHEW\"},\n        {\"type\": \"narration boxes\", \"count\": 2, \"text\": [\"THEY SAY CURIOSITY KILLED THE CAT.\", \"THEY'VE NEVER MET THIS CAT.\"]},\n        {\"type\": \"neon sign\", \"text\": \"{argument name=\\\"heist target\\\" default=\\\"GOTHAM CITY BANK\\\"}\"}\n      ],\n      \"inset_panel\": {\n        \"description\": \"Inside a bank lobby, a security guard talking.\",\n        \"text_elements\": [\n          {\"type\": \"narration box\", \"text\": \"{argument name=\\\"heist target\\\" default=\\\"GOTHAM CITY BANK\\\"}. FUNNY HOW MANY CATS THINK THEY OWN THE PLACE.\"},\n          {\"type\": \"speech bubbles\", \"count\": 2, \"text\": [\"EVERYTHING SECURE.\", \"THOSE ALARMS COULD WAKE THE DEAD.\"]}\n        ]\n      }\n    },\n    \"middle_row\": {\n      \"panels\": [\n        {\n          \"description\": \"Character swinging on a whip through the city.\",\n          \"text_elements\": [{\"type\": \"narration box\", \"text\": \"GOOD THING I'M NOT DEAD.\"}]\n        },\n        {\n          \"description\": \"Close-up of gloved hand holding a device with a screen.\",\n          \"text_elements\": [\n            {\"type\": \"narration box\", \"text\": \"TIMING. RHYTHM. A LITTLE MUSIC.\"},\n            {\"type\": \"device screen\", \"text\": \"DISRUPTER\"},\n            {\"type\": \"sound effect\", \"text\": \"BEEP BEEP BEEP\"}\n          ]\n        },\n        {\n          \"description\": \"Character acrobatically dodging red laser tripwires.\",\n          \"text_elements\": [{\"type\": \"narration box\", \"text\": \"EVERY ALARM HAS A SONG.\"}]\n        }\n      ]\n    },\n    \"bottom_row\": {\n      \"panels\": [\n        {\n          \"description\": \"Character opening a chest full of glowing jewels and pearls.\",\n          \"text_elements\": [{\"type\": \"narration box\", \"text\": \"THE REAL PRIZE ISN'T WHAT YOU STEAL.\"}]\n        },\n        {\n          \"description\": \"Extreme close-up of character's face, reflections of people in her purple goggles.\",\n          \"text_elements\": [{\"type\": \"narration box\", \"text\": \"IT'S WHO YOU DO IT FOR.\"}]\n        },\n        {\n          \"description\": \"Character standing on a rooftop ledge holding a whip, looking at the full moon.\",\n          \"text_elements\": [\n            {\"type\": \"narration box\", \"text\": \"NINE LIVES. ENDLESS GAMES. LET'S PLAY.\"},\n            {\"type\": \"footer text\", \"text\": \"{argument name=\\\"ending text\\\" default=\\\"TO BE CONTINUED...\\\"}\"}\n          ]\n        }\n      ]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"漫画页面\",\n  \"style\": \"现代美式漫画风格，动态光影，细节丰富的背景，紫色与黑色调配色\",\n  \"character\": \"{argument name=\\\"character description\\\" default=\\\"身穿黑色乳胶紧身衣、佩戴猫耳头套和紫色护目镜的女性猫女大盗\\\"}\",\n  \"layout\": {\n    \"structure\": \"3 层布局，7 个独立分镜\",\n    \"panels\": [\n      {\n        \"position\": \"顶层，全宽\",\n        \"scene\": \"角色蹲在石像鬼雕像上，俯瞰广阔的夜间城市景观\",\n        \"text_elements\": [\n          {\"type\": \"地点框\", \"text\": \"{argument name=\\\"city name\\\" default=\\\"哥谭市\\\"}。此时此刻。\"},\n          {\"type\": \"主标题\", \"text\": \"{argument name=\\\"main title\\\" default=\\\"猫女\\\"}\"},\n          {\"type\": \"副标题\", \"text\": \"{argument name=\\\"subtitle\\\" default=\\\"游戏有九条命\\\"}\"},\n          {\"type\": \"制作人员\", \"text\": \"编剧：TINI HOWARD，画师：NICO LEON，上色：ARIF PRIANTO，字体：TOM NAPOLITANO，封面：DERRICK CHEW\"},\n          {\"type\": \"旁白框\", \"count\": 2, \"text\": [\"人们常说好奇心害死猫。\", \"但他们从未见过这只猫。\"]}\n        ],\n        \"inset_panel\": {\n          \"scene\": \"银行内部，有一名保安\",\n          \"text_elements\": [\n            {\"type\": \"旁白框\", \"text\": \"{argument name=\\\"city name\\\" default=\\\"哥谭市\\\"} 银行。真有趣，有多少只猫觉得自己是这里的主人。\"},\n            {\"type\": \"对话气泡\", \"count\": 2, \"text\": [\"一切正常。\", \"这些警报声足以吵醒死人。\"]}\n          ]\n        }\n      },\n      {\n        \"position\": \"中层，左侧\",\n        \"scene\": \"角色挥舞长鞭在夜空中摆荡\",\n        \"text_elements\": [{\"type\": \"旁白框\", \"text\": \"幸好我还没死。\"}]\n      },\n      {\n        \"position\": \"中层，中央\",\n        \"scene\": \"戴着手套的手拿着黑客设备的特写\",\n        \"text_elements\": [\n          {\"type\": \"旁白框\", \"text\": \"时机。节奏。一点音乐。\"},\n          {\"type\": \"设备屏幕\", \"text\": \"干扰器\"},\n          {\"type\": \"音效\", \"text\": \"哔 哔 哔\"}\n        ]\n      },\n      {\n        \"position\": \"中层，右侧\",\n        \"scene\": \"角色以杂技动作躲避红色激光网\",\n        \"text_elements\": [{\"type\": \"旁白框\", \"text\": \"每个警报都有它的旋律。\"}]\n      },\n      {\n        \"position\": \"底层，左侧\",\n        \"scene\": \"角色打开一个装满珠宝和珍珠的木箱\",\n        \"text_elements\": [{\"type\": \"旁白框\", \"text\": \"真正的奖赏不在于你偷到了什么。\"}]\n      },\n      {\n        \"position\": \"底层，中央\",\n        \"scene\": \"角色面部微笑的极度特写，护目镜反射出两个人影\",\n        \"text_elements\": [{\"type\": \"旁白框\", \"text\": \"而在于你为谁而做。\"}]\n      },\n      {\n        \"position\": \"底层，右侧\",\n        \"scene\": \"角色站在屋顶边缘，手持长鞭，凝视着满月\",\n        \"text_elements\": [\n          {\"type\": \"旁白框\", \"text\": \"九条命。无尽的游戏。来玩吧。\"},\n          {\"type\": \"页脚\", \"text\": \"{argument name=\\\"ending text\\\" default=\\\"未完待续...\\\"} 附带紫色猫爪印图标\"}\n        ]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "漫画页面：猫女大盗：生成一页完整的 7 分镜漫画，主角为一名女性猫女大盗，包含动态动作场景、对话及标题制作人员名单。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14857",
+      "15806",
+      "15094",
+      "15453",
+      "13916",
+      "15315"
+    ]
+  }
+}

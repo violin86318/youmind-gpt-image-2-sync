@@ -1,0 +1,50 @@
+{
+  "id": "15073",
+  "prompt": "Create a cinematic fantasy MMO raid boss loading-screen-style illustration with a full custom game UI overlay. The scene is set at dusk in front of the glass cube Apple Store, with the glowing white Apple logo centered on the building facade. In the middle of the plaza stands a giant raid boss version of {argument name=\"boss name\" default=\"Tim Cook\"}, labeled as \"The Architect,\" wearing a fitted black turtleneck, dark pants, and sneakers, holding a glowing smartphone in one hand and posing calmly with the other hand open. His face is intentionally blurred or anonymized. The overall tone is epic, satirical, and high-production, like a World of Warcraft raid encounter screen mixed with corporate tech parody. Around him, exactly 20 fantasy raiders in a semicircle battle formation face inward toward the boss, with varied races and silhouettes including armored warriors, rogues, mages, shamans, hunters, and orc-like and human-like characters. Several are casting bright spells in orange fire, blue lightning, green energy, and purple void magic. Include exactly 3 small robotic adds near the boss, each labeled \"Supplier Add,\" with squat industrial bodies and Apple logos on their fronts. Also include 2 active encounter mechanic bubbles: one blue spherical shield labeled \"Margin Shield\" on the right side of the boss, and one purple circular dome labeled \"Closed System\" farther right with a humanoid enemy trapped inside. Build the image as a complete raid UI composition. Top left: a large expansion-style title reading \"SIEGE OF THE INFINITE LOOP\" with subtitle \"20-MAN HORDE RAID.\" Far left: a vertical \"RAID FRAMES\" panel listing exactly 20 player names in numbered rows from 1 to 20 with colored health bars. Top center: a boss portrait frame with the boss name {argument name=\"boss name\" default=\"Tim Cook\"}, subtitle \"The Architect,\" and a red health bar at 100%. Top right: a large encounter guide panel titled \"ENCOUNTER: {argument name=\"boss name\" default=\"TIM COOK\"} – \\\"THE ARCHITECT\\\"\" containing exactly 3 phases. Phase 1 title: \"SUPPLY CHAIN DOMINANCE (100% – 70%)\" with 3 abilities: \"Logistics Surge – Summons waves of Supplier Adds.\", \"Margin Shield – Reduces incoming damage by 40% for 10 sec.\", and \"Quarterly Pressure – Stacking debuff, explodes if not dispelled.\" Phase 2 title: \"ECOSYSTEM LOCK-IN (70% – 30%)\" with 3 abilities: \"Closed System – Isolates 3 players, puzzle to return.\", \"Subscription Drain – Raid-wide damage over time.\", and \"Device Sync – Stack in correct formations to avoid spikes.\" Phase 3 title: \"ONE MORE THING (30% – 0%)\" with 3 abilities: \"Surprise Launch – Massive AoE burst every 20 sec.\", \"Reality Distortion Field – Reverses controls briefly.\", and \"Enrage: Market Collapse – Boss enrages at 3:00.\" Bottom right: a \"POTENTIAL LOOT\" panel listing exactly 4 items with rarity-colored text: \"Executive Cloak of Efficiency (Epic)\", \"Keynote Blade (Epic)\", \"Ecosystem Ring (Epic)\", and \"Investor's Favor (Bonus – Hard Mode).\" Below that, add a small red-black badge reading \"HARD MODE\" and the line \"Activate \\\"Investor Call\\\" during the fight to\" with the remaining text cut off or obscured. Bottom left: a \"CHAT\" box with 4 lines, including taunting boss dialogue and a player response, such as \"{argument name=\"boss quote\" default=\"Tim Cook yells: Innovation. Discipline. Excellence. That is how we win.\"}\", \"Tim Cook yells: Our ecosystem is unbreakable.\", \"Tim Cook yells: One more thing...\", and \"Lok'tarbrok: Lok'tar ogar!\" Along the bottom center: a fantasy action bar with exactly 12 ability icons in ornate slots, some numbered, some showing cooldown text including \"2m\" and \"1m\". Use dramatic volumetric lighting, glossy reflections on the wet plaza, realistic environment rendering, highly detailed fantasy characters, exaggerated spell effects, dark vignette, sharp UI typography, and polished AAA game key art composition.",
+  "translatedPrompt": "创作一张电影级奇幻 MMO 团本 Boss 加载界面风格的插图，并带有完整的自定义游戏 UI 叠加层。场景设定在黄昏时分，背景是玻璃立方体 Apple Store，建筑正面中央有发光的白色 Apple Logo。广场中央站着一个巨大的团本 Boss 版本的 {argument name=\"boss name\" default=\"Tim Cook\"}，标记为“建筑师 (The Architect)”，身穿合身的黑色高领毛衣、深色长裤和运动鞋，一只手拿着发光的智能手机，另一只手自然张开，姿态从容。他的面部经过模糊或匿名化处理。整体基调史诗、讽刺且具有高制作水准，如同《魔兽世界》团本遭遇战界面与企业科技恶搞的结合。在他周围，20 名奇幻团本玩家组成半圆战斗阵型面向 Boss，包括身穿盔甲的战士、潜行者、法师、萨满、猎人以及兽人族和人类等多种种族和剪影。其中几位正在施放明亮的法术，包括橙色火焰、蓝色闪电、绿色能量和紫色虚空魔法。在 Boss 附近加入 3 个小型机器人小怪，每个都标记为“供应商小怪 (Supplier Add)”，拥有矮胖的工业风躯干，正面印有 Apple Logo。此外，加入 2 个活跃的战斗机制气泡：Boss 右侧有一个标记为“利润护盾 (Margin Shield)”的蓝色球形护盾，更右侧有一个标记为“封闭系统 (Closed System)”的紫色圆形穹顶，内部困着一名人形敌人。将图像构建为完整的团本 UI 构图。左上角：一个大型扩展包风格的标题，写着“SIEGE OF THE INFINITE LOOP”，副标题为“20-MAN HORDE RAID”。最左侧：一个垂直的“团队框架 (RAID FRAMES)”面板，列出 1 到 20 号共 20 个玩家姓名，并带有彩色生命值条。顶部中央：一个 Boss 头像框，显示 Boss 名称 {argument name=\"boss name\" default=\"Tim Cook\"}、副标题“建筑师”以及 100% 的红色生命值条。右上角：一个大型遭遇战指南面板，标题为“遭遇战：{argument name=\"boss name\" default=\"TIM COOK\"} – \\\"建筑师\\\"”，包含 3 个阶段。第一阶段标题：“供应链主导 (100% – 70%)”，包含 3 个技能：“物流激增 (Logistics Surge) – 召唤一波供应商小怪。”、“利润护盾 (Margin Shield) – 10 秒内减少 40% 所受伤害。”以及“季度压力 (Quarterly Pressure) – 可叠加的减益效果，若未驱散则会爆炸。”第二阶段标题：“生态系统锁定 (70% – 30%)”，包含 3 个技能：“封闭系统 (Closed System) – 隔离 3 名玩家，需解谜才能返回。”、“订阅流失 (Subscription Drain) – 全团持续伤害。”以及“设备同步 (Device Sync) – 在正确阵型中集合以避免尖刺伤害。”第三阶段标题：“还有一件事 (ONE MORE THING) (30% – 0%)”，包含 3 个技能：“惊喜发布 (Surprise Launch) – 每 20 秒造成大规模范围爆发伤害。”、“现实扭曲力场 (Reality Distortion Field) – 短暂反转控制。”以及“狂暴：市场崩溃 (Enrage: Market Collapse) – Boss 在 3 分钟时狂暴。”右下角：一个“潜在掉落 (POTENTIAL LOOT)”面板，列出 4 件带有稀有度颜色文本的物品：“高效执行官斗篷 (史诗)”、“发布会之刃 (史诗)”、“生态系统之戒 (史诗)”和“投资者青睐 (奖励 – 困难模式)”。下方添加一个红黑相间的小徽章，写着“困难模式 (HARD MODE)”，以及一行文字“在战斗中激活 \\\"投资者电话会议\\\" 以”，其余文本被截断或遮挡。左下角：一个“聊天 (CHAT)”框，包含 4 行文字，包括 Boss 的嘲讽台词和玩家回复，例如“{argument name=\"boss quote\" default=\"Tim Cook 大喊：创新。纪律。卓越。这就是我们获胜的方式。\"}”、“Tim Cook 大喊：我们的生态系统坚不可摧。”、“Tim Cook 大喊：还有一件事……”、“Lok'tarbrok：Lok'tar ogar！”底部中央：一个奇幻动作条，包含 12 个装饰性槽位中的技能图标，部分带有数字，部分显示冷却时间文本，包括“2m”和“1m”。使用戏剧性的体积光、湿润广场上的光泽反射、逼真的环境渲染、高度精细的奇幻角色、夸张的法术效果、暗角效果、清晰的 UI 排版以及精致的 AAA 级游戏主视觉构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Tim Cook MMO 团本 Boss 屏幕：一张讽刺风格的 AAA 级奇幻团本遭遇战图像，将 Tim Cook 描绘成一个巨大的 MMO Boss，并配有完整的《魔兽世界》风格界面，适用于恶搞游戏主视觉图和模因概念生成。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "volumetric"
+      ],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic, fantasy]。\n\nLighting and camera:\n[参考光线镜头: volumetric]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14589",
+      "14598",
+      "14808",
+      "15267",
+      "15156",
+      "15392"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "15675",
+  "prompt": "{\"type\":\"anime character reference sheet\",\"character\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"レイ\\\"}\",\"romanized_name\":\"Rei\",\"age\":\"18\",\"birthday\":\"April 12\",\"height\":\"163 cm\",\"blood_type\":\"A\",\"dominant_hand\":\"right\",\"origin\":\"-\",\"occupation\":\"-\",\"profile_portrait\":\"upper-body portrait of a calm gothic girl with one finger near her lips, facing slightly left\"},\"appearance\":{\"gender_presentation\":\"young woman\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"dark ash brown\\\"}\",\"style\":\"long straight hair with soft layers, center part, glossy highlights, slightly inward-curving ends\"},\"eyes\":{\"color\":\"muted lavender gray\"},\"skin\":{\"tone\":\"fair porcelain\"},\"expression\":\"quiet, reserved, melancholic elegance\"},\"outfit\":{\"style\":\"elegant gothic black dress\",\"pieces\":[\"high-neck sheer lace long-sleeve bodice with floral pattern\",\"black fitted bustier-style inner bodice\",\"ornamental crystal necklace at the chest\",\"mid-calf layered chiffon skirt with floral lace hem\",\"black ribbon bow at the back waist\",\"semi-sheer lace cuffs\",\"black lace-up ankle boots with block heels\"]},\"layout\":{\"background\":\"clean white character-sheet page with thin gray divider lines and delicate ornamental flourishes\",\"sections\":[{\"title\":\"3面図 (Three-view)\",\"position\":\"top-left\",\"count\":3,\"labels\":[\"正面 (Front)\",\"側面 (Side)\",\"背面 (Back)\"],\"content\":\"full-body three-view turnaround showing the same dress from front, side, and back\"},{\"title\":\"profile panel\",\"position\":\"top-right\",\"count\":1,\"labels\":[\"レイ\",\"Rei\"],\"content\":\"name header, small bio table, and one large portrait\"},{\"title\":\"ディテール・デザイン\",\"position\":\"bottom-left\",\"count\":4,\"labels\":[\"high collar lace neckline\",\"chest jewelry detail\",\"lace cuff and sleeve detail\",\"skirt hem lace detail\"],\"content\":\"four close-up square detail images\"},{\"title\":\"カラーパレット\",\"position\":\"lower center-left\",\"count\":7,\"labels\":[\"髪\",\"瞳\",\"肌\",\"ドレス（メイン）\",\"ドレス（レース）\",\"金具・装飾\",\"リボン・ブーツ\"],\"content\":\"vertical palette with seven rectangular swatches\"},{\"title\":\"表情バリエーション\",\"position\":\"lower center-right\",\"count\":6,\"labels\":[\"通常\",\"微笑み\",\"考え中\",\"驚き\",\"悲しみ\",\"照れ\"],\"content\":\"six head-and-shoulders expression portraits arranged in two rows of three\"},{\"title\":\"キャラクターメモ\",\"position\":\"bottom\",\"count\":4,\"labels\":[\"胸元の装飾\",\"袖のリボン\",\"ブーツ\",\"後ろのリボン\"],\"content\":\"memo text on the left and four narrow accessory callout images on the right\"}],\"overall_style\":\"high-end anime design sheet, balanced editorial layout, lots of white space, subtle gray rules, Japanese typography\"},\"text_blocks\":{\"character_description\":\"A mysterious and quiet young woman with a delicate and somewhat sorrowful aura. She appears beautiful and gentle, but gives off a hard-to-read, distant impression. Though usually calm and composed, faint emotional changes appear in her expressions and gestures.\",\"likes\":\"music, tea, quiet things\",\"dislikes\":\"noisy places, being rushed\"},\"rendering\":{\"quality\":\"polished concept art for gpt-image-2\",\"style\":\"semi-realistic anime illustration with fine lace detail, soft shading, glossy hair rendering, elegant gothic fashion design, clean print-ready presentation\"},\"color_theme\":\"{argument name=\\\"accent palette\\\" default=\\\"black, charcoal gray, muted lavender-gray, pale beige, silver\\\"}\"}",
+  "translatedPrompt": "{\"type\":\"动漫角色参考设定集\",\"character\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"レイ\\\"}\",\"romanized_name\":\"Rei\",\"age\":\"18\",\"birthday\":\"4 月 12 日\",\"height\":\"163 cm\",\"blood_type\":\"A\",\"dominant_hand\":\"右手\",\"origin\":\"-\",\"occupation\":\"-\",\"profile_portrait\":\"一位冷静的哥特风少女半身像，单指轻触唇边，身体略微朝左\"},\"appearance\":{\"gender_presentation\":\"年轻女性\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"深灰棕色\\\"}\",\"style\":\"长直发，带有柔和的层次感，中分，光泽感高光，发梢微向内扣\"},\"eyes\":{\"color\":\"柔和的薰衣草灰\"},\"skin\":{\"tone\":\"白皙瓷肌\"},\"expression\":\"安静、内敛、忧郁的优雅感\"},\"outfit\":{\"style\":\"优雅的哥特风黑色连衣裙\",\"pieces\":[\"高领透视蕾丝长袖上衣，带有花卉图案\",\"黑色修身胸衣式内搭\",\"胸前装饰性水晶项链\",\"中长款层叠雪纺裙，配有花卉蕾丝下摆\",\"后腰黑色丝带蝴蝶结\",\"半透视蕾丝袖口\",\"黑色系带粗跟短靴\"]},\"layout\":{\"background\":\"简洁的白色设定集页面，配有细灰色分割线和精致的装饰性花纹\",\"sections\":[{\"title\":\"3 面图 (Three-view)\",\"position\":\"左上\",\"count\":3,\"labels\":[\"正面 (Front)\",\"侧面 (Side)\",\"背面 (Back)\"],\"content\":\"全身三视图，展示了同一件连衣裙的正面、侧面和背面\"},{\"title\":\"个人资料面板\",\"position\":\"右上\",\"count\":1,\"labels\":[\"レイ\",\"Rei\"],\"content\":\"姓名标题、小型个人资料表及一张大肖像\"},{\"title\":\"细节设计\",\"position\":\"左下\",\"count\":4,\"labels\":[\"高领蕾丝领口\",\"胸部饰品细节\",\"蕾丝袖口与袖子细节\",\"裙摆蕾丝细节\"],\"content\":\"四张方形细节特写图\"},{\"title\":\"配色方案\",\"position\":\"中下偏左\",\"count\":7,\"labels\":[\"头发\",\"瞳孔\",\"皮肤\",\"连衣裙（主色）\",\"连衣裙（蕾丝）\",\"金属件/装饰\",\"丝带/靴子\"],\"content\":\"包含七个矩形色块的垂直色板\"},{\"title\":\"表情变体\",\"position\":\"中下偏右\",\"count\":6,\"labels\":[\"通常\",\"微笑\",\"思考\",\"惊讶\",\"悲伤\",\"害羞\"],\"content\":\"六张头部及肩部表情肖像，分为两行，每行三个\"},{\"title\":\"角色备注\",\"position\":\"底部\",\"count\":4,\"labels\":[\"胸前装饰\",\"袖口丝带\",\"靴子\",\"后腰丝带\"],\"content\":\"左侧为备注文字，右侧为四个细长的配饰标注图\"}],\"overall_style\":\"高端动漫设计稿，平衡的排版布局，留白充足，细灰色线条，日式排版\"},\"text_blocks\":{\"character_description\":\"一位神秘而安静的年轻女性，散发着精致且略带忧伤的气息。她外表美丽温柔，却给人一种难以捉摸、疏离的印象。虽然平时冷静沉着，但细微的情绪变化会显露在她的表情和动作中。\",\"likes\":\"音乐、茶、安静的事物\",\"dislikes\":\"嘈杂的地方、被催促\"},\"rendering\":{\"quality\":\"gpt-image-2 的精致概念艺术\",\"style\":\"半写实动漫插画，精细的蕾丝细节，柔和的阴影，有光泽的头发渲染，优雅的哥特时尚设计，简洁的打印级展示\"},\"color_theme\":\"{argument name=\\\"accent palette\\\" default=\\\"黑色、炭灰色、柔和薰衣草灰、浅米色、银色\\\"}\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "哥特风动漫角色设定集：一份精致的动漫角色参考设定集，展示了一位哥特风年轻女性的三视图、表情包、配色方案、细节特写及个人资料，适用于角色设计与展示。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "full-body",
+        "callout",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "editorial",
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, full-body, callout, layered, vertical]。\n\nVisual style:\n[参考风格: realistic, editorial, anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14404",
+      "15732",
+      "14531",
+      "14607",
+      "15677",
+      "15090"
+    ]
+  }
+}

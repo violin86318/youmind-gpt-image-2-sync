@@ -1,0 +1,49 @@
+{
+  "id": "14548",
+  "prompt": "{\"type\":\"four-panel Japanese travel advertisement collage\",\"style\":\"bright, exaggerated, AI-generated promotional poster aesthetic with glossy textures, bold headline typography, gold-highlighted call-to-action buttons, and high-saturation fantasy-travel imagery\",\"canvas\":{\"background\":\"light gray-white page with thin border and a 2x2 grid of square poster panels separated by white gutters\"},\"layout\":{\"grid\":\"2 columns by 2 rows\",\"panel count\":4,\"sections\":[{\"title\":\"GWは家族で 夢のテーマパークへGO!\",\"position\":\"top-left\",\"count\":1,\"labels\":[\"ラウンド付きのお好プラン\",\"ラナと尊敬\"]},{\"title\":\"贅沢ご大人の休日 癒しの高級温泉旅\",\"position\":\"top-right\",\"count\":1,\"labels\":[\"上遊の達手頭さのかを擁損り子む\",\"三朗ご子知\"]},{\"title\":\"GWは素由 リゾート沖縄へ!\",\"position\":\"bottom-left\",\"count\":1,\"labels\":[\"捷頑訂可ヤぁおトクし!\",\"楽ししてご手約:\"]},{\"title\":\"GWは北海迫で 漁品グルメ&大自然満喫\",\"position\":\"bottom-right\",\"count\":1,\"labels\":[\"柘りの致意さ子知\"]}],\"text language\":\"Japanese\"},\"panels\":[{\"position\":\"top-left\",\"scene\":\"a cheerful family theme park poster under a vivid blue sky filled with sparkles\",\"subjects\":{\"people count\":3,\"people\":\"one adult man and two children taking a selfie with arms extended toward the viewer; all 3 faces are obscured by soft square blurs\",\"background elements count\":5,\"background elements\":[\"storybook castle\",\"ferris wheel\",\"roller coaster structures\",\"festival lights\",\"colorful fantasy park buildings\"]},\"composition\":\"dynamic close foreground figures on the left and center, amusement park sprawling behind them\",\"colors\":[\"royal blue\",\"gold\",\"red\",\"pink\",\"cyan\"],\"text treatment\":\"very large bold yellow-and-white headline with thick dark outline, red ribbon banner across the lower middle, rounded gold button at the bottom\"},{\"position\":\"top-right\",\"scene\":\"a luxury hot spring inn looking out toward Mount Fuji and a lake\",\"subjects\":{\"main elements count\":5,\"main elements\":[\"open-air stone bath with steaming water\",\"wooden traditional Japanese bathhouse framing\",\"Mount Fuji in the distance\",\"blue lake\",\"warm lantern light\"]},\"composition\":\"viewed from inside the onsen toward the outdoor landscape, centered horizon and mountain\",\"colors\":[\"amber\",\"wood brown\",\"sky blue\",\"stone gray\",\"cream\"],\"mood\":\"calm, premium, restorative\",\"text treatment\":\"arched white-and-gold headline at top with dark outline, parchment-like banner above a gold oval button near the bottom\"},{\"position\":\"bottom-left\",\"scene\":\"a tropical Okinawa resort beach advertisement\",\"subjects\":{\"main elements count\":7,\"main elements\":[\"turquoise ocean\",\"white sand beach\",\"lush palm trees\",\"commercial airplane in the sky\",\"small yacht on the water\",\"shisa guardian statue in the lower left foreground\",\"small speedboat or jet craft near the shore\"]},\"composition\":\"wide scenic beach view with shisa statue anchoring the foreground and aircraft crossing the upper sky\",\"colors\":[\"turquoise\",\"sea blue\",\"palm green\",\"sand beige\",\"sunny white\"],\"text treatment\":\"oversized yellow-and-blue headline at top, slanted white-red subheadline in mid-frame, orange-gold rounded booking button at bottom\"},{\"position\":\"bottom-right\",\"scene\":\"a Hokkaido seafood and nature poster combining gourmet close-up with lush coastal scenery\",\"subjects\":{\"main elements count\":6,\"main elements\":[\"large seafood platter piled with crab legs, salmon, shellfish, and garnish\",\"green coastal landscape\",\"blue ocean inlet\",\"flowers in the foreground\",\"rocky shoreline\",\"dense foliage\"]},\"composition\":\"abundant seafood platter dominates the lower center and right foreground with nature vista behind\",\"colors\":[\"emerald green\",\"ocean blue\",\"coral red\",\"salmon pink\",\"golden yellow\"],\"text treatment\":\"stacked bold white-and-yellow headline at top with strong outline, gold oval button at the bottom\"}],\"overall impression\":\"a humorous set of 4 mismatched Japanese Golden Week travel ads, each resembling a different destination campaign generated from similar prompt logic, with some garbled AI-style Japanese text and highly polished commercial imagery\"}",
+  "translatedPrompt": "{\"type\":\"四格日本旅游广告拼贴\",\"style\":\"明亮、夸张、AI 生成的促销海报美学，具有光泽质感、醒目的标题排版、金色高亮行动号召按钮，以及高饱和度的奇幻旅游图像\",\"canvas\":{\"background\":\"浅灰白色页面，带有细边框和由白色间隙分隔的 2x2 正方形海报网格\"},\"layout\":{\"grid\":\"2 列 2 行\",\"panel count\":4,\"sections\":[{\"title\":\"GWは家族で 夢のテーマパークへGO!\",\"position\":\"左上\",\"count\":1,\"labels\":[\"ラウンド付きのお好プラン\",\"ラナと尊敬\"]},{\"title\":\"贅沢ご大人の休日 癒しの高級温泉旅\",\"position\":\"右上\",\"count\":1,\"labels\":[\"上遊の達手頭さのかを擁損り子む\",\"三朗ご子知\"]},{\"title\":\"GWは素由 リゾート沖縄へ!\",\"position\":\"左下\",\"count\":1,\"labels\":[\"捷頑訂可ヤぁおトクし!\",\"楽ししてご手約:\"]},{\"title\":\"GWは北海迫で 漁品グルメ&大自然満喫\",\"position\":\"右下\",\"count\":1,\"labels\":[\"柘りの致意さ子知\"]}],\"text language\":\"日语\"},\"panels\":[{\"position\":\"左上\",\"scene\":\"一张在充满闪烁光芒的湛蓝天空下，充满欢声笑语的家庭主题公园海报\",\"subjects\":{\"people count\":3,\"people\":\"一名成年男性和两名儿童正在自拍，手臂向观众方向伸展；所有 3 张面孔均被柔和的方形模糊遮盖\",\"background elements count\":5,\"background elements\":[\"童话城堡\",\"摩天轮\",\"过山车结构\",\"节日灯饰\",\"多彩的奇幻公园建筑\"]},\"composition\":\"前景中动态的人物位于左侧和中心，游乐园在他们身后铺开\",\"colors\":[\"宝蓝色\",\"金色\",\"红色\",\"粉色\",\"青色\"],\"text treatment\":\"非常大的粗体黄白相间标题，带有深色粗轮廓，中下部有红色丝带横幅，底部有圆形金色按钮\"},{\"position\":\"右上\",\"scene\":\"一家豪华温泉旅馆，可远眺富士山和湖泊\",\"subjects\":{\"main elements count\":5,\"main elements\":[\"带有蒸汽的露天石浴池\",\"木质传统日本浴场框架\",\"远处的富士山\",\"蓝色湖泊\",\"温暖的灯笼光\"]},\"composition\":\"从温泉内部向户外景观望去，地平线和山脉居中\",\"colors\":[\"琥珀色\",\"木棕色\",\"天蓝色\",\"石灰色\",\"奶油色\"],\"mood\":\"宁静、高端、疗愈\",\"text treatment\":\"顶部呈拱形的白金标题，带有深色轮廓，底部金色椭圆按钮上方有羊皮纸风格横幅\"},{\"position\":\"左下\",\"scene\":\"热带冲绳度假海滩广告\",\"subjects\":{\"main elements count\":7,\"main elements\":[\"绿松石色的海洋\",\"白色沙滩\",\"茂密的棕榈树\",\"天空中的商业飞机\",\"水面上的小游艇\",\"左下角前景中的风狮爷雕像\",\"岸边的小型快艇或喷气式水上摩托\"]},\"composition\":\"宽阔的海滩景观，风狮爷雕像固定前景，飞机穿过高空\",\"colors\":[\"绿松石色\",\"海蓝色\",\"棕榈绿\",\"沙米色\",\"阳光白\"],\"text treatment\":\"顶部超大的黄蓝标题，画面中部有倾斜的红白副标题，底部有橙金色圆形预订按钮\"},{\"position\":\"右下\",\"scene\":\"北海道海鲜与自然海报，结合了美食特写和茂密的海岸风光\",\"subjects\":{\"main elements count\":6,\"main elements\":[\"堆满蟹腿、三文鱼、贝类和装饰配菜的大型海鲜拼盘\",\"绿色海岸景观\",\"蓝色海湾\",\"前景中的花卉\",\"岩石海岸线\",\"茂密的植被\"]},\"composition\":\"丰盛的海鲜拼盘占据右下中心和前景，背景为自然风光\",\"colors\":[\"翡翠绿\",\"海洋蓝\",\"珊瑚红\",\"三文鱼粉\",\"金黄色\"],\"text treatment\":\"顶部堆叠的粗体白黄标题，带有强烈的轮廓，底部有金色椭圆按钮\"}],\"overall impression\":\"一套幽默的 4 格不匹配日本黄金周旅游广告，每一格都像是基于相似提示词逻辑生成的不同目的地宣传，包含一些乱码式的 AI 风格日语文本和高度精美的商业图像\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "四款日本旅游广告海报：此提示词可生成 2x2 的炫目日本黄金周旅游海报拼贴，适用于恶搞广告、社交媒体对比，或展示多样化的 AI 生成商业设计。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "close-up",
+        "grid",
+        "2x2"
+      ],
+      "style": [
+        "fantasy",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, close-up, grid, 2x2]。\n\nVisual style:\n[参考风格: fantasy, luxury, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15404",
+      "14877",
+      "15644",
+      "15085",
+      "13997",
+      "14567"
+    ]
+  }
+}

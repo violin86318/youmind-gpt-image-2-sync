@@ -1,0 +1,35 @@
+{
+  "id": "14369",
+  "prompt": "日本の架空の広告。横長の6分割で、{argument name=\"業界リスト\" default=\"車業界（新車デビュー）、テーマパーク（新イベント）、化粧品業界（新作化粧品）、本業界（売れ行きno1の本の広告）、飲料業界（新作の広告）、住宅業界（新築タワマンの紹介）\"}の各広告。トップクリエータが作った最新の流行のテイストで",
+  "translatedPrompt": "虚构的日本广告。横向 6 格布局，展示了 {argument name=\"industry list\" default=\"汽车行业（新车发布）、主题公园（新活动）、化妆品行业（新品）、图书行业（畅销书榜首）、饮料行业（新饮品）以及房地产行业（豪华公寓介绍）\"} 的广告。由顶尖创作者以最新流行风格制作。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "多行业日本广告拼贴画：一个用于生成多行业日本广告拼贴画的提示词，采用现代设计风格，包含六个不同的行业板块。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

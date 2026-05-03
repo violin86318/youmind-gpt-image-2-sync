@@ -1,0 +1,52 @@
+{
+  "id": "15410",
+  "prompt": "A cinematic nighttime automotive action shot of a futuristic electric sports coupe racing through a modern downtown city, viewed from a low rear three-quarter tracking angle. The car is a sleek {argument name=\"car brand\" default=\"Audi\"} concept vehicle with a glossy {argument name=\"body color\" default=\"white\"} body, black roofline, dark tinted windows, extremely wide rear tires, illuminated rear light bar, and glowing {argument name=\"rear badge text\" default=\"tron\"} branding centered on the back. The rear lower section is partially transparent or open, revealing advanced electric drivetrain and battery hardware with metallic detail and cool blue illumination. Add flowing pale gray and blue side graphics on the doors and rear quarter panels for a concept-car look. The vehicle is driving fast on a wet multi-lane urban expressway, with strong motion blur in the asphalt, lane markings, and surrounding buildings. The background is filled with tall glass office towers at night, hundreds of bright window lights, scattered red aircraft warning lights on rooftops, and streaking traffic lights in the distance. Include reflections along a barrier or wall on the far left edge to emphasize speed and camera motion. Lighting is cool, high-contrast, and moody, with blue-white highlights, glossy reflections on the road, and a premium sci-fi luxury aesthetic. Ultra-detailed, photorealistic, long-exposure feel, dynamic tracking shot, sharp focus on the car while the city environment blurs from speed.",
+  "translatedPrompt": "一张电影感十足的夜间汽车动作镜头，展示了一辆未来感电动运动轿跑车在现代市中心疾驰，采用低位后侧 3/4 跟拍视角。该车是一款流线型的 {argument name=\"car brand\" default=\"Audi\"} 概念车，拥有光泽感的 {argument name=\"body color\" default=\"white\"} 车身、黑色车顶线条、深色隐私车窗、极宽的后轮胎、发光的后灯带，以及车尾中央发光的 {argument name=\"rear badge text\" default=\"tron\"} 标识。车尾下部呈半透明或开放式设计，露出带有金属细节和冷蓝色灯光的先进电动传动系统及电池硬件。车门和后翼子板上带有流动的浅灰色和蓝色侧面拉花，呈现出概念车外观。车辆在潮湿的多车道城市高速公路上飞驰，沥青路面、车道线和周围建筑呈现出强烈的动态模糊。背景是夜晚高耸的玻璃办公大楼，点缀着数百盏明亮的窗灯，屋顶散布着红色的航空障碍灯，远处是流动的交通灯光。左侧边缘的护栏或墙壁上包含反射效果，以强调速度感和摄像机运动。灯光冷峻、高对比度且富有氛围感，带有蓝白色高光、路面上的光泽反射，以及高级科幻豪华美学。超细节、照片级逼真、长曝光质感、动态跟拍，焦点清晰地锁定在汽车上，而城市环境因高速运动而模糊。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "未来感电动汽车穿梭城市之夜：此提示词可生成一张照片级逼真的概念电动轿跑车在霓虹闪烁的城市夜晚疾驰的图像，非常适合汽车广告、概念艺术或电影级交通视觉效果。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "sci-fi",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, sci-fi, luxury, premium]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15778",
+      "14598",
+      "15419",
+      "15792",
+      "14806",
+      "14808"
+    ]
+  }
+}

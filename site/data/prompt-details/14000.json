@@ -1,0 +1,41 @@
+{
+  "id": "14000",
+  "prompt": "{\n  \"type\": \"presentation slide infographic\",\n  \"style\": {\n    \"theme\": \"{argument name=\\\"theme color\\\" default=\\\"neon blue\\\"}\",\n    \"background\": \"{argument name=\\\"background style\\\" default=\\\"dark blue futuristic tech with glowing data streams and an ascending arrow\\\"}\"\n  },\n  \"header\": {\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"核心抓手\\\"}\",\n    \"subtitle\": \"{argument name=\\\"english title\\\" default=\\\"Key Levers\\\"}\",\n    \"description\": \"构建可复制、可放大、可持续的增长引擎\"\n  },\n  \"layout\": {\n    \"type\": \"circular flow diagram\",\n    \"center_node\": {\n      \"title\": \"{argument name=\\\"center node title\\\" default=\\\"P7 Core System\\\"}\",\n      \"subtitle\": \"战略落地 · 高效执行 · 持续进化\",\n      \"visual\": \"glowing tech sphere\"\n    },\n    \"surrounding_nodes\": {\n      \"count\": 5,\n      \"connection\": \"glowing blue arrows forming a clockwise cycle\",\n      \"nodes\": [\n        {\n          \"position\": \"top\",\n          \"icon\": \"robotic arm\",\n          \"english_label\": \"Automation Pipeline\",\n          \"chinese_label\": \"自动化\",\n          \"description\": \"减少人工干预，提升交付效率\"\n        },\n        {\n          \"position\": \"right\",\n          \"icon\": \"monitor with chart\",\n          \"english_label\": \"Data Feedback Loop\",\n          \"chinese_label\": \"数据驱动\",\n          \"description\": \"数据洞察，持续优化决策\"\n        },\n        {\n          \"position\": \"bottom right\",\n          \"icon\": \"clipboard with checkmarks\",\n          \"english_label\": \"Standardization\",\n          \"chinese_label\": \"标准化\",\n          \"description\": \"统一规范，降低复杂度\"\n        },\n        {\n          \"position\": \"bottom left\",\n          \"icon\": \"coins\",\n          \"english_label\": \"Cost Efficiency\",\n          \"chinese_label\": \"成本优化\",\n          \"description\": \"资源精准投入，效益最大化\"\n        },\n        {\n          \"position\": \"left\",\n          \"icon\": \"stacked cubes\",\n          \"english_label\": \"Reusable Components\",\n          \"chinese_label\": \"模块化\",\n          \"description\": \"复用加速，质量一致\"\n        }\n      ]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"演示文稿信息图\",\n  \"style\": {\n    \"theme\": \"{argument name=\\\"theme color\\\" default=\\\"霓虹蓝\\\"}\",\n    \"background\": \"{argument name=\\\"background style\\\" default=\\\"深蓝色未来科技风，带有发光数据流和上升箭头\\\"}\"\n  },\n  \"header\": {\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"核心抓手\\\"}\",\n    \"subtitle\": \"{argument name=\\\"english title\\\" default=\\\"Key Levers\\\"}\",\n    \"description\": \"构建可复制、可放大、可持续的增长引擎\"\n  },\n  \"layout\": {\n    \"type\": \"循环流程图\",\n    \"center_node\": {\n      \"title\": \"{argument name=\\\"center node title\\\" default=\\\"P7 核心系统\\\"}\",\n      \"subtitle\": \"战略落地 · 高效执行 · 持续进化\",\n      \"visual\": \"发光科技球体\"\n    },\n    \"surrounding_nodes\": {\n      \"count\": 5,\n      \"connection\": \"形成顺时针循环的发光蓝色箭头\",\n      \"nodes\": [\n        {\n          \"position\": \"top\",\n          \"icon\": \"机械臂\",\n          \"english_label\": \"Automation Pipeline\",\n          \"chinese_label\": \"自动化\",\n          \"description\": \"减少人工干预，提升交付效率\"\n        },\n        {\n          \"position\": \"right\",\n          \"icon\": \"带有图表的显示器\",\n          \"english_label\": \"Data Feedback Loop\",\n          \"chinese_label\": \"数据驱动\",\n          \"description\": \"数据洞察，持续优化决策\"\n        },\n        {\n          \"position\": \"bottom right\",\n          \"icon\": \"带有勾选标记的剪贴板\",\n          \"english_label\": \"Standardization\",\n          \"chinese_label\": \"标准化\",\n          \"description\": \"统一规范，降低复杂度\"\n        },\n        {\n          \"position\": \"bottom left\",\n          \"icon\": \"硬币\",\n          \"english_label\": \"Cost Efficiency\",\n          \"chinese_label\": \"成本优化\",\n          \"description\": \"资源精准投入，效益最大化\"\n        },\n        {\n          \"position\": \"left\",\n          \"icon\": \"堆叠立方体\",\n          \"english_label\": \"Reusable Components\",\n          \"chinese_label\": \"模块化\",\n          \"description\": \"复用加速，质量一致\"\n        }\n      ]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "未来科技感战略 Slides：生成一张高科技、霓虹风格的图表 Slides，包含核心系统及 5 步循环流程图，非常适合企业战略演示。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "硬件拆解、产品卖点、技术说明、科普图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14147",
+      "15000",
+      "14151",
+      "14261",
+      "15166",
+      "13811"
+    ]
+  }
+}

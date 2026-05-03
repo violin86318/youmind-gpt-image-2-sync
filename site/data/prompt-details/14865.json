@@ -1,0 +1,50 @@
+{
+  "id": "14865",
+  "prompt": "A cinematic divine portrait of a Jesus-like holy figure from the chest up, centered and facing forward, with the face intentionally obscured by a solid rectangular block in a warm brown skin-tone color. He has shoulder-length wavy dark brown hair, a short beard visible below the block, and wears flowing layered white robes with a gold embroidered sash over one shoulder. One hand is extended toward the viewer in the lower left foreground, palm open in a welcoming, blessing gesture. Behind his head is 1 large glowing circular halo with intricate luminous ring details, surrounded by intense golden backlight and radiant sunbeams bursting through dramatic heavenly clouds. Faint classical temple architecture appears on both sides in the distance, creating a celestial kingdom atmosphere. Warm gold-and-cream color grading, volumetric light, ultra-detailed fabric folds, spiritual epic fantasy realism, symmetrical centered composition, soft glowing highlights, inspirational religious iconography, vertical portrait framing.",
+  "translatedPrompt": "一张电影感十足的神圣肖像，描绘了一位类似耶稣的圣者，半身像，居中且面向前方。面部被一块暖棕色肤色的实心长方形色块刻意遮挡。他留着齐肩的深棕色波浪卷发，色块下方露出短胡须，身穿层叠的白色长袍，肩上披着金色的刺绣饰带。左下角前景中，一只手向观众伸出，手掌张开，呈现出欢迎和祝福的姿态。头后方有一个巨大的发光圆形光环，带有精致的环状细节，周围环绕着强烈的金色背光，耀眼的阳光穿透戏剧性的天国云层。远处两侧隐约可见古典神庙建筑，营造出天国的氛围。暖金色与奶油色调，体积光，超细腻的织物褶皱，灵性史诗奇幻写实风格，对称居中构图，柔和的发光高光，启发性的宗教意象，竖向肖像构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "面部遮挡的神圣光环肖像：此提示词可生成一张极具戏剧性的神圣肖像，描绘了一位类似基督的人物，配有伸出的手、耀眼的光环以及被刻意遮挡的面部，适用于宗教、象征性或模因风格的编辑图像。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "backlight",
+        "volumetric"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, layered, vertical]。\n\nVisual style:\n[参考风格: cinematic, fantasy]。\n\nLighting and camera:\n[参考光线镜头: backlight, volumetric]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15718",
+      "14508",
+      "15706",
+      "14578",
+      "14816",
+      "14633"
+    ]
+  }
+}

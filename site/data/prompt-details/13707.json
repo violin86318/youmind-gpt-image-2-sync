@@ -1,0 +1,37 @@
+{
+  "id": "13707",
+  "prompt": "織田信長のX投稿ページ({argument name=\"状況\" default=\"本能寺の変直前\"})を作成してください。",
+  "translatedPrompt": "请为 {argument name=\"historical figure\" default=\"织田信长\"}（{argument name=\"context\" default=\"本能寺之变前夕\"}）创建一个 X (Twitter) 动态页面。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "历史人物社交媒体动态：为历史人物生成社交媒体信息流界面，专门用于模拟织田信长在“本能寺之变”前的页面可能呈现的样子。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13719",
+      "13853",
+      "13989",
+      "14752",
+      "14790",
+      "15149"
+    ]
+  }
+}

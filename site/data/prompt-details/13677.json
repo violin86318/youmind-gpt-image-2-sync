@@ -1,0 +1,40 @@
+{
+  "id": "13677",
+  "prompt": "A close-up, slightly angled photograph of a spiral-bound notebook page filled with handwritten Korean text in pencil. The notebook has horizontal ruled lines and a black metal spiral binding on the left edge. At the top, the date \"{argument name=\"date\" default=\"2024년 11월 24일 일요일\"}\" and weather \"{argument name=\"weather\" default=\"날씨 맑음\"}\" with a small sun doodle are written. Below this, a paragraph of text recounts a daily journal entry about meeting friends, going to a cafe, and watching the sunset. The handwriting is neat but casual, with slight variations in pressure and spacing typical of natural handwriting. The lighting is soft and even, suggesting an indoor setting, casting subtle shadows from the spiral binding onto the paper.",
+  "translatedPrompt": "一张近距离、略带角度的摄影照片，展示了一页写满韩语铅笔字迹的螺旋装订笔记本。笔记本带有横线格，左侧为黑色金属螺旋装订。顶部写有日期“{argument name=\"date\" default=\"2024 年 11 月 24 日 星期日\"}”和天气“{argument name=\"weather\" default=\"天气 晴\"}”，并配有一个小太阳涂鸦。下方是一段日记正文，记录了与朋友见面、去咖啡馆以及看日落的日常。字迹工整但随性，笔触压力和间距略有变化，呈现出自然手写的真实感。光线柔和均匀，暗示室内环境，螺旋装订在纸面上投下细微的阴影。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "手写韩语日记：生成一张螺旋装订笔记本上手写韩语日记的逼真图像，适用于创作真实感十足的个人日记视觉素材。",
+      "subject": "综合主体",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "close-up",
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13661",
+      "14967",
+      "15524",
+      "15075",
+      "15398",
+      "15526"
+    ]
+  }
+}

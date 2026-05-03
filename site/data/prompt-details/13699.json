@@ -1,0 +1,46 @@
+{
+  "id": "13699",
+  "prompt": "A photorealistic television news broadcast scene featuring a {argument name=\"anchor appearance\" default=\"young Japanese female with shoulder-length dark hair wearing a light beige blouse\"} and a small black lapel microphone, sitting at a news desk and speaking directly to the camera. The studio background is modern with blue and white lighting and a blurred nighttime city skyline on the right. In the top left corner, there is a dark blue graphic with the white text \"{argument name=\"channel logo text\" default=\"NEWS TODAY\"}\". To the anchor's left is a large presentation monitor displaying a news graphic with a white background and light blue network nodes. The monitor features a dark blue \"最新情報\" tag, the text \"{argument name=\"subheadline\" default=\"OpenAIの新しい画像生成モデル\"}\", a large prominent headline \"{argument name=\"main headline\" default=\"「GPT-image-2」\"}\", the text \"がリリース\", an OpenAI logo, and a dark blue bottom banner reading \"より高精細に より正確に 画像生成の可能性がさらに広がる\". Across the bottom of the entire screen is a news ticker lower third with a dark blue \"速報\" box and the scrolling text \"{argument name=\"ticker text\" default=\"OpenAI 画期的な新画像生成モデル「GPT-image-2」をリリース\"}\".",
+  "translatedPrompt": "{\n  \"type\": \"电视新闻广播布局\",\n  \"anchor\": {\n    \"appearance\": \"{argument name=\\\"anchor appearance\\\" default=\\\"年轻的日本女性新闻主播，留着齐肩深色短发\\\"}\",\n    \"attire\": \"浅米色衬衫，佩戴小型翻领麦克风\",\n    \"pose\": \"坐在桌前，双手交叠，面向前方\"\n  },\n  \"studio_environment\": \"现代新闻演播室，配有蓝色发光面板，背景为夜间城市天际线\",\n  \"graphics\": {\n    \"top_left_bug\": {\n      \"style\": \"深蓝色矩形\",\n      \"text\": \"{argument name=\\\"channel logo\\\" default=\\\"NEWS TODAY\\\"}\"\n    },\n    \"presentation_monitor\": {\n      \"location\": \"主播后方左侧\",\n      \"badge\": \"最新情報\",\n      \"subtitle\": \"{argument name=\\\"subheadline\\\" default=\\\"OpenAIの新しい画像生成モデル\\\"}\",\n      \"title\": \"{argument name=\\\"main headline\\\" default=\\\"「GPT-image-2」\\\"}\",\n      \"suffix\": \"がリリース\",\n      \"icon\": \"OpenAI logo\",\n      \"bottom_bar\": \"より高精細に より正確に 画像生成の可能性がさらに広がる\"\n    },\n    \"lower_thirds_ticker\": {\n      \"badge\": \"速報\",\n      \"headline\": \"{argument name=\\\"ticker text\\\" default=\\\"OpenAI 画期的な新画像生成モデル「GPT-image-2」をリリース\\\"}\"\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日本新闻广播模拟：生成一个逼真的电视新闻广播场景，包含主播、演示显示器和新闻滚动字幕。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "studio"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, studio]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13700",
+      "15668",
+      "15821",
+      "13839",
+      "15523",
+      "14833"
+    ]
+  }
+}

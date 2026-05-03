@@ -1,0 +1,37 @@
+{
+  "id": "14027",
+  "prompt": "{\n  \"type\": \"cosmetics promotional web banner\",\n  \"subject\": {\n    \"description\": \"A smiling young East Asian woman with glowing, dewy skin, wearing a simple white tank top, hair tied back with loose bangs. She is touching her right cheek with her right hand and holding a {argument name=\\\"product type\\\" default=\\\"clear serum pump bottle\\\"} in her left hand near her face.\"\n  },\n  \"background\": \"Soft, blurred, bright vanity setting with sparkling bokeh and light flares.\",\n  \"layout\": {\n    \"sections\": [\n      {\n        \"position\": \"top left\",\n        \"type\": \"headline\",\n        \"text\": \"{argument name=\\\"main headline\\\" default=\\\"スキンケア迷子の ズボラさん必見！\\\"}\"\n      },\n      {\n        \"position\": \"mid left\",\n        \"type\": \"subheadline\",\n        \"text\": \"{argument name=\\\"sub headline\\\" default=\\\"ズボラな私でも毎日使える 導入美容液、激推し!!\\\"}\"\n      },\n      {\n        \"position\": \"center left\",\n        \"type\": \"bullet points\",\n        \"count\": 3,\n        \"style\": \"red checkmarks\",\n        \"labels\": [\n          \"洗顔後これを使うだけ！\",\n          \"次の化粧水がグングン浸透\",\n          \"ツヤツヤ水光肌に！ メイクノリもUP\"\n        ]\n      },\n      {\n        \"position\": \"bottom left\",\n        \"type\": \"product trial set\",\n        \"elements\": [\n          {\n            \"description\": \"gold circular badge with ribbon\",\n            \"text\": \"{argument name=\\\"badge text\\\" default=\\\"4日間 お試し\\\"}\"\n          },\n          {\n            \"description\": \"lineup of small trial bottles\",\n            \"count\": 4\n          }\n        ]\n      },\n      {\n        \"position\": \"bottom center\",\n        \"type\": \"call to action\",\n        \"text\": \"{argument name=\\\"call to action\\\" default=\\\"まずは試してみて！ 4日間お試しセット\\\"}\",\n        \"style\": \"glowing underline\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"化妆品促销网页横幅\",\n  \"subject\": {\n    \"description\": \"一位面带微笑的年轻东亚女性，皮肤光泽水润，身穿简约白色背心，头发扎起并留有几缕碎发。她右手轻触右脸颊，左手拿着一个 {argument name=\\\"product type\\\" default=\\\"透明精华液按压瓶\\\"} 靠近面部。\"\n  },\n  \"background\": \"柔和、模糊且明亮的梳妆台背景，带有闪烁的焦外成像和光晕效果。\",\n  \"layout\": {\n    \"sections\": [\n      {\n        \"position\": \"左上角\",\n        \"type\": \"主标题\",\n        \"text\": \"{argument name=\\\"main headline\\\" default=\\\"护肤迷茫的懒人必看！\\\"}\"\n      },\n      {\n        \"position\": \"左中部\",\n        \"type\": \"副标题\",\n        \"text\": \"{argument name=\\\"sub headline\\\" default=\\\"连我这种懒人都能坚持每天用的导入精华，强力推荐！！\\\"}\"\n      },\n      {\n        \"position\": \"左侧中心\",\n        \"type\": \"要点列表\",\n        \"count\": 3,\n        \"style\": \"红色勾选标记\",\n        \"labels\": [\n          \"洁面后只需用它！\",\n          \"后续化妆水吸收力加倍\",\n          \"打造水光肌！妆容更服帖\"\n        ]\n      },\n      {\n        \"position\": \"左下角\",\n        \"type\": \"产品试用装\",\n        \"elements\": [\n          {\n            \"description\": \"带有丝带的金色圆形徽章\",\n            \"text\": \"{argument name=\\\"badge text\\\" default=\\\"4 天试用\\\"}\"\n          },\n          {\n            \"description\": \"小型试用装瓶组\",\n            \"count\": 4\n          }\n        ]\n      },\n      {\n        \"position\": \"底部中心\",\n        \"type\": \"行动号召\",\n        \"text\": \"{argument name=\\\"call to action\\\" default=\\\"快来试试吧！4 天试用套装\\\"}\",\n        \"style\": \"发光下划线\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "化妆品促销网页横幅：生成一款日式护肤品促销网页横幅，包含模特、文字叠加和试用装产品展示。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13875",
+      "14219",
+      "14269",
+      "14826",
+      "14846",
+      "15012"
+    ]
+  }
+}

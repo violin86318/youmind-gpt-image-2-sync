@@ -1,0 +1,45 @@
+{
+  "id": "13956",
+  "prompt": "{\n  \"type\": \"3D e-commerce livestream promotional poster\",\n  \"style\": \"vibrant purple and gold color scheme, glossy UI elements, neon lights, soft blurred studio background\",\n  \"typography\": {\n    \"header_pill\": \"抖音直播\",\n    \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"直播中\\\"}\",\n    \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"欢迎进直播间\\\"}\",\n    \"promo_pill\": \"{argument name=\\\"promo text\\\" default=\\\"好物推荐 不止5折\\\"}\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"feature_cards\",\n        \"position\": \"middle\",\n        \"count\": 3,\n        \"items\": [\n          {\"icon\": \"purple price tag\", \"text\": \"大牌好货 正品保障\"},\n          {\"icon\": \"red envelope\", \"text\": \"直播专属 优惠多多\"},\n          {\"icon\": \"purple gift box\", \"text\": \"互动抽奖 惊喜不停\"}\n        ]\n      },\n      {\n        \"title\": \"marquee_sign\",\n        \"position\": \"lower middle\",\n        \"style\": \"neon border with glowing dots, 3D red heart icon\",\n        \"text\": \"{argument name=\\\"marquee text\\\" default=\\\"关注主播 不迷路\\\"}\"\n      },\n      {\n        \"title\": \"footer_pill\",\n        \"position\": \"bottom center\",\n        \"style\": \"glowing neon border\",\n        \"text\": \"{argument name=\\\"footer text\\\" default=\\\"点关注 下单享优先发货\\\"}\"\n      }\n    ]\n  },\n  \"scene_elements\": {\n    \"top_corners\": \"2 studio spotlights pointing inwards\",\n    \"bottom_left\": \"1 ring light on a tripod holding a smartphone\",\n    \"bottom_right\": \"3 stacked cardboard boxes with labels '极速发货' and '售后无忧', 1 miniature shopping cart, 2 purple gift boxes with yellow ribbons\",\n    \"background\": \"blurred studio setup with shelves and purple ambient lighting\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"3D 电商直播宣传海报\",\n  \"style\": \"活力紫金配色，光泽感 UI 元素，霓虹灯光，柔和模糊的摄影棚背景\",\n  \"typography\": {\n    \"header_pill\": \"抖音直播\",\n    \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"直播中\\\"}\",\n    \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"欢迎进直播间\\\"}\",\n    \"promo_pill\": \"{argument name=\\\"promo text\\\" default=\\\"好物推荐 不止 5 折\\\"}\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"feature_cards\",\n        \"position\": \"中间\",\n        \"count\": 3,\n        \"items\": [\n          {\"icon\": \"紫色价格标签\", \"text\": \"大牌好货 正品保障\"},\n          {\"icon\": \"红包\", \"text\": \"直播专属 优惠多多\"},\n          {\"icon\": \"紫色礼盒\", \"text\": \"互动抽奖 惊喜不停\"}\n        ]\n      },\n      {\n        \"title\": \"marquee_sign\",\n        \"position\": \"中下部\",\n        \"style\": \"带发光点的霓虹边框，3D 红色爱心图标\",\n        \"text\": \"{argument name=\\\"marquee text\\\" default=\\\"关注主播 不迷路\\\"}\"\n      },\n      {\n        \"title\": \"footer_pill\",\n        \"position\": \"底部居中\",\n        \"style\": \"发光霓虹边框\",\n        \"text\": \"{argument name=\\\"footer text\\\" default=\\\"点关注 下单享优先发货\\\"}\"\n      }\n    ]\n  },\n  \"scene_elements\": {\n    \"top_corners\": \"2 个向内照射的摄影棚聚光灯\",\n    \"bottom_left\": \"1 个带有智能手机的三脚架环形补光灯\",\n    \"bottom_right\": \"3 个堆叠的纸箱，贴有“极速发货”和“售后无忧”标签，1 个迷你购物车，2 个系着黄色丝带的紫色礼盒\",\n    \"background\": \"带有货架和紫色环境光的模糊摄影棚场景\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "3D 电商直播宣传海报：为电商直播生成充满活力的 3D 宣传海报，包含可自定义的排版、功能卡片和摄影棚设备道具。",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "3d",
+        "studio"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: 3d, studio]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13836",
+      "14176",
+      "13652",
+      "13995",
+      "13826",
+      "15056"
+    ]
+  }
+}

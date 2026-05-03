@@ -1,0 +1,51 @@
+{
+  "id": "14558",
+  "prompt": "A retro-futurist propaganda-style poster pasted on a rough white plaster wall, photographed straight-on in natural light. The poster is slightly wrinkled, creased, and weathered with worn corners and subtle tears, giving it the look of an old screen-printed street poster. Use a mid-century space-race aesthetic from the 1950s–1960s, with a limited palette of deep navy blue, faded cream, muted teal, and bold red-orange. The poster has 5 visible text elements: the large cream headline {argument name=\"headline text\" default=\"ChatGPT\"} at the upper left in bold condensed sans-serif, the large red-orange subheadline {argument name=\"subheadline text\" default=\"Images 2.0\"} directly below it, the vertical red text {argument name=\"rocket text\" default=\"OpenAI\"} printed on the rocket body, and the small cream tagline {argument name=\"tagline text\" default=\"EXPLORING TOMORROW\"} along the bottom red band, plus a small cream star icon to the left of the tagline. Composition: a tall white-and-black rocket launches from the lower right edge with red exhaust flames and billowing cream smoke; the rocket is near-vertical and dominates the right third of the poster. A small detached space capsule floats to the left of the rocket, angled diagonally. A thin cream orbital path curves in a large loop across the upper half of the poster, passing behind and around the rocket. The lower left shows the curved horizon of Earth in muted teal and cream, cropped by the frame. The background is a dark navy star field with exactly 3 visible celestial accents: 1 small cream planet or moon near the top center-left, 1 bright star near the upper right, and 1 smaller star near the middle-left. Add a solid red-orange horizontal band across the bottom of the poster. Emphasize vintage print texture, paper folds, faded ink, and nostalgic sci-fi optimism. The final image should look like a realistic photo of a pasted old space-age poster rather than a clean digital graphic.",
+  "translatedPrompt": "一张贴在粗糙白色石膏墙上的复古中世纪太空竞赛宣传海报，在自然光下进行正拍。海报略显褶皱、有折痕且饱经风霜，边缘磨损并带有细小撕裂，呈现出真实的陈旧纸张质感。设计采用了深海军蓝、褪色奶油色、柔和红橙色和灰青色的有限复古色调。左上方醒目的大标题文字占据主导地位：{argument name=\"headline text\" default=\"ChatGPT Images 2.0\"}，其中“ChatGPT”采用超大号奶油色无衬线字体，“Images 2.0”位于下方，使用粗体红橙色。在右侧，一枚高耸的复古火箭垂直矗立，正穿过奶油色的烟雾向上发射，垂直的机身文字 {argument name=\"rocket text\" default=\"OpenAI\"} 为红橙色。一条细细的轨道轨迹线从左向右横跨海报上半部分，环绕着火箭。在中心偏左处，一个小型分离式太空舱沿着轨道路径漂浮。左下方展示了地球的弯曲地平线，以复古插画风格呈现，配有青色海洋和奶油色陆地。底部是一条纯红橙色长条，包含间距均匀的小号奶油色文字 {argument name=\"tagline text\" default=\"EXPLORING TOMORROW\"}。在深色天空中包含 4 颗可见的星星或天体点：2 个微小的星爆、1 个小奶油色圆点和 1 个较大的奶油色圆点。整体构图应呈现出 1950 年代至 1960 年代的科幻旅行海报或苏联/美国太空时代广告印刷品的质感，具有丝网印刷纹理、细微的折痕、怀旧的排版以及电影般的复古未来主义氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Retro ChatGPT Images 2.0 太空海报：一张充满复古未来主义风格的陈旧海报，将 ChatGPT Images 2.0 描绘成太空时代的火箭广告，非常适合用于关于 AI 图像生成突破的编辑视觉内容。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "vintage",
+        "retro",
+        "sci-fi"
+      ],
+      "lightingCamera": [
+        "natural light"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, vintage, retro, sci-fi]。\n\nLighting and camera:\n[参考光线镜头: natural light]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14833",
+      "15668",
+      "15268",
+      "15009",
+      "15070",
+      "15360"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "15106",
+  "prompt": "A hyper-detailed cinematic anime crossover poster featuring 4 legendary shonen-inspired heroes charging forward in a single epic battle composition under a dramatic apocalyptic sky. The scene is wide, symmetrical, and explosively energetic, with a glowing break in the storm clouds at the top center sending intense golden sun rays downward across the characters. From left to right: a blond ninja-inspired teenage hero in an orange-and-black outfit with a forehead protector, crouched in an attack stance and forming a glowing spinning energy orb in one hand, surrounded by orange chakra flames and several floating black spheres behind him; a muscular black-haired martial artist in an orange gi at left-center, twisting mid-strike while charging a bright blue energy sphere in his hand, wrapped in crackling blue aura and electric arcs; a lean pirate-inspired young man at right-center wearing a straw hat, sleeveless red vest, blue shorts, and sandals, lunging forward with a fierce grin, one arm extended, with white steam-like energy curling around his body; a dark-haired swordsman at far right in a flowing black-and-red checkered haori, drawing or swinging a katana with a sweeping arc of fiery red-orange energy around him. The background is a chaotic fantasy battlefield of shattered rock, sparks, lightning, embers, molten light, and swirling elemental effects, with orange fire dominating the left and right edges, cool blue energy concentrated around the martial artist, and white vapor around the pirate hero. Use extreme contrast, ultra-saturated colors, sharp inked anime linework, painterly textures, dynamic foreshortening, intense motion blur in the effects, and premium poster-quality rendering. Add a massive title across the bottom foreground reading {argument name=\"headline text\" default=\"SHONEN LEGENDS\"} in oversized distressed brush lettering, bright yellow-gold with thick black shadows and rough torn edges, partially overlapping the characters and debris. Make it feel like a blockbuster key art poster for {argument name=\"franchise theme\" default=\"legendary shonen anime crossover\"}, with thunderous energy, heroic rivalry, and unstoppable momentum.",
+  "translatedPrompt": "一张细节极其丰富的电影级动漫联动海报，画面中 4 位传奇少年漫风格英雄在末日般戏剧性的天空下，于一场史诗级战役中并肩冲锋。场景宏大、构图对称且充满爆发力，云层顶部中央的裂隙中洒下强烈的金色阳光，笼罩着角色。从左至右：左侧是一位身穿橙黑相间服装、佩戴护额的金发忍者风格少年英雄，他呈攻击姿态蹲伏，手中凝聚着发光的旋转能量球，周身环绕着橙色查克拉火焰，身后漂浮着几颗黑色球体；左中是一位身穿橙色道服、肌肉发达的黑发武术家，他在半空中扭身出击，手中蓄积着明亮的蓝色能量球，周身缠绕着噼啪作响的蓝色光环与电弧；右中是一位戴着草帽、身穿无袖红背心、蓝色短裤和凉鞋的瘦削海盗风格青年，他咧嘴大笑向前猛冲，单臂伸展，白色的蒸汽状能量环绕周身；最右侧是一位身穿黑红格纹羽织的黑发剑士，他正在拔刀或挥剑，周围环绕着一道炽热的红橙色能量弧。背景是混乱的奇幻战场，碎石、火花、闪电、余烬、熔岩光芒与旋转的元素特效交织，左侧和右侧边缘以橙色火焰为主导，武术家周围集中着冷色调的蓝色能量，海盗英雄周围则环绕着白色蒸汽。采用极高的对比度、超饱和的色彩、锐利的动漫线条、油画质感、动态透视、强烈的特效运动模糊，以及顶级的海报级渲染效果。在底部前景添加一个巨大的标题 {argument name=\"headline text\" default=\"SHONEN LEGENDS\"}，使用超大号的做旧笔刷字体，亮黄金色配以厚重的黑色阴影和粗糙的撕裂边缘，部分遮挡角色与碎片。整体氛围如同 {argument name=\"franchise theme\" default=\"legendary shonen anime crossover\"} 的大片级主视觉海报，充满雷霆万钧的能量、英雄间的较量以及势不可挡的气势。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "史诗级少年漫联动海报：此提示词可生成一张极具冲击力的动漫风格群像海报，包含四位标志性的少年漫风格英雄，非常适合用于启动图、宣传主视觉或粉丝联动概念设计。",
+      "subject": "人物",
+      "scene": "插画/漫画",
+      "composition": [
+        "symmetrical"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "fantasy",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "动漫分镜、战斗场景、运动瞬间、夸张叙事图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 插画/漫画 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: symmetrical]。\n\nVisual style:\n[参考风格: cinematic, anime, fantasy, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14432",
+      "14528",
+      "14270",
+      "15374",
+      "15380",
+      "15800"
+    ]
+  }
+}

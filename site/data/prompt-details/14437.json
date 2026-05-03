@@ -1,0 +1,47 @@
+{
+  "id": "14437",
+  "prompt": "A dreamlike vertical Chinese ink-and-wash fantasy illustration of a woman's side-profile silhouette merged with a vast shanshui landscape, with the facial area obscured by a plain soft-edged rectangular block in {argument name=\"overlay color\" default=\"warm taupe beige\"}. Her long flowing dark hair turns into swirling brushstroke ribbons, mountain ridges, mist, and clouds, filling the upper left with elegant motion. Inside the silhouette, create a layered classical Chinese landscape with towering blue-green mountains, drifting fog, cascading waterfalls, 4 traditional pagodas nestled among cliffs, 1 arched stone bridge crossing a narrow river, 1 tiny boat with a lone figure beneath the bridge, and stylized pine trees scattered across the peaks. Add 5 white cranes in flight across the upper half of the image and several small drifting petals. Place pink cherry blossom branches in 4 distinct clusters: one woven into the upper-left hair mass, one blooming near the bridge, one large cluster rising from the lower left, and one sparse flowering branch near the upper right. Use a warm sunrise glow from the upper right with a pale golden sun disk, luminous mist, parchment-textured negative space, and a refined palette of teal, indigo, ivory, blush pink, and soft gold. The composition should feel ethereal, poetic, elegant, and highly detailed, blending feminine portrait silhouette art with ancient Chinese landscape painting. Add vertical calligraphy on the lower right reading {argument name=\"calligraphy text\" default=\"山水如梦\"} with 2 red seal stamps beneath it. Ultra-detailed, painterly, airy atmosphere, delicate linework, watercolor and ink textures, cinematic depth, premium wall-art aesthetic.",
+  "translatedPrompt": "一幅梦幻般的东亚水墨风奇幻插画，将女性侧影与广阔的山水景观融为一体，采用竖版海报构图。她飘逸的深色长发如旋涡状的笔触与云雾般向外延展，幻化为山脊、云朵和装饰性的水墨卷草纹。在剪影与发丝内部，描绘一个精致的中国古典山水世界，包含层叠的青绿山峰、柔和的瀑布、漂浮的云雾，以及悬崖间错落有致的 4 座传统宝塔。在左上方及中心天空中加入 4 只飞翔的白鹤。在发丝、肩部和下半身分布 5 簇盛开的樱花枝，并有零星花瓣飘散在画面中。在画面中下部，放置一座横跨平静河流的拱形石桥，桥下有一艘载着 1 位独行者的小木船。右上角采用温暖的金色阳光天空，呈现淡桃色和奶油色羊皮纸色调，与冷色调的青色、板岩蓝及水墨黑山峦形成对比。女性侧影应朝向右侧，优雅而宁静，无需面部细节，仅保留额头、鼻子、嘴唇、颈部和肩部的清晰轮廓。整体风格应呈现为 {argument name=\"art style\" default=\"空灵的中国水墨与水彩\"}，高度精细、富有氛围感、诗意且超现实，具备细腻的线条、柔和的云雾、明亮的高光、纸张纹理，并平衡留白与密集的景物细节。在右下角添加竖排书法题字 {argument name=\"calligraphy text\" default=\"山水如梦\"}，并在其下方盖上 2 枚红色小印章。主色调：{argument name=\"main color palette\" default=\"青蓝色、暖金色、奶油色、淡粉色和炭墨色\"}。构图重点：{argument name=\"composition focus\" default=\"由山水与飘逸长发构成的女性剪影\"}。氛围：{argument name=\"mood\" default=\"宁静、雄伟、浪漫、梦幻\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "梦幻山水女子剪影：此提示词可生成一幅充满诗意的竖构图奇幻艺术作品，将女性侧影与中国山水画元素巧妙融合，非常适合用于海报、书籍封面及优雅的墙面装饰艺术。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "fantasy",
+        "watercolor",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": "得分 71；构图: layered, vertical；风格: cinematic, fantasy, watercolor, premium；包含文字或排版元素"
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical]。\n\nVisual style:\n[参考风格: cinematic, fantasy, watercolor, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14488",
+      "15303",
+      "15319",
+      "15641",
+      "14126",
+      "14450"
+    ]
+  }
+}

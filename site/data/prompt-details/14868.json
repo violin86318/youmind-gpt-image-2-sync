@@ -1,0 +1,40 @@
+{
+  "id": "14868",
+  "prompt": "A candid indoor family snapshot styled like an early-2000s home photo from mainland China, shot on a consumer digital camera with slightly soft focus, muted colors, mild noise, and an on-camera date stamp in the bottom right reading {argument name=\"date stamp\" default=\"2003.12.28\"}. The scene shows a modest living room with three people whose faces are intentionally blurred: in the left foreground, an adult woman in a lavender-pink knit sweater sits on the edge of a bed or sofa, turned slightly toward the camera; in the center background, an adult man in dark clothes crouches in front of a wooden TV stand, adjusting a silver DVD or VCD player; in the right foreground, a small girl wearing a light pink sweater and dark pants kneels on a richly patterned red carpet while holding a colorful toy vehicle. Behind them is a bulky silver CRT television displaying gray static noise, covered with a lace cloth on top. The wall behind the TV is filled with lived-in details: a large red Chinese character poster reading “福” above a hanging calendar, several framed family photos, and small pinned pictures. On the far right is a tall black shelving unit with neatly stacked VHS tapes or media cases, books, and a potted plant on top with trailing green leaves. On the far left edge, part of a bed or couch with pale bedding and a red cushion is visible. Add large bold red Chinese text in the top left corner reading {argument name=\"headline text\" default=\"AI生成\"}. Compose it as an unposed, believable family moment with authentic domestic clutter, nostalgic realism, natural room lighting, and the unmistakable look of an old personal photograph.",
+  "translatedPrompt": "一张 21 世纪初中国大陆风格的家庭室内抓拍照片，采用消费级数码相机拍摄，焦点略显柔和，色彩柔和，带有轻微噪点，右下角带有相机自带的日期戳，显示为 {argument name=\"date stamp\" default=\"2003.12.28\"}。场景展示了一个朴素的客厅，三个人物的面部被刻意模糊处理：左前方，一位身穿淡粉紫色针织衫的成年女性坐在床边或沙发边缘，身体略微转向镜头；背景中央，一位身穿深色衣服的成年男性蹲在木质电视柜前，正在调试一台银色的 DVD 或 VCD 播放机；右前方，一个小女孩身穿浅粉色毛衣和深色裤子，跪在花纹繁复的红色地毯上，手里拿着一辆彩色玩具车。他们身后是一台笨重的银色 CRT 电视机，屏幕显示着灰色的雪花点，顶部覆盖着一块蕾丝布。电视机后的墙壁充满了生活气息：挂历上方贴着一张写有“福”字的红色大字海报，还有几张装裱的家庭照片和零星张贴的图片。最右侧是一个高大的黑色置物架，上面整齐地堆放着 VHS 录像带或媒体盒、书籍，顶部摆放着一盆垂下绿叶的盆栽。左侧边缘可见部分床铺或沙发，配有浅色床品和红色靠垫。在左上角添加醒目的红色粗体中文字样 {argument name=\"headline text\" default=\"AI生成\"}。整体构图呈现为一个未经摆拍、真实可信的家庭瞬间，包含地道的居家杂物、怀旧写实感、自然的室内光线，以及旧时个人照片特有的质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "怀旧 2003 年家庭客厅照片：此提示词可生成一张 21 世纪初中国家庭在杂乱客厅中的写实快照，适用于怀旧照片重现及制作逼真的 AI 复古生活场景。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14638",
+      "15010",
+      "15246",
+      "15270",
+      "13457",
+      "14499"
+    ]
+  }
+}

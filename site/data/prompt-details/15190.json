@@ -1,0 +1,36 @@
+{
+  "id": "15190",
+  "prompt": "生成一张真实的大学教室照片，iPhone16质感，{argument name=\"老师\" default=\"XX老师\"}在教{argument name=\"学科知识\" default=\"XX知识\"}，黑板上有详细而清晰的粉笔介绍，有图形辅助理解，不需要同学",
+  "translatedPrompt": "生成一张逼真的大学课堂照片，iPhone 16 拍摄质量，{argument name=\"teacher\" default=\"XX 老师\"} 正在教授 {argument name=\"subject\" default=\"XX 知识\"}，黑板上有详细清晰的粉笔板书和辅助图表，无需包含学生。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "教育课堂场景提示词：用于生成逼真大学课堂场景的提示词，黑板上展示特定的教师和学科内容。",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "App Store 截图、产品概念、移动工具界面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13583",
+      "13585",
+      "13645",
+      "13648",
+      "13708",
+      "13710"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "14527",
+  "prompt": "{\"type\":\"anime cyberpunk storyboard collage\",\"style\":\"dark cinematic mecha illustration, highly detailed, moody industrial sci-fi, painterly anime rendering, desaturated steel-gray palette with black metal and subtle crimson glow accents\",\"subject\":{\"primary character\":{\"type\":\"female android elf\",\"appearance\":\"slim young woman with pale skin, short bob-cut {argument name=\\\"hair color\\\" default=\\\"icy blue\\\"} hair, straight bangs, pointed elf ears, red eyes, calm stoic expression\",\"outfit\":\"black biomechanical bodysuit made of layered cables, plates, straps, and exposed mechanical components, shredded trailing elements behind the legs and back\"},\"secondary character\":{\"type\":\"giant humanoid mech\",\"appearance\":\"towering armored robot with bulky charcoal plating, battle-worn surfaces, glowing red sensor eyes, intimidating silhouette\"},\"prop\":\"a dark mechanical helmet with a single red glowing optic held in one hand\"},\"environment\":{\"setting\":\"vast gothic-industrial cathedral interior converted into a futuristic factory\",\"details\":[\"towering arches\",\"hanging cables and chains\",\"metal walkways with railings\",\"foggy atmospheric depth\",\"wet reflective floor\",\"massive walls full of machinery and vertical structures\"]},\"layout\":{\"composition\":\"3 by 3 storyboard grid, one unified illustration divided by black borders\",\"sections\":[{\"position\":\"top-left\",\"count\":1,\"description\":\"wide establishing shot of the small android elf standing alone in the center of an immense cathedral-like industrial hall\"},{\"position\":\"top-center\",\"count\":1,\"description\":\"side-view full-body shot of the android elf walking along a metal catwalk\"},{\"position\":\"top-right\",\"count\":1,\"description\":\"close side profile portrait showing the elf ear, blue hair, red eye, and intricate neck and head machinery\"},{\"position\":\"middle-left\",\"count\":1,\"description\":\"close-up of a hand holding the dark robotic helmet with red glowing lens\"},{\"position\":\"middle-center\",\"count\":1,\"description\":\"rear view of the blue-haired android elf facing the giant mech at close range in the industrial corridor\"},{\"position\":\"middle-right\",\"count\":1,\"description\":\"low-angle medium portrait of the android elf looking slightly downward, emphasizing the armored torso and neck mechanisms\"},{\"position\":\"bottom-left\",\"count\":1,\"description\":\"intimate face-to-face side profile scene between the giant mech and the android elf, contrasting their scale\"},{\"position\":\"bottom-center\",\"count\":2,\"description\":\"split close-up diptych, left half on the elf's red eye and blue hair, right half on the mech's red glowing optic\"},{\"position\":\"bottom-right\",\"count\":1,\"description\":\"wide rear shot of the mech and the android elf standing side by side or walking forward into the cathedral hall\"}]},\"lighting\":{\"overall\":\"low-key dramatic lighting with cool gray ambience\",\"accents\":\"small red LEDs and glowing optics scattered through the character designs and machinery\",\"mood\":\"lonely, ominous, elegant, futuristic\"},\"camera\":\"mix of establishing wide shots, profile portraits, low-angle hero shots, and extreme close-ups, arranged like a cinematic storyboard\",\"quality\":\"ultra-detailed, sharp focus, atmospheric perspective, polished concept-art finish\"}",
+  "translatedPrompt": "{\"type\":\"动漫赛博朋克项目拼贴\",\"style\":\"暗黑电影级机甲插画，高度细节，情绪化的工业科幻，绘画感动漫渲染，去饱和钢灰色调，带有黑色金属质感和微妙的深红色光效点缀\",\"subject\":{\"primary character\":{\"type\":\"女性安卓精灵\",\"appearance\":\"身材苗条的年轻女性，皮肤苍白，短波波头 {argument name=\\\"hair color\\\" default=\\\"冰蓝色\\\"} 发型，齐刘海，尖尖的精灵耳，红眼，表情冷静从容\",\"outfit\":\"黑色生物力学紧身衣，由层叠的电缆、金属板、绑带和外露的机械组件构成，腿部和背部带有破损的拖曳元素\"},\"secondary character\":{\"type\":\"巨型人形机甲\",\"appearance\":\"高耸的装甲机器人，覆盖着厚重的炭灰色装甲，表面布满战斗痕迹，闪烁着红色的传感器眼睛，轮廓极具威慑力\"},\"prop\":\"手中拿着一个带有单眼红色发光镜头的暗黑机械头盔\"},\"environment\":{\"setting\":\"被改造成未来工厂的巨大哥特式工业大教堂内部\",\"details\":[\"高耸的拱门\",\"悬挂的电缆和链条\",\"带有护栏的金属走道\",\"雾气缭绕的氛围感\",\"湿润的反射地面\",\"布满机械和垂直结构的巨大墙壁\"]},\"layout\":{\"composition\":\"3x3 项目网格，由黑色边框分割的统一插画\",\"sections\":[{\"position\":\"左上\",\"count\":1,\"description\":\"广角定场镜头，小巧的安卓精灵独自站在巨大的大教堂式工业大厅中央\"},{\"position\":\"中上\",\"count\":1,\"description\":\"安卓精灵在金属走道上行走的全身侧面镜头\"},{\"position\":\"右上\",\"count\":1,\"description\":\"近景侧面肖像，展示精灵耳、蓝发、红眼以及复杂的颈部和头部机械结构\"},{\"position\":\"左中\",\"count\":1,\"description\":\"手持带有红色发光镜头的暗黑机械头盔的特写\"},{\"position\":\"正中\",\"count\":1,\"description\":\"安卓精灵背影，在工业走廊中近距离面对巨型机甲\"},{\"position\":\"右中\",\"count\":1,\"description\":\"低角度中景肖像，安卓精灵微微向下看，强调装甲躯干和颈部机械装置\"},{\"position\":\"左下\",\"count\":1,\"description\":\"巨型机甲与安卓精灵面对面的亲密侧面场景，对比两者体型差异\"},{\"position\":\"中下\",\"count\":2,\"description\":\"分屏特写双联画，左半部分为精灵的红眼和蓝发，右半部分为机甲的红色发光镜头\"},{\"position\":\"右下\",\"count\":1,\"description\":\"机甲与安卓精灵并肩站立或向大教堂大厅前方行走的广角背影镜头\"}]},\"lighting\":{\"overall\":\"低调戏剧性照明，带有冷灰色氛围\",\"accents\":\"散布在角色设计和机械中的小型红色 LED 灯和发光镜头\",\"mood\":\"孤独、不祥、优雅、未来感\"},\"camera\":\"融合了定场广角镜头、侧面肖像、低角度英雄镜头和极限特写，排列如同电影级项目\",\"quality\":\"超精细，焦点清晰，大气透视，精致的概念艺术成品\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "赛博朋克安卓精灵项目：一组暗黑动漫风格的 3x3 项目拼贴画，展示了一位蓝发安卓精灵与巨型机甲在哥特式工业大教堂中的场景，非常适合作为电影级科幻概念艺术的提示词。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "wide shot",
+        "full-body",
+        "grid",
+        "hero shot",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "sci-fi"
+      ],
+      "lightingCamera": [
+        "dramatic lighting",
+        "lens",
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, wide shot, full-body, grid, hero shot, layered, vertical]。\n\nVisual style:\n[参考风格: cinematic, anime, sci-fi]。\n\nLighting and camera:\n[参考光线镜头: dramatic lighting, lens, camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14413",
+      "14531",
+      "14534",
+      "15375",
+      "15090",
+      "15805"
+    ]
+  }
+}

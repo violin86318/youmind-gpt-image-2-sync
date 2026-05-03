@@ -1,0 +1,44 @@
+{
+  "id": "13458",
+  "prompt": "{\n  \"type\": \"four-panel advertisement mockup\",\n  \"layout\": \"vertical split into four equal columns\",\n  \"panels\": [\n    {\n      \"position\": \"far left\",\n      \"theme\": \"food advertisement\",\n      \"subject\": \"steaming bowl of authentic soy sauce ramen with sliced pork, half a soft-boiled egg, bamboo shoots, and green onions\",\n      \"background\": \"dark, moody lighting\",\n      \"typography\": {\n        \"catchphrase\": \"{argument name=\\\"ramen catchphrase\\\" default=\\\"この一杯に、魂を込めて。\\\"}\",\n        \"subtext\": \"ultimate ramen maximizing ingredient umami\",\n        \"brand_name\": \"麺心\",\n        \"details\": \"authentic soy sauce ramen 980 yen\",\n        \"footer\": \"Tokyo Shibuya address and business hours\"\n      }\n    },\n    {\n      \"position\": \"mid-left\",\n      \"theme\": \"fashion lookbook\",\n      \"subject\": \"young Japanese woman looking back over her shoulder, wearing a sheer white long-sleeve top\",\n      \"background\": \"light grey studio backdrop\",\n      \"typography\": {\n        \"headline\": \"{argument name=\\\"fashion brand\\\" default=\\\"SHEER\\\"}\",\n        \"subheadline\": \"NEW COLLECTION\",\n        \"vertical_text\": \"wearing transparency\",\n        \"details\": \"SPRING / SUMMER 2024 3.15 fri - Start\",\n        \"button\": \"特設サイトを見る >\"\n      }\n    },\n    {\n      \"position\": \"mid-right\",\n      \"theme\": \"travel agency promotion\",\n      \"subject\": \"woman in a white summer dress and straw hat walking down white stairs\",\n      \"background\": \"{argument name=\\\"travel destination\\\" default=\\\"Santorini, Greece\\\"} with iconic blue dome churches, white buildings, and deep blue Aegean sea\",\n      \"typography\": {\n        \"top_text\": \"to an unseen spectacular view\",\n        \"main_title\": \"Travel\",\n        \"subtitle\": \"let's take a journey that moves your heart\",\n        \"badge\": \"summer travel sale until 5.31 FRI\",\n        \"bottom_nav\": {\n          \"count\": 3,\n          \"labels\": [\"海外ツアー\", \"国内ツアー\", \"航空券+ホテル\"]\n        },\n        \"button\": \"今すぐチェック！ >\"\n      }\n    },\n    {\n      \"position\": \"far right\",\n      \"theme\": \"B2B SaaS software\",\n      \"subject\": \"open laptop displaying a data dashboard, surrounded by floating UI elements\",\n      \"background\": \"light purple and white gradient\",\n      \"ui_elements\": {\n        \"count\": 3,\n        \"labels\": [\"AIアシスタント\", \"タスク管理\", \"データ分析\"]\n      },\n      \"typography\": {\n        \"logo\": \"{argument name=\\\"tech product name\\\" default=\\\"Aideal\\\"}\",\n        \"headline\": \"{argument name=\\\"tech headline\\\" default=\\\"仕事が、もっとスマートに。\\\"}\",\n        \"subheadline\": \"AI creates time for you\",\n        \"badge\": \"over 10,000 companies\",\n        \"button\": \"無料で始める >\",\n        \"url\": \"www.aideal.jp\"\n      }\n    }\n  ]\n}",
+  "translatedPrompt": "{\n  \"type\": \"四联广告样机\",\n  \"layout\": \"垂直平分为四列\",\n  \"panels\": [\n    {\n      \"position\": \"最左侧\",\n      \"theme\": \"美食广告\",\n      \"subject\": \"一碗热气腾腾的正宗酱油拉面，配有叉烧肉、半颗溏心蛋、笋干和葱花\",\n      \"background\": \"深色、质感光影\",\n      \"typography\": {\n        \"catchphrase\": \"{argument name=\\\"ramen catchphrase\\\" default=\\\"この一杯に、魂を込めて。\\\"}\",\n        \"subtext\": \"极致拉面，尽显食材鲜味\",\n        \"brand_name\": \"麺心\",\n        \"details\": \"正宗酱油拉面 980 日元\",\n        \"footer\": \"东京涩谷地址及营业时间\"\n      }\n    },\n    {\n      \"position\": \"中左侧\",\n      \"theme\": \"时尚画册\",\n      \"subject\": \"一位年轻日本女性回眸，身穿透明感白色长袖上衣\",\n      \"background\": \"浅灰色摄影棚背景\",\n      \"typography\": {\n        \"headline\": \"{argument name=\\\"fashion brand\\\" default=\\\"SHEER\\\"}\",\n        \"subheadline\": \"全新系列\",\n        \"vertical_text\": \"穿出透明感\",\n        \"details\": \"2024 年春夏 3 月 15 日（周五）起\",\n        \"button\": \"查看特设网站 >\"\n      }\n    },\n    {\n      \"position\": \"中右侧\",\n      \"theme\": \"旅行社推广\",\n      \"subject\": \"一位身穿白色夏日连衣裙、戴着草帽的女性走下白色台阶\",\n      \"background\": \"{argument name=\\\"travel destination\\\" default=\\\"希腊圣托里尼\\\"}，背景为标志性的蓝色圆顶教堂、白色建筑和深蓝色的爱琴海\",\n      \"typography\": {\n        \"top_text\": \"前往未曾见过的绝景\",\n        \"main_title\": \"旅行\",\n        \"subtitle\": \"开启一场触动心灵的旅程\",\n        \"badge\": \"夏季旅行特惠，截止至 5 月 31 日（周五）\",\n        \"bottom_nav\": {\n          \"count\": 3,\n          \"labels\": [\"海外旅游\", \"国内旅游\", \"机票+酒店\"]\n        },\n        \"button\": \"立即查看！ >\"\n      }\n    },\n    {\n      \"position\": \"最右侧\",\n      \"theme\": \"B2B SaaS 软件\",\n      \"subject\": \"一台打开的笔记本电脑，显示着数据仪表盘，周围环绕着悬浮的 UI 元素\",\n      \"background\": \"浅紫色与白色渐变\",\n      \"ui_elements\": {\n        \"count\": 3,\n        \"labels\": [\"AI Agent\", \"任务管理\", \"数据分析\"]\n      },\n      \"typography\": {\n        \"logo\": \"{argument name=\\\"tech product name\\\" default=\\\"Aideal\\\"}\",\n        \"headline\": \"{argument name=\\\"tech headline\\\" default=\\\"仕事が、もっとスマートに。\\\"}\",\n        \"subheadline\": \"AI 为你创造时间\",\n        \"badge\": \"超过 10,000 家企业使用\",\n        \"button\": \"免费开始 >\",\n        \"url\": \"www.aideal.jp\"\n      }\n    }\n  ]\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "四联垂直广告样机：生成一个包含美食、时尚、旅游和 SaaS 产品四种不同广告海报的四列布局。",
+      "subject": "文字符号",
+      "scene": "UI/界面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "B2B 产品概念图、后台系统、数据看板",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14497",
+      "14666",
+      "15389",
+      "15425",
+      "14446",
+      "14627"
+    ]
+  }
+}

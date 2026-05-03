@@ -1,0 +1,53 @@
+{
+  "id": "14674",
+  "prompt": "A slightly surreal but photorealistic portrait of a seated person in a quiet courtyard or patio, centered in frame, wearing a fitted white long-sleeve turtleneck top with delicate pink floral prints and a printed illustration of a girl on the chest, paired with loose cream floral pants. The person sits on a simple white metal chair and holds a small fluffy poodle-like dog in their lap; the dog has curly off-white fur and distinctly dyed orange ears. Perched on top of the person’s dark hair bun is a black crow or raven, facing left, calm and balanced as if it naturally belongs there. The subject’s pose is still, direct, and formal, creating an odd deadpan family-portrait feeling. Set the scene against a textured off-white stucco wall with exactly 4 notable decorative background elements: 1 brown sun-shaped wall ornament in the upper left, 1 small wall-mounted planter shelf with a small bird figurine and trailing flowers on the left, 1 tall arched window or mural on the right showing a bright blue sky with soft white clouds, and 1 white pedestal planter at lower right filled with long green leaves and exactly 2 pink flamingo ornaments. Include a bit of stone edging and dark greenery at lower left and a brown tiled floor. Lighting is soft natural daylight, slightly overcast, with muted colors, shallow depth of field, and a vintage editorial photography look. Composition should be vertical, full seated figure, straight-on, balanced, and quietly uncanny. Customize the main figure as {argument name=\"person\" default=\"a middle-aged woman\"}, the bird as {argument name=\"bird type\" default=\"black crow\"}, the dog breed as {argument name=\"dog type\" default=\"small poodle mix\"}, the dog ear color as {argument name=\"dog ear color\" default=\"orange\"}, and the outfit palette as {argument name=\"outfit colors\" default=\"white and faded pink florals\"}.",
+  "translatedPrompt": "一张略带超现实感但照片级逼真的肖像，画面中心为一名坐在安静庭院或露台上的角色，身穿修身白色长袖高领上衣，胸前印有精致的粉色花卉图案和女孩插画，搭配宽松的奶油色花卉长裤。该角色坐在简单的白色金属椅上，怀里抱着一只毛茸茸的小型贵宾犬；小狗有着卷曲的灰白色毛发，耳朵被染成了独特的橙色。角色深色的发髻上停着一只黑色的乌鸦或渡鸦，面朝左侧，姿态平衡且平静，仿佛它本就属于那里。主体姿势静止、直接且正式，营造出一种怪诞的冷幽默家庭肖像感。场景背景为质感十足的灰白色灰泥墙，包含 4 个显著的装饰性背景元素：左上方 1 个棕色太阳形墙饰，左侧 1 个小型壁挂式花架（带有小鸟摆件和垂吊花卉），右侧 1 个高大的拱形窗户或壁画（展示着明亮的蓝天和柔和的白云），右下方 1 个白色底座花盆（种有长长的绿叶，并装饰有 2 个粉色火烈鸟摆件）。左下方包含少许石边和深色绿植，地面为棕色瓷砖。光线为柔和的自然日光，略显阴天，色彩柔和，景深较浅，具有复古编辑摄影的质感。构图应为竖构图，展示完整的坐姿人物，正面直拍，平衡且带有一种安静的诡异感。可自定义主要人物 {argument name=\"person\" default=\"一位中年女性\"}、鸟类品种 {argument name=\"bird type\" default=\"黑乌鸦\"}、狗的品种 {argument name=\"dog type\" default=\"小型贵宾混血犬\"}、狗耳朵颜色 {argument name=\"dog ear color\" default=\"橙色\"} 以及服装色调 {argument name=\"outfit colors\" default=\"白色和褪色的粉色花卉\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "超现实露台肖像：乌鸦与小狗：此提示词可生成一张照片级逼真、略带诡异感的肖像，画面中一人怀抱小狗，头顶停驻一只黑鸟，非常适合编辑风格的超现实摄影。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "editorial",
+        "vintage"
+      ],
+      "lightingCamera": [
+        "overcast",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": "得分 81；构图: centered, vertical；风格: realistic, photorealistic, editorial, vintage；要求精确文字"
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, editorial, vintage]。\n\nLighting and camera:\n[参考光线镜头: overcast, shallow depth, depth of field]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15705",
+      "15254",
+      "14819",
+      "15602",
+      "15605",
+      "15651"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "15536",
+  "prompt": "A high-end infographic-style visual featuring an oversized {argument name=\"product\" default=\"Puma sneaker\"} placed beside a {argument name=\"subject description\" default=\"young woman\"}. The shoe is scaled to be nearly the same size as her entire seated body, emphasizing dramatic proportion. The woman sits casually leaning against the shoe, one arm resting on it, creating a natural interaction. Her face must closely match the provided reference image — accurate facial structure, skin tone, hairstyle, and expression — clean, polished, and visually appealing. Composition is modern and minimal, with a soft gradient or clean studio background. Include subtle infographic elements such as thin annotation lines, labels, or callouts highlighting features of the shoe (material, cushioning, sole design), but keep them elegant and not cluttered. Lighting is soft studio lighting with gentle shadows, giving a premium commercial look. The sneaker texture should be ultra-detailed (fabric, stitching, logo clarity). The model is styled in minimal, contemporary clothing that complements the shoe color palette. Color grading is crisp and slightly vibrant, with a professional advertising aesthetic. Balanced composition, sharp focus, depth of field subtly applied. Style: premium product infographic, fashion editorial meets product showcase, clean UI-inspired annotations. Resolution: ultra high resolution, 4K, highly detailed, realistic. 85mm lens, f/2.8 for soft depth. photorealistic, commercial ad quality. no distortion, accurate proportions. clean typography annotations",
+  "translatedPrompt": "一张高端信息图风格的视觉图，展示了一个超大的 {argument name=\"product\" default=\"Puma 运动鞋\"} 放置在一位 {argument name=\"subject description\" default=\"年轻女性\"} 旁边。鞋子的比例被放大到几乎与她坐着的身躯一样大，强调戏剧性的比例感。女性随意地靠在鞋子上，一只手臂搭在上面，营造出自然的互动感。她的面部必须与提供的参考图像高度一致——准确的面部结构、肤色、发型和表情——画面整洁、精致且具有视觉吸引力。构图现代且极简，采用柔和的渐变或干净的摄影棚背景。包含微妙的信息图元素，如细注释线、标签或突出鞋子特征（材质、缓冲、鞋底设计）的标注，但要保持优雅，避免杂乱。光线为柔和的摄影棚光，带有轻微阴影，呈现出高端商业质感。运动鞋纹理应极其细腻（面料、缝线、Logo 清晰度）。模特身着简约的现代服装，与鞋子的配色方案相得益彰。色彩分级清晰且略显鲜艳，具有专业的广告美学。构图平衡，对焦锐利，带有微妙的景深效果。风格：高端产品信息图，时尚编辑与产品展示的结合，简洁的 UI 风格注释。分辨率：超高分辨率，4K，高度细节化，写实。85mm 镜头，f/2.8 光圈以获得柔和景深。照片级真实感，商业广告品质。无畸变，比例准确。整洁的排版注释",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "商业产品信息图：一份用于制作高端产品信息图的详细提示词，包含超大时尚单品及具有参考面部一致性的模特。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [
+        "annotations",
+        "callout"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "editorial",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting",
+        "depth of field",
+        "lens"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": "得分 88；构图: annotations, callout；风格: realistic, photorealistic, editorial, premium, studio；包含标注/说明；文字是主视觉"
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: annotations, callout]。\n\nVisual style:\n[参考风格: realistic, photorealistic, editorial, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting, depth of field, lens]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15447",
+      "14807",
+      "15775",
+      "14889",
+      "14878",
+      "15688"
+    ]
+  }
+}

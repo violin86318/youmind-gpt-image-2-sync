@@ -1,0 +1,45 @@
+{
+  "id": "14313",
+  "prompt": "Create a single full-scene image in a 9:16 vertical format, retro 16-bit pixel art style, crisp pixel edges, cinematic lighting, and strong atmosphere. Buddy cop movie poster for the fictional movie “{argument name=\"movie title\" default=\"Dead Heat\"}”. {argument name=\"characters\" default=\"2 zombie detectives\"} in the poster looking for zombie criminals to arrest.",
+  "translatedPrompt": "创作一张 9:16 竖屏比例的完整场景图像，采用复古 16 位像素艺术风格，边缘清晰，具有电影级光影效果和浓厚的氛围感。这是一张虚构电影“{argument name=\"movie title\" default=\"Dead Heat\"}”的搭档警匪片海报。海报中包含 {argument name=\"characters\" default=\"2 位丧尸侦探\"}，他们正在搜寻丧尸罪犯并准备将其逮捕。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "像素艺术电影海报提示词：一个复古 16 位像素艺术风格的电影海报提示词，主题为丧尸侦探搭档警匪片。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "retro",
+        "pixel art"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: cinematic, retro, pixel art]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14030",
+      "14188",
+      "15033",
+      "13745",
+      "14436",
+      "14788"
+    ]
+  }
+}

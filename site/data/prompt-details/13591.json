@@ -1,0 +1,42 @@
+{
+  "id": "13591",
+  "prompt": "{\n  \"type\": \"web browser UI mockup\",\n  \"platform\": \"{argument name=\\\"platform name\\\" default=\\\"YouTube\\\"}\",\n  \"browser_window\": {\n    \"style\": \"macOS light mode\",\n    \"tab\": \"YouTube\",\n    \"url_bar\": \"youtube.com\"\n  },\n  \"layout\": {\n    \"header\": {\n      \"components\": [\"hamburger menu\", \"platform logo\", \"search bar\", \"create video icon\", \"notifications bell\", \"user profile avatar\"]\n    },\n    \"sidebar\": {\n      \"position\": \"left\",\n      \"item_count\": 11,\n      \"sections\": [\n        {\n          \"name\": \"Main\",\n          \"items\": [\"Home\", \"Shorts\", \"Subscriptions\", \"Originals\", \"YouTube Music\"]\n        },\n        {\n          \"name\": \"Explore\",\n          \"items\": [\"Trending\", \"Shopping\", \"Music\", \"Movies\", \"Live\", \"Gaming\"]\n        }\n      ]\n    },\n    \"main_content\": {\n      \"category_tags\": {\n        \"count\": 10,\n        \"labels\": [\"All\", \"Gaming\", \"Music\", \"Live\", \"Podcasts\", \"AI\", \"Cars\", \"Mixes\", \"News\", \"Recently uploaded\"]\n      },\n      \"video_grid\": {\n        \"card_count\": 5,\n        \"cards\": [\n          {\n            \"position\": \"top left\",\n            \"size\": \"large\",\n            \"thumbnail_description\": \"Sam Altman and Greg Brockman sitting on a stage next to a standing humanoid robot, text overlay 'OpenAI Introducing Our Humanoid Robot', LIVE badge\",\n            \"video_title\": \"{argument name=\\\"featured live stream title\\\" default=\\\"Introducing Our Humanoid Robot\\\"}\",\n            \"channel_name\": \"{argument name=\\\"featured live stream channel\\\" default=\\\"OpenAI\\\"}\",\n            \"metadata\": \"482K watching now\"\n          },\n          {\n            \"position\": \"top right\",\n            \"size\": \"large\",\n            \"thumbnail_description\": \"surprised man's face on the left, a large mansion hidden in a forest with an explosion on the right, bold yellow text overlay '{argument name=\\\"top right thumbnail text\\\" default=\\\"TOTAL SECRECY\\\"}'\",\n            \"video_title\": \"{argument name=\\\"top right video title\\\" default=\\\"I Bought 100 Million Dollar Secret House!\\\"}\",\n            \"channel_name\": \"MrBeast\",\n            \"metadata\": \"4.1M views, 19 hours ago, 20:49 duration\"\n          },\n          {\n            \"position\": \"bottom left\",\n            \"size\": \"small\",\n            \"thumbnail_description\": \"Steve Carell holding a laptop showing a scene from The Office\",\n            \"video_title\": \"Steve Carell Breaks Down His Most Iconic Characters | GQ\",\n            \"channel_name\": \"GQ\",\n            \"metadata\": \"987K views, 2 days ago, 17:46 duration\"\n          },\n          {\n            \"position\": \"bottom middle\",\n            \"size\": \"small\",\n            \"thumbnail_description\": \"man looking through a spyglass at a sailing ship on the ocean at sunset\",\n            \"video_title\": \"Black Sails Is Beautiful!\",\n            \"channel_name\": \"Savage Books\",\n            \"metadata\": \"606K views, 2 days ago, 17:46 duration\"\n          },\n          {\n            \"position\": \"bottom right\",\n            \"size\": \"small\",\n            \"thumbnail_description\": \"creepy masked killer character from a video game with text overlay 'DEAD OF DAYLIGHT'\",\n            \"video_title\": \"Playing As The Seekers In Dead By Daylight\",\n            \"channel_name\": \"Unknown\",\n            \"metadata\": \"806K views, 1 day ago, 28:39 duration\"\n          }\n        ]\n      }\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"网页浏览器 UI 模型\",\n  \"platform\": \"{argument name=\\\"platform name\\\" default=\\\"YouTube\\\"}\",\n  \"browser_window\": {\n    \"style\": \"macOS 浅色模式\",\n    \"tab\": \"YouTube\",\n    \"url_bar\": \"youtube.com\"\n  },\n  \"layout\": {\n    \"header\": {\n      \"components\": [\"汉堡菜单\", \"平台 Logo\", \"搜索栏\", \"创建视频图标\", \"通知铃铛\", \"用户头像\"]\n    },\n    \"sidebar\": {\n      \"position\": \"左侧\",\n      \"item_count\": 11,\n      \"sections\": [\n        {\n          \"name\": \"主要\",\n          \"items\": [\"首页\", \"Shorts\", \"订阅\", \"原创内容\", \"YouTube Music\"]\n        },\n        {\n          \"name\": \"探索\",\n          \"items\": [\"热门\", \"购物\", \"音乐\", \"电影\", \"直播\", \"游戏\"]\n        }\n      ]\n    },\n    \"main_content\": {\n      \"category_tags\": {\n        \"count\": 10,\n        \"labels\": [\"全部\", \"游戏\", \"音乐\", \"直播\", \"播客\", \"AI\", \"汽车\", \"合辑\", \"新闻\", \"最近上传\"]\n      },\n      \"video_grid\": {\n        \"card_count\": 5,\n        \"cards\": [\n          {\n            \"position\": \"左上\",\n            \"size\": \"大\",\n            \"thumbnail_description\": \"Sam Altman 和 Greg Brockman 坐在舞台上，旁边是一个站立的人形机器人，文字覆盖 'OpenAI Introducing Our Humanoid Robot'，带有 LIVE 徽章\",\n            \"video_title\": \"{argument name=\\\"featured live stream title\\\" default=\\\"Introducing Our Humanoid Robot\\\"}\",\n            \"channel_name\": \"{argument name=\\\"featured live stream channel\\\" default=\\\"OpenAI\\\"}\",\n            \"metadata\": \"48.2 万人正在观看\"\n          },\n          {\n            \"position\": \"右上\",\n            \"size\": \"大\",\n            \"thumbnail_description\": \"左侧是惊讶的男人脸，右侧是隐藏在森林中的巨大豪宅并伴有爆炸效果，粗体黄色文字覆盖 '{argument name=\\\"top right thumbnail text\\\" default=\\\"TOTAL SECRECY\\\"}'\",\n            \"video_title\": \"{argument name=\\\"top right video title\\\" default=\\\"I Bought 100 Million Dollar Secret House!\\\"}\",\n            \"channel_name\": \"MrBeast\",\n            \"metadata\": \"410 万次观看，19 小时前，时长 20:49\"\n          },\n          {\n            \"position\": \"左下\",\n            \"size\": \"小\",\n            \"thumbnail_description\": \"Steve Carell 手持一台显示《办公室》场景的笔记本电脑\",\n            \"video_title\": \"Steve Carell 深度解析他最标志性的角色 | GQ\",\n            \"channel_name\": \"GQ\",\n            \"metadata\": \"98.7 万次观看，2 天前，时长 17:46\"\n          },\n          {\n            \"position\": \"中下\",\n            \"size\": \"小\",\n            \"thumbnail_description\": \"男人在日落时分透过望远镜观察海面上的帆船\",\n            \"video_title\": \"Black Sails Is Beautiful!\",\n            \"channel_name\": \"Savage Books\",\n            \"metadata\": \"60.6 万次观看，2 天前，时长 17:46\"\n          },\n          {\n            \"position\": \"右下\",\n            \"size\": \"小\",\n            \"thumbnail_description\": \"来自电子游戏的恐怖面具杀手角色，文字覆盖 'DEAD OF DAYLIGHT'\",\n            \"video_title\": \"Playing As The Seekers In Dead By Daylight\",\n            \"channel_name\": \"Unknown\",\n            \"metadata\": \"80.6 万次观看，1 天前，时长 28:39\"\n          }\n        ]\n      }\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "视频流媒体平台主页 UI：生成视频流媒体网站主页的详细模型，包含侧边栏、分类标签以及带有标题和元数据的视频缩略图网格。",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [
+        "grid"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14083",
+      "14166",
+      "13803",
+      "14037",
+      "14091",
+      "13732"
+    ]
+  }
+}

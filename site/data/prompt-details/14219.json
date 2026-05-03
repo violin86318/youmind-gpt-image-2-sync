@@ -1,0 +1,40 @@
+{
+  "id": "14219",
+  "prompt": "{\n  \"type\": \"promotional banner advertisement\",\n  \"theme\": \"Mother's Day flower gift\",\n  \"visual_style\": \"soft, elegant, feminine, pastel colors, scattered pink petals in the background\",\n  \"imagery\": {\n    \"bouquet\": \"large arrangement of {argument name=\\\"color theme\\\" default=\\\"pink\\\"} carnations and roses, wrapped in pink paper with a satin ribbon, placed on the right side\",\n    \"tag\": \"white rectangular tag hanging from the bouquet reading '{argument name=\\\"tag text\\\" default=\\\"Thank you Mother!\\\"}' with a drawn heart\"\n  },\n  \"layout\": {\n    \"main_typography\": {\n      \"position\": \"top left to mid left\",\n      \"top_arch\": \"大好きなお母さんへ、\",\n      \"sub_arch\": \"\\\\ 感謝の気持ちをお花に込めて。 /\",\n      \"headline_1\": \"{argument name=\\\"main event\\\" default=\\\"母の日\\\"}に\",\n      \"headline_2\": \"{argument name=\\\"product name\\\" default=\\\"フラワーギフト\\\"}を\",\n      \"headline_3\": \"贈ろう\"\n    },\n    \"details_section\": {\n      \"position\": \"bottom left above footer\",\n      \"badge\": \"circular badge with text '{argument name=\\\"event date\\\" default=\\\"5.12\\\"} sun 母の日'\",\n      \"description_text\": \"ありがとうの気持ちを お花にのせて、 特別な一日をもっと華やかに。\"\n    },\n    \"footer\": {\n      \"position\": \"bottom edge\",\n      \"style\": \"white horizontal bar\",\n      \"count\": 3,\n      \"items\": [\n        { \"icon\": \"delivery truck\", \"text\": \"全国配送対応\", \"subtext\": \"※一部地域を除く\" },\n        { \"icon\": \"gift box\", \"text\": \"ギフトラッピング無料\" },\n        { \"icon\": \"calendar\", \"text\": \"5/10(金)までのご注文で 母の日当日にお届け\" }\n      ]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"promotional banner advertisement\",\n  \"theme\": \"Mother's Day flower gift\",\n  \"visual_style\": \"soft, elegant, feminine, pastel colors, scattered pink petals in the background\",\n  \"imagery\": {\n    \"bouquet\": \"large arrangement of {argument name=\\\"color theme\\\" default=\\\"pink\\\"} carnations and roses, wrapped in pink paper with a satin ribbon, placed on the right side\",\n    \"tag\": \"white rectangular tag hanging from the bouquet reading '{argument name=\\\"tag text\\\" default=\\\"Thank you Mother!\\\"}' with a drawn heart\"\n  },\n  \"layout\": {\n    \"main_typography\": {\n      \"position\": \"top left to mid left\",\n      \"top_arch\": \"大好きなお母さんへ、\",\n      \"sub_arch\": \"\\\\ 感謝の気持ちをお花に込めて。 /\",\n      \"headline_1\": \"{argument name=\\\"main event\\\" default=\\\"母の日\\\"}に\",\n      \"headline_2\": \"{argument name=\\\"product name\\\" default=\\\"フラワーギフト\\\"}を\",\n      \"headline_3\": \"贈ろう\"\n    },\n    \"details_section\": {\n      \"position\": \"bottom left above footer\",\n      \"badge\": \"circular badge with text '{argument name=\\\"event date\\\" default=\\\"5.12\\\"} sun 母の日'\",\n      \"description_text\": \"ありがとうの気持ちを お花にのせて、 特別な一日をもっと華やかに。\"\n    },\n    \"footer\": {\n      \"position\": \"bottom edge\",\n      \"style\": \"white horizontal bar\",\n      \"count\": 3,\n      \"items\": [\n        { \"icon\": \"delivery truck\", \"text\": \"全国配送対応\", \"subtext\": \"※一部地域を除く\" },\n        { \"icon\": \"gift box\", \"text\": \"ギフトラッピング無料\" },\n        { \"icon\": \"calendar\", \"text\": \"5/10(金)までのご注文で 母の日当日にお届け\" }\n      ]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Mother's Day Flower Gift Promotional Banner：Generates a Japanese promotional banner for a Mother's Day flower gift, featuring a bouquet, elegant typography, and a 3-item informational footer.",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14631",
+      "15450",
+      "14849",
+      "13779",
+      "13875",
+      "14684"
+    ]
+  }
+}

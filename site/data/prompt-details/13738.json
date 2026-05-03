@@ -1,0 +1,43 @@
+{
+  "id": "13738",
+  "prompt": "{\n  \"type\": \"first-person RPG video game screenshot\",\n  \"scene\": {\n    \"environment\": \"{argument name=\\\"city style\\\" default=\\\"ancient ruined Dwemer city in a deep rocky canyon\\\"}\",\n    \"lighting\": \"{argument name=\\\"lighting and atmosphere\\\" default=\\\"golden hour sunset, hazy, warm orange glow, dusty atmosphere\\\"}\",\n    \"details\": \"cascading waterfalls, towering stone pillars, domed structures with brass accents, rugged cliffs\"\n  },\n  \"first_person_view\": {\n    \"left_hand\": \"{argument name=\\\"left hand equipment\\\" default=\\\"round wooden and metal shield\\\"}\",\n    \"right_hand\": \"{argument name=\\\"right hand equipment\\\" default=\\\"long steel sword\\\"}\"\n  },\n  \"ui_overlay\": {\n    \"count\": 4,\n    \"components\": [\n      {\n        \"position\": \"top center\",\n        \"description\": \"horizontal compass bar with 'N' and a marker\"\n      },\n      {\n        \"position\": \"middle left\",\n        \"description\": \"floating quest marker with text\",\n        \"text\": \"{argument name=\\\"quest objective\\\" default=\\\"REACH THE DWEMER CITY OF KALJOR\\\"}\"\n      },\n      {\n        \"position\": \"bottom left\",\n        \"description\": \"3 stacked resource bars (red 236/236, blue 142/142, green 183/183)\"\n      },\n      {\n        \"position\": \"bottom right\",\n        \"description\": \"2 circular quick-slot icons showing a fire spell and a bow\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"第一人称 RPG 游戏截图\",\n  \"environment\": \"{argument name=\\\"场景描述\\\" default=\\\"岩石峡谷中拥有石塔、黄铜圆顶和瀑布的古老废墟城市\\\"}\",\n  \"lighting\": \"{argument name=\\\"时间段\\\" default=\\\"带有体积光和温暖橙色光芒的黄金时刻日落\\\"}\",\n  \"first_person_view\": {\n    \"left_hand\": \"{argument name=\\\"左手装备\\\" default=\\\"圆形木制金属盾牌\\\"}\",\n    \"right_hand\": \"{argument name=\\\"右手武器\\\" default=\\\"向上倾斜的钢剑\\\"}\"\n  },\n  \"hud_elements\": [\n    {\n      \"position\": \"顶部中央\",\n      \"description\": \"带有“N”和标记的水平指南针栏\"\n    },\n    {\n      \"position\": \"左侧中部\",\n      \"description\": \"悬浮的黄色菱形任务标记，带有文本“{argument name=\\\"任务文本\\\" default=\\\"前往 DWEMER 城市 KALJOR\\\"}”\"\n    },\n    {\n      \"position\": \"左下角\",\n      \"description\": \"3 条水平资源栏：红色 (236/236)、蓝色 (142/142) 和绿色 (183/183)\"\n    },\n    {\n      \"position\": \"右下角\",\n      \"description\": \"2 个圆形动作图标，显示火焰法术和弓箭\"\n    }\n  ]\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "第一人称奇幻 RPG 游戏截图：生成一张包含可自定义奇幻环境和标准 RPG 抬头显示（HUD）的第一人称视角游戏截图。",
+      "subject": "界面",
+      "scene": "插画/漫画",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "golden hour"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "动漫分镜、战斗场景、运动瞬间、夸张叙事图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 插画/漫画 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: golden hour]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14270",
+      "15295",
+      "13538",
+      "13623",
+      "14999",
+      "15301"
+    ]
+  }
+}

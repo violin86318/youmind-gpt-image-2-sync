@@ -1,0 +1,46 @@
+{
+  "id": "14713",
+  "prompt": "A horizontal split-screen cinematic shot of {argument name=\"scene\" default=\"Times Square, New York\"}, seamlessly blending two different eras: {argument name=\"first era\" default=\"1920s\"} on the left and {argument name=\"second era\" default=\"present day\"} on the right (default: about 100 years ago vs. present day). On the left side: show era-appropriate architecture, interior or environment design, materials, vehicles, and props that clearly belong to that historical period. People wear authentic clothing from the era, including hairstyles, accessories, and typical items in their hands. The overall mood feels nostalgic and historically accurate. On the right side: show the same scene in the modern era, with updated architecture or renovated structures, contemporary materials (glass, steel, LED screens, modern furniture), modern vehicles or equipment, and current technology. People wear contemporary fashion that matches today’s style in this setting. In the center: the two eras merge and overlap organically, without a hard dividing line. Elements from both eras visually interact: people from different times look at each other, walk through each other’s space, or seem surprised by the other era’s technology and objects. Architecture and environment smoothly morph from old to new. Make sure the scene is not just a simple left/right comparison but a dynamic time-travel interaction. Photorealistic, 8k resolution, cinematic lighting, wide angle, highly detailed textures, rich sense of time-travel storytelling. Aspect Ratio: 4:3",
+  "translatedPrompt": "一张水平分屏的电影感镜头，展示 {argument name=\"scene\" default=\"纽约时代广场\"}，将两个不同的时代无缝融合：左侧为 {argument name=\"first era\" default=\"1920 年代\"}，右侧为 {argument name=\"second era\" default=\"现代\"}（默认：约 100 年前对比现代）。左侧：展示符合该时代特征的建筑、室内或环境设计、材料、车辆以及明确属于该历史时期的道具。人物穿着该时代的真实服饰，包括发型、配饰以及手中典型的物品。整体氛围充满怀旧感且符合历史真实性。右侧：展示同一场景的现代面貌，包含更新后的建筑或翻新结构、现代材料（玻璃、钢材、LED 屏幕、现代家具）、现代车辆或设备以及当前科技。人物穿着符合当代风格的时尚服饰。中心区域：两个时代有机地融合与重叠，没有生硬的分割线。两个时代的元素在视觉上产生互动：不同时代的人们互相注视、穿过对方的空间，或对彼此时代的科技和物品感到惊讶。建筑和环境从旧到新平滑过渡。确保场景不仅仅是简单的左右对比，而是一种动态的时空穿越互动。照片级真实感，8k 分辨率，电影级灯光，广角，高度精细的纹理，丰富的时空穿越叙事感。宽高比：4:3",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "分屏时空穿越场景：一个复杂的提示词，旨在生成一张无缝的水平分屏图像，将历史与现代时代融合在同一个场景中。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15045",
+      "15048",
+      "15618",
+      "14430",
+      "15609",
+      "14014"
+    ]
+  }
+}

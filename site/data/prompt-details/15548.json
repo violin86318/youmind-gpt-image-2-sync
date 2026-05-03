@@ -1,0 +1,35 @@
+{
+  "id": "15548",
+  "prompt": "传统工笔重彩风格，湖畔园林亭台。枝头{argument name=\"植物\" default=\"牡丹\"}盛开，画面中{argument name=\"动物\" default=\"一对鸳鸯\"}栖息在横向伸展的牡丹枝干上，姿态亲昵，羽毛层次细腻、色彩典雅，呈现精致的工笔勾线与淡彩晕染效果。宣纸质感背景，构图呈现典雅的花鸟情趣。--ar 3:2",
+  "translatedPrompt": "传统工笔重彩风格，湖畔园林凉亭。{argument name=\"plant\" default=\"牡丹\"} 在枝头盛开。一对 {argument name=\"animal\" default=\"鸳鸯\"} 姿态亲昵地栖息在横出的牡丹枝干上。羽毛层层叠叠，色彩典雅，展现出精致的工笔勾勒与淡彩水墨效果。宣纸质感背景，构图呈现出优雅的花鸟意蕴。--ar 3:2",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "传统工笔重彩花鸟画：一个关于工笔风格宣纸鸳鸯牡丹图的传统中国画艺术提示词。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

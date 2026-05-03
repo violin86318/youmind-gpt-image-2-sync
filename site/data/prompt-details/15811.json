@@ -1,0 +1,46 @@
+{
+  "id": "15811",
+  "prompt": "A clean anime-style half-body character portrait on a plain off-white background, showing a young female fantasy archer from the chest up, facing slightly away with her back and left shoulder more visible while her head turns subtly to the side. She has {argument name=\"hair color\" default=\"golden blonde\"} shoulder-length wavy bob hair with soft layered ends, a wide {argument name=\"headband color\" default=\"dark red\"} headband, and a large rectangular skin-tone block completely covering the face area so no facial features are visible. She wears a white high ruffled collar blouse, a deep teal-blue outer garment with scalloped trim, and a long mustard-gold scarf draped loosely around the neck and over one shoulder. A brown leather quiver is visible over her right shoulder, holding exactly 5 arrows with white feather fletching and dark shafts. The illustration should have crisp line art, flat cel shading, soft muted colors, and a polished fantasy-anime character design aesthetic reminiscent of a classic RPG portrait. Composition centered, portrait orientation, upper torso crop, minimal background, no extra objects, no text.",
+  "translatedPrompt": "一张简洁的动漫风格半身角色肖像，背景为纯净的灰白色。画面展示了一位年轻的女性幻想弓箭手，从胸部以上取景，身体略微背对镜头，背部和左肩更为明显，头部轻微转向侧面。她留着 {argument name=\"hair color\" default=\"金色\"} 的齐肩波浪短发，发梢层次柔和，佩戴着宽大的 {argument name=\"headband color\" default=\"深红色\"} 发带，面部区域被一个巨大的肤色长方形色块完全遮挡，因此无法看到任何面部特征。她身穿白色高领荷叶边衬衫，外搭深青蓝色饰有扇形花边的外衣，脖颈和一侧肩膀上随意披着一条芥末金色的长围巾。右肩可见一个棕色皮革箭袋，里面装着 5 支箭，箭羽为白色，箭杆为深色。插画应具备清晰的线条、平涂赛璐珞阴影、柔和的低饱和度色彩，并呈现出类似经典 RPG 肖像的精致幻想动漫角色设计美学。构图居中，肖像方向，上半身裁剪，极简背景，无额外物体，无文字。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫弓箭手肖像（面部遮挡）：此提示词可生成一张简洁的幻想动漫风格上半身角色肖像，主角是一位金发弓箭手，面部带有遮挡块，适用于风格化角色艺术或模因风格的头像。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "layered"
+      ],
+      "style": [
+        "anime",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；禁止额外文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, layered]。\n\nVisual style:\n[参考风格: anime, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；禁止额外文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14508",
+      "14816",
+      "14886",
+      "15032",
+      "14428",
+      "14578"
+    ]
+  }
+}

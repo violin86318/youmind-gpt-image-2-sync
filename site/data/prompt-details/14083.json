@@ -1,0 +1,46 @@
+{
+  "id": "14083",
+  "prompt": "{\n  \"type\": \"desktop UI mockup\",\n  \"application\": \"YouTube homepage\",\n  \"theme\": \"{argument name=\\\"theme\\\" default=\\\"dark mode\\\"}\",\n  \"browser_window\": {\n    \"url_bar\": \"{argument name=\\\"browser URL\\\" default=\\\"youtube.com\\\"}\",\n    \"tabs\": 1,\n    \"elements\": [\"back/forward buttons\", \"refresh\", \"extensions\", \"profile avatar\"]\n  },\n  \"layout\": {\n    \"sidebar\": {\n      \"position\": \"left\",\n      \"sections\": [\n        { \"title\": \"Main\", \"count\": 3, \"items\": [\"Home\", \"Shorts\", \"Subscriptions\"] },\n        { \"title\": \"You\", \"count\": 6, \"items\": [\"Your channel\", \"History\", \"Playlists\", \"Your videos\", \"Watch later\", \"Liked videos\"] },\n        { \"title\": \"Subscriptions\", \"count\": 8, \"items\": [\"Linus Tech Tips\", \"MrBeast\", \"Kurzgesagt - In a...\", \"ColdFusion\", \"3Blue1Brown\", \"Khan Academy\", \"Veritasium\", \"Show more\"] },\n        { \"title\": \"Explore\", \"count\": 7, \"items\": [\"Trending\", \"Music\", \"Films\", \"Live\", \"Gaming\", \"News\", \"Sport\"] },\n        { \"title\": \"More from YouTube\", \"count\": 3, \"items\": [\"YouTube Premium\", \"YouTube Music\", \"YouTube Kids\"] }\n      ]\n    },\n    \"top_filter_bar\": {\n      \"count\": 11,\n      \"labels\": [\"All\", \"Gaming\", \"Music\", \"Live\", \"Podcasts\", \"Mixes\", \"Science\", \"Lo-fi\", \"Thrillers\", \"Recently uploaded\", \"Watched\"]\n    },\n    \"video_grid\": {\n      \"layout\": \"4 rows by 3 columns\",\n      \"count\": 12,\n      \"videos\": [\n        { \"title\": \"Why Build Your Own GPU is Almost Impossible\", \"channel\": \"Linus Tech Tips\", \"thumbnail\": \"GPU chip with red arrow\" },\n        { \"title\": \"Survive 100 Days In Circle, Win $500,000\", \"channel\": \"MrBeast\", \"thumbnail\": \"MrBeast smiling with contestants in background\" },\n        { \"title\": \"What If We Nuke an Asteroid?\", \"channel\": \"Kurzgesagt - In a Nutshell\", \"thumbnail\": \"Missile approaching an asteroid in space\" },\n        { \"title\": \"How Dubai Became a $10 Billion City\", \"channel\": \"ColdFusion\", \"thumbnail\": \"Man next to Dubai skyline with text '$0 TO $10B'\" },\n        { \"title\": \"The Beautiful Math of Euler's Identity\", \"channel\": \"3Blue1Brown\", \"thumbnail\": \"Math equation and spiral graph on black background\" },\n        { \"title\": \"The World in 2040 - Population, Climate & More\", \"channel\": \"Veritasium\", \"thumbnail\": \"Lush green forest with text 'The World in 2040'\" },\n        { \"title\": \"I've Been Using Linux For 12 Years, This Is What Finally...\", \"channel\": \"DistroTube\", \"thumbnail\": \"Laptop and smartphone with a blue arrow connecting them\" },\n        { \"title\": \"Black Holes Explained - From Birth to Death\", \"channel\": \"Khan Academy\", \"thumbnail\": \"Glowing orange accretion disk of a black hole\" },\n        { \"title\": \"The Problem With Diet Advice\", \"channel\": \"Andrew Huberman\", \"thumbnail\": \"Man in black shirt with text 'the problem with diet advice'\" },\n        { \"title\": \"How to Learn Anything (Evidence-Based)\", \"channel\": \"Ali Abdaal\", \"thumbnail\": \"Flat illustration of a man reading a book surrounded by colorful leaves\" },\n        { \"title\": \"The Last of Us Part 2 is a Masterpiece\", \"channel\": \"Naughty Dog\", \"thumbnail\": \"Gritty portrait of Ellie with game logo\" },\n        { \"title\": \"lofi hip hop radio - beats to relax/study to\", \"channel\": \"Lofi Girl\", \"thumbnail\": \"Anime girl studying at a desk with city view at sunset\" }\n      ]\n    }\n  },\n  \"os_environment\": {\n    \"os\": \"{argument name=\\\"operating system\\\" default=\\\"Windows 10\\\"}\",\n    \"taskbar_position\": \"bottom\",\n    \"visible_icons\": [\"Start\", \"Search bar\", \"Task View\", \"File Explorer\", \"Edge\", \"Spotify\"],\n    \"system_tray\": [\"network\", \"volume\", \"battery\", \"clock showing 08:34 03/04/2024\"]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"桌面端 UI 原型\",\n  \"application\": \"YouTube 首页\",\n  \"theme\": \"{argument name=\\\"theme\\\" default=\\\"深色模式\\\"}\",\n  \"browser_window\": {\n    \"url_bar\": \"{argument name=\\\"browser URL\\\" default=\\\"youtube.com\\\"}\",\n    \"tabs\": 1,\n    \"elements\": [\"后退/前进按钮\", \"刷新\", \"扩展程序\", \"个人资料头像\"]\n  },\n  \"layout\": {\n    \"sidebar\": {\n      \"position\": \"左侧\",\n      \"sections\": [\n        { \"title\": \"主页\", \"count\": 3, \"items\": [\"首页\", \"Shorts\", \"订阅内容\"] },\n        { \"title\": \"我\", \"count\": 6, \"items\": [\"您的频道\", \"历史记录\", \"播放列表\", \"您的视频\", \"稍后观看\", \"点赞的视频\"] },\n        { \"title\": \"订阅内容\", \"count\": 8, \"items\": [\"Linus Tech Tips\", \"MrBeast\", \"Kurzgesagt - In a...\", \"ColdFusion\", \"3Blue1Brown\", \"Khan Academy\", \"Veritasium\", \"显示更多\"] },\n        { \"title\": \"探索\", \"count\": 7, \"items\": [\"热门\", \"音乐\", \"电影\", \"直播\", \"游戏\", \"新闻\", \"体育\"] },\n        { \"title\": \"更多 YouTube 服务\", \"count\": 3, \"items\": [\"YouTube Premium\", \"YouTube Music\", \"YouTube Kids\"] }\n      ]\n    },\n    \"top_filter_bar\": {\n      \"count\": 11,\n      \"labels\": [\"全部\", \"游戏\", \"音乐\", \"直播\", \"播客\", \"合辑\", \"科学\", \"Lo-fi\", \"惊悚\", \"最新上传\", \"已观看\"]\n    },\n    \"video_grid\": {\n      \"layout\": \"4 行 3 列\",\n      \"count\": 12,\n      \"videos\": [\n        { \"title\": \"为什么自制 GPU 几乎是不可能的\", \"channel\": \"Linus Tech Tips\", \"thumbnail\": \"带有红色箭头的 GPU 芯片\" },\n        { \"title\": \"在圆圈里生存 100 天，赢取 50 万美元\", \"channel\": \"MrBeast\", \"thumbnail\": \"MrBeast 微笑，背景是参赛者\" },\n        { \"title\": \"如果我们用核弹炸毁小行星会怎样？\", \"channel\": \"Kurzgesagt - In a Nutshell\", \"thumbnail\": \"导弹在太空中接近小行星\" },\n        { \"title\": \"迪拜是如何成为一座 100 亿美元城市的\", \"channel\": \"ColdFusion\", \"thumbnail\": \"男子站在迪拜天际线旁，文字显示 '$0 TO $10B'\" },\n        { \"title\": \"欧拉恒等式的数学之美\", \"channel\": \"3Blue1Brown\", \"thumbnail\": \"黑色背景上的数学公式和螺旋图\" },\n        { \"title\": \"2040 年的世界 - 人口、气候及更多\", \"channel\": \"Veritasium\", \"thumbnail\": \"郁郁葱葱的森林，文字显示 'The World in 2040'\" },\n        { \"title\": \"我用了 12 年 Linux，终于……\", \"channel\": \"DistroTube\", \"thumbnail\": \"笔记本电脑和智能手机，中间有蓝色箭头连接\" },\n        { \"title\": \"黑洞详解 - 从诞生到死亡\", \"channel\": \"Khan Academy\", \"thumbnail\": \"黑洞发光的橙色吸积盘\" },\n        { \"title\": \"饮食建议的问题\", \"channel\": \"Andrew Huberman\", \"thumbnail\": \"身穿黑衬衫的男子，文字显示 'the problem with diet advice'\" },\n        { \"title\": \"如何学习任何事物（基于证据）\", \"channel\": \"Ali Abdaal\", \"thumbnail\": \"扁平化插画，一名男子在阅读书籍，周围环绕着彩色叶子\" },\n        { \"title\": \"《最后生还者 2》是一部杰作\", \"channel\": \"Naughty Dog\", \"thumbnail\": \"艾莉的坚毅肖像，带有游戏标志\" },\n        { \"title\": \"lofi hip hop radio - 适合放松/学习的节拍\", \"channel\": \"Lofi Girl\", \"thumbnail\": \"动漫女孩在书桌前学习，窗外是日落时的城市景观\" }\n      ]\n    }\n  },\n  \"os_environment\": {\n    \"os\": \"{argument name=\\\"operating system\\\" default=\\\"Windows 10\\\"}\",\n    \"taskbar_position\": \"底部\",\n    \"visible_icons\": [\"开始\", \"搜索栏\", \"任务视图\", \"文件资源管理器\", \"Edge\", \"Spotify\"],\n    \"system_tray\": [\"网络\", \"音量\", \"电池\", \"显示时间为 08:34 2024 年 4 月 3 日的时钟\"]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "YouTube 深色模式桌面端 UI 原型：生成一份高度详细、准确的 YouTube 桌面端首页深色模式原型，包含完整的侧边栏、筛选标签以及 12 个视频网格，并展示知名教育和娱乐频道的缩略图。",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [
+        "grid"
+      ],
+      "style": [
+        "anime",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[参考风格: anime, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13591",
+      "14166",
+      "14581",
+      "14275",
+      "14457",
+      "13803"
+    ]
+  }
+}

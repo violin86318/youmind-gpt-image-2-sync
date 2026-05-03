@@ -1,0 +1,40 @@
+{
+  "id": "13669",
+  "prompt": "A candid, realistic smartphone photo of five men having an intense discussion around a dark wooden conference table in a modern, minimalist office. On the mid-left, a man resembling {argument name=\"mid-left person\" default=\"Sam Altman\"} in a green sweater gestures with his hands while speaking. In the center, a man resembling {argument name=\"center person\" default=\"Mark Zuckerberg\"} in a grey t-shirt listens intently. On the mid-right, a man resembling {argument name=\"mid-right person\" default=\"Elon Musk\"} in a black jacket gestures while responding. Two other men wearing glasses and dark sweaters sit at the far ends of the table, observing with their hands near their faces. The table is cluttered with 3 white ceramic mugs, 3 clear drinking glasses, 1 silver soda can, open laptops, tablets, scattered papers, notebooks, and tangled black cables. The room features plain white walls and a large black-framed window revealing trees outside. The lighting is indoor and slightly grainy, giving it an authentic, {argument name=\"photo style\" default=\"leaked behind-the-scenes\"} aesthetic.",
+  "translatedPrompt": "一张自然、写实的摄影作品，展示了五位 {argument name=\"meeting subject\" default=\"科技公司 CEO\"} 围绕着一张杂乱的会议桌进行激烈讨论的场景。画面中包括身穿绿色毛衣的 {argument name=\"person 1\" default=\"Sam Altman\"}、身穿灰色 T 恤的 {argument name=\"person 2\" default=\"Mark Zuckerberg\"}，以及正在做手势、身穿黑色夹克的 {argument name=\"person 3\" default=\"Elon Musk\"}。桌上堆满了笔记本电脑、白色咖啡杯、水杯、文件和电缆。场景设定在 {argument name=\"setting\" default=\"现代办公室会议室\"}，背景是简洁的墙壁和可以看到树木的窗户。使用智能手机拍摄，略带颗粒感，自然光照明。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "科技公司 CEO 会议：生成一张写实、自然的摄影作品，展示知名科技界人士围绕着杂乱的会议桌进行讨论的场景。",
+      "subject": "人物",
+      "scene": "空间/场景",
+      "composition": [],
+      "style": [
+        "realistic",
+        "minimalist"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "空间概念、建筑场景、游戏场景、产品场景盒子",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 空间/场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, minimalist]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13734",
+      "15518",
+      "14686",
+      "13614",
+      "13890",
+      "15211"
+    ]
+  }
+}

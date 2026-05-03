@@ -10,8 +10,11 @@ const state = {
   builderReady: false,
   builderPromptId: null,
   modalPromptMode: "translated",
-  activePrompt: null
+  activePrompt: null,
+  visibleCount: 48
 };
+
+const CARD_BATCH_SIZE = 48;
 
 const REPORT_FILTERS = {
   production: {
@@ -207,6 +210,8 @@ const elements = {
   reportDownload: document.querySelector("#report-download"),
   resultsCount: document.querySelector("#results-count"),
   cards: document.querySelector("#cards"),
+  loadMoreWrap: document.querySelector("#load-more-wrap"),
+  loadMore: document.querySelector("#load-more"),
   empty: document.querySelector("#empty-state"),
   modal: document.querySelector("#detail-modal"),
   modalMedia: document.querySelector("#modal-media"),
@@ -258,6 +263,37 @@ function formatDate(isoString) {
 
 function getDisplayPromptText(prompt) {
   return prompt.translatedPrompt || prompt.prompt || "";
+}
+
+async function ensurePromptDetails(promptOrId) {
+  const prompt =
+    typeof promptOrId === "object" && promptOrId
+      ? promptOrId
+      : findPromptById(promptOrId);
+
+  if (!prompt || prompt.detailsLoaded) {
+    return prompt;
+  }
+
+  const response = await fetch(`./data/prompt-details/${encodeURIComponent(prompt.id)}.json`);
+
+  if (!response.ok) {
+    throw new Error(`Failed to load prompt detail: ${prompt.id}`);
+  }
+
+  const detail = await response.json();
+  prompt.prompt = detail.prompt || "";
+  prompt.translatedPrompt = detail.translatedPrompt || "";
+
+  if (detail.analysis && typeof detail.analysis === "object") {
+    prompt.analysis = {
+      ...(prompt.analysis || {}),
+      ...detail.analysis
+    };
+  }
+
+  prompt.detailsLoaded = true;
+  return prompt;
 }
 
 function getActivePromptText() {
@@ -330,9 +366,7 @@ function getSearchText(prompt) {
     ...(prompt.analysis?.compositionPatterns || []),
     ...(prompt.analysis?.styleKeywords || []),
     ...(prompt.analysis?.lightingCamera || []),
-    ...(prompt.analysis?.modules || []),
-    prompt.prompt,
-    prompt.translatedPrompt
+    ...(prompt.analysis?.modules || [])
   ]
     .join("\n")
     .toLowerCase();
@@ -478,6 +512,7 @@ function applyFilters() {
     return queryTokens.every((token) => searchText.includes(token));
   });
 
+  state.visibleCount = CARD_BATCH_SIZE;
   renderCards();
 }
 
@@ -830,8 +865,8 @@ function updateBuilderOutput() {
   elements.builderScore.textContent = `生图改写 ${result.label} ${result.score}/100`;
 }
 
-function fillBuilderFromPrompt(promptId) {
-  const prompt = findPromptById(promptId);
+async function fillBuilderFromPrompt(promptId) {
+  const prompt = await ensurePromptDetails(promptId);
   const analysis = prompt ? getAnalysis(prompt) : null;
 
   if (!prompt || !analysis) {
@@ -912,13 +947,15 @@ function renderAnalysisSummary(prompt) {
 
 function renderCards() {
   const activeReport = getActiveReport();
+  const visiblePrompts = state.filtered.slice(0, state.visibleCount);
   elements.resultsCount.textContent = activeReport
-    ? `${activeReport.label}：${state.filtered.length} / ${state.prompts.length}`
-    : `${state.filtered.length} / ${state.prompts.length}`;
+    ? `${activeReport.label}：${visiblePrompts.length} / ${state.filtered.length} / ${state.prompts.length}`
+    : `${visiblePrompts.length} / ${state.filtered.length} / ${state.prompts.length}`;
   elements.cards.innerHTML = "";
 
   if (state.filtered.length === 0) {
     elements.empty.classList.remove("hidden");
+    elements.loadMoreWrap.classList.add("hidden");
     return;
   }
 
@@ -926,9 +963,8 @@ function renderCards() {
 
   const fragment = document.createDocumentFragment();
 
-  for (const prompt of state.filtered) {
+  for (const prompt of visiblePrompts) {
     const image = getPreviewImage(prompt);
-    const promptText = getDisplayPromptText(prompt);
     const analysis = getAnalysis(prompt);
     const article = document.createElement("article");
     article.className = "prompt-card";
@@ -955,40 +991,22 @@ function renderCards() {
         analysis
           ? `<div class="card-actions">
               <button class="copy-button card-builder" type="button" data-id="${escapeHtml(prompt.id)}">Builder</button>
-            </div>`
-          : ""
-      }
-      ${
-        promptText
-          ? `<div class="card-prompt">
-              <pre>${escapeHtml(promptText)}</pre>
-              <div class="card-copy-row">
-                <button class="copy-button card-copy" type="button" data-id="${escapeHtml(prompt.id)}">Prompt</button>
-                ${
-                  analysis?.copyTemplate
-                    ? `<button class="copy-button card-template-copy" type="button" data-id="${escapeHtml(prompt.id)}">Template</button>`
-                    : ""
-                }
-              </div>
+              <button class="copy-button card-copy" type="button" data-id="${escapeHtml(prompt.id)}">Prompt</button>
             </div>`
           : ""
       }
     `;
 
     article.querySelector(".card-button").addEventListener("click", () => openModal(prompt.id));
-    article.querySelector(".card-builder")?.addEventListener("click", (event) => {
+    article.querySelector(".card-builder")?.addEventListener("click", async (event) => {
       event.stopPropagation();
-      fillBuilderFromPrompt(event.currentTarget.dataset.id);
+      await fillBuilderFromPrompt(event.currentTarget.dataset.id);
       showTemporaryLabel(event.currentTarget, "Added");
     });
     article.querySelector(".card-copy")?.addEventListener("click", async (event) => {
       event.stopPropagation();
-      await writeClipboardText(promptText);
-      showCopied(event.currentTarget);
-    });
-    article.querySelector(".card-template-copy")?.addEventListener("click", async (event) => {
-      event.stopPropagation();
-      await writeClipboardText(getTemplateCopy(prompt));
+      const detailedPrompt = await ensurePromptDetails(prompt);
+      await writeClipboardText(getDisplayPromptText(detailedPrompt));
       showCopied(event.currentTarget);
     });
 
@@ -996,6 +1014,8 @@ function renderCards() {
   }
 
   elements.cards.appendChild(fragment);
+  elements.loadMoreWrap.classList.toggle("hidden", state.visibleCount >= state.filtered.length);
+  elements.loadMore.textContent = `加载更多 (${Math.max(state.filtered.length - state.visibleCount, 0)})`;
 }
 
 function applyMediaAspect(element, width, height) {
@@ -1137,8 +1157,8 @@ function renderModalRelated(prompt) {
   });
 }
 
-function openModal(promptId) {
-  const prompt = state.prompts.find((item) => String(item.id) === String(promptId));
+async function openModal(promptId) {
+  const prompt = await ensurePromptDetails(promptId);
 
   if (!prompt) {
     return;
@@ -1225,6 +1245,11 @@ function bindEvents() {
     applyFilters();
   });
 
+  elements.loadMore.addEventListener("click", () => {
+    state.visibleCount += CARD_BATCH_SIZE;
+    renderCards();
+  });
+
   elements.closeModal.addEventListener("click", closeModal);
   elements.modal.addEventListener("click", (event) => {
     if (event.target === elements.modal) {
@@ -1248,11 +1273,13 @@ function bindEvents() {
   });
 
   elements.copyTemplate.addEventListener("click", async () => {
+    await ensurePromptDetails(state.activePrompt);
     await writeClipboardText(getTemplateCopy(state.activePrompt));
     showCopied(elements.copyTemplate);
   });
 
   elements.copyBreakdown.addEventListener("click", async () => {
+    await ensurePromptDetails(state.activePrompt);
     await writeClipboardText(getBreakdownCopy(state.activePrompt));
     showCopied(elements.copyBreakdown);
   });
@@ -1305,7 +1332,7 @@ function bindEvents() {
 
   elements.useBuilder.addEventListener("click", () => {
     if (state.activePrompt) {
-      fillBuilderFromPrompt(state.activePrompt.id);
+      void fillBuilderFromPrompt(state.activePrompt.id);
       closeModal();
     }
   });
@@ -1314,7 +1341,7 @@ function bindEvents() {
 async function init() {
   bindEvents();
 
-  const response = await fetch("./data/prompts.json");
+  const response = await fetch("./data/prompts-index.json");
 
   if (!response.ok) {
     throw new Error(`Failed to load site data: ${response.status}`);

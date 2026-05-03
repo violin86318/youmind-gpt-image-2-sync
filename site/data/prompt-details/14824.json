@@ -1,0 +1,54 @@
+{
+  "id": "14824",
+  "prompt": "A high-end luxury fashion advertising poster in vertical 9:16 format, featuring a tall elegant female model with her face intentionally obscured, standing in a dramatic three-quarter pose against a stormy cinematic sky at golden sunset. She has windswept auburn hair pulled back loosely with flying strands, and wears a two-tone belted trench coat split in rich burnt orange and deep black, layered over a cream ribbed turtleneck sweater, with one hand in the coat pocket. The trench has a structured collar, double-breasted buttons, and a slim black leather belt with a polished gold circular buckle. Surround the model with 6 large torn fabric panels framing the composition from the left and right edges, in orange, tan, and charcoal textile textures with visible stitching and frayed edges, as if fabric is ripping open around her. Use a warm amber, copper, and ember color palette, with glowing sparks and smoky haze near the bottom. Place dramatic volumetric clouds in the background, lit with fiery sunset highlights for an epic editorial mood. Add a centered white luxury logo and brand text over the model’s chest area: the horse-and-carriage emblem above the word {argument name=\"brand text\" default=\"HERMES\"} in large elegant serif capitals. Make it look like a premium couture campaign, ultra-detailed, photorealistic, glossy magazine ad, strong contrast, refined fabric texture, fashion photography lighting, heroic composition, sharp focus on the outfit, cinematic atmosphere.",
+  "translatedPrompt": "一张 9:16 竖版高端奢华时尚广告海报，画面中一位身材高挑、气质优雅的女性模特面部被刻意遮挡，以戏剧性的四分之三侧身姿态站在金色的日落时分，背景是充满电影感的风暴天空。她那被风吹乱的赤褐色长发松散地向后梳起，几缕发丝随风飘动；身穿一件双色系腰带风衣，风衣由浓郁的焦橙色和深黑色拼接而成，内搭奶油色罗纹高领毛衣，一只手插在风衣口袋里。风衣配有结构感衣领、双排扣设计，以及一条带有抛光金色圆形扣环的黑色细皮带。模特周围环绕着 6 块巨大的撕裂织物面板，从左右两侧边缘框住构图，呈现出橙色、棕褐色和炭灰色的纺织纹理，带有明显的缝线和磨损边缘，仿佛织物正围绕着她撕裂开来。使用温暖的琥珀色、铜色和余烬色调，底部带有发光的火花和烟雾缭绕的朦胧感。背景中布置戏剧性的体积云，被火红的日落余晖照亮，营造出史诗般的编辑风格氛围。在模特胸部区域居中添加一个白色的奢华标志和品牌文字：马车徽标位于 {argument name=\"brand text\" default=\"HERMES\"} 字样上方，采用醒目优雅的衬线大写字母。使其看起来像是一场高端时装宣传活动，超精细、照片级真实感、光面杂志广告、强对比度、精致的织物纹理、时尚摄影布光、英雄式构图、服装焦点清晰、电影级氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奢华风衣时尚广告：此提示词可生成一张电影质感的奢华时尚海报，展示身着风衣的模特及高端品牌风格，非常适合广告创意和编辑类宣传活动。",
+      "subject": "服饰",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "editorial",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [
+        "volumetric"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, layered, vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, editorial, luxury, premium]。\n\nLighting and camera:\n[参考光线镜头: volumetric]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15627",
+      "15400",
+      "15412",
+      "14842",
+      "15077",
+      "14834"
+    ]
+  }
+}

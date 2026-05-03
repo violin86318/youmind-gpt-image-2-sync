@@ -1,0 +1,52 @@
+{
+  "id": "15379",
+  "prompt": "A hyper-realistic cinematic action photo of a young man mid-jump above a rooftop at golden-hour sunset, captured from a dramatic low angle against a glowing orange sky filled with scattered clouds. He is centered in the frame, airborne with both knees bent, wearing a woven straw hat, an open {argument name=\"jacket color\" default=\"bright red\"} overshirt flaring in the wind, a white tank top, dark loose cargo-style pants, rugged dark boots, layered necklaces, fingerless gloves, and a belt with a launcher holster clipped at his waist. His right arm is thrust toward the camera, launching a spinning top toy on a visible ripcord, with the toy in the extreme foreground on the right side rendered large and motion-blurred for depth and speed. Place a transparent plastic Beyblade battle stadium at the bottom foreground, catching warm reflections from the sunset, with the clearly visible printed logo text {argument name=\"brand text\" default=\"BEYBLADE X\"}. The city skyline stretches across the lower background with several high-rise buildings silhouetted by the setting sun near the horizon. Lighting is intensely warm and backlit, with strong rim light, cinematic contrast, subtle lens flare, and dynamic fabric movement. The composition should feel like a live-action promotional poster for {argument name=\"toy franchise\" default=\"Beyblade X\"}, emphasizing energy, youth, speed, and urban rooftop competition, in vertical poster format.",
+  "translatedPrompt": "一张超写实的电影级动作照片，展示了一名年轻人在黄金时刻的日落背景下，在屋顶上腾空而起的瞬间。镜头采用极具戏剧性的低角度拍摄，背景是布满稀疏云层的橙色发光天空。他位于画面中心，双膝弯曲处于空中，头戴编织草帽，身穿一件在风中飘动的 {argument name=\"jacket color\" default=\"亮红色\"} 开衫外套，内搭白色背心，下身穿着深色宽松工装裤，脚蹬粗犷的深色靴子，佩戴叠层项链和露指手套，腰间系着带有发射器皮套的腰带。他的右臂向镜头方向伸出，正在拉动拉条发射一个陀螺玩具，玩具位于画面右侧极近的前景处，呈现出巨大的尺寸和动态模糊效果，以增强深度感和速度感。在底部前景放置一个透明塑料 Beyblade 对战盘，捕捉着日落的温暖反光，盘上清晰可见印制的标志性文字 {argument name=\"brand text\" default=\"BEYBLADE X\"}。城市天际线延伸至下方的背景中，几座高层建筑在靠近地平线的落日余晖中呈现出剪影。光线呈现出强烈的暖色调背光效果，具有明显的轮廓光、电影级对比度、细腻的镜头光晕以及充满动感的织物飘动效果。构图应呈现出 {argument name=\"toy franchise\" default=\"Beyblade X\"} 真人宣传海报的质感，强调活力、青春、速度与城市屋顶竞技感，采用竖版海报格式。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "电影感 Beyblade 屋顶发射场景：此提示词可生成一张极具戏剧性的真人风格海报，展示在日落时分的屋顶进行 Beyblade 发射的场景，非常适合玩具广告、同人艺术或动作宣传视觉图。",
+      "subject": "产品",
+      "scene": "插画/漫画",
+      "composition": [
+        "centered",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "lens",
+        "camera"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "动漫分镜、战斗场景、运动瞬间、夸张叙事图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 插画/漫画 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, layered, vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: rim light, lens, camera]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15800",
+      "15798",
+      "14432",
+      "14461",
+      "14528",
+      "14617"
+    ]
+  }
+}

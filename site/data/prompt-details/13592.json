@@ -1,0 +1,37 @@
+{
+  "id": "13592",
+  "prompt": "{ \"type\": \"product bundle infographic\", \"header\": { \"brand_and_size\": \"{argument name=\\\"brand and size\\\" default=\\\"WLIVE セミダブル\\\"}\", \"title\": \"{argument name=\\\"main title\\\" default=\\\"上質化 一式セット\\\"}\", \"subtitle\": \"機能性はそのまま、見た目と寝心地をワンランクアップ\" }, \"layout\": { \"top_section\": { \"left_panel\": { \"title\": \"組み合わせイメージ\", \"bullet_points_count\": 6, \"bullet_categories\": [\"フレーム\", \"マットレス\", \"ベッドパッド\", \"カバー\", \"掛け布団\", \"枕\"] }, \"right_panel\": { \"image_description\": \"{argument name=\\\"main image description\\\" default=\\\"a neatly made semi-double bed with dark wood frame, headboard shelf with lights, white satin bedding, grey throw blanket, under-bed storage boxes, potted plant, and rug in a cozy bedroom\\\"}\" } }, \"middle_section\": { \"type\": \"product cards\", \"count\": 6, \"cards\": [ { \"number\": 1, \"title\": \"ベッドフレーム\", \"brand\": \"WLIVE セミダブル\", \"image_subject\": \"empty dark wood bed frame\", \"tag\": \"主軸維持\" }, { \"number\": 2, \"title\": \"マットレス\", \"brand\": \"アイリスオーヤマ ポケットコイル\", \"image_subject\": \"white quilted mattress\", \"tag\": \"寝心地強化\" }, { \"number\": 3, \"title\": \"ベッドパッド\", \"brand\": \"標準 or 安眠工場 ホテル仕様\", \"image_subject\": \"white quilted bed pad\", \"tag\": \"上位パッド(任意)\" }, { \"number\": 4, \"title\": \"カバーセット\", \"brand\": \"MILDLY 綿100% サテン調 3点セット\", \"image_subject\": \"folded white satin covers and pillows\", \"tag\": \"見た目強化\" }, { \"number\": 5, \"title\": \"掛け布団\", \"brand\": \"Kumori オールシーズン\", \"image_subject\": \"rolled white comforter\", \"tag\": \"価格抑制・清潔\" }, { \"number\": 6, \"title\": \"枕 2個セット\", \"brand\": \"整眠ラボ 高級ホテル仕様\", \"image_subject\": \"two white pillows\", \"tag\": \"質感向上\" } ] }, \"bottom_section\": { \"type\": \"pricing table\", \"label\": \"総費用 (本命構成)\", \"columns_count\": 7, \"columns\": [\"ベッドフレーム\", \"マットレス\", \"ベッドパッド\", \"カバーセット\", \"掛け布団\", \"枕 2個セット\", \"合計\"], \"total_price\": \"{argument name=\\\"total price\\\" default=\\\"49,471円\\\"}\", \"footer_note\": \"{argument name=\\\"footer note\\\" default=\\\"※価格は2024年時点のAmazon.co.jp 参考価格の一例です。変動する可能性があります。\\\"}\" } } }",
+  "translatedPrompt": "{\n  \"type\": \"产品套装信息图\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"WLIVE 半双人床高品质套装\\\"}\",\n    \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"在保持功能性的同时，全面提升外观与睡眠体验\\\"}\"\n  },\n  \"hero_section\": {\n    \"layout\": \"左右分栏布局，左侧为文字面板，右侧为大型生活方式摄影图\",\n    \"text_panel\": {\n      \"heading\": \"组合示意\",\n      \"bullet_points_count\": 6,\n      \"bullet_labels\": [\n        \"床架 (保留核心)\",\n        \"床垫 (强化睡眠体验)\",\n        \"床垫保护垫 (标准或高级)\",\n        \"床品套件 (提升外观)\",\n        \"被子 (控制成本与清洁)\",\n        \"枕头 (提升质感)\"\n      ]\n    },\n    \"lifestyle_photo\": {\n      \"subject\": \"带有带架和插座的木质床头板的半双人床\",\n      \"bedding\": \"{argument name=\\\"bedding color\\\" default=\\\"银灰色和白色\\\"} 床单、被子和枕头，搭配有纹理的灰色盖毯\",\n      \"environment\": \"{argument name=\\\"room aesthetic\\\" default=\\\"现代舒适卧室，配有暖色灯光\\\"}，盆栽植物，带台灯的床头柜，床下储物箱\"\n    }\n  },\n  \"product_gallery\": {\n    \"layout\": \"6 张产品卡片横向排列\",\n    \"cards_count\": 6,\n    \"cards\": [\n      { \"number\": 1, \"title\": \"床架\", \"image\": \"木质床架\", \"tag\": \"保留核心\" },\n      { \"number\": 2, \"title\": \"床垫\", \"image\": \"独立袋装弹簧床垫\", \"tag\": \"强化睡眠体验\" },\n      { \"number\": 3, \"title\": \"床垫保护垫\", \"image\": \"绗缝床垫保护垫\", \"tag\": \"高级保护垫 (可选)\" },\n      { \"number\": 4, \"title\": \"床品套件\", \"image\": \"折叠好的银灰色床罩和枕套\", \"tag\": \"提升外观\" },\n      { \"number\": 5, \"title\": \"被子\", \"image\": \"卷起的白色被子\", \"tag\": \"控制成本与清洁\" },\n      { \"number\": 6, \"title\": \"枕头 2 件套\", \"image\": \"两个白色枕头\", \"tag\": \"提升质感\" }\n    ]\n  },\n  \"pricing_table\": {\n    \"layout\": \"底部横向表格\",\n    \"row_header\": \"总费用 (推荐配置)\",\n    \"columns_count\": 7,\n    \"columns\": [\n      \"床架\",\n      \"床垫\",\n      \"床垫保护垫\",\n      \"床品套件\",\n      \"被子\",\n      \"枕头 2 件套\",\n      \"合计\"\n    ],\n    \"total_price\": \"{argument name=\\\"total price\\\" default=\\\"49,471 日元\\\"}\",\n    \"footer_note\": \"※价格为 2024 年 Amazon.co.jp 参考价格示例，实际价格可能会有变动。\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "床上用品套装信息图：生成一份详细的产品套装信息图，包含主视觉生活方式图、组件拆解、独立产品卡片以及价格表。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13731",
+      "13773",
+      "14005",
+      "14398",
+      "14806",
+      "14932"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "15423",
+  "prompt": "A realistic dark-mode social media screenshot of a tweet viewed on a desktop interface. At the top left is a circular profile photo and the display name Riley Goodside with a blue verification badge, followed by the handle @goodside and the timestamp 10h. The tweet text reads: \"ChatGPT Images 2.0 generates a game die but instead of numbers it has working QR codes for each of their Wikipedia articles\". Beneath the tweet is a large embedded image with 2 side-by-side panels inside a rounded rectangle. The left panel shows a glossy white six-sided die resting on a warm brown wooden tabletop, photographed at a slight angle, with 3 visible faces, and each visible face contains a different black QR code instead of pips; the lighting is soft and realistic with subtle reflections on the die’s rounded edges. Above the die image is a dark UI header area with a small line of text reading \"Thought for 1m 43s\" and a cropped speech-bubble-like overlay near the top that says \"for the corresponding Wikipedia article for its number.\" The right panel is a mobile-style Wikipedia page screenshot for the number 1, with a white background and thin gray borders, showing the tabs \"Article\" and \"Talk\" at the top, small interface icons, and article text beginning with \"This article is about the number. For the year AD 1, and other uses, see One (disambiguation) and Number One (disambiguation)\" followed by a boxed notice about special characters and the bold opening line \"1 (one, unit, unity) is a number, numeral, and grapheme.\" The social media interface around the embedded image uses a nearly black background with standard reply, repost, like, analytics, bookmark, and share icons along the bottom, with visible counts of 45 replies, 157 reposts, 3.5K likes, and 191K views. Crisp UI typography, authentic desktop X/Twitter layout, realistic screenshot style, high legibility, subtle compression and screen-capture appearance.",
+  "translatedPrompt": "一张在桌面界面上查看的逼真深色模式社交媒体推文截图。左上角是一个圆形头像，显示名称为 Riley Goodside，带有蓝色认证徽章，后跟账号 @goodside 和时间戳 10h。推文内容为：“ChatGPT Images 2.0 生成了一个游戏骰子，但它上面没有数字，而是为每个数字对应的维基百科文章提供了可用的 QR 码”。推文下方是一张巨大的嵌入式图片，圆角矩形内包含两个并排的面板。左侧面板显示一个光泽的白色六面骰子，放置在温暖的棕色木制桌面上，以微小角度拍摄，可见 3 个面，每个可见面上都有一个不同的黑色 QR 码代替点数；光线柔和逼真，骰子圆角处有细微的反射。骰子图像上方是一个深色 UI 标题区域，有一行小字写着“思考了 1 分 43 秒”，顶部附近有一个裁剪过的类似对话气泡的覆盖层，写着“用于其数字对应的维基百科文章”。右侧面板是数字 1 的移动端风格维基百科页面截图，背景为白色，带有细灰色边框，顶部显示“条目”和“讨论”标签、小型界面图标，以及以“本条目介绍的是数字。关于公元 1 年及其他用途，请见 One (消歧义) 和 Number One (消歧义)”开头的文章正文，随后是一个关于特殊字符的方框通知，以及加粗的开篇行“1（一，单位，统一）是一个数字、数值和字素。”嵌入式图片周围的社交媒体界面使用近乎黑色的背景，底部带有标准的回复、转发、点赞、分析、书签和分享图标，并显示 45 条回复、157 次转发、3.5K 次点赞和 191K 次浏览。清晰的 UI 排版，真实的桌面版 X/Twitter 布局，逼真的截图风格，高可读性，带有细微的压缩感和屏幕截图外观。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "QR 码骰子演示推文截图：此提示词可生成一张逼真的社交媒体截图，展示关于 AI 制作的 QR 码骰子的推文，适用于重现科技演示帖和基于 UI 的概念图像。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "B2B 产品概念图、后台系统、数据看板",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15389",
+      "14015",
+      "14322",
+      "15425",
+      "15391",
+      "14446"
+    ]
+  }
+}

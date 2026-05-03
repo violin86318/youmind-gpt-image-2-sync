@@ -1,0 +1,39 @@
+{
+  "id": "13751",
+  "prompt": "Using REFERENCE_0, transform the older couple so they are both looking directly at the camera and smiling. For the man on the left, add a {argument name=\"man's facial hair\" default=\"full white beard\"}, remove his glasses, and dress him in a {argument name=\"man's clothing\" default=\"green fleece jacket\"}. For the woman on the right, add glasses, change her hair to straight with bangs, and dress her in a {argument name=\"woman's clothing\" default=\"denim jacket and white scarf\"}. Have both subjects holding glasses of beer. On the wooden table, add 1 bowl of potato chips and 1 small lit lantern. Replace the background with a {argument name=\"background setting\" default=\"warm, blurred pub interior with 2 background patrons\"}.",
+  "translatedPrompt": "使用 REFERENCE_0，将这对年长的夫妇进行转换，使他们都直视镜头并微笑。对于左侧的男士，添加一个 {argument name=\"man's facial hair\" default=\"浓密的白色胡须\"}，摘掉他的眼镜，并为他穿上一件 {argument name=\"man's clothing\" default=\"绿色抓绒夹克\"}。对于右侧的女士，添加眼镜，将她的发型改为直发并带有刘海，并为她穿上一件 {argument name=\"woman's clothing\" default=\"牛仔夹克和白色围巾\"}。让两位主体都手持啤酒杯。在木桌上，添加 1 碗薯片和 1 个点亮的小灯笼。将背景替换为 {argument name=\"background setting\" default=\"温暖且虚化的酒吧内景，背景中有 2 位顾客\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "情侣酒吧肖像转换：将一张情侣的抓拍照片转换为姿态优雅、风格化的肖像，并更新服装、道具以及温暖的酒吧背景。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13448",
+      "13451",
+      "13653",
+      "13697",
+      "13698",
+      "13757"
+    ]
+  }
+}

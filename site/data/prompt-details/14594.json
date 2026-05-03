@@ -1,0 +1,48 @@
+{
+  "id": "14594",
+  "prompt": "A polished studio portrait of a glamorous pop-star-like woman from the chest up, centered against a smooth neutral gray backdrop. She has {argument name=\"hair color\" default=\"jet black\"} long loose wavy hair with a middle part, glossy shine, and soft volume falling over both shoulders. Her face is mostly hidden behind the ice cream cone she is holding up in front of her mouth and lower face, creating a playful fashion-editorial composition. She wears a white ribbed tank top with wide straps and a single visible sparkling stud earring. In her hand is 1 waffle cone topped with 1 large scoop of pink strawberry ice cream with dark red berry swirls and slight melting texture. Warm, flattering beauty lighting, soft shadows, realistic skin tones, high-end celebrity portrait photography, crisp focus on the hand, cone, hair, and shoulders, minimal background, subtly sensual and chic mood, vertical crop.",
+  "translatedPrompt": "一张精致的摄影棚肖像，拍摄对象为一位极具明星气质的女性，半身像，居中构图，背景为平滑的中性灰色。她留着 {argument name=\"hair color\" default=\"乌黑\"} 的长发，发丝蓬松微卷，中分，光泽感强，柔和地垂落在双肩。她的面部大部分被举在嘴部和下颌前的冰淇淋甜筒遮挡，营造出一种俏皮的时尚编辑构图。她身穿白色罗纹背心，肩带较宽，佩戴着一颗显眼的闪亮耳钉。她手中拿着一个华夫甜筒，上面堆着一个巨大的粉色草莓冰淇淋球，带有深红色浆果纹理，呈现出轻微融化的质感。温暖且修饰肤色的美妆光效，柔和的阴影，写实的肤色，高端名人肖像摄影，对手部、甜筒、头发和肩部的对焦清晰，极简背景，氛围微妙而性感且时髦，竖构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "手持草莓冰淇淋的摄影棚肖像：此提示词可生成一张精致的名人风格摄影棚肖像，画面中一位深色头发的女性将草莓冰淇淋甜筒置于脸前，非常适合时尚编辑或流行文化类图像。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "editorial",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: realistic, editorial, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15317",
+      "14679",
+      "15028",
+      "15533",
+      "14428",
+      "15424"
+    ]
+  }
+}

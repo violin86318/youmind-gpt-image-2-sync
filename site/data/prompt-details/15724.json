@@ -1,0 +1,42 @@
+{
+  "id": "15724",
+  "prompt": "A bold Japanese YouTube thumbnail about the AI competition era, 16:9 widescreen, high contrast, dramatic tech-news style. Use a dark futuristic control-room background filled with 3 glowing holographic dashboard screens and blue cyber interface elements around the edges. On the left and center, place a luminous circular hub labeled “AI” in bright blue, with 3 directional glowing energy arrows branching outward to competing platforms: “Google” on the left in a blue electric region, “Claude” on the upper right in a gold electric region, and “OpenAI” at the bottom center in a magenta-purple electric region. Add a subtle world-map or territory-battle visualization effect under each brand region, like illuminated digital land masses or influence zones. On the right side, show a young Japanese-looking woman from waist up, facing forward, wearing a long straight split-color wig with pastel pink on one side and pastel blue on the other, a plain white T-shirt with the printed text “OKIHIRO AI Creative”, and a light pink skirt. She raises one index finger beside her face in a presenter pose. Her face is fully obscured by a large soft-edged rectangular blur block. Across the top, add huge distressed white Japanese headline text: {argument name=\"headline text\" default=\"AI戦国時代\"}. Beneath it, add a second line in bold gold Japanese text: {argument name=\"subheadline text\" default=\"性能だけの話じゃない\"}. Across the bottom, place a wide black banner with massive bold gold Japanese text: {argument name=\"bottom text\" default=\"空気を取った側が勝つ\"}. Make the typography oversized, gritty, and attention-grabbing, with slight glow and drop shadow. Use a color palette of black, electric blue, gold, magenta, and neon white, with intense contrast and thumbnail readability.",
+  "translatedPrompt": "一张关于 AI 竞赛时代的醒目日文 YouTube 缩略图，16:9 宽屏，高对比度，戏剧性的科技新闻风格。使用深色未来主义控制室背景，充满 3 个发光的全息仪表盘屏幕，边缘环绕蓝色网络界面元素。在左侧和中心放置一个发光的圆形枢纽，标有亮蓝色的“AI”字样，并有 3 个定向发光的能量箭头向外延伸至竞争平台：左侧蓝色电光区域的“Google”，右上角金色电光区域的“Claude”，以及底部中心品红色-紫色电光区域的“OpenAI”。在每个品牌区域下方添加微妙的世界地图或领土争夺可视化效果，如发光的数字陆地或影响力区域。在右侧，展示一位腰部以上的年轻日本女性，面向前方，戴着一顶长直发分色假发，一侧为柔粉色，另一侧为柔蓝色，身穿印有“OKIHIRO AI Creative”字样的纯白 T 恤和浅粉色短裙。她以主持人姿势将一根食指举在脸旁。她的脸部被一个大的柔边矩形模糊块完全遮挡。在顶部添加巨大的做旧白色日文标题文字：{argument name=\"headline text\" default=\"AI战国时代\"}。在其下方，添加第二行加粗的金色日文文字：{argument name=\"subheadline text\" default=\"性能だけの話じゃない\"}。在底部放置一个宽大的黑色横幅，上面写着巨大的加粗金色日文文字：{argument name=\"bottom text\" default=\"空気を取った側が勝つ\"}。排版要超大、粗犷且引人注目，带有轻微的发光和投影效果。使用黑色、电光蓝、金色、品红和霓虹白作为配色方案，具有强烈的对比度和缩略图可读性。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日文 AI 对决 YouTube 缩略图：此提示词可生成一张极具戏剧性的日文 AI 竞赛缩略图，包含 3 个竞争品牌区域和一位未来感主持人，非常适合 YouTube 或社交媒体上的科技评论内容。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "neon",
+        "high contrast"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "B2B 产品概念图、后台系统、数据看板",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: neon, high contrast]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15725",
+      "14322",
+      "15389",
+      "14015",
+      "14497",
+      "14447"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "15526",
+  "prompt": "symmetrical design featuring {argument name=\"subject\" default=\"two elegant blue peacocks\"} with detailed feather patterns, surrounded by {argument name=\"flowers\" default=\"blue floral elements\"}, intricate vintage botanical ornament, {argument name=\"background color\" default=\"soft beige\"} background, classical floral decor style with rich navy and sky blue details, decorative art illustration --ar 3:2",
+  "translatedPrompt": "对称设计，主体为 {argument name=\"subject\" default=\"两只优雅的蓝色孔雀\"}，带有细致的羽毛纹理，周围环绕着 {argument name=\"flowers\" default=\"蓝色花卉元素\"}，繁复的复古植物装饰，{argument name=\"background color\" default=\"柔和米色\"} 背景，古典花卉装饰风格，点缀着浓郁的藏青色和天蓝色细节，装饰艺术插画 --ar 3:2",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古孔雀植物插画：一个用于创作对称植物插画的装饰艺术提示词，特色在于优雅的孔雀和繁复的花卉图案。",
+      "subject": "综合主体",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "symmetrical"
+      ],
+      "style": [
+        "vintage"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "构图",
+        "风格"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: symmetrical]。\n\nVisual style:\n[参考风格: vintage]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13661",
+      "13677",
+      "13876",
+      "14821",
+      "15507",
+      "15594"
+    ]
+  }
+}

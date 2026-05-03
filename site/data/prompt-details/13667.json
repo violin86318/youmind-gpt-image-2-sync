@@ -1,0 +1,43 @@
+{
+  "id": "13667",
+  "prompt": "A photorealistic image of {argument name=\"confident person\" default=\"Sam Altman\"} standing confidently on the left with his hands on his hips, wearing a black t-shirt with white text that reads \"{argument name=\"shirt text\" default=\"i ship faster than you code.\"}\". Next to him on the right is {argument name=\"dejected person\" default=\"Sundar Pichai\"}, looking dejected and sad with his head bowed and hands clasped, wearing a plain dark grey t-shirt. They are standing indoors in front of a large glass window. Outside the window is a sunny corporate campus with trees, a small pond, and a modern glass building with the {argument name=\"background company logo\" default=\"Google\"} logo prominently displayed on it.",
+  "translatedPrompt": "一张写实风格的图片，左侧是 {argument name=\"person 1\" default=\"Sam Altman\"}，他双手叉腰，自信地站立着，身穿一件黑色 T 恤，上面用打字机字体印着“{argument name=\"shirt text\" default=\"i ship faster than you code.\"}”。在他右侧的是 {argument name=\"person 2\" default=\"Sundar Pichai\"}，他戴着眼镜，穿着一件朴素的深灰色 T 恤，表情沮丧、失落且低头看着地面，双手紧张地交握在身前。他们站在室内，旁边是巨大的落地窗。窗外的背景中可以看到一个阳光明媚的科技公司园区，建筑上印有巨大的“{argument name=\"background logo\" default=\"Google\"}”标志，周围还有树木和一个小池塘。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "科技公司 CEO 对决梗图：生成一张写实且具有讽刺意味的图片，展示两个姿态对比鲜明的人物（一个自信，一个沮丧），并支持自定义 T 恤文字和背景品牌标识。",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13676",
+      "13732",
+      "14125",
+      "13824",
+      "14273",
+      "13696"
+    ]
+  }
+}

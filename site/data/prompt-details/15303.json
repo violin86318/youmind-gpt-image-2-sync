@@ -1,0 +1,48 @@
+{
+  "id": "15303",
+  "prompt": "A dark, cinematic Chinese fantasy illustration inspired by the single character {argument name=\"Chinese character\" default=\"痴\"}, rendered as a poetic xianxia scene. Vertical composition. In the left foreground, a solitary young man with long black hair stands in three-quarter profile, wearing layered black robes with subtle embroidered patterns and hints of deep crimson inner fabric. His hair is partially tied into a traditional topknot with an ornate hairpiece and trailing red ribbons. He looks toward the distance with a melancholic, obsessed expression. In the upper right background, framed inside a glowing full moon or circular portal, a graceful woman in flowing white robes stands with her back turned, her long sleeves and red silk ribbons streaming in the wind, appearing ethereal and unreachable. The environment is a rocky, shadowed path at night, illuminated by moonlight and mist, with dramatic clouds, drifting pink flower petals, and arching branches of blooming cherry blossoms overhead. Thin red cords or fate-threads cross the composition diagonally, connecting space and emotion. Include 3 reflective mirror shards floating in the scene, each showing faint fragmented reflections of faces or figures, enhancing the sense of longing and fractured memory. In the upper left, place one large gold calligraphy character, {argument name=\"calligraphy text\" default=\"痴\"}, painted in expressive brush strokes, with a small red seal stamp beneath it and faint vertical calligraphy texture receding into the dark background. Use painterly detail, high contrast, soft atmospheric glow, rich black-red-gold palette, romantic tragedy, obsession, yearning, and dreamlike ancient Chinese aesthetic.",
+  "translatedPrompt": "一张黑暗、电影质感的中式奇幻插画，灵感源自单个汉字 {argument name=\"Chinese character\" default=\"痴\"}，呈现为一幅富有诗意的仙侠场景。采用竖构图。左侧前景中，一位留着黑色长发的年轻男子侧身站立，身着层叠的黑色长袍，衣襟处有精致的刺绣图案，内衬隐约透出深红色。他的头发部分束成传统的发髻，戴着华丽的发饰，系着飘逸的红丝带。他神情忧郁而执着，望向远方。右上角背景处，在一轮明亮的满月或圆形光圈内，一位身着飘逸白袍的女子背影优雅，长袖与红丝带在风中飞舞，显得空灵而遥不可及。环境是夜晚一条布满岩石的阴影小径，在月光与薄雾的映照下，伴随着戏剧性的云层、飘落的粉色花瓣以及头顶上方弯曲的樱花枝。细长的红绳或命运之线在画面中呈对角线交错，连接着空间与情感。画面中漂浮着 3 片反光镜碎片，每一片都隐约映照出破碎的面孔或身影，增强了渴望与记忆破碎的氛围。左上角放置一个巨大的金色书法汉字 {argument name=\"calligraphy text\" default=\"痴\"}，笔触苍劲有力，下方盖有一枚红色印章，背景中隐约可见纵向排列的书法纹理向黑暗深处延伸。采用绘画风格的细节处理，高对比度，柔和的大气光感，丰富的黑、红、金配色，营造出浪漫悲剧、执念、渴望以及梦幻般的古风美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "中式痴情月下幻想：此提示词可生成一张以单个书法汉字为核心、充满意境的古风奇幻海报，非常适合用于诗意概念艺术、书籍封面或戏剧性的仙侠主题视觉设计。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical]。\n\nVisual style:\n[参考风格: cinematic, fantasy]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14437",
+      "14488",
+      "15319",
+      "15641",
+      "14817",
+      "14450"
+    ]
+  }
+}

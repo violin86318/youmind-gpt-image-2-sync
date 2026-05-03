@@ -1,0 +1,53 @@
+{
+  "id": "14634",
+  "prompt": "{\"type\":\"fantasy game expansion promotional poster\",\"franchise\":\"World of Warcraft: Legion\",\"style\":\"official AAA video game key art, dark high-fantasy apocalypse, cinematic matte painting, polished UI poster design, green fel magic glow, dramatic storm clouds, scorched battlefield atmosphere\",\"color_palette\":{\"primary\":[\"fel green\",\"black\",\"charcoal gray\",\"muted gold\"],\"accents\":[\"sickly yellow-green\",\"ashen brown\",\"steel blue\"]},\"layout\":{\"format\":\"landscape multi-panel promotional collage\",\"sections\":[{\"title\":\"World of Warcraft Legion logo and invasion headline\",\"position\":\"top left\",\"count\":1,\"labels\":[\"WORLD OF WARCRAFT LEGION\",\"THE LEGION INVADES AMERICA\"]},{\"title\":\"Main invasion artwork\",\"position\":\"top center\",\"count\":1,\"labels\":[\"New York skyline under demonic assault\"]},{\"title\":\"New playable class\",\"position\":\"top right\",\"count\":1,\"labels\":[\"DEMON HUNTER\"]},{\"title\":\"New playable race\",\"position\":\"bottom left\",\"count\":1,\"labels\":[\"TEXANS\"]},{\"title\":\"Explore a war-torn America\",\"position\":\"bottom center\",\"count\":4,\"labels\":[\"NEW YORK\",\"THE GREAT PLAINS\",\"THE EVERGLADES\",\"AREA 51\"]},{\"title\":\"New Legion invasion world events\",\"position\":\"bottom center strip\",\"count\":4,\"labels\":[\"battle vignette 1\",\"battle vignette 2\",\"battle vignette 3\",\"battle vignette 4\"]},{\"title\":\"Stand against the Legion\",\"position\":\"bottom right\",\"count\":1,\"labels\":[\"FOR AZEROTH. FOR AMERICA.\"]}],\"border_style\":\"ornate dark metal fantasy frames with gold edging\",\"background\":\"nearly black textured backdrop behind all framed panels\"},\"main_scene\":{\"subject\":\"an alternate-history America invaded by demonic forces\",\"environment\":\"New York Harbor and Lower Manhattan in ruins, the Statue of Liberty looming prominently in the foreground left of center, skyline silhouetted under a swirling toxic-green portal in the clouds\",\"sky\":\"stormy overcast sky ripped open by a giant circular fel vortex with a vertical beam of green energy descending into the city\",\"action_elements\":{\"flying_units_count\":12,\"flying_units_description\":\"multiple demonic dragons, felbats, and Legion gunships swarming across the sky\",\"ground_figures_count\":6,\"ground_figures_description\":\"small armed defenders and demons clashing along the waterfront\",\"major_monster_count\":1,\"major_monster_description\":\"one large winged demon hovering in front of the green beam over the city\"},\"lighting\":\"high-contrast cinematic lighting with the green portal as the main light source, rim light on smoke and ruins, deep shadows everywhere\"},\"left_panel\":{\"title\":\"NEW PLAYABLE RACE\",\"race_name\":\"{argument name=\\\"playable race name\\\" default=\\\"TEXANS\\\"}\",\"characters\":{\"count\":2,\"description\":\"two full-body cowboy archetype characters posed like an MMORPG race showcase, one masculine and one feminine, both with broad hats, western shirts, belts, jeans, boots, and rugged frontier styling\"},\"traits\":{\"count\":4,\"labels\":[\"LONE STAR RESOLVE\",\"YEEHAW!\",\"GUNSLINGER\",\"BUILT DIFFERENT\"],\"icon_style\":\"round fantasy ability icons aligned vertically\"},\"footer_label\":\"Heritage Armor The Stetson Set\"},\"top_right_panel\":{\"title\":\"NEW PLAYABLE CLASS\",\"class_name\":\"{argument name=\\\"playable class name\\\" default=\\\"DEMON HUNTER\\\"}\",\"character\":{\"count\":1,\"description\":\"a single night-elf-like antihero in dark leather armor aiming two oversized pistols, long ears, glowing eyes, grim expression, cape and demon-hunter silhouette\"},\"tagline\":\"GUNS. FEL. VENGEANCE.\",\"mood\":\"brooding, aggressive, supernatural gunslinger fantasy\"},\"middle_grid\":{\"title\":\"EXPLORE A WAR-TORN AMERICA\",\"locations\":{\"count\":4,\"items\":[{\"name\":\"{argument name=\\\"city name\\\" default=\\\"NEW YORK\\\"}\",\"subtitle\":\"City Under Siege\",\"description\":\"destroyed city skyline with green impact craters and smoke\"},{\"name\":\"THE GREAT PLAINS\",\"subtitle\":\"Fel-touched heartland\",\"description\":\"bleak farmland, windmill, dirt road, dead grass, distant green corruption\"},{\"name\":\"THE EVERGLADES\",\"subtitle\":\"Secrets in the Swamp\",\"description\":\"dark swamp with luminous toxic pools, twisted trees, dense fog\"},{\"name\":\"AREA 51\",\"subtitle\":\"Something has awakened\",\"description\":\"desert military zone with wreckage, satellite dishes or structures, warning sign in foreground, ominous activity in the background\"}]}},\"bottom_strip\":{\"title\":\"NEW LEGION INVASION WORLD EVENTS\",\"thumbnails\":{\"count\":4,\"description\":\"four narrow battle scenes showing heroes fighting demons amid fel explosions and chaotic silhouettes\"}},\"right_panel\":{\"title\":\"STAND AGAINST THE LEGION\",\"scene\":{\"count\":1,\"description\":\"Washington, D.C. under attack, the Washington Monument centered, smoke, green fel blasts, and a heroic armored figure confronting flying demons at right\"},\"call_to_action\":\"{argument name=\\\"call to action\\\" default=\\\"FOR AZEROTH. FOR AMERICA.\\\"}\"},\"text_treatment\":{\"font_style\":\"fantasy serif capitals for headers, smaller serif body text, official expansion-poster typography\",\"header_color\":\"aged gold or pale green depending on panel\",\"body_color\":\"off-white\"},\"composition_notes\":\"make it read like a believable official expansion announcement image, satirical but rendered completely straight, every panel crisply framed and legible, dense but organized layout, premium Blizzard-style finish\"}",
+  "translatedPrompt": "{\"type\":\"奇幻游戏资料片宣传海报\",\"franchise\":\"World of Warcraft: Legion\",\"style\":\"官方 AAA 电子游戏主视觉图，黑暗高魔末日风格，电影级哑光绘画，精致的 UI 海报设计，绿色邪能光芒，戏剧性的风暴云层，焦土战场氛围\",\"color_palette\":{\"primary\":[\"邪能绿\",\"黑色\",\"炭灰色\",\"柔和金\"],\"accents\":[\"病态黄绿色\",\"灰褐色\",\"钢蓝色\"]},\"layout\":{\"format\":\"横向多板块宣传拼贴\",\"sections\":[{\"title\":\"World of Warcraft Legion 标志与入侵标题\",\"position\":\"左上\",\"count\":1,\"labels\":[\"WORLD OF WARCRAFT LEGION\",\"THE LEGION INVADES AMERICA\"]},{\"title\":\"主要入侵艺术图\",\"position\":\"顶部中央\",\"count\":1,\"labels\":[\"恶魔袭击下的纽约天际线\"]},{\"title\":\"全新可玩职业\",\"position\":\"右上\",\"count\":1,\"labels\":[\"恶魔猎手\"]},{\"title\":\"全新可玩种族\",\"position\":\"左下\",\"count\":1,\"labels\":[\"德克萨斯人\"]},{\"title\":\"探索战火纷飞的美国\",\"position\":\"底部中央\",\"count\":4,\"labels\":[\"纽约\",\"大平原\",\"大沼泽地\",\"51 区\"]},{\"title\":\"全新军团入侵世界事件\",\"position\":\"底部中央条带\",\"count\":4,\"labels\":[\"战斗片段 1\",\"战斗片段 2\",\"战斗片段 3\",\"战斗片段 4\"]},{\"title\":\"反抗军团\",\"position\":\"右下\",\"count\":1,\"labels\":[\"为了艾泽拉斯。为了美国。\"]}],\"border_style\":\"带有金色镶边的华丽暗金属奇幻边框\",\"background\":\"所有边框板块后方近乎黑色的纹理背景\"},\"main_scene\":{\"subject\":\"被恶魔势力入侵的架空历史美国\",\"environment\":\"废墟中的纽约港和曼哈顿下城，自由女神像在左中前景处格外显眼，天际线在云层中旋转的毒绿色传送门下呈现剪影\",\"sky\":\"阴沉的风暴天空被巨大的圆形邪能漩涡撕裂，一道绿色能量光束垂直降落至城市中\",\"action_elements\":{\"flying_units_count\":12,\"flying_units_description\":\"多只恶魔龙、邪蝠和军团炮艇在天空中成群结队\",\"ground_figures_count\":6,\"ground_figures_description\":\"沿岸边交战的小型武装防御者与恶魔\",\"major_monster_count\":1,\"major_monster_description\":\"一只巨大的带翼恶魔悬浮在城市上方绿色光束前\"},\"lighting\":\"高对比度电影级光效，以绿色传送门为主要光源，烟雾和废墟边缘带有轮廓光，到处都是深邃的阴影\"},\"left_panel\":{\"title\":\"全新可玩种族\",\"race_name\":\"{argument name=\\\"playable race name\\\" default=\\\"德克萨斯人\\\"}\",\"characters\":{\"count\":2,\"description\":\"两个全身牛仔原型的角色，摆出类似 MMORPG 种族展示的姿势，一男一女，均戴着宽檐帽，身穿西部衬衫、皮带、牛仔裤、靴子，具有粗犷的边疆风格\"},\"traits\":{\"count\":4,\"labels\":[\"孤星决心\",\"YEEHAW!\",\"神枪手\",\"天赋异禀\"],\"icon_style\":\"垂直排列的圆形奇幻技能图标\"},\"footer_label\":\"传承护甲：斯泰森套装\"},\"top_right_panel\":{\"title\":\"全新可玩职业\",\"class_name\":\"{argument name=\\\"playable class name\\\" default=\\\"恶魔猎手\\\"}\",\"character\":{\"count\":1,\"description\":\"一名身穿深色皮甲的暗夜精灵式反英雄，手持两把超大号手枪，长耳，双眼发光，表情冷峻，带有斗篷和恶魔猎手剪影\"},\"tagline\":\"枪械。邪能。复仇。\",\"mood\":\"阴郁、好斗、超自然的神枪手奇幻风格\"},\"middle_grid\":{\"title\":\"探索战火纷飞的美国\",\"locations\":{\"count\":4,\"items\":[{\"name\":\"{argument name=\\\"city name\\\" default=\\\"纽约\\\"}\",\"subtitle\":\"围城之中的城市\",\"description\":\"被摧毁的城市天际线，带有绿色撞击坑和烟雾\"},{\"name\":\"大平原\",\"subtitle\":\"被邪能侵蚀的心脏地带\",\"description\":\"荒凉的农田、风车、土路、枯草，远处可见绿色腐化\"},{\"name\":\"大沼泽地\",\"subtitle\":\"沼泽中的秘密\",\"description\":\"黑暗的沼泽，带有发光的毒池、扭曲的树木和浓雾\"},{\"name\":\"51 区\",\"subtitle\":\"某种东西苏醒了\",\"description\":\"沙漠军事区，有残骸、卫星天线或建筑，前景有警告标志，背景中有不祥的活动\"}]}},\"bottom_strip\":{\"title\":\"全新军团入侵世界事件\",\"thumbnails\":{\"count\":4,\"description\":\"四个狭长的战斗场景，展示了英雄们在邪能爆炸和混乱的剪影中与恶魔战斗的画面\"},\"right_panel\":{\"title\":\"反抗军团\",\"scene\":{\"count\":1,\"description\":\"华盛顿特区遭到攻击，华盛顿纪念碑位于中心，烟雾缭绕，绿色邪能爆炸，右侧有一位英雄般的装甲人物正在对抗飞行恶魔\"},\"call_to_action\":\"{argument name=\\\"call to action\\\" default=\\\"为了艾泽拉斯。为了美国。\\\"}\"},\"text_treatment\":{\"font_style\":\"标题采用奇幻衬线大写字体，正文采用较小的衬线字体，官方资料片海报排版\",\"header_color\":\"根据板块呈现陈旧的金色或淡绿色\",\"body_color\":\"灰白色\"},\"composition_notes\":\"使其读起来像一张可信的官方资料片公告图，带有讽刺意味但渲染得非常严肃，每个板块都清晰地框定且易于阅读，布局密集但井井有条，具有 Blizzard 风格的高级质感\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奇幻 MMO 美国入侵宣传海报：一张讽刺性的 AAA 游戏资料片海报，风格仿照官方《魔兽世界：军团再临》宣传图，适用于生成内容丰富的多板块奇幻营销艺术图。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [
+        "centered",
+        "full-body",
+        "grid",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "fantasy",
+        "premium"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "overcast"
+      ],
+      "text": "要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, full-body, grid, vertical]。\n\nVisual style:\n[参考风格: cinematic, fantasy, premium]。\n\nLighting and camera:\n[参考光线镜头: rim light, overcast]。\n\nText requirements:\n要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15329",
+      "14966",
+      "15451",
+      "14991",
+      "14564",
+      "15464"
+    ]
+  }
+}

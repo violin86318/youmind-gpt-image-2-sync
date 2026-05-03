@@ -1,0 +1,41 @@
+{
+  "id": "14154",
+  "prompt": "{\n  \"type\": \"bookshelf arrangement\",\n  \"setting\": \"wooden bookshelf with three shelves against a plain light wall, wooden floor\",\n  \"layout\": {\n    \"top_shelf\": {\n      \"count\": 1,\n      \"alignment\": \"centered\",\n      \"books\": [\n        { \"color\": \"dark blue\", \"title\": \"{argument name=\\\"top book title\\\" default=\\\"THE ART OF FOCUS\\\"}\", \"author\": \"DANIEL WALTER\", \"symbol\": \"star compass\" }\n      ]\n    },\n    \"middle_shelf\": {\n      \"count\": 3,\n      \"alignment\": \"centered\",\n      \"books\": [\n        { \"color\": \"green\", \"title\": \"{argument name=\\\"middle left book title\\\" default=\\\"THE NATURE OF THINGS\\\"}\", \"author\": \"KAREN HOLLOWAY\", \"symbol\": \"leaf branch\" },\n        { \"color\": \"burgundy\", \"title\": \"HISTORY OF THE WORLD\", \"author\": \"J. M. REEVES\", \"symbol\": \"ornate star\" },\n        { \"color\": \"cream\", \"title\": \"THINK BETTER, LIVE BETTER\", \"author\": \"JOEL PARKER\", \"symbol\": \"sun\" }\n      ]\n    },\n    \"bottom_shelf\": {\n      \"count\": 7,\n      \"alignment\": \"filled\",\n      \"books\": [\n        { \"color\": \"dark blue\", \"title\": \"{argument name=\\\"bottom left book title\\\" default=\\\"SAPIENS\\\"}\", \"author\": \"Yuval Noah Harari\", \"orientation\": \"vertical title\", \"symbol\": \"fingerprint\" },\n        { \"color\": \"cream\", \"title\": \"BECOMING\", \"author\": \"MICHELLE OBAMA\", \"orientation\": \"vertical title\", \"symbol\": \"circle logo\" },\n        { \"color\": \"teal\", \"title\": \"THE POWER OF NOW\", \"author\": \"ECKHART TOLLE\", \"symbol\": \"waves\" },\n        { \"color\": \"mustard yellow\", \"title\": \"{argument name=\\\"bottom middle book title\\\" default=\\\"THE HAPPINESS PROJECT\\\"}\", \"author\": \"GRETCHEN RUBIN\", \"symbol\": \"star\" },\n        { \"color\": \"dark grey\", \"title\": \"THE DIARY OF A CEO\", \"author\": \"STEVEN BARTLETT\", \"symbol\": \"letter D\" },\n        { \"color\": \"light blue\", \"title\": \"Atomic Habits\", \"author\": \"James Clear\", \"symbol\": \"dot circle\" },\n        { \"color\": \"orange\", \"title\": \"{argument name=\\\"bottom right book title\\\" default=\\\"THE SUBTLE ART OF NOT GIVING A F*CK\\\"}\", \"author\": \"MARK MANSON\", \"symbol\": \"splat sun\" }\n      ]\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"bookshelf arrangement\",\n  \"setting\": \"wooden bookshelf with three shelves against a plain light wall, wooden floor\",\n  \"layout\": {\n    \"top_shelf\": {\n      \"count\": 1,\n      \"alignment\": \"centered\",\n      \"books\": [\n        { \"color\": \"dark blue\", \"title\": \"{argument name=\\\"top book title\\\" default=\\\"THE ART OF FOCUS\\\"}\", \"author\": \"DANIEL WALTER\", \"symbol\": \"star compass\" }\n      ]\n    },\n    \"middle_shelf\": {\n      \"count\": 3,\n      \"alignment\": \"centered\",\n      \"books\": [\n        { \"color\": \"green\", \"title\": \"{argument name=\\\"middle left book title\\\" default=\\\"THE NATURE OF THINGS\\\"}\", \"author\": \"KAREN HOLLOWAY\", \"symbol\": \"leaf branch\" },\n        { \"color\": \"burgundy\", \"title\": \"HISTORY OF THE WORLD\", \"author\": \"J. M. REEVES\", \"symbol\": \"ornate star\" },\n        { \"color\": \"cream\", \"title\": \"THINK BETTER, LIVE BETTER\", \"author\": \"JOEL PARKER\", \"symbol\": \"sun\" }\n      ]\n    },\n    \"bottom_shelf\": {\n      \"count\": 7,\n      \"alignment\": \"filled\",\n      \"books\": [\n        { \"color\": \"dark blue\", \"title\": \"{argument name=\\\"bottom left book title\\\" default=\\\"SAPIENS\\\"}\", \"author\": \"Yuval Noah Harari\", \"orientation\": \"vertical title\", \"symbol\": \"fingerprint\" },\n        { \"color\": \"cream\", \"title\": \"BECOMING\", \"author\": \"MICHELLE OBAMA\", \"orientation\": \"vertical title\", \"symbol\": \"circle logo\" },\n        { \"color\": \"teal\", \"title\": \"THE POWER OF NOW\", \"author\": \"ECKHART TOLLE\", \"symbol\": \"waves\" },\n        { \"color\": \"mustard yellow\", \"title\": \"{argument name=\\\"bottom middle book title\\\" default=\\\"THE HAPPINESS PROJECT\\\"}\", \"author\": \"GRETCHEN RUBIN\", \"symbol\": \"star\" },\n        { \"color\": \"dark grey\", \"title\": \"THE DIARY OF A CEO\", \"author\": \"STEVEN BARTLETT\", \"symbol\": \"letter D\" },\n        { \"color\": \"light blue\", \"title\": \"Atomic Habits\", \"author\": \"James Clear\", \"symbol\": \"dot circle\" },\n        { \"color\": \"orange\", \"title\": \"{argument name=\\\"bottom right book title\\\" default=\\\"THE SUBTLE ART OF NOT GIVING A F*CK\\\"}\", \"author\": \"MARK MANSON\", \"symbol\": \"splat sun\" }\n      ]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Curated Bookshelf with Specific Titles：Generates a wooden bookshelf displaying 11 distinct books with customizable titles, authors, and spine colors.",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14902",
+      "15302",
+      "15320",
+      "15801",
+      "14236",
+      "14472"
+    ]
+  }
+}

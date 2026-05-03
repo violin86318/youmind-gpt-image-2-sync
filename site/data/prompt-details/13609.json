@@ -1,0 +1,40 @@
+{
+  "id": "13609",
+  "prompt": "A visual novel screenshot of an anime-style classroom scene featuring exactly four high school girls in matching uniforms consisting of grey blazers, white shirts, red ribbons, and blue skirts. On the far left, a girl with short coral hair and a red bow looks excited with clenched fists. Next to her, a girl with long dark purple hair holds a red book with a gentle smile. Beside her, a girl with short pink pigtails and a red hairclip stands with crossed arms looking slightly grumpy. On the far right, a girl with long brown hair in a ponytail and a large white bow leans forward on a desk, smiling and talking. The classroom features a window on the right, a bulletin board on the left, and a foreground desk holding exactly three items: a notebook, a pink book, and a pen. On the back wall is a single poster reading {argument name=\"poster text\" default=\"Just Monika. ♥\"}. In the top left corner is a circular pastel logo reading {argument name=\"game title\" default=\"Doki Doki Literature Club!\"} decorated with a green pencil and a pink heart. At the bottom of the screen is a pink polka-dot visual novel dialogue box. The name tag reads {argument name=\"speaker name\" default=\"Monika\"} and the main dialogue text reads {argument name=\"dialogue text\" default=\"'Welcome to the Literature Club!' 'It's a pleasure to meet you all!' ♥\"}. Below the dialogue is a menu row reading 'History Skip Auto Save Load Settings'.",
+  "translatedPrompt": "一张动漫风格教室场景的视觉小说截图，画面中共有四名身穿配套制服的高中女生，制服包括灰色西装外套、白色衬衫、红色丝带和蓝色短裙。最左侧是一名留着珊瑚色短发、戴着红色蝴蝶结的女生，她握紧双拳，神情兴奋。旁边是一名留着深紫色长发的女生，她微笑着拿着一本红色的书。紧挨着她的是一名留着粉色双马尾、戴着红色发夹的女生，她交叉双臂，看起来有些不悦。最右侧是一名留着棕色高马尾、戴着大白色蝴蝶结的女生，她身体前倾靠在课桌上，面带微笑正在交谈。教室右侧有一扇窗户，左侧有一个布告栏，前景的课桌上摆放着三样物品：一本笔记本、一本粉色的书和一支笔。后墙上贴着一张海报，文字为 {argument name=\"poster text\" default=\"Just Monika. ♥\"}。左上角是一个圆形的柔和色调 Logo，文字为 {argument name=\"game title\" default=\"Doki Doki Literature Club!\"}，并装饰有绿色铅笔和粉色爱心。屏幕底部是一个粉色波点风格的视觉小说对话框。姓名标签显示为 {argument name=\"speaker name\" default=\"Monika\"}，主要对话文本为 {argument name=\"dialogue text\" default=\"'Welcome to the Literature Club!' 'It's a pleasure to meet you all!' ♥\"}。对话框下方是一行菜单，显示为“历史 跳过 自动 保存 读取 设置”。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "视觉小说截图样机：生成一张包含动漫角色、自定义 Logo 和对话框的虚构视觉小说截图。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13804",
+      "13671",
+      "13834",
+      "14423",
+      "14593",
+      "14638"
+    ]
+  }
+}

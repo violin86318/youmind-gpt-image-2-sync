@@ -1,0 +1,49 @@
+{
+  "id": "15792",
+  "prompt": "A funny, high-energy photorealistic amusement park scene shot from directly behind a {argument name=\"animal\" default=\"penguin\"} riding alone in the front seat of a roller coaster. The animal is centered in the frame with both flippers raised in excitement, wearing a bright {argument name=\"helmet color\" default=\"orange-red\"} safety helmet and blue goggles. The coaster car is glossy red with yellow side panels and a black safety bar visible in the foreground. The camera angle is tight and immersive, as if seated just behind the rider, looking forward over its back. In the background, show a colorful seaside-style carnival in strong daylight with exactly 1 large Ferris wheel on the left, exactly 1 spinning swing ride near the upper right, and exactly 2 striped circus tent roofs visible on the right side. Use dramatic motion blur and radial streaking in the background to emphasize speed, while the rider and coaster car remain relatively sharp. Bright sunny sky, vivid saturated colors, playful absurdist humor, theme park excitement, crisp animal feather detail, cinematic action photography.",
+  "translatedPrompt": "一张滑稽且充满活力的写实游乐园场景，镜头从 {argument name=\"animal\" default=\"企鹅\"} 正后方拍摄，它独自坐在过山车前排。动物位于画面中心，双鳍兴奋地举起，戴着明亮的 {argument name=\"helmet color\" default=\"橙红色\"} 安全头盔和蓝色护目镜。过山车车厢为亮红色，配有黄色侧板，前景可见黑色安全杆。镜头角度紧凑且具有沉浸感，仿佛坐在骑手身后，越过其背部向前望去。背景展示了一个色彩缤纷的海滨风格嘉年华，在强烈的日光下，左侧有 1 个大型摩天轮，右上角附近有 1 个旋转秋千，右侧可见 2 个条纹马戏团帐篷顶。背景使用戏剧性的动态模糊和径向条纹来强调速度，同时骑手和过山车车厢保持相对清晰。明亮的晴空，生动饱和的色彩，俏皮的荒诞幽默，主题公园的兴奋感，清晰的动物羽毛细节，电影级动作摄影。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "企鹅过山车之旅：一张充满奇趣的写实风格动作图片，展示了一只戴着头盔的企鹅在过山车上的场景，非常适合病毒式社交媒体帖子、模因风格视觉素材或趣味 AI 图像演示。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15410",
+      "14831",
+      "15778",
+      "14806",
+      "14808",
+      "15105"
+    ]
+  }
+}

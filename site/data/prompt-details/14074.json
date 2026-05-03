@@ -1,0 +1,41 @@
+{
+  "id": "14074",
+  "prompt": "A person wearing a highly detailed, weathered, and battle-damaged {argument name=\"armor type\" default=\"T-60 power armor from Fallout\"} taking a mirror selfie with a {argument name=\"phone type\" default=\"black smartphone\"}. The armor is bulky, metallic, and covered in grime, rust, and scratches, featuring a distinctive helmet with a respirator, headlamp, and thick shoulder pauldrons. The person is holding the phone in their right armored hand, positioned in front of their chest. The reflection is seen in a slightly dirty mirror with a dark wooden frame. In the background, there is a dimly lit, messy room with a {argument name=\"poster subject\" default=\"Vault Boy poster\"} partially visible on the wall behind the armor. The lighting is moody and realistic, emphasizing the textures of the metal and the gritty atmosphere.",
+  "translatedPrompt": "一个身穿细节丰富、饱经风霜且带有战斗损伤的 {argument name=\"armor type\" default=\"《辐射》中的 T-60 动力装甲\"} 的人，正拿着一部 {argument name=\"phone type\" default=\"黑色智能手机\"} 进行镜中自拍。装甲厚重、充满金属质感，表面覆盖着污垢、锈迹和划痕，配有带有呼吸器、头灯和厚实肩甲的独特头盔。此人右手戴着装甲手套，将手机举在胸前。镜子略显脏污，带有深色木质边框，映照出拍摄者的身影。背景是一个光线昏暗、杂乱的房间，墙上隐约可见一张 {argument name=\"poster subject\" default=\"避难所小子 (Vault Boy) 海报\"}。光影效果写实且富有氛围感，突显了金属的质感与粗犷的氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动力装甲镜中自拍：生成一张身穿风化动力装甲的人在杂乱房间里进行镜中自拍的写实图像。",
+      "subject": "人物",
+      "scene": "插画/漫画",
+      "composition": [],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "动漫分镜、战斗场景、运动瞬间、夸张叙事图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 插画/漫画 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13914",
+      "15297",
+      "15277",
+      "14432",
+      "15380",
+      "15799"
+    ]
+  }
+}

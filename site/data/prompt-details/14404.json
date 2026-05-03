@@ -1,0 +1,53 @@
+{
+  "id": "14404",
+  "prompt": "{\"type\":\"anime character pose variation sheet\",\"style\":\"ornate kawaii gothic-lolita fashion reference poster, predominantly pink monochrome line art with soft white background, delicate rose motifs, lace filigree borders, heart accents, elegant shoujo manga presentation\",\"character\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"Aoi\\\"}\",\"appearance\":\"young girl with short wavy bob hair, large eyes, soft doll-like face, wearing a highly detailed sweet lolita dress themed around strawberries and roses\",\"outfit\":{\"color\":\"{argument name=\\\"outfit color\\\" default=\\\"pink\\\"}\",\"pieces\":[\"rose-and-lace bonnet with floral clusters and veil-like trim\",\"multi-tiered ruffled long-sleeve lolita dress with abundant lace, bows, pintucks, and frills\",\"front apron-style panel and oversized waist bow at the back\",\"frilly wrist cuffs\",\"lace-trim socks\",\"platform Mary Jane shoes with bows and straps\"]},\"theme\":\"{argument name=\\\"theme\\\" default=\\\"Strawberry & Rose Fantasy Kingdom\\\"}\"},\"layout\":{\"format\":\"vertical poster reference sheet with decorative floral corners and ornate title cartouche\",\"title\":\"ポーズバリエーションシート\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"苺と薔薇の森内役の女の子\\\"}\",\"center_name\":\"Aoi\",\"main_sections\":[{\"title\":\"pose grid\",\"position\":\"upper and middle area\",\"count\":8,\"items\":[{\"label\":\"1 基本立ち\",\"description\":\"front-facing neutral standing pose, arms relaxed at sides, full body visible\"},{\"label\":\"2 おじぎ\",\"description\":\"formal bowing pose with upper body lowered and hands together in front\"},{\"label\":\"3 スカートつまみ\",\"description\":\"curtsy-like pose holding out both sides of the skirt to show volume and ruffles\"},{\"label\":\"4 案内ポーズ\",\"description\":\"presentation pose, one arm extended outward to the side, welcoming gesture\"},{\"label\":\"5 喜びポーズ\",\"description\":\"joyful energetic pose, one knee raised, both arms lifted high, smiling brightly\"},{\"label\":\"6 びっくり\",\"description\":\"surprised pose, shoulders slightly raised, hands held near chest, startled mood\"},{\"label\":\"7 てれ\",\"description\":\"bashful shy pose, head tilted, hand near face, knees angled inward\"},{\"label\":\"8 後ろ手\",\"description\":\"three-quarter back view with hands behind the body, showing the back bow and rear silhouette\"}]},{\"title\":\"ポーズのポイント解説\",\"position\":\"lower left strip\",\"count\":5,\"items\":[{\"label\":\"重心バランス\",\"description\":\"simple body balance sketches with center line and weight distribution notes\"},{\"label\":\"手の動き\",\"description\":\"3 hand drawings showing delicate wrist and finger motion\"},{\"label\":\"スカートの広がり\",\"description\":\"dress hem spread diagram emphasizing circular volume and layered ruffles\"},{\"label\":\"リボン・フリルの動き\",\"description\":\"close-up motion study of bow tails and fluttering frills\"},{\"label\":\"足の位置・ステップ例\",\"description\":\"3 foot placement examples for standing and stepping in heeled shoes\"}]},{\"title\":\"ディテール拡大\",\"position\":\"bottom left row\",\"count\":4,\"items\":[{\"label\":\"手元アップ\",\"description\":\"close-up of sleeve cuff, lace, ribbons, and hand pose\"},{\"label\":\"スカートレイヤー\",\"description\":\"close-up of multiple ruffle and lace layers of the skirt\"},{\"label\":\"エプロン・ポケット\",\"description\":\"close-up of apron panel, bow, and decorative pocket charm details\"},{\"label\":\"靴・足元\",\"description\":\"close-up of socks and platform shoes with bows and straps\"}]},{\"title\":\"ポーズコンセプトメモ\",\"position\":\"bottom right box\",\"count\":1,\"items\":[{\"label\":\"memo block\",\"description\":\"paragraph-style handwritten design notes inside a framed text box\"}]}],\"footer\":\"{argument name=\\\"footer text\\\" default=\\\"Strawberry & Rose Fantasy Kingdom\\\"}\"},\"composition\":\"clean white poster background, all drawings rendered in consistent pink ink with subtle blush red hair accents, symmetrical decorative frame, top floral clusters in both corners, highly legible reference-sheet organization, full-body character drawings in 8 bordered panels with explanatory miniature diagrams and detail close-ups along the bottom\",\"quality\":\"high detail, crisp fine linework, fashion-design sheet clarity, polished printable poster aesthetic\"}",
+  "translatedPrompt": "{\"type\":\"动漫角色姿势变化参考图\",\"style\":\"华丽的可爱哥特 Lolita 时尚参考海报，以粉色单色线条为主，配以柔和的白色背景，精致的玫瑰图案，蕾丝花边边框，心形装饰，优雅的少女漫画风格展示\",\"character\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"Aoi\\\"}\",\"appearance\":\"年轻女孩，留着短波波头，大眼睛，柔和的娃娃脸，穿着以草莓和玫瑰为主题的精致甜美 Lolita 裙\",\"outfit\":{\"color\":\"{argument name=\\\"outfit color\\\" default=\\\"粉色\\\"}\",\"pieces\":[\"带有花簇和面纱状饰边的玫瑰蕾丝发带\",\"多层荷叶边长袖 Lolita 裙，配有丰富的蕾丝、蝴蝶结、褶皱和花边\",\"前围裙式样板和背部超大蝴蝶结\",\"花边袖口\",\"蕾丝边短袜\",\"带有蝴蝶结和绑带的厚底玛丽珍鞋\"]},\"theme\":\"{argument name=\\\"theme\\\" default=\\\"草莓与玫瑰梦幻王国\\\"}\"},\"layout\":{\"format\":\"带有装饰性花卉边角和华丽标题框的纵向海报参考图\",\"title\":\"姿势变化参考图\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"草莓与玫瑰森林里的女孩\\\"}\",\"center_name\":\"Aoi\",\"main_sections\":[{\"title\":\"姿势网格\",\"position\":\"上部和中部区域\",\"count\":8,\"items\":[{\"label\":\"1 基本站姿\",\"description\":\"正面中性站姿，双臂自然下垂，全身可见\"},{\"label\":\"2 行礼\",\"description\":\"正式的鞠躬姿势，上半身前倾，双手在身前交叠\"},{\"label\":\"3 提裙\",\"description\":\"类似屈膝礼的姿势，双手提起裙摆两侧以展示蓬松感和荷叶边\"},{\"label\":\"4 引导姿势\",\"description\":\"展示姿势，一只手臂向侧面伸展，做出欢迎的手势\"},{\"label\":\"5 喜悦姿势\",\"description\":\"充满活力的喜悦姿势，抬起一条腿，双臂高举，笑容灿烂\"},{\"label\":\"6 惊讶\",\"description\":\"惊讶的姿势，肩膀微耸，双手靠近胸前，表现出受惊的情绪\"},{\"label\":\"7 害羞\",\"description\":\"羞涩的姿势，头部倾斜，手靠近脸部，膝盖向内弯曲\"},{\"label\":\"8 背影\",\"description\":\"四分之三背影，双手置于身后，展示背部蝴蝶结和后部轮廓\"}]},{\"title\":\"姿势要点解析\",\"position\":\"左下侧条形区域\",\"count\":5,\"items\":[{\"label\":\"重心平衡\",\"description\":\"简单的身体平衡草图，带有中心线和重心分布说明\"},{\"label\":\"手部动作\",\"description\":\"3 幅手部绘图，展示细腻的手腕和手指动作\"},{\"label\":\"裙摆展开\",\"description\":\"裙摆展开示意图，强调圆形的蓬松感和层叠的荷叶边\"},{\"label\":\"蝴蝶结与花边动态\",\"description\":\"蝴蝶结尾部和飘动花边的近景动态研究\"},{\"label\":\"脚部位置与步态示例\",\"description\":\"3 种穿着高跟鞋站立和迈步的脚部位置示例\"}]},{\"title\":\"细节放大\",\"position\":\"左下侧行\",\"count\":4,\"items\":[{\"label\":\"手部特写\",\"description\":\"袖口、蕾丝、丝带和手部姿势的特写\"},{\"label\":\"裙子层级\",\"description\":\"裙子多层荷叶边和蕾丝的特写\"},{\"label\":\"围裙与口袋\",\"description\":\"围裙面板、蝴蝶结和装饰性口袋挂饰细节的特写\"},{\"label\":\"鞋子与足部\",\"description\":\"短袜和带有蝴蝶结绑带的厚底鞋特写\"}]},{\"title\":\"姿势设计备注\",\"position\":\"右下侧方框\",\"count\":1,\"items\":[{\"label\":\"备注栏\",\"description\":\"在边框文本框内以段落形式书写的手写设计说明\"}]},{\"footer\":\"{argument name=\\\"footer text\\\" default=\\\"草莓与玫瑰梦幻王国\\\"}\"},\"composition\":\"简洁的白色海报背景，所有绘图均采用统一的粉色线条渲染，带有淡淡的腮红红发色点缀，对称的装饰边框，顶部两侧角落有花簇，参考图布局清晰易读，全身角色绘图分布在 8 个带边框的面板中，底部配有说明性微型图和细节特写\",\"quality\":\"高细节，清晰的精细线条，时尚设计图的清晰度，精致的可打印海报美学\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "粉色 Lolita 姿势变化参考图：此提示词可生成一张华丽的动漫角色参考海报，包含八种姿势变化、动作说明以及针对甜美哥特 Lolita 女孩设计的服装细节标注。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "symmetrical",
+        "close-up",
+        "full-body",
+        "grid",
+        "front-facing",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "manga",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "要求可读；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: symmetrical, close-up, full-body, grid, front-facing, layered, vertical]。\n\nVisual style:\n[参考风格: anime, manga, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求可读；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14607",
+      "14531",
+      "15091",
+      "14980",
+      "15364",
+      "14825"
+    ]
+  }
+}

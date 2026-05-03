@@ -1,0 +1,36 @@
+{
+  "id": "15182",
+  "prompt": "新中式极简东方美学 × 高端商业插画，主题“{argument name=\"主题\" default=\"一花一世界\"}”，极简，克制，空灵，高级商业视觉，超现实东方意境，画面干净通透，无灰雾、无脏色，一朵巨大的荷花作为空间容器，从平静水面自然生长，轻微倾斜，构图优雅留白充足，低饱和干净粉色，柔和胭脂调，花瓣半透明，轻盈通透，哑光低对比，边缘柔化 + 轻微景深，荷花内部为唯一视觉焦点：发光的3D微缩{argument name=\"城市\" default=\"广州\"}城市，包含：{argument name=\"标志性建筑\" default=\"广州塔，珠江新城建筑群，猎德大桥，珠江水岸\"}，少量岭南建筑，城市超精细结构，真实材质，极高细节清晰度，城市高光是暖金色，城市阴影是冷青蓝，形成冷暖对比，灯光通透有能量，局部高饱和但不泛滥，城市亮度明显高于荷花，水面清澈极简平静，仅少量柔和涟漪，弱反射，背景暖米白宣纸质感，无水墨、无笔触，大面积留白，中心有极轻微光晕渐变，整体通透、不灰、不闷，画面下方一艘极简小船，船上一位红衣渔女，极小比例，静立仰望荷花，红色为唯一高纯度点缀，整体光线通透、干净、有层次，无灰雾、无泛白，高端CG商业插画，电影级真实光影，高动态范围，超精细，8K细节，ArtStation 级画质，强化分色，干净调色，青橙对比，暖高光冷暗部，仅城市灯光提亮饱和度，色调柔和通透，光影锐利明亮，无灰雾、无暗沉、无低饱和雾化。",
+  "translatedPrompt": "新中式极简东方美学 × 高端商业插画，主题为“{argument name=\"theme\" default=\"一花一世界\"}”。极简、空灵、超现实的东方意境。一朵巨大的莲花从平静的水面生长而出，作为容器。内部是一个发光的 3D 微缩 {argument name=\"city\" default=\"广州\"}，包含 {argument name=\"landmarks\" default=\"广州塔、珠江新城、猎德大桥及滨水区\"}。城市灯光呈现暖金色，与冷青蓝色的阴影形成对比。背景为暖米白色纸张纹理，留白充裕。底部有一艘载着红衣渔女的小船，正抬头仰望。高端 CG 品质，具备电影级光影和 8K 细节。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "一花一世界城市插画：一份高细节、专业的商业插画提示词，用于创作置于发光莲花之中的极简主义城市景观。",
+      "subject": "空间",
+      "scene": "空间/场景",
+      "composition": [],
+      "style": [
+        "3d"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体",
+        "风格"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "空间概念、建筑场景、游戏场景、产品场景盒子",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 空间/场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: 3d]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14256",
+      "14067",
+      "14897",
+      "14571",
+      "15211",
+      "13734"
+    ]
+  }
+}

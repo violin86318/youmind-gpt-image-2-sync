@@ -1,0 +1,46 @@
+{
+  "id": "15804",
+  "prompt": "A cinematic night scene on a steep grassy hillside during a wildfire burn line, with one lone samurai standing near the center-lower part of the frame in dark silhouette. The hill runs diagonally from upper left down to lower right, and a continuous line of bright orange flames stretches across the slope behind the figure, forming a glowing border between the dark ground and the black smoky sky. The samurai wears traditional armor and a horned kabuto helmet, holding two swords at his sides, facing uphill toward the fire. Keep the figure small compared to the landscape to emphasize scale and isolation. Use extremely low-key lighting, strong backlighting from the flames, deep blacks, heavy smoke, drifting embers, and a moody high-contrast palette of black, ember red, and fiery orange. The image should feel like an epic historical Japanese war film, wide composition, minimalist framing, dramatic negative space, realistic texture, and intense atmospheric smoke.",
+  "translatedPrompt": "这是一场电影般的夜景，场景设定在陡峭的草坡上，正值野火蔓延。画面中下方中心位置站着一名孤独的武士，呈现出深色剪影。山坡从左上角向右下角呈对角线延伸，一道连绵的明亮橙色火焰在人物身后的坡面上蔓延，在黑暗的地面与漆黑烟雾弥漫的天空之间形成了一道发光的边界。武士身着传统盔甲，头戴带角的兜鍪（kabuto），腰间佩戴双刀，面朝上坡方向凝视着火焰。人物比例需相对于景观保持较小，以强调规模感与孤独感。采用极低调的布光，利用火焰产生的强烈背光，营造深邃的黑色调、浓重的烟雾、飘散的余烬，以及由黑色、余烬红和火橙色组成的深沉高对比度色调。画面应呈现出史诗级日本战争电影的质感，采用宽画幅构图、极简主义取景、戏剧性的留白、写实的纹理以及浓郁的氛围烟雾。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "山火前的武士：一个极具电影感的提示词，用于生成一名孤独的武士剪影，背景是夜晚黑暗山坡上一道斜向延伸的野火。",
+      "subject": "空间",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic",
+        "minimalist"
+      ],
+      "lightingCamera": [
+        "backlight"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic, minimalist]。\n\nLighting and camera:\n[参考光线镜头: backlight]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15325",
+      "14126",
+      "14450",
+      "15441",
+      "13783",
+      "13788"
+    ]
+  }
+}

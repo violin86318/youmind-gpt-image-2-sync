@@ -1,0 +1,53 @@
+{
+  "id": "15067",
+  "prompt": "Create a luxury cinematic fragrance advertisement for a dark glass men's perfume bottle labeled {argument name=\"brand name\" default=\"DIOR\"} and {argument name=\"product name\" default=\"SAUVAGE\"}. The composition is a widescreen premium product shot with the bottle placed slightly right of center, standing upright on a glossy wet black surface, angled subtly toward the viewer. The bottle is deep smoky navy-black transparent glass with a reflective metallic cap featuring circular ridges, elegant serif lettering on the front, and warm amber light glowing through the base. Surround the bottle with one dramatic splash of liquid frozen in motion, with countless sparkling golden droplets and streaks exploding upward and outward around the lower half of the bottle. Use a dark, moody, high-contrast background with a blurred rocky or citylike silhouette and glowing sunset light in the distance, dominated by black, bronze, amber, and gold tones. On the left side, add refined luxury ad typography in a spacious layout: a large serif headline reading {argument name=\"headline text\" default=\"SAUVAGE\"}, a smaller serif brand line below reading {argument name=\"subheadline text\" default=\"DIOR\"}, one thin horizontal divider line beneath, and a small uppercase sans-serif tagline reading {argument name=\"tagline\" default=\"THE POWER OF INSTINCT\"}. Add a minimalist luxury monogram mark near the lower left. Emphasize glossy reflections, sharp bottle edges, realistic liquid physics, sparkling highlights, cinematic backlighting, shallow depth of field, and premium high-end beauty campaign styling.",
+  "translatedPrompt": "创作一款奢华电影级香水广告，主角为深色玻璃男士香水瓶，标签为 {argument name=\"brand name\" default=\"DIOR\"} 和 {argument name=\"product name\" default=\"SAUVAGE\"}。构图采用宽屏高端产品拍摄视角，瓶身直立于湿润光亮的黑色表面上，置于画面中心偏右位置，并向观众方向略微倾斜。瓶身为深邃的烟熏海军黑透明玻璃材质，配有带环形纹路的金属反光瓶盖，正面印有优雅的衬线字体，底部透出温暖的琥珀色光芒。在瓶身周围环绕一处定格的戏剧性液体喷溅，无数闪烁的金色水滴和线条在瓶身下半部向上及向外迸发。背景采用深邃、忧郁的高对比度风格，带有模糊的岩石或城市剪影，远处映衬着落日余晖，整体色调以黑色、青铜色、琥珀色和金色为主。在左侧添加精致的奢华广告排版，布局宽敞：大号衬线标题为 {argument name=\"headline text\" default=\"SAUVAGE\"}，下方较小的衬线品牌行文字为 {argument name=\"subheadline text\" default=\"DIOR\"}，下方设有一条细横分割线，以及一行小号大写无衬线标语 {argument name=\"tagline\" default=\"THE POWER OF INSTINCT\"}。在左下角附近添加一个极简奢华的字母组合标志。强调光泽反射、锐利的瓶身边缘、逼真的液体物理效果、闪烁的高光、电影级背光、浅景深以及高端美妆广告的质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奢华香水喷溅广告：一款高端电影级香水广告，展示了深色香水瓶、金色液体喷溅效果以及优雅的编辑排版，适用于高端电商或品牌推广活动。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "minimalist",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [
+        "backlight",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: horizontal]。\n\nVisual style:\n[参考风格: realistic, cinematic, minimalist, luxury, premium]。\n\nLighting and camera:\n[参考光线镜头: backlight, shallow depth, depth of field]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15776",
+      "14807",
+      "15775",
+      "15310",
+      "15429",
+      "14864"
+    ]
+  }
+}

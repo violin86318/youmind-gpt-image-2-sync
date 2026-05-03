@@ -1,0 +1,50 @@
+{
+  "id": "14476",
+  "prompt": "Using the provided reference image as the exact background base, keep the same upscale modern lounge/game-room interior, preserving the room layout, perspective, lighting mood, foosball table, chess table, shelves, pendant lamps, and seating. Add a large anime-style girl in the foreground, centered slightly right and filling most of the frame from thighs up, composited naturally into the scene with correct perspective and soft ambient lighting that matches the room. She should have {argument name=\"hair color\" default=\"silver-lavender\"} long twin-tails tied with black ribbons, wear a black-and-white gothic lolita dress with a frilled white blouse, black bow at the collar, black corset waist, and ribbon accents on the sleeves, and make a peace sign with one hand near her face. Render her in polished modern anime illustration style, with detailed hair strands and fabric folds, while leaving the background photorealistic. Cover the face with a plain square mosaic/censor block in the center of the head area. Keep the camera angle close to the original room view and make the added character feel naturally placed in front of the chess table and armchair.",
+  "translatedPrompt": "使用提供的参考图像作为精确的背景基础，保持相同的现代高档休息室/游戏室室内环境，保留房间布局、透视、灯光氛围、桌上足球、棋桌、架子、吊灯和座椅。在前景中添加一个大型动漫风格少女，位置略微偏右，从大腿以上占据画面大部分空间，并以正确的透视和与房间相匹配的柔和环境光自然地合成到场景中。她应该拥有 {argument name=\"hair color\" default=\"银紫色\"} 的长双马尾，系着黑色丝带，身穿黑白哥特萝莉塔裙，搭配荷叶边白衬衫、领口黑色蝴蝶结、黑色束腰以及袖口丝带装饰，并用一只手在脸旁比出剪刀手。以精致的现代动漫插画风格渲染她，展现细腻的发丝和布料褶皱，同时保持背景的写实感。在头部中心区域用一个简单的方形马赛克/遮挡块覆盖面部。保持摄像机角度接近原始房间视角，并使添加的角色看起来自然地位于棋桌和扶手椅前方。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "将动漫少女添加到参考休息室：此提示词将一个大型动漫少女角色置入提供的真实室内背景中，同时保留原始房间构图，适用于角色合成测试或背景参考实验。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "anime"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic, photorealistic, anime]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14924",
+      "15757",
+      "14431",
+      "14419",
+      "14495",
+      "15352"
+    ]
+  }
+}

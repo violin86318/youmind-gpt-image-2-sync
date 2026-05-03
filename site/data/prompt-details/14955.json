@@ -1,0 +1,55 @@
+{
+  "id": "14955",
+  "prompt": "{\"type\":\"anime storyboard collage\",\"style\":\"cinematic slice-of-life anime illustration with soft realistic lighting, polished painterly detail, shallow depth of field, and gentle filmic glow\",\"subject\":{\"character\":\"middle school girl with sleepy half-lidded eyes and a mildly grumpy expression\",\"hair\":{\"color\":\"black\",\"style\":\"straight blunt bangs, very long side locks framing the face, low bun at the back\"},\"outfit\":{\"count\":4,\"items\":[\"white sailor school uniform top\",\"navy sailor collar and necktie\",\"dark pleated skirt\",\"dark backpack\"]},\"mood\":\"quiet morning commute, introspective, deadpan, slightly moody but charming\"},\"layout\":{\"grid\":{\"rows\":3,\"columns\":3,\"count\":9},\"panels\":[{\"position\":\"top-left\",\"description\":\"close side-profile portrait indoors by a bright window, upper body visible, warm morning backlight, cherry blossom petals and greenery outside\"},{\"position\":\"top-center\",\"description\":\"medium side view at the doorway or entrance area, character turned left, backpack visible, spring sunlight streaming in from outside\"},{\"position\":\"top-right\",\"description\":\"close portrait turning her head toward the viewer with a flat unimpressed stare, strong rim light through trees, circular lens flare bokeh\"},{\"position\":\"middle-left\",\"description\":\"full-body shot on a train platform beside a silver commuter train with a yellow stripe, character standing alone and waiting\"},{\"position\":\"middle-center\",\"description\":\"close side-profile seated or standing by a train window, cool blue interior light mixed with sunlit exterior blur\"},{\"position\":\"middle-right\",\"description\":\"rear full-body shot of the girl walking downhill on a narrow residential path with railings, dappled sunlight and leafy shadows, townscape in the distance\"},{\"position\":\"bottom-left\",\"description\":\"close three-quarter portrait framed by green leaves in the foreground, bright sun filtering through foliage, soft glowing bokeh\"},{\"position\":\"bottom-center\",\"description\":\"low-angle medium shot outdoors against a blue sky and urban building, backpack strap visible, expression unchanged and stoic\"},{\"position\":\"bottom-right\",\"description\":\"rear full-body shot standing at an overlook or fenced walkway above the neighborhood, bright clear sky, trees framing the scene\"}]},\"environment\":{\"season\":\"spring or early summer\",\"setting\":\"Japanese suburban school commute\",\"elements\":{\"count\":8,\"items\":[\"sunlit window\",\"trees and greenery\",\"floating petals or dust motes\",\"commuter train\",\"platform roof\",\"sloped residential street\",\"metal railings\",\"distant low-rise cityscape\"]}},\"lighting\":{\"time\":\"early morning\",\"qualities\":{\"count\":5,\"items\":[\"golden-hour sunlight\",\"strong backlighting\",\"rim light on hair and shoulders\",\"soft lens flare\",\"dappled leaf shadows\"]}},\"composition\":\"consistent character design across all 9 panels, storyboard feel, vertical smartphone-friendly collage, black borders separating panels, each panel capturing a different beat of her commute to school\",\"quality\":\"highly detailed, emotionally evocative, clean anime linework, natural color grading\"}",
+  "translatedPrompt": "{\"type\":\"动漫分镜拼贴\",\"style\":\"电影感日常系动漫插画，具有柔和写实的灯光、精致的绘画细节、浅景深和轻微的电影质感光晕\",\"subject\":{\"character\":\"有着困倦半睁眼和略带不悦表情的中学生\",\"hair\":{\"color\":\"黑色\",\"style\":\"直发齐刘海，脸颊两侧有很长的鬓角，后脑勺扎着低发髻\"},\"outfit\":{\"count\":4,\"items\":[\"白色水手服上衣\",\"海军蓝水手领和领带\",\"深色百褶裙\",\"深色书包\"]},\"mood\":\"安静的早晨通勤，内省，面无表情，略带忧郁但充满魅力\"},\"layout\":{\"grid\":{\"rows\":3,\"columns\":3,\"count\":9},\"panels\":[{\"position\":\"左上\",\"description\":\"室内明亮窗边的侧脸特写，可见上半身，温暖的晨间逆光，窗外有樱花花瓣和绿植\"},{\"position\":\"中上\",\"description\":\"门口或入口处的侧面中景，角色向左转，可见书包，春日的阳光从外面射入\"},{\"position\":\"右上\",\"description\":\"转头看向观众的特写，表情平淡且不为所动，强烈的轮廓光穿过树木，带有圆形镜头光晕散景\"},{\"position\":\"左中\",\"description\":\"在带有黄色条纹的银色通勤列车旁，站台上的全身镜头，角色独自一人在等待\"},{\"position\":\"正中\",\"description\":\"坐在或站在列车窗边的侧脸特写，冷色调的室内光与阳光照射下的模糊室外背景交融\"},{\"position\":\"右中\",\"description\":\"女孩走在带有栏杆的狭窄住宅小路上的背部全身镜头，斑驳的阳光和树叶阴影，远处可见城镇景观\"},{\"position\":\"左下\",\"description\":\"前景被绿叶框住的四分之三侧脸特写，明亮的阳光透过叶片，柔和的散景光晕\"},{\"position\":\"中下\",\"description\":\"以蓝天和城市建筑为背景的户外低角度中景，可见书包带，表情依旧冷淡\"},{\"position\":\"右下\",\"description\":\"站在邻里上方观景台或围栏走道上的背部全身镜头，天空明亮清澈，树木勾勒出场景轮廓\"}]},\"environment\":{\"season\":\"春季或初夏\",\"setting\":\"日本郊区校园通勤\",\"elements\":{\"count\":8,\"items\":[\"阳光明媚的窗户\",\"树木和绿植\",\"漂浮的花瓣或尘埃\",\"通勤列车\",\"站台顶棚\",\"倾斜的住宅街道\",\"金属栏杆\",\"远处的低层城市景观\"]}},\"lighting\":{\"time\":\"清晨\",\"qualities\":{\"count\":5,\"items\":[\"黄金时刻的阳光\",\"强烈的逆光\",\"头发和肩膀上的轮廓光\",\"柔和的镜头光晕\",\"斑驳的叶影\"]}},\"composition\":\"9 个分镜中保持一致的角色设计，分镜感，适合手机屏幕的竖向拼贴，黑色边框分隔分镜，每个分镜捕捉她上学通勤路上的不同瞬间\",\"quality\":\"高度细节化，情感动人，干净的动漫线条，自然的色彩分级\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫校园通勤分镜网格：一个九宫格动漫分镜拼贴，展示了一位面无表情的女学生在早晨通勤时的场景，非常适合以角色为导向的日常系视觉叙事。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "full-body",
+        "grid",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "anime"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "backlight",
+        "shallow depth",
+        "depth of field",
+        "lens"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body, grid, vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic, anime]。\n\nLighting and camera:\n[参考光线镜头: rim light, backlight, shallow depth, depth of field, lens]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14531",
+      "14413",
+      "14527",
+      "15367",
+      "15703",
+      "14506"
+    ]
+  }
+}

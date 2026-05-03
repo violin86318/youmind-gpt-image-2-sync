@@ -1,0 +1,50 @@
+{
+  "id": "14524",
+  "prompt": "A dramatic black-and-white fantasy manga page in highly detailed ink line art and screentone style, vertical comic layout with 2 panels. The top panel is a full-width action scene showing a young anime-style mage boy, about early teen age, standing on cracked rocky ground and casting a powerful spell with his right hand extended toward the left side of the frame. He has short tousled light hair, large serious eyes, and a calm, focused expression. He wears a high-collared cape flowing behind him, a buttoned vest over a shirt, fitted trousers, boots, a belt with pouches, and a holstered wand or small magical tool at his hip, with a gemstone clasp at the neck. In front of his open palm is a large glowing circular magic sigil with intricate concentric symbols and runic ornamentation. The spell erupts into a massive explosion of white light and energy, blasting outward with dense speed lines, black debris clouds, shattered rock fragments, dust, and impact textures filling the background. Large stylized Japanese sound effect lettering is integrated into the art on the left side and along the lower foreground, creating a sense of repeated roaring impacts. The composition is dynamic and high contrast, with the boy positioned right of center and the blast dominating the left half. The bottom panel is a narrower reaction shot, count 1 character visible, showing a long-haired witch in profile facing left, wearing a wide-brimmed pointed hat with an ornate band and gem, and a cloak fastened with a jewel brooch. Her face is partially obscured by a solid rectangular censorship block over the central face area. Behind her, the same explosion and flying rubble continue in the distance. A single vertical Japanese speech balloon on the right reads \"…うわ\". Use clean manga panel borders, polished professional shonen fantasy comic style, intense motion, crisp pen hatching, screentone shading, and cinematic impact.",
+  "translatedPrompt": "一张极具戏剧性的黑白奇幻漫画页面，采用高细节的墨线艺术和网点纸风格，垂直漫画排版，共 2 个分镜。上方分镜为全宽动作场景，展示了一名年轻的动漫风格男法师，约莫十几岁，站在开裂的岩石地面上，右手向画面左侧伸出，正在施展强大的法术。他留着凌乱的短浅色头发，有着大而严肃的眼睛，神情冷静且专注。他身穿高领斗篷，身后随风飘动，内搭衬衫和扣式马甲，穿着合身的裤子、靴子，腰间系着带有小袋的腰带，并配有魔杖或小型魔法工具的皮套，领口处有宝石扣。在他张开的手掌前方，是一个巨大的发光圆形魔法阵，带有复杂的同心符号和符文装饰。法术爆发出一团巨大的白光和能量，向外喷涌，伴随着密集的加速线、黑色碎片云、破碎的岩石块、尘土和充满背景的冲击质感。画面左侧和下方前景融入了大型风格化的日语拟声词，营造出连续轰鸣的冲击感。构图动态且对比强烈，男孩位于画面中心偏右，爆炸占据了左半部分。下方分镜为较窄的反应特写，可见 1 名角色，展示了一名长发女巫的侧脸，面向左侧，戴着一顶带有华丽饰带和宝石的宽檐尖顶帽，披风上别着一枚珠宝胸针。她的脸部中央被一个实心的矩形审查遮挡块部分遮盖。在她身后，同样的爆炸和飞溅的瓦砾在远处持续。右侧有一个垂直的日语对话气泡，写着“……うわ”。使用整洁的漫画分镜边框，精致的专业少年奇幻漫画风格，强烈的动感，清晰的排线，网点阴影以及电影级的视觉冲击力。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奇幻漫画魔法爆发页面：此提示词可生成一张极具冲击力的黑白奇幻漫画页面，包含一名年轻法师释放强大魔法的场景以及一个较小的反应分镜，适用于漫画叙事或漫画风格的概念艺术。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "manga",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: cinematic, anime, manga, fantasy]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15733",
+      "14960",
+      "15717",
+      "14587",
+      "14677",
+      "15610"
+    ]
+  }
+}

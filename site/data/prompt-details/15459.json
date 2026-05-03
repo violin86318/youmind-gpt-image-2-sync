@@ -1,0 +1,48 @@
+{
+  "id": "15459",
+  "prompt": "Create a raw, high-contrast punk rock gig poster collage for an event called {argument name=\"event title\" default=\"THE AI WEB DESIGN SPRINT\"}. The design should feel like a xeroxed underground flyer pasted on a city wall: rough torn paper edges, photocopy grain, ink smudges, distressed black-and-white textures, hot magenta paint splashes, DIY zine aesthetics, and chaotic layered paper scraps taped and pinned together. Use a vertical poster composition with a black background and a central oversized torn white rectangle set at a slight angle, filled with huge condensed black distressed lettering for the main title. At the very top, add a smaller black torn strip with handwritten brush lettering in neon magenta reading {argument name=\"top slogan\" default=\"LIVE PUNK!\"}. On the left side, place a hot pink torn paper block with hand-drawn black text listing the date {argument name=\"event dates\" default=\"April 27-30\"}, then smaller stacked lines reading \"4 NIGHTS OF CHAOS & CODE\", \"DOORS 7PM\", \"SHOW 8PM\", \"$10 ADV\", and \"$12 DOS\". On the right side, add an off-white torn note with magenta \"WITH:\" at the top and four supporting acts listed in black handwritten text: \"Minimal Playground\", \"Agency 976\", \"Cyberpunk Cafe\", and \"Surfers (Late Set)\". In the center-lower area, show exactly 2 black-and-white photocopied punk band members from the chest up, standing shoulder to shoulder, both wearing leather jackets with patches and pins; the left one has round glasses, the right one wears a baseball cap. Their faces should be generic and partially obscured by the collage styling so the poster focus remains typographic and graphic rather than portrait-specific. Add a hot pink spiky starburst on the mid-right containing a black circle with a simple white radial symbol. Near the bottom right, place a beige masking-tape-like paper scrap with bold handwritten black text reading \"Build Fast. Break Rules. Share Loud.\". Near the bottom left, add a black rectangular venue block with magenta hand lettering for {argument name=\"venue name\" default=\"THE SOUTH SIDE DIY\"} and smaller white address text \"218 W. 31st Street\" and \"Chicago, IL\", plus a small white skull icon nearby. Include exactly 2 silver safety pins, one near the upper left corner and one near the lower left area, and exactly 1 strip of dark duct tape on the left edge of the main title paper. Finish the bottom edge with a black-and-white checkerboard strip spanning the full width. Overall mood: rebellious, loud, youthful, anarchic, street-pasted punk flyer meets tech event promo, with intense contrast, gritty halftone noise, screen-print imperfections, and hand-made collage energy.",
+  "translatedPrompt": "创作一张原始、高对比度的朋克摇滚演出拼贴海报，用于名为 {argument name=\"event title\" default=\"THE AI WEB DESIGN SPRINT\"} 的活动。设计应呈现出贴在城市墙壁上的复印地下传单质感：粗糙的撕纸边缘、复印颗粒感、墨迹污点、做旧的黑白纹理、亮洋红色油漆溅射、DIY 杂志美学，以及用胶带和图钉固定的混乱分层纸屑。采用竖版海报构图，黑色背景，中央放置一个略微倾斜的超大撕裂白色矩形，内填巨大的压缩式黑色做旧字体作为主标题。在最上方，添加一条较小的黑色撕裂纸条，上面用霓虹洋红色手写笔触写着 {argument name=\"top slogan\" default=\"LIVE PUNK!\"}。在左侧，放置一块亮粉色撕裂纸块，上面用手绘黑色文字列出日期 {argument name=\"event dates\" default=\"April 27-30\"}，下方堆叠较小的文字行，内容为“4 NIGHTS OF CHAOS & CODE”、“DOORS 7PM”、“SHOW 8PM”、“$10 ADV”和“$12 DOS”。在右侧，添加一张米白色撕裂便签，顶部用洋红色写着“WITH:”，下方用黑色手写体列出四个助演嘉宾：“Minimal Playground”、“Agency 976”、“Cyberpunk Cafe”和“Surfers (Late Set)”。在中心偏下区域，展示 2 名黑白复印风格的朋克乐队成员，半身像，肩并肩站立，两人都穿着带有补丁和徽章的皮夹克；左侧的人戴着圆框眼镜，右侧的人戴着棒球帽。他们的面部应模糊处理，部分被拼贴风格遮挡，使海报焦点保持在排版和图形上，而非肖像本身。在右中部添加一个亮粉色尖刺星爆图案，其中包含一个带有简单白色放射状符号的黑色圆圈。在右下角附近，放置一张米色美纹纸胶带状的纸屑，上面用粗体手写黑色文字写着“Build Fast. Break Rules. Share Loud.”。在左下角附近，添加一个黑色矩形场地信息块，用洋红色手写体标注 {argument name=\"venue name\" default=\"THE SOUTH SIDE DIY\"}，以及较小的白色地址文字“218 W. 31st Street”和“Chicago, IL”，旁边附带一个小巧的白色骷髅图标。包含 2 枚银色别针，一枚靠近左上角，一枚靠近左下区域，并在主标题纸张的左边缘添加 1 条深色胶带。底部边缘以横跨全宽的黑白棋盘格条纹收尾。整体氛围：叛逆、喧闹、年轻、无政府主义，将街头张贴的朋克传单与技术活动宣传相结合，具有强烈的对比度、粗糙的半色调噪点、丝网印刷瑕疵以及手工拼贴的能量。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "朋克 AI 冲刺活动传单：一款粗犷的朋克拼贴风格活动海报提示词，适用于为技术冲刺、黑客之夜或地下创意活动创作叛逆风格的宣传艺术作品。",
+      "subject": "文字符号",
+      "scene": "人物/角色",
+      "composition": [
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "hand-drawn"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical]。\n\nVisual style:\n[参考风格: hand-drawn]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15381",
+      "14606",
+      "15003",
+      "14485",
+      "14428",
+      "15706"
+    ]
+  }
+}

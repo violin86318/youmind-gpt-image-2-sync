@@ -1,0 +1,39 @@
+{
+  "id": "13800",
+  "prompt": "An overhead anime illustration of {argument name=\"character name\" default=\"Anna Yanami\"} lying on her back on a {argument name=\"setting\" default=\"classroom desk\"}. She has messy {argument name=\"hair color\" default=\"blue\"} hair with an ahoge, and bright blue eyes. She is {argument name=\"expression\" default=\"smiling happily with a slight blush\"} and {argument name=\"pose\" default=\"holding up both hands in peace signs\"}. She wears a white short-sleeved school shirt decorated with four bows down the front in alternating colors of dark blue, light blue, and yellow, paired with a light blue pleated skirt featuring a white stripe near the hem. The scene is lit by warm afternoon sunlight casting distinct shadows across the desk and her body, with a wooden floor visible in the background.",
+  "translatedPrompt": "一张 {argument name=\"character name\" default=\"Anna Yanami\"} 仰卧在 {argument name=\"setting\" default=\"教室课桌\"} 上的俯视动漫插画。她留着凌乱的 {argument name=\"hair color\" default=\"蓝色\"} 头发，头顶有一根呆毛，有着明亮的蓝色眼睛。她 {argument name=\"expression\" default=\"面带红晕，笑得很开心\"}，并且 {argument name=\"pose\" default=\"双手比出剪刀手\"}。她穿着一件白色短袖校服衬衫，前襟装饰着四个交替颜色的蝴蝶结（深蓝色、浅蓝色和黄色），搭配一条下摆带有白条纹的浅蓝色百褶裙。场景在温暖的午后阳光照射下，在课桌和她的身体上投射出明显的阴影，背景中可以看到木质地板。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "俯视视角动漫少女比耶肖像：生成一张动漫少女趴在桌子上比耶的俯视插画，非常适合用于角色同人创作。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13595",
+      "13616",
+      "13618",
+      "13635",
+      "13654",
+      "13672"
+    ]
+  }
+}

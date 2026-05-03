@@ -1,0 +1,46 @@
+{
+  "id": "15455",
+  "prompt": "{\"type\":\"Chinese inspirational comic-style daily routine poster\",\"style\":\"warm cinematic anime illustration with soft golden indoor lighting, cozy productivity aesthetic, clean black panel borders, handwritten Chinese headline, slightly glossy social-media poster finish\",\"subject\":{\"character\":\"young girl AI builder with double bun hairstyle, black shoulder-length hair, round red glasses, black sweater, gold necklace tag reading \\\"豆\\\"\",\"companion\":\"small tan corgi appearing in 4 panels\",\"theme\":\"a full day in the life of an AI-focused girl creating technology for humanity\"},\"layout\":{\"format\":\"vertical poster\",\"grid\":{\"columns\":3,\"rows\":4,\"count\":12},\"top_header\":{\"count\":4,\"elements\":[\"large Chinese title \\\"小豆的一天\\\"\",\"smaller subtitle \\\"用 AI 改变世界\\\"\",\"left profile note card introducing 小豆 with 5 bullet points and a short quote signed \\\"—— 小豆\\\"\",\"right goal note card titled \\\"今日目标:\\\" with 4 checkbox items\"]},\"panels\":[{\"time\":\"07:00\",\"title\":\"清晨充电\",\"description\":\"girl stretching in bed at sunrise in a cozy bedroom, corgi on the bed, plants by the window, caption card at bottom\"},{\"time\":\"08:00\",\"title\":\"晨间规划\",\"description\":\"girl seated at desk writing in a notebook with coffee mug nearby, morning sun through the window, speech bubble above her\"},{\"time\":\"09:00\",\"title\":\"深度工作\",\"description\":\"girl coding intensely at a desk with a monitor showing code, dark focused workspace, thought bubble at upper right\"},{\"time\":\"11:30\",\"title\":\"团队同步\",\"description\":\"conference room meeting with 6 people total, presentation screen reads \\\"ChatGPT Next Generation\\\", girl presenting at front, caption card at bottom\"},{\"time\":\"13:00\",\"title\":\"午餐 & 灵感时刻\",\"description\":\"girl eating a salad at desk, corgi resting beside the bowl, thought bubble about AI inspiration\"},{\"time\":\"14:30\",\"title\":\"产品打磨\",\"description\":\"girl viewed from behind using a desktop monitor with a product interface or chat-style UI open, caption card at bottom\"},{\"time\":\"16:30\",\"title\":\"用户反馈\",\"description\":\"girl at laptop reading feedback, floating reaction icons and short comment bubbles around her, warm office lighting\"},{\"time\":\"18:00\",\"title\":\"演讲 / 交流\",\"description\":\"girl speaking on stage into a microphone before an audience, large glowing backdrop text \\\"AI FOR HUMANITY\\\"\"},{\"time\":\"19:30\",\"title\":\"阅读 & 学习\",\"description\":\"girl reading a book at a desk stacked with books, thought bubble expressing curiosity and learning\"},{\"time\":\"21:30\",\"title\":\"运动 & 放松\",\"description\":\"girl doing a seated yoga stretch on a mat at home, corgi nearby, evening relaxation\"},{\"time\":\"22:30\",\"title\":\"复盘 & 写日记\",\"description\":\"girl writing in a notebook at night by a window with city lights outside, reflective mood\"},{\"time\":\"23:30\",\"title\":\"晚安，明天见!\",\"description\":\"girl asleep in bed hugging the corgi, night scene, speech bubble about the future and creating together\"}],\"bottom_footer\":{\"count\":2,\"elements\":[\"large handwritten Chinese quote across the width about technology ending in love and kindness and making the world better every day\",\"small chibi doodle portrait of the girl at bottom right\"]}},\"text\":{\"language\":\"Chinese\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"小豆的一天\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"用 AI 改变世界\\\"}\",\"character_name\":\"{argument name=\\\"character name\\\" default=\\\"小豆\\\"}\",\"stage_phrase\":\"{argument name=\\\"stage backdrop text\\\" default=\\\"AI FOR HUMANITY\\\"}\",\"footer_quote\":\"{argument name=\\\"quote\\\" default=\\\"我相信，技术的终点是爱与善意。而我的每一天，都是为了让世界变得更好一点点。\\\"}\"},\"composition_notes\":\"Each panel has a bold time label in the top-left corner and a short Chinese title. Include exactly 12 time-stamped panels, 2 top note cards, 1 main hero portrait at the top center holding a mug, and 1 footer quote area. Keep the palette warm beige, amber, black, and soft cream. The overall mood is optimistic, diligent, intelligent, and wholesome, like a motivational lifestyle infographic for AI creators.\"}",
+  "translatedPrompt": "{\"type\":\"中式励志漫画风格日常作息海报\",\"style\":\"温暖的电影感动漫插画，柔和的室内金黄色调，舒适的生产力美学，整洁的黑色边框，手写中文字幕，略带光泽的社交媒体海报质感\",\"subject\":{\"character\":\"年轻的 AI 开发者女孩，双丸子头，黑色齐肩发，圆框红眼镜，黑色毛衣，金色项链吊牌上写着“豆”\",\"companion\":\"4 个分镜中出现的小黄狗柯基\",\"theme\":\"一位专注于 AI 的女孩为人类创造技术的日常一天\"},\"layout\":{\"format\":\"竖版海报\",\"grid\":{\"columns\":3,\"rows\":4,\"count\":12},\"top_header\":{\"count\":4,\"elements\":[\"醒目中文标题“小豆的一天”\",\"副标题“用 AI 改变世界”\",\"左侧个人资料卡片，介绍小豆，包含 5 条要点和一个简短的引言，署名“—— 小豆”\",\"右侧目标卡片，标题为“今日目标:”，包含 4 个复选框项目\"]},\"panels\":[{\"time\":\"07:00\",\"title\":\"清晨充电\",\"description\":\"日出时分，女孩在舒适的卧室床上伸懒腰，柯基在床上，窗边有植物，底部有说明卡片\"},{\"time\":\"08:00\",\"title\":\"晨间规划\",\"description\":\"女孩坐在桌前在笔记本上写字，旁边放着咖啡杯，晨光透过窗户，上方有对话气泡\"},{\"time\":\"09:00\",\"title\":\"深度工作\",\"description\":\"女孩在桌前专注地编写代码，显示器上显示着代码，右上角有思考气泡\"},{\"time\":\"11:30\",\"title\":\"团队同步\",\"description\":\"会议室会议，共 6 人，演示屏幕上写着“ChatGPT Next Generation”，女孩在前方演讲，底部有说明卡片\"},{\"time\":\"13:00\",\"title\":\"午餐 & 灵感时刻\",\"description\":\"女孩在桌前吃沙拉，柯基在碗旁休息，上方有关于 AI 灵感的思考气泡\"},{\"time\":\"14:30\",\"title\":\"产品打磨\",\"description\":\"从背后拍摄女孩使用台式机，屏幕上打开了产品界面或聊天式 UI，底部有说明卡片\"},{\"time\":\"16:30\",\"title\":\"用户反馈\",\"description\":\"女孩在笔记本电脑前阅读反馈，周围漂浮着反应图标和简短的评论气泡，温暖的办公室灯光\"},{\"time\":\"18:00\",\"title\":\"演讲 / 交流\",\"description\":\"女孩在舞台上对着麦克风向观众演讲，巨大的发光背景文字“AI FOR HUMANITY”\"},{\"time\":\"19:30\",\"title\":\"阅读 & 学习\",\"description\":\"女孩在堆满书籍的桌前阅读，思考气泡表达了好奇心和学习状态\"},{\"time\":\"21:30\",\"title\":\"运动 & 放松\",\"description\":\"女孩在家里的瑜伽垫上做坐姿拉伸，柯基在旁边，晚间放松时刻\"},{\"time\":\"22:30\",\"title\":\"复盘 & 写日记\",\"description\":\"夜晚，女孩在窗边写日记，窗外是城市灯火，充满反思的氛围\"},{\"time\":\"23:30\",\"title\":\"晚安，明天见!\",\"description\":\"女孩抱着柯基在床上入睡，夜景，对话气泡关于未来和共同创造\"}],\"bottom_footer\":{\"count\":2,\"elements\":[\"横跨底部的长条手写中文引言，关于技术最终归于爱与善意，让世界每天变得更好\",\"右下角女孩的 Q 版涂鸦头像\"]}},\"text\":{\"language\":\"中文\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"小豆的一天\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"用 AI 改变世界\\\"}\",\"character_name\":\"{argument name=\\\"character name\\\" default=\\\"小豆\\\"}\",\"stage_phrase\":\"{argument name=\\\"stage backdrop text\\\" default=\\\"AI FOR HUMANITY\\\"}\",\"footer_quote\":\"{argument name=\\\"quote\\\" default=\\\"我相信，技术的终点是爱与善意。而我的每一天，都是为了让世界变得更好一点点。\\\"}\"},\"composition_notes\":\"每个分镜的左上角都有醒目的时间标签和简短的中文标题。包含 12 个带时间戳的分镜、2 张顶部卡片、1 张顶部中央的主角肖像（拿着杯子）以及 1 个底部引言区。色调保持温暖的米色、琥珀色、黑色和柔和的奶油色。整体氛围乐观、勤奋、智慧且健康，就像为 AI 创作者设计的励志生活方式信息图。\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "AI 女孩日常作息海报：此提示词可生成一张中式动漫风格的信息图海报，展示了一位年轻 AI 创作者全天的 12 个时间节点场景，非常适合社交媒体的励志帖或科技主题插画。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "grid",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, vertical]。\n\nVisual style:\n[参考风格: cinematic, anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13769",
+      "15653",
+      "15087",
+      "15404",
+      "14462",
+      "14912"
+    ]
+  }
+}

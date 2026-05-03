@@ -1,0 +1,49 @@
+{
+  "id": "14788",
+  "prompt": "Professional manga tankobon cover art. \nA charismatic main character stands in a dynamic, eye-catching pose as the central focus, looking towards the viewer with a determined expression. \n\n**Background:** Intricate and atmospheric environment that reflects the theme of the story, featuring dramatic lighting, floating particles, and cinematic depth of field. \n\n**Typography & Layout:**\n- Primary Title: \"{argument name=\"タイトル\" default=\"[タイトル]\"}\" prominently displayed with stylized, high-impact font.\n- Credits: \"{argument name=\"著者名\" default=\"[著者名]\"}\" in a smaller, elegant font at the bottom or side.\n- Design: Clean layout with dedicated space for volume numbering, ensuring a professional publishing aesthetic.\n\n**Visual Style:**\n- Sharp, clean line art with professional cel-shading and digital painting highlights.\n- High contrast color palette with vibrant accent glows.\n- Composition: Vertical 2:3 aspect ratio, balanced for a book spine and front cover.\n\n**Quality:** Ultra-detailed, masterpiece, trending on Pixiv, high-end commercial illustration style.",
+  "translatedPrompt": "专业漫画单行本封面艺术。\n一位富有魅力的主角以动态、引人注目的姿势作为视觉中心，带着坚定的表情注视着读者。\n\n**背景：** 反映故事主题的复杂且富有氛围感的环境，具有戏剧性的光影、漂浮的粒子和电影级的景深效果。\n\n**排版与布局：**\n- 主标题：\"{argument name=\"title\" default=\"[title]\"}\" 以风格化、高冲击力的字体醒目显示。\n- 署名：\"{argument name=\"author\" default=\"[author name]\"}\" 以较小、优雅的字体显示在底部或侧面。\n- 设计：简洁的布局，为卷号预留了专用空间，确保呈现出专业的出版美学。\n\n**视觉风格：**\n- 锐利、干净的线条，配合专业的赛璐璐阴影和数字绘画高光。\n- 高对比度配色方案，带有充满活力的点缀光效。\n- 构图：垂直 2:3 的长宽比，平衡了书脊与封面的布局。\n\n**质量：** 超精细、杰作、Pixiv 热门、高端商业插画风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "漫画单行本封面插画师：一套用于生成高端专业漫画书封面的综合提示词，包含核心角色、复杂的背景，以及用于自定义标题和作者姓名的占位符。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "manga"
+      ],
+      "lightingCamera": [
+        "dramatic lighting",
+        "high contrast",
+        "depth of field"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: cinematic, manga]。\n\nLighting and camera:\n[参考光线镜头: dramatic lighting, high contrast, depth of field]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13745",
+      "13916",
+      "15754",
+      "15766",
+      "15793",
+      "14561"
+    ]
+  }
+}

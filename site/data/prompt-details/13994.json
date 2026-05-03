@@ -1,0 +1,43 @@
+{
+  "id": "13994",
+  "prompt": "{\n  \"type\": \"2x2 grid of Japanese banner advertisements\",\n  \"quadrants\": [\n    {\n      \"position\": \"top-left\",\n      \"theme\": \"skincare product launch\",\n      \"visuals\": \"portrait of a young Japanese woman with glowing skin touching her face, bright white background, 2 sleek silver and white cosmetic bottles\",\n      \"text_elements\": {\n        \"main_copy\": \"{argument name=\\\"skincare catchphrase\\\" default=\\\"透明感、満ちる。\\\"}\",\n        \"sub_copy\": \"肌が変わると、毎日が変わる。\",\n        \"brand_name\": \"SUIREN\",\n        \"badge\": \"6.1 NEW Debut\"\n      }\n    },\n    {\n      \"position\": \"top-right\",\n      \"theme\": \"European summer travel campaign\",\n      \"visuals\": \"back view of a woman in a straw hat looking at a scenic European lake town with mountains and a church steeple\",\n      \"text_elements\": {\n        \"english_copy\": \"Find your Journey\",\n        \"main_copy\": \"{argument name=\\\"travel catchphrase\\\" default=\\\"心が動く旅へ。\\\"}\",\n        \"badge\": \"yellow circle with '今だけ！最大20%OFF'\",\n        \"footer\": \"blue banner with '初夏のヨーロッパキャンペーン'\"\n      }\n    },\n    {\n      \"position\": \"bottom-left\",\n      \"theme\": \"traditional Japanese soup stock\",\n      \"visuals\": \"close-up of a bowl of white rice topped with bonito flakes and a raw egg yolk, dark soy sauce being poured, 1 brown paper package of dashi\",\n      \"text_elements\": {\n        \"main_copy\": \"{argument name=\\\"food catchphrase\\\" default=\\\"毎日のごはんを、もっと美味しく。\\\"}\",\n        \"product_name\": \"日々のだし\",\n        \"sub_copy\": \"素材のうまみを、まるごと。\"\n      }\n    },\n    {\n      \"position\": \"bottom-right\",\n      \"theme\": \"investment app\",\n      \"visuals\": \"smartphone displaying a financial dashboard with a blue line chart and balance '¥1,485,606'\",\n      \"text_elements\": {\n        \"brand_name\": \"{argument name=\\\"finance app name\\\" default=\\\"MoneyPath\\\"}\",\n        \"main_copy\": \"未来の自分のために、{argument name=\\\"finance catchphrase\\\" default=\\\"今はじめる資産形成\\\"}\",\n        \"badge\": \"blue circle with '1,000円分のポイントプレゼント！'\",\n        \"footer\": \"blue banner with 4 icons and feature text\"\n      }\n    }\n  ]\n}",
+  "translatedPrompt": "{\n  \"type\": \"2x2 日式横幅广告网格\",\n  \"quadrants\": [\n    {\n      \"position\": \"左上\",\n      \"theme\": \"护肤品新品发布\",\n      \"visuals\": \"一位皮肤透亮的年轻日本女性轻触脸庞的肖像，明亮的白色背景，2 瓶精致的银白色化妆品瓶\",\n      \"text_elements\": {\n        \"main_copy\": \"{argument name=\\\"skincare catchphrase\\\" default=\\\"透明感、満ちる。\\\"}\",\n        \"sub_copy\": \"肌肤改变，生活随之焕新。\",\n        \"brand_name\": \"SUIREN\",\n        \"badge\": \"6.1 新品上市\"\n      }\n    },\n    {\n      \"position\": \"右上\",\n      \"theme\": \"欧洲夏季旅游推广\",\n      \"visuals\": \"一名戴着草帽的女性背影，眺望着风景如画的欧洲湖畔小镇，背景可见山脉和教堂尖顶\",\n      \"text_elements\": {\n        \"english_copy\": \"Find your Journey\",\n        \"main_copy\": \"{argument name=\\\"travel catchphrase\\\" default=\\\"心が動く旅へ。\\\"}\",\n        \"badge\": \"黄色圆圈，内含“今だけ！最大20%OFF”\",\n        \"footer\": \"蓝色横幅，内含“初夏のヨーロッパキャンペーン”\"\n      }\n    },\n    {\n      \"position\": \"左下\",\n      \"theme\": \"传统日式高汤\",\n      \"visuals\": \"特写镜头：一碗白米饭上铺着鲣鱼干和生蛋黄，正在淋入深色酱油，旁边放着 1 包棕色包装的日式高汤包\",\n      \"text_elements\": {\n        \"main_copy\": \"{argument name=\\\"food catchphrase\\\" default=\\\"毎日のごはんを、もっと美味しく。\\\"}\",\n        \"product_name\": \"日々のだし\",\n        \"sub_copy\": \"尽享食材的纯粹鲜美。\"\n      }\n    },\n    {\n      \"position\": \"右下\",\n      \"theme\": \"投资理财 App\",\n      \"visuals\": \"智能手机屏幕显示金融仪表盘，包含蓝色折线图和“¥1,485,606”的余额\",\n      \"text_elements\": {\n        \"brand_name\": \"{argument name=\\\"finance app name\\\" default=\\\"MoneyPath\\\"}\",\n        \"main_copy\": \"为了未来的自己，{argument name=\\\"finance catchphrase\\\" default=\\\"今はじめる資産形成\\\"}\",\n        \"badge\": \"蓝色圆圈，内含“1,000円分のポイントプレゼント！”\",\n        \"footer\": \"蓝色横幅，包含 4 个图标和功能文字\"\n      }\n    }\n  ]\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "2x2 日式横幅广告网格：生成一个包含护肤、旅游、美食和金融四个不同主题的 2x2 日式宣传横幅网格。",
+      "subject": "产品",
+      "scene": "图标/贴纸",
+      "composition": [
+        "close-up",
+        "grid",
+        "2x2"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "图标包、贴纸、表情、产品功能图标",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 图标/贴纸 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, grid, 2x2]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13534",
+      "14993",
+      "15290",
+      "14196",
+      "14183",
+      "14442"
+    ]
+  }
+}

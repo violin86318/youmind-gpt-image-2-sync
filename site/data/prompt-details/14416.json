@@ -1,0 +1,50 @@
+{
+  "id": "14416",
+  "prompt": "A candid cinematic lifestyle photo of a {argument name=\"subject\" default=\"young woman\"} sitting alone at a tiny weathered metal café table on a narrow cobblestone street in a sunlit old European town. She has shoulder-length wavy {argument name=\"hair color\" default=\"medium brown\"} hair, small gold hoop earrings, and wears a soft beige knit sweater with relaxed blue jeans. She sits with one leg crossed, holding a patterned ceramic coffee cup in one hand while an open paperback book rests on the table in front of her, with her other hand lightly touching the pages. A smartphone lies on the left side of the table. The background shows warm stone buildings with wooden shutters, potted green plants outside the storefronts, and a hanging sign that reads {argument name=\"cafe sign\" default=\"CAFÉ LUNA\"}. A few distant pedestrians appear softly blurred in the far background. Shot at eye level with shallow depth of field, natural golden morning light, soft bokeh, realistic skin and fabric textures, warm neutral color grading, intimate travel editorial photography, vertical composition.",
+  "translatedPrompt": "一张充满电影质感的纪实生活照，画面中一位 {argument name=\"subject\" default=\"年轻女性\"} 独自坐在欧洲古镇狭窄鹅卵石街道旁一张斑驳的小型金属咖啡桌前。她留着齐肩的 {argument name=\"hair color\" default=\"中棕色\"} 波浪卷发，戴着小巧的金色圆环耳环，身穿柔软的米色针织毛衣和宽松的蓝色牛仔裤。她翘着腿坐着，一只手拿着印花陶瓷咖啡杯，另一只手轻轻触碰着桌上摊开的平装书书页。桌子左侧放着一部智能手机。背景是带有木质百叶窗的温暖石砌建筑、店门外摆放的绿植，以及一块写着 {argument name=\"cafe sign\" default=\"CAFÉ LUNA\"} 的悬挂招牌。远处有几位行人，背景呈现出柔和的虚化效果。采用平视视角拍摄，浅景深，自然金色的晨光，柔和的焦外成像，真实细腻的皮肤与织物纹理，温暖的中性色调，亲密的旅行编辑摄影风格，竖构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "在欧洲街头咖啡馆阅读的女性：此提示词可生成一张温暖、写实的旅行生活方式肖像，展现了一位女性在古朴的欧洲咖啡馆桌前享受咖啡与书籍的惬意时光，非常适合用于编辑、社交媒体或品牌形象展示。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "editorial"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic, editorial]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14828",
+      "15764",
+      "15729",
+      "15243",
+      "15400",
+      "14421"
+    ]
+  }
+}

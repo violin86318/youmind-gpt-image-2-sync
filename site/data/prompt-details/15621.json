@@ -1,0 +1,49 @@
+{
+  "id": "15621",
+  "prompt": "A nostalgic collage of 16 candid youth snapshots arranged in a clean 4x4 photo grid, square format, styled like nonexistent memories from a Japanese coming-of-age film. Show a pair or small group of college-age friends spending time together through day and night, with a dreamy sentimental mood, soft blue and pink color cast, slight film grain, low-light bloom, motion blur, shallow focus, and the imperfect texture of casual phone photos. The main recurring subjects are a young woman with {argument name=\"hair style\" default=\"short wavy bob\"} wearing a {argument name=\"top color\" default=\"white or light gray knit top\"}, and a young man with dark hair in casual dark outerwear or a pale hoodie, appearing as close friends or a shy couple. Faces are intentionally obscured by soft rectangular blur blocks over every visible face, but body language remains warm, intimate, and natural. Include exactly 16 tiles: 1) night street portrait of the woman alone, 2) nighttime two-shot outdoors with the man and woman side by side, city lights behind them, 3) close indoor selfie of two friends shoulder to shoulder, 4) indoor two-shot near curtains, 5) blurred moving street selfie of the pair, 6) cozy cafe table scene with drinks, the woman touching her face while the man sits across, 7) spring park scene under blooming cherry blossoms, 8) playful outdoor shot with a hand partially covering the lens, 9) indoor couch or booth snapshot with one person holding a compact camera, 10) blue-hour overlook or rooftop shot with city lights and the pair standing together, 11) nighttime waterfront or city-light background portrait of two friends, 12) close side-by-side night snapshot of the pair, 13) heavily blurred close selfie with one figure in motion, 14) indoor mirror-area or restaurant snapshot with one person raising a camera, 15) indoor casual peace-sign pose beside a brick or tiled wall, 16) picnic-in-the-park scene with snacks and one friend holding a camera toward the viewer. Overall feeling: wistful, cinematic, intimate, youthful, spontaneous, and bittersweet, like a scrapbook of memories that never really happened.",
+  "translatedPrompt": "一张怀旧的拼贴画，包含 16 张青春抓拍照片，以整洁的 4x4 网格排列，方形构图，风格如同日本青春电影中虚构的记忆。展示一对或一小群大学生在日夜相处的时光，带有梦幻般的感性氛围，呈现柔和的蓝粉色调、轻微的胶片颗粒感、弱光下的光晕、动态模糊、浅景深，以及随意手机摄影的不完美质感。主要反复出现的主角是一位留着 {argument name=\"hair style\" default=\"短波波头\"} 的年轻女性，穿着 {argument name=\"top color\" default=\"白色或浅灰色针织上衣\"}，以及一位留着深色头发、穿着休闲深色外套或浅色连帽衫的年轻男性，他们看起来像是亲密的朋友或羞涩的情侣。所有可见的面部均被柔和的矩形模糊块刻意遮挡，但肢体语言依然温暖、亲密且自然。包含 16 个方格：1) 女性独自一人的夜间街头肖像，2) 夜间男女并肩的户外合影，背景是城市灯光，3) 两位朋友肩并肩的室内近距离自拍，4) 窗帘附近的室内合影，5) 两人移动中的模糊街头自拍，6) 舒适的咖啡馆餐桌场景，桌上有饮料，女性在摸脸，男性坐在对面，7) 樱花盛开下的春季公园场景，8) 手部部分遮挡镜头的俏皮户外拍摄，9) 室内沙发或卡座快照，其中一人拿着小型相机，10) 蓝色时刻的观景台或屋顶镜头，背景是城市灯光，两人站在一起，11) 夜间水边或城市灯光背景下的两位朋友肖像，12) 两人并肩的夜间近距离快照，13) 严重模糊的近距离自拍，其中一人处于动态中，14) 室内镜子区域或餐厅快照，其中一人举着相机，15) 砖墙或瓷砖墙旁的室内休闲比耶姿势，16) 公园野餐场景，有零食，其中一位朋友拿着相机对着镜头。整体感觉：怀旧、电影感、亲密、青春、自发且苦乐参半，就像一本从未真正发生过的记忆剪贴簿。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "怀旧青春记忆照片墙：此提示词可生成 4x4 的电影感拼贴画，包含面部模糊的友情与青涩恋情抓拍，非常适合创建虚构的感性记忆项目。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "grid"
+      ],
+      "style": [
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "film grain",
+        "lens",
+        "camera"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[参考风格: cinematic]。\n\nLighting and camera:\n[参考光线镜头: film grain, lens, camera]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15224",
+      "14042",
+      "15431",
+      "14918",
+      "15354",
+      "15700"
+    ]
+  }
+}

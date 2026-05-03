@@ -1,0 +1,49 @@
+{
+  "id": "14270",
+  "prompt": "A dramatic high-action anime fantasy illustration of a young female warrior with {argument name=\"hair color\" default=\"jet black\"} hair and piercing {argument name=\"eye color\" default=\"bright blue\"} eyes, shown in a dynamic low-angle close-to-mid shot as she swings a long segmented metal whip-sword in a wide circular arc around her body. Her hair is long, voluminous, and blowing violently in the wind, with sharp glossy strands and detailed highlights. She has a focused, fierce expression and is looking directly toward the viewer over her shoulder. She wears ornate black, silver, and gold-trimmed armor with a fitted bodice, armored gauntlets, shoulder plates, thigh armor, and a short layered skirt with flowing blue-and-white fabric panels and metallic decorations. The weapon forms a bright spiral ring across the foreground and upper right of the composition, with reflective steel segments, motion blur, and sparkling highlights. Small rocks and debris are suspended in the air from the force of the attack. The setting is a ruined stone battlefield or castle courtyard with cracked ground, broken masonry, and several tall blue banners in the background beneath a cloudy daylight sky. Use cinematic action composition, strong foreshortening, intense sense of motion, ultra-detailed fantasy costume design, polished metallic textures, dramatic wind effects, crisp anime linework, painterly lighting, high contrast, and an epic heroic mood in the style of a premium fantasy key visual.",
+  "translatedPrompt": "A dramatic high-action anime fantasy illustration of a young female warrior with {argument name=\"hair color\" default=\"jet black\"} hair and piercing {argument name=\"eye color\" default=\"bright blue\"} eyes, shown in a dynamic low-angle close-to-mid shot as she swings a long segmented metal whip-sword in a wide circular arc around her body. Her hair is long, voluminous, and blowing violently in the wind, with sharp glossy strands and detailed highlights. She has a focused, fierce expression and is looking directly toward the viewer over her shoulder. She wears ornate black, silver, and gold-trimmed armor with a fitted bodice, armored gauntlets, shoulder plates, thigh armor, and a short layered skirt with flowing blue-and-white fabric panels and metallic decorations. The weapon forms a bright spiral ring across the foreground and upper right of the composition, with reflective steel segments, motion blur, and sparkling highlights. Small rocks and debris are suspended in the air from the force of the attack. The setting is a ruined stone battlefield or castle courtyard with cracked ground, broken masonry, and several tall blue banners in the background beneath a cloudy daylight sky. Use cinematic action composition, strong foreshortening, intense sense of motion, ultra-detailed fantasy costume design, polished metallic textures, dramatic wind effects, crisp anime linework, painterly lighting, high contrast, and an epic heroic mood in the style of a premium fantasy key visual.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Anime Warrior With Whip Sword：A dynamic fantasy anime action illustration of an armored heroine swinging a segmented blade, ideal for character key art, splash screens, or promotional visuals.",
+      "subject": "界面",
+      "scene": "插画/漫画",
+      "composition": [
+        "layered"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "fantasy",
+        "premium"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "动漫分镜、战斗场景、运动瞬间、夸张叙事图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 插画/漫画 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered]。\n\nVisual style:\n[参考风格: cinematic, anime, fantasy, premium]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14432",
+      "14528",
+      "15800",
+      "15106",
+      "15380",
+      "15798"
+    ]
+  }
+}

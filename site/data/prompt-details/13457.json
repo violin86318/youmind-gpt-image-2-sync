@@ -1,0 +1,50 @@
+{
+  "id": "13457",
+  "prompt": "{\n  \"type\": \"Japanese pachinko parlor promotional poster\",\n  \"style\": \"hyper-flashy, explosive golden starbursts, red background, floating gold confetti, lens flares, high contrast, 3D metallic text\",\n  \"subject\": \"{argument name=\\\"model description\\\" default=\\\"smiling young Japanese woman with brown hair and bangs wearing a white sparkly dress\\\"}\",\n  \"layout\": {\n    \"top_left\": {\n      \"type\": \"massive 3D text\",\n      \"text\": \"{argument name=\\\"main title\\\" default=\\\"新台入替\\\"}\",\n      \"style\": \"gold and red metallic\"\n    },\n    \"top_right\": {\n      \"type\": \"vertical banner\",\n      \"text\": \"本日堂々オープン!\",\n      \"style\": \"red ribbon with gold text\"\n    },\n    \"middle_left\": {\n      \"type\": \"time announcement\",\n      \"text_line_1\": \"{argument name=\\\"opening time\\\" default=\\\"AM 9:00\\\"}\",\n      \"text_line_2\": \"OPEN!!\",\n      \"style\": \"gold/yellow top line, blue/white gradient bottom line\"\n    },\n    \"middle_lower_stats\": {\n      \"type\": \"information grid\",\n      \"count\": 5,\n      \"elements\": [\n        { \"label\": \"Date\", \"text\": \"{argument name=\\\"date\\\" default=\\\"4.10\\\"}\", \"subtext\": \"水曜日\", \"style\": \"red and gold box\" },\n        { \"label\": \"Pachinko count\", \"text\": \"パチンコ\", \"subtext\": \"120台\", \"style\": \"red box\" },\n        { \"label\": \"Slot count\", \"text\": \"スロット\", \"subtext\": \"80台\", \"style\": \"blue box\" },\n        { \"label\": \"Total count\", \"text\": \"220台\", \"subtext\": \"OVER\", \"style\": \"gold circular badge\" },\n        { \"label\": \"Variety corner\", \"text\": \"バラエティコーナー 20台\", \"style\": \"green horizontal banner\" }\n      ]\n    },\n    \"bottom\": {\n      \"type\": \"massive 3D catchphrase\",\n      \"text\": \"{argument name=\\\"catchphrase\\\" default=\\\"超絶激アツ!!\\\"}\",\n      \"style\": \"gold metallic, explosive background\"\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"日本弹珠机店宣传海报\",\n  \"style\": \"超炫酷、爆炸式金色星芒、红色背景、漂浮的金色纸屑、镜头光晕、高对比度、3D 金属质感文字\",\n  \"subject\": \"{argument name=\\\"model description\\\" default=\\\"面带微笑、留着棕色齐刘海的年轻日本女性，身穿闪亮白色连衣裙\\\"}\",\n  \"layout\": {\n    \"top_left\": {\n      \"type\": \"大型 3D 文字\",\n      \"text\": \"{argument name=\\\"main title\\\" default=\\\"新台入替\\\"}\",\n      \"style\": \"金红色金属质感\"\n    },\n    \"top_right\": {\n      \"type\": \"竖向横幅\",\n      \"text\": \"本日堂々オープン!\",\n      \"style\": \"带有金色文字的红色丝带\"\n    },\n    \"middle_left\": {\n      \"type\": \"营业时间公告\",\n      \"text_line_1\": \"{argument name=\\\"opening time\\\" default=\\\"AM 9:00\\\"}\",\n      \"text_line_2\": \"OPEN!!\",\n      \"style\": \"金色/黄色顶行，蓝/白色渐变底行\"\n    },\n    \"middle_lower_stats\": {\n      \"type\": \"信息网格\",\n      \"count\": 5,\n      \"elements\": [\n        { \"label\": \"日期\", \"text\": \"{argument name=\\\"date\\\" default=\\\"4.10\\\"}\", \"subtext\": \"水曜日\", \"style\": \"红金配色方框\" },\n        { \"label\": \"弹珠机数量\", \"text\": \"パチンコ\", \"subtext\": \"120台\", \"style\": \"红色方框\" },\n        { \"label\": \"老虎机数量\", \"text\": \"スロット\", \"subtext\": \"80台\", \"style\": \"蓝色方框\" },\n        { \"label\": \"总数\", \"text\": \"220台\", \"subtext\": \"OVER\", \"style\": \"金色圆形徽章\" },\n        { \"label\": \"多样化专区\", \"text\": \"バラエティコーナー 20台\", \"style\": \"绿色横向横幅\" }\n      ]\n    },\n    \"bottom\": {\n      \"type\": \"大型 3D 宣传标语\",\n      \"text\": \"{argument name=\\\"catchphrase\\\" default=\\\"超絶激アツ!!\\\"}\",\n      \"style\": \"金色金属质感，爆炸式背景\"\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "炫酷弹珠机店宣传海报：生成一张极其炫酷、信息密集且带有日本风格的宣传海报，包含人物肖像、3D 金属质感排版以及多个数据展示框。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "grid",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "3d"
+      ],
+      "lightingCamera": [
+        "high contrast",
+        "lens"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, vertical, horizontal]。\n\nVisual style:\n[参考风格: 3d]。\n\nLighting and camera:\n[参考光线镜头: high contrast, lens]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13769",
+      "14854",
+      "14977",
+      "15663",
+      "14912",
+      "15087"
+    ]
+  }
+}

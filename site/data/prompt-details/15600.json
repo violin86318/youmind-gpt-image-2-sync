@@ -1,0 +1,52 @@
+{
+  "id": "15600",
+  "prompt": "Create a vertical luxury skincare advertisement in a soft feminine pastel aesthetic, styled like a viral Instagram or TikTok beauty promo with no app UI. Show a single glass dropper serum bottle centered on a fluffy lavender-purple surface, photographed in ultra-realistic studio lighting with warm golden sunlight streaming from the upper left, soft shadows, glossy reflections, dreamy haze, and creamy bokeh in the background. The bottle label should read {argument name=\"brand name\" default=\"ELEGANT SKINCARE\"} and {argument name=\"product name\" default=\"SERUM\"}, with a pale pink-lilac translucent bottle and shiny rose-gold dropper cap. Surround the product with an elegant feminine vanity setup: 1 gold-framed round tabletop mirror on the left, 1 lit white candle in a glass jar on the right, 1 pearl necklace draped across the lower left foreground, and 4 clusters of white baby's breath flowers placed in the left foreground, left midground near the mirror, right foreground, and far right edge. Add cute hand-drawn doodle decorations in white and purple: curved arrows pointing toward the serum, sparkles, tiny hearts, short accent strokes, and small loops scattered around the composition. Include 2 paper note cards: one left of the bottle saying {argument name=\"left note text\" default=\"My daily glow secret!\"}, and one lower right saying {argument name=\"right note text\" default=\"Feels amazing!\"}; add 1 small round lavender sticker attached to the right note that says \"MUST HAVE\". Use large handwritten dark-purple headline text at the top reading {argument name=\"headline text\" default=\"Glowy Skin In A Bottle\"}, with a torn white tape-style strip underneath containing {argument name=\"tagline text\" default=\"Nourish • Hydrate • Glow\"}. Add smaller dark-purple copy to the upper right of the bottle reading \"For Soft, Smooth & Glowing Skin\", and at the bottom center repeat \"For Soft, Smooth & Glowing Skin\" with \"Self care Everyday\" beneath it in a lighter soft white tone. Keep the composition clean, premium, cozy, glossy, and highly aesthetic, with the serum as the clear focal point.",
+  "translatedPrompt": "创作一张竖版奢华护肤广告，采用柔和女性化的粉彩色调，风格类似于 Instagram 或 TikTok 上的热门美妆宣传，且不含任何应用 UI。画面中心展示一瓶玻璃滴管精华液，放置在蓬松的薰衣草紫色表面上，采用超写实摄影棚灯光拍摄，左上方有温暖的金色阳光射入，伴随柔和阴影、光泽反射、梦幻雾感以及背景中奶油般的虚化效果。瓶身标签应显示 {argument name=\"brand name\" default=\"ELEGANT SKINCARE\"} 和 {argument name=\"product name\" default=\"SERUM\"}，瓶身为淡粉紫色的半透明材质，配有闪亮的玫瑰金滴管盖。产品周围布置优雅的女性化梳妆台：左侧放置 1 面金色边框圆形桌面镜，右侧放置 1 个玻璃罐装的白色点燃蜡烛，左下方前景处垂挂 1 条珍珠项链，并在左前景、镜子附近的左中景、右前景以及最右侧边缘放置 4 簇白色满天星花束。添加可爱的白色和紫色手绘涂鸦装饰：指向精华液的弯曲箭头、闪光点、小爱心、短装饰笔触以及散布在构图周围的小圆圈。包含 2 张纸质便签：瓶子左侧的一张写着 {argument name=\"left note text\" default=\"My daily glow secret!\"}，右下方的一张写着 {argument name=\"right note text\" default=\"Feels amazing!\"}；在右侧便签上贴 1 个写有“MUST HAVE”的小圆形薰衣草色贴纸。顶部使用醒目的深紫色手写标题文本 {argument name=\"headline text\" default=\"Glowy Skin In A Bottle\"}，下方配有一条撕裂的白色胶带风格条，内容为 {argument name=\"tagline text\" default=\"Nourish • Hydrate • Glow\"}。在瓶子右上方添加较小的深紫色文案“For Soft, Smooth & Glowing Skin”，并在底部中心重复“For Soft, Smooth & Glowing Skin”，下方以更浅的柔白色调写上“Self care Everyday”。保持构图简洁、高端、舒适、有光泽且极具美感，确保精华液成为视觉焦点。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "柔和色调奢华护肤广告：一款柔和粉彩色调的竖版美妆广告，展示了置于女性化梳妆台上的发光精华液瓶，非常适合护肤品牌推广及社交媒体创意宣传。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "luxury",
+        "premium",
+        "hand-drawn",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: realistic, luxury, premium, hand-drawn, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15776",
+      "15601",
+      "14943",
+      "15447",
+      "15775",
+      "14878"
+    ]
+  }
+}

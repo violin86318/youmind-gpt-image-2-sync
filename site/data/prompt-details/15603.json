@@ -1,0 +1,52 @@
+{
+  "id": "15603",
+  "prompt": "A highly realistic studio portrait of a {argument name=\"subject gender\" default=\"female\"} in her mid-20s with a naturally fit build, framed from the chest up at eye level, centered against a smooth warm beige studio backdrop with no distractions. She has long, thick, dark {argument name=\"hair color\" default=\"black\"} hair styled in loose, slightly messy natural waves with strong volume and a soft center part, falling over both shoulders. Her pose is relaxed and confident, facing the camera straight on with a calm, neutral, self-assured expression. She wears 2 visible clothing layers: a plain white crew-neck T-shirt underneath a lightweight taupe-gray casual zip jacket worn open, with a minimal modern streetwear look in muted neutral tones. Include a small subtle earring visible on one ear. Use professional studio lighting with a soft frontal key light, gentle fill, soft natural shadows, accurate skin tones, and very light separation from the background. Shoot with an 85mm portrait lens look at f/2.8, tack-sharp on the subject with shallow depth of field, editorial fashion portrait style, natural balanced color grading, minimal retouching, ultra-detailed, no filters, no noise, no motion blur, no cartoonish features.",
+  "translatedPrompt": "一张高度写实的影棚人像，主体为一名 20 多岁、身材匀称的 {argument name=\"subject gender\" default=\"女性\"}，采用平视视角，胸部以上构图，居中置于平滑的暖米色影棚背景前，背景无杂物。她留着一头浓密的长发，发色为 {argument name=\"hair color\" default=\"黑色\"}，发型为蓬松、略显凌乱的自然波浪卷，发量充盈，中分发缝柔和，垂落在双肩。姿态放松且自信，正对镜头，表情冷静、中性且从容。身着两层可见的服装：内搭纯白色圆领 T 恤，外穿一件敞开的轻薄灰褐色休闲拉链夹克，呈现出中性色调的极简现代街头风格。一侧耳朵上佩戴一枚精致小巧的耳环。采用专业影棚布光，使用柔和的正面主光、轻柔的补光，营造出自然的阴影，肤色真实，与背景有轻微的层次感。使用 85mm 人像镜头拍摄，光圈 f/2.8，主体对焦清晰，景深较浅，呈现编辑时尚人像风格，色彩平衡自然，极简修图，超高清细节，无滤镜，无噪点，无运动模糊，无卡通特征。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "中性色调简约影棚人像：此提示词可生成具有柔和光影、低调休闲风格及干净中性背景的写实编辑风格影棚人像，适用于时尚、品牌宣传或人像摄影。",
+      "subject": "服饰",
+      "scene": "人物/角色",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic",
+        "editorial",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting",
+        "shallow depth",
+        "depth of field",
+        "lens",
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic, editorial, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting, shallow depth, depth of field, lens, camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15028",
+      "14679",
+      "15463",
+      "15533",
+      "15622",
+      "15606"
+    ]
+  }
+}

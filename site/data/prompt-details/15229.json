@@ -1,0 +1,36 @@
+{
+  "id": "15229",
+  "prompt": "「{argument name=\"作品名\" default=\"映画ドラえもん のび太の三国志英雄伝\"}」という題名のアニメ映画のポスターを作って\n{argument name=\"テーマ\" default=\"MBTI性格診断\"}をテーマにした青春アニメのポスターを作って",
+  "translatedPrompt": "创建一个标题为“{argument name=\"work title\" default=\"哆啦A梦：大雄的三国志英雄传\"}”的动漫电影海报\n创建一个以“{argument name=\"theme\" default=\"MBTI 性格测试\"}”为主题的青春动漫海报",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫电影海报生成器：一套用于生成高质量动漫风格海报的简单提示词，适用于电影续集或心理原型等特定虚构主题。",
+      "subject": "综合主体",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13973",
+      "14331",
+      "14358",
+      "14365",
+      "14764",
+      "15220"
+    ]
+  }
+}

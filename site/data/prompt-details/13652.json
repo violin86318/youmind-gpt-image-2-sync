@@ -1,0 +1,42 @@
+{
+  "id": "13652",
+  "prompt": "{\n  \"type\": \"live stream interface mockup\",\n  \"subject\": {\n    \"description\": \"young East Asian woman, long dark wavy hair, gentle smile, silver clover necklace, wired earphones\",\n    \"clothing\": \"{argument name=\\\"clothing\\\" default=\\\"white lace-trimmed camisole with a small blue bow, light blue cardigan, grey pleated skirt\\\"}\",\n    \"pose\": \"sitting at a desk, looking directly at the camera, one hand on an RGB mechanical keyboard\"\n  },\n  \"environment\": {\n    \"foreground\": \"professional condenser microphone on a boom arm with a small white plush keychain attached\",\n    \"background\": \"gaming room setup, large computer monitor displaying a {argument name=\\\"game on monitor\\\" default=\\\"MOBA game\\\"}, shelf with a glowing moon lamp and a pink bunny plushie\",\n    \"lighting\": \"soft indoor lighting with purple and blue ambient glow from the monitor and a neon '{argument name=\\\"neon sign text\\\" default=\\\"LIVE ♡\\\"}' sign on the wall\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"Top Left Profile\",\n        \"position\": \"top-left\",\n        \"count\": 4,\n        \"labels\": [\"{argument name=\\\"username\\\" default=\\\"草莓味小羊 🍓\\\"}\", \"12.8万本场点赞\", \"关注\", \"小时榜第3名\"]\n      },\n      {\n        \"title\": \"Top Right Stats\",\n        \"position\": \"top-right\",\n        \"count\": 4,\n        \"labels\": [\"3 viewer avatars\", \"6.7万\", \"X\", \"礼物展馆 2/24\"]\n      },\n      {\n        \"title\": \"Chat Overlay\",\n        \"position\": \"bottom-left\",\n        \"count\": 7,\n        \"labels\": [\n          \"{argument name=\\\"chat message 1\\\" default=\\\"宝宝下次打什么呀？\\\"}\",\n          \"主播好美！！！\",\n          \"主播带带我～\",\n          \"声音也太温柔了吧\",\n          \"这波操作666\",\n          \"晚安宝宝么么哒\",\n          \"进来就被美到了～\"\n        ]\n      },\n      {\n        \"title\": \"Input Bar\",\n        \"position\": \"bottom\",\n        \"count\": 5,\n        \"labels\": [\"说点什么...\", \"smiley icon\", \"heart icon\", \"gift icon\", \"three dots icon\"]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"移动端直播界面模型\",\n  \"subject\": {\n    \"description\": \"年轻迷人的亚洲女性，留着黑色长卷发，面带温柔微笑，佩戴有线耳机和银色四叶草项链\",\n    \"outfit\": \"{argument name=\\\"outfit\\\" default=\\\"白色蕾丝边吊带背心和浅蓝色开衫\\\"}\",\n    \"action\": \"直视镜头，坐在书桌前，桌上放着键盘\"\n  },\n  \"environment\": {\n    \"setting\": \"温馨的游戏房\",\n    \"equipment\": [\n      \"悬臂支架上的专业电容麦克风，挂着一个小巧的白色毛绒吉祥物挂件\",\n      \"电脑显示器，屏幕上显示着 {argument name=\\\"game on monitor\\\" default=\\\"类似《英雄联盟》的 MOBA 游戏\\\"}\",\n      \"RGB 机械键盘\"\n    ],\n    \"background_decor\": [\n      \"霓虹灯牌，写着 '{argument name=\\\"neon sign text\\\" default=\\\"LIVE ♡\\\"}'\",\n      \"放着发光球形月球灯的架子\",\n      \"粉色毛绒兔子玩具\"\n    ]\n  },\n  \"ui_overlay\": {\n    \"top_left\": {\n      \"profile\": {\n        \"avatar\": \"主播缩略头像\",\n        \"name\": \"{argument name=\\\"streamer name\\\" default=\\\"草莓味小羊 🍓\\\"}\",\n        \"subtext\": \"12.8万本场点赞\",\n        \"button\": \"红色的“关注”按钮\"\n      },\n      \"tag\": \"黄色标签，写着“小时榜第 3 名”\"\n    },\n    \"top_right\": {\n      \"viewers\": {\n        \"avatars_count\": 3,\n        \"total_count\": \"{argument name=\\\"viewer count\\\" default=\\\"6.7万\\\"}\",\n        \"close_button\": \"X 图标\"\n      },\n      \"gift_gallery\": \"礼物盒图标，文字显示“礼物展馆 2/24”\"\n    },\n    \"bottom_left_chat\": {\n      \"message_count\": 7,\n      \"messages\": [\n        \"等级 35，铁粉图标，“宝宝下次打什么呀？”\",\n        \"等级 18，“小羊爱吃草莓: 主播好美！！！”\",\n        \"等级 6，“用户_47956: 主播带带我～”\",\n        \"等级 21，“草莓果酱: 声音也太温柔了吧”\",\n        \"等级 12，“加油鸭: 这波操作 666”\",\n        \"等级 7，“小小羊: 晚安宝宝么么哒”\",\n        \"等级 3，“粉粉小熊: 进来就被美到了～”\"\n      ]\n    },\n    \"bottom_bar\": {\n      \"input_placeholder\": \"说点什么...\",\n      \"icons\": [\"笑脸\", \"爱心\", \"粉色礼物盒\", \"三个点\"]\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "直播界面 UI 模型：生成一个逼真的移动端直播界面，包含主播、聊天弹幕和观众统计信息。",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [
+        "neon",
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: neon, camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13782",
+      "13790",
+      "13836",
+      "13956",
+      "13822",
+      "13826"
+    ]
+  }
+}

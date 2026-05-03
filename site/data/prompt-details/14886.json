@@ -1,0 +1,47 @@
+{
+  "id": "14886",
+  "prompt": "A close-up anime fantasy illustration of a cute young girl in a luminous cathedral-like hall, reaching one hand toward the viewer in strong foreshortened perspective as if inviting them forward. She has long wavy {argument name=\"hair color\" default=\"light blue\"} hair spilling from under an oversized glossy green bunny-eared hood, with one ear flopping across the top left and the other hanging down on the right. Her face is mostly obscured by her hair and the hood, creating a mysterious, shy composition. She wears an elaborate frilly outfit in white, green, and pastel pink, with lace trim, ribbons, and a pink bow at the collar. In her other arm she holds 1 plush toy: a white rabbit doll with pink inner ears, a wide open smile, one button X eye, and a small jester-like collar with tiny bells. The background is a grand blue crystal palace interior with tall glowing arches, soft bloom lighting, reflective floors, sparkling particles, and dreamy ethereal atmosphere. Highly polished anime game key art style, vibrant cool tones, soft highlights, delicate linework, glossy fabric textures, cinematic depth, centered composition, portrait cropped at the chest, whimsical and magical mood.",
+  "translatedPrompt": "一张动漫奇幻风格的特写插画，描绘了一位可爱的少女身处类似发光教堂的大厅中，一只手向观众伸出，运用强烈的透视缩短效果，仿佛在邀请观众向前。她留着长长的波浪卷发，{argument name=\"hair color\" default=\"浅蓝色\"} 的发丝从超大号的亮面绿色兔耳帽下倾泻而出，一只耳朵垂在左上方，另一只垂在右侧。她的脸部大部分被头发和兜帽遮住，营造出一种神秘而羞涩的构图。她身穿精致的荷叶边服装，配色为白色、绿色和柔粉色，饰有蕾丝边、丝带和领口的粉色蝴蝶结。她的另一只手臂抱着 1 个毛绒玩具：一只白色兔子玩偶，有着粉色的内耳、咧开的大嘴、一只纽扣 X 型眼睛，以及带有小铃铛的小丑式领圈。背景是一个宏伟的蓝色水晶宫殿内部，拥有高耸的发光拱门、柔和的辉光照明、反光的地面、闪烁的粒子以及梦幻空灵的氛围。高精度的动漫游戏关键视觉图风格，鲜艳的冷色调，柔和的高光，细腻的线条，光泽的织物纹理，电影级的景深，居中构图，胸部以上肖像剪裁，充满奇幻与魔法的氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "蓝发兔耳帽动漫少女：此提示词可生成一张精致的动漫风格奇幻角色肖像，包含兔耳帽、毛绒兔玩偶以及发光的教堂背景，适用于关键视觉图或角色宣传插画。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "close-up"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, close-up]。\n\nVisual style:\n[参考风格: cinematic, anime, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14513",
+      "14568",
+      "15706",
+      "15711",
+      "14508",
+      "15032"
+    ]
+  }
+}

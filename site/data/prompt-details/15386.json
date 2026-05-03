@@ -1,0 +1,49 @@
+{
+  "id": "15386",
+  "prompt": "A vibrant Japanese airline advertisement poster in glossy anime style, vertical composition, featuring a stylish young female idol-inspired traveler standing in the foreground at an airport apron with a pink-and-white passenger airplane behind her. The plane is branded {argument name=\"brand name\" default=\"peach\"} in large lowercase letters on the fuselage and tail. Bright blue sky with fluffy white clouds, airport terminal buildings in the distance, and scattered confetti-like geometric shapes in pink and yellow create an energetic promotional mood. The character has long split-color hair, black on one side and vivid pink on the other, with cat-ear-like hair accessories or headphones, side clips, and a single ahoge strand. Her face is partially obscured by a centered rectangular blur block. She wears large metallic headphones, a silver choker, a black mesh crop top layered over a black bralette, a short black-and-white asymmetrical skirt with two front buckles, a glossy oversized pink bomber jacket slipping off the shoulders, and a teal thigh strap. She poses with one hand reaching toward the viewer and the other holding a pink boarding pass or ticket card branded with the airline name. Add a second floating ticket on the right side reading “Everywhere!” in English. Use a bold commercial layout with exactly 8 distinct text areas: 1 large top-left logo reading {argument name=\"brand name\" default=\"peach\"}, 1 handwritten Japanese slogan across the upper left, 1 central promotional headline block in Japanese reading {argument name=\"main headline\" default=\"学生割引\"}, 1 blue circular badge reading {argument name=\"badge text\" default=\"U25限定!\"}, 1 large discount callout reading {argument name=\"discount text\" default=\"20%OFF!\"}, 3 rounded white icon boxes along the bottom each with small pink travel-related icons and Japanese captions, and 1 cursive English tagline at bottom left reading {argument name=\"tagline\" default=\"Fly Peach. Love Life.\"}. Include a small search-bar style UI element at the bottom right, extra diagonal pink graphic borders at the top and bottom, and polished ad-design typography. High-saturation pink palette, youthful urban fashion, dynamic perspective, crisp cel-shaded rendering with soft airbrushed lighting, premium anime promotional poster aesthetic.",
+  "translatedPrompt": "一张充满活力的日式航空广告海报，采用光泽感动漫风格，竖构图。画面前景是一位时尚的年轻女性偶像风旅行者，站在机场停机坪上，身后是一架粉白相间的客机。机身和尾翼上印有大号小写字母 {argument name=\"brand name\" default=\"peach\"} 的品牌标识。明亮的蓝天配以蓬松的白云，远处可见机场航站楼，粉色和黄色的几何图形如纸屑般散落，营造出充满活力的促销氛围。角色留着长长的双色发，一侧为黑色，另一侧为鲜艳的粉色，戴着猫耳状发饰或耳机，配有侧边发夹和一根呆毛。她的脸部被中间的矩形模糊块部分遮挡。她佩戴着大型金属耳机、银色颈圈，身穿黑色网眼短款上衣，内搭黑色抹胸，下着黑白不对称短裙（带有两个前扣），肩上滑落着一件亮面超大款粉色飞行员夹克，腿部配有青色腿带。她摆出姿势，一只手伸向观众，另一只手拿着一张印有航空公司名称的粉色登机牌或票卡。在右侧添加第二张悬浮票据，上面用英文写着“Everywhere!”。采用醒目的商业布局，包含 8 个明确的文本区域：左上角 1 个印有 {argument name=\"brand name\" default=\"peach\"} 的大型 Logo，左上方 1 条手写日文标语，中央 1 个写有 {argument name=\"main headline\" default=\"学生割引\"} 的日文促销标题块，1 个写有 {argument name=\"badge text\" default=\"U25限定!\"} 的蓝色圆形徽章，1 个写有 {argument name=\"discount text\" default=\"20%OFF!\"} 的大型折扣提示，底部 3 个圆角白色图标框（每个框内配有小型粉色旅行相关图标和日文说明），以及左下角 1 条写有 {argument name=\"tagline\" default=\"Fly Peach. Love Life.\"} 的英文草书标语。右下角包含一个小型搜索栏样式的 UI 元素，顶部和底部添加额外的对角粉色图形边框，并采用精致的广告设计排版。高饱和度粉色调，青春都市时尚感，动态视角，清晰的赛璐珞渲染配以柔和的喷枪光影，呈现出高级的动漫宣传海报美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫风航空学生优惠海报：一张炫酷的动漫风格日本航空广告海报，专为青年旅行促销设计，非常适合通过时尚角色和飞机背景来重现品牌活动视觉效果。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "callout",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": "得分 91；构图: centered, symmetrical, callout, layered, vertical；风格: anime, premium；要求精确文字；包含标注/说明；文字是主视觉"
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, callout, layered, vertical]。\n\nVisual style:\n[参考风格: anime, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15444",
+      "14842",
+      "14915",
+      "14518",
+      "14881",
+      "15387"
+    ]
+  }
+}

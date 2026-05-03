@@ -1,0 +1,47 @@
+{
+  "id": "14861",
+  "prompt": "Using the provided reference image, turn this candid train photo into a clean professional studio head-and-shoulders portrait of the same person. Keep the same hairstyle, shirt-and-sweater outfit, and overall identity cues, but remove the headphones, train window reflection, table, thermos, book, and all travel context. Reframe the subject so he is centered and facing the camera in a neutral upright pose, cropped from mid-chest upward. Replace the background with a plain muted blue-gray studio backdrop and use soft even portrait lighting for a polished corporate profile photo.",
+  "translatedPrompt": "使用提供的参考图像，将这张随意的火车抓拍照片转换为同一人物干净、专业的影棚半身肖像。移除耳机、窗户反光、桌子、保温杯、书本以及所有火车内部或背景元素。将构图从随意的偏心坐姿调整为居中、正面的裁剪，使主体直视镜头，背景为简洁的柔和蓝灰色影棚背景。保留相同的发型、衬衫加毛衣的穿搭以及整体逼真的摄影质感，但使用柔和均匀的影棚灯光进行重新布光，并进行精致的肖像修图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "将火车抓拍照片转换为影棚肖像：此提示词可将一张随意的环境参考照片转换为干净、逼真的专业影棚肖像，适用于个人资料、简历或企业形象照。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "studio"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: studio]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15395",
+      "15004",
+      "15028",
+      "15394",
+      "15463",
+      "15030"
+    ]
+  }
+}

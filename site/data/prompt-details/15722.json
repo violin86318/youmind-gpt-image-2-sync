@@ -1,0 +1,44 @@
+{
+  "id": "15722",
+  "prompt": "{\"type\":\"anime character reference sheet\",\"subject\":\"single female character design board\",\"style\":{\"medium\":\"clean polished anime illustration\",\"presentation\":\"Japanese character sheet / profile board\",\"mood\":\"earnest, gentle, optimistic, intelligent\",\"rating\":\"SFW\"},\"character\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"高梨 ことみ\\\"}\",\"reading\":\"たかなし ことみ\",\"role\":\"female university student, 2nd year\",\"age\":\"20\",\"height\":\"159 cm\",\"build\":\"slim curvy build with long legs\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"brown\\\"}\",\"style\":\"short bob with soft volume, rounded silhouette, side-swept bangs, glossy highlights\"},\"eyes\":{\"color\":\"brown\"},\"personality\":\"hardworking, mentally strong, kind, polite, forward-looking\"},\"outfit\":{\"theme\":\"{argument name=\\\"outfit theme\\\" default=\\\"dark purple glossy ribbon-themed dress\\\"}\",\"pieces\":[\"short glossy dark purple puff-sleeve mini dress with corset-like fitted torso\",\"large ribbon bow at the collar\",\"semi-sheer black tights or glossy thigh-high styled legwear\",\"black high heels\",\"small handbag in the left showcase image\"]},\"layout\":{\"background\":\"light beige paper-like board with purple section headers and thin borders\",\"sections\":[{\"title\":\"main visual\",\"position\":\"left column\",\"count\":1,\"labels\":[\"full-body standing illustration in a nighttime urban entrance scene with warm lights and stairs behind her, one hand near chest, handbag at side\"]},{\"title\":\"キャラクターデザイン\",\"position\":\"upper middle-left\",\"count\":3,\"labels\":[\"front view\",\"side view\",\"back view\"]},{\"title\":\"表情集\",\"position\":\"upper middle-right\",\"count\":6,\"labels\":[\"gentle smile\",\"soft neutral\",\"slightly shy\",\"calm closed-mouth smile\",\"concerned or hesitant\",\"serious attentive look\"]},{\"title\":\"基本情報\",\"position\":\"bottom left\",\"count\":5,\"labels\":[\"体重\",\"スリーサイズ\",\"瞳線の色\",\"髪の色\",\"イメージカラー / モチーフ\"]},{\"title\":\"好きなこと・得意なこと\",\"position\":\"bottom center-left\",\"count\":5,\"labels\":[\"読書\",\"カフェでゆっくり過ごすこと\",\"日記や文章を書くこと\",\"書道\",\"朝のランニングやストレッチ\"]},{\"title\":\"ポーズ集\",\"position\":\"bottom center-right\",\"count\":3,\"labels\":[\"strap-holding pose\",\"forward-leaning polite pose\",\"finger-near-lips thoughtful pose\"]},{\"title\":\"プロフィール\",\"position\":\"upper right\",\"count\":13,\"labels\":[\"名前\",\"学年\",\"年齢\",\"身長\",\"誕生日\",\"血液型\",\"所属\",\"住まい\",\"趣味\",\"特技\",\"好きなもの\",\"苦手なもの\",\"一人称 / 性格\"]},{\"title\":\"キャラクター設定\",\"position\":\"mid-right\",\"count\":5,\"labels\":[\"daily effort toward physical improvement\",\"aims to balance health and beauty\",\"very polite speech and manners\",\"kind and caring to friends\",\"wants to use writing in future work\"]},{\"title\":\"セリフサンプル\",\"position\":\"bottom right\",\"count\":4,\"labels\":[\"gentle encouraging line\",\"slightly troubled reaction\",\"surprised flustered line\",\"warm thankful line\"]}],\"header\":{\"main_name\":\"{argument name=\\\"headline text\\\" default=\\\"高梨 ことみ\\\"}\",\"subtitle\":\"努力家で芯が強い、優しく前向きな女の子\",\"class_label\":\"学生（大学2年生）\"}},\"composition\":{\"canvas\":\"landscape, wide reference sheet\",\"centerpiece\":\"formal multi-panel character design document\",\"design_language\":\"professional anime setting materials with purple accents, crisp typography, neat spacing, white panels\"},\"rendering\":{\"quality\":\"high detail\",\"linework\":\"refined clean lines\",\"color\":\"rich glossy shading with strong specular highlights on clothing\",\"face_visibility\":\"clear visible anime face\",\"finish\":\"official-style character setting art\"}}",
+  "translatedPrompt": "{\"type\":\"动漫角色参考表\",\"subject\":\"单人女性角色设计项目\",\"style\":{\"medium\":\"干净精致的动漫插画\",\"presentation\":\"日式角色设定表 / 资料项目\",\"mood\":\"认真、温柔、乐观、知性\",\"rating\":\"SFW\"},\"character\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"高梨 ことみ\\\"}\",\"reading\":\"たかなし ことみ\",\"role\":\"女性大学生，大二\",\"age\":\"20\",\"height\":\"159 cm\",\"build\":\"纤细曲线美，长腿\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"棕色\\\"}\",\"style\":\"短波波头，带有柔和的蓬松感，圆润轮廓，侧分刘海，光泽感高光\"},\"eyes\":{\"color\":\"棕色\"},\"personality\":\"勤奋、内心强大、善良、礼貌、积极向上\"},\"outfit\":{\"theme\":\"{argument name=\\\"outfit theme\\\" default=\\\"深紫色光泽感丝带主题连衣裙\\\"}\",\"pieces\":[\"短款光泽感深紫色泡泡袖迷你裙，带有类似束腰的修身躯干设计\",\"领口有大蝴蝶结\",\"半透明黑色连裤袜或光泽感过膝袜风格腿部装束\",\"黑色高跟鞋\",\"左侧展示图中配有小手提包\"]},\"layout\":{\"background\":\"浅米色纸质感背景，配有紫色分区标题和细边框\",\"sections\":[{\"title\":\"主视觉\",\"position\":\"左侧栏\",\"count\":1,\"labels\":[\"全身站立插画，背景为带有暖光和楼梯的夜间城市入口场景，一只手靠近胸口，手提包在身侧\"]},{\"title\":\"キャラクターデザイン\",\"position\":\"中上左\",\"count\":3,\"labels\":[\"正面\",\"侧面\",\"背面\"]},{\"title\":\"表情集\",\"position\":\"中上右\",\"count\":6,\"labels\":[\"温柔微笑\",\"柔和中性\",\"略显害羞\",\"冷静闭口微笑\",\"担忧或犹豫\",\"认真专注的神情\"]},{\"title\":\"基本情報\",\"position\":\"左下\",\"count\":5,\"labels\":[\"体重\",\"三围\",\"瞳色\",\"发色\",\"印象色 / 主题\"]},{\"title\":\"好きなこと・得意なこと\",\"position\":\"中下左\",\"count\":5,\"labels\":[\"读书\",\"在咖啡馆悠闲度过\",\"写日记或文章\",\"书法\",\"晨跑和伸展运动\"]},{\"title\":\"ポーズ集\",\"position\":\"中下右\",\"count\":3,\"labels\":[\"抓带姿势\",\"前倾礼貌姿势\",\"手指轻触嘴唇的思考姿势\"]},{\"title\":\"プロフィール\",\"position\":\"右上\",\"count\":13,\"labels\":[\"姓名\",\"年级\",\"年龄\",\"身高\",\"生日\",\"血型\",\"所属\",\"住处\",\"兴趣\",\"特长\",\"喜欢的事物\",\"讨厌的事物\",\"第一人称 / 性格\"]},{\"title\":\"キャラクター設定\",\"position\":\"中右\",\"count\":5,\"labels\":[\"每天努力进行身体管理\",\"旨在平衡健康与美感\",\"谈吐举止非常有礼貌\",\"对朋友善良且关怀\",\"希望未来能从事写作相关工作\"]},{\"title\":\"セリフサンプル\",\"position\":\"右下\",\"count\":4,\"labels\":[\"温柔鼓励的台词\",\"略显困扰的反应\",\"惊讶慌乱的台词\",\"温暖感谢的台词\"]}],\"header\":{\"main_name\":\"{argument name=\\\"headline text\\\" default=\\\"高梨 ことみ\\\"}\",\"subtitle\":\"努力家で芯が強い、優しく前向きな女の子\",\"class_label\":\"学生（大学2年生）\"}},\"composition\":{\"canvas\":\"横向，宽幅参考表\",\"centerpiece\":\"正式的多面板角色设计文档\",\"design_language\":\"专业的动漫设定资料，带有紫色点缀，清晰的排版，整洁的间距，白色面板\"},\"rendering\":{\"quality\":\"高细节\",\"linework\":\"精炼的干净线条\",\"color\":\"丰富的亮面阴影，服装上有强烈的镜面高光\",\"face_visibility\":\"清晰可见的动漫面部\",\"finish\":\"官方风格角色设定图\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫角色设定表：一份精致的日式动漫角色参考表，适用于女性大学生，可用于创建包含姿势、表情、个人资料数据及服装细节的完整设计项目。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "full-body"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14509",
+      "14978",
+      "15035",
+      "15047",
+      "15338",
+      "15378"
+    ]
+  }
+}

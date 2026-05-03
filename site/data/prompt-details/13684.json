@@ -1,0 +1,42 @@
+{
+  "id": "13684",
+  "prompt": "{\n  \"type\": \"anime visual novel composite illustration\",\n  \"theme\": \"psychological horror mixed with cute dating sim\",\n  \"centerpiece\": {\n    \"top\": \"Circular logo featuring a blue stitched heart, colorful 3D text '{argument name=\\\"logo text top\\\" default=\\\"DOKI DOKI\\\"}', a green pen with a pink heart charm, and a white banner reading '{argument name=\\\"logo text bottom\\\" default=\\\"Literature Club!\\\"}'\",\n    \"bottom\": \"Silhouette of a person from behind, sitting at a desk, illuminated by a glowing {argument name=\\\"monitor glow color\\\" default=\\\"pink\\\"} computer monitor\"\n  },\n  \"layout\": {\n    \"style\": \"torn paper edges framing four distinct character portraits in the corners\",\n    \"sections\": [\n      {\n        \"position\": \"top-left\",\n        \"description\": \"Anime girl with long brown hair, white hair bow, green eyes, gentle smile, wearing a {argument name=\\\"uniform color\\\" default=\\\"gray\\\"} school uniform\"\n      },\n      {\n        \"position\": \"top-right\",\n        \"description\": \"Anime girl with long dark purple hair, purple eyes, worried expression, wearing a {argument name=\\\"uniform color\\\" default=\\\"gray\\\"} school uniform\"\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"description\": \"Anime girl with short pink hair, red hairclip, pink eyes, pouting expression, wearing a {argument name=\\\"uniform color\\\" default=\\\"gray\\\"} school uniform\"\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"description\": \"Anime girl with short peach hair, red hair bow, blue eyes, cheerful smile, wearing a {argument name=\\\"uniform color\\\" default=\\\"gray\\\"} school uniform\"\n      }\n    ]\n  },\n  \"floating_elements\": [\n    {\n      \"count\": 3,\n      \"description\": \"white question marks scattered around the central silhouette\"\n    },\n    {\n      \"count\": 4,\n      \"description\": \"pieces of lined paper with blurry handwritten text floating in the foreground\"\n    }\n  ],\n  \"background\": \"{argument name=\\\"atmosphere\\\" default=\\\"dark, shadowy, slightly grungy and glitchy\\\"}\"\n}",
+  "translatedPrompt": "{\"type\": \"动漫视觉小说海报\", \"atmosphere\": \"暗室，不祥的基调\", \"center\": {\"logo\": \"粉色圆圈，蓝色缝合心形，绿色钢笔，文字 '{argument name=\\\"game title\\\" default=\\\"Doki Doki Literature Club!\\\"}'\", \"subject\": \"{argument name=\\\"central figure\\\" default=\\\"坐在书桌前面对发光粉色电脑显示器的男性剪影\\\"}\"}, \"layout\": {\"style\": \"撕纸拼贴边缘环绕角色\", \"portraits\": [{\"position\": \"左上\", \"character\": \"女孩，棕色长发，白色蝴蝶结，绿色眼睛，微笑\"}, {\"position\": \"右上\", \"character\": \"女孩，深紫色长发，紫色眼睛，忧伤\"}, {\"position\": \"左下\", \"character\": \"女孩，粉色短发，红色发夹，粉色眼睛，恼怒\"}, {\"position\": \"右下\", \"character\": \"女孩，桃色短发，红色蝴蝶结，蓝色眼睛，微笑\"}], \"shared_attributes\": \"所有女孩均穿着 {argument name=\\\"uniform style\\\" default=\\\"灰色西装外套，白色衬衫，红色丝带\\\"}\", \"floating_elements\": [\"{argument name=\\\"floating symbols\\\" default=\\\"4 个白色问号\\\"}\", \"{argument name=\\\"floating objects\\\" default=\\\"4 张带有文字的纸片\\\"}\"]}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫视觉小说拼贴海报：生成一张暗黑拼贴风格的宣传海报，画面中心为一个剪影，周围环绕着四个动漫角色肖像及漂浮元素。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime",
+        "3d"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime, 3d]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15743",
+      "13547",
+      "13940",
+      "14071",
+      "14606",
+      "15796"
+    ]
+  }
+}

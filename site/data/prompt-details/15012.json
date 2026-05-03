@@ -1,0 +1,51 @@
+{
+  "id": "15012",
+  "prompt": "Create a gritty, darkly comedic advertising image for a bug spray product in a realistic cinematic photo style. The scene is a messy sunlit living room with a wooden floor, soft warm afternoon light coming from tall windows on the left, shallow depth of field, and a low camera angle near floor level. In the foreground on the right, place a sharply focused aerosol can of {argument name=\"product brand\" default=\"Raid\"} bug spray standing upright, large in frame, label facing camera. The can is red and black with bold yellow branding, and the visible label reads \"Raid\", \"ANT & ROACH\", and \"KILLS BUGS DEAD\". In the midground and stretching toward the left side of the room, show 1 exhausted fallen superhero in a red-and-blue spider-themed suit, lying face-down and sprawled across the floor as if defeated, one gloved hand reaching toward the camera. Scatter exactly 6 visible dead bugs across the floor around the can and superhero. The room should include 4 background furniture elements: a sofa on the far left, a small side table, a wooden cabinet at the back, and a second storage unit on the right, all slightly out of focus. Add a bold oversized distressed white uppercase headline across the top that reads {argument name=\"headline text\" default=\"NOT EVEN A SUPERHERO SURVIVES.\"} and a smaller bold white tagline centered at the bottom that reads {argument name=\"tagline text\" default=\"Raid. Kills bugs dead.\"}. Emphasize strong product focus, ironic shock-value humor, realistic textures, dramatic shadows, commercial ad composition, and polished premium campaign photography for e-commerce or social media marketing.",
+  "translatedPrompt": "创作一张风格粗粝、带有黑色幽默感的杀虫剂产品广告图，采用写实的电影摄影风格。场景设定在一个阳光明媚、凌乱的客厅，地面为木质，左侧高窗透进柔和温暖的午后光线，采用浅景深效果，摄像机视角处于贴近地面的低位。在右侧前景处，放置一瓶焦点清晰的 {argument name=\"product brand\" default=\"Raid\"} 杀虫剂喷雾罐，罐体直立，在画面中占比很大，标签正对镜头。罐身为红黑配色，带有醒目的黄色品牌标识，可见标签上印有 \"Raid\"、\"ANT & ROACH\" 以及 \"KILLS BUGS DEAD\" 字样。在中景及向房间左侧延伸的区域，展示 1 名身穿红蓝配色蜘蛛主题战衣、精疲力竭的超级英雄，他面部朝下瘫倒在地，仿佛被打败一般，一只戴着手套的手伸向镜头方向。在喷雾罐和超级英雄周围的地板上，散落着 6 只清晰可见的死虫。房间内应包含 4 件背景家具：最左侧的沙发、一张小边桌、后方的一个木质柜子，以及右侧的第二个储物单元，所有家具均略微虚化。在顶部添加一行醒目的大号做旧白色大写标题，内容为 {argument name=\"headline text\" default=\"NOT EVEN A SUPERHERO SURVIVES.\"}；并在底部居中位置添加一行较小的加粗白色标语，内容为 {argument name=\"tagline text\" default=\"Raid. Kills bugs dead.\"}。强调产品核心地位、讽刺性的视觉冲击力、真实的质感、戏剧性的阴影、商业广告构图，以及适用于电商或社交媒体营销的高级精修摄影效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "黑色幽默风格杀虫剂广告：此提示词可生成一张电影质感的杀虫剂产品广告图，画面聚焦于杀虫剂，并包含一名倒下的蜘蛛主题超级英雄，适用于 Shopify 或营销活动的先锋视觉设计。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "premium"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: realistic, cinematic, premium]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, camera]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15066",
+      "15430",
+      "14453",
+      "14652",
+      "14863",
+      "15462"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "15408",
+  "prompt": "A cinematic night automotive action photo of a futuristic white electric sports sedan inspired by an Audi e-tron GT, captured in a fast side-tracking shot while it drifts hard across a wet city street. The car is shown in clean left-side profile with the front pointing to the right, low and aggressive stance, black roof, dark tinted windows, black wheels, and a continuous thin LED rear light bar glowing red. The rear bodywork is radically modified and partially removed, exposing metallic turbo-like piping and mechanical components behind the rear wheel area. Thick white tire smoke billows from the back of the car and fills the entire left side of the frame. The pavement is glossy from rain and reflects blue, white, and amber city lights. The background is very dark with soft bokeh from distant buildings and streetlights, plus faint vertical poles and barriers, all heavily motion-blurred to emphasize speed. Use a moody urban color palette of black, steel blue, cool white, and warm orange highlights, realistic photography, high detail, low-angle tracking perspective, long-lens panning shot, dramatic reflections, shallow depth of field, and intense motorsport energy.",
+  "translatedPrompt": "一张电影级的夜间汽车动作照片，主角是一辆灵感源自 Audi e-tron GT 的未来感白色电动运动轿车，采用快速侧向跟拍视角，展现其在湿滑的城市街道上激烈漂移的瞬间。车辆呈现清晰的左侧轮廓，车头朝向右侧，姿态低趴且极具侵略性，配备黑色车顶、深色车窗、黑色轮毂，以及一条发着红光的连续细长 LED 尾灯带。后部车身经过深度改装并部分拆除，露出了后轮区域后方的金属涡轮状管道和机械组件。浓厚的白色轮胎烟雾从车尾喷涌而出，充盈了画面的整个左侧。路面因雨水而光亮，反射着蓝色、白色和琥珀色的城市灯光。背景极其深邃，远处建筑和路灯呈现出柔和的虚化效果，辅以模糊的垂直立柱和护栏，通过强烈的动态模糊强调速度感。采用黑色、钢蓝色、冷白色和暖橙色高光组成的忧郁城市色调，写实摄影风格，高细节，低角度跟拍视角，长焦平移拍摄，戏剧性的反射效果，浅景深，充满强烈的赛车运动能量。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "夜间漂移未来感运动轿车：此提示词可生成一张电影级写实的未来感改装轿车在雨夜城市街道漂移的照片，非常适合汽车概念艺术和高端汽车广告视觉设计。",
+      "subject": "空间",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "lens"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, lens]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15411",
+      "14900",
+      "15096",
+      "15609",
+      "15074",
+      "15791"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "13803",
+  "prompt": "{\n  \"type\": \"e-commerce landing page mockup\",\n  \"brand\": \"{argument name=\\\"brand name\\\" default=\\\"LUMIÈRE\\\"}\",\n  \"aesthetic\": \"{argument name=\\\"aesthetic\\\" default=\\\"luxury, minimalist, elegant, neutral tones\\\"}\",\n  \"layout\": {\n    \"header\": {\n      \"logo\": \"{argument name=\\\"brand name\\\" default=\\\"LUMIÈRE\\\"}\",\n      \"navigation\": [\"NEW IN\", \"HANDBAGS\", \"JEWELRY\", \"COLLECTIONS\", \"MAISON\", \"ABOUT\"],\n      \"icons\": [\"search\", \"user\", \"cart\"]\n    },\n    \"sections\": [\n      {\n        \"name\": \"Hero\",\n        \"text\": {\n          \"headline\": \"{argument name=\\\"hero headline\\\" default=\\\"Crafted for Timeless Elegance\\\"}\",\n          \"subheadline\": \"Where Artistry Meets Uncompromising Quality.\",\n          \"button\": \"DISCOVER THE COLLECTION\"\n        },\n        \"imagery\": \"cream structured handbag with gold clasp on stone plinth, silk scarf with brand name, soft leaf shadows\"\n      },\n      {\n        \"name\": \"Product Grid\",\n        \"title\": \"EXPLORE OUR WORLD\",\n        \"count\": 4,\n        \"items\": [\n          { \"image\": \"black crocodile handbag on marble\", \"label\": \"HANDBAGS\", \"sublabel\": \"Discover\" },\n          { \"image\": \"diamond stud earrings on silk\", \"label\": \"JEWELRY\", \"sublabel\": \"Discover\" },\n          { \"image\": \"classic watch with leather strap on silk\", \"label\": \"WATCHES\", \"sublabel\": \"Discover\" },\n          { \"image\": \"white candle on gold tray\", \"label\": \"MAISON\", \"sublabel\": \"Discover\" }\n        ]\n      },\n      {\n        \"name\": \"Featured Product\",\n        \"layout\": \"diagonal split\",\n        \"text\": {\n          \"kicker\": \"FEATURED\",\n          \"title\": \"{argument name=\\\"featured product name\\\" default=\\\"Le Sac Éternel\\\"}\",\n          \"description\": \"A Statement of Enduring Style.\",\n          \"link\": \"EXPLORE NOW\"\n        },\n        \"imagery\": \"black structured handbag with gold clasp on marble surface\"\n      },\n      {\n        \"name\": \"Brand Story\",\n        \"layout\": \"two-column\",\n        \"imagery\": \"Parisian Haussmann architecture framed by leaves\",\n        \"text\": {\n          \"kicker\": \"THE LUMIÈRE STORY\",\n          \"headline\": \"{argument name=\\\"story headline\\\" default=\\\"Heritage. Craftsmanship. Vision.\\\"}\",\n          \"body\": \"Born in the heart of Paris, Lumière has been a symbol of refined luxury for generations. Our creations are crafted by master artisans, blending timeless design with unparalleled attention to detail.\",\n          \"link\": \"DISCOVER OUR STORY\",\n          \"watermark\": \"faint circular L logo\"\n        }\n      },\n      {\n        \"name\": \"Trust Bar\",\n        \"count\": 4,\n        \"items\": [\n          { \"icon\": \"diamond\", \"title\": \"EXCEPTIONAL QUALITY\", \"subtitle\": \"Meticulous Craftsmanship\" },\n          { \"icon\": \"truck\", \"title\": \"COMPLIMENTARY DELIVERY\", \"subtitle\": \"Insured & Signature Required\" },\n          { \"icon\": \"gift box\", \"title\": \"EXCLUSIVE SERVICES\", \"subtitle\": \"Personal Shopping & Care\" },\n          { \"icon\": \"headset\", \"title\": \"CLIENT SERVICE\", \"subtitle\": \"+33 1 42 86 95 28\" }\n        ]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"电商落地页设计稿\",\n  \"brand\": \"{argument name=\\\"brand name\\\" default=\\\"LUMIÈRE\\\"}\",\n  \"aesthetic\": \"{argument name=\\\"aesthetic\\\" default=\\\"奢华、极简、优雅、中性色调\\\"}\",\n  \"layout\": {\n    \"header\": {\n      \"logo\": \"{argument name=\\\"brand name\\\" default=\\\"LUMIÈRE\\\"}\",\n      \"navigation\": [\"新品上市\", \"手袋\", \"珠宝\", \"系列\", \"品牌之家\", \"关于我们\"],\n      \"icons\": [\"搜索\", \"用户\", \"购物车\"]\n    },\n    \"sections\": [\n      {\n        \"name\": \"Hero\",\n        \"text\": {\n          \"headline\": \"{argument name=\\\"hero headline\\\" default=\\\"铸就永恒优雅\\\"}\",\n          \"subheadline\": \"艺术与极致品质的交汇。\",\n          \"button\": \"探索系列\"\n        },\n        \"imagery\": \"放置在石质底座上的奶油色结构感手袋，带有品牌名称的丝巾，柔和的叶影\"\n      },\n      {\n        \"name\": \"Product Grid\",\n        \"title\": \"探索我们的世界\",\n        \"count\": 4,\n        \"items\": [\n          { \"image\": \"大理石上的黑色鳄鱼纹手袋\", \"label\": \"手袋\", \"sublabel\": \"探索\" },\n          { \"image\": \"丝绸上的钻石耳钉\", \"label\": \"珠宝\", \"sublabel\": \"探索\" },\n          { \"image\": \"丝绸上配有皮质表带的经典腕表\", \"label\": \"腕表\", \"sublabel\": \"探索\" },\n          { \"image\": \"金色托盘上的白色蜡烛\", \"label\": \"品牌之家\", \"sublabel\": \"探索\" }\n        ]\n      },\n      {\n        \"name\": \"Featured Product\",\n        \"layout\": \"对角线分割\",\n        \"text\": {\n          \"kicker\": \"精选\",\n          \"title\": \"{argument name=\\\"featured product name\\\" default=\\\"Le Sac Éternel\\\"}\",\n          \"description\": \"持久风格的宣言。\",\n          \"link\": \"立即探索\"\n        },\n        \"imagery\": \"大理石台面上的黑色结构感手袋，配有金色扣环\"\n      },\n      {\n        \"name\": \"Brand Story\",\n        \"layout\": \"双栏布局\",\n        \"imagery\": \"被绿叶环绕的巴黎奥斯曼式建筑\",\n        \"text\": {\n          \"kicker\": \"LUMIÈRE 故事\",\n          \"headline\": \"{argument name=\\\"story headline\\\" default=\\\"传承。工艺。愿景。\\\"}\",\n          \"body\": \"Lumière 诞生于巴黎中心地带，数代以来一直是精致奢华的象征。我们的作品由大师级工匠精心打造，融合了永恒的设计与对细节的极致追求。\",\n          \"link\": \"探索我们的故事\",\n          \"watermark\": \"淡雅的圆形 L 标志\"\n        }\n      },\n      {\n        \"name\": \"Trust Bar\",\n        \"count\": 4,\n        \"items\": [\n          { \"icon\": \"钻石\", \"title\": \"卓越品质\", \"subtitle\": \"精湛工艺\" },\n          { \"icon\": \"卡车\", \"title\": \"免费配送\", \"subtitle\": \"已投保且需签名签收\" },\n          { \"icon\": \"礼盒\", \"title\": \"专属服务\", \"subtitle\": \"个人导购与护理\" },\n          { \"icon\": \"耳机\", \"title\": \"客户服务\", \"subtitle\": \"+33 1 42 86 95 28\" }\n        ]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奢华电商落地页设计稿：为奢华品牌网站生成全页 UI 设计稿，包含首屏区域、产品网格、精选单品及品牌故事。",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [
+        "grid"
+      ],
+      "style": [
+        "minimalist",
+        "luxury"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[参考风格: minimalist, luxury]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15056",
+      "14037",
+      "15397",
+      "13893",
+      "13696",
+      "14581"
+    ]
+  }
+}

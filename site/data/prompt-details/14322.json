@@ -1,0 +1,50 @@
+{
+  "id": "14322",
+  "prompt": "Design a modern, high-end {argument name=\"app type\" default=\"fitness app\"} landing page and product UI for a brand called {argument name=\"brand name\" default=\"PulseFit\"}.\n\nCreate a clean web design mockup that looks like a real SaaS fitness platform and mobile companion app. The design should feel premium, motivating, and easy to use, with a polished UI/UX style similar to top-tier health and wellness apps.\n\nInclude:\n- A hero section with bold headline, short subheadline, strong call-to-action button, and app preview\n- Dashboard UI showing daily activity, calories burned, workout streak, heart rate, step count, and progress rings\n- Workout program cards for strength, cardio, mobility, and recovery\n- Nutrition tracking section with macro breakdown and water intake\n- Progress charts and analytics widgets\n- Trainer/community section with profile cards and testimonials\n- Pricing section and download/app store callout\n- Mobile app screens shown alongside the web design for a cohesive product ecosystem\n\nStyle direction:\n- Sleek, minimal, modern interface\n- Premium fitness brand aesthetic\n- Smooth spacing, strong hierarchy, rounded cards, soft shadows\n- Dark mode UI with energetic accent colors like electric blue, neon green, or vibrant orange\n- Crisp typography, realistic charts, polished buttons, beautiful onboarding feel\n- Highly detailed, dribbble-worthy, startup-quality product design\n- Realistic UX case study presentation, not a cartoon or illustration\n\nComposition:\n- Full website homepage mockup\n- Multiple UI sections visible in one polished presentation\n- Slight perspective or straight-on product showcase\n- Clean background with subtle gradients and professional lighting\n- Ultra-detailed, sharp text rendering, visually balanced layout\n\nOutput:\nA stunning, realistic UI/UX design concept for a fitness app website and dashboard that looks ready for development.\n\nMake it look like a real Figma product design presentation for a premium startup.",
+  "translatedPrompt": "设计一个现代、高端的 {argument name=\"app type\" default=\"健身应用\"} 着陆页及产品 UI，品牌名称为 {argument name=\"brand name\" default=\"PulseFit\"}。\n\n创建一个简洁的 Web 设计模型，使其看起来像一个真实的 SaaS 健身平台及配套移动端应用。设计风格应体现高端感、激励性且易于使用，UI/UX 风格需对标顶级健康与健身应用。\n\n包含内容：\n- 首屏板块：包含醒目的标题、简短的副标题、强有力的行动号召（CTA）按钮以及应用预览\n- 仪表盘 UI：展示每日活动、消耗卡路里、锻炼连续天数、心率、步数及进度环\n- 锻炼计划卡片：涵盖力量、有氧、灵活性及恢复训练\n- 营养追踪板块：包含宏量营养素分析及饮水量记录\n- 进度图表与分析组件\n- 教练/社区板块：包含个人资料卡片及用户评价\n- 定价板块及应用商店下载引导\n- 移动端应用界面：与 Web 设计并列展示，呈现统一的产品生态系统\n\n风格导向：\n- 时髦、极简、现代的界面\n- 高端健身品牌美学\n- 舒适的间距、清晰的层级、圆角卡片、柔和阴影\n- 深色模式 UI，搭配电光蓝、霓虹绿或活力橙等充满能量的强调色\n- 清晰的排版、真实的图表、精致的按钮、美观的引导页体验\n- 高度细节化、符合 Dribbble 标准、具备初创公司水准的产品设计\n- 真实的 UX 案例研究展示，非卡通或插画风格\n\n构图：\n- 完整的网站首页模型\n- 在一个精致的展示中呈现多个 UI 板块\n- 采用微透视或正视的产品展示视角\n- 简洁的背景，带有微妙的渐变与专业灯光效果\n- 超高细节、清晰的文字渲染、视觉平衡的布局\n\n输出：\n一个令人惊艳、逼真的健身应用网站及仪表盘 UI/UX 设计概念，看起来已达到可开发标准。\n\n使其看起来像是一个针对高端初创公司的真实 Figma 产品设计演示。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "健身 SaaS 着陆页 UI：一个详尽的大型提示词，用于生成高端健身品牌的完整 Web 和移动端 UI/UX 设计，包含仪表盘及各类界面板块。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "callout"
+      ],
+      "style": [
+        "realistic",
+        "premium"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "B2B 产品概念图、后台系统、数据看板",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: callout]。\n\nVisual style:\n[参考风格: realistic, premium]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15389",
+      "15391",
+      "14015",
+      "14447",
+      "14627",
+      "15725"
+    ]
+  }
+}

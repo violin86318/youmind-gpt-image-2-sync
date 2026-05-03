@@ -1,0 +1,37 @@
+{
+  "id": "14325",
+  "prompt": "A traditional Chinese ink and color painting in {argument name=\"画风\" default=\"Gongbi style\"} on aged rice paper texture. A noblewoman in elaborate Tang Dynasty Hanfu robes sits on a wooden stool, holding a modern hairdryer to dry her long flowing hair. She is wearing black stockings, red high heels on one foot, resting on a small stool. Three {argument name=\"随从\" default=\"小黄人\"} dressed in ancient Chinese servant robes and hats attend to her: one on the left looks stressed holding the hairdryer's power cord, one center kneels polishing her red shoe with a cloth, and one on the right holds up a smartphone taking a photo for her. The background features classical gnarled pine trees, bamboo groves, and Taihu rocks. Traditional Chinese calligraphy written in the top right corner, accompanied by a red artist chop seal (寶玉). The color palette is muted mineral pigments. {argument name=\"风格\" default=\"Humorous, anachronistic fusion\"}. --ar 16:9",
+  "translatedPrompt": "一幅采用 {argument name=\"style\" default=\"工笔画风格\"} 的中国传统水墨重彩画，呈现于陈旧的宣纸纹理之上。一位身着华丽唐代汉服的贵妃坐在木凳上，正手持现代吹风机吹干她飘逸的长发。她穿着黑色丝袜，一只脚穿着红色高跟鞋，搁在小凳上。三个身着中国古代仆人服饰并戴着帽子的 {argument name=\"attendants\" default=\"小黄人\"} 在旁伺候：左边的一个神情紧张地拿着吹风机的电源线，中间的一个跪着正用布擦拭她的红鞋，右边的一个举着智能手机为她拍照。背景绘有古典的虬松、竹林和太湖石。右上角题有中国传统书法，并配有一枚红色艺术家印章（宝玉）。色调采用柔和的矿物颜料。{argument name=\"mood\" default=\"幽默，时代错位融合\"}。 --ar 16:9",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "唐朝贵妃与小黄人工笔画：一个将中国传统工笔画与吹风机、小黄人等现代元素相结合的创意提示词，营造出幽默的时代错位感。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15441",
+      "13788",
+      "15428",
+      "14020",
+      "14479",
+      "14893"
+    ]
+  }
+}

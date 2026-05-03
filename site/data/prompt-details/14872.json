@@ -1,0 +1,41 @@
+{
+  "id": "14872",
+  "prompt": "{\"type\":\"minimal monochrome presentation slide\",\"style\":\"high-contrast brutalist technical design, black background with subtle navy tint, thin white wireframe borders, zero decoration, strict grid, mono-first typography, futuristic industrial UI aesthetic\",\"canvas\":{\"aspect_ratio\":\"16:9\",\"background\":\"near-black with faint blue undertone and slight vignette\"},\"headline\":{\"text\":\"{argument name=\\\"headline text\\\" default=\\\"SHIP THE SYSTEM\\\"}\",\"position\":\"upper left\",\"style\":\"very large condensed geometric techno sans in white, all caps, widely tracked, dominant hero title\"},\"subheadline\":{\"text\":\"{argument name=\\\"subheadline text\\\" default=\\\"BRUTAL CLARITY FOR TECHNICAL IDEAS\\\"}\",\"position\":\"below headline\",\"style\":\"medium white monospace or mono-inspired sans, all caps\"},\"top_bar\":{\"count\":3,\"items\":[{\"text\":\"xAI-INSPIRED PRESENTATION SYSTEM\",\"position\":\"top left\"},{\"text\":\"SINGLE SLIDE\",\"position\":\"top right\"},{\"text\":\"16:9\",\"position\":\"far top right\"}]},\"layout\":{\"outer_frame\":true,\"sections\":[{\"title\":\"left principles list\",\"position\":\"left column\",\"count\":4,\"labels\":[\"[01] WHITE ON DARK\",\"[02] 8PX GRID\",\"[03] ZERO DECORATION\",\"[04] MONO FIRST\"]},{\"title\":\"SYSTEM ARCHITECTURE\",\"position\":\"center large panel\",\"count\":5,\"labels\":[\"DATA INTAKE\",\"MODEL LAYER\",\"MEMORY\",\"DELIVERY\",\"OBSERVABILITY & EVALUATION\"]},{\"title\":\"DESIGN PRINCIPLES\",\"position\":\"right sidebar panel\",\"count\":5,\"labels\":[\"[1] REDUCE SURFACE AREA\",\"[2] MAXIMIZE SIGNAL\",\"[3] COMPOSE IN MODULES\",\"[4] MEASURE EVERYTHING\",\"[5] SHIP ITERATIVELY\"]},{\"title\":\"bottom system strip\",\"position\":\"bottom full width\",\"count\":3,\"labels\":[\"GRID SYSTEM\",\"COLOR SYSTEM\",\"TYPE SYSTEM\"]}]},\"center_panel\":{\"bordered\":true,\"title\":\"SYSTEM ARCHITECTURE\",\"flow\":{\"count\":4,\"boxes\":[{\"title\":\"DATA INTAKE\",\"index\":\"[01]\",\"lines\":[\"STREAMS\",\"BATCH\",\"API\"]},{\"title\":\"MODEL LAYER\",\"index\":\"[02]\",\"lines\":[\"TRAIN\",\"EVAL\",\"INFER\"]},{\"title\":\"MEMORY\",\"index\":\"[03]\",\"lines\":[\"VECTOR STORE\",\"KV CACHE\",\"ARTIFACTS\"]},{\"title\":\"DELIVERY\",\"index\":\"[04]\",\"lines\":[\"API\",\"PRODUCTS\",\"AUTOMATION\"]}],\"connectors\":\"3 right-pointing arrows between the 4 top boxes\"},\"bottom_module\":{\"title\":\"OBSERVABILITY & EVALUATION\",\"index\":\"[05]\",\"lines\":[\"LOGGING / TRACING / METRICS / FEEDBACK\"],\"connectors\":\"dashed feedback line spanning beneath the 4 boxes with 4 upward dotted arrows linking back into each top box\"}},\"bottom_strip\":{\"left_block\":{\"title\":\"GRID SYSTEM\",\"subtitle\":\"8PX BASE UNIT\",\"visual\":\"dense matrix of small white plus signs arranged in rows\"},\"middle_block\":{\"title\":\"COLOR SYSTEM\",\"swatch_count\":5,\"swatches\":[\"#FFFFFF\",\"70%\",\"50%\",\"20%\",\"10%\"],\"visual\":\"five grayscale square swatches from white to very dark gray\"},\"right_block\":{\"title\":\"TYPE SYSTEM\",\"text\":\"{argument name=\\\"type label\\\" default=\\\"GEIST MONO / GEIST SANS\\\"}\"}},\"composition\":\"clean generous spacing, all elements aligned to an 8px grid, mostly left-aligned text, thin divider lines, no photos, no gradients except extremely subtle background depth, technical pitch-deck cover slide look\",\"rendering\":\"crisp vector presentation mockup, ultra-sharp typography, polished design system board\"}",
+  "translatedPrompt": "{\"type\":\"极简单色演示 Slides\",\"style\":\"高对比度粗野主义技术设计，黑色背景带有微妙的深蓝色调，白色细线框，无装饰，严格网格，优先使用等宽字体，未来感工业 UI 美学\",\"canvas\":{\"aspect_ratio\":\"16:9\",\"background\":\"近黑色，带有淡淡的蓝色底色和轻微的暗角\"},\"headline\":{\"text\":\"{argument name=\\\"headline text\\\" default=\\\"SHIP THE SYSTEM\\\"}\",\"position\":\"左上角\",\"style\":\"超大紧凑几何科技感无衬线字体，白色，全大写，字间距宽，主标题\"},\"subheadline\":{\"text\":\"{argument name=\\\"subheadline text\\\" default=\\\"BRUTAL CLARITY FOR TECHNICAL IDEAS\\\"}\",\"position\":\"标题下方\",\"style\":\"中等大小白色等宽字体或类等宽无衬线字体，全大写\"},\"top_bar\":{\"count\":3,\"items\":[{\"text\":\"xAI 风格演示系统\",\"position\":\"左上角\"},{\"text\":\"单张 Slides\",\"position\":\"右上角\"},{\"text\":\"16:9\",\"position\":\"最右上角\"}]},\"layout\":{\"outer_frame\":true,\"sections\":[{\"title\":\"左侧原则列表\",\"position\":\"左侧栏\",\"count\":4,\"labels\":[\"[01] 深色背景上的白色\",\"[02] 8PX 网格\",\"[03] 零装饰\",\"[04] 优先使用等宽字体\"]},{\"title\":\"系统架构\",\"position\":\"中央大面板\",\"count\":5,\"labels\":[\"数据接入\",\"模型层\",\"内存\",\"交付\",\"可观测性与评估\"]},{\"title\":\"设计原则\",\"position\":\"右侧边栏面板\",\"count\":5,\"labels\":[\"[1] 减少表面积\",\"[2] 最大化信号\",\"[3] 模块化组合\",\"[4] 度量一切\",\"[5] 迭代发布\"]},{\"title\":\"底部系统条\",\"position\":\"底部全宽\",\"count\":3,\"labels\":[\"网格系统\",\"色彩系统\",\"字体系统\"]}]},\"center_panel\":{\"bordered\":true,\"title\":\"系统架构\",\"flow\":{\"count\":4,\"boxes\":[{\"title\":\"数据接入\",\"index\":\"[01]\",\"lines\":[\"流式传输\",\"批处理\",\"API\"]},{\"title\":\"模型层\",\"index\":\"[02]\",\"lines\":[\"训练\",\"评估\",\"推理\"]},{\"title\":\"内存\",\"index\":\"[03]\",\"lines\":[\"向量存储\",\"KV 缓存\",\"工件\"]},{\"title\":\"交付\",\"index\":\"[04]\",\"lines\":[\"API\",\"产品\",\"自动化\"]}],\"connectors\":\"4 个顶部方框之间有 3 个向右的箭头\"},\"bottom_module\":{\"title\":\"可观测性与评估\",\"index\":\"[05]\",\"lines\":[\"日志 / 追踪 / 指标 / 反馈\"],\"connectors\":\"虚线反馈线横跨 4 个方框下方，并有 4 个向上的点状箭头链接回每个顶部方框\"}},\"bottom_strip\":{\"left_block\":{\"title\":\"网格系统\",\"subtitle\":\"8PX 基础单位\",\"visual\":\"由成排的小白色加号组成的密集矩阵\"},\"middle_block\":{\"title\":\"色彩系统\",\"swatch_count\":5,\"swatches\":[\"#FFFFFF\",\"70%\",\"50%\",\"20%\",\"10%\"],\"visual\":\"五个从白色到深灰色的灰度方形色块\"},\"right_block\":{\"title\":\"字体系统\",\"text\":\"{argument name=\\\"type label\\\" default=\\\"GEIST MONO / GEIST SANS\\\"}\"}},\"composition\":\"简洁且留白充足，所有元素对齐至 8px 网格，大部分文本左对齐，细分割线，无图片，除极其微妙的背景深度外无渐变，技术演示文稿封面外观\",\"rendering\":\"清晰的矢量演示模型，超锐利字体，精致的设计系统项目\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "粗野主义技术系统 Slides：一款用于产品、AI 或工程演示文稿的单色未来感 Slides，旨在展示架构、原则及设计系统基础。",
+      "subject": "空间",
+      "scene": "海报/封面",
+      "composition": [
+        "grid"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13955",
+      "14202",
+      "15385",
+      "15646",
+      "15735",
+      "13542"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "15740",
+  "prompt": "A polished Japanese animated film poster in a soft, luminous springtime anime style. The main scene shows 2 teenage schoolgirls walking hand in hand down a quiet residential street lined with blooming cherry blossom trees. They wear matching Japanese sailor school uniforms: white long-sleeve blouses with navy sailor collars, pale blue neckerchiefs, and dark navy pleated skirts, each carrying a navy school bag. The girl on the left has dark hair tied in a low side bun with loose strands and a small pink cherry blossom hairpin; she turns toward the other girl with a tender, slightly wistful expression. The girl on the right has long straight dark hair and looks back at her softly. Pink sakura petals drift through warm late-afternoon backlight, creating a romantic, emotional atmosphere with glowing rim light, gentle lens bloom, and painterly detail. Along the left edge, add a vertical collage of 7 inset memory scenes from the story: 1) two children together in a nostalgic childhood moment, 2) a close portrait of the long-haired girl, 3) the two characters standing apart in a tense or reflective moment, 4) an indoor conversation scene with 3 people, 5) a close profile of the bun-haired girl, 6) an intimate almost-kiss close-up of the two leads, 7) a rear view of the two girls walking together beneath cherry blossoms. At the top, include the Japanese tagline: 「変わってしまった朝、変わらなかった想い。」 Across the lower center, place the large glowing handwritten title {argument name=\"title text\" default=\"Story of U\"} in elegant pink neon script. Beneath it, add small Japanese subtitle text and a release line reading {argument name=\"release text\" default=\"2027年春公開\"}. At the very bottom, add dense small white Japanese credits in authentic movie-poster layout. Overall mood: bittersweet yuri coming-of-age drama, cinematic key visual, emotionally resonant, highly detailed, pastel pink and navy palette, vertical poster composition.",
+  "translatedPrompt": "一张精致的日本动画电影海报，采用柔和、明亮的春日动漫风格。主画面展示了 2 名十几岁的女高中生手牵手走在种满樱花树的宁静住宅街道上。她们穿着配套的日本水手校服：白色长袖衬衫搭配海军蓝水手领、浅蓝色领巾和深蓝色百褶裙，每人背着一个海军蓝书包。左侧的女孩留着深色头发，扎成低侧发髻，留有几缕碎发，别着一枚小巧的粉色樱花发夹；她转头看向另一个女孩，表情温柔而略带忧伤。右侧的女孩留着黑色长直发，温柔地回望着她。粉色的樱花花瓣在温暖的午后逆光中飘落，营造出浪漫、感性的氛围，并带有发光的边缘光、柔和的镜头光晕和绘画般的细节。在左侧边缘，添加一个垂直拼贴画，包含 7 个来自故事的插图记忆场景：1) 两个孩子在一起的怀旧童年瞬间，2) 长发女孩的近景肖像，3) 两个角色在紧张或沉思时刻分开站立，4) 3 个人的室内谈话场景，5) 扎发髻女孩的侧脸近景，6) 两位主角近乎接吻的亲密特写，7) 两个女孩在樱花树下并肩行走的背影。在顶部，加入日语标语：「変わってしまった朝、変わらなかった想い。」在下方中心位置，放置优雅的粉色霓虹手写体大标题 {argument name=\"title text\" default=\"Story of U\"}。在其下方，添加小号日语副标题和一行上映信息 {argument name=\"release text\" default=\"2027年春公开\"}。在最底部，以正宗的电影海报排版添加密集的白色小号日语演职员表。整体基调：苦乐参半的百合成长剧，电影级主视觉，情感共鸣，高度细节化，粉彩与海军蓝配色，垂直海报构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "樱花动漫电影海报：一张充满电影感的日本动漫海报，展现了苦乐参半的少女成长爱情故事，非常适合作为电影主视觉图、预告海报或戏剧性宣传海报。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up",
+        "poster layout",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "anime"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "backlight",
+        "neon",
+        "lens"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, poster layout, vertical]。\n\nVisual style:\n[参考风格: cinematic, anime]。\n\nLighting and camera:\n[参考光线镜头: rim light, backlight, neon, lens]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14982",
+      "14462",
+      "15466",
+      "15077",
+      "14518",
+      "15659"
+    ]
+  }
+}

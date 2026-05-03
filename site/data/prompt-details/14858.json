@@ -1,0 +1,40 @@
+{
+  "id": "14858",
+  "prompt": "A vintage American comic-book page in a faded 1950s romance-adventure style, printed on slightly yellowed paper with visible halftone texture, inked panel borders, and soft weathered colors. The page contains exactly 5 panels arranged in a classic comic layout: 1 wide top panel, 2 middle panels side by side, and 2 bottom panels side by side. In the top panel, show a sunny coastal boulevard in {argument name=\"city\" default=\"Miami\"}, with turquoise water on the left, a sailboat offshore, pastel Art Deco buildings in the distance, tall palm trees, and a pink classic convertible driving along the waterfront. A stylish couple sits in the car, and large dramatic comic title lettering reads “ART IN MIAMI!” with a small caption box at the top saying “MIAMI, SATURDAY AFTERNOON…”. Add two speech balloons: “READY TO SEE SOME ART?” and “ALWAYS!”. In the second panel, an interior car view from behind the couple as they drive down Ocean Drive, showing colorful pastel buildings and palms ahead; the man has dark hair and a blue shirt, the woman wears sunglasses, a pink dress, and a lavender headscarf. Include a caption box reading “WE DROVE DOWN OCEAN DRIVE…” and speech balloons saying “LOOK AT THOSE COLORS…” and “MIAMI FEELS LIKE A PAINTING!”. In the third panel, show the couple approaching the entrance of a modern museum with the visible wall text “MIAMI ART MUSEUM”, glass doors, and people inside; add a caption box reading “THE EXHIBIT WAS AT A MODERN MUSEUM…” and a speech balloon saying “LET’S GO!”. In the fourth panel, place the couple inside a gallery viewing large abstract paintings in bright pastel blocks and shapes, with a small sculpture on a pedestal nearby; add a caption box reading “INSIDE, THE ART SURROUNDED US.” and speech balloons saying “I LOVE HOW BRIGHT AND BOLD IT IS.” and “IT FEELS LIKE MIAMI… VIBRANT AND FREE!”. In the fifth panel, show the couple outside again by the water with the skyline, palm trees, and a sailboat in the background, standing close together in the sun; add a caption box reading “WE STEPPED OUT INTO THE SUN…” and a small closing narration box at the bottom right saying “A BEAUTIFUL DAY.” Include speech balloons saying “THAT WAS PERFECT.” and “ART, SUN, AND MIAMI… CAN’T BEAT IT!”. Use hand-lettered uppercase comic text, black outlines, slightly imperfect vintage printing registration, muted pinks, aquas, sandy beige, and seafoam green, with a nostalgic warm romantic mood.",
+  "translatedPrompt": "一幅 1950 年代褪色浪漫冒险风格的复古美式漫画页，印在略微泛黄的纸张上，具有明显的网点纹理、墨水勾勒的边框以及柔和的陈旧色彩。页面包含 5 个格子，采用经典的漫画布局：顶部 1 个宽格，中间 2 个并排格子，底部 2 个并排格子。在顶部格子中，展示 {argument name=\"city\" default=\"迈阿密\"} 阳光明媚的沿海大道，左侧是绿松石色的海水，近海处有帆船，远处是柔和的装饰艺术风格建筑，高大的棕榈树，以及一辆沿着海滨行驶的粉色经典敞篷车。一对时尚的情侣坐在车里，上方有醒目的大号漫画标题文字“ART IN MIAMI!”，顶部有一个小标题框写着“MIAMI, SATURDAY AFTERNOON…”。添加两个对话气泡：“READY TO SEE SOME ART?”和“ALWAYS!”。在第二个格子中，展示从车后拍摄的视角，情侣正沿着海洋大道行驶，前方可见色彩鲜艳的建筑和棕榈树；男人留着深色头发，穿着蓝色衬衫，女人戴着太阳镜，穿着粉色连衣裙，系着淡紫色头巾。包含一个标题框写着“WE DROVE DOWN OCEAN DRIVE…”，以及对话气泡“LOOK AT THOSE COLORS…”和“MIAMI FEELS LIKE A PAINTING!”。在第三个格子中，展示情侣走向一家现代博物馆的入口，墙上可见“MIAMI ART MUSEUM”字样，有玻璃门和室内的人群；添加一个标题框写着“THE EXHIBIT WAS AT A MODERN MUSEUM…”和一个对话气泡“LET’S GO!”。在第四个格子中，展示情侣在画廊内欣赏大型抽象画，画作由明亮的柔和色块和形状组成，附近有一个底座上的小雕塑；添加一个标题框写着“INSIDE, THE ART SURROUNDED US.”以及对话气泡“I LOVE HOW BRIGHT AND BOLD IT IS.”和“IT FEELS LIKE MIAMI… VIBRANT AND FREE!”。在第五个格子中，展示情侣再次来到水边，背景是天际线、棕榈树和帆船，他们在阳光下紧紧依偎；添加一个标题框写着“WE STEPPED OUT INTO THE SUN…”以及右下角一个小型的结尾叙述框写着“A BEAUTIFUL DAY.”。包含对话气泡“THAT WAS PERFECT.”和“ART, SUN, AND MIAMI… CAN’T BEAT IT!”。使用手写大写漫画字体、黑色轮廓、略有偏差的复古印刷套色，色调采用柔和的粉色、水蓝色、沙米色和海泡绿，营造出怀旧而浪漫的氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古迈阿密艺术约会漫画页：此提示词可生成一幅复古风格的五格漫画页，描绘一对情侣参观迈阿密艺术博物馆的场景，非常适合怀旧风格的编辑艺术或故事书插画。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "vintage"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: vintage]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13926",
+      "15354",
+      "15700",
+      "15320",
+      "15396",
+      "13967"
+    ]
+  }
+}

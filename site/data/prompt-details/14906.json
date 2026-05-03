@@ -1,0 +1,50 @@
+{
+  "id": "14906",
+  "prompt": "{\"type\":\"Chinese co-branded beverage promotional poster\",\"style\":\"premium commercial food advertising, bright outdoor lifestyle campaign, polished graphic design, shallow depth of field, cheerful summer atmosphere\",\"branding\":{\"top_logos_count\":2,\"top_logos\":[\"蜜雪冰城\",\"STARBUCKS\"],\"collaboration_mark_count\":2},\"scene\":{\"setting\":\"sunny outdoor cafe patio with wooden table, blurred greenery and urban background, Starbucks storefront awning faintly visible on the left, leafy branches entering from the upper right\",\"lighting\":\"natural daylight with soft highlights and clean product reflections\",\"camera\":\"front-facing hero shot at table height, slight wide-angle commercial composition\"},\"layout\":{\"headline_area\":{\"count\":4,\"texts\":[\"雪王遇见星朋友\",\"米雪冰城 × 星巴克 联名开启\",\"甜蜜加倍 · 快乐翻倍\",\"联名限定\"]},\"product_area\":{\"count\":2,\"labels\":[\"雪顶抹茶星冰乐\",\"抹茶雪王奥利奥\"]},\"price_area\":{\"count\":2,\"texts\":[\"联名套餐\",\"¥19.9\"]},\"bonus_area\":{\"count\":2,\"texts\":[\"立省 ¥6\",\"联名周边\"]},\"bottom_strip\":{\"count\":1,\"text\":\"你爱我 ♡ 我爱你 蜜雪冰城甜蜜蜜\"},\"signboard_area\":{\"count\":1,\"text\":\"ICE CREAM & COFFEE\"},\"stamp_area\":{\"count\":2,\"texts\":[\"联名限定\",\"不上班喝出来了 星滋味\"]}},\"main_products\":[{\"type\":\"iced blended drink in clear plastic cup\",\"position\":\"left foreground\",\"flavor\":\"matcha\",\"appearance\":\"vivid green slushy drink with clear cup, tall swirl of vanilla soft serve on top, heavy drizzle of glossy matcha sauce, colorful sprinkles scattered over the cream\",\"branding\":\"large Mixue snowman mascot printed on the cup with Chinese brand text below\",\"label_text\":\"雪顶抹茶星冰乐\"},{\"type\":\"iced milk beverage in clear plastic Starbucks cup\",\"position\":\"right foreground\",\"flavor\":\"matcha cookies and cream latte or frappé-style mix\",\"appearance\":\"creamy beige drink with dark cookie crumble topping, visible ice, green matcha swirls concentrated at the bottom and marbling upward\",\"branding\":\"large green Starbucks siren logo on the cup\",\"label_text\":\"抹茶雪王奥利奥\"}],\"mascot\":{\"count\":1,\"type\":\"3D toy-like snowman mascot\",\"position\":\"center front between the two cups\",\"appearance\":\"round white body, small gold crown, blue eyebrows, one eye winking, orange carrot nose, open smiling mouth, pink blush, red cape, seated pose\",\"prop\":\"holding a small white Starbucks takeaway cup with green logo\"},\"props\":[{\"type\":\"chalkboard sign\",\"position\":\"right midground\",\"text\":\"ICE CREAM & COFFEE\",\"drawing_count\":2,\"drawings\":[\"ice cream cone\",\"coffee cup\"]},{\"type\":\"round wooden serving tray\",\"position\":\"under drinks and mascot\"},{\"type\":\"promotional merchandise icons\",\"position\":\"bottom right\",\"count\":4,\"items\":[\"cup sleeve\",\"round sticker logo set\",\"die-cut mascot sticker holding drink\",\"small branded badge or sticker\"]}],\"graphic_elements\":{\"count\":7,\"items\":[\"large playful Chinese headline in pink black and green with white outline\",\"green ribbon banner under headline\",\"circular collaboration stamp at left\",\"postal-style circular stamp at upper right\",\"small crown icons near side flavor labels and mascot\",\"small butterfly doodle near headline\",\"torn-paper collage panels along the bottom\"]},\"color_palette\":{\"primary\":[\"Starbucks green\",\"matcha green\",\"white\",\"cream\",\"light wood brown\"],\"accent\":[\"coral pink\",\"gold\",\"black\"]},\"text_customization\":{\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"雪王遇见星朋友\\\"}\",\"subheadline\":\"{argument name=\\\"subheadline text\\\" default=\\\"米雪冰城 × 星巴克 联名开启\\\"}\",\"price\":\"{argument name=\\\"price text\\\" default=\\\"¥19.9\\\"}\",\"left_drink_name\":\"{argument name=\\\"left drink name\\\" default=\\\"雪顶抹茶星冰乐\\\"}\",\"right_drink_name\":\"{argument name=\\\"right drink name\\\" default=\\\"抹茶雪王奥利奥\\\"}\"},\"rendering_notes\":\"Make the beverages oversized and ultra-appetizing, with crisp logo visibility, glossy textures, soft background bokeh, and a highly produced poster-like balance between photography and graphic overlay design.\"}",
+  "translatedPrompt": "{\"type\":\"中国风联名饮品宣传海报\",\"style\":\"高端商业食品广告，明亮的户外生活方式宣传，精致的平面设计，浅景深，欢快的夏日氛围\",\"branding\":{\"top_logos_count\":2,\"top_logos\":[\"蜜雪冰城\",\"STARBUCKS\"],\"collaboration_mark_count\":2},\"scene\":{\"setting\":\"阳光明媚的户外咖啡馆露台，配有木桌，背景为模糊的绿植与城市景观，左侧隐约可见 Starbucks 店面遮阳棚，右上角有叶片伸入\",\"lighting\":\"自然日光，带有柔和的高光和清晰的饮品反光\",\"camera\":\"桌面高度的正面主视觉拍摄，略带广角的商业构图\"},\"layout\":{\"headline_area\":{\"count\":4,\"texts\":[\"雪王遇见星朋友\",\"蜜雪冰城 × Starbucks 联名开启\",\"甜蜜加倍 · 快乐翻倍\",\"联名限定\"]},\"product_area\":{\"count\":2,\"labels\":[\"雪顶抹茶星冰乐\",\"抹茶雪王奥利奥\"]},\"price_area\":{\"count\":2,\"texts\":[\"联名套餐\",\"¥19.9\"]},\"bonus_area\":{\"count\":2,\"texts\":[\"立省 ¥6\",\"联名周边\"]},\"bottom_strip\":{\"count\":1,\"text\":\"你爱我 ♡ 我爱你 蜜雪冰城甜蜜蜜\"},\"signboard_area\":{\"count\":1,\"text\":\"ICE CREAM & COFFEE\"},\"stamp_area\":{\"count\":2,\"texts\":[\"联名限定\",\"不上班喝出来了 星滋味\"]}},\"main_products\":[{\"type\":\"透明塑料杯装冰沙饮品\",\"position\":\"左侧前景\",\"flavor\":\"抹茶\",\"appearance\":\"鲜艳的绿色冰沙，透明杯身，顶部有高耸的香草软冰淇淋旋涡，淋有浓郁的亮面抹茶酱，奶油上撒有彩色糖珠\",\"branding\":\"杯身上印有大型蜜雪冰城雪王吉祥物，下方带有中文品牌文字\",\"label_text\":\"雪顶抹茶星冰乐\"},{\"type\":\"透明 Starbucks 塑料杯装冰奶饮品\",\"position\":\"右侧前景\",\"flavor\":\"抹茶奥利奥拿铁或星冰乐风格混合\",\"appearance\":\"奶油米色饮品，顶部有黑色饼干碎，可见冰块，底部抹茶绿旋涡向上晕染\",\"branding\":\"杯身上有大型绿色 Starbucks 女神 logo\",\"label_text\":\"抹茶雪王奥利奥\"}],\"mascot\":{\"count\":1,\"type\":\"3D 玩具风格雪王吉祥物\",\"position\":\"两杯饮品之间的正前方\",\"appearance\":\"圆润的白色身体，戴着小金冠，蓝色眉毛，一只眼睛眨眼，橙色胡萝卜鼻，张嘴微笑，粉色腮红，红色斗篷，坐姿\",\"prop\":\"手中拿着一个小型的白色 Starbucks 外带杯，带有绿色 logo\"},\"props\":[{\"type\":\"黑板项目\",\"position\":\"右侧中景\",\"text\":\"ICE CREAM & COFFEE\",\"drawing_count\":2,\"drawings\":[\"冰淇淋甜筒\",\"咖啡杯\"]},{\"type\":\"圆形木质托盘\",\"position\":\"位于饮品和吉祥物下方\"},{\"type\":\"促销周边图标\",\"position\":\"右下角\",\"count\":4,\"items\":[\"杯套\",\"圆形贴纸 logo 套装\",\"手持饮品的模切吉祥物贴纸\",\"小型品牌徽章或贴纸\"]}],\"graphic_elements\":{\"count\":7,\"items\":[\"粉色、黑色与绿色的大型趣味中文标题，带有白色描边\",\"标题下方的绿色丝带横幅\",\"左侧的圆形联名印章\",\"右上角的邮戳风格圆形印章\",\"侧边口味标签和吉祥物附近的小皇冠图标\",\"标题附近的小蝴蝶涂鸦\",\"底部的撕纸拼贴面板\"]},\"color_palette\":{\"primary\":[\"Starbucks 绿\",\"抹茶绿\",\"白色\",\"奶油色\",\"浅木棕色\"],\"accent\":[\"珊瑚粉\",\"金色\",\"黑色\"]},\"text_customization\":{\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"雪王遇见星朋友\\\"}\",\"subheadline\":\"{argument name=\\\"subheadline text\\\" default=\\\"蜜雪冰城 × Starbucks 联名开启\\\"}\",\"price\":\"{argument name=\\\"price text\\\" default=\\\"¥19.9\\\"}\",\"left_drink_name\":\"{argument name=\\\"left drink name\\\" default=\\\"雪顶抹茶星冰乐\\\"}\",\"right_drink_name\":\"{argument name=\\\"right drink name\\\" default=\\\"抹茶雪王奥利奥\\\"}\"},\"rendering_notes\":\"使饮品看起来超大且极具食欲，logo 清晰可见，质感光泽，背景有柔和的虚化效果，并在摄影与图形叠加设计之间保持高度精良的海报平衡感。\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "蜜雪冰城 x Starbucks 抹茶联名宣传海报：此提示词可生成一张明亮的中国风联名饮品宣传海报，包含两款抹茶饮品、雪王吉祥物、价格信息以及精致的零售营销海报设计，适用于餐饮营销。",
+      "subject": "产品",
+      "scene": "图标/贴纸",
+      "composition": [
+        "hero shot",
+        "front-facing"
+      ],
+      "style": [
+        "3d",
+        "premium"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "图标包、贴纸、表情、产品功能图标",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 图标/贴纸 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: hero shot, front-facing]。\n\nVisual style:\n[参考风格: 3d, premium]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, camera]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14442",
+      "14993",
+      "15059",
+      "15290",
+      "14559",
+      "14196"
+    ]
+  }
+}

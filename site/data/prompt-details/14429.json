@@ -1,0 +1,49 @@
+{
+  "id": "14429",
+  "prompt": "A photorealistic classroom interior centered on a large green chalkboard filled with an elaborate chalk mural of Monkey D. Luffy in Gear 5 from One Piece. The drawing dominates the board: a dynamic low-angle foreshortened pose with one oversized foot thrust toward the viewer, both fists raised, wild curly white hair, huge manic grin, intense round eyes, open white jacket, bare muscular chest with visible scars, loose white pants, and a flowing purple sash. Surround him with swirling white smoke-like aura drawn in expressive chalk strokes. On the right side of the chalkboard, include 2 text elements written in chalk: 1 vertical Japanese phrase reading \"太陽の神\" and 1 large English label reading \"GEAR 5\" near the lower right. Render the chalk art with layered white, gray, tan, and purple pastel-chalk texture, visible smudging, dust, and hand-drawn shading. Show the full blackboard frame, tray, and a realistic classroom setting with beige walls and a small speaker box above the board. In the foreground, place a worn wooden teacher's desk covered in chalk dust, with exactly 5 visible desk items: 1 open yellow box of multicolored chalk sticks, 3 loose chalk sticks on the desk, and 1 black rectangular chalkboard eraser. Add 2 small erasers resting on the left side of the chalk tray. Soft natural indoor lighting, straight-on composition, highly detailed, realistic photograph of a classroom with spectacular anime chalkboard art.",
+  "translatedPrompt": "一张照片级真实的教室内部场景，画面中心是一块巨大的绿色黑板，上面绘有精美的《海贼王》中 Gear 5 蒙奇·D·路飞的粉笔壁画。画作占据了整个项目：采用动态的低角度透视，一只巨大的脚伸向观众，双拳高举，狂野的卷曲白发，夸张的狂笑表情，圆睁的双眼，敞开的白色外套，露出布满伤痕的肌肉胸膛，穿着宽松的白色长裤，系着飘逸的紫色腰带。周围环绕着以写意粉笔笔触绘制的白色烟雾状光环。在黑板右侧，包含 2 个用粉笔书写的文字元素：1 个竖排日语短语“太陽の神”，以及右下角附近 1 个醒目的英文标签“GEAR 5”。粉笔画呈现出分层的白色、灰色、棕褐色和紫色粉笔质感，带有明显的涂抹痕迹、粉尘和手绘阴影。展示完整的黑板边框、粉笔槽，以及带有米色墙壁和黑板上方小型扬声器的真实教室环境。前景中放置一张布满粉笔灰的破旧木制教师办公桌，桌上清晰可见 5 件物品：1 个打开的彩色粉笔盒，3 支散落的粉笔，以及 1 个黑色长方形黑板擦。在粉笔槽左侧额外放置 2 个小黑板擦。柔和的自然室内光线，正面对称构图，高度细节化，呈现出带有震撼动漫黑板艺术的真实教室照片。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Gear 5 黑板教室壁画：此提示词可生成一张逼真的教室照片，画面中心为一幅极具冲击力的 Gear 5 路飞黑板壁画，非常适合用于动漫主题海报设计或图像模型社交媒体对比。",
+      "subject": "空间",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "anime",
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, layered, vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, anime, hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14598",
+      "15336",
+      "15411",
+      "15096",
+      "14900",
+      "14940"
+    ]
+  }
+}

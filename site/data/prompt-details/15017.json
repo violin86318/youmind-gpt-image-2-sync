@@ -1,0 +1,47 @@
+{
+  "id": "15017",
+  "prompt": "A highly detailed anime illustration of a seated young woman in an elegant Japanese-inspired fantasy kimono composition, centered on a clean warm off-white background. She has long straight {argument name=\"hair color\" default=\"black with deep blue-violet undertones\"} hair with blunt bangs and very long flowing side lengths, with red and blue ribbon strands woven through the hair. Her eyes are large and luminous {argument name=\"eye color\" default=\"crimson red\"}, and her expression is calm, soft, and slightly wistful. She wears an ornate floral hairpiece on the right side of her head made of 4 major blossoms in red, white, pale blue, and blue, with dangling gold ornaments and tassels. Her outfit is a richly patterned kimono in {argument name=\"kimono colors\" default=\"red, black, pale blue, cream, and touches of purple\"}, covered in cherry blossoms, stylized flowers, butterflies, cords, bows, and hanging tassel decorations. The sleeves are oversized and flowing, with visible red cord knots and floral appliqué details. She sits in a graceful curled pose with one hand near her face, bare legs prominently visible, wearing white tabi-like socks and elaborate red-and-black platform sandals with bows. Surrounding her are exactly 4 cats: 1 black cat sitting on a branch at left looking upward, and 3 white cats placed around her lower left, mid-right, and lower center-right. Include exactly 2 birds: 1 blue bird perched on the left branch and 1 small red-and-blue bird nestled among flowers at the lower right. Include exactly 3 butterflies: 2 near the upper left and 1 near the lower center by her legs. Frame the composition with plum blossom branches, hanging Japanese ornaments, tassels, diamond charms, and long fabric streamers. Add a large circular decorative motif behind her upper body and a tall vertical banner-like ornament on the right side. The overall palette should balance vermilion red, black, ivory, pale cyan, sky blue, and lavender. Style is polished 2D anime key visual, ultra-clean linework, delicate textile patterning, flat decorative shapes mixed with subtle shading, elegant negative space, highly ornamental but harmonized composition, whimsical and refined, vertical full-body character poster.",
+  "translatedPrompt": "一张细节极其丰富的动漫插画，描绘了一位坐着的年轻女性，身着优雅的日式幻想风格和服，构图精巧，背景为干净的暖米白色。她留着长直发，{argument name=\"hair color\" default=\"黑色，带有深蓝紫色的底色\"}，留着齐刘海，两侧发丝极长，发间编织着红蓝相间的丝带。她的双眼明亮且硕大，颜色为 {argument name=\"eye color\" default=\"深红色\"}，表情平静、柔和且略带忧郁。她头部的右侧佩戴着华丽的花卉发饰，由红、白、浅蓝和蓝色 4 朵主花组成，并配有垂下的金色装饰和流苏。她的服装是一件花纹繁复的和服，颜色为 {argument name=\"kimono colors\" default=\"红色、黑色、浅蓝色、奶油色，并点缀着紫色\"}，上面布满了樱花、风格化花卉、蝴蝶、绳结、蝴蝶结和悬挂的流苏装饰。袖子宽大飘逸，可见红色的绳结和花卉贴花细节。她以优雅的蜷缩姿势坐着，一只手靠近脸庞，裸露的双腿清晰可见，穿着白色的足袋式袜子，脚蹬精致的红黑配色厚底凉鞋，鞋上带有蝴蝶结。她周围环绕着 4 只猫：左侧树枝上坐着 1 只黑猫，正向上看；另外 3 只白猫分别位于她的左下方、右侧中部和右下方。画面包含 2 只鸟：1 只蓝鸟栖息在左侧树枝上，1 只红蓝相间的小鸟栖息在右下方的花丛中。画面包含 3 只蝴蝶：2 只在左上方，1 只在靠近她双腿的下方中心处。构图由梅花枝、悬挂的日式饰品、流苏、菱形挂饰和长条织物飘带环绕。在她上半身背后增加一个大型圆形装饰图案，并在右侧增加一个高大的竖版横幅式装饰。整体色调平衡了朱红色、黑色、象牙白、浅青色、天蓝色和薰衣草色。风格为精致的 2D 动漫主视觉图，线条极其干净，纺织品纹理细腻，扁平装饰形状与微妙的阴影相结合，优雅的留白，构图极具装饰性且和谐统一，充满奇思妙想且格调高雅，竖版全身角色海报。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "和风装饰感和服少女与猫：此提示词可生成一张精美的竖版动漫海报，画面中一位身着和服的少女被花卉、装饰品、鸟类、蝴蝶和四只猫环绕，非常适合用于优雅的角色艺术或装饰性主视觉图。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "full-body",
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, full-body, vertical]。\n\nVisual style:\n[参考风格: anime, fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15091",
+      "15090",
+      "14413",
+      "14534",
+      "15332",
+      "15375"
+    ]
+  }
+}

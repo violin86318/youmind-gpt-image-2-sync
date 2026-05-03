@@ -1,0 +1,45 @@
+{
+  "id": "15696",
+  "prompt": "A dark anime gothic portrait of a {argument name=\"character type\" default=\"young woman\"} shown from the chest up, centered in the frame, with long layered {argument name=\"hair color\" default=\"silver-white\"} hair in messy twin tails and loose strands falling over the shoulders. She wears two large black ribbon-and-lace hair ornaments, a black gothic dress with voluminous sleeves and delicate lace trim, black lace fingerless gloves, and a black leather choker with a buckle. Around her neck are 2 layered silver chain necklaces, one ending in a prominent cross pendant. Both hands are raised near her face making peace signs, one on each side, with black painted nails and a slightly playful, edgy pose. The background is a rich blood-red gradient with a dark, moody atmosphere, decorated with 5 visible black roses on thorny stems around the figure and dripping black shapes along the top edge, creating a dramatic gothic horror aesthetic. Use high-detail anime illustration, sharp linework, soft dramatic shading, glossy black fabrics, pale skin, strong red-and-black contrast, symmetrical composition, close-up framing, and an elegant but ominous mood.",
+  "translatedPrompt": "一张暗黑动漫风格的哥特肖像，主角为 {argument name=\"character type\" default=\"年轻女性\"}，半身构图，居中展示。她留着长长的多层次 {argument name=\"hair color\" default=\"银白色\"} 凌乱双马尾，发丝自然垂落在肩头。她佩戴着两个巨大的黑色丝带蕾丝发饰，身穿带有蓬松袖口和精致蕾丝花边的黑色哥特裙，戴着黑色蕾丝露指手套，以及带有金属扣的黑色皮质颈圈。颈部叠戴两条银色链条项链，其中一条挂着醒目的十字架吊坠。双手举在脸颊两侧比出剪刀手，指甲涂成黑色，姿态俏皮又不失酷感。背景为浓郁的血红色渐变，营造出阴郁的氛围，人物周围装饰着 5 朵带刺的黑玫瑰，顶部边缘有黑色滴落状图形，呈现出极具戏剧性的哥特恐怖美学。采用高细节动漫插画风格，线条锐利，阴影柔和且富有戏剧性，强调黑色织物的光泽感、苍白的肤色以及强烈的红黑对比，构图对称，近景取景，整体氛围优雅而诡谲。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "哥特风动漫少女与黑玫瑰：此提示词可生成一张极具张力的红黑配色哥特风动漫肖像，非常适合用于角色设计、头像或暗黑幻想插画构思。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "close-up",
+        "layered"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, close-up, layered]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15393",
+      "14865",
+      "14957",
+      "15711",
+      "14578",
+      "15706"
+    ]
+  }
+}

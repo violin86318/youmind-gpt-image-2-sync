@@ -1,0 +1,44 @@
+{
+  "id": "14997",
+  "prompt": "A clean manga-coloring test page styled like an official One Piece chapter cover on a light gray background. At the very top, place the large black-and-white ONE PIECE logo with the skull wearing a yellow straw hat with a red band, integrated rope elements, and the silhouette inside the lettering. Centered beneath it, add the subtitle text {argument name=\"chapter title\" default=\"Chapter 1177: FURIOUS\"} in bold black serif italics. Below that, create one large rectangular full-color illustration framed by a thin black border. The scene shows Nico Robin, a young woman with long straight {argument name=\"hair color\" default=\"black\"} hair and pale skin, seated in a garden with her knees drawn up, planting flowers. Her face is obscured by a soft rectangular blur censor block. She wears a loose white short-sleeve shirt and black-and-white horizontal striped thigh-high socks, giving a casual, slightly playful look. Around her are 3 small One Piece characters helping or watching: on the left, Tony Tony Chopper in a straw hat and blue overalls holding a small shovel near freshly dug soil; in the right foreground, another small chibi-like Chopper figure wearing a blue cap with round yellow ear covers labeled “MOGO” and pink shorts, turned partly away; near the center-left foreground, a tiny helper with goggles and a hat standing by the flower bed. The garden is whimsical and storybook-like: a huge old tree with a thick twisting trunk fills the left side, a white picket fence runs behind the flower beds, and a crooked cozy cottage with blue scalloped roof tiles, dormer windows, flower boxes, and a round wooden door stands on the right. The sky is bright blue with a few puffy white clouds. In the flower bed, show exactly 3 distinct flower clusters being planted: 1 pink cluster in Robin’s hands, 1 white cluster to the right, and 1 orange cluster farther right, with several dug holes in the brown soil and chopped tree stumps in the foreground. Add a caption strip overlapping the bottom of the illustration with uppercase serif text: {argument name=\"caption text\" default=\"READER REQUEST: \\\"ROBIN PLANTING FLOWERS IN A BED DUG UP BY MOLES\\\" BY MRS. FUJI\"}. Beneath the image, center the credit line {argument name=\"author text\" default=\"By EIICHIRO ODA\"} in bold black type, and below it a smaller line reading {argument name=\"credit line\" default=\"Translation: STEPHEN PAUL • Lettering: VANESSA SATONE\"}. Use crisp inked manga linework with vibrant hand-colored fills, slightly textured shading, and an authentic colored manga cover-page aesthetic.",
+  "translatedPrompt": "一张简洁的漫画上色测试页，采用官方《海贼王》章节封面的风格，背景为浅灰色。在最上方，放置巨大的黑白 ONE PIECE Logo，其中骷髅头戴着带有红色条纹的黄色草帽，并融入绳索元素，字母内部带有剪影。在 Logo 正下方，居中添加副标题文本 {argument name=\"chapter title\" default=\"第 1177 话：愤怒\"}，使用加粗的黑色衬线斜体。下方创建一个由细黑边框包围的大型全彩插图。场景展示了妮可·罗宾，一位留着长直 {argument name=\"hair color\" default=\"黑色\"} 头发、皮肤白皙的年轻女性，她蜷膝坐在花园里种花。她的脸部被一个柔和的矩形模糊遮挡块遮住。她穿着一件宽松的白色短袖衬衫和黑白横条纹过膝袜，看起来休闲且略带俏皮。她周围有 3 个正在帮忙或观看的小型《海贼王》角色：左侧是戴着草帽、穿着蓝色背带裤的托尼托尼·乔巴，正拿着小铲子在刚挖好的泥土旁；右侧前景是另一个类似 Q 版的小乔巴形象，戴着标有“MOGO”字样的黄色圆耳罩蓝色帽子，穿着粉色短裤，身体略微背对；左中前景附近，有一个戴着护目镜和帽子的微型助手站在花坛旁。花园充满奇幻色彩，宛如童话书：左侧是一棵树干粗壮扭曲的参天古树，花坛后方是一排白色尖桩篱笆，右侧是一座歪歪扭扭的舒适小屋，屋顶铺着蓝色扇形瓦片，设有老虎窗、花箱和圆形木门。天空湛蓝，飘着几朵蓬松的白云。在花坛中，展示 3 簇正在种植的鲜花：罗宾手中拿着 1 簇粉色花丛，右侧有 1 簇白色花丛，更右侧有 1 簇橙色花丛，棕色土壤上有几个挖好的坑，前景还有被砍伐的树桩。在插图底部叠加一个标题条，使用大写衬线字体：{argument name=\"caption text\" default=\"读者来信：“罗宾在鼹鼠挖出的花坛里种花” —— 藤夫人\"}。在图像下方，居中放置加粗的黑色制作人员行 {argument name=\"author text\" default=\"作者：尾田荣一郎\"}，下方是一行较小的文字 {argument name=\"credit line\" default=\"翻译：STEPHEN PAUL • 字幕：VANESSA SATONE\"}。使用清晰的漫画墨线勾勒，搭配鲜艳的手绘填色、略带纹理的阴影，呈现出地道的彩色漫画封面美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "《海贼王》漫画彩色封面：此提示词可生成一张彩色的《海贼王》漫画风格章节页，包含 Logo、章节标题、制作人员名单，以及以罗宾种花为主题的奇幻花园插图。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "horizontal"
+      ],
+      "style": [
+        "manga"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, horizontal]。\n\nVisual style:\n[参考风格: manga]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13916",
+      "14438",
+      "15302",
+      "15712",
+      "14415",
+      "14946"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "13596",
+  "prompt": "A hyper-realistic, intense, over-the-top illustration of three elderly people in a fiery, apocalyptic setting. In the foreground, two elderly DJs are intensely scratching on detailed turntables while screaming aggressively. On the left is an elderly woman with {argument name=\"woman's hair color\" default=\"purple\"} hair in a top bun. On the right is an elderly man with {argument name=\"man's hair style\" default=\"spiky blonde punk hair\"} and sunglasses. Between them in the background is a massive erupting {argument name=\"background element\" default=\"volcano\"} surrounded by roaring flames, flying sparks, and smoke. Looming at the top center of the image is a third elderly man with white hair and a beard, wearing a purple hoodie with the word \"{argument name=\"hoodie text\" default=\"KAMI\"}\" faintly visible, shouting with his hands raised making two-finger gestures against a backdrop of dark stormy clouds. Across the center of the image, hovering in front of the volcano, is large, jagged, neon graffiti-style text reading \"{argument name=\"main text\" default=\"DJBBA\"}\" in vibrant blue, green, and pink colors. The overall lighting is dramatic, illuminated by the intense orange and yellow glow of the fire.",
+  "translatedPrompt": "一张超写实、电影感且夸张的动作海报，画面中包含三个充满激情的角色。背景是 {argument name=\"background setting\" default=\"一座喷发中的巨大火山，伴随着岩浆和火焰\"}。在画面顶部中心，悬浮在烟雾缭绕的天空中，是 {argument name=\"top character\" default=\"一位留着长白发和胡须、身穿灰色连帽衫的老人\"}，他正在大声呐喊并双手比出胜利手势。在前景中，两个角色正全神贯注地在 DJ 打碟机上搓盘，两人都展现出极度狂热的能量。左侧是 {argument name=\"left character\" default=\"一位扎着紫色发髻的老妇人\"}。右侧是 {argument name=\"right character\" default=\"一位留着金色尖刺莫霍克发型、戴着墨镜的老人\"}。在画面中心、火山上方悬浮着巨大的锯齿状霓虹涂鸦风格文字，写着 \"{argument name=\"main text\" default=\"DJBBA\"}\"，色彩为鲜艳的蓝色、绿色和粉色。光影效果戏剧化、火热且混乱，火花和灰烬四处飞溅。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "狂野老年 DJ 火山海报：生成一张电影感十足、夸张的动作海报，展现老年角色在喷发的火山前激情打碟，并配有霓虹涂鸦文字。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13632",
+      "13885",
+      "13917",
+      "14724",
+      "14929",
+      "15509"
+    ]
+  }
+}

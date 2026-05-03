@@ -1,0 +1,47 @@
+{
+  "id": "15333",
+  "prompt": "A flashy Japanese romantic comedy movie poster in a cute-but-dramatic pop anime mascot style, designed like a theatrical film teaser. Center the composition on a full-body cartoon bunny girl mascot named {argument name=\"character name\" default=\"パン子\"}, with a large white face, black body and one black ear, one bright red ear, thick black outline, half-lidded glamorous eyes with long lashes, pink blush circles on her cheeks, a tiny red nose, a small tongue peeking out, and a pink bow with white polka dots on top of her head. She wears a sleeveless pink dress with white polka dots and a black scarf-like neck detail, posing with one hand near her cheek in a confident, slightly flirty stance. The background is a dreamy sunset waterfront city skyline with golden reflections on the water, pastel pink-orange-blue sky, sparkles, soft bokeh, and a ferris wheel on the left. Place 2 male silhouette figures in the midground, one on the left standing casually and one on the right in a suit-like pose, suggesting potential love interests. Add lush tropical flowers and leaves around the borders, especially pink hibiscus blossoms in the corners, plus floating hearts and glitter effects throughout. Use a bold, layered Japanese poster layout packed with decorative typography and stickers. At the top, handwritten-style Japanese text reads: 「笑って、泣いて、恋をして。アラサーの私、まだまだ諦めない！」 with pink emphasis and doodled heart lines. On the upper left, include a bright pink scalloped badge that says 「2026年 夏公開」. Along the right side, place vertical Japanese text: 「私の幸せ、探しにいきます。」. Near the lower left, add a pink ribbon label reading 「劇場版！」. Across the bottom center, create the large main title in bold decorative Japanese lettering: 「アラサー パン子の 婚活奮闘記」 with pink and dark navy text, white outlines, and a cute heart accent. Beneath it, add a pink slogan banner with yellow-highlighted text: 「恋に迷って、人生はもっとキラキラする♥」. Include small faux credits at the bottom in Japanese film-poster style. Around the lower area, place 4 small polaroid-style inset snapshots of the bunny character: 2 on the lower left and 2 on the lower right, each showing different cute situations such as a close-up pose, sitting at a cafe table, wearing sunglasses, or posing outdoors. Add a small notebook page labeled \"Today's Mission\" with checklist hearts in the lower left, and a plastic iced drink cup with straw plus sunglasses in the lower right. Overall feeling: feminine, comedic, inspirational, sparkly, over-the-top, and nostalgic, like a parody of a live-action romance film poster starring a mascot heroine. Use vivid pinks, peach sunset tones, sky blue, white, and navy, with glossy highlights and a polished promotional-poster finish.",
+  "translatedPrompt": "一张华丽的日系浪漫喜剧电影海报，采用可爱又充满戏剧性的流行动漫吉祥物风格，设计如同电影预告海报。构图中心为一只全身卡通兔女郎吉祥物，名字为 {argument name=\"character name\" default=\"パン子\"}，她有着大大的白脸、黑色的身体、一只黑耳朵和一只亮红色的耳朵，轮廓线条粗犷，半闭的迷人双眼配有长睫毛，脸颊上有粉色腮红圆圈，小小的红鼻子，舌头微微探出，头顶戴着一个带有白色波点的粉色蝴蝶结。她穿着一件带有白色波点的无袖粉色连衣裙，颈部有黑色围巾状装饰，单手靠近脸颊，姿态自信且略带俏皮。背景是梦幻般的日落滨海城市天际线，水面有金色倒影，天空呈现粉、橙、蓝的柔和色调，伴有闪光、柔和的虚化效果，左侧有一座摩天轮。在中景处放置 2 个男性剪影，左侧一人站姿随意，右侧一人呈西装革履姿态，暗示潜在的恋爱对象。在边框周围添加茂盛的热带花卉和叶子，尤其是角落里的粉色木槿花，以及遍布画面的漂浮爱心和闪光效果。采用大胆、分层的日式海报布局，布满装饰性字体和贴纸。顶部用手写风格的日文写着：「笑って、泣いて、恋をして。アラサーの私、まだまだ諦めない！」并带有粉色强调和涂鸦心形线条。左上方包含一个明亮的粉色扇形徽章，写着「2026年 夏公開」。右侧放置垂直的日文文本：「私の幸せ、探しにいきます。」。左下方添加一个粉色丝带标签，写着「劇場版！」。底部中央创建醒目的主标题，采用粗体装饰性日文字体：「アラサー パン子の 婚活奮闘記」，配以粉色和深海军蓝文字、白色轮廓以及可爱的爱心装饰。下方添加一个粉色标语横幅，带有黄色高亮文字：「恋に迷って、人生はもっとキラキラする♥」。底部包含日式电影海报风格的小型伪造演职员表。在下方区域放置 4 张兔女郎角色的宝丽来风格小照片：左下 2 张，右下 2 张，每张展示不同的可爱场景，如特写姿势、坐在咖啡桌旁、戴着太阳镜或在户外摆拍。左下方添加一个标有“Today's Mission”并带有心形清单的笔记本页面，右下方放置一个带吸管的塑料冰饮杯和太阳镜。整体感觉：女性化、喜剧感、励志、闪耀、夸张且怀旧，就像一部由吉祥物女主主演的真人浪漫电影的恶搞海报。使用鲜艳的粉色、桃色日落色调、天蓝色、白色和海军蓝，并带有光泽高光和精致的宣传海报质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "可爱的日系浪漫喜剧电影海报：一张闪闪发光的日系吉祥物女主浪漫喜剧电影海报，非常适合恶搞电影宣传、角色品牌推广或社交媒体主视觉图。",
+      "subject": "人物",
+      "scene": "图标/贴纸",
+      "composition": [
+        "close-up",
+        "full-body",
+        "poster layout",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "图标包、贴纸、表情、产品功能图标",
+      "whySelected": "得分 75；构图: close-up, full-body, poster layout, layered, vertical；风格: anime；包含标注/说明；文字是主视觉"
+    },
+    "copyTemplate": "Create a 图标/贴纸 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, full-body, poster layout, layered, vertical]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14664",
+      "14442",
+      "15090",
+      "14146",
+      "15375",
+      "14196"
+    ]
+  }
+}

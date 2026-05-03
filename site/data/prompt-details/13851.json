@@ -1,0 +1,45 @@
+{
+  "id": "13851",
+  "prompt": "A {argument name=\"age\" default=\"22\"}-year-old {argument name=\"ethnicity\" default=\"East Asian\"} girl, round youthful face, large bright doe eyes with natural lashes, rosy cheeks, soft pink lip gloss, two-strand loose braids with baby hairs. Wearing a {argument name=\"clothing\" default=\"pastel lavender oversized hoodie\"}. Background: blurred Japanese convenience store interior at night, neon light reflections adding color pops. Expression: playful, bubbly, genuinely happy. Aesthetic: Douyin/TikTok influencer portrait, soft beauty filter quality, warm skin tone, natural light. Photorealistic, 8K.16:9",
+  "translatedPrompt": "一位 {argument name=\"age\" default=\"22\"} 岁的 {argument name=\"ethnicity\" default=\"East Asian\"} 女孩，圆润的青春脸庞，明亮的大眼睛配以自然睫毛，粉嫩脸颊，柔和的粉色唇彩，双侧松散编发并带有碎发。身穿 {argument name=\"clothing\" default=\"淡紫色超大款连帽衫\"}。背景：夜晚模糊的日本便利店室内，霓虹灯反射增添色彩感。表情：俏皮、活泼、真诚快乐。美学：抖音 / TikTok 网红肖像，柔和美颜滤镜质感，暖色调皮肤，自然光。超写实，8K，16:9",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "东亚女孩网红肖像：一份详细的超写实提示词，用于生成具有社交媒体美感的日本便利店场景下的青春肖像。",
+      "subject": "空间",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [
+        "natural light",
+        "neon"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[参考光线镜头: natural light, neon]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13966",
+      "14059",
+      "13448",
+      "13451",
+      "13653",
+      "13697"
+    ]
+  }
+}

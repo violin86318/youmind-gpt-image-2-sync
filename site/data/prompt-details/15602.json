@@ -1,0 +1,53 @@
+{
+  "id": "15602",
+  "prompt": "A realistic street photography image in India, vertical composition, showing the exact rear view of a black-and-yellow auto rickshaw centered in frame on a narrow busy market street. The camera is positioned low and directly behind the vehicle, creating a strong symmetrical composition with the rickshaw filling most of the image. The top yellow canopy has bold uppercase red text reading {argument name=\"top text\" default=\"AB TO PEECHHAA CHHOD DO MERA\"}. The back panel below the window is black with large bold uppercase white text in 3 stacked lines reading {argument name=\"bottom text\" default=\"ITNI BHI SUNDAR NAHI HU MAIN\"}. In the rear window there is a printed portrait of a glamorous woman with long dark brown hair, turned sideways with one bare shoulder visible and a black strap, styled like a poster behind the glass; her face appears obscured or blurred. Show 2 rectangular rear tail lights, one on each side, a worn metal bumper, mud flaps, scuffed paint, dirt, scratches, and realistic age on the vehicle. The street background contains market shops, signboards, pedestrians on both sides, and a few distant figures, but kept softly blurred with shallow depth of field so the rickshaw remains sharp. Warm daylight, realistic Indian urban atmosphere, natural colors, subtle cinematic bokeh, high detail textures, documentary street-photo realism, 4K ultra-realistic.",
+  "translatedPrompt": "一张写实的印度街头摄影图像，采用竖构图，展示了一辆黑黄相间的机动三轮车在狭窄繁忙的市场街道上的正后方视图，车辆位于画面中心。相机位置较低，直接位于车辆后方，营造出强烈的对称构图，三轮车占据了画面的大部分空间。顶部的黄色顶棚上有醒目的大写红色文字，内容为 {argument name=\"top text\" default=\"AB TO PEECHHAA CHHOD DO MERA\"}。车窗下方的黑色后挡板上有三行堆叠的大号加粗白色大写文字，内容为 {argument name=\"bottom text\" default=\"ITNI BHI SUNDAR NAHI HU MAIN\"}。后窗内有一张长深棕色头发的迷人女性肖像印刷品，她侧身而坐，露出一侧裸露的肩膀和黑色肩带，看起来像贴在玻璃后的海报；她的面部显得模糊不清。展示 2 个矩形尾灯（两侧各一个）、磨损的金属保险杠、挡泥板、磨损的漆面、污垢、划痕以及车辆真实的岁月痕迹。街道背景包含市场店铺、招牌、两侧的行人以及远处的一些人物，但通过浅景深处理保持柔和模糊，使三轮车保持清晰。温暖的日光，真实的印度城市氛围，自然色彩，微妙的电影级虚化，高细节纹理，纪实街头摄影的真实感，4K 超写实。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "印度机动三轮车街头摄影：此提示词可生成一张写实风格的街头摄影照片，展示了繁忙市场中一辆车身带有文字涂装的印度机动三轮车后视图，非常适合城市纪实风格的视觉创作。",
+      "subject": "人物",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic, documentary]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, camera]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15705",
+      "14667",
+      "14614",
+      "15313",
+      "14819",
+      "14674"
+    ]
+  }
+}

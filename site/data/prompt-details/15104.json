@@ -1,0 +1,48 @@
+{
+  "id": "15104",
+  "prompt": "A cinematic dark fantasy portrait of {argument name=\"character name\" default=\"a silver-haired dragon queen\"} standing in the foreground on blackened volcanic rubble, with an enormous black dragon looming protectively behind her. The woman wears an intricate floor-length black gown with armored detailing on the bodice and shoulders, long fitted sleeves, a high structured collar, and a heavy dark cape trailing to the right. Her hair is {argument name=\"hair color\" default=\"platinum silver\"}, extremely long, loose, and wavy, glowing softly in the firelight. Her face is intentionally obscured and indistinct, with no clear facial features. The dragon fills most of the background, with 2 large outstretched wings framing the scene, dense charcoal scales, many sharp horns and facial spikes, glowing amber eyes, and a massive curved neck arcing above the woman. Set in a ruined medieval city with burned stone towers and crumbling structures on both sides, active fires on the ground, drifting embers, smoke, and a blazing orange sunset sky with stormy clouds. Low-angle heroic composition, epic scale contrast between human and beast, ultra-detailed textures, photorealistic fantasy realism, dramatic rim lighting, fiery orange and black color palette, moody atmosphere, sharp focus on the queen and dragon, blockbuster poster aesthetic. Add the text {argument name=\"watermark text\" default=\"Pollo.ai\"} in clean white sans-serif near the upper right.",
+  "translatedPrompt": "一张电影级的暗黑奇幻肖像，{argument name=\"character name\" default=\"一位银发龙之女王\"} 站在前景中黑色的火山碎石上，身后是一条巨大的黑龙在守护着她。这位女性身穿一件精致的拖地黑色礼服，胸部和肩部带有盔甲细节，长袖修身，高领设计，厚重的深色斗篷向右拖曳。她的头发是 {argument name=\"hair color\" default=\"铂银色\"}，极长且呈波浪状散落，在火光中微微发亮。她的面部故意模糊处理，没有清晰的五官。巨龙占据了大部分背景，两只巨大的翅膀向外伸展，构成了画面的框架；它拥有浓密的炭黑色鳞片、许多锋利的角和面部尖刺、发光的琥珀色眼睛，巨大的弯曲脖颈在女性上方拱起。背景设定在一座破败的中世纪城市，两侧是烧焦的石塔和坍塌的建筑，地面上有活跃的火焰、漂浮的余烬、烟雾，以及带有风暴云层的炽热橙色落日天空。低角度英雄式构图，人类与野兽之间的史诗级比例对比，超精细纹理，超写实奇幻风格，戏剧性的轮廓光，火橙色与黑色的配色方案，忧郁的氛围，女王与巨龙聚焦清晰，大片海报美学。在右上角附近添加简洁的白色无衬线字体 {argument name=\"watermark text\" default=\"Pollo.ai\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "烈日下的龙之女王：一张超写实的奇幻海报图像，描绘了一位银发女王站在废墟城市中巨型黑龙面前的场景，非常适合电影级书籍封面、宣传艺术或史诗级角色主视觉图。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "fantasy"
+      ],
+      "lightingCamera": [
+        "rim light"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, fantasy]。\n\nLighting and camera:\n[参考光线镜头: rim light]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14619",
+      "14486",
+      "14414",
+      "14568",
+      "15620",
+      "15706"
+    ]
+  }
+}

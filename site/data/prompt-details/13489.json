@@ -1,0 +1,36 @@
+{
+  "id": "13489",
+  "prompt": "用这种风格帮我生成一套{argument name=\"主题\" default=\"UI设计系统\"}，包含{argument name=\"组件列表\" default=\"网页、移动端、卡片、控件、按钮 以及其它\"} \n\n把这套视觉风格作为参考生成网页",
+  "translatedPrompt": "使用此风格帮助我生成一套 {argument name=\"theme\" default=\"UI 设计系统\"}，包括 {argument name=\"components\" default=\"Web、移动端、卡片、控件、按钮及其他组件\"}。请以该视觉风格为参考，生成一个网页。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "UI 设计系统提示词：专为 GPT Image 2 设计的提示词，旨在根据特定的视觉风格参考，创建包含 Web 和移动端组件的综合性 UI 设计系统。",
+      "subject": "界面",
+      "scene": "信息图/图解",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "硬件拆解、产品卖点、技术说明、科普图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13983",
+      "14715",
+      "15166",
+      "14064",
+      "14000",
+      "15110"
+    ]
+  }
+}

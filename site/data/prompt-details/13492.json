@@ -1,0 +1,46 @@
+{
+  "id": "13492",
+  "prompt": "A realistic over-the-shoulder shot of a person with dark hair wearing a grey shirt, sitting at a desk and looking at a large computer monitor while holding a black smartphone. On the desk in the bottom left corner is a {argument name=\"drink on desk\" default=\"white mug filled with black coffee\"}. The monitor displays a split-screen social media interface. The left column has the header \"{argument name=\"left column header\" default=\"English Post\"}\" with blurred-out feed items below it. The right column is in sharp focus with the header \"{argument name=\"right column header\" default=\"中文文案\"}\". Below this right header are 2 distinct social media posts: the top post features an avatar, pseudo-Chinese text, {argument name=\"first post image\" default=\"a landscape photo of a mountain lake\"}, and a heart icon with \"2.5K\"; the bottom post features an avatar, pseudo-Chinese text, {argument name=\"second post image\" default=\"a photo of dumplings on a plate\"}, and a heart icon with \"1.8K\". The person is holding the smartphone in their left hand and tapping the screen with their right index finger. The phone screen displays the exact same mountain lake social media post seen on the monitor. The image has a shallow depth of field, blurring the left side of the screen to emphasize the right column and the phone.",
+  "translatedPrompt": "一张逼真的肩后视角照片，画面中是一位留着深色头发、身穿灰色衬衫的人，正坐在桌前看着一台大型电脑显示器，手中拿着一部黑色智能手机。桌子左下角放着一个 {argument name=\"drink on desk\" default=\"装满黑咖啡的白色马克杯\"}。显示器上呈现出分屏式的社交媒体界面。左侧栏标题为 \"{argument name=\"left column header\" default=\"英文帖\"}\"，下方是模糊的信息流内容。右侧栏处于清晰对焦状态，标题为 \"{argument name=\"right column header\" default=\"中文文案\"}\"。右侧标题下方有 2 条不同的社交媒体帖子：上方帖子包含头像、伪中文文本、{argument name=\"first post image\" default=\"一张山间湖泊的风景照\"} 以及显示 \"2.5K\" 的心形图标；下方帖子包含头像、伪中文文本、{argument name=\"second post image\" default=\"一张盘中饺子的照片\"} 以及显示 \"1.8K\" 的心形图标。此人左手拿着智能手机，右手食指正在点击屏幕。手机屏幕上显示的内容与显示器上看到的山间湖泊社交媒体帖子完全一致。图像具有浅景深效果，屏幕左侧经过模糊处理，以突出右侧栏和手机画面。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "跨设备社交媒体信息流：生成一张从肩后视角拍摄的画面，展示一个人在桌面显示器和智能手机上浏览双语社交媒体信息流的情景。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "B2B 产品概念图、后台系统、数据看板",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15391",
+      "15389",
+      "14015",
+      "14322",
+      "15423",
+      "14446"
+    ]
+  }
+}

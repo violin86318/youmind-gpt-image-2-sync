@@ -1,0 +1,48 @@
+{
+  "id": "14398",
+  "prompt": "A realistic editorial product photo of a glossy magazine lying diagonally on a warm medium-brown wooden table, viewed from above at a slight angle. The magazine dominates the frame and has a deep cobalt-blue cover with a large elegant serif masthead reading {argument name=\"magazine title\" default=\"Convergence\"} across the top. On the left side of the cover, a huge stacked white sans-serif headline reads {argument name=\"cover headline\" default=\"CHATGPT IMAGES 2.0\"}. The main cover image is a highly detailed green chameleon in close-up profile facing left, wearing a tan cowboy hat with a brown leather band and metal stud, creating a surreal but polished magazine-cover concept. Add small editorial cover lines in white text beneath and along the bottom, arranged in neat columns like a technology or design magazine, with tiny issue details in the upper right including a price and date. The magazine should look physically printed, with visible page thickness, subtle edge wear, and realistic reflections on the glossy cover. Surrounding environment: soft leafy shadows fall across the tabletop from the upper left, a clear faceted drinking glass is partially visible on the right edge, an orange-red plate peeks in from the top right corner, a pale yellow sticky note in the lower right reads {argument name=\"sticky note text\" default=\"SOTA\"} in handwritten uppercase letters, and a hint of a green houseplant appears in the upper left. Use warm natural afternoon sunlight, cinematic shadows, crisp focus, and photorealistic materials for a premium lifestyle desk scene.",
+  "translatedPrompt": "一张照片级逼真的编辑生活方式场景，采用略微抬高的四分之三俯视角度拍摄，展示了一本光面杂志斜放在温暖的中棕色木质桌面上。杂志是清晰的视觉焦点，占据了画面的大部分空间。封面背景为深钴蓝色至海军蓝，主体是一只鲜绿色变色龙的大幅特写肖像，它面向左侧，微距细节清晰可见，鳞片纹理分明，眼睛明亮，戴着一顶带有棕色皮带和小银铆钉的棕褐色麂皮牛仔帽。杂志顶部的刊名以优雅的白色大号衬线字体显示为 {argument name=\"magazine title\" default=\"Convergence\"}。在封面左侧，醒目的堆叠式白色无衬线标题显示为 {argument name=\"headline text\" default=\"CHATGPT IMAGES 2.0\"}。包含 7 个较小的封面文本块：标题下方左侧一列有 3 个简短的专题简介，底部边缘有 4 个紧凑的预告简介。在右上角添加细小的真实期刊细节，包括价格、日期和简短的代码行，均采用极小的白色字体。场景应呈现出自然午后阳光下随意摆放的桌面快照感，柔和的叶片窗影投射在木头和杂志的部分区域。在杂志周围，包含 4 个桌面元素：左上角伸入的盆栽植物局部、右上角边缘的橙色盘子或碗局部、右侧边缘被截断的多面玻璃杯，以及右下角一张写有手写文字 {argument name=\"sticky note text\" default=\"SOTA\"} 的淡黄色便签。强调真实的印刷质感、微妙的封面反光、杂志书脊和底部的纸张厚度、温暖的阴影，以及精致的现代产品摄影风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "牛仔变色龙杂志封面：此提示词可生成一张逼真的现代杂志桌面照片，封面上是一只戴着牛仔帽的变色龙，适用于编辑样机、AI 主题封面艺术或生活方式产品图像。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "editorial",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, editorial, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14869",
+      "15410",
+      "15778",
+      "14598",
+      "15013",
+      "15803"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "14517",
+  "prompt": "A whimsical minimalist illustration of a {argument name=\"cat breed\" default=\"brown tabby kitten\"} standing upright in the exact center of a very tall vertical canvas, with an absurdly elongated, noodle-like body stretched from near the top to near the bottom of the image. The cat has a small round face with large glossy eyes, a tiny open smiling mouth, upright ears, and both front paws raised straight overhead in a cheering pose, showing 2 visible pink paw pads. Its fur is soft and detailed, with a white muzzle, chest, belly, and inner legs, and brown-and-black tabby stripes along the sides, head, arms, and tail. The body is extremely thin and vertically extended, creating a comical exaggerated proportion, while the hind paws remain tiny and close together at the bottom. Add 1 curved striped tail extending to the lower right side. Above the head, place the playful hand-drawn text \"{argument name=\"caption text\" default=\"nyoooon~\"}\" in a rounded dark brown font, arched like a semicircle, with 6 short motion lines around the raised paws and text to emphasize stretching. Use a clean off-white or warm light beige background with no scenery, only a faint soft oval shadow beneath the feet. Cute, polished digital illustration style, centered composition, high detail in fur, humorous Japanese sticker or social-media mascot vibe, lots of negative space, extra-tall aspect ratio.",
+  "translatedPrompt": "一幅极简主义的奇趣插画，画面正中央站立着一只 {argument name=\"cat breed\" default=\"棕色虎斑幼猫\"}，它位于一张非常高的垂直画布中心，身体被夸张地拉长，像面条一样从画布顶部延伸至底部。猫咪有着圆圆的小脸、大而有光泽的眼睛、微张的笑脸、竖起的耳朵，两只前爪高高举过头顶，呈现出欢呼的姿势，露出 2 个粉色的肉垫。它的毛发柔软且细节丰富，口鼻部、胸部、腹部和腿部内侧为白色，身体侧面、头部、手臂和尾巴带有棕黑相间的虎斑条纹。身体极度纤细且垂直延伸，形成了滑稽夸张的比例，而两只后爪则小巧地并拢在底部。在右下方添加 1 条弯曲的条纹尾巴。在头顶上方，放置一段俏皮的手写文字 \"{argument name=\"caption text\" default=\"nyoooon~\"}\"，字体采用圆润的深棕色，呈半圆形拱起，并在举起的爪子和文字周围添加 6 条短促的动态线，以强调伸展感。背景使用干净的米白色或暖浅米色，无任何场景，仅在脚下有一道淡淡的椭圆形阴影。可爱且精致的数字插画风格，居中构图，毛发细节丰富，带有日式贴纸或社交媒体吉祥物的幽默感，留白充足，采用超高纵横比。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "长条伸展虎斑猫：一款可爱的超现实猫咪插画，专为表情包、贴纸或社交媒体帖子设计，画面中是一只身体被拉得极长、站立着的虎斑猫，背景简洁且构图高挑。",
+      "subject": "文字符号",
+      "scene": "图标/贴纸",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "minimalist",
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "图标包、贴纸、表情、产品功能图标",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 图标/贴纸 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: minimalist, hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15059",
+      "15029",
+      "14442",
+      "13906",
+      "15284",
+      "14664"
+    ]
+  }
+}

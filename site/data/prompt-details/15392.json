@@ -1,0 +1,52 @@
+{
+  "id": "15392",
+  "prompt": "A cinematic French dystopian science-fantasy book cover in vertical poster format, dark and epic, with a cold desaturated palette of charcoal blue, steel gray, ash white, and muted silver. In the foreground, show 1 solitary young traveler seen from behind, standing on a snow-dusted rocky cliff at lower left, small against the environment, wearing a weathered winter jacket, rugged pants, boots, and a large worn backpack, with messy light brown hair visible, posture still and contemplative as he looks out over a vast ruined city. In the middle distance, depict 1 immense circular or sprawling fortified city in a frozen valley, dense with countless dark gothic-industrial buildings and spires, surrounded by icy water channels and connected by several narrow bridges. Rising from the exact center of the city, place 1 colossal needle-like black tower that dominates the skyline, dramatically taller than everything else. Surround the city with jagged snow-covered mountain ranges on both sides and in the far distance. Above, create a stormy sky filled with heavy textured clouds, faint snowfall or drifting ice particles, and a pale backlit glow breaking through behind the central tower, giving a mythic apocalyptic atmosphere. Composition should emphasize scale, isolation, and awe, with the traveler occupying only a small portion of the image and the city and tower centered. Add distressed serif typography integrated as a cover design: at the very top in small uppercase French text, \"DANS L’UNIVERS DE APRÈS L’EFFONDREMENT\"; below it, a huge title in cracked weathered off-white serif capitals, \"{argument name=\"title text\" default=\"ELON\"}\", spanning nearly the full width; beneath the title place 1 small compass-star ornament centered with thin horizontal lines. At the bottom center, add the author name in refined serif capitals, \"{argument name=\"author name\" default=\"MARTINOLLI\"}\". Make the overall image look like premium dark fantasy / post-apocalyptic cover art, ultra-detailed, atmospheric perspective, realistic textures, dramatic lighting, moody, monumental, polished publishing design.",
+  "translatedPrompt": "一张电影质感的法文反乌托邦科学奇幻书籍封面，采用竖版海报格式，风格黑暗且史诗，色调为冷峻的低饱和度配色，包含炭蓝色、钢灰色、灰白色和柔和的银色。前景中，展示 1 位背对着镜头的孤独年轻旅人，他站在左下角布满积雪的岩石悬崖上，在宏大的环境中显得十分渺小，身穿破旧的冬装夹克、粗犷的长裤、靴子，背着一个硕大的旧背包，露出凌乱的浅棕色头发，姿态静止且沉思，凝视着远方广阔的废墟城市。中景处，描绘 1 座位于冰封山谷中宏大且蔓延的堡垒城市，密布着无数黑暗的哥特工业建筑和尖塔，周围环绕着冰冷的水道，并由几座狭窄的桥梁连接。在城市正中央，矗立着 1 座高耸入云的巨型针状黑色塔楼，其高度远超周围一切，主宰着整个天际线。城市两侧及远方环绕着崎岖的雪山。上方，营造出充满厚重质感云层的风暴天空，伴有微弱的降雪或漂浮的冰晶，中央塔楼后方透出苍白的背光，营造出一种神话般的末日氛围。构图应强调比例、孤独感和敬畏感，旅人仅占据画面的一小部分，城市与塔楼居中。添加融入封面设计的做旧衬线字体：最上方为小号大写法语文本“DANS L’UNIVERS DE APRÈS L’EFFONDREMENT”；下方为巨大的标题，采用龟裂、风化的米白色衬线大写字母“{argument name=\"title text\" default=\"ELON\"}”，几乎横跨整个宽度；标题下方放置 1 个居中的小型指南针星形装饰，并配有细水平线。在底部中心，添加精致的衬线大写字母作者名“{argument name=\"author name\" default=\"MARTINOLLI\"}”。整体图像应呈现出顶级黑暗奇幻/后末日封面艺术的质感，细节极其丰富，具有大气透视感、逼真的纹理、戏剧性的光影、忧郁的氛围以及宏伟、精致的出版级设计。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "史诗级法文反乌托邦书籍封面：此提示词可生成一张黑暗电影质感的法文小说封面，画面呈现一位孤独的旅人俯瞰着一座被巨型中央塔楼笼罩的冰封城市。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "fantasy",
+        "premium"
+      ],
+      "lightingCamera": [
+        "dramatic lighting"
+      ],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, cinematic, fantasy, premium]。\n\nLighting and camera:\n[参考光线镜头: dramatic lighting]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15082",
+      "15609",
+      "15302",
+      "15096",
+      "15458",
+      "14195"
+    ]
+  }
+}

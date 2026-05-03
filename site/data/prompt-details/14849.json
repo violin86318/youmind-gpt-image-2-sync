@@ -1,0 +1,48 @@
+{
+  "id": "14849",
+  "prompt": "Luxury futuristic cosmetic product advertisement poster on a deep midnight-blue background, centered composition, featuring a glowing white spray bottle standing upright on a three-tier transparent crystal pedestal with water droplets and glossy reflections. The bottle is tall, cylindrical, minimalist, and softly backlit with a radiant halo, with visible condensation beads across the surface and an exposed pump top. Behind it, a symmetrical luminous lotus made of exactly 10 translucent petals fans out like a digital aura, each petal shimmering with iridescent blue-violet highlights, delicate circuit-like filaments, and tiny sparkling light nodes, blending botanical elegance with data-network aesthetics. The pedestal looks like stacked glass or ice blocks, wet and reflective, sitting on a slick sparkling surface with scattered blue light particles. At the top, elegant serif typography in large glowing white letters reads {argument name=\"headline text\" default=\"THE PURITY PROTOCOL\"}, with a thin horizontal divider line and a small star-like flare at the center beneath it. Below that, smaller spaced sans-serif text reads {argument name=\"subheadline text\" default=\"DATA STREAM PURIFIER // 75ML\"}. On the bottle, the main brand name reads {argument name=\"brand name\" default=\"SECURE-IP\"}, and the product name reads {argument name=\"product label\" default=\"IP ADDRESS CLEANSER\"}, followed by smaller copy: \"for risk-free connections\" and \"pour des connexions sans risque\", and at the bottom \"75 mL / 2.5 fl. oz. - Data Stream Purifier\". Make the overall style ultra-polished, premium, surreal, tech-luxury beauty campaign, with cinematic glow, crisp legible text, high detail, cool blue-white palette, ethereal sparkles, and a sleek balance between skincare advertising and cyber-security metaphor.",
+  "translatedPrompt": "深邃午夜蓝背景下的奢华未来感化妆品广告海报，采用居中构图，展示了一款发光的白色喷雾瓶，直立在三层透明水晶底座上，伴有水滴和光泽反射。瓶身修长、圆柱形、极简主义，带有柔和的背光光晕，表面可见凝结的水珠，泵头清晰可见。瓶身背后，一朵由 10 片半透明花瓣组成的对称发光莲花像数字光环般展开，每片花瓣闪烁着虹彩蓝紫色的高光，带有精致的电路状细丝和微小的闪烁光点，将植物的优雅与数据网络美学融为一体。底座看起来像堆叠的玻璃或冰块，湿润且具有反射感，放置在散落着蓝色光粒的光滑闪烁表面上。顶部采用优雅的衬线字体，以醒目的白色发光大字显示 {argument name=\"headline text\" default=\"THE PURITY PROTOCOL\"}，下方有一条细水平分割线，中心处有一个类似星形的光斑。下方较小的无衬线间距文本显示 {argument name=\"subheadline text\" default=\"DATA STREAM PURIFIER // 75ML\"}。瓶身上，主品牌名称为 {argument name=\"brand name\" default=\"SECURE-IP\"}，产品名称为 {argument name=\"product label\" default=\"IP ADDRESS CLEANSER\"}，随后是较小的文案：“for risk-free connections” 和 “pour des connexions sans risque”，底部标注 “75 mL / 2.5 fl. oz. - Data Stream Purifier”。整体风格追求极致精致、高端、超现实、科技奢华美妆大片质感，具备电影级光效、清晰易读的文字、高细节度、冷蓝白色调、空灵的闪光，并在护肤品广告与网络安全隐喻之间达到完美的平衡。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "未来科技美妆产品海报：此提示词可生成一张高端科幻美妆风格的广告海报，适用于网络主题喷雾瓶产品，是品牌样机、营销视觉图或概念广告的理想选择。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "horizontal"
+      ],
+      "style": [
+        "cinematic",
+        "minimalist",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；要求可读；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, horizontal]。\n\nVisual style:\n[参考风格: cinematic, minimalist, luxury, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；要求可读；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14887",
+      "15773",
+      "15665",
+      "15669",
+      "14844",
+      "15462"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "13689",
+  "prompt": "{argument name=\"テキスト\" default=\"般若心経\"}が書かれた{argument name=\"物体\" default=\"バナナ\"}",
+  "translatedPrompt": "一张 {argument name=\"art style\" default=\"纹理纸上的水彩插画\"}，主角是一位 {argument name=\"character species\" default=\"白色毛茸茸的猫娘\"}，留着短款 {argument name=\"hair color\" default=\"浅绿色\"} 头发，长着毛茸茸的猫耳和一双绿色的大眼睛。她穿着一件超大号的绿色毛衣，表情 {argument name=\"expression\" default=\"困惑且苦恼，额头挂着一滴汗\"}。她手中拿着一根黄色的香蕉，香蕉上完全覆盖着 {argument name=\"prop text\" default=\"类似《心经》的密集黑色汉字\"}。在她的左上方漂浮着一个深色的涂鸦式气泡，里面包含着纠缠的黑色线条和 3 个问号。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "拿着写满文字香蕉的困惑猫娘：生成一张水彩风格的拟人化角色插画，角色手中拿着一根布满密集文字的香蕉，适用于超现实或幽默的动漫艺术创作。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13487",
+      "13721",
+      "13827",
+      "14334",
+      "14384",
+      "14971"
+    ]
+  }
+}

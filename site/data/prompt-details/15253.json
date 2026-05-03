@@ -1,0 +1,49 @@
+{
+  "id": "15253",
+  "prompt": "A cinematic cyberpunk portrait of a futuristic street warrior standing in the center of a narrow neon-lit alley at night in a rain-soaked Asian megacity. Medium close-up framing from the chest up, subject facing forward, with the face partially obscured by a large centered rectangular censor block in muted teal-green. The character has messy glowing {argument name=\"hair color\" default=\"bright cyan\"} hair, a visible cybernetic right eye area with metallic facial implants, cables and mechanical details around the neck and jaw, and a rugged high-tech armored jacket with straps, buckles, tubes, segmented plating, and luminous cyan and orange light accents. Use a dramatic teal-and-orange color palette, glossy wet pavement reflections, soft rain in the air, dense atmospheric haze, and heavy bokeh from neon signage in the background. The alley should contain 8 visible glowing sign clusters, mostly vertical and horizontal signs with Chinese characters, plus futuristic storefront lights and industrial wall details. Make the mood gritty, stylish, dystopian, and ultra-detailed, with sharp focus on the subject and a blurred background, as if from a high-end sci-fi film still.",
+  "translatedPrompt": "一张极具电影质感的赛博朋克肖像，描绘了一位未来主义街头战士，站在雨水浸润的亚洲大都市夜晚，一条狭窄且霓虹闪烁的巷道中央。采用胸部以上的半身特写构图，主体面向前方，面部被一个位于中心的大型矩形遮挡块部分遮盖，呈现柔和的青绿色。角色拥有凌乱且发光的 {argument name=\"hair color\" default=\"明亮青色\"} 头发，右眼区域可见明显的赛博格特征及金属面部植入物，颈部和下颌周围布满线缆与机械细节，身穿粗犷的高科技装甲夹克，配有绑带、扣环、管道、分段式护板以及青色和橙色的发光装饰。采用戏剧性的青橙色调，地面呈现湿润的倒影，空气中飘着细雨，背景中弥漫着浓厚的雾气，霓虹招牌产生强烈的背景虚化效果。巷道中应包含 8 组清晰可见的发光招牌，多为带有中文字符的竖向和横向标识，辅以未来感十足的店面灯光和工业风墙面细节。整体氛围粗粝、时尚、反乌托邦且极具细节感，主体焦点清晰，背景虚化，呈现出高端科幻电影剧照的质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "赛博朋克霓虹巷道肖像：此提示词可生成极具电影质感的赛博朋克角色肖像，适用于科幻关键视觉图、社交媒体帖文或未来主义概念图像。",
+      "subject": "空间",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "close-up",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "cinematic",
+        "sci-fi"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, close-up, vertical, horizontal]。\n\nVisual style:\n[参考风格: cinematic, sci-fi]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15706",
+      "15718",
+      "15672",
+      "14865",
+      "15250",
+      "14486"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "15328",
+  "prompt": "A soft, dreamy anime illustration of a cute young woman doing ASMR in a cozy bedroom at night, seated close to the viewer with her knees pulled up and a black 3Dio-style binaural microphone centered in front of her. She has {argument name=\"hair color\" default=\"deep violet\"} hair in a loose messy updo with wispy bangs framing her face, large sparkling {argument name=\"eye color\" default=\"blue\"} eyes, a gentle blush, and a sweet open-mouth smile. Her head is tilted slightly toward the viewer in a warm, affectionate pose. She wears a delicate white lace camisole with thin straps and an oversized fluffy knit cardigan in {argument name=\"cardigan color\" default=\"soft pink-lavender\"} draped off her shoulders, creating a tender, intimate late-night healing atmosphere. Both hands lightly touch the white silicone ears of the microphone as if about to give an ear massage. The room is softly lit with pink and amber ambient lighting, heavy curtains in the background, a bed or sofa with plush cushions, warm fairy-light bokeh, and a small plant on the right side. Add glowing handwritten Japanese neon text integrated into the composition: on the left, 4 text elements reading \"とろける\", \"耳\", \"マッサージ\", and \"ASMR\" with 2 small heart symbols; on the right, vertical text reading \"いっぱい癒してあげるね…♡\". Use a polished modern anime style, highly detailed face and hair, glossy eyes, smooth luminous skin, soft shading, pastel highlights, shallow depth of field, romantic cozy streamer-thumbnail composition, and a soothing feminine color palette dominated by pink, lavender, cream, and warm gold.",
+  "translatedPrompt": "一张柔和梦幻的动漫插画，描绘了一位可爱的年轻女性在夜晚温馨的卧室里进行 ASMR 直播。她靠近镜头坐着，双膝蜷起，画面中央放置着一个黑色 3Dio 风格的双耳麦克风。她留着 {argument name=\"hair color\" default=\"深紫色\"} 的头发，扎成凌乱随意的发髻，细碎的刘海修饰着脸庞，拥有一双闪烁着光芒的 {argument name=\"eye color\" default=\"蓝色\"} 大眼睛，面带温柔的红晕和甜美的微笑。她的头部微微向镜头倾斜，姿态亲昵温暖。她身穿一件精致的白色蕾丝吊带背心，肩上披着一件 {argument name=\"cardigan color\" default=\"柔粉紫色\"} 的超大号蓬松针织开衫，营造出一种温柔、私密的深夜治愈氛围。她的双手轻轻触碰着麦克风的白色硅胶耳廓，仿佛正准备进行耳部按摩。房间里点缀着柔和的粉色和琥珀色环境光，背景是厚重的窗帘，配有带毛绒靠垫的床或沙发、温暖的仙女灯光斑，右侧摆放着一株小植物。画面中融入了发光的日文手写霓虹文字：左侧有 4 个文字元素，分别为“とろける”、“耳”、“マッサージ”和“ASMR”，并带有 2 个小爱心符号；右侧有竖排文字“いっぱい癒してあげるね…♡”。采用精致的现代动漫风格，面部和发丝细节丰富，眼睛明亮有神，皮肤光滑细腻，阴影柔和，带有柔和的粉彩色高光，浅景深效果，浪漫温馨的直播缩略图构图，以及以粉色、薰衣草色、奶油色和暖金色为主的治愈系女性化色调。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "温馨动漫风 ASMR 耳部按摩少女：此提示词可生成一张柔和浪漫的动漫缩略图风格插画，画面中是一位佩戴双耳麦克风的少女，配有发光的日文 ASMR 文字，非常适合直播、视频封面或社交媒体宣传视觉图。",
+      "subject": "产品",
+      "scene": "空间/场景",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "3d"
+      ],
+      "lightingCamera": [
+        "neon",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "空间概念、建筑场景、游戏场景、产品场景盒子",
+      "whySelected": "得分 67；构图: centered, vertical；风格: anime, 3d；包含文字或排版元素"
+    },
+    "copyTemplate": "Create a 空间/场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: anime, 3d]。\n\nLighting and camera:\n[参考光线镜头: neon, shallow depth, depth of field]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14686",
+      "14503",
+      "14255",
+      "13690",
+      "14256",
+      "13614"
+    ]
+  }
+}

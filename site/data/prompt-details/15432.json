@@ -1,0 +1,44 @@
+{
+  "id": "15432",
+  "prompt": "A vast cinematic sci-fi megacity floating above dense glowing clouds at sunset, viewed from a high aerial perspective. The scene shows an expansive futuristic skyline with dozens of ultra-tall elegant skyscrapers and needle-like towers rising from hovering platforms, connected by distant structures and suspended districts. In the center-right, a large floating urban hub features multiple illuminated glass domes and layered circular bases, surrounded by several monumental towers, including one especially tall central spire with a wide ring-like observation structure near the top. Warm golden sunlight pours in from the left horizon, creating a dramatic orange, peach, and lavender sky with thick clouds and atmospheric haze, while the lower half of the image is filled with soft pink and blue cloud banks reflecting the sunset. Several flying vehicles are visible: 1 large dark metallic spacecraft in the lower left foreground with bright blue engine trails, 1 circular landing-pad-like platform craft in the lower right foreground, 2 medium ships crossing the midground with blue light trails, and multiple tiny distant air vehicles scattered across the skyline. Add intricate city lighting, reflective metallic surfaces, immense scale, serene futuristic grandeur, and highly detailed concept art styling. Include the white brand text {argument name=\"logo text\" default=\"Pollo.ai\"} in the top-right corner as a clean overlay.",
+  "translatedPrompt": "日落时分，一座宏伟的电影级科幻巨型城市漂浮在浓厚且发光的云层之上，采用高空俯瞰视角。画面展现了广阔的未来城市天际线，数十座优雅的超高层摩天大楼和针状塔楼从悬浮平台上拔地而起，由远处的结构和悬浮区域相互连接。在画面中右侧，一个巨大的浮空城市枢纽拥有多个发光的玻璃穹顶和分层圆形基座，周围环绕着数座纪念碑式的塔楼，其中包括一座特别高耸的中央尖塔，顶部附近设有一个宽大的环形观景结构。温暖的金色阳光从左侧地平线倾泻而下，营造出橙色、桃色和淡紫色的戏剧性天空，伴有浓厚的云层和大气雾霾，画面下半部分充满了反射着夕阳余晖的柔和粉色和蓝色云团。可见多架飞行载具：左下角前景处有一架大型深色金属航天器，带有明亮的蓝色引擎尾迹；右下角前景处有一架圆形着陆平台式飞行器；中景处有 2 架中型飞船穿过，留下了蓝色光迹；天际线各处还散布着多个微小的远距离飞行器。增加精致的城市灯光、反光的金属表面、宏大的比例、宁静的未来主义宏伟感以及高度精细的概念艺术风格。在右上角添加白色品牌文本 {argument name=\"logo text\" default=\"Pollo.ai\"} 作为清晰的覆盖层。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日落时分的浮空未来城市：一个电影级的科幻城市景观提示词，用于生成云端之上宏伟的浮空大都市，包含日落光影、高耸的建筑群和流线型航天器。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "layered"
+      ],
+      "style": [
+        "cinematic",
+        "sci-fi"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered]。\n\nVisual style:\n[参考风格: cinematic, sci-fi]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15803",
+      "14439",
+      "15782",
+      "14195",
+      "15609",
+      "14592"
+    ]
+  }
+}

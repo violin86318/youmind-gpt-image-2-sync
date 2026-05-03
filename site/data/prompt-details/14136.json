@@ -1,0 +1,44 @@
+{
+  "id": "14136",
+  "prompt": "该画面为中近景，采用平视镜头，聚焦于一位{argument name=\"主体\" default=\"年轻女性\"}。她以七分身镜头呈现，身体坐姿略带倾斜，臀部向后撅起，双腿自然交叠，左腿在前，右腿在后，膝盖微屈。她将上半身向右后方扭转，头部则转向镜头方向，形成一个经典的“回眸”姿态，目光直视镜头，眼神清澈而略带一丝俏皮。她的发型是{argument name=\"发型\" default=\"蓬松的棕色齐肩短发\"}，刘海自然垂落，发尾微卷，妆容清淡自然，仅在眼部有轻微眼线勾勒，唇色为自然裸粉。画面整体采用自然日光滤镜，光线从画面左上方斜射入，形成柔和的逆光轮廓，面部和身体右侧被温暖的金色光线照亮，左侧则形成自然的阴影过渡，增强了立体感。灯光效果是明亮的自然光，带有轻微的镜头眩光，营造出午后阳光的氛围。拍摄角度为平视，构图上，人物主体位于画面中偏右位置，背景中的斑马线与道路线条形成自然的引导线，将视线引向人物。背景为城市街道，包含道路、斑马线、绿化带和远处的车辆，背景被适度虚化，但依然可辨识出树木、护栏和停放的电动车等元素，构图上利用了三分法，人物位于右侧三分之一处，增强了画面的平衡感。主体穿着一件{argument name=\"服装\" default=\"军绿色迷彩图案的连帽卫衣\"}，下身搭配黑色短裤，脚穿白色高帮运动鞋配白色中筒袜。背包为黑色，带有橙黄色装饰条纹和一个橙色毛绒挂件，材质为帆布和皮革拼接。整体风格为街头休闲风，肢体语言放松自然，表情略带好奇与俏皮，整体呈现出一种随性、青春、充满活力的都市少女形象。",
+  "translatedPrompt": "This scene is a medium-close shot using a eye-level lens, focusing on a {argument name=\"subject\" default=\"young woman\"}. She is shown in a three-quarter shot, sitting with a slight tilt, hips pushed back, legs naturally crossed with the left leg in front and right behind, knees slightly bent. She turns her upper body toward the back right, with her head facing the camera in a classic 'looking back' pose, eyes direct and clear with a hint of playfulness. Her hairstyle is {argument name=\"hairstyle\" default=\"voluminous brown shoulder-length short hair\"} with natural bangs and slightly curled ends. Her makeup is light and natural, with slight eyeliner and natural nude-pink lips. The overall image uses a natural daylight filter, with light hitting from the upper left to create a soft back-lit silhouette. The face and right side of the body are illuminated by warm golden light, while the left side has a natural shadow transition to enhance three-dimensionality. The lighting effect is bright natural light with slight lens flare, creating an afternoon sun atmosphere. From an eye-level angle, the composition places the subject in the middle-right of the frame, with crosswalks and road lines in the background serving as natural leading lines toward the figure. The background is a city street including roads, crosswalks, green belts, and distant vehicles; it is moderately blurred but elements like trees, guardrails, and parked scooters remain recognizable. The composition uses the rule of thirds, with the figure on the right third to balance the frame. The subject wears a {argument name=\"clothing\" default=\"army green camo hooded sweatshirt\"}, paired with black shorts and white high-top sneakers with white mid-calf socks. The backpack is black with orange-yellow decorative stripes and an orange plush pendant, made of canvas and leather. The overall style is street casual, with relaxed body language and a curious, playful expression, presenting an image of a spontaneous, youthful, and vibrant urban girl.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Urban Street Style Character Study：A highly detailed complex prompt testing spatial accuracy and descriptive adherence, featuring a young woman in a 'looking back' pose within an urban setting.",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "rule of thirds"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "natural light",
+        "lens",
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: rule of thirds]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: natural light, lens, camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13595",
+      "15269",
+      "15154",
+      "13616",
+      "13949",
+      "14016"
+    ]
+  }
+}

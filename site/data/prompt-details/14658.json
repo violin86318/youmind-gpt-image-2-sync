@@ -1,0 +1,40 @@
+{
+  "id": "14658",
+  "prompt": "A cinematic historical scene at dusk on a freezing river crossing in winter, showing a crowded wooden rowboat packed with exactly 11 colonial-era soldiers and boatmen pushing through dark icy water filled with floating chunks of ice. In the center stands 1 commanding figure, upright and resolute, wearing a dark navy or black heavy cloak draped over a light tan military uniform and a black tricorne hat, evoking an 18th-century general. Around him are 10 other men seated or crouched low in the boat, dressed in weathered Revolutionary War-era clothing: dark coats, wool caps, cloaks, scarves, leather straps, and tricorne hats, with several gripping long wooden oars and one visible musket angled upward behind the central figure. The mood is grim, cold, and heroic, with wet clothing, snow dusting, pale breathy atmosphere, and a stormy blue-gray sky. The river is wide and partially frozen, with a dark tree-lined shoreline in the distance and a few tiny warm lights glowing on the far bank. Composition is frontal and tightly framed from just above the bow of the boat, making the viewer feel inside the freezing crossing. Use low-key lighting, muted desaturated colors, deep shadows, damp textures, realism, dramatic historical painting energy blended with cinematic photorealism, ultra-detailed fabric, wood grain, ice, and mist.",
+  "translatedPrompt": "一张电影感历史场景图，描绘了黄昏时分在冰冷的河流上进行冬季横渡的画面。画面中一艘拥挤的木制划艇上载着整整 11 名殖民地时代的士兵和船夫，正穿行在布满浮冰的深色冰水中。画面中央站着一位指挥官，身姿挺拔且坚定，深蓝色或黑色的厚重斗篷披在浅棕色军装外，头戴黑色三角帽，展现出 18 世纪将军的风范。周围 10 名男子在船中坐着或蹲伏，身着饱经风霜的美国独立战争时期服装：深色外套、羊毛帽、斗篷、围巾、皮带和三角帽；几人紧握长木桨，中央人物身后可见一支斜向上方的火枪。氛围阴郁、寒冷且英勇，衣物湿润，带有积雪，空气中弥漫着苍白的哈气，天空呈现风暴般的蓝灰色。河流宽阔且部分结冰，远处是深色的树木繁茂的海岸线，对岸闪烁着几点微弱的暖光。构图采用正面视角，从船头上方紧凑取景，让观者仿佛置身于这冰冷的横渡之中。采用低调照明，色彩柔和且去饱和，深邃阴影，潮湿质感，追求写实主义，融合了戏剧性历史油画的张力与电影级写实感，展现超细节的织物、木纹、冰块和雾气。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "华盛顿横渡风格冬季船景：此提示词可生成一张具有 18 世纪军事画作风格的黑暗电影感冬季河流横渡图像，非常适合编辑艺术或戏剧性的历史主题视觉效果。",
+      "subject": "服饰",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "cinematic"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: cinematic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15673",
+      "13627",
+      "13745",
+      "13846",
+      "14004",
+      "14038"
+    ]
+  }
+}

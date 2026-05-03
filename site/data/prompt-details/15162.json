@@ -1,0 +1,35 @@
+{
+  "id": "15162",
+  "prompt": "{argument name=\"性別\" default=\"日本人の若い男女\"}を日常生活の中で撮影した圧倒的にエモーショナルな一瞬を収めたウェディングフォト。{argument name=\"枚数\" default=\"12枚\"}をコラージュ。男性は{argument name=\"服装\" default=\"黒いタキシード\"}、女性は白いヴィンテージ風のウェディングドレス。思い出の中の1枚のような、少し色あせたシネマティックな質感。映画のワンシーンで使えそうなカット。顔が入っていないカットなども織り交ぜて。手振れ感や、適当に撮影した雑な構図を再現。",
+  "translatedPrompt": "一张捕捉 {argument name=\"subjects\" default=\"一对年轻日本男女\"} 日常生活中极具感染力瞬间的婚礼照片。由 {argument name=\"number of images\" default=\"12 张图片\"} 组成的拼贴画。{argument name=\"clothing\" default=\"男子身着黑色燕尾服，女子身着白色复古风婚纱\"}。电影级质感，带有如同记忆中照片般的轻微褪色感。画面看起来像是电影中的场景。包含未露出面部的镜头剪辑。还原相机抖动感以及粗犷、随意的构图氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "感性日式婚礼拼贴画：用于生成具有电影感、复古胶片质感及抓拍构图的感性日式婚礼照片拼贴画的提示词。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

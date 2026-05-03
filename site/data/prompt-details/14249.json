@@ -1,0 +1,42 @@
+{
+  "id": "14249",
+  "prompt": "{ \"type\": \"event poster\", \"theme\": \"Japanese summer fireworks festival\", \"visuals\": { \"background\": \"night sky filled with massive, colorful fireworks in gold, pink, blue, and purple\", \"midground\": \"river reflecting the fireworks, distant mountains, an arched bridge, and glowing city lights along the banks\", \"foreground\": \"crowd of spectators sitting on the grassy riverbank, some wearing traditional yukata, illuminated by warm lanterns on the right\" }, \"typography_and_layout\": { \"top_left\": { \"catchphrase\": \"{argument name=\\\"catchphrase\\\" default=\\\"夏の夜、想いが咲く。\\\"}\", \"title\": \"{argument name=\\\"festival name\\\" default=\\\"碧川市 清流花火大会\\\"}\", \"subtitle\": \"—— 碧き流れに、光の華ひらく ——\" }, \"mid_left\": { \"date_time\": \"{argument name=\\\"event date\\\" default=\\\"2026 8.15\\\"} (土) 19:30〜20:30 (予定)\", \"venue\": \"会場：{argument name=\\\"venue\\\" default=\\\"碧川（あおがわせ）河畔 清流大橋周辺\\\"}\" }, \"bottom_left_box\": { \"style\": \"decorative vintage border\", \"content\": \"{argument name=\\\"highlights\\\" default=\\\"約10,000発 音楽とシンクロする 華やかな花火\\\"} 尺玉・スターマイン 水中花火 ほか\" }, \"footer\": { \"style\": \"dark blue banner at the bottom\", \"section_count\": 3, \"sections\": [ { \"icon\": \"train\", \"title\": \"アクセス\", \"details\": \"walking distance and shuttle bus info\" }, { \"icon\": \"paper lantern\", \"title\": \"観覧のお願い\", \"details\": \"3 bullet points about trash, seating, and no drones\" }, { \"element\": \"QR code\", \"text\": \"最新情報は公式サイトでご確認ください\" } ], \"bottom_edge\": \"organizer and contact info with dummy phone number\" } } }",
+  "translatedPrompt": "{ \"type\": \"event poster\", \"theme\": \"Japanese summer fireworks festival\", \"visuals\": { \"background\": \"night sky filled with massive, colorful fireworks in gold, pink, blue, and purple\", \"midground\": \"river reflecting the fireworks, distant mountains, an arched bridge, and glowing city lights along the banks\", \"foreground\": \"crowd of spectators sitting on the grassy riverbank, some wearing traditional yukata, illuminated by warm lanterns on the right\" }, \"typography_and_layout\": { \"top_left\": { \"catchphrase\": \"{argument name=\\\"catchphrase\\\" default=\\\"夏の夜、想いが咲く。\\\"}\", \"title\": \"{argument name=\\\"festival name\\\" default=\\\"碧川市 清流花火大会\\\"}\", \"subtitle\": \"—— 碧き流れに、光の華ひらく ——\" }, \"mid_left\": { \"date_time\": \"{argument name=\\\"event date\\\" default=\\\"2026 8.15\\\"} (土) 19:30〜20:30 (予定)\", \"venue\": \"会場：{argument name=\\\"venue\\\" default=\\\"碧川（あおがわせ）河畔 清流大橋周辺\\\"}\" }, \"bottom_left_box\": { \"style\": \"decorative vintage border\", \"content\": \"{argument name=\\\"highlights\\\" default=\\\"約10,000発 音楽とシンクロする 華やかな花火\\\"} 尺玉・スターマイン 水中花火 ほか\" }, \"footer\": { \"style\": \"dark blue banner at the bottom\", \"section_count\": 3, \"sections\": [ { \"icon\": \"train\", \"title\": \"アクセス\", \"details\": \"walking distance and shuttle bus info\" }, { \"icon\": \"paper lantern\", \"title\": \"観覧のお願い\", \"details\": \"3 bullet points about trash, seating, and no drones\" }, { \"element\": \"QR code\", \"text\": \"最新情報は公式サイトでご確認ください\" } ], \"bottom_edge\": \"organizer and contact info with dummy phone number\" } } }",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Japanese Fireworks Festival Poster：Generates a realistic Japanese summer fireworks festival poster with customizable text, dates, and event details.",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "vintage"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, vintage]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13783",
+      "14173",
+      "13749",
+      "13784",
+      "14458",
+      "14459"
+    ]
+  }
+}

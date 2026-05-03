@@ -1,0 +1,43 @@
+{
+  "id": "13991",
+  "prompt": "A {argument name=\"art style\" default=\"vibrant watercolor painting\"} poster on textured white paper. A tiny figure in red Hanfu at the bottom right holds a flowing red silk ribbon that sweeps upward, transforming into a surreal, detailed landscape of {argument name=\"city name\" default=\"Guangzhou\"}. The lower ribbon depicts traditional Chinese architecture, a lion dance festival, and cherry blossoms. The middle transitions to a winding river, a cruise ship, modern skyscrapers, and a glowing TV tower. The top fades into green mountains, a waterfall, flying cranes, and fireworks. The scenery is contained within the dynamic ribbon shape against white negative space. Bottom left typography reads \"{argument name=\"season and year\" default=\"SPRING 2026\"}\" with the year in red, alongside vertical Chinese calligraphy \"{argument name=\"main slogan\" default=\"魅力广州\"}\" and \"{argument name=\"secondary slogan\" default=\"千年商都\"}\" with a red seal stamp.",
+  "translatedPrompt": "一张 {argument name=\"art style\" default=\"鲜艳的水彩画\"} 风格的海报，印在纹理白纸上。右下角有一个身着红色汉服的小人，手中握着一条向上飘扬的红色丝绸丝带，丝带幻化为 {argument name=\"city name\" default=\"广州\"} 超现实且细节丰富的城市景观。丝带底部描绘了中国传统建筑、舞狮节和樱花；中部过渡为蜿蜒的河流、游轮、现代摩天大楼和发光的电视塔；顶部则渐变为青山、瀑布、飞鹤和烟花。整个景观被包裹在动态的丝带形状中，背景为留白设计。左下角的排版文字为 \"{argument name=\"season and year\" default=\"SPRING 2026\"}\"（年份为红色），旁边配有竖排中文字体 \"{argument name=\"main slogan\" default=\"魅力广州\"}\" 和 \"{argument name=\"secondary slogan\" default=\"千年商都\"}\"，并附带一枚红色印章。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "流光丝带城市风光水彩海报：生成一张超现实主义水彩海报，画面中流动的丝带幻化为传统与现代城市地标的融合体，并支持自定义排版。",
+      "subject": "空间",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "watercolor"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: watercolor]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14437",
+      "15325",
+      "14126",
+      "13784",
+      "14817",
+      "15804"
+    ]
+  }
+}

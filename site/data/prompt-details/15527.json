@@ -1,0 +1,53 @@
+{
+  "id": "15527",
+  "prompt": "A hyper-realistic premium product advertisement featuring an oversized {argument name=\"footwear type\" default=\"futuristic comfort clog\"} placed on a smooth glossy reflective floor. A modern model dressed in {argument name=\"clothing colors\" default=\"soft neutral-toned athleisure (off-white / beige)\"} stands slightly leaning against the giant shoe with a relaxed, confident posture. Background: clean gradient blending soft sky blue into subtle lavender tones, with massive bold typography in the background reading “{argument name=\"headline\" default=\"STEP INTO EASE\"}” in a modern sans-serif font, stretched vertically and partially behind the subject. Lighting: high-end studio lighting with soft highlights, gentle reflections on the floor, and subtle rim light outlining the model and product for depth. Composition: editorial magazine layout, perfectly centered subject, strong negative space, luxury branding feel. Additional text (small, minimal placement at bottom): “Designed for all-day comfort. Made to move with you.” Style: ultra-clean, Apple-style minimalism meets fashion campaign, hyper-realistic, premium commercial photography, 8K, sharp details.",
+  "translatedPrompt": "一张超写实的优质产品广告，展示了一款巨大的 {argument name=\"footwear type\" default=\"未来感舒适洞洞鞋\"}，放置在光滑的亮面反射地板上。一位穿着 {argument name=\"clothing colors\" default=\"柔和中性色运动休闲装（米白色 / 米色）\"} 的现代模特，以放松且自信的姿态轻轻倚靠在巨型鞋履旁。背景：干净的渐变色，将柔和的天蓝色与微妙的薰衣草色融合在一起；背景中巨大的醒目排版文字写着 “{argument name=\"headline\" default=\"STEP INTO EASE\"}”，采用现代无衬线字体，垂直拉伸并部分置于主体后方。灯光：高端摄影棚灯光，带有柔和的高光，地板上有细腻的反射，微妙的轮廓光勾勒出模特和产品的边缘，增加深度。构图：杂志编辑排版，主体完美居中，强烈的留白，奢华的品牌质感。附加文字（底部小而简洁的排版）：“专为全天舒适而设计。随你而动。” 风格：极致简洁，Apple 风格的极简主义与时尚广告大片的结合，超写实，高端商业摄影，8K 分辨率，细节清晰。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "未来感鞋履广告：一份详细的时尚鞋履产品广告提示词，包含高端摄影棚灯光和醒目的排版元素。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "editorial",
+        "luxury",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting",
+        "rim light"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: realistic, editorial, luxury, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting, rim light]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14850",
+      "15089",
+      "15243",
+      "15462",
+      "15773",
+      "15400"
+    ]
+  }
+}

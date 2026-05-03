@@ -1,0 +1,49 @@
+{
+  "id": "15676",
+  "prompt": "A close-up vertical selfie portrait of a {argument name=\"idol theme\" default=\"dark yami-kawaii idol\"} girl in a cramped neon-pink room, shot with her arm extended toward the camera so one glittery sleeve and hand blur large in the foreground. She wears a highly detailed black-and-hot-pink plaid stage outfit with glossy vinyl straps, lace trim, ribbons, buckles, and layered accessories: a sleeveless bodice, black fishnet detached sleeves, multiple black armbands on one upper arm, pink bows, and a heart-shaped chest badge that reads \"病みかわいい\". Her hair is dark brown, styled in a high bun with long straight sections framing the sides, decorated with a large ribbon. Her visible hand is posed near her lips in a coy idol gesture, wearing a frilly pink lace fingerless glove, long decorated nails, and chunky rings. Add a pink armband on the upper arm with handwritten Japanese text, and subtle earrings. The face is intentionally hidden by a large centered rectangular censor blur covering most of the face from forehead to chin. The background is dense and grungy, filled with black-and-pink graffiti, plastic curtains, plush toys, and distressed decor. Include exactly 4 visible Japanese text elements in the scene: graffiti on the left reading \"闇ー?\", graffiti below it reading \"嫌いにならないで\", graffiti further down reading \"私だけ見ててね\", and a glowing heart-shaped neon sign on the upper right reading \"病みしか勝たん\". Place 2 plush figures in the background: one pale pink stuffed animal on the left and one black plush with X eyes on the right. Lighting is moody club-style magenta and violet with glossy highlights, giving a chaotic underground idol dressing-room vibe. Ultra-detailed, flashy textures, glitter, lace, vinyl, messy cute-goth atmosphere, high contrast, smartphone selfie composition, portrait orientation.",
+  "translatedPrompt": "一张 {argument name=\"idol theme\" default=\"暗黑病娇可爱风偶像\"} 女孩的竖版特写自拍肖像，背景位于狭窄的霓虹粉色房间内。镜头视角为手臂向相机伸出，前景中可见一只闪亮的袖子和手部虚化效果。她身穿细节丰富的黑粉格纹舞台装，配有光面乙烯基绑带、蕾丝边、丝带、搭扣及层叠配饰：无袖紧身胸衣、黑色网眼分体袖、单侧上臂佩戴多个黑色臂环、粉色蝴蝶结，以及胸前一枚写有“病みかわいい”的心形徽章。深棕色长发扎成高丸子头，两侧留有长直发修饰脸型，并装饰着大蝴蝶结。她可见的手部靠近嘴唇，摆出羞涩的偶像姿势，戴着荷叶边粉色蕾丝露指手套，留着长长的美甲并佩戴粗款戒指。上臂增加一个带有手写日文的粉色臂环，并佩戴精致的耳环。面部被一个位于中心的大型矩形马赛克遮挡，遮住了从额头到下巴的大部分区域。背景杂乱且带有颓废感，布满了黑粉色涂鸦、塑料帘、毛绒玩具和做旧装饰。场景中需包含 4 处清晰可见的日文文本：左侧涂鸦写着“闇ー?”，下方涂鸦写着“嫌いにならないで”，更下方涂鸦写着“私だけ見ててね”，右上角有一个发光的心形霓虹灯牌，写着“病みしか勝たん”。背景中放置 2 个毛绒玩偶：左侧为一个浅粉色毛绒动物，右侧为一个眼睛呈 X 型的黑色毛绒玩偶。灯光为充满忧郁感的夜店风洋红色与紫罗兰色，带有光泽高光，营造出混乱的地下偶像更衣室氛围。超高细节，华丽质感，闪粉、蕾丝、乙烯基材质，凌乱的可爱哥特风氛围，高对比度，智能手机自拍构图，竖屏比例。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "病娇可爱风偶像自拍：此提示词可生成一张充满忧郁感的粉黑配色偶像自拍肖像，融合了病娇可爱风（yami-kawaii）时尚与霓虹日式装饰，非常适合社交媒体风格的角色艺术创作。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "close-up",
+        "layered",
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "neon",
+        "high contrast",
+        "camera"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, close-up, layered, vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: neon, high contrast, camera]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15706",
+      "15797",
+      "14485",
+      "15034",
+      "15252",
+      "15818"
+    ]
+  }
+}

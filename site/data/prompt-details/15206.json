@@ -1,0 +1,36 @@
+{
+  "id": "15206",
+  "prompt": "根据真实历史对{argument name=\"人物\" default=\"杨玉环\"}的形象描述，生成一张{argument name=\"描述\" default=\"杨贵妃真实照片\"}，画质为{argument name=\"机型\" default=\"iPhone 15 pro\"}",
+  "translatedPrompt": "基于 {argument name=\"person\" default=\"杨玉环\"} 的真实历史描述，生成一张 {argument name=\"description\" default=\"杨贵妃的写实照片\"}，图像质量需达到 {argument name=\"device\" default=\"iPhone 15 Pro\"} 的水平",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "历史人物写实肖像：一个旨在通过高清现代摄影质量重现历史人物杨贵妃形象的提示词。",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "App Store 截图、产品概念、移动工具界面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13583",
+      "13585",
+      "13645",
+      "13648",
+      "13708",
+      "13710"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "14521",
+  "prompt": "{\"type\":\"luxury ballet school promotional banner collage\",\"brand\":{\"name\":\"Étoile Ballet\",\"subtitle\":\"大人のバレエ教室\"},\"style\":{\"mood\":\"elegant, soft, feminine, aspirational, clean Japanese lifestyle advertising\",\"color_palette\":[\"warm ivory\",\"soft beige\",\"dusty mauve\",\"muted blush pink\",\"charcoal black\"],\"lighting\":\"bright natural window light with soft diffusion\",\"finish\":\"high-end editorial banner design for social media or web promotion\",\"typography\":\"refined Japanese serif and clean minimal supporting text\"},\"layout\":{\"format\":\"2x2 grid collage\",\"sections\":[{\"title\":\"top left panel\",\"position\":\"top-left\",\"count\":3,\"labels\":[\"brand logo\",\"main vertical-style headline\",\"call-to-action button\"]},{\"title\":\"top right panel\",\"position\":\"top-right\",\"count\":5,\"labels\":[\"brand logo\",\"benefit headline\",\"4 bullet point benefits\",\"circular satisfaction badge\",\"call-to-action button\"]},{\"title\":\"bottom left panel\",\"position\":\"bottom-left\",\"count\":6,\"labels\":[\"background student photo\",\"3 floating review cards\",\"main headline\",\"school descriptor line\",\"call-to-action button\",\"star ratings on review cards\"]},{\"title\":\"bottom right panel\",\"position\":\"bottom-right\",\"count\":6,\"labels\":[\"brand logo\",\"main headline\",\"4 feature icon cards\",\"large trial lesson box\",\"call-to-action button\"]}],\"divider\":\"thin white gutters separating all four panels\"},\"panels\":{\"top_left\":{\"background\":\"minimal bright ballet studio with large white windows and pale reflective floor\",\"subject\":\"full-body adult female ballet dancer in center, back view, standing en pointe with arms gracefully raised in fifth position variation\",\"wardrobe\":{\"leotard_color\":\"{argument name=\\\"leotard color\\\" default=\\\"deep navy\\\"}\",\"outfit_pieces\":[\"short-sleeve leotard\",\"sheer wrap skirt\",\"pale pink tights\",\"pointe shoes\"],\"hair\":\"sleek ballet bun\"},\"text\":{\"headline\":\"わたしを、もっと好きになる場所。\",\"button\":\"無料体験レッスン受付中 >\"}},\"top_right\":{\"background\":\"soft beige overlay with close-up cropped portrait of an adult female ballet student on the right edge, neck and shoulder visible, elegant and softly lit\",\"text\":{\"headline_top\":\"大人から始めるバレエで、\",\"headline_emphasis\":\"こんな変化が\",\"headline_bottom\":\"ありました。\",\"bullets\":[\"姿勢が美しくなった\",\"体が引き締まり、疲れにくくなった\",\"新しい仲間ができて毎日が楽しい\",\"自分に自信が持てるようになった\"],\"badge\":\"生徒満足度 98.2% ※アンケート結果より（2024年実績）\",\"button\":\"詳しくはこちら >\"},\"graphics\":{\"bullet_count\":4,\"bullet_style\":\"checkmark circles in muted pink\",\"badge_style\":\"thin outlined circle\"}},\"bottom_left\":{\"background\":\"warm, cinematic close-up of an adult female ballet student stretching one arm upward in studio light\",\"text\":{\"headline\":\"年齢は、ただの数字。今こそ、憧れを始めよう。\",\"subline\":\"大人のバレエ教室 エトワールバレエ\",\"button\":\"無料体験レッスン受付中 >\"},\"review_cards\":{\"count\":3,\"cards\":[{\"stars\":5,\"text\":\"初心者でも丁寧に教えてもらえるので安心して通えています！ (40代・会社員)\"},{\"stars\":5,\"text\":\"レッスン後は心も体もスッキリ！毎週の楽しみです。 (50代・主婦)\"},{\"stars\":5,\"text\":\"憧れだったバレエを大人から始められて人生が輝きました。 (30代・看護師)\"}],\"style\":\"floating rounded white cards tilted slightly\"}},\"bottom_right\":{\"background\":\"light neutral interior with softly blurred adult female student holding a pair of pointe shoes against her chest on the right side\",\"text\":{\"headline\":\"はじめの一歩が、未来のわたしを変える。\",\"features\":[\"初心者大歓迎 基礎から丁寧に指導\",\"通いやすい 豊富なレッスン時間\",\"駅近スタジオ アクセス便利\",\"少人数制クラスで 安心サポート\"],\"trial_box\":\"今なら！ 無料体験レッスン受付中 手ぶらでOK！動きやすい服装でお越しください。\",\"button\":\"まずは体験してみる >\"},\"feature_cards\":{\"count\":4,\"style\":\"rounded square cards with thin line icons\"}}},\"image_guidance\":\"Use Japanese text exactly as shown. Keep all faces softly obscured or out of focus, emphasizing atmosphere over identity. Maintain a premium ballet-school advertisement look with generous white space, soft gradients, elegant composition, and a cohesive dusty-rose accent color across all buttons and icons.\"}",
+  "translatedPrompt": "{\"type\":\"高端芭蕾舞学校宣传横幅拼贴\",\"brand\":{\"name\":\"Étoile Ballet\",\"subtitle\":\"成人芭蕾舞教室\"},\"style\":{\"mood\":\"优雅、柔和、女性化、励志、简洁的日式生活方式广告\",\"color_palette\":[\"暖象牙白\",\"柔和米色\",\"灰紫色\",\"柔和腮红粉\",\"炭黑色\"],\"lighting\":\"明亮的自然窗光，带有柔和的漫反射\",\"finish\":\"高端社媒或网页宣传横幅设计\",\"typography\":\"精致的日文衬线字体，搭配简洁的辅助文字\"},\"layout\":{\"format\":\"2x2 网格拼贴\",\"sections\":[{\"title\":\"左上板块\",\"position\":\"top-left\",\"count\":3,\"labels\":[\"品牌 Logo\",\"主标题（垂直排版）\",\"行动号召按钮\"]},{\"title\":\"右上板块\",\"position\":\"top-right\",\"count\":5,\"labels\":[\"品牌 Logo\",\"优势标题\",\"4 条优势要点\",\"圆形满意度徽章\",\"行动号召按钮\"]},{\"title\":\"左下板块\",\"position\":\"bottom-left\",\"count\":6,\"labels\":[\"背景学员照片\",\"3 张浮动评价卡片\",\"主标题\",\"学校描述行\",\"行动号召按钮\",\"评价卡片上的星级评分\"]},{\"title\":\"右下板块\",\"position\":\"bottom-right\",\"count\":6,\"labels\":[\"品牌 Logo\",\"主标题\",\"4 张特色图标卡片\",\"大型体验课方框\",\"行动号召按钮\"]}],\"divider\":\"细白线分隔四个板块\"},\"panels\":{\"top_left\":{\"background\":\"极简明亮的芭蕾舞室，配有大型白色窗户和浅色反光地板\",\"subject\":\"全身成人女性芭蕾舞者，位于中心，背影，踮起脚尖，双臂优雅地举起至五位手\",\"wardrobe\":{\"leotard_color\":\"{argument name=\\\"leotard color\\\" default=\\\"深海军蓝\\\"}\",\"outfit_pieces\":[\"短袖连体服\",\"透明裹裙\",\"浅粉色连裤袜\",\"足尖鞋\"],\"hair\":\"利落的芭蕾舞发髻\"},\"text\":{\"headline\":\"一个让我更爱自己的地方。\",\"button\":\"免费体验课预约中 >\"}},\"top_right\":{\"background\":\"柔和米色叠加层，右侧边缘为成人芭蕾舞学员的特写肖像，可见颈部和肩部，光线优雅柔和\",\"text\":{\"headline_top\":\"从成人开始学习芭蕾，\",\"headline_emphasis\":\"这些变化\",\"headline_bottom\":\"真实发生。\",\"bullets\":[\"姿态变得更优雅\",\"身体线条紧致，不易疲劳\",\"结识了新伙伴，每天都很开心\",\"变得更加自信\"],\"badge\":\"学员满意度 98.2% ※基于问卷调查（2024 年数据）\",\"button\":\"了解详情 >\"},\"graphics\":{\"bullet_count\":4,\"bullet_style\":\"柔和粉色勾选圆圈\",\"badge_style\":\"细线轮廓圆圈\"}},\"bottom_left\":{\"background\":\"温暖的电影感特写，成人芭蕾舞学员在工作室光线下将一只手臂向上伸展\",\"text\":{\"headline\":\"年龄只是数字。现在就开始，追逐你的梦想。\",\"subline\":\"成人芭蕾舞教室 Étoile Ballet\",\"button\":\"免费体验课预约中 >\"},\"review_cards\":{\"count\":3,\"cards\":[{\"stars\":5,\"text\":\"即使是初学者也能得到细心指导，可以放心学习！ (40 多岁・公司职员)\"},{\"stars\":5,\"text\":\"课后身心舒畅！这是我每周的期待。 (50 多岁・家庭主妇)\"},{\"stars\":5,\"text\":\"从成人开始学习憧憬已久的芭蕾，人生变得闪闪发光。 (30 多岁・护士)\"}],\"style\":\"浮动圆角白色卡片，略微倾斜\"}},\"bottom_right\":{\"background\":\"明亮的简约室内环境，右侧为柔焦的成人学员，怀抱一双足尖鞋\",\"text\":{\"headline\":\"迈出第一步，改变未来的自己。\",\"features\":[\"欢迎初学者 从基础开始细心指导\",\"时间灵活 丰富的课程安排\",\"交通便利 车站附近工作室\",\"小班授课 提供安心支持\"],\"trial_box\":\"限时优惠！免费体验课预约中，无需自带装备，穿着舒适的衣服即可前来。\",\"button\":\"立即预约体验 >\"},\"feature_cards\":{\"count\":4,\"style\":\"圆角方形卡片，配有细线条图标\"}}},\"image_guidance\":\"请完全按照展示的日文文本进行排版。保持所有人物面部柔焦或虚化，强调氛围感而非个人身份。保持高端芭蕾舞学校的广告风格，留出充足的留白，使用柔和的渐变，构图优雅，并在所有按钮和图标上保持统一的灰粉色调。\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "优雅芭蕾舞学校宣传网格图：一款精致的四格日本芭蕾舞学校宣传横幅，适用于社交媒体、落地页或针对成人初学者的工作室推广。",
+      "subject": "文字符号",
+      "scene": "综合视觉",
+      "composition": [
+        "close-up",
+        "full-body",
+        "grid",
+        "2x2",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "editorial",
+        "luxury",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "风格对比、产品系列、前后对照、角色变体",
+      "whySelected": "得分 90；构图: close-up, full-body, grid, 2x2, vertical；风格: cinematic, editorial, luxury, premium, studio；要求精确文字；包含标注/说明；文字是主视觉"
+    },
+    "copyTemplate": "Create a 综合视觉 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, full-body, grid, 2x2, vertical]。\n\nVisual style:\n[参考风格: cinematic, editorial, luxury, premium, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15671",
+      "14519",
+      "14983",
+      "15608",
+      "14520",
+      "14639"
+    ]
+  }
+}

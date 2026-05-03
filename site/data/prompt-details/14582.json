@@ -1,0 +1,47 @@
+{
+  "id": "14582",
+  "prompt": "A hyper-detailed premium collectible trading card illustration of {argument name=\"hero name\" default=\"Kamen Rider Decade\"} in the center foreground, posed in a ruined futuristic city battlefield under a dramatic cosmic night sky. The armored hero wears a glossy magenta, black, and white suit with a segmented helmet and large luminous green compound eyes, facing the viewer in a powerful stance. One arm is thrust forward toward the camera, holding up a character card between black gloved fingers so the card is clearly visible in forced perspective; the other hand gives a confident thumbs-up. The belt device is prominent at the waist. Surrounding the hero are exactly 8 secondary figures and monsters scattered through the rubble and midair battle scene: 1 blue-and-red armored rider crouching in the bottom left foreground, 1 red-and-gold armored rider on the right midground, 2 small rider figures in the distant center background, 2 flying figures in the upper background, and 2 monstrous enemy creatures on the right side, one mid-right and one bottom-right. The environment is dense with collapsed buildings, broken concrete, sparks, smoke, debris, and cinematic action lighting. Render the whole image as a luxurious holographic SSR card with an ornate prismatic foil border, glittering rainbow refractions, metallic gold filigree framing, and layered collectible-card UI. At the top center, large embossed title text reads {argument name=\"title text\" default=\"KAMEN RIDER DECADE\"}, with smaller text above reading \"MASKED RIDER\". In the top right is a large metallic badge reading {argument name=\"rarity label\" default=\"SSR\"} with 5 gold stars beneath it. In the top left and bottom right are 2 circular magenta crest icons. In the lower center is a gold cursive signature reading {argument name=\"signature text\" default=\"NickZág\"}. Along the bottom frame are 4 labeled UI sections: left panel \"CARD TYPE\" over \"CHARACTER\", center nameplate \"KAMEN RIDER DECADE\" with Japanese subtitle \"仮面ライダーディケイド\", a barcode panel beneath, and right panel \"RARITY\" over \"SSR\". Add tiny footer text under the barcode reading {argument name=\"footer text\" default=\"DECADE COMPLETE 21\"}. Style: ultra-detailed tokusatsu hero art, cinematic photoreal armor textures, dramatic depth, explosive action composition, premium gacha card design, holographic foil print effects, sharp focus on the main hero and card, highly polished game-card promotional artwork.",
+  "translatedPrompt": "一张超精细的优质收藏级集换式卡牌插画，前景中心为 {argument name=\"hero name\" default=\"假面骑士 Decade\"}，他摆出强有力的姿势，背景是充满戏剧性宇宙夜空的废墟未来城市战场。这位身披铠甲的英雄穿着亮面洋红色、黑色和白色相间的战衣，戴着分段式头盔，巨大的绿色复眼闪烁着光芒，正面对着观众。他的一只手臂向前伸向镜头，黑色的手套指间夹着一张角色卡，通过强制透视法使卡牌清晰可见；另一只手则自信地竖起大拇指。腰间的腰带装置十分显眼。英雄周围散布着 8 个次要角色和怪物，分布在瓦砾和半空中的战斗场景中：左下角前景蹲着 1 个蓝红配色的装甲骑士，右侧中景有 1 个红金配色的装甲骑士，远景中心有 2 个小型骑士人偶，背景上方有 2 个飞行角色，右侧有 2 个怪物敌人，分别位于中右侧和右下角。环境充斥着倒塌的建筑、破碎的混凝土、火花、烟雾、碎片以及电影级的动作光效。将整张图片渲染为奢华的全息 SSR 卡牌，带有华丽的棱镜箔边框、闪烁的彩虹折射、金属金丝镶边以及分层的收藏卡 UI。顶部中心印有巨大的浮雕标题文字 {argument name=\"title text\" default=\"KAMEN RIDER DECADE\"}，上方有较小的文字 \"MASKED RIDER\"。右上角是一个巨大的金属徽章，写着 {argument name=\"rarity label\" default=\"SSR\"}，下方有 5 颗金星。左上角和右下角各有 2 个圆形的洋红色纹章图标。下部中心有金色的草书签名 {argument name=\"signature text\" default=\"NickZág\"}。底部边框设有 4 个带标签的 UI 区域：左侧面板 \"CARD TYPE\" 下方为 \"CHARACTER\"，中心铭牌为 \"KAMEN RIDER DECADE\" 及日语副标题 \"仮面ライダーディケイド\"，下方附有条形码面板，右侧面板 \"RARITY\" 下方为 \"SSR\"。在条形码下方添加微小的页脚文字 {argument name=\"footer text\" default=\"DECADE COMPLETE 21\"}。风格：超精细特摄英雄艺术、电影级写实铠甲质感、极具深度的戏剧性、爆炸性的动作构图、高级抽卡设计、全息箔印刷效果、主体英雄与卡牌聚焦清晰、高度精致的游戏卡宣传原画。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "全息假面骑士 Decade SSR 卡牌：此提示词可生成一张精美的特摄全息集换式卡牌，展现假面骑士 Decade 在激烈战斗场景中的英姿，非常适合用于收藏卡牌艺术、海报设计或抽卡风格的角色宣传。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "layered"
+      ],
+      "style": [
+        "cinematic",
+        "premium"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered]。\n\nVisual style:\n[参考风格: cinematic, premium]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14469",
+      "14598",
+      "15456",
+      "15410",
+      "14947",
+      "15351"
+    ]
+  }
+}

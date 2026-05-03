@@ -1,0 +1,40 @@
+{
+  "id": "13585",
+  "prompt": "A realistic photo of an open dotted notebook lying flat, filled with dense handwritten notes in {argument name=\"ink color\" default=\"blue\"} ballpoint pen. The handwriting is casual and slightly messy, like study notes, natural imperfections, crossed out words, underlined headings. Shot from slightly above, natural daylight from a window, no flash. {argument name=\"setting\" default=\"Casual desk setting\"}, shot on iPhone.",
+  "translatedPrompt": "一张逼真的照片，展示一本平摊开的圆点笔记本，上面密密麻麻地写满了 {argument name=\"ink color\" default=\"blue\"} 圆珠笔手写笔记。字迹随性且略显凌乱，如同学习笔记一般，带有自然的瑕疵、涂改的痕迹和下划线标题。从上方略微俯拍，自然光从窗户射入，无闪光灯。{argument name=\"setting\" default=\"Casual desk setting\"}，使用 iPhone 拍摄。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "逼真的手写学习笔记：生成一张逼真的照片，展示在自然光下，用圆珠笔书写的凌乱、随性的手写笔记摊开在笔记本上。",
+      "subject": "产品",
+      "scene": "UI/界面",
+      "composition": [],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "结构化布局精度",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "App Store 截图、产品概念、移动工具界面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13583",
+      "13645",
+      "13648",
+      "13708",
+      "13710",
+      "13713"
+    ]
+  }
+}

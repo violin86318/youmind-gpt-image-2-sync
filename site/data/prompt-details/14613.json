@@ -1,0 +1,55 @@
+{
+  "id": "14613",
+  "prompt": "A sleek futuristic Japanese tech advertisement in a dark sci-fi showroom with glossy reflective floors and soft blue neon bokeh lights in the background. On the right side, show a tall black rectangular hologram device with transparent glass front and sides, rounded edges, and subtle camera-like sensors across the top. The device is labeled Gatebox3 and glows with cyan-blue light, including a bright cyan logo on the base. Inside the chamber, display a full-body anime virtual girl hologram floating slightly above the bottom platform, rendered as a luminous translucent blue projection with particle sparkles. She has very long twin-tail hair, a youthful idol-like design, and a futuristic white and cyan outfit with detached sleeves, short skirt, thigh-high stockings, and heeled shoes. Her face is intentionally simplified or softly obscured, and she poses with one leg bent and both arms open in a welcoming gesture. Add glowing circular projection rings at the top and bottom inside the chamber. On the left side, place a clean Japanese promotional text layout with large headline text reading 「すべてのキャラクターを輝かせる」, with the single kanji 「輝」 emphasized in bright cyan and the rest in white. Beneath it, place the Gatebox3 logo and product name in white, followed by smaller tagline text 「物語が、そこにいる。」. Along the bottom left, include exactly 4 feature icons with Japanese labels in white and cyan: 1 hologram icon with 「高精細 3Dホログラム」, 1 audio waveform icon with 「キャラクターとの 自然な会話」, 1 sun-like ambient light icon with 「空間に溶け込む 洗練デザイン」, and 1 heart icon with 「あなたのそばに いつも一緒に」. High-end commercial product visualization, premium cyber-blue color palette, cinematic rim lighting, polished reflections, ultra-clean composition, realistic device rendering combined with anime hologram character, sharp focus on the product and typography.",
+  "translatedPrompt": "一个极具未来感的日本科技广告，场景位于黑暗的科幻展厅中，地面光洁如镜，背景点缀着柔和的蓝色霓虹光斑。在右侧，展示一台高大的黑色长方形全息设备，其正面和侧面采用透明玻璃材质，边缘圆润，顶部配有细微的类摄像头传感器。设备上标有 Gatebox3 字样，散发着青蓝色光芒，底座上印有明亮的青色 Logo。在腔体内部，展示一个全身动漫虚拟女孩全息投影，她轻盈地悬浮在底部平台上方，呈现为发光的半透明蓝色投影，伴有粒子闪烁效果。她留着极长的双马尾，拥有年轻的偶像化设计，身着未来感十足的白青配色服装，配有分离式袖子、短裙、过膝袜和高跟鞋。她的面部经过刻意简化或柔化处理，姿态为单腿弯曲，双臂张开，做出欢迎的动作。在腔体内部的顶部和底部添加发光的圆形投影环。在左侧，放置简洁的日文宣传文案排版，大标题文字为「すべてのキャラクターを輝かせる」，其中单个汉字「輝」以明亮的青色强调，其余文字为白色。下方放置 Gatebox3 的 Logo 和白色产品名称，随后是较小的标语文字「物語が、そこにいる。」。在左下角，包含 4 个带有白色和青色日文标签的功能图标：1 个全息图标配有「高精細 3Dホログラム」，1 个音频波形图标配有「キャラクターとの 自然な会話」，1 个类似太阳的环境光图标配有「空間に溶け込む 洗練デザイン」，以及 1 个心形图标配有「あなたのそばに いつも一緒に」。高端商业产品可视化，高级赛博蓝配色方案，电影级轮廓光，精致的反射效果，超简洁的构图，逼真的设备渲染与动漫全息角色相结合，产品与排版焦点清晰。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Gatebox3 全息设备广告：此提示词用于生成精美的未来感日本全息伴侣设备产品广告，适用于科技营销视觉效果和概念宣传活动。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [
+        "full-body"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "anime",
+        "3d",
+        "sci-fi",
+        "premium"
+      ],
+      "lightingCamera": [
+        "rim light",
+        "neon",
+        "camera"
+      ],
+      "text": "要求精确文字；包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body]。\n\nVisual style:\n[参考风格: realistic, cinematic, anime, 3d, sci-fi, premium]。\n\nLighting and camera:\n[参考光线镜头: rim light, neon, camera]。\n\nText requirements:\n要求精确文字；包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15259",
+      "15446",
+      "14413",
+      "14616",
+      "15375",
+      "15635"
+    ]
+  }
+}

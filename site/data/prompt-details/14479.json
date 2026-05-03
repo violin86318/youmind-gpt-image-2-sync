@@ -1,0 +1,40 @@
+{
+  "id": "14479",
+  "prompt": "A high-resolution museum-style photograph of a traditional Chinese calligraphy handscroll on aged beige xuan paper, shown flat and filling the frame with no mounting border visible. The composition is a single elegant work of running-script brush calligraphy in deep black ink, arranged in 11 vertical columns read right to left. The main text is the poem title and verse of {argument name=\"poem text\" default=\"定風波\\n莫聽穿林打葉聲\\n何妨吟嘯且徐行\\n竹杖芒鞋輕勝馬\\n誰怕\\n一蓑煙雨任平生\\n料峭春風吹酒醒\\n微冷\\n山頭斜照卻相迎\\n回首向來蕭瑟處\\n歸去\\n也無風雨也無晴\"}, written with expressive literati brushwork, varied pressure, dry-brush texture, natural ink spread, and lively stroke rhythm reminiscent of a Song-dynasty masterpiece interpreted by a Jin-style calligrapher. Add a smaller left-side inscription in 3 vertical columns containing {argument name=\"inscription text\" default=\"蘇軾詞定風波\\n癸卯春\\n奚義之書\"}, with the inscription thinner and more restrained than the main text. Include exactly 5 red cinnabar seals with carved seal-script impressions: 1 small square seal near the upper right margin, 3 vertically stacked rectangular seals along the mid-to-lower right edge, and 1 square seal near the lower left beside the inscription. The paper should show subtle fibers, warm foxing, soft tonal unevenness, and gentle age wear, while the lighting remains even, diffuse, and archival, emphasizing authentic texture and the contrast between black ink and tan paper. Keep the background entirely occupied by the scroll surface, with a calm scholarly antique aesthetic and no modern objects.",
+  "translatedPrompt": "一张博物馆级的高分辨率照片，展示了一幅铺平在米黄色宣纸上的传统中国书法手卷，画面填满整个取景框，无可见装裱边框。构图为一幅优雅的行书书法作品，墨色深黑，以 11 列纵向排列，从右向左阅读。正文为诗词标题及内容 {argument name=\"poem text\" default=\"定风波\\n莫听穿林打叶声\\n何妨吟啸且徐行\\n竹杖芒鞋轻胜马\\n谁怕\\n一蓑烟雨任平生\\n料峭春风吹酒醒\\n微冷\\n山头斜照却相迎\\n回首向来萧瑟处\\n归去\\n也无风雨也无晴\"}，笔触展现出文人书法的神韵，运笔力度多变，具有枯笔质感、自然的墨迹晕染以及生动的节奏感，令人联想到宋代名作与晋代书风的结合。左侧添加一处较小的题跋，共 3 列纵向排列，内容为 {argument name=\"inscription text\" default=\"苏轼词定风波\\n癸卯春\\n奚义之书\"}，题跋笔触较正文更为纤细克制。包含 5 枚朱砂红印章，印文为篆书：右上角边缘处有一枚小方印，右侧中下部有 3 枚纵向排列的长方形印章，左下角题跋旁有一枚方印。纸张应呈现出细腻的纤维感、温暖的泛黄斑点、柔和的色调不均以及自然的岁月痕迹。光线均匀、柔和且具有档案感，突显出真实的纹理以及黑墨与黄纸之间的对比。背景完全由卷轴表面覆盖，呈现出宁静的文人古雅美学，画面中无任何现代物品。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "古纸书法卷轴：此提示词可生成具有真实纸张纹理和印章的写实古典中国水墨书法卷轴，非常适合历史艺术图像或排版演示。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "节日海报、城市印象、传统文化视觉、地域品牌",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14020",
+      "14893",
+      "14653",
+      "15337",
+      "15441",
+      "14876"
+    ]
+  }
+}

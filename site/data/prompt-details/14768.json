@@ -1,0 +1,35 @@
+{
+  "id": "14768",
+  "prompt": "把这张{argument name=\"宠物\" default=\"猫咪\"}图片生成一张适合放在{argument name=\"平台\" default=\"社交媒体平台\"}当头像的图片。请你随意发挥你的{argument name=\"风格\" default=\"网感\"}",
+  "translatedPrompt": "将这张 {argument name=\"pet\" default=\"猫咪\"} 的照片转换为适合 {argument name=\"platform\" default=\"社交媒体平台\"} 的头像。请尽情发挥你的 {argument name=\"style\" default=\"网络潮流感\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "社交媒体宠物头像生成器：通过自然语言提示词，将宠物的参考照片转换为潮流社交媒体头像。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

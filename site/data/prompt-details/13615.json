@@ -1,0 +1,46 @@
+{
+  "id": "13615",
+  "prompt": "An anime-style illustration of a cute {argument name=\"animal type\" default=\"tanuki\"}-girl VTuber streaming live. She has dark skin, short white bob hair, fluffy brown animal ears, large brown eyes, and a fluffy striped tail. She is smiling happily with her mouth open and waving at the camera with her left hand. She is wearing a black and white maid outfit with frilly white trim, a white apron with a light green waistband, and a green ribbon choker with a golden bell. The background is a cozy, softly lit room with bokeh effects, featuring a glowing pink neon heart on the wall. To her left is a professional black studio microphone on a stand, and behind it is a computer monitor displaying a pink chat interface. A small {argument name=\"plushie type\" default=\"tanuki plushie\"} sits on the desk next to the microphone. The image features a streaming UI overlay with 3 distinct components: a red badge in the top left reading \"{argument name=\"top left badge\" default=\"LIVE\"}\", a pink badge in the top right reading \"{argument name=\"top right badge\" default=\"ON AIR\"}\" with a heart icon, and a semi-transparent dark grey chat box in the bottom left containing exactly 3 messages. The first message has a green heart and the text \"Cute!\", the second has a green heart and the text \"Warm~!\", and the third says \"{argument name=\"chat message\" default=\"Love\"}\" with two green hearts.",
+  "translatedPrompt": "一张动漫风格的可爱 {argument name=\"animal type\" default=\"狸猫\"}-娘 VTuber 直播插图。她有着深色皮肤、白色短波波头、毛茸茸的棕色动物耳朵、棕色大眼睛以及一条毛茸茸的条纹尾巴。她正开心地张嘴微笑，左手对着镜头挥手。她身穿黑白相间的女仆装，配有荷叶边装饰、带有浅绿色腰带的白色围裙，以及系着金色铃铛的绿色丝带项圈。背景是一个温馨、光线柔和且带有光斑效果的房间，墙上挂着一个发光的粉色霓虹爱心。她的左侧是一个放在支架上的专业黑色录音室麦克风，麦克风后方是一台显示着粉色聊天界面的电脑显示器。桌上麦克风旁边放着一个小的 {argument name=\"plushie type\" default=\"狸猫玩偶\"}。图像包含一个直播 UI 覆盖层，由 3 个独立组件组成：左上角是一个写着“{argument name=\"top left badge\" default=\"LIVE\"}”的红色徽章，右上角是一个带有爱心图标并写着“{argument name=\"top right badge\" default=\"ON AIR\"}”的粉色徽章，左下角是一个半透明的深灰色聊天框，其中包含 3 条消息。第一条消息带有绿色爱心和文字“Cute!”，第二条带有绿色爱心和文字“Warm~!”，第三条写着“{argument name=\"chat message\" default=\"Love\"}”并配有两个绿色爱心。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫 VTuber 直播界面覆盖图：生成一张动漫风格的 VTuber 直播插图，包含 LIVE 徽章和聊天框等 UI 覆盖元素。",
+      "subject": "界面",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime",
+        "studio"
+      ],
+      "lightingCamera": [
+        "neon",
+        "camera"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime, studio]。\n\nLighting and camera:\n[参考光线镜头: neon, camera]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15278",
+      "14252",
+      "15721",
+      "14467",
+      "14227",
+      "14230"
+    ]
+  }
+}

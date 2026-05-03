@@ -1,0 +1,41 @@
+{
+  "id": "14985",
+  "prompt": "A high-angle aerial drone photograph of a modern urban transit hub in a dense mixed-use city district, captured in crisp late-afternoon sunlight with realistic architectural detail. The scene centers on a large multi-track rail station running diagonally through the frame, with 6 visible railway tracks, 2 long passenger trains at platforms, and a glass-covered station canopy near the upper middle. A broad pedestrian bridge crosses above the tracks from left to right, connecting plazas on both sides. In the lower middle is a bus interchange with 7 visible buses parked or moving through curved lanes and marked bays. Surround the station with tall contemporary residential towers, mid-rise office buildings, retail frontages, tree-lined streets, bike lanes, sidewalks, parked cars, and small groups of pedestrians. Include one prominent glass office building on the left with rooftop greenery and a visible corporate sign reading {argument name=\"building sign text\" default=\"innovation\"}. Add multiple green roofs and rooftop solar panels, especially on the lower-right building. Composition should feel like a clean, realistic North American transit-oriented development, viewed from an oblique bird's-eye perspective, ultra-detailed, natural colors, sharp focus, professional city-planning photography, no stylization.",
+  "translatedPrompt": "一张从高空俯瞰的无人机航拍照片，展示了密集混合用途城市区域中的现代交通枢纽，在清澈的傍晚阳光下拍摄，呈现出逼真的建筑细节。场景中心是一座斜穿画面的大型多轨道火车站，可见 6 条铁轨、2 列停靠在站台的长途客运列车，以及中上方带有玻璃顶棚的车站大厅。一座宽阔的人行天桥从左至右横跨铁轨，连接两侧的广场。中下方是一个公交枢纽，可见 7 辆公交车停靠或穿行于弯曲的车道和标线泊位中。车站周围环绕着高大的现代住宅楼、中高层办公楼、零售店面、绿树成荫的街道、自行车道、人行道、停放的车辆以及三三两两的行人。左侧包含一栋醒目的玻璃办公大楼，楼顶设有绿化，并带有清晰的企业标志，文字为 {argument name=\"building sign text\" default=\"innovation\"}。增加多个绿色屋顶和屋顶太阳能电池板，特别是在右下方的建筑上。构图应呈现出整洁、写实的北美以公共交通为导向的开发项目风格，采用斜向鸟瞰视角，超高细节，色彩自然，对焦清晰，具备专业城市规划摄影水准，无艺术化处理。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "现代交通枢纽鸟瞰图：此提示词可生成一张写实的现代火车站与公交枢纽城市鸟瞰图，非常适合用于城市规划视觉效果、建筑演示或以公共交通为导向的开发项目影像。",
+      "subject": "空间",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14931",
+      "13655",
+      "14429",
+      "15282",
+      "15283",
+      "15408"
+    ]
+  }
+}

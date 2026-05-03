@@ -1,0 +1,49 @@
+{
+  "id": "14188",
+  "prompt": "A cinematic Japanese movie poster featuring a romantic, melancholic scene of a man and a woman standing face-to-face on a wet train station platform at night in the rain. The tall man on the left wears a dark coat and backpack, holding a black umbrella over them. The woman on the right wears a tan trench coat, looking up at him. A red and white commuter train with the word Tokyo written in Japanese and English on the front is on the tracks to the right. A station sign on the left indicates the Yamanote Line in Japanese. The lighting is moody with neon city lights reflecting on the wet platform. The poster features prominent text overlays. At the top, a horizontal tagline reads {argument name=\"top tagline\" default=\"あの日、言えなかった言葉がある。\"}. On the left, a vertical tagline reads {argument name=\"side tagline\" default=\"あの日、置き去りにした想い 今、ふたりをつなぐ...\"}. In the lower center, the large main title is {argument name=\"main title\" default=\"最後の切符\"} in a white serif font, with a red cursive subtitle {argument name=\"romaji subtitle\" default=\"Saigo no Kippu\"} below it. Below the title are two lines of Japanese cast names, followed by a dense block of small Japanese production credits. At the bottom center, a red website URL and the release text {argument name=\"release info\" default=\"2025年秋 全国ロードショー\"}. The bottom corners feature two golden award laurels with Japanese text.",
+  "translatedPrompt": "A cinematic Japanese movie poster featuring a romantic, melancholic scene of a man and a woman standing face-to-face on a wet train station platform at night in the rain. The tall man on the left wears a dark coat and backpack, holding a black umbrella over them. The woman on the right wears a tan trench coat, looking up at him. A red and white commuter train with the word Tokyo written in Japanese and English on the front is on the tracks to the right. A station sign on the left indicates the Yamanote Line in Japanese. The lighting is moody with neon city lights reflecting on the wet platform. The poster features prominent text overlays. At the top, a horizontal tagline reads {argument name=\"top tagline\" default=\"あの日、言えなかった言葉がある。\"}. On the left, a vertical tagline reads {argument name=\"side tagline\" default=\"あの日、置き去りにした想い 今、ふたりをつなぐ...\"}. In the lower center, the large main title is {argument name=\"main title\" default=\"最後の切符\"} in a white serif font, with a red cursive subtitle {argument name=\"romaji subtitle\" default=\"Saigo no Kippu\"} below it. Below the title are two lines of Japanese cast names, followed by a dense block of small Japanese production credits. At the bottom center, a red website URL and the release text {argument name=\"release info\" default=\"2025年秋 全国ロードショー\"}. The bottom corners feature two golden award laurels with Japanese text.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Cinematic Japanese Romance Movie Poster：Generates a moody, realistic Japanese movie poster featuring a couple in the rain at a train station with customizable titles and taglines.",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical, horizontal]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15096",
+      "15698",
+      "14030",
+      "15453",
+      "14969",
+      "14042"
+    ]
+  }
+}

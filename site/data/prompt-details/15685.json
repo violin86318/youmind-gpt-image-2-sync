@@ -1,0 +1,48 @@
+{
+  "id": "15685",
+  "prompt": "A polished Japanese fashion magazine cover photographed in a bright, airy outdoor setting with a pale blue sky and softly blurred modern railing in the background, portrait orientation. The masthead is enormous across the top in elegant soft pink serif letters reading \"L’Allure\", with small Japanese text above it and a bracketed Japanese subtitle at the top right. The issue information appears on the upper left as a large black \"5\" with smaller stacked text beside and below it indicating May 2026, No.156, and a May 2026 issue line. The cover features two adult East Asian women standing side by side from about mid-thigh upward, posed like a luxury editorial cover. Their faces are intentionally obscured by smooth soft rectangular blur blocks. Lighting is soft, natural, and flattering, with a refined premium magazine aesthetic.\n\nThe woman on the left wears a navy blouse with dramatic koi-scale sleeves in navy, white, and silver, styled with a bow or scarf-like neckline, tucked into a long flowing off-white skirt with a wide waistband. She carries 1 fish-shaped handbag: a navy and cream koi-inspired purse with a round eye detail, scale pattern, tail fin silhouette, gold hardware, and a thin chain strap hanging from her hand. Her hair is dark brown to black, loosely tied in a low messy bun with soft strands framing her face. Her pose is elegant and slightly angled, one hand near her chin.\n\nThe woman on the right wears a crisp white blouse with a soft bow-tie or vertical ruffle/placket detail at the front, paired with a striking koi-inspired skirt or dress panel featuring 2 main colors, coral pink and deep blue, with layered fish-scale motifs and a circular eye-like ornament at the waist. She holds 1 structured handbag: a rectangular white bag with coral pink koi face paneling, blue accents, gold hardware, top handles, and a shoulder strap. Her dark hair is tied back in a low ponytail. She stands facing slightly left with relaxed hands and a calm editorial expression implied by pose.\n\nThe fashion concept is themed around koi streamers and carp motifs, transforming traditional Japanese koinobori imagery into sophisticated contemporary womenswear. The palette is soft sky blue, blush pink, navy, white, cream, and coral red. Fabrics appear smooth, elegant, and lightly flowing, with printed or embroidered scale patterns. The overall mood is graceful, feminine, seasonal, and upscale, balancing tradition with modern fashion.\n\nAdd multiple Japanese cover lines in a realistic editorial layout. On the left side, include 4 grouped text blocks: 1 feature header in red and black about moody carp streamer fashion, 1 smaller blue subhead about inheriting traditional beauty with a fresh elegance balance, 1 black text block about basics and updates for women in their twenties, and 1 blue makeup feature line about translucent early-summer makeup. On the right side, include 3 grouped text blocks: 1 red \"Cover Story\" heading with larger black Japanese headline text beneath, 1 blue text block about conservative style that shines in fresh greenery, and 1 pink boxed reader gift notice with black Japanese text below about luxury brand new bags and accessories. Near the lower left, place 1 circular pink badge with white and cream Japanese text about a special walking guide supplement. Across the lower center, place a large dramatic Japanese main headline in pink and black serif and brush-style type, spanning most of the width.\n\nDesign this as a realistic premium women’s fashion magazine cover for {argument name=\"magazine name\" default=\"L’Allure\"}, themed around {argument name=\"fashion theme\" default=\"koinobori-inspired spring fashion\"}, featuring {argument name=\"issue month\" default=\"May 2026\"}. Keep the text predominantly in Japanese, the masthead in large pink serif type, and the composition clean, aspirational, and luxurious.",
+  "translatedPrompt": "一张精致的日本时尚杂志封面，拍摄于明亮通透的户外环境，背景为淡蓝色天空和柔焦的现代栏杆，纵向构图。顶部刊头为巨大的优雅柔粉色衬线字体“L’Allure”，上方配有小型日文，右上角有带括号的日文副标题。左上角显示期刊信息，为一个巨大的黑色“5”，旁边和下方堆叠着较小的文字，标明 2026 年 5 月、第 156 期以及 2026 年 5 月刊的字样。封面展示了两位成年东亚女性，从大腿中部以上并肩站立，呈现出奢华编辑封面的姿态。她们的面部被平滑的矩形模糊块刻意遮挡。光线柔和、自然且修饰感强，具有精致的高级杂志美感。\n\n左侧女性身着海军蓝衬衫，袖子采用海军蓝、白色和银色的戏剧性鱼鳞设计，搭配蝴蝶结或围巾式领口，束进一条长款飘逸的米白色半身裙中，裙腰宽大。她手提 1 只鱼形手袋：一款海军蓝与奶油色相间的鲤鱼灵感包，带有圆形眼睛细节、鱼鳞图案、鱼尾轮廓、金色五金件和垂下的细链条。她的头发呈深棕色至黑色，松散地扎成低发髻，几缕发丝柔和地修饰着脸庞。她的姿态优雅，身体略微倾斜，一只手靠近下巴。\n\n右侧女性身着干练的白色衬衫，前襟带有柔和的领结或垂直荷叶边/门襟细节，搭配一条引人注目的鲤鱼灵感半身裙或裙装，主色调为珊瑚粉和深蓝色，带有层叠的鱼鳞纹样，腰间饰有圆形眼状装饰。她手提 1 只结构感手袋：一款长方形白色包袋，带有珊瑚粉色鲤鱼面部拼接、蓝色点缀、金色五金件、顶部手柄和肩带。她的深色头发扎成低马尾。她身体略微向左侧站立，双手放松，姿态流露出从容的编辑感。\n\n时尚概念围绕鲤鱼旗和鲤鱼纹样展开，将传统的日本鲤鱼旗意象转化为精致的当代女装。色调为柔和的天空蓝、腮红粉、海军蓝、白色、奶油色和珊瑚红。面料显得平滑、优雅且轻盈飘逸，带有印花或刺绣的鱼鳞图案。整体氛围优雅、女性化、充满季节感且高端，平衡了传统与现代时尚。\n\n添加多行日文封面标题，采用写实的编辑排版。左侧包含 4 组文本块：1 个关于忧郁鲤鱼旗时尚的红黑配色专题标题，1 个关于以清新优雅平衡传承传统美感的蓝色小副标题，1 个关于二十岁女性基础款与更新的黑色文本块，以及 1 个关于初夏透明感妆容的蓝色美妆专题行。右侧包含 3 组文本块：1 个红色的“封面故事”标题，下方配有较大的黑色日文主标题，1 个关于在清新绿意中闪耀的保守风格的蓝色文本块，以及 1 个粉色框选的读者赠品通知，下方配有关于奢侈品牌新款包袋和配饰的黑色日文文本。左下角附近放置 1 个圆形粉色徽章，带有白色和奶油色日文，内容为特别步行指南增刊。下部中心横跨大部分宽度，放置一个巨大的、由粉色和黑色衬线及毛笔字风格组成的戏剧性日文主标题。\n\n将其设计为一本写实的女性高端时尚杂志封面，杂志名称为 {argument name=\"magazine name\" default=\"L’Allure\"}，主题为 {argument name=\"fashion theme\" default=\"鲤鱼旗灵感春季时尚\"}，刊期为 {argument name=\"issue month\" default=\"2026 年 5 月\"}。保持文本以日文为主，刊头采用大号粉色衬线字体，构图简洁、令人向往且奢华。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日式鲤鱼旗时尚杂志封面：一本奢华的日本女性杂志封面，展示了两位身着鲤鱼旗灵感服饰的模特，非常适合编辑类时尚大片和杂志封面样稿。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "editorial",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical]。\n\nVisual style:\n[参考风格: realistic, editorial, luxury, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15682",
+      "14963",
+      "15026",
+      "14692",
+      "15787",
+      "15684"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "14540",
+  "prompt": "A smartphone chat app screenshot in portrait orientation, minimal iOS-style interface on a white background. At the top is a navigation bar with a hamburger menu icon on the left, the blue title “Thinking” near the top center-left with a right chevron, and 2 icons on the right: a compose/edit square icon and a horizontal three-dots menu icon. Below it is a large rounded light-gray chat bubble containing 2 lines of Japanese text: “AIが見ている世界を抽象的かつ” and “幻想的に画像で表現して”. Under the bubble, left-aligned gray system text reads “Thought for 7s”, and below that another gray Japanese line reads “画像が作成されました”. The lower half of the screen shows a single generated image card with large rounded corners. The image is a surreal abstract cosmic data landscape: a glowing white horizon at the center, a dark reflective grid floor receding in deep perspective, and explosive streaks of light, nebula clouds, stars, and particles rushing outward from the vanishing point. Floating throughout the space are dozens of translucent rectangular image panels or data windows, some faint and some bright, suspended at different depths. In the upper right area of the artwork, include a luminous network node diagram made of connected points and lines. Dominant colors are electric blue, indigo, violet, cyan, and touches of magenta and gold. The mood is futuristic, vast, dreamlike, and intelligent, as if visualizing the world as seen by an AI. Clean mobile app screenshot composition, realistic UI, crisp typography, high-contrast luminous digital art in the embedded image.",
+  "translatedPrompt": "一张纵向手机聊天应用截图，采用极简 iOS 风格界面，背景为白色。顶部导航栏左侧为汉堡菜单图标，中左侧为蓝色标题“Thinking”及右侧箭头，右侧有两个图标：编辑图标和水平三点菜单图标。下方是一个巨大的圆角浅灰色聊天气泡，内含两行日语文本：“AIが見ている世界を抽象的かつ” 和 “幻想的に画像で表現して”。气泡下方左对齐的灰色系统文字显示“Thought for 7s”，其下方是另一行灰色日语文字“画像が作成されました”。屏幕下半部分展示了一张圆角较大的生成图像卡片。图像为超现实抽象宇宙数据景观：中心处有发光的白色地平线，深色反射网格地面向深处延伸，光束、星云、恒星和粒子从消失点向外喷涌。空间中漂浮着数十个半透明的矩形图像面板或数据窗口，深浅不一。在艺术作品的右上角，包含一个由连接点和线条组成的明亮网络节点图。主色调为电光蓝、靛蓝、紫罗兰色、青色，并点缀着洋红色和金色。整体氛围充满未来感、广阔、梦幻且智能，仿佛在可视化 AI 眼中的世界。构图简洁，UI 真实，字体清晰，嵌入的图像具有高对比度的发光数字艺术效果。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "AI Thinking App 截图：一张纵向手机聊天应用截图，展示了日语提示词及生成的宇宙数据视觉艺术作品，适用于演示真实界面中的 AI 图像生成效果。",
+      "subject": "界面",
+      "scene": "UI/界面",
+      "composition": [
+        "grid",
+        "horizontal"
+      ],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "App Store 截图、产品概念、移动工具界面",
+      "whySelected": "得分 70；构图: grid, horizontal；风格: realistic；文字是主视觉"
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, horizontal]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14480",
+      "14661",
+      "14740",
+      "14892",
+      "15625",
+      "15427"
+    ]
+  }
+}

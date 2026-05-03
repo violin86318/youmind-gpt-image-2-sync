@@ -1,0 +1,51 @@
+{
+  "id": "15031",
+  "prompt": "A realistic full-body street photo of an adult East Asian man standing on wet asphalt in an industrial alley beside a warehouse-like building, facing the camera in a wide, energetic stance with his legs apart. He wears a light beige casual blazer, a dark charcoal gray T-shirt, beige chinos, and black slip-on sneakers with white soles. His hair is short, straight, and black. In his right hand he holds a black smartphone upright, and his left arm is bent with a clenched fist raised as if reacting excitedly, preparing to move, or striking a playful action pose. The setting includes 1 parked forklift on the left side of the frame, partially visible and slightly out of focus, and 1 corrugated exterior wall with a window on the right. Natural overcast daylight, documentary-style photography, shallow depth of field, soft muted colors, candid urban realism, eye-level composition, full-body framing, highly detailed fabric and pavement texture. Apply a strong rectangular blur censor over the face, obscuring all facial features.",
+  "translatedPrompt": "一张逼真的全身街拍照片，拍摄对象为一名成年东亚男性，他站在工业巷道湿漉漉的沥青地面上，身旁是一座类似仓库的建筑。他面向镜头，双腿分开，姿态宽阔且充满活力。他身穿浅米色休闲西装外套、深炭灰色 T 恤、米色斜纹棉布裤，脚蹬黑白底一脚蹬运动鞋。他留着黑色短直发。右手垂直握着一部黑色智能手机，左臂弯曲，拳头紧握举起，仿佛正在兴奋地做出反应、准备移动或摆出一个俏皮的动作。场景包括画面左侧一辆部分可见且略微失焦的停放叉车，以及右侧一堵带有窗户的波纹外墙。自然阴天光线，纪录片风格摄影，浅景深，柔和的低饱和度色彩，真实的城市抓拍感，平视构图，全身取景，高度还原织物和路面纹理。在面部应用强力的矩形模糊遮罩，遮挡所有面部特征。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "工业风巷道男性抓拍照片：此提示词可生成一张逼真的全身抓拍照片，展示一名穿着休闲的男子在工业户外场景中手持智能手机摆拍，适用于编辑、模因风格或生活方式类图像。",
+      "subject": "界面",
+      "scene": "摄影/真实场景",
+      "composition": [
+        "full-body"
+      ],
+      "style": [
+        "realistic",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "overcast",
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "怀旧照片、纪实场景、人物生活方式、品牌氛围图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 摄影/真实场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body]。\n\nVisual style:\n[参考风格: realistic, documentary]。\n\nLighting and camera:\n[参考光线镜头: overcast, shallow depth, depth of field, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14427",
+      "14667",
+      "15808",
+      "15651",
+      "14614",
+      "15602"
+    ]
+  }
+}

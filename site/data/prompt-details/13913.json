@@ -1,0 +1,44 @@
+{
+  "id": "13913",
+  "prompt": "An anime light novel cover. Top left features a stylized Japanese title {argument name=\"main title\" default=\"黒焔の魔眼使いは、追放先の学園都市で三人の最強ヒロインに溺愛される\"} and English subtitle {argument name=\"english subtitle\" default=\"The Exiled Black-Flame Eye in Arcane Metropolis\"}. A vertical Japanese blurb on the right reads {argument name=\"vertical blurb\" default=\"追放されたはずの俺が、なぜか最強美少女たちの運命そのものになっていた。\"}. The scene includes 4 characters and 1 creature. Centered is a male protagonist with {argument name=\"protagonist hair color\" default=\"black\"} hair, a glowing red eye, and a dark coat. He is surrounded by 3 heroines: a top-right girl with long {argument name=\"heroine hair color\" default=\"silver\"} hair and a white-blue crystal dress; a mid-left blonde girl with a side ponytail casting a pink magic circle; and a bottom-right girl with short magenta hair holding a grimoire. A black-and-white wolf familiar sits bottom-left. The background is a dark gothic academy at night, filled with floating pink petals, glowing magic particles, shattered glass, and a faint demonic figure top-right.",
+  "translatedPrompt": "一张动漫轻小说封面。左上角展示了风格化的日文标题 {argument name=\"main title\" default=\"黒焔の魔眼使いは、追放先の学園都市で三人の最強ヒロインに溺愛される\"} 和英文副标题 {argument name=\"english subtitle\" default=\"The Exiled Black-Flame Eye in Arcane Metropolis\"}。右侧的竖排日文简介写着 {argument name=\"vertical blurb\" default=\"追放されたはずの俺が、なぜか最強美少女たちの運命そのものになっていた。\"}。场景包含 4 个角色和 1 只生物。画面中心是一位男性主角，拥有 {argument name=\"protagonist hair color\" default=\"黑色\"} 头发、一只发光的红眼和一件深色外套。他被 3 位女主角环绕：右上角是一位留着长 {argument name=\"heroine hair color\" default=\"银色\"} 头发、身穿白蓝色水晶礼服的少女；左中是一位扎着侧马尾、正在施展粉色魔法阵的金发少女；右下角是一位留着洋红色短发、手持魔导书的少女。左下角坐着一只黑白相间的狼型使魔。背景是夜晚黑暗的哥特式学院，空中飘浮着粉色花瓣、发光的魔法粒子、破碎的玻璃，右上角隐约可见一个恶魔身影。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫轻小说封面与排版：生成一张精细的动漫风格轻小说封面，包含主角、后宫团、魔法特效以及融合的日文和英文排版。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14236",
+      "14472",
+      "15096",
+      "15754",
+      "15766",
+      "13745"
+    ]
+  }
+}

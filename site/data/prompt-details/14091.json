@@ -1,0 +1,41 @@
+{
+  "id": "14091",
+  "prompt": "{\n  \"type\": \"social media story screenshot\",\n  \"background_photo\": {\n    \"setting\": \"nighttime outdoor college festival\",\n    \"perspective\": \"first-person view from the back of a dense crowd looking toward a brightly lit stage\",\n    \"crowd\": \"dense gathering of young adults seen from behind, wearing casual clothing\",\n    \"stage\": \"large outdoor concert stage emitting bright blue light, main LED screen displaying '{argument name=\\\"stage main text\\\" default=\\\"AKARAKA\\\"}' and '{argument name=\\\"stage sub text\\\" default=\\\"2025 YONSEI\\\"}', flanked by vertical banners reading 'AKARAKA'\",\n    \"environment\": \"dark night sky, trees, a modern building with vertical illuminated slats on the left, two white event tents on the mid-left\"\n  },\n  \"ui_overlay\": {\n    \"top_header\": \"circular profile picture of a young woman, username '{argument name=\\\"username\\\" default=\\\"your_zzni\\\"}', timestamp '6시간', with standard three-dot menu and 'X' close icons on the right\",\n    \"center_text\": \"small white heart icon followed by the text '{argument name=\\\"overlay text\\\" default=\\\"대학 축제 낭낭하다\\\"}' floating in the middle of the screen\",\n    \"bottom_bar\": \"pill-shaped message input box containing the text '메시지 보내기', accompanied by a heart outline icon and a paper airplane icon on the right\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"社交媒体 story 截图\",\n  \"background_photo\": {\n    \"setting\": \"夜间户外大学音乐节\",\n    \"perspective\": \"从拥挤人群后方看向明亮舞台的第一人称视角\",\n    \"crowd\": \"从背后看到的穿着休闲装的年轻人群\",\n    \"stage\": \"发出明亮蓝光的大型户外演唱会舞台，主 LED 屏幕显示“{argument name=\\\"stage main text\\\" default=\\\"AKARAKA\\\"}”和“{argument name=\\\"stage sub text\\\" default=\\\"2025 YONSEI\\\"}”，两侧悬挂写有“AKARAKA”的垂直横幅\",\n    \"environment\": \"漆黑夜空、树木、左侧带有垂直发光条的现代建筑、中左侧有两个白色活动帐篷\"\n  },\n  \"ui_overlay\": {\n    \"top_header\": \"年轻女性的圆形头像，用户名为“{argument name=\\\"username\\\" default=\\\"your_zzni\\\"}”，时间戳为“6 小时前”，右侧带有标准的三点菜单和“X”关闭图标\",\n    \"center_text\": \"屏幕中央悬浮着一个小白色心形图标，后跟文字“{argument name=\\\"overlay text\\\" default=\\\"大学音乐节氛围感拉满\\\"}”\",\n    \"bottom_bar\": \"药丸形状的消息输入框，包含文字“发送消息”，右侧配有心形轮廓图标和纸飞机图标\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "社交媒体演唱会 Story 样机：生成一张逼真的 Instagram 风格夜间大学音乐节 Story 截图，支持自定义 UI 文字和舞台图形。",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13732",
+      "14063",
+      "14884",
+      "15111",
+      "14166",
+      "13824"
+    ]
+  }
+}

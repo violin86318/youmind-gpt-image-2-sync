@@ -1,0 +1,42 @@
+{
+  "id": "13762",
+  "prompt": "{\n  \"type\": \"satellite imagery web interface mockup\",\n  \"main_display\": {\n    \"imagery\": \"greyscale satellite view of ocean clouds featuring a {argument name=\\\"anomaly shape\\\" default=\\\"massive, perfectly geometric dark triangle\\\"} in the center\",\n    \"annotation\": \"red handwritten text '{argument name=\\\"annotation text\\\" default=\\\"Natural formation???\\\"}' with a red arrow pointing to the anomaly\",\n    \"overlay\": \"faint blue latitude and longitude grid lines with coordinate labels like 40N, 30N, 160W\"\n  },\n  \"ui_layout\": {\n    \"top_header\": {\n      \"left_section\": \"NOAA logo, text '{argument name=\\\"satellite name\\\" default=\\\"GOES-18 ABI CONUS - Sector View\\\"}', '{argument name=\\\"timestamp\\\" default=\\\"2024-03-15 14:32:20 UTC\\\"}', and 'Band 2 (0.64µm) - Visible Light'\",\n      \"right_section\": \"4 navigation icons with labels: Home, Share, Help, Settings\"\n    },\n    \"left_sidebar\": {\n      \"count\": 7,\n      \"items\": [\"Layers\", \"Products\", \"Basemap\", \"Measure\", \"Location\", \"Legend\", \"Download\"]\n    },\n    \"bottom_panel\": {\n      \"timeline\": {\n        \"controls\": \"Play button, left/right arrows, text '6 Scenes', '6 of 6'\",\n        \"thumbnails\": {\n          \"count\": 6,\n          \"description\": \"sequential satellite images showing the anomaly's progression, with hourly timestamps from 08:32 UTC to 14:32 UTC\"\n        }\n      },\n      \"data_readout\": {\n        \"coordinates\": \"{argument name=\\\"coordinate text\\\" default=\\\"Lat/Lon: 28.12°N, 162.08°W\\\"}\",\n        \"elevation\": \"Elevation: 0.5°\",\n        \"scale\": \"Distance Scale bar from 0 to 1000 km\"\n      }\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"卫星图像网页界面模型\",\n  \"main_display\": {\n    \"imagery\": \"海洋云层的灰度卫星视图，中心处包含一个 {argument name=\\\"anomaly shape\\\" default=\\\"巨大的、完美的几何深色三角形\\\"}\",\n    \"annotation\": \"红色的手写文字“{argument name=\\\"annotation text\\\" default=\\\"自然形成？？？\\\"}”，并配有一个指向该异常的红色箭头\",\n    \"overlay\": \"淡蓝色的经纬度网格线，带有 40N、30N、160W 等坐标标签\"\n  },\n  \"ui_layout\": {\n    \"top_header\": {\n      \"left_section\": \"NOAA 标志，文字“{argument name=\\\"satellite name\\\" default=\\\"GOES-18 ABI CONUS - Sector View\\\"}”、“{argument name=\\\"timestamp\\\" default=\\\"2024-03-15 14:32:20 UTC\\\"}”以及“Band 2 (0.64µm) - 可见光”\",\n      \"right_section\": \"4 个导航图标，标签分别为：首页、分享、帮助、设置\"\n    },\n    \"left_sidebar\": {\n      \"count\": 7,\n      \"items\": [\"图层\", \"产品\", \"底图\", \"测量\", \"位置\", \"图例\", \"下载\"]\n    },\n    \"bottom_panel\": {\n      \"timeline\": {\n        \"controls\": \"播放按钮、左右箭头、文字“6 个场景”、“6 / 6”\",\n        \"thumbnails\": {\n          \"count\": 6,\n          \"description\": \"展示异常演变过程的连续卫星图像，包含从 08:32 UTC 到 14:32 UTC 的每小时时间戳\"\n        }\n      },\n      \"data_readout\": {\n        \"coordinates\": \"{argument name=\\\"coordinate text\\\" default=\\\"经纬度：28.12°N, 162.08°W\\\"}\",\n        \"elevation\": \"海拔：0.5°\",\n        \"scale\": \"0 到 1000 km 的距离比例尺\"\n      }\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "卫星异常界面模型：生成一个逼真的卫星图像网页界面，包含神秘的几何异常、时间轴缩略图和 UI 控件。",
+      "subject": "信息结构",
+      "scene": "UI/界面",
+      "composition": [
+        "grid"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13893",
+      "14166",
+      "13696",
+      "14037",
+      "13803",
+      "15397"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "15255",
+  "prompt": "A close-up candid portrait of a {argument name=\"subject\" default=\"young woman\"} indoors against a muted beige wall, shot in a 1990s disposable camera snapshot style. She has pale skin, a soft understated smirk, and loose {argument name=\"hair color\" default=\"black\"} hair with natural volume, slightly messy waves, and face-framing strands spreading around her shoulders. She wears a {argument name=\"top color\" default=\"faded mauve\"} oversized sweatshirt with a relaxed fit and softly gathered sleeves. The framing is chest-up and slightly off-center at eye level, with her body angled casually and one arm subtly extending forward as if taking the photo herself. Use direct on-camera flash for flat shadows, a dim ambient room, visible but subtle film grain, soft edge falloff, and a nostalgic casual vibe. The wall behind her is decorated with exactly 8 taped paper items: 4 instant photos, 2 concert flyers, 1 handwritten note, and 1 small dark photo print. One flyer references {argument name=\"band name\" default=\"SONIC YOUTH\"}, another references {argument name=\"second band name\" default=\"NIRVANA\"}. The overall image should feel intimate, imperfect, slightly grainy, and authentically analog.",
+  "translatedPrompt": "一张室内近景抓拍人像，{argument name=\"subject\" default=\"年轻女性\"} 背靠柔和的米色墙壁，采用 1990 年代一次性相机快照风格拍摄。她皮肤白皙，带着淡淡的、内敛的微笑，留着蓬松的 {argument name=\"hair color\" default=\"黑色\"} 卷发，发丝自然凌乱，几缕发丝垂落在肩头。她穿着一件 {argument name=\"top color\" default=\"褪色紫红色\"} 的宽松卫衣，版型休闲，袖口微微收拢。构图为胸部以上，视线平齐且略微偏离中心，身体姿态随性，一只手臂微微向前伸展，仿佛是她自己在自拍。使用直射机顶闪光灯营造平坦的阴影，环境光线昏暗，带有可见但细腻的胶片颗粒感，边缘柔和，充满怀旧随性的氛围。她身后的墙上贴着 8 件纸质物品：4 张拍立得照片、2 张演唱会传单、1 张手写便条和 1 张小型深色照片打印件。其中一张传单提到 {argument name=\"band name\" default=\"SONIC YOUTH\"}，另一张提到 {argument name=\"second band name\" default=\"NIRVANA\"}。整体画面应呈现出亲密、不完美、略带颗粒感且真实的模拟胶片质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "一次性相机卧室人像：此提示词可生成带有怀旧闪光灯效果的特写人像，呈现模拟胶片质感，非常适合编辑风格的情绪图、独立音乐视觉素材或随性的复古生活方式人像。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "film grain",
+        "camera"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: film grain, camera]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14568",
+      "15463",
+      "15723",
+      "13625",
+      "14454",
+      "15250"
+    ]
+  }
+}

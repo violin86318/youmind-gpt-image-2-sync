@@ -1,0 +1,46 @@
+{
+  "id": "13997",
+  "prompt": "{\n  \"type\": \"2x2 grid of Japanese advertising posters\",\n  \"layout\": {\n    \"format\": \"2x2 grid\",\n    \"panels\": [\n      {\n        \"position\": \"top-left\",\n        \"theme\": \"skincare brand\",\n        \"visual\": \"Close-up of a young Japanese woman with glowing dewy skin and short black hair. 3 minimalist white skincare bottles in the bottom left.\",\n        \"text_elements\": {\n          \"headline\": \"{argument name=\\\"skincare headline\\\" default=\\\"素肌が、いちばんのメイクになる。\\\"}\",\n          \"brand\": \"urala\",\n          \"subtext\": [\"肌本来の力を引き出す 新・スキンケアシリーズ誕生\", \"4.25 NEW DEBUT\", \"うららかに、わたしらしく。\"]\n        }\n      },\n      {\n        \"position\": \"top-right\",\n        \"theme\": \"cafe promotion\",\n        \"visual\": \"A slice of thick toast topped with strawberry jam and butter on a plate, next to a mug of black coffee on a wooden table near a window.\",\n        \"text_elements\": {\n          \"headline\": \"{argument name=\\\"cafe headline\\\" default=\\\"今日も、いい日。\\\"}\",\n          \"brand\": \"morino cafe\",\n          \"subtext\": [\"森のそばの小さなカフェ\", \"こだわりのコーヒーと、焼きたてのパンでほっとひと息しませんか？\", \"季節限定 いちごのジャムトースト始めました\"]\n        }\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"theme\": \"personal gym\",\n        \"visual\": \"A fit Japanese woman in a black sports bra with a ponytail, looking upward with determination in a purple-lit gym.\",\n        \"text_elements\": {\n          \"headline\": \"{argument name=\\\"gym headline\\\" default=\\\"わたしを超えていけ。\\\"}\",\n          \"brand\": \"BEYOND LIMIT PERSONAL GYM\",\n          \"subtext\": [\"今こそ、理想の自分へ\", \"まずは体験から！ 体験トレーニング 60分 ¥2,200(税込)\"]\n        }\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"theme\": \"resort destination\",\n        \"visual\": \"A serene view of a bright blue ocean and sky from a modern white balcony with a small sofa and potted plant.\",\n        \"text_elements\": {\n          \"headline\": \"{argument name=\\\"resort headline\\\" default=\\\"まだ見ぬ景色に、出会う旅。\\\"}\",\n          \"brand\": \"UMI to SORA RESORT\",\n          \"subtext\": [\"心がほどける、特別な時間をあなたに。\", \"期間限定 夏のご予約キャンペーン\", \"{argument name=\\\"resort discount\\\" default=\\\"最大20%OFF\\\"}\"]\n        }\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"2x2 日式广告海报网格\",\n  \"layout\": {\n    \"format\": \"2x2 网格\",\n    \"panels\": [\n      {\n        \"position\": \"左上\",\n        \"theme\": \"护肤品牌\",\n        \"visual\": \"一位留着短黑发、皮肤水润透亮的年轻日本女性特写。左下角摆放着 3 瓶极简风格的白色护肤品。\",\n        \"text_elements\": {\n          \"headline\": \"{argument name=\\\"skincare headline\\\" default=\\\"素肌が、いちばんのメイクになる。\\\"}\",\n          \"brand\": \"urala\",\n          \"subtext\": [\"肌本来の力を引き出す 新・スキンケアシリーズ誕生\", \"4.25 NEW DEBUT\", \"うららかに、わたしらしく。\"]\n        }\n      },\n      {\n        \"position\": \"右上\",\n        \"theme\": \"咖啡馆推广\",\n        \"visual\": \"盘子里放着一片涂有草莓酱和黄油的厚吐司，旁边是一杯黑咖啡，放在窗边的木桌上。\",\n        \"text_elements\": {\n          \"headline\": \"{argument name=\\\"cafe headline\\\" default=\\\"今日も、いい日。\\\"}\",\n          \"brand\": \"morino cafe\",\n          \"subtext\": [\"森のそばの小さなカフェ\", \"こだわりのコーヒーと、焼きたてのパンでほっとひと息しませんか？\", \"季節限定 いちごのジャムトースト始めました\"]\n        }\n      },\n      {\n        \"position\": \"左下\",\n        \"theme\": \"个人健身房\",\n        \"visual\": \"一位扎着马尾辫、穿着黑色运动内衣的健美日本女性，在紫色灯光的健身房里坚定地向上看。\",\n        \"text_elements\": {\n          \"headline\": \"{argument name=\\\"gym headline\\\" default=\\\"わたしを超えていけ。\\\"}\",\n          \"brand\": \"BEYOND LIMIT PERSONAL GYM\",\n          \"subtext\": [\"今こそ、理想の自分へ\", \"まずは体験から！ 体験トレーニング 60分 ¥2,200(税込)\"]\n        }\n      },\n      {\n        \"position\": \"右下\",\n        \"theme\": \"度假胜地\",\n        \"visual\": \"从现代白色阳台望去，可以看到湛蓝的海洋和天空，阳台上摆放着一张小沙发和一盆植物。\",\n        \"text_elements\": {\n          \"headline\": \"{argument name=\\\"resort headline\\\" default=\\\"まだ見ぬ景色に、出会う旅。\\\"}\",\n          \"brand\": \"UMI to SORA RESORT\",\n          \"subtext\": [\"心がほどける、特別な時間をあなたに。\", \"期間限定 夏のご予約キャンペーン\", \"{argument name=\\\"resort discount\\\" default=\\\"最大20%OFF\\\"}\"]\n        }\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "4 格日式广告网格：生成一个 2x2 的网格，包含护肤品、咖啡馆、健身房和度假村的 4 张不同日式宣传海报。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up",
+        "grid",
+        "2x2"
+      ],
+      "style": [
+        "minimalist"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, grid, 2x2]。\n\nVisual style:\n[参考风格: minimalist]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14026",
+      "14548",
+      "15467",
+      "14006",
+      "15644",
+      "15645"
+    ]
+  }
+}

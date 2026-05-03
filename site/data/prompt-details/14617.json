@@ -1,0 +1,46 @@
+{
+  "id": "14617",
+  "prompt": "A dramatic high-fantasy anime illustration in a vertical poster composition, showing a celestial sky battle scene with 4 distinct subjects surrounded by glowing blue feathers, crystal shards, and swirling clouds. In the center, a heroic male warrior inspired by Norse mythology stands floating in the air, raising one arm toward a radiant circular magic sigil above him. He has long flowing brown hair, a horned gold-and-blue helmet, a dark teal cape billowing behind him, and ornate black, gold, and turquoise armor with angular geometric trim. His chest is partly exposed, with a bright cyan wolf-emblem glow at the center of his torso, and he holds a long spear with a crystal blue trident-like blade in his other hand. At the bottom foreground, the largest creature is a massive wolf-beast lunging forward toward the viewer, with orange fur, cream mane, huge fangs, oversized claws, and blue crystalline armor covering its head, shoulders, back, and limbs; the crystal plates are faceted and luminous, and the beast wears metallic blue-and-gold bands around its legs and tail. On the upper left, include a second wolf-like humanoid companion in a midair attack pose, with golden-orange fur, athletic muscular anatomy, large spread wings made of sharp blue crystal feathers, blue crystal helmet and shoulder armor, and armored gauntlets and boots with glowing cyan accents. On the right, include a small chibi fox mascot floating cheerfully, with bright orange fur, very large ears, a fluffy tail, huge blue eyes, a smiling open mouth, and a blue tunic with cyan geometric trim and a diamond-shaped chest jewel. The entire image should use vivid electric blues and warm orange-golds for strong contrast, with intense rim lighting, sparkling particles, dynamic motion, stylized manga linework, and highly detailed fantasy rendering. The background is a cosmic storm of luminous clouds and deep starry sky, with a glowing circular constellation-like emblem centered above the warrior, suggesting divine summoning power. Make the scene energetic, triumphant, magical, and epic, like premium anime key art or a trading card game splash illustration.",
+  "translatedPrompt": "一张极具动感的竖版高奇幻动漫插画，展现了 4 位英雄角色悬浮在充满发光云层、蓝色水晶碎片和漂浮青色羽毛的暴风雨天空中。画面中心，一位灵感源自北欧神祇的高大男性装甲战士作为核心焦点，他留着棕色长发，头戴金青色尖角头盔，深绿色与蓝色的披风在风中飘扬，身着华丽的黑、青、金三色铠甲，胸口敞开露出肌肉，胸前有一个发光的亮青色狼形纹章。他一只手向上举向头顶上方发光的圆形魔法符文，另一只手握着一把长矛，矛头为蓝色水晶材质。在他周围，有 3 只狐狸与狼形态的伙伴生物，身着配套的冰晶铠甲。画面下方前景处，1 只巨大的凶猛橙色狼正张嘴咆哮着冲向观众，巨大的爪子伸出，拥有白色鬃毛、蓝色水晶头盔、背部和腿部的蓝金装甲板，以及一条巨大的蓬松尾巴。左上方，1 只矫健的橙色狐狸战士正身穿棱角分明的蓝色水晶铠甲，背负巨大的多面蓝色翅膀在半空中向前跃起，姿态如同快速的空中突击者。右侧，1 只可爱的小型 Q 版狐狸伙伴正快乐地漂浮着，有着大大的蓝眼睛、灿烂的笑容，身穿带有发光青色纹路的蓝色短袍，头戴水晶王冠。使用鲜艳饱和的色彩，特别是电光青、蓝宝石色、青色、金色和橙色。氛围史诗、神圣且充满魔法感，具有强烈的动感线条、戏剧性的透视缩短、发光高光、细腻的毛发与羽毛质感、精致的水晶纹理，以及电影级奇幻集换式卡牌插画的品质。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "史诗级北欧天空战士与水晶神兽：此提示词可生成一张极具戏剧性的竖版奇幻动漫插画，描绘了一位头戴尖角的空中战士与三只身披水晶铠甲的动物伙伴，非常适合用于海报、卡牌艺术或游戏主视觉图。",
+      "subject": "产品",
+      "scene": "插画/漫画",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "manga",
+        "fantasy",
+        "premium"
+      ],
+      "lightingCamera": [
+        "rim light"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "动漫分镜、战斗场景、运动瞬间、夸张叙事图",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 插画/漫画 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: anime, manga, fantasy, premium]。\n\nLighting and camera:\n[参考光线镜头: rim light]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14432",
+      "15800",
+      "15798",
+      "15379",
+      "14461",
+      "14528"
+    ]
+  }
+}

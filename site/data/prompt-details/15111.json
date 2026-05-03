@@ -1,0 +1,44 @@
+{
+  "id": "15111",
+  "prompt": "A painterly wildlife photograph with strong intentional motion blur, showing 1 deer-like animal in a lush green forest clearing. The animal stands slightly left of center in side profile facing left, with a pale tan to cream body, slender legs, and a soft indistinct head and ears, partially emerging from a dark shadowy opening in dense foliage. The entire image is heavily smeared with diagonal and vertical camera motion, creating an impressionistic, dreamlike effect rather than sharp detail. Surround the subject with saturated summer greenery: deep emerald bushes in the background, darker forest shadows near the upper left, and bright vivid grass across the foreground. Use natural outdoor daylight, rich green tones, soft contrast, and an abstract photographic style that feels like a fleeting glimpse of wildlife captured while moving. No people, no text, no buildings, no extra animals.",
+  "translatedPrompt": "一张具有强烈主观动态模糊效果的写意野生动物摄影作品，展示了茂密绿色森林空地中的 1 只鹿类动物。动物呈侧面站立，位于中心偏左位置，面向左侧，身体呈浅棕色至奶油色，四肢纤细，头部和耳朵轮廓柔和模糊，从茂密枝叶的阴影空隙中隐约显现。整张图像呈现出强烈的对角线和垂直方向的相机动态模糊，营造出一种印象派的梦幻效果，而非锐利的细节。主体周围环绕着饱和的夏季绿植：背景是深翠绿色的灌木丛，左上方是深邃的森林阴影，前景则是明亮鲜艳的草地。采用自然户外日光，色调以浓郁的绿色为主，对比度柔和，呈现出一种抽象的摄影风格，仿佛在移动中捕捉到野生动物转瞬即逝的身影。画面中不包含人物、文字、建筑物或其他动物。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "绿林中模糊的鹿：此提示词可生成一张具有印象派动态模糊效果的野生动物图像，画面主体为茂密绿叶中的一只鹿类动物，适用于营造氛围的自然艺术或抽象摄影作品。",
+      "subject": "人物",
+      "scene": "UI/界面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "禁止额外文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "直播带货界面、社交电商、移动端商品页",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a UI/界面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n禁止额外文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14884",
+      "14063",
+      "14092",
+      "14984",
+      "13732",
+      "13772"
+    ]
+  }
+}

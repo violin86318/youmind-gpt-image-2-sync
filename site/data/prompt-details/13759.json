@@ -1,0 +1,43 @@
+{
+  "id": "13759",
+  "prompt": "{\n  \"type\": \"educational mathematical infographic\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"Hilbert Curve\\\"}\",\n    \"subtitle\": \"{argument name=\\\"degree subtitle\\\" default=\\\"Degree 3 (Order 3)\\\"}\",\n    \"equation\": \"n = 3 -> 2^n x 2^n = 8 x 8 grid, 2^(2n) = 64 steps\"\n  },\n  \"layout\": {\n    \"left_panel\": \"large 2D line plot\",\n    \"right_sidebar\": \"stacked informational panels and text blocks\"\n  },\n  \"main_graph\": {\n    \"axes\": {\n      \"x_axis\": \"labeled 'x (column index)' with ticks 0 to 7\",\n      \"y_axis\": \"labeled 'y (row index)' with ticks 0 to 7\"\n    },\n    \"grid\": \"{argument name=\\\"grid size\\\" default=\\\"8x8\\\"} dashed light gray lines\",\n    \"curve\": {\n      \"description\": \"continuous non-intersecting path filling the grid\",\n      \"style\": \"thick line with directional arrows\",\n      \"colors\": \"{argument name=\\\"curve colors\\\" default=\\\"gradient transitioning through purple, blue, green, yellow, orange, and red\\\"}\",\n      \"markers\": [\n        \"purple dot at bottom left labeled '00'\",\n        \"blue dot at top left labeled '64'\"\n      ],\n      \"labels\": \"various two-digit numbers scattered along the path vertices, such as 01, 02, 32, 65, 70\"\n    }\n  },\n  \"sidebar\": {\n    \"sections\": [\n      {\n        \"title\": \"Legend\",\n        \"type\": \"box with rounded corners\",\n        \"count\": 4,\n        \"items\": [\n          \"purple dot: 'Start (step 0)'\",\n          \"blue dot: 'End (step 63)'\",\n          \"black arrow: 'Direction of traversal'\",\n          \"colored lines: 'Curve (colored by sub-quadrant progression)'\"\n        ]\n      },\n      {\n        \"title\": \"Definition\",\n        \"type\": \"text block\",\n        \"text\": \"Hilbert curve of degree n maps the unit interval [0,1] onto the unit square [0,1]x[0,1] while preserving locality.\"\n      },\n      {\n        \"title\": \"Properties\",\n        \"type\": \"bulleted list\",\n        \"heading\": \"For degree 3:\",\n        \"count\": 3,\n        \"items\": [\n          \"Grid size: 8 x 8 = 2^3 x 2^3\",\n          \"Total steps: 64 = 2^{2*3}\",\n          \"Visits each of the 64 grid points exactly once in a continuous path.\"\n        ]\n      },\n      {\n        \"title\": \"Quadrant structure (recursive)\",\n        \"type\": \"2x2 colored grid\",\n        \"count\": 4,\n        \"boxes\": [\n          \"Top-left blue: 'Q2 (steps 32-63)'\",\n          \"Top-right yellow: 'Q3 (steps 48-63)'\",\n          \"Bottom-left purple: 'Q0 (steps 0-31)'\",\n          \"Bottom-right pink: 'Q1 (steps 16-47)'\"\n        ],\n        \"footer_text\": \"Each quadrant is a degree-2 Hilbert curve (recursively defined).\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"教育性数学信息图\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"希尔伯特曲线\\\"}\",\n    \"subtitle\": \"{argument name=\\\"degree subtitle\\\" default=\\\"3 阶 (Order 3)\\\"}\",\n    \"equation\": \"n = 3 -> 2^n x 2^n = 8 x 8 网格，2^(2n) = 64 个步骤\"\n  },\n  \"layout\": {\n    \"left_panel\": \"大型二维线图\",\n    \"right_sidebar\": \"堆叠的信息面板和文本块\"\n  },\n  \"main_graph\": {\n    \"axes\": {\n      \"x_axis\": \"标注为 'x (列索引)'，刻度为 0 到 7\",\n      \"y_axis\": \"标注为 'y (行索引)'，刻度为 0 到 7\"\n    },\n    \"grid\": \"{argument name=\\\"grid size\\\" default=\\\"8x8\\\"} 虚线浅灰色网格\",\n    \"curve\": {\n      \"description\": \"填充网格的连续不相交路径\",\n      \"style\": \"带有方向箭头的粗线\",\n      \"colors\": \"{argument name=\\\"curve colors\\\" default=\\\"从紫色、蓝色、绿色、黄色、橙色到红色的渐变色\\\"}\",\n      \"markers\": [\n        \"左下角的紫色点，标注为 '00'\",\n        \"左上角的蓝色点，标注为 '64'\"\n      ],\n      \"labels\": \"沿路径顶点散布的各种两位数，例如 01、02、32、65、70\"\n    }\n  },\n  \"sidebar\": {\n    \"sections\": [\n      {\n        \"title\": \"图例\",\n        \"type\": \"圆角框\",\n        \"count\": 4,\n        \"items\": [\n          \"紫色点：'起点 (步骤 0)'\",\n          \"蓝色点：'终点 (步骤 63)'\",\n          \"黑色箭头：'遍历方向'\",\n          \"彩色线条：'曲线 (按子象限进度着色)'\"\n        ]\n      },\n      {\n        \"title\": \"定义\",\n        \"type\": \"文本块\",\n        \"text\": \"n 阶希尔伯特曲线将单位区间 [0,1] 映射到单位正方形 [0,1]x[0,1]，同时保持局部性。\"\n      },\n      {\n        \"title\": \"属性\",\n        \"type\": \"项目符号列表\",\n        \"heading\": \"对于 3 阶：\",\n        \"count\": 3,\n        \"items\": [\n          \"网格大小：8 x 8 = 2^3 x 2^3\",\n          \"总步骤数：64 = 2^{2*3}\",\n          \"以连续路径精确访问每个 64 个网格点一次。\"\n        ]\n      },\n      {\n        \"title\": \"象限结构 (递归)\",\n        \"type\": \"2x2 彩色网格\",\n        \"count\": 4,\n        \"boxes\": [\n          \"左上蓝色：'Q2 (步骤 32-63)'\",\n          \"右上黄色：'Q3 (步骤 48-63)'\",\n          \"左下紫色：'Q0 (步骤 0-31)'\",\n          \"右下粉色：'Q1 (步骤 16-47)'\"\n        ],\n        \"footer_text\": \"每个象限都是一个 2 阶希尔伯特曲线 (递归定义)。\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "希尔伯特曲线信息图：生成一张教育性数学图表，用于解释 3 阶希尔伯特曲线，包含绘制的图形、图例和属性。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "grid",
+        "2x2"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, 2x2]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13599",
+      "13639",
+      "13656",
+      "13688",
+      "13789",
+      "14163"
+    ]
+  }
+}

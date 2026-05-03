@@ -1,0 +1,33 @@
+{
+  "id": "15198",
+  "prompt": "{argument name=\"产品\" default=\"四轴无人机\"} 带尺寸工程图，包括不限于下面这些内容，记得角落做一些产品概念图\n\n三视图：主视图、俯视图、左视图，用二维表达三维结构\n零件图：每个零件单独画，带尺寸、孔位、材料、公差\n装配图：说明各零件怎么装在一起\n爆炸图 / 爆炸装配图：把零件拆开排布，方便看结构关系\n剖视图：把内部结构切开表达\nBOM 表：物料清单，写明零件名称、数量、规格\n尺寸标注图：把可制造、可复刻需要的关键尺寸写全",
+  "translatedPrompt": "为 {argument name=\"product\" default=\"4 轴无人机\"} 制作详细工程图，包含但不限于：角落处的产品概念草图、三视图（正视、顶视、侧视）、带有尺寸和材料规格的零件图、装配图、展示结构关系的爆炸图、剖面图、BOM（物料清单）以及用于制造的全面尺寸标注。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "技术无人机工程蓝图：一个用于生成详细 4 轴无人机工程图的复杂提示词，包含装配视图、爆炸图、BOM 表及概念草图。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [],
+      "modules": [
+        "主体"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13709",
+      "14134",
+      "14304",
+      "14308",
+      "14336",
+      "14355"
+    ]
+  }
+}

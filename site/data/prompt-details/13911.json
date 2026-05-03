@@ -1,0 +1,37 @@
+{
+  "id": "13911",
+  "prompt": "{\n  \"type\": \"promotional banner infographic\",\n  \"style\": \"clean, professional, flat design, corporate educational graphic, white background with orange and dark blue accents\",\n  \"subject\": \"{argument name=\\\"spokesperson\\\" default=\\\"smiling Asian man in a blue blazer and white t-shirt, arms crossed\\\"}\",\n  \"layout\": {\n    \"top_section\": {\n      \"left_badge\": \"Orange banner with beginner mark icon and text '入門ガイド'\",\n      \"speech_bubble\": \"White bubble with text '初心者向け ゼロから学べる！'\",\n      \"right_badge\": \"Dark blue circle with text '最新版' and '{argument name=\\\"year edition\\\" default=\\\"2026年版\\\"}'\"\n    },\n    \"main_title_section\": {\n      \"top_small_text\": \"\\\\ 副業にもおすすめ！スマホでもOK /\",\n      \"large_title\": \"{argument name=\\\"main title\\\" default=\\\"AI活用の始め方\\\"}\",\n      \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"電子コンテンツ販売入門\\\"}\",\n      \"bottom_small_text\": \"AIで文章・画像・資料・動画を作って売る！収益化の第一歩\"\n    },\n    \"middle_sections\": [\n      {\n        \"position\": \"middle-left\",\n        \"type\": \"feature boxes\",\n        \"count\": 5,\n        \"items\": [\n          \"Orange box: '初心者向け', beginner mark icon, 'やさしく丁寧'\",\n          \"Blue box: 'ゼロから学べる', open book icon, '基礎から解説'\",\n          \"Orange box: 'テンプレ付き', document icon, 'すぐに使える'\",\n          \"Blue box: '副業にもおすすめ', coin with ¥ icon, '収益化を目指せる'\",\n          \"Orange box: '失敗しない始め方', checkmark icon, '注意点まで網羅'\"\n        ]\n      },\n      {\n        \"position\": \"middle-center\",\n        \"type\": \"list items with icons\",\n        \"count\": 5,\n        \"items\": [\n          \"Document icon: '何を作ればいい？' / '売れるコンテンツのアイデア'\",\n          \"Laptop icon: '売り方の基本' / '販売プラットフォームの選び方'\",\n          \"Chart icon: 'ツールの使い方' / 'AIの基本操作と活用手順'\",\n          \"Warning icon: '収益化の流れ' / '準備〜販売〜改善まで解説'\",\n          \"Checklist icon: '注意点も解説' / '失敗しないためのポイント'\"\n        ]\n      }\n    ],\n    \"bottom_section\": {\n      \"left_banner\": \"Dark blue banner with book icon and text '{argument name=\\\"bottom banner text\\\" default=\\\"手順をわかりやすく解説\\\"}'\",\n      \"center_checklist\": {\n        \"count\": 3,\n        \"items\": [\n          \"AIが苦手でも大丈夫\",\n          \"今日から一歩を踏み出せる\",\n          \"継続できるコツも紹介\"\n        ]\n      },\n      \"right_badge\": \"Orange circle with text 'AIでコンテンツ販売を始めよう！'\"\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"推广横幅信息图\",\n  \"style\": \"简洁、专业、扁平化设计、企业教育图形，白色背景配以橙色和深蓝色点缀\",\n  \"subject\": \"{argument name=\\\"spokesperson\\\" default=\\\"穿着蓝色西装外套和白色 T 恤、双臂交叉的微笑亚洲男性\\\"}\",\n  \"layout\": {\n    \"top_section\": {\n      \"left_badge\": \"带有入门标记图标和文字“入门指南”的橙色横幅\",\n      \"speech_bubble\": \"带有文字“面向初学者，从零开始学习！”的白色气泡\",\n      \"right_badge\": \"带有文字“最新版”和“{argument name=\\\"year edition\\\" default=\\\"2026 年版\\\"}”的深蓝色圆圈\"\n    },\n    \"main_title_section\": {\n      \"top_small_text\": \"\\\\ 推荐作为副业！手机操作也没问题 /\",\n      \"large_title\": \"{argument name=\\\"main title\\\" default=\\\"AI 应用入门\\\"}\",\n      \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"数字内容销售入门\\\"}\",\n      \"bottom_small_text\": \"利用 AI 制作并销售文章、图片、资料和视频！迈出盈利的第一步\"\n    },\n    \"middle_sections\": [\n      {\n        \"position\": \"middle-left\",\n        \"type\": \"功能框\",\n        \"count\": 5,\n        \"items\": [\n          \"橙色框：“面向初学者”，入门标记图标，“简单易懂”\",\n          \"蓝色框：“从零开始学习”，打开的书本图标，“基础讲解”\",\n          \"橙色框：“附带模板”，文档图标，“即刻可用”\",\n          \"蓝色框：“推荐作为副业”，带 ¥ 的硬币图标，“以盈利为目标”\",\n          \"橙色框：“不失败的入门方法”，对勾图标，“涵盖注意事项”\"\n        ]\n      },\n      {\n        \"position\": \"middle-center\",\n        \"type\": \"带图标的列表项\",\n        \"count\": 5,\n        \"items\": [\n          \"文档图标：“该制作什么？” / “畅销内容创意”\",\n          \"笔记本电脑图标：“销售基础” / “如何选择销售平台”\",\n          \"图表图标：“工具使用方法” / “AI 基本操作与应用步骤”\",\n          \"警告图标：“盈利流程” / “从准备到销售再到优化的讲解”\",\n          \"清单图标：“注意事项讲解” / “避免失败的关键点”\"\n        ]\n      }\n    ],\n    \"bottom_section\": {\n      \"left_banner\": \"带有书本图标和文字“{argument name=\\\"bottom banner text\\\" default=\\\"通俗易懂的步骤讲解\\\"}”的深蓝色横幅\",\n      \"center_checklist\": {\n        \"count\": 3,\n        \"items\": [\n          \"不擅长 AI 也没关系\",\n          \"今天就能迈出第一步\",\n          \"介绍持续坚持的小窍门\"\n        ]\n      },\n      \"right_badge\": \"带有文字“用 AI 开始内容销售吧！”的橙色圆圈\"\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日语教育推广横幅：生成一张细节丰富、文字密集的推广横幅或 YouTube 缩略图，包含发言人、主标题和多个功能列表。",
+      "subject": "人物",
+      "scene": "图标/贴纸",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "图标包、贴纸、表情、产品功能图标",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 图标/贴纸 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14196",
+      "14442",
+      "15333",
+      "14665",
+      "14993",
+      "14146"
+    ]
+  }
+}

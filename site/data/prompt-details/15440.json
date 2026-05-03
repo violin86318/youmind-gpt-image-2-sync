@@ -1,0 +1,44 @@
+{
+  "id": "15440",
+  "prompt": "A cinematic historical Chinese scene depicting the Empty Fort Strategy at dawn, viewed from outside a massive ancient city gate. In the foreground, a dark armored general on horseback, seen from behind in a flowing black cape, pauses with several spear-bearing soldiers and banners, facing the open gate in suspicion. The huge wooden gate doors stand fully open, revealing a long stone-paved street inside the city. Exactly 6 townspeople are visible inside, calmly sweeping the street with brooms, spaced along the road, creating an eerie sense of normalcy. Above the gate, on a timber balcony of a traditional tiled gatehouse, a calm strategist in white robes and a tall scholar’s headdress sits behind a guqin table, with a small incense burner sending up thin smoke. Exactly 3 attendants stand around him on the balcony. The city walls are built of aged gray stone, and ranks of soldiers with upright spears line the battlements in the background. Use authentic Three Kingdoms era architecture, weathered wood, layered roof tiles, muted earth tones, soft golden morning light, distant misty mountains, long shadows, atmospheric haze, ultra-detailed textures, dramatic vertical composition, epic historical realism, cinematic framing, and a tense, quiet mood.",
+  "translatedPrompt": "一幅极具电影感的中国历史场景，描绘了黎明时分的“空城计”，视角从巨大的古代城门外望去。前景中，一位身披黑色斗篷的暗甲将军骑在马上，背影示人，他与几名持矛士兵及旗手停下脚步，疑虑地注视着敞开的城门。巨大的木质城门大开，露出城内长长的石板街道。城内清晰可见 6 名平民，他们正从容地扫着地，沿街道分布，营造出一种诡异的平静感。城门上方，在传统瓦顶城楼的木质露台上，一位身着白袍、头戴高冠的谋士正从容地坐在古琴桌后，桌上香炉升起缕缕青烟。露台上还有 3 名侍从环绕在他身边。城墙由古老的灰石砌成，背景中的城垛上排列着手持长矛的士兵。采用真实的三国时代建筑风格、风化的木材、层叠的瓦片、柔和的大地色调、清晨的金色暖光、远处的朦胧山峦、长长的阴影、大气层雾气、超精细纹理、极具戏剧性的纵向构图、史诗般的历史写实感、电影级取景，以及紧张而静谧的氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "空城计：一幅极具电影感的《三国演义》插画，描绘了诸葛亮在敞开的城门上从容抚琴，敌军骑兵在城外犹豫不决的场景，非常适合历史场景生成及中国经典史诗改编。",
+      "subject": "空间",
+      "scene": "空间/场景",
+      "composition": [
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "空间概念、建筑场景、游戏场景、产品场景盒子",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 空间/场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical]。\n\nVisual style:\n[参考风格: cinematic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14256",
+      "15405",
+      "14255",
+      "14686",
+      "15092",
+      "15328"
+    ]
+  }
+}

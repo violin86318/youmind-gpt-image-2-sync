@@ -1,0 +1,46 @@
+{
+  "id": "15469",
+  "prompt": "Using the provided reference image as the character and color-palette guide, transform it into a polished J.Crew-style editorial fashion lookbook starring the same mascot. Replace the infographic/chart layout with a clean 2x2 magazine spread on an off-white background. Add a large serif brand header reading {argument name=\"headline text\" default=\"J.CREW\"} and an italic subhead reading {argument name=\"subhead text\" default=\"Gritty’s Off Hours: Cool & Casual\"}. Show exactly 4 styled outfit photos of the same character, keeping the fuzzy orange fur, big eyes, and black helmet, but placing the mascot in modern menswear inspired by the “best” colors from the reference: 1) “CLASSIC CREW” — seated on a stool in a navy sweater over a crisp white oxford with dark denim; 2) “EASY LAYERS” — standing casually in a teal overshirt, white tee, and charcoal trousers; 3) “POP OF PLUM” — relaxed pose in a plum cardigan with dark pants; 4) “MODERN SPORT” — seated in a black sporty layer with black pants, white socks, and white sneakers. Give each panel a short catalog-style caption under it matching those 4 titles and concise fashion copy. Use soft natural indoor lighting, minimal home-interior editorial settings, premium catalog photography, and a tasteful upscale preppy aesthetic. Add a small closing line centered at the bottom: {argument name=\"footer text\" default=\"TIMELESS STYLE. PLAYFUL SPIRIT.\"}",
+  "translatedPrompt": "以提供的参考图作为角色和配色指南，将其转化为一套由该吉祥物担任主角的精致 J.Crew 风格时尚画册。将信息图/图表布局替换为米白色背景下的简洁 2x2 杂志排版。添加一个大型衬线字体品牌标题 {argument name=\"headline text\" default=\"J.CREW\"} 以及一个斜体副标题 {argument name=\"subhead text\" default=\"Gritty’s Off Hours: Cool & Casual\"}。展示 4 张该角色的造型照片，保留其毛茸茸的橙色皮毛、大眼睛和黑色头盔，但让吉祥物穿上灵感源自参考图中“最佳”配色的现代男装：1) “CLASSIC CREW” — 坐在凳子上，身穿海军蓝毛衣，内搭清爽的白色牛津衬衫，下穿深色牛仔裤；2) “EASY LAYERS” — 随意站立，身穿青色外搭衬衫，内搭白色 T 恤，下穿炭灰色长裤；3) “POP OF PLUM” — 姿态放松，身穿李子色开衫，搭配深色长裤；4) “MODERN SPORT” — 坐着，身穿黑色运动外套，搭配黑色长裤、白色袜子和白色运动鞋。为每个板块下方添加一段简短的目录风格说明，与上述 4 个标题相匹配，并配以简洁的时尚文案。使用柔和的室内自然光，采用极简的家居室内专题布景、高级目录摄影风格以及高雅的学院风美学。在底部居中添加一行简短的结束语：{argument name=\"footer text\" default=\"TIMELESS STYLE. PLAYFUL SPIRIT.\"}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "J.Crew 吉祥物时尚专题：此提示词可将吉祥物参考信息图转化为四套 J.Crew 风格的时尚专题版面，适用于趣味品牌样机或角色造型概念设计。",
+      "subject": "服饰",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "2x2"
+      ],
+      "style": [
+        "editorial",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, 2x2]。\n\nVisual style:\n[参考风格: editorial, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15263",
+      "15339",
+      "14830",
+      "15026",
+      "15702",
+      "15786"
+    ]
+  }
+}

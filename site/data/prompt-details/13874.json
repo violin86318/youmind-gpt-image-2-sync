@@ -1,0 +1,46 @@
+{
+  "id": "13874",
+  "prompt": "A photorealistic close-up portrait of a beautiful young woman with {argument name=\"hair style\" default=\"long wavy blonde\"} hair and striking blue eyes, looking directly at the viewer with a gentle, warm smile. She is dressed for cold weather, wearing {argument name=\"winter outfit\" default=\"a white ribbed knit beanie with a pom-pom, a thick matching white turtleneck sweater, and a beige and brown plaid winter coat\"}. Soft snowflakes are falling gently around her, with several flakes resting naturally on her hair, hat, and shoulders. The background is a softly blurred {argument name=\"background\" default=\"snowy winter forest landscape\"}. In the top left corner, there is a dark translucent rounded rectangle containing the white text \"{argument name=\"overlay text\" default=\"GPT Image-2\"}\".",
+  "translatedPrompt": "一张逼真的特写肖像，主角是一位美丽的年轻女性，留着 {argument name=\"hair style\" default=\"金色长波浪\"} 发型，拥有一双迷人的蓝色眼睛，正微笑着注视镜头，神情温柔且温暖。她身着御寒服装，戴着 {argument name=\"winter outfit\" default=\"带有毛球的白色罗纹针织冷帽，搭配厚实的同色系白色高领毛衣，以及一件米棕色格纹冬装外套\"}。柔和的雪花在她周围轻轻飘落，几片雪花自然地落在她的头发、帽子和肩膀上。背景是虚化处理的 {argument name=\"background\" default=\"雪景森林\"}。在左上角，有一个深色半透明圆角矩形，其中包含白色文字 “{argument name=\"overlay text\" default=\"GPT Image-2\"}”。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "逼真的冬季肖像与雪花效果：生成一张高质量、逼真的冬季着装人物肖像，包含飘落的雪花和可自定义的文字叠加层。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13960",
+      "13961",
+      "13625",
+      "14568",
+      "15237",
+      "15463"
+    ]
+  }
+}

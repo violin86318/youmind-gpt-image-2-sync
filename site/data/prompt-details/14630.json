@@ -1,0 +1,51 @@
+{
+  "id": "14630",
+  "prompt": "A candid, photorealistic vertical smartphone photo of a young woman shopping in a cozy candle and home fragrance store, shot from a slightly elevated angle looking down at her upper body and torso. She has {argument name=\"hair color\" default=\"dark brown to black\"} hair tied back in a low ponytail with a soft side part and a few loose strands near the ears. Her face is mostly hidden by the framing and by the cup she is holding near her mouth, creating an anonymous lifestyle-photo feel. She wears a fitted ribbed zip-front top in {argument name=\"outfit color\" default=\"chocolate brown\"}, partially unzipped into a deep neckline, paired with matching high-waisted pants in the same brown tone for a monochrome look. In one hand she holds 1 small cream-colored takeaway cup with a simple brown sleeve or label. The setting is a warmly lit boutique with rustic wooden shelves packed with many glass jar candles and containers; visible are multiple rows of neutral-toned jars in white, beige, gray, amber, and dark brown, softly blurred in the background and along the left side of the frame. Use warm indoor lighting, shallow depth of field, realistic skin texture, glossy dark hair, subtle natural makeup, and a casual shopping pose with one arm bent holding the cup and the body angled slightly toward the camera. Emphasize an intimate lifestyle fashion aesthetic, soft bokeh, rich earthy tones, and a narrow portrait composition from head to upper thighs.",
+  "translatedPrompt": "一张自然、逼真的竖版智能手机照片，拍摄了一位年轻东亚女性站在暖色调精品店或香氛店内的场景，采用略微俯视的角度拍摄其上半身。她留着 {argument name=\"hair color\" default=\"深棕至黑色\"} 的头发，扎成低马尾，脸颊旁有几缕碎发，一只手拿着一个小巧的奶油白色杯子或蜡烛罐靠近嘴边。她身穿一件 {argument name=\"outfit color\" default=\"巧克力棕色\"} 的修身罗纹拉链长袖上衣，拉链半开，搭配同色系高腰长裤，呈现出单色调造型。她的姿势随意且略微前倾，另一只手自然地放在背后，赋予画面一种不经意的生活快照感。她周围的木质货架上摆满了许多玻璃蜡烛罐和小包装产品，背景和画面左侧呈现出柔和的虚化效果。采用温暖的室内环境光，浅景深，真实的皮肤质感，发丝上的细腻高光，自然的持物姿势，营造出舒适的手工零售氛围。构图采用紧凑的中景至全身竖构图，主体居中，背景呈对角线倾斜以增强自然抓拍的视角。摄影风格：写实、高细节、柔和虚化、精品店购物快照、35mm 镜头感、自然色彩分级。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "棕色系精品店自然人像：此提示词可生成一张逼真的竖版生活方式照片，展示了一位女性在暖色调店铺内的场景，适用于时尚、零售或社交媒体编辑类图像。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14414",
+      "14619",
+      "15350",
+      "15424",
+      "15706",
+      "14628"
+    ]
+  }
+}

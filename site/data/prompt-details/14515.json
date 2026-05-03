@@ -1,0 +1,47 @@
+{
+  "id": "14515",
+  "prompt": "A photorealistic upper-body portrait of a {argument name=\"character type\" default=\"Japanese high school girl\"} standing outdoors in bright natural sunlight, framed from mid-torso up in a vertical composition. She has long, straight {argument name=\"hair color\" default=\"dark brown\"} hair with a glossy sheen, a clean center part, and soft strands catching the light. Her pose is calm and slightly angled to the side, with her head turned subtly away from the camera for a candid fashion-portrait feel. She wears a crisp white short-sleeve school shirt and a navy blue striped necktie, with a detailed embroidered crest patch on the left chest pocket featuring a crown and heraldic shield. The background is a shallow-depth-of-field scene of vivid red shrine or temple architecture with bold vertical pillars and hints of blue and gold decorative elements, creating strong color contrast against the white shirt and dark hair. Emphasize realistic skin, natural fabric folds, high-end DSLR portrait photography, soft bokeh, sharp focus on hair and clothing, polished commercial beauty styling, and an elegant, refined mood.",
+  "translatedPrompt": "一张写实风格的半身肖像，主体为一位 {argument name=\"subject\" default=\"年轻女性\"}，站在明亮的自然阳光下，采用竖构图。她留着一头长直的 {argument name=\"hair color\" default=\"深棕色\"} 秀发，发质光泽亮丽，中分偏侧，自然垂落在双肩。她身穿一件挺括的白色短袖校服衬衫，搭配海军蓝条纹领带，左胸口袋处有精致的刺绣徽章，图案为皇冠与纹章。让她以微侧的角度站立，姿态放松，头部微微转向一侧，营造出一种精致的抓拍时尚感。背景设定为生动的 {argument name=\"background setting\" default=\"红色神社建筑\"}，模糊的背景中可见浓郁的红色柱子和弧形蓝色屋顶细节，利用浅景深和柔和的焦外成像效果，使主体保持清晰对焦。光线应干净、高对比度且具有修饰感，头发和衬衫上有明亮的高光，展现真实的衣物褶皱、自然的肤色，呈现出类似于日本商业摄影的精致高级肖像美学。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "写实风格校服神社肖像：此提示词可生成一张精致、写实风格的年轻女性户外校服肖像，非常适合时尚编辑、角色视觉设计或生活方式类的 AI 肖像创作。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14630",
+      "15244",
+      "13608",
+      "14414",
+      "14619",
+      "15317"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "15050",
+  "prompt": "A highly detailed, colorful illustrated hidden-object poster set in Madrid’s Puerta del Sol on a bright sunny day, rendered like a lively hand-drawn travel puzzle with crisp ink outlines, textured watercolor-gouache shading, and a slightly whimsical caricature style. The composition is packed edge to edge with a huge crowd in the plaza, viewed from a slightly elevated eye level, with the Real Casa de Correos clock building dominating the right background, the Tío Pepe rooftop sign in the left background, the red diamond Sol metro sign on the left, the bear and strawberry tree statue near the center, historic facades, blue sky, and soft clouds. At the top left, include a torn notebook-paper sign pinned over the scene with large Spanish text: {argument name=\"headline text\" default=\"¿Dónde está \\\"El Hombre del Puro\\\"?\"} and a second line {argument name=\"subheadline text\" default=\"Encuéntralo en Madrid\"}. Next to it, add a pinned small portrait photo of the target man: a middle-aged man in a dark fedora and dark coat holding a cigar near his mouth, styled like a reference snapshot. Fill the square with exactly 1 metro entrance sign, 1 lottery kiosk labeled “Loterías y Apuestas del Estado,” 1 domed souvenir kiosk with postcard display and a sign reading “¡HOLA! DESDE MADRID,” 1 churros stand with a chalkboard reading “CHURROS CON CHOCOLATE,” 1 hat display stall on the lower right, 1 guitarist, 2 flamenco dancers in red dresses, 1 street cleaner in a bright orange-and-green uniform with text on the back reading “MADRID LIMPIO ENTRE TODOS,” 1 bicyclist, 2 dogs, 1 child holding a red teddy-bear balloon, many pigeons scattered across the foreground, children playing with soap bubbles, tourists with backpacks and maps, families, street onlookers, and performers. The crowd should feel dense and bustling, with dozens of distinct figures in varied summer clothing and natural poses, creating a challenging search scene. Emphasize Spanish local color, playful observational details, warm oranges and sunlit stone grays, and the feeling of a classic “Where’s Waldo?” style city-search illustration centered on finding {argument name=\"target character\" default=\"El Hombre del Puro\"} somewhere among the crowd in {argument name=\"city\" default=\"Madrid\"}.",
+  "translatedPrompt": "一张高度精细、色彩丰富的“威利在哪里”风格插画，描绘了 {argument name=\"city\" default=\"马德里\"} 一个拥挤的公共广场。视角处于街道水平面，背景是蓝天白云的明亮白昼。画面中挤满了数十名行人、游客、小贩、儿童、音乐家和市井生活场景，采用精细的手绘墨线与数字绘画相结合的社论漫画风格，线条清晰，石板路纹理细腻，人物表情生动，视觉叙事极其丰富。地点为太阳门广场，通过 4 个关键地标清晰可辨：左侧红色的菱形 Sol 地铁标志、中左侧背景中的 Tío Pepe 屋顶广告牌、中景处没有骑手的“熊与树”雕像，以及右侧背景中占据主导地位、阳台上挂着西班牙国旗的皇家邮政大楼（Real Casa de Correos）。在左上角，添加一张钉住的撕边纸海报，上面写有西班牙语文本 {argument name=\"headline text\" default=\"¿Dónde está \\\"El Hombre del Puro\\\"?\"}，第二行写着 {argument name=\"subtitle text\" default=\"Encuéntralo en Madrid\"}；旁边钉上一张目标人物的小肖像照片，他戴着深色软呢帽，穿着深色外套，抽着雪茄，就像一张线索卡。用热闹繁忙的群众场景填满广场，包括右侧 2 名穿红裙的弗拉门戈舞者、中右侧 1 名弹吉他的乐手、中右侧前景骑自行车的 1 名骑行者、中前景处 1 名穿着橙绿相间市政制服的清洁工、左下角 1 个写着“CHURROS CON CHOCOLATE”黑板招牌的吉事果摊位、左侧 1 个写有“Loterías y Apuestas del Estado”的彩票亭、右侧 1 个写着“¡HOLA! DESDE MADRID”招牌的明信片/报刊亭、最右侧 1 个堆满帽子的帽子展示摊、中左侧 1 名全身涂金的活体雕像表演者、1 名吹出半透明泡泡的泡泡表演者，前景散布着许多鸽子，中下部有 2 只小狗。画面中还包括背着背包的家庭、蹲在鸽子旁的孩子、拍照的游客、拿着地图的人、购物者以及穿着各式夏装的街头观众。隐藏的目标人物 {argument name=\"target character\" default=\"El Hombre del Puro\"} 应巧妙地嵌入人群中的某个位置，而不是放在中心，视觉上要与线索肖像中的深色帽子、深色衣服和雪茄相符，使他难以被发现但并非不可能找到。整体采用紧凑的构图、充满趣味的寻物能量、温暖的地中海色调以及丰富的城市细节。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "在马德里寻找“雪茄男”：此提示词可生成一张马德里太阳门广场（Puerta del Sol）的拥挤寻物插画，非常适合用于社交媒体帖子、益智图片以及趣味十足的城市主题寻人场景。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "watercolor",
+        "hand-drawn"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: watercolor, hand-drawn]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15663",
+      "15272",
+      "14818",
+      "14854",
+      "14911",
+      "15764"
+    ]
+  }
+}

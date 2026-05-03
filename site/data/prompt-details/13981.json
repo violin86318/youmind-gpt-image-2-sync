@@ -1,0 +1,38 @@
+{
+  "id": "13981",
+  "prompt": "広告クリエイティブ制作、{argument name=\"キャンペーン名\" default=\"ゴールデンウィーク用の旅行プラン\"}の広告を2x2グリッドで4パターン。日本国内旅行で過去10年間で高い実績を持つプランをwebでリサーチした上で、極めて高い訴求力のある広告デザインを完全に異なるパターンで4種類設計・作成。A/Bテスト前提でアスペクト比={argument name=\"アスペクト比\" default=\"1:1\"}",
+  "translatedPrompt": "广告创意制作，以 2x2 网格形式生成 4 种 {argument name=\"campaign name\" default=\"黄金周旅行计划\"} 广告方案。基于对过去 10 年日本国内旅游高转化方案的网络研究，设计并创作 4 种风格迥异且极具吸引力的广告设计。长宽比 = {argument name=\"aspect ratio\" default=\"1:1\"}，用于 A/B 测试。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "基于研究的广告布局设计师：一个高级提示词，指示模型在设计 2x2 网格的创意变体之前，先研究历史广告表现。",
+      "subject": "综合主体",
+      "scene": "海报/封面",
+      "composition": [
+        "2x2"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "构图",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: 2x2]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14390",
+      "14391",
+      "14716",
+      "14784",
+      "13834",
+      "13875"
+    ]
+  }
+}

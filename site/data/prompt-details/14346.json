@@ -1,0 +1,35 @@
+{
+  "id": "14346",
+  "prompt": "日本の人気YouTuberの{argument name=\"内容\" default=\"ゲーム実況のワンシーン\"}。{argument name=\"ゲーム名\" default=\"テトリス\"}で縦長の棒が入れば一気に崩せそうだったのに、棒が落ちた場所が微妙にズレて配信者が絶望の表情で絶叫、コメント欄は阿鼻叫喚。日本語。",
+  "translatedPrompt": "一个来自日本热门 YouTuber 的 {argument name=\"content\" default=\"游戏直播\"} 场景。在 {argument name=\"game name\" default=\"俄罗斯方块\"} 中，眼看长条就能消除所有方块，但放置位置稍微偏了一点，主播正绝望地尖叫，表情崩溃，评论区陷入了一片混乱。日语。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "YouTube 游戏直播绝望场景：一个用于生成热门 YouTuber 在《俄罗斯方块》等游戏中遭遇惨败场景的特定提示词，包含聊天室的反应。",
+      "subject": "综合主体",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13484",
+      "13520",
+      "13610",
+      "13646",
+      "13686",
+      "13687"
+    ]
+  }
+}

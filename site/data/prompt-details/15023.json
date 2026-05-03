@@ -1,0 +1,46 @@
+{
+  "id": "15023",
+  "prompt": "A polished commercial advertising photo inside a modern transit-station or public waiting area, shot straight-on with a slightly low eye level, featuring a large illuminated Pepsi vending machine on the left and center of the frame. A young man is seen from behind, wearing a light gray hoodie, black athletic shorts, white crew socks, and white sneakers, stretching upward to grab a Pepsi bottle from the very top shelf. He is standing precariously on a vertical stack of exactly 4 red Coca-Cola cans arranged one on top of another on the floor, making the visual joke that getting Pepsi is literally worth the extra steps. The vending machine is fully stocked and brightly lit with cool white interior lighting: the top shelf contains multiple Pepsi bottles, the middle shelves contain assorted clear, green, yellow, and amber bottled drinks, and the lower shelf displays rows of red Coca-Cola cans. The machine exterior is Pepsi blue with a large Pepsi globe logo and the word PEPSI on the left side panel, plus a payment/control panel on the right side of the machine. Across the top of the image, place a huge bold white all-caps sans-serif headline reading {argument name=\"headline text\" default=\"WORTH THE EXTRA STEPS.\"} centered against a dark upper wall. At the bottom center, add small clean white sans-serif brand copy reading {argument name=\"tagline text\" default=\"Choose Pepsi.\"}. On the right wall, include a framed Pepsi poster with bold stacked text reading “REFRESH RECHARGE REPEAT” above a Pepsi logo. Add a simple metal bench beneath the poster. Use glossy floor reflections, crisp focus, premium ad photography, realistic proportions, high dynamic range, and a clean brand-safe composition with strong contrast between Pepsi blue, Coca-Cola red, and neutral gray surroundings.",
+  "translatedPrompt": "一张精致的商业广告照片，背景位于现代化的交通枢纽或公共候车区，采用正面、略微低视角的拍摄方式。画面左侧和中心是一台巨大的发光百事可乐自动售货机。一名身穿浅灰色连帽衫、黑色运动短裤、白色中筒袜和白色运动鞋的年轻男子背对镜头，正向上伸展身体，试图从最顶层拿取一瓶百事可乐。他摇摇欲坠地站在地面上垂直堆叠的 4 个红色可口可乐罐上，这一视觉幽默传达了“为了百事可乐，多走几步也值得”的含义。自动售货机货架充足，内部灯光为明亮的冷白色：顶层摆放着多瓶百事可乐，中间货架陈列着各种透明、绿色、黄色和琥珀色的瓶装饮料，底层则摆放着一排排红色可口可乐罐。售货机外观为百事蓝，左侧面板印有巨大的百事地球仪标志和“PEPSI”字样，右侧设有支付/控制面板。在画面顶部，放置一行巨大的粗体白色无衬线大写标题 {argument name=\"headline text\" default=\"WORTH THE EXTRA STEPS.\"}，居中对齐于深色的上方墙面。在底部中心，添加一行简洁的白色无衬线品牌文案 {argument name=\"tagline text\" default=\"Choose Pepsi.\"}。在右侧墙壁上，挂有一张带框的百事可乐海报，上方印有粗体堆叠文字“REFRESH RECHARGE REPEAT”以及百事标志。海报下方放置一张简单的金属长椅。画面采用光亮的地面反射、清晰的对焦、高级广告摄影质感、真实的比例、高动态范围，以及在百事蓝、可口可乐红和中性灰色环境之间形成强烈对比的品牌安全构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "百事可乐自动售货机广告：一张简洁、可直接用于制作的饮料广告，展示了一个人站在四个可口可乐罐上以够到百事可乐的画面，非常适合大胆的品牌对比营销。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: realistic, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14652",
+      "15085",
+      "14850",
+      "15430",
+      "15462",
+      "15753"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "13740",
+  "prompt": "{\n  \"type\": \"anime character reference sheet\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"character name\\\" default=\\\"SHIBUYA SHION\\\"}\",\n    \"subtitle\": \"渋谷 紫音\",\n    \"description\": \"都市をフィールドにする20歳のアーバンエクスプローラー / グラフィックアーティスト。\",\n    \"top_right_text\": \"{argument name=\\\"main title\\\" default=\\\"設定画 SETTEI GA\\\"}\"\n  },\n  \"character\": {\n    \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"dark purple with lighter purple tips\\\"}\",\n    \"eyes\": \"{argument name=\\\"eye color\\\" default=\\\"purple\\\"}\",\n    \"outfit\": \"{argument name=\\\"outfit\\\" default=\\\"light purple hoodie, denim shorts, black high-top sneakers, black backpack\\\"}\"\n  },\n  \"layout\": {\n    \"centerpiece\": {\n      \"count\": 3,\n      \"labels\": [\"FRONT\", \"SIDE\", \"BACK\"],\n      \"description\": \"full-body standing poses\"\n    },\n    \"left_column\": [\n      {\n        \"title\": \"FACE CLOSE-UP\",\n        \"count\": 1\n      },\n      {\n        \"title\": \"EXPRESSION\",\n        \"count\": 3,\n        \"labels\": [\"ノーマル\", \"スマイル\", \"シリアス\"]\n      },\n      {\n        \"title\": \"PROFILE\",\n        \"type\": \"text_box\",\n        \"content_fields\": [\"年齢：20歳\", \"職業：アーバンエクスプローラー／グラフィックアーティスト\", \"拠点：渋谷\", \"性格：好奇心旺盛、クール、意外と人懐っこい\", \"趣味：写真、スケッチ、街歩き、カフェ巡り\"]\n      }\n    ],\n    \"right_column\": [\n      {\n        \"title\": \"DETAILS\",\n        \"items\": [\n          {\n            \"subtitle\": \"HOODIE\",\n            \"count\": 2,\n            \"labels\": [\"HOODIE (前)\", \"HOODIE (後ろ)\"]\n          },\n          {\n            \"subtitle\": \"BACKPACK\",\n            \"count\": 3,\n            \"labels\": [\"前面\", \"側面\", \"背面\"]\n          },\n          {\n            \"subtitle\": \"SHOES\",\n            \"count\": 4,\n            \"labels\": [\"上面\", \"側面\", \"側面\", \"底面\"]\n          },\n          {\n            \"subtitle\": \"ACCESSORIES\",\n            \"count\": 2,\n            \"labels\": [\"ピアス (両耳)\", \"バックパックのジッパー引き手\"]\n          }\n        ]\n      }\n    ],\n    \"bottom_section\": [\n      {\n        \"title\": \"設定メモ\",\n        \"type\": \"text_box\",\n        \"description\": \"handwritten lore paragraph with signature 'Shion'\"\n      },\n      {\n        \"title\": \"COLOR PALETTE\",\n        \"count\": 8,\n        \"labels\": [\"HAIR\", \"HAIR ACCENT\", \"EYES\", \"HOODIE\", \"DENIM\", \"SHOES/BAG\", \"SKIN\", \"METAL\"]\n      },\n      {\n        \"title\": \"INFO BOX\",\n        \"type\": \"text_box\",\n        \"content_fields\": [\"NAME: SHIBUYA SHION\", \"AGE: 20\", \"HEIGHT: 160cm\", \"BIRTHDAY: 7/12\", \"PROJECT: SHIBUYA ARTIST\", \"DATE: DEC 2025\"]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"动漫角色设定集\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"character name\\\" default=\\\"SHIBUYA SHION\\\"}\",\n    \"subtitle\": \"渋谷 紫音\",\n    \"description\": \"以城市为舞台的 20 岁城市探险家 / 图形艺术家。\",\n    \"top_right_text\": \"{argument name=\\\"main title\\\" default=\\\"设定画 SETTEI GA\\\"}\"\n  },\n  \"character\": {\n    \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"深紫色，发梢为浅紫色\\\"}\",\n    \"eyes\": \"{argument name=\\\"eye color\\\" default=\\\"紫色\\\"}\",\n    \"outfit\": \"{argument name=\\\"outfit\\\" default=\\\"浅紫色连帽衫、牛仔短裤、黑色高帮运动鞋、黑色双肩包\\\"}\"\n  },\n  \"layout\": {\n    \"centerpiece\": {\n      \"count\": 3,\n      \"labels\": [\"正面\", \"侧面\", \"背面\"],\n      \"description\": \"全身站立姿势\"\n    },\n    \"left_column\": [\n      {\n        \"title\": \"面部特写\",\n        \"count\": 1\n      },\n      {\n        \"title\": \"表情\",\n        \"count\": 3,\n        \"labels\": [\"正常\", \"微笑\", \"严肃\"]\n      },\n      {\n        \"title\": \"个人资料\",\n        \"type\": \"text_box\",\n        \"content_fields\": [\"年龄：20 岁\", \"职业：城市探险家／图形艺术家\", \"基地：涩谷\", \"性格：好奇心旺盛、冷静、意外地好相处\", \"爱好：摄影、素描、城市漫步、咖啡馆巡礼\"]\n      }\n    ],\n    \"right_column\": [\n      {\n        \"title\": \"细节\",\n        \"items\": [\n          {\n            \"subtitle\": \"连帽衫\",\n            \"count\": 2,\n            \"labels\": [\"连帽衫 (前)\", \"连帽衫 (后)\"]\n          },\n          {\n            \"subtitle\": \"双肩包\",\n            \"count\": 3,\n            \"labels\": [\"正面\", \"侧面\", \"背面\"]\n          },\n          {\n            \"subtitle\": \"鞋子\",\n            \"count\": 4,\n            \"labels\": [\"顶面\", \"侧面\", \"侧面\", \"底面\"]\n          },\n          {\n            \"subtitle\": \"配饰\",\n            \"count\": 2,\n            \"labels\": [\"耳环 (双耳)\", \"双肩包拉链头\"]\n          }\n        ]\n      }\n    ],\n    \"bottom_section\": [\n      {\n        \"title\": \"设定备注\",\n        \"type\": \"text_box\",\n        \"description\": \"带有签名 'Shion' 的手写背景故事段落\"\n      },\n      {\n        \"title\": \"配色方案\",\n        \"count\": 8,\n        \"labels\": [\"头发\", \"发色挑染\", \"眼睛\", \"连帽衫\", \"牛仔\", \"鞋子/包\", \"皮肤\", \"金属\"]\n      },\n      {\n        \"title\": \"信息栏\",\n        \"type\": \"text_box\",\n        \"content_fields\": [\"姓名: SHIBUYA SHION\", \"年龄: 20\", \"身高: 160cm\", \"生日: 7/12\", \"项目: SHIBUYA ARTIST\", \"日期: 2025 年 12 月\"]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫角色设定集：生成一份高度详尽的多面板动漫角色设计文档，包含表情、三视图、道具细节和配色方案。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "full-body"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, full-body]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14025",
+      "14060",
+      "13736",
+      "14007",
+      "14250",
+      "14620"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "15636",
+  "prompt": "A dark, gritty Chinese crime-thriller movie poster in a vertical one-sheet layout, with a moody neo-noir aesthetic and heavy cinematic contrast. The composition centers on a half-length portrait of a menacing middle-aged East Asian man with wavy black hair, wearing a dark textured overcoat over a black shirt, his face mostly swallowed by shadow, shown from chest up and slightly off-center to the right. His hands are visible in the lower-right area, calmly holding a string of dark wooden prayer beads, suggesting power, danger, and ritual. The background is a dim urban alley or old city street at night, layered with grunge textures, wet pavement reflections, decayed walls, and faint architectural silhouettes. In the lower center, place 1 small back-facing seated figure in a chair under a harsh spotlight, surrounded by 9 standing human silhouettes in the darkness, creating a tense interrogation or underworld confrontation scene. Use an almost monochrome palette of black, charcoal, and dirty gray, with deep blood-red accents and distressed white typography. On the left side, add 1 huge vertical column of expressive red Chinese brush-calligraphy title text, painted with rough splashes and dry-brush texture, dominating nearly the full height of the poster. Along the far left edge, add 2 vertical lines of smaller Chinese text in white and red: \"我叫高启强，\" and \"风浪越大，鱼越贵\". On the right side, add 1 vertical cast credit line in white Chinese text with a red circular separator: \"张颂文 饰 高启强\". In the lower-right quadrant, add 1 bold white brushstroke Chinese subtitle/title mark reading \"狂飙\", with the small English subtitle \"THE KNOCKOUT\" in red serif capitals beneath it. Add tiny faint Chinese release or tagline text along the bottom edge. The overall feeling should be oppressive, violent, prestigious, and highly designed, like a premium streaming-platform crime drama key art poster, with layered depth, dramatic shadows, textured smoke and grime, and realistic photographic detail.",
+  "translatedPrompt": "一张暗黑、粗粝的中国犯罪惊悚片电影海报，采用竖版单张布局，呈现出忧郁的新黑色电影美学和强烈的电影感对比。构图中心为一名中年东亚男性的半身肖像，他神情凶狠，留着黑色卷发，身穿深色质感大衣内搭黑色衬衫，面部大部分隐没在阴影中，画面取景自胸部以上，略微偏向右侧。他的双手出现在右下角，正冷静地盘着一串深色木质佛珠，暗示着权力、危险与仪式感。背景是昏暗的城市小巷或夜晚的老街道，叠加了脏旧纹理、湿润路面的反光、斑驳的墙壁以及模糊的建筑剪影。在画面下方中央，放置 1 个背对镜头坐在椅子上的人影，置于强烈的聚光灯下，周围环绕着 9 个站在黑暗中的人影，营造出紧张的审讯或地下世界对峙场景。色调采用近乎单色的黑、炭灰和脏灰色，辅以深血红色点缀和做旧的白色字体。在左侧，添加 1 列巨大的竖排表现力红色中国书法标题文字，笔触粗犷，带有飞白和干笔纹理，几乎占据了海报的全高。在最左侧边缘，添加 2 行竖排的白色和红色小字：“我叫高启强，”和“风浪越大，鱼越贵”。在右侧，添加 1 行竖排的白色中文字幕演职员表，中间以红色圆点分隔：“张颂文 饰 高启强”。在右下角区域，添加 1 个醒目的白色笔触中文字幕/标题标志“狂飙”，下方配有红色衬线体小字英文副标题“THE KNOCKOUT”。在底部边缘添加细小模糊的中文上映信息或标语。整体氛围压抑、暴力、高级且设计感极强，如同高端流媒体平台的犯罪剧主视觉海报，具有丰富的层次感、戏剧性的阴影、质感的烟雾与污垢，以及写实的摄影细节。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "暗黑风格中国犯罪剧海报：此提示词可生成高质量的新黑色电影风格中国犯罪剧海报，适用于惊悚片主视觉图、流媒体封面或电影宣传设计。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15679",
+      "14902",
+      "15334",
+      "15336",
+      "14472",
+      "15096"
+    ]
+  }
+}

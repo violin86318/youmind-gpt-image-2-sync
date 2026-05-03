@@ -1,0 +1,44 @@
+{
+  "id": "13771",
+  "prompt": "{\n  \"type\": \"VTuber logo design concepts\",\n  \"theme\": \"{argument name=\\\"main theme\\\" default=\\\"gothic dark fantasy\\\"}\",\n  \"background\": \"{argument name=\\\"background color\\\" default=\\\"pitch black\\\"}\",\n  \"layout\": \"2x3 grid containing 6 distinct logo designs\",\n  \"logos\": [\n    {\n      \"position\": \"top-left\",\n      \"main_text\": \"{argument name=\\\"logo 1 main text\\\" default=\\\"魔界のメシア\\\"}\",\n      \"sub_text\": [\"魔界の観測者\", \"MAKAI NO KANSOKUSHA\"],\n      \"colors\": [\"purple\", \"silver\"],\n      \"motifs\": [\"horns\", \"glowing purple eye\", \"bat wings\"]\n    },\n    {\n      \"position\": \"top-center\",\n      \"main_text\": \"{argument name=\\\"logo 2 main text\\\" default=\\\"深淵プレシア\\\"}\",\n      \"sub_text\": [\"Shinen Lucia\", \"魔界の断罪者\"],\n      \"colors\": [\"red\", \"black\", \"gold\"],\n      \"motifs\": [\"chains\", \"demonic spikes\", \"glowing red runes\"]\n    },\n    {\n      \"position\": \"top-right\",\n      \"main_text\": \"{argument name=\\\"logo 3 main text\\\" default=\\\"夢喰いメフィ\\\"}\",\n      \"sub_text\": [\"まかいのゆめくい\"],\n      \"colors\": [\"pink\", \"purple\"],\n      \"motifs\": [\"skull with crown\", \"bat wings\", \"sparkles\"]\n    },\n    {\n      \"position\": \"bottom-left\",\n      \"main_text\": \"蒼影カナタ\",\n      \"sub_text\": [\"魔界の影詩人\", \"- AOKAGE KANATA -\"],\n      \"colors\": [\"blue\", \"silver\"],\n      \"motifs\": [\"large central eye\", \"silver bat wings\", \"gothic architecture\"]\n    },\n    {\n      \"position\": \"bottom-center\",\n      \"main_text\": \"黄昏ベリアル\",\n      \"sub_text\": [\"Tasogare Belial\", \"魔界の王子\"],\n      \"colors\": [\"gold\", \"purple\"],\n      \"motifs\": [\"crown\", \"bat wings\", \"hanging gems\"]\n    },\n    {\n      \"position\": \"bottom-right\",\n      \"main_text\": \"禍朧シオン\",\n      \"sub_text\": [\"魔界の記憶屋\", \"- MAGATSU SHION -\"],\n      \"colors\": [\"silver\", \"purple\", \"black\"],\n      \"motifs\": [\"crescent moon\", \"glowing purple flame\", \"chains\", \"dark smoke\"]\n    }\n  ]\n}",
+  "translatedPrompt": "{\n  \"type\": \"VTuber Logo 设计概念\",\n  \"theme\": \"{argument name=\\\"main theme\\\" default=\\\"哥特暗黑奇幻\\\"}\",\n  \"background\": \"{argument name=\\\"background color\\\" default=\\\"纯黑\\\"}\",\n  \"layout\": \"包含 6 个不同 Logo 设计的 2x3 网格\",\n  \"logos\": [\n    {\n      \"position\": \"左上\",\n      \"main_text\": \"{argument name=\\\"logo 1 main text\\\" default=\\\"魔界のメシア\\\"}\",\n      \"sub_text\": [\"魔界の観測者\", \"MAKAI NO KANSOKUSHA\"],\n      \"colors\": [\"紫色\", \"银色\"],\n      \"motifs\": [\"角\", \"发光的紫色眼睛\", \"蝙蝠翅膀\"]\n    },\n    {\n      \"position\": \"中上\",\n      \"main_text\": \"{argument name=\\\"logo 2 main text\\\" default=\\\"深淵プレシア\\\"}\",\n      \"sub_text\": [\"Shinen Lucia\", \"魔界の断罪者\"],\n      \"colors\": [\"红色\", \"黑色\", \"金色\"],\n      \"motifs\": [\"锁链\", \"恶魔尖刺\", \"发光的红色符文\"]\n    },\n    {\n      \"position\": \"右上\",\n      \"main_text\": \"{argument name=\\\"logo 3 main text\\\" default=\\\"夢喰いメフィ\\\"}\",\n      \"sub_text\": [\"まかいのゆめくい\"],\n      \"colors\": [\"粉色\", \"紫色\"],\n      \"motifs\": [\"带皇冠的骷髅\", \"蝙蝠翅膀\", \"闪光效果\"]\n    },\n    {\n      \"position\": \"左下\",\n      \"main_text\": \"苍影カナタ\",\n      \"sub_text\": [\"魔界の影诗人\", \"- AOKAGE KANATA -\"],\n      \"colors\": [\"蓝色\", \"银色\"],\n      \"motifs\": [\"巨大的中央眼睛\", \"银色蝙蝠翅膀\", \"哥特式建筑\"]\n    },\n    {\n      \"position\": \"中下\",\n      \"main_text\": \"黄昏ベリアル\",\n      \"sub_text\": [\"Tasogare Belial\", \"魔界の王子\"],\n      \"colors\": [\"金色\", \"紫色\"],\n      \"motifs\": [\"皇冠\", \"蝙蝠翅膀\", \"悬挂的宝石\"]\n    },\n    {\n      \"position\": \"右下\",\n      \"main_text\": \"祸胧シオン\",\n      \"sub_text\": [\"魔界の记忆屋\", \"- MAGATSU SHION -\"],\n      \"colors\": [\"银色\", \"紫色\", \"黑色\"],\n      \"motifs\": [\"新月\", \"发光的紫色火焰\", \"锁链\", \"暗黑烟雾\"]\n    }\n  ]\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "哥特风 VTuber Logo 网格：生成一个包含 6 个独特哥特奇幻风格 VTuber Logo 的 2x3 网格，采用复杂的排版和暗黑魔法元素。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "grid"
+      ],
+      "style": [
+        "fantasy"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "杂志封面、专题页、品牌刊物、人物专访视觉",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[参考风格: fantasy]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14949",
+      "15786",
+      "14455",
+      "14500",
+      "15318",
+      "14243"
+    ]
+  }
+}

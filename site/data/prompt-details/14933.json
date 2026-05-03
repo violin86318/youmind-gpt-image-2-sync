@@ -1,0 +1,53 @@
+{
+  "id": "14933",
+  "prompt": "{\"type\":\"design system style portfolio landing page mockup\",\"style\":\"soft premium Japanese web design board, warm neutral editorial aesthetic, rounded UI, minimal luxury, creamy monochrome palette, subtle shadows, clean spacing, polished product-design presentation\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"HONDA PORTFOLIO\\\"}\",\"mascot\":\"cute white 3D rabbit character with long ears, tiny dot eyes, small mouth, smooth matte surface\"},\"canvas\":{\"aspect_ratio\":\"3:4\",\"background\":\"very light warm gray\"},\"palette\":{\"count\":6,\"swatches\":[\"#F7F3EF\",\"#E7DDD0\",\"#EAD9CA\",\"#F1C6B4\",\"#A8C0B2\",\"#2E3A44\"]},\"layout\":{\"type\":\"multi-panel design system board\",\"sections\":[{\"title\":\"デザインシステム\",\"position\":\"left column\",\"count\":11,\"labels\":[\"logo concept\",\"Color\",\"Typography\",\"Grid\",\"Components\",\"Navigation\",\"Iconography\",\"mascot pose row\",\"Motion\",\"Design Principles\",\"mini card preview\"]},{\"title\":\"hero website\",\"position\":\"top center\",\"count\":8,\"labels\":[\"brand header\",\"Japanese headline\",\"subtext line\",\"2 CTA buttons\",\"large rabbit at desk\",\"feature icon row of 6 items\",\"small standing rabbit\",\"wood desk scene\"]},{\"title\":\"mobile preview\",\"position\":\"top right narrow column\",\"count\":1,\"labels\":[\"smartphone mockup of the same hero page\"]},{\"title\":\"実績\",\"position\":\"middle center\",\"count\":4,\"labels\":[\"コーポレートサイト\",\"ブランドLP\",\"UIデザイン\",\"雑誌デザイン\"]},{\"title\":\"right sidebar cards\",\"position\":\"middle and lower right\",\"count\":4,\"labels\":[\"実績 card\",\"コーポレートサイト card\",\"思考と記録 card\",\"お問い合わせ card\"]},{\"title\":\"プロフィール\",\"position\":\"lower middle\",\"count\":1,\"labels\":[\"rabbit sitting in lounge chair with profile text block\"]},{\"title\":\"サービス\",\"position\":\"lower middle\",\"count\":4,\"labels\":[\"Webサイト制作\",\"UI / UX設計\",\"ブランドデザイン\",\"アートディレクション\"]},{\"title\":\"制作の流れ\",\"position\":\"bottom middle\",\"count\":5,\"labels\":[\"01 hearing\",\"02 proposal\",\"03 design\",\"04 implementation\",\"05 publish\"]},{\"title\":\"フッター\",\"position\":\"bottom full width\",\"count\":4,\"labels\":[\"interior photo strip\",\"keyword pills\",\"social icons\",\"large seated rabbit with mug\"]}],\"note\":\"all panels arranged like a cohesive design system presentation board with thin rounded cards and generous margins\"},\"subject\":{\"main_character\":\"stylized 3D rabbit mascot, toy-like proportions, soft sculpted body, off-white material\",\"expressions_or_poses\":{\"count\":13,\"items\":[\"standing neutral full-body on left branding card\",\"large writing at desk in hero\",\"small standing beside hero feature row\",\"sitting in armchair holding a cup in profile section\",\"with laptop in process step 1\",\"presenting board in process step 2\",\"working at desk in process step 3\",\"using laptop in process step 4\",\"at laptop in process step 5\",\"small full-body pose 1 in iconography row\",\"small full-body pose 2 in iconography row\",\"small full-body pose 3 in iconography row\",\"large seated rabbit with mug at bottom right\"]}},\"scene_details\":{\"hero_scene\":\"sunlit wooden desk by a window, open notebook, feather pen, tiny ink bottle, soft plant leaves entering from the right, calm morning light\",\"cards\":\"portfolio thumbnails include laptop on desk, elegant fashion/editorial booklet, smartphone UI mockup, cereal magazine cover with rabbit\"},\"typography\":{\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"つくることを、静かに研ぎ澄ます。\\\"}\",\"body_language\":\"Japanese\",\"font_mood\":\"refined modern serif for headline paired with clean sans-serif UI text\"},\"ui\":{\"components_count\":9,\"components\":[\"primary pill button dark slate\",\"secondary pill button light outline\",\"tag pills\",\"navigation bar\",\"rounded icon buttons\",\"content cards\",\"smartphone frame\",\"pagination dots\",\"social icons\"]},\"materials\":{\"surfaces\":[\"matte plastic rabbit\",\"light walnut wood\",\"cream paper\",\"soft fabric chair\",\"glass and ceramic accents\"]},\"lighting\":\"soft diffused daylight, gentle highlights, minimal contrast, warm beige reflections\",\"camera\":\"straight-on full board view, slightly elevated, crisp editorial product shot\",\"quality\":\"high-end dribbble/behance presentation, immaculate alignment, realistic 3D rendering blended with UI mockup design\",\"customization\":{\"accent color\":\"{argument name=\\\"accent color\\\" default=\\\"warm beige and slate blue\\\"}\",\"mascot animal\":\"{argument name=\\\"mascot animal\\\" default=\\\"rabbit\\\"}\",\"language\":\"{argument name=\\\"language\\\" default=\\\"Japanese\\\"}\"}}",
+  "translatedPrompt": "{\"type\":\"设计系统风格作品集落地页样机\",\"style\":\"柔和的高级日式网页设计项目，温暖中性的编辑美学，圆角 UI，极简奢华，奶油单色调，细腻阴影，整洁间距，精致的产品设计展示\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"HONDA PORTFOLIO\\\"}\",\"mascot\":\"可爱的白色 3D 兔子角色，长耳朵，小圆点眼睛，小嘴巴，光滑的哑光表面\"},\"canvas\":{\"aspect_ratio\":\"3:4\",\"background\":\"极浅的暖灰色\"},\"palette\":{\"count\":6,\"swatches\":[\"#F7F3EF\",\"#E7DDD0\",\"#EAD9CA\",\"#F1C6B4\",\"#A8C0B2\",\"#2E3A44\"]},\"layout\":{\"type\":\"多面板设计系统项目\",\"sections\":[{\"title\":\"设计系统\",\"position\":\"左侧栏\",\"count\":11,\"labels\":[\"logo 概念\",\"颜色\",\"排版\",\"网格\",\"组件\",\"导航\",\"图标\",\"吉祥物姿势行\",\"动效\",\"设计原则\",\"迷你卡片预览\"]},{\"title\":\"首屏网站\",\"position\":\"顶部居中\",\"count\":8,\"labels\":[\"品牌页眉\",\"日文标题\",\"副标题行\",\"2 个 CTA 按钮\",\"桌前的大兔子\",\"6 项功能图标行\",\"站立的小兔子\",\"木质书桌场景\"]},{\"title\":\"移动端预览\",\"position\":\"顶部右侧窄栏\",\"count\":1,\"labels\":[\"同一首屏页面的智能手机样机\"]},{\"title\":\"业绩\",\"position\":\"中部居中\",\"count\":4,\"labels\":[\"企业网站\",\"品牌落地页\",\"UI 设计\",\"杂志设计\"]},{\"title\":\"右侧边栏卡片\",\"position\":\"中下右侧\",\"count\":4,\"labels\":[\"业绩卡片\",\"企业网站卡片\",\"思考与记录卡片\",\"联系我们卡片\"]},{\"title\":\"个人资料\",\"position\":\"中下部\",\"count\":1,\"labels\":[\"坐在休闲椅上的兔子，配有个人简介文本块\"]},{\"title\":\"服务\",\"position\":\"中下部\",\"count\":4,\"labels\":[\"网站制作\",\"UI / UX 设计\",\"品牌设计\",\"艺术指导\"]},{\"title\":\"制作流程\",\"position\":\"底部居中\",\"count\":5,\"labels\":[\"01 需求调研\",\"02 方案提案\",\"03 设计\",\"04 开发\",\"05 发布\"]},{\"title\":\"页脚\",\"position\":\"底部全宽\",\"count\":4,\"labels\":[\"室内照片条\",\"关键词胶囊\",\"社交图标\",\"拿着马克杯的大坐姿兔子\"]}],\"note\":\"所有面板排列如同一套连贯的设计系统展示项目，带有圆角细边卡片和宽裕的留白\"},\"subject\":{\"main_character\":\"风格化 3D 兔子吉祥物，玩具般的比例，柔软的雕塑感身体，灰白色材质\",\"expressions_or_poses\":{\"count\":13,\"items\":[\"左侧品牌卡片上的站立中性全身像\",\"首屏中在桌前书写的大兔子\",\"首屏功能行旁站立的小兔子\",\"个人资料部分坐在扶手椅上拿杯子的兔子\",\"流程第 1 步中使用笔记本电脑\",\"流程第 2 步中展示项目\",\"流程第 3 步中在桌前工作\",\"流程第 4 步中使用笔记本电脑\",\"流程第 5 步中在笔记本电脑前\",\"图标行中的小型全身姿势 1\",\"图标行中的小型全身姿势 2\",\"图标行中的小型全身姿势 3\",\"右下角拿着马克杯的大坐姿兔子\"]}},\"scene_details\":{\"hero_scene\":\"窗边阳光明媚的木质书桌，打开的笔记本，羽毛笔，小墨水瓶，右侧伸入的柔和植物叶片，宁静的晨光\",\"cards\":\"作品集缩略图包括桌上的笔记本电脑、优雅的时尚/编辑手册、智能手机 UI 样机、带有兔子的谷物杂志封面\"},\"typography\":{\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"つくることを、静かに研ぎ澄ます。\\\"}\",\"body_language\":\"日语\",\"font_mood\":\"标题采用精致的现代衬线体，搭配简洁的无衬线 UI 文本\"},\"ui\":{\"components_count\":9,\"components\":[\"深岩灰色主胶囊按钮\",\"浅色轮廓次胶囊按钮\",\"标签胶囊\",\"导航栏\",\"圆角图标按钮\",\"内容卡片\",\"智能手机边框\",\"分页点\",\"社交图标\"]},\"materials\":{\"surfaces\":[\"哑光塑料兔子\",\"浅胡桃木\",\"奶油色纸张\",\"柔软的织物椅子\",\"玻璃和陶瓷装饰\"]},\"lighting\":\"柔和的漫射日光，温和的高光，极小的对比度，温暖的米色反射\",\"camera\":\"正对全项目视图，略微抬高，清爽的编辑产品拍摄感\",\"quality\":\"高端 Dribbble/Behance 展示效果，完美的对齐，写实的 3D 渲染与 UI 样机设计融合\",\"customization\":{\"accent color\":\"{argument name=\\\"accent color\\\" default=\\\"暖米色和岩石蓝\\\"}\",\"mascot animal\":\"{argument name=\\\"mascot animal\\\" default=\\\"兔子\\\"}\",\"language\":\"{argument name=\\\"language\\\" default=\\\"日语\\\"}\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Rabbit Portfolio 设计系统项目：一款精致的设计系统风格作品集样机，以柔软的 3D 兔子吉祥物为特色，非常适合生成品牌展示项目、落地页和 UI 概念展示。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [
+        "full-body",
+        "grid"
+      ],
+      "style": [
+        "realistic",
+        "editorial",
+        "3d",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: full-body, grid]。\n\nVisual style:\n[参考风格: realistic, editorial, 3d, luxury, premium]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15262",
+      "15264",
+      "14804",
+      "15688",
+      "14889",
+      "14714"
+    ]
+  }
+}

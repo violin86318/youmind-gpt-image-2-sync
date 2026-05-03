@@ -1,0 +1,53 @@
+{
+  "id": "14988",
+  "prompt": "{\"type\":\"sticker sheet\",\"subject\":\"cute chibi fairy girl thank-you message stickers\",\"character\":{\"gender_presentation\":\"girl\",\"style\":\"3D chibi toy-like character render with glossy plastic texture, soft kawaii proportions, large head, small body\",\"hair\":{\"color\":\"warm auburn\",\"style\":\"short wavy bob with curled ends and bangs\"},\"ears\":\"pointed elf ears\",\"hat\":\"shiny silver beret\",\"outfit\":[\"iridescent silver-white dress\",\"short puff sleeves\",\"white socks\",\"light shoes\"],\"wings\":\"2 translucent fairy wings with pastel iridescent sheen\"},\"layout\":{\"background\":\"solid chroma-key green backdrop\",\"grid\":{\"rows\":3,\"columns\":4},\"sticker_count\":12,\"spacing\":\"evenly spaced with large gaps\",\"sticker_style\":\"each figure and text rendered as die-cut stickers with thick white outline and soft shadow\"},\"stickers\":[{\"position\":\"row 1 col 1\",\"pose\":\"standing, hands clasped near chest\",\"text\":\"ありがとう!\",\"decorations\":[\"2 sparkle icons\"]},{\"position\":\"row 1 col 2\",\"pose\":\"standing with hands together in front, slight bow\",\"text\":\"感謝です\"},{\"position\":\"row 1 col 3\",\"pose\":\"holding a pink heart in front of chest\",\"text\":\"ほんと ありがと!\",\"decorations\":[\"2 pink hearts\",\"2 yellow emphasis marks\"]},{\"position\":\"row 1 col 4\",\"pose\":\"arms stretched wide in excitement\",\"text\":\"めっちゃ助かった!\"},{\"position\":\"row 2 col 1\",\"pose\":\"holding a bouquet of flowers\",\"text\":\"ありがとうの気持ちをお花にこめて\",\"decorations\":[\"2 pink flower icons\"]},{\"position\":\"row 2 col 2\",\"pose\":\"eyes closed, praying gesture with hands together\",\"text\":\"うれしい!\",\"decorations\":[\"2 small pink hearts\"]},{\"position\":\"row 2 col 3\",\"pose\":\"standing politely with hands together\",\"text\":\"いつもありがとうございます!\",\"decorations\":[\"2 sparkle icons\"]},{\"position\":\"row 2 col 4\",\"pose\":\"winking and making a peace sign\",\"text\":\"サンキュー!\",\"decorations\":[\"1 yellow star icon\"]},{\"position\":\"row 3 col 1\",\"pose\":\"raising one hand with energetic motion\",\"text\":\"すごい助かりました!\",\"decorations\":[\"1 yellow burst icon\"]},{\"position\":\"row 3 col 2\",\"pose\":\"sitting curled up with eyes closed, hands folded\",\"text\":\"あたたかいお心遣いありがとう\",\"decorations\":[\"1 pink heart\"]},{\"position\":\"row 3 col 3\",\"pose\":\"standing with hands clasped at chest\",\"text\":\"いつも支えてくれてありがとう!\",\"decorations\":[\"2 pink hearts\"]},{\"position\":\"row 3 col 4\",\"pose\":\"eyes closed, calm grateful expression, hands together\",\"text\":\"心から感謝です\",\"decorations\":[\"4 white radiating lines\"]}],\"rendering\":{\"lighting\":\"soft studio lighting\",\"camera\":\"front-facing, centered, full-body for each sticker\",\"quality\":\"clean commercial sticker-sheet composition, crisp edges, bright saturated colors\"}}",
+  "translatedPrompt": "{\"type\":\"sticker sheet\",\"subject\":\"可爱 Q 版小精灵感谢消息贴纸\",\"character\":{\"gender_presentation\":\"女孩\",\"style\":\"3D Q 版玩具风格角色渲染，具有光泽塑料质感，柔和的可爱比例，大头小身\",\"hair\":{\"color\":\"暖赤褐色\",\"style\":\"短波浪波波头，发尾卷曲，带有刘海\"},\"ears\":\"尖尖的精灵耳\",\"hat\":\"闪亮的银色贝雷帽\",\"outfit\":[\"虹彩银白色连衣裙\",\"短泡泡袖\",\"白袜子\",\"浅色鞋子\"],\"wings\":\"2 片带有柔和虹彩光泽的半透明精灵翅膀\"},\"layout\":{\"background\":\"纯色抠图绿背景\",\"grid\":{\"rows\":3,\"columns\":4},\"sticker_count\":12,\"spacing\":\"均匀分布，留有较大间隙\",\"sticker_style\":\"每个形象和文字均渲染为模切贴纸，带有厚实的白色轮廓和柔和阴影\"},\"stickers\":[{\"position\":\"第 1 行第 1 列\",\"pose\":\"站立，双手在胸前合十\",\"text\":\"ありがとう!\",\"decorations\":[\"2 个闪光图标\"]},{\"position\":\"第 1 行第 2 列\",\"pose\":\"双手合十在身前，微微鞠躬\",\"text\":\"感謝です\"},{\"position\":\"第 1 行第 3 列\",\"pose\":\"胸前捧着一颗粉色爱心\",\"text\":\"ほんと ありがと!\",\"decorations\":[\"2 个粉色爱心\",\"2 个黄色强调符号\"]},{\"position\":\"第 1 行第 4 列\",\"pose\":\"双臂兴奋地张开\",\"text\":\"めっちゃ助かった!\"},{\"position\":\"第 2 行第 1 列\",\"pose\":\"手捧一束鲜花\",\"text\":\"ありがとうの気持ちをお花にこめて\",\"decorations\":[\"2 个粉色花朵图标\"]},{\"position\":\"第 2 行第 2 列\",\"pose\":\"闭眼，双手合十祈祷姿势\",\"text\":\"うれしい!\",\"decorations\":[\"2 个小粉色爱心\"]},{\"position\":\"第 2 行第 3 列\",\"pose\":\"礼貌站立，双手合十\",\"text\":\"いつもありがとうございます!\",\"decorations\":[\"2 个闪光图标\"]},{\"position\":\"第 2 行第 4 列\",\"pose\":\"眨眼并比出剪刀手\",\"text\":\"サンキュー!\",\"decorations\":[\"1 个黄色星星图标\"]},{\"position\":\"第 3 行第 1 列\",\"pose\":\"充满活力地举起一只手\",\"text\":\"すごい助かりました!\",\"decorations\":[\"1 个黄色爆炸图标\"]},{\"position\":\"第 3 行第 2 列\",\"pose\":\"蜷缩坐着，闭眼，双手交叠\",\"text\":\"あたたかいお心遣いありがとう\",\"decorations\":[\"1 个粉色爱心\"]},{\"position\":\"第 3 行第 3 列\",\"pose\":\"站立，双手在胸前合十\",\"text\":\"いつも支えてくれてありがとう!\",\"decorations\":[\"2 个粉色爱心\"]},{\"position\":\"第 3 行第 4 列\",\"pose\":\"闭眼，平静感恩的表情，双手合十\",\"text\":\"心から感謝です\",\"decorations\":[\"4 条白色放射线\"]}],\"rendering\":{\"lighting\":\"柔和的摄影棚灯光\",\"camera\":\"正面朝向，居中，每个贴纸均为全身照\",\"quality\":\"整洁的商业贴纸页构图，边缘清晰，色彩明亮饱和\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Q 版小精灵感谢贴纸页：一张亮绿色背景的贴纸页，展示了 12 款可爱的 Q 版小精灵感谢姿势，配有日语文字，适用于消息贴纸或周边商品效果图。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "full-body",
+        "grid",
+        "front-facing"
+      ],
+      "style": [
+        "3d",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, full-body, grid, front-facing]。\n\nVisual style:\n[参考风格: 3d, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15607",
+      "15014",
+      "15367",
+      "15340",
+      "15805",
+      "14980"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "15114",
+  "prompt": "A bold minimalist brand poster on a matte black background with a soft grainy print texture, designed like a startup landing-page hero graphic. In the top left, place a simple cream-colored logo icon followed by the brand name {argument name=\"brand name\" default=\"Biscuit\"} in a refined serif wordmark. Below it, create a large left-aligned typographic block occupying roughly the left half of the composition. The main headline reads: {argument name=\"headline text\" default=\"Built for solopreneurs.\"} in oversized elegant cream serif type with strong contrast and generous line spacing. Directly beneath it, add a second headline line in vivid hot pink italic serif reading {argument name=\"tagline text\" default=\"Backed by simplicity.\"}. Below that, add a smaller white sans-serif body copy block, left aligned, reading {argument name=\"body text\" default=\"Everything you need to launch, run, and grow—all in one place.\"}. Near the bottom left, place the URL {argument name=\"website text\" default=\"biscuit.so\"} in bold hot pink sans-serif. On the right half, feature a cute abstract mascot: a rounded irregular cloud-like pink blob character with scalloped edges, 2 large cream-and-black circular eyes, 1 small curved smiling mouth, and 2 tiny rounded hands resting on top of a large curved pink foreground shape that rises from the bottom edge like a hill or product surface. Add a dense field of hot pink spray-like speckles and particles in the upper-right quadrant fading toward the center, giving a playful cosmic ink-splatter effect. Use a limited palette of black, cream, white, and saturated pink; high contrast editorial typography; lots of negative space; a clean, modern, approachable, founder-friendly SaaS branding aesthetic; centered-right character placement; portrait poster composition.",
+  "translatedPrompt": "一张大胆的极简主义品牌海报，采用哑光黑色背景，带有柔和的颗粒印刷质感，设计风格类似于初创公司的落地页首屏图形。在左上角放置一个简单的奶油色 Logo 图标，后跟品牌名称 {argument name=\"brand name\" default=\"Biscuit\"}，采用精致的衬线字体。在其下方，创建一个大型左对齐的排版块，占据构图左侧约一半的空间。主标题为 {argument name=\"headline text\" default=\"Built for solopreneurs.\"}，使用超大号优雅的奶油色衬线字体，具有强烈的对比度和宽裕的行间距。在其正下方，添加第二行标题，使用鲜艳的亮粉色斜体衬线字体，内容为 {argument name=\"tagline text\" default=\"Backed by simplicity.\"}。下方添加一个较小的白色无衬线正文块，左对齐，内容为 {argument name=\"body text\" default=\"Everything you need to launch, run, and grow—all in one place.\"}。在左下角附近，放置 URL {argument name=\"website text\" default=\"biscuit.so\"}，使用粗体亮粉色无衬线字体。在右半部分，展示一个可爱的抽象吉祥物：一个圆润且不规则的云状粉色团块角色，边缘呈扇贝状，拥有 2 只巨大的奶油色与黑色圆形眼睛、1 个微小的弯曲笑嘴，以及 2 只小巧圆润的手，正搁在一个从底部边缘升起、类似小山或产品表面的巨大弧形粉色形状上。在右上象限添加密集的亮粉色喷溅状斑点和颗粒，并向中心渐变，营造出俏皮的宇宙墨水飞溅效果。使用黑色、奶油色、白色和饱和粉色的有限调色板；高对比度的编辑排版；大量的留白；简洁、现代、平易近人且对创始人友好的 SaaS 品牌美学；角色位于右侧居中；竖版海报构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "极简 SaaS 海报与粉色吉祥物：此提示词可生成一张现代初创品牌海报，包含编辑排版、可爱的团状吉祥物，以及高对比度的黑粉设计，适用于落地页或活动样机。",
+      "subject": "文字符号",
+      "scene": "海报/封面",
+      "composition": [
+        "centered"
+      ],
+      "style": [
+        "editorial",
+        "minimalist"
+      ],
+      "lightingCamera": [
+        "high contrast"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered]。\n\nVisual style:\n[参考风格: editorial, minimalist]。\n\nLighting and camera:\n[参考光线镜头: high contrast]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14833",
+      "14842",
+      "14907",
+      "15669",
+      "14006",
+      "14863"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "13695",
+  "prompt": "An anime-style illustration of a figure leaning against a textured stone wall in a narrow, sunlit alleyway. The figure has a {argument name=\"head type\" default=\"large yellow smiling emoji with rosy cheeks\"} for a head. They wear a {argument name=\"outfit\" default=\"loose black overcoat, black shirt, wide-leg black trousers, and black dress shoes\"}. The character's left foot rests on a stone block, right hand in pocket, and left hand near the neck. The scene includes reflective stone pavement, a distant streetlamp, and golden-lit foliage. The lighting features dramatic chiaroscuro and sharp shadows.",
+  "translatedPrompt": "一张动漫风格的插画，描绘了一个人随意地靠在质感十足的石墙上，背景为 {argument name=\"setting\" default=\"狭窄且阳光明媚的鹅卵石小巷\"}。人物身着 {argument name=\"clothing\" default=\"全黑西装和长款大衣\"}，一只手托在下巴附近，另一只手插在口袋里。一条腿抬起，一只黑色皮鞋踩在石块上。角色的面部完全被一个 {argument name=\"face covering\" default=\"巨大的黄色害羞笑脸表情符号\"} 遮挡。场景采用了戏剧性的 {argument name=\"lighting\" default=\"高对比度的斑驳阳光\"}，光线穿过附近的叶片，在深色的衣物和粗糙的墙面上投下锐利而复杂的阴影。整体氛围时尚且神秘，色调采用了温暖的黄金时刻风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "身着黑衣、面部为表情符号的人物：生成一张动漫风格的插画，描绘一个穿着时尚的人靠在墙上，面部被表情符号遮挡，呈现出戏剧性的光影效果。",
+      "subject": "服饰",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13805",
+      "13999",
+      "14211",
+      "13808",
+      "14637",
+      "13744"
+    ]
+  }
+}

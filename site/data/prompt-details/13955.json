@@ -1,0 +1,46 @@
+{
+  "id": "13955",
+  "prompt": "{\n  \"type\": \"comprehensive movie production design document\",\n  \"style\": \"live-action cinematic photography, highly detailed, Japanese movie promotional material\",\n  \"theme\": \"{argument name=\\\"cinematic vibe\\\" default=\\\"emotional sunset drama\\\"}\",\n  \"layout\": {\n    \"top_section\": {\n      \"type\": \"Movie Poster\",\n      \"title\": \"{argument name=\\\"movie title\\\" default=\\\"虹の橋の約束\\\"}\",\n      \"subtitle\": \"NIJINO HASHI NO YAKUSOKU\",\n      \"release_date\": \"11.7 FRI roadshow\",\n      \"visuals\": \"Large cinematic montage featuring {argument name=\\\"male character description\\\" default=\\\"young Japanese man with messy dark hair\\\"} looking left, an {argument name=\\\"animal companion\\\" default=\\\"orange tabby cat\\\"} on his shoulder, and a {argument name=\\\"female character description\\\" default=\\\"young Japanese woman with shoulder-length brown hair\\\"} in the background against a sunset cityscape with a rainbow.\",\n      \"film_strip\": {\n        \"count\": 5,\n        \"description\": \"horizontal cinematic stills showing the characters and cat in various scenes\"\n      }\n    },\n    \"middle_left_section\": {\n      \"type\": \"Female Character Reference\",\n      \"label\": \"藤木ハル\",\n      \"full_body_turnaround\": { \"count\": 4, \"poses\": [\"Front\", \"Side (Left)\", \"Back\", \"3/4 View\"], \"outfit\": \"long beige cardigan, brown top, wide brown pants\" },\n      \"facial_expressions\": { \"count\": 3 },\n      \"details\": { \"count\": 3, \"description\": \"close-ups of hands, collar, and hair\" },\n      \"footwear\": { \"count\": 3, \"description\": \"angles of brown slip-on shoes\" },\n      \"silhouette\": { \"count\": 2 },\n      \"color_palette\": { \"count\": 5, \"description\": \"swatches\" }\n    },\n    \"middle_right_section\": {\n      \"type\": \"Male Character Reference\",\n      \"label\": \"瀬川 凛\",\n      \"full_body_turnaround\": { \"count\": 4, \"poses\": [\"Front\", \"Side (Left)\", \"Back\", \"3/4 View\"], \"outfit\": \"dark grey jacket, white shirt, dark pants\" },\n      \"facial_expressions\": { \"count\": 3 },\n      \"details\": { \"count\": 3, \"description\": \"close-ups of hands, collar, and hair\" },\n      \"footwear\": { \"count\": 3, \"description\": \"angles of black sneakers\" },\n      \"silhouette\": { \"count\": 2 }\n    },\n    \"bottom_left_section\": {\n      \"type\": \"Animal Reference\",\n      \"label\": \"チェリー\",\n      \"main_poses\": { \"count\": 3, \"description\": \"sitting, standing, walking\" },\n      \"face_closeup\": { \"count\": 1 },\n      \"fur_details\": { \"count\": 2 },\n      \"behavioral_poses\": { \"count\": 2, \"description\": \"lying down\" },\n      \"anatomy_details\": { \"count\": 3, \"description\": \"paws and tail\" },\n      \"scale_reference\": { \"count\": 1, \"description\": \"cat next to human silhouette\" },\n      \"facial_angles\": { \"count\": 4 }\n    },\n    \"bottom_right_section\": {\n      \"type\": \"Cinematic Storyboard\",\n      \"grid\": { \"count\": 9, \"description\": \"cinematic stills featuring the man, woman, and cat in various lighting conditions like sunset and dusk indoors\" }\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"综合电影制作设计文档\",\n  \"style\": \"真人电影摄影风格，高细节，日本电影宣传物料\",\n  \"theme\": \"{argument name=\\\"cinematic vibe\\\" default=\\\"感人的日落剧情片\\\"}\",\n  \"layout\": {\n    \"top_section\": {\n      \"type\": \"电影海报\",\n      \"title\": \"{argument name=\\\"movie title\\\" default=\\\"虹の橋の約束\\\"}\",\n      \"subtitle\": \"NIJINO HASHI NO YAKUSOKU\",\n      \"release_date\": \"11 月 7 日 周五 上映\",\n      \"visuals\": \"大型电影蒙太奇，画面包含 {argument name=\\\"male character description\\\" default=\\\"留着凌乱深色短发的年轻日本男性\\\"} 向左望去，肩上趴着一只 {argument name=\\\"animal companion\\\" default=\\\"橘色虎斑猫\\\"}，背景是 {argument name=\\\"female character description\\\" default=\\\"留着棕色齐肩发的年轻日本女性\\\"}，衬托在带有彩虹的日落城市景观中。\",\n      \"film_strip\": {\n        \"count\": 5,\n        \"description\": \"水平排列的电影剧照，展示了角色与猫在不同场景中的画面\"\n      }\n    },\n    \"middle_left_section\": {\n      \"type\": \"女性角色参考\",\n      \"label\": \"藤木ハル\",\n      \"full_body_turnaround\": { \"count\": 4, \"poses\": [\"正面\", \"侧面 (左)\", \"背面\", \"3/4 侧面\"], \"outfit\": \"米色长款开衫，棕色上衣，棕色阔腿裤\" },\n      \"facial_expressions\": { \"count\": 3 },\n      \"details\": { \"count\": 3, \"description\": \"手部、领口和头发的特写\" },\n      \"footwear\": { \"count\": 3, \"description\": \"棕色平底鞋的多个角度\" },\n      \"silhouette\": { \"count\": 2 },\n      \"color_palette\": { \"count\": 5, \"description\": \"色卡\" }\n    },\n    \"middle_right_section\": {\n      \"type\": \"男性角色参考\",\n      \"label\": \"瀬川 凛\",\n      \"full_body_turnaround\": { \"count\": 4, \"poses\": [\"正面\", \"侧面 (左)\", \"背面\", \"3/4 侧面\"], \"outfit\": \"深灰色夹克，白色衬衫，深色长裤\" },\n      \"facial_expressions\": { \"count\": 3 },\n      \"details\": { \"count\": 3, \"description\": \"手部、领口和头发的特写\" },\n      \"footwear\": { \"count\": 3, \"description\": \"黑色运动鞋的多个角度\" },\n      \"silhouette\": { \"count\": 2 }\n    },\n    \"bottom_left_section\": {\n      \"type\": \"动物参考\",\n      \"label\": \"チェリー\",\n      \"main_poses\": { \"count\": 3, \"description\": \"坐姿、站姿、行走\" },\n      \"face_closeup\": { \"count\": 1 },\n      \"fur_details\": { \"count\": 2 },\n      \"behavioral_poses\": { \"count\": 2, \"description\": \"趴卧\" },\n      \"anatomy_details\": { \"count\": 3, \"description\": \"爪子和尾巴\" },\n      \"scale_reference\": { \"count\": 1, \"description\": \"猫与人类剪影的比例参考\" },\n      \"facial_angles\": { \"count\": 4 }\n    },\n    \"bottom_right_section\": {\n      \"type\": \"电影分镜\",\n      \"grid\": { \"count\": 9, \"description\": \"电影剧照，展示了男性、女性和猫在日落和室内黄昏等不同光影条件下的画面\" }\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "真人电影提案与角色设定集：生成一份详尽的真人电影制作文档，包含电影海报、详细的角色三视图、动物参考图以及分镜剧照。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "close-up",
+        "grid",
+        "horizontal"
+      ],
+      "style": [
+        "cinematic"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, grid, horizontal]。\n\nVisual style:\n[参考风格: cinematic]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15385",
+      "14869",
+      "15646",
+      "13916",
+      "14042",
+      "14398"
+    ]
+  }
+}

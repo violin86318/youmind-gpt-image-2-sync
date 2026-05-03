@@ -1,0 +1,47 @@
+{
+  "id": "15307",
+  "prompt": "A cinematic night street scene in heavy rain, shot from outside a car with a close three-quarter view of the rear side window. A young woman with {argument name=\"hair color\" default=\"dark brown\"} shoulder-length wet hair leans her folded arms on the open car window frame and rests her head on them, gazing outward with a quiet, melancholic mood. She wears a {argument name=\"top color\" default=\"white\"} long-sleeve blouse. The car body fills the right half of the frame, covered in dense sparkling raindrops, with the window trim and door surface sharply detailed. The woman’s face is partially obscured by shadow and framing, creating anonymity and mystery. The left half of the image shows an out-of-focus city street with exactly 2 warm amber streetlights visible as glowing orbs near the top and middle distance, plus multicolored bokeh from traffic and signage in red, blue, white, and orange. Wet asphalt reflects the lights in long streaks. Visible rain streaks fall through the scene. Use a shallow depth of field, strong orange-and-teal color contrast, glossy reflections, moody noir atmosphere, realistic photography, high contrast, soft filmic bloom, and a slightly overprocessed AI-photo feel with occasional high-frequency sparkle and rain noise. Square composition.",
+  "translatedPrompt": "一场大雨中的电影感夜间街景，从车外拍摄，呈现后侧车窗的三分之四近景视角。一位留着 {argument name=\"hair color\" default=\"深棕色\"} 及肩湿发的年轻女子，将双臂叠放在打开的车窗框上，头枕在手臂上，神情安静且忧郁地向外凝视。她穿着一件 {argument name=\"top color\" default=\"白色\"} 长袖衬衫。车身占据了画面的右半部分，覆盖着密集的闪烁雨滴，车窗饰条和车门表面细节清晰。女子的面部部分被阴影和构图遮挡，营造出一种匿名感与神秘感。画面左半部分展示了失焦的城市街道，顶部和中远景处可见 2 盏温暖的琥珀色路灯，如同发光的球体，此外还有红、蓝、白、橙色的交通灯和招牌产生的多色光斑。湿润的柏油路面映照出长条状的光影。可见的雨丝穿过整个场景。采用浅景深、强烈的橙青色调对比、光泽反射、忧郁的黑色电影氛围、写实摄影风格、高对比度、柔和的胶片光晕，以及带有轻微过度处理的 AI 照片质感，并伴有偶尔出现的高频闪烁和雨水噪点。正方形构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "雨夜中倚靠在车窗旁的女子：一张充满电影质感的忧郁风格照片，描绘了一名女子倚靠在雨水浸湿的车窗旁，背景是霓虹闪烁的城市街道，适用于氛围感编辑或 AI 图像测试。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "high contrast",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: high contrast, shallow depth, depth of field]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15739",
+      "15096",
+      "15515",
+      "15690",
+      "15754",
+      "15766"
+    ]
+  }
+}

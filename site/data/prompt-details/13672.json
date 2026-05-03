@@ -1,0 +1,39 @@
+{
+  "id": "13672",
+  "prompt": "A {argument name=\"art style\" default=\"high-quality 2D anime screenshot\"} of two students talking on a {argument name=\"setting\" default=\"Japanese school stairwell landing\"}. On the left, a {argument name=\"female character\" default=\"blonde anime girl with red eyes, wearing a cream sweater and plaid skirt\"} carries a navy school bag. She looks toward a {argument name=\"male character\" default=\"black spiky-haired anime boy in a black school blazer and striped tie\"} on the right. They stand facing each other mid-conversation. Soft daylight streams through a background window, illuminating the stairs and a 2F directional sign on the wall.",
+  "translatedPrompt": "一张 {argument name=\"art style\" default=\"现代日常番动漫风格\"} 的截图，描绘了一名少女和一名少年在 {argument name=\"setting\" default=\"学校楼梯平台\"} 上交谈的场景。左侧的少女留着 {argument name=\"girl hair color\" default=\"金色长发\"}，有着红色双眸，佩戴红色十字发夹，身穿 {argument name=\"girl sweater color\" default=\"米色\"} 毛衣、红色条纹领结和格子裙，手里拿着一个蓝色书包。右侧的少年留着 {argument name=\"boy hair color\" default=\"凌乱的黑发\"}，身穿未扣扣子的黑色西装外套，系着松散的条纹领带，穿着深色长裤。他们正注视着彼此。背景中可以看到一扇透进日光窗户，以及一个写着“2F”的日式楼层导览牌。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫校园楼梯间邂逅：生成一张高质量的动漫截图，描绘两名学生在校园场景中的互动。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13595",
+      "13616",
+      "13618",
+      "13635",
+      "13654",
+      "13800"
+    ]
+  }
+}

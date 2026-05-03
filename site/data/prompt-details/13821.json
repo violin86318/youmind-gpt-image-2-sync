@@ -1,0 +1,47 @@
+{
+  "id": "13821",
+  "prompt": "{\n  \"type\": \"educational infographic\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"最新AI (ChatGPT / Claude) の仕組み\\\"}\",\n    \"badge\": \"{argument name=\\\"target audience badge\\\" default=\\\"高校生でもわかる！\\\"}\",\n    \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"文章・画像・音声も理解し、考えて動けるAIのしくみを1枚で解説！\\\"}\"\n  },\n  \"layout\": {\n    \"style\": \"clean, flat design, structured grid, Japanese text\",\n    \"sections\": [\n      {\n        \"title\": \"AIが答えを出すまで(基本の流れ)\",\n        \"position\": \"left column\",\n        \"count\": 6,\n        \"labels\": [\"入力\", \"トークン化 (Token)\", \"ベクトル化 (Embedding)\", \"Transformer (AIの頭脳)\", \"次のトークンを予測 (生成)\", \"出力\"],\n        \"visuals\": \"vertical flow with arrows, boy using laptop, token splitting diagram, vector number arrays, self-attention tree, robot icon\"\n      },\n      {\n        \"title\": \"ここがコア！ 3つの重要ポイント\",\n        \"position\": \"top right\",\n        \"count\": 3,\n        \"labels\": [\"Token (トークン)\", \"Transformer (トランスフォーマー)\", \"次トークン予測\"],\n        \"visuals\": \"tokenization blocks, self-attention node network, word prediction sequence\"\n      },\n      {\n        \"title\": \"最近のブレイクスルー (2024-2025)\",\n        \"position\": \"middle right\",\n        \"count\": 4,\n        \"labels\": [\"マルチモーダル\", \"エージェント化\", \"長文・推論能力の向上\", \"効率化・高速化\"],\n        \"visuals\": \"image/audio/text icons, robot agent flowchart, lightbulb and book, speedometer with 3 expert nodes\"\n      },\n      {\n        \"title\": \"全体まとめ\",\n        \"position\": \"bottom full width\",\n        \"elements\": [\n          \"horizontal 6-step flowchart\",\n          \"yellow summary box with text: {argument name=\\\"summary text\\\" default=\\\"「AIは、情報を細かく分けて数字に変換し、関係性を計算して、次に来るものを予測する巨大な数学マシン」です！\\\"}\",\n          \"{argument name=\\\"character style\\\" default=\\\"anime-style female student pointing and smiling\\\"}\"\n        ]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"教育信息图\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"最新 AI (ChatGPT / Claude) 的运行机制\\\"}\",\n    \"badge\": \"{argument name=\\\"target audience badge\\\" default=\\\"高中生也能看懂！\\\"}\",\n    \"subtitle\": \"{argument name=\\\"subtitle\\\" default=\\\"一张图带你了解 AI 如何理解文字、图像、音频并进行思考与行动！\\\"}\"\n  },\n  \"layout\": {\n    \"style\": \"简洁、扁平化设计、结构化网格、中文文本\",\n    \"sections\": [\n      {\n        \"title\": \"AI 输出答案的过程 (基本流程)\",\n        \"position\": \"左侧栏\",\n        \"count\": 6,\n        \"labels\": [\"输入\", \"分词 (Tokenization)\", \"向量化 (Embedding)\", \"Transformer (AI 的大脑)\", \"预测下一个 Token (生成)\", \"输出\"],\n        \"visuals\": \"带有箭头的垂直流程、使用笔记本电脑的男孩、分词示意图、向量数字数组、自注意力机制树、机器人图标\"\n      },\n      {\n        \"title\": \"核心要点：3 大关键点\",\n        \"position\": \"右上角\",\n        \"count\": 3,\n        \"labels\": [\"Token (词元)\", \"Transformer (转换器)\", \"下一词元预测\"],\n        \"visuals\": \"分词模块、自注意力节点网络、词语预测序列\"\n      },\n      {\n        \"title\": \"近期突破 (2024-2025 年)\",\n        \"position\": \"右侧中部\",\n        \"count\": 4,\n        \"labels\": [\"多模态\", \"Agent 化\", \"长文本与推理能力提升\", \"效率与速度优化\"],\n        \"visuals\": \"图像/音频/文本图标、机器人 Agent 流程图、灯泡与书籍、带有 3 个专家节点的速度计\"\n      },\n      {\n        \"title\": \"总结\",\n        \"position\": \"底部全宽\",\n        \"elements\": [\n          \"水平 6 步流程图\",\n          \"黄色总结框，文本内容：{argument name=\\\"summary text\\\" default=\\\"AI 是一个巨大的数学机器，它将信息拆解并转换为数字，通过计算关系来预测下一个出现的内容！\\\"}\",\n          \"{argument name=\\\"character style\\\" default=\\\"动漫风格女学生，正在指引并微笑\\\"}\"\n        ]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "AI 机制信息图：生成结构化的多面板教育信息图，通过流程图、图标和总结角色来解释复杂概念。",
+      "subject": "信息结构",
+      "scene": "信息图/图解",
+      "composition": [
+        "grid",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "知识卡片、科普图、社媒长图、教学材料",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, vertical, horizontal]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13789",
+      "13639",
+      "13693",
+      "14407",
+      "14465",
+      "14866"
+    ]
+  }
+}

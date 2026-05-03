@@ -1,0 +1,45 @@
+{
+  "id": "14022",
+  "prompt": "{\n  \"type\": \"3-panel vertical manga strip\",\n  \"style\": \"monochrome anime style with screentones and clean line art\",\n  \"character\": \"{argument name=\\\"character description\\\" default=\\\"anime girl with cat ears, short hair, wearing a simple t-shirt\\\"}\",\n  \"setting\": \"sitting at a desk in front of a computer monitor and keyboard\",\n  \"layout\": {\n    \"panels\": [\n      {\n        \"position\": \"top\",\n        \"action\": \"resting chin on hand, looking excitedly at the monitor with sparkle effects\",\n        \"text_elements\": [\n          {\n            \"type\": \"rectangular text box\",\n            \"position\": \"top right\",\n            \"text\": \"{argument name=\\\"panel 1 context text\\\" default=\\\"新しいAIが発表される時\\\"}\"\n          },\n          {\n            \"type\": \"speech bubble\",\n            \"position\": \"left\",\n            \"text\": \"うおおおお！使ってみなき\"\n          }\n        ]\n      },\n      {\n        \"position\": \"middle\",\n        \"action\": \"slumped over the keyboard, looking tired but still staring at the screen\",\n        \"text_elements\": [\n          {\n            \"type\": \"speech bubble\",\n            \"position\": \"right\",\n            \"text\": \"{argument name=\\\"panel 2 speech text\\\" default=\\\"いつまで続くんだ続くんだこれ…\\\"}\"\n          },\n          {\n            \"type\": \"speech bubble\",\n            \"position\": \"left\",\n            \"text\": \"うおおおすげー\"\n          }\n        ]\n      },\n      {\n        \"position\": \"bottom\",\n        \"action\": \"completely exhausted, resting head flat on the keyboard, eyes half-closed, sighing\",\n        \"text_elements\": [\n          {\n            \"type\": \"speech bubble\",\n            \"position\": \"right\",\n            \"text\": \"{argument name=\\\"panel 3 speech text\\\" default=\\\"つかれた…\\\"}\"\n          },\n          {\n            \"type\": \"rectangular text box\",\n            \"position\": \"bottom left\",\n            \"text\": \"たぶん5年くらい5年く\"\n          }\n        ]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"三格垂直漫画条\",\n  \"style\": \"带有网点和干净线条的黑白动漫风格\",\n  \"character\": \"{argument name=\\\"character description\\\" default=\\\"戴猫耳、短发、穿着简单 T 恤的动漫女孩\\\"}\",\n  \"setting\": \"坐在电脑显示器和键盘前的桌子旁\",\n  \"layout\": {\n    \"panels\": [\n      {\n        \"position\": \"顶部\",\n        \"action\": \"手托下巴，兴奋地看着显示器，带有闪光特效\",\n        \"text_elements\": [\n          {\n            \"type\": \"矩形文本框\",\n            \"position\": \"右上角\",\n            \"text\": \"{argument name=\\\"panel 1 context text\\\" default=\\\"当新的 AI 发布时\\\"}\"\n          },\n          {\n            \"type\": \"对话气泡\",\n            \"position\": \"左侧\",\n            \"text\": \"哇哦哦哦！一定要试试看\"\n          }\n        ]\n      },\n      {\n        \"position\": \"中部\",\n        \"action\": \"瘫倒在键盘上，看起来很累但仍盯着屏幕\",\n        \"text_elements\": [\n          {\n            \"type\": \"对话气泡\",\n            \"position\": \"右侧\",\n            \"text\": \"{argument name=\\\"panel 2 speech text\\\" default=\\\"这到底要持续到什么时候……\\\"}\"\n          },\n          {\n            \"type\": \"对话气泡\",\n            \"position\": \"左侧\",\n            \"text\": \"哇哦哦好厉害\"\n          }\n        ]\n      },\n      {\n        \"position\": \"底部\",\n        \"action\": \"彻底精疲力竭，头平趴在键盘上，半睁着眼，叹着气\",\n        \"text_elements\": [\n          {\n            \"type\": \"对话气泡\",\n            \"position\": \"右侧\",\n            \"text\": \"{argument name=\\\"panel 3 speech text\\\" default=\\\"累死了……\\\"}\"\n          },\n          {\n            \"type\": \"矩形文本框\",\n            \"position\": \"左下角\",\n            \"text\": \"大概还要 5 年吧\"\n          }\n        ]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "三格动漫连环画：生成一个三格垂直漫画条，描绘角色在电脑桌前逐渐精疲力竭的过程，并配有可自定义的对话气泡。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "anime",
+        "manga"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: anime, manga]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13932",
+      "14468",
+      "14524",
+      "15670",
+      "13624",
+      "14250"
+    ]
+  }
+}

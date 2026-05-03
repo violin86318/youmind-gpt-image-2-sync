@@ -1,0 +1,41 @@
+{
+  "id": "13805",
+  "prompt": "A high-angle, anime-style illustration of a girl with {argument name=\"hair color\" default=\"long dark hair with purple tips\"} standing inside a futuristic glass elevator, looking up at a massive space elevator structure. She is wearing a {argument name=\"outfit\" default=\"sailor uniform with a pleated skirt and thigh-high socks\"}. The elevator cab has metallic railings, glowing cyan accents, and a digital display showing an upward arrow and the text \"{argument name=\"altitude text\" default=\"005829 km\"}\". Through the large glass ceiling and windows, a colossal, intricately detailed space station with a central pillar and a large ring structure is visible against a backdrop of a starry sky and the curvature of {argument name=\"planet\" default=\"Earth\"} with clouds below. The lighting is dramatic, emphasizing the vast scale of the space structure and the atmospheric perspective.",
+  "translatedPrompt": "一张高角度的动漫风格插画，描绘了一名留着 {argument name=\"hair color\" default=\"长黑发配紫色发梢\"} 的少女站在未来感十足的玻璃电梯内，仰望着宏伟的太空电梯结构。她身穿 {argument name=\"outfit\" default=\"水手服配百褶裙和过膝袜\"}。电梯轿厢配有金属扶手、青色发光装饰，以及一个显示向上箭头和“{argument name=\"altitude text\" default=\"005829 km\"}”字样的数字显示屏。透过巨大的玻璃天花板和窗户，可以看到背景中星空下的巨大且细节丰富的空间站，空间站中心有支柱和大型环形结构，下方则是 {argument name=\"planet\" default=\"地球\"} 的弧线和云层。光影效果极具戏剧性，突显了太空建筑的宏大规模和大气透视感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "太空电梯里的动漫少女：生成一张动漫风格的插画，描绘一名角色身处玻璃电梯内，仰望宏伟太空建筑的场景。",
+      "subject": "服饰",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13695",
+      "13999",
+      "14211",
+      "13808",
+      "14637",
+      "13935"
+    ]
+  }
+}

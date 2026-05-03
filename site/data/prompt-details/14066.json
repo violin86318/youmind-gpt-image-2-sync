@@ -1,0 +1,39 @@
+{
+  "id": "14066",
+  "prompt": "An ethereal anime illustration of a {argument name=\"character type\" default=\"young anime witch\"} sleeping peacefully on a soft pillow, tucked under a voluminous, starry blanket that seamlessly blends into a bed of clouds. She has round glasses and flowing {argument name=\"hair color\" default=\"pastel rainbow\"} hair. She is wearing a large, floppy witch hat and matching pajamas, both featuring a vibrant {argument name=\"clothing pattern\" default=\"colorful galaxy camouflage\"} pattern. The background is a deeply magical cosmic night sky filled with sparkling stars, illuminated by a bright star at the top center and framed by {argument name=\"background element\" default=\"intricate glowing magical filigree forming a crescent moon\"}. The scene is highly detailed and luminous, characterized by a soft, dreamy atmosphere and an {argument name=\"overall color palette\" default=\"deep blues and luminous purples\"} color palette.",
+  "translatedPrompt": "一张空灵的动漫插画，描绘了一位 {argument name=\"character type\" default=\"年轻动漫女巫\"} 正在柔软的枕头上安详入睡，身上盖着蓬松的星空毯，毯子与云床无缝融合。她戴着圆框眼镜，留着飘逸的 {argument name=\"hair color\" default=\"柔和彩虹色\"} 头发。她戴着一顶巨大的软塌塌的女巫帽，穿着配套的睡衣，两者都带有鲜艳的 {argument name=\"clothing pattern\" default=\"彩色星系迷彩\"} 图案。背景是充满魔法的宇宙夜空，繁星闪烁，顶部中央有一颗明亮的星星照耀，周围环绕着 {argument name=\"background element\" default=\"构成新月的精致发光魔法花丝\"}。画面细节丰富且明亮，呈现出柔和梦幻的氛围，并采用 {argument name=\"overall color palette\" default=\"深蓝色和明亮的紫色\"} 的整体色调。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "沉睡的动漫星空女巫：生成一张梦幻般的动漫插画，描绘了一位在星光熠熠的宇宙背景下沉睡的魔法角色。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13595",
+      "13618",
+      "13635",
+      "13654",
+      "13672",
+      "13800"
+    ]
+  }
+}

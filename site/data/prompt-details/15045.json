@@ -1,0 +1,47 @@
+{
+  "id": "15045",
+  "prompt": "A highly detailed photorealistic LEGO interpretation of {argument name=\"landmark\" default=\"Plaza de España, Seville\"}, shown as a grand golden-hour architectural scene from canal level. The image is vertical and cinematic, with the viewer looking straight down a narrow curved canal toward an ornate Spanish Renaissance Revival palace facade built entirely from LEGO bricks. The warm terracotta building fills the upper half of the frame, with multiple towers, arched colonnades, balconies, decorative cornices, and intricate brick-built ornamentation. A small Spanish flag flies from the central tower. In the foreground, a LEGO rowboat with 2 minifigures is seen from behind, drifting along the canal; one has reddish-brown hair and the other light brown hair, both rowing with long brown oars. In the mid-distance, there is a second small rowboat with 2 minifigures under or near an elegant arched bridge. Count 2 boats total and 4 rowing passengers total. Along the right-side promenade, count 4 visible standing minifigures placed at intervals beside the tiled railing. The canal is lined with detailed blue, white, and yellow ceramic-style LEGO mosaic balustrades and brick parapets, with black vintage street lamps; count 7 visible lamp posts total. On the left edge, include 2 rounded pink flowering shrubs in planters. The bridge crossing the canal has ornate blue-and-white LEGO tile patterns and a graceful single arch. The water should look realistic yet made from small glossy LEGO-like tiles, with dark teal reflections of the building and sky. Lighting is soft sunset light with a glowing amber sky, scattered clouds, long highlights, and rich warm shadows. Emphasize realism, fine texture, playful scale illusion, and the convincing blend of real architectural grandeur with unmistakable LEGO construction.",
+  "translatedPrompt": "这是一幅高度精细、写实风格的乐高版 {argument name=\"landmark\" default=\"塞维利亚西班牙广场\"}，呈现为黄金时刻的宏伟建筑场景，视角位于运河水平面。画面为竖构图，具有电影质感，观众视线沿着狭窄的弧形运河望向远方，尽头是完全由乐高积木搭建的华丽西班牙文艺复兴复兴风格宫殿外立面。温暖的赤陶色建筑占据了画面的上半部分，拥有多座塔楼、拱形柱廊、阳台、装饰性檐口以及复杂的积木拼搭细节。中央塔楼上飘扬着一面西班牙国旗。前景中，一艘载有 2 个小人的乐高划艇背对着镜头，正沿着运河漂流；其中一人留着红棕色头发，另一人留着浅棕色头发，两人正用长长的棕色船桨划船。中景处，在优雅的拱桥下方或附近，有第二艘载有 2 个小人的小划艇。总计 2 艘船，共 4 名划船乘客。在右侧长廊沿线，可以看到 4 个小人间隔站立在瓷砖栏杆旁。运河两岸排列着细节丰富的蓝、白、黄三色陶瓷风格乐高马赛克栏杆和积木护墙，配有黑色复古路灯；总计可见 7 盏路灯。左侧边缘包含 2 株种植在花盆里的圆形粉色开花灌木。横跨运河的桥梁拥有华丽的蓝白相间乐高瓷砖图案，以及优美的单拱结构。水面应看起来既真实又由细小的光面乐高积木块组成，倒映着深青色的建筑与天空。光线为柔和的日落光，天空呈现琥珀色光芒，伴有零星云朵、长长的亮部高光和浓郁温暖的阴影。强调真实感、细腻的纹理、趣味十足的比例错觉，以及真实建筑宏伟感与标志性乐高拼搭风格的完美融合。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "乐高版西班牙广场日落：此提示词可生成电影质感的乐高风格西班牙广场建筑场景，非常适合旅游主题概念艺术、社交媒体视觉素材或趣味十足的写实地标渲染图。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic",
+        "vintage"
+      ],
+      "lightingCamera": [],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic, vintage]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15048",
+      "15061",
+      "15312",
+      "14574",
+      "14713",
+      "15308"
+    ]
+  }
+}

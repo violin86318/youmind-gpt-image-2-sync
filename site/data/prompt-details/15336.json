@@ -1,0 +1,50 @@
+{
+  "id": "15336",
+  "prompt": "A polished anime-style illustration of a young Japanese woman standing in a modern video game store aisle, posed like a store clerk or promotional staff member. She has long, straight {argument name=\"hair color\" default=\"dark brown\"} hair with soft shine and gentle layered ends, and she wears a fitted navy business suit with exactly 4 visible clothing/accessory pieces: a navy blazer, a matching pencil skirt, a white dress shirt, and a bright red necktie, plus a staff ID badge hanging from her waist. Her face is intentionally obscured by a smooth blank blur with no facial features. She stands in a relaxed three-quarter pose, slightly turned toward the viewer, holding up a PS5 game case with both hands at chest height to present it. The game cover title should read {argument name=\"game title\" default=\"TRACE: TOKYO\"}, showing an anime schoolgirl over a Tokyo city background. Set the scene inside a PlayStation-branded retail section with 2 dominant PS5 signs visible on the right side, multiple blue PlayStation displays, and shelves densely stocked with PS5 game boxes. Include 1 large floor display box for the same featured game near the lower left, and many repeated PS5 cases on the right shelf, with a few red-spined game cases on the lower shelves for color contrast. In the back left, add a large blue wall sign reading {argument name=\"store slogan\" default=\"PLAY HAS NO LIMITS\"}. In the mid-background, add 1 vertical red banner with Japanese text reading {argument name=\"banner text\" default=\"未来は上にある。\"}. Use warm overhead spotlights, a realistic game shop interior with exposed industrial ceiling fixtures, glossy tile floor reflections, and cinematic depth. Composition is vertical smartphone aspect ratio, full-body framing, slightly low eye-level perspective, with the woman centered-left and the PS5 shelf dominating the right side. Render in high-detail contemporary anime key art style, clean linework, soft shading, realistic store lighting, rich blue tones, and a premium promotional illustration feel.",
+  "translatedPrompt": "一张精致的动漫风格插图，描绘了一位年轻的日本女性站在现代电子游戏店的过道中，姿态如同店员或宣传人员。她留着长直的 {argument name=\"hair color\" default=\"深棕色\"} 头发，发丝带有柔和的光泽和轻盈的层次感。她身穿合身的深蓝色职业套装，包含 4 件清晰可见的服饰/配饰：一件深蓝色西装外套、一条配套的包臀裙、一件白色衬衫和一条鲜红色的领带，腰间还挂着员工证。她的面部特意处理为平滑的空白模糊效果，没有任何五官。她以放松的三分之四侧身姿势站立，身体微向观众转动，双手在胸前托举着一个 PS5 游戏盒进行展示。游戏封面的标题应显示为 {argument name=\"game title\" default=\"TRACE: TOKYO\"}，画面展示了一名动漫女学生，背景为东京城市景观。场景设定在 PlayStation 品牌零售区内，右侧可见 2 个醒目的 PS5 标志，设有多个蓝色 PlayStation 展示柜，货架上密密麻麻地摆放着 PS5 游戏盒。在左下角附近加入 1 个大型的同款游戏落地展示盒，右侧货架上陈列着大量重复的 PS5 游戏盒，底层货架上点缀着少量红色书脊的游戏盒以形成色彩对比。在左后方，添加一个大型蓝色墙面标语，写着 {argument name=\"store slogan\" default=\"PLAY HAS NO LIMITS\"}。在中景背景处，添加 1 条垂直的红色横幅，上面印有日语文字 {argument name=\"banner text\" default=\"未来は上にある。\"}。采用温暖的头顶射灯，呈现出带有工业风裸露天花板、光亮瓷砖地面反射以及电影级景深的真实游戏店内部环境。构图采用竖版智能手机比例，全身取景，略微仰视的视角，女性位于画面中左侧，右侧由 PS5 货架占据。以高细节的当代动漫主视觉艺术风格渲染，线条清晰，阴影柔和，灯光真实，色调以浓郁的蓝色为主，营造出高级的宣传插图质感。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "PS5 游戏店里的动漫店员：此提示词可生成一张竖版动漫风格的宣传插图，描绘了一位身着职业装的年轻女性在 PlayStation 品牌零售店内展示 PS5 游戏，非常适合社交媒体帖子、海报或模拟广告艺术。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "full-body",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "anime",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, full-body, layered, vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic, anime, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15731",
+      "15096",
+      "14940",
+      "15016",
+      "15642",
+      "14857"
+    ]
+  }
+}

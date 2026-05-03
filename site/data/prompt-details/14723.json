@@ -1,0 +1,51 @@
+{
+  "id": "14723",
+  "prompt": "9:16 vertical — creative forced perspective portrait, {argument name=\"style\" default=\"Korean idol style\"}, single subject. analog 35mm film aesthetic, soft natural grain, slightly faded colors, gentle overexposure, pastel tones, low contrast, soft highlight bloom, airy and dreamy atmosphere. minimal indoor setting near a window, clean light-toned background, simple everyday environment. young {argument name=\"subject\" default=\"Korean female idol\"}, very attractive, natural minimal makeup, dewy realistic skin texture, subtle imperfections. outfit: {argument name=\"outfit\" default=\"oversized white shirt loosely draped + short bottoms\"}, soft fabric, relaxed fit, modest but subtly body-shaping, no revealing elements. hair: long dark hair, slightly messy, natural volume. composition (key): forced perspective illusion — the subject appears unusually small relative to nearby objects (such as being inside a cup, standing on a table edge, or interacting with a hand in the foreground), but still realistic; scale ambiguity created by camera distance and alignment. camera: slightly low or eye-level angle, intentional perspective distortion, foreground object close to lens, subject placed farther away to create size illusion. pose: natural relaxed posture, slight body curve, casual stance or light sitting pose. expression: soft calm gaze, slight smile or slightly parted lips, natural and unposed. lighting: diffused natural window light, soft shadows, gentle light wrapping around subject. mood: playful, slightly surreal but grounded in reality, intimate everyday moment with a visual twist. quality: ultra-realistic, fine film grain, slight softness, imperfect framing, natural imperfections.",
+  "translatedPrompt": "9:16 竖屏 — 创意强制透视肖像，{argument name=\"style\" default=\"韩系偶像风格\"}，单人主体。模拟 35mm 胶片美感，柔和的自然颗粒感，略微褪色的色彩，轻微的过曝，柔和的色调，低对比度，柔和的高光溢出，空灵梦幻的氛围。窗边极简室内场景，干净的浅色背景，简单的日常环境。年轻的 {argument name=\"subject\" default=\"韩国女偶像\"}，极具吸引力，自然的极简妆容，水润真实的皮肤质感，细微的瑕疵。服装：{argument name=\"outfit\" default=\"宽松白衬衫随意披搭 + 短裤\"}，柔软面料，宽松剪裁，保守但略显身形，无暴露元素。发型：长深色头发，略显凌乱，自然的蓬松感。构图（关键）：强制透视错觉 — 主体相对于附近的物体显得异常小（例如在杯子里、站在桌沿上，或与前景中的手互动），但依然真实；通过相机距离和对齐方式营造出比例模糊感。相机：略微低角度或平视角度，刻意的透视畸变，前景物体靠近镜头，主体放置在较远处以制造尺寸错觉。姿势：自然放松的姿态，轻微的身体曲线，随意的站姿或轻微的坐姿。表情：柔和冷静的注视，轻微的微笑或微张的嘴唇，自然且不刻意。光线：漫射的自然窗光，柔和的阴影，光线柔和地包裹着主体。氛围：俏皮，略带超现实感但扎根于现实，带有视觉反转的亲密日常瞬间。质量：超写实，细腻的胶片颗粒，轻微的柔焦，不完美的构图，自然的瑕疵。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "强制透视偶像肖像：一个复杂且详细的提示词，用于生成具有怀旧 35mm 胶片美感的韩国偶像超现实强制透视肖像。",
+      "subject": "界面",
+      "scene": "人物/角色",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic"
+      ],
+      "lightingCamera": [
+        "low contrast",
+        "film grain",
+        "lens",
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic]。\n\nLighting and camera:\n[参考光线镜头: low contrast, film grain, lens, camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14301",
+      "14434",
+      "14630",
+      "14910",
+      "15244",
+      "14454"
+    ]
+  }
+}

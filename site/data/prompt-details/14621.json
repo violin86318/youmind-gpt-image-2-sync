@@ -1,0 +1,47 @@
+{
+  "id": "14621",
+  "prompt": "A realistic Spanish sports newspaper front page in the style of a major daily broadsheet, clean white background with strong red and black typography, editorial print layout, high-resolution scanned-paper look. At the very top, an oversized red masthead reading {argument name=\"newspaper name\" default=\"MARCA\"} spans nearly the full width, with a small black price in the upper-right corner reading {argument name=\"price\" default=\"2,50€\"}. Beneath the masthead, a thin line of small black publication details includes a Tuesday date, website, year, and issue number. The dominant main headline on the left takes up most of the page in gigantic bold condensed black uppercase letters over two lines: {argument name=\"main headline\" default=\"ARBELOA, DESTITUIDO\"}. Below it, a red subheadline in bold sentence case says that Real Madrid dismisses the coach after 100 days on the bench and seeks a replacement until the end of the season. A smaller black explanatory line underneath mentions the decision following Champions League elimination and loss of the LaLiga lead. The main photo occupies the lower-left majority of the cover: a suited football coach standing in a stadium with blue seats, one hand touching his forehead in a stressed or disappointed gesture, wearing a dark navy suit, white shirt, and dark tie, with the Bernabéu environment visible and a pitch-side barrier reading Real Madrid C. F. Along the bottom of the main image, a small caption line notes that the coach leaves the Bernabéu after learning the decision. At the very bottom left and center are 2 narrow columns of small black article text in Spanish newspaper style. To the right side, a vertical sidebar contains 2 stacked secondary stories separated by red divider lines. The top sidebar story has a red section label reading NBA PLAYOFFS, a bold black headline saying the Lakers force game seven, a rectangular action photo of 2 basketball players with a Lakers player in a purple number 77 jersey going up with the ball against a Nuggets defender, and a short caption below mentioning Doncic scoring 42 points in Denver. The lower sidebar story has a red section label reading TENIS · MUTUA MADRID OPEN, a bold black headline about Alcaraz dominating at the Caja Mágica, and a rectangular tennis photo of a player in light purple kit hitting a forehand against a bright blue backdrop. Near the bottom center-right, include a pull-quote box marked by large red quotation marks and bold black text reading {argument name=\"pull quote\" default=\"Agradezco al club la oportunidad de mi vida\"}. Overall composition should feel like an authentic dramatic sports front page: sharp print typography, rigid newspaper grid, realistic photojournalism, heavy black headline blocks, red accents, and a contemporary Spanish press design.",
+  "translatedPrompt": "一张逼真的西班牙体育报纸头版，采用主流日报的大报风格，白色背景简洁，搭配强烈的红黑排版，呈现编辑印刷布局及高分辨率的纸张扫描质感。在最上方，一个超大的红色报头写着 {argument name=\"newspaper name\" default=\"MARCA\"}，几乎横跨整个页面宽度，右上角印有黑色小字价格 {argument name=\"price\" default=\"2,50€\"}。报头下方是一行细小的黑色出版详情，包含周二日期、网址、年份和期号。左侧占据页面大部分空间的主标题采用巨大的粗体压缩黑色大写字母，分为两行：{argument name=\"main headline\" default=\"ARBELOA, DESTITUIDO\"}。下方是一个红色副标题，以粗体句式说明皇家马德里在教练执教 100 天后将其解雇，并正在寻找赛季末的继任者。下方一行较小的黑色解释性文字提到，该决定是在欧冠出局及西甲领先优势丧失后做出的。主图占据封面左下角的大部分区域：一位身着深蓝色西装、白衬衫、深色领带的足球教练站在蓝色座椅的体育场内，一只手摸着额头，神情压力巨大或失望，背景可见伯纳乌球场环境，场边护栏上写着 Real Madrid C. F.。在主图底部，一行小字说明教练在得知决定后离开伯纳乌。最左侧和中心底部是两列狭窄的黑色文章正文，采用西班牙报纸风格。右侧是一个垂直侧边栏，包含两篇由红色分割线隔开的次要报道。顶部侧边栏报道有一个红色栏目标签写着 NBA PLAYOFFS，粗体黑色标题写着湖人队将比赛拖入第七场，配有一张两名篮球运动员的矩形动作照片，其中一名身穿紫色 77 号球衣的湖人球员正持球对抗掘金队防守者，下方短说明提到东契奇在丹佛砍下 42 分。下方侧边栏报道有一个红色栏目标签写着 TENIS · MUTUA MADRID OPEN，粗体黑色标题关于阿尔卡拉斯在魔术盒球场（Caja Mágica）的统治级表现，并配有一张身穿浅紫色球衣的球员在明亮的蓝色背景下击出正手的矩形网球照片。在右下角附近，包含一个由大红色引号和粗体黑色文字标记的引语框，内容为 {argument name=\"pull quote\" default=\"Agradezco al club la oportunidad de mi vida\"}。整体构图应呈现出地道的戏剧性体育头版感：锐利的印刷字体、严谨的报纸网格、写实的新闻摄影、厚重的黑色标题块、红色点缀以及现代西班牙媒体设计。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "西班牙体育报纸头版：此提示词可生成逼真且具有戏剧性的西班牙体育报纸封面，适用于编辑样机、媒体设计概念或足球新闻可视化。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [
+        "grid",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "editorial"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, vertical]。\n\nVisual style:\n[参考风格: realistic, editorial]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15467",
+      "15085",
+      "14481",
+      "14567",
+      "15062",
+      "14919"
+    ]
+  }
+}

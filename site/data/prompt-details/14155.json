@@ -1,0 +1,41 @@
+{
+  "id": "14155",
+  "prompt": "Using REFERENCE_0, transform the subject's appearance to a {argument name=\"style\" default=\"trad goth\"} aesthetic while preserving the exact pose, clothing structure, and background. Change her hair to {argument name=\"hair color\" default=\"black\"} with {argument name=\"hair style\" default=\"choppy bangs\"}. Apply heavy dark makeup, specifically {argument name=\"lip color\" default=\"black\"} lipstick and intense dark eyeshadow, and make her skin tone slightly paler. Add 2 facial piercings: a septum ring and a nostril stud. Finally, modify her layered necklaces to feature {argument name=\"necklace pendants\" default=\"an inverted cross and a pentagram\"}.",
+  "translatedPrompt": "Using REFERENCE_0, transform the subject's appearance to a {argument name=\"style\" default=\"trad goth\"} aesthetic while preserving the exact pose, clothing structure, and background. Change her hair to {argument name=\"hair color\" default=\"black\"} with {argument name=\"hair style\" default=\"choppy bangs\"}. Apply heavy dark makeup, specifically {argument name=\"lip color\" default=\"black\"} lipstick and intense dark eyeshadow, and make her skin tone slightly paler. Add 2 facial piercings: a septum ring and a nostril stud. Finally, modify her layered necklaces to feature {argument name=\"necklace pendants\" default=\"an inverted cross and a pentagram\"}.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Goth Style Transformation：Transforms a reference portrait into a heavy goth aesthetic by altering hair, makeup, and jewelry while preserving the original pose and outfit.",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "layered"
+      ],
+      "style": [],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15537",
+      "15743",
+      "13874",
+      "13960",
+      "13961",
+      "14508"
+    ]
+  }
+}

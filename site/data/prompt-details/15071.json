@@ -1,0 +1,46 @@
+{
+  "id": "15071",
+  "prompt": "A dynamic anime-style illustration of a sharply dressed young man in a dramatic foreshortened action pose, viewed from above as if he is lunging upward toward the camera while drawing a rapier straight at the viewer. He has {argument name=\"hair color\" default=\"golden blond\"} hair, neatly styled with a center part and soft swept-back volume, and fair skin. His face is mostly hidden by the camera angle and shadow, creating a mysterious, stylish look. He wears a tailored dark navy business suit with a subtle sheen, a light blue dress shirt, a vivid blue necktie, and polished black dress shoes. One hand dominates the foreground in extreme perspective, gripping the ornate rapier hilt; the other hand pulls the blade free, emphasizing motion and tension. The sword has 1 slender silver blade, 1 elaborate metallic guard with interlocking loops, and 1 engraved pommel. The composition is bold and graphic, with the character diagonally crossing the frame over 1 large inverted triangle backdrop filled with pale aqua and turquoise geometric fan-like patterns, outlined with a thin warm beige border, set against a clean light gray background. High-detail digital painting, glossy anime illustration, elegant action character art, crisp linework, rich fabric folds, dramatic perspective distortion, fashion-magazine polish, cool blue palette, white negative space, centered vertical composition.",
+  "translatedPrompt": "一张动态的动漫风格插画，描绘了一位穿着考究的年轻男子，呈现出极具戏剧性的透视动作姿势。从上方俯瞰，他仿佛正向镜头冲刺，并将细剑直指观众。他拥有 {argument name=\"hair color\" default=\"金黄色\"} 的头发，发型整齐，中分且带有柔和的后梳蓬松感，肤色白皙。他的面部大部分被拍摄角度和阴影遮挡，营造出一种神秘而时尚的氛围。他身穿一套剪裁合身的深海军蓝商务西装，带有细腻的光泽，内搭浅蓝色衬衫，系着鲜艳的蓝色领带，脚穿抛光的黑色皮鞋。一只手在极端的透视下占据了前景，紧握着华丽的细剑剑柄；另一只手将剑身拔出，强调了动作与张力。这把剑拥有 1 把纤细的银色剑身、1 个带有交错环状结构的精致金属护手以及 1 个雕刻过的剑首。构图大胆且具有图形感，角色以对角线跨越画面，背景是 1 个巨大的倒三角形，内部填充着淡青色和绿松石色的几何扇形图案，并勾勒着细细的暖米色边框，整体置于干净的浅灰色背景之上。高细节数字绘画，光泽感动漫插画，优雅的动作角色艺术，清晰的线条，丰富的布料褶皱，戏剧性的透视变形，时尚杂志般的质感，冷蓝色调，白色留白，居中垂直构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "身着西装的动漫剑客：此提示词可生成一张时尚的高角度动漫动作肖像，描绘了一位身着商务西装、正在拔出细剑的金发男子，非常适合用于角色艺术、海报或极具戏剧性的社交媒体视觉内容。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14924",
+      "15686",
+      "15352",
+      "14476",
+      "14960",
+      "14986"
+    ]
+  }
+}

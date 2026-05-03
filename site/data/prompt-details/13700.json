@@ -1,0 +1,46 @@
+{
+  "id": "13700",
+  "prompt": "A photorealistic television news broadcast scene featuring a {argument name=\"anchor appearance\" default=\"female Japanese news anchor wearing a dark blue blazer over a white top\"} sitting at a glass desk in a modern newsroom studio. She is smiling and looking directly at the camera, with her hands resting near a tablet, papers, and a clear water bottle. To her left, a large monitor displays the text \"{argument name=\"screen main text\" default=\"OpenAI 「GPT-image-2」リリース\"}\" alongside an AI logo and a collage of 8 smaller diverse AI-generated images. In the top left corner, a channel logo reads \"{argument name=\"news channel name\" default=\"GLOBAL NEWS\"}\" with a red \"LIVE\" badge. The background shows a busy office with computers and a wall screen displaying \"AI Generation\". At the bottom of the screen, a standard news lower-third graphic displays the anchor's name \"{argument name=\"anchor name\" default=\"キャスター：佐藤 陽子\"}\" and a breaking news headline reading \"{argument name=\"main headline text\" default=\"【速報】OpenAI、画期的な新型画像生成モデル「GPT-image-2」を発表。より高精細で多様な表現が可能に。\"}\" in bold Japanese text.",
+  "translatedPrompt": "一个超写实的电视新闻广播场景，画面中有一位 {argument name=\"anchor appearance\" default=\"身穿深蓝色西装外套搭配白色上衣的日本女性新闻主播\"} 坐在现代新闻演播室的玻璃桌前。她面带微笑，直视镜头，双手放在平板电脑、文件和透明水瓶旁。在她的左侧，一台大显示器上显示着 \"{argument name=\"screen main text\" default=\"OpenAI 「GPT-image-2」リリース\"}\" 字样，旁边是一个 AI 标志以及 8 张较小的多样化 AI 生成图像拼贴。左上角是一个频道标志，显示为 \"{argument name=\"news channel name\" default=\"GLOBAL NEWS\"}\"，并配有红色的 \"LIVE\" 徽标。背景展示了一个繁忙的办公室，配有电脑和显示 \"AI Generation\" 的墙面屏幕。屏幕底部是一个标准的新闻下三分之一图形，显示主播姓名 \"{argument name=\"anchor name\" default=\"キャスター：佐藤 陽子\"}\" 以及一条突发新闻标题 \"{argument name=\"main headline text\" default=\"【速報】OpenAI、画期的な新型画像生成モデル「GPT-image-2」を発表。より高精細で多様な表現が可能に。\"}\"（以粗体日语文本显示）。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "日本新闻广播模拟：生成具有可自定义下三分之一标题和背景显示器图形的超写实电视新闻广播场景。",
+      "subject": "界面",
+      "scene": "海报/封面",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "studio"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, studio]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13699",
+      "15631",
+      "15467",
+      "15523",
+      "13881",
+      "13882"
+    ]
+  }
+}

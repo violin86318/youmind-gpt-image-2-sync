@@ -1,0 +1,48 @@
+{
+  "id": "15751",
+  "prompt": "Create a bold vintage Japanese-inspired poster on a square canvas with a fierce front-facing tiger head as the single central subject, perfectly symmetrical and filling most of the frame. The tiger is roaring with its mouth wide open, showing long curved ivory fangs, smaller lower teeth, a vivid pink tongue, a dark throat, a pink nose, intense yellow eyes, and dramatic black stripes over saturated orange fur with white cheek and neck fur. Add ornamental swirling stripe patterns on the forehead to give the face a stylized mythic look. Use a gritty retro screenprint or risograph texture with visible grain, worn ink, slightly distressed edges, and a limited palette of burnt orange, black, cream, white, muted pink, and small accents of yellow. The background should be a flat textured orange-red field. In the top right, include 1 small technical diagram panel showing a side-view tiger skeleton in thin cream line art with compact vertical Japanese annotation text beneath and beside it, like a pseudo-scientific label block. In the bottom left, include 3 vertically stacked icon boxes with thin cream borders: the first contains a heart icon with the label 心, the second contains crossed bones with the label 力, and the third contains three claw marks with the label 本能. Across the bottom center, place 2 very large cream-colored Japanese kanji characters with heavy black drop shadows and a rough hand-cut block print feel: 猛獣. Keep the overall composition aggressive, iconic, poster-like, centered, and highly graphic, blending traditional Japanese poster aesthetics, tattoo flash energy, and vintage animal anatomy chart styling.",
+  "translatedPrompt": "在方形画布上创作一张大胆的复古日式风格海报，以凶猛的正面虎头作为唯一的中心主体，构图完全对称并占据大部分画面。老虎张大嘴巴咆哮，露出长而弯曲的象牙獠牙、较小的下齿、鲜艳的粉色舌头、深色的喉咙、粉色的鼻子、锐利的黄色眼睛，以及饱和的橙色皮毛上覆盖着戏剧性的黑色条纹，脸颊和颈部带有白色绒毛。在额头上添加装饰性的漩涡条纹图案，使虎脸呈现出风格化的神话感。使用带有明显颗粒感、磨损墨迹、边缘轻微破损的粗糙复古丝网印刷或孔版印刷纹理，并采用由焦橙色、黑色、奶油色、白色、柔和粉色及少量黄色点缀组成的有限色调。背景应为平整的橙红色纹理底色。在右上角，包含 1 个小型技术图解面板，展示侧视图的老虎骨骼，采用纤细的奶油色线条绘制，下方和侧面配有紧凑的垂直日文注释文本，如同伪科学标签块。在左下角，包含 3 个垂直堆叠的图标框，带有纤细的奶油色边框：第一个包含心形图标及标签“心”，第二个包含交叉骨头图标及标签“力”，第三个包含三道爪痕图标及标签“本能”。在底部中心，放置 2 个非常大的奶油色日文汉字，带有厚重的黑色投影和粗犷的手工木刻版画质感：猛獣。保持整体构图具有侵略性、标志性、海报感、居中且高度图形化，融合了传统的日式海报美学、纹身闪图能量以及复古动物解剖图风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "复古咆哮猛虎日式海报：一款带有日式字体和信息图表式侧边细节的风格化咆哮猛虎海报，非常适合大胆的品牌设计、专辑封面或图形印刷概念。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "symmetrical",
+        "front-facing",
+        "vertical"
+      ],
+      "style": [
+        "vintage",
+        "retro"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, symmetrical, front-facing, vertical]。\n\nVisual style:\n[参考风格: vintage, retro]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15635",
+      "15091",
+      "14972",
+      "15367",
+      "14980",
+      "15717"
+    ]
+  }
+}

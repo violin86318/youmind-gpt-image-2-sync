@@ -1,0 +1,39 @@
+{
+  "id": "15571",
+  "prompt": "出一个人物+{argument name=\"性格\" default=\"enfp\"} 的解读，类似一个人物性格属性解读的感觉，要{argument name=\"风格\" default=\"二次元风格\"}",
+  "translatedPrompt": "生成一个具有 {argument name=\"personality\" default=\"ENFP\"} 特征的角色解读，类似于人格属性分析，风格为 {argument name=\"style\" default=\"anime style\"}。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫人格属性解读：基于 ENFP 等人格类型，生成动漫/二次元风格的角色属性分析。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "无明确文字要求",
+      "constraints": [
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13754",
+      "13802",
+      "13841",
+      "13919",
+      "14694",
+      "15020"
+    ]
+  }
+}

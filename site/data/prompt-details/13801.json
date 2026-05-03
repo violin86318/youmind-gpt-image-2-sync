@@ -1,0 +1,41 @@
+{
+  "id": "13801",
+  "prompt": "An anime promotional poster featuring a tender embrace between a {argument name=\"female character description\" default=\"young woman with short light blue hair in a black and white maid outfit\"} and a {argument name=\"male character description\" default=\"young man with short black hair wearing a white, black, and orange track jacket\"}. She rests her head peacefully on his chest with closed eyes, while he looks down affectionately with his arm around her. The background features soft, blurred pink cherry blossoms with dappled sunlight. Top left text features the logo \"{argument name=\"series title\" default=\"Re:ZERO - Starting Life in Another World -\"}\". Mid-left handwritten text reads \"{argument name=\"handwritten quote\" default=\"You're my hero, Subaru... ♡\"}\". Bottom right elegant text reads \"{argument name=\"tagline\" default=\"A Bond Stronger Than Death.\"}\" above \"TV Anime Now Streaming!\". High-quality official anime art style.",
+  "translatedPrompt": "一张动漫宣传海报，描绘了 {argument name=\"female character description\" default=\"一位留着浅蓝色短发、身穿黑白女仆装的年轻女性\"} 与 {argument name=\"male character description\" default=\"一位留着黑色短发、身穿黑白橙三色运动夹克的年轻男性\"} 之间温柔拥抱的场景。她闭着双眼，平静地靠在他的胸前，而他正深情地低头注视着她，手臂环绕着她。背景是柔和、模糊的粉色樱花，伴有斑驳的阳光。左上角文字为“{argument name=\"series title\" default=\"Re:ZERO - Starting Life in Another World -\"}”的标志。左侧中间的手写文字为“{argument name=\"handwritten quote\" default=\"你就是我的英雄，昴…… ♡\"}”。右下角优雅的文字为“{argument name=\"tagline\" default=\"超越死亡的羁绊。\"}”，下方标注“TV 动画现正热播中！”。高质量官方动漫艺术风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫浪漫宣传海报：生成一张高质量的动漫风格宣传海报，包含拥抱的情侣形象，并支持自定义文字叠加和角色描述。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "anime"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: anime]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13467",
+      "13613",
+      "13679",
+      "13770",
+      "13912",
+      "13947"
+    ]
+  }
+}

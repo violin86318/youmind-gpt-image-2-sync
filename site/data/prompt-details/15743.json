@@ -1,0 +1,48 @@
+{
+  "id": "15743",
+  "prompt": "A glossy pastel pink anime banner in a wide cinematic layout, themed around cute romance and sweets. Place a confident teenage anime girl on the right side, shown from about thigh-up, with short fluffy bob hair in {argument name=\"hair color\" default=\"soft pink\"}, large pink-magenta eyes, a small gentle smile, and arms crossed. She wears a Japanese school uniform: 1 brown blazer, 1 white shirt, 1 red ribbon bow at the collar, and 1 dark navy-and-purple plaid skirt. Add 2 red ribbon hair accessories, one larger bow on the side and one smaller ribbon accent. On the left half, feature the large handwritten script name {argument name=\"character name\" default=\"Natsuki\"} in bold glossy 3D cursive, white-to-pink fill with bright pink outline, soft bevel, subtle drop shadow, sparkles, and a small heart flourish integrated into the lettering. The background should be a layered scrapbook collage in blush pink tones with notebook paper texture, faint grid and torn paper details, scattered doodled hearts, flower petals, sparkles, and cute bakery motifs. Include exactly 4 pinned or taped sketch-style portrait cards of the same girl behind her on the upper-right and mid-right, arranged like overlapping polaroids. Add exactly 2 cupcakes in the foreground near the bottom left and lower center-left, both with pink frosting, striped wrappers, and tiny heart toppers or candy accents. Frame the composition with flowing satin ribbons and bows: exactly 4 major ribbon elements visible, including 1 bow near the top left, 1 bow near the bottom left, and 2 long curling ribbons sweeping across the top and right edges. Use a soft high-detail anime illustration style, polished lighting, dreamy bloom, romantic Valentine palette, delicate textures, and a clean impactful thumbnail-like composition.",
+  "translatedPrompt": "一张采用宽幅电影布局的亮面柔粉色动漫横幅，以可爱浪漫和甜点为主题。在右侧放置一位自信的动漫少女，展示大腿以上部位，留着蓬松的短波波头，发色为 {argument name=\"hair color\" default=\"柔粉色\"}，拥有大大的粉紫色眼睛，带着温柔的浅笑，双臂交叉。她身穿日本校服：1 件棕色西装外套、1 件白色衬衫、领口系着 1 个红色蝴蝶结，以及 1 条深海军蓝与紫色相间的格子裙。添加 2 个红色丝带发饰，侧边一个较大的蝴蝶结和一个较小的丝带装饰。在左半部分，以粗体亮面 3D 草书呈现手写体名称 {argument name=\"character name\" default=\"Natsuki\"}，采用白至粉色的填充，配以亮粉色轮廓、柔和斜面、微妙的投影、闪光效果，并在字体中融入一个小爱心装饰。背景应为层叠的剪贴簿拼贴画，采用腮红粉色调，带有笔记本纸张纹理、淡淡的网格和撕纸细节，散布着涂鸦爱心、花瓣、闪光和可爱的烘焙元素。在右上角和中右侧，在她身后添加 4 张以素描风格绘制的该少女肖像卡，像重叠的拍立得照片一样排列。在左下角和左下偏中心的前景中，添加 2 个纸杯蛋糕，均带有粉色糖霜、条纹包装纸以及微型爱心装饰或糖果点缀。用飘逸的缎带和蝴蝶结装饰构图：共可见 4 个主要的丝带元素，包括左上角附近的 1 个蝴蝶结、左下角附近的 1 个蝴蝶结，以及 2 条横跨顶部和右侧边缘的长卷丝带。采用柔和且高细节的动漫插画风格，配合精致的灯光、梦幻的光晕、浪漫的情人节配色、细腻的质感，以及简洁且具有视觉冲击力的缩略图式构图。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "粉色动漫 Natsuki 横幅：此提示词可生成精致的宽幅动漫角色横幅，采用粉色浪漫剪贴簿美学，非常适合作为缩略图、页眉或风格化粉丝主题品牌设计。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "grid",
+        "layered"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "3d"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": "得分 85；构图: grid, layered；风格: cinematic, anime, 3d；要求精确文字"
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, layered]。\n\nVisual style:\n[参考风格: cinematic, anime, 3d]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15034",
+      "15797",
+      "15252",
+      "15650",
+      "14485",
+      "15537"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "14262",
+  "prompt": "A breathtaking, surreal travel poster on a white canvas background, featuring a magical, glowing red silk ribbon that flows diagonally from the bottom right to the top left, seamlessly blending traditional and modern elements of a city. At the bottom right, a tiny figure of a woman in a flowing red Hanfu holds the end of the ribbon. As the ribbon winds upward, it transforms into a dynamic cityscape. The lower-middle section features {argument name=\"traditional landmark\" default=\"multi-story wooden stilt houses glowing with warm lanterns\"} with a modern monorail train passing through them. The center showcases a vibrant, illuminated modern metropolis with {argument name=\"modern landmark\" default=\"a cluster of futuristic skyscrapers connected by a skybridge\"}, a wide river with boats, a red suspension bridge, and a cable car suspended in the air. The top fades into majestic, misty mountains, traditional pavilions, and a pale red sun. The left side of the poster features elegant typography: large, golden, textured Chinese calligraphy reading \"{argument name=\"city name chinese\" default=\"重庆\"}\", with the English text \"{argument name=\"city name english\" default=\"CHONGQING\"}\" below it. Further down, the text \"{argument name=\"season and year\" default=\"SPRING 2026\"}\" is displayed in a clean, serif font, accompanied by smaller vertical Chinese text and red traditional seal stamps. The overall style is a masterful blend of traditional Chinese ink wash painting and hyper-realistic, cinematic 3D rendering with soft, ethereal clouds and mist framing the composition.",
+  "translatedPrompt": "A breathtaking, surreal travel poster on a white canvas background, featuring a magical, glowing red silk ribbon that flows diagonally from the bottom right to the top left, seamlessly blending traditional and modern elements of a city. At the bottom right, a tiny figure of a woman in a flowing red Hanfu holds the end of the ribbon. As the ribbon winds upward, it transforms into a dynamic cityscape. The lower-middle section features {argument name=\"traditional landmark\" default=\"multi-story wooden stilt houses glowing with warm lanterns\"} with a modern monorail train passing through them. The center showcases a vibrant, illuminated modern metropolis with {argument name=\"modern landmark\" default=\"a cluster of futuristic skyscrapers connected by a skybridge\"}, a wide river with boats, a red suspension bridge, and a cable car suspended in the air. The top fades into majestic, misty mountains, traditional pavilions, and a pale red sun. The left side of the poster features elegant typography: large, golden, textured Chinese calligraphy reading \"{argument name=\"city name chinese\" default=\"重庆\"}\", with the English text \"{argument name=\"city name english\" default=\"CHONGQING\"}\" below it. Further down, the text \"{argument name=\"season and year\" default=\"SPRING 2026\"}\" is displayed in a clean, serif font, accompanied by smaller vertical Chinese text and red traditional seal stamps. The overall style is a masterful blend of traditional Chinese ink wash painting and hyper-realistic, cinematic 3D rendering with soft, ethereal clouds and mist framing the composition.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Surreal Cityscape Travel Poster：Generates a stunning, surreal travel poster blending traditional ink-wash aesthetics with hyper-realistic modern cityscapes, perfect for tourism campaigns or event promotions.",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "cinematic",
+        "3d",
+        "ink wash"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, cinematic, 3d, ink wash]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15321",
+      "15521",
+      "14266",
+      "14539",
+      "14966",
+      "15357"
+    ]
+  }
+}

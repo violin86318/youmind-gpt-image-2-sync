@@ -1,0 +1,48 @@
+{
+  "id": "14836",
+  "prompt": "Luxury fashion editorial collage poster for {argument name=\"brand name\" default=\"LOEWE\"}, vertical composition, moody autumn earth-tone palette, designed like a premium magazine advertisement made from layered torn-paper fragments. In the center, a waist-up female fashion model with wild windswept dark wavy hair wears a rich cognac-brown belted leather coat with a high collar and soft natural folds, posed slightly turned to the side in a dramatic fashion stance. Her face is partially obscured and de-emphasized, with the styling and garment taking focus. Surrounding her are 8 clearly visible collage fragments: 1 central model portrait, 1 top-left dark textured fabric swatch, 1 upper-left rocky desert landscape fragment, 1 upper-center black circular moon or planet against cloudy sky, 1 upper-right leafless tree silhouette, 1 right-side gray textile swatch with part of a brown leather strap and metal ring, 1 left-lower brown leather sample embossed with an anagram logo, 1 lower-right cream fringed fabric patch embroidered with the same logo. Add an additional soft beige paper layer at the bottom left to increase depth. Use torn deckled edges everywhere, overlapping cut-paper assembly, tactile material contrast, and subtle shadows between layers. Background is a stormy cloudy sky blended with barren landscape, evoking raw nature and artisanal craftsmanship. Place large elegant white serif text {argument name=\"headline text\" default=\"LOEWE\"} across the lower middle over the coat, centered and spanning most of the width. Include a refined embossed monogram logo on the leather sample and embroidered monogram on the fabric patch. Lighting is soft, cinematic, and diffused, with high texture detail in leather, cloth, paper fibers, and landscape. Overall mood: sophisticated, tactile, artistic, premium luxury campaign, handcrafted collage, fashion house advertisement, high-end print editorial.",
+  "translatedPrompt": "为 {argument name=\"brand name\" default=\"LOEWE\"} 设计的奢华时尚编辑拼贴海报，竖构图，采用深沉的秋季大地色调，设计风格如同由层叠撕纸碎片构成的顶级杂志广告。画面中心是一位腰部以上的女性时尚模特，留着狂野且被风吹乱的深色波浪卷发，身穿一件深干邑棕色束腰皮大衣，衣领高耸，呈现出柔软自然的褶皱，侧身站立，姿态极具戏剧张力。她的面部部分被遮挡并弱化，焦点集中在造型与服装上。周围环绕着 8 个清晰可见的拼贴碎片：1 个中心模特肖像，1 个左上角深色纹理织物样本，1 个左上方岩石沙漠景观碎片，1 个上部中心云层背景下的黑色圆形月亮或行星，1 个右上角无叶树剪影，1 个右侧灰色纺织品样本（包含部分棕色皮带和金属环），1 个左下方压印有字母组合标志的棕色皮革样本，1 个右下方绣有相同标志的奶油色流苏织物补丁。在左下角增加一层柔和的米色纸张以增强深度感。到处使用撕裂的毛边效果，采用重叠的剪纸组合、触感强烈的材质对比，并在图层之间添加细微阴影。背景为多云的暴风雨天空与荒凉景观的融合，唤起原始自然与手工匠心的共鸣。在下部中间的大衣上方放置醒目优雅的白色衬线文字 {argument name=\"headline text\" default=\"LOEWE\"}，居中并横跨大部分宽度。在皮革样本上包含精致的压印字母组合标志，并在织物补丁上包含刺绣字母组合。光线柔和、具有电影质感且均匀扩散，皮革、布料、纸张纤维和景观细节纹理丰富。整体氛围：精致、触感、艺术感、顶级奢华广告、手工拼贴、时装屋广告、高端印刷编辑风格。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "奢华时尚撕纸拼贴广告：此提示词可生成一张高端时尚品牌编辑海报，以中心皮革模特、分层材质样本以及极具戏剧性的撕纸拼贴布局，呈现奢华广告质感。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "layered",
+        "vertical"
+      ],
+      "style": [
+        "cinematic",
+        "editorial",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, layered, vertical]。\n\nVisual style:\n[参考风格: cinematic, editorial, luxury, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15077",
+      "15400",
+      "15627",
+      "14842",
+      "14834",
+      "14877"
+    ]
+  }
+}

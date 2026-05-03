@@ -1,0 +1,49 @@
+{
+  "id": "14412",
+  "prompt": "Create a square infographic-style illustration showing a {argument name=\"grid size\" default=\"15×15\"} invention timeline grid rendered as a collection of miniature isometric dioramas on aged parchment tiles. The image should look like a curated historical poster that spans from {argument name=\"starting year\" default=\"1000 BC\"} to {argument name=\"ending year\" default=\"2026\"}, with one invention per tile and no repeats. Show the visible portion as a 5 by 5 section of the larger grid, for a total of 25 labeled tiles, arranged in neat rows and columns with thin dark borders. Every tile contains a unique world-changing invention depicted as a small handcrafted diorama with era-appropriate materials, colors, and background details. Use a warm antiquarian palette for ancient and medieval inventions, sepia technical-document tones for early modern inventions, and cooler neon-blue futuristic lighting for modern digital and biotech inventions. Surround the grid with an old-map border and subtle historical cartography textures, blending into faint modern network graphics near the bottom right.\n\nLabel each visible tile with a small beige caption tag in bold black text. Include exactly these 25 visible inventions in reading order from top left to bottom right: 1) {argument name=\"first tile label\" default=\"1000 BC\"} tile showing an iron plow and simple hand tools in a farm field, captioned \"Iron Plow & Tools\"; 2) \"Concept of Zero\" shown as a parchment-like tile with a carved zero symbol and a blue hourglass; 3) \"Water Clock\" shown as a wooden water-timing device; 4) \"Catapult\" shown as a wooden siege engine; 5) \"Antikythera Mechanism\" shown as an intricate bronze gear device in a stone niche; 6) \"Concrete\" shown as a wheelbarrow filled with wet cement or mortar; 7) \"Wheelbarrow\" shown as a simple wooden one-wheel cart; 8) \"Windmill\" shown as a traditional mill on grassy ground; 9) \"Gunpowder\" shown as a barrel and a mound of black powder with smoke; 10) \"Printing Press\" shown as a wooden press framed by classical columns; 11) \"Mechanical Clock\" shown as an ornate standing clock; 12) \"Telescope\" shown as an early brass telescope on a tripod with sketch-like scientific notes; 13) \"Steam Engine\" shown on a blue blueprint-style tile with an early locomotive engine; 14) \"Electric Battery\" shown on a blueprint-like tile with two cylindrical battery cells and wiring; 15) \"Telegraph\" shown as a Morse telegraph key on technical paper; 16) \"Light Bulb\" shown glowing warmly on a neutral pedestal; 17) \"Automobile\" shown as an early red motorcar on a workshop-plan background; 18) \"Airplane\" shown as a commercial jet aircraft in miniature; 19) \"Transistor\" shown as a black microchip on a luminous circuit-board tile; 20) \"Personal Computer\" shown as a beige desktop computer with CRT monitor and keyboard; 21) \"World Wide Web\" shown as a glowing blue globe over digital circuitry; 22) \"Smartphone\" shown as a sleek modern phone on a neon-tech background; 23) \"CRISPR-Cas9\" shown as a DNA double helix in a biotech-blue display tile; 24) \"Reusable Rocket\" shown as several upright rockets launching with exhaust clouds; 25) \"AI (LLMs)\" shown as glowing large letters AI in a holographic tech cube; 26) \"Brain-Computer Interface\" shown as a glowing brain hologram on a blue platform; 27) \"Advanced Neural Interface (Implant)\" shown as a transparent human head profile with a glowing brain implant, with a small top label reading \"2026\".\n\nKeep the composition highly organized, poster-like, and visually dense, with each tile readable at a glance. Use slight isometric perspective, crisp linework, painterly shading, and polished editorial illustration quality. The overall feeling should combine museum poster, educational timeline, and imaginative historical-tech diorama art.",
+  "translatedPrompt": "创建一个方形信息图风格的插图，展示一个 {argument name=\"grid size\" default=\"15×15\"} 的发明时间轴网格，渲染为陈旧羊皮纸砖块上的微型等轴测立体模型集合。图像应看起来像一张精心策划的历史海报，跨度从 {argument name=\"starting year\" default=\"公元前 1000 年\"} 到 {argument name=\"ending year\" default=\"2026 年\"}，每个砖块展示一项发明，且不重复。显示较大网格中 5 乘 5 的可见部分，总共 25 个带有标签的砖块，排列整齐，行与列之间有细深色边框。每个砖块都包含一项改变世界的独特发明，描绘成带有时代特征的材料、颜色和背景细节的小型手工立体模型。古代和中世纪发明使用温暖的古董色调，早期现代发明使用棕褐色技术文档色调，现代数字和生物技术发明使用冷色调的霓虹蓝灯光。网格周围环绕着旧地图边框和微妙的历史制图纹理，右下角逐渐融入淡淡的现代网络图形。\n\n用醒目的黑色粗体文字为每个可见砖块贴上米色小标签。按从左上到右下的阅读顺序，包含以下 25 项可见发明：1) {argument name=\"first tile label\" default=\"公元前 1000 年\"} 砖块，展示农田里的铁犁和简易手工工具，标签为“铁犁与工具”；2) “零的概念”，展示为带有雕刻零符号和蓝色沙漏的羊皮纸风格砖块；3) “水钟”，展示为木制计时装置；4) “投石机”，展示为木制攻城器械；5) “安提基特拉机械”，展示为石龛中复杂的青铜齿轮装置；6) “混凝土”，展示为装满湿水泥或砂浆的手推车；7) “独轮车”，展示为简单的木制单轮车；8) “风车”，展示为草地上的传统磨坊；9) “火药”，展示为木桶和一堆带有烟雾的黑色粉末；10) “印刷机”，展示为古典圆柱框架下的木制印刷机；11) “机械钟”，展示为华丽的立式钟；12) “望远镜”，展示为三脚架上的早期黄铜望远镜，配有素描风格的科学笔记；13) “蒸汽机”，展示在蓝色蓝图风格的砖块上，带有早期火车头引擎；14) “电池”，展示在蓝图风格的砖块上，带有两个圆柱形电池单元和线路；15) “电报”，展示为技术纸张上的莫尔斯电报键；16) “灯泡”，展示在中性底座上发出温暖的光；17) “汽车”，展示为车间规划背景下的早期红色汽车；18) “飞机”，展示为微型商用喷气式飞机；19) “晶体管”，展示为发光项目砖块上的黑色微芯片；20) “个人电脑”，展示为带有 CRT 显示器和键盘的米色台式电脑；21) “万维网”，展示为数字电路之上发光的蓝色地球仪；22) “智能手机”，展示为霓虹科技背景下时尚的现代手机；23) “CRISPR-Cas9”，展示为生物科技蓝色显示砖块中的 DNA 双螺旋结构；24) “可重复使用火箭”，展示为几枚竖立发射并带有尾气的火箭；25) “AI (LLMs)”，展示为全息科技立方体中发光的巨大字母 AI；26) “脑机接口”，展示为蓝色平台上的发光大脑全息图；27) “高级神经接口 (植入物)”，展示为带有发光大脑植入物的透明人头侧影，顶部带有小标签“2026 年”。\n\n保持构图高度组织化、海报感强且视觉密集，每个砖块一目了然。使用轻微的等轴测透视、清晰的线条、绘画般的阴影和精致的编辑插图质量。整体感觉应结合博物馆海报、教育时间轴和富有想象力的历史科技立体模型艺术。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "历史发明时间轴网格：此提示词可生成一张羊皮纸风格的教育海报，展示一个标注了发明立体模型的网格，非常适合用于时间轴信息图表和改变世界的科技对比。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "isometric",
+        "grid"
+      ],
+      "style": [
+        "editorial",
+        "isometric"
+      ],
+      "lightingCamera": [
+        "neon"
+      ],
+      "text": "要求精确文字；要求可读；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: isometric, grid]。\n\nVisual style:\n[参考风格: editorial, isometric]。\n\nLighting and camera:\n[参考光线镜头: neon]。\n\nText requirements:\n要求精确文字；要求可读；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14563",
+      "15072",
+      "15088",
+      "14615",
+      "14938",
+      "14856"
+    ]
+  }
+}

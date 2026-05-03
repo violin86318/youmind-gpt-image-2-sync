@@ -1,0 +1,45 @@
+{
+  "id": "13890",
+  "prompt": "{\n  \"type\": \"video game screenshot\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"Grand Theft Auto VI aesthetic, realistic 3D graphics\\\"}\",\n  \"setting\": \"balcony overlooking a coastal city at sunset, palm trees, skyscrapers, warm lighting\",\n  \"characters\": [\n    {\n      \"role\": \"NPC\",\n      \"description\": \"{argument name=\\\"npc description\\\" default=\\\"Omni-Man, muscular older man with a mustache and grey temples, wearing a red and white superhero suit\\\"}\",\n      \"position\": \"center-left, facing camera\"\n    },\n    {\n      \"role\": \"Player\",\n      \"description\": \"man wearing a backwards dark baseball cap and light grey t-shirt\",\n      \"position\": \"right foreground, back to camera\"\n    }\n  ],\n  \"ui_elements\": {\n    \"type\": \"dialogue menu\",\n    \"position\": \"bottom center\",\n    \"speaker_name\": \"{argument name=\\\"speaker name\\\" default=\\\"OMNI-MAN\\\"}\",\n    \"dialogue_text\": \"{argument name=\\\"npc dialogue\\\" default=\\\"This planet isn't yours to protect. Viltrumite rule is inevitable.\\\"}\",\n    \"choices_count\": 3,\n    \"choices\": [\n      \"1. {argument name=\\\"choice 1\\\" default=\\\"You're not taking over anything.\\\"}\",\n      \"2. What do you want from me?\",\n      \"3. I don't care about your politics.\"\n    ],\n    \"highlight\": \"Choice 1 has a translucent purple background bar\"\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"电子游戏截图\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"Grand Theft Auto VI 美学，写实 3D 图形\\\"}\",\n  \"setting\": \"日落时分俯瞰沿海城市的阳台，棕榈树，摩天大楼，温暖的灯光\",\n  \"characters\": [\n    {\n      \"role\": \"NPC\",\n      \"description\": \"{argument name=\\\"npc description\\\" default=\\\"全能侠 (Omni-Man)，肌肉发达的中年男子，留着胡须，鬓角灰白，身穿红白相间的超级英雄制服\\\"}\",\n      \"position\": \"中左，面向镜头\"\n    },\n    {\n      \"role\": \"玩家\",\n      \"description\": \"戴着反戴深色棒球帽、身穿浅灰色 T 恤的男子\",\n      \"position\": \"右前景，背对镜头\"\n    }\n  ],\n  \"ui_elements\": {\n    \"type\": \"对话菜单\",\n    \"position\": \"底部中央\",\n    \"speaker_name\": \"{argument name=\\\"speaker name\\\" default=\\\"全能侠 (OMNI-MAN)\\\"}\",\n    \"dialogue_text\": \"{argument name=\\\"npc dialogue\\\" default=\\\"这个星球不是由你来保护的。维尔特鲁姆人的统治是不可避免的。\\\"}\",\n    \"choices_count\": 3,\n    \"choices\": [\n      \"1. {argument name=\\\"choice 1\\\" default=\\\"你休想接管任何东西。\\\"}\",\n      \"2. 你到底想从我这里得到什么？\",\n      \"3. 我不在乎你们的政治。\"\n    ],\n    \"highlight\": \"选项 1 具有半透明的紫色背景条\"\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "GTA 风格对话截图：生成一张逼真的电子游戏截图，包含电影感的对话场景、可自定义的 NPC 以及多项选择对话菜单。",
+      "subject": "人物",
+      "scene": "空间/场景",
+      "composition": [],
+      "style": [
+        "realistic",
+        "3d"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含文字或排版元素",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "空间概念、建筑场景、游戏场景、产品场景盒子",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 空间/场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, 3d]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含文字或排版元素。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14686",
+      "13734",
+      "13690",
+      "15518",
+      "13971",
+      "13614"
+    ]
+  }
+}

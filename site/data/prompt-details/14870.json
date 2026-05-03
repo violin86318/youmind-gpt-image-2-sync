@@ -1,0 +1,51 @@
+{
+  "id": "14870",
+  "prompt": "Create a refined editorial presentation cover slide in a warm, Claude-inspired design system. Use a landscape 16:9 composition with a parchment-paper background, subtle paper grain, soft shadows, and layered torn-paper collage elements. The overall palette should be warm ivory, cream, sand, charcoal, muted black, and terracotta accent. On the left half, place a small top label reading \"{argument name=\"system label\" default=\"Claude-inspired presentation system\"}\" with a small terracotta dot and a thin horizontal divider line. Below it, set an oversized elegant high-contrast serif headline in black that reads \"{argument name=\"main headline\" default=\"Thoughtful Systems\"}\", split across two lines and dominating the left side. Under the headline, add a smaller serif subheadline in terracotta reading \"{argument name=\"subheadline\" default=\"Warmth can still feel precise.\"}\". Beneath that, create a vertical list of exactly 4 design principles, each on its own row with thin divider lines and a small icon at left: 1) a rectangular parchment-sheet icon with the text \"Parchment canvas\", 2) a serif capital T icon with the text \"Serif-led hierarchy\", 3) a filled terracotta circle icon with the text \"Terracotta for signal\", 4) a chain-link icon with the text \"Organic diagrams over cold chrome\". Add a tiny footer caption at bottom left reading \"CLAUDE-INSPIRED PRESENTATION SYSTEM\" in spaced small caps. On the right half, build a layered collage of exactly 3 paper cards: first, a tall off-white art card with a fine border containing the heading \"A more considered approach\", a short body paragraph about complex problems yielding to clarity, a minimal landscape line drawing with a terracotta sun, and a vertical terracotta botanical branch overlapping the card; second, a dark charcoal rectangular card partially behind it with the lowercase title \"thinking process\" and an exact 5-step numbered list: \"01 Observe\", \"02 Interpret\", \"03 Connect\", \"04 Synthesize\", \"05 Act with care\", plus a delicate circular orbital diagram in dotted lines and terracotta highlight; third, a torn off-white note card in front near the bottom with a hand-drawn overlapping-circles diagram where one crescent-shaped intersection area is shaded in terracotta, alongside a handwritten quote reading \"{argument name=\"quote\" default=\"Clarity emerges when systems are designed with intention.\"}\". Include one extra light beige paper strip tucked beneath the lower cards. Emphasize tactile realism, elegant negative space, print-editorial sophistication, soft natural lighting, and a calm, thoughtful luxury-tech mood.",
+  "translatedPrompt": "创建一个精致的编辑风格演示封面幻灯片，采用温暖的 Claude 风格设计系统。使用 16:9 横向构图，背景为羊皮纸，带有细腻的纸张纹理、柔和的阴影以及分层的撕纸拼贴元素。整体色调应为暖象牙色、奶油色、沙色、炭灰色、柔和黑色以及赤陶色点缀。在左半部分，放置一个小标签，显示“{argument name=\"system label\" default=\"Claude 风格演示系统\"}”，配有一个赤陶色小圆点和一条细水平分割线。在其下方，设置一个超大且优雅的高对比度衬线标题，颜色为黑色，内容为“{argument name=\"main headline\" default=\"Thoughtful Systems\"}”，分为两行，占据左侧主要位置。在标题下方，添加一个较小的赤陶色衬线副标题，内容为“{argument name=\"subheadline\" default=\"温暖亦可精准。\"}”。在此之下，创建一个包含 4 个设计原则的垂直列表，每一项占一行，带有细分割线和左侧小图标：1) 一个矩形羊皮纸图标，文字为“羊皮纸画布”；2) 一个衬线大写字母 T 图标，文字为“衬线主导的层级”；3) 一个填充的赤陶色圆形图标，文字为“赤陶色用于信号提示”；4) 一个链条图标，文字为“有机图表胜过冷峻金属感”。在左下角添加一行微小的页脚说明，以间距较大的小写字母显示“CLAUDE-INSPIRED PRESENTATION SYSTEM”。在右半部分，构建一个由 3 张纸质卡片组成的分层拼贴：第一张是带有细边框的米白色高长艺术卡片，包含标题“更深思熟虑的方法”、一段关于复杂问题如何趋于清晰的简短正文、一幅带有赤陶色太阳的极简风景线条画，以及一张覆盖在卡片上的垂直赤陶色植物枝条；第二张是位于其后方的深炭灰色矩形卡片，带有小写标题“thinking process”和一个精确的 5 步编号列表：“01 Observe”、“02 Interpret”、“03 Connect”、“04 Synthesize”、“05 Act with care”，以及一个带有虚线和赤陶色高光的精致圆形轨道图；第三张是靠近底部前方的一张撕边米白色便签卡，上面有一个手绘的重叠圆圈图，其中一个新月形的交叉区域用赤陶色填充，旁边是一句手写引语：“{argument name=\"quote\" default=\"当系统被有意设计时，清晰度便会显现。\"}”。在底部卡片下方塞入一条额外的浅米色纸条。强调触感真实性、优雅的留白、印刷编辑的精致感、柔和的自然光影以及冷静、深思熟虑的奢华科技氛围。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Thoughtful Systems 演示封面：一款适用于 AI 或产品设计演示的温暖编辑风格幻灯片封面，采用羊皮纸纹理、衬线字体和赤陶色调的拼贴卡片设计。",
+      "subject": "界面",
+      "scene": "信息图/图解",
+      "composition": [
+        "layered",
+        "vertical",
+        "horizontal"
+      ],
+      "style": [
+        "editorial",
+        "luxury",
+        "hand-drawn"
+      ],
+      "lightingCamera": [
+        "natural light"
+      ],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "结构化布局精度"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "production",
+      "qualityLabel": "生产级",
+      "bestUse": "教程流程、方法论、商业流程、食谱步骤",
+      "whySelected": "得分 82；构图: layered, vertical, horizontal；风格: editorial, luxury, hand-drawn；要求精确文字；包含标注/说明"
+    },
+    "copyTemplate": "Create a 信息图/图解 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: layered, vertical, horizontal]。\n\nVisual style:\n[参考风格: editorial, luxury, hand-drawn]。\n\nLighting and camera:\n[参考光线镜头: natural light]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13883",
+      "15292",
+      "13611",
+      "13924",
+      "13605",
+      "14048"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "14994",
+  "prompt": "A clean fashion comparison studio photo of 4 adult East Asian women standing side by side against a plain light gray seamless background, full body visible from head to shoes, photographed straight-on with soft diffused lighting and a polished commercial look. Above each woman, centered over her head in black serif text, place height labels reading exactly: 145cm, 155cm, 165cm, 175cm. Emphasize realistic proportional differences in height while keeping all four women slim, elegant, and similarly styled, with long dark brown to black softly wavy hair and neutral expressions. Their faces are obscured by smooth rectangular blur blocks. The women stand very close together in a friendly pose, with subtle arm contact and one woman lightly resting an arm around another. Use a coordinated beige, cream, taupe, and soft blush wardrobe palette with smart casual feminine outfits and matching ivory loafers. Woman 1 under the 145cm label wears a short-sleeve cream ribbed knit top tucked into high-waisted light beige shorts with a fabric belt, plus a small quilted shoulder bag with a chain strap. Woman 2 under the 155cm label wears a white long-sleeve blouse with a bow tie at the collar and a taupe mini skirt with a slight flared hem, carrying a small light beige crossbody handbag. Woman 3 under the 165cm label wears a sleeveless blush-beige ribbed knit top and a simple ivory mini skirt. Woman 4 under the 175cm label wears a draped white V-neck blouse with sleeves rolled to the forearms, high-waisted taupe belted shorts, and a medium taupe shoulder bag. All 4 women wear cream or ivory horsebit loafers. Composition is vertical, centered, minimal, stylish, realistic, like a fashion catalog image comparing female heights.",
+  "translatedPrompt": "一张简洁的时尚对比摄影棚照片，展示 4 位成年东亚女性并排站在浅灰色无缝背景前，全身可见，从头部到鞋子，采用正面拍摄，光线柔和均匀，呈现出精致的商业质感。在每位女性头顶正上方，用黑色衬线字体标注身高，文字需完全一致：145cm、155cm、165cm、175cm。强调身高比例的真实差异，同时保持四位女性身材苗条、优雅且风格统一，留着深棕色至黑色的柔和波浪长发，表情中性。她们的面部被平滑的矩形模糊块遮盖。四位女性站位紧凑，姿态友好，有细微的肢体接触，其中一人轻挽着另一人的手臂。服装采用米色、奶油色、灰褐色和柔粉色的协调色调，搭配干练的女性化休闲装和配套的象牙白乐福鞋。145cm 标签下的女性 1 身穿短袖奶油色罗纹针织上衣，塞进高腰浅米色短裤中，配有织物腰带，并背着一个小巧的链条绗缝单肩包。155cm 标签下的女性 2 身穿白色长袖衬衫，领口系蝴蝶结，搭配灰褐色迷你裙，裙摆微张，背着一个小巧的浅米色斜挎包。165cm 标签下的女性 3 身穿无袖粉米色罗纹针织上衣，搭配简约的象牙白迷你裙。175cm 标签下的女性 4 身穿垂坠感白色 V 领衬衫，袖子卷至前臂，搭配高腰灰褐色腰带短裤，背着一个中号灰褐色单肩包。4 位女性均穿着奶油色或象牙白马衔扣乐福鞋。构图垂直、居中、极简、时尚、写实，如同对比女性身高的时尚目录图片。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "四位女性时尚身高对比：此提示词可生成一张写实的摄影棚时尚照片，展示四位标注不同身高的女性，适用于社交媒体对比贴文或编辑风格的视觉指南。",
+      "subject": "产品",
+      "scene": "人物/角色",
+      "composition": [
+        "centered",
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "studio"
+      ],
+      "lightingCamera": [],
+      "text": "要求精确文字；包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, vertical]。\n\nVisual style:\n[参考风格: realistic, studio]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n要求精确文字；包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14880",
+      "15446",
+      "14640",
+      "14616",
+      "14629",
+      "14693"
+    ]
+  }
+}

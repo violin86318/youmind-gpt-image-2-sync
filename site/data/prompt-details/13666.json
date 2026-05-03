@@ -1,0 +1,46 @@
+{
+  "id": "13666",
+  "prompt": "{\n  \"type\": \"comic book page layout\",\n  \"style\": \"modern western comic book illustration, gritty, dynamic lighting, high contrast, detailed inking\",\n  \"character\": \"{argument name=\\\"hero theme\\\" default=\\\"red devil-themed vigilante\\\"} in a tactical suit with small horns on the cowl, red eye lenses, and a double baton weapon\",\n  \"layout\": {\n    \"panel_count\": 6,\n    \"panels\": [\n      {\n        \"position\": \"top left, large establishing shot\",\n        \"visuals\": \"hero standing on a rooftop looking over a sprawling city skyline at dusk, water tower on the left\",\n        \"text_elements\": [\n          {\"type\": \"location box\", \"text\": \"{argument name=\\\"city setting\\\" default=\\\"HELL'S KITCHEN. N.Y.C.\\\"}\"},\n          {\"type\": \"title logo\", \"text\": \"{argument name=\\\"main title\\\" default=\\\"DAREDEVIL THE MAN WITHOUT FEAR!\\\"}\"},\n          {\"type\": \"narration box\", \"text\": \"SOME NIGHTS, THE CITY FEELS LIKE A HEARTBEAT.\"},\n          {\"type\": \"narration box\", \"text\": \"FAST. UNSTOPPABLE. ALIVE.\"},\n          {\"type\": \"narration box\", \"text\": \"OTHER NIGHTS... IT FEELS LIKE A WARNING.\"}\n        ]\n      },\n      {\n        \"position\": \"top right, inset\",\n        \"visuals\": \"close-up of the hero's masked face in shadow\",\n        \"text_elements\": [\n          {\"type\": \"narration box\", \"text\": \"TONIGHT, IT'S BOTH.\"}\n        ]\n      },\n      {\n        \"position\": \"middle right, vertical\",\n        \"visuals\": \"4 street thugs standing in a dark, wet alleyway, graffiti on the brick wall\",\n        \"text_elements\": [\n          {\"type\": \"graffiti\", \"text\": \"{argument name=\\\"enemy faction\\\" default=\\\"THE HAND\\\"}\"},\n          {\"type\": \"narration box\", \"text\": \"THE HAND IS MOVING AGAIN.\"},\n          {\"type\": \"narration box\", \"text\": \"QUIETLY. PATIENTLY. LIKE THEY OWN THE SHADOWS.\"}\n        ]\n      },\n      {\n        \"position\": \"center, large dynamic shot\",\n        \"visuals\": \"hero leaping forward dramatically, reaching out with one hand, holding a baton with a wire in the other, background features concentric white circles representing a radar sense\",\n        \"text_elements\": [\n          {\"type\": \"narration box\", \"text\": \"THEY DON'T.\"},\n          {\"type\": \"narration box\", \"text\": \"NOT WHILE I CAN HELP IT.\"},\n          {\"type\": \"speech bubble\", \"text\": \"I HEAR YOU. ALL OF YOU.\"}\n        ]\n      },\n      {\n        \"position\": \"bottom left, wide\",\n        \"visuals\": \"stark red background with black silhouettes, hero leaping down to fight 6 silhouetted ninjas wielding swords\",\n        \"text_elements\": [\n          {\"type\": \"narration box\", \"text\": \"I DON'T WEAR THE MASK TO BE A HERO.\"},\n          {\"type\": \"narration box\", \"text\": \"I WEAR IT TO MAKE SURE THE INNOCENT MAKE IT HOME.\"}\n        ]\n      },\n      {\n        \"position\": \"bottom right, inset\",\n        \"visuals\": \"close-up of the hero's face, slightly different angle, determined expression\",\n        \"text_elements\": [\n          {\"type\": \"speech bubble\", \"text\": \"LET'S SEE WHO MAKES IT TONIGHT.\"},\n          {\"type\": \"floating text\", \"text\": \"{argument name=\\\"ending text\\\" default=\\\"TO BE CONTINUED!\\\"}\"}\n        ]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"漫画书页面布局\",\n  \"style\": \"现代美式漫画插画，黑暗硬核氛围，高对比度光影，动态构图\",\n  \"header\": {\n    \"location_box\": \"{argument name=\\\"location\\\" default=\\\"纽约地狱厨房\\\"}\",\n    \"title\": \"{argument name=\\\"comic title\\\" default=\\\"夜魔侠：无畏之人！\\\"}\"\n  },\n  \"character\": \"{argument name=\\\"hero description\\\" default=\\\"身穿红色恶魔套装、头戴双角、双眼闪烁红光的超级英雄\\\"}\",\n  \"layout\": {\n    \"panel_count\": 6,\n    \"panels\": [\n      {\n        \"position\": \"左上\",\n        \"scene\": \"英雄站在屋顶上，俯瞰日落时分的城市天际线\",\n        \"text_boxes\": 3,\n        \"text\": [\"有些夜晚，这座城市感觉就像一次心跳。\", \"迅猛。不可阻挡。鲜活。\", \"而有些夜晚……它感觉像是一个警告。\"]\n      },\n      {\n        \"position\": \"右上\",\n        \"scene\": \"英雄蒙面脸部的特写，隐没在阴影中\",\n        \"text_boxes\": 1,\n        \"text\": [\"今晚，两者皆是。\"]\n      },\n      {\n        \"position\": \"中右\",\n        \"scene\": \"四个暴徒站在阴暗潮湿的小巷里\",\n        \"graffiti\": \"{argument name=\\\"enemy faction\\\" default=\\\"手合会\\\"}\",\n        \"text_boxes\": 2,\n        \"text\": [\"手合会又在行动了。\", \"悄无声息。耐心十足。仿佛他们掌控着阴影。\"]\n      },\n      {\n        \"position\": \"中左，打破边框\",\n        \"scene\": \"英雄动态地向前跃起，伸出手，握着带有钢丝的短棍，背景呈现出同心圆状的白色雷达波纹\",\n        \"text_boxes\": 2,\n        \"speech_bubbles\": 1,\n        \"text\": [\"他们并不掌控。\", \"只要我还在，他们就别想。\", \"我听得见你们。你们所有人。\"]\n      },\n      {\n        \"position\": \"左下\",\n        \"scene\": \"英雄跃向一群持剑忍者剪影的轮廓，背景为深红色\",\n        \"text_boxes\": 2,\n        \"text\": [\"我戴上面具不是为了当英雄。\", \"我戴上它是为了确保无辜者能平安回家。\"]\n      },\n      {\n        \"position\": \"右下\",\n        \"scene\": \"英雄脸部特写，嘴角微微上扬\",\n        \"speech_bubbles\": 1,\n        \"text\": [\"看看今晚谁能活下来。\"]\n      }\n    ]\n  },\n  \"footer\": \"{argument name=\\\"ending text\\\" default=\\\"未完待续！\\\"}\"\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "硬核超级英雄漫画页：生成一个包含 6 个分镜的完整漫画书页面，主角为蒙面义警，包含动态动作姿势和丰富的叙事文本框。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "vertical"
+      ],
+      "style": [],
+      "lightingCamera": [
+        "high contrast",
+        "lens"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, vertical]。\n\nVisual style:\n[媒介/渲染方式/审美方向/色彩系统]。\n\nLighting and camera:\n[参考光线镜头: high contrast, lens]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15060",
+      "15352",
+      "15370",
+      "15371",
+      "14840",
+      "14523"
+    ]
+  }
+}

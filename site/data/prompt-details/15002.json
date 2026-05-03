@@ -1,0 +1,49 @@
+{
+  "id": "15002",
+  "prompt": "Create a square split-screen e-commerce social ad with a clean, premium sportswear brand aesthetic. At the very top, spanning the full width in huge bold condensed white all-caps sans-serif text, place the headline: {argument name=\"headline text\" default=\"BOUGHT FOR THE GYM. USED FOR THE COUCH.\"}. The image is divided vertically into 2 equal panels. On the left panel, show a neatly arranged flat-lay of 4 black athletic clothing items on a soft light-gray studio background with subtle shadows: 1 black pullover hoodie with a small white swoosh logo on the chest, 1 pair of black athletic shorts with a large white swoosh logo on the lower leg, and 2 black running shoes with white swoosh logos and white midsoles positioned as a pair. The layout should feel catalog-clean, minimal, balanced, and premium, with realistic fabric texture and crisp product photography lighting. On the right panel, show a relaxed lifestyle scene in a neutral-toned living room: 1 casually slouched man wearing the same black hoodie, black shorts, white crew socks, and black running shoes sits sprawled on a beige couch, leaning back lazily and looking at a smartphone in one hand. His face is softly obscured or indistinct, not the focal point. Around him are 4 visible snack/living-room items: 1 red bag of chips on the couch, 1 blue pack of sandwich cookies on the couch, 1 sports drink bottle near the snacks, and 1 open pizza box with a visible pizza in the foreground on a coffee table, plus 1 TV remote nearby. Add a framed wall art piece above the couch and warm indoor ambient lighting for a realistic home setting. At the bottom center, overlay smaller white sans-serif text reading: {argument name=\"tagline text\" default=\"Still worth it.\"}. The overall mood should be witty, relatable, polished, and highly shareable, like a premium direct-response ad for athleisure clothing that contrasts fitness intention with lazy comfort use.",
+  "translatedPrompt": "创建一个正方形的分屏电商社交广告，呈现简洁、高端的运动品牌美学。在顶部，使用巨大的粗体压缩白色全大写无衬线字体横跨整个宽度，放置标题：{argument name=\"headline text\" default=\"买是为了健身。穿是为了躺平。\"}。图像垂直分为 2 个等大的面板。左侧面板展示 4 件黑色运动服饰的整齐平铺图，背景为带有细微阴影的柔和浅灰色摄影棚背景：1 件胸前带有白色小勾标志的黑色套头连帽衫，1 条小腿处带有白色大勾标志的黑色运动短裤，以及 2 只带有白色勾标志和白色中底的黑色跑鞋（摆放为一对）。布局应具有目录般的整洁感、极简感、平衡感和高级感，并具备真实的织物纹理和清晰的产品摄影布光。右侧面板展示一个中性色调客厅里的轻松生活场景：1 名穿着同款黑色连帽衫、黑色短裤、白色中筒袜和黑色跑鞋的男子随意地瘫坐在米色沙发上，懒洋洋地向后靠着，单手看着智能手机。他的面部被柔和地遮挡或模糊处理，并非焦点。他周围有 4 件可见的零食/客厅物品：沙发上有一袋红色薯片，沙发上有一包蓝色夹心饼干，零食旁有一瓶运动饮料，前景的咖啡桌上有一个打开的披萨盒，里面装着披萨，旁边还有一个电视遥控器。在沙发上方添加一幅装裱的墙面艺术品，并使用温暖的室内环境光，营造真实的居家氛围。在底部中心，叠加较小的白色无衬线文字：{argument name=\"tagline text\" default=\"依然物超所值。\"}。整体氛围应风趣、有共鸣、精致且极具传播力，就像一个将健身初衷与懒散舒适感形成对比的高端运动休闲服饰直接响应式广告。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "分屏运动休闲广告：一个精致的正方形产品广告，展示了运动服既是时尚装备又是居家休闲服饰的特点，非常适合电子商务和社交媒体营销活动。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "premium",
+        "studio"
+      ],
+      "lightingCamera": [
+        "soft light"
+      ],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, premium, studio]。\n\nLighting and camera:\n[参考光线镜头: soft light]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14807",
+      "15775",
+      "14889",
+      "14878",
+      "15600",
+      "15776"
+    ]
+  }
+}

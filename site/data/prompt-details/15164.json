@@ -1,0 +1,45 @@
+{
+  "id": "15164",
+  "prompt": "A professional product photography shot of a {argument name=\"product\" default=\"cold sparkling water can\"} placed upright in {argument name=\"setting\" default=\"golden beach sand\"}. The can is {argument name=\"branding colors\" default=\"silver and teal\"}, covered in realistic water droplets condensation, with a pineapple illustration and tropical branding. The can is slightly tilted, planted in a small mound of fine golden sand with tiny white pebbles and small green tropical leaves/grass scattered around the base. Background features a bold split composition - bright sky-blue on the left and vivid yellow on the right, with a large blurred real pineapple placed behind the can on the right side. A blurred tropical palm leaf drapes in from the upper left corner, adding depth and framing. Macro-level water condensation droplets visible on the can surface. Lighting is bright, vibrant, commercial studio lighting with clean shadows. Shallow depth of field - can in sharp focus, background softly blurred. Mood: summer, tropical, fresh, refreshing. Commercial product photography, ultra-detailed, 8K.",
+  "translatedPrompt": "一张专业的商业产品摄影照片，主体为 {argument name=\"product\" default=\"冰镇气泡水罐\"}，垂直放置在 {argument name=\"setting\" default=\"金色沙滩\"} 上。罐身为 {argument name=\"branding colors\" default=\"银色与青色\"}，表面覆盖着逼真的冷凝水珠，印有菠萝插画和热带风格的品牌标识。罐身略微倾斜，插在细软的金色沙堆中，底座周围散落着细小的白色鹅卵石和绿色热带叶片/草丛。背景采用大胆的分割构图——左侧为明亮的天蓝色，右侧为鲜艳的黄色，右后方放置着一个模糊处理的真实菠萝。左上角垂下一片模糊的热带棕榈叶，增加了画面的深度与框架感。罐体表面可见微距级别的冷凝水珠。光线采用明亮、鲜艳的商业摄影棚布光，阴影干净利落。浅景深效果——罐身焦点清晰，背景柔和虚化。氛围：夏季、热带、清新、提神。商业产品摄影，超高细节，8K 分辨率。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "热带风情产品摄影：一个用于商业产品摄影的专业摄影棚提示词，旨在拍摄热带海滩背景下饮料罐的特写，呈现鲜艳色彩与微距细节。",
+      "subject": "产品",
+      "scene": "产品/电商",
+      "composition": [],
+      "style": [
+        "realistic",
+        "studio"
+      ],
+      "lightingCamera": [
+        "studio lighting",
+        "shallow depth",
+        "depth of field"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "产品首图、广告图、电商详情页首屏",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 产品/电商 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, studio]。\n\nLighting and camera:\n[参考光线镜头: studio lighting, shallow depth, depth of field]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14575",
+      "14807",
+      "15775",
+      "15536",
+      "15310",
+      "15067"
+    ]
+  }
+}

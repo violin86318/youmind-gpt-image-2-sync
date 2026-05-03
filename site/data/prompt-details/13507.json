@@ -1,0 +1,47 @@
+{
+  "id": "13507",
+  "prompt": "{\n  \"type\": \"UI Design System presentation board\",\n  \"theme\": \"{argument name=\\\"visual theme\\\" default=\\\"optical science and light refraction\\\"}\",\n  \"overall_aesthetic\": \"clean white background, light mode, futuristic, premium, featuring {argument name=\\\"primary gradient colors\\\" default=\\\"iridescent rainbow, pastel orange, yellow, cyan, purple, pink\\\"} accents\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"system name\\\" default=\\\"LIGHTCORE PRISM\\\"}\",\n    \"subtitle\": \"UI Design System - Light Mode\",\n    \"tags\": [\"FUTURISTIC\", \"PREMIUM\", \"FOCUS\"],\n    \"hero_graphic\": \"3D transparent glass ring refracting iridescent light\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"COLOR\",\n        \"count\": 5,\n        \"labels\": [\"WHITE #FFFFFF\", \"SNOW #FAFAFC\", \"SLATE #F2F4F8\", \"BORDER #E6E8EF\", \"BLACK #0A0A0C\"],\n        \"description\": \"5 solid color swatches in rounded squares\"\n      },\n      {\n        \"title\": \"PRISM GRADIENTS\",\n        \"count\": 1,\n        \"description\": \"1 long horizontal gradient bar with 5 hex codes below it\"\n      },\n      {\n        \"title\": \"TYPOGRAPHY\",\n        \"description\": \"Large 'Aa' with 4 font weights listed (Light, Regular, Medium, Semibold) and full alphabet/numbers\"\n      },\n      {\n        \"title\": \"ICONOGRAPHY\",\n        \"count\": 12,\n        \"description\": \"12 minimalist line-art icons arranged in a 2x6 grid\"\n      },\n      {\n        \"title\": \"BUTTONS\",\n        \"count\": 8,\n        \"categories\": [\"PRIMARY\", \"SECONDARY\", \"TEXT\", \"ICON\"],\n        \"description\": \"8 total buttons showing normal and disabled states for each category. Primary button features an iridescent border and {argument name=\\\"primary button text\\\" default=\\\"GET STARTED\\\"} text.\"\n      },\n      {\n        \"title\": \"NAVIGATION\",\n        \"count\": 2,\n        \"variants\": [\"DESKTOP\", \"MOBILE\"],\n        \"description\": \"Desktop nav has logo, 4 text links, search, sign in, and a button. Mobile nav has logo, search, and hamburger menu.\"\n      },\n      {\n        \"title\": \"COMPONENTS\",\n        \"count\": 6,\n        \"items\": [\n          \"CARD: 'Photon Engine' with abstract iridescent graphic and button\",\n          \"INPUT FIELD: Search bar and email input with label\",\n          \"PROGRESS: Iridescent progress bar at 68%\",\n          \"TABS: Overview, Analytics, Settings\",\n          \"TOGGLE: 2 switches (on/off)\",\n          \"DATA VISUALIZATION: 1 donut chart with 3 legend items, 1 line chart over 7 days\"\n        ]\n      },\n      {\n        \"title\": \"WEB PAGE\",\n        \"description\": \"Desktop browser mockup featuring the header '{argument name=\\\"hero headline\\\" default=\\\"Build the Future with Light & Color\\\"}', 2 buttons, a flowing 3D iridescent wave graphic, and 5 partner logos at the bottom.\"\n      },\n      {\n        \"title\": \"MOBILE APP\",\n        \"description\": \"Smartphone mockup displaying a balance of $24,880, a line chart, 4 quick action icons, a recent activity list with 3 items, and a bottom navigation bar with 4 icons.\"\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"UI 设计系统演示项目\",\n  \"theme\": \"{argument name=\\\"visual theme\\\" default=\\\"光学科学与光折射\\\"}\",\n  \"overall_aesthetic\": \"干净的白色背景，浅色模式，未来感，高级感，特色在于 {argument name=\\\"primary gradient colors\\\" default=\\\"虹彩、柔和橙色、黄色、青色、紫色、粉色\\\"} 点缀\",\n  \"header\": {\n    \"title\": \"{argument name=\\\"system name\\\" default=\\\"LIGHTCORE PRISM\\\"}\",\n    \"subtitle\": \"UI 设计系统 - 浅色模式\",\n    \"tags\": [\"未来感\", \"高级感\", \"专注\"],\n    \"hero_graphic\": \"折射虹彩光线的 3D 透明玻璃环\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"title\": \"色彩\",\n        \"count\": 5,\n        \"labels\": [\"白色 #FFFFFF\", \"雪色 #FAFAFC\", \"板岩色 #F2F4F8\", \"边框色 #E6E8EF\", \"黑色 #0A0A0C\"],\n        \"description\": \"5 个圆角方形的纯色色块\"\n      },\n      {\n        \"title\": \"棱镜渐变\",\n        \"count\": 1,\n        \"description\": \"1 条长水平渐变条，下方附有 5 个十六进制颜色代码\"\n      },\n      {\n        \"title\": \"排版\",\n        \"description\": \"大号 'Aa' 字体，列出 4 种字重（Light, Regular, Medium, Semibold）以及完整的字母表/数字\"\n      },\n      {\n        \"title\": \"图标\",\n        \"count\": 12,\n        \"description\": \"12 个极简线条风格图标，以 2x6 网格排列\"\n      },\n      {\n        \"title\": \"按钮\",\n        \"count\": 8,\n        \"categories\": [\"主要\", \"次要\", \"文本\", \"图标\"],\n        \"description\": \"总计 8 个按钮，展示每种分类的正常和禁用状态。主要按钮具有虹彩边框和 {argument name=\\\"primary button text\\\" default=\\\"开始使用\\\"} 文本。\"\n      },\n      {\n        \"title\": \"导航\",\n        \"count\": 2,\n        \"variants\": [\"桌面端\", \"移动端\"],\n        \"description\": \"桌面端导航包含 Logo、4 个文本链接、搜索、登录和一个按钮。移动端导航包含 Logo、搜索和汉堡菜单。\"\n      },\n      {\n        \"title\": \"组件\",\n        \"count\": 6,\n        \"items\": [\n          \"卡片：带有抽象虹彩图形和按钮的 'Photon Engine'\",\n          \"输入框：带标签的搜索栏和电子邮件输入框\",\n          \"进度条：68% 的虹彩进度条\",\n          \"标签页：概览、分析、设置\",\n          \"开关：2 个开关（开/关）\",\n          \"数据可视化：1 个带 3 个图例项的环形图，1 个 7 天折线图\"\n        ]\n      },\n      {\n        \"title\": \"网页\",\n        \"description\": \"桌面浏览器模型，包含标题 '{argument name=\\\"hero headline\\\" default=\\\"用光与色彩构建未来\\\"}'、2 个按钮、流动的 3D 虹彩波浪图形以及底部的 5 个合作伙伴 Logo。\"\n      },\n      {\n        \"title\": \"移动应用\",\n        \"description\": \"智能手机模型，显示 24,880 美元的余额、折线图、4 个快速操作图标、包含 3 个项目的近期活动列表以及带有 4 个图标的底部导航栏。\"\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "浅色模式 UI 设计系统项目：生成一套全面的 UI 设计系统演示，包含色彩方案、排版、组件以及具有未来感、虹彩美学的响应式模型。",
+      "subject": "文字符号",
+      "scene": "字体/Logo",
+      "composition": [
+        "grid",
+        "horizontal"
+      ],
+      "style": [
+        "3d",
+        "minimalist",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "品牌字标、标题字、活动视觉、字体风格探索",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 字体/Logo image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid, horizontal]。\n\nVisual style:\n[参考风格: 3d, minimalist, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14936",
+      "14496",
+      "14935",
+      "15321",
+      "15329",
+      "15113"
+    ]
+  }
+}

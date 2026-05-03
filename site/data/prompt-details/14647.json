@@ -1,0 +1,46 @@
+{
+  "id": "14647",
+  "prompt": "A realistic documentary-style smartphone photo inside a small county-town mobile phone shop in China, showing a candid sales interaction at the counter. A tall foreign man, about {argument name=\"shop clerk nationality\" default=\"Russian\"}, stands behind a glass display case wearing a black jacket and a blue employee lanyard with badge, holding a smartphone in both hands as if introducing it to a customer. His face is deliberately blurred into a soft rectangular mosaic for privacy. In the foreground, a middle-aged Chinese male customer in a black jacket is seen from behind and slightly to the side, facing the clerk. The store is cramped, brightly lit, and visually cluttered with authentic retail details. Behind them are large smartphone brand posters and lightbox ads, including 2 major phone brand ads: vivo and oppo. There are 4 prominent Chinese promotional signs visible: a red overhead banner about buying phones and carrier service, a blue vertical installment-payment sign mentioning 0 down payment and 0 interest, a blue trade-in subsidy sign mentioning 1000 yuan, and a small counter sign promoting a Xiaomi model with a 6999 price. The glass counter contains multiple display phones, with 4 clearly visible upright demo phones on stands, plus scattered brochures and accessories beneath the glass. Add dense shelves of boxed accessories and hanging decorations in the background, with slightly messy composition, harsh indoor shop lighting, mild lens distortion, and the rough, unpolished realism of a casually taken phone snapshot. The mood should feel mundane, local, and faintly surreal because the foreign clerk appears completely integrated into an ordinary Chinese mobile phone store.",
+  "translatedPrompt": "一张写实的纪实风格智能手机照片，拍摄于中国某县城的一家小型手机店内，展示了柜台前真实的销售互动场景。一位身材高大的外国男性，大约 {argument name=\"shop clerk nationality\" default=\"俄罗斯人\"}，身穿黑色夹克，佩戴着带有工牌的蓝色员工挂绳，站在玻璃柜台后，双手拿着一部智能手机，仿佛正在向顾客介绍。他的面部被刻意处理成柔和的矩形马赛克以保护隐私。前景中，一位身穿黑色夹克的中年中国男性顾客背对镜头并略微侧身，正面对着店员。店内空间狭窄、灯光充足，视觉上充满了真实的零售细节。他们身后是大型智能手机品牌海报和灯箱广告，包括 vivo 和 oppo 这两个主要手机品牌的广告。画面中可见 4 个醒目的中文促销标识：一条关于购买手机和运营商服务的红色横幅、一个提到“0 首付 0 利息”的蓝色垂直分期付款标志、一个提到“1000 元”以旧换新补贴的蓝色标志，以及一个推广小米机型且标价 6999 的小型柜台立牌。玻璃柜台内陈列着多部展示机，其中 4 部立式演示机清晰可见，玻璃下方还散落着宣传册和配件。背景是摆满盒装配件的密集货架和悬挂的装饰物，构图略显杂乱，室内灯光较硬，带有轻微的镜头畸变，呈现出手机随手抓拍的那种粗粝、未经修饰的真实感。整体氛围应显得平凡、接地气，且带有一丝超现实感，因为这位外国店员看起来完全融入了这家普通的中国手机店。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "县城手机店里的外国店员：此提示词可生成一张写实的抓拍照片，展示一名外国店员在杂乱的中国手机店内销售手机，适用于纪实风格的社交媒体配图。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "realistic",
+        "documentary"
+      ],
+      "lightingCamera": [
+        "lens"
+      ],
+      "text": "无明确文字要求",
+      "constraints": [
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: realistic, documentary]。\n\nLighting and camera:\n[参考光线镜头: lens]。\n\nText requirements:\n[是否含文字/精确文字/可读性要求]。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14846",
+      "15066",
+      "15243",
+      "14652",
+      "15413",
+      "15462"
+    ]
+  }
+}

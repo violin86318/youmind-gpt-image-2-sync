@@ -1,0 +1,49 @@
+{
+  "id": "13937",
+  "prompt": "{\n  \"type\": \"anime theatrical poster and comprehensive production design reference sheet\",\n  \"overall_theme\": \"{argument name=\\\"setting theme\\\" default=\\\"dark underwater sci-fi abyss\\\"}\",\n  \"layout\": {\n    \"top_half\": \"cinematic key visual poster\",\n    \"bottom_half\": \"dense multi-panel production design document\"\n  },\n  \"poster_section\": {\n    \"characters\": [\n      {\n        \"description\": \"young woman in profile, dark hair\",\n        \"special_feature\": \"arm glowing with {argument name=\\\"female glow color\\\" default=\\\"cyan\\\"} markings\"\n      },\n      {\n        \"description\": \"young man in profile, short dark hair\",\n        \"special_feature\": \"arm glowing with {argument name=\\\"male glow color\\\" default=\\\"orange\\\"} markings\"\n      }\n    ],\n    \"background\": \"towering gothic underwater structures, giant bioluminescent jellyfish creature, massive submarine\",\n    \"typography\": {\n      \"tagline\": \"{argument name=\\\"tagline\\\" default=\\\"深く潜るほど、人は人でいられなくなる。\\\"}\",\n      \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"Resonance Abyss\\\"}\",\n      \"subtitle\": \"深淵共鳴界\",\n      \"footer\": \"fake anime staff credits and 劇場版\"\n    }\n  },\n  \"reference_sheet_section\": {\n    \"grid_layout\": \"dense architectural and character design grid with Japanese annotations\",\n    \"panels\": [\n      {\n        \"subject\": \"Female Character Design\",\n        \"elements\": [\n          {\"type\": \"standard outfit turnaround\", \"count\": 4, \"poses\": [\"front\", \"back\", \"side\", \"3/4\"]},\n          {\"type\": \"facial expressions\", \"count\": 3},\n          {\"type\": \"diving suit turnaround\", \"count\": 4, \"poses\": [\"front\", \"back\", \"side\", \"3/4\"]},\n          {\"type\": \"suit detail close-ups\", \"count\": 3},\n          {\"type\": \"color palette swatches\", \"count\": 6}\n        ]\n      },\n      {\n        \"subject\": \"Male Character Design\",\n        \"elements\": [\n          {\"type\": \"standard outfit turnaround\", \"count\": 4, \"poses\": [\"front\", \"back\", \"side\", \"3/4\"]},\n          {\"type\": \"facial expressions\", \"count\": 3},\n          {\"type\": \"diving suit turnaround\", \"count\": 4, \"poses\": [\"front\", \"back\", \"side\", \"3/4\"]},\n          {\"type\": \"gear detail close-ups\", \"count\": 4}\n        ]\n      },\n      {\n        \"subject\": \"Creature and Mecha Design\",\n        \"elements\": [\n          {\"type\": \"jellyfish creature views\", \"count\": 4},\n          {\"type\": \"submarine views\", \"count\": 3}\n        ]\n      },\n      {\n        \"subject\": \"Environment and World Building\",\n        \"elements\": [\n          {\"type\": \"domed underwater base exterior views\", \"count\": 3},\n          {\"type\": \"scale comparison chart\", \"count\": 1},\n          {\"type\": \"cross-section interior panels\", \"count\": 3},\n          {\"type\": \"UI interface mockups\", \"count\": 2},\n          {\"type\": \"system flowchart\", \"count\": 1}\n        ]\n      }\n    ]\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"动漫剧场版海报与综合制作设计参考图\",\n  \"overall_theme\": \"{argument name=\\\"setting theme\\\" default=\\\"暗黑深海科幻深渊\\\"}\",\n  \"layout\": {\n    \"top_half\": \"电影级主视觉海报\",\n    \"bottom_half\": \"密集的多面板制作设计文档\"\n  },\n  \"poster_section\": {\n    \"characters\": [\n      {\n        \"description\": \"侧面年轻女性，深色头发\",\n        \"special_feature\": \"手臂带有 {argument name=\\\"female glow color\\\" default=\\\"青色\\\"} 发光纹路\"\n      },\n      {\n        \"description\": \"侧面年轻男性，短深色头发\",\n        \"special_feature\": \"手臂带有 {argument name=\\\"male glow color\\\" default=\\\"橙色\\\"} 发光纹路\"\n      }\n    ],\n    \"background\": \"高耸的哥特式水下建筑，巨大的生物发光水母生物，大型潜水艇\",\n    \"typography\": {\n      \"tagline\": \"{argument name=\\\"tagline\\\" default=\\\"深く潜るほど、人は人でいられなくなる。\\\"}\",\n      \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"Resonance Abyss\\\"}\",\n      \"subtitle\": \"深渊共鸣界\",\n      \"footer\": \"伪造的动漫制作人员名单和 剧场版\"\n    }\n  },\n  \"reference_sheet_section\": {\n    \"grid_layout\": \"带有日文注释的密集建筑与角色设计网格\",\n    \"panels\": [\n      {\n        \"subject\": \"女性角色设计\",\n        \"elements\": [\n          {\"type\": \"标准服装三视图\", \"count\": 4, \"poses\": [\"正面\", \"背面\", \"侧面\", \"3/4侧面\"]},\n          {\"type\": \"面部表情\", \"count\": 3},\n          {\"type\": \"潜水服三视图\", \"count\": 4, \"poses\": [\"正面\", \"背面\", \"侧面\", \"3/4侧面\"]},\n          {\"type\": \"服装细节特写\", \"count\": 3},\n          {\"type\": \"配色色板\", \"count\": 6}\n        ]\n      },\n      {\n        \"subject\": \"男性角色设计\",\n        \"elements\": [\n          {\"type\": \"标准服装三视图\", \"count\": 4, \"poses\": [\"正面\", \"背面\", \"侧面\", \"3/4侧面\"]},\n          {\"type\": \"面部表情\", \"count\": 3},\n          {\"type\": \"潜水服三视图\", \"count\": 4, \"poses\": [\"正面\", \"背面\", \"侧面\", \"3/4侧面\"]},\n          {\"type\": \"装备细节特写\", \"count\": 4}\n        ]\n      },\n      {\n        \"subject\": \"生物与机甲设计\",\n        \"elements\": [\n          {\"type\": \"水母生物视图\", \"count\": 4},\n          {\"type\": \"潜水艇视图\", \"count\": 3}\n        ]\n      },\n      {\n        \"subject\": \"环境与世界观构建\",\n        \"elements\": [\n          {\"type\": \"圆顶水下基地外观视图\", \"count\": 3},\n          {\"type\": \"比例对比图\", \"count\": 1},\n          {\"type\": \"内部横截面面板\", \"count\": 3},\n          {\"type\": \"UI 界面模型\", \"count\": 2},\n          {\"type\": \"系统流程图\", \"count\": 1}\n        ]\n      }\n    ]\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "动漫海报与概念艺术设定集：生成一张分割布局的图像，上方为电影级动漫海报，下方为包含角色与世界观构建的高细节多面板参考图。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [
+        "close-up",
+        "grid",
+        "annotations"
+      ],
+      "style": [
+        "cinematic",
+        "anime",
+        "sci-fi"
+      ],
+      "lightingCamera": [],
+      "text": "文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "游戏角色、IP 形象、Cosplay、职业角色设定",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: close-up, grid, annotations]。\n\nVisual style:\n[参考风格: cinematic, anime, sci-fi]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15375",
+      "15370",
+      "13497",
+      "14527",
+      "13496",
+      "13807"
+    ]
+  }
+}

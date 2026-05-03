@@ -1,0 +1,49 @@
+{
+  "id": "15620",
+  "prompt": "A cinematic, photorealistic reimagining of the Last Supper as a modern anachronistic selfie scene inside a dim ancient stone room. Show {argument name=\"central figure\" default=\"Jesus\"} seated at the center front of a long rustic wooden table, wearing dark earth-toned biblical robes, extending one arm toward the camera and holding a modern black smartphone to take a group selfie. Surround him with exactly 12 disciples crowded closely around the table, making 13 people total, all dressed in simple first-century robes in beige, brown, taupe, muted blue, and cream. The composition should feel intimate and slightly humorous but still believable, with everyone leaning inward toward the phone as if posing for the photo. Use warm candlelight and soft firelit illumination, with several visible candles on the table and wall niches, creating amber highlights, deep shadows, and a sacred old-world atmosphere. Include rustic pottery, clay cups, wooden bowls, torn flatbread, and simple food on the table. The background should feature rough plastered stone walls, hanging cloth drapes, wooden pegs, and sparse historical decor. Frame it as a medium-wide group portrait from the phone camera’s point of view, with shallow depth of field, cinematic realism, detailed fabric textures, natural skin tones, and a rich warm brown color palette.",
+  "translatedPrompt": "这是一幅电影质感、照片级写实的“最后的晚餐”重构作品，呈现了一个充满现代时代错位感的自拍场景，地点位于昏暗的古老石室内。展示 {argument name=\"central figure\" default=\"耶稣\"} 坐在长条质朴木桌的正前方中央，身穿深色大地色系的圣经长袍，一只手臂伸向镜头，手持一部现代黑色智能手机进行集体自拍。在他周围，12 位门徒紧密地簇拥在桌子旁，总共 13 人，他们都穿着米色、棕色、灰褐色、柔和蓝色和奶油色的简约一世纪长袍。构图应营造出亲密且略带幽默但又不失真实感的氛围，每个人都向手机倾斜，仿佛正在摆姿势拍照。使用温暖的烛光和柔和的火光照明，桌上和墙壁壁龛中可见几支蜡烛，营造出琥珀色的高光、深邃的阴影和神圣的旧世界氛围。桌上摆放着质朴的陶器、粘土杯、木碗、撕开的扁面包和简单的食物。背景应呈现粗糙的抹灰石墙、悬挂的布帘、木钉和稀疏的历史装饰。以手机摄像头的视角进行中景广角群像构图，具有浅景深、电影级写实感、细腻的织物纹理、自然的肤色以及浓郁的暖棕色调。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "最后的晚餐自拍场景：此提示词可生成一张耶稣与 12 门徒使用现代智能手机自拍的写实风格圣经群像，非常适合用于幽默的电影感概念艺术创作。",
+      "subject": "人物",
+      "scene": "人物/角色",
+      "composition": [],
+      "style": [
+        "realistic",
+        "photorealistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "shallow depth",
+        "depth of field",
+        "camera"
+      ],
+      "text": "要求精确文字",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "手部/比例/面部一致性",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "人物头像、社媒头像、角色主视觉、个人品牌照",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 人物/角色 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: realistic, photorealistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: shallow depth, depth of field, camera]。\n\nText requirements:\n要求精确文字。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14568",
+      "15762",
+      "14414",
+      "14619",
+      "15706",
+      "14630"
+    ]
+  }
+}

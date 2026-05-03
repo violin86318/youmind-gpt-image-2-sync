@@ -1,0 +1,40 @@
+{
+  "id": "14268",
+  "prompt": "A humorous 3D cartoon illustration of a therapy session in a cozy office. On the left, a {argument name=\"patient character\" default=\"sad anthropomorphic avocado half missing its pit\"} sits on a brown leather lounge chair, gesturing with its thin stick-like arms. A large speech bubble above it reads \"{argument name=\"speech text\" default=\"I just feel so empty inside\"}\". On the right, the therapist, an {argument name=\"therapist character\" default=\"anthropomorphic silver spoon\"}, sits in a green armchair, holding a yellow pencil and writing on a notepad labeled \"NOTES\". The room has warm lighting, a beige rug on a wooden floor, and a bookshelf with a tissue box and books, one titled \"REFLECT LISTEN VALIDATE\". On the left wall hangs a framed poster reading \"{argument name=\"poster text\" default=\"IT'S OKAY TO FEEL YOUR FEELINGS\"}\" with a small heart. On the right wall hangs a framed diploma reading \"{argument name=\"diploma text\" default=\"SPOON UNIVERSITY SCHOOL OF LISTENING & VALIDATION\"}\" featuring a small spoon illustration and a gold seal.",
+  "translatedPrompt": "A humorous 3D cartoon illustration of a therapy session in a cozy office. On the left, a {argument name=\"patient character\" default=\"sad anthropomorphic avocado half missing its pit\"} sits on a brown leather lounge chair, gesturing with its thin stick-like arms. A large speech bubble above it reads \"{argument name=\"speech text\" default=\"I just feel so empty inside\"}\". On the right, the therapist, an {argument name=\"therapist character\" default=\"anthropomorphic silver spoon\"}, sits in a green armchair, holding a yellow pencil and writing on a notepad labeled \"NOTES\". The room has warm lighting, a beige rug on a wooden floor, and a bookshelf with a tissue box and books, one titled \"REFLECT LISTEN VALIDATE\". On the left wall hangs a framed poster reading \"{argument name=\"poster text\" default=\"IT'S OKAY TO FEEL YOUR FEELINGS\"}\" with a small heart. On the right wall hangs a framed diploma reading \"{argument name=\"diploma text\" default=\"SPOON UNIVERSITY SCHOOL OF LISTENING & VALIDATION\"}\" featuring a small spoon illustration and a gold seal.",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "Food Pun Therapy Session：Generates a humorous 3D illustration of an anthropomorphic object in therapy, perfect for visual puns and mental health memes.",
+      "subject": "产品",
+      "scene": "空间/场景",
+      "composition": [],
+      "style": [
+        "3d"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "inspiration",
+      "qualityLabel": "灵感型",
+      "bestUse": "空间概念、建筑场景、游戏场景、产品场景盒子",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 空间/场景 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[景别/角度/版式层级/主体位置]。\n\nVisual style:\n[参考风格: 3d]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "15563",
+      "15328",
+      "13614",
+      "13734",
+      "15518",
+      "14503"
+    ]
+  }
+}

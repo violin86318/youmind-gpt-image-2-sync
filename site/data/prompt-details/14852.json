@@ -1,0 +1,47 @@
+{
+  "id": "14852",
+  "prompt": "A futuristic luxury skincare-style advertising poster in a pale icy blue monochrome palette, designed like a high-end tech-beauty campaign. The composition is vertical and airy with soft glowing light, misty gradients, translucent particle effects, and a clean editorial layout. On the left side, a young woman in a flowing white sleeveless dress is shown from the shoulders up in side profile, head tilted back as if inhaling fresh air, with dark windswept hair streaming outward. Her face is obscured by a plain square censor block. Fine luminous network lines and sparkling dots flow from her neck and chest toward the right, suggesting digital cleansing and connectivity. On the right side, a tall matte-white spray bottle floats upright, labeled \"SECURE-IP\" and \"IP ADDRESS CLEANSER,\" with smaller product copy beneath and a subtle premium cosmetic finish. Behind and around the bottle, branching translucent stems rise like biotech coral or neural fibers, each ending in clear glowing bubbles; several bubbles contain faint tech text such as \"DATA PACKET,\" while nearby micro labels identify features including \"OXYGEN FLOW,\" \"DATA PACKETS,\" \"SECURE ROUTING,\" \"RISK FILTER,\" \"PRIVATE CLEAN,\" and \"CONNECTION PURE.\" In the upper left, small brand text reads \"IP 9OXYGEN TECHNOLOGY.\" A large bold uppercase headline dominates the left-center: \"{argument name=\"headline text\" default=\"BREATHE SECURE. GLOW FREE.\"}\" with a smaller subheading below reading \"for risk-free connections.\" Along the bottom is a row of 4 minimalist icon-and-text feature blocks, evenly spaced: 1) shield icon with the heading \"CLEANSE YOUR IP\" and short supporting copy, 2) wifi icon with the heading \"SECURE CONNECTIONS\" and short supporting copy, 3) leaf icon with the heading \"BREATHE FREELY\" and short supporting copy, 4) share/network icon with the heading \"GLOW CONFIDENTLY\" and short supporting copy. At the lower right, add a paragraph of marketing copy about constant connection and digital cleansing, ending with the tagline \"BREATHE. CONNECT. GLOW.\" At the lower left, include a circular IP logo and the brand line \"SECURE-IP\" with a small subtitle like \"OXYGEN FOR YOUR DIGITAL LIFE.\" Overall style: surreal product advertising, premium editorial poster, clean sans-serif typography, soft bloom, translucent glass spheres, elegant sci-fi wellness branding, ultra-detailed, polished, magazine-quality layout.",
+  "translatedPrompt": "一款采用冰蓝色单色调的未来感奢华护肤风格广告海报，设计灵感源自高端科技美妆营销。构图垂直且通透，配以柔和的微光、朦胧的渐变、半透明的粒子效果以及简洁的编辑排版。左侧展示了一位身着白色无袖连衣裙的年轻女性，侧面半身像，她头部后仰，仿佛在呼吸新鲜空气，深色的长发随风飘动。她的面部被一个简洁的方形遮挡块覆盖。精细的发光网格线条和闪烁的光点从她的颈部和胸部向右侧流动，暗示着数字净化与连接。右侧是一个直立悬浮的高挑哑光白色喷雾瓶，瓶身标注有“SECURE-IP”和“IP ADDRESS CLEANSER”，下方配有较小的产品文案，呈现出高级化妆品的质感。瓶身周围环绕着分叉的半透明茎秆，如同生物科技珊瑚或神经纤维，末端连接着清晰的发光气泡；部分气泡中隐约可见“DATA PACKET”等科技文字，附近的微型标签标注了包括“OXYGEN FLOW”、“DATA PACKETS”、“SECURE ROUTING”、“RISK FILTER”、“PRIVATE CLEAN”和“CONNECTION PURE”在内的功能特性。左上方印有小型品牌文字“IP 9OXYGEN TECHNOLOGY”。左中部是一个醒目的大号加粗大写标题：“{argument name=\"headline text\" default=\"BREATHE SECURE. GLOW FREE.\"}”，下方配有较小的副标题“for risk-free connections”。底部排列着 4 个间距均匀的极简图标加文字功能块：1) 盾牌图标，标题为“CLEANSE YOUR IP”及简短说明；2) Wi-Fi 图标，标题为“SECURE CONNECTIONS”及简短说明；3) 叶片图标，标题为“BREATHE FREELY”及简短说明；4) 分享/网络图标，标题为“GLOW CONFIDENTLY”及简短说明。右下角添加一段关于持续连接与数字净化的营销文案，结尾处使用口号“BREATHE. CONNECT. GLOW.”。左下角包含一个圆形 IP 标志以及品牌行“SECURE-IP”，并配有小标题“OXYGEN FOR YOUR DIGITAL LIFE”。整体风格：超现实产品广告、高端编辑海报、简洁无衬线字体、柔和光晕、半透明玻璃球体、优雅科幻健康品牌感、超高细节、精致、杂志级排版。",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "未来感 SECURE-IP 广告海报：一款高端科幻健康主题广告海报，融合了经过遮挡处理的女性肖像、悬浮的科技美妆喷雾瓶以及简洁的排版设计，适用于品牌推广或产品营销样机。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "vertical"
+      ],
+      "style": [
+        "editorial",
+        "minimalist",
+        "sci-fi",
+        "luxury",
+        "premium"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明；文字是主视觉",
+      "constraints": [
+        "文字可读性/准确拼写"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "活动海报、品牌主视觉、展览宣传、社媒封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: vertical]。\n\nVisual style:\n[参考风格: editorial, minimalist, sci-fi, luxury, premium]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明；文字是主视觉。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14887",
+      "15243",
+      "15430",
+      "14850",
+      "14851",
+      "15085"
+    ]
+  }
+}

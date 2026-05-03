@@ -1,0 +1,44 @@
+{
+  "id": "13542",
+  "prompt": "{\n  \"type\": \"3D mascot brand guideline sheet\",\n  \"style\": \"soft 3D render, claymation, pastel UI, clean corporate SaaS aesthetic\",\n  \"mascot\": {\n    \"name\": \"{argument name=\\\"mascot name\\\" default=\\\"Nori\\\"}\",\n    \"shape\": \"{argument name=\\\"mascot shape\\\" default=\\\"soft teardrop ghost\\\"}\",\n    \"color\": \"{argument name=\\\"mascot color\\\" default=\\\"pastel purple\\\"}\",\n    \"texture\": \"matte plastic, soft clay\"\n  },\n  \"layout\": {\n    \"header_left\": {\n      \"tag\": \"MASCOTTE {argument name=\\\"brand name\\\" default=\\\"NOWIE\\\"}\",\n      \"title\": \"{argument name=\\\"mascot name\\\" default=\\\"Nori\\\"}\",\n      \"subtitle\": \"LE COMPAGNON QUI SIMPLIFIE VOTRE {argument name=\\\"business type\\\" default=\\\"BUSINESS BEAUTÉ\\\"}.\",\n      \"main_image\": \"large 3D render of mascot floating with sparkles\"\n    },\n    \"features_list\": {\n      \"position\": \"mid-left\",\n      \"count\": 5,\n      \"items\": [\n        { \"icon\": \"calendar\", \"title\": \"Il organise\" },\n        { \"icon\": \"bell\", \"title\": \"Il réduit les no-show\" },\n        { \"icon\": \"credit card\", \"title\": \"Il sécurise vos paiements\" },\n        { \"icon\": \"heart\", \"title\": \"Il fidélise\" },\n        { \"icon\": \"bar chart\", \"title\": \"Il booste votre activité\" }\n      ]\n    },\n    \"use_cases_grid\": {\n      \"position\": \"top-right to mid-right\",\n      \"layout\": \"3x3 grid\",\n      \"count\": 9,\n      \"items\": [\n        { \"label\": \"NOUVEAU RENDEZ-VOUS\", \"prop\": \"calendar\" },\n        { \"label\": \"RAPPEL ENVOYÉ\", \"prop\": \"notification bell\" },\n        { \"label\": \"PAIEMENT ENCAISSÉ\", \"prop\": \"euro coin\" },\n        { \"label\": \"CLIENT FIDÉLISÉ\", \"prop\": \"floating heart\" },\n        { \"label\": \"AVIS 5 ÉTOILES\", \"prop\": \"5-star rating bar\" },\n        { \"label\": \"STATS EN HAUSSE\", \"prop\": \"bar chart with upward arrow\" },\n        { \"label\": \"CAMPAGNE LANCÉE\", \"prop\": \"megaphone\" },\n        { \"label\": \"CONTENU CRÉÉ\", \"prop\": \"image placeholder icon\" },\n        { \"label\": \"BESOIN D'AIDE ?\", \"prop\": \"chat bubble\" }\n      ]\n    },\n    \"color_palette\": {\n      \"title\": \"PALETTE DE COULEURS\",\n      \"position\": \"bottom-left\",\n      \"count\": 7,\n      \"swatches\": [\"#C9B6F4\", \"#EDE7FF\", \"#F7F1ED\", \"#1F1F1F\", \"#FFC857\", \"#FF7A6A\", \"#6FA8FF\"]\n    },\n    \"expressions\": {\n      \"title\": \"EXPRESSIONS\",\n      \"position\": \"bottom-right\",\n      \"count\": 5,\n      \"labels\": [\"HEUREUX\", \"EXCITÉ\", \"COMPLICE\", \"CONCENTRÉ\", \"BIENVEILLANT\"]\n    },\n    \"footer\": {\n      \"text\": \"{argument name=\\\"mascot name\\\" default=\\\"Nori\\\"} incarne {argument name=\\\"brand name\\\" default=\\\"Nowie\\\"} : simple, intelligent, bienveillant et toujours tourné vers vos résultats.\"\n    }\n  }\n}",
+  "translatedPrompt": "{\n  \"type\": \"3D 吉祥物品牌指南表\",\n  \"style\": \"柔和 3D 渲染，定格动画风格，柔和 UI，简洁的企业级 SaaS 美学\",\n  \"mascot\": {\n    \"name\": \"{argument name=\\\"mascot name\\\" default=\\\"Nori\\\"}\",\n    \"shape\": \"{argument name=\\\"mascot shape\\\" default=\\\"柔和水滴幽灵\\\"}\",\n    \"color\": \"{argument name=\\\"mascot color\\\" default=\\\"柔和紫色\\\"}\",\n    \"texture\": \"哑光塑料，软陶质感\"\n  },\n  \"layout\": {\n    \"header_left\": {\n      \"tag\": \"吉祥物 {argument name=\\\"brand name\\\" default=\\\"NOWIE\\\"}\",\n      \"title\": \"{argument name=\\\"mascot name\\\" default=\\\"Nori\\\"}\",\n      \"subtitle\": \"让您的 {argument name=\\\"business type\\\" default=\\\"美业业务\\\"} 变得更简单的伙伴。\",\n      \"main_image\": \"带有闪光效果的吉祥物悬浮大型 3D 渲染图\"\n    },\n    \"features_list\": {\n      \"position\": \"中左\",\n      \"count\": 5,\n      \"items\": [\n        { \"icon\": \"calendar\", \"title\": \"高效组织\" },\n        { \"icon\": \"bell\", \"title\": \"减少爽约\" },\n        { \"icon\": \"credit card\", \"title\": \"保障支付安全\" },\n        { \"icon\": \"heart\", \"title\": \"提升客户忠诚度\" },\n        { \"icon\": \"bar chart\", \"title\": \"助力业务增长\" }\n      ]\n    },\n    \"use_cases_grid\": {\n      \"position\": \"右上至中右\",\n      \"layout\": \"3x3 网格\",\n      \"count\": 9,\n      \"items\": [\n        { \"label\": \"新预约\", \"prop\": \"calendar\" },\n        { \"label\": \"提醒已发送\", \"prop\": \"notification bell\" },\n        { \"label\": \"支付已完成\", \"prop\": \"euro coin\" },\n        { \"label\": \"客户已留存\", \"prop\": \"floating heart\" },\n        { \"label\": \"5 星好评\", \"prop\": \"5-star rating bar\" },\n        { \"label\": \"数据增长\", \"prop\": \"bar chart with upward arrow\" },\n        { \"label\": \"活动已发布\", \"prop\": \"megaphone\" },\n        { \"label\": \"内容已创建\", \"prop\": \"image placeholder icon\" },\n        { \"label\": \"需要帮助？\", \"prop\": \"chat bubble\" }\n      ]\n    },\n    \"color_palette\": {\n      \"title\": \"配色方案\",\n      \"position\": \"底左\",\n      \"count\": 7,\n      \"swatches\": [\"#C9B6F4\", \"#EDE7FF\", \"#F7F1ED\", \"#1F1F1F\", \"#FFC857\", \"#FF7A6A\", \"#6FA8FF\"]\n    },\n    \"expressions\": {\n      \"title\": \"表情\",\n      \"position\": \"底右\",\n      \"count\": 5,\n      \"labels\": [\"开心\", \"兴奋\", \"默契\", \"专注\", \"友善\"]\n    },\n    \"footer\": {\n      \"text\": \"{argument name=\\\"mascot name\\\" default=\\\"Nori\\\"} 是 {argument name=\\\"brand name\\\" default=\\\"Nowie\\\"} 的化身：简单、智能、友善，始终致力于为您带来成果。\"\n    }\n  }\n}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "3D SaaS 吉祥物品牌指南：为 3D 吉祥物生成一份全面的品牌指南表，包含用例网格、表情和配色方案。",
+      "subject": "产品",
+      "scene": "海报/封面",
+      "composition": [
+        "grid"
+      ],
+      "style": [
+        "3d"
+      ],
+      "lightingCamera": [],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "元素位置与数量控制"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: grid]。\n\nVisual style:\n[参考风格: 3d]。\n\nLighting and camera:\n[光线/镜头/景深/质感]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "13955",
+      "15646",
+      "14597",
+      "15385",
+      "15456",
+      "14869"
+    ]
+  }
+}

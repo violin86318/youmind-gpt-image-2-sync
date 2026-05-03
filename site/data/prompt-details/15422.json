@@ -1,0 +1,49 @@
+{
+  "id": "15422",
+  "prompt": "{\"type\":\"cinematic storyboard sheet\",\"style\":\"professional film previsualization board, black presentation background, thin white panel borders, realistic photographic frames, polished Chinese-language layout, modern drama tone\",\"aspect_ratio\":\"16:9\",\"project\":\"15-second short drama storyboard about a secret office marriage\",\"layout\":{\"sections\":[{\"title\":\"镜头 1\",\"position\":\"top-left\",\"count\":1,\"labels\":[\"镜头 1\"]},{\"title\":\"镜头 2\",\"position\":\"top-center\",\"count\":1,\"labels\":[\"镜头 2\"]},{\"title\":\"镜头 3\",\"position\":\"top-right\",\"count\":2,\"labels\":[\"第二天早上 电梯里\"]},{\"title\":\"镜头说明\",\"position\":\"bottom-left\",\"count\":1,\"labels\":[\"镜头说明\"]},{\"title\":\"台词字幕\",\"position\":\"bottom-center\",\"count\":1,\"labels\":[\"台词字幕\"]},{\"title\":\"机位示意图\",\"position\":\"bottom-right\",\"count\":1,\"labels\":[\"机位示意图\"]}],\"top_row_panels\":3,\"bottom_row_panels\":3},\"shots\":[{\"title\":\"镜头 1\",\"scene\":\"modern office during daytime with floor-to-ceiling windows and a faint city skyline, desk covered with scattered documents, laptop, coffee cup, office shelves in background\",\"composition\":\"medium-wide shot, woman standing on the left leaning aggressively over the desk toward a seated man on the right\",\"characters\":[{\"role\":\"woman\",\"wardrobe\":\"black blazer over white blouse, office attire, long dark ponytail\",\"action\":\"slams or thrusts papers onto the desk in anger\"},{\"role\":\"man\",\"wardrobe\":\"dark business suit and tie\",\"action\":\"sits back in office chair looking up at her calmly\"}],\"dialogue_overlays\":[{\"speaker\":\"女主\",\"color\":\"red\",\"text\":\"这方案改了8遍！ 你故意的？\"},{\"speaker\":\"男主\",\"color\":\"blue\",\"text\":\"不满意？ 今晚继续改\"}],\"mood\":\"workplace argument, tense, confrontational\"},{\"title\":\"镜头 2\",\"scene\":\"warm apartment living room connected to a softly lit kitchen at night, amber practical lighting, cozy sofa, intimate domestic atmosphere\",\"composition\":\"medium shot centered on a seated woman on the sofa with a man standing behind her\",\"characters\":[{\"role\":\"man\",\"wardrobe\":\"dark long-sleeve shirt and light beige apron\",\"action\":\"gently massages her shoulders\"},{\"role\":\"woman\",\"wardrobe\":\"soft pink knit loungewear cardigan and pants\",\"action\":\"sits relaxed on sofa, slightly turned toward him\"}],\"dialogue_overlays\":[{\"speaker\":\"男主\",\"color\":\"white\",\"text\":\"老婆辛苦啦， 晚上给你做红烧肉\"},{\"speaker\":\"女主\",\"color\":\"white\",\"text\":\"算你识相\"}],\"mood\":\"secret married life, affectionate and warm\"},{\"title\":\"镜头 3\",\"subheading\":\"第二天早上 电梯里\",\"scene\":\"corporate elevator interior with metallic walls and bright overhead lighting\",\"composition\":\"split into 2 stacked frames showing the same elevator situation from a similar angle\",\"frame_count\":2,\"frames\":[{\"position\":\"top\",\"characters\":[{\"role\":\"man 1\",\"wardrobe\":\"dark suit, seen from left foreground in profile\"},{\"role\":\"coworker\",\"wardrobe\":\"dark suit and tie, standing in center facing forward\"},{\"role\":\"woman\",\"wardrobe\":\"light gray blazer, standing at right in profile\"}],\"dialogue_overlay\":{\"speaker\":\"同事\",\"color\":\"white\",\"text\":\"早！\"},\"mood\":\"awkward politeness\"},{\"position\":\"bottom\",\"characters\":[{\"role\":\"man 1\",\"wardrobe\":\"dark suit, left foreground\"},{\"role\":\"coworker\",\"wardrobe\":\"dark suit and tie, center\"},{\"role\":\"woman\",\"wardrobe\":\"light gray blazer, right foreground\"}],\"dialogue_overlay\":{\"speaker\":\"两人\",\"color\":\"white\",\"text\":\"早…\"},\"mood\":\"embarrassed, restrained\"}]}],\"bottom_notes\":{\"镜头说明\":\"原本亲密的气氛被打断，瞬间切换回职场上下级关系，三人尴尬的气氛通过表情和距离展现。\",\"台词字幕\":[\"同事：早！\",\"两人：早…\"],\"机位示意图\":{\"diagram\":\"simple white rectangular camera blocking diagram on black background\",\"count\":3,\"labels\":[\"1\",\"2\",\"3\"],\"positions\":{\"1\":\"left interior\",\"2\":\"top center\",\"3\":\"right interior\"}}},\"rendering\":{\"language\":\"Chinese text for all visible headings and captions\",\"image_quality\":\"high-resolution storyboard presentation board\",\"lighting\":\"cool neutral office light in shot 1, warm cozy tungsten light in shot 2, bright elevator light in shot 3\",\"camera\":\"cinematic live-action stills\",\"faces\":\"softly obscured or de-emphasized, focus on blocking and mood rather than identity\"}}",
+  "translatedPrompt": "{\"type\":\"电影感分镜表\",\"style\":\"专业电影预演项目，黑色演示背景，白色细边框，写实摄影画幅，精致的中文排版，现代短剧风格\",\"aspect_ratio\":\"16:9\",\"project\":\"15 秒办公室隐婚短剧分镜\",\"layout\":{\"sections\":[{\"title\":\"镜头 1\",\"position\":\"top-left\",\"count\":1,\"labels\":[\"镜头 1\"]},{\"title\":\"镜头 2\",\"position\":\"top-center\",\"count\":1,\"labels\":[\"镜头 2\"]},{\"title\":\"镜头 3\",\"position\":\"top-right\",\"count\":2,\"labels\":[\"第二天早上 电梯里\"]},{\"title\":\"镜头说明\",\"position\":\"bottom-left\",\"count\":1,\"labels\":[\"镜头说明\"]},{\"title\":\"台词字幕\",\"position\":\"bottom-center\",\"count\":1,\"labels\":[\"台词字幕\"]},{\"title\":\"机位示意图\",\"position\":\"bottom-right\",\"count\":1,\"labels\":[\"机位示意图\"]}],\"top_row_panels\":3,\"bottom_row_panels\":3},\"shots\":[{\"title\":\"镜头 1\",\"scene\":\"现代办公室，白天，落地窗外隐约可见城市天际线，桌上散落着文件、笔记本电脑、咖啡杯，背景为办公架\",\"composition\":\"中远景，女性站在左侧，身体前倾，气势汹汹地对着坐在右侧的男性\",\"characters\":[{\"role\":\"女性\",\"wardrobe\":\"白色衬衫外搭黑色西装，职业装，深色长马尾\",\"action\":\"愤怒地将文件拍在桌上\"},{\"role\":\"男性\",\"wardrobe\":\"深色商务西装配领带\",\"action\":\"靠在办公椅上，冷静地抬头看着她\"}],\"dialogue_overlays\":[{\"speaker\":\"女主\",\"color\":\"red\",\"text\":\"这方案改了 8 遍！ 你故意的？\"},{\"speaker\":\"男主\",\"color\":\"blue\",\"text\":\"不满意？ 今晚继续改\"}],\"mood\":\"职场争吵，紧张，对峙\"},{\"title\":\"镜头 2\",\"scene\":\"温馨公寓客厅，夜晚，连接着灯光柔和的厨房，琥珀色实用灯光，舒适的沙发，亲密的居家氛围\",\"composition\":\"中景，聚焦于坐在沙发上的女性，男性站在她身后\",\"characters\":[{\"role\":\"男性\",\"wardrobe\":\"深色长袖衬衫，浅米色围裙\",\"action\":\"轻柔地为她按摩肩膀\"},{\"role\":\"女性\",\"wardrobe\":\"柔软的粉色针织家居开衫和长裤\",\"action\":\"放松地坐在沙发上，身体微微转向他\"}],\"dialogue_overlays\":[{\"speaker\":\"男主\",\"color\":\"white\",\"text\":\"老婆辛苦啦， 晚上给你做红烧肉\"},{\"speaker\":\"女主\",\"color\":\"white\",\"text\":\"算你识相\"}],\"mood\":\"隐婚生活，恩爱温馨\"},{\"title\":\"镜头 3\",\"subheading\":\"第二天早上 电梯里\",\"scene\":\"公司电梯内部，金属墙面，明亮的顶灯\",\"composition\":\"分为上下两个画幅，从相似角度展示同一电梯场景\",\"frame_count\":2,\"frames\":[{\"position\":\"top\",\"characters\":[{\"role\":\"男 1\",\"wardrobe\":\"深色西装，左前景侧面视角\"},{\"role\":\"同事\",\"wardrobe\":\"深色西装领带，居中面向前方\"},{\"role\":\"女性\",\"wardrobe\":\"浅灰色西装，右侧侧面视角\"}],\"dialogue_overlay\":{\"speaker\":\"同事\",\"color\":\"white\",\"text\":\"早！\"},\"mood\":\"尴尬的客套\"},{\"position\":\"bottom\",\"characters\":[{\"role\":\"男 1\",\"wardrobe\":\"深色西装，左前景\"},{\"role\":\"同事\",\"wardrobe\":\"深色西装领带，居中\"},{\"role\":\"女性\",\"wardrobe\":\"浅灰色西装，右前景\"}],\"dialogue_overlay\":{\"speaker\":\"两人\",\"color\":\"white\",\"text\":\"早…\"},\"mood\":\"尴尬，克制\"}]}],\"bottom_notes\":{\"镜头说明\":\"原本亲密的气氛被打断，瞬间切换回职场上下级关系，三人尴尬的气氛通过表情和距离展现。\",\"台词字幕\":[\"同事：早！\",\"两人：早…\"],\"机位示意图\":{\"diagram\":\"黑色背景上的白色矩形机位示意图\",\"count\":3,\"labels\":[\"1\",\"2\",\"3\"],\"positions\":{\"1\":\"左侧内部\",\"2\":\"顶部中心\",\"3\":\"右侧内部\"}}},\"rendering\":{\"language\":\"所有可见标题和说明均为中文\",\"image_quality\":\"高分辨率分镜演示页\",\"lighting\":\"镜头 1 为冷色调中性办公光，镜头 2 为暖色调温馨钨丝灯光，镜头 3 为明亮的电梯光\",\"camera\":\"电影感实拍剧照\",\"faces\":\"面部柔化或弱化处理，重点在于构图和氛围而非人物身份\"}}",
+  "analysis": {
+    "breakdown": {
+      "creativeCore": "中文短剧分镜表：一份精致的三镜头中文短剧分镜演示页，适用于办公室隐婚题材短剧，可用于在动画制作前规划 YouMind AI 视频场景与台词。",
+      "subject": "人物",
+      "scene": "海报/封面",
+      "composition": [
+        "centered",
+        "wide shot"
+      ],
+      "style": [
+        "realistic",
+        "cinematic"
+      ],
+      "lightingCamera": [
+        "camera"
+      ],
+      "text": "包含标注/说明",
+      "constraints": [
+        "文字可读性/准确拼写",
+        "过度真实导致细节瑕疵显眼"
+      ],
+      "modules": [
+        "主体",
+        "构图",
+        "风格",
+        "光线/镜头",
+        "文字",
+        "约束"
+      ],
+      "qualityTier": "standard",
+      "qualityLabel": "标准型",
+      "bestUse": "电影海报、音乐封面、书籍封面、播客封面",
+      "whySelected": ""
+    },
+    "copyTemplate": "Create a 海报/封面 image for [用途/受众].\n\nMain subject:\n[主体]，[数量/状态/动作]，[关键外观/材质/身份]。\n\nScene:\n[地点/环境]，[时间/天气/时代]，[背景元素]。\n\nComposition:\n[参考构图: centered, wide shot]。\n\nVisual style:\n[参考风格: realistic, cinematic]。\n\nLighting and camera:\n[参考光线镜头: camera]。\n\nText requirements:\n包含标注/说明。\n\nQuality constraints:\nclean, coherent, polished, readable hierarchy, no random text, no visual clutter.",
+    "similarPromptIds": [
+      "14857",
+      "14928",
+      "15687",
+      "15731",
+      "14522",
+      "15766"
+    ]
+  }
+}
